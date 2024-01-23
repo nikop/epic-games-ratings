@@ -10,12 +10,12 @@ Rating: 4.20 (Ranked 975)
 | Enlisted | 76.00% | ~2,724 |
 | Maybe Engage a Little | 71.00% | ~2,545 |
 | No More Names | 55.00% | ~1,971 |
-| Initiate | 41.00% | ~1,469 |
+| Initiate | 42.00% | ~1,505 |
 | Thrada-Kul | 38.00% | ~1,362 |
 | Gravity-Challenged Rocks | 32.00% | ~1,147 |
 | Soldier | 28.00% | ~1,004 |
 | All the Major Food Groups | 27.00% | ~968 |
-| Socialite | 25.00% | ~896 |
+| Socialite | 26.00% | ~932 |
 | Beggars Would Ride | 25.00% | ~896 |
 | Control is an Illusion | 24.00% | ~860 |
 | The Means to Save It | 21.00% | ~753 |
@@ -172,9 +172,9 @@ Completed: 5 (0.14%) (Ranked 303)
 | 2024-01-22 | 3,582 | 5 |
 | 2024-01-23 | 3,584 | 5 |
 ## Awards
-Max (Quickly Understood Controls): 23  (Ranked 565)  
+Max (Quickly Understood Controls): 23  (Ranked 566)  
 Sum: 43 (Ranked 525)  
-Diff (max vs sum): 40  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 23 |

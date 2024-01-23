@@ -5,30 +5,30 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,802 |
-| First Class Student | 29.00% | ~112,195 |
-| Troll with the Punches | 26.00% | ~100,589 |
-| A Keen Sense of Spell | 24.00% | ~92,851 |
-| A Talent for Spending | 20.00% | ~77,376 |
-| That's a Keeper | 19.00% | ~73,507 |
-| Loom for Improvement | 16.00% | ~61,901 |
-| Followed the Butterflies | 15.00% | ~58,032 |
-| The Defender of Dragons | 14.00% | ~54,163 |
-| Challenge Accepted | 14.00% | ~54,163 |
-| The Hallowed Hero | 13.00% | ~50,294 |
-| Coasting Along | 13.00% | ~50,294 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,804 |
+| First Class Student | 29.00% | ~112,197 |
+| Troll with the Punches | 26.00% | ~100,590 |
+| A Keen Sense of Spell | 24.00% | ~92,853 |
+| A Talent for Spending | 20.00% | ~77,377 |
+| That's a Keeper | 19.00% | ~73,508 |
+| Loom for Improvement | 16.00% | ~61,902 |
+| Followed the Butterflies | 15.00% | ~58,033 |
+| The Defender of Dragons | 14.00% | ~54,164 |
+| Challenge Accepted | 14.00% | ~54,164 |
+| The Hallowed Hero | 13.00% | ~50,295 |
+| Coasting Along | 13.00% | ~50,295 |
 | Grappling with a Graphorn | 12.00% | ~46,426 |
 | The One Who Mastered Memories | 12.00% | ~46,426 |
 | The Hero of Hogwarts | 12.00% | ~46,426 |
 | The Spell Master | 11.00% | ~42,557 |
 | Rising From the Ashes | 11.00% | ~42,557 |
-| The Avenging Gazelle | 9.00% | ~34,819 |
-| A Sallow Grave | 9.00% | ~34,819 |
-| Flight the Good Flight | 9.00% | ~34,819 |
-| Raising Expectations | 9.00% | ~34,819 |
-| Beast Friends | 8.00% | ~30,950 |
-| The Root of the Problem | 8.00% | ~30,950 |
-| The Gryffindor in the Graveyard | 8.00% | ~30,950 |
+| The Avenging Gazelle | 9.00% | ~34,820 |
+| A Sallow Grave | 9.00% | ~34,820 |
+| Flight the Good Flight | 9.00% | ~34,820 |
+| Raising Expectations | 9.00% | ~34,820 |
+| Beast Friends | 8.00% | ~30,951 |
+| The Root of the Problem | 8.00% | ~30,951 |
+| The Gryffindor in the Graveyard | 8.00% | ~30,951 |
 | The Toast of the Town | 7.00% | ~27,082 |
 | Third Time's a Charm | 7.00% | ~27,082 |
 | The Seeker of Knowledge | 6.00% | ~23,213 |
@@ -39,7 +39,7 @@ Rating: 4.75 (Ranked 151)
 | The Auror's Apprentice | 4.00% | ~15,475 |
 | Room with a View | 4.00% | ~15,475 |
 | The Intrepid Explorer | 4.00% | ~15,475 |
-| Floo Around the World | 3.00% | ~11,606 |
+| Floo Around the World | 3.00% | ~11,607 |
 | The Good Samaritan | 2.00% | ~7,738 |
 | Savvy Spender | 2.00% | ~7,738 |
 | Rise to the Challenges | 2.00% | ~7,738 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,708 |
 | Collector's Edition | 0.40% | ~1,548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,880 (Ranked 56)  
+Progressed: 386,886 (Ranked 56)  
 Completed: 583 (0.15%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 583 (0.15%) (Ranked 300)
 | 2024-01-20 | 386,230 | 580 |
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
-| 2024-01-23 | 386,880 | 583 |
+| 2024-01-23 | 386,886 | 583 |
 ## Awards
 Max (Character Customization): 32,228  (Ranked 16)  
 Sum: 66,187 (Ranked 24)  

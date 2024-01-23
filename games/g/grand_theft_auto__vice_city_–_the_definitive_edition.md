@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 571)
 | Kingpin | 0.70% | ~117 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,650 (Ranked 172)  
-Completed: 109 (0.65%) (Ranked 210)  
+Completed: 109 (0.65%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

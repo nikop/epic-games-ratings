@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -467,7 +467,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15209,
+  "EOS_Progressed": 15210,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
@@ -11202,6 +11202,11 @@
       "Time": "2024-01-23T03:11:46.3808999+00:00",
       "NumProgressed": 15209,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-23T04:10:27.9580226+00:00",
+      "NumProgressed": 15210,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11286,7 +11291,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8365
+      "UsersEstimate": 8366
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11294,7 +11299,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "GarbageMan",
@@ -11406,7 +11411,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3954
+      "UsersEstimate": 3955
     },
     {
       "ID": "TheQuarterback",
@@ -11485,7 +11490,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15209,
+      "Progressed": 15210,
       "Completed": 28
     }
   ],
@@ -11493,8 +11498,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-21T01:57:02.9385793+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:11:46.3808995+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:10:27.9580224+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:00:29.0635991+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:11:46.3809709+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:59:31.6423526+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:10:27.9580758+00:00"
 }

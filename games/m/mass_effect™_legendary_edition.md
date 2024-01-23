@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,139 |
-| Spectre Inductee | 66.00% | ~3,035 |
-| Medal of Exploration I | 56.00% | ~2,575 |
-| Recruit | 53.00% | ~2,437 |
-| Search and Rescue | 51.00% | ~2,345 |
+| Distinguished Service Medal | 90.00% | ~4,141 |
+| Spectre Inductee | 66.00% | ~3,037 |
+| Medal of Exploration I | 56.00% | ~2,577 |
+| Recruit | 53.00% | ~2,439 |
+| Search and Rescue | 51.00% | ~2,347 |
 | Quarian Ally | 49.00% | ~2,254 |
 | Honorarium of Corporate Service | 45.00% | ~2,070 |
 | Medal of Heroism | 44.00% | ~2,024 |
@@ -68,13 +68,13 @@
 | Cat's in the Cradle | 21.00% | ~966 |
 | Doppelganger | 21.00% | ~966 |
 | Mobilizer | 21.00% | ~966 |
-| Untouchable | 20.00% | ~920 |
 | Giant Killer | 20.00% | ~920 |
 | Completionist | 20.00% | ~920 |
 | Mission Accomplished | 20.00% | ~920 |
 | Suicide Mission | 20.00% | ~920 |
 | Against All Odds | 20.00% | ~920 |
 | Agent | 20.00% | ~920 |
+| Untouchable | 19.00% | ~874 |
 | Eye of the Hurricane | 19.00% | ~874 |
 | A House Divided | 19.00% | ~874 |
 | World Shaker | 19.00% | ~874 |
@@ -123,16 +123,16 @@
 | Shield Breaker | 3.00% | ~138 |
 | Incineration Specialist | 3.00% | ~138 |
 | Warp Specialist | 3.00% | ~138 |
-| Gunsmith | 2.00% | ~92 |
 | Insanity II | 2.00% | ~92 |
 | AI Hacking Specialist | 2.00% | ~92 |
 | Tactician | 2.00% | ~92 |
 | Stasis Mastery | 1.00% | ~46 |
+| Gunsmith | 1.00% | ~46 |
 | Neural Shock Specialist | 1.00% | ~46 |
 | Insanity III | 0.90% | ~41 |
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,599 (Ranked 212)  
+Progressed: 4,601 (Ranked 212)  
 Completed: 14 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,4 +262,4 @@ Completed: 14 (0.30%) (Ranked 264)
 | 2024-01-20 | 4,531 | 14 |
 | 2024-01-21 | 4,564 | 14 |
 | 2024-01-22 | 4,594 | 14 |
-| 2024-01-23 | 4,599 | 14 |
+| 2024-01-23 | 4,601 | 14 |

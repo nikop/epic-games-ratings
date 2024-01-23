@@ -8293,9 +8293,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152533,
+  "EOS_Progressed": 152537,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1187,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37798,6 +37798,11 @@
       "Time": "2024-01-23T03:10:42.8102729+00:00",
       "NumProgressed": 152533,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-23T04:09:38.1854828+00:00",
+      "NumProgressed": 152537,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -38185,7 +38190,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "expansion02",
@@ -38281,7 +38286,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15253
+      "UsersEstimate": 15254
     },
     {
       "ID": "gold02",
@@ -38393,7 +38398,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "level02",
@@ -38704,15 +38709,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152533,
+      "Progressed": 152537,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-22T09:03:38.5579473+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:10:42.8102725+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:09:38.1854825+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:04:19.7066585+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:10:42.8105504+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:03:34.6523419+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:09:38.1856916+00:00"
 }

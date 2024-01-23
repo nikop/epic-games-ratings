@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -592,9 +592,9 @@
       "ID": "ACH_PERFECTDODGE",
       "SetID": "ch874lb",
       "Name": "You can\u0027t fool me!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_RESOURCES",
@@ -711,8 +711,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:07:55.888197+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:06:24.7649058+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.7083921+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:03:24.1221181+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:07:55.8882232+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:02:52.8448651+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:06:24.7649294+00:00"
 }

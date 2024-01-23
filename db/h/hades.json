@@ -6664,9 +6664,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 725828,
+  "EOS_Progressed": 725829,
   "EOS_Completed": 6629,
-  "EOS_NewPlayers": 1168,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -37219,6 +37219,11 @@
       "Time": "2024-01-23T03:11:49.7034096+00:00",
       "NumProgressed": 725828,
       "NumCompleted": 6629
+    },
+    {
+      "Time": "2024-01-23T04:10:30.6554872+00:00",
+      "NumProgressed": 725829,
+      "NumCompleted": 6629
     }
   ],
   "TotalAchievements": 49,
@@ -37294,7 +37299,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 573404
+      "UsersEstimate": 573405
     },
     {
       "ID": "AchClearElysium",
@@ -37302,7 +37307,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 471788
+      "UsersEstimate": 471789
     },
     {
       "ID": "AchClearElysiumEM",
@@ -37334,7 +37339,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 638729
+      "UsersEstimate": 638730
     },
     {
       "ID": "AchCrushedThanatos",
@@ -37382,7 +37387,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 137907
+      "UsersEstimate": 137908
     },
     {
       "ID": "AchFoundSummon",
@@ -37422,7 +37427,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 268556
+      "UsersEstimate": 268557
     },
     {
       "ID": "AchManyCosmetics",
@@ -37454,7 +37459,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 450013
+      "UsersEstimate": 450014
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -37518,7 +37523,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 268556
+      "UsersEstimate": 268557
     },
     {
       "ID": "AchPickedManyHammers",
@@ -37526,7 +37531,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 166940
+      "UsersEstimate": 166941
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -37598,7 +37603,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 166940
+      "UsersEstimate": 166941
     },
     {
       "ID": "AchWellShopItems",
@@ -37606,7 +37611,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 290331
+      "UsersEstimate": 290332
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -37621,15 +37626,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 725828,
+      "Progressed": 725829,
       "Completed": 6629
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2024-01-23T01:50:55.976594+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:11:49.7034091+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:10:30.655487+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.5057206+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:03:09.9761616+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:11:49.7036105+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:02:42.7971719+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:10:30.6556486+00:00"
 }

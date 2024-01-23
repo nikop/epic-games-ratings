@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
     "PcReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126151,
+  "EOS_Progressed": 126161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2728,
+  "EOS_NewPlayers": 2721,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5610,6 +5610,11 @@
       "Time": "2024-01-23T03:05:59.4621944+00:00",
       "NumProgressed": 126151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T04:04:54.6755551+00:00",
+      "NumProgressed": 126161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5686,7 +5691,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13877
+      "UsersEstimate": 13878
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5694,7 +5699,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25230
+      "UsersEstimate": 25232
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5718,7 +5723,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18923
+      "UsersEstimate": 18924
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5774,7 +5779,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10092
+      "UsersEstimate": 10093
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -5886,7 +5891,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -5901,7 +5906,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126151,
+      "Progressed": 126161,
       "Completed": 0
     }
   ],
@@ -5909,8 +5914,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:05:59.4621938+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:04:54.6755548+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:59:37.6299682+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:05:59.4622538+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:58:52.7037425+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:04:54.6756036+00:00"
 }

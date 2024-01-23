@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -491,9 +491,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229073,
+  "EOS_Progressed": 229074,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1067,
+  "EOS_NewPlayers": 1063,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32316,6 +32316,11 @@
       "Time": "2024-01-23T03:09:07.4720696+00:00",
       "NumProgressed": 229073,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T04:08:23.6599172+00:00",
+      "NumProgressed": 229074,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -32327,7 +32332,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 107664
+      "UsersEstimate": 107665
     },
     {
       "ID": "AlekhinesGun",
@@ -32399,7 +32404,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 162642
+      "UsersEstimate": 162643
     },
     {
       "ID": "DoubleCheck",
@@ -32503,7 +32508,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29779
+      "UsersEstimate": 29780
     },
     {
       "ID": "Octopus",
@@ -32511,7 +32516,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29779
+      "UsersEstimate": 29780
     },
     {
       "ID": "PieceCollector",
@@ -32567,7 +32572,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 48105
+      "UsersEstimate": 48106
     },
     {
       "ID": "Stalemate",
@@ -32630,7 +32635,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 229073,
+      "Progressed": 229074,
       "Completed": 2
     }
   ],
@@ -32638,8 +32643,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-10T18:58:03.4906759+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:09:07.4720693+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:08:23.659917+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:03.3233579+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:02:08.6850961+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:09:07.4722546+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:00:44.892003+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:08:23.6600802+00:00"
 }

@@ -26,7 +26,7 @@ Rating: 4.82 (Ranked 69)
 | Accursed Artifacts | 10.00% | ~156 |
 | Lyrical Longing | 10.00% | ~156 |
 | Privateer | 9.00% | ~141 |
-| Fully Decked | 7.00% | ~109 |
+| Fully Decked | 8.00% | ~125 |
 | Corsair | 5.00% | ~78 |
 | Freebooter | 4.00% | ~62 |
 | Marauder | 3.00% | ~47 |

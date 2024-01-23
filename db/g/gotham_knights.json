@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5447,9 +5447,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83190,
+  "EOS_Progressed": 83191,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31232,6 +31232,11 @@
       "Time": "2024-01-23T03:05:20.32252+00:00",
       "NumProgressed": 83190,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-23T04:04:23.914532+00:00",
+      "NumProgressed": 83191,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31331,7 +31336,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12478
+      "UsersEstimate": 12479
     },
     {
       "ID": "CHALLENGES_1",
@@ -31339,7 +31344,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13310
+      "UsersEstimate": 13311
     },
     {
       "ID": "CLAYFACE_1",
@@ -31467,7 +31472,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22461
+      "UsersEstimate": 22462
     },
     {
       "ID": "FREEZE_1_5",
@@ -31571,7 +31576,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12478
+      "UsersEstimate": 12479
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31587,7 +31592,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41595
+      "UsersEstimate": 41596
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31619,7 +31624,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21629
+      "UsersEstimate": 21630
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31730,13 +31735,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83190,
+      "Progressed": 83191,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53470,
+      "Progressed": 53471,
       "Completed": 2680
     }
   ],
@@ -31744,8 +31749,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-22T21:59:03.1947285+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:05:20.3225196+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:04:23.9145317+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:00:41.546043+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:05:20.3227093+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:59:41.7390663+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:04:23.9147115+00:00"
 }

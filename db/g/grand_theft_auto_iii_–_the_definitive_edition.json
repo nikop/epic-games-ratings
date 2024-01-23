@@ -733,7 +733,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12503,
+  "EOS_Progressed": 12504,
   "EOS_Completed": 96,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 5,
@@ -16353,6 +16353,11 @@
       "Time": "2024-01-23T02:33:55.7143628+00:00",
       "NumProgressed": 12503,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-23T04:06:30.1889165+00:00",
+      "NumProgressed": 12504,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 29,
@@ -16364,7 +16369,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10377
+      "UsersEstimate": 10378
     },
     {
       "ID": "ACH02",
@@ -16388,7 +16393,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4877
     },
     {
       "ID": "ACH05",
@@ -16492,7 +16497,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACH18",
@@ -16548,7 +16553,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACH25",
@@ -16595,7 +16600,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12503,
+      "Progressed": 12504,
       "Completed": 96
     }
   ],
@@ -16603,8 +16608,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:08:02.9689146+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:06:30.1889163+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:57:42.5144966+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:08:02.9690226+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:57:24.6936694+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:06:30.1889974+00:00"
 }

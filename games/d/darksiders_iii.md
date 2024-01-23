@@ -38,7 +38,7 @@ Number of Ratings: 116  (23.09.2022)
 | Cleanup Crew | 26.00% | ~176 |
 | Seeing Red | 26.00% | ~176 |
 | Demon Meddler | 25.00% | ~169 |
-| Egomaniac | 24.00% | ~162 |
+| Egomaniac | 25.00% | ~169 |
 | Maximum Capacity | 23.00% | ~156 |
 | Protector of Humanity | 23.00% | ~156 |
 | Everybody Wants to Rule the World | 23.00% | ~156 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -579,7 +579,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6539,
+  "EOS_Progressed": 6540,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -10254,6 +10254,11 @@
       "Time": "2024-01-22T22:04:51.4543826+00:00",
       "NumProgressed": 6539,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T04:05:35.855575+00:00",
+      "NumProgressed": 6540,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10321,7 +10326,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10369,7 +10374,7 @@
       "Name": "Regicide",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -10377,7 +10382,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10473,7 +10478,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10487,9 +10492,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2224
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10497,7 +10502,7 @@
       "Name": "Living Nightmare",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10521,7 +10526,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10545,7 +10550,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10561,7 +10566,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10569,7 +10574,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10609,7 +10614,7 @@
       "Name": "The More The Merrier",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10617,14 +10622,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6539,
+      "Progressed": 6540,
       "Completed": 3
     }
   ],
@@ -10632,8 +10637,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:06:52.7828623+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:05:35.8555746+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:59:12.4140458+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:06:52.7829599+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:58:32.9055801+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:05:35.8556567+00:00"
 }

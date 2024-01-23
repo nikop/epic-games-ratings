@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,595 |
+| First Step Into the Knight | 50.00% | ~41,596 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,285 |
 | Loose Ends | 33.00% | ~27,453 |
-| To the Victor Go the Spoils | 27.00% | ~22,461 |
-| Knighthood | 26.00% | ~21,629 |
+| To the Victor Go the Spoils | 27.00% | ~22,462 |
+| Knighthood | 26.00% | ~21,630 |
 | Get ReQ'd | 24.00% | ~19,966 |
 | Whispered Words | 24.00% | ~19,966 |
 | The Batman Family | 22.00% | ~18,302 |
@@ -22,9 +22,9 @@ Rating: 4.19 (Ranked 985)
 | Snow Problem | 19.00% | ~15,806 |
 | The Show Mud Go On | 17.00% | ~14,142 |
 | From Inside Gotham's Walls | 17.00% | ~14,142 |
-| Protector of Gotham | 16.00% | ~13,310 |
-| In Your Element | 15.00% | ~12,478 |
-| Universal Health Scare | 15.00% | ~12,478 |
+| Protector of Gotham | 16.00% | ~13,311 |
+| In Your Element | 15.00% | ~12,479 |
+| Universal Health Scare | 15.00% | ~12,479 |
 | Rock and a Hard Place | 14.00% | ~11,647 |
 | Cooldown | 14.00% | ~11,647 |
 | Voiceless | 14.00% | ~11,647 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 985)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,190 (Ranked 111)  
+Progressed: 83,191 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 135 (0.16%) (Ranked 297)
 | 2024-01-20 | 83,086 | 135 |
 | 2024-01-21 | 83,148 | 135 |
 | 2024-01-22 | 83,185 | 135 |
-| 2024-01-23 | 83,190 | 135 |
+| 2024-01-23 | 83,191 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,243  (Ranked 102)  
 Sum: 5,549 (Ranked 145)  

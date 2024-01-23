@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12095,
+  "EOS_Progressed": 12096,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5892,6 +5892,11 @@
       "Time": "2024-01-23T03:11:52.2445135+00:00",
       "NumProgressed": 12095,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T04:10:32.8882105+00:00",
+      "NumProgressed": 12096,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5920,7 +5925,7 @@
       "Name": "Trade Empire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -6008,7 +6013,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "16_TheRise",
@@ -6040,7 +6045,7 @@
       "Name": "Void Wolf",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6110,9 +6115,9 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1814
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6152,7 +6157,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6160,7 +6165,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6224,7 +6229,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6232,7 +6237,7 @@
       "Name": "No Place Like Home",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6423,7 +6428,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12095,
+      "Progressed": 12096,
       "Completed": 1
     }
   ],
@@ -6431,8 +6436,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:11:52.2445131+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:10:32.8882103+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:58:28.5090934+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:11:52.2445866+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:57:59.8850332+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:10:32.8882712+00:00"
 }

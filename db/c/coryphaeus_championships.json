@@ -2,10 +2,10 @@
   "ID": "3a404cb5028b43b9a553312b7c965b42",
   "Name": "Coryphaeus Championships (Closed Beta)",
   "ProductSlug": "coryphaeus-championships-216f4a",
-  "Ranking_EOS_Progress": 633,
+  "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-12-07T20:30:00+00:00",
     "PcReleaseDate": "2023-12-07T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -114,6 +114,11 @@
       "Time": "2024-01-22T18:10:22.0018731+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T04:10:16.9861957+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-06T12:09:01.1092985+00:00",
@@ -124,7 +129,7 @@
       "ID": "Amateur",
       "SetID": "6gf78k7",
       "Name": "You are an Amateur!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "FirstWin",
       "SetID": "6gf78k7",
       "Name": "You are a Winner!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -165,14 +170,14 @@
     {
       "ID": "6gf78k7",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-09T15:59:00.0551516+00:00",
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:11:32.9165008+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:10:16.9861955+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.7110087+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:59:19.010838+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:11:32.9165071+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:58:37.8093085+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:10:16.9862001+00:00"
 }

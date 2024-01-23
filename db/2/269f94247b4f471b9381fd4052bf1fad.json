@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -349,9 +349,9 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_COSPLAY",
@@ -389,9 +389,9 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_FRIENEMY",
@@ -413,9 +413,9 @@
       "ID": "ACH_HEART-OF-THE-CARDS",
       "SetID": "6lg1p1e",
       "Name": "Heart of the Cards",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_HELPFUL-BREAD",
@@ -461,9 +461,9 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -509,9 +509,9 @@
       "ID": "ACH_PHYSIOLOGUS",
       "SetID": "6lg1p1e",
       "Name": "Physiologus",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_PRIVATE-EYE",
@@ -581,9 +581,9 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ZEN-MASTER",
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:10:36.1182455+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:09:32.730876+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:59:49.2608816+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:10:36.118277+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:59:02.1612492+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:09:32.7308993+00:00"
 }

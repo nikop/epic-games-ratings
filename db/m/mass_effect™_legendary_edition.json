@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4599,
+  "EOS_Progressed": 4601,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8918,6 +8918,11 @@
       "Time": "2024-01-23T03:11:59.7118931+00:00",
       "NumProgressed": 4599,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-23T04:10:39.6236152+00:00",
+      "NumProgressed": 4601,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8968,9 +8973,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 874
     },
     {
       "ID": "achievement_104",
@@ -9048,9 +9053,9 @@
       "ID": "achievement_112",
       "SetID": "d252ncf",
       "Name": "Gunsmith",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_113",
@@ -9154,7 +9159,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2439
     },
     {
       "ID": "achievement_125",
@@ -9258,7 +9263,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2577
     },
     {
       "ID": "achievement_22",
@@ -9330,7 +9335,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4141
     },
     {
       "ID": "achievement_30",
@@ -9346,7 +9351,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3037
     },
     {
       "ID": "achievement_32",
@@ -9362,7 +9367,7 @@
       "Name": "Search and Rescue",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2347
     },
     {
       "ID": "achievement_34",
@@ -9945,19 +9950,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4599,
+      "Progressed": 4601,
       "Completed": 14
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4599,
+      "Progressed": 4601,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:11:59.7118927+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:10:39.623615+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:04:23.3153119+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:11:59.7120779+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:03:37.696434+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:10:39.6237792+00:00"
 }

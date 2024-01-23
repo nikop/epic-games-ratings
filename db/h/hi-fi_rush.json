@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -285,7 +285,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17613,
+  "EOS_Progressed": 17614,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
@@ -13085,6 +13085,11 @@
       "Time": "2024-01-23T03:07:29.8413042+00:00",
       "NumProgressed": 17613,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T04:06:04.6516192+00:00",
+      "NumProgressed": 17614,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13096,7 +13101,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9863
+      "UsersEstimate": 9864
     },
     {
       "ID": "Ach002",
@@ -13224,7 +13229,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Ach018",
@@ -13232,7 +13237,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "Ach019",
@@ -13272,7 +13277,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9863
+      "UsersEstimate": 9864
     },
     {
       "ID": "Ach024",
@@ -13464,7 +13469,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7397
+      "UsersEstimate": 7398
     },
     {
       "ID": "Ach048",
@@ -13512,7 +13517,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "Ach054",
@@ -13584,7 +13589,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "Ach063",
@@ -13663,13 +13668,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17613,
+      "Progressed": 17614,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16134,
+      "Progressed": 16135,
       "Completed": 1931
     }
   ],
@@ -13677,8 +13682,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:07:29.8413038+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:06:04.6516189+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:00:59.6383478+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:07:29.8414223+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:59:54.8497739+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:06:04.6517325+00:00"
 }

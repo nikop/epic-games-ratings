@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29331,
+  "EOS_Progressed": 29332,
   "EOS_Completed": 540,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30386,6 +30386,11 @@
       "Time": "2024-01-23T03:08:30.5017057+00:00",
       "NumProgressed": 29331,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2024-01-23T04:08:10.4700552+00:00",
+      "NumProgressed": 29332,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 20,
@@ -30429,7 +30434,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -30525,7 +30530,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7920
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30556,15 +30561,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29331,
+      "Progressed": 29332,
       "Completed": 540
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:08:30.5017053+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:08:10.4700549+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:01:27.4323099+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:08:30.5018693+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:00:14.8458894+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:08:10.4701739+00:00"
 }

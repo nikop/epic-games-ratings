@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2366,7 +2366,7 @@
   ],
   "EOS_Progressed": 17117,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22241,9 +22241,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -23711,8 +23711,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:12:01.3109563+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:10:41.0640196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:59:31.361413+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:12:01.3120681+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:58:47.5701814+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:10:41.0649563+00:00"
 }

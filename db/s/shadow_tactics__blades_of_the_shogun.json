@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2596,9 +2596,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 227767,
+  "EOS_Progressed": 227769,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1531,
+  "EOS_NewPlayers": 1527,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34591,6 +34591,11 @@
       "Time": "2024-01-23T03:08:42.1794954+00:00",
       "NumProgressed": 227767,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-23T04:08:19.7482661+00:00",
+      "NumProgressed": 227769,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -34602,7 +34607,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 25054
+      "UsersEstimate": 25055
     },
     {
       "ID": "AtheistOx",
@@ -34706,7 +34711,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18221
+      "UsersEstimate": 18222
     },
     {
       "ID": "ItsRainingMen",
@@ -34722,7 +34727,7 @@
       "Name": "Jonin",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18221
+      "UsersEstimate": 18222
     },
     {
       "ID": "Mercyful",
@@ -34850,7 +34855,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18221
+      "UsersEstimate": 18222
     },
     {
       "ID": "TanukiTime",
@@ -34890,7 +34895,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25054
+      "UsersEstimate": 25055
     },
     {
       "ID": "TimeParadox",
@@ -34946,22 +34951,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18221
+      "UsersEstimate": 18222
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 227767,
+      "Progressed": 227769,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-22T18:57:08.7177604+00:00",
-  "LastChanged_Achievements": "2024-01-23T03:08:42.179495+00:00",
+  "LastChanged_Achievements": "2024-01-23T04:08:19.7482658+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:57:37.4939872+00:00",
-  "LastUpdate_Achievements": "2024-01-23T03:08:42.1796358+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:57:20.9915969+00:00",
+  "LastUpdate_Achievements": "2024-01-23T04:08:19.7484589+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,785 |
-| First of Many | 12.00% | ~35,785 |
-| Not Your Average Trait | 10.00% | ~29,821 |
-| Expanding Horizons | 9.00% | ~26,839 |
-| Gleaming the Cube | 8.00% | ~23,857 |
-| Quest for Survival | 8.00% | ~23,857 |
-| Familiar Face | 8.00% | ~23,857 |
-| Boss'n Up | 8.00% | ~23,857 |
-| Trait Chaser | 8.00% | ~23,857 |
+| The Killing Jar | 12.00% | ~35,786 |
+| First of Many | 12.00% | ~35,786 |
+| Not Your Average Trait | 10.00% | ~29,822 |
+| Expanding Horizons | 9.00% | ~26,840 |
+| Gleaming the Cube | 8.00% | ~23,858 |
+| Quest for Survival | 8.00% | ~23,858 |
+| Familiar Face | 8.00% | ~23,858 |
+| Boss'n Up | 8.00% | ~23,858 |
+| Trait Chaser | 8.00% | ~23,858 |
 | Not So Special Now | 7.00% | ~20,875 |
 | Not a Janitor | 7.00% | ~20,875 |
 | Duality | 7.00% | ~20,875 |
@@ -24,30 +24,30 @@ Rating: 4.72 (Ranked 199)
 | Almost There | 6.00% | ~17,893 |
 | Make Some Room | 6.00% | ~17,893 |
 | Good, But Could Be Better! | 6.00% | ~17,893 |
-| Am I Seeing This? | 5.00% | ~14,910 |
-| Chaos | 5.00% | ~14,910 |
-| Traitor | 5.00% | ~14,910 |
-| Power Surge | 5.00% | ~14,910 |
-| The God Gambit | 5.00% | ~14,910 |
-| Dark Designs | 5.00% | ~14,910 |
-| Was This Supposed To Happen? | 5.00% | ~14,910 |
-| The Web | 5.00% | ~14,910 |
-| Scrap Collector | 5.00% | ~14,910 |
-| Forever is a Long Time Coming | 4.00% | ~11,928 |
-| Madman's Paradise | 4.00% | ~11,928 |
-| The Agenda | 4.00% | ~11,928 |
-| Bad Moon Rising | 4.00% | ~11,928 |
-| Strapped | 4.00% | ~11,928 |
-| All These Traits� | 4.00% | ~11,928 |
-| Tall Tales | 3.00% | ~8,946 |
-| Edgelord | 3.00% | ~8,946 |
-| Scrap Hoarder | 3.00% | ~8,946 |
-| Carnage in C-Minor | 3.00% | ~8,946 |
-| The Ultimate Weapon | 3.00% | ~8,946 |
-| No One Should Have All That Power | 3.00% | ~8,946 |
-| Transmutate | 3.00% | ~8,946 |
-| Regicide | 3.00% | ~2,321 |
-| Master of the Dark Arts | 3.00% | ~2,321 |
+| Am I Seeing This? | 5.00% | ~14,911 |
+| Chaos | 5.00% | ~14,911 |
+| Traitor | 5.00% | ~14,911 |
+| Power Surge | 5.00% | ~14,911 |
+| The God Gambit | 5.00% | ~14,911 |
+| Dark Designs | 5.00% | ~14,911 |
+| Was This Supposed To Happen? | 5.00% | ~14,911 |
+| The Web | 5.00% | ~14,911 |
+| Scrap Collector | 5.00% | ~14,911 |
+| Forever is a Long Time Coming | 4.00% | ~11,929 |
+| Madman's Paradise | 4.00% | ~11,929 |
+| The Agenda | 4.00% | ~11,929 |
+| Bad Moon Rising | 4.00% | ~11,929 |
+| Strapped | 4.00% | ~11,929 |
+| All These Traits� | 4.00% | ~11,929 |
+| Tall Tales | 3.00% | ~8,947 |
+| Edgelord | 3.00% | ~8,947 |
+| Scrap Hoarder | 3.00% | ~8,947 |
+| Carnage in C-Minor | 3.00% | ~8,947 |
+| The Ultimate Weapon | 3.00% | ~8,947 |
+| No One Should Have All That Power | 3.00% | ~8,947 |
+| Transmutate | 3.00% | ~8,947 |
+| Regicide | 3.00% | ~2,322 |
+| Master of the Dark Arts | 3.00% | ~2,322 |
 | Crafty | 2.00% | ~5,964 |
 | Ghost in the Machine | 2.00% | ~5,964 |
 | Only Human | 2.00% | ~5,964 |
@@ -61,8 +61,8 @@ Rating: 4.72 (Ranked 199)
 | You Shall Pass | 0.80% | ~619 |
 | A Foul Feast | 0.50% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,209 (Ranked 65)  
-Completed: 1,215 (0.41%) (Ranked 246)  
+Progressed: 298,219 (Ranked 65)  
+Completed: 1,217 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -252,14 +252,14 @@ Completed: 1,215 (0.41%) (Ranked 246)
 | 2024-01-20 | 297,043 | 1,177 |
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
-| 2024-01-23 | 298,209 | 1,215 |
+| 2024-01-23 | 298,219 | 1,217 |
 ## Awards
-Max (Great Boss Battles): 7,439  (Ranked 56)  
-Sum: 17,119 (Ranked 65)  
+Max (Great Boss Battles): 7,507  (Ranked 56)  
+Sum: 17,187 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,439 |
+| This game has Great Boss Battles | 7,507 |
 | This game is Highly Recommended | 1,090 |
 | This game has Diverse Characters | 1,062 |
 | This game is Extremely Fun | 1,019 |
@@ -454,4 +454,4 @@ Diff (max vs sum): -9
 | 2024-01-20 | 4.72 | 7,279 | 16,670 |
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
-| 2024-01-23 | 4.72 | 7,439 | 17,119 |
+| 2024-01-23 | 4.72 | 7,507 | 17,187 |
