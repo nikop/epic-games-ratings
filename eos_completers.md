@@ -4,7 +4,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.83% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.09% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.97% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.41% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.40% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -57,7 +57,7 @@
 | 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.41% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.40% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
-| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.28% |
+| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.27% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.20% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
@@ -77,8 +77,8 @@
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.10% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
-| 78 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.94% |
-| 79 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
+| 78 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
+| 79 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.88% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.79% |
 | 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
 | 81 | [Dungeons 4](games/d/dungeons_4.md) | 4.71% |

@@ -26,7 +26,7 @@
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 591 |
 | 25 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.87 | 0 | 591 |
 | 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 332 | 256 |
-| 25 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 769 | 192 |
+| 25 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 771 | 192 |
 | 25 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 15,196 | 26 |
 | 25 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 23 | 566 |
 | 25 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 170 | 326 |
@@ -81,9 +81,9 @@
 | 69 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 61 | 437 |
 | 69 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 31 | 525 |
 | 69 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 101 | 381 |
-| 69 | [WarmSnow](games/w/warmsnow.md) | 4.82 | 73 | 415 |
+| 69 | [WarmSnow](games/w/warmsnow.md) | 4.82 | 74 | 414 |
 | 83 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.81 | 0 | 591 |
-| 83 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 769 | 192 |
+| 83 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 769 | 193 |
 | 83 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,146 | 118 |
 | 83 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 591 |
 | 83 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 591 |
@@ -136,7 +136,7 @@
 | 132 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.76 | 0 | 591 |
 | 132 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,543 | 24 |
 | 132 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,471 | 99 |
-| 132 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,199 | 151 |
+| 132 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,200 | 151 |
 | 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,401 | 143 |
 | 132 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,063 | 69 |
 | 132 | [Journey](games/j/journey.md) | 4.76 | 0 | 591 |
@@ -220,7 +220,7 @@
 | 207 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 591 |
 | 207 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 591 |
 | 207 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 591 |
-| 207 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,314 | 114 |
+| 207 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,318 | 114 |
 | 207 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 591 |
 | 207 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 591 |
 | 224 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,645 | 87 |
@@ -427,7 +427,7 @@
 | 402 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 343 | 253 |
 | 402 | [Transistor](games/t/transistor.md) | 4.61 | 0 | 591 |
 | 402 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 591 |
-| 402 | [Warframe](games/w/warframe.md) | 4.61 | 20,552 | 23 |
+| 402 | [Warframe](games/w/warframe.md) | 4.61 | 20,594 | 23 |
 | 402 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 692 | 199 |
 | 430 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 533 | 223 |
 | 430 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 95 | 394 |
@@ -512,7 +512,7 @@
 | 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.57 | 37 | 503 |
 | 498 | [Tails of Iron](games/t/tails_of_iron.md) | 4.57 | 0 | 591 |
 | 498 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,972 | 84 |
-| 498 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 22,267 | 22 |
+| 498 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 22,292 | 22 |
 | 498 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,797 | 132 |
 | 498 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 22 | 571 |
 | 516 | [Among Us](games/a/among_us.md) | 4.56 | 3,060 | 105 |
@@ -873,17 +873,17 @@
 | 864 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 538 |
 | 864 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 591 |
 | 873 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.32 | 0 | 591 |
-| 873 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.32 | 59 | 439 |
 | 873 | [Dark Light](games/d/dark_light.md) | 4.32 | 0 | 591 |
 | 873 | [House Party](games/h/house_party.md) | 4.32 | 0 | 591 |
 | 873 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 591 |
 | 873 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.32 | 0 | 591 |
 | 873 | [Paladins](games/p/paladins.md) | 4.32 | 4,042 | 94 |
 | 873 | [Vampyr](games/v/vampyr.md) | 4.32 | 591 | 215 |
-| 881 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 591 |
-| 881 | [Chess Ultra](games/c/chess_ultra.md) | 4.31 | 0 | 591 |
-| 881 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.31 | 73 | 415 |
-| 881 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 998 | 165 |
+| 880 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.31 | 59 | 439 |
+| 880 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 591 |
+| 880 | [Chess Ultra](games/c/chess_ultra.md) | 4.31 | 0 | 591 |
+| 880 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.31 | 73 | 416 |
+| 880 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 998 | 165 |
 | 885 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.30 | 383 | 246 |
 | 885 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.30 | 0 | 591 |
 | 885 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.30 | 0 | 591 |
