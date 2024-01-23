@@ -25,11 +25,11 @@
 | 23 | [Overloop](games/o/overloop.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.24% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.69% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.80% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.33% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.32% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -50,7 +50,7 @@
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.82% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.81% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
@@ -73,8 +73,8 @@
 | 71 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
-| 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
+| 75 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
 | 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.08% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
 | 78 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
@@ -85,9 +85,9 @@
 | 83 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
-| 84 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.44% |
-| 87 | [JARS](games/j/jars.md) | 4.42% |
-| 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
+| 86 | [JARS](games/j/jars.md) | 4.42% |
+| 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
+| 87 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.40% |
 | 89 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 90 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.20% |
 | 91 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19% |
@@ -169,20 +169,20 @@
 | 167 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.21% |
 | 168 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 169 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
+| 170 | [Adios](games/a/adios.md) | 1.13% |
 | 170 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
-| 171 | [Adios](games/a/adios.md) | 1.12% |
-| 171 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
-| 171 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.12% |
+| 172 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
+| 172 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.12% |
 | 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.08% |
 | 174 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 174 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
 | 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.06% |
 | 178 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
 | 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
-| 180 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.03% |
 | 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
-| 182 | [Sable](games/s/sable.md) | 1.02% |
-| 182 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.02% |
+| 181 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.02% |
+| 181 | [Sable](games/s/sable.md) | 1.02% |
+| 181 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.02% |
 | 184 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
 | 184 | [Lemon Cake](games/l/lemon_cake.md) | 0.99% |
 | 186 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
@@ -242,9 +242,9 @@
 | 240 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.44% |
 | 240 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 242 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.43% |
+| 242 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.43% |
 | 242 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 242 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
-| 245 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.42% |
 | 246 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.41% |
 | 246 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
 | 246 | [Remnant 2](games/r/remnant_2.md) | 0.41% |
