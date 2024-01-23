@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 550,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
@@ -1696,10 +1696,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 952,
       "NumberOfAwardsMax": 611
+    },
+    {
+      "Time": "2024-01-23T09:01:22.7861322+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 953,
+      "NumberOfAwardsMax": 611
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 952,
+  "NumberOfAwards": 953,
   "NumberOfAwardsMax": 611,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1761,7 +1767,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has a Creative Community",
@@ -1787,8 +1793,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-01-22T21:00:30.1316117+00:00",
+  "LastChanged": "2024-01-23T09:01:22.786132+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.8420285+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:59:44.4298327+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:05:30.8942955+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:01:22.7861325+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:07:11.4349136+00:00"
 }

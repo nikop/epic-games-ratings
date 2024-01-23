@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~41,454 |
-| Safety in the Storm | 23.00% | ~10,036 |
-| A Better Idea | 23.00% | ~10,036 |
-| Begin the Ceremony | 19.00% | ~8,291 |
-| Mission Accomplished | 18.00% | ~7,854 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,545 |
+| Fracture at Fostar Haven | 95.00% | ~41,459 |
+| Safety in the Storm | 23.00% | ~10,037 |
+| A Better Idea | 23.00% | ~10,037 |
+| Begin the Ceremony | 19.00% | ~8,292 |
+| Mission Accomplished | 18.00% | ~7,855 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,546 |
 | A Starfighter of Your Own | 13.00% | ~5,673 |
-| Asset Secured | 12.00% | ~5,236 |
+| Asset Secured | 12.00% | ~5,237 |
 | Unkillable | 7.00% | ~3,055 |
 | Together, Vanguard | 7.00% | ~3,055 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~2,618 |
 | Sound Strategy | 5.00% | ~2,182 |
 | Stomped | 5.00% | ~2,182 |
-| Fearless | 4.00% | ~1,745 |
-| Back From the Brink | 4.00% | ~1,745 |
-| Flames Over Mon Cala | 4.00% | ~1,745 |
-| A Promising Career | 4.00% | ~1,745 |
+| Fearless | 4.00% | ~1,746 |
+| Back From the Brink | 4.00% | ~1,746 |
+| Flames Over Mon Cala | 4.00% | ~1,746 |
+| A Promising Career | 4.00% | ~1,746 |
 | Great Shot, Kid | 3.00% | ~1,309 |
 | Stronger Together | 3.00% | ~1,309 |
 | Temporary Guardian | 3.00% | ~1,309 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~44 |
 | Ultimate Weapon | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,636 (Ranked 136)  
+Progressed: 43,641 (Ranked 136)  
 Completed: 3 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 3 (0.01%) (Ranked 383)
 | 2024-01-20 | 42,941 | 3 |
 | 2024-01-21 | 43,332 | 3 |
 | 2024-01-22 | 43,563 | 3 |
-| 2024-01-23 | 43,636 | 3 |
+| 2024-01-23 | 43,641 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -22,13 +22,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.50% | ~5,287 |
 | The Fool | 0.50% | ~5,287 |
 | The World | 0.50% | ~5,287 |
-| All the President's Men | 0.50% | ~930 |
-| Arachnophobia | 0.50% | ~930 |
+| Judy vs Night City | 0.50% | ~5,287 |
+| All the President's Men | 0.50% | ~931 |
+| Arachnophobia | 0.50% | ~931 |
 | To Protect and Serve | 0.40% | ~4,230 |
 | I Am The Law | 0.40% | ~4,230 |
 | The Quick and the Dead | 0.40% | ~4,230 |
 | True Warrior | 0.40% | ~4,230 |
-| Judy vs Night City | 0.40% | ~4,230 |
 | The Wandering Fool | 0.30% | ~3,172 |
 | Two Heads, One Bullet | 0.30% | ~3,172 |
 | Spin Doctor | 0.30% | ~558 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,466 (Ranked 17)  
+Progressed: 1,057,486 (Ranked 17)  
 Completed: 3,151 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 3,151 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,466 | 3,151 |
+| 2024-01-23 | 1,057,486 | 3,151 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
 Sum: 514,887 (Ranked 8)  

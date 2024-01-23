@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120709,
+  "EOS_Progressed": 120712,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25827,6 +25827,11 @@
       "Time": "2024-01-23T08:10:22.7176694+00:00",
       "NumProgressed": 120709,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-23T09:11:34.838939+00:00",
+      "NumProgressed": 120712,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25846,7 +25851,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92946
+      "UsersEstimate": 92948
     },
     {
       "ID": "EAwards_10",
@@ -25862,7 +25867,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32591
+      "UsersEstimate": 32592
     },
     {
       "ID": "EAwards_12",
@@ -25870,7 +25875,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 18106
+      "UsersEstimate": 18107
     },
     {
       "ID": "EAwards_13",
@@ -25910,7 +25915,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44662
+      "UsersEstimate": 44663
     },
     {
       "ID": "EAwards_18",
@@ -25934,7 +25939,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 59147
+      "UsersEstimate": 59149
     },
     {
       "ID": "EAwards_20",
@@ -26110,7 +26115,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15692
+      "UsersEstimate": 15693
     },
     {
       "ID": "EAwards_40",
@@ -26229,7 +26234,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120709,
+      "Progressed": 120712,
       "Completed": 61
     }
   ],
@@ -26237,8 +26242,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:10:22.7176692+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:11:34.8389388+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.1684277+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:57:46.0556633+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:10:22.7178032+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:58:20.3132208+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:11:34.839103+00:00"
 }

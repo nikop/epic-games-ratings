@@ -20,7 +20,7 @@ Rating: 4.53 (Ranked 571)
 | Harper's Hell | 39.00% | ~2,551 |
 | Making a Stand | 38.00% | ~2,485 |
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~2,354 |
-| Where It All Begun | 34.00% | ~2,224 |
+| Where It All Begun | 35.00% | ~2,289 |
 | Recouped Investment | 33.00% | ~2,158 |
 | Living Nightmare | 29.00% | ~1,897 |
 | The More The Merrier | 29.00% | ~1,897 |

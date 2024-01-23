@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -467,9 +467,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15216,
+  "EOS_Progressed": 15220,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11222,6 +11222,11 @@
       "Time": "2024-01-23T08:10:19.7728126+00:00",
       "NumProgressed": 15216,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-23T09:11:30.8611536+00:00",
+      "NumProgressed": 15220,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11242,7 +11247,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6239
+      "UsersEstimate": 6240
     },
     {
       "ID": "BeLikeWater",
@@ -11258,7 +11263,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ChewingTheScenery",
@@ -11274,7 +11279,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "Eavesdropper",
@@ -11290,7 +11295,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3196
     },
     {
       "ID": "FasterThanLight",
@@ -11306,7 +11311,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8369
+      "UsersEstimate": 8371
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11378,7 +11383,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "NoMoreTotems",
@@ -11386,7 +11391,7 @@
       "Name": "No More Totems",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "NotLikeTheOthers",
@@ -11402,7 +11407,7 @@
       "Name": "One-Star Man",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ScorchSquad",
@@ -11426,7 +11431,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "TheQuarterback",
@@ -11434,7 +11439,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6545
     },
     {
       "ID": "ThisIsDharma",
@@ -11458,7 +11463,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -11505,7 +11510,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15216,
+      "Progressed": 15220,
       "Completed": 28
     }
   ],
@@ -11513,8 +11518,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-21T01:57:02.9385793+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:10:19.7728124+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:11:30.8611534+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:59:22.7758105+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:10:19.7728683+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:00:48.8004903+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:11:30.8612161+00:00"
 }

@@ -1,25 +1,25 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.74 (Ranked 170)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,654 |
-| Landlord | 35.00% | ~33,904 |
-| Trained | 30.00% | ~29,061 |
-| Bannerlord | 25.00% | ~24,217 |
-| Lawmaker | 24.00% | ~23,249 |
-| Horde breaker | 22.00% | ~21,311 |
-| The king is pleased | 20.00% | ~19,374 |
-| King Solomon | 18.00% | ~17,436 |
+| Lawbringer | 43.00% | ~41,655 |
+| Landlord | 35.00% | ~33,906 |
+| Trained | 30.00% | ~29,062 |
+| Bannerlord | 25.00% | ~24,218 |
+| Lawmaker | 24.00% | ~23,250 |
+| Horde breaker | 22.00% | ~21,312 |
+| The king is pleased | 20.00% | ~19,375 |
+| King Solomon | 18.00% | ~17,437 |
 | Apple of my eye | 17.00% | ~16,468 |
 | This Is Our Land | 17.00% | ~16,468 |
-| I can do it | 16.00% | ~15,499 |
-| Against all odds | 15.00% | ~14,530 |
+| I can do it | 16.00% | ~15,500 |
+| Against all odds | 15.00% | ~14,531 |
 | Duelist | 13.00% | ~12,593 |
-| God of the Arena | 12.00% | ~11,624 |
+| God of the Arena | 12.00% | ~11,625 |
 | Swordbearer | 11.00% | ~10,656 |
 | What have the Romans ever done for us? | 11.00% | ~10,656 |
 | Butterlord | 10.00% | ~9,687 |
@@ -27,7 +27,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~9,687 |
 | Mastery | 8.00% | ~7,750 |
 | Know your enemy | 7.00% | ~6,781 |
-| My way | 5.00% | ~4,843 |
+| My way | 5.00% | ~4,844 |
 | Crowdfunded | 4.00% | ~3,875 |
 | Crush your enemies | 4.00% | ~3,875 |
 | Veni vidi vici | 4.00% | ~3,875 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,869 (Ranked 103)  
+Progressed: 96,873 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,15 +336,15 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 96,440 | 0 |
 | 2024-01-21 | 96,687 | 0 |
 | 2024-01-22 | 96,846 | 0 |
-| 2024-01-23 | 96,869 | 0 |
+| 2024-01-23 | 96,873 | 0 |
 ## Awards
 Max (Character Customization): 8,207  (Ranked 51)  
-Sum: 16,981 (Ranked 67)  
+Sum: 16,987 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,207 |
-| This game is Great for Beginners | 1,232 |
+| This game is Great for Beginners | 1,238 |
 | This game has Diverse Characters | 1,134 |
 | This game is Highly Recommended | 1,035 |
 | This game is Extremely Fun | 956 |
@@ -731,4 +731,4 @@ Diff (max vs sum): -16
 | 2024-01-20 | 4.74 | - | 8,171 | 16,918 |
 | 2024-01-21 | 4.74 | - | 8,189 | 16,944 |
 | 2024-01-22 | 4.74 | - | 8,207 | 16,980 |
-| 2024-01-23 | 4.74 | - | 8,207 | 16,981 |
+| 2024-01-23 | 4.74 | - | 8,207 | 16,987 |

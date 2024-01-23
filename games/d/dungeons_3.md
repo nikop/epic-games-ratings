@@ -6,28 +6,28 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~33,392 |
-| The Evilest Evil | 58.00% | ~27,668 |
-| Twistram is devastated | 58.00% | ~27,668 |
-| The Gehenna Stones | 49.00% | ~23,374 |
-| No one has to die today! | 46.00% | ~21,943 |
-| Death and destruction! | 46.00% | ~21,943 |
-| The Swamplanders from the swamplands | 43.00% | ~20,512 |
-| Rusty Steel | 41.00% | ~19,558 |
-| The One-Huge-Army-Building Evil | 40.00% | ~19,081 |
-| The last burger | 37.00% | ~17,650 |
-| Braiiiiins! | 37.00% | ~17,650 |
-| Hands off the Dungeonheart! | 36.00% | ~17,173 |
-| A trip on sea, what fun it can be | 34.00% | ~16,219 |
-| Damned good | 32.00% | ~15,265 |
-| Stock Market Crash | 31.00% | ~14,788 |
-| Factory farming | 31.00% | ~14,788 |
-| Shadow hunter | 29.00% | ~13,834 |
-| Not-So-Overproud | 29.00% | ~13,834 |
-| For a handfull of Catapults | 28.00% | ~13,357 |
-| Thirst quencher | 27.00% | ~12,880 |
-| Ogre Solo! | 27.00% | ~12,880 |
-| Tide Master | 26.00% | ~12,403 |
+| The Shadow strikes | 70.00% | ~33,394 |
+| The Evilest Evil | 58.00% | ~27,669 |
+| Twistram is devastated | 58.00% | ~27,669 |
+| The Gehenna Stones | 49.00% | ~23,376 |
+| No one has to die today! | 46.00% | ~21,945 |
+| Death and destruction! | 46.00% | ~21,945 |
+| The Swamplanders from the swamplands | 43.00% | ~20,514 |
+| Rusty Steel | 41.00% | ~19,559 |
+| The One-Huge-Army-Building Evil | 40.00% | ~19,082 |
+| The last burger | 37.00% | ~17,651 |
+| Braiiiiins! | 37.00% | ~17,651 |
+| Hands off the Dungeonheart! | 36.00% | ~17,174 |
+| A trip on sea, what fun it can be | 34.00% | ~16,220 |
+| Damned good | 32.00% | ~15,266 |
+| Stock Market Crash | 31.00% | ~14,789 |
+| Factory farming | 31.00% | ~14,789 |
+| Shadow hunter | 29.00% | ~13,835 |
+| Not-So-Overproud | 29.00% | ~13,835 |
+| For a handfull of Catapults | 28.00% | ~13,358 |
+| Thirst quencher | 27.00% | ~12,881 |
+| Ogre Solo! | 27.00% | ~12,881 |
+| Tide Master | 26.00% | ~12,404 |
 | Difficult family relationships | 25.00% | ~11,926 |
 | Destroy the thing | 25.00% | ~11,926 |
 | MASS-O-BOT | 24.00% | ~11,449 |
@@ -42,18 +42,18 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~8,587 |
 | Flat as a pancake | 17.00% | ~8,110 |
 | Lifeguard | 17.00% | ~8,110 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~7,155 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~5,724 |
-| Then let them eat cake! | 12.00% | ~5,724 |
-| The White Knight | 10.00% | ~4,770 |
-| Please, no interruptions! | 10.00% | ~4,770 |
-| Use the terrain | 9.00% | ~4,293 |
-| Prison Break | 9.00% | ~4,293 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~7,156 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~5,725 |
+| Then let them eat cake! | 12.00% | ~5,725 |
+| The White Knight | 10.00% | ~4,771 |
+| Please, no interruptions! | 10.00% | ~4,771 |
+| Use the terrain | 9.00% | ~4,294 |
+| Prison Break | 9.00% | ~4,294 |
+| Hearts of Iron | 8.00% | ~3,816 |
 | Master of Traps | 8.00% | ~3,816 |
 | Ignore The Level Designer’s Plan | 8.00% | ~3,816 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~3,816 |
 | Lifesaver | 8.00% | ~3,816 |
-| Hearts of Iron | 7.00% | ~3,339 |
 | Hearts are trump | 7.00% | ~3,339 |
 | Spawner Killer | 6.00% | ~2,862 |
 | A little something extra | 6.00% | ~2,862 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~954 |
 | Sacrifices! | 2.00% | ~954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,703 (Ranked 128)  
+Progressed: 47,706 (Ranked 128)  
 Completed: 375 (0.79%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 375 (0.79%) (Ranked 198)
 | 2024-01-20 | 47,479 | 374 |
 | 2024-01-21 | 47,606 | 375 |
 | 2024-01-22 | 47,686 | 375 |
-| 2024-01-23 | 47,703 | 375 |
+| 2024-01-23 | 47,706 | 375 |
 ## Awards
 Max (Great for Beginners): 402  (Ranked 242)  
-Sum: 2,859 (Ranked 192)  
+Sum: 2,860 (Ranked 192)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -357,8 +357,8 @@ Diff (max vs sum): 50
 | This game has Quickly Understood Controls | 320 |
 | This game is Highly Recommended | 318 |
 | This game has Amazing Storytelling | 310 |
+| This game has Diverse Characters | 308 |
 | This game has Amazing Characters | 307 |
-| This game has Diverse Characters | 307 |
 | This game is Relaxing | 284 |
 | This game has Playful Visuals | 278 |
 | This game has Obsessive Gameplay | 189 |
@@ -633,3 +633,4 @@ Diff (max vs sum): 50
 | 2024-01-16 | 4.66 | - | 399 | 2,853 |
 | 2024-01-20 | 4.66 | - | 400 | 2,857 |
 | 2024-01-22 | 4.66 | - | 402 | 2,859 |
+| 2024-01-23 | 4.66 | - | 402 | 2,860 |

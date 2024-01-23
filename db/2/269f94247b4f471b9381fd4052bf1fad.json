@@ -309,17 +309,17 @@
       "ID": "ACH_ARCHEOLOGIST",
       "SetID": "6lg1p1e",
       "Name": "Archeologist",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ATLAS",
       "SetID": "6lg1p1e",
       "Name": "Atlas",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_BARGAIN-HUNTER",
@@ -525,9 +525,9 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_PROPERTY-DAMAGE",
@@ -541,9 +541,9 @@
       "ID": "ACH_RACER-CHAMPION",
       "SetID": "6lg1p1e",
       "Name": "Break a Sweat",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_RATATOUIED",
@@ -589,9 +589,9 @@
       "ID": "ACH_ZEN-MASTER",
       "SetID": "6lg1p1e",
       "Name": "Zen Master",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:09:29.3175719+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:10:10.2853429+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:58:56.3054234+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:09:29.3176224+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:00:06.0490058+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:10:10.2853714+00:00"
 }

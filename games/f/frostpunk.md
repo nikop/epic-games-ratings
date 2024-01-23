@@ -1,16 +1,16 @@
 # Frostpunk
 [Store](https://store.epicgames.com/en-US/p/frostpunk)  
 [View Rawdata](../../db/f/frostpunk.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.74 (Ranked 170)  
 Number of Ratings: 11,240  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 865  (Ranked 181)  
-Sum: 7,533 (Ranked 124)  
+Sum: 7,534 (Ranked 124)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 865 |
-| This game is Highly Recommended | 863 |
+| This game is Highly Recommended | 864 |
 | This game has Amazing Storytelling | 858 |
 | This game is Relaxing | 846 |
 | This game is Educational | 820 |
@@ -361,4 +361,4 @@ Diff (max vs sum): 57
 | 2024-01-19 | 4.74 | - | 865 | 7,519 |
 | 2024-01-20 | 4.74 | - | 865 | 7,524 |
 | 2024-01-22 | 4.74 | - | 865 | 7,532 |
-| 2024-01-23 | 4.74 | - | 865 | 7,533 |
+| 2024-01-23 | 4.74 | - | 865 | 7,534 |

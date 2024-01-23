@@ -5,18 +5,18 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,774 |
-| First of Many | 12.00% | ~35,791 |
-| Not Your Average Trait | 10.00% | ~29,826 |
-| Expanding Horizons | 9.00% | ~26,843 |
-| Gleaming the Cube | 8.00% | ~23,861 |
-| Quest for Survival | 8.00% | ~23,861 |
-| Familiar Face | 8.00% | ~23,861 |
-| Boss'n Up | 8.00% | ~23,861 |
-| Trait Chaser | 8.00% | ~23,861 |
-| Not So Special Now | 7.00% | ~20,878 |
-| Not a Janitor | 7.00% | ~20,878 |
-| Duality | 7.00% | ~20,878 |
+| The Killing Jar | 13.00% | ~38,775 |
+| First of Many | 12.00% | ~35,792 |
+| Not Your Average Trait | 10.00% | ~29,827 |
+| Expanding Horizons | 9.00% | ~26,844 |
+| Gleaming the Cube | 8.00% | ~23,862 |
+| Quest for Survival | 8.00% | ~23,862 |
+| Familiar Face | 8.00% | ~23,862 |
+| Boss'n Up | 8.00% | ~23,862 |
+| Trait Chaser | 8.00% | ~23,862 |
+| Not So Special Now | 7.00% | ~20,879 |
+| Not a Janitor | 7.00% | ~20,879 |
+| Duality | 7.00% | ~20,879 |
 | Equal Measures | 6.00% | ~17,896 |
 | Blue Goddess | 6.00% | ~17,896 |
 | Top Performer | 6.00% | ~17,896 |
@@ -33,12 +33,12 @@ Rating: 4.72 (Ranked 199)
 | Was This Supposed To Happen? | 5.00% | ~14,913 |
 | The Web | 5.00% | ~14,913 |
 | Scrap Collector | 5.00% | ~14,913 |
-| Forever is a Long Time Coming | 4.00% | ~11,930 |
-| Madman's Paradise | 4.00% | ~11,930 |
-| The Agenda | 4.00% | ~11,930 |
-| Bad Moon Rising | 4.00% | ~11,930 |
-| Strapped | 4.00% | ~11,930 |
-| All These Traits� | 4.00% | ~11,930 |
+| Forever is a Long Time Coming | 4.00% | ~11,931 |
+| Madman's Paradise | 4.00% | ~11,931 |
+| The Agenda | 4.00% | ~11,931 |
+| Bad Moon Rising | 4.00% | ~11,931 |
+| Strapped | 4.00% | ~11,931 |
+| All These Traits� | 4.00% | ~11,931 |
 | Tall Tales | 3.00% | ~8,948 |
 | Edgelord | 3.00% | ~8,948 |
 | Scrap Hoarder | 3.00% | ~8,948 |
@@ -61,8 +61,8 @@ Rating: 4.72 (Ranked 199)
 | You Shall Pass | 0.80% | ~619 |
 | A Foul Feast | 0.50% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,261 (Ranked 65)  
-Completed: 1,219 (0.41%) (Ranked 246)  
+Progressed: 298,269 (Ranked 65)  
+Completed: 1,220 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -252,7 +252,7 @@ Completed: 1,219 (0.41%) (Ranked 246)
 | 2024-01-20 | 297,043 | 1,177 |
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
-| 2024-01-23 | 298,261 | 1,219 |
+| 2024-01-23 | 298,269 | 1,220 |
 ## Awards
 Max (Great Boss Battles): 7,507  (Ranked 56)  
 Sum: 17,199 (Ranked 65)  

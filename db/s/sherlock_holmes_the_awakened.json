@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -193,11 +193,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1611,
+  "EOS_Progressed": 1612,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5688,6 +5688,11 @@
       "Time": "2024-01-23T02:32:12.3345549+00:00",
       "NumProgressed": 1611,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-23T09:06:26.3593692+00:00",
+      "NumProgressed": 1612,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5747,7 +5752,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "MQ03_2",
@@ -5763,7 +5768,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "MQ03_4",
@@ -5779,7 +5784,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "MQ04_1",
@@ -5801,9 +5806,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 709
+      "UsersEstimate": 693
     },
     {
       "ID": "MQ05_1",
@@ -5867,7 +5872,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "MQ07_1",
@@ -5883,7 +5888,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MQ08_1",
@@ -5891,7 +5896,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "MQ08_2",
@@ -5899,7 +5904,7 @@
       "Name": "Up In Flames",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MQ08_3",
@@ -5907,7 +5912,7 @@
       "Name": "Fhtagn!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "PLTN",
@@ -5922,7 +5927,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1611,
+      "Progressed": 1612,
       "Completed": 51
     }
   ],
@@ -5930,8 +5935,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:04:58.8083616+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:06:26.3593689+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-23T08:03:23.6812643+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:04:58.8084094+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:04:08.1874411+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:06:26.3594157+00:00"
 }

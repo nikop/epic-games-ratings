@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,10 +147,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84234,
+  "EOS_Progressed": 84236,
   "EOS_Completed": 947,
-  "EOS_NewPlayers": 552,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 550,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
@@ -31177,6 +31177,11 @@
       "Time": "2024-01-23T07:07:51.0700927+00:00",
       "NumProgressed": 84234,
       "NumCompleted": 947
+    },
+    {
+      "Time": "2024-01-23T09:08:00.1211201+00:00",
+      "NumProgressed": 84236,
+      "NumCompleted": 947
     }
   ],
   "TotalAchievements": 25,
@@ -31204,7 +31209,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 16004
+      "UsersEstimate": 16005
     },
     {
       "ID": "Audiophile",
@@ -31220,7 +31225,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18531
+      "UsersEstimate": 18532
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -31292,7 +31297,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17689
+      "UsersEstimate": 17690
     },
     {
       "ID": "Meaty",
@@ -31324,7 +31329,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5896
+      "UsersEstimate": 5897
     },
     {
       "ID": "Piano Man",
@@ -31348,7 +31353,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5896
+      "UsersEstimate": 5897
     },
     {
       "ID": "Spicy",
@@ -31387,7 +31392,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84234,
+      "Progressed": 84236,
       "Completed": 947
     }
   ],
@@ -31395,8 +31400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:06:06.1920549+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:08:00.1211198+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:58:15.1642984+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:06:06.1922046+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:59:04.4289225+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:08:00.1212396+00:00"
 }

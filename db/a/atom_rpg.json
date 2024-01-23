@@ -5009,9 +5009,9 @@
       "ID": "ROBOT_DEAD",
       "SetID": "bf13m8j",
       "Name": "It was worth a shot",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "SACRIFICE_1",
@@ -5097,8 +5097,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:10:18.9991775+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:11:30.0596794+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.2672243+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:58:34.9006956+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:10:18.9992109+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:59:35.5654513+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:11:30.0597107+00:00"
 }

@@ -1099,9 +1099,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10030,
+  "EOS_Progressed": 10031,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11494,6 +11494,11 @@
       "Time": "2024-01-22T22:09:14.4090356+00:00",
       "NumProgressed": 10030,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T09:10:47.1480261+00:00",
+      "NumProgressed": 10031,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11521,7 +11526,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11673,7 +11678,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3510
+      "UsersEstimate": 3511
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11713,7 +11718,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11833,7 +11838,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11857,14 +11862,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10030,
+      "Progressed": 10031,
       "Completed": 10
     }
   ],
@@ -11872,8 +11877,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:09:55.3195447+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:10:47.1480258+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:58:46.2583096+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:09:55.3196075+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:59:52.0154325+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:10:47.1481089+00:00"
 }

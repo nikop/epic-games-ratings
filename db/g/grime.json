@@ -1945,9 +1945,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169360,
+  "EOS_Progressed": 169364,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 927,
+  "EOS_NewPlayers": 925,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24150,6 +24150,11 @@
       "Time": "2024-01-23T08:08:30.4200356+00:00",
       "NumProgressed": 169360,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-23T09:08:46.9477443+00:00",
+      "NumProgressed": 169364,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24226,7 +24231,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6774
+      "UsersEstimate": 6775
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -24266,7 +24271,7 @@
       "Name": "Scion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -24378,7 +24383,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6774
+      "UsersEstimate": 6775
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -24529,21 +24534,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168943,
+      "Progressed": 168947,
       "Completed": 1268
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169360,
+      "Progressed": 169364,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-22T22:58:53.9473034+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:08:30.4200353+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:08:46.947744+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:58:59.2682265+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:08:30.4201499+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:00:09.392569+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:08:46.9478599+00:00"
 }

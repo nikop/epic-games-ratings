@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -2250,6 +2250,11 @@
       "Time": "2024-01-23T08:03:45.2490174+00:00",
       "NumProgressed": 557,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T09:04:43.312415+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2262,7 +2267,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2326,7 +2331,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2350,7 +2355,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -2414,7 +2419,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -2430,7 +2435,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2510,15 +2515,15 @@
       "Name": "Shop Til They Drop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
       "SetID": "cefn62b",
       "Name": "Mash Machine",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_JETPACK_INTODONUT",
@@ -2532,9 +2537,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2574,22 +2579,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:03:45.2490172+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:04:43.3124146+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:24.5329483+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:58:07.9300595+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:03:45.2490509+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:58:53.0691355+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:04:43.3124547+00:00"
 }

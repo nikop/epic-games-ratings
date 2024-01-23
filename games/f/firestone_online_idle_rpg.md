@@ -45,12 +45,12 @@ Rating: 4.11 (Ranked 1,030)
 | Trader | 7.00% | ~332 |
 | Dragon Slayer | 6.00% | ~285 |
 | Enchanting skill | 6.00% | ~285 |
+| How Do You Turn This On? | 6.00% | ~285 |
 | The Expeditioner | 6.00% | ~285 |
 | Weekly Quest Completionist | 6.00% | ~285 |
 | Blueprint Upgrades | 5.00% | ~237 |
 | Crystal Mining | 5.00% | ~237 |
 | Engineer Mastery | 5.00% | ~237 |
-| How Do You Turn This On? | 5.00% | ~237 |
 | Lock And Load | 5.00% | ~237 |
 | Missions Dedication | 5.00% | ~237 |
 | Sailor | 5.00% | ~237 |

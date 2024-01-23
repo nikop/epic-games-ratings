@@ -285,9 +285,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17619,
+  "EOS_Progressed": 17620,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13105,6 +13105,11 @@
       "Time": "2024-01-23T08:05:48.0371926+00:00",
       "NumProgressed": 17619,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T09:07:35.8303623+00:00",
+      "NumProgressed": 17620,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13156,7 +13161,7 @@
       "Name": "Time to pay up!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "Ach007",
@@ -13164,7 +13169,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "Ach008",
@@ -13252,7 +13257,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "Ach019",
@@ -13364,7 +13369,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "Ach033",
@@ -13372,7 +13377,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "Ach034",
@@ -13532,7 +13537,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "Ach054",
@@ -13683,13 +13688,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17619,
+      "Progressed": 17620,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16140,
+      "Progressed": 16141,
       "Completed": 1931
     }
   ],
@@ -13697,8 +13702,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:05:48.0371921+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:07:35.8303619+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:59:44.0273753+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:05:48.0373024+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:01:21.8809529+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:07:35.8304707+00:00"
 }

@@ -5,39 +5,39 @@ Rating: 4.69 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,715 |
-| I Challenge You To Save More Money! | 81.00% | ~15,385 |
-| I Love How Tough You Are | 66.00% | ~12,536 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~11,206 |
-| What I Want Is You | 54.00% | ~10,257 |
-| To Be Or Not To Be | 51.00% | ~9,687 |
-| Are You Alright? | 47.00% | ~8,927 |
-| Love Actually | 42.00% | ~7,977 |
-| Drama King | 37.00% | ~7,028 |
-| Go Clean up In Your Own Way | 34.00% | ~6,458 |
-| Drama CP: Reel to Real | 32.00% | ~6,078 |
-| You're Really Something Else | 32.00% | ~6,078 |
-| FIRST LOVE | 31.00% | ~5,888 |
-| Worthless Speech | 31.00% | ~5,888 |
-| Happy Family | 30.00% | ~5,698 |
-| Absolutely Elegant | 29.00% | ~5,508 |
-| ONE PUNCH | 29.00% | ~5,508 |
-| Still Single | 28.00% | ~5,318 |
-| Days Of Innocence | 27.00% | ~5,128 |
-| David | 26.00% | ~4,938 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,748 |
+| Last Night...Did We... | 88.00% | ~16,717 |
+| I Challenge You To Save More Money! | 81.00% | ~15,388 |
+| I Love How Tough You Are | 66.00% | ~12,538 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~11,208 |
+| What I Want Is You | 54.00% | ~10,258 |
+| To Be Or Not To Be | 51.00% | ~9,688 |
+| Are You Alright? | 47.00% | ~8,929 |
+| Love Actually | 42.00% | ~7,979 |
+| Drama King | 37.00% | ~7,029 |
+| Go Clean up In Your Own Way | 34.00% | ~6,459 |
+| Drama CP: Reel to Real | 32.00% | ~6,079 |
+| You're Really Something Else | 32.00% | ~6,079 |
+| FIRST LOVE | 31.00% | ~5,889 |
+| Worthless Speech | 31.00% | ~5,889 |
+| Happy Family | 30.00% | ~5,699 |
+| Absolutely Elegant | 29.00% | ~5,509 |
+| ONE PUNCH | 29.00% | ~5,509 |
+| Still Single | 28.00% | ~5,319 |
+| Days Of Innocence | 27.00% | ~5,129 |
+| David | 26.00% | ~4,939 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,749 |
 | All I Have Is Money | 22.00% | ~4,179 |
 | Lover In Dark Alley | 22.00% | ~4,179 |
 | A Slap In The Face! | 22.00% | ~4,179 |
 | That's So You | 22.00% | ~4,179 |
 | SALUTE | 22.00% | ~4,179 |
 | Let Me Be Your Toy Boy | 21.00% | ~3,989 |
-| Off We Sail Tonight | 15.00% | ~2,849 |
-| Love You Three Thousand | 14.00% | ~2,659 |
-| Can You Do This Or Not? | 14.00% | ~2,659 |
-| Doesn't Matter I'll Handle It | 12.00% | ~2,279 |
-| The Flash | 11.00% | ~2,089 |
-| New Yoga Pose Unlocked | 10.00% | ~1,899 |
+| Off We Sail Tonight | 15.00% | ~2,850 |
+| Love You Three Thousand | 14.00% | ~2,660 |
+| Can You Do This Or Not? | 14.00% | ~2,660 |
+| Doesn't Matter I'll Handle It | 12.00% | ~2,280 |
+| The Flash | 11.00% | ~2,090 |
+| New Yoga Pose Unlocked | 10.00% | ~1,900 |
 | My Dear Love! | 8.00% | ~1,520 |
 | Counting Sheep? | 8.00% | ~1,520 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,520 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 241)
 | Tall; Grande; Venti | 2.00% | ~380 |
 | Limerence | 2.00% | ~380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,994 (Ranked 162)  
+Progressed: 18,997 (Ranked 162)  
 Completed: 338 (1.78%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,14 +156,14 @@ Completed: 338 (1.78%) (Ranked 148)
 | 2024-01-20 | 18,910 | 336 |
 | 2024-01-21 | 18,953 | 337 |
 | 2024-01-22 | 18,987 | 338 |
-| 2024-01-23 | 18,994 | 338 |
+| 2024-01-23 | 18,997 | 338 |
 ## Awards
-Max (Impact the Story): 40  (Ranked 489)  
-Sum: 40 (Ranked 530)  
-Diff (max vs sum): -41  
+Max (Impact the Story): 42  (Ranked 484)  
+Sum: 42 (Ranked 527)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 40 |
+| In this game, your choices Impact the Story | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -215,3 +215,4 @@ Diff (max vs sum): -41
 | 2024-01-18 | 4.69 | 40 | 40 |
 | 2024-01-19 | 4.70 | 40 | 40 |
 | 2024-01-20 | 4.69 | 40 | 40 |
+| 2024-01-23 | 4.69 | 42 | 42 |

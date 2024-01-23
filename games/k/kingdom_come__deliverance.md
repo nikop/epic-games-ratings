@@ -6,15 +6,15 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~262,010 |
-| Cavalier | 26.00% | ~212,883 |
-| Fatso | 23.00% | ~188,320 |
-| Awakening | 21.00% | ~171,944 |
-| Ranger | 20.00% | ~163,756 |
-| Scrooge | 20.00% | ~163,756 |
-| Anorectic | 16.00% | ~131,005 |
-| Firestarter | 16.00% | ~131,005 |
-| Bookworm | 15.00% | ~122,817 |
+| Blacksmith's Son | 32.00% | ~262,011 |
+| Cavalier | 26.00% | ~212,884 |
+| Fatso | 23.00% | ~188,321 |
+| Awakening | 21.00% | ~171,945 |
+| Ranger | 20.00% | ~163,757 |
+| Scrooge | 20.00% | ~163,757 |
+| Anorectic | 16.00% | ~131,006 |
+| Firestarter | 16.00% | ~131,006 |
+| Bookworm | 15.00% | ~122,818 |
 | Insomniac | 13.00% | ~106,442 |
 | Buddy | 12.00% | ~98,254 |
 | Thief | 12.00% | ~98,254 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~32,751 |
 | Hunter | 4.00% | ~32,751 |
 | Plague Doctor | 4.00% | ~32,751 |
-| Bard | 3.00% | ~24,563 |
-| Conqueror | 3.00% | ~24,563 |
-| Ginger in a Pickle | 3.00% | ~24,563 |
-| Kingdom did not come | 3.00% | ~24,563 |
+| Bard | 3.00% | ~24,564 |
+| Conqueror | 3.00% | ~24,564 |
+| Ginger in a Pickle | 3.00% | ~24,564 |
+| Kingdom did not come | 3.00% | ~24,564 |
 | Completionist | 2.00% | ~16,376 |
 | Death by splinter | 2.00% | ~16,376 |
 | King Charming | 2.00% | ~16,376 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~819 |
 | Wingman | 0.10% | ~819 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 818,782 (Ranked 22)  
+Progressed: 818,785 (Ranked 22)  
 Completed: 53 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 53 (0.01%) (Ranked 383)
 | 2024-01-20 | 818,409 | 53 |
 | 2024-01-21 | 818,592 | 53 |
 | 2024-01-22 | 818,753 | 53 |
-| 2024-01-23 | 818,782 | 53 |
+| 2024-01-23 | 818,785 | 53 |
 ## Awards
 Max (Character Customization): 7,801  (Ranked 54)  
 Sum: 28,899 (Ranked 50)  

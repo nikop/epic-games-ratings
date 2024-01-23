@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12099,
+  "EOS_Progressed": 12102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5907,6 +5907,11 @@
       "Time": "2024-01-23T08:10:24.330713+00:00",
       "NumProgressed": 12099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T09:11:36.7968418+00:00",
+      "NumProgressed": 12102,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6287,7 +6292,7 @@
       "Name": "Unexpected Company",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "49_HowDidItAllEnd",
@@ -6295,7 +6300,7 @@
       "Name": "How Did It All End?",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "50_Whodunit",
@@ -6438,7 +6443,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12099,
+      "Progressed": 12102,
       "Completed": 1
     }
   ],
@@ -6446,8 +6451,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:10:24.3307127+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:11:36.7968412+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:58:01.1153667+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:10:24.3307716+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:58:42.4724922+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:11:36.7969022+00:00"
 }

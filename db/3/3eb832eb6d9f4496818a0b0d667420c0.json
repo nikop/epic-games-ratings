@@ -4,7 +4,7 @@
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 851,
   "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 434,
+  "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 22,
@@ -377,10 +377,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 177,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-01-23T09:03:59.0083344+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 178,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 177,
+  "NumberOfAwards": 178,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -394,7 +400,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Highly Recommended",
@@ -427,9 +433,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 429230,
+  "EOS_Progressed": 429246,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7312,
+  "EOS_NewPlayers": 7302,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4512,6 +4518,11 @@
       "Time": "2024-01-23T08:04:49.2572343+00:00",
       "NumProgressed": 429230,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T09:06:13.0169566+00:00",
+      "NumProgressed": 429246,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4532,7 +4543,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30046
+      "UsersEstimate": 30047
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4556,7 +4567,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98723
+      "UsersEstimate": 98727
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4580,7 +4591,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111600
+      "UsersEstimate": 111604
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4588,7 +4599,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94431
+      "UsersEstimate": 94434
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4620,7 +4631,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17169
+      "UsersEstimate": 17170
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4684,7 +4695,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38631
+      "UsersEstimate": 38632
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4732,7 +4743,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34338
+      "UsersEstimate": 34340
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4867,16 +4878,16 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 429230,
+      "Progressed": 429246,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-01-23T08:03:17.5572683+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:04:49.257234+00:00",
+  "LastChanged": "2024-01-23T09:03:59.0083344+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:06:13.0169562+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:02:24.2404261+00:00",
-  "LastUpdate_Ratings": "2024-01-23T08:03:17.5572688+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:04:49.2572836+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:03:59.008335+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:06:13.0170407+00:00"
 }

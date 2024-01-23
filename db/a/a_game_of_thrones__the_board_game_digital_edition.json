@@ -1384,10 +1384,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 818,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2024-01-23T08:57:20.1570077+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 820,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 818,
+  "NumberOfAwards": 820,
   "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1437,7 +1443,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 99
+      "Count": 101
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1446,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34149,
+  "EOS_Progressed": 34150,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31401,6 +31407,11 @@
       "Time": "2024-01-23T08:10:11.3223397+00:00",
       "NumProgressed": 34149,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-23T09:11:19.4705327+00:00",
+      "NumProgressed": 34150,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31412,7 +31423,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "1016",
@@ -31436,7 +31447,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "1019",
@@ -31444,7 +31455,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "1020",
@@ -31452,7 +31463,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "1021",
@@ -31460,7 +31471,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "1022",
@@ -31484,7 +31495,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "1025",
@@ -31500,7 +31511,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "1027",
@@ -31508,7 +31519,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "1028",
@@ -31516,7 +31527,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5805
+      "UsersEstimate": 5806
     },
     {
       "ID": "1029",
@@ -31540,7 +31551,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4440
     },
     {
       "ID": "1032",
@@ -31564,7 +31575,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "1035",
@@ -31580,22 +31591,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34149,
+      "Progressed": 34150,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2024-01-21T18:01:14.7181216+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:10:11.3223393+00:00",
+  "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:11:19.4705325+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:03:01.5198367+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:10:11.3224893+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:57:20.1570083+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:11:19.4706521+00:00"
 }

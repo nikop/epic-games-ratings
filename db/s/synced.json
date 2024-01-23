@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1893,9 +1893,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90019,
+  "EOS_Progressed": 90023,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2134,
+  "EOS_NewPlayers": 2129,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17848,6 +17848,11 @@
       "Time": "2024-01-23T08:05:49.7872963+00:00",
       "NumProgressed": 90019,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-23T09:07:38.2418506+00:00",
+      "NumProgressed": 90023,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -17860,7 +17865,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42309
+      "UsersEstimate": 42311
     },
     {
       "ID": "10",
@@ -17924,7 +17929,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18904
+      "UsersEstimate": 18905
     },
     {
       "ID": "3",
@@ -17948,7 +17953,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6302
     },
     {
       "ID": "6",
@@ -17964,7 +17969,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23405
+      "UsersEstimate": 23406
     },
     {
       "ID": "8",
@@ -17987,7 +17992,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90019,
+      "Progressed": 90023,
       "Completed": 76
     }
   ],
@@ -17995,8 +18000,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-23T05:57:37.6559549+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:05:49.7872959+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:07:38.2418503+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:57:49.687237+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:05:49.7873746+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:58:25.6373421+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:07:38.2419197+00:00"
 }

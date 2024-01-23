@@ -33,11 +33,11 @@ Rating: 3.67 (Ranked 1,107)
 | Good Morning | 4.00% | ~97 |
 | From the Shadows | 4.00% | ~97 |
 | Starve the Beast | 4.00% | ~97 |
+| Harvest’s End | 4.00% | ~97 |
 | Revelations | 3.00% | ~72 |
 | Contingency Plans | 3.00% | ~72 |
 | Block Party | 3.00% | ~72 |
 | Check, Please! | 3.00% | ~72 |
-| Harvest’s End | 3.00% | ~72 |
 | Right This Way | 2.00% | ~48 |
 | Nice Try | 2.00% | ~48 |
 | Blacklight Down | 2.00% | ~48 |

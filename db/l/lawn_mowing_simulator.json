@@ -2248,9 +2248,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 699622,
+  "EOS_Progressed": 699624,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1754,
+  "EOS_NewPlayers": 1747,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34288,6 +34288,11 @@
       "Time": "2024-01-23T08:10:25.8737924+00:00",
       "NumProgressed": 699622,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-23T09:11:38.5089326+00:00",
+      "NumProgressed": 699624,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -34299,7 +34304,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 552701
+      "UsersEstimate": 552703
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -34387,7 +34392,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 251864
+      "UsersEstimate": 251865
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -34603,7 +34608,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104943
+      "UsersEstimate": 104944
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -34730,15 +34735,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 699622,
+      "Progressed": 699624,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2024-01-22T11:02:00.0970025+00:00",
-  "LastChanged_Achievements": "2024-01-23T08:10:25.8737921+00:00",
+  "LastChanged_Achievements": "2024-01-23T09:11:38.5089323+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:41.151494+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:57:10.1125102+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:10:25.8739346+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:57:27.1132932+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:11:38.5091314+00:00"
 }

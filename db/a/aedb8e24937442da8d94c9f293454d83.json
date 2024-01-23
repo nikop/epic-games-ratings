@@ -4,7 +4,7 @@
   "ProductSlug": "a-game-about-flicking-a-switch-713e7e",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 550,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-22T21:56:51.7101114+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:57:19.9059955+00:00",
-  "LastUpdate_Achievements": "2024-01-23T08:03:44.5696369+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:57:42.0263567+00:00",
+  "LastUpdate_Achievements": "2024-01-23T09:04:42.0801552+00:00"
 }
