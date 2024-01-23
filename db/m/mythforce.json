@@ -878,7 +878,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6449,
+  "EOS_Progressed": 6450,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
@@ -13638,6 +13638,11 @@
       "Time": "2024-01-22T22:05:14.5874006+00:00",
       "NumProgressed": 6449,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T01:56:10.3535336+00:00",
+      "NumProgressed": 6450,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13650,7 +13655,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13690,7 +13695,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13698,7 +13703,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13738,7 +13743,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13770,7 +13775,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13778,7 +13783,7 @@
       "Name": "On this Episode!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -13802,7 +13807,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13833,15 +13838,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6449,
+      "Progressed": 6450,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:07:14.0949919+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:56:10.3535332+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:01:30.4883167+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:07:14.0950768+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:50:37.779656+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:56:10.3536104+00:00"
 }

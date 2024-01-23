@@ -2,13 +2,13 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 152,
+  "Ranking_Rating": 151,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2040,
+  "EOS_Progressed": 2041,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3895,6 +3895,11 @@
       "Time": "2024-01-22T20:08:31.5531618+00:00",
       "NumProgressed": 2040,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T01:56:59.1063293+00:00",
+      "NumProgressed": 2041,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3906,7 +3911,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "10",
@@ -3962,7 +3967,7 @@
       "Name": "My little pony",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "17",
@@ -3970,7 +3975,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "18",
@@ -4042,7 +4047,7 @@
       "Name": "Heartstrings",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "27",
@@ -4066,7 +4071,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "30",
@@ -4130,7 +4135,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "9",
@@ -4145,15 +4150,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2040,
+      "Progressed": 2041,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:08:25.4526809+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:56:59.1063287+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:59:08.5444311+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:08:25.4527281+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:49:03.7458404+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:56:59.1063611+00:00"
 }

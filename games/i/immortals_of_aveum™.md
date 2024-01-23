@@ -10,7 +10,7 @@ Rating: 4.20 (Ranked 975)
 | Enlisted | 76.00% | ~2,723 |
 | Maybe Engage a Little | 71.00% | ~2,544 |
 | No More Names | 55.00% | ~1,971 |
-| Initiate | 41.00% | ~1,469 |
+| Initiate | 42.00% | ~1,505 |
 | Thrada-Kul | 38.00% | ~1,362 |
 | Gravity-Challenged Rocks | 32.00% | ~1,147 |
 | Soldier | 28.00% | ~1,003 |

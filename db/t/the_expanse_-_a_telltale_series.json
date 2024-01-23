@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19237,
+  "EOS_Progressed": 19239,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18037,6 +18037,11 @@
       "Time": "2024-01-22T23:05:17.1265405+00:00",
       "NumProgressed": 19237,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-23T01:55:56.98036+00:00",
+      "NumProgressed": 19239,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18097,7 +18102,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "16",
@@ -18169,7 +18174,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "24",
@@ -18199,9 +18204,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2886
     },
     {
       "ID": "28",
@@ -18225,7 +18230,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "30",
@@ -18249,7 +18254,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "6",
@@ -18313,7 +18318,7 @@
       "Name": "Master Negotiator",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "35",
@@ -18328,13 +18333,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19237,
+      "Progressed": 19239,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5191,
+      "Progressed": 5193,
       "Completed": 1390
     }
   ],
@@ -18342,8 +18347,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-22T18:58:41.0959252+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:06:55.4311861+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:55:56.9803598+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:59:35.5872663+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:06:55.4313057+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:49:22.1709544+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:55:56.980443+00:00"
 }

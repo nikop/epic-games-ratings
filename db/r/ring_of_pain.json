@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3946,9 +3946,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243388,
+  "EOS_Progressed": 243389,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32691,6 +32691,11 @@
       "Time": "2024-01-22T23:10:11.055097+00:00",
       "NumProgressed": 243388,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-23T02:00:59.2967327+00:00",
+      "NumProgressed": 243389,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32894,7 +32899,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -32934,7 +32939,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -32966,7 +32971,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "FULLINVENTORY",
@@ -32974,7 +32979,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -33238,7 +33243,7 @@
       "Name": "Shootout",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -33382,7 +33387,7 @@
       "Name": "Toxic",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -33486,7 +33491,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -33805,13 +33810,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243388,
+      "Progressed": 243389,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4868,
+      "Progressed": 4869,
       "Completed": 431
     }
   ],
@@ -33819,8 +33824,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T22:00:30.5602822+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:11:49.2542772+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:00:59.2967326+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
   "LastUpdate_Ratings": "2024-01-23T00:02:58.4477268+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:11:49.2545864+00:00"
+  "LastUpdate_Achievements": "2024-01-23T02:00:59.2970024+00:00"
 }

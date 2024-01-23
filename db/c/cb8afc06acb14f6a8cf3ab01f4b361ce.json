@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,7 +509,7 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 348791,
+  "EOS_Progressed": 348814,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 2800,
   "EOS_NewCompleters": 0,
@@ -14369,6 +14369,11 @@
       "Time": "2024-01-23T00:10:16.7631199+00:00",
       "NumProgressed": 348791,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-23T01:59:52.1093296+00:00",
+      "NumProgressed": 348814,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14381,7 +14386,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "S02_BRDA",
@@ -14389,7 +14394,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13952
+      "UsersEstimate": 13953
     },
     {
       "ID": "S03_OTWA",
@@ -14421,7 +14426,7 @@
       "Name": "They tricked me",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "S07_INWA",
@@ -14517,7 +14522,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14549,7 +14554,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "S23_ETHEREAL",
@@ -14700,7 +14705,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 348791,
+      "Progressed": 348814,
       "Completed": 7
     }
   ],
@@ -14708,8 +14713,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:10:16.7631193+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:59:52.1093293+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:00:04.8417051+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:10:16.763209+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:49:41.7980713+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:59:52.1094676+00:00"
 }

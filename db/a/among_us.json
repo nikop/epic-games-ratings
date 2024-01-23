@@ -2,13 +2,13 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 515,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -11931,10 +11931,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 23830,
       "NumberOfAwardsMax": 3053
+    },
+    {
+      "Time": "2024-01-23T01:53:30.4507112+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 23832,
+      "NumberOfAwardsMax": 3053
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23830,
+  "NumberOfAwards": 23832,
   "NumberOfAwardsMax": 3053,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11948,7 +11954,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 2789
+      "Count": 2790
     },
     {
       "Text": "This game is Relaxing",
@@ -11978,7 +11984,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2218
+      "Count": 2219
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12022,8 +12028,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2024-01-22T21:02:53.9624796+00:00",
+  "LastChanged": "2024-01-23T01:53:30.450711+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:28.7284803+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:03:02.6195067+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:07:57.2239957+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:53:30.4507117+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:56:38.6205153+00:00"
 }

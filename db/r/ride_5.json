@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3677,
+  "EOS_Progressed": 3679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9210,6 +9210,11 @@
       "Time": "2024-01-23T00:08:27.6479175+00:00",
       "NumProgressed": 3677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T01:57:00.6177534+00:00",
+      "NumProgressed": 3679,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9222,7 +9227,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9230,7 +9235,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9254,7 +9259,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9310,7 +9315,7 @@
       "Name": "Legendary!!!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9422,7 +9427,7 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -9430,7 +9435,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9518,7 +9523,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1840
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9526,7 +9531,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9613,7 +9618,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3677,
+      "Progressed": 3679,
       "Completed": 0
     }
   ],
@@ -9621,8 +9626,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:08:27.6479169+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:57:00.6177529+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:57:22.7702719+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:08:27.6480052+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:47:55.4905749+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:57:00.6178225+00:00"
 }

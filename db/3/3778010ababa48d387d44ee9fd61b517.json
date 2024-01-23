@@ -2,10 +2,10 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -654,6 +654,11 @@
       "Time": "2024-01-22T17:08:44.3439791+00:00",
       "NumProgressed": 161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T01:59:11.3254959+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -666,7 +671,7 @@
       "Name": "Researcher",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A_ARTIFACT",
@@ -682,7 +687,7 @@
       "Name": "The Avatar",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A_CHAINBOLT",
@@ -752,9 +757,9 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -770,7 +775,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -834,7 +839,7 @@
       "Name": "Fresh Meat!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -848,9 +853,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 83
     },
     {
       "ID": "A_NOFISH",
@@ -866,7 +871,7 @@
       "Name": "Orb of Wisdom",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "A_POPULATION",
@@ -906,7 +911,7 @@
       "Name": "What\u0027s this?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
@@ -914,7 +919,7 @@
       "Name": "Silencer",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "A_SUN",
@@ -977,14 +982,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:08:58.5202283+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:59:11.3254956+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:15.0895709+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:59:23.7222853+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:08:58.5202526+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:49:13.779997+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:59:11.3255273+00:00"
 }

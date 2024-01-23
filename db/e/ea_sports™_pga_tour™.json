@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -3779,9 +3779,9 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_6",
@@ -3825,8 +3825,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:08:25.6902825+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:56:59.2697103+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:37.1636766+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:01:51.1203597+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:08:25.6903127+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:50:50.0470087+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:56:59.2697383+00:00"
 }

@@ -31,8 +31,8 @@ Rating: 4.59 (Ranked 455)
 | Pandora's box | 16.00% | ~34 |
 | Ghost hunter | 16.00% | ~34 |
 | Hard worker | 16.00% | ~34 |
+| Defender | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
-| Defender | 14.00% | ~30 |
 | Showdown | 14.00% | ~30 |
 | Peacekeeper | 14.00% | ~30 |
 | Workaholic | 13.00% | ~28 |

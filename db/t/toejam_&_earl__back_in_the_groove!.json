@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58909,
+  "EOS_Progressed": 58911,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16311,6 +16311,11 @@
       "Time": "2024-01-23T00:07:38.5910922+00:00",
       "NumProgressed": 58909,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T01:56:25.8840337+00:00",
+      "NumProgressed": 58911,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16634,7 +16639,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "Teamwork",
@@ -16713,7 +16718,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58909,
+      "Progressed": 58911,
       "Completed": 6
     }
   ],
@@ -16721,8 +16726,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:07:38.5910917+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:56:25.8840334+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.1607038+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:59:52.7490376+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:07:38.5911824+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:49:33.7794309+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:56:25.8841533+00:00"
 }

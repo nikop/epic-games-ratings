@@ -31,13 +31,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 1.00% | ~2,434 |
 | An Offering | 1.00% | ~2,434 |
 | Not Touching You | 1.00% | ~49 |
-| Dig Your Own Grave | 0.90% | ~2,190 |
-| Walk It Off | 0.90% | ~2,190 |
-| Cold Hearted | 0.90% | ~2,190 |
-| I Am Overburdened | 0.90% | ~2,190 |
-| Shootout | 0.90% | ~2,190 |
-| Toxic | 0.90% | ~2,190 |
-| Flesh Wound | 0.90% | ~2,190 |
+| Dig Your Own Grave | 0.90% | ~2,191 |
+| Walk It Off | 0.90% | ~2,191 |
+| Cold Hearted | 0.90% | ~2,191 |
+| I Am Overburdened | 0.90% | ~2,191 |
+| Shootout | 0.90% | ~2,191 |
+| Toxic | 0.90% | ~2,191 |
+| Flesh Wound | 0.90% | ~2,191 |
 | Consecutive Curses | 0.80% | ~1,947 |
 | Who To Trust? | 0.80% | ~1,947 |
 | Destroy Your Fears | 0.80% | ~1,947 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,388 (Ranked 75)  
+Progressed: 243,389 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,6 +423,7 @@ Completed: 309 (0.13%) (Ranked 308)
 | 2024-01-20 | 243,288 | 309 |
 | 2024-01-21 | 243,345 | 309 |
 | 2024-01-22 | 243,388 | 309 |
+| 2024-01-23 | 243,389 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,802 (Ranked 92)  

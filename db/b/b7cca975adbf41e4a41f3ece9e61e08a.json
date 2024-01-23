@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -343,7 +343,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18987,
+  "EOS_Progressed": 18988,
   "EOS_Completed": 338,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 9,
@@ -10638,6 +10638,11 @@
       "Time": "2024-01-22T20:11:06.9084734+00:00",
       "NumProgressed": 18987,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2024-01-23T02:00:33.9902041+00:00",
+      "NumProgressed": 18988,
+      "NumCompleted": 338
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10658,7 +10663,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15379
+      "UsersEstimate": 15380
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10674,7 +10679,7 @@
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -10730,7 +10735,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -10746,7 +10751,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12531
+      "UsersEstimate": 12532
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10794,7 +10799,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -10802,7 +10807,7 @@
       "Name": "Still Single",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -10834,7 +10839,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 11202
+      "UsersEstimate": 11203
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -10858,7 +10863,7 @@
       "Name": "What I Want Is You",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 10253
+      "UsersEstimate": 10254
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10866,7 +10871,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 9683
+      "UsersEstimate": 9684
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -10890,7 +10895,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -10962,7 +10967,7 @@
       "Name": "Drama King",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10985,7 +10990,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18987,
+      "Progressed": 18988,
       "Completed": 338
     }
   ],
@@ -10993,8 +10998,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-20T14:59:39.7389406+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:11:15.8855898+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:00:33.9902037+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:02:56.0443253+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:11:15.8856528+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:51:06.3117861+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:00:33.9902857+00:00"
 }

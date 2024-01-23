@@ -6,24 +6,24 @@ Rating: 4.69 (Ranked 241)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 88.00% | ~16,709 |
-| I Challenge You To Save More Money! | 81.00% | ~15,379 |
-| I Love How Tough You Are | 66.00% | ~12,531 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~11,202 |
-| What I Want Is You | 54.00% | ~10,253 |
-| To Be Or Not To Be | 51.00% | ~9,683 |
+| I Challenge You To Save More Money! | 81.00% | ~15,380 |
+| I Love How Tough You Are | 66.00% | ~12,532 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~11,203 |
+| What I Want Is You | 54.00% | ~10,254 |
+| To Be Or Not To Be | 51.00% | ~9,684 |
 | Are You Alright? | 47.00% | ~8,924 |
 | Love Actually | 42.00% | ~7,975 |
-| Drama King | 37.00% | ~7,025 |
+| Drama King | 37.00% | ~7,026 |
 | Go Clean up In Your Own Way | 34.00% | ~6,456 |
 | Drama CP: Reel to Real | 32.00% | ~6,076 |
 | You're Really Something Else | 32.00% | ~6,076 |
 | FIRST LOVE | 31.00% | ~5,886 |
 | Worthless Speech | 31.00% | ~5,886 |
 | Happy Family | 30.00% | ~5,696 |
-| Absolutely Elegant | 29.00% | ~5,506 |
-| ONE PUNCH | 29.00% | ~5,506 |
-| Still Single | 28.00% | ~5,316 |
-| Days Of Innocence | 27.00% | ~5,126 |
+| Absolutely Elegant | 29.00% | ~5,507 |
+| ONE PUNCH | 29.00% | ~5,507 |
+| Still Single | 28.00% | ~5,317 |
+| Days Of Innocence | 27.00% | ~5,127 |
 | David | 26.00% | ~4,937 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,747 |
 | All I Have Is Money | 22.00% | ~4,177 |
@@ -35,7 +35,7 @@ Rating: 4.69 (Ranked 241)
 | Off We Sail Tonight | 15.00% | ~2,848 |
 | Love You Three Thousand | 14.00% | ~2,658 |
 | Can You Do This Or Not? | 14.00% | ~2,658 |
-| Doesn't Matter I'll Handle It | 12.00% | ~2,278 |
+| Doesn't Matter I'll Handle It | 12.00% | ~2,279 |
 | The Flash | 11.00% | ~2,089 |
 | New Yoga Pose Unlocked | 10.00% | ~1,899 |
 | My Dear Love! | 8.00% | ~1,519 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 241)
 | Tall; Grande; Venti | 2.00% | ~380 |
 | Limerence | 2.00% | ~380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,987 (Ranked 162)  
+Progressed: 18,988 (Ranked 162)  
 Completed: 338 (1.78%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 338 (1.78%) (Ranked 148)
 | 2024-01-20 | 18,910 | 336 |
 | 2024-01-21 | 18,953 | 337 |
 | 2024-01-22 | 18,987 | 338 |
+| 2024-01-23 | 18,988 | 338 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 489)  
 Sum: 40 (Ranked 529)  

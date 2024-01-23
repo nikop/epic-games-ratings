@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~643,118 |
-| Death From Above | 44.00% | ~615,156 |
-| Master of the Household | 37.00% | ~517,290 |
-| Death of the Party | 35.00% | ~489,329 |
-| NEXUS-47 | 32.00% | ~447,386 |
-| The Last Tango | 31.00% | ~433,405 |
-| Nightmare Fuel | 30.00% | ~419,425 |
-| The Result of Previous Training | 29.00% | ~405,444 |
-| Cleared for Field Duty | 28.00% | ~391,463 |
-| Tools of the Trade | 28.00% | ~391,463 |
-| Seizing the Opportunity | 26.00% | ~363,501 |
-| Bullet Train | 21.00% | ~293,597 |
-| Stylish Assassin | 20.00% | ~279,616 |
-| Silent Assassin | 14.00% | ~195,731 |
-| Rise Up | 12.00% | ~167,770 |
-| Evil Wine Club | 11.00% | ~153,789 |
-| Console Cowboy | 10.00% | ~139,808 |
-| Last Stop | 10.00% | ~139,808 |
-| A New Profile | 9.00% | ~125,827 |
+| Unseen Assassin | 46.00% | ~643,123 |
+| Death From Above | 44.00% | ~615,161 |
+| Master of the Household | 37.00% | ~517,294 |
+| Death of the Party | 35.00% | ~489,333 |
+| NEXUS-47 | 32.00% | ~447,390 |
+| The Last Tango | 31.00% | ~433,409 |
+| Nightmare Fuel | 30.00% | ~419,428 |
+| The Result of Previous Training | 29.00% | ~405,447 |
+| Cleared for Field Duty | 28.00% | ~391,466 |
+| Tools of the Trade | 28.00% | ~391,466 |
+| Seizing the Opportunity | 26.00% | ~363,504 |
+| Bullet Train | 21.00% | ~293,600 |
+| Stylish Assassin | 20.00% | ~279,619 |
+| Silent Assassin | 14.00% | ~195,733 |
+| Rise Up | 12.00% | ~167,771 |
+| Evil Wine Club | 11.00% | ~153,790 |
+| Console Cowboy | 10.00% | ~139,809 |
+| Last Stop | 10.00% | ~139,809 |
+| A New Profile | 9.00% | ~125,828 |
 | Dune Raider | 8.00% | ~111,847 |
 | Full House | 8.00% | ~111,847 |
 | Train Surfing | 8.00% | ~111,847 |
-| No Stone Unturned | 7.00% | ~97,866 |
-| Family Feud | 6.00% | ~83,885 |
-| Icebreaker | 6.00% | ~83,885 |
-| Count Down From 47 | 6.00% | ~83,885 |
-| Shortcut Killer | 5.00% | ~69,904 |
-| Followed the Trails | 5.00% | ~69,904 |
-| Last Call | 5.00% | ~69,904 |
-| Rich Harvest | 5.00% | ~69,904 |
-| Treacherous Architecture | 4.00% | ~55,923 |
-| Stair Master | 4.00% | ~55,923 |
-| Upstairs, Downstairs | 4.00% | ~55,923 |
-| The Great Outdoors | 4.00% | ~55,923 |
-| Partied Out | 4.00% | ~55,923 |
-| Surveillance Master | 4.00% | ~55,923 |
-| Training Escalated | 3.00% | ~41,942 |
-| Warehouse Veteran | 3.00% | ~41,942 |
-| Future Shock | 3.00% | ~41,942 |
-| Hack the Planet | 3.00% | ~41,942 |
-| Master the Terroir | 3.00% | ~41,942 |
-| Vineyard Virtuoso | 3.00% | ~41,942 |
+| No Stone Unturned | 7.00% | ~97,867 |
+| Family Feud | 6.00% | ~83,886 |
+| Icebreaker | 6.00% | ~83,886 |
+| Count Down From 47 | 6.00% | ~83,886 |
+| Shortcut Killer | 5.00% | ~69,905 |
+| Followed the Trails | 5.00% | ~69,905 |
+| Last Call | 5.00% | ~69,905 |
+| Rich Harvest | 5.00% | ~69,905 |
+| Treacherous Architecture | 4.00% | ~55,924 |
+| Stair Master | 4.00% | ~55,924 |
+| Upstairs, Downstairs | 4.00% | ~55,924 |
+| The Great Outdoors | 4.00% | ~55,924 |
+| Partied Out | 4.00% | ~55,924 |
+| Surveillance Master | 4.00% | ~55,924 |
+| Training Escalated | 3.00% | ~41,943 |
+| Warehouse Veteran | 3.00% | ~41,943 |
+| Future Shock | 3.00% | ~41,943 |
+| Hack the Planet | 3.00% | ~41,943 |
+| Master the Terroir | 3.00% | ~41,943 |
+| Vineyard Virtuoso | 3.00% | ~41,943 |
 | Keep Your Eyes Peeled | 2.00% | ~27,962 |
 | Bird Art | 2.00% | ~27,962 |
 | Top of the Class | 1.00% | ~13,981 |
 | Ripe for the Picking | 1.00% | ~13,981 |
 | The Creative Assassin | 0.70% | ~9,787 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,398,082 (Ranked 9)  
+Progressed: 1,398,093 (Ranked 9)  
 Completed: 2,243 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 2,243 (0.16%) (Ranked 297)
 | 2024-01-20 | 1,397,311 | 2,242 |
 | 2024-01-21 | 1,397,727 | 2,243 |
 | 2024-01-22 | 1,398,072 | 2,243 |
-| 2024-01-23 | 1,398,082 | 2,243 |
+| 2024-01-23 | 1,398,093 | 2,243 |
 ## Awards
 Max (Diverse Characters): 11,522  (Ranked 38)  
 Sum: 77,579 (Ranked 22)  

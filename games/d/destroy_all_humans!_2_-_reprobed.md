@@ -23,9 +23,9 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 18.00% | ~84 |
 | Transmitting From Sol-3 | 17.00% | ~80 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~66 |
+| Fly Me to the Moon Base | 12.00% | ~56 |
 | Kaijuiced | 12.00% | ~56 |
 | Dusted | 12.00% | ~56 |
-| Fly Me to the Moon Base | 11.00% | ~51 |
 | Scuttled | 10.00% | ~47 |
 | Lobster Blisque | 7.00% | ~33 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~33 |

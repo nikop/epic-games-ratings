@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -2435,9 +2435,9 @@
       "ID": "ach_scenarios_3",
       "SetID": "b8gh1fi",
       "Name": "Scenario Master",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_support_1",
@@ -2532,8 +2532,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:05:08.1549351+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:54:41.7768163+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:57:15.1795686+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:05:08.1550278+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:47:50.8064553+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:54:41.7769112+00:00"
 }

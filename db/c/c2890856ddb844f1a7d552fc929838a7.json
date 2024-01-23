@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -6635,9 +6635,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1095
     },
     {
       "ID": "AC29",
@@ -6788,8 +6788,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:08:42.4169338+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:59:00.4534619+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:59:18.5487909+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:08:42.4169871+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:49:10.2874583+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:59:00.4535191+00:00"
 }

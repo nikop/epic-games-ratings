@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4251,10 +4251,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 6883,
       "NumberOfAwardsMax": 2512
+    },
+    {
+      "Time": "2024-01-23T01:53:35.6596184+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 6884,
+      "NumberOfAwardsMax": 2512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6883,
+  "NumberOfAwards": 6884,
   "NumberOfAwardsMax": 2512,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4286,7 +4292,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 476
+      "Count": 477
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4331,7 +4337,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59739,
+  "EOS_Progressed": 59740,
   "EOS_Completed": 264,
   "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 3,
@@ -19511,6 +19517,11 @@
       "Time": "2024-01-23T00:09:11.8916037+00:00",
       "NumProgressed": 59739,
       "NumCompleted": 264
+    },
+    {
+      "Time": "2024-01-23T01:59:20.8980676+00:00",
+      "NumProgressed": 59740,
+      "NumCompleted": 264
     }
   ],
   "TotalAchievements": 45,
@@ -19546,7 +19557,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45999
+      "UsersEstimate": 46000
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19642,7 +19653,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 26285
+      "UsersEstimate": 26286
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -19698,7 +19709,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 11350
+      "UsersEstimate": 11351
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -19714,7 +19725,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 32259
+      "UsersEstimate": 32260
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -19786,7 +19797,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57349
+      "UsersEstimate": 57350
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19826,7 +19837,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41220
+      "UsersEstimate": 41221
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -19874,22 +19885,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41220
+      "UsersEstimate": 41221
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59739,
+      "Progressed": 59740,
       "Completed": 264
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2024-01-22T16:02:50.4038184+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:09:11.8916031+00:00",
+  "LastChanged": "2024-01-23T01:53:35.6596182+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:59:20.8980673+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.6764829+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:03:09.7422622+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:09:11.8917045+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:53:35.6596187+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:59:20.8981704+00:00"
 }

@@ -9183,7 +9183,7 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762422,
+  "EOS_Progressed": 762427,
   "EOS_Completed": 13004,
   "EOS_NewPlayers": 1402,
   "EOS_NewCompleters": 15,
@@ -34933,6 +34933,11 @@
       "Time": "2024-01-23T00:11:06.1089523+00:00",
       "NumProgressed": 762422,
       "NumCompleted": 13004
+    },
+    {
+      "Time": "2024-01-23T02:00:27.235031+00:00",
+      "NumProgressed": 762427,
+      "NumCompleted": 13004
     }
   ],
   "TotalAchievements": 60,
@@ -34944,7 +34949,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45745
+      "UsersEstimate": 45746
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34968,7 +34973,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "05_Vengeance_H4",
@@ -34976,7 +34981,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "06_Vengeance_H5",
@@ -34984,7 +34989,7 @@
       "Name": "Furious Fists",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "07_Wude_H1",
@@ -35048,7 +35053,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "15_Detective_H1",
@@ -35136,7 +35141,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "26_ShrineSpirit",
@@ -35144,7 +35149,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "27_ShrineBody",
@@ -35176,7 +35181,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "31_ComboHigh",
@@ -35224,7 +35229,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -35232,7 +35237,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -35256,7 +35261,7 @@
       "Name": "Take damage to save time",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -35288,7 +35293,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -35423,21 +35428,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71723,
+      "Progressed": 71728,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762422,
+      "Progressed": 762427,
       "Completed": 13004
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-22T21:03:32.9825001+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:11:06.1089518+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:00:27.2350307+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:03:56.9885457+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:11:06.1091143+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:53:53.0266617+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:00:27.2352186+00:00"
 }

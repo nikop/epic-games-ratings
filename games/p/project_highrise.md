@@ -83,8 +83,8 @@
 | Lofty Landlord | 0.90% | ~5 |
 | High Hand | 0.70% | ~4 |
 | Double Down | 0.70% | ~4 |
+| Scenario Master | 0.70% | ~4 |
 | Artistic Largesse | 0.60% | ~3 |
-| Scenario Master | 0.60% | ~3 |
 | Poker Face | 0.40% | ~2 |
 | Infrastructure Info | 0.20% | ~1 |
 | Statue Stature | 0.00% | ~0 |

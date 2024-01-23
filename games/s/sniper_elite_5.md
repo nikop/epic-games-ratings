@@ -5,25 +5,25 @@ Rating: 4.48 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,036 |
-| Confirming Suspicions | 42.00% | ~1,819 |
-| The Kraken Wakes | 38.00% | ~1,646 |
-| It's Starting to Crack | 35.00% | ~1,516 |
-| Change the Channel | 32.00% | ~1,386 |
+| Meeting Resistance | 47.00% | ~2,037 |
+| Confirming Suspicions | 42.00% | ~1,820 |
+| The Kraken Wakes | 38.00% | ~1,647 |
+| It's Starting to Crack | 35.00% | ~1,517 |
+| Change the Channel | 32.00% | ~1,387 |
 | Lord of War | 31.00% | ~1,343 |
-| Taking it back | 30.00% | ~1,299 |
+| Taking it back | 30.00% | ~1,300 |
 | Resourceful | 28.00% | ~1,213 |
 | Target America | 28.00% | ~1,213 |
-| The Kraken Sleeps | 26.00% | ~1,126 |
-| Liberté | 24.00% | ~1,039 |
-| Organ Grinder | 24.00% | ~1,039 |
-| As Quiet as a Mouse | 24.00% | ~1,039 |
-| Sharpshooter | 23.00% | ~996 |
-| Gunslinger | 20.00% | ~866 |
-| Explosive Efficiency | 20.00% | ~866 |
-| Climbing the Ladder | 17.00% | ~736 |
-| Just a Flesh Wound | 17.00% | ~736 |
-| Der Geist | 17.00% | ~736 |
+| The Kraken Sleeps | 26.00% | ~1,127 |
+| Liberté | 24.00% | ~1,040 |
+| Organ Grinder | 24.00% | ~1,040 |
+| As Quiet as a Mouse | 24.00% | ~1,040 |
+| Sharpshooter | 23.00% | ~997 |
+| Gunslinger | 20.00% | ~867 |
+| Explosive Efficiency | 20.00% | ~867 |
+| Climbing the Ladder | 17.00% | ~737 |
+| Just a Flesh Wound | 17.00% | ~737 |
+| Der Geist | 17.00% | ~737 |
 | Skirmisher | 16.00% | ~693 |
 | Close Quarters | 16.00% | ~693 |
 | Snake in the Grass | 16.00% | ~693 |
@@ -31,9 +31,9 @@ Rating: 4.48 (Ranked 663)
 | No Stone Unturned | 15.00% | ~650 |
 | Fields of Glory | 15.00% | ~650 |
 | Die Nussknacker Sweet! | 15.00% | ~650 |
-| Opposing Force | 14.00% | ~606 |
-| Enemy at the Gates | 14.00% | ~606 |
-| Set Europe Ablaze | 14.00% | ~606 |
+| Opposing Force | 14.00% | ~607 |
+| Enemy at the Gates | 14.00% | ~607 |
+| Set Europe Ablaze | 14.00% | ~607 |
 | Precision Is Key | 10.00% | ~433 |
 | My Little Friend | 10.00% | ~433 |
 | Rigged to Blow | 9.00% | ~390 |
@@ -54,8 +54,8 @@ Rating: 4.48 (Ranked 663)
 | From Paris with Love | 3.00% | ~130 |
 | Souvenir hunter | 3.00% | ~130 |
 | Shoot for the Moon | 3.00% | ~130 |
-| Fight Another Day | 3.00% | ~128 |
-| Shipbreaker | 3.00% | ~128 |
+| Fight Another Day | 3.00% | ~129 |
+| Shipbreaker | 3.00% | ~129 |
 | Out of Scope | 2.00% | ~87 |
 | Eagle Eyed | 2.00% | ~87 |
 | Up close and personal | 2.00% | ~87 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 663)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,331 (Ranked 217)  
+Progressed: 4,333 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,6 +353,7 @@ Completed: 11 (0.25%) (Ranked 275)
 | 2024-01-20 | 4,317 | 11 |
 | 2024-01-21 | 4,327 | 11 |
 | 2024-01-22 | 4,331 | 11 |
+| 2024-01-23 | 4,333 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 525)  
 Sum: 31 (Ranked 548)  

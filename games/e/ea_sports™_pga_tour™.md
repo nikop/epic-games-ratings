@@ -18,7 +18,7 @@
 | From Many, One | 20.00% | ~201 |
 | A Tradition Unlike Any Other | 18.00% | ~181 |
 | A Passion for Excellence | 18.00% | ~181 |
-| Golf's Original Championship | 17.00% | ~171 |
+| Golf's Original Championship | 18.00% | ~181 |
 | The Ultimate Prize | 13.00% | ~131 |
 | Golfer Versus Golfer | 10.00% | ~101 |
 | Victory Lap | 6.00% | ~60 |

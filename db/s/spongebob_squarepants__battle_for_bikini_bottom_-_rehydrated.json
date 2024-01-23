@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
@@ -3293,6 +3293,11 @@
       "Time": "2024-01-22T23:05:39.629149+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T01:56:19.9999335+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3377,7 +3382,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3385,7 +3390,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3481,7 +3486,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -3513,7 +3518,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3521,7 +3526,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3560,15 +3565,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:07:27.9805374+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:56:19.9999332+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:01:40.2576005+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:07:27.9805739+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:50:43.0835791+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:56:19.9999797+00:00"
 }

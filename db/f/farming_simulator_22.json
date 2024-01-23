@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13896,9 +13896,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63564,
+  "EOS_Progressed": 63565,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40456,6 +40456,11 @@
       "Time": "2024-01-22T23:08:29.0471351+00:00",
       "NumProgressed": 63564,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T01:59:18.0240627+00:00",
+      "NumProgressed": 63565,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -40619,7 +40624,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 45130
+      "UsersEstimate": 45131
     },
     {
       "ID": "HorseJumps",
@@ -40667,7 +40672,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22247
+      "UsersEstimate": 22248
     },
     {
       "ID": "Money",
@@ -40675,7 +40680,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 31146
+      "UsersEstimate": 31147
     },
     {
       "ID": "NumBeehives",
@@ -40699,7 +40704,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 26061
+      "UsersEstimate": 26062
     },
     {
       "ID": "NumProductionPoints",
@@ -40755,7 +40760,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36867
+      "UsersEstimate": 36868
     },
     {
       "ID": "Stones",
@@ -40810,15 +40815,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63564,
+      "Progressed": 63565,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-22T20:03:08.620159+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:09:08.2360909+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:59:18.0240623+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
   "LastUpdate_Ratings": "2024-01-23T00:02:57.908238+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:09:08.2362296+00:00"
+  "LastUpdate_Achievements": "2024-01-23T01:59:18.0243051+00:00"
 }

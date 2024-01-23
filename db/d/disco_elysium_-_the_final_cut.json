@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1712,9 +1712,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139917,
+  "EOS_Progressed": 139918,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29517,6 +29517,11 @@
       "Time": "2024-01-23T00:09:45.0713218+00:00",
       "NumProgressed": 139917,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-23T01:59:44.1451954+00:00",
+      "NumProgressed": 139918,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29640,7 +29645,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27983
+      "UsersEstimate": 27984
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29744,7 +29749,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19588
+      "UsersEstimate": 19589
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -29808,7 +29813,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19588
+      "UsersEstimate": 19589
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -29847,15 +29852,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139917,
+      "Progressed": 139918,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-22T13:58:14.1940946+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:09:45.0713201+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:59:44.1451953+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:59:07.9912274+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:09:45.0715282+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:49:03.3934214+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:59:44.1453568+00:00"
 }

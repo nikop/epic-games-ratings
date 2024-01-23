@@ -9,7 +9,7 @@
 | Welcome to the Club | 12.00% | ~20 |
 | A new World ahead | 12.00% | ~20 |
 | Don't Cry Wolf | 11.00% | ~19 |
-| Apprentice | 6.00% | ~10 |
+| Apprentice | 7.00% | ~12 |
 | Craftsmen | 5.00% | ~8 |
 | Freezing Cold | 5.00% | ~8 |
 | Locked and Loaded | 5.00% | ~8 |

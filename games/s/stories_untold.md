@@ -1,7 +1,7 @@
 # Stories Untold
 [Store](https://store.epicgames.com/en-US/p/stories-untold)  
 [View Rawdata](../../db/s/stories_untold.json)  
-Rating: 4.51 (Ranked 599)  
+Rating: 4.52 (Ranked 584)  
 Number of Ratings: 28  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -43,3 +43,4 @@ Number of Ratings: 28  (23.09.2022)
 | 2023-03-31 | 4.51 | - | 0 | 0 |
 | 2023-07-27 | 4.50 | - | 0 | 0 |
 | 2023-09-01 | 4.51 | - | 0 | 0 |
+| 2024-01-23 | 4.52 | - | 0 | 0 |

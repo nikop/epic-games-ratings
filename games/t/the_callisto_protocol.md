@@ -5,14 +5,14 @@ Rating: 4.22 (Ranked 961)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,349 |
-| The Outer Way | 28.00% | ~6,349 |
+| Flesh Wound | 28.00% | ~6,350 |
+| The Outer Way | 28.00% | ~6,350 |
 | Desperate Times | 26.00% | ~5,896 |
-| Paper Jams | 25.00% | ~5,669 |
-| Get a Grip | 24.00% | ~5,442 |
-| Chew 'Em Up | 22.00% | ~4,988 |
+| Paper Jams | 25.00% | ~5,670 |
+| Get a Grip | 24.00% | ~5,443 |
+| Chew 'Em Up | 22.00% | ~4,989 |
 | Reforged | 21.00% | ~4,762 |
-| Float Like A Butterfly | 19.00% | ~4,308 |
+| Float Like A Butterfly | 19.00% | ~4,309 |
 | Workplace Hazard | 18.00% | ~4,082 |
 | If the SHU Fits... | 18.00% | ~4,082 |
 | Without A Paddle | 16.00% | ~3,628 |
@@ -23,11 +23,11 @@ Rating: 4.22 (Ranked 961)
 | Terminated | 12.00% | ~2,721 |
 | What Lies Beneath | 12.00% | ~2,721 |
 | Full Circle | 12.00% | ~2,721 |
-| Giving Back | 11.00% | ~2,494 |
+| Giving Back | 11.00% | ~2,495 |
 | You Need a Gun | 10.00% | ~2,268 |
 | I Do Belong Here | 9.00% | ~2,041 |
 | Keep Fighting | 8.00% | ~848 |
-| The Commonality | 6.00% | ~1,360 |
+| The Commonality | 6.00% | ~1,361 |
 | It's Time | 6.00% | ~636 |
 | In Striking Distance | 5.00% | ~1,134 |
 | One Last Job | 3.00% | ~318 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 961)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,675 (Ranked 153)  
+Progressed: 22,678 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,14 +323,15 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-20 | 22,600 | 82 |
 | 2024-01-21 | 22,649 | 82 |
 | 2024-01-22 | 22,675 | 82 |
+| 2024-01-23 | 22,678 | 82 |
 ## Awards
 Max (Amazing Characters): 141  (Ranked 343)  
-Sum: 684 (Ranked 316)  
+Sum: 685 (Ranked 316)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 141 |
-| This game is Highly Recommended | 123 |
+| This game is Highly Recommended | 124 |
 | This game is Extremely Fun | 123 |
 | This game has Amazing Storytelling | 122 |
 | This game has Quickly Understood Controls | 117 |
@@ -549,3 +550,4 @@ Diff (max vs sum): 27
 | 2024-01-20 | 4.22 | 139 | 678 |
 | 2024-01-21 | 4.22 | 141 | 681 |
 | 2024-01-22 | 4.22 | 141 | 684 |
+| 2024-01-23 | 4.22 | 141 | 685 |

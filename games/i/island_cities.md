@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome! | 96.00% | ~866 |
-| A tiny town | 86.00% | ~776 |
+| A tiny town | 87.00% | ~785 |
 | Buildings, roads, cars, ...and people | 66.00% | ~595 |
 | Great view from the beach and from the hill | 57.00% | ~514 |
 | Bridges to come and go | 50.00% | ~451 |
@@ -27,7 +27,7 @@
 | Happy Christmas night! | 17.00% | ~153 |
 | Night walk along the beach | 17.00% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 902 (Ranked 313)  
+Progressed: 902 (Ranked 312)  
 Completed: 151 (16.74%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |

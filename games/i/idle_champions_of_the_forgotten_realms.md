@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.20% | ~510 |
 | Captured! | 0.20% | ~510 |
 | Force Grey Unleashed | 0.20% | ~510 |
+| Vajra's Guards | 0.20% | ~510 |
 | Wisdom Check | 0.20% | ~510 |
 | Sleuth It Out | 0.20% | ~510 |
 | A Grand Puzzle | 0.20% | ~510 |
@@ -86,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.20% | ~510 |
 | Family Entanglements | 0.20% | ~510 |
 | Chatty Nobles | 0.20% | ~510 |
+| Modron Assistance | 0.20% | ~510 |
 | Haaave You Met Asmodeus? | 0.20% | ~510 |
 | Domesticated Owlbears | 0.20% | ~510 |
 | The Immortal Warrior | 0.20% | ~510 |
@@ -256,7 +258,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~255 |
 | Double Vision | 0.10% | ~255 |
 | Underground Railroad | 0.10% | ~255 |
-| Vajra's Guards | 0.10% | ~255 |
 | The Newcomers of Notoriety | 0.10% | ~222 |
 | Never Split the Party | 0.10% | ~255 |
 | Azaka's Procession - Part 1 | 0.10% | ~255 |
@@ -270,7 +271,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~255 |
 | Poor Fortune | 0.10% | ~255 |
 | Relentless Misfortune | 0.10% | ~255 |
-| Modron Assistance | 0.10% | ~255 |
 | Thine Bounty is Mine! | 0.10% | ~222 |
 | This Quest Stinks! | 0.10% | ~222 |
 | Hold for the Red Wizards | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,230 (Ranked 71)  
+Progressed: 255,237 (Ranked 71)  
 Completed: 2,633 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -831,7 +831,7 @@ Completed: 2,633 (1.03%) (Ranked 180)
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
-| 2024-01-23 | 255,230 | 2,633 |
+| 2024-01-23 | 255,237 | 2,633 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 74)  
 Sum: 33,612 (Ranked 41)  

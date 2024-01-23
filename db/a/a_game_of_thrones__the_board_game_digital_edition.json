@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1446,9 +1446,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34136,
+  "EOS_Progressed": 34142,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31366,6 +31366,11 @@
       "Time": "2024-01-23T00:11:24.4104307+00:00",
       "NumProgressed": 34136,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-23T02:00:40.3184362+00:00",
+      "NumProgressed": 34142,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31385,7 +31390,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "1017",
@@ -31393,7 +31398,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "1018",
@@ -31433,7 +31438,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "1023",
@@ -31473,7 +31478,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "1028",
@@ -31481,7 +31486,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5803
+      "UsersEstimate": 5804
     },
     {
       "ID": "1029",
@@ -31497,7 +31502,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "1031",
@@ -31513,7 +31518,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13654
+      "UsersEstimate": 13657
     },
     {
       "ID": "1033",
@@ -31537,7 +31542,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "1036",
@@ -31552,15 +31557,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34136,
+      "Progressed": 34142,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-21T18:01:14.7181216+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:11:24.4104303+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:00:40.3184358+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:01:49.384039+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:11:24.4106396+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:50:48.9646446+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:00:40.3186136+00:00"
 }

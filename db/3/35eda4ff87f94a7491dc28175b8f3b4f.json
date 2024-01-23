@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -287,10 +287,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23199,
+  "EOS_Progressed": 23208,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 1069,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1066,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
@@ -9017,6 +9017,11 @@
       "Time": "2024-01-23T00:05:36.3257483+00:00",
       "NumProgressed": 23199,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2024-01-23T01:55:01.5088397+00:00",
+      "NumProgressed": 23208,
+      "NumCompleted": 122
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9037,7 +9042,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -9061,7 +9066,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -9077,7 +9082,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -9085,7 +9090,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -9093,7 +9098,7 @@
       "Name": "Locksmith",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -9108,7 +9113,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 23199,
+      "Progressed": 23208,
       "Completed": 122
     }
   ],
@@ -9116,8 +9121,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:05:36.3257478+00:00",
+  "LastChanged_Achievements": "2024-01-23T01:55:01.5088393+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:58:02.8941179+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:05:36.3257959+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:48:21.9665962+00:00",
+  "LastUpdate_Achievements": "2024-01-23T01:55:01.5088962+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2301,10 +2301,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 684,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-01-23T01:54:03.5303873+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 685,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 684,
+  "NumberOfAwards": 685,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2312,7 +2318,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 123
+      "Count": 124
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2351,9 +2357,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22675,
+  "EOS_Progressed": 22678,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14736,6 +14742,11 @@
       "Time": "2024-01-22T22:09:25.8211551+00:00",
       "NumProgressed": 22675,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-23T02:00:36.2122453+00:00",
+      "NumProgressed": 22678,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14763,7 +14774,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14779,7 +14790,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14851,7 +14862,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5442
+      "UsersEstimate": 5443
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14875,7 +14886,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4988
+      "UsersEstimate": 4989
     },
     {
       "ID": "KILL_ROBOT",
@@ -14899,7 +14910,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14907,7 +14918,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14923,7 +14934,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5670
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14939,7 +14950,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15122,22 +15133,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22675,
+      "Progressed": 22678,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10601,
+      "Progressed": 10604,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-22T14:03:24.1566114+00:00",
-  "LastChanged_Achievements": "2024-01-23T00:11:18.8070467+00:00",
+  "LastChanged": "2024-01-23T01:54:03.5303872+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:00:36.212245+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-23T00:04:12.7901454+00:00",
-  "LastUpdate_Achievements": "2024-01-23T00:11:18.8071525+00:00"
+  "LastUpdate_Ratings": "2024-01-23T01:54:03.5303877+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:00:36.212337+00:00"
 }
