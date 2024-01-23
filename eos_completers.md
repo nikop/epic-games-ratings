@@ -75,7 +75,7 @@
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
 | 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.10% |
+| 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.08% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
 | 78 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
 | 79 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.88% |
@@ -108,7 +108,7 @@
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
-| 109 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.17% |
+| 109 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.16% |
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
 | 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
@@ -194,8 +194,8 @@
 | 192 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 192 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.88% |
 | 192 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.88% |
-| 195 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.87% |
-| 196 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.86% |
+| 195 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.86% |
+| 195 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.86% |
 | 197 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.85% |
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 199 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
