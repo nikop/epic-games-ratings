@@ -112,7 +112,7 @@
 | 99 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 59 | 439 |
 | 99 | [Star Atlas](games/s/star_atlas.md) | 4.79 | 30 | 531 |
 | 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,186 | 44 |
-| 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 181 | 317 |
+| 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 182 | 315 |
 | 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,266 | 66 |
 | 112 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.78 | 0 | 591 |
 | 112 | [Quake](games/q/quake.md) | 4.78 | 52 | 457 |
@@ -374,7 +374,7 @@
 | 359 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 591 |
 | 359 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 591 |
 | 359 | [Madcar GT](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.63 | 0 | 591 |
-| 359 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 682 | 200 |
+| 359 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 683 | 200 |
 | 359 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 591 |
 | 359 | [Prey](games/p/prey.md) | 4.63 | 5,884 | 72 |
 | 359 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 191 | 309 |
@@ -477,7 +477,7 @@
 | 475 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 479 |
 | 475 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 66,070 | 11 |
 | 475 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.58 | 0 | 591 |
-| 475 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 12,625 | 35 |
+| 475 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 12,672 | 35 |
 | 475 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 273 | 277 |
 | 475 | [Ghostrunner](games/g/ghostrunner.md) | 4.58 | 1,663 | 137 |
 | 475 | [GRIT](games/g/grit.md) | 4.58 | 0 | 591 |
@@ -519,7 +519,7 @@
 | 516 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 0 | 591 |
 | 516 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 591 |
 | 516 | [Costume Quest](games/c/costume_quest.md) | 4.56 | 0 | 591 |
-| 516 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,002 | 164 |
+| 516 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,004 | 164 |
 | 516 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 546 |
 | 516 | [Hue](games/h/hue.md) | 4.56 | 0 | 591 |
 | 516 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 591 |
@@ -982,7 +982,7 @@
 | 975 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 23 | 566 |
 | 975 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 571 |
 | 975 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 0 | 591 |
-| 975 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,242 | 79 |
+| 975 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,252 | 79 |
 | 975 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 0 | 591 |
 | 985 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 466 |
 | 985 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,243 | 102 |
