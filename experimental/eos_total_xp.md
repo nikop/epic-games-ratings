@@ -301,6 +301,7 @@
 | [Entomophobia](../games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 14 | 1,000 |
 | [Enypnion Redreamed](../games/e/e8f7fa1572fd4c2a9e6cc855878684f9.md) | 10 | 1,000 |
 | [Epic World - Hunt For Quest](../games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 10 | 1,000 |
+| [Escape from Blackwood](../games/b/b38098b4cbc9429ab4f1eac7a23cf152.md) | 5 | 1,000 |
 | [Eternal Evil](../games/c/c188c5b560174a979ede32563e6e25e5.md) | 31 | 1,000 |
 | [Eternal Threads](../games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 10 | 1,000 |
 | [Eternights](../games/e/eternights.md) | 25 | 1,000 |
