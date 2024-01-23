@@ -411,6 +411,7 @@
 | [Hotel: A Resort Simulator](../games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 27 | 1,000 |
 | [House Flipper](../games/h/house_flipper.md) | 23 | 1,000 |
 | [House In The Hollow](../games/h/house_in_the_hollow.md) | 19 | 1,000 |
+| [Howl](../games/h/howl.md) | 16 | 1,000 |
 | [Hundred Days - Winemaking Simulator](../games/h/hundred_days_-_winemaking_simulator.md) | 31 | 1,000 |
 | [Hunt the Night](../games/h/hunt_the_night.md) | 22 | 1,000 |
 | [Hush Hush](../games/5/56faf2396f304e6886e66c492ee22a0e.md) | 39 | 1,000 |
