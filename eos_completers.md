@@ -58,7 +58,7 @@
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.40% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.26% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.20% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.19% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.06% |
 | 62 | [Scorn](games/s/scorn.md) | 6.88% |
@@ -83,9 +83,9 @@
 | 81 | [Dungeons 4](games/d/dungeons_4.md) | 4.70% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.66% |
 | 83 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
-| 84 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.49% |
-| 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
-| 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
+| 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
+| 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
+| 84 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.44% |
 | 87 | [JARS](games/j/jars.md) | 4.42% |
 | 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
 | 89 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
@@ -96,7 +96,7 @@
 | 94 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 95 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
-| 97 | [The Bunker](games/t/the_bunker.md) | 3.76% |
+| 97 | [The Bunker](games/t/the_bunker.md) | 3.74% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
 | 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.63% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.57% |
@@ -107,7 +107,7 @@
 | 105 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
-| 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
+| 108 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
 | 109 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.13% |
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.12% |
 | 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
@@ -128,7 +128,7 @@
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.51% |
 | 127 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.50% |
 | 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
+| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
 | 131 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
@@ -157,8 +157,8 @@
 | 155 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 156 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
 | 157 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
-| 158 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.38% |
-| 159 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.37% |
+| 158 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.37% |
+| 158 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.37% |
 | 160 | [Chorus](games/c/chorus.md) | 1.32% |
 | 161 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
 | 162 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
@@ -259,8 +259,8 @@
 | 257 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.35% |
 | 258 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.34% |
 | 258 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
+| 260 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 260 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 261 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 262 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 262 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 264 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
