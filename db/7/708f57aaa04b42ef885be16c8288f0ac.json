@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15246,
+  "EOS_Progressed": 15247,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11283,6 +11283,11 @@
       "Time": "2024-01-23T22:10:05.9138163+00:00",
       "NumProgressed": 15246,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-23T23:10:18.2971663+00:00",
+      "NumProgressed": 15247,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11367,7 +11372,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8385
+      "UsersEstimate": 8386
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11375,7 +11380,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "GarbageMan",
@@ -11447,7 +11452,7 @@
       "Name": "No More Totems",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "NotLikeTheOthers",
@@ -11519,7 +11524,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -11566,7 +11571,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15246,
+      "Progressed": 15247,
       "Completed": 28
     }
   ],
@@ -11574,8 +11579,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:10:05.9138159+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:10:18.2971659+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:59:43.1343982+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:10:05.9139126+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:59:55.5551543+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:10:18.297222+00:00"
 }

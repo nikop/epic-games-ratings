@@ -4,7 +4,7 @@
   "ProductSlug": "lawn-mowing-simulator-838bf3",
   "Ranking_Rating": 1038,
   "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 64,
@@ -2248,9 +2248,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 699728,
+  "EOS_Progressed": 699740,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1703,
+  "EOS_NewPlayers": 1706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34358,6 +34358,11 @@
       "Time": "2024-01-23T22:10:11.6739949+00:00",
       "NumProgressed": 699728,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-23T23:10:24.5127695+00:00",
+      "NumProgressed": 699740,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -34369,7 +34374,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 552785
+      "UsersEstimate": 552795
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -34449,7 +34454,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27989
+      "UsersEstimate": 27990
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -34457,7 +34462,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 251902
+      "UsersEstimate": 251906
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -34609,7 +34614,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 216916
+      "UsersEstimate": 216919
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -34673,7 +34678,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104959
+      "UsersEstimate": 104961
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -34689,7 +34694,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27989
+      "UsersEstimate": 27990
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -34729,7 +34734,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48981
+      "UsersEstimate": 48982
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -34769,7 +34774,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 125951
+      "UsersEstimate": 125953
     },
     {
       "ID": "RP_TRUSTED",
@@ -34785,7 +34790,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62976
+      "UsersEstimate": 62977
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -34793,22 +34798,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27989
+      "UsersEstimate": 27990
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 699728,
+      "Progressed": 699740,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2024-01-22T11:02:00.0970025+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:10:11.6739944+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:10:24.5127692+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:41.151494+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:57:28.8107298+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:10:11.6741631+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:57:21.628901+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:10:24.5129454+00:00"
 }

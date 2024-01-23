@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 503,
-  "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-12-13T17:03:37.7075338+00:00",
@@ -509,6 +509,11 @@
       "Time": "2024-01-22T11:06:30.6797944+00:00",
       "NumProgressed": 97,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T23:05:48.7654756+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -527,7 +532,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -631,7 +636,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -639,7 +644,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "7on801h",
       "Name": "And Embrace What You\u0027ve Become",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -775,7 +780,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -1168,20 +1173,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 1
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:05:44.7553439+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:05:48.7654751+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:32.5337791+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:00:25.5565631+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:05:44.7554211+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:00:39.7831222+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:05:48.7655495+00:00"
 }

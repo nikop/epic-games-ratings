@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47686,
+  "EOS_Progressed": 47688,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19744,6 +19744,11 @@
       "Time": "2024-01-23T22:04:03.1895626+00:00",
       "NumProgressed": 47686,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T23:03:56.2426723+00:00",
+      "NumProgressed": 47688,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19819,7 +19824,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -20019,7 +20024,7 @@
       "Name": "Wildfire",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MAGIC_TANTA",
@@ -20091,7 +20096,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "SPRING_ALL",
@@ -20178,22 +20183,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47686,
+      "Progressed": 47688,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12523,
-      "Completed": 12523
+      "Progressed": 12525,
+      "Completed": 12525
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:04:03.1895622+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:03:56.2426719+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:03:13.1958139+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:04:03.1896965+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:02:59.0031286+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:03:56.2427952+00:00"
 }

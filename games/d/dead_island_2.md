@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,959 |
+| Welcome To Hell-A | 11.00% | ~88,960 |
 | Hotel California | 10.00% | ~80,872 |
-| Break A Leg | 9.00% | ~72,784 |
-| Coup de Grâce | 8.00% | ~64,697 |
-| Hazardous Materials | 8.00% | ~64,697 |
-| Git Gutte! | 7.00% | ~56,610 |
-| Apex Predator | 7.00% | ~56,610 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,610 |
-| Dr. Reed, I Presume? | 6.00% | ~48,523 |
-| Bookworm | 6.00% | ~48,523 |
-| Friends Like These | 6.00% | ~48,523 |
-| Stacking the Deck | 6.00% | ~48,523 |
-| This is My Weapon | 6.00% | ~48,523 |
+| Break A Leg | 9.00% | ~72,785 |
+| Coup de Grâce | 8.00% | ~64,698 |
+| Hazardous Materials | 8.00% | ~64,698 |
+| Git Gutte! | 7.00% | ~56,611 |
+| Apex Predator | 7.00% | ~56,611 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,611 |
+| Dr. Reed, I Presume? | 6.00% | ~48,524 |
+| Bookworm | 6.00% | ~48,524 |
+| Friends Like These | 6.00% | ~48,524 |
+| Stacking the Deck | 6.00% | ~48,524 |
+| This is My Weapon | 6.00% | ~48,524 |
 | Anger Management | 5.00% | ~40,436 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,436 |
 | But Doctor, I am Butcho | 5.00% | ~40,436 |
@@ -31,14 +31,14 @@ Rating: 4.54 (Ranked 552)
 | A Patton Emerges | 4.00% | ~32,349 |
 | I Am the Resurrection | 4.00% | ~32,349 |
 | Our True Nature | 4.00% | ~32,349 |
-| Whatever It Takes | 4.00% | ~5,370 |
-| Pork Chopped | 4.00% | ~5,370 |
-| Jumbo Keyring | 3.00% | ~24,261 |
-| Humanity Distilled | 3.00% | ~24,261 |
-| Down with the Sickness | 3.00% | ~24,261 |
-| Max Headroom | 3.00% | ~24,261 |
-| Go, Bobcats! | 3.00% | ~24,261 |
-| Rising Star | 3.00% | ~24,261 |
+| Whatever It Takes | 4.00% | ~5,371 |
+| Pork Chopped | 4.00% | ~5,371 |
+| Jumbo Keyring | 3.00% | ~24,262 |
+| Humanity Distilled | 3.00% | ~24,262 |
+| Down with the Sickness | 3.00% | ~24,262 |
+| Max Headroom | 3.00% | ~24,262 |
+| Go, Bobcats! | 3.00% | ~24,262 |
+| Rising Star | 3.00% | ~24,262 |
 | One of Us | 3.00% | ~4,028 |
 | Make it So | 2.00% | ~16,174 |
 | Smorgasbord | 2.00% | ~16,174 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 552)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,716 (Ranked 23)  
+Progressed: 808,725 (Ranked 23)  
 Completed: 2,629 (0.33%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,10 +335,10 @@ Completed: 2,629 (0.33%) (Ranked 260)
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
-| 2024-01-23 | 808,716 | 2,629 |
+| 2024-01-23 | 808,725 | 2,629 |
 ## Awards
 Max (Great Boss Battles): 10,850  (Ranked 40)  
-Sum: 16,694 (Ranked 68)  
+Sum: 16,700 (Ranked 68)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): -28
 | This game has Amazing Storytelling | 711 |
 | This game is Highly Recommended | 701 |
 | This game is Extremely Fun | 674 |
-| This game has Amazing Characters | 633 |
+| This game has Amazing Characters | 639 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -631,4 +631,4 @@ Diff (max vs sum): -28
 | 2024-01-20 | 4.54 | 10,713 | 16,454 |
 | 2024-01-21 | 4.54 | 10,767 | 16,552 |
 | 2024-01-22 | 4.54 | 10,811 | 16,633 |
-| 2024-01-23 | 4.54 | 10,850 | 16,694 |
+| 2024-01-23 | 4.54 | 10,850 | 16,700 |

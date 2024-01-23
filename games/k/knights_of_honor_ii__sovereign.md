@@ -1,18 +1,18 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.34 (Ranked 850)  
+Rating: 4.34 (Ranked 849)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 14.00% | ~13 |
-| Bring it on! | 11.00% | ~10 |
+| Bring it on! | 12.00% | ~11 |
+| Help! Help! I’m being repressed | 11.00% | ~10 |
 | Full House | 10.00% | ~9 |
 | Can’t Touch This | 9.00% | ~8 |
-| Help! Help! I’m being repressed | 9.00% | ~8 |
 | There is no Nobility in Poverty | 9.00% | ~8 |
-| Path of Glory | 8.00% | ~7 |
-| The finest merchandise this side of river Jordan | 7.00% | ~6 |
+| Path of Glory | 7.00% | ~7 |
+| The finest merchandise this side of river Jordan | 6.00% | ~6 |
 | Call the Boys | 4.00% | ~4 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~4 |
 | Do you read Sutter Cane? | 4.00% | ~4 |
@@ -20,15 +20,15 @@ Rating: 4.34 (Ranked 850)
 | ‘Tis but a scratch | 4.00% | ~4 |
 | What we’ve got here is failure to communicate | 4.00% | ~4 |
 | Big Apple | 3.00% | ~3 |
+| Black Sheep Wall | 3.00% | ~3 |
+| Dinner Time | 3.00% | ~3 |
 | Forth, Eorlingas! | 3.00% | ~3 |
 | I started a joke | 3.00% | ~3 |
 | Kingslayer | 3.00% | ~3 |
 | Learn Me a Book | 3.00% | ~3 |
 | Pillars of the Earth | 3.00% | ~3 |
 | All the King's Men | 2.00% | ~2 |
-| Black Sheep Wall | 2.00% | ~2 |
 | Cut-Me-Own-Throat | 2.00% | ~2 |
-| Dinner Time | 2.00% | ~2 |
 | He made it out, but with an arrow in his back | 2.00% | ~2 |
 | Let Us Pray | 2.00% | ~2 |
 | On the third day at dawn, look east | 2.00% | ~2 |
@@ -47,6 +47,7 @@ Rating: 4.34 (Ranked 850)
 | Fight Another Day | 1.00% | ~1 |
 | Let us trade with these fine people | 1.00% | ~1 |
 | Naught but a Seamless Victory | 1.00% | ~1 |
+| New Mineland | 1.00% | ~1 |
 | Prince Ali! Fabulous he! | 1.00% | ~1 |
 | Renaissance Man | 1.00% | ~1 |
 | Spartacus | 1.00% | ~1 |
@@ -83,7 +84,6 @@ Rating: 4.34 (Ranked 850)
 | Liberty or Death! | 0.00% | ~0 |
 | Lord of the Kings | 0.00% | ~0 |
 | Master of Puppets | 0.00% | ~0 |
-| New Mineland | 0.00% | ~0 |
 | Open Your Eyes | 0.00% | ~0 |
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
 | Power Overwhelming | 0.00% | ~0 |
@@ -106,12 +106,12 @@ Rating: 4.34 (Ranked 850)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 510)  
+Progressed: 94 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 92 | 0 |
+| 2024-01-23 | 94 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

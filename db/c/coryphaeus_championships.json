@@ -2,9 +2,9 @@
   "ID": "3a404cb5028b43b9a553312b7c965b42",
   "Name": "Coryphaeus Championships (Closed Beta)",
   "ProductSlug": "coryphaeus-championships-216f4a",
-  "Ranking_EOS_Progress": 628,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T20:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -129,6 +129,11 @@
       "Time": "2024-01-23T19:10:05.2954963+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T23:10:06.5632791+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-06T12:09:01.1092985+00:00",
@@ -139,7 +144,7 @@
       "ID": "Amateur",
       "SetID": "6gf78k7",
       "Name": "You are an Amateur!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -147,7 +152,7 @@
       "ID": "Become a Pro!",
       "SetID": "6gf78k7",
       "Name": "You are a true Pro!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -163,7 +168,7 @@
       "ID": "FirstWin",
       "SetID": "6gf78k7",
       "Name": "You are a Winner!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -171,7 +176,7 @@
       "ID": "Prodigy",
       "SetID": "6gf78k7",
       "Name": "You are the real Prodigy of the Next Millennia!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -180,14 +185,14 @@
     {
       "ID": "6gf78k7",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-09T15:59:00.0551516+00:00",
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:09:55.7068677+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:10:06.5632786+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.7110087+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:58:55.3348188+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:09:55.7068749+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:59:00.0653286+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:10:06.5632867+00:00"
 }

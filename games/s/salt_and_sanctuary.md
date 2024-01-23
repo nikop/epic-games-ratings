@@ -6,13 +6,13 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~452,485 |
-| The Three | 64.00% | ~348,904 |
-| The Banquet | 40.00% | ~218,065 |
+| Find Sanctuary | 83.00% | ~452,487 |
+| The Three | 64.00% | ~348,906 |
+| The Banquet | 40.00% | ~218,066 |
 | Devara's Light | 31.00% | ~169,001 |
 | The Iron Ones | 19.00% | ~103,581 |
 | The Village | 17.00% | ~92,678 |
-| The Forest | 15.00% | ~81,774 |
+| The Forest | 15.00% | ~81,775 |
 | Branded | 14.00% | ~76,323 |
 | The Imposter | 14.00% | ~76,323 |
 | The Keep | 14.00% | ~76,323 |
@@ -22,8 +22,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Sacrifice | 9.00% | ~49,065 |
 | The Cave | 8.00% | ~43,613 |
 | The Ziggurat | 8.00% | ~43,613 |
-| The Mire | 7.00% | ~38,161 |
-| The Stone Roots | 7.00% | ~38,161 |
+| The Mire | 7.00% | ~38,162 |
+| The Stone Roots | 7.00% | ~38,162 |
 | Storied | 6.00% | ~32,710 |
 | The Construct | 6.00% | ~32,710 |
 | The Lake | 6.00% | ~32,710 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,903 |
 | Fading Fast | 1.00% | ~5,452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545,163 (Ranked 36)  
+Progressed: 545,165 (Ranked 36)  
 Completed: 1,696 (0.31%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 1,696 (0.31%) (Ranked 262)
 | 2024-01-20 | 544,920 | 1,692 |
 | 2024-01-21 | 545,027 | 1,692 |
 | 2024-01-22 | 545,091 | 1,694 |
-| 2024-01-23 | 545,163 | 1,696 |
+| 2024-01-23 | 545,165 | 1,696 |
 ## Awards
 Max (Challenging Combat): 299  (Ranked 266)  
-Sum: 2,046 (Ranked 221)  
+Sum: 2,047 (Ranked 221)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): 45
 | This game is Extremely Fun | 252 |
 | This game has Diverse Characters | 250 |
 | This game has Amazing Storytelling | 238 |
-| This game has Amazing Characters | 235 |
+| This game has Amazing Characters | 236 |
 | This game has Unique Visuals | 232 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -553,3 +553,4 @@ Diff (max vs sum): 45
 | 2024-01-16 | 4.62 | - | 299 | 2,041 |
 | 2024-01-17 | 4.62 | - | 299 | 2,044 |
 | 2024-01-22 | 4.62 | - | 299 | 2,046 |
+| 2024-01-23 | 4.62 | - | 299 | 2,047 |

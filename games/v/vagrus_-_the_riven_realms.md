@@ -38,6 +38,7 @@
 | Inquisitions of Discord | 3.00% | ~9 |
 | Unseen Patterns | 3.00% | ~9 |
 | Bounty Hunter | 2.00% | ~6 |
+| Watcher | 2.00% | ~6 |
 | Huntress Unbound | 2.00% | ~6 |
 | Business As Usual | 2.00% | ~6 |
 | Legacy of a Mercenary | 2.00% | ~6 |
@@ -49,7 +50,6 @@
 | Glorious leader | 2.00% | ~6 |
 | Insectoid Propagator | 2.00% | ~6 |
 | Making Contact | 1.00% | ~3 |
-| Watcher | 1.00% | ~3 |
 | Executor | 1.00% | ~3 |
 | Loremaster | 1.00% | ~3 |
 | Adept | 1.00% | ~3 |

@@ -11,7 +11,7 @@
 | Helpful Bot-terfly | 46.00% | ~145 |
 | Cozy Autumn | 38.00% | ~120 |
 | Bunny Party | 36.00% | ~113 |
-| Stylish Decorator | 31.00% | ~98 |
+| Stylish Decorator | 32.00% | ~101 |
 | Ace Decorator | 23.00% | ~72 |
 | Debris Collector | 19.00% | ~60 |
 | Bunny Cuddles | 15.00% | ~47 |

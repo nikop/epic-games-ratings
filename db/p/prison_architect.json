@@ -8553,9 +8553,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 220606,
+  "EOS_Progressed": 220615,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3166,
+  "EOS_NewPlayers": 3154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40598,6 +40598,11 @@
       "Time": "2024-01-23T22:09:45.7301652+00:00",
       "NumProgressed": 220606,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-23T23:09:55.6947823+00:00",
+      "NumProgressed": 220615,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -40641,7 +40646,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 33091
+      "UsersEstimate": 33092
     },
     {
       "ID": "Achievement_13",
@@ -40689,7 +40694,7 @@
       "Name": "Stone Walls",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 52945
+      "UsersEstimate": 52948
     },
     {
       "ID": "Achievement_5",
@@ -40729,22 +40734,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8824
+      "UsersEstimate": 8825
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 220606,
+      "Progressed": 220615,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-23T14:59:03.1452791+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:09:45.7301647+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:09:55.6947818+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.4348703+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:58:31.99915+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:09:45.730356+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:58:31.9631118+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:09:55.6949643+00:00"
 }

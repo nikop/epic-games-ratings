@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1613,
+  "EOS_Progressed": 1614,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -3745,6 +3745,11 @@
       "Time": "2024-01-23T20:04:38.7550338+00:00",
       "NumProgressed": 1613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T23:04:53.6799129+00:00",
+      "NumProgressed": 1614,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3789,7 +3794,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3837,7 +3842,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3853,7 +3858,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3901,7 +3906,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3965,7 +3970,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -3996,14 +4001,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1613,
+      "Progressed": 1614,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:04:55.40337+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:04:53.6799124+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.4867882+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:58:05.9334285+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:04:55.4034466+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:58:01.3961554+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:04:53.679953+00:00"
 }

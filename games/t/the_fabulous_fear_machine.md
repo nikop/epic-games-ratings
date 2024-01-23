@@ -27,8 +27,8 @@
 | You've awakened the beast | 17.00% | ~16 |
 | Hate is... addictive | 17.00% | ~16 |
 | Kirlian's best disciple | 17.00% | ~16 |
+| Blessed antennas | 16.00% | ~15 |
 | The bully | 16.00% | ~15 |
-| Blessed antennas | 15.00% | ~14 |
 | Pulp! The Beyond | 14.00% | ~13 |
 | Bread and bocaua | 13.00% | ~12 |
 | Fanatacism is... poisonous | 13.00% | ~12 |
@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 508)  
+Progressed: 93 (Ranked 509)  
 Completed: 1 (1.08%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -10,6 +10,7 @@
 | Billionaire Club | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
 | Cargo King | 4.00% | ~1 |
+| Train Spotter | 4.00% | ~1 |
 | Industrial Revolution | 4.00% | ~1 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -44,7 +45,6 @@
 | Urban Network | 0.00% | ~0 |
 | Supply Chain | 0.00% | ~0 |
 | Contract Master | 0.00% | ~0 |
-| Train Spotter | 0.00% | ~0 |
 | Mega Train | 0.00% | ~0 |
 | Heavy Load | 0.00% | ~0 |
 | Crowd Pleaser | 0.00% | ~0 |

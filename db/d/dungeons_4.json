@@ -2985,9 +2985,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 292
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -3138,8 +3138,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:09:40.5699015+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:09:50.2688305+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:58:36.0367481+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:09:40.5699458+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:58:35.9311744+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:09:50.2688832+00:00"
 }

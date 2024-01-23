@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 155,
@@ -1055,10 +1055,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1739,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2024-01-23T23:00:01.9387497+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1740,
+      "NumberOfAwardsMax": 208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1739,
+  "NumberOfAwards": 1740,
   "NumberOfAwardsMax": 208,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1078,7 +1084,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1123,9 +1129,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21908,
+  "EOS_Progressed": 21909,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 884,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18373,6 +18379,11 @@
       "Time": "2024-01-23T22:09:52.0519564+00:00",
       "NumProgressed": 21908,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-23T23:10:02.53688+00:00",
+      "NumProgressed": 21909,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18457,7 +18468,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "a_21",
@@ -18465,7 +18476,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "a_22",
@@ -18632,16 +18643,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21908,
+      "Progressed": 21909,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:09:52.051956+00:00",
+  "LastChanged": "2024-01-23T23:00:01.9387495+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:10:02.5368792+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:59:48.6179881+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:09:52.0520823+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:00:01.93875+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:10:02.5369799+00:00"
 }

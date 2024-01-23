@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Right Back At Ya | 0.80% | ~8,462 |
-| Full Body Conversion | 0.70% | ~7,405 |
+| Full Body Conversion | 0.80% | ~8,463 |
+| Right Back At Ya | 0.80% | ~8,463 |
 | The Hermit | 0.70% | ~7,405 |
 | The High Priestess | 0.70% | ~7,405 |
 | The Wheel of Fortune | 0.70% | ~7,405 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,799 (Ranked 17)  
-Completed: 3,152 (0.30%) (Ranked 264)  
+Progressed: 1,057,813 (Ranked 17)  
+Completed: 3,153 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -352,7 +352,7 @@ Completed: 3,152 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,799 | 3,152 |
+| 2024-01-23 | 1,057,813 | 3,153 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
 Sum: 516,233 (Ranked 8)  

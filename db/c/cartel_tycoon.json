@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1060,
+  "EOS_Progressed": 1061,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3829,6 +3829,11 @@
       "Time": "2024-01-23T21:03:57.796927+00:00",
       "NumProgressed": 1060,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T23:04:01.6938107+00:00",
+      "NumProgressed": 1061,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3840,7 +3845,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "cool-shirts",
@@ -3864,7 +3869,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "female-conqueror",
@@ -3888,7 +3893,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "kill-lieutenants",
@@ -3904,15 +3909,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 307
+      "UsersEstimate": 318
     },
     {
       "ID": "product-profit",
@@ -3958,9 +3963,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 552
     },
     {
       "ID": "unlock-residences",
@@ -3976,7 +3981,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "use-submarine",
@@ -3991,15 +3996,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1060,
+      "Progressed": 1061,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-21T00:03:54.481116+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:04:08.5974496+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:04:01.6938103+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.1776026+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:03:11.9724523+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:04:08.597498+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:02:58.0488595+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:04:01.6938394+00:00"
 }

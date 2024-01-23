@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~314 |
-| First Blood | 64.00% | ~248 |
-| Triple Kill | 63.00% | ~244 |
-| Aspairagus | 60.00% | ~203 |
-| No Asperascope | 59.00% | ~229 |
-| Survivor | 56.00% | ~189 |
-| Cornivore | 54.00% | ~210 |
-| I Believe I Can Fly | 49.00% | ~190 |
-| No Diggity | 45.00% | ~152 |
+| Seeds of War | 81.00% | ~315 |
+| First Blood | 65.00% | ~253 |
+| Triple Kill | 63.00% | ~245 |
+| Aspairagus | 59.00% | ~200 |
+| No Asperascope | 58.00% | ~226 |
+| Survivor | 56.00% | ~190 |
+| Cornivore | 53.00% | ~206 |
+| I Believe I Can Fly | 49.00% | ~191 |
+| No Diggity | 45.00% | ~153 |
 | Early Survivor | 39.00% | ~132 |
 | Bouncemato | 32.00% | ~108 |
 | 10K | 28.00% | ~109 |
 | Amateur Survivor | 28.00% | ~95 |
 | 15K | 26.00% | ~101 |
 | Grave Digger | 23.00% | ~78 |
-| Drinking Problem | 22.00% | ~85 |
-| Quick-Draw Pod | 22.00% | ~74 |
-| Pork Chop Express | 21.00% | ~81 |
+| Drinking Problem | 22.00% | ~86 |
+| Quick-Draw Pod | 22.00% | ~75 |
+| Pork Chop Express | 21.00% | ~82 |
 | Professional Survivor | 19.00% | ~64 |
 | Skin Of Your Teeth | 17.00% | ~66 |
 | Carrocketeer | 17.00% | ~66 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 379)  
+Progressed: 389 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 384 | 0 |
 | 2024-01-21 | 386 | 0 |
 | 2024-01-22 | 387 | 0 |
-| 2024-01-23 | 388 | 0 |
+| 2024-01-23 | 389 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

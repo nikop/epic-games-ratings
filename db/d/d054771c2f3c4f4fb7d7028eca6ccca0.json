@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4559,
+  "EOS_Progressed": 4564,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
@@ -5879,6 +5879,11 @@
       "Time": "2024-01-23T21:03:46.2778045+00:00",
       "NumProgressed": 4559,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T23:03:48.8814997+00:00",
+      "NumProgressed": 4564,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5915,7 +5920,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5931,7 +5936,7 @@
       "Name": "Monster Power",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -5993,9 +5998,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "c167foo",
       "Name": "Worthy Badge",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -6075,7 +6080,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1871
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6091,7 +6096,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2145
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6123,7 +6128,7 @@
       "Name": "Profile Outfitted",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -6266,20 +6271,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4559,
+      "Progressed": 4564,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 337,
-      "Completed": 337
+      "Progressed": 342,
+      "Completed": 342
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:03:57.1326832+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:03:48.881499+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:08.5926908+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:00:02.6110568+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:03:57.1327453+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:00:14.5327186+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:03:48.8815622+00:00"
 }

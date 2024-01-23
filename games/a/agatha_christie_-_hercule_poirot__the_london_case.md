@@ -39,8 +39,8 @@
 | Horace Mountjoy | 25.00% | ~30 |
 | The Secrets | 25.00% | ~30 |
 | Johan Kristiansen | 24.00% | ~29 |
+| Mortimer Ailsworth | 24.00% | ~29 |
 | A peculiar fellow | 23.00% | ~27 |
-| Mortimer Ailsworth | 23.00% | ~27 |
 | Well-travelled | 22.00% | ~26 |
 | Florence Farquhar | 21.00% | ~25 |
 | The Investigation Starts Anew | 21.00% | ~25 |

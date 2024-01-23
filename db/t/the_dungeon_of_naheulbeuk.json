@@ -1809,9 +1809,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 249315,
+  "EOS_Progressed": 249318,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 900,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27299,6 +27299,11 @@
       "Time": "2024-01-23T22:10:14.8027885+00:00",
       "NumProgressed": 249315,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-23T23:10:27.6418859+00:00",
+      "NumProgressed": 249318,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27310,7 +27315,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "100Fail",
@@ -27382,7 +27387,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Chapter5",
@@ -27390,7 +27395,7 @@
       "Name": "The Great Library",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Chapter6",
@@ -27398,7 +27403,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Chapter7",
@@ -27406,7 +27411,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Chapter8",
@@ -27414,7 +27419,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Chapter9",
@@ -27422,7 +27427,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "CollateralVictim",
@@ -27462,7 +27467,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -27694,7 +27699,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Dwarf30Insult",
@@ -27758,7 +27763,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92247
+      "UsersEstimate": 92248
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27966,7 +27971,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "SystematicallyStupid",
@@ -27990,7 +27995,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "WizardEpic",
@@ -28013,21 +28018,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249315,
+      "Progressed": 249318,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249315,
+      "Progressed": 249318,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-23T15:59:56.8096112+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:10:14.802788+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:10:27.6418856+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:59:47.9087962+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:10:14.8030128+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:00:01.2364853+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:10:27.642044+00:00"
 }

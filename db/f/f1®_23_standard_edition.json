@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -1567,10 +1567,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 482,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2024-01-23T23:00:35.5670355+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 484,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 482,
+  "NumberOfAwards": 484,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1602,7 +1608,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1647,9 +1653,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18657,
+  "EOS_Progressed": 18659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12717,6 +12723,11 @@
       "Time": "2024-01-23T22:05:05.6103751+00:00",
       "NumProgressed": 18657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T23:05:04.8134096+00:00",
+      "NumProgressed": 18659,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12735,9 +12746,9 @@
       "ID": "achievement_0002",
       "SetID": "9123ogc",
       "Name": "Gathering Dust",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2239
     },
     {
       "ID": "achievement_0003",
@@ -12761,7 +12772,7 @@
       "Name": "Crucial Combo",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "achievement_0006",
@@ -12769,7 +12780,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13060
+      "UsersEstimate": 13061
     },
     {
       "ID": "achievement_0007",
@@ -12777,7 +12788,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16978
+      "UsersEstimate": 16980
     },
     {
       "ID": "achievement_0008",
@@ -12785,7 +12796,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15485
+      "UsersEstimate": 15487
     },
     {
       "ID": "achievement_0009",
@@ -12889,7 +12900,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12687
+      "UsersEstimate": 12688
     },
     {
       "ID": "achievement_0022",
@@ -12905,7 +12916,7 @@
       "Name": "Sharing the Love",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "achievement_0024",
@@ -12961,7 +12972,7 @@
       "Name": "Reuse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "achievement_0031",
@@ -12977,7 +12988,7 @@
       "Name": "Tinkerer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "achievement_0033",
@@ -12985,7 +12996,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8582
+      "UsersEstimate": 8583
     },
     {
       "ID": "achievement_0034",
@@ -13065,7 +13076,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7836
+      "UsersEstimate": 7837
     },
     {
       "ID": "achievement_0044",
@@ -13081,7 +13092,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "achievement_0046",
@@ -13089,7 +13100,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "achievement_0047",
@@ -13113,23 +13124,23 @@
       "Name": "Proving Them Wrong",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18657,
+      "Progressed": 18659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-01-23T20:00:08.3397782+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:05:05.6103746+00:00",
+  "LastChanged": "2024-01-23T23:00:35.5670353+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:05:04.8134093+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:00:21.4145254+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:05:05.6105022+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:00:35.567036+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:05:04.8134804+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dude-where-is-my-beer-2455aa",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2024-01-23T18:05:39.6220786+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T23:06:03.441165+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T15:07:12.853291+00:00",
@@ -403,7 +408,7 @@
       "ID": "5_DIFFERENT_BEERS",
       "SetID": "6akbe6n",
       "Name": "Beer Snob",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -443,7 +448,7 @@
       "ID": "CHANGED_CHANNEL",
       "SetID": "6akbe6n",
       "Name": "Social disturber",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -467,7 +472,7 @@
       "ID": "LIGHTS_10_TIMES",
       "SetID": "6akbe6n",
       "Name": "Environmental offender",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -483,7 +488,7 @@
       "ID": "MILO_GOES_DOWN",
       "SetID": "6akbe6n",
       "Name": "Domino effect",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -491,9 +496,9 @@
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NO_HINTS_USED",
@@ -531,7 +536,7 @@
       "ID": "READ_ALL_BEER_QUOTES",
       "SetID": "6akbe6n",
       "Name": "Wall Reader",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -547,7 +552,7 @@
       "ID": "UNLOCKED_IPHONE",
       "SetID": "6akbe6n",
       "Name": "History Buff",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 2
     }
@@ -556,14 +561,14 @@
     {
       "ID": "6akbe6n",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:05:57.9196418+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:06:03.4411646+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:15.1936755+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:58:49.0843546+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:05:57.91966+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:58:52.1467529+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:06:03.4411862+00:00"
 }

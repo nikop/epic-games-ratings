@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taking Notes | 5.00% | ~11 |
+| Time for Renovations | 5.00% | ~11 |
 | A Greener Day | 4.00% | ~9 |
 | A Sad Moment | 4.00% | ~9 |
 | Dry No More | 4.00% | ~9 |
 | Leave My Baby Alone! | 4.00% | ~9 |
 | The Mendel Experiment | 4.00% | ~9 |
-| Time for Renovations | 4.00% | ~9 |
 | Research Complete | 3.00% | ~7 |
 | Room Revealer | 3.00% | ~7 |
 | Seed of Love | 3.00% | ~7 |
@@ -36,7 +36,7 @@
 | Love and Science | 0.90% | ~2 |
 | Perfectionist | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 432)  
+Progressed: 218 (Ranked 432)  
 Completed: 1 (0.46%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 1 (0.46%) (Ranked 236)
 | 2024-01-06 | 215 | 1 |
 | 2024-01-08 | 216 | 1 |
 | 2024-01-10 | 217 | 1 |
+| 2024-01-23 | 218 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

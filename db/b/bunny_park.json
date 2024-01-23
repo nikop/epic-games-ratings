@@ -315,9 +315,9 @@
       "ID": "BP-08",
       "SetID": "7fc93f2",
       "Name": "Stylish Decorator",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "BP-09",
@@ -412,8 +412,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:10:02.7223783+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:10:14.5916671+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:45.6975338+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:00:10.8749895+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:10:02.7223926+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:00:23.7890947+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:10:14.5916805+00:00"
 }

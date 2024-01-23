@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 460,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.83,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2024-01-23T21:09:38.8868518+00:00",
       "NumProgressed": 459,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-23T23:09:46.4853847+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -1649,7 +1654,7 @@
       "Name": "Brewery",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "church",
@@ -1713,7 +1718,7 @@
       "Name": "Marketplace",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "match_12",
@@ -1729,7 +1734,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "match_6",
@@ -1737,7 +1742,7 @@
       "Name": "Match 6",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "match_9",
@@ -1753,7 +1758,7 @@
       "Name": "Mill",
       "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "sawmill",
@@ -1761,7 +1766,7 @@
       "Name": "Sawmill",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "seaweed_farm",
@@ -1777,7 +1782,7 @@
       "Name": "Tavern",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "village",
@@ -1809,21 +1814,21 @@
       "Name": "Wood",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:09:37.2256084+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:09:46.4853841+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:07.1835223+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:03:17.0648984+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:09:37.2256416+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:03:02.7763341+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:09:46.4854036+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 145,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2024-01-23T16:04:42.9256695+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T23:04:41.8353697+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
@@ -169,7 +174,7 @@
       "ID": "233",
       "SetID": "39bcm6",
       "Name": "Powertrip",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -177,7 +182,7 @@
       "ID": "AFTER_END",
       "SetID": "39bcm6",
       "Name": "Paradoxical Pataphysics",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -193,7 +198,7 @@
       "ID": "CHAIR_HELL",
       "SetID": "39bcm6",
       "Name": "BEWARE THE CHAIR",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -201,7 +206,7 @@
       "ID": "DEBUG_GLASSES",
       "SetID": "39bcm6",
       "Name": "Nice Job Four-Eyes",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -217,7 +222,7 @@
       "ID": "END_IS_NEVER",
       "SetID": "39bcm6",
       "Name": "Playtest Report",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -249,7 +254,7 @@
       "ID": "IMMOVABLE",
       "SetID": "39bcm6",
       "Name": "Immovable Object",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -297,7 +302,7 @@
       "ID": "OAT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "What a Triumph",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -305,7 +310,7 @@
       "ID": "OG_PENDING",
       "SetID": "39bcm6",
       "Name": "WE MUST TRAVEL BACK IN TIME",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -321,7 +326,7 @@
       "ID": "PLAYTEST_END",
       "SetID": "39bcm6",
       "Name": "Congratulations!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -329,7 +334,7 @@
       "ID": "SPEED",
       "SetID": "39bcm6",
       "Name": "game SUCK i go to BED",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -337,7 +342,7 @@
       "ID": "VENT_ENDING",
       "SetID": "39bcm6",
       "Name": "Take a Break",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -345,7 +350,7 @@
       "ID": "VENT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "Vent Ending",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -353,7 +358,7 @@
       "ID": "WPD_HAHA_FUNNE",
       "SetID": "39bcm6",
       "Name": "No.",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     }
@@ -362,14 +367,14 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-22T01:57:38.178275+00:00",
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:04:44.6431476+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:04:41.8353693+00:00",
   "LastUpdate_AppInfo": "2024-01-21T18:57:26.2490589+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:57:58.307546+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:04:44.6431725+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:57:53.2415949+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:04:41.8353828+00:00"
 }

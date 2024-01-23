@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -3348,6 +3348,11 @@
       "Time": "2024-01-23T21:06:05.8487701+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T23:07:28.1162011+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3360,7 +3365,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -3368,7 +3373,7 @@
       "Name": "Are you ready now?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -3416,7 +3421,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -3440,7 +3445,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3456,7 +3461,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -3534,9 +3539,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -3544,7 +3549,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -3568,7 +3573,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3576,7 +3581,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3615,15 +3620,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1194,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:06:11.1344024+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:07:28.1162005+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:57:21.4639892+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:06:11.134439+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:57:12.7711989+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:07:28.1162418+00:00"
 }

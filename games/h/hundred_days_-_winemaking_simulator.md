@@ -1,7 +1,7 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 837)  
+Rating: 4.35 (Ranked 836)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | It's a good start | 10.00% | ~2,191 |
 | Bonjour! | 8.00% | ~1,753 |
 | Quack | 8.00% | ~1,753 |
-| The Assistant | 6.00% | ~1,314 |
-| The Blue Marl | 6.00% | ~1,314 |
+| The Assistant | 6.00% | ~1,315 |
+| The Blue Marl | 6.00% | ~1,315 |
 | Ostinata | 5.00% | ~1,095 |
 | Better than nothing? | 5.00% | ~1,095 |
 | A long journey | 4.00% | ~876 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~22 |
 | Unsuitable Terroir | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,908 (Ranked 155)  
+Progressed: 21,909 (Ranked 155)  
 Completed: 13 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,10 +189,10 @@ Completed: 13 (0.06%) (Ranked 339)
 | 2024-01-20 | 21,547 | 13 |
 | 2024-01-21 | 21,680 | 13 |
 | 2024-01-22 | 21,800 | 13 |
-| 2024-01-23 | 21,908 | 13 |
+| 2024-01-23 | 21,909 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 299)  
-Sum: 1,739 (Ranked 231)  
+Sum: 1,740 (Ranked 231)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -202,7 +202,7 @@ Diff (max vs sum): 68
 | This game is Great for Beginners | 203 |
 | This game is Highly Recommended | 195 |
 | This game is Educational | 179 |
-| This game has Amazing Storytelling | 177 |
+| This game has Amazing Storytelling | 178 |
 | This game has Easy Combat | 130 |
 | This game has Amazing Characters | 127 |
 | This game has a Creative Community | 111 |
@@ -284,3 +284,4 @@ Diff (max vs sum): 68
 | 2024-01-01 | 4.35 | - | 208 | 1,737 |
 | 2024-01-06 | 4.35 | - | 208 | 1,738 |
 | 2024-01-15 | 4.35 | - | 208 | 1,739 |
+| 2024-01-23 | 4.35 | - | 208 | 1,740 |

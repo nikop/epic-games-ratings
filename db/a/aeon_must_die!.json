@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 3881,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3657,
+  "EOS_Progressed": 3658,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2024-01-20T21:09:23.2506751+00:00",
       "NumProgressed": 3657,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-23T23:09:20.433265+00:00",
+      "NumProgressed": 3658,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1005,7 +1010,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "10",
@@ -1284,7 +1289,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3657,
+      "Progressed": 3658,
       "Completed": -28
     }
   ],
@@ -1292,8 +1297,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-23T22:09:14.4138742+00:00",
+  "LastChanged_Achievements": "2024-01-23T23:09:20.4332644+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:10.1327214+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:58:58.2451072+00:00",
-  "LastUpdate_Achievements": "2024-01-23T22:09:14.4139102+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:59:05.4112315+00:00",
+  "LastUpdate_Achievements": "2024-01-23T23:09:20.4332917+00:00"
 }

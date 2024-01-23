@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 10.00% | ~2,098 |
-| Abandoned Settlement | 10.00% | ~2,098 |
-| Overgrown Library | 10.00% | ~2,098 |
+| Taking Action | 10.00% | ~2,099 |
+| Abandoned Settlement | 10.00% | ~2,099 |
+| Overgrown Library | 10.00% | ~2,099 |
 | First Real Expedition | 9.00% | ~1,889 |
 | No Deaths | 9.00% | ~1,889 |
 | Petrified Necropolis | 9.00% | ~1,889 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,985 (Ranked 157)  
+Progressed: 20,986 (Ranked 157)  
 Completed: 34 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 34 (0.16%) (Ranked 297)
 | 2024-01-20 | 20,926 | 35 |
 | 2024-01-21 | 20,958 | 34 |
 | 2024-01-22 | 20,975 | 34 |
-| 2024-01-23 | 20,985 | 34 |
+| 2024-01-23 | 20,986 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 458  (Ranked 233)  
 Sum: 3,412 (Ranked 180)  
