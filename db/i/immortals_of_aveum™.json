@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3585,
+  "EOS_Progressed": 3586,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6121,6 +6121,11 @@
       "Time": "2024-01-23T06:10:09.6185219+00:00",
       "NumProgressed": 3585,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T18:09:58.152015+00:00",
+      "NumProgressed": 3586,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6133,7 +6138,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "achievement_10",
@@ -6141,7 +6146,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_11",
@@ -6181,7 +6186,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "achievement_16",
@@ -6189,7 +6194,7 @@
       "Name": "Recruit",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "achievement_17",
@@ -6221,7 +6226,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "achievement_20",
@@ -6277,7 +6282,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "achievement_36",
@@ -6341,7 +6346,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_45",
@@ -6429,7 +6434,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "achievement_60",
@@ -6485,7 +6490,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "achievement_8",
@@ -6508,7 +6513,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3585,
+      "Progressed": 3586,
       "Completed": 5
     }
   ],
@@ -6516,8 +6521,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:36.3710397+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:58.1520147+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:58:37.655883+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:36.3710883+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:05.0590123+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:58.1520701+00:00"
 }

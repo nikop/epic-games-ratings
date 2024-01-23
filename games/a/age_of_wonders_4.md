@@ -6,7 +6,7 @@ Rating: 4.63 (Ranked 360)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 18.00% | ~1,312 |
-| Realm Estate | 16.00% | ~1,166 |
+| Realm Estate | 16.00% | ~1,167 |
 | A Wonderful Discovery | 15.00% | ~1,094 |
 | Walls Cannot Stop Us | 15.00% | ~1,094 |
 | From Friends to Family | 13.00% | ~948 |
@@ -21,11 +21,11 @@ Rating: 4.63 (Ranked 360)
 | Valley of Wonders | 7.00% | ~510 |
 | My Final Form | 6.00% | ~437 |
 | But this one is mine | 6.00% | ~437 |
-| Return of the Wizard King | 5.00% | ~364 |
-| Enchanted Archipelago | 5.00% | ~364 |
-| Digging for Treasure | 5.00% | ~364 |
-| Against the Odds | 5.00% | ~364 |
-| Impenetrable Fortress | 5.00% | ~364 |
+| Return of the Wizard King | 5.00% | ~365 |
+| Enchanted Archipelago | 5.00% | ~365 |
+| Digging for Treasure | 5.00% | ~365 |
+| Against the Odds | 5.00% | ~365 |
+| Impenetrable Fortress | 5.00% | ~365 |
 | Preparation Is Everything | 4.00% | ~292 |
 | Fiery Friend | 4.00% | ~292 |
 | Arch Mage | 3.00% | ~219 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 360)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,290 (Ranked 202)  
+Progressed: 7,291 (Ranked 202)  
 Completed: 8 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,21 +311,21 @@ Completed: 8 (0.11%) (Ranked 315)
 | 2024-01-20 | 7,279 | 8 |
 | 2024-01-21 | 7,285 | 8 |
 | 2024-01-22 | 7,287 | 8 |
-| 2024-01-23 | 7,290 | 8 |
+| 2024-01-23 | 7,291 | 8 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
-Sum: 242 (Ranked 407)  
+Sum: 244 (Ranked 407)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 28 |
+| This game has Quickly Understood Controls | 24 |
 | This game has Challenging Combat | 23 |
-| This game has Quickly Understood Controls | 23 |
 | This game has Beautiful Visuals | 23 |
 | This game is Highly Recommended | 22 |
-| This game has Amazing Storytelling | 21 |
+| This game has Amazing Storytelling | 22 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -422,4 +422,4 @@ Diff (max vs sum): 76
 | 2024-01-16 | 4.63 | 41 | 239 |
 | 2024-01-17 | 4.63 | 42 | 240 |
 | 2024-01-22 | 4.63 | 42 | 241 |
-| 2024-01-23 | 4.63 | 43 | 242 |
+| 2024-01-23 | 4.63 | 43 | 244 |

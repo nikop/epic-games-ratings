@@ -9787,9 +9787,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255296,
+  "EOS_Progressed": 255303,
   "EOS_Completed": 2634,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41372,6 +41372,11 @@
       "Time": "2024-01-23T17:10:48.4314994+00:00",
       "NumProgressed": 255296,
       "NumCompleted": 2634
+    },
+    {
+      "Time": "2024-01-23T18:10:09.6126669+00:00",
+      "NumProgressed": 255303,
+      "NumCompleted": 2634
     }
   ],
   "TotalAchievements": 546,
@@ -42487,7 +42492,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_149",
@@ -42575,7 +42580,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_165",
@@ -43527,7 +43532,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_540",
@@ -44455,7 +44460,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_690",
@@ -45750,21 +45755,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221570,
+      "Progressed": 221577,
       "Completed": 4159
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255296,
+      "Progressed": 255303,
       "Completed": 2634
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-23T14:58:59.5752885+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:48.4314993+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:10:09.6126663+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:58:54.3490841+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:48.4337714+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:18.4226178+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:10:09.6149538+00:00"
 }

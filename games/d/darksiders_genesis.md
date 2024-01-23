@@ -7,18 +7,18 @@ Number of Ratings: 67  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mint I | 6.00% | ~45 |
-| Soul Cache | 5.00% | ~37 |
+| Soul Cache | 5.00% | ~38 |
 | Astarte | 2.00% | ~15 |
 | Close the Rift | 2.00% | ~15 |
 | Mammon | 2.00% | ~15 |
 | Master of Strife | 2.00% | ~15 |
 | Master of War | 2.00% | ~15 |
 | The Dead Court | 2.00% | ~15 |
-| Demolition Derby | 1.00% | ~7 |
-| Good Deeds | 1.00% | ~7 |
-| Hell's Forge | 1.00% | ~7 |
-| Mint II | 1.00% | ~7 |
-| Why'd It Have to Be Snakes? | 1.00% | ~7 |
+| Demolition Derby | 1.00% | ~8 |
+| Good Deeds | 1.00% | ~8 |
+| Hell's Forge | 1.00% | ~8 |
+| Mint II | 1.00% | ~8 |
+| Why'd It Have to Be Snakes? | 1.00% | ~8 |
 | A Bullet for All Seasons | 0.90% | ~7 |
 | Infested | 0.90% | ~7 |
 | Mint III | 0.90% | ~7 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 328)  
+Progressed: 752 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 724 | 0 |
 | 2024-01-21 | 739 | 0 |
 | 2024-01-22 | 746 | 0 |
-| 2024-01-23 | 749 | 0 |
+| 2024-01-23 | 752 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 479)  
 Sum: 45 (Ranked 525)  

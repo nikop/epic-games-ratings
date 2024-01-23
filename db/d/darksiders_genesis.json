@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2675,6 +2675,11 @@
       "Time": "2024-01-23T13:17:53.1048004+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T18:09:54.2357122+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2751,7 +2756,7 @@
       "Name": "Demolition Derby",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FullofHell",
@@ -2775,7 +2780,7 @@
       "Name": "Good Deeds",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HellsForge",
@@ -2783,7 +2788,7 @@
       "Name": "Hell\u0027s Forge",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Infested",
@@ -2831,7 +2836,7 @@
       "Name": "Mint II",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MintIII",
@@ -2871,7 +2876,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "TheDeadCourt",
@@ -2911,7 +2916,7 @@
       "Name": "Why\u0027d It Have to Be Snakes?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WickedKillington",
@@ -2926,15 +2931,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:32.2811814+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:54.2357119+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:02.2099798+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:59:06.7111247+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:32.2812093+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:28.839028+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:54.2357399+00:00"
 }

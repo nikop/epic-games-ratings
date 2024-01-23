@@ -5,11 +5,11 @@ Rating: 4.34 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bring it on! | 10.00% | ~6 |
-| Hail to the King, Baby | 10.00% | ~6 |
-| Full House | 9.00% | ~5 |
-| Can’t Touch This | 7.00% | ~4 |
-| There is no Nobility in Poverty | 7.00% | ~4 |
+| Bring it on! | 11.00% | ~7 |
+| Hail to the King, Baby | 11.00% | ~7 |
+| Full House | 8.00% | ~5 |
+| There is no Nobility in Poverty | 8.00% | ~5 |
+| Can’t Touch This | 6.00% | ~4 |
 | Call the Boys | 5.00% | ~3 |
 | Help! Help! I’m being repressed | 5.00% | ~3 |
 | Learn Me a Book | 5.00% | ~3 |
@@ -23,8 +23,10 @@ Rating: 4.34 (Ranked 851)
 | He made it out, but with an arrow in his back | 3.00% | ~2 |
 | Kingslayer | 3.00% | ~2 |
 | Pillars of the Earth | 3.00% | ~2 |
+| The finest merchandise this side of river Jordan | 3.00% | ~2 |
 | Time to find India | 3.00% | ~2 |
 | All the King's Men | 2.00% | ~1 |
+| Battle of the Four Armies | 2.00% | ~1 |
 | Big Apple | 2.00% | ~1 |
 | Black Sheep Wall | 2.00% | ~1 |
 | Blinded by Science | 2.00% | ~1 |
@@ -32,16 +34,17 @@ Rating: 4.34 (Ranked 851)
 | Fight Another Day | 2.00% | ~1 |
 | Let Us Pray | 2.00% | ~1 |
 | Let us trade with these fine people | 2.00% | ~1 |
+| Naught but a Seamless Victory | 2.00% | ~1 |
 | On the third day at dawn, look east | 2.00% | ~1 |
 | Playerxander the Great | 2.00% | ~1 |
 | Spartacus | 2.00% | ~1 |
-| The finest merchandise this side of river Jordan | 2.00% | ~1 |
+| They Got What They Deserved | 2.00% | ~1 |
 | What we’ve got here is failure to communicate | 2.00% | ~1 |
+| Why is there no culture victory?! | 2.00% | ~1 |
 | You reap what you sow | 2.00% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | A Quiet Palace | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
-| Battle of the Four Armies | 0.00% | ~0 |
 | Blessed Be His Name | 0.00% | ~0 |
 | Zerg Rush | 0.00% | ~0 |
 | Brutus | 0.00% | ~0 |
@@ -75,7 +78,6 @@ Rating: 4.34 (Ranked 851)
 | Liberty or Death! | 0.00% | ~0 |
 | Lord of the Kings | 0.00% | ~0 |
 | Master of Puppets | 0.00% | ~0 |
-| Naught but a Seamless Victory | 0.00% | ~0 |
 | New Mineland | 0.00% | ~0 |
 | Open Your Eyes | 0.00% | ~0 |
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
@@ -92,7 +94,6 @@ Rating: 4.34 (Ranked 851)
 | The Magnificent Nine | 0.00% | ~0 |
 | The Merchant of Venice | 0.00% | ~0 |
 | The New World Order | 0.00% | ~0 |
-| They Got What They Deserved | 0.00% | ~0 |
 | Together We Stand | 0.00% | ~0 |
 | Two Sides to Every Story | 0.00% | ~0 |
 | This is why we're here: Unobtanium | 0.00% | ~0 |
@@ -101,17 +102,16 @@ Rating: 4.34 (Ranked 851)
 | We Are the Champions | 0.00% | ~0 |
 | We want the money, Playerowski | 0.00% | ~0 |
 | Where’s your crown, king Nothing? | 0.00% | ~0 |
-| Why is there no culture victory?! | 0.00% | ~0 |
 | You are not the boss of me now | 0.00% | ~0 |
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 555)  
+Progressed: 66 (Ranked 545)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 58 | 0 |
+| 2024-01-23 | 66 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5565,9 +5565,9 @@
       "Count": 676
     }
   ],
-  "EOS_Progressed": 24172,
+  "EOS_Progressed": 24173,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17685,6 +17685,11 @@
       "Time": "2024-01-23T17:09:23.653799+00:00",
       "NumProgressed": 24172,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T18:08:51.1867187+00:00",
+      "NumProgressed": 24173,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17697,7 +17702,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "ach02",
@@ -17713,15 +17718,15 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10877
+      "UsersEstimate": 10878
     },
     {
       "ID": "ach04",
       "SetID": "47in8n6",
       "Name": "What Just Happened??",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 7493
+      "UsersEstimate": 7735
     },
     {
       "ID": "ach05",
@@ -17737,7 +17742,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16437
+      "UsersEstimate": 16438
     },
     {
       "ID": "ach07",
@@ -17745,7 +17750,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11119
+      "UsersEstimate": 11120
     },
     {
       "ID": "ach08",
@@ -17817,7 +17822,7 @@
       "Name": "Test Your Might",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ach17",
@@ -17865,7 +17870,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "ach23",
@@ -17945,7 +17950,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "ach33",
@@ -17961,7 +17966,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "ach35",
@@ -17993,7 +17998,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "ach39",
@@ -18017,7 +18022,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "ach42",
@@ -18049,7 +18054,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ach46",
@@ -18089,14 +18094,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7493
+      "UsersEstimate": 7494
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24172,
+      "Progressed": 24173,
       "Completed": 2
     }
   ],
@@ -18104,8 +18109,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-23T14:02:51.0206909+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:09:23.6537987+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:08:51.1867182+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:03:28.7150308+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:09:23.6538783+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:02:53.6489084+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:08:51.1868329+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "arena-9th-2b8a02",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
-    "ReleaseDate": "2024-01-17T00:00:00+00:00",
-    "PcReleaseDate": "2024-02-29T00:00:00+00:00",
+    "ReleaseDate": "2024-02-01T00:00:00+00:00",
+    "PcReleaseDate": "2024-02-01T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": true,
     "EpicFirstRunAdded": "2024-01-14T02:57:10.6608878+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T03:57:17.1353642+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:58:59.0312809+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:05:23.7859613+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:22.3532805+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:04:39.5771657+00:00"
 }

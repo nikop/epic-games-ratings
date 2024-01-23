@@ -917,9 +917,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244812,
+  "EOS_Progressed": 244816,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1082,
+  "EOS_NewPlayers": 1079,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22332,6 +22332,11 @@
       "Time": "2024-01-23T17:10:32.9034879+00:00",
       "NumProgressed": 244812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T18:09:54.7936041+00:00",
+      "NumProgressed": 244816,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22376,7 +22381,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -22424,7 +22429,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9792
+      "UsersEstimate": 9793
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -22600,7 +22605,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61203
+      "UsersEstimate": 61204
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22615,7 +22620,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244812,
+      "Progressed": 244816,
       "Completed": 0
     }
   ],
@@ -22623,8 +22628,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:32.9034877+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:54.7936037+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:59:07.8001007+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:32.9035917+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:29.9728055+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:54.7937577+00:00"
 }

@@ -826,7 +826,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44807,
+  "EOS_Progressed": 44809,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
@@ -29341,6 +29341,11 @@
       "Time": "2024-01-23T17:07:06.5536989+00:00",
       "NumProgressed": 44807,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T18:06:12.6850295+00:00",
+      "NumProgressed": 44809,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29368,7 +29373,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7617
+      "UsersEstimate": 7618
     },
     {
       "ID": "ach_antiquarian10",
@@ -29552,7 +29557,7 @@
       "Name": "Pupil",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ach_legacyrival",
@@ -29568,7 +29573,7 @@
       "Name": "Salvager",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ach_legacyshipmate",
@@ -29584,7 +29589,7 @@
       "Name": "Open Your Ears",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ach_portbell",
@@ -29696,7 +29701,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "ach_sweetheart",
@@ -29704,7 +29709,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8065
+      "UsersEstimate": 8066
     },
     {
       "ID": "ach_terror100",
@@ -29783,15 +29788,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44807,
+      "Progressed": 44809,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:07:06.5536986+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:06:12.685029+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:58:58.2995464+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:07:06.5539005+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:21.7275224+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:06:12.6851803+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 851,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -286,6 +286,11 @@
     {
       "Time": "2024-01-23T17:04:14.0360779+00:00",
       "NumProgressed": 58,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T18:03:36.7323659+00:00",
+      "NumProgressed": 66,
       "NumCompleted": 0
     }
   ],
@@ -329,9 +334,9 @@
       "ID": "battle_of_the_four_armies",
       "SetID": "41moj9p",
       "Name": "Battle of the Four Armies",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "big_apple",
@@ -377,9 +382,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "brutus",
@@ -409,7 +414,7 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -537,7 +542,7 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -577,9 +582,9 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "he_made_it_out",
@@ -769,9 +774,9 @@
       "ID": "naught_but_a_seamless_victory",
       "SetID": "41moj9p",
       "Name": "Naught but a Seamless Victory",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "new_mineland",
@@ -921,9 +926,9 @@
       "ID": "the_finest_merchandise",
       "SetID": "41moj9p",
       "Name": "The finest merchandise this side of river Jordan",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "the_magnificent_nine",
@@ -953,17 +958,17 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "time_to_find_india",
@@ -1057,9 +1062,9 @@
       "ID": "why_is_there_no_culture",
       "SetID": "41moj9p",
       "Name": "Why is there no culture victory?!",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "you_are_not_the_boss",
@@ -1098,7 +1103,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
@@ -1106,8 +1111,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-20T16:58:07.6974686+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:04:14.0360776+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:03:36.7323656+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:59:52.9237381+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:04:14.0361716+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:59:14.1416929+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:03:36.7324579+00:00"
 }

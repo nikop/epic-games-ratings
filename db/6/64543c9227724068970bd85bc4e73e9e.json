@@ -2,12 +2,12 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 892,
   "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 425,
+  "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2023-11-02T19:03:18.4376934+00:00",
@@ -701,10 +701,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 196,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-01-23T18:00:29.4935219+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 216,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196,
+  "NumberOfAwards": 216,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -755,6 +761,12 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -769,8 +781,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-01-21T18:01:00.6766257+00:00",
+  "LastChanged": "2024-01-23T18:00:29.4935217+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:08.4816407+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:01:19.4971655+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:07:03.0346683+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:00:29.4935231+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:06:09.4028082+00:00"
 }

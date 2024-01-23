@@ -27,9 +27,9 @@ Rating: 4.22 (Ranked 961)
 | You Need a Gun | 10.00% | ~2,268 |
 | I Do Belong Here | 9.00% | ~2,042 |
 | Keep Fighting | 8.00% | ~849 |
+| In Striking Distance | 6.00% | ~1,361 |
 | The Commonality | 6.00% | ~1,361 |
 | It's Time | 6.00% | ~637 |
-| In Striking Distance | 5.00% | ~1,134 |
 | One Last Job | 3.00% | ~318 |
 | Armed to the Teeth | 2.00% | ~212 |
 | Mugshot | 2.00% | ~454 |

@@ -25,10 +25,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~1,532 |
 | The Crumbling Temple | 0.60% | ~1,532 |
 | The Contagious Curse | 0.60% | ~1,532 |
-| Beast Mode | 0.50% | ~1,276 |
-| A Mysterious Summons | 0.50% | ~1,276 |
-| Exploring Port Nyanzaru | 0.50% | ~1,276 |
-| Escort to Waterdeep | 0.50% | ~1,276 |
+| Beast Mode | 0.50% | ~1,277 |
+| A Mysterious Summons | 0.50% | ~1,277 |
+| Exploring Port Nyanzaru | 0.50% | ~1,277 |
+| Escort to Waterdeep | 0.50% | ~1,277 |
 | The Overgrown Grove | 0.50% | ~1,108 |
 | When Tentacles Attack | 0.50% | ~1,108 |
 | Flames of Avernus | 0.50% | ~1,108 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,296 (Ranked 71)  
+Progressed: 255,303 (Ranked 71)  
 Completed: 2,634 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -831,7 +831,7 @@ Completed: 2,634 (1.03%) (Ranked 180)
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
-| 2024-01-23 | 255,296 | 2,634 |
+| 2024-01-23 | 255,303 | 2,634 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,615 (Ranked 41)  

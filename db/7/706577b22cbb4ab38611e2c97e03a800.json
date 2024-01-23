@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -1044,9 +1044,9 @@
       "ID": "ACHIEVEMENT_RW_04",
       "SetID": "b50kim2",
       "Name": "RUNAWAY 04",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_RW_05",
@@ -1171,8 +1171,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:05:28.2258286+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:04:43.771564+00:00",
   "LastUpdate_AppInfo": "2024-01-23T10:56:58.5988815+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:00:52.4155061+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:05:28.2258644+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:00:07.8309876+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:04:43.7716158+00:00"
 }

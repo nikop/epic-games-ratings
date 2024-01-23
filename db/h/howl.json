@@ -4,7 +4,7 @@
   "ProductSlug": "the-howl-ee6924",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-01-23T08:00:00+00:00",
@@ -27,9 +27,139 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-23T18:09:46.2387925+00:00",
+  "TotalAchievements": 16,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_CONFIDENCE_COMPLETE",
+      "SetID": "6pjfh93",
+      "Name": "The Perfect Prophecy",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_LEVEL_3_UNLOCK",
+      "SetID": "6pjfh93",
+      "Name": "Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_SKULLS_COMPLETE",
+      "SetID": "6pjfh93",
+      "Name": "Ruthless",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ANY_LEVEL_3_UNLOCK",
+      "SetID": "6pjfh93",
+      "Name": "Skilled",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BURN_3_EXPLOSIVE_SHOT",
+      "SetID": "6pjfh93",
+      "Name": "Burn the Wolf",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_1_COMPLETE",
+      "SetID": "6pjfh93",
+      "Name": "Complete Chapter 1",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_2_COMPLETE",
+      "SetID": "6pjfh93",
+      "Name": "Complete Chapter 2",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_3_COMPLETE",
+      "SetID": "6pjfh93",
+      "Name": "Complete Chapter 3",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_4_COMPLETE",
+      "SetID": "6pjfh93",
+      "Name": "Complete Chapter 4",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_2_FORCE",
+      "SetID": "6pjfh93",
+      "Name": "Overpower",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_2_SMOKEBOMB",
+      "SetID": "6pjfh93",
+      "Name": "Sparks and Smoke",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_2_VAULT",
+      "SetID": "6pjfh93",
+      "Name": "Attacrobatics",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_3_PIERCING_SHOT",
+      "SetID": "6pjfh93",
+      "Name": "Efficiency",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_SHADOW_STEP",
+      "SetID": "6pjfh93",
+      "Name": "From the Shadows",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LAST_SCROLL_UNLOCK",
+      "SetID": "6pjfh93",
+      "Name": "Tactician",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "USE_3_SKILLS_1_ROUND",
+      "SetID": "6pjfh93",
+      "Name": "Combat Prophet",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6pjfh93",
@@ -39,8 +169,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:08:25.6440981+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:23.6642767+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:46.238791+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:53.2526338+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:03:59.0997186+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:23.6642779+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:03:19.7000467+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:46.2715001+00:00"
 }

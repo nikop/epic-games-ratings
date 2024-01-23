@@ -4,10 +4,10 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 186,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -795,10 +795,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 738,
       "NumberOfAwardsMax": 472
+    },
+    {
+      "Time": "2024-01-23T17:57:43.7079327+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 739,
+      "NumberOfAwardsMax": 472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 738,
+  "NumberOfAwards": 739,
   "NumberOfAwardsMax": 472,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -812,7 +818,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Highly Recommended",
@@ -865,7 +871,7 @@
   ],
   "EOS_Progressed": 18722,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -17220,9 +17226,9 @@
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2024-01-23T16:58:12.466375+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:06:17.1019789+00:00",
+  "LastChanged": "2024-01-23T17:57:43.7079325+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:05:28.1158913+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:58:12.4663755+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:06:17.1020776+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:57:43.707933+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:05:28.1159933+00:00"
 }

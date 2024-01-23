@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,292 |
+| Just One...More...Term... | 73.00% | ~5,293 |
 | Un-Lonely Island | 44.00% | ~3,190 |
 | The Beginning of a Servantship | 43.00% | ~3,118 |
 | Trade Is My Trait | 35.00% | ~2,538 |
@@ -19,19 +19,19 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 10.00% | ~725 |
 | Go Sovereigns! | 10.00% | ~725 |
 | For Science! | 10.00% | ~725 |
-| Of Seals And Men | 9.00% | ~652 |
-| Shackadelic | 9.00% | ~652 |
+| Of Seals And Men | 9.00% | ~653 |
+| Shackadelic | 9.00% | ~653 |
 | Double Trouble | 7.00% | ~508 |
 | Firestarter | 7.00% | ~508 |
 | I Owe You Nothing | 7.00% | ~508 |
 | Make Tropico Great Again! | 7.00% | ~508 |
 | French Connection | 7.00% | ~508 |
 | Don't Panic! | 6.00% | ~435 |
-| Viva Tropico! | 5.00% | ~362 |
-| Computer Says "No" | 5.00% | ~362 |
-| Beware The Betman | 5.00% | ~362 |
-| Watch The World Burn | 5.00% | ~362 |
-| Fairy Tale Come True | 5.00% | ~362 |
+| Viva Tropico! | 5.00% | ~363 |
+| Computer Says "No" | 5.00% | ~363 |
+| Beware The Betman | 5.00% | ~363 |
+| Watch The World Burn | 5.00% | ~363 |
+| Fairy Tale Come True | 5.00% | ~363 |
 | Been there, Done That | 3.00% | ~218 |
 | Apocalypso | 3.00% | ~218 |
 | Narcissist | 3.00% | ~218 |
@@ -42,12 +42,12 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~145 |
 | Terraformer | 2.00% | ~145 |
 | Curse of the Mummy | 2.00% | ~145 |
-| Chain Gang | 1.00% | ~72 |
-| From Knight to Little Duck | 1.00% | ~72 |
+| Chain Gang | 1.00% | ~73 |
+| From Knight to Little Duck | 1.00% | ~73 |
 | Survivor | 0.80% | ~58 |
-| My Ways | 0.20% | ~14 |
+| My Ways | 0.20% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,250 (Ranked 203)  
+Progressed: 7,251 (Ranked 203)  
 Completed: 2 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 2 (0.03%) (Ranked 364)
 | 2024-01-20 | 7,216 | 2 |
 | 2024-01-21 | 7,233 | 2 |
 | 2024-01-22 | 7,244 | 2 |
-| 2024-01-23 | 7,250 | 2 |
+| 2024-01-23 | 7,251 | 2 |
 ## Awards
 Max (Highly Recommended): 108  (Ranked 374)  
 Sum: 777 (Ranked 303)  

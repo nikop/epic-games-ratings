@@ -1,20 +1,20 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 112)  
+Rating: 4.78 (Ranked 111)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,330 |
-| No more cages! | 90.00% | ~3,154 |
-| Everfrost | 76.00% | ~2,664 |
-| Dark Forest | 76.00% | ~2,664 |
-| Pentakill | 75.00% | ~2,629 |
+| For Demacia | 95.00% | ~3,331 |
+| No more cages! | 90.00% | ~3,155 |
+| Everfrost | 76.00% | ~2,665 |
+| Dark Forest | 76.00% | ~2,665 |
+| Pentakill | 75.00% | ~2,630 |
 | The use of petricite | 73.00% | ~2,559 |
-| You can pet the dog | 60.00% | ~2,103 |
-| Thornbarrow | 44.00% | ~1,542 |
-| Big Helmet Bro | 42.00% | ~1,472 |
-| Clarion Cove | 42.00% | ~1,472 |
+| You can pet the dog | 60.00% | ~2,104 |
+| Thornbarrow | 44.00% | ~1,543 |
+| Big Helmet Bro | 42.00% | ~1,473 |
+| Clarion Cove | 42.00% | ~1,473 |
 | Ternmoat Headquarters | 40.00% | ~1,402 |
 | Elemental master | 38.00% | ~1,332 |
 | Past trauma | 38.00% | ~1,332 |
@@ -23,10 +23,10 @@ Rating: 4.78 (Ranked 112)
 | Petricite Burst | 34.00% | ~1,192 |
 | Devineur | 33.00% | ~1,157 |
 | Hijack | 32.00% | ~1,122 |
-| Whispers in the Woods I | 29.00% | ~1,016 |
-| I chose my shackles | 29.00% | ~1,016 |
-| Ancient power | 29.00% | ~1,016 |
-| Sacred Woods | 27.00% | ~946 |
+| Whispers in the Woods I | 29.00% | ~1,017 |
+| I chose my shackles | 29.00% | ~1,017 |
+| Ancient power | 29.00% | ~1,017 |
+| Sacred Woods | 27.00% | ~947 |
 | Little light | 25.00% | ~876 |
 | Glyndemere | 25.00% | ~876 |
 | Capelworth | 25.00% | ~876 |
@@ -37,10 +37,10 @@ Rating: 4.78 (Ranked 112)
 | Terbisia | 20.00% | ~701 |
 | Quickmoore Headquarters | 20.00% | ~701 |
 | Friendly fire | 19.00% | ~666 |
+| The Central Headquarters | 19.00% | ~666 |
 | Whispers in the Woods III | 18.00% | ~631 |
 | My heart and sword always for Demacia | 18.00% | ~631 |
 | True power | 18.00% | ~631 |
-| The Central Headquarters | 18.00% | ~631 |
 | Meltridge | 17.00% | ~596 |
 | Cloven Dell Headquarters | 17.00% | ~596 |
 | I smell fear | 16.00% | ~561 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 112)
 | Silverwing nest | 3.00% | ~105 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,505 (Ranked 231)  
+Progressed: 3,506 (Ranked 231)  
 Completed: 37 (1.06%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 37 (1.06%) (Ranked 177)
 | 2024-01-20 | 3,494 | 35 |
 | 2024-01-21 | 3,499 | 36 |
 | 2024-01-22 | 3,503 | 37 |
-| 2024-01-23 | 3,505 | 37 |
+| 2024-01-23 | 3,506 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3946,9 +3946,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243413,
+  "EOS_Progressed": 243417,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32766,6 +32766,11 @@
       "Time": "2024-01-23T17:10:46.4703199+00:00",
       "NumProgressed": 243413,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-23T18:10:07.4383511+00:00",
+      "NumProgressed": 243417,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32841,7 +32846,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -32937,7 +32942,7 @@
       "Name": "To The Death!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "DIEHARD",
@@ -32985,7 +32990,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ENDINGCHOICE",
@@ -33233,7 +33238,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "KILLBOSSHARD",
@@ -33249,7 +33254,7 @@
       "Name": "All Consuming",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -33289,7 +33294,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -33329,7 +33334,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -33441,7 +33446,7 @@
       "Name": "Doing Time",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "POISON300",
@@ -33449,7 +33454,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "POISON30TIMES",
@@ -33880,13 +33885,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243413,
+      "Progressed": 243417,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4893,
+      "Progressed": 4897,
       "Completed": 431
     }
   ],
@@ -33894,8 +33899,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T22:00:30.5602822+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:46.4703196+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:10:07.4383509+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:57:51.7906714+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:46.4705787+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:57:24.8658487+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:10:07.4386058+00:00"
 }

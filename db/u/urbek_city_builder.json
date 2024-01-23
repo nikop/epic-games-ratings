@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1920,6 +1920,11 @@
       "Time": "2024-01-23T16:10:19.3579887+00:00",
       "NumProgressed": 526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T18:10:03.5457763+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1977,7 +1982,7 @@
       "ID": "BANCO_1",
       "SetID": "44dlcg0",
       "Name": "Banking city",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -2057,7 +2062,7 @@
       "ID": "CRISIS_1",
       "SetID": "44dlcg0",
       "Name": "City crisis",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -2562,7 +2567,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 0
     }
   ],
@@ -2570,8 +2575,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:42.2547886+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:10:03.545776+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.7500791+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:59:47.3869739+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:42.2548601+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:59:09.149217+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:10:03.5458395+00:00"
 }

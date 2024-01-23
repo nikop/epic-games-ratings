@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
+  "EOS_Progressed": 767,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2847,6 +2847,11 @@
       "Time": "2024-01-23T17:10:29.9722371+00:00",
       "NumProgressed": 766,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T18:09:52.0229016+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2866,7 +2871,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 37,
       "XP": 80,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "completeact3",
@@ -2977,7 +2982,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 766,
+      "Progressed": 767,
       "Completed": 3
     }
   ],
@@ -2985,8 +2990,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:29.9722369+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:52.0229012+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:58:10.154766+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:29.9722594+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:57:41.6938176+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:52.0229273+00:00"
 }

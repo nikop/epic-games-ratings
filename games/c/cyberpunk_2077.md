@@ -19,12 +19,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.60% | ~6,346 |
 | All the President's Men | 0.60% | ~1,118 |
 | Arachnophobia | 0.60% | ~1,118 |
-| Bushido and Chill | 0.50% | ~5,288 |
-| Gun Fu | 0.50% | ~5,288 |
-| Master Crafter | 0.50% | ~5,288 |
-| The Fool | 0.50% | ~5,288 |
-| The World | 0.50% | ~5,288 |
-| Judy vs Night City | 0.50% | ~5,288 |
+| Bushido and Chill | 0.50% | ~5,289 |
+| Gun Fu | 0.50% | ~5,289 |
+| Master Crafter | 0.50% | ~5,289 |
+| The Fool | 0.50% | ~5,289 |
+| The World | 0.50% | ~5,289 |
+| Judy vs Night City | 0.50% | ~5,289 |
 | To Protect and Serve | 0.40% | ~4,231 |
 | I Am The Law | 0.40% | ~4,231 |
 | The Quick and the Dead | 0.40% | ~4,231 |
@@ -32,6 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.30% | ~3,173 |
 | Two Heads, One Bullet | 0.30% | ~3,173 |
 | Spin Doctor | 0.30% | ~559 |
+| Easy Come, Easy Go | 0.30% | ~559 |
 | To Bad Decisions! | 0.20% | ~2,115 |
 | Breathtaking | 0.20% | ~2,115 |
 | Ten out of Ten | 0.20% | ~2,115 |
@@ -39,7 +40,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.20% | ~2,115 |
 | King of Wands | 0.20% | ~373 |
 | Dirty Deeds | 0.20% | ~373 |
-| Easy Come, Easy Go | 0.20% | ~373 |
 | City Lights | 0.10% | ~1,058 |
 | Autojock | 0.10% | ~1,058 |
 | Frequent Flyer | 0.10% | ~1,058 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,695 (Ranked 17)  
+Progressed: 1,057,717 (Ranked 17)  
 Completed: 3,152 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,10 +352,10 @@ Completed: 3,152 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,695 | 3,152 |
+| 2024-01-23 | 1,057,717 | 3,152 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
-Sum: 515,558 (Ranked 8)  
+Sum: 515,705 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 107,875 |
 | This game is Great for Beginners | 33,062 |
 | This game has Diverse Characters | 32,307 |
-| This game is Highly Recommended | 30,761 |
+| This game is Highly Recommended | 30,908 |
 | This game has Amazing Storytelling | 30,300 |
 | This game is Extremely Fun | 30,040 |
 | This game has Amazing Characters | 29,735 |
@@ -742,4 +742,4 @@ Diff (max vs sum): 0
 | 2024-01-20 | 4.67 | - | 143,148 | 509,082 |
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
-| 2024-01-23 | 4.68 | - | 144,045 | 515,558 |
+| 2024-01-23 | 4.68 | - | 144,045 | 515,705 |

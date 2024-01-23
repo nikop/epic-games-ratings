@@ -7,20 +7,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,264 |
-| Lost and Found | 9.00% | ~758 |
-| Autodidact | 8.00% | ~10,684 |
+| Lost and Found | 9.00% | ~759 |
+| Autodidact | 8.00% | ~10,685 |
 | This Belongs in a Museum | 7.00% | ~9,349 |
 | Creep and Sleep | 7.00% | ~9,349 |
 | Overdue Notice | 7.00% | ~9,349 |
 | This guy... again? | 7.00% | ~590 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,013 |
-| Serenity Now! | 6.00% | ~8,013 |
-| Meat and Greet | 6.00% | ~8,013 |
-| Catch and Decease | 6.00% | ~8,013 |
-| Escape from the Black Hole | 6.00% | ~8,013 |
-| Rush Hour | 6.00% | ~8,013 |
-| To Grandmother's House | 6.00% | ~8,013 |
-| FNG | 6.00% | ~8,013 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,014 |
+| Serenity Now! | 6.00% | ~8,014 |
+| Meat and Greet | 6.00% | ~8,014 |
+| Catch and Decease | 6.00% | ~8,014 |
+| Escape from the Black Hole | 6.00% | ~8,014 |
+| Rush Hour | 6.00% | ~8,014 |
+| To Grandmother's House | 6.00% | ~8,014 |
+| FNG | 6.00% | ~8,014 |
 | Ploughshares to Swords | 6.00% | ~506 |
 | Bloody Graduation | 6.00% | ~506 |
 | It Rings a Bell | 5.00% | ~6,678 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,556 (Ranked 92)  
+Progressed: 133,560 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
-| 2024-01-23 | 133,556 | 5 |
+| 2024-01-23 | 133,560 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
 Sum: 21,833 (Ranked 58)  

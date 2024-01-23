@@ -18888,10 +18888,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 515558,
       "NumberOfAwardsMax": 144045
+    },
+    {
+      "Time": "2024-01-23T18:03:07.6048646+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 515705,
+      "NumberOfAwardsMax": 144045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 515558,
+  "NumberOfAwards": 515705,
   "NumberOfAwardsMax": 144045,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18935,7 +18941,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 30761
+      "Count": 30908
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18968,9 +18974,9 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057695,
+  "EOS_Progressed": 1057717,
   "EOS_Completed": 3152,
-  "EOS_NewPlayers": 4791,
+  "EOS_NewPlayers": 4776,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50858,6 +50864,11 @@
       "Time": "2024-01-23T17:09:28.6752952+00:00",
       "NumProgressed": 1057695,
       "NumCompleted": 3152
+    },
+    {
+      "Time": "2024-01-23T18:08:55.6769477+00:00",
+      "NumProgressed": 1057717,
+      "NumCompleted": 3152
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50886,7 +50897,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "Cyberjunkie",
@@ -50942,7 +50953,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "Gunslinger",
@@ -50958,7 +50969,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "IAmMaxTac",
@@ -51086,7 +51097,7 @@
       "Name": "The Fool",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "TheHermit",
@@ -51142,7 +51153,7 @@
       "Name": "The World",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "ThisIsPacifica",
@@ -51190,7 +51201,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "VForVendetta",
@@ -51396,30 +51407,30 @@
       "ID": "EasyComeEasyGo",
       "SetID": "23nboa5",
       "Name": "Easy Come, Easy Go",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 559
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057695,
+      "Progressed": 1057717,
       "Completed": 3152
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186318,
-      "Completed": 10693
+      "Progressed": 186340,
+      "Completed": 10694
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-23T17:03:45.7497793+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:09:28.6752949+00:00",
+  "LastChanged": "2024-01-23T18:03:07.6048644+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:08:55.6769472+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:03:45.74978+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:09:28.6754608+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:03:07.604865+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:08:55.6771344+00:00"
 }

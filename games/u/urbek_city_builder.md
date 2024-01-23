@@ -21,10 +21,10 @@
 | King of fish | 2.00% | ~11 |
 | What would we do if we can't go out with friends? | 2.00% | ~11 |
 | Rebel city | 2.00% | ~11 |
-| Banking city | 1.00% | ~5 |
-| City crisis | 1.00% | ~5 |
 | I am very happy! | 1.00% | ~5 |
 | Metropolurbek | 1.00% | ~5 |
+| Banking city | 0.90% | ~5 |
+| City crisis | 0.90% | ~5 |
 | Read! Everyone should read! | 0.60% | ~3 |
 | Oh, I love parks, listening to birds! | 0.60% | ~3 |
 | Food provider master | 0.40% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526 (Ranked 358)  
+Progressed: 527 (Ranked 358)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 519 | 0 |
 | 2024-01-19 | 522 | 0 |
 | 2024-01-22 | 524 | 0 |
-| 2024-01-23 | 526 | 0 |
+| 2024-01-23 | 527 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

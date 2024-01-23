@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 5.00% | ~856 |
 | Able | 4.00% | ~685 |
 | Architect | 4.00% | ~685 |
+| Good | 4.00% | ~685 |
 | Intrepid | 4.00% | ~685 |
 | Mason | 4.00% | ~685 |
 | Strong | 4.00% | ~685 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 3.00% | ~514 |
 | Fountainhead | 3.00% | ~514 |
 | Glorious | 3.00% | ~514 |
-| Good | 3.00% | ~514 |
 | Just | 3.00% | ~514 |
 | Keystone | 3.00% | ~514 |
 | Learned | 3.00% | ~514 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,122 (Ranked 170)  
+Progressed: 17,123 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
-| 2024-01-23 | 17,122 | 5 |
+| 2024-01-23 | 17,123 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

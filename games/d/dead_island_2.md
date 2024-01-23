@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,945 |
-| Hotel California | 10.00% | ~80,859 |
-| Break A Leg | 9.00% | ~72,773 |
-| Coup de Grâce | 8.00% | ~64,687 |
-| Hazardous Materials | 8.00% | ~64,687 |
-| Git Gutte! | 7.00% | ~56,601 |
-| Apex Predator | 7.00% | ~56,601 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,601 |
-| Dr. Reed, I Presume? | 6.00% | ~48,515 |
-| Bookworm | 6.00% | ~48,515 |
-| Friends Like These | 6.00% | ~48,515 |
-| Stacking the Deck | 6.00% | ~48,515 |
-| This is My Weapon | 6.00% | ~48,515 |
-| Anger Management | 5.00% | ~40,429 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,429 |
-| But Doctor, I am Butcho | 5.00% | ~40,429 |
-| Can't Handle the Truth | 5.00% | ~40,429 |
-| Like Riding a Bike | 5.00% | ~40,429 |
+| Welcome To Hell-A | 11.00% | ~88,947 |
+| Hotel California | 10.00% | ~80,860 |
+| Break A Leg | 9.00% | ~72,774 |
+| Coup de Grâce | 8.00% | ~64,688 |
+| Hazardous Materials | 8.00% | ~64,688 |
+| Git Gutte! | 7.00% | ~56,602 |
+| Apex Predator | 7.00% | ~56,602 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,602 |
+| Dr. Reed, I Presume? | 6.00% | ~48,516 |
+| Bookworm | 6.00% | ~48,516 |
+| Friends Like These | 6.00% | ~48,516 |
+| Stacking the Deck | 6.00% | ~48,516 |
+| This is My Weapon | 6.00% | ~48,516 |
+| Anger Management | 5.00% | ~40,430 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,430 |
+| But Doctor, I am Butcho | 5.00% | ~40,430 |
+| Can't Handle the Truth | 5.00% | ~40,430 |
+| Like Riding a Bike | 5.00% | ~40,430 |
 | Making Your Mark | 4.00% | ~32,344 |
 | Perks of the Job | 4.00% | ~32,344 |
 | Slayer Squad | 4.00% | ~32,344 |
@@ -31,8 +31,8 @@ Rating: 4.54 (Ranked 553)
 | A Patton Emerges | 4.00% | ~32,344 |
 | I Am the Resurrection | 4.00% | ~32,344 |
 | Our True Nature | 4.00% | ~32,344 |
-| Whatever It Takes | 4.00% | ~5,365 |
-| Pork Chopped | 4.00% | ~5,365 |
+| Whatever It Takes | 4.00% | ~5,366 |
+| Pork Chopped | 4.00% | ~5,366 |
 | Jumbo Keyring | 3.00% | ~24,258 |
 | Humanity Distilled | 3.00% | ~24,258 |
 | Down with the Sickness | 3.00% | ~24,258 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 553)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,588 (Ranked 23)  
+Progressed: 808,605 (Ranked 23)  
 Completed: 2,627 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2,627 (0.32%) (Ranked 261)
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
-| 2024-01-23 | 808,588 | 2,627 |
+| 2024-01-23 | 808,605 | 2,627 |
 ## Awards
 Max (Great Boss Battles): 10,850  (Ranked 40)  
 Sum: 16,690 (Ranked 68)  

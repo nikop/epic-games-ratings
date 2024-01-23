@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,843 |
-| First Class Student | 29.00% | ~112,232 |
-| Troll with the Punches | 27.00% | ~104,492 |
-| A Keen Sense of Spell | 24.00% | ~92,882 |
-| A Talent for Spending | 20.00% | ~77,402 |
-| That's a Keeper | 19.00% | ~73,532 |
-| Loom for Improvement | 16.00% | ~61,921 |
-| Followed the Butterflies | 15.00% | ~58,051 |
-| The Defender of Dragons | 14.00% | ~54,181 |
-| Challenge Accepted | 14.00% | ~54,181 |
-| The Hallowed Hero | 13.00% | ~50,311 |
-| Coasting Along | 13.00% | ~50,311 |
-| Grappling with a Graphorn | 12.00% | ~46,441 |
-| The One Who Mastered Memories | 12.00% | ~46,441 |
-| The Hero of Hogwarts | 12.00% | ~46,441 |
-| The Spell Master | 11.00% | ~42,571 |
-| Rising From the Ashes | 11.00% | ~42,571 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,845 |
+| First Class Student | 29.00% | ~112,234 |
+| Troll with the Punches | 27.00% | ~104,494 |
+| A Keen Sense of Spell | 24.00% | ~92,884 |
+| A Talent for Spending | 20.00% | ~77,403 |
+| That's a Keeper | 19.00% | ~73,533 |
+| Loom for Improvement | 16.00% | ~61,922 |
+| Followed the Butterflies | 15.00% | ~58,052 |
+| The Defender of Dragons | 14.00% | ~54,182 |
+| Challenge Accepted | 14.00% | ~54,182 |
+| The Hallowed Hero | 13.00% | ~50,312 |
+| Coasting Along | 13.00% | ~50,312 |
+| Grappling with a Graphorn | 12.00% | ~46,442 |
+| The One Who Mastered Memories | 12.00% | ~46,442 |
+| The Hero of Hogwarts | 12.00% | ~46,442 |
+| The Spell Master | 11.00% | ~42,572 |
+| Rising From the Ashes | 11.00% | ~42,572 |
 | The Avenging Gazelle | 9.00% | ~34,831 |
 | A Sallow Grave | 9.00% | ~34,831 |
 | Flight the Good Flight | 9.00% | ~34,831 |
@@ -31,14 +31,14 @@ Rating: 4.75 (Ranked 151)
 | The Gryffindor in the Graveyard | 8.00% | ~30,961 |
 | The Toast of the Town | 7.00% | ~27,091 |
 | Third Time's a Charm | 7.00% | ~27,091 |
-| The Seeker of Knowledge | 6.00% | ~23,220 |
-| Going Through the Potions | 6.00% | ~23,220 |
-| The Ends Petrify the Means | 6.00% | ~23,220 |
-| The Wise Owl | 6.00% | ~23,220 |
-| Put Down Roots | 4.00% | ~15,480 |
-| The Auror's Apprentice | 4.00% | ~15,480 |
-| Room with a View | 4.00% | ~15,480 |
-| The Intrepid Explorer | 4.00% | ~15,480 |
+| The Seeker of Knowledge | 6.00% | ~23,221 |
+| Going Through the Potions | 6.00% | ~23,221 |
+| The Ends Petrify the Means | 6.00% | ~23,221 |
+| The Wise Owl | 6.00% | ~23,221 |
+| Put Down Roots | 4.00% | ~15,481 |
+| The Auror's Apprentice | 4.00% | ~15,481 |
+| Room with a View | 4.00% | ~15,481 |
+| The Intrepid Explorer | 4.00% | ~15,481 |
 | Floo Around the World | 3.00% | ~11,610 |
 | The Good Samaritan | 2.00% | ~7,740 |
 | Savvy Spender | 2.00% | ~7,740 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,709 |
 | Collector's Edition | 0.40% | ~1,548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,008 (Ranked 56)  
+Progressed: 387,015 (Ranked 56)  
 Completed: 584 (0.15%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,22 +329,22 @@ Completed: 584 (0.15%) (Ranked 300)
 | 2024-01-20 | 386,230 | 580 |
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
-| 2024-01-23 | 387,008 | 584 |
+| 2024-01-23 | 387,015 | 584 |
 ## Awards
 Max (Character Customization): 32,342  (Ranked 16)  
-Sum: 66,354 (Ranked 24)  
+Sum: 66,379 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 32,342 |
 | This game has Great Boss Battles | 17,037 |
 | This game is Great for Beginners | 1,923 |
+| This game is Extremely Fun | 1,838 |
 | This game has Amazing Storytelling | 1,830 |
-| This game is Extremely Fun | 1,826 |
 | This game is Relaxing | 1,780 |
 | This game has Diverse Characters | 1,779 |
+| This game is Highly Recommended | 1,750 |
 | This game has Amazing Characters | 1,745 |
-| This game is Highly Recommended | 1,737 |
 | This game has Quickly Understood Controls | 1,689 |
 | This game has Beautiful Visuals | 1,532 |
 | This game has a Creative Community | 1,134 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2024-01-20 | 4.75 | 31,905 | 65,176 |
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
 | 2024-01-22 | 4.75 | 32,228 | 66,082 |
-| 2024-01-23 | 4.75 | 32,342 | 66,354 |
+| 2024-01-23 | 4.75 | 32,342 | 66,379 |

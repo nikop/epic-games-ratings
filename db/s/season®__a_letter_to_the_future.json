@@ -5369,9 +5369,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5450,8 +5450,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:26.2850341+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:48.556497+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:01:02.5088156+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:26.2850616+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:00:15.3681412+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:48.5565287+00:00"
 }

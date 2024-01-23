@@ -1951,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169399,
+  "EOS_Progressed": 169413,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24201,6 +24201,11 @@
       "Time": "2024-01-23T17:08:35.2220226+00:00",
       "NumProgressed": 169399,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-23T18:08:08.1127201+00:00",
+      "NumProgressed": 169413,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24267,9 +24272,9 @@
       "ID": "ACQUIRE_MAXBREATH",
       "SetID": "ccc0dlh",
       "Name": "Breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 678
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -24277,7 +24282,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6776
+      "UsersEstimate": 6777
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -24429,7 +24434,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8470
+      "UsersEstimate": 8471
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -24443,9 +24448,9 @@
       "ID": "MISC_ENDING_PROPER",
       "SetID": "ccc0dlh",
       "Name": "Kinship",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 339
+      "UsersEstimate": 508
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -24580,21 +24585,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168982,
+      "Progressed": 168996,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169399,
+      "Progressed": 169413,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:08:35.2220224+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:08:08.1127196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:59:47.2958965+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:08:35.222144+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:59:09.0841858+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:08:08.1129152+00:00"
 }

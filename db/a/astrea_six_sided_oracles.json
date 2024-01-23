@@ -2102,9 +2102,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "SanctuaryGuardian",
@@ -2445,8 +2445,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:09:38.2230245+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:04.4119089+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.6848498+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:59:18.2934415+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:09:38.2231212+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:40.7084239+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:04.4120118+00:00"
 }

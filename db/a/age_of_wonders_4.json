@@ -739,10 +739,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 242,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-01-23T18:00:33.5242683+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 242,
+  "NumberOfAwards": 244,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -774,7 +780,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Challenging Combat",
@@ -786,7 +792,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -801,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7290,
+  "EOS_Progressed": 7291,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11456,6 +11462,11 @@
       "Time": "2024-01-23T08:05:48.9889803+00:00",
       "NumProgressed": 7290,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T18:05:48.3676032+00:00",
+      "NumProgressed": 7291,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11515,7 +11526,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "16",
@@ -11555,7 +11566,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "20",
@@ -11579,7 +11590,7 @@
       "Name": "Realm Estate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "23",
@@ -11619,7 +11630,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "28",
@@ -11707,7 +11718,7 @@
       "Name": "Against the Odds",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "38",
@@ -11723,7 +11734,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "4",
@@ -11946,22 +11957,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7290,
+      "Progressed": 7291,
       "Completed": 4769
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7290,
+      "Progressed": 7291,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-23T16:02:28.6310901+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:06:39.6164655+00:00",
+  "LastChanged": "2024-01-23T18:00:33.5242681+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:05:48.3676027+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:01:24.0935802+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:06:39.6165646+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:00:33.5242686+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:05:48.3677012+00:00"
 }

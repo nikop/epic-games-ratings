@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12124,
+  "EOS_Progressed": 12130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5952,6 +5952,11 @@
       "Time": "2024-01-23T17:10:39.5325311+00:00",
       "NumProgressed": 12124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T18:10:00.9130435+00:00",
+      "NumProgressed": 12130,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5964,7 +5969,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "03_TheStolenStar",
@@ -5972,7 +5977,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5988,7 +5993,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6060,7 +6065,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "15_Pentakill",
@@ -6068,7 +6073,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "16_TheRise",
@@ -6076,7 +6081,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "17_TheExemplar",
@@ -6092,7 +6097,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6100,7 +6105,7 @@
       "Name": "Void Wolf",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6124,7 +6129,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "23_DynastyRestored",
@@ -6132,7 +6137,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "24_TheHighrise",
@@ -6148,7 +6153,7 @@
       "Name": "The Dynasty Prospers",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -6172,7 +6177,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6204,7 +6209,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -6212,7 +6217,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6220,7 +6225,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6236,7 +6241,7 @@
       "Name": "Adventurous Archaeologist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -6276,7 +6281,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6284,7 +6289,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6316,7 +6321,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "47_AFlame",
@@ -6372,7 +6377,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -6404,7 +6409,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -6420,7 +6425,7 @@
       "Name": "The Possessed Ship",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -6444,7 +6449,7 @@
       "Name": "Invisible Bureaucracy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -6483,7 +6488,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12124,
+      "Progressed": 12130,
       "Completed": 1
     }
   ],
@@ -6491,8 +6496,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:10:39.5325308+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:10:00.913043+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:58:42.8485297+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:10:39.5326032+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:58:09.8531588+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:10:00.9131343+00:00"
 }

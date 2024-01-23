@@ -50,15 +50,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.70% | ~1,704 |
 | Expensive Look | 0.70% | ~34 |
 | What Doesn't Kill You | 0.70% | ~34 |
-| Shadow Spreads | 0.60% | ~1,460 |
-| To The Death! | 0.60% | ~1,460 |
-| Well Prepared | 0.60% | ~1,460 |
-| Don't Ignore Me! | 0.60% | ~1,460 |
-| All Consuming | 0.60% | ~1,460 |
-| Stop Hitting Yourself | 0.60% | ~1,460 |
-| Illuminate, Eliminate | 0.60% | ~1,460 |
-| Doing Time | 0.60% | ~1,460 |
-| Spreading Plague | 0.60% | ~1,460 |
+| Shadow Spreads | 0.60% | ~1,461 |
+| To The Death! | 0.60% | ~1,461 |
+| Well Prepared | 0.60% | ~1,461 |
+| Don't Ignore Me! | 0.60% | ~1,461 |
+| All Consuming | 0.60% | ~1,461 |
+| Stop Hitting Yourself | 0.60% | ~1,461 |
+| Illuminate, Eliminate | 0.60% | ~1,461 |
+| Doing Time | 0.60% | ~1,461 |
+| Spreading Plague | 0.60% | ~1,461 |
 | Thank You, Friend | 0.50% | ~1,217 |
 | Max Damage! | 0.50% | ~1,217 |
 | A Rough Road | 0.50% | ~1,217 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,413 (Ranked 75)  
+Progressed: 243,417 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,7 +423,7 @@ Completed: 309 (0.13%) (Ranked 308)
 | 2024-01-20 | 243,288 | 309 |
 | 2024-01-21 | 243,345 | 309 |
 | 2024-01-22 | 243,388 | 309 |
-| 2024-01-23 | 243,413 | 309 |
+| 2024-01-23 | 243,417 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,802 (Ranked 92)  

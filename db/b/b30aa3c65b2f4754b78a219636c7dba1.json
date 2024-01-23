@@ -4,7 +4,7 @@
   "ProductSlug": "urbanwars-dd735b",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-08T12:08:30.5067508+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:04:28.4887088+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:03:49.2948637+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:04.1793968+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:00:40.5170518+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:04:28.4887137+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:59:58.1195087+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:03:49.2948669+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 102,
@@ -518,7 +518,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100069,
+  "EOS_Progressed": 100073,
   "EOS_Completed": 460,
   "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 4,
@@ -31603,6 +31603,11 @@
       "Time": "2024-01-23T17:09:42.440935+00:00",
       "NumProgressed": 100069,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2024-01-23T18:09:08.9911216+00:00",
+      "NumProgressed": 100073,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 10,
@@ -31614,7 +31619,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "Drawings01",
@@ -31638,7 +31643,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "Drawings04",
@@ -31678,7 +31683,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 35024
+      "UsersEstimate": 35026
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31693,15 +31698,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 100069,
+      "Progressed": 100073,
       "Completed": 460
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-22T16:03:26.431751+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:09:42.4409347+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:09:08.991121+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.554239+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:03:47.3151897+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:09:42.4410828+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:03:08.8288147+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:09:08.9912752+00:00"
 }

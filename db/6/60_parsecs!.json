@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1638,
+  "EOS_Progressed": 1639,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2071,6 +2071,11 @@
       "Time": "2024-01-23T17:09:14.145429+00:00",
       "NumProgressed": 1638,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T18:08:42.6581025+00:00",
+      "NumProgressed": 1639,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -2090,7 +2095,7 @@
       "Name": "Across The Stars",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -2144,9 +2149,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 672
     },
     {
       "ID": "Achievement_DontPanic",
@@ -2154,7 +2159,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "Achievement_DustToDust",
@@ -2218,7 +2223,7 @@
       "Name": "For Science!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "Achievement_Friendzone",
@@ -2226,7 +2231,7 @@
       "Name": "Friendzone",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -2256,9 +2261,9 @@
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1180
     },
     {
       "ID": "Achievement_Improvinator",
@@ -2306,7 +2311,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -2314,7 +2319,7 @@
       "Name": "Mutiny in making",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "Achievement_Muttnik",
@@ -2338,7 +2343,7 @@
       "Name": "Non-Fiction",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Achievement_SecondLife",
@@ -2368,9 +2373,9 @@
       "ID": "Achievement_SpaceColonization",
       "SetID": "c01p6e5",
       "Name": "Space Colonization",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1295
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -2378,7 +2383,7 @@
       "Name": "Space Engineer",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -2416,9 +2421,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 983
     },
     {
       "ID": "Achievement_Traitor",
@@ -2433,7 +2438,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 1638,
+      "Progressed": 1639,
       "Completed": 1
     }
   ],
@@ -2441,8 +2446,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-23T17:09:14.1454287+00:00",
+  "LastChanged_Achievements": "2024-01-23T18:08:42.658102+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:01.9198203+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:00:24.9794361+00:00",
-  "LastUpdate_Achievements": "2024-01-23T17:09:14.1454624+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:59:42.8638824+00:00",
+  "LastUpdate_Achievements": "2024-01-23T18:08:42.6581359+00:00"
 }
