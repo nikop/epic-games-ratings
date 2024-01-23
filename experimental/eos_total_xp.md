@@ -75,6 +75,7 @@
 | [A Musical Story](../games/a/a_musical_story.md) | 54 | 1,000 |
 | [A Plague Tale: Requiem](../games/a/a_plague_tale__requiem.md) | 35 | 1,000 |
 | [A Tale of Paper: Refolded](../games/a/a_tale_of_paper__refolded.md) | 29 | 1,000 |
+| [ABRISS - build to destroy](../games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 47 | 1,000 |
 | [Absolute Drift](../games/a/absolute_drift.md) | 20 | 1,000 |
 | [Absolute Tactics](../games/a/absolute_tactics.md) | 21 | 1,000 |
 | [Access Denied Escape](../games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 14 | 1,000 |
