@@ -13,7 +13,7 @@
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 13 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
-| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.01% |
+| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.81% |
 | 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
 | 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.43% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.42% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -123,7 +123,7 @@
 | 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.56% |
-| 124 | [The Complex](games/t/the_complex.md) | 2.55% |
+| 124 | [The Complex](games/t/the_complex.md) | 2.54% |
 | 125 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.51% |
 | 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -176,9 +176,9 @@
 | 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.08% |
 | 174 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 174 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
-| 177 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.06% |
 | 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.06% |
-| 179 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
+| 178 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
+| 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 180 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.03% |
 | 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 182 | [Sable](games/s/sable.md) | 1.02% |
