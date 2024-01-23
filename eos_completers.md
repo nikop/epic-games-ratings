@@ -42,7 +42,7 @@
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.89% |
-| 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.87% |
+| 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.84% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.28% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
@@ -62,7 +62,7 @@
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
 | 62 | [Scorn](games/s/scorn.md) | 6.85% |
-| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.83% |
+| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.82% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.45% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
@@ -76,8 +76,8 @@
 | 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.10% |
-| 77 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 5.00% |
-| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
+| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
+| 78 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.94% |
 | 79 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.79% |
 | 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
@@ -207,11 +207,11 @@
 | 205 | [Infindustry](games/i/infindustry.md) | 0.73% |
 | 205 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
 | 207 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
-| 208 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.67% |
-| 208 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.67% |
-| 210 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.65% |
-| 211 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.64% |
-| 212 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.63% |
+| 207 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.69% |
+| 209 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.67% |
+| 209 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.67% |
+| 211 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.65% |
+| 212 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.64% |
 | 213 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.62% |
 | 214 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.61% |
 | 215 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.60% |
@@ -312,13 +312,13 @@
 | 308 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 308 | [RAILGRADE](games/r/railgrade.md) | 0.13% |
 | 308 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
-| 313 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.12% |
 | 313 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
-| 315 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 315 | [Black Book](games/b/black_book.md) | 0.11% |
-| 315 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
-| 315 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
-| 315 | [Supraland](games/s/supraland.md) | 0.11% |
+| 314 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 314 | [Black Book](games/b/black_book.md) | 0.11% |
+| 314 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
+| 314 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.11% |
+| 314 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
+| 314 | [Supraland](games/s/supraland.md) | 0.11% |
 | 320 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 320 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 320 | [Isonzo](games/i/isonzo.md) | 0.10% |
