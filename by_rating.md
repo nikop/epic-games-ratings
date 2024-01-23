@@ -506,7 +506,7 @@
 | 498 | [Hob](games/h/hob.md) | 4.57 | 0 | 591 |
 | 498 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 236 | 285 |
 | 498 | [Minit](games/m/minit.md) | 4.57 | 0 | 591 |
-| 498 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,056 | 105 |
+| 498 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,056 | 106 |
 | 498 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 591 |
 | 498 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,461 | 100 |
 | 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.57 | 37 | 503 |
@@ -515,7 +515,7 @@
 | 498 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 22,267 | 22 |
 | 498 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,797 | 132 |
 | 498 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 22 | 571 |
-| 516 | [Among Us](games/a/among_us.md) | 4.56 | 3,053 | 106 |
+| 516 | [Among Us](games/a/among_us.md) | 4.56 | 3,060 | 105 |
 | 516 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 0 | 591 |
 | 516 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 591 |
 | 516 | [Costume Quest](games/c/costume_quest.md) | 4.56 | 0 | 591 |
@@ -591,6 +591,7 @@
 | 584 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 132 | 349 |
 | 584 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 207 | 300 |
 | 584 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 591 |
+| 584 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.52 | 1,944 | 125 |
 | 584 | [Souldiers](games/s/souldiers.md) | 4.52 | 0 | 591 |
 | 584 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.52 | 0 | 591 |
 | 584 | [Stories Untold](games/s/stories_untold.md) | 4.52 | 0 | 591 |
@@ -599,28 +600,27 @@
 | 584 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.52 | 0 | 591 |
 | 584 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.52 | 32 | 522 |
 | 584 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 591 |
-| 600 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.51 | 0 | 591 |
-| 600 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 147 | 337 |
-| 600 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 885 | 177 |
-| 600 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,170 | 91 |
-| 600 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 230 | 288 |
-| 600 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 591 |
-| 600 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 40,086 | 15 |
-| 600 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 0 | 591 |
-| 600 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 155,268 | 7 |
-| 600 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 329 | 257 |
-| 600 | [GigaBash](games/g/gigabash.md) | 4.51 | 59 | 439 |
-| 600 | [Godlike Burger](games/g/godlike_burger.md) | 4.51 | 0 | 591 |
-| 600 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 156 | 333 |
-| 600 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 591 |
-| 600 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.51 | 1,944 | 125 |
-| 600 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 360 | 251 |
-| 600 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 786 | 189 |
-| 600 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 71 | 420 |
-| 600 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 591 |
-| 600 | [VALORANT](games/v/valorant.md) | 4.51 | 94,929 | 10 |
-| 600 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 591 |
-| 600 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 140 | 346 |
+| 601 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.51 | 0 | 591 |
+| 601 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 147 | 337 |
+| 601 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 885 | 177 |
+| 601 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,170 | 91 |
+| 601 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 230 | 288 |
+| 601 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 591 |
+| 601 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 40,086 | 15 |
+| 601 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 0 | 591 |
+| 601 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 155,268 | 7 |
+| 601 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 329 | 257 |
+| 601 | [GigaBash](games/g/gigabash.md) | 4.51 | 59 | 439 |
+| 601 | [Godlike Burger](games/g/godlike_burger.md) | 4.51 | 0 | 591 |
+| 601 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 156 | 333 |
+| 601 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 591 |
+| 601 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 360 | 251 |
+| 601 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 786 | 189 |
+| 601 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 71 | 420 |
+| 601 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 591 |
+| 601 | [VALORANT](games/v/valorant.md) | 4.51 | 94,929 | 10 |
+| 601 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 591 |
+| 601 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 140 | 346 |
 | 622 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,910 | 127 |
 | 622 | [ATOM RPG](games/a/atom_rpg.md) | 4.50 | 53 | 455 |
 | 622 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 458 | 232 |
