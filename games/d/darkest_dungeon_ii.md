@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,264 |
+| Malpractice Assurance | 15.00% | ~1,265 |
 | Lost and Found | 9.00% | ~759 |
 | Autodidact | 8.00% | ~10,685 |
 | This Belongs in a Museum | 7.00% | ~9,349 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,678 |
 | A Place to Lay Your Head | 5.00% | ~6,678 |
 | Nope | 5.00% | ~6,678 |
-| Friends 'Til the End | 5.00% | ~421 |
+| Friends 'Til the End | 5.00% | ~422 |
 | Resurrection | 4.00% | ~5,342 |
 | Unleash Hell | 4.00% | ~5,342 |
 | Funny Guy | 4.00% | ~5,342 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,560 (Ranked 92)  
+Progressed: 133,562 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,11 +354,11 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
-| 2024-01-23 | 133,560 | 5 |
+| 2024-01-23 | 133,562 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
-Sum: 21,833 (Ranked 58)  
-Diff (max vs sum): -6  
+Sum: 21,833 (Ranked 59)  
+Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,066 |

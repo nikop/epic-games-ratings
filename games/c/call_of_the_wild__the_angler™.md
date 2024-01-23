@@ -11,14 +11,14 @@ Number of Ratings: 281  (23.09.2022)
 | Hey Good Hookin | 17.00% | ~1,430 |
 | Can you smell what the Rod is Hooking | 16.00% | ~1,346 |
 | Scaling up | 15.00% | ~1,262 |
-| I'm on a Boat! | 14.00% | ~1,177 |
+| I'm on a Boat! | 14.00% | ~1,178 |
 | Ready to Rod and Roll | 12.00% | ~1,009 |
 | Fish Out of Water | 8.00% | ~673 |
 | Things that go Splash in the Night | 8.00% | ~673 |
 | Goldfish? | 6.00% | ~505 |
 | Going for Gold | 6.00% | ~505 |
-| License to Gill | 5.00% | ~420 |
-| School's Out for Summer | 5.00% | ~420 |
+| License to Gill | 5.00% | ~421 |
+| School's Out for Summer | 5.00% | ~421 |
 | I'm Hooked! | 4.00% | ~336 |
 | Diamond in the Rough | 2.00% | ~168 |
 | More than a Tourist | 1.00% | ~84 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,410 (Ranked 194)  
+Progressed: 8,411 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 8,377 | 0 |
 | 2024-01-21 | 8,395 | 0 |
 | 2024-01-22 | 8,403 | 0 |
-| 2024-01-23 | 8,410 | 0 |
+| 2024-01-23 | 8,411 | 0 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
 Sum: 218 (Ranked 414)  

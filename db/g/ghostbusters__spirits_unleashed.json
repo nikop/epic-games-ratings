@@ -4051,11 +4051,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 2987,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2024-01-23T18:57:33.1611695+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2988,
+      "NumberOfAwardsMax": 330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2987,
-  "NumberOfAwardsMax": 329,
+  "NumberOfAwards": 2988,
+  "NumberOfAwardsMax": 330,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -4080,7 +4086,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 329
+      "Count": 330
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4131,9 +4137,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33912,
+  "EOS_Progressed": 33915,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26346,6 +26352,11 @@
       "Time": "2024-01-23T17:09:41.8464143+00:00",
       "NumProgressed": 33912,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-23T19:09:27.8108641+00:00",
+      "NumProgressed": 33915,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26429,7 +26440,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "Diabolical",
@@ -26501,7 +26512,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "Ghost_Expert",
@@ -26605,7 +26616,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "Rivalry",
@@ -26661,7 +26672,7 @@
       "Name": "Stylish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4070
     },
     {
       "ID": "Summoner",
@@ -26764,16 +26775,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33912,
+      "Progressed": 33915,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-22T20:02:51.0906047+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:09:08.1390541+00:00",
+  "LastChanged": "2024-01-23T18:57:33.1611693+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:09:27.8108638+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:41.0805246+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:57:20.0695001+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:09:08.1392237+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:57:33.1611697+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:09:27.8109752+00:00"
 }

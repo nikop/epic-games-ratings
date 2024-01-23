@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 12.00% | ~4,069 |
+| Stylish | 12.00% | ~4,070 |
 | Meticulously Efficient | 9.00% | ~3,052 |
 | Advancement | 8.00% | ~2,713 |
 | Swift Rift Removers | 7.00% | ~2,374 |
@@ -19,9 +19,9 @@ Rating: 4.51 (Ranked 601)
 | There you are! | 5.00% | ~1,696 |
 | Vaporous Expansion | 5.00% | ~1,696 |
 | Whoopsie | 5.00% | ~1,696 |
-| Daily Dose | 4.00% | ~1,356 |
-| Ghostbuster In Training | 4.00% | ~1,356 |
-| Right back at ya | 4.00% | ~1,356 |
+| Daily Dose | 4.00% | ~1,357 |
+| Ghostbuster In Training | 4.00% | ~1,357 |
+| Right back at ya | 4.00% | ~1,357 |
 | Animated | 3.00% | ~1,017 |
 | Back Off | 3.00% | ~1,017 |
 | We have the best insurance | 3.00% | ~1,017 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 601)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,912 (Ranked 142)  
+Progressed: 33,915 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,15 +335,15 @@ Completed: 71 (0.21%) (Ranked 284)
 | 2024-01-20 | 33,837 | 71 |
 | 2024-01-21 | 33,868 | 71 |
 | 2024-01-22 | 33,895 | 71 |
-| 2024-01-23 | 33,912 | 71 |
+| 2024-01-23 | 33,915 | 71 |
 ## Awards
-Max (Great for Quick Sessions): 329  (Ranked 258)  
-Sum: 2,987 (Ranked 187)  
+Max (Great for Quick Sessions): 330  (Ranked 258)  
+Sum: 2,988 (Ranked 187)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 330 |
 | This game is Great for Beginners | 329 |
-| This game is Great for Quick Sessions | 329 |
 | This game has Diverse Characters | 315 |
 | This game has Amazing Storytelling | 298 |
 | This game is Highly Recommended | 297 |
@@ -627,3 +627,4 @@ Diff (max vs sum): 71
 | 2024-01-20 | 4.50 | 329 | 2,980 |
 | 2024-01-21 | 4.50 | 329 | 2,986 |
 | 2024-01-22 | 4.51 | 329 | 2,987 |
+| 2024-01-23 | 4.51 | 330 | 2,988 |

@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |
 | Old | 0.50% | ~86 |
+| Noble Difficulty | 0.50% | ~86 |
 | Cao'an | 0.50% | ~86 |
 | Learn to Play 5 | 0.50% | ~86 |
 | Egypt | 0.50% | ~86 |
@@ -148,7 +149,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.50% | ~86 |
 | Cothon | 0.50% | ~86 |
 | Carthage - Ox Hide | 0.40% | ~68 |
-| Noble Difficulty | 0.40% | ~68 |
 | The Eternal Treaty | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
 | Pantheon of Gods | 0.40% | ~68 |

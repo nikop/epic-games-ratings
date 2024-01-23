@@ -1,20 +1,20 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 681)  
+Rating: 4.46 (Ranked 680)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In The Zone | 53.00% | ~134,498 |
-| My First Runbow | 50.00% | ~126,884 |
+| My First Runbow | 50.00% | ~126,885 |
 | It's The Fall | 26.00% | ~65,980 |
 | The Stunner | 23.00% | ~58,367 |
-| Be Aggressive | 21.00% | ~53,291 |
+| Be Aggressive | 21.00% | ~53,292 |
 | Curator | 20.00% | ~50,754 |
-| Crowning Around | 18.00% | ~45,678 |
+| Crowning Around | 18.00% | ~45,679 |
 | Can You Dig It? | 17.00% | ~43,141 |
 | You Juan-A-Go? | 16.00% | ~40,603 |
-| Chan-tastic | 15.00% | ~38,065 |
+| Chan-tastic | 15.00% | ~38,066 |
 | Muddy Waters | 14.00% | ~35,528 |
 | Toasty! | 13.00% | ~32,990 |
 | Lazy Laser | 8.00% | ~20,302 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 681)
 | Talent Scout | 0.10% | ~254 |
 | True Completionist | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,769 (Ranked 72)  
+Progressed: 253,770 (Ranked 72)  
 Completed: 6 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 6 (0.00%) (Ranked 409)
 | 2024-01-20 | 253,685 | 6 |
 | 2024-01-21 | 253,726 | 6 |
 | 2024-01-22 | 253,751 | 6 |
-| 2024-01-23 | 253,769 | 6 |
+| 2024-01-23 | 253,770 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

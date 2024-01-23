@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -745,10 +745,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 244,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-01-23T19:02:49.8867256+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 245,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 244,
+  "NumberOfAwards": 245,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -798,7 +804,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Relaxing",
@@ -809,7 +815,7 @@
   ],
   "EOS_Progressed": 7291,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11620,9 +11626,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 875
     },
     {
       "ID": "27",
@@ -11970,9 +11976,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-23T18:00:33.5242681+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:05:48.3676027+00:00",
+  "LastChanged": "2024-01-23T19:02:49.8867252+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:06:20.8551172+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:00:33.5242686+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:05:48.3677012+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:02:49.8867258+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:06:20.8551997+00:00"
 }

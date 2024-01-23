@@ -16,7 +16,7 @@
 | Save a Friend | 14.00% | ~20 |
 | In the Name of the Law | 13.00% | ~18 |
 | Au Revoir, Abudin | 13.00% | ~18 |
-| Mysterious Bungalow | 12.00% | ~17 |
+| Mysterious Bungalow | 13.00% | ~18 |
 | The Eyes! | 11.00% | ~16 |
 | Keep the Doctor Away | 11.00% | ~16 |
 | Just a Palm Tree | 11.00% | ~16 |

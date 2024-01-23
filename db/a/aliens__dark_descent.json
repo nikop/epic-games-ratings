@@ -2,12 +2,12 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -585,9 +585,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6547,
+  "EOS_Progressed": 6548,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10290,6 +10290,11 @@
       "Time": "2024-01-23T18:05:20.9551169+00:00",
       "NumProgressed": 6547,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T19:05:53.8809637+00:00",
+      "NumProgressed": 6548,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10317,7 +10322,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -10333,7 +10338,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10397,7 +10402,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10413,7 +10418,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10421,7 +10426,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10469,7 +10474,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10485,7 +10490,7 @@
       "Name": "The Cable Guy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_MISSION_01",
@@ -10501,7 +10506,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10509,7 +10514,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10525,7 +10530,7 @@
       "Name": "Where It All Begun",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10557,7 +10562,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10565,7 +10570,7 @@
       "Name": "The Spire",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_MISSION_11",
@@ -10573,7 +10578,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10597,7 +10602,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4190
+      "UsersEstimate": 4191
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10605,7 +10610,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10653,14 +10658,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6547,
+      "Progressed": 6548,
       "Completed": 3
     }
   ],
@@ -10668,8 +10673,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-23T16:59:17.3064618+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:05:20.9551164+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:05:53.8809632+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:58:39.8749284+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:05:20.9551892+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:58:56.0724207+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:05:53.8810321+00:00"
 }

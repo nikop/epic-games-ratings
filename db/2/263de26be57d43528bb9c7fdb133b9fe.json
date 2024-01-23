@@ -2,7 +2,7 @@
   "ID": "263de26be57d43528bb9c7fdb133b9fe",
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
-  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 57,
@@ -333,9 +333,9 @@
       "ID": "BANK_STEAL",
       "SetID": "89ki2f0",
       "Name": "See you later space turnip\u2026",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BOSS_1",
@@ -357,9 +357,9 @@
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BOSS_4",
@@ -373,9 +373,9 @@
       "ID": "BOSS_FINAL",
       "SetID": "89ki2f0",
       "Name": "But at what cost...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DARKWEB_ALL",
@@ -413,9 +413,9 @@
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MONEY_1K",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:03:28.3521253+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:04:02.1222428+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:00:25.4947798+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:03:28.3521692+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:02:41.4906319+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:04:02.1222635+00:00"
 }

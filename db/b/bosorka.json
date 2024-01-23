@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -594,9 +594,9 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 55,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -610,17 +610,17 @@
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 75,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "RUNE_OVERSTAMINA",
@@ -659,8 +659,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:04:22.3068119+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:04:55.4551995+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:25.8223723+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:58:45.1503609+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:04:22.3068243+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:59:01.1486681+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:04:55.4552244+00:00"
 }

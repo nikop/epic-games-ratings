@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1565350,
+  "EOS_Progressed": 1565361,
   "EOS_Completed": 773,
-  "EOS_NewPlayers": 1279,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32452,6 +32452,11 @@
       "Time": "2024-01-23T18:04:57.8511308+00:00",
       "NumProgressed": 1565350,
       "NumCompleted": 773
+    },
+    {
+      "Time": "2024-01-23T19:05:30.8055407+00:00",
+      "NumProgressed": 1565361,
+      "NumCompleted": 773
     }
   ],
   "TotalAchievements": 20,
@@ -32495,7 +32500,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46960
+      "UsersEstimate": 46961
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -32543,7 +32548,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46960
+      "UsersEstimate": 46961
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -32559,7 +32564,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156535
+      "UsersEstimate": 156536
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -32622,15 +32627,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1565350,
+      "Progressed": 1565361,
       "Completed": 773
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:04:57.8511304+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:05:30.8055404+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:19.8325784+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:58:28.7153249+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:04:57.8512819+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:58:45.745421+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:05:30.8056931+00:00"
 }

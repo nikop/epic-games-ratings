@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -361,15 +361,21 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-23T18:59:22.4286341+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19247,
+  "EOS_Progressed": 19248,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18077,6 +18083,11 @@
       "Time": "2024-01-23T18:05:30.7739259+00:00",
       "NumProgressed": 19247,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-23T19:06:03.2671142+00:00",
+      "NumProgressed": 19248,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18368,22 +18379,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19247,
+      "Progressed": 19248,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5201,
+      "Progressed": 5202,
       "Completed": 1394
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2024-01-22T18:58:41.0959252+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:05:30.7739254+00:00",
+  "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:06:03.2671139+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:59:08.3627475+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:05:30.7740355+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:59:22.4286344+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:06:03.2671944+00:00"
 }

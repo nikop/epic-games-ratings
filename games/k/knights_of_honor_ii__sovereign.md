@@ -5,43 +5,45 @@ Rating: 4.34 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bring it on! | 11.00% | ~7 |
-| Hail to the King, Baby | 11.00% | ~7 |
-| Full House | 8.00% | ~5 |
-| There is no Nobility in Poverty | 8.00% | ~5 |
-| Can’t Touch This | 6.00% | ~4 |
-| Call the Boys | 5.00% | ~3 |
-| Help! Help! I’m being repressed | 5.00% | ~3 |
-| Learn Me a Book | 5.00% | ~3 |
-| Path of Glory | 5.00% | ~3 |
-| ‘Tis but a scratch | 5.00% | ~3 |
+| Hail to the King, Baby | 14.00% | ~10 |
+| Bring it on! | 9.00% | ~7 |
+| Can’t Touch This | 8.00% | ~6 |
+| Full House | 8.00% | ~6 |
+| Help! Help! I’m being repressed | 8.00% | ~6 |
+| There is no Nobility in Poverty | 8.00% | ~6 |
+| Call the Boys | 5.00% | ~4 |
+| Path of Glory | 5.00% | ~4 |
+| ‘Tis but a scratch | 5.00% | ~4 |
+| Desperate Times Call for Desperate Measures | 4.00% | ~3 |
+| Do you read Sutter Cane? | 4.00% | ~3 |
+| Kingslayer | 4.00% | ~3 |
+| Learn Me a Book | 4.00% | ~3 |
+| All the King's Men | 3.00% | ~2 |
+| Big Apple | 3.00% | ~2 |
 | Cut-Me-Own-Throat | 3.00% | ~2 |
-| Desperate Times Call for Desperate Measures | 3.00% | ~2 |
 | Dinner Time | 3.00% | ~2 |
-| Do you read Sutter Cane? | 3.00% | ~2 |
 | Forth, Eorlingas! | 3.00% | ~2 |
 | He made it out, but with an arrow in his back | 3.00% | ~2 |
-| Kingslayer | 3.00% | ~2 |
+| On the third day at dawn, look east | 3.00% | ~2 |
 | Pillars of the Earth | 3.00% | ~2 |
 | The finest merchandise this side of river Jordan | 3.00% | ~2 |
+| They Got What They Deserved | 3.00% | ~2 |
 | Time to find India | 3.00% | ~2 |
-| All the King's Men | 2.00% | ~1 |
-| Battle of the Four Armies | 2.00% | ~1 |
-| Big Apple | 2.00% | ~1 |
-| Black Sheep Wall | 2.00% | ~1 |
-| Blinded by Science | 2.00% | ~1 |
-| Crusade Invoker, no Regret | 2.00% | ~1 |
-| Fight Another Day | 2.00% | ~1 |
-| Let Us Pray | 2.00% | ~1 |
-| Let us trade with these fine people | 2.00% | ~1 |
-| Naught but a Seamless Victory | 2.00% | ~1 |
-| On the third day at dawn, look east | 2.00% | ~1 |
-| Playerxander the Great | 2.00% | ~1 |
-| Spartacus | 2.00% | ~1 |
-| They Got What They Deserved | 2.00% | ~1 |
-| What we’ve got here is failure to communicate | 2.00% | ~1 |
-| Why is there no culture victory?! | 2.00% | ~1 |
-| You reap what you sow | 2.00% | ~1 |
+| Battle of the Four Armies | 1.00% | ~1 |
+| Black Sheep Wall | 1.00% | ~1 |
+| Blinded by Science | 1.00% | ~1 |
+| Crusade Invoker, no Regret | 1.00% | ~1 |
+| Fighting with Power and Steel | 1.00% | ~1 |
+| I started a joke | 1.00% | ~1 |
+| Fight Another Day | 1.00% | ~1 |
+| Let Us Pray | 1.00% | ~1 |
+| Let us trade with these fine people | 1.00% | ~1 |
+| Naught but a Seamless Victory | 1.00% | ~1 |
+| Playerxander the Great | 1.00% | ~1 |
+| Spartacus | 1.00% | ~1 |
+| What we’ve got here is failure to communicate | 1.00% | ~1 |
+| Why is there no culture victory?! | 1.00% | ~1 |
+| You reap what you sow | 1.00% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | A Quiet Palace | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
@@ -55,7 +57,6 @@ Rating: 4.34 (Ranked 851)
 | Die By My Hand | 0.00% | ~0 |
 | Dust and Salt | 0.00% | ~0 |
 | Everything the light touches is our kingdom | 0.00% | ~0 |
-| Fighting with Power and Steel | 0.00% | ~0 |
 | Freeeedom! | 0.00% | ~0 |
 | From Rags to Riches | 0.00% | ~0 |
 | Game of Thorns | 0.00% | ~0 |
@@ -69,7 +70,6 @@ Rating: 4.34 (Ranked 851)
 | How much for Greenland? | 0.00% | ~0 |
 | I am the senate | 0.00% | ~0 |
 | I got a knight in Paris, I got a knight in Rome | 0.00% | ~0 |
-| I started a joke | 0.00% | ~0 |
 | Ibn Battuta | 0.00% | ~0 |
 | I’ll Be Back | 0.00% | ~0 |
 | Import is my second nature | 0.00% | ~0 |
@@ -106,12 +106,12 @@ Rating: 4.34 (Ranked 851)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 545)  
+Progressed: 74 (Ranked 536)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 66 | 0 |
+| 2024-01-23 | 74 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

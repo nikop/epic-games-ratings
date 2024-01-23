@@ -6,7 +6,7 @@ Rating: 4.48 (Ranked 663)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,038 |
-| Confirming Suspicions | 42.00% | ~1,821 |
+| Confirming Suspicions | 42.00% | ~1,822 |
 | The Kraken Wakes | 38.00% | ~1,648 |
 | It's Starting to Crack | 35.00% | ~1,518 |
 | Change the Channel | 32.00% | ~1,388 |
@@ -14,11 +14,11 @@ Rating: 4.48 (Ranked 663)
 | Taking it back | 30.00% | ~1,301 |
 | Resourceful | 28.00% | ~1,214 |
 | Target America | 28.00% | ~1,214 |
-| The Kraken Sleeps | 26.00% | ~1,127 |
+| The Kraken Sleeps | 26.00% | ~1,128 |
 | Liberté | 24.00% | ~1,041 |
 | Organ Grinder | 24.00% | ~1,041 |
 | As Quiet as a Mouse | 24.00% | ~1,041 |
-| Sharpshooter | 23.00% | ~997 |
+| Sharpshooter | 23.00% | ~998 |
 | Gunslinger | 20.00% | ~867 |
 | Explosive Efficiency | 20.00% | ~867 |
 | Climbing the Ladder | 17.00% | ~737 |
@@ -28,9 +28,9 @@ Rating: 4.48 (Ranked 663)
 | Close Quarters | 16.00% | ~694 |
 | Snake in the Grass | 16.00% | ~694 |
 | Brains of the Operation | 16.00% | ~694 |
-| No Stone Unturned | 15.00% | ~650 |
-| Fields of Glory | 15.00% | ~650 |
-| Die Nussknacker Sweet! | 15.00% | ~650 |
+| No Stone Unturned | 15.00% | ~651 |
+| Fields of Glory | 15.00% | ~651 |
+| Die Nussknacker Sweet! | 15.00% | ~651 |
 | Opposing Force | 14.00% | ~607 |
 | Enemy at the Gates | 14.00% | ~607 |
 | Set Europe Ablaze | 14.00% | ~607 |
@@ -50,7 +50,7 @@ Rating: 4.48 (Ranked 663)
 | Ghost of Falaise | 5.00% | ~214 |
 | Burn after reading | 4.00% | ~173 |
 | Locomotion Commotion | 4.00% | ~173 |
-| If You Go Down To The Woods Today | 4.00% | ~171 |
+| If You Go Down To The Woods Today | 4.00% | ~172 |
 | From Paris with Love | 3.00% | ~130 |
 | Souvenir hunter | 3.00% | ~130 |
 | Shoot for the Moon | 3.00% | ~130 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 663)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,336 (Ranked 217)  
+Progressed: 4,337 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 11 (0.25%) (Ranked 275)
 | 2024-01-20 | 4,317 | 11 |
 | 2024-01-21 | 4,327 | 11 |
 | 2024-01-22 | 4,331 | 11 |
-| 2024-01-23 | 4,336 | 11 |
+| 2024-01-23 | 4,337 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 526)  
 Sum: 31 (Ranked 548)  

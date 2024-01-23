@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -323,7 +323,7 @@
   ],
   "EOS_Progressed": 2614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6647,9 +6647,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 392
     },
     {
       "ID": "AC28",
@@ -6695,9 +6695,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1333
     },
     {
       "ID": "AC34",
@@ -6808,8 +6808,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:03:26.0676376+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:03:59.6997964+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:58:55.7760538+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:03:26.0677332+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:59:10.8040337+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:03:59.6998477+00:00"
 }

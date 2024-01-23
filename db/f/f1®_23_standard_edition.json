@@ -1641,9 +1641,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18646,
+  "EOS_Progressed": 18647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12691,6 +12691,11 @@
       "Time": "2024-01-23T18:04:46.3573941+00:00",
       "NumProgressed": 18646,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T19:05:19.2869493+00:00",
+      "NumProgressed": 18647,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12743,7 +12748,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13052
+      "UsersEstimate": 13053
     },
     {
       "ID": "achievement_0007",
@@ -12751,7 +12756,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16968
+      "UsersEstimate": 16969
     },
     {
       "ID": "achievement_0008",
@@ -12759,7 +12764,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15476
+      "UsersEstimate": 15477
     },
     {
       "ID": "achievement_0009",
@@ -12823,7 +12828,7 @@
       "Name": "Hitting a Season",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5407
+      "UsersEstimate": 5408
     },
     {
       "ID": "achievement_0017",
@@ -12863,7 +12868,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12679
+      "UsersEstimate": 12680
     },
     {
       "ID": "achievement_0022",
@@ -12959,7 +12964,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8577
+      "UsersEstimate": 8578
     },
     {
       "ID": "achievement_0034",
@@ -13039,7 +13044,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7831
+      "UsersEstimate": 7832
     },
     {
       "ID": "achievement_0044",
@@ -13094,7 +13099,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18646,
+      "Progressed": 18647,
       "Completed": 0
     }
   ],
@@ -13102,8 +13107,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-23T16:00:32.0258562+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:04:46.3573936+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:05:19.2869489+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:00:11.3861232+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:04:46.3574797+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:00:27.4780301+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:05:19.2870186+00:00"
 }

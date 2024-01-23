@@ -27,13 +27,13 @@ Rating: 4.52 (Ranked 583)
 | Violent solution | 10.00% | ~180 |
 | I leave no man behind | 10.00% | ~180 |
 | Innate curiosity | 8.00% | ~144 |
+| Ubiquitous holes | 7.00% | ~126 |
 | Strong objection | 7.00% | ~126 |
-| Ubiquitous holes | 6.00% | ~108 |
 | The Invincible | 6.00% | ~108 |
 | Got lost again | 6.00% | ~108 |
 | I leave no man behind (no exceptions) | 2.00% | ~36 |
 | Convoy list | 0.90% | ~16 |
-| No more mistakes | 0.70% | ~13 |
+| No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,797 (Ranked 262)  
 Completed: 1 (0.06%) (Ranked 339)  

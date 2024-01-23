@@ -5,16 +5,16 @@ Rating: 4.20 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,584 |
+| Break Out | 65.00% | ~1,585 |
 | Trinity | 35.00% | ~853 |
 | The Collector | 29.00% | ~707 |
-| Find Allies | 28.00% | ~682 |
-| A Taste of Wrath | 28.00% | ~682 |
+| Find Allies | 28.00% | ~683 |
+| A Taste of Wrath | 28.00% | ~683 |
 | Adventurer | 26.00% | ~634 |
 | Shatter Them All | 26.00% | ~634 |
 | Geared Up | 26.00% | ~634 |
 | Scholar | 26.00% | ~634 |
-| I Found It | 25.00% | ~609 |
+| I Found It | 25.00% | ~610 |
 | Fashion Victim | 24.00% | ~585 |
 | Stone Collection | 24.00% | ~585 |
 | Powerful Allies | 23.00% | ~561 |
@@ -23,7 +23,7 @@ Rating: 4.20 (Ranked 974)
 | Alchemist | 16.00% | ~390 |
 | Essence Blow | 15.00% | ~366 |
 | The Mentor | 13.00% | ~317 |
-| Calm before the Storm | 12.00% | ~292 |
+| Calm before the Storm | 12.00% | ~293 |
 | To Battle | 11.00% | ~268 |
 | Godslayer | 11.00% | ~268 |
 | Airborne | 9.00% | ~219 |
@@ -31,8 +31,8 @@ Rating: 4.20 (Ranked 974)
 | Clear Sight | 6.00% | ~146 |
 | Shatterer | 6.00% | ~146 |
 | Fine Feathers Make Fine Birds | 6.00% | ~146 |
-| Slayer | 4.00% | ~97 |
-| A Queen's Tale | 4.00% | ~97 |
+| Slayer | 4.00% | ~98 |
+| A Queen's Tale | 4.00% | ~98 |
 | Flawless Victory | 3.00% | ~73 |
 | All There Is | 3.00% | ~73 |
 | False God | 3.00% | ~73 |
@@ -42,7 +42,7 @@ Rating: 4.20 (Ranked 974)
 | All That Gold | 1.00% | ~24 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,437 (Ranked 247)  
+Progressed: 2,438 (Ranked 247)  
 Completed: 5 (0.21%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 5 (0.21%) (Ranked 284)
 | 2024-01-20 | 2,408 | 5 |
 | 2024-01-21 | 2,426 | 5 |
 | 2024-01-22 | 2,431 | 5 |
-| 2024-01-23 | 2,437 | 5 |
+| 2024-01-23 | 2,438 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

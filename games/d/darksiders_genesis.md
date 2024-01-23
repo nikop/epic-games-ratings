@@ -13,16 +13,16 @@ Number of Ratings: 67  (23.09.2022)
 | Mammon | 2.00% | ~15 |
 | Master of Strife | 2.00% | ~15 |
 | Master of War | 2.00% | ~15 |
+| Mint II | 2.00% | ~15 |
 | The Dead Court | 2.00% | ~15 |
 | Demolition Derby | 1.00% | ~8 |
 | Good Deeds | 1.00% | ~8 |
 | Hell's Forge | 1.00% | ~8 |
-| Mint II | 1.00% | ~8 |
+| Walking Armory | 1.00% | ~8 |
 | Why'd It Have to Be Snakes? | 1.00% | ~8 |
 | A Bullet for All Seasons | 0.90% | ~7 |
 | Infested | 0.90% | ~7 |
 | Mint III | 0.90% | ~7 |
-| Walking Armory | 0.90% | ~7 |
 | Gatekeeper | 0.70% | ~5 |
 | Wicked Killington | 0.50% | ~4 |
 | Are You Not Entertained? | 0.40% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752 (Ranked 328)  
+Progressed: 753 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 724 | 0 |
 | 2024-01-21 | 739 | 0 |
 | 2024-01-22 | 746 | 0 |
-| 2024-01-23 | 752 | 0 |
+| 2024-01-23 | 753 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 479)  
 Sum: 45 (Ranked 525)  

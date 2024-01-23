@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -685,7 +685,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 4336,
+  "EOS_Progressed": 4337,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -9950,6 +9950,11 @@
       "Time": "2024-01-23T15:11:05.7573058+00:00",
       "NumProgressed": 4336,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-23T19:10:04.9746008+00:00",
+      "NumProgressed": 4337,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9985,7 +9990,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -10009,7 +10014,7 @@
       "Name": "Fields of Glory",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -10097,7 +10102,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -10129,7 +10134,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -10177,7 +10182,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -10369,7 +10374,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10481,7 +10486,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -10528,13 +10533,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4287,
+      "Progressed": 4288,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4336,
+      "Progressed": 4337,
       "Completed": 11
     }
   ],
@@ -10542,8 +10547,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:09:45.7675454+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:10:04.9746005+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:58:07.9898161+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:09:45.7676307+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:58:22.0023143+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:10:04.9746803+00:00"
 }

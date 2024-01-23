@@ -4,7 +4,7 @@
   "ProductSlug": "lil-guardsman-3cf46c",
   "Ranking_EOS_Progress": 752,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -111,9 +111,9 @@
       "ID": "CompleteLevel2",
       "SetID": "8j3le2g",
       "Name": "The Envoys Arrive",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteLevel3",
@@ -271,9 +271,9 @@
       "ID": "PerfectLevel2",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 2",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerfectLevel3",
@@ -437,8 +437,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:03:40.2923815+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:04:14.3036192+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:57:48.1690186+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:03:40.2924094+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:58:01.6766535+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:04:14.3036602+00:00"
 }

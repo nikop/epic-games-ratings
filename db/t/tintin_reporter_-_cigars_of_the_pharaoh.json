@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -703,9 +703,9 @@
       "ID": "Achievement12",
       "SetID": "9fa3l5n",
       "Name": "Mysterious Bungalow",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement13",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:05:04.3048274+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:05:37.0251823+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:47.9162613+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:00:03.6834863+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:05:04.3048972+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:00:17.9468005+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:05:37.0252222+00:00"
 }

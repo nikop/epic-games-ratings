@@ -87,7 +87,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1352,
+  "EOS_Progressed": 1353,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -4172,6 +4172,11 @@
       "Time": "2024-01-22T17:10:45.0231199+00:00",
       "NumProgressed": 1352,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T19:10:23.7909585+00:00",
+      "NumProgressed": 1353,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4215,7 +4220,7 @@
       "Name": "Right On Time",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4255,7 +4260,7 @@
       "Name": "Street Style",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "CultivairChests1",
@@ -4447,7 +4452,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4455,7 +4460,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "PidgeDefeated",
@@ -4606,7 +4611,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1352,
+      "Progressed": 1353,
       "Completed": 8
     }
   ],
@@ -4614,8 +4619,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-23T01:49:49.4916603+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:10:04.6957257+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:10:23.7909583+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:59:37.525109+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:10:04.6957744+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:59:49.6801135+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:10:23.7910152+00:00"
 }

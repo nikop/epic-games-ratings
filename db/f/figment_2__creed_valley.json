@@ -2,9 +2,9 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -496,17 +496,17 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "story_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Fight like an idiot",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "story_dance_off",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:09:54.9498886+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:10:13.9209377+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.382494+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:58:04.6364884+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:09:54.9499006+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:58:18.2004992+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:10:13.9209462+00:00"
 }

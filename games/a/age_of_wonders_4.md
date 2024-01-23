@@ -10,7 +10,7 @@ Rating: 4.63 (Ranked 360)
 | A Wonderful Discovery | 15.00% | ~1,094 |
 | Walls Cannot Stop Us | 15.00% | ~1,094 |
 | From Friends to Family | 13.00% | ~948 |
-| Bone Peddler | 11.00% | ~802 |
+| Bone Peddler | 12.00% | ~875 |
 | Full Ascension | 10.00% | ~729 |
 | Magical Synergy | 10.00% | ~729 |
 | There Can Only Be One! | 9.00% | ~656 |
@@ -314,7 +314,7 @@ Completed: 8 (0.11%) (Ranked 315)
 | 2024-01-23 | 7,291 | 8 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
-Sum: 244 (Ranked 407)  
+Sum: 245 (Ranked 407)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -322,8 +322,8 @@ Diff (max vs sum): 76
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 28 |
 | This game has Quickly Understood Controls | 24 |
+| This game has Beautiful Visuals | 24 |
 | This game has Challenging Combat | 23 |
-| This game has Beautiful Visuals | 23 |
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 22 |
 | This game is Relaxing | 20 |
@@ -422,4 +422,4 @@ Diff (max vs sum): 76
 | 2024-01-16 | 4.63 | 41 | 239 |
 | 2024-01-17 | 4.63 | 42 | 240 |
 | 2024-01-22 | 4.63 | 42 | 241 |
-| 2024-01-23 | 4.63 | 43 | 244 |
+| 2024-01-23 | 4.63 | 43 | 245 |

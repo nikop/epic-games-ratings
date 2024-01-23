@@ -6,7 +6,7 @@
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
@@ -531,9 +531,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3586,
+  "EOS_Progressed": 3587,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6126,6 +6126,11 @@
       "Time": "2024-01-23T18:09:58.152015+00:00",
       "NumProgressed": 3586,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T19:10:17.3910734+00:00",
+      "NumProgressed": 3587,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6162,7 +6167,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_13",
@@ -6170,7 +6175,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_14",
@@ -6178,7 +6183,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "achievement_15",
@@ -6218,7 +6223,7 @@
       "Name": "Socialite",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "achievement_2",
@@ -6282,7 +6287,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "achievement_36",
@@ -6314,7 +6319,7 @@
       "Name": "No More Names",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "achievement_41",
@@ -6352,9 +6357,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 645
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_46",
@@ -6370,7 +6375,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "achievement_49",
@@ -6386,7 +6391,7 @@
       "Name": "Initiate",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "achievement_50",
@@ -6480,9 +6485,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_7",
@@ -6506,14 +6511,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3586,
+      "Progressed": 3587,
       "Completed": 5
     }
   ],
@@ -6521,8 +6526,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:09:58.1520147+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:10:17.3910729+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:58:05.0590123+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:09:58.1520701+00:00"
+  "LastUpdate_Ratings": "2024-01-23T18:58:18.6598333+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:10:17.3911438+00:00"
 }

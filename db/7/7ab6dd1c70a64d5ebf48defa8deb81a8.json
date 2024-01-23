@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2437,
+  "EOS_Progressed": 2438,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5018,6 +5018,11 @@
       "Time": "2024-01-23T16:10:14.9211746+00:00",
       "NumProgressed": 2437,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T19:10:18.487727+00:00",
+      "NumProgressed": 2438,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5029,7 +5034,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH_02",
@@ -5037,7 +5042,7 @@
       "Name": "Find Allies",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_03",
@@ -5053,7 +5058,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_05",
@@ -5085,7 +5090,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_09",
@@ -5173,7 +5178,7 @@
       "Name": "Slayer",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_20",
@@ -5245,7 +5250,7 @@
       "Name": "I Found It",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH_29",
@@ -5301,7 +5306,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_38",
@@ -5316,7 +5321,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2437,
+      "Progressed": 2438,
       "Completed": 5
     }
   ],
@@ -5324,8 +5329,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-23T18:09:59.2975606+00:00",
+  "LastChanged_Achievements": "2024-01-23T19:10:18.4877265+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-23T17:59:51.495332+00:00",
-  "LastUpdate_Achievements": "2024-01-23T18:09:59.2976064+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:00:04.8646848+00:00",
+  "LastUpdate_Achievements": "2024-01-23T19:10:18.4877648+00:00"
 }
