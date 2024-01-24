@@ -367,7 +367,7 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 1462,
+  "EOS_Progressed": 1463,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
@@ -4357,6 +4357,11 @@
       "Time": "2024-01-23T15:05:56.4793136+00:00",
       "NumProgressed": 1462,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T04:06:31.3013782+00:00",
+      "NumProgressed": 1463,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4385,7 +4390,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Archaeologist",
@@ -4393,7 +4398,7 @@
       "Name": "Archaeologist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Balance",
@@ -4401,7 +4406,7 @@
       "Name": "Balance",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "BecomingSmarter",
@@ -4409,7 +4414,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "BreakTheLoop",
@@ -4425,7 +4430,7 @@
       "Name": "Bridge Builder",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ChasingTheLight",
@@ -4489,7 +4494,7 @@
       "Name": "Excellent",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FloodedValley",
@@ -4537,7 +4542,7 @@
       "Name": "Into the Machine",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "JustOneLap",
@@ -4625,7 +4630,7 @@
       "Name": "Overload",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Persistent",
@@ -4647,9 +4652,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 322
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4705,7 +4710,7 @@
       "Name": "Southern Coast",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "TeamSpirit",
@@ -4761,7 +4766,7 @@
       "Name": "The Spark",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "TheThiefOfFire",
@@ -4777,7 +4782,7 @@
       "Name": "The Word Endures",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "TouchGrass",
@@ -4785,7 +4790,7 @@
       "Name": "Touch Grass",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "TrevorsBiographer",
@@ -4840,7 +4845,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1462,
+      "Progressed": 1463,
       "Completed": 3
     }
   ],
@@ -4848,8 +4853,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-24T01:50:01.4049363+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:05:05.2221203+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:06:31.3013778+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:59:10.1705959+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:05:05.2221905+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:00:22.5838868+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:06:31.3014276+00:00"
 }

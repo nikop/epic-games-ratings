@@ -4,7 +4,7 @@
   "ProductSlug": "funtoons-world-0e63dd",
   "Ranking_EOS_Progress": 676,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -144,8 +144,8 @@
   ],
   "FirstSeen": "2023-12-22T22:01:27.662818+00:00",
   "FirstSeenAchievements": "2023-12-01T05:03:22.0575894+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:05:02.8594754+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:06:28.1782194+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.0584286+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:58:07.3504668+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:05:02.8594803+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:58:59.772742+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:06:28.1782253+00:00"
 }

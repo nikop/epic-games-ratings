@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141068,
+  "EOS_Progressed": 141069,
   "EOS_Completed": 1279,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -32240,6 +32240,11 @@
       "Time": "2024-01-24T03:07:53.105515+00:00",
       "NumProgressed": 141068,
       "NumCompleted": 1279
+    },
+    {
+      "Time": "2024-01-24T04:08:23.5389139+00:00",
+      "NumProgressed": 141069,
+      "NumCompleted": 1279
     }
   ],
   "TotalAchievements": 34,
@@ -32275,7 +32280,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 42320
+      "UsersEstimate": 42321
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -32307,7 +32312,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112854
+      "UsersEstimate": 112855
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -32323,7 +32328,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78998
+      "UsersEstimate": 78999
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -32339,7 +32344,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 56427
+      "UsersEstimate": 56428
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -32419,7 +32424,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 38088
+      "UsersEstimate": 38089
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -32522,7 +32527,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 141068,
+      "Progressed": 141069,
       "Completed": 1279
     }
   ],
@@ -32530,8 +32535,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:07:53.1055147+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:08:23.5389135+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.332386+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:58:45.0782442+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:07:53.1057135+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:59:51.9862942+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:08:23.5390939+00:00"
 }

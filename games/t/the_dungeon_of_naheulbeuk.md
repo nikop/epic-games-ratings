@@ -16,8 +16,8 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 5.00% | ~12,467 |
 | DM intervention | 5.00% | ~12,467 |
 | Fireproof Wizardess | 5.00% | ~12,467 |
-| Way of the Wimp | 4.00% | ~9,973 |
-| The plot thickens... At the tavern | 4.00% | ~9,973 |
+| Way of the Wimp | 4.00% | ~9,974 |
+| The plot thickens... At the tavern | 4.00% | ~9,974 |
 | Livin' in a dwarven paradise | 3.00% | ~7,480 |
 | The demons' feast | 3.00% | ~7,480 |
 | The Great Library | 3.00% | ~7,480 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,337 (Ranked 73)  
+Progressed: 249,339 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 9 (0.00%) (Ranked 409)
 | 2024-01-21 | 249,117 | 9 |
 | 2024-01-22 | 249,232 | 9 |
 | 2024-01-23 | 249,318 | 9 |
-| 2024-01-24 | 249,337 | 9 |
+| 2024-01-24 | 249,339 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 580 (Ranked 330)  

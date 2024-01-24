@@ -5,13 +5,13 @@ Rating: 4.51 (Ranked 600)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,285 |
-| I've Had Enough! | 15.00% | ~18,964 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,907 |
-| Seasoned Fighter | 9.00% | ~11,378 |
-| All For One and One For All | 8.00% | ~10,114 |
+| All Grown Up! | 20.00% | ~25,288 |
+| I've Had Enough! | 15.00% | ~18,966 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,908 |
+| Seasoned Fighter | 9.00% | ~11,379 |
+| All For One and One For All | 8.00% | ~10,115 |
 | Home Sweet Home? | 6.00% | ~7,586 |
-| A New Age | 5.00% | ~6,321 |
+| A New Age | 5.00% | ~6,322 |
 | Oh Baby, A Triple | 3.00% | ~3,793 |
 | Master of Disguise | 3.00% | ~3,793 |
 | Symbiotic | 3.00% | ~3,793 |
@@ -25,7 +25,7 @@ Rating: 4.51 (Ranked 600)
 | Martyrdom | 1.00% | ~1,264 |
 | Zero-sum Game | 1.00% | ~1,264 |
 | Ninja Reflex | 0.90% | ~1,138 |
-| Taste Your Own Medicine | 0.80% | ~1,011 |
+| Taste Your Own Medicine | 0.80% | ~1,012 |
 | This is GigaBash! | 0.50% | ~632 |
 | Sidetracked... | 0.50% | ~632 |
 | Eye of the Titan | 0.40% | ~506 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 600)
 | What's Mine is Yours | 0.10% | ~126 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,427 (Ranked 94)  
+Progressed: 126,438 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 125,815 | 0 |
 | 2024-01-22 | 126,105 | 0 |
 | 2024-01-23 | 126,388 | 0 |
-| 2024-01-24 | 126,427 | 0 |
+| 2024-01-24 | 126,438 | 0 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 439)  
 Sum: 59 (Ranked 507)  

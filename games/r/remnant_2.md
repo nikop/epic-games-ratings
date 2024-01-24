@@ -5,18 +5,18 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,811 |
-| First of Many | 12.00% | ~35,825 |
-| Not Your Average Trait | 10.00% | ~29,854 |
-| Expanding Horizons | 9.00% | ~26,869 |
-| Gleaming the Cube | 8.00% | ~23,884 |
-| Quest for Survival | 8.00% | ~23,884 |
-| Familiar Face | 8.00% | ~23,884 |
-| Boss'n Up | 8.00% | ~23,884 |
-| Trait Chaser | 8.00% | ~23,884 |
-| Not So Special Now | 7.00% | ~20,898 |
-| Not a Janitor | 7.00% | ~20,898 |
-| Duality | 7.00% | ~20,898 |
+| The Killing Jar | 13.00% | ~38,812 |
+| First of Many | 12.00% | ~35,827 |
+| Not Your Average Trait | 10.00% | ~29,856 |
+| Expanding Horizons | 9.00% | ~26,870 |
+| Gleaming the Cube | 8.00% | ~23,885 |
+| Quest for Survival | 8.00% | ~23,885 |
+| Familiar Face | 8.00% | ~23,885 |
+| Boss'n Up | 8.00% | ~23,885 |
+| Trait Chaser | 8.00% | ~23,885 |
+| Not So Special Now | 7.00% | ~20,899 |
+| Not a Janitor | 7.00% | ~20,899 |
+| Duality | 7.00% | ~20,899 |
 | Equal Measures | 6.00% | ~17,913 |
 | Blue Goddess | 6.00% | ~17,913 |
 | Top Performer | 6.00% | ~17,913 |
@@ -24,30 +24,30 @@ Rating: 4.72 (Ranked 199)
 | Almost There | 6.00% | ~17,913 |
 | Make Some Room | 6.00% | ~17,913 |
 | Good, But Could Be Better! | 6.00% | ~17,913 |
-| Am I Seeing This? | 5.00% | ~14,927 |
-| Chaos | 5.00% | ~14,927 |
-| Traitor | 5.00% | ~14,927 |
-| Power Surge | 5.00% | ~14,927 |
-| The God Gambit | 5.00% | ~14,927 |
-| Dark Designs | 5.00% | ~14,927 |
-| Was This Supposed To Happen? | 5.00% | ~14,927 |
-| The Web | 5.00% | ~14,927 |
-| Scrap Collector | 5.00% | ~14,927 |
+| Am I Seeing This? | 5.00% | ~14,928 |
+| Chaos | 5.00% | ~14,928 |
+| Traitor | 5.00% | ~14,928 |
+| Power Surge | 5.00% | ~14,928 |
+| The God Gambit | 5.00% | ~14,928 |
+| Dark Designs | 5.00% | ~14,928 |
+| Was This Supposed To Happen? | 5.00% | ~14,928 |
+| The Web | 5.00% | ~14,928 |
+| Scrap Collector | 5.00% | ~14,928 |
 | Forever is a Long Time Coming | 4.00% | ~11,942 |
 | Madman's Paradise | 4.00% | ~11,942 |
 | The Agenda | 4.00% | ~11,942 |
 | Bad Moon Rising | 4.00% | ~11,942 |
 | Strapped | 4.00% | ~11,942 |
 | All These Traits� | 4.00% | ~11,942 |
-| Tall Tales | 3.00% | ~8,956 |
-| Edgelord | 3.00% | ~8,956 |
-| Scrap Hoarder | 3.00% | ~8,956 |
-| Carnage in C-Minor | 3.00% | ~8,956 |
-| The Ultimate Weapon | 3.00% | ~8,956 |
-| No One Should Have All That Power | 3.00% | ~8,956 |
-| Transmutate | 3.00% | ~8,956 |
-| Regicide | 3.00% | ~2,331 |
-| Master of the Dark Arts | 3.00% | ~2,331 |
+| Tall Tales | 3.00% | ~8,957 |
+| Edgelord | 3.00% | ~8,957 |
+| Scrap Hoarder | 3.00% | ~8,957 |
+| Carnage in C-Minor | 3.00% | ~8,957 |
+| The Ultimate Weapon | 3.00% | ~8,957 |
+| No One Should Have All That Power | 3.00% | ~8,957 |
+| Transmutate | 3.00% | ~8,957 |
+| Regicide | 3.00% | ~2,332 |
+| Master of the Dark Arts | 3.00% | ~2,332 |
 | Crafty | 2.00% | ~5,971 |
 | Ghost in the Machine | 2.00% | ~5,971 |
 | Only Human | 2.00% | ~5,971 |
@@ -56,12 +56,12 @@ Rating: 4.72 (Ranked 199)
 | Cutting Edge | 2.00% | ~5,971 |
 | The Collector | 2.00% | ~5,971 |
 | Maxed Out! | 2.00% | ~5,971 |
-| Proving Grounds | 1.00% | ~2,985 |
+| Proving Grounds | 1.00% | ~2,986 |
 | Succession | 0.90% | ~699 |
 | You Shall Pass | 0.80% | ~622 |
 | A Foul Feast | 0.50% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,545 (Ranked 65)  
+Progressed: 298,557 (Ranked 65)  
 Completed: 1,231 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,16 +253,16 @@ Completed: 1,231 (0.41%) (Ranked 246)
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
-| 2024-01-24 | 298,545 | 1,231 |
+| 2024-01-24 | 298,557 | 1,231 |
 ## Awards
 Max (Great Boss Battles): 7,507  (Ranked 56)  
-Sum: 17,292 (Ranked 65)  
+Sum: 17,301 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,507 |
 | This game is Highly Recommended | 1,102 |
-| This game has Diverse Characters | 1,062 |
+| This game has Diverse Characters | 1,071 |
 | This game is Extremely Fun | 1,027 |
 | This game has Quickly Understood Controls | 1,019 |
 | This game has Challenging Combat | 1,010 |
@@ -456,3 +456,4 @@ Diff (max vs sum): -9
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
 | 2024-01-23 | 4.72 | 7,507 | 17,292 |
+| 2024-01-24 | 4.72 | 7,507 | 17,301 |

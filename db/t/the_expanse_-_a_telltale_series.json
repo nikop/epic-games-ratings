@@ -375,7 +375,7 @@
   "Tags": [],
   "EOS_Progressed": 19257,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18272,9 +18272,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1926
+      "UsersEstimate": 2118
     },
     {
       "ID": "27",
@@ -18423,8 +18423,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:06:05.5662643+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:07:49.4120841+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:59:30.4048187+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:06:05.5663821+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:00:50.4512303+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:07:49.4121808+00:00"
 }

@@ -31,13 +31,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.40% | ~4,232 |
 | Two Heads, One Bullet | 0.40% | ~4,232 |
 | The Wandering Fool | 0.30% | ~3,174 |
-| Spin Doctor | 0.30% | ~559 |
-| Easy Come, Easy Go | 0.30% | ~559 |
+| The Sun | 0.30% | ~3,174 |
+| Spin Doctor | 0.30% | ~560 |
+| Easy Come, Easy Go | 0.30% | ~560 |
 | To Bad Decisions! | 0.20% | ~2,116 |
 | Breathtaking | 0.20% | ~2,116 |
 | Ten out of Ten | 0.20% | ~2,116 |
 | The Star | 0.20% | ~2,116 |
-| The Sun | 0.20% | ~2,116 |
 | King of Wands | 0.20% | ~373 |
 | Dirty Deeds | 0.20% | ~373 |
 | City Lights | 0.10% | ~1,058 |
@@ -56,13 +56,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.10% | ~1,058 |
 | V for Vendetta | 0.10% | ~1,058 |
 | It's Elementary | 0.10% | ~1,058 |
-| The APB is Not Enough | 0.10% | ~186 |
-| Relic Ruler | 0.10% | ~186 |
-| Judgement Day | 0.10% | ~186 |
-| King of Cups | 0.10% | ~186 |
-| King of Pentacles | 0.10% | ~186 |
-| King of Swords | 0.10% | ~186 |
-| The Tower | 0.10% | ~186 |
+| The APB is Not Enough | 0.10% | ~187 |
+| Relic Ruler | 0.10% | ~187 |
+| Judgement Day | 0.10% | ~187 |
+| King of Cups | 0.10% | ~187 |
+| King of Pentacles | 0.10% | ~187 |
+| King of Swords | 0.10% | ~187 |
+| The Tower | 0.10% | ~187 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,876 (Ranked 17)  
+Progressed: 1,057,893 (Ranked 17)  
 Completed: 3,154 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,10 +353,10 @@ Completed: 3,154 (0.30%) (Ranked 265)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,057,876 | 3,154 |
+| 2024-01-24 | 1,057,893 | 3,154 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 516,478 (Ranked 8)  
+Sum: 516,634 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -367,7 +367,7 @@ Diff (max vs sum): 0
 | This game is Highly Recommended | 30,908 |
 | This game has Amazing Storytelling | 30,300 |
 | This game is Extremely Fun | 30,040 |
-| This game has Amazing Characters | 29,735 |
+| This game has Amazing Characters | 29,891 |
 | This game is Relaxing | 28,919 |
 | This game has Quickly Understood Controls | 28,700 |
 | This game has a Creative Community | 20,059 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,402 | 516,478 |
+| 2024-01-24 | 4.68 | - | 144,402 | 516,634 |

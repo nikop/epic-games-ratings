@@ -36,16 +36,16 @@ Number of Ratings: 401  (23.09.2022)
 | The Bell Tolls | 1.00% | ~448 |
 | Knife, Cup and Bone | 1.00% | ~448 |
 | A current under zee | 1.00% | ~448 |
-| Never Stop Sinking... | 0.90% | ~403 |
-| His bones in whispers | 0.90% | ~403 |
-| The beauty of the deep | 0.90% | ~403 |
-| The dragon in the zee | 0.90% | ~403 |
-| Thanks for all the fish | 0.90% | ~403 |
-| Those are pearls that were his eyes | 0.90% | ~403 |
-| No regrets | 0.90% | ~403 |
-| Rosewater sailor | 0.90% | ~403 |
-| Under the zee | 0.90% | ~403 |
-| Depth charge | 0.90% | ~403 |
+| Never Stop Sinking... | 0.90% | ~404 |
+| His bones in whispers | 0.90% | ~404 |
+| The beauty of the deep | 0.90% | ~404 |
+| The dragon in the zee | 0.90% | ~404 |
+| Thanks for all the fish | 0.90% | ~404 |
+| Those are pearls that were his eyes | 0.90% | ~404 |
+| No regrets | 0.90% | ~404 |
+| Rosewater sailor | 0.90% | ~404 |
+| Under the zee | 0.90% | ~404 |
+| Depth charge | 0.90% | ~404 |
 | A zee-change | 0.80% | ~359 |
 | Leviathan | 0.80% | ~359 |
 | What lies beneath | 0.70% | ~314 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,833 (Ranked 133)  
+Progressed: 44,834 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-21 | 44,722 | 4 |
 | 2024-01-22 | 44,779 | 4 |
 | 2024-01-23 | 44,825 | 4 |
-| 2024-01-24 | 44,833 | 4 |
+| 2024-01-24 | 44,834 | 4 |
 ## Awards
 Max (Character Customization): 222  (Ranked 292)  
 Sum: 337 (Ranked 373)  

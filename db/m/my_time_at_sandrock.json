@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 266,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 248,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 3878,
@@ -2320,18 +2320,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1570,
       "NumberOfAwardsMax": 643
+    },
+    {
+      "Time": "2024-01-24T04:00:18.3334252+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1572,
+      "NumberOfAwardsMax": 645
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1570,
-  "NumberOfAwardsMax": 643,
+  "NumberOfAwards": 1572,
+  "NumberOfAwardsMax": 645,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 643
+      "Count": 645
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2408,7 +2414,7 @@
   ],
   "EOS_Progressed": 898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": -20,
+  "EOS_NewPlayers": -23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11893,9 +11899,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-01-23T13:06:22.7346889+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:09:17.9272385+00:00",
+  "LastChanged": "2024-01-24T04:00:18.3334183+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:10:42.0642909+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:25.5009332+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:59:06.8870961+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:09:17.9273253+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:00:18.3334259+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:10:42.0643784+00:00"
 }

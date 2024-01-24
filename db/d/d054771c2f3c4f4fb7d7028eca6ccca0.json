@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4570,
+  "EOS_Progressed": 4571,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
@@ -5899,6 +5899,11 @@
       "Time": "2024-01-24T03:04:01.9339552+00:00",
       "NumProgressed": 4570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T04:05:10.3711732+00:00",
+      "NumProgressed": 4571,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5919,7 +5924,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -6015,7 +6020,7 @@
       "Name": "Worthy Badge",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -6095,7 +6100,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6286,20 +6291,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4570,
+      "Progressed": 4571,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 348,
-      "Completed": 348
+      "Progressed": 349,
+      "Completed": 349
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:04:01.9339549+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:05:10.3711729+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:08.5926908+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:00:18.07721+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:04:01.9340252+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:01:51.5041384+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:05:10.3712347+00:00"
 }

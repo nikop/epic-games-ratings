@@ -17,8 +17,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.90% | ~2,298 |
 | Mad Cow Disease | 0.80% | ~2,043 |
 | Welcome to Sigil | 0.80% | ~1,773 |
-| A Persistent Buzzing | 0.70% | ~1,787 |
-| Pure Energy | 0.70% | ~1,787 |
+| A Persistent Buzzing | 0.70% | ~1,788 |
+| Pure Energy | 0.70% | ~1,788 |
 | Fast Food | 0.70% | ~1,551 |
 | Maddening | 0.60% | ~1,532 |
 | Terror in the Dark | 0.60% | ~1,532 |
@@ -85,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.20% | ~511 |
 | Wisdom Check | 0.20% | ~511 |
 | Sleuth It Out | 0.20% | ~511 |
+| The Newcomers of Notoriety | 0.20% | ~443 |
 | A Grand Puzzle | 0.20% | ~511 |
 | Tomb of the Nine Gods | 0.20% | ~511 |
 | The Mists of Ravenloft | 0.20% | ~511 |
@@ -264,7 +265,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~255 |
 | Double Vision | 0.10% | ~255 |
 | Underground Railroad | 0.10% | ~255 |
-| The Newcomers of Notoriety | 0.10% | ~222 |
 | Never Split the Party | 0.10% | ~255 |
 | Azaka's Procession - Part 1 | 0.10% | ~255 |
 | Snakes on our Plane | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,354 (Ranked 71)  
+Progressed: 255,358 (Ranked 71)  
 Completed: 2,636 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,7 +832,7 @@ Completed: 2,636 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,354 | 2,636 |
+| 2024-01-24 | 255,358 | 2,636 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,620 (Ranked 41)  

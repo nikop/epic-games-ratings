@@ -15,8 +15,8 @@ Rating: 4.54 (Ranked 551)
 | Drone Dodger | 14.00% | ~2,696 |
 | Spore Taste | 13.00% | ~2,503 |
 | Stogie for Fogey | 12.00% | ~2,311 |
+| Call it Even | 11.00% | ~2,118 |
 | Zen Master | 11.00% | ~573 |
-| Call it Even | 10.00% | ~1,926 |
 | Safe Cracker | 10.00% | ~521 |
 | Madame Undersecretary | 10.00% | ~521 |
 | Heal Thy Medic | 9.00% | ~1,733 |

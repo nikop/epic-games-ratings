@@ -9799,9 +9799,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255354,
+  "EOS_Progressed": 255358,
   "EOS_Completed": 2636,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41429,6 +41429,11 @@
       "Time": "2024-01-24T02:36:27.6072912+00:00",
       "NumProgressed": 255354,
       "NumCompleted": 2636
+    },
+    {
+      "Time": "2024-01-24T04:12:03.9845917+00:00",
+      "NumProgressed": 255358,
+      "NumCompleted": 2636
     }
   ],
   "TotalAchievements": 546,
@@ -42416,7 +42421,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "objective_completed_130",
@@ -42694,9 +42699,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_179",
@@ -45184,7 +45189,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "objective_completed_902",
@@ -45807,21 +45812,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221628,
+      "Progressed": 221632,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255354,
+      "Progressed": 255358,
       "Completed": 2636
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:10:24.6197483+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:12:03.9845911+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:58:35.9488965+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:10:24.6220636+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:59:39.8525278+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:12:03.9868129+00:00"
 }

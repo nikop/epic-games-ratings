@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23321,
+  "EOS_Progressed": 23324,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -9147,6 +9147,11 @@
       "Time": "2024-01-24T02:31:05.8333163+00:00",
       "NumProgressed": 23321,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-24T04:06:30.783777+00:00",
+      "NumProgressed": 23324,
+      "NumCompleted": 125
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9167,7 +9172,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -9215,7 +9220,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -9238,7 +9243,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 23321,
+      "Progressed": 23324,
       "Completed": 125
     }
   ],
@@ -9246,8 +9251,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:05:04.8210992+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:06:30.7837766+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:58:18.3578908+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:05:04.8211537+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:59:16.5992884+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:06:30.7838268+00:00"
 }

@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22692,
+  "EOS_Progressed": 22694,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14803,6 +14803,11 @@
       "Time": "2024-01-24T02:01:19.9895964+00:00",
       "NumProgressed": 22692,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T04:11:33.7410072+00:00",
+      "NumProgressed": 22694,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14918,7 +14923,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5446
+      "UsersEstimate": 5447
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14942,7 +14947,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "KILL_ROBOT",
@@ -14974,7 +14979,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4311
+      "UsersEstimate": 4312
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14982,7 +14987,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4765
+      "UsersEstimate": 4766
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14990,7 +14995,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5673
+      "UsersEstimate": 5674
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15166,7 +15171,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -15189,13 +15194,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22692,
+      "Progressed": 22694,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10618,
+      "Progressed": 10620,
       "Completed": 29
     }
   ],
@@ -15203,8 +15208,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:09:58.8380416+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:11:33.7410067+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:03:26.8520677+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:09:58.838119+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:04:22.8733906+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:11:33.7411048+00:00"
 }

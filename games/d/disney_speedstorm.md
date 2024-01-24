@@ -5,18 +5,18 @@ Rating: 4.41 (Ranked 761)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,828 |
-| IT MAKES BOOM! | 9.00% | ~36,573 |
-| EXTRA BOOST | 6.00% | ~24,382 |
-| PROTECTED | 5.00% | ~20,318 |
-| PRO | 5.00% | ~20,318 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,255 |
-| AGGRESSIVE RACER | 3.00% | ~12,191 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,127 |
-| TRAINING HARD | 2.00% | ~8,127 |
-| BE OUR GUEST | 2.00% | ~8,127 |
-| ACE SPEEDSTER | 2.00% | ~8,127 |
-| A TIGER'S FEAR | 2.00% | ~8,127 |
+| ROOKIE | 13.00% | ~52,831 |
+| IT MAKES BOOM! | 9.00% | ~36,575 |
+| EXTRA BOOST | 6.00% | ~24,383 |
+| PROTECTED | 5.00% | ~20,320 |
+| PRO | 5.00% | ~20,320 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,256 |
+| AGGRESSIVE RACER | 3.00% | ~12,192 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,128 |
+| TRAINING HARD | 2.00% | ~8,128 |
+| BE OUR GUEST | 2.00% | ~8,128 |
+| ACE SPEEDSTER | 2.00% | ~8,128 |
+| A TIGER'S FEAR | 2.00% | ~8,128 |
 | RELEASE THE KRAKEN | 1.00% | ~4,064 |
 | ACE BRAWLER | 1.00% | ~4,064 |
 | DEFEAT OUR CHAMPION | 1.00% | ~4,064 |
@@ -25,12 +25,12 @@ Rating: 4.41 (Ranked 761)
 | FRIENDLY | 1.00% | ~4,064 |
 | MASTER | 1.00% | ~4,064 |
 | LEGENDARY HERO | 1.00% | ~4,064 |
-| EXPERIENCED CREW | 0.90% | ~3,657 |
+| EXPERIENCED CREW | 0.90% | ~3,658 |
 | PERFECTLY POISED | 0.70% | ~2,845 |
 | FRAMED! | 0.70% | ~2,845 |
 | ACE TRICKSTER | 0.70% | ~2,845 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,368 (Ranked 51)  
+Progressed: 406,391 (Ranked 51)  
 Completed: 1,731 (0.43%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,14 +305,14 @@ Completed: 1,731 (0.43%) (Ranked 242)
 | 2024-01-21 | 404,898 | 1,703 |
 | 2024-01-22 | 405,590 | 1,717 |
 | 2024-01-23 | 406,231 | 1,727 |
-| 2024-01-24 | 406,368 | 1,731 |
+| 2024-01-24 | 406,391 | 1,731 |
 ## Awards
-Max (Great for Beginners): 197  (Ranked 307)  
-Sum: 1,276 (Ranked 262)  
-Diff (max vs sum): 45  
+Max (Great for Beginners): 198  (Ranked 306)  
+Sum: 1,277 (Ranked 262)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 197 |
+| This game is Great for Beginners | 198 |
 | This game is Great for Quick Sessions | 177 |
 | This game has Diverse Characters | 145 |
 | This game has a Competitive Community | 109 |
@@ -442,4 +442,4 @@ Diff (max vs sum): 45
 | 2024-01-21 | 4.41 | 195 | 1,260 |
 | 2024-01-22 | 4.41 | 197 | 1,267 |
 | 2024-01-23 | 4.41 | 197 | 1,272 |
-| 2024-01-24 | 4.41 | 197 | 1,276 |
+| 2024-01-24 | 4.41 | 198 | 1,277 |

@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126427,
+  "EOS_Progressed": 126438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2617,
+  "EOS_NewPlayers": 2607,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5730,6 +5730,11 @@
       "Time": "2024-01-24T03:05:14.9474675+00:00",
       "NumProgressed": 126427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T04:06:44.003157+00:00",
+      "NumProgressed": 126438,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5806,7 +5811,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13907
+      "UsersEstimate": 13908
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5814,7 +5819,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25285
+      "UsersEstimate": 25288
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5838,7 +5843,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18964
+      "UsersEstimate": 18966
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5894,7 +5899,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10114
+      "UsersEstimate": 10115
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -5910,7 +5915,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11378
+      "UsersEstimate": 11379
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -5958,7 +5963,7 @@
       "Name": "Taste Your Own Medicine",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH_THUNDATROSS_STORY",
@@ -5966,7 +5971,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6322
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -6021,7 +6026,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126427,
+      "Progressed": 126438,
       "Completed": 0
     }
   ],
@@ -6029,8 +6034,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:05:14.9474672+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:06:44.0031565+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:59:19.4248619+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:05:14.9475189+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:00:35.102805+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:06:44.0031934+00:00"
 }

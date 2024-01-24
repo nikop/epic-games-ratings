@@ -5,7 +5,7 @@
   "Ranking_Rating": 662,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 475,
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 145,
@@ -510,9 +510,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 685,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2615,6 +2615,11 @@
       "Time": "2024-01-24T00:05:33.5872945+00:00",
       "NumProgressed": 684,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T04:06:27.9626596+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2675,7 +2680,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2691,7 +2696,7 @@
       "Name": "Maximum Capacity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2699,7 +2704,7 @@
       "Name": "Increased Vigor",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2713,9 +2718,9 @@
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 404
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2723,7 +2728,7 @@
       "Name": "I Wanna Rock",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2739,7 +2744,7 @@
       "Name": "Perfect Storm",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -2803,7 +2808,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2859,7 +2864,7 @@
       "Name": "Protector of Humanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -2883,7 +2888,7 @@
       "Name": "Path of the Horseman",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Keeper_Kill_Final",
@@ -2939,7 +2944,7 @@
       "Name": "Love Tap",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2947,7 +2952,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2961,9 +2966,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 322
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2971,7 +2976,7 @@
       "Name": "Everybody Wants to Rule the World",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -2993,9 +2998,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 240
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -3011,7 +3016,7 @@
       "Name": "Throne Potato",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -3051,15 +3056,15 @@
       "Name": "Community Outreach",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Save_Humans_20",
       "SetID": "7a5k76n",
       "Name": "Humanitarian",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "Save_Humans_5",
@@ -3067,7 +3072,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -3075,7 +3080,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -3083,7 +3088,7 @@
       "Name": "First of many\u2026",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -3138,15 +3143,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 685,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-22T20:57:00.0680665+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:05:02.6745449+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:06:27.9626594+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:57:41.1703516+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:05:02.6746036+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:58:23.4639963+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:06:27.9627048+00:00"
 }

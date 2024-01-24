@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162394,
+  "EOS_Progressed": 162396,
   "EOS_Completed": 402,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -26308,6 +26308,11 @@
       "Time": "2024-01-24T03:08:06.5841289+00:00",
       "NumProgressed": 162394,
       "NumCompleted": 402
+    },
+    {
+      "Time": "2024-01-24T04:09:10.9531102+00:00",
+      "NumProgressed": 162396,
+      "NumCompleted": 402
     }
   ],
   "TotalAchievements": 31,
@@ -26327,7 +26332,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113676
+      "UsersEstimate": 113677
     },
     {
       "ID": "EAwards_10",
@@ -26415,7 +26420,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45470
+      "UsersEstimate": 45471
     },
     {
       "ID": "EAwards_20",
@@ -26431,7 +26436,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17863
+      "UsersEstimate": 17864
     },
     {
       "ID": "EAwards_22",
@@ -26511,7 +26516,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "EAwards_4",
@@ -26527,7 +26532,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19487
+      "UsersEstimate": 19488
     },
     {
       "ID": "EAwards_6",
@@ -26535,7 +26540,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 40598
+      "UsersEstimate": 40599
     },
     {
       "ID": "EAwards_7",
@@ -26559,14 +26564,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19487
+      "UsersEstimate": 19488
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 162394,
+      "Progressed": 162396,
       "Completed": 402
     }
   ],
@@ -26574,8 +26579,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:08:06.5841285+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:09:10.9531095+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:57:30.2031957+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:08:06.584294+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:58:09.191997+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:09:10.9532403+00:00"
 }

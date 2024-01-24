@@ -1951,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169466,
+  "EOS_Progressed": 169471,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24251,6 +24251,11 @@
       "Time": "2024-01-24T03:08:15.5146252+00:00",
       "NumProgressed": 169466,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2024-01-24T04:09:22.7707286+00:00",
+      "NumProgressed": 169471,
+      "NumCompleted": 468
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24269,9 +24274,9 @@
       "ID": "ACQUIRE_ALLHUNTPOINTS",
       "SetID": "ccc0dlh",
       "Name": "Bloodhunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 508
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -24479,7 +24484,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8473
+      "UsersEstimate": 8474
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -24630,21 +24635,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169049,
+      "Progressed": 169054,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169466,
+      "Progressed": 169471,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:08:15.514625+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:09:22.7707284+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:59:31.3606086+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:08:15.5147646+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:00:51.3572845+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:09:22.7708344+00:00"
 }

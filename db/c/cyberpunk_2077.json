@@ -18918,10 +18918,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 516478,
       "NumberOfAwardsMax": 144402
+    },
+    {
+      "Time": "2024-01-24T04:04:13.0101133+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 516634,
+      "NumberOfAwardsMax": 144402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 516478,
+  "NumberOfAwards": 516634,
   "NumberOfAwardsMax": 144402,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18983,7 +18989,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29735
+      "Count": 29891
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18998,9 +19004,9 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1057876,
+  "EOS_Progressed": 1057893,
   "EOS_Completed": 3154,
-  "EOS_NewPlayers": 4711,
+  "EOS_NewPlayers": 4697,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50938,6 +50944,11 @@
       "Time": "2024-01-24T03:09:06.4405566+00:00",
       "NumProgressed": 1057876,
       "NumCompleted": 3154
+    },
+    {
+      "Time": "2024-01-24T04:10:27.2029209+00:00",
+      "NumProgressed": 1057893,
+      "NumCompleted": 3154
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51204,9 +51215,9 @@
       "ID": "TheSun",
       "SetID": "47clieb",
       "Name": "The Sun",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2116
+      "UsersEstimate": 3174
     },
     {
       "ID": "TheWheelOfFortune",
@@ -51326,7 +51337,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Easycomeeasygo",
@@ -51350,7 +51361,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Kingofcups",
@@ -51390,7 +51401,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "UltimateSurvivor",
@@ -51414,7 +51425,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "IHateSpider",
@@ -51430,7 +51441,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "KingOfThePentacles",
@@ -51438,7 +51449,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "KingOfTheSwords",
@@ -51446,7 +51457,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "KingOfTheWands",
@@ -51462,7 +51473,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "DirtyWork",
@@ -51478,28 +51489,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057876,
+      "Progressed": 1057893,
       "Completed": 3154
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186499,
-      "Completed": 10694
+      "Progressed": 186516,
+      "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-24T03:03:19.5733026+00:00",
-  "LastChanged_Achievements": "2024-01-24T03:09:06.4405563+00:00",
+  "LastChanged": "2024-01-24T04:04:13.0101117+00:00",
+  "LastChanged_Achievements": "2024-01-24T04:10:27.2029206+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:03:19.5733031+00:00",
-  "LastUpdate_Achievements": "2024-01-24T03:09:06.440718+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:04:13.0101137+00:00",
+  "LastUpdate_Achievements": "2024-01-24T04:10:27.2030905+00:00"
 }

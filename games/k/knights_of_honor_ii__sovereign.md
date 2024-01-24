@@ -7,9 +7,9 @@ Rating: 4.35 (Ranked 836)
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 15.00% | ~15 |
 | Bring it on! | 11.00% | ~11 |
+| Can’t Touch This | 11.00% | ~11 |
 | Full House | 11.00% | ~11 |
 | Help! Help! I’m being repressed | 11.00% | ~11 |
-| Can’t Touch This | 10.00% | ~10 |
 | There is no Nobility in Poverty | 10.00% | ~10 |
 | Path of Glory | 8.00% | ~8 |
 | The finest merchandise this side of river Jordan | 6.00% | ~6 |
@@ -39,6 +39,7 @@ Rating: 4.35 (Ranked 836)
 | On the third day at dawn, look east | 2.00% | ~2 |
 | Time to find India | 2.00% | ~2 |
 | Vlad the Impaler | 2.00% | ~2 |
+| Why is there no culture victory?! | 2.00% | ~2 |
 | A Quiet Palace | 1.00% | ~1 |
 | Crusade Invoker, no Regret | 1.00% | ~1 |
 | Fighting with Power and Steel | 1.00% | ~1 |
@@ -52,7 +53,6 @@ Rating: 4.35 (Ranked 836)
 | Renaissance Man | 1.00% | ~1 |
 | Spartacus | 1.00% | ~1 |
 | The Magnificent Nine | 1.00% | ~1 |
-| Why is there no culture victory?! | 1.00% | ~1 |
 | You reap what you sow | 1.00% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 503)  
+Progressed: 101 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 98 | 0 |
+| 2024-01-24 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
