@@ -6,7 +6,7 @@
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -2370,9 +2370,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17140,
+  "EOS_Progressed": 17141,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20905,6 +20905,11 @@
       "Time": "2024-01-24T16:10:26.8499523+00:00",
       "NumProgressed": 17140,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T18:11:08.1505176+00:00",
+      "NumProgressed": 17141,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22954,9 +22959,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -23010,9 +23015,9 @@
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Turreted Elephant",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -23779,21 +23784,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17140,
+      "Progressed": 17141,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17140,
+      "Progressed": 17141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T14:00:22.8203692+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:28.3856541+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:11:08.1505172+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:27.9734287+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:28.3866+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:02.3543769+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:11:08.1515967+00:00"
 }

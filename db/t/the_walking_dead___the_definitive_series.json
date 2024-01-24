@@ -6,7 +6,7 @@
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 848,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 539,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -1714,10 +1714,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 957,
       "NumberOfAwardsMax": 614
+    },
+    {
+      "Time": "2024-01-24T17:57:39.6342226+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 958,
+      "NumberOfAwardsMax": 614
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 957,
+  "NumberOfAwards": 958,
   "NumberOfAwardsMax": 614,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1773,7 +1779,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Easy Combat",
@@ -1805,8 +1811,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-01-24T15:57:12.7529038+00:00",
+  "LastChanged": "2024-01-24T17:57:39.6342224+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.8420285+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:15.1292686+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:06:07.5959233+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:57:39.634223+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:06:53.3955781+00:00"
 }

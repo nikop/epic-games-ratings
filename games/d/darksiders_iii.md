@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 662)  
+Rating: 4.48 (Ranked 663)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 688 (Ranked 337)  
-Completed: 2 (0.29%) (Ranked 267)  
+Completed: 2 (0.29%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

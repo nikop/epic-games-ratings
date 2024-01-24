@@ -2,11 +2,11 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 848,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 539,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR, CN"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "NumberOfRatings": 1439,
   "RatingHistory": [
     {
@@ -2742,6 +2742,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 2208,
       "NumberOfAwardsMax": 785
+    },
+    {
+      "Time": "2024-01-24T17:59:46.2960788+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 2208,
+      "NumberOfAwardsMax": 785
     }
   ],
   "ReviewsDisabled": false,
@@ -2839,8 +2845,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2024-01-23T17:58:40.1128345+00:00",
+  "LastChanged": "2024-01-24T17:59:46.2960786+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.3622685+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:15.0525533+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:05:53.0702647+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:46.2960791+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:06:38.0300865+00:00"
 }

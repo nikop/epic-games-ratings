@@ -36,8 +36,8 @@ Rating: 4.38 (Ranked 799)
 | Hostile Takeover | 26.00% | ~720 |
 | Seven at one stroke | 25.00% | ~693 |
 | Breaking Ground | 24.00% | ~665 |
+| Trailblazer | 23.00% | ~637 |
 | Traffic Junction | 23.00% | ~637 |
-| Trailblazer | 22.00% | ~610 |
 | Traffic Jam | 21.00% | ~582 |
 | Resistance is futile | 18.00% | ~499 |
 | Bold and beautiful | 17.00% | ~471 |
@@ -62,7 +62,7 @@ Rating: 4.38 (Ranked 799)
 | Together we stand | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,771 (Ranked 238)  
-Completed: 0 (0.00%) (Ranked 409)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

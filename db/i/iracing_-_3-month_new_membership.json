@@ -3,7 +3,7 @@
   "Name": "iRacing - 3-month new membership",
   "ProductSlug": "iracing",
   "Ranking_EOS_Progress": 848,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 539,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.3221699+00:00",
   "LastChanged": "2023-03-31T05:57:52.32217+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:43.1257112+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:40.1169907+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:09:49.9258239+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:04.9872769+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:10:28.3225659+00:00"
 }

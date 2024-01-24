@@ -6,7 +6,7 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2444,
+  "EOS_Progressed": 2445,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -5053,6 +5053,11 @@
       "Time": "2024-01-24T16:10:16.9752314+00:00",
       "NumProgressed": 2444,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T18:10:58.3416563+00:00",
+      "NumProgressed": 2445,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5062,9 +5067,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1565
     },
     {
       "ID": "ACH_02",
@@ -5072,7 +5077,7 @@
       "Name": "Find Allies",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH_03",
@@ -5120,7 +5125,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH_09",
@@ -5136,7 +5141,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH_11",
@@ -5160,7 +5165,7 @@
       "Name": "Adventurer",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_14",
@@ -5200,7 +5205,7 @@
       "Name": "Shatter Them All",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_19",
@@ -5224,7 +5229,7 @@
       "Name": "Big Bazar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_22",
@@ -5240,7 +5245,7 @@
       "Name": "Geared Up",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_24",
@@ -5264,7 +5269,7 @@
       "Name": "Scholar",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_27",
@@ -5326,9 +5331,9 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_36",
@@ -5351,7 +5356,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2444,
+      "Progressed": 2445,
       "Completed": 5
     }
   ],
@@ -5359,8 +5364,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:18.8034117+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:10:58.341656+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:00:22.5668418+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:18.8034482+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:01:00.0842278+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:10:58.3417077+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253794,
+  "EOS_Progressed": 253797,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24897,6 +24897,11 @@
       "Time": "2024-01-24T17:10:12.7518826+00:00",
       "NumProgressed": 253794,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T18:10:52.0953114+00:00",
+      "NumProgressed": 253797,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24980,7 +24985,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38069
+      "UsersEstimate": 38070
     },
     {
       "ID": "clearCut",
@@ -25084,7 +25089,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134511
+      "UsersEstimate": 134512
     },
     {
       "ID": "indegestible",
@@ -25108,7 +25113,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65986
+      "UsersEstimate": 65987
     },
     {
       "ID": "justABit",
@@ -25140,7 +25145,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35531
+      "UsersEstimate": 35532
     },
     {
       "ID": "myFirstRunbow",
@@ -25148,7 +25153,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126897
+      "UsersEstimate": 126898
     },
     {
       "ID": "notScared",
@@ -25228,7 +25233,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32993
+      "UsersEstimate": 32994
     },
     {
       "ID": "treeMedalist",
@@ -25268,14 +25273,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40607
+      "UsersEstimate": 40608
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253794,
+      "Progressed": 253797,
       "Completed": 6
     }
   ],
@@ -25283,8 +25288,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:12.7518823+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:10:52.0953109+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:59.3467399+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:12.7520188+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:24.7679483+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:10:52.0954924+00:00"
 }

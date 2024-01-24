@@ -6,7 +6,7 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -11158,10 +11158,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21845,
       "NumberOfAwardsMax": 8066
+    },
+    {
+      "Time": "2024-01-24T18:00:30.8811271+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21847,
+      "NumberOfAwardsMax": 8066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21845,
+  "NumberOfAwards": 21847,
   "NumberOfAwardsMax": 8066,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11205,7 +11211,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1544
+      "Count": 1546
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11238,9 +11244,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133616,
+  "EOS_Progressed": 133618,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41328,6 +41334,11 @@
       "Time": "2024-01-24T17:10:18.9434701+00:00",
       "NumProgressed": 133616,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T18:10:58.5841169+00:00",
+      "NumProgressed": 133618,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41443,7 +41454,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -41459,7 +41470,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -41571,7 +41582,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "combat_kill_shambler",
@@ -41739,7 +41750,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41771,7 +41782,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -41803,7 +41814,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "run_victory_act03",
@@ -41811,7 +41822,7 @@
       "Name": "Eyes Up",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "run_victory_act04",
@@ -41881,9 +41892,9 @@
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 679
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41970,21 +41981,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133616,
+      "Progressed": 133618,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8485,
+      "Progressed": 8487,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-24T16:59:56.2870914+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:18.9434698+00:00",
+  "LastChanged": "2024-01-24T18:00:30.8811269+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:10:58.5841163+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:56.2870921+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:18.9436291+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:30.881128+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:10:58.584325+00:00"
 }

@@ -16,9 +16,9 @@
 | Autumn Postmasters | 2.00% | ~4 |
 | Summer Postmasters | 2.00% | ~4 |
 | Against All Odds | 1.00% | ~2 |
-| Postmasters General | 0.50% | ~1 |
+| Postmasters General | 1.00% | ~2 |
+| Winter Postmasters | 1.00% | ~2 |
 | Working Overtime | 0.50% | ~1 |
-| Winter Postmasters | 0.50% | ~1 |
 | Stocking Up | 0.50% | ~1 |
 | Off to the Races | 0.00% | ~0 |
 | KeyWe are the Champions | 0.00% | ~0 |
@@ -26,7 +26,7 @@
 | Fully Stocked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 194 (Ranked 439)  
-Completed: 0 (0.00%) (Ranked 409)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

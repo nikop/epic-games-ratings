@@ -6,7 +6,7 @@
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -1567,9 +1567,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 261023,
+  "EOS_Progressed": 261026,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28222,6 +28222,11 @@
       "Time": "2024-01-24T16:06:12.2000229+00:00",
       "NumProgressed": 261023,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T18:06:56.350369+00:00",
+      "NumProgressed": 261026,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28273,7 +28278,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "BackHomeFirstTime",
@@ -28281,7 +28286,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80917
+      "UsersEstimate": 80918
     },
     {
       "ID": "BackHomeNTimes",
@@ -28337,7 +28342,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26102
+      "UsersEstimate": 26103
     },
     {
       "ID": "CreditLevel2",
@@ -28433,7 +28438,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15661
+      "UsersEstimate": 15662
     },
     {
       "ID": "GrowPlants2",
@@ -28489,7 +28494,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15661
+      "UsersEstimate": 15662
     },
     {
       "ID": "KillOtherWithKatana",
@@ -28497,7 +28502,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -28513,7 +28518,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "KillOthers1",
@@ -28521,7 +28526,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60035
+      "UsersEstimate": 60036
     },
     {
       "ID": "KillOthers2",
@@ -28545,7 +28550,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -28553,7 +28558,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "MaxImagoLevel",
@@ -28625,7 +28630,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26102
+      "UsersEstimate": 26103
     },
     {
       "ID": "ReachNDays2",
@@ -28633,7 +28638,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "ReachNDays3",
@@ -28680,7 +28685,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 261023,
+      "Progressed": 261026,
       "Completed": 3
     }
   ],
@@ -28688,8 +28693,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-23T04:02:56.023083+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:06:10.3304542+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:06:56.3503687+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:02:51.5295553+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:06:10.3306617+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:03:28.6620539+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:06:56.350554+00:00"
 }

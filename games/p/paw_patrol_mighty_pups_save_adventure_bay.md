@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 82.00% | ~53 |
-| Grand Re-Opening | 68.00% | ~44 |
+| Grand Re-Opening | 69.00% | ~45 |
 | Pup Pup Boogie | 66.00% | ~43 |
 | Summer Day | 65.00% | ~42 |
 | Mr. Porter | 54.00% | ~35 |
@@ -36,7 +36,7 @@
 | Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 65 (Ranked 547)  
-Completed: 1 (1.54%) (Ranked 154)  
+Completed: 1 (1.54%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

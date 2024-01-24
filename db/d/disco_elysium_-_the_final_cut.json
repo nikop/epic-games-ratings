@@ -6,7 +6,7 @@
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 373,
+  "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -1718,9 +1718,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140025,
+  "EOS_Progressed": 140026,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29708,6 +29708,11 @@
       "Time": "2024-01-24T17:09:12.4069807+00:00",
       "NumProgressed": 140025,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-24T18:09:49.131134+00:00",
+      "NumProgressed": 140026,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29751,7 +29756,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25204
+      "UsersEstimate": 25205
     },
     {
       "ID": "ACH_COP_BAD",
@@ -29759,7 +29764,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_COP_BORING",
@@ -29839,7 +29844,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -29871,7 +29876,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_DOLORES",
@@ -30007,7 +30012,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -30038,15 +30043,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140025,
+      "Progressed": 140026,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-23T04:58:42.7043232+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:09:12.4069804+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:09:49.1311337+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:22.9808346+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:09:12.4071456+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:57.009672+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:09:49.131299+00:00"
 }

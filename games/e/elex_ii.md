@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 905)  
+Rating: 4.28 (Ranked 904)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,7 +24,7 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 16.00% | ~46 |
 | Globetrotter | 16.00% | ~46 |
 | Berserker | 16.00% | ~46 |
-| Hunter | 13.00% | ~38 |
+| Hunter | 14.00% | ~41 |
 | Lover | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Alb | 12.00% | ~35 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 290 (Ranked 413)  
-Completed: 0 (0.00%) (Ranked 409)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

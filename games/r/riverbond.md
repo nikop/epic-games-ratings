@@ -6,20 +6,20 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~375,409 |
-| Now You're Talking | 62.00% | ~332,505 |
-| Steel Yourself | 62.00% | ~332,505 |
-| Window Dressing | 50.00% | ~268,149 |
-| Trigger Happy | 46.00% | ~246,697 |
-| Riverborn | 45.00% | ~241,334 |
-| Starry Eyed | 34.00% | ~182,341 |
-| Poking Around | 34.00% | ~182,341 |
-| Talk of the Town | 24.00% | ~128,712 |
-| AAARR! | 23.00% | ~123,349 |
-| Hello Darkness | 23.00% | ~123,349 |
-| Wind At Our Backs | 22.00% | ~117,986 |
-| To the Beat | 20.00% | ~107,260 |
-| Sunny Shores | 17.00% | ~91,171 |
+| First Step | 70.00% | ~375,412 |
+| Now You're Talking | 62.00% | ~332,508 |
+| Steel Yourself | 62.00% | ~332,508 |
+| Window Dressing | 50.00% | ~268,152 |
+| Trigger Happy | 46.00% | ~246,699 |
+| Riverborn | 45.00% | ~241,336 |
+| Starry Eyed | 34.00% | ~182,343 |
+| Poking Around | 34.00% | ~182,343 |
+| Talk of the Town | 24.00% | ~128,713 |
+| AAARR! | 23.00% | ~123,350 |
+| Hello Darkness | 23.00% | ~123,350 |
+| Wind At Our Backs | 22.00% | ~117,987 |
+| To the Beat | 20.00% | ~107,261 |
+| Sunny Shores | 17.00% | ~91,172 |
 | Sunday Best | 16.00% | ~85,808 |
 | To Victory! | 15.00% | ~80,445 |
 | Two of a Kind | 14.00% | ~75,082 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,609 |
 | Point Taken | 0.20% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,298 (Ranked 38)  
-Completed: 530 (0.10%) (Ranked 321)  
+Progressed: 536,303 (Ranked 38)  
+Completed: 530 (0.10%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,7 +343,7 @@ Completed: 530 (0.10%) (Ranked 321)
 | 2024-01-21 | 536,138 | 526 |
 | 2024-01-22 | 536,197 | 528 |
 | 2024-01-23 | 536,258 | 530 |
-| 2024-01-24 | 536,298 | 530 |
+| 2024-01-24 | 536,303 | 530 |
 ## Awards
 Max (Relaxing): 22  (Ranked 572)  
 Sum: 22 (Ranked 577)  

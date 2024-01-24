@@ -44,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~1,022 |
 | Waterdeep Detours | 0.40% | ~1,022 |
 | Underdeep Cartography | 0.40% | ~1,022 |
+| The Templar's Camp | 0.40% | ~1,022 |
 | Arcane Suppression | 0.40% | ~887 |
 | Welcome to the Vrocks | 0.40% | ~887 |
 | Misaligned in Sigil | 0.40% | ~887 |
@@ -65,7 +66,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.30% | ~766 |
 | Constant Banditry | 0.30% | ~766 |
 | Overdue Rendezvous | 0.30% | ~766 |
-| The Templar's Camp | 0.30% | ~766 |
 | Rescue in the Jungle | 0.30% | ~766 |
 | Pros and CONs | 0.20% | ~511 |
 | Tall Tales | 0.20% | ~443 |
@@ -134,6 +134,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.20% | ~443 |
 | Dreamscape | 0.20% | ~443 |
 | The Path of Dreams | 0.20% | ~443 |
+| The Lost Hollyphant | 0.20% | ~443 |
 | Alterdeep | 0.20% | ~443 |
 | The Giant's Bane Tavern | 0.20% | ~443 |
 | The Long Haul | 0.20% | ~511 |
@@ -400,7 +401,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Redcaps | 0.10% | ~222 |
 | The Path of Trials | 0.10% | ~222 |
 | Bad Odds in Avernus | 0.10% | ~222 |
-| The Lost Hollyphant | 0.10% | ~222 |
 | Zapper Overload | 0.10% | ~222 |
 | Best Friend Search Squad! | 0.10% | ~222 |
 | An Even Worse Time in Avernus | 0.10% | ~222 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,399 (Ranked 71)  
-Completed: 2,638 (1.03%) (Ranked 180)  
+Progressed: 255,402 (Ranked 71)  
+Completed: 2,638 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -832,7 +832,7 @@ Completed: 2,638 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,399 | 2,638 |
+| 2024-01-24 | 255,402 | 2,638 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,620 (Ranked 42)  

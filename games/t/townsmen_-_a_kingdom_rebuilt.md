@@ -50,6 +50,7 @@ Number of Ratings: 37  (23.09.2022)
 | Cosmas and Damian | 3.00% | ~134 |
 | Builder III | 3.00% | ~134 |
 | A time consuming game IV | 3.00% | ~134 |
+| Tools of the trade III | 3.00% | ~134 |
 | Out of the frying pan | 3.00% | ~134 |
 | The Art of War | 2.00% | ~89 |
 | The King's new clothes III | 2.00% | ~89 |
@@ -65,7 +66,6 @@ Number of Ratings: 37  (23.09.2022)
 | Only the sausage has two ends. | 2.00% | ~89 |
 | I've been everywhere V | 2.00% | ~89 |
 | Tax-man V | 2.00% | ~89 |
-| Tools of the trade III | 2.00% | ~89 |
 | When there's fire... | 1.00% | ~45 |
 | Reunification | 1.00% | ~45 |
 | Treat her well… | 1.00% | ~45 |
@@ -109,7 +109,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,459 (Ranked 216)  
-Completed: 4 (0.09%) (Ranked 329)  
+Completed: 4 (0.09%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,21 +5,21 @@ Rating: 4.22 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,358 |
-| The Outer Way | 28.00% | ~6,358 |
-| Desperate Times | 27.00% | ~6,131 |
-| Paper Jams | 25.00% | ~5,677 |
-| Get a Grip | 24.00% | ~5,450 |
-| Chew 'Em Up | 22.00% | ~4,996 |
-| Reforged | 21.00% | ~4,769 |
+| Flesh Wound | 28.00% | ~6,359 |
+| The Outer Way | 28.00% | ~6,359 |
+| Desperate Times | 27.00% | ~6,132 |
+| Paper Jams | 25.00% | ~5,678 |
+| Get a Grip | 24.00% | ~5,451 |
+| Chew 'Em Up | 22.00% | ~4,997 |
+| Reforged | 21.00% | ~4,770 |
 | Float Like A Butterfly | 19.00% | ~4,315 |
 | If the SHU Fits... | 19.00% | ~4,315 |
-| Workplace Hazard | 18.00% | ~4,087 |
-| Without A Paddle | 16.00% | ~3,633 |
-| In the Pipe, Five by Five | 14.00% | ~3,179 |
-| Crash Site | 14.00% | ~3,179 |
-| Two Heads Are Better Than One | 13.00% | ~2,952 |
-| Power Up | 13.00% | ~2,952 |
+| Workplace Hazard | 18.00% | ~4,088 |
+| Without A Paddle | 16.00% | ~3,634 |
+| In the Pipe, Five by Five | 14.00% | ~3,180 |
+| Crash Site | 14.00% | ~3,180 |
+| Two Heads Are Better Than One | 13.00% | ~2,953 |
+| Power Up | 13.00% | ~2,953 |
 | Giving Back | 12.00% | ~2,725 |
 | Terminated | 12.00% | ~2,725 |
 | What Lies Beneath | 12.00% | ~2,725 |
@@ -27,8 +27,8 @@ Rating: 4.22 (Ranked 960)
 | You Need a Gun | 10.00% | ~2,271 |
 | I Do Belong Here | 9.00% | ~2,044 |
 | Keep Fighting | 8.00% | ~851 |
-| In Striking Distance | 6.00% | ~1,362 |
-| The Commonality | 6.00% | ~1,362 |
+| In Striking Distance | 6.00% | ~1,363 |
+| The Commonality | 6.00% | ~1,363 |
 | It's Time | 6.00% | ~638 |
 | One Last Job | 3.00% | ~319 |
 | Armed to the Teeth | 2.00% | ~213 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,708 (Ranked 153)  
-Completed: 82 (0.36%) (Ranked 254)  
+Progressed: 22,712 (Ranked 153)  
+Completed: 82 (0.36%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,11 +324,11 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-21 | 22,649 | 82 |
 | 2024-01-22 | 22,675 | 82 |
 | 2024-01-23 | 22,690 | 82 |
-| 2024-01-24 | 22,708 | 82 |
+| 2024-01-24 | 22,712 | 82 |
 ## Awards
-Max (Amazing Characters): 143  (Ranked 342)  
+Max (Amazing Characters): 143  (Ranked 343)  
 Sum: 687 (Ranked 315)  
-Diff (max vs sum): 27  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 143 |

@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1820,6 +1820,11 @@
       "Time": "2024-01-24T09:05:16.2015427+00:00",
       "NumProgressed": 541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T18:05:38.3399115+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1879,7 +1884,7 @@
       "Name": "Artfully Done",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_art_large",
@@ -1919,7 +1924,7 @@
       "Name": "Campaign Launch",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ach_campaigns_1",
@@ -2159,7 +2164,7 @@
       "Name": "Water Features",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_grime",
@@ -2175,7 +2180,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_grime_2",
@@ -2191,7 +2196,7 @@
       "Name": "Happy Tenants",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_loan",
@@ -2229,9 +2234,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_office_2",
@@ -2255,7 +2260,7 @@
       "Name": "People Mover",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_pop_2",
@@ -2295,15 +2300,15 @@
       "Name": "In the Black",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ach_profit_1",
       "SetID": "b8gh1fi",
       "Name": "Swimming in Surplus",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_profit_2",
@@ -2351,7 +2356,7 @@
       "Name": "Dinner Dash",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ach_restaurants_4",
@@ -2391,7 +2396,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_retail_4",
@@ -2415,7 +2420,7 @@
       "Name": "Revenue Royalty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_revs_3",
@@ -2431,7 +2436,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_scenarios_2",
@@ -2471,7 +2476,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_util_cable",
@@ -2527,14 +2532,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 0
     }
   ],
@@ -2542,8 +2547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:04:54.8797348+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:05:38.3399111+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:58:05.6804938+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:04:54.8798182+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:31.5626722+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:05:38.3400233+00:00"
 }

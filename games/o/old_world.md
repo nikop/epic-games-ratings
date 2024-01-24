@@ -131,13 +131,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.70% | ~120 |
 | Revelation | 0.70% | ~120 |
 | Kushite Cavalry | 0.70% | ~120 |
+| Turreted Elephant | 0.70% | ~120 |
 | Deposed Tribe | 0.70% | ~120 |
 | Jebel Barkal | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
 | Church of the Holy Sepulchre | 0.60% | ~103 |
 | Carthage | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |
-| Turreted Elephant | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |
 | Old | 0.50% | ~86 |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.50% | ~86 |
 | Learn to Play 5 | 0.50% | ~86 |
 | Egypt | 0.50% | ~86 |
+| Cataphract Archer | 0.50% | ~86 |
 | No Undo | 0.50% | ~86 |
 | Poetic Leader | 0.50% | ~86 |
 | Cothon | 0.50% | ~86 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.40% | ~69 |
 | Play a Network Game | 0.40% | ~69 |
 | Ten Crowns | 0.40% | ~69 |
-| Cataphract Archer | 0.40% | ~69 |
 | Siege Tower | 0.40% | ~69 |
 | Al Khazneh | 0.40% | ~69 |
 | Carthage - Riches and Influence | 0.30% | ~51 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,140 (Ranked 170)  
-Completed: 5 (0.03%) (Ranked 364)  
+Progressed: 17,141 (Ranked 170)  
+Completed: 5 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -644,7 +644,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
-| 2024-01-24 | 17,140 | 5 |
+| 2024-01-24 | 17,141 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,946 (Ranked 224)  

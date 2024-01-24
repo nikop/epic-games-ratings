@@ -6,21 +6,21 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,839 |
-| Worker Specialization | 76.00% | ~5,763 |
+| Colonize a Planet | 77.00% | ~5,840 |
+| Worker Specialization | 76.00% | ~5,764 |
 | First Contact | 72.00% | ~5,460 |
-| Win a Battle | 65.00% | ~4,929 |
+| Win a Battle | 65.00% | ~4,930 |
 | Anomaly Researcher | 60.00% | ~4,550 |
 | Unleash My Power | 60.00% | ~4,550 |
 | Own 30 Planets | 32.00% | ~2,427 |
 | Xenocide | 31.00% | ~2,351 |
 | Design a Civilization | 31.00% | ~2,351 |
 | Commodity Trader | 29.00% | ~2,199 |
-| Design a Ship | 27.00% | ~2,047 |
+| Design a Ship | 27.00% | ~2,048 |
 | Commodity Seller | 24.00% | ~1,820 |
 | Prestige Victory! | 13.00% | ~986 |
 | Galactic War | 10.00% | ~758 |
-| Trading Partner | 9.00% | ~682 |
+| Trading Partner | 9.00% | ~683 |
 | Fleet Victory | 8.00% | ~607 |
 | Gain an Ally | 6.00% | ~455 |
 | Win as Terrans | 6.00% | ~455 |
@@ -28,8 +28,8 @@ Number of Ratings: 429  (23.09.2022)
 | War with the Unknown | 5.00% | ~379 |
 | Conquest Victory! | 4.00% | ~303 |
 | Win Quickly | 4.00% | ~303 |
-| Pirate Cleansing | 3.00% | ~227 |
-| Win an Immense Game | 3.00% | ~227 |
+| Pirate Cleansing | 3.00% | ~228 |
+| Win an Immense Game | 3.00% | ~228 |
 | Ask Not What Your Empire Can Do For You | 2.00% | ~152 |
 | Veteran Crew | 2.00% | ~152 |
 | Recruit a Leader | 2.00% | ~152 |
@@ -49,11 +49,11 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Seller, Level 2 | 0.70% | ~53 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
-| Win as the Drath | 0.60% | ~45 |
-| Win as the Iridium | 0.60% | ~45 |
-| Win as the Manti | 0.60% | ~45 |
-| Win as the Onyx | 0.60% | ~45 |
-| Diplomatic Victory! | 0.60% | ~45 |
+| Win as the Drath | 0.60% | ~46 |
+| Win as the Iridium | 0.60% | ~46 |
+| Win as the Manti | 0.60% | ~46 |
+| Win as the Onyx | 0.60% | ~46 |
+| Diplomatic Victory! | 0.60% | ~46 |
 | Commodity Trader - Level 2 | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
 | Solid Economy | 0.40% | ~30 |
@@ -79,8 +79,8 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,583 (Ranked 200)  
-Completed: 0 (0.00%) (Ranked 409)  
+Progressed: 7,584 (Ranked 200)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -357,7 +357,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 7,577 | 0 |
 | 2024-01-22 | 7,579 | 0 |
 | 2024-01-23 | 7,582 | 0 |
-| 2024-01-24 | 7,583 | 0 |
+| 2024-01-24 | 7,584 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 387)  
 Sum: 702 (Ranked 314)  

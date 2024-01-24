@@ -6,21 +6,21 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,694 |
-| Battering Crew | 19.00% | ~6,505 |
-| The Kingsroad | 17.00% | ~5,820 |
+| Conqueror | 40.00% | ~13,697 |
+| Battering Crew | 19.00% | ~6,506 |
+| The Kingsroad | 17.00% | ~5,821 |
 | Well Stocked | 13.00% | ~4,451 |
-| Royal Fleet | 12.00% | ~4,108 |
-| The Kraken’s Grasp | 9.00% | ~3,081 |
+| Royal Fleet | 12.00% | ~4,109 |
+| The Kraken’s Grasp | 9.00% | ~3,082 |
 | Alliance | 8.00% | ~2,739 |
-| Daggers in the Dark | 7.00% | ~2,396 |
-| Oathkeeper | 7.00% | ~2,396 |
-| Influential | 7.00% | ~2,396 |
-| A Long Journey | 7.00% | ~2,396 |
-| Ours is the Fury | 6.00% | ~2,054 |
-| We Do Not Sow | 6.00% | ~2,054 |
-| Winter is Coming | 6.00% | ~2,054 |
-| Defender of the Wall | 6.00% | ~2,054 |
+| Daggers in the Dark | 7.00% | ~2,397 |
+| Oathkeeper | 7.00% | ~2,397 |
+| Influential | 7.00% | ~2,397 |
+| A Long Journey | 7.00% | ~2,397 |
+| Ours is the Fury | 6.00% | ~2,055 |
+| We Do Not Sow | 6.00% | ~2,055 |
+| Winter is Coming | 6.00% | ~2,055 |
+| Defender of the Wall | 6.00% | ~2,055 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,712 |
 | Growing Strong | 5.00% | ~1,712 |
 | Hear me Roar! | 5.00% | ~1,712 |
@@ -29,8 +29,8 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~685 |
 | War of the Five Kings | 1.00% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,235 (Ranked 141)  
-Completed: 88 (0.26%) (Ranked 274)  
+Progressed: 34,242 (Ranked 141)  
+Completed: 88 (0.26%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,11 +308,11 @@ Completed: 88 (0.26%) (Ranked 274)
 | 2024-01-21 | 34,070 | 88 |
 | 2024-01-22 | 34,134 | 88 |
 | 2024-01-23 | 34,197 | 88 |
-| 2024-01-24 | 34,235 | 88 |
+| 2024-01-24 | 34,242 | 88 |
 ## Awards
-Max (Quickly Understood Controls): 129  (Ranked 354)  
+Max (Quickly Understood Controls): 129  (Ranked 355)  
 Sum: 820 (Ranked 294)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 129 |

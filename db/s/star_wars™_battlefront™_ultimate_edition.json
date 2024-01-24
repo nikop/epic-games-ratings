@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3129,
+  "EOS_Progressed": 3131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8579,6 +8579,11 @@
       "Time": "2024-01-24T17:10:24.4140356+00:00",
       "NumProgressed": 3129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T18:11:04.2183103+00:00",
+      "NumProgressed": 3131,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8623,7 +8628,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_14",
@@ -8655,7 +8660,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_18",
@@ -8663,7 +8668,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_19",
@@ -8735,7 +8740,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_27",
@@ -8815,7 +8820,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2693
     },
     {
       "ID": "achievement_36",
@@ -8831,7 +8836,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1879
     },
     {
       "ID": "achievement_38",
@@ -8863,7 +8868,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "achievement_41",
@@ -8871,7 +8876,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_42",
@@ -8943,7 +8948,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_50",
@@ -9031,7 +9036,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_60",
@@ -9094,13 +9099,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3129,
+      "Progressed": 3131,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3129,
+      "Progressed": 3131,
       "Completed": 1
     }
   ],
@@ -9108,8 +9113,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:24.4140352+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:11:04.2183099+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:58:46.3996143+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:24.4141092+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:17.1715252+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:11:04.2183974+00:00"
 }

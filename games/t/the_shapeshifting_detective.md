@@ -27,7 +27,7 @@
 | Bullseye | 4.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 348 (Ranked 389)  
-Completed: 3 (0.86%) (Ranked 195)  
+Completed: 3 (0.86%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

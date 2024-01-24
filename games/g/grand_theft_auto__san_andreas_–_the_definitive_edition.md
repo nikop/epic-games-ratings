@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~16,061 |
-| Pay 'n' Spray | 51.00% | ~10,113 |
+| Getting Started | 81.00% | ~16,063 |
+| Pay 'n' Spray | 51.00% | ~10,114 |
 | All Dressed Up for San Fierro | 26.00% | ~5,156 |
 | The American Dream | 19.00% | ~3,768 |
 | School's Out | 19.00% | ~3,768 |
 | Smooth Moves | 17.00% | ~3,371 |
-| What happens in Las Venturas... | 15.00% | ~2,974 |
-| Today Was a Good Day | 15.00% | ~2,974 |
+| What happens in Las Venturas... | 15.00% | ~2,975 |
+| Today Was a Good Day | 15.00% | ~2,975 |
 | Horror of the Santa Maria | 11.00% | ~2,181 |
 | Liberty City State of Mind | 10.00% | ~1,983 |
 | The End of the Line | 8.00% | ~1,586 |
 | Original Gangster | 8.00% | ~1,586 |
 | With Extra Dip | 7.00% | ~1,388 |
 | Saviour | 6.00% | ~1,190 |
-| They Can’t Stop All of Us | 5.00% | ~991 |
-| Rescue a Kitten Too? | 5.00% | ~991 |
+| They Can’t Stop All of Us | 5.00% | ~992 |
+| Rescue a Kitten Too? | 5.00% | ~992 |
 | What are the Odds | 4.00% | ~793 |
 | I’ll Have Two Number 9s | 3.00% | ~595 |
 | Bike or Biker | 3.00% | ~595 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 530)
 | ...Here we go again | 0.60% | ~119 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,829 (Ranked 158)  
-Completed: 83 (0.42%) (Ranked 246)  
+Progressed: 19,831 (Ranked 158)  
+Completed: 83 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,10 +320,10 @@ Completed: 83 (0.42%) (Ranked 246)
 | 2024-01-21 | 19,778 | 81 |
 | 2024-01-22 | 19,799 | 82 |
 | 2024-01-23 | 19,815 | 82 |
-| 2024-01-24 | 19,829 | 83 |
+| 2024-01-24 | 19,831 | 83 |
 ## Awards
 Max (Great Boss Battles): 720  (Ranked 197)  
-Sum: 1,111 (Ranked 270)  
+Sum: 1,116 (Ranked 270)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): -73
 | This game is Great for Beginners | 58 |
 | This game has Diverse Characters | 56 |
 | This game has Quickly Understood Controls | 47 |
-| This game is Extremely Fun | 41 |
+| This game is Extremely Fun | 46 |
 | This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -580,4 +580,4 @@ Diff (max vs sum): -73
 | 2024-01-21 | 4.56 | 709 | 1,149 |
 | 2024-01-22 | 4.55 | 709 | 1,095 |
 | 2024-01-23 | 4.55 | 712 | 1,102 |
-| 2024-01-24 | 4.55 | 720 | 1,111 |
+| 2024-01-24 | 4.55 | 720 | 1,116 |

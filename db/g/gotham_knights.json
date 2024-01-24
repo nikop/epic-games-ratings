@@ -6,8 +6,8 @@
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5391,18 +5391,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 5557,
       "NumberOfAwardsMax": 3249
+    },
+    {
+      "Time": "2024-01-24T18:00:51.1612232+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5560,
+      "NumberOfAwardsMax": 3251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5557,
-  "NumberOfAwardsMax": 3249,
+  "NumberOfAwards": 5560,
+  "NumberOfAwardsMax": 3251,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3249
+      "Count": 3251
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5444,7 +5450,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 293
+      "Count": 294
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5461,7 +5467,7 @@
   ],
   "EOS_Progressed": 83234,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31875,9 +31881,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-24T09:00:23.9777216+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:04:54.1473342+00:00",
+  "LastChanged": "2024-01-24T18:00:51.161223+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:05:37.3344746+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:00:14.9852289+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:04:54.1474677+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:51.1612239+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:05:37.3346491+00:00"
 }

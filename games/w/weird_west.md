@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,841 |
-| Self-Improvement | 71.00% | ~1,469 |
-| Perky | 65.00% | ~1,345 |
+| Unforgiven | 89.00% | ~1,842 |
+| Self-Improvement | 71.00% | ~1,470 |
+| Perky | 65.00% | ~1,346 |
 | Let’s Ride | 59.00% | ~1,221 |
 | Dead or Alive | 56.00% | ~1,159 |
 | Welcome to the Weird West | 56.00% | ~1,159 |
 | Full House | 37.00% | ~766 |
-| Off the Trail | 34.00% | ~703 |
+| Off the Trail | 34.00% | ~704 |
 | Justice Served | 30.00% | ~621 |
 | Chain Reaction | 27.00% | ~559 |
 | Through Their Eyes | 26.00% | ~538 |
-| Dishonored | 25.00% | ~517 |
-| Rain of Death | 25.00% | ~517 |
-| Scholar | 25.00% | ~517 |
+| Dishonored | 25.00% | ~518 |
+| Rain of Death | 25.00% | ~518 |
+| Scholar | 25.00% | ~518 |
 | The Great Escape | 23.00% | ~476 |
 | That’s All, Folks | 19.00% | ~393 |
 | Fallen Star | 16.00% | ~331 |
@@ -45,8 +45,8 @@ Number of Ratings: 125  (23.09.2022)
 | Getting the Gang Back Together | 7.00% | ~145 |
 | Healing Old Wounds | 6.00% | ~124 |
 | Who You Gonna Call? | 6.00% | ~124 |
-| This Is Sparta | 5.00% | ~103 |
-| What’s in the Box? | 5.00% | ~103 |
+| This Is Sparta | 5.00% | ~104 |
+| What’s in the Box? | 5.00% | ~104 |
 | Ghost Town | 3.00% | ~62 |
 | Lord Inut Sends His Regards | 3.00% | ~62 |
 | Moondrunk | 3.00% | ~62 |
@@ -60,8 +60,8 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,069 (Ranked 254)  
-Completed: 7 (0.34%) (Ranked 258)  
+Progressed: 2,070 (Ranked 254)  
+Completed: 7 (0.34%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,6 +263,7 @@ Completed: 7 (0.34%) (Ranked 258)
 | 2024-01-15 | 2,067 | 7 |
 | 2024-01-17 | 2,068 | 7 |
 | 2024-01-18 | 2,069 | 7 |
+| 2024-01-24 | 2,070 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 539)  
 Sum: 29 (Ranked 556)  

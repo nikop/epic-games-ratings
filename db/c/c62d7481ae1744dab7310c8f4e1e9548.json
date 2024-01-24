@@ -1243,17 +1243,17 @@
       "ID": "Dusici",
       "SetID": "ag48e8e",
       "Name": "Young Spirits",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Houby",
@@ -1363,9 +1363,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "Rybka",
@@ -1427,9 +1427,9 @@
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "Xicht",
@@ -1466,8 +1466,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:04:14.3302043+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:04:56.1252631+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8617172+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:03:11.6409043+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:04:14.3302291+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:03:49.329088+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:04:56.1252921+00:00"
 }

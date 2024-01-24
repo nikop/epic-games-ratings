@@ -6,8 +6,8 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1247,
+  "EOS_Progressed": 1248,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3656,6 +3656,11 @@
       "Time": "2024-01-22T18:07:06.8473633+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T18:04:54.7182557+00:00",
+      "NumProgressed": 1248,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3667,7 +3672,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH001",
@@ -3755,7 +3760,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH012",
@@ -3763,7 +3768,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH013",
@@ -3867,7 +3872,7 @@
       "Name": "My precious!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH026",
@@ -3883,7 +3888,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH028",
@@ -3971,7 +3976,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH039",
@@ -4059,22 +4064,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1247,
+      "Progressed": 1248,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:04:12.9368056+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:04:54.7182554+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:10.9805556+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:57.2764431+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:04:12.9368484+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:22.5071975+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:04:54.7183029+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9799,9 +9799,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255399,
+  "EOS_Progressed": 255402,
   "EOS_Completed": 2638,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41499,6 +41499,11 @@
       "Time": "2024-01-24T17:10:29.599005+00:00",
       "NumProgressed": 255399,
       "NumCompleted": 2638
+    },
+    {
+      "Time": "2024-01-24T18:11:09.3593546+00:00",
+      "NumProgressed": 255402,
+      "NumCompleted": 2638
     }
   ],
   "TotalAchievements": 546,
@@ -44372,9 +44377,9 @@
       "ID": "objective_completed_645",
       "SetID": "415jc5c",
       "Name": "The Lost Hollyphant",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_646",
@@ -45380,9 +45385,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_95",
@@ -45877,21 +45882,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221673,
+      "Progressed": 221676,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255399,
+      "Progressed": 255402,
       "Completed": 2638
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:29.5990047+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:11:09.359354+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:58:53.4320639+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:29.601263+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:24.6976978+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:11:09.3618202+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,323 |
-| Titan's First Steps | 12.00% | ~18,323 |
-| Basic in Bulk | 11.00% | ~16,796 |
-| Tinkle of Coins | 10.00% | ~15,269 |
-| Disintermediation | 8.00% | ~12,215 |
-| It's Free Real Estate | 8.00% | ~12,215 |
-| Capitalism Ho! | 8.00% | ~12,215 |
-| Budding Merchant | 7.00% | ~10,688 |
+| Sponsored by Argon | 12.00% | ~18,324 |
+| Titan's First Steps | 12.00% | ~18,324 |
+| Basic in Bulk | 11.00% | ~16,797 |
+| Tinkle of Coins | 10.00% | ~15,270 |
+| Disintermediation | 8.00% | ~12,216 |
+| It's Free Real Estate | 8.00% | ~12,216 |
+| Capitalism Ho! | 8.00% | ~12,216 |
+| Budding Merchant | 7.00% | ~10,689 |
 | One Easy Payment | 6.00% | ~9,162 |
 | Some Assembly Required | 6.00% | ~9,162 |
 | Another Satisfied Customer | 6.00% | ~9,162 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~611 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,692 (Ranked 87)  
-Completed: 363 (0.24%) (Ranked 280)  
+Progressed: 152,698 (Ranked 87)  
+Completed: 363 (0.24%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -398,14 +398,14 @@ Completed: 363 (0.24%) (Ranked 280)
 | 2024-01-21 | 152,414 | 360 |
 | 2024-01-22 | 152,516 | 360 |
 | 2024-01-23 | 152,616 | 362 |
-| 2024-01-24 | 152,692 | 363 |
+| 2024-01-24 | 152,698 | 363 |
 ## Awards
-Max (Great for Beginners): 4,975  (Ranked 84)  
-Sum: 28,047 (Ranked 52)  
-Diff (max vs sum): 32  
+Max (Great for Beginners): 4,980  (Ranked 83)  
+Sum: 28,052 (Ranked 52)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,975 |
+| This game is Great for Beginners | 4,980 |
 | This game is Relaxing | 4,085 |
 | This game has Quickly Understood Controls | 4,079 |
 | This game has Diverse Characters | 4,046 |
@@ -774,4 +774,4 @@ Diff (max vs sum): 32
 | 2024-01-21 | 4.00 | - | 4,969 | 28,030 |
 | 2024-01-22 | 4.00 | - | 4,973 | 28,039 |
 | 2024-01-23 | 4.00 | - | 4,975 | 28,045 |
-| 2024-01-24 | 4.00 | - | 4,975 | 28,047 |
+| 2024-01-24 | 4.00 | - | 4,980 | 28,052 |

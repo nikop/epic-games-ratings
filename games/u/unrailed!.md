@@ -6,21 +6,21 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,855 |
-| Incurious | 18.00% | ~123,021 |
-| Climate Change | 17.00% | ~116,186 |
-| Stroller | 16.00% | ~109,352 |
-| Advanced Hiker | 14.00% | ~95,683 |
-| Toy Train | 14.00% | ~95,683 |
-| Hiker | 12.00% | ~82,014 |
+| Advanced Stroller | 19.00% | ~129,857 |
+| Incurious | 18.00% | ~123,022 |
+| Climate Change | 17.00% | ~116,188 |
+| Stroller | 16.00% | ~109,353 |
+| Advanced Hiker | 14.00% | ~95,684 |
+| Toy Train | 14.00% | ~95,684 |
+| Hiker | 12.00% | ~82,015 |
 | Mojave Courier | 6.00% | ~41,007 |
 | Saved by Nausicaä | 6.00% | ~41,007 |
 | Voyager | 4.00% | ~27,338 |
 | Advanced Voyager | 4.00% | ~27,338 |
 | Expert Stroller | 4.00% | ~27,338 |
 | Orient Express | 4.00% | ~27,338 |
-| Marathon | 3.00% | ~20,503 |
-| Destructionist | 3.00% | ~20,503 |
+| Marathon | 3.00% | ~20,504 |
+| Destructionist | 3.00% | ~20,504 |
 | Expert Hiker | 2.00% | ~13,669 |
 | Lost | 2.00% | ~13,669 |
 | Rocketman | 0.80% | ~5,468 |
@@ -59,8 +59,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~683 |
 | 20 Miles under the Sea | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,448 (Ranked 30)  
-Completed: 15 (0.00%) (Ranked 409)  
+Progressed: 683,458 (Ranked 30)  
+Completed: 15 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,15 +338,15 @@ Completed: 15 (0.00%) (Ranked 409)
 | 2024-01-21 | 682,819 | 15 |
 | 2024-01-22 | 683,060 | 15 |
 | 2024-01-23 | 683,300 | 15 |
-| 2024-01-24 | 683,448 | 15 |
+| 2024-01-24 | 683,458 | 15 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 296)  
-Sum: 1,643 (Ranked 241)  
+Sum: 1,644 (Ranked 241)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 213 |
-| This game has Diverse Characters | 206 |
+| This game has Diverse Characters | 207 |
 | This game has Quickly Understood Controls | 196 |
 | This game is Extremely Fun | 189 |
 | This game is Relaxing | 184 |
@@ -531,3 +531,4 @@ Diff (max vs sum): 55
 | 2024-01-15 | 4.64 | - | 212 | 1,640 |
 | 2024-01-16 | 4.64 | - | 213 | 1,642 |
 | 2024-01-22 | 4.64 | - | 213 | 1,643 |
+| 2024-01-24 | 4.64 | - | 213 | 1,644 |

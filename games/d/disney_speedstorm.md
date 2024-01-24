@@ -1,37 +1,37 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 747)  
+Rating: 4.41 (Ranked 761)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,864 |
-| IT MAKES BOOM! | 9.00% | ~36,598 |
-| EXTRA BOOST | 6.00% | ~24,399 |
-| PROTECTED | 5.00% | ~20,332 |
-| PRO | 5.00% | ~20,332 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,266 |
-| AGGRESSIVE RACER | 4.00% | ~16,266 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,133 |
-| TRAINING HARD | 2.00% | ~8,133 |
-| BE OUR GUEST | 2.00% | ~8,133 |
-| ACE SPEEDSTER | 2.00% | ~8,133 |
-| A TIGER'S FEAR | 2.00% | ~8,133 |
-| RELEASE THE KRAKEN | 1.00% | ~4,066 |
-| ACE BRAWLER | 1.00% | ~4,066 |
-| DEFEAT OUR CHAMPION | 1.00% | ~4,066 |
-| ACE DEFENDER | 1.00% | ~4,066 |
-| THE EYE OF THE HUNTER | 1.00% | ~4,066 |
-| FRIENDLY | 1.00% | ~4,066 |
-| MASTER | 1.00% | ~4,066 |
-| LEGENDARY HERO | 1.00% | ~4,066 |
+| ROOKIE | 13.00% | ~52,869 |
+| IT MAKES BOOM! | 9.00% | ~36,602 |
+| EXTRA BOOST | 6.00% | ~24,401 |
+| PROTECTED | 5.00% | ~20,334 |
+| PRO | 5.00% | ~20,334 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,267 |
+| AGGRESSIVE RACER | 4.00% | ~16,267 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,134 |
+| TRAINING HARD | 2.00% | ~8,134 |
+| BE OUR GUEST | 2.00% | ~8,134 |
+| ACE SPEEDSTER | 2.00% | ~8,134 |
+| A TIGER'S FEAR | 2.00% | ~8,134 |
+| RELEASE THE KRAKEN | 1.00% | ~4,067 |
+| ACE BRAWLER | 1.00% | ~4,067 |
+| DEFEAT OUR CHAMPION | 1.00% | ~4,067 |
+| ACE DEFENDER | 1.00% | ~4,067 |
+| THE EYE OF THE HUNTER | 1.00% | ~4,067 |
+| FRIENDLY | 1.00% | ~4,067 |
+| MASTER | 1.00% | ~4,067 |
+| LEGENDARY HERO | 1.00% | ~4,067 |
 | EXPERIENCED CREW | 0.90% | ~3,660 |
 | PERFECTLY POISED | 0.70% | ~2,847 |
 | FRAMED! | 0.70% | ~2,847 |
 | ACE TRICKSTER | 0.70% | ~2,847 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,644 (Ranked 51)  
-Completed: 1,737 (0.43%) (Ranked 242)  
+Progressed: 406,687 (Ranked 51)  
+Completed: 1,738 (0.43%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,10 +305,10 @@ Completed: 1,737 (0.43%) (Ranked 242)
 | 2024-01-21 | 404,898 | 1,703 |
 | 2024-01-22 | 405,590 | 1,717 |
 | 2024-01-23 | 406,231 | 1,727 |
-| 2024-01-24 | 406,644 | 1,737 |
+| 2024-01-24 | 406,687 | 1,738 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 306)  
-Sum: 1,279 (Ranked 262)  
+Sum: 1,282 (Ranked 262)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -318,8 +318,8 @@ Diff (max vs sum): 44
 | This game has a Competitive Community | 109 |
 | This game has Playful Visuals | 103 |
 | This game has Amazing Characters | 97 |
-| This game is Highly Recommended | 95 |
-| This game is Extremely Fun | 82 |
+| This game is Highly Recommended | 96 |
+| This game is Extremely Fun | 84 |
 | This game has Competitive Players | 79 |
 | This game has Quickly Understood Controls | 68 |
 | This game is Relaxing | 65 |
@@ -442,4 +442,4 @@ Diff (max vs sum): 44
 | 2024-01-21 | 4.41 | 195 | 1,260 |
 | 2024-01-22 | 4.41 | 197 | 1,267 |
 | 2024-01-23 | 4.41 | 197 | 1,272 |
-| 2024-01-24 | 4.42 | 198 | 1,279 |
+| 2024-01-24 | 4.42 | 198 | 1,282 |

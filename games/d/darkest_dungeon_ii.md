@@ -9,11 +9,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 15.00% | ~1,273 |
 | Lost and Found | 9.00% | ~764 |
 | Autodidact | 8.00% | ~10,689 |
+| This guy... again? | 8.00% | ~679 |
 | Serenity Now! | 7.00% | ~9,353 |
 | This Belongs in a Museum | 7.00% | ~9,353 |
 | Creep and Sleep | 7.00% | ~9,353 |
 | Overdue Notice | 7.00% | ~9,353 |
-| This guy... again? | 7.00% | ~594 |
 | Ploughshares to Swords | 7.00% | ~594 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,017 |
 | Meat and Greet | 6.00% | ~8,017 |
@@ -48,13 +48,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,345 |
 | Unshackled | 4.00% | ~5,345 |
 | Road Trip | 4.00% | ~5,345 |
-| Hope Rekindled | 3.00% | ~4,008 |
-| Predator | 3.00% | ~4,008 |
-| Reverse Banditry | 3.00% | ~4,008 |
-| When You Want Something Done Right | 3.00% | ~4,008 |
-| Utopia | 3.00% | ~4,008 |
-| Hot Air | 3.00% | ~4,008 |
-| Eyes Up | 3.00% | ~4,008 |
+| Hope Rekindled | 3.00% | ~4,009 |
+| Predator | 3.00% | ~4,009 |
+| Reverse Banditry | 3.00% | ~4,009 |
+| When You Want Something Done Right | 3.00% | ~4,009 |
+| Utopia | 3.00% | ~4,009 |
+| Hot Air | 3.00% | ~4,009 |
+| Eyes Up | 3.00% | ~4,009 |
 | This Looks Familiar | 2.00% | ~2,672 |
 | Ichthyophobic | 2.00% | ~2,672 |
 | No More Mouths to Feed | 2.00% | ~2,672 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,616 (Ranked 92)  
-Completed: 5 (0.00%) (Ranked 409)  
+Progressed: 133,618 (Ranked 92)  
+Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -355,10 +355,10 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
-| 2024-01-24 | 133,616 | 5 |
+| 2024-01-24 | 133,618 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
-Sum: 21,845 (Ranked 60)  
+Sum: 21,847 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,886 |
 | This game has Challenging Combat | 1,694 |
 | This game is Highly Recommended | 1,618 |
-| This game has Amazing Characters | 1,544 |
+| This game has Amazing Characters | 1,546 |
 | This game is Extremely Fun | 1,538 |
 | This game has Unique Visuals | 1,488 |
 | This game has Amazing Storytelling | 1,461 |
@@ -738,4 +738,4 @@ Diff (max vs sum): -8
 | 2024-01-21 | 4.69 | - | 8,057 | 21,807 |
 | 2024-01-22 | 4.69 | - | 8,062 | 21,824 |
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
-| 2024-01-24 | 4.69 | - | 8,066 | 21,845 |
+| 2024-01-24 | 4.69 | - | 8,066 | 21,847 |

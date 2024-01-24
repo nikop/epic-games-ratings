@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 54.00% | ~292 |
+| In the Black | 54.00% | ~293 |
 | Starting Skyward | 48.00% | ~260 |
 | Grime is Not Good | 41.00% | ~222 |
 | Floor Galore | 36.00% | ~195 |
-| Campaign Launch | 35.00% | ~189 |
-| Dinner Dash | 35.00% | ~189 |
+| Campaign Launch | 35.00% | ~190 |
+| Dinner Dash | 35.00% | ~190 |
 | Need a Consult | 33.00% | ~179 |
-| It's Technical | 33.00% | ~179 |
 | Upgrade Unlock | 32.00% | ~173 |
+| It's Technical | 32.00% | ~173 |
 | Proper Walls | 29.00% | ~157 |
-| Delegate Maintenance | 28.00% | ~151 |
-| Destination Destiny | 28.00% | ~151 |
-| Happy Tenants | 23.00% | ~124 |
+| Delegate Maintenance | 28.00% | ~152 |
+| Destination Destiny | 28.00% | ~152 |
+| Happy Tenants | 23.00% | ~125 |
 | Your Prestige is Rising | 22.00% | ~119 |
 | Potent Potables | 22.00% | ~119 |
 | Smooth Service | 22.00% | ~119 |
 | Retail Revenue | 21.00% | ~114 |
 | Don't Feel a Loan | 20.00% | ~108 |
-| Artfully Done | 18.00% | ~97 |
-| People Mover | 18.00% | ~97 |
-| Leveled Up Shops | 18.00% | ~97 |
-| We Don't Need No Education | 18.00% | ~97 |
+| Artfully Done | 18.00% | ~98 |
+| People Mover | 18.00% | ~98 |
+| Leveled Up Shops | 18.00% | ~98 |
+| We Don't Need No Education | 18.00% | ~98 |
 | Lux Living | 17.00% | ~92 |
 | Emporium Empire | 17.00% | ~92 |
 | Get Electrified | 17.00% | ~92 |
@@ -40,16 +40,16 @@
 | Thrilled Tenants | 11.00% | ~60 |
 | 28 Days Later | 10.00% | ~54 |
 | Terrifically Trashed | 10.00% | ~54 |
-| Swimming in Surplus | 9.00% | ~49 |
 | Aestheticly Pleased | 8.00% | ~43 |
+| Swimming in Surplus | 8.00% | ~43 |
 | Refined Palates | 8.00% | ~43 |
 | First 100 Days | 7.00% | ~38 |
 | Plaza Plan | 7.00% | ~38 |
 | Master of Puppets | 7.00% | ~38 |
 | Phoning It In | 7.00% | ~38 |
-| Water Features | 6.00% | ~32 |
-| Revenue Royalty | 6.00% | ~32 |
-| Golden Opportunity | 6.00% | ~32 |
+| Water Features | 6.00% | ~33 |
+| Revenue Royalty | 6.00% | ~33 |
+| Golden Opportunity | 6.00% | ~33 |
 | Careful Constructor | 5.00% | ~27 |
 | Meet Me at HQ | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541 (Ranked 356)  
-Completed: 0 (0.00%) (Ranked 409)  
+Progressed: 542 (Ranked 355)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,7 +233,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 535 | 0 |
 | 2024-01-22 | 539 | 0 |
 | 2024-01-23 | 540 | 0 |
-| 2024-01-24 | 541 | 0 |
+| 2024-01-24 | 542 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

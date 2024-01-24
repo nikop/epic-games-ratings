@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,7 +365,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25580,
+  "EOS_Progressed": 25581,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
@@ -24040,6 +24040,11 @@
       "Time": "2024-01-24T17:03:43.1111815+00:00",
       "NumProgressed": 25580,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-24T18:04:24.782049+00:00",
+      "NumProgressed": 25581,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 16,
@@ -24051,7 +24056,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "Burning_For_You",
@@ -24123,7 +24128,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9720
+      "UsersEstimate": 9721
     },
     {
       "ID": "Mirrors",
@@ -24155,7 +24160,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8697
+      "UsersEstimate": 8698
     },
     {
       "ID": "Still_Burning",
@@ -24178,15 +24183,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25580,
+      "Progressed": 25581,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:03:43.1111811+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:04:24.7820486+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:58:19.0204397+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:03:43.1112932+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:46.4474067+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:04:24.7821523+00:00"
 }

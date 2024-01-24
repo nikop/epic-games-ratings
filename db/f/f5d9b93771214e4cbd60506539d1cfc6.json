@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162430,
+  "EOS_Progressed": 162432,
   "EOS_Completed": 402,
-  "EOS_NewPlayers": 802,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -26373,6 +26373,11 @@
       "Time": "2024-01-24T17:08:24.3808777+00:00",
       "NumProgressed": 162430,
       "NumCompleted": 402
+    },
+    {
+      "Time": "2024-01-24T18:08:59.5010829+00:00",
+      "NumProgressed": 162432,
+      "NumCompleted": 402
     }
   ],
   "TotalAchievements": 31,
@@ -26392,7 +26397,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113701
+      "UsersEstimate": 113702
     },
     {
       "ID": "EAwards_10",
@@ -26408,7 +26413,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 34110
+      "UsersEstimate": 34111
     },
     {
       "ID": "EAwards_12",
@@ -26432,7 +26437,7 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 64972
+      "UsersEstimate": 64973
     },
     {
       "ID": "EAwards_15",
@@ -26480,7 +26485,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45480
+      "UsersEstimate": 45481
     },
     {
       "ID": "EAwards_20",
@@ -26488,7 +26493,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12994
+      "UsersEstimate": 12995
     },
     {
       "ID": "EAwards_21",
@@ -26496,7 +26501,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17867
+      "UsersEstimate": 17868
     },
     {
       "ID": "EAwards_22",
@@ -26584,7 +26589,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24364
+      "UsersEstimate": 24365
     },
     {
       "ID": "EAwards_5",
@@ -26616,7 +26621,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 61723
+      "UsersEstimate": 61724
     },
     {
       "ID": "EAwards_9",
@@ -26631,7 +26636,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 162430,
+      "Progressed": 162432,
       "Completed": 402
     }
   ],
@@ -26639,8 +26644,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:08:24.3808774+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:08:59.5010825+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:56.2859362+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:08:24.3810214+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:21.3065343+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:08:59.5012091+00:00"
 }

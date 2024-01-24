@@ -3,8 +3,8 @@
   "Name": "Airship Kingdoms Adrift",
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
   "Ranking_EOS_Progress": 705,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
@@ -1237,9 +1237,9 @@
       "ID": "ACH_WHOOPS",
       "SetID": "9i65mgf",
       "Name": "Whoops",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WISE_DECISION",
@@ -1260,8 +1260,8 @@
   ],
   "FirstSeen": "2024-01-21T20:58:52.2546392+00:00",
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:03:41.4310603+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:04:23.197716+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.652208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:50.3375723+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:03:41.4312583+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:24.5198187+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:04:23.1979053+00:00"
 }

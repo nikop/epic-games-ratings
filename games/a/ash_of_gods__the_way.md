@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 88.00% | ~71 |
-| Suicide squad | 51.00% | ~41 |
-| Train hard, fight easy | 35.00% | ~28 |
-| Under cover | 35.00% | ~28 |
-| First blood | 35.00% | ~28 |
-| Royal blessing | 30.00% | ~24 |
-| Blood and sand | 25.00% | ~20 |
+| First success | 88.00% | ~72 |
+| Suicide squad | 50.00% | ~41 |
+| Train hard, fight easy | 34.00% | ~28 |
+| Under cover | 34.00% | ~28 |
+| First blood | 34.00% | ~28 |
+| Royal blessing | 29.00% | ~24 |
+| Blood and sand | 24.00% | ~20 |
 | A hidden snake | 23.00% | ~19 |
 | Surpass the teacher | 21.00% | ~17 |
-| Power of Inquisition | 19.00% | ~15 |
-| All for one! | 19.00% | ~15 |
-| Help of the Gell | 19.00% | ~15 |
+| Power of Inquisition | 18.00% | ~15 |
+| All for one! | 18.00% | ~15 |
+| Help of the Gell | 18.00% | ~15 |
 | Crimson rivers | 17.00% | ~14 |
 | She-Wolf | 17.00% | ~14 |
 | Vene, vidi, vici | 16.00% | ~13 |
 | Rage | 16.00% | ~13 |
 | Trial by cold | 15.00% | ~12 |
-| Berkanan Borgia | 14.00% | ~11 |
+| Berkanan Borgia | 13.00% | ~11 |
 | For the greater good | 11.00% | ~9 |
 | The champion of the arena | 9.00% | ~7 |
 | Stronger than Gellian steel | 9.00% | ~7 |
@@ -54,8 +54,8 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 529)  
-Completed: 0 (0.00%) (Ranked 409)  
+Progressed: 82 (Ranked 529)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-11 | 78 | 0 |
 | 2024-01-12 | 79 | 0 |
 | 2024-01-13 | 80 | 0 |
-| 2024-01-24 | 81 | 0 |
+| 2024-01-24 | 82 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

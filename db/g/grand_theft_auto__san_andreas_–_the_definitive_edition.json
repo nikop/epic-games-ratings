@@ -6,8 +6,8 @@
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2597,10 +2597,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1111,
       "NumberOfAwardsMax": 720
+    },
+    {
+      "Time": "2024-01-24T17:58:55.0029713+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1116,
+      "NumberOfAwardsMax": 720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1111,
+  "NumberOfAwards": 1116,
   "NumberOfAwardsMax": 720,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2638,7 +2644,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 41
+      "Count": 46
     },
     {
       "Text": "This game has a Creative Community",
@@ -2665,9 +2671,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 19829,
+  "EOS_Progressed": 19831,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21400,6 +21406,11 @@
       "Time": "2024-01-24T17:10:16.9245659+00:00",
       "NumProgressed": 19829,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2024-01-24T18:10:56.4971629+00:00",
+      "NumProgressed": 19831,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 35,
@@ -21411,7 +21422,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16061
+      "UsersEstimate": 16063
     },
     {
       "ID": "ACH02",
@@ -21467,7 +21478,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10113
+      "UsersEstimate": 10114
     },
     {
       "ID": "ACH09",
@@ -21523,7 +21534,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH16",
@@ -21555,7 +21566,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH20",
@@ -21579,7 +21590,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "ACH23",
@@ -21635,7 +21646,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "ACH30",
@@ -21690,16 +21701,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19829,
+      "Progressed": 19831,
       "Completed": 83
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-24T16:58:26.7597869+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:16.9245656+00:00",
+  "LastChanged": "2024-01-24T17:58:55.0029711+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:10:56.4971625+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:58:26.7597874+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:16.924666+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:55.0029715+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:10:56.4972688+00:00"
 }

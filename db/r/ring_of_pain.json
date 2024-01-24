@@ -6,9 +6,9 @@
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3952,9 +3952,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243457,
+  "EOS_Progressed": 243459,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32872,6 +32872,11 @@
       "Time": "2024-01-24T16:10:26.2267661+00:00",
       "NumProgressed": 243457,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-24T18:11:07.5304867+00:00",
+      "NumProgressed": 243459,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33249,9 +33254,9 @@
       "ID": "HITOWLSPOON",
       "SetID": "5l8oe0h",
       "Name": "Here Comes The Airplane",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 487
     },
     {
       "ID": "HUGESOULCOLLECTION",
@@ -33986,22 +33991,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243457,
+      "Progressed": 243459,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4937,
-      "Completed": 431
+      "Progressed": 4939,
+      "Completed": 432
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-24T11:58:23.7790607+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:27.6940768+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:11:07.5304863+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:59.9859704+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:27.6943217+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:58:25.4681246+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:11:07.5307329+00:00"
 }

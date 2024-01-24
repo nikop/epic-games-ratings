@@ -40,7 +40,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,201 (Ranked 292)  
-Completed: 10 (0.83%) (Ranked 197)  
+Completed: 10 (0.83%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

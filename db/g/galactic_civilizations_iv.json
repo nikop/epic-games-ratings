@@ -6,8 +6,8 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7583,
+  "EOS_Progressed": 7584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9952,6 +9952,11 @@
       "Time": "2024-01-24T07:10:48.2366376+00:00",
       "NumProgressed": 7583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T18:11:01.3928541+00:00",
+      "NumProgressed": 7584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10019,7 +10024,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -10067,7 +10072,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5839
+      "UsersEstimate": 5840
     },
     {
       "ID": "First_Race_Met",
@@ -10083,7 +10088,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "First_Stream_Travel",
@@ -10099,7 +10104,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10155,7 +10160,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "Level_5_Ship",
@@ -10339,7 +10344,7 @@
       "Name": "Win as the Drath",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Win_As_Drengin",
@@ -10371,7 +10376,7 @@
       "Name": "Win as the Iridium",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Win_As_Krynn",
@@ -10387,7 +10392,7 @@
       "Name": "Win as the Manti",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Win_As_Mimot",
@@ -10411,7 +10416,7 @@
       "Name": "Win as the Onyx",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Win_As_Terran",
@@ -10451,7 +10456,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10483,7 +10488,7 @@
       "Name": "Diplomatic Victory!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Win_ImmenseMap",
@@ -10491,7 +10496,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Win_Influence",
@@ -10538,15 +10543,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7583,
+      "Progressed": 7584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:21.7939432+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:11:01.3928536+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:59.300774+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:21.7940275+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:34.4103963+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:11:01.3929784+00:00"
 }

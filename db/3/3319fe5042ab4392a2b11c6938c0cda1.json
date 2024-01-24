@@ -3,8 +3,8 @@
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 440,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "ae95dh3",
       "Name": "Two Faced",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -1172,8 +1172,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:08:29.6972948+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:09:05.2233254+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:10.2859966+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:08:29.6973269+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:57:33.8896105+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:09:05.2233591+00:00"
 }

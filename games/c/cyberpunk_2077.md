@@ -13,12 +13,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.70% | ~7,407 |
 | The Hermit | 0.70% | ~7,407 |
 | The High Priestess | 0.70% | ~7,407 |
+| The Lovers | 0.70% | ~7,407 |
 | The Wheel of Fortune | 0.70% | ~7,407 |
 | Legend of The Afterlife | 0.70% | ~7,407 |
 | Bushido and Chill | 0.60% | ~6,349 |
 | Stanislavski's Method | 0.60% | ~6,349 |
 | The Fool | 0.60% | ~6,349 |
-| The Lovers | 0.60% | ~6,349 |
 | The World | 0.60% | ~6,349 |
 | All the President's Men | 0.60% | ~1,121 |
 | Arachnophobia | 0.60% | ~1,121 |
@@ -30,9 +30,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.40% | ~4,233 |
 | True Warrior | 0.40% | ~4,233 |
 | Two Heads, One Bullet | 0.40% | ~4,233 |
-| To Bad Decisions! | 0.30% | ~3,174 |
-| The Wandering Fool | 0.30% | ~3,174 |
-| The Sun | 0.30% | ~3,174 |
+| To Bad Decisions! | 0.30% | ~3,175 |
+| The Wandering Fool | 0.30% | ~3,175 |
+| The Sun | 0.30% | ~3,175 |
 | Spin Doctor | 0.30% | ~560 |
 | King of Wands | 0.30% | ~560 |
 | Easy Come, Easy Go | 0.30% | ~560 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,138 (Ranked 17)  
-Completed: 3,157 (0.30%) (Ranked 265)  
+Progressed: 1,058,167 (Ranked 17)  
+Completed: 3,158 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -353,10 +353,10 @@ Completed: 3,157 (0.30%) (Ranked 265)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,058,138 | 3,157 |
+| 2024-01-24 | 1,058,167 | 3,158 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 517,608 (Ranked 8)  
+Sum: 517,750 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 108,235 |
 | This game is Great for Beginners | 33,233 |
 | This game has Diverse Characters | 32,463 |
-| This game is Highly Recommended | 30,908 |
+| This game is Highly Recommended | 31,050 |
 | This game has Amazing Storytelling | 30,460 |
 | This game is Extremely Fun | 30,196 |
 | This game has Amazing Characters | 29,891 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,402 | 517,608 |
+| 2024-01-24 | 4.68 | - | 144,402 | 517,750 |

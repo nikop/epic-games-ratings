@@ -6,8 +6,8 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -388,9 +388,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2069,
+  "EOS_Progressed": 2070,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3093,6 +3093,11 @@
       "Time": "2024-01-18T18:04:05.8357499+00:00",
       "NumProgressed": 2069,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T18:04:18.4519429+00:00",
+      "NumProgressed": 2070,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3128,7 +3133,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -3336,7 +3341,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3352,7 +3357,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3376,7 +3381,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_REVENANT",
@@ -3392,7 +3397,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -3400,7 +3405,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3456,7 +3461,7 @@
       "Name": "This Is Sparta",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_THROUGH_THEIR_EYES",
@@ -3480,7 +3485,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3496,7 +3501,7 @@
       "Name": "What\u2019s in the Box?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_WHO_YOU_GONNA_CALL",
@@ -3527,15 +3532,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2069,
+      "Progressed": 2070,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-22T15:58:08.2768312+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:03:36.9077468+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:04:18.4519424+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.9299774+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:58:58.1688266+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:03:36.9078195+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:29.3330383+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:04:18.4520032+00:00"
 }

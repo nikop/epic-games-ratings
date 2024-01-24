@@ -1,7 +1,7 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.35 (Ranked 836)  
+Rating: 4.35 (Ranked 837)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,20 +14,21 @@ Rating: 4.35 (Ranked 836)
 | Path of Glory | 8.00% | ~11 |
 | The finest merchandise this side of river Jordan | 6.00% | ~8 |
 | They Got What They Deserved | 6.00% | ~8 |
+| Big Apple | 5.00% | ~7 |
 | Desperate Times Call for Desperate Measures | 5.00% | ~7 |
+| Playerxander the Great | 5.00% | ~7 |
 | What we’ve got here is failure to communicate | 5.00% | ~7 |
-| Big Apple | 4.00% | ~5 |
 | Call the Boys | 4.00% | ~5 |
 | Dinner Time | 4.00% | ~5 |
 | Do you read Sutter Cane? | 4.00% | ~5 |
-| Playerxander the Great | 4.00% | ~5 |
+| Pillars of the Earth | 4.00% | ~5 |
+| All the King's Men | 3.00% | ~4 |
+| Black Sheep Wall | 3.00% | ~4 |
 | Cut-Me-Own-Throat | 3.00% | ~4 |
-| Pillars of the Earth | 3.00% | ~4 |
+| Learn Me a Book | 3.00% | ~4 |
 | ‘Tis but a scratch | 3.00% | ~4 |
 | A Quiet Palace | 2.00% | ~3 |
-| All the King's Men | 2.00% | ~3 |
 | Battle of the Four Armies | 2.00% | ~3 |
-| Black Sheep Wall | 2.00% | ~3 |
 | Blinded by Science | 2.00% | ~3 |
 | Crusader “you know what” | 2.00% | ~3 |
 | Forth, Eorlingas! | 2.00% | ~3 |
@@ -37,7 +38,6 @@ Rating: 4.35 (Ranked 836)
 | I started a joke | 2.00% | ~3 |
 | Fight Another Day | 2.00% | ~3 |
 | Kingslayer | 2.00% | ~3 |
-| Learn Me a Book | 2.00% | ~3 |
 | Let Us Pray | 2.00% | ~3 |
 | Naught but a Seamless Victory | 2.00% | ~3 |
 | On the third day at dawn, look east | 2.00% | ~3 |
@@ -107,7 +107,7 @@ Rating: 4.35 (Ranked 836)
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 132 (Ranked 486)  
-Completed: 0 (0.00%) (Ranked 409)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

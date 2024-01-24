@@ -48,7 +48,7 @@ Number of Ratings: 281  (23.09.2022)
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,420 (Ranked 195)  
-Completed: 0 (0.00%) (Ranked 409)  
+Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,8 +329,8 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-24 | 8,420 | 0 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
-Sum: 218 (Ranked 414)  
-Diff (max vs sum): 69  
+Sum: 218 (Ranked 415)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |

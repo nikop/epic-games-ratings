@@ -6,7 +6,7 @@
   "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -515,9 +515,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 349353,
+  "EOS_Progressed": 349368,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2715,
+  "EOS_NewPlayers": 2708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14580,6 +14580,11 @@
       "Time": "2024-01-24T17:09:20.0962256+00:00",
       "NumProgressed": 349353,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T18:09:57.5452058+00:00",
+      "NumProgressed": 349368,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14600,7 +14605,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13974
+      "UsersEstimate": 13975
     },
     {
       "ID": "S03_OTWA",
@@ -14648,7 +14653,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "S09_MNSE",
@@ -14728,7 +14733,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20961
+      "UsersEstimate": 20962
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14911,7 +14916,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 349353,
+      "Progressed": 349368,
       "Completed": 7
     }
   ],
@@ -14919,8 +14924,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-24T02:59:53.121966+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:09:20.0962251+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:09:57.5452054+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:00:02.2010606+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:09:20.0963115+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:37.5030196+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:09:57.5453063+00:00"
 }

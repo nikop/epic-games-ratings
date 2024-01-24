@@ -3,7 +3,7 @@
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 340,
+  "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1660,
+  "EOS_Progressed": 1661,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2131,6 +2131,11 @@
       "Time": "2024-01-24T17:09:04.7307479+00:00",
       "NumProgressed": 1660,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T18:09:41.3268829+00:00",
+      "NumProgressed": 1661,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -2164,9 +2169,9 @@
       "ID": "Achievement_AllSeatsTaken",
       "SetID": "c01p6e5",
       "Name": "All Seats Taken",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 565
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -2214,7 +2219,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "Achievement_DustToDust",
@@ -2222,7 +2227,7 @@
       "Name": "Dust to Dust",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -2430,7 +2435,7 @@
       "Name": "Space Colonization",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -2438,7 +2443,7 @@
       "Name": "Space Engineer",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -2478,22 +2483,22 @@
       "Name": "Tinkerer",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "Achievement_Traitor",
       "SetID": "c01p6e5",
       "Name": "Et tu, Astrocitizen?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 299
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 1660,
+      "Progressed": 1661,
       "Completed": 1
     }
   ],
@@ -2501,8 +2506,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:09:04.7307473+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:09:41.3268825+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:01.9198203+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:00:14.8098271+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:09:04.7308013+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:50.7502498+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:09:41.3269173+00:00"
 }

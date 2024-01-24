@@ -6,7 +6,7 @@
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -479,7 +479,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 12163,
+  "EOS_Progressed": 12167,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
@@ -6049,6 +6049,11 @@
       "Time": "2024-01-24T16:10:18.6915756+00:00",
       "NumProgressed": 12163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T18:11:00.1691404+00:00",
+      "NumProgressed": 12167,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6061,7 +6066,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2920
     },
     {
       "ID": "03_TheStolenStar",
@@ -6101,7 +6106,7 @@
       "Name": "Grand Finale",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "08_TheEmperorsHand",
@@ -6157,7 +6162,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "15_Pentakill",
@@ -6173,7 +6178,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "17_TheExemplar",
@@ -6197,7 +6202,7 @@
       "Name": "Void Wolf",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6221,7 +6226,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "23_DynastyRestored",
@@ -6237,7 +6242,7 @@
       "Name": "Highrise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "25_DynastyProspers",
@@ -6269,7 +6274,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6309,7 +6314,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6365,7 +6370,7 @@
       "Name": "Preserve the Architecture",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "41_TheJungleHeat",
@@ -6373,7 +6378,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6453,7 +6458,7 @@
       "Name": "Amends to the Dead",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "52_TheGoldenFrog",
@@ -6525,7 +6530,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "61_TheScourge",
@@ -6580,7 +6585,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12163,
+      "Progressed": 12167,
       "Completed": 1
     }
   ],
@@ -6588,8 +6593,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:20.5675884+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:11:00.16914+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:58:44.1514992+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:20.5676482+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:14.8848612+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:11:00.1692203+00:00"
 }

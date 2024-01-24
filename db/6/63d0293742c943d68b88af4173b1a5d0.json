@@ -3,7 +3,7 @@
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 309,
-  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -3115,9 +3115,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 279
     },
     {
       "ID": "REMAKE_002",
@@ -3290,8 +3290,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:04:38.9991812+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:05:21.8987829+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:01.2558457+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:04:38.9992192+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:31.9897489+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:05:21.8988137+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -389,9 +389,9 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BOSS_3",
@@ -509,9 +509,9 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "UPGRADES_FIRST",
@@ -540,8 +540,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:04:05.6008032+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:04:47.6770598+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:57:31.1812965+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:04:05.6008182+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:57:55.752446+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:04:47.6770756+00:00"
 }

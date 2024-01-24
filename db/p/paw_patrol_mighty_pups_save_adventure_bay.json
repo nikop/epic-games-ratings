@@ -3,9 +3,9 @@
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 547,
-  "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "10",
@@ -614,8 +614,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:06:03.3728593+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:06:49.4645307+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.1262179+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:02:43.2871678+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:06:03.3729013+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:03:19.9753987+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:06:49.4645527+00:00"
 }

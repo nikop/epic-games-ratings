@@ -11,8 +11,8 @@
 | Dry No More | 4.00% | ~9 |
 | Leave My Baby Alone! | 4.00% | ~9 |
 | Research Complete | 4.00% | ~9 |
+| Room Revealer | 4.00% | ~9 |
 | The Mendel Experiment | 4.00% | ~9 |
-| Room Revealer | 3.00% | ~7 |
 | Seed of Love | 3.00% | ~7 |
 | Who's a Good Plant? | 3.00% | ~7 |
 | Budding Scientist | 2.00% | ~4 |
@@ -37,7 +37,7 @@
 | Perfectionist | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 218 (Ranked 432)  
-Completed: 1 (0.46%) (Ranked 236)  
+Completed: 1 (0.46%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,19 +6,19 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~55,820 |
-| INFUSED WITH LIGHT | 53.00% | ~42,876 |
-| FOXIN' AROUND | 29.00% | ~23,460 |
-| FETCH | 28.00% | ~22,651 |
-| BLOOMS OF LIGHT | 26.00% | ~21,033 |
-| AWAKEN | 22.00% | ~17,798 |
-| BEST FRIENDS | 22.00% | ~17,798 |
-| SPIRIT BARK | 22.00% | ~17,798 |
-| ERADICATE | 21.00% | ~16,989 |
-| GARDEN OF LIGHT | 18.00% | ~14,562 |
-| SPIRIT FORM | 17.00% | ~13,753 |
-| UPROOTING DARKNESS | 16.00% | ~12,944 |
-| WRITTEN IN STONE | 16.00% | ~12,944 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~55,824 |
+| INFUSED WITH LIGHT | 53.00% | ~42,879 |
+| FOXIN' AROUND | 29.00% | ~23,462 |
+| FETCH | 28.00% | ~22,653 |
+| BLOOMS OF LIGHT | 26.00% | ~21,035 |
+| AWAKEN | 22.00% | ~17,799 |
+| BEST FRIENDS | 22.00% | ~17,799 |
+| SPIRIT BARK | 22.00% | ~17,799 |
+| ERADICATE | 21.00% | ~16,990 |
+| GARDEN OF LIGHT | 18.00% | ~14,563 |
+| SPIRIT FORM | 17.00% | ~13,754 |
+| UPROOTING DARKNESS | 16.00% | ~12,945 |
+| WRITTEN IN STONE | 16.00% | ~12,945 |
 | WEIGHTLESS | 12.00% | ~9,708 |
 | SPIRIT DASH | 11.00% | ~8,899 |
 | OLD COMPANION | 9.00% | ~7,281 |
@@ -31,8 +31,8 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,618 |
 | KINDRED SPIRITS | 0.60% | ~485 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,898 (Ranked 113)  
-Completed: 440 (0.54%) (Ranked 225)  
+Progressed: 80,904 (Ranked 113)  
+Completed: 440 (0.54%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,11 +310,11 @@ Completed: 440 (0.54%) (Ranked 225)
 | 2024-01-21 | 80,688 | 439 |
 | 2024-01-22 | 80,772 | 439 |
 | 2024-01-23 | 80,845 | 439 |
-| 2024-01-24 | 80,898 | 440 |
+| 2024-01-24 | 80,904 | 440 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 546)  
-Sum: 116 (Ranked 466)  
-Diff (max vs sum): 80  
+Sum: 116 (Ranked 467)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

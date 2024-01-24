@@ -3,8 +3,8 @@
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1925,6 +1925,11 @@
       "Time": "2024-01-23T18:10:03.5457763+00:00",
       "NumProgressed": 527,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T18:11:02.6990467+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2320,7 +2325,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2456,7 +2461,7 @@
       "Name": "Sport is good for you",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SPORTS_2",
@@ -2567,7 +2572,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 0
     }
   ],
@@ -2575,8 +2580,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:22.926051+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:11:02.6990462+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.7500791+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:42.940707+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:22.9261296+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:16.6373902+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:11:02.6991189+00:00"
 }

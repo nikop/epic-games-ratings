@@ -2,9 +2,9 @@
   "ID": "3a404cb5028b43b9a553312b7c965b42",
   "Name": "Coryphaeus Championships (Closed Beta)",
   "ProductSlug": "coryphaeus-championships-216f4a",
-  "Ranking_EOS_Progress": 623,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_Progress": 622,
+  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T20:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2024-01-24T13:17:11.2485989+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T18:10:45.1501945+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-06T12:09:01.1092985+00:00",
@@ -190,14 +195,14 @@
     {
       "ID": "6gf78k7",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-09T15:59:00.0551516+00:00",
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:10:05.890455+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:10:45.150194+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.7110087+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:18.9316772+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:10:05.8904674+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:59:50.6448889+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:10:45.1502075+00:00"
 }

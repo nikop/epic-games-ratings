@@ -2,12 +2,12 @@
   "ID": "22516e1b4eea447e8f027e34d3a05e87",
   "Name": "Knights of Honor II: Sovereign",
   "ProductSlug": "knights-of-honor-ii-sovereign",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 486,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "all_the_kings_men",
       "SetID": "41moj9p",
       "Name": "All the King\u0027s Men",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ashes_to_ashes",
@@ -443,17 +443,17 @@
       "ID": "big_apple",
       "SetID": "41moj9p",
       "Name": "Big Apple",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "black_sheep_wall",
       "SetID": "41moj9p",
       "Name": "Black Sheep Wall",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "blessed_be_his_name",
@@ -827,9 +827,9 @@
       "ID": "learn_me_a_book",
       "SetID": "41moj9p",
       "Name": "Learn Me a Book",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "let_us_pray",
@@ -923,17 +923,17 @@
       "ID": "pillars_of_the_earth",
       "SetID": "41moj9p",
       "Name": "Pillars of the Earth",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "playersander_the_great",
       "SetID": "41moj9p",
       "Name": "Playerxander the Great",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "power_overwhelming",
@@ -1212,8 +1212,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:04:15.6164429+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:04:57.517391+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:59:48.3921775+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:04:15.6165459+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:00:22.1121115+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:04:57.5174857+00:00"
 }

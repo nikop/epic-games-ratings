@@ -6,7 +6,7 @@
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18075,
+  "EOS_Progressed": 18076,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -19040,6 +19040,11 @@
       "Time": "2024-01-24T17:06:13.1812659+00:00",
       "NumProgressed": 18075,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-24T18:06:59.5985184+00:00",
+      "NumProgressed": 18076,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19059,7 +19064,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "tpote_achievement_11",
@@ -19227,7 +19232,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "tpote_achievement_30",
@@ -19315,7 +19320,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "tpote_achievement_40",
@@ -19378,15 +19383,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18075,
+      "Progressed": 18076,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-24T17:06:13.1812656+00:00",
+  "LastChanged_Achievements": "2024-01-24T18:06:59.598518+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:03:07.7935278+00:00",
-  "LastUpdate_Achievements": "2024-01-24T17:06:13.1813678+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:03:45.4578374+00:00",
+  "LastUpdate_Achievements": "2024-01-24T18:06:59.5986347+00:00"
 }
