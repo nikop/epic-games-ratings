@@ -5,55 +5,55 @@ Rating: 4.41 (Ranked 762)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~224,051 |
-| Wind Master | 53.00% | ~179,920 |
-| Davy Jones | 18.00% | ~61,105 |
-| Hook, Line and Stinker | 15.00% | ~50,921 |
-| Gateway Slug | 6.00% | ~20,368 |
-| Race In Yo Face | 5.00% | ~16,974 |
-| Nice Shootin' Duds | 5.00% | ~16,974 |
-| Boarding Party | 5.00% | ~16,974 |
-| Great Balls Of Fire | 4.00% | ~13,579 |
-| Baby's First Thingamabob | 4.00% | ~13,579 |
-| By The Power Of Underskull | 3.00% | ~10,184 |
-| Light Up the Night | 3.00% | ~10,184 |
-| I Don't Like The Slugs | 3.00% | ~10,184 |
-| This Is Fine | 2.00% | ~6,789 |
-| But The Slugs Like Me | 2.00% | ~6,789 |
-| Pengy Fun | 2.00% | ~6,789 |
-| Polar Pontification | 1.00% | ~3,395 |
-| Aggro Kreb | 1.00% | ~3,395 |
-| No More Splosions | 1.00% | ~3,395 |
-| Snapping Turtle | 1.00% | ~3,395 |
-| Fish Kabob | 1.00% | ~3,395 |
-| Enter The Croakers | 1.00% | ~3,395 |
-| Crovert Ops | 0.90% | ~3,055 |
-| Tekk Savvy | 0.70% | ~2,376 |
+| Tootorial | 66.00% | ~224,106 |
+| Wind Master | 53.00% | ~179,964 |
+| Davy Jones | 18.00% | ~61,120 |
+| Hook, Line and Stinker | 15.00% | ~50,933 |
+| Gateway Slug | 6.00% | ~20,373 |
+| Race In Yo Face | 5.00% | ~16,978 |
+| Nice Shootin' Duds | 5.00% | ~16,978 |
+| Boarding Party | 5.00% | ~16,978 |
+| Great Balls Of Fire | 4.00% | ~13,582 |
+| Baby's First Thingamabob | 4.00% | ~13,582 |
+| By The Power Of Underskull | 3.00% | ~10,187 |
+| Light Up the Night | 3.00% | ~10,187 |
+| I Don't Like The Slugs | 3.00% | ~10,187 |
+| This Is Fine | 2.00% | ~6,791 |
+| But The Slugs Like Me | 2.00% | ~6,791 |
+| Pengy Fun | 2.00% | ~6,791 |
+| Polar Pontification | 1.00% | ~3,396 |
+| Aggro Kreb | 1.00% | ~3,396 |
+| No More Splosions | 1.00% | ~3,396 |
+| Snapping Turtle | 1.00% | ~3,396 |
+| Fish Kabob | 1.00% | ~3,396 |
+| Enter The Croakers | 1.00% | ~3,396 |
+| Crovert Ops | 0.90% | ~3,056 |
+| Tekk Savvy | 0.70% | ~2,377 |
 | Blowfish Me Down | 0.40% | ~1,358 |
 | Getting Hooked | 0.40% | ~1,358 |
 | Fish And Tips | 0.40% | ~1,358 |
 | This Magik Moment | 0.40% | ~1,358 |
-| Sweeter Than Honey | 0.30% | ~1,018 |
+| Sweeter Than Honey | 0.30% | ~1,019 |
 | Total Eclipse of the Eel | 0.20% | ~679 |
 | Over The Moon | 0.20% | ~679 |
-| What's Krakalackin? | 0.10% | ~339 |
-| All Good Things... | 0.10% | ~339 |
-| Lights Out | 0.10% | ~339 |
-| Built For Speed | 0.10% | ~339 |
-| Crackshot | 0.10% | ~339 |
-| Whosits And Whatsits Galore | 0.10% | ~339 |
-| Croaker Command's Most Wanted | 0.10% | ~339 |
-| In Service Of Glory And Valor | 0.10% | ~339 |
-| Sail Forth! | 0.10% | ~339 |
-| Shooting Star | 0.10% | ~339 |
-| Crushed Ice | 0.10% | ~339 |
-| Fish On | 0.10% | ~339 |
-| 1.21 Ribbitwatts | 0.10% | ~339 |
-| Guiding Light | 0.10% | ~339 |
-| For Whom The Bells Toll | 0.10% | ~339 |
-| Don't I Know You? | 0.10% | ~339 |
+| What's Krakalackin? | 0.10% | ~340 |
+| All Good Things... | 0.10% | ~340 |
+| Lights Out | 0.10% | ~340 |
+| Built For Speed | 0.10% | ~340 |
+| Crackshot | 0.10% | ~340 |
+| Whosits And Whatsits Galore | 0.10% | ~340 |
+| Croaker Command's Most Wanted | 0.10% | ~340 |
+| In Service Of Glory And Valor | 0.10% | ~340 |
+| Sail Forth! | 0.10% | ~340 |
+| Shooting Star | 0.10% | ~340 |
+| Crushed Ice | 0.10% | ~340 |
+| Fish On | 0.10% | ~340 |
+| 1.21 Ribbitwatts | 0.10% | ~340 |
+| Guiding Light | 0.10% | ~340 |
+| For Whom The Bells Toll | 0.10% | ~340 |
+| Don't I Know You? | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,471 (Ranked 63)  
+Progressed: 339,555 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 3 (0.00%) (Ranked 409)
 | 2024-01-21 | 331,634 | 2 |
 | 2024-01-22 | 335,398 | 2 |
 | 2024-01-23 | 338,664 | 3 |
-| 2024-01-24 | 339,471 | 3 |
+| 2024-01-24 | 339,555 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

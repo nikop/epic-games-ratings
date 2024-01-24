@@ -4,7 +4,7 @@
   "ProductSlug": "cadriaitemshop-8fe97e",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 544,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -474,8 +474,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T07:01:34.2359081+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:04:06.5289115+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:04:07.3081398+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:43.9163084+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:03:30.0815525+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:04:06.5289529+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:03:31.6855705+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:04:07.3081846+00:00"
 }

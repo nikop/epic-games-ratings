@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2772,9 +2772,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44572,
+  "EOS_Progressed": 44573,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11667,6 +11667,11 @@
       "Time": "2024-01-24T07:06:17.0470604+00:00",
       "NumProgressed": 44572,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-24T08:06:08.6820156+00:00",
+      "NumProgressed": 44573,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11750,7 +11755,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18720
+      "UsersEstimate": 18721
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11758,7 +11763,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -11870,7 +11875,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28080
+      "UsersEstimate": 28081
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11886,7 +11891,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15154
+      "UsersEstimate": 15155
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11926,7 +11931,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21840
+      "UsersEstimate": 21841
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11942,7 +11947,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13817
+      "UsersEstimate": 13818
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -11974,7 +11979,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18720
+      "UsersEstimate": 18721
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11990,7 +11995,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16937
+      "UsersEstimate": 16938
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -12006,7 +12011,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31200
+      "UsersEstimate": 31201
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -12022,7 +12027,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13817
+      "UsersEstimate": 13818
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -12038,7 +12043,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25406
+      "UsersEstimate": 25407
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -12062,7 +12067,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12034
+      "UsersEstimate": 12035
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -12070,7 +12075,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20057
+      "UsersEstimate": 20058
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -12078,7 +12083,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29863
+      "UsersEstimate": 29864
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -12118,7 +12123,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15154
+      "UsersEstimate": 15155
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -12142,7 +12147,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -12205,15 +12210,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44572,
+      "Progressed": 44573,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-21T19:03:44.8461925+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:06:17.0470601+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:06:08.6820152+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:50.2969677+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:03:03.3859192+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:06:17.0471877+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:03:06.6613666+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:06:08.6820848+00:00"
 }

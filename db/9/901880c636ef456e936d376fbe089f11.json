@@ -1105,9 +1105,9 @@
       "ID": "ACH_FIVE_STARS",
       "SetID": "8h8m55b",
       "Name": "\u201CFive Stars!\u201D",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_GHOSTED",
@@ -1177,9 +1177,9 @@
       "ID": "ACH_LOCAL_FAVORITE",
       "SetID": "8h8m55b",
       "Name": "Local Favorite",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_MASTER_PURLOINER",
@@ -1384,8 +1384,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:09:06.3602313+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:08:55.7284559+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.0319324+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:59:05.7133601+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:09:06.3602724+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:59:00.2826997+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:08:55.7285059+00:00"
 }

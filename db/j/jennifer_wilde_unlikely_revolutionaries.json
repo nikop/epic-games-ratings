@@ -2,9 +2,9 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.11,
+  "EOS_Completed_Percentage": 4.05,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -379,6 +379,11 @@
       "Time": "2024-01-11T01:54:48.0930916+00:00",
       "NumProgressed": 73,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T08:04:39.9505304+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -469,14 +474,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:04:40.6630558+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:04:39.95053+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5190264+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:00:02.5893035+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:04:40.6630626+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:59:53.6019626+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:04:39.9505383+00:00"
 }

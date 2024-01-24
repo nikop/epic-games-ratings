@@ -9800,9 +9800,9 @@
     }
   ],
   "EOS_Progressed": 255365,
-  "EOS_Completed": 2636,
-  "EOS_NewPlayers": 1019,
-  "EOS_NewCompleters": 14,
+  "EOS_Completed": 2637,
+  "EOS_NewPlayers": 1015,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -41449,6 +41449,11 @@
       "Time": "2024-01-24T07:10:56.2051833+00:00",
       "NumProgressed": 255365,
       "NumCompleted": 2636
+    },
+    {
+      "Time": "2024-01-24T08:10:37.1674228+00:00",
+      "NumProgressed": 255365,
+      "NumCompleted": 2637
     }
   ],
   "TotalAchievements": 546,
@@ -45202,9 +45207,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 2043
     },
     {
       "ID": "objective_completed_902",
@@ -45834,14 +45839,14 @@
       "ID": "cc37lbc",
       "IsBase": true,
       "Progressed": 255365,
-      "Completed": 2636
+      "Completed": 2637
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:10:56.2051829+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:10:37.1674219+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:58:54.9585709+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:10:56.2074475+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:58:50.5971963+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:10:37.1697292+00:00"
 }

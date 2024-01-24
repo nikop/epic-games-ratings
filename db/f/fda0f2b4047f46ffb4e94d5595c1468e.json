@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5515,10 +5515,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9292,
       "NumberOfAwardsMax": 3075
+    },
+    {
+      "Time": "2024-01-24T08:03:15.7125976+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9305,
+      "NumberOfAwardsMax": 3075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9292,
+  "NumberOfAwards": 9305,
   "NumberOfAwardsMax": 3075,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5550,7 +5556,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 583
+      "Count": 589
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5574,7 +5580,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 581
+      "Count": 588
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5597,7 +5603,7 @@
   ],
   "EOS_Progressed": 24181,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18173,9 +18179,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-24T05:03:07.5690996+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:09:32.8164005+00:00",
+  "LastChanged": "2024-01-24T08:03:15.7125975+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:09:20.6170301+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:03:11.9657459+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:09:32.8164837+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:03:15.712598+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:09:20.6171308+00:00"
 }

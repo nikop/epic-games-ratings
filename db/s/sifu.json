@@ -9145,10 +9145,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12870,
       "NumberOfAwardsMax": 7269
+    },
+    {
+      "Time": "2024-01-24T08:03:26.8079749+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12872,
+      "NumberOfAwardsMax": 7269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12870,
+  "NumberOfAwards": 12872,
   "NumberOfAwardsMax": 7269,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9174,7 +9180,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 627
+      "Count": 629
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9225,9 +9231,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762599,
+  "EOS_Progressed": 762604,
   "EOS_Completed": 13007,
-  "EOS_NewPlayers": 1299,
+  "EOS_NewPlayers": 1291,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35125,6 +35131,11 @@
       "Time": "2024-01-24T07:10:21.3948805+00:00",
       "NumProgressed": 762599,
       "NumCompleted": 13007
+    },
+    {
+      "Time": "2024-01-24T08:10:04.7318474+00:00",
+      "NumProgressed": 762604,
+      "NumCompleted": 13007
     }
   ],
   "TotalAchievements": 60,
@@ -35206,9 +35217,9 @@
       "ID": "10_Wude_H4",
       "SetID": "adcm20g",
       "Name": "Iron Money",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4576
+      "UsersEstimate": 5338
     },
     {
       "ID": "11_Wude_H5",
@@ -35615,21 +35626,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71900,
+      "Progressed": 71905,
       "Completed": 10820
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762599,
+      "Progressed": 762604,
       "Completed": 13007
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-24T01:53:43.3669284+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:10:21.3948803+00:00",
+  "LastChanged": "2024-01-24T08:03:26.8079747+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:10:04.731847+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:03:24.2652272+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:10:21.395082+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:03:26.8079753+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:10:04.7319973+00:00"
 }

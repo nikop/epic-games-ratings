@@ -476,17 +476,17 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CloseCall",
       "SetID": "aaidab7",
       "Name": "Close Call",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DedicatedPlayer",
@@ -524,9 +524,9 @@
       "ID": "HeartAttack",
       "SetID": "aaidab7",
       "Name": "Heart Attack",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ImmuneCollapse",
@@ -564,9 +564,9 @@
       "ID": "Loser",
       "SetID": "aaidab7",
       "Name": "Loser",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Lupus",
@@ -604,25 +604,25 @@
       "ID": "NervousCollapse",
       "SetID": "aaidab7",
       "Name": "Nervous Collapse",
-      "Percentage": 22,
-      "XP": 30,
-      "UsersEstimate": 24
-    },
-    {
-      "ID": "Opportunist",
-      "SetID": "aaidab7",
-      "Name": "Opportunist",
       "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 25
     },
     {
+      "ID": "Opportunist",
+      "SetID": "aaidab7",
+      "Name": "Opportunist",
+      "Percentage": 24,
+      "XP": 30,
+      "UsersEstimate": 26
+    },
+    {
       "ID": "PrescriptionFrenzy",
       "SetID": "aaidab7",
       "Name": "Prescription Frenzy",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Reaper",
@@ -660,9 +660,9 @@
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "SkeletalCollapse",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:08:47.1557291+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:08:38.0318397+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:58:37.530678+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:08:47.1557442+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:58:34.7698443+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:08:38.0318603+00:00"
 }

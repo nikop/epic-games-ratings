@@ -18,19 +18,19 @@ Rating: 4.54 (Ranked 551)
 | Friends Like These | 6.00% | ~48,529 |
 | Stacking the Deck | 6.00% | ~48,529 |
 | This is My Weapon | 6.00% | ~48,529 |
-| Anger Management | 5.00% | ~40,440 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,440 |
-| But Doctor, I am Butcho | 5.00% | ~40,440 |
-| Can't Handle the Truth | 5.00% | ~40,440 |
-| Like Riding a Bike | 5.00% | ~40,440 |
-| Making Your Mark | 4.00% | ~32,352 |
-| Perks of the Job | 4.00% | ~32,352 |
-| Slayer Squad | 4.00% | ~32,352 |
-| Zombologist | 4.00% | ~32,352 |
-| Ooh, Shiny! | 4.00% | ~32,352 |
-| A Patton Emerges | 4.00% | ~32,352 |
-| I Am the Resurrection | 4.00% | ~32,352 |
-| Our True Nature | 4.00% | ~32,352 |
+| Anger Management | 5.00% | ~40,441 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,441 |
+| But Doctor, I am Butcho | 5.00% | ~40,441 |
+| Can't Handle the Truth | 5.00% | ~40,441 |
+| Like Riding a Bike | 5.00% | ~40,441 |
+| Making Your Mark | 4.00% | ~32,353 |
+| Perks of the Job | 4.00% | ~32,353 |
+| Slayer Squad | 4.00% | ~32,353 |
+| Zombologist | 4.00% | ~32,353 |
+| Ooh, Shiny! | 4.00% | ~32,353 |
+| A Patton Emerges | 4.00% | ~32,353 |
+| I Am the Resurrection | 4.00% | ~32,353 |
+| Our True Nature | 4.00% | ~32,353 |
 | Whatever It Takes | 4.00% | ~5,374 |
 | Pork Chopped | 4.00% | ~5,374 |
 | Jumbo Keyring | 3.00% | ~24,264 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,809 (Ranked 23)  
+Progressed: 808,813 (Ranked 23)  
 Completed: 2,629 (0.33%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 2,629 (0.33%) (Ranked 260)
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
-| 2024-01-24 | 808,809 | 2,629 |
+| 2024-01-24 | 808,813 | 2,629 |
 ## Awards
 Max (Great Boss Battles): 10,850  (Ranked 40)  
 Sum: 16,707 (Ranked 68)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -5034,9 +5034,9 @@
       "ID": "ACHV_14",
       "SetID": "8p5mlmc",
       "Name": "Reborn",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHV_15",
@@ -5395,8 +5395,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:04:41.3933942+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:04:40.7739396+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:03:11.0774132+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:04:41.3934533+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:03:15.2043863+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:04:40.7739887+00:00"
 }

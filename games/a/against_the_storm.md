@@ -55,7 +55,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~210 |
 | Prestigious Expedition | 0.60% | ~126 |
 | Blood Flower Farmer | 0.60% | ~126 |
-| Fox Utopia | 0.50% | ~105 |
+| Fox Utopia | 0.60% | ~126 |
 | Human Utopia | 0.40% | ~84 |
 | Lizard Utopia | 0.40% | ~84 |
 | Beaver Utopia | 0.30% | ~63 |

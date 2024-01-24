@@ -19,12 +19,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 6.00% | ~9,159 |
 | Pretty Penny | 6.00% | ~9,159 |
 | Own the Means of Production | 6.00% | ~9,159 |
-| The Daily Grind | 5.00% | ~7,632 |
-| Bounty Hunters | 5.00% | ~7,632 |
-| Where it Hurts | 5.00% | ~7,632 |
-| One-Armed Bandit | 5.00% | ~7,632 |
-| Dungeon Imports | 5.00% | ~7,632 |
-| Through Repetition, Perfection | 5.00% | ~7,632 |
+| The Daily Grind | 5.00% | ~7,633 |
+| Bounty Hunters | 5.00% | ~7,633 |
+| Where it Hurts | 5.00% | ~7,633 |
+| One-Armed Bandit | 5.00% | ~7,633 |
+| Dungeon Imports | 5.00% | ~7,633 |
+| Through Repetition, Perfection | 5.00% | ~7,633 |
 | Demand for Supplies | 4.00% | ~6,106 |
 | Flooding the Market | 4.00% | ~6,106 |
 | Gem Expert | 4.00% | ~6,106 |
@@ -101,12 +101,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~3,053 |
 | Economy of Scarce | 2.00% | ~3,053 |
 | King's Blade | 2.00% | ~3,053 |
-| The Free Encyclopedia | 1.00% | ~1,526 |
-| Thank You Tom Nook | 1.00% | ~1,526 |
-| Jackpot! | 1.00% | ~1,526 |
-| The Greatest Grind | 1.00% | ~1,526 |
-| All or Nothing! | 1.00% | ~1,526 |
-| Eternal Crusade | 1.00% | ~1,526 |
+| The Free Encyclopedia | 1.00% | ~1,527 |
+| Thank You Tom Nook | 1.00% | ~1,527 |
+| Jackpot! | 1.00% | ~1,527 |
+| The Greatest Grind | 1.00% | ~1,527 |
+| All or Nothing! | 1.00% | ~1,527 |
+| Eternal Crusade | 1.00% | ~1,527 |
 | Bane of Legends | 0.90% | ~1,374 |
 | Anything not Nailed Down | 0.90% | ~1,374 |
 | Marvels from the World Over | 0.90% | ~1,374 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~611 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,650 (Ranked 87)  
+Progressed: 152,652 (Ranked 87)  
 Completed: 362 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 362 (0.24%) (Ranked 279)
 | 2024-01-21 | 152,414 | 360 |
 | 2024-01-22 | 152,516 | 360 |
 | 2024-01-23 | 152,616 | 362 |
-| 2024-01-24 | 152,650 | 362 |
+| 2024-01-24 | 152,652 | 362 |
 ## Awards
 Max (Great for Beginners): 4,975  (Ranked 84)  
 Sum: 28,047 (Ranked 52)  

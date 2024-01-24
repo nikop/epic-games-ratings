@@ -19016,9 +19016,9 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1057930,
+  "EOS_Progressed": 1057944,
   "EOS_Completed": 3154,
-  "EOS_NewPlayers": 4654,
+  "EOS_NewPlayers": 4632,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50976,6 +50976,11 @@
       "Time": "2024-01-24T07:09:38.1526579+00:00",
       "NumProgressed": 1057930,
       "NumCompleted": 3154
+    },
+    {
+      "Time": "2024-01-24T08:09:25.4065854+00:00",
+      "NumProgressed": 1057944,
+      "NumCompleted": 3154
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51012,7 +51017,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8463
+      "UsersEstimate": 8464
     },
     {
       "ID": "Denied",
@@ -51020,7 +51025,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8463
+      "UsersEstimate": 8464
     },
     {
       "ID": "FollowingTheRiver",
@@ -51330,9 +51335,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6348
+      "UsersEstimate": 7406
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51523,21 +51528,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057930,
+      "Progressed": 1057944,
       "Completed": 3154
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186553,
+      "Progressed": 186567,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-24T06:04:02.2634585+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:09:38.1526576+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:09:25.4065852+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:03:28.2042112+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:09:38.1528103+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:03:30.4063006+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:09:25.4067475+00:00"
 }

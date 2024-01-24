@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1823,9 +1823,9 @@
       "ID": "MAIN_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Hope Across Ages",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1919,9 +1919,9 @@
       "ID": "SUB_CLEAR_ALL",
       "SetID": "apihg0e",
       "Name": "Expert Historian",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "SUB_CLEAR_ISLAND1",
@@ -1974,8 +1974,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:09:23.296686+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:09:11.539342+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:39.5250157+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:57:42.0206892+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:09:23.2967181+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:57:43.2451276+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:09:11.539381+00:00"
 }

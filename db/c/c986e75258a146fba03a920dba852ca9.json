@@ -223,9 +223,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 278975,
-  "EOS_Completed": 586,
-  "EOS_NewPlayers": 10152,
+  "EOS_Progressed": 279022,
+  "EOS_Completed": 587,
+  "EOS_NewPlayers": 10147,
   "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3378,6 +3378,11 @@
       "Time": "2024-01-24T07:05:09.1722013+00:00",
       "NumProgressed": 278975,
       "NumCompleted": 586
+    },
+    {
+      "Time": "2024-01-24T08:05:06.3113147+00:00",
+      "NumProgressed": 279022,
+      "NumCompleted": 587
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -3390,7 +3395,7 @@
       "Name": "Dungeon Master",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 11159
+      "UsersEstimate": 11161
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -3398,7 +3403,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 25108
+      "UsersEstimate": 25112
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -3406,7 +3411,7 @@
       "Name": "Super Catventurer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8369
+      "UsersEstimate": 8371
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -3414,7 +3419,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 72534
+      "UsersEstimate": 72546
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -3470,7 +3475,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 39057
+      "UsersEstimate": 39063
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -3478,23 +3483,23 @@
       "Name": "Power of the Arcane",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 61374
+      "UsersEstimate": 61385
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 278975,
-      "Completed": 586
+      "Progressed": 279022,
+      "Completed": 587
     }
   ],
   "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2024-01-24T04:58:18.9392649+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:05:09.172201+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:05:06.3113142+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.6106853+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:58:37.5731734+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:05:09.1722232+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:58:34.0060554+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:05:06.3113476+00:00"
 }

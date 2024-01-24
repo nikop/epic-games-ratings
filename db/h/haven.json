@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2050,
+  "EOS_Progressed": 2051,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3930,6 +3930,11 @@
       "Time": "2024-01-24T07:04:01.754404+00:00",
       "NumProgressed": 2050,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-24T08:04:02.8165527+00:00",
+      "NumProgressed": 2051,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3941,7 +3946,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "10",
@@ -3965,7 +3970,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "13",
@@ -4005,7 +4010,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "18",
@@ -4069,7 +4074,7 @@
       "Name": "In my shoes",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "25",
@@ -4117,7 +4122,7 @@
       "Name": "\u00C0 la carte",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "32",
@@ -4165,7 +4170,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "9",
@@ -4180,15 +4185,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2050,
+      "Progressed": 2051,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:04:01.7544036+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:04:02.8165517+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:59:25.9383265+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:04:01.7544344+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:59:20.424419+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:04:02.8165775+00:00"
 }

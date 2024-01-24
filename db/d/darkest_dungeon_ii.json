@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11220,9 +11220,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133593,
+  "EOS_Progressed": 133594,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41265,6 +41265,11 @@
       "Time": "2024-01-24T07:10:45.0577767+00:00",
       "NumProgressed": 133593,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T08:10:26.5956178+00:00",
+      "NumProgressed": 133594,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41628,7 +41633,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10687
+      "UsersEstimate": 10688
     },
     {
       "ID": "hero_story_complete_all",
@@ -41907,21 +41912,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133593,
+      "Progressed": 133594,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8462,
+      "Progressed": 8463,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-24T04:01:10.6961794+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:10:45.0577765+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:10:26.5956175+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:00:03.5605611+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:10:45.0579339+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:59:54.1124232+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:10:26.5958469+00:00"
 }

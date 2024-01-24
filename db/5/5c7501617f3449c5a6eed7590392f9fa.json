@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -1635,9 +1635,9 @@
       "ID": "Ach-05-vesmir",
       "SetID": "2pjo9pi",
       "Name": "Vesmir",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach-05-zavod",
@@ -1730,8 +1730,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:09:58.7672954+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:09:44.187438+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:57:12.4675003+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:09:58.7673485+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:57:17.7427486+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:09:44.1874788+00:00"
 }

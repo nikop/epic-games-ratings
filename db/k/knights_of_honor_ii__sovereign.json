@@ -755,9 +755,9 @@
       "ID": "in_our_darkest_hour",
       "SetID": "41moj9p",
       "Name": "Fight Another Day",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "join_the_dark_side",
@@ -1172,8 +1172,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:04:17.3918434+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:04:17.0320251+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:59:53.7330802+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:04:17.3919361+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:59:46.0287998+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:04:17.0321107+00:00"
 }

@@ -8,16 +8,16 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~129 |
 | Best Buddy | 39.00% | ~112 |
+| Civilian | 37.00% | ~106 |
 | Role Model | 36.00% | ~103 |
-| Civilian | 36.00% | ~103 |
 | Creator | 33.00% | ~95 |
 | Military Leader | 31.00% | ~89 |
 | Festival-goer | 29.00% | ~83 |
 | Peddler | 27.00% | ~77 |
 | Commander | 26.00% | ~75 |
+| Family Reunion | 22.00% | ~63 |
 | Irissa's Fate | 22.00% | ~63 |
 | Long-Haul Flyer | 21.00% | ~60 |
-| Family Reunion | 21.00% | ~60 |
 | Pass A38 | 19.00% | ~55 |
 | Eternal Oblivion | 19.00% | ~55 |
 | Banker | 18.00% | ~52 |

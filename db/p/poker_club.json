@@ -1189,9 +1189,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553369,
+  "EOS_Progressed": 553371,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1381,
+  "EOS_NewPlayers": 1378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33089,6 +33089,11 @@
       "Time": "2024-01-24T07:04:40.3402847+00:00",
       "NumProgressed": 553369,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T08:04:39.7198961+00:00",
+      "NumProgressed": 553371,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -33252,7 +33257,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232415
+      "UsersEstimate": 232416
     },
     {
       "ID": "HoldingYourOwn",
@@ -33348,7 +33353,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420560
+      "UsersEstimate": 420562
     },
     {
       "ID": "ProPlayer",
@@ -33372,7 +33377,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 121741
+      "UsersEstimate": 121742
     },
     {
       "ID": "RegularPunter",
@@ -33452,14 +33457,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66404
+      "UsersEstimate": 66405
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553369,
+      "Progressed": 553371,
       "Completed": 2
     }
   ],
@@ -33467,8 +33472,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-23T19:59:33.7584568+00:00",
-  "LastChanged_Achievements": "2024-01-24T07:04:40.3402844+00:00",
+  "LastChanged_Achievements": "2024-01-24T08:04:39.7198958+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:00:16.9638896+00:00",
-  "LastUpdate_Achievements": "2024-01-24T07:04:40.3404883+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:00:06.4492424+00:00",
+  "LastUpdate_Achievements": "2024-01-24T08:04:39.7200271+00:00"
 }

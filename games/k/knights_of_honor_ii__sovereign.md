@@ -34,6 +34,7 @@ Rating: 4.35 (Ranked 836)
 | Battle of the Four Armies | 2.00% | ~2 |
 | Blinded by Science | 2.00% | ~2 |
 | He made it out, but with an arrow in his back | 2.00% | ~2 |
+| Fight Another Day | 2.00% | ~2 |
 | Let Us Pray | 2.00% | ~2 |
 | Naught but a Seamless Victory | 2.00% | ~2 |
 | On the third day at dawn, look east | 2.00% | ~2 |
@@ -46,7 +47,6 @@ Rating: 4.35 (Ranked 836)
 | Greed is Good | 0.90% | ~1 |
 | His All-Holiness | 0.90% | ~1 |
 | His name is King | 0.90% | ~1 |
-| Fight Another Day | 0.90% | ~1 |
 | Let us trade with these fine people | 0.90% | ~1 |
 | New Mineland | 0.90% | ~1 |
 | Prince Ali! Fabulous he! | 0.90% | ~1 |
