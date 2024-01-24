@@ -14,7 +14,7 @@
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 13 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
 | 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.24% |
-| 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.00% |
+| 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.49% |
 | 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.39% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.27% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.26% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -126,9 +126,9 @@
 | 124 | [The Complex](games/t/the_complex.md) | 2.53% |
 | 125 | [FORECLOSED](games/f/foreclosed.md) | 2.52% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.50% |
-| 126 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.50% |
 | 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
+| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
+| 128 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.49% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
 | 131 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
 | 132 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
@@ -147,10 +147,10 @@
 | 145 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.84% |
 | 147 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
-| 149 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.72% |
-| 150 | [Sifu](games/s/sifu.md) | 1.71% |
-| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
+| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.79% |
+| 149 | [Sifu](games/s/sifu.md) | 1.71% |
+| 150 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.69% |
+| 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
 | 152 | [Frogun](games/f/frogun.md) | 1.66% |
 | 153 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
 | 154 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
@@ -200,8 +200,8 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 0.78% |
 | 198 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 200 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
-| 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.77% |
 | 200 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.77% |
+| 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.76% |
 | 203 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 204 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.73% |
 | 204 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
