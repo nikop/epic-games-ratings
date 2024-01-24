@@ -101,9 +101,9 @@
       "ID": "BattleWonBySea",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Sea",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BirthdayGirl",
@@ -125,17 +125,17 @@
       "ID": "CompleteLevel11",
       "SetID": "8j3le2g",
       "Name": "The Final Countdown",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteLevel2",
       "SetID": "8j3le2g",
       "Name": "The Envoys Arrive",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteLevel3",
@@ -213,9 +213,9 @@
       "ID": "GameOver",
       "SetID": "8j3le2g",
       "Name": "Oh my god, you killed Lil! You...",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GhostFinder",
@@ -237,9 +237,9 @@
       "ID": "GotTheBestEnding",
       "SetID": "8j3le2g",
       "Name": "Got the best ending!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GotTheSecondBestEnding",
@@ -285,9 +285,9 @@
       "ID": "PerfectLevel11",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 11",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerfectLevel2",
@@ -365,17 +365,17 @@
       "ID": "SmeagolGary",
       "SetID": "8j3le2g",
       "Name": "You Saved Gary!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SprawlUndefeated",
       "SetID": "8j3le2g",
       "Name": "Sprawl Undefeated!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 85,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheCurseOfTheDuck",
@@ -429,9 +429,9 @@
       "ID": "VillainSpeechSmaggleSlaves",
       "SetID": "8j3le2g",
       "Name": "Villain Speech: Smaggle Slaves!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WarriorChampion",
@@ -460,8 +460,8 @@
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:05:00.443065+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:04:22.1738685+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:58:51.3554204+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:05:00.4431025+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:58:32.0166847+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:04:22.1738961+00:00"
 }

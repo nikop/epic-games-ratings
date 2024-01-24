@@ -5,14 +5,14 @@ Rating: 4.62 (Ranked 386)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,850 |
-| First Love | 46.00% | ~1,702 |
-| Clean Race | 45.00% | ~1,665 |
-| Hear That Roar! | 43.00% | ~1,591 |
-| Bitter Rivalry | 31.00% | ~1,147 |
-| Rivals to the End | 31.00% | ~1,147 |
-| Champagne Spray | 30.00% | ~1,110 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,036 |
+| Eat My Dust | 50.00% | ~1,851 |
+| First Love | 46.00% | ~1,703 |
+| Clean Race | 45.00% | ~1,666 |
+| Hear That Roar! | 43.00% | ~1,592 |
+| Bitter Rivalry | 31.00% | ~1,148 |
+| Rivals to the End | 31.00% | ~1,148 |
+| Champagne Spray | 30.00% | ~1,111 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,037 |
 | Quick Pit Stop | 23.00% | ~851 |
 | Restored and Ready | 21.00% | ~777 |
 | I Want One Too! | 21.00% | ~777 |
@@ -41,7 +41,7 @@ Rating: 4.62 (Ranked 386)
 | I Don't Stop | 1.00% | ~37 |
 | Exhausted but Happy | 0.80% | ~30 |
 | In Search of Perfection | 0.70% | ~26 |
-| Globe-trotter | 0.50% | ~18 |
+| Globe-trotter | 0.50% | ~19 |
 | Breathtaking Views | 0.30% | ~11 |
 | Maximum Endurance | 0.20% | ~7 |
 | Beyond the Limiter | 0.20% | ~7 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 386)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,700 (Ranked 227)  
+Progressed: 3,702 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-21 | 3,669 | 0 |
 | 2024-01-22 | 3,676 | 0 |
 | 2024-01-23 | 3,691 | 0 |
-| 2024-01-24 | 3,700 | 0 |
+| 2024-01-24 | 3,702 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

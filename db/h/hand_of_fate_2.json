@@ -967,7 +967,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667836,
+  "EOS_Progressed": 667838,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
@@ -27612,6 +27612,11 @@
       "Time": "2024-01-24T18:10:34.3801372+00:00",
       "NumProgressed": 667836,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-24T19:09:59.7457873+00:00",
+      "NumProgressed": 667838,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27623,7 +27628,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480842
+      "UsersEstimate": 480843
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27631,7 +27636,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387345
+      "UsersEstimate": 387346
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27639,7 +27644,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153602
+      "UsersEstimate": 153603
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -27759,7 +27764,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153602
+      "UsersEstimate": 153603
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -27863,7 +27868,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80140
+      "UsersEstimate": 80141
     },
     {
       "ID": "Achievement_32_Karma",
@@ -27887,7 +27892,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166959
+      "UsersEstimate": 166960
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -28006,15 +28011,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667836,
+      "Progressed": 667838,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:34.3801368+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:09:59.7457869+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:58:12.5888381+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:34.380261+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:57:56.0746293+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:09:59.745963+00:00"
 }

@@ -39,7 +39,7 @@ Number of Ratings: 124  (23.09.2022)
 | Self-Sufficient | 5.00% | ~14 |
 | Unbreakable | 5.00% | ~14 |
 | Idealist | 4.00% | ~12 |
-| Legendary | 3.00% | ~9 |
+| Legendary | 4.00% | ~12 |
 | Toy Time | 2.00% | ~6 |
 | Defector | 2.00% | ~6 |
 | Morkon | 2.00% | ~6 |

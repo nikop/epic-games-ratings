@@ -9253,9 +9253,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_BASE_60",
@@ -9340,8 +9340,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-23T08:00:18.6037817+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:09:20.7802723+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:08:47.3331077+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:57:41.7044046+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:09:20.7803884+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:57:25.0880441+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:08:47.3331769+00:00"
 }

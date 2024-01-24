@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18076,
+  "EOS_Progressed": 18077,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -19045,6 +19045,11 @@
       "Time": "2024-01-24T18:06:59.5985184+00:00",
       "NumProgressed": 18076,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-24T19:06:18.4003077+00:00",
+      "NumProgressed": 18077,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19072,7 +19077,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "tpote_achievement_12",
@@ -19096,7 +19101,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "tpote_achievement_15",
@@ -19144,7 +19149,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "tpote_achievement_20",
@@ -19344,7 +19349,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "tpote_achievement_6",
@@ -19352,7 +19357,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "tpote_achievement_7",
@@ -19383,15 +19388,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18076,
+      "Progressed": 18077,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:06:59.598518+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:06:18.4003074+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:45.4578374+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:06:59.5986347+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:03:07.8784243+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:06:18.4004026+00:00"
 }

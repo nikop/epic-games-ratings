@@ -5,16 +5,16 @@ Rating: 4.21 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 6.00% | ~20,962 |
-| May the Torchbearer light our way | 5.00% | ~17,468 |
-| A powerful aura was here | 4.00% | ~13,975 |
-| Let's raise the stakes!! | 2.00% | ~6,987 |
+| The touch of Chaos | 6.00% | ~20,963 |
+| May the Torchbearer light our way | 5.00% | ~17,470 |
+| A powerful aura was here | 4.00% | ~13,976 |
+| Let's raise the stakes!! | 2.00% | ~6,988 |
 | Rumors are true | 1.00% | ~3,494 |
 | We'll be careful | 1.00% | ~3,494 |
 | Pride is a sin, young Knight | 1.00% | ~3,494 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,494 |
-| Back to your senses | 0.90% | ~3,144 |
-| Bring it on! | 0.90% | ~3,144 |
+| Back to your senses | 0.90% | ~3,145 |
+| Bring it on! | 0.90% | ~3,145 |
 | They tricked me | 0.80% | ~2,795 |
 | We need to talk | 0.80% | ~2,795 |
 | They won't last long | 0.80% | ~2,795 |
@@ -24,8 +24,8 @@ Rating: 4.21 (Ranked 968)
 | This is the end | 0.60% | ~2,096 |
 | We can choose to fight | 0.60% | ~2,096 |
 | I took a risk | 0.50% | ~1,747 |
-| Their fate is sealed | 0.40% | ~1,397 |
-| Not even from this world | 0.40% | ~1,397 |
+| Their fate is sealed | 0.40% | ~1,398 |
+| Not even from this world | 0.40% | ~1,398 |
 | No damsels in distress | 0.20% | ~699 |
 | Chaos be damned! | 0.20% | ~699 |
 | The immortal is bound to reborn | 0.10% | ~349 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 968)
 | Something... unnatural | 0.10% | ~349 |
 | We strike as one | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,368 (Ranked 60)  
+Progressed: 349,390 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 7 (0.00%) (Ranked 410)
 | 2024-01-21 | 348,411 | 7 |
 | 2024-01-22 | 348,781 | 7 |
 | 2024-01-23 | 349,116 | 7 |
-| 2024-01-24 | 349,368 | 7 |
+| 2024-01-24 | 349,390 | 7 |
 ## Awards
 Max (Great Boss Battles): 83  (Ranked 405)  
 Sum: 83 (Ranked 489)  

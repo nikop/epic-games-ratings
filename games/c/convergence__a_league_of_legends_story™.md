@@ -7,9 +7,9 @@ Rating: 4.67 (Ranked 289)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 48.00% | ~651 |
 | Rail Rat | 37.00% | ~502 |
-| The Mysterious Stranger | 36.00% | ~488 |
-| Immaculate Aim | 31.00% | ~420 |
-| The Brass Boss | 29.00% | ~393 |
+| The Mysterious Stranger | 36.00% | ~489 |
+| Immaculate Aim | 31.00% | ~421 |
+| The Brass Boss | 29.00% | ~394 |
 | Time Flies | 28.00% | ~380 |
 | The Prince in Heels | 28.00% | ~380 |
 | Make Up For Lost Time | 27.00% | ~366 |
@@ -19,20 +19,20 @@ Rating: 4.67 (Ranked 289)
 | Fast Learner | 27.00% | ~366 |
 | Immaculate Aim | 27.00% | ~366 |
 | The Steel Shadow | 26.00% | ~353 |
-| Right On Time | 24.00% | ~325 |
-| Breaking Down Barriers | 24.00% | ~325 |
-| The Wicked Twins | 24.00% | ~325 |
-| Golem Chaser | 24.00% | ~325 |
+| Right On Time | 24.00% | ~326 |
+| Breaking Down Barriers | 24.00% | ~326 |
+| The Wicked Twins | 24.00% | ~326 |
+| Golem Chaser | 24.00% | ~326 |
 | Like Clockwork | 23.00% | ~312 |
 | The Betrayer | 23.00% | ~312 |
-| Check Your Pulse | 22.00% | ~298 |
+| Check Your Pulse | 22.00% | ~299 |
 | The Loose Cannon | 21.00% | ~285 |
 | Street Style | 20.00% | ~271 |
 | The Family Fortune | 20.00% | ~271 |
 | The Man Who Shattered Time | 19.00% | ~258 |
 | Whiz Kid | 16.00% | ~217 |
 | Good Neighbor | 16.00% | ~217 |
-| Family Memories | 15.00% | ~203 |
+| Family Memories | 15.00% | ~204 |
 | Chaincrawler Explorer | 14.00% | ~190 |
 | Syron for Hope | 14.00% | ~190 |
 | Ask Questions Later | 14.00% | ~190 |
@@ -45,7 +45,7 @@ Rating: 4.67 (Ranked 289)
 | Fairgrounds Explorer | 10.00% | ~136 |
 | Corin Goes Home | 9.00% | ~122 |
 | Entresol Explorer | 9.00% | ~122 |
-| Sartorialist | 8.00% | ~108 |
+| Sartorialist | 8.00% | ~109 |
 | Golem Hunter | 7.00% | ~95 |
 | Clovemary for Remembering | 6.00% | ~81 |
 | Hexlock for Protection | 6.00% | ~81 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 289)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,356 (Ranked 283)  
+Progressed: 1,357 (Ranked 282)  
 Completed: 8 (0.59%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 8 (0.59%) (Ranked 218)
 | 2024-01-21 | 1,350 | 8 |
 | 2024-01-22 | 1,352 | 8 |
 | 2024-01-23 | 1,355 | 8 |
-| 2024-01-24 | 1,356 | 8 |
+| 2024-01-24 | 1,357 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

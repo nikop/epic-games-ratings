@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77160,
+  "EOS_Progressed": 77182,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4585,
+  "EOS_NewPlayers": 4570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 15.24,
   "EosHistory": [
@@ -17822,6 +17822,11 @@
       "Time": "2024-01-24T18:10:21.2231827+00:00",
       "NumProgressed": 77160,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-24T19:09:47.1027077+00:00",
+      "NumProgressed": 77182,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -17842,7 +17847,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 57870
+      "UsersEstimate": 57886
     },
     {
       "ID": "grenadeKills",
@@ -17858,7 +17863,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "headshots1000",
@@ -17874,7 +17879,7 @@
       "Name": "Head popping II",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "knifeKills",
@@ -17945,7 +17950,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 77160,
+      "Progressed": 77182,
       "Completed": 11760
     }
   ],
@@ -17953,8 +17958,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-23T23:59:47.6572273+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:21.2231825+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:09:47.1027074+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.9687625+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:00:08.6992847+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:21.2233002+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:59:45.2271686+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:09:47.1027986+00:00"
 }

@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759 (Ranked 327)  
+Progressed: 760 (Ranked 327)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-21 | 739 | 0 |
 | 2024-01-22 | 746 | 0 |
 | 2024-01-23 | 755 | 0 |
-| 2024-01-24 | 759 | 0 |
+| 2024-01-24 | 760 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 479)  
 Sum: 45 (Ranked 526)  

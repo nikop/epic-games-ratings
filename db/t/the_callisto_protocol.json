@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22712,
+  "EOS_Progressed": 22713,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14863,6 +14863,11 @@
       "Time": "2024-01-24T18:10:44.7794605+00:00",
       "NumProgressed": 22712,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T19:10:09.6989123+00:00",
+      "NumProgressed": 22713,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14890,7 +14895,7 @@
       "Name": "Giving Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14906,7 +14911,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15010,7 +15015,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -15066,7 +15071,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15098,7 +15103,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -15106,7 +15111,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6132
+      "UsersEstimate": 6133
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15122,7 +15127,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15249,13 +15254,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22712,
+      "Progressed": 22713,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10638,
+      "Progressed": 10639,
       "Completed": 29
     }
   ],
@@ -15263,8 +15268,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:44.7794601+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:10:09.6989121+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:04:04.8935654+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:44.7795393+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:03:26.1032692+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:10:09.6989867+00:00"
 }

@@ -5621,7 +5621,7 @@
   ],
   "EOS_Progressed": 24189,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17947,9 +17947,9 @@
       "ID": "ach17",
       "SetID": "47in8n6",
       "Name": "So I Just Kill Stuff??",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 9917
+      "UsersEstimate": 10159
     },
     {
       "ID": "ach18",
@@ -18228,8 +18228,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-24T14:03:21.9182253+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:09:49.4100467+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:09:16.0390233+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:41.0337899+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:09:49.4101319+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:03:04.5249411+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:09:16.0391025+00:00"
 }

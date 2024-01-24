@@ -19040,9 +19040,9 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1058167,
+  "EOS_Progressed": 1058178,
   "EOS_Completed": 3158,
-  "EOS_NewPlayers": 4478,
+  "EOS_NewPlayers": 4463,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51055,6 +51055,11 @@
       "Time": "2024-01-24T18:09:54.3757602+00:00",
       "NumProgressed": 1058167,
       "NumCompleted": 3158
+    },
+    {
+      "Time": "2024-01-24T19:09:20.9513272+00:00",
+      "NumProgressed": 1058178,
+      "NumCompleted": 3158
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51289,9 +51294,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7407
+      "UsersEstimate": 8465
     },
     {
       "ID": "TheHightPriestess",
@@ -51602,21 +51607,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058167,
+      "Progressed": 1058178,
       "Completed": 3158
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186790,
+      "Progressed": 186801,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-24T18:03:58.0063354+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:09:54.37576+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:09:20.951327+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:58.0063361+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:09:54.3759235+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:03:19.4075589+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:09:20.9515009+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19378,
+  "EOS_Progressed": 19379,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14900,6 +14900,11 @@
       "Time": "2024-01-24T16:08:28.9656457+00:00",
       "NumProgressed": 19378,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T19:08:36.7689892+00:00",
+      "NumProgressed": 19379,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14911,7 +14916,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5813
+      "UsersEstimate": 5814
     },
     {
       "ID": "0002",
@@ -14999,7 +15004,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "0013",
@@ -15015,7 +15020,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "0015",
@@ -15198,7 +15203,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19378,
+      "Progressed": 19379,
       "Completed": 4
     }
   ],
@@ -15206,8 +15211,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:09:09.58409+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:08:36.7689888+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:25.4844987+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:09:09.5842203+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:02:47.6025522+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:08:36.7690629+00:00"
 }

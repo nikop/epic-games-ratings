@@ -5,59 +5,60 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 14.00% | ~18 |
-| Hail to the King, Baby | 14.00% | ~18 |
-| Help! Help! I’m being repressed | 13.00% | ~17 |
+| Hail to the King, Baby | 16.00% | ~22 |
+| Can’t Touch This | 14.00% | ~19 |
+| Help! Help! I’m being repressed | 14.00% | ~19 |
 | Bring it on! | 11.00% | ~15 |
-| There is no Nobility in Poverty | 11.00% | ~15 |
+| Path of Glory | 10.00% | ~14 |
+| There is no Nobility in Poverty | 10.00% | ~14 |
 | Full House | 9.00% | ~12 |
-| Path of Glory | 8.00% | ~11 |
 | The finest merchandise this side of river Jordan | 6.00% | ~8 |
 | They Got What They Deserved | 6.00% | ~8 |
-| Big Apple | 5.00% | ~7 |
-| Desperate Times Call for Desperate Measures | 5.00% | ~7 |
-| Playerxander the Great | 5.00% | ~7 |
-| What we’ve got here is failure to communicate | 5.00% | ~7 |
+| Big Apple | 4.00% | ~5 |
 | Call the Boys | 4.00% | ~5 |
+| Desperate Times Call for Desperate Measures | 4.00% | ~5 |
 | Dinner Time | 4.00% | ~5 |
 | Do you read Sutter Cane? | 4.00% | ~5 |
 | Pillars of the Earth | 4.00% | ~5 |
+| Playerxander the Great | 4.00% | ~5 |
+| What we’ve got here is failure to communicate | 4.00% | ~5 |
 | All the King's Men | 3.00% | ~4 |
 | Black Sheep Wall | 3.00% | ~4 |
 | Cut-Me-Own-Throat | 3.00% | ~4 |
 | Learn Me a Book | 3.00% | ~4 |
+| Naught but a Seamless Victory | 3.00% | ~4 |
 | ‘Tis but a scratch | 3.00% | ~4 |
-| A Quiet Palace | 2.00% | ~3 |
 | Battle of the Four Armies | 2.00% | ~3 |
 | Blinded by Science | 2.00% | ~3 |
-| Crusader “you know what” | 2.00% | ~3 |
 | Forth, Eorlingas! | 2.00% | ~3 |
 | He made it out, but with an arrow in his back | 2.00% | ~3 |
-| His All-Holiness | 2.00% | ~3 |
-| His name is King | 2.00% | ~3 |
 | I started a joke | 2.00% | ~3 |
 | Fight Another Day | 2.00% | ~3 |
 | Kingslayer | 2.00% | ~3 |
-| Let Us Pray | 2.00% | ~3 |
-| Naught but a Seamless Victory | 2.00% | ~3 |
-| On the third day at dawn, look east | 2.00% | ~3 |
-| Renaissance Man | 2.00% | ~3 |
 | Scientia potentia es | 2.00% | ~3 |
-| The Magnificent Nine | 2.00% | ~3 |
-| Time to find India | 2.00% | ~3 |
 | Vlad the Impaler | 2.00% | ~3 |
-| Why is there no culture victory?! | 2.00% | ~3 |
-| Zerg Rush | 0.80% | ~1 |
-| Crusade Invoker, no Regret | 0.80% | ~1 |
-| Fighting with Power and Steel | 0.80% | ~1 |
-| From Rags to Riches | 0.80% | ~1 |
-| Greed is Good | 0.80% | ~1 |
-| Let us trade with these fine people | 0.80% | ~1 |
-| New Mineland | 0.80% | ~1 |
-| Prince Ali! Fabulous he! | 0.80% | ~1 |
-| Spartacus | 0.80% | ~1 |
-| You are not the boss of me now | 0.80% | ~1 |
-| You reap what you sow | 0.80% | ~1 |
+| A Quiet Palace | 1.00% | ~1 |
+| Crusader “you know what” | 1.00% | ~1 |
+| His All-Holiness | 1.00% | ~1 |
+| His name is King | 1.00% | ~1 |
+| Let Us Pray | 1.00% | ~1 |
+| On the third day at dawn, look east | 1.00% | ~1 |
+| Renaissance Man | 1.00% | ~1 |
+| The Magnificent Nine | 1.00% | ~1 |
+| Time to find India | 1.00% | ~1 |
+| Why is there no culture victory?! | 1.00% | ~1 |
+| You are not the boss of me now | 1.00% | ~1 |
+| Zerg Rush | 0.70% | ~1 |
+| Crusade Invoker, no Regret | 0.70% | ~1 |
+| Fighting with Power and Steel | 0.70% | ~1 |
+| From Rags to Riches | 0.70% | ~1 |
+| Greed is Good | 0.70% | ~1 |
+| Let us trade with these fine people | 0.70% | ~1 |
+| Lord of the Kings | 0.70% | ~1 |
+| New Mineland | 0.70% | ~1 |
+| Prince Ali! Fabulous he! | 0.70% | ~1 |
+| Spartacus | 0.70% | ~1 |
+| You reap what you sow | 0.70% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Blessed Be His Name | 0.00% | ~0 |
@@ -83,7 +84,6 @@ Rating: 4.35 (Ranked 837)
 | Join the Dark Side | 0.00% | ~0 |
 | Kingdom Fall: Disappearance | 0.00% | ~0 |
 | Liberty or Death! | 0.00% | ~0 |
-| Lord of the Kings | 0.00% | ~0 |
 | Master of Puppets | 0.00% | ~0 |
 | Open Your Eyes | 0.00% | ~0 |
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 486)  
+Progressed: 135 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 132 | 0 |
+| 2024-01-24 | 135 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

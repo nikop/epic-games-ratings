@@ -807,7 +807,7 @@
   ],
   "EOS_Progressed": 4771,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13788,9 +13788,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 477
     },
     {
       "ID": "scrollmaster",
@@ -13973,8 +13973,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-24T14:57:39.9491694+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:06:58.7713443+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:06:17.6240193+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:58:13.8949452+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:06:58.7714818+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:57:57.3499188+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:06:17.6241198+00:00"
 }

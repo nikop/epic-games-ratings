@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19264,
+  "EOS_Progressed": 19265,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18148,6 +18148,11 @@
       "Time": "2024-01-24T18:06:55.0424356+00:00",
       "NumProgressed": 19264,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-24T19:06:14.2558189+00:00",
+      "NumProgressed": 19265,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18200,7 +18205,7 @@
       "Name": "Doctor Approved",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "15",
@@ -18232,7 +18237,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "19",
@@ -18439,13 +18444,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19264,
+      "Progressed": 19265,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5218,
+      "Progressed": 5219,
       "Completed": 1400
     }
   ],
@@ -18453,8 +18458,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:06:55.0424351+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:06:14.2558184+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:00:16.098429+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:06:55.0425727+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:59:53.5960658+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:06:14.2559637+00:00"
 }

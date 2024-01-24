@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -965,9 +965,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -1069,9 +1069,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "ae95dh3",
       "Name": "A Friend in Need",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1172,8 +1172,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:09:05.2233254+00:00",
-  "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:57:33.8896105+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:09:05.2233591+00:00"
+  "LastChanged_Achievements": "2024-01-24T19:08:32.4458117+00:00",
+  "LastUpdate_AppInfo": "2024-01-24T18:57:12.0797237+00:00",
+  "LastUpdate_Ratings": "2024-01-24T18:57:18.2552507+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:08:32.4458338+00:00"
 }

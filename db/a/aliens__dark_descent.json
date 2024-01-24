@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -585,9 +585,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6552,
+  "EOS_Progressed": 6553,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10310,6 +10310,11 @@
       "Time": "2024-01-24T11:07:52.8598322+00:00",
       "NumProgressed": 6552,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T19:06:04.8843889+00:00",
+      "NumProgressed": 6553,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10337,7 +10342,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -10353,7 +10358,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10417,7 +10422,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4324
+      "UsersEstimate": 4325
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10433,15 +10438,15 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "ACH_KILL_XENOS",
       "SetID": "816efe",
       "Name": "Cleaning Lethe, One Nest At A Time",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3866
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10505,7 +10510,7 @@
       "Name": "The Cable Guy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "ACH_MISSION_01",
@@ -10521,7 +10526,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10529,7 +10534,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10545,7 +10550,7 @@
       "Name": "Where It All Begun",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10577,7 +10582,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10585,7 +10590,7 @@
       "Name": "The Spire",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ACH_MISSION_11",
@@ -10593,7 +10598,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10625,7 +10630,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5046
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10673,14 +10678,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6552,
+      "Progressed": 6553,
       "Completed": 3
     }
   ],
@@ -10688,8 +10693,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-23T16:59:17.3064618+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:06:45.4435656+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:06:04.8843887+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:59:45.7949356+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:06:45.4436548+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:59:23.7316466+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:06:04.8844576+00:00"
 }

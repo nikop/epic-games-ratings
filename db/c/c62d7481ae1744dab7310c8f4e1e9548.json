@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -1283,9 +1283,9 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "KrabiPyramida",
@@ -1371,9 +1371,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "Sova",
@@ -1387,9 +1387,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "Sputnik2",
@@ -1419,9 +1419,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "Truhlice",
@@ -1451,9 +1451,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
@@ -1466,8 +1466,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:04:56.1252631+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:04:17.9796121+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8617172+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:49.329088+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:04:56.1252921+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:03:11.6308103+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:04:17.9796397+00:00"
 }

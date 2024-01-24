@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1633,
+  "EOS_Progressed": 1634,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
@@ -5754,6 +5754,11 @@
       "Time": "2024-01-24T16:05:37.449265+00:00",
       "NumProgressed": 1633,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-24T19:05:41.8302367+00:00",
+      "NumProgressed": 1634,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5765,7 +5770,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "MQ01_2",
@@ -5781,7 +5786,7 @@
       "Name": "High Profile",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "MQ02_2",
@@ -5813,7 +5818,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "MQ03_2",
@@ -5829,7 +5834,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "MQ03_4",
@@ -5837,7 +5842,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "MQ03_5",
@@ -5861,7 +5866,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MQ04_3",
@@ -5907,9 +5912,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 490
+      "UsersEstimate": 474
     },
     {
       "ID": "MQ06_2",
@@ -5917,7 +5922,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "MQ06_3",
@@ -5933,7 +5938,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "MQ07_1",
@@ -5957,7 +5962,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "MQ08_2",
@@ -5988,7 +5993,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1633,
+      "Progressed": 1634,
       "Completed": 51
     }
   ],
@@ -5996,8 +6001,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-23T12:03:16.4968274+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:06:21.5715606+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:05:41.8302359+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:59.7557821+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:06:21.5716032+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:03:20.7528962+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:05:41.8303127+00:00"
 }

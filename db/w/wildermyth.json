@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -178,9 +178,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 1617,
+  "EOS_Progressed": 1618,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2543,6 +2543,11 @@
       "Time": "2024-01-24T13:17:34.4577441+00:00",
       "NumProgressed": 1617,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T19:10:27.4673099+00:00",
+      "NumProgressed": 1618,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2624,9 +2629,9 @@
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2704,9 +2709,9 @@
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
       "SetID": "95dc8p",
       "Name": "Plague Doctor",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_loseBattle",
@@ -2872,9 +2877,9 @@
       "ID": "monarchs_acceptDeepkingsOffer",
       "SetID": "95dc8p",
       "Name": "Turncoat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -2896,9 +2901,9 @@
       "ID": "theme_fire_hit5EnemiesAtOnce",
       "SetID": "95dc8p",
       "Name": "Grillmaster",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -2984,9 +2989,9 @@
       "ID": "theme_wolf_killEveryEnemyType",
       "SetID": "95dc8p",
       "Name": "Lochias\u0027s Hunger",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -3001,15 +3006,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1617,
+      "Progressed": 1618,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:11:03.0297684+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:10:27.4673097+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.1220407+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:57:55.9971277+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:11:03.0298252+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:57:38.7733322+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:10:27.4673632+00:00"
 }

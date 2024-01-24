@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.04,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-08-28T17:08:21.3912781+00:00",
@@ -624,6 +624,11 @@
       "Time": "2024-01-24T11:11:29.5024584+00:00",
       "NumProgressed": 119,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T19:10:19.8202787+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-28T09:06:47.8073027+00:00",
@@ -634,7 +639,7 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
       "UsersEstimate": 83
     },
@@ -652,7 +657,7 @@
       "Name": "Well-travelled",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_012",
@@ -676,7 +681,7 @@
       "Name": "Little grey cells",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_015",
@@ -700,13 +705,13 @@
       "Name": "Little ideas",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
       "UsersEstimate": 46
     },
@@ -716,13 +721,13 @@
       "Name": "A treasured heirloom",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_02",
       "SetID": "7b646ck",
       "Name": "The Gala",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
       "UsersEstimate": 70
     },
@@ -730,7 +735,7 @@
       "ID": "ACH_020",
       "SetID": "7b646ck",
       "Name": "An old friend",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
       "UsersEstimate": 71
     },
@@ -786,9 +791,9 @@
       "ID": "ACH_027",
       "SetID": "7b646ck",
       "Name": "A peculiar fellow",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_028",
@@ -796,7 +801,7 @@
       "Name": "Impossible is possible",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_029",
@@ -876,7 +881,7 @@
       "Name": "Arthur Hastings",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_038",
@@ -898,7 +903,7 @@
       "ID": "ACH_04",
       "SetID": "7b646ck",
       "Name": "The Investigation Begins",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
       "UsersEstimate": 46
     },
@@ -906,9 +911,9 @@
       "ID": "ACH_040",
       "SetID": "7b646ck",
       "Name": "Johan Kristiansen",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_041",
@@ -916,7 +921,7 @@
       "Name": "Marc Allard",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_042",
@@ -930,7 +935,7 @@
       "ID": "ACH_043",
       "SetID": "7b646ck",
       "Name": "Nathaniel Dryden",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 40
     },
@@ -946,7 +951,7 @@
       "ID": "ACH_045",
       "SetID": "7b646ck",
       "Name": "Bartholomew",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 40
     },
@@ -1003,14 +1008,14 @@
     {
       "ID": "7b646ck",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:55.188252+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:10:19.8202784+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:22.4296185+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:58:57.2761241+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:55.1882832+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:58:37.4583628+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:10:19.8203119+00:00"
 }

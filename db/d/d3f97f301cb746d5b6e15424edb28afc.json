@@ -5364,9 +5364,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1661
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -5901,8 +5901,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-24T01:48:40.9947297+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:06:23.3179411+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:05:43.5399239+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:58:57.7551975+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:06:23.3180596+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:58:37.6981129+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:05:43.5400076+00:00"
 }

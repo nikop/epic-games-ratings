@@ -11164,18 +11164,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 21847,
       "NumberOfAwardsMax": 8066
+    },
+    {
+      "Time": "2024-01-24T19:00:07.9499663+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21854,
+      "NumberOfAwardsMax": 8073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21847,
-  "NumberOfAwardsMax": 8066,
+  "NumberOfAwards": 21854,
+  "NumberOfAwardsMax": 8073,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8066
+      "Count": 8073
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11244,9 +11250,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133618,
+  "EOS_Progressed": 133622,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41339,6 +41345,11 @@
       "Time": "2024-01-24T18:10:58.5841169+00:00",
       "NumProgressed": 133618,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T19:10:23.167283+00:00",
+      "NumProgressed": 133622,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41358,7 +41369,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9353
+      "UsersEstimate": 9354
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41478,7 +41489,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9353
+      "UsersEstimate": 9354
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41510,7 +41521,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9353
+      "UsersEstimate": 9354
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41574,7 +41585,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9353
+      "UsersEstimate": 9354
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41702,7 +41713,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10689
+      "UsersEstimate": 10690
     },
     {
       "ID": "hero_story_complete_all",
@@ -41886,7 +41897,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "combat_kill_collector",
@@ -41958,7 +41969,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41981,21 +41992,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133618,
+      "Progressed": 133622,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8487,
+      "Progressed": 8491,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-24T18:00:30.8811269+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:58.5841163+00:00",
+  "LastChanged": "2024-01-24T19:00:07.9499662+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:10:23.1672827+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:00:30.881128+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:58.584325+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:00:07.9499668+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:10:23.1674535+00:00"
 }

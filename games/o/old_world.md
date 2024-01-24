@@ -1,13 +1,13 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 327)  
+Rating: 4.65 (Ranked 328)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 6.00% | ~1,028 |
-| Play a Single Player Game | 6.00% | ~1,028 |
+| Settler | 6.00% | ~1,029 |
+| Play a Single Player Game | 6.00% | ~1,029 |
 | Explorer | 5.00% | ~857 |
 | Friendly Family | 5.00% | ~857 |
 | Able | 4.00% | ~686 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,141 (Ranked 170)  
+Progressed: 17,142 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
-| 2024-01-24 | 17,141 | 5 |
+| 2024-01-24 | 17,142 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,946 (Ranked 224)  

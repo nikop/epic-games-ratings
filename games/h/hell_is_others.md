@@ -5,8 +5,8 @@ Rating: 4.39 (Ranked 786)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,918 |
-| Predator I | 23.00% | ~60,036 |
+| Survivor | 31.00% | ~80,919 |
+| Predator I | 23.00% | ~60,037 |
 | Fixer I | 10.00% | ~26,103 |
 | A week in Century City | 10.00% | ~26,103 |
 | The Wait | 7.00% | ~18,272 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 786)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,026 (Ranked 69)  
+Progressed: 261,029 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 3 (0.00%) (Ranked 410)
 | 2024-01-21 | 260,940 | 3 |
 | 2024-01-22 | 260,974 | 3 |
 | 2024-01-23 | 261,002 | 3 |
-| 2024-01-24 | 261,026 | 3 |
+| 2024-01-24 | 261,029 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 452)  
 Sum: 390 (Ranked 366)  

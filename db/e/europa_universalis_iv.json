@@ -14719,10 +14719,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65653,
       "NumberOfAwardsMax": 7962
+    },
+    {
+      "Time": "2024-01-24T18:57:55.8502904+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65676,
+      "NumberOfAwardsMax": 7962
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65653,
+  "NumberOfAwards": 65676,
   "NumberOfAwardsMax": 7962,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14730,7 +14736,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7619
+      "Count": 7642
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14793,9 +14799,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 504859,
+  "EOS_Progressed": 504890,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4226,
+  "EOS_NewPlayers": 4220,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47063,6 +47069,11 @@
       "Time": "2024-01-24T18:11:08.7062648+00:00",
       "NumProgressed": 504859,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T19:10:32.9197935+00:00",
+      "NumProgressed": 504890,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -49977,21 +49988,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 504859,
+      "Progressed": 504890,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 504859,
+      "Progressed": 504890,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-24T16:57:47.5932915+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:11:08.7062644+00:00",
+  "LastChanged": "2024-01-24T18:57:55.8502903+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:10:32.9197932+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:58:12.3488279+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:11:08.7074728+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:57:55.8502913+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:10:32.9208445+00:00"
 }

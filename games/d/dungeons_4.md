@@ -10,7 +10,7 @@ Rating: 4.73 (Ranked 186)
 | For the Horde! | 82.00% | ~647 |
 | Hammer Time, Round Two | 81.00% | ~639 |
 | The Hellwoods | 77.00% | ~608 |
-| The Plains of Strothalm | 72.00% | ~568 |
+| The Plains of Strothalm | 73.00% | ~576 |
 | Experienced Thalya | 72.00% | ~568 |
 | Bad Elves Go Everywhere | 70.00% | ~552 |
 | Thalya's Concentrated Fury | 68.00% | ~537 |

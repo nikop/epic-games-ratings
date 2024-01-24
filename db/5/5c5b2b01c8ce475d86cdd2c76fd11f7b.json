@@ -1012,9 +1012,9 @@
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "7on801h",
       "Name": "Cult of Personality",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -1185,8 +1185,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:06:51.2555954+00:00",
-  "LastUpdate_AppInfo": "2024-01-17T17:57:32.5337791+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:57:32.3440115+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:06:51.2556634+00:00"
+  "LastChanged_Achievements": "2024-01-24T19:06:10.4266924+00:00",
+  "LastUpdate_AppInfo": "2024-01-24T18:57:12.0797341+00:00",
+  "LastUpdate_Ratings": "2024-01-24T18:57:16.3874428+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:06:10.4267537+00:00"
 }

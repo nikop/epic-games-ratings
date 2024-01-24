@@ -367,9 +367,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1467,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4372,6 +4372,11 @@
       "Time": "2024-01-24T11:06:45.2967723+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T19:05:17.4762996+00:00",
+      "NumProgressed": 1467,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4424,7 +4429,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "BreakTheLoop",
@@ -4432,7 +4437,7 @@
       "Name": "Break the Loop",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "BridgeBuilder",
@@ -4440,7 +4445,7 @@
       "Name": "Bridge Builder",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ChasingTheLight",
@@ -4464,7 +4469,7 @@
       "Name": "Circular Oasis",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "DesolateIsland",
@@ -4496,7 +4501,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Excellent",
@@ -4544,7 +4549,7 @@
       "Name": "High Plain",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "IntoTheMachine",
@@ -4552,7 +4557,7 @@
       "Name": "Into the Machine",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "JustOneLap",
@@ -4600,7 +4605,7 @@
       "Name": "Museum Explorer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MuseumVisitor",
@@ -4640,7 +4645,7 @@
       "Name": "Overload",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Persistent",
@@ -4672,7 +4677,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "RenaissanceRobot",
@@ -4688,7 +4693,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Signatory",
@@ -4744,7 +4749,7 @@
       "Name": "The All-Gifted",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4776,7 +4781,7 @@
       "Name": "The Spark",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "TheThiefOfFire",
@@ -4800,7 +4805,7 @@
       "Name": "Touch Grass",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "TrevorsBiographer",
@@ -4808,7 +4813,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "VerdantCanyon",
@@ -4816,7 +4821,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Wanderers",
@@ -4848,14 +4853,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1467,
       "Completed": 3
     }
   ],
@@ -4863,8 +4868,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-24T01:50:01.4049363+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:05:56.8235576+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:05:17.4762991+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:59:58.1629914+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:05:56.8236185+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:59:33.701956+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:05:17.4763522+00:00"
 }

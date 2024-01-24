@@ -5,31 +5,31 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 108.00% | ~19,121 |
-| Before the Downfall | 103.00% | ~18,236 |
-| Money like Water | 101.00% | ~17,882 |
-| Minimalist | 99.00% | ~17,528 |
-| Builder | 91.00% | ~16,112 |
-| Eraser | 77.00% | ~13,633 |
-| Pocket of Trains | 72.00% | ~12,748 |
+| Trevithick's Legacy | 108.00% | ~19,120 |
+| Before the Downfall | 103.00% | ~18,235 |
+| Money like Water | 101.00% | ~17,881 |
+| Minimalist | 99.00% | ~17,527 |
+| Builder | 91.00% | ~16,111 |
+| Eraser | 77.00% | ~13,632 |
+| Pocket of Trains | 72.00% | ~12,747 |
 | Inspector | 65.00% | ~11,508 |
-| Going the Distance | 60.00% | ~10,623 |
+| Going the Distance | 60.00% | ~10,622 |
 | Oil Baron | 47.00% | ~8,321 |
 | Loads-a-Money | 47.00% | ~8,321 |
 | Helper of the People | 43.00% | ~7,613 |
-| Simplification | 37.00% | ~6,551 |
-| Box of Trains | 37.00% | ~6,551 |
-| Let There be Light | 36.00% | ~6,374 |
-| Hot Water | 34.00% | ~6,020 |
-| Indecisive | 32.00% | ~5,666 |
-| The scenic route | 30.00% | ~5,312 |
+| Simplification | 37.00% | ~6,550 |
+| Box of Trains | 37.00% | ~6,550 |
+| Let There be Light | 36.00% | ~6,373 |
+| Hot Water | 34.00% | ~6,019 |
+| Indecisive | 32.00% | ~5,665 |
+| The scenic route | 30.00% | ~5,311 |
 | Industrialist | 28.00% | ~4,957 |
 | Perfectionist | 26.00% | ~4,603 |
 | 8K is Enough for Everyone | 25.00% | ~4,426 |
 | Trains over Pipes | 25.00% | ~4,426 |
 | Man of Steel | 18.00% | ~3,187 |
 | Room Full of Trains | 14.00% | ~2,479 |
-| Investor | 11.00% | ~1,948 |
+| Investor | 11.00% | ~1,947 |
 | Multiverse | 8.00% | ~1,416 |
 | The poor groundwater levels | 8.00% | ~1,416 |
 | Metropolis | 8.00% | ~1,416 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 530)
 | Overdeer | 0.60% | ~106 |
 | Cloud Services | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,705 (Ranked 167)  
+Progressed: 17,704 (Ranked 167)  
 Completed: 22 (0.12%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |

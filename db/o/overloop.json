@@ -69,9 +69,9 @@
       "ID": "die_cube",
       "SetID": "c0a8gkh",
       "Name": "Cube??",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "die_field",
@@ -149,9 +149,9 @@
       "ID": "kill_douglas",
       "SetID": "c0a8gkh",
       "Name": "Douglas",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "kill_julia",
@@ -165,9 +165,9 @@
       "ID": "original_flowers",
       "SetID": "c0a8gkh",
       "Name": "Flowers for...",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "secret_ending",
@@ -219,8 +219,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:29.5545439+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:00.5419076+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:09:26.3517719+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:59.1852516+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:23.3586811+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:00.5419187+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:02:45.6120495+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:09:26.3517853+00:00"
 }

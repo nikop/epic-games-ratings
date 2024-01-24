@@ -2,9 +2,9 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -930,6 +930,11 @@
       "Time": "2024-01-24T13:12:28.9926003+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T19:05:18.536179+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1173,14 +1178,14 @@
       "Name": "Wales Interactive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 0
     }
   ],
@@ -1188,8 +1193,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:05:58.0096798+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:05:18.5361788+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:28.7390189+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:59:40.0989102+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:05:58.0097052+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:59:17.6710405+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:05:18.5361988+00:00"
 }

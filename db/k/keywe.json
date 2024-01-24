@@ -843,9 +843,9 @@
       "ID": "allCollectiblesFound",
       "SetID": "cfe0fhi",
       "Name": "Secrets of the Telepost",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "allCoursesCleared",
@@ -1010,8 +1010,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:04:31.5018619+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:03:53.4780644+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.8229571+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:59:48.0130398+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:04:31.5018818+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:59:25.709997+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:03:53.4780797+00:00"
 }

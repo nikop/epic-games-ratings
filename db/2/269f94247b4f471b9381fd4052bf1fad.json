@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -322,9 +322,9 @@
       "ID": "ACH_ATLAS",
       "SetID": "6lg1p1e",
       "Name": "Atlas",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BARGAIN-HUNTER",
@@ -530,9 +530,9 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_PROPERTY-DAMAGE",
@@ -609,8 +609,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:05.0217585+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:09:30.8829438+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:00:13.9100329+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:05.0217798+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:59:51.3040906+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:09:30.8829681+00:00"
 }

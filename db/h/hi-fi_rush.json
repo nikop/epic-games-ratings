@@ -291,9 +291,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17682,
+  "EOS_Progressed": 17683,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13226,6 +13226,11 @@
       "Time": "2024-01-24T18:04:26.6808482+00:00",
       "NumProgressed": 17682,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T19:03:48.7773746+00:00",
+      "NumProgressed": 17683,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13245,7 +13250,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6542
+      "UsersEstimate": 6543
     },
     {
       "ID": "Ach003",
@@ -13277,7 +13282,7 @@
       "Name": "Time to pay up!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "Ach007",
@@ -13365,7 +13370,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "Ach018",
@@ -13429,7 +13434,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "Ach026",
@@ -13565,7 +13570,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "Ach043",
@@ -13605,7 +13610,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7426
+      "UsersEstimate": 7427
     },
     {
       "ID": "Ach048",
@@ -13804,13 +13809,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17682,
+      "Progressed": 17683,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16203,
+      "Progressed": 16204,
       "Completed": 1931
     }
   ],
@@ -13818,8 +13823,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-23T11:01:11.7898211+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:04:26.6808479+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:03:48.7773743+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:57:38.5205322+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:04:26.6809751+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:57:22.7334367+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:03:48.7774753+00:00"
 }

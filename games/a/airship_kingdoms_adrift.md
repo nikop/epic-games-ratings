@@ -28,6 +28,7 @@
 | In His Majesty's Service! | 33.00% | ~2 |
 | Let’s get Rich | 33.00% | ~2 |
 | Our Tiny Little Fleet | 33.00% | ~2 |
+| Shellshock | 33.00% | ~2 |
 | Starting Up | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
 | For the Republic! | 17.00% | ~1 |
@@ -48,7 +49,6 @@
 | Not Again | 17.00% | ~1 |
 | Our Own Path | 17.00% | ~1 |
 | Shady Business | 17.00% | ~1 |
-| Shellshock | 17.00% | ~1 |
 | Small Business | 17.00% | ~1 |
 | There She Blows! | 17.00% | ~1 |
 | The Amber Flower | 17.00% | ~1 |

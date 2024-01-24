@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 24.00% | ~53,009 |
-| Get Busy Living | 15.00% | ~33,131 |
-| Samuel Norton | 9.00% | ~19,878 |
-| Spare The Rod | 4.00% | ~8,835 |
-| Don't Put Me In The Dark | 3.00% | ~6,626 |
-| Wait and Hope | 3.00% | ~6,626 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,626 |
-| Throw The Book At Them | 2.00% | ~4,417 |
-| Iron Bars | 2.00% | ~4,417 |
+| Stone Walls | 24.00% | ~53,014 |
+| Get Busy Living | 15.00% | ~33,134 |
+| Samuel Norton | 9.00% | ~19,880 |
+| Spare The Rod | 4.00% | ~8,836 |
+| Don't Put Me In The Dark | 3.00% | ~6,627 |
+| Wait and Hope | 3.00% | ~6,627 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,627 |
+| Throw The Book At Them | 2.00% | ~4,418 |
+| Iron Bars | 2.00% | ~4,418 |
 | D.B. Cooper | 1.00% | ~2,209 |
 | Reformation | 0.60% | ~1,325 |
 | Crowd Control | 0.50% | ~1,104 |
-| Freedom | 0.40% | ~883 |
+| Freedom | 0.40% | ~884 |
 | Confined | 0.30% | ~663 |
 | It's Not What You Know... | 0.10% | ~221 |
 | ... It's What You Can Prove | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,872 (Ranked 81)  
+Progressed: 220,893 (Ranked 81)  
 Completed: 13 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,10 +302,10 @@ Completed: 13 (0.01%) (Ranked 384)
 | 2024-01-21 | 219,897 | 13 |
 | 2024-01-22 | 220,291 | 13 |
 | 2024-01-23 | 220,615 | 13 |
-| 2024-01-24 | 220,872 | 13 |
+| 2024-01-24 | 220,893 | 13 |
 ## Awards
 Max (Great for Beginners): 652  (Ranked 203)  
-Sum: 4,997 (Ranked 154)  
+Sum: 5,000 (Ranked 154)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -314,7 +314,7 @@ Diff (max vs sum): 49
 | This game is Highly Recommended | 595 |
 | This game has Quickly Understood Controls | 593 |
 | This game is Relaxing | 579 |
-| This game has Diverse Characters | 556 |
+| This game has Diverse Characters | 559 |
 | This game has Amazing Storytelling | 528 |
 | This game has Amazing Characters | 483 |
 | This game is Educational | 459 |
@@ -689,4 +689,4 @@ Diff (max vs sum): 49
 | 2024-01-21 | 4.61 | - | 647 | 4,974 |
 | 2024-01-22 | 4.61 | - | 650 | 4,984 |
 | 2024-01-23 | 4.61 | - | 650 | 4,989 |
-| 2024-01-24 | 4.61 | - | 652 | 4,997 |
+| 2024-01-24 | 4.61 | - | 652 | 5,000 |

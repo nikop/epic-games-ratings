@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1804,
+  "EOS_Progressed": 1805,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4913,6 +4913,11 @@
       "Time": "2024-01-24T15:09:23.018579+00:00",
       "NumProgressed": 1804,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T19:10:03.5015268+00:00",
+      "NumProgressed": 1805,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4925,7 +4930,7 @@
       "Name": "The Teleprobe",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "AchvAllMemories",
@@ -5021,7 +5026,7 @@
       "Name": "Krauta is alive",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "AchvLava",
@@ -5053,7 +5058,7 @@
       "Name": "The Necroevolution",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "AchvNest",
@@ -5101,7 +5106,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "AchvReachCity",
@@ -5109,7 +5114,7 @@
       "Name": "The City",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "AchvReachCondor",
@@ -5156,7 +5161,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1804,
+      "Progressed": 1805,
       "Completed": 2
     }
   ],
@@ -5164,8 +5169,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-23T17:57:43.9429739+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:38.4531122+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:10:03.5015264+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-24T17:58:46.3155527+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:38.4531569+00:00"
+  "LastUpdate_Ratings": "2024-01-24T18:58:27.4692466+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:10:03.5015657+00:00"
 }

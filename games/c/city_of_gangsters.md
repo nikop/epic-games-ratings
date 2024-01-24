@@ -5,17 +5,17 @@ Rating: 4.28 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,209 |
-| Copacetic Coordination | 16.00% | ~58,160 |
-| Fronting the Money | 15.00% | ~54,525 |
-| The Dawn of Automation | 14.00% | ~50,890 |
-| Extraordinary Logistics | 14.00% | ~50,890 |
-| Dirty Money | 13.00% | ~47,255 |
-| Family First | 13.00% | ~47,255 |
-| Cleaning House | 12.00% | ~43,620 |
-| Room in the Back | 12.00% | ~43,620 |
-| Beating the Heat | 11.00% | ~39,985 |
-| Booze Baron | 11.00% | ~39,985 |
+| Corner Clout | 46.00% | ~167,212 |
+| Copacetic Coordination | 16.00% | ~58,161 |
+| Fronting the Money | 15.00% | ~54,526 |
+| The Dawn of Automation | 14.00% | ~50,891 |
+| Extraordinary Logistics | 14.00% | ~50,891 |
+| Dirty Money | 13.00% | ~47,256 |
+| Family First | 13.00% | ~47,256 |
+| Cleaning House | 12.00% | ~43,621 |
+| Room in the Back | 12.00% | ~43,621 |
+| Beating the Heat | 11.00% | ~39,986 |
+| Booze Baron | 11.00% | ~39,986 |
 | Friends on the Force | 10.00% | ~36,350 |
 | Neighborhood Watch | 10.00% | ~36,350 |
 | Core Corps | 8.00% | ~29,080 |
@@ -61,32 +61,32 @@ Rating: 4.28 (Ranked 904)
 | Cat’s Meow Clubs | 1.00% | ~3,635 |
 | Determined Deliveries | 1.00% | ~3,635 |
 | Stepping It Up | 1.00% | ~3,635 |
-| Crossing Over | 0.90% | ~3,271 |
+| Crossing Over | 0.90% | ~3,272 |
 | Boots in the Ground | 0.80% | ~2,908 |
 | Getting Fancy | 0.80% | ~2,908 |
-| Still Dreaming | 0.50% | ~1,817 |
-| Working on the Railroad | 0.50% | ~1,817 |
-| Social Butterfly | 0.50% | ~1,817 |
+| Still Dreaming | 0.50% | ~1,818 |
+| Working on the Railroad | 0.50% | ~1,818 |
+| Social Butterfly | 0.50% | ~1,818 |
 | Homemade Hooch | 0.40% | ~1,454 |
 | High End Booze | 0.40% | ~1,454 |
 | In-House Maintenance | 0.40% | ~1,454 |
-| Dirty Work | 0.30% | ~1,090 |
-| Bottled Up | 0.30% | ~1,090 |
-| Streetwise | 0.30% | ~1,090 |
+| Dirty Work | 0.30% | ~1,091 |
+| Bottled Up | 0.30% | ~1,091 |
+| Streetwise | 0.30% | ~1,091 |
 | Balkan Firewater | 0.20% | ~727 |
-| Windy City Win | 0.10% | ~363 |
-| Steeling Victory | 0.10% | ~363 |
-| Queen of the City | 0.10% | ~363 |
-| Vehicles to Victory | 0.10% | ~363 |
-| Putting on the Ritz | 0.10% | ~363 |
-| Bourbon Barrels | 0.10% | ~363 |
-| Tied Houses | 0.10% | ~363 |
-| Laying Low | 0.10% | ~363 |
-| No Applesauce | 0.10% | ~363 |
-| High Pillow | 0.10% | ~363 |
-| Station Master | 0.10% | ~363 |
+| Windy City Win | 0.10% | ~364 |
+| Steeling Victory | 0.10% | ~364 |
+| Queen of the City | 0.10% | ~364 |
+| Vehicles to Victory | 0.10% | ~364 |
+| Putting on the Ritz | 0.10% | ~364 |
+| Bourbon Barrels | 0.10% | ~364 |
+| Tied Houses | 0.10% | ~364 |
+| Laying Low | 0.10% | ~364 |
+| No Applesauce | 0.10% | ~364 |
+| High Pillow | 0.10% | ~364 |
+| Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,498 (Ranked 58)  
+Progressed: 363,505 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 7 (0.00%) (Ranked 410)
 | 2024-01-21 | 363,152 | 7 |
 | 2024-01-22 | 363,281 | 7 |
 | 2024-01-23 | 363,415 | 7 |
-| 2024-01-24 | 363,498 | 7 |
+| 2024-01-24 | 363,505 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 445)  
 Sum: 276 (Ranked 396)  

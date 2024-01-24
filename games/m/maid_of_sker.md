@@ -11,7 +11,7 @@
 | Easy Listening | 14.00% | ~44 |
 | Rapturous Applause! | 13.00% | ~41 |
 | Perfect Harmony! | 12.00% | ~38 |
-| Wales Interactive | 9.00% | ~28 |
+| Wales Interactive | 9.00% | ~29 |
 | Bull in a China Shop | 8.00% | ~25 |
 | Chief Butler | 8.00% | ~25 |
 | Sker Explorer | 4.00% | ~13 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 401)  
+Progressed: 317 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-20 | 312 | 0 |
 | 2024-01-22 | 313 | 0 |
 | 2024-01-23 | 315 | 0 |
-| 2024-01-24 | 316 | 0 |
+| 2024-01-24 | 317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

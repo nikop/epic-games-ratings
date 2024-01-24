@@ -2,9 +2,9 @@
   "ID": "fafd1bf30a1e489e819444377e309999",
   "Name": "Contraption Maker",
   "ProductSlug": "contraption-maker-66e1ec",
-  "Ranking_EOS_Progress": 677,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-22T18:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -71,6 +71,11 @@
     {
       "Time": "2024-01-24T15:09:35.2284232+00:00",
       "NumProgressed": 10,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T19:10:15.6163326+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 0
     }
   ],
@@ -138,7 +143,7 @@
       "ID": "PUZZLE_GUY",
       "SetID": "ad3jn51",
       "Name": "Puzzle Solver",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -156,7 +161,7 @@
       "Name": "Puzzle Rookie",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PUZZLE_SUPERSTAR",
@@ -226,7 +231,7 @@
       "ID": "WALK_500_MILES",
       "SetID": "ad3jn51",
       "Name": "I Would Walk 500 Miles",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -259,13 +264,13 @@
     {
       "ID": "ad3jn51",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2024-01-24T18:10:50.8915844+00:00",
+  "LastChanged_Achievements": "2024-01-24T19:10:15.6163323+00:00",
   "LastUpdate_AppInfo": "2024-01-22T04:57:13.5976666+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:03:27.642891+00:00",
-  "LastUpdate_Achievements": "2024-01-24T18:10:50.8915996+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:02:49.7107507+00:00",
+  "LastUpdate_Achievements": "2024-01-24T19:10:15.6163432+00:00"
 }

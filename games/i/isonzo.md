@@ -7,10 +7,10 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~5,121 |
-| Tutti Eroi! | 50.00% | ~5,020 |
-| Peak Performance | 45.00% | ~4,518 |
+| Tutti Eroi! | 50.00% | ~5,021 |
+| Peak Performance | 45.00% | ~4,519 |
 | Avanti Savoia! | 44.00% | ~4,418 |
-| Mamma Mia! | 35.00% | ~3,514 |
+| Mamma Mia! | 35.00% | ~3,515 |
 | Conrad von Hotzensocks | 32.00% | ~3,213 |
 | Gabriele D'Annunzio | 32.00% | ~3,213 |
 | Silver Lining | 27.00% | ~2,711 |
@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 19.00% | ~1,908 |
 | The Italian Job | 19.00% | ~1,908 |
 | Veni Vidi Vici | 19.00% | ~1,908 |
-| Ragazzi del '99 | 18.00% | ~1,807 |
+| Ragazzi del '99 | 18.00% | ~1,808 |
 | Luigi Cadorna | 16.00% | ~1,607 |
 | The Lion of the Isonzo | 14.00% | ~1,406 |
 | Shaken, Not Stirred | 13.00% | ~1,305 |
@@ -35,9 +35,9 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 9.00% | ~904 |
 | The Show Must Go On | 8.00% | ~803 |
 | Tosca | 8.00% | ~803 |
-| 12th Bottle of the Isonzo | 6.00% | ~602 |
-| Cercatore d'Oro | 6.00% | ~602 |
-| The Enlightment | 6.00% | ~602 |
+| 12th Bottle of the Isonzo | 6.00% | ~603 |
+| Cercatore d'Oro | 6.00% | ~603 |
+| The Enlightment | 6.00% | ~603 |
 | Generalissimo | 4.00% | ~402 |
 | Farewell to Arms | 3.00% | ~301 |
 | "O La Vittoria, O Tutti Accoppati" | 3.00% | ~301 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,041 (Ranked 188)  
+Progressed: 10,042 (Ranked 188)  
 Completed: 10 (0.10%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 10 (0.10%) (Ranked 322)
 | 2024-01-21 | 10,025 | 10 |
 | 2024-01-22 | 10,030 | 10 |
 | 2024-01-23 | 10,037 | 10 |
-| 2024-01-24 | 10,041 | 10 |
+| 2024-01-24 | 10,042 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 482)  
 Sum: 344 (Ranked 371)  
