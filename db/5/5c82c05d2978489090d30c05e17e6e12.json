@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76755,
+  "EOS_Progressed": 76759,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8407,6 +8407,11 @@
       "Time": "2024-01-24T00:09:22.5109736+00:00",
       "NumProgressed": 76755,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2024-01-24T01:59:53.2956159+00:00",
+      "NumProgressed": 76759,
+      "NumCompleted": 129
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8419,7 +8424,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28399
+      "UsersEstimate": 28401
     },
     {
       "ID": "Achievement_10",
@@ -8507,7 +8512,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21491
+      "UsersEstimate": 21493
     },
     {
       "ID": "Achievement_20",
@@ -8690,7 +8695,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76755,
+      "Progressed": 76759,
       "Completed": 129
     }
   ],
@@ -8698,8 +8703,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:09:22.5109731+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:59:53.2956157+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:59:18.6994733+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:09:22.5110404+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:49:34.9613258+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:59:53.2956672+00:00"
 }

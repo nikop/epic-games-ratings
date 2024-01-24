@@ -5,36 +5,36 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,868 |
-| First Class Student | 29.00% | ~112,256 |
-| Troll with the Punches | 27.00% | ~104,514 |
-| A Keen Sense of Spell | 24.00% | ~92,901 |
-| A Talent for Spending | 20.00% | ~77,418 |
-| That's a Keeper | 19.00% | ~73,547 |
-| Loom for Improvement | 16.00% | ~61,934 |
-| Followed the Butterflies | 15.00% | ~58,063 |
-| The Defender of Dragons | 14.00% | ~54,192 |
-| Challenge Accepted | 14.00% | ~54,192 |
-| The Hallowed Hero | 13.00% | ~50,321 |
-| Coasting Along | 13.00% | ~50,321 |
-| Grappling with a Graphorn | 12.00% | ~46,451 |
-| The One Who Mastered Memories | 12.00% | ~46,451 |
-| The Hero of Hogwarts | 12.00% | ~46,451 |
-| The Spell Master | 11.00% | ~42,580 |
-| Rising From the Ashes | 11.00% | ~42,580 |
-| The Avenging Gazelle | 9.00% | ~34,838 |
-| A Sallow Grave | 9.00% | ~34,838 |
-| Flight the Good Flight | 9.00% | ~34,838 |
-| Raising Expectations | 9.00% | ~34,838 |
-| Beast Friends | 8.00% | ~30,967 |
-| The Root of the Problem | 8.00% | ~30,967 |
-| The Gryffindor in the Graveyard | 8.00% | ~30,967 |
-| The Toast of the Town | 7.00% | ~27,096 |
-| Third Time's a Charm | 7.00% | ~27,096 |
-| The Seeker of Knowledge | 6.00% | ~23,225 |
-| Going Through the Potions | 6.00% | ~23,225 |
-| The Ends Petrify the Means | 6.00% | ~23,225 |
-| The Wise Owl | 6.00% | ~23,225 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,872 |
+| First Class Student | 29.00% | ~112,259 |
+| Troll with the Punches | 27.00% | ~104,517 |
+| A Keen Sense of Spell | 24.00% | ~92,904 |
+| A Talent for Spending | 20.00% | ~77,420 |
+| That's a Keeper | 19.00% | ~73,549 |
+| Loom for Improvement | 16.00% | ~61,936 |
+| Followed the Butterflies | 15.00% | ~58,065 |
+| The Defender of Dragons | 14.00% | ~54,194 |
+| Challenge Accepted | 14.00% | ~54,194 |
+| The Hallowed Hero | 13.00% | ~50,323 |
+| Coasting Along | 13.00% | ~50,323 |
+| Grappling with a Graphorn | 12.00% | ~46,452 |
+| The One Who Mastered Memories | 12.00% | ~46,452 |
+| The Hero of Hogwarts | 12.00% | ~46,452 |
+| The Spell Master | 11.00% | ~42,581 |
+| Rising From the Ashes | 11.00% | ~42,581 |
+| The Avenging Gazelle | 9.00% | ~34,839 |
+| A Sallow Grave | 9.00% | ~34,839 |
+| Flight the Good Flight | 9.00% | ~34,839 |
+| Raising Expectations | 9.00% | ~34,839 |
+| Beast Friends | 8.00% | ~30,968 |
+| The Root of the Problem | 8.00% | ~30,968 |
+| The Gryffindor in the Graveyard | 8.00% | ~30,968 |
+| The Toast of the Town | 7.00% | ~27,097 |
+| Third Time's a Charm | 7.00% | ~27,097 |
+| The Seeker of Knowledge | 6.00% | ~23,226 |
+| Going Through the Potions | 6.00% | ~23,226 |
+| The Ends Petrify the Means | 6.00% | ~23,226 |
+| The Wise Owl | 6.00% | ~23,226 |
 | Put Down Roots | 4.00% | ~15,484 |
 | The Auror's Apprentice | 4.00% | ~15,484 |
 | Room with a View | 4.00% | ~15,484 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,710 |
 | Collector's Edition | 0.40% | ~1,548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,088 (Ranked 56)  
+Progressed: 387,101 (Ranked 56)  
 Completed: 585 (0.15%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 585 (0.15%) (Ranked 300)
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
 | 2024-01-23 | 387,074 | 585 |
-| 2024-01-24 | 387,088 | 585 |
+| 2024-01-24 | 387,101 | 585 |
 ## Awards
 Max (Character Customization): 32,342  (Ranked 16)  
-Sum: 66,428 (Ranked 24)  
+Sum: 66,444 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -344,8 +344,8 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,838 |
 | This game has Diverse Characters | 1,799 |
 | This game is Relaxing | 1,780 |
+| This game has Amazing Characters | 1,761 |
 | This game is Highly Recommended | 1,750 |
-| This game has Amazing Characters | 1,745 |
 | This game has Quickly Understood Controls | 1,689 |
 | This game has Beautiful Visuals | 1,532 |
 | This game has a Creative Community | 1,134 |
@@ -658,3 +658,4 @@ Diff (max vs sum): -8
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
 | 2024-01-22 | 4.75 | 32,228 | 66,082 |
 | 2024-01-23 | 4.75 | 32,342 | 66,428 |
+| 2024-01-24 | 4.75 | 32,342 | 66,444 |

@@ -50,9 +50,9 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 0.60% | ~10 |
 | Lochias's Hunger | 0.60% | ~10 |
 | The Power of Friendship | 0.40% | ~6 |
+| Back into the Sea | 0.40% | ~6 |
 | I'm Not Smiling | 0.40% | ~6 |
 | Drauvenslayers | 0.30% | ~5 |
-| Back into the Sea | 0.30% | ~5 |
 | War-Ender | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
 | Solid as the Hills | 0.20% | ~3 |

@@ -2,12 +2,12 @@
   "ID": "ddce4dcb2dee4a3693e902573c77b146",
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
-  "Ranking_Rating": 669,
+  "Ranking_Rating": 668,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-15T08:30:00+00:00",
@@ -217,6 +217,6 @@
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
   "LastChanged": "2024-01-23T18:58:04.1273411+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:39.9765354+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:58:39.4715326+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:09:28.2776738+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:48:35.3042289+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:00:01.2786952+00:00"
 }

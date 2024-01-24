@@ -3892,9 +3892,9 @@
       "ID": "ACHIEVEMENTS_10",
       "SetID": "d4o538a",
       "Name": "Intermediate Chemist",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 770
+      "UsersEstimate": 790
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -4133,8 +4133,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-17T04:58:49.7548241+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:05:11.0960042+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:55:27.3102515+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1423657+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:59:19.1160078+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:05:11.0960454+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:49:35.6172285+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:55:27.3102879+00:00"
 }

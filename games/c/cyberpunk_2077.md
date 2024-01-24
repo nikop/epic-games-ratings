@@ -29,8 +29,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.40% | ~4,231 |
 | The Quick and the Dead | 0.40% | ~4,231 |
 | True Warrior | 0.40% | ~4,231 |
-| The Wandering Fool | 0.30% | ~3,173 |
-| Two Heads, One Bullet | 0.30% | ~3,173 |
+| Two Heads, One Bullet | 0.40% | ~4,231 |
+| The Wandering Fool | 0.30% | ~3,174 |
 | Spin Doctor | 0.30% | ~559 |
 | Easy Come, Easy Go | 0.30% | ~559 |
 | To Bad Decisions! | 0.20% | ~2,116 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,832 (Ranked 17)  
+Progressed: 1,057,856 (Ranked 17)  
 Completed: 3,153 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,10 +353,10 @@ Completed: 3,153 (0.30%) (Ranked 265)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,057,832 | 3,153 |
+| 2024-01-24 | 1,057,856 | 3,153 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 516,233 (Ranked 8)  
+Sum: 516,337 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -370,7 +370,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 29,735 |
 | This game is Relaxing | 28,778 |
 | This game has Quickly Understood Controls | 28,700 |
-| This game has a Creative Community | 19,955 |
+| This game has a Creative Community | 20,059 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -744,3 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
+| 2024-01-24 | 4.68 | - | 144,402 | 516,337 |

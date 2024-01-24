@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,754 |
+| The Old Grandmaster | 6.00% | ~45,755 |
 | The Assault | 5.00% | ~38,129 |
 | Life is your teacher | 5.00% | ~38,129 |
 | Lightning Hands | 5.00% | ~38,129 |
@@ -16,17 +16,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,877 |
 | Qi Gong: Essence | 3.00% | ~22,877 |
 | Old Child | 3.00% | ~22,877 |
-| A Lady's Blood in the Snow | 2.00% | ~15,251 |
-| Lady Wing Chun | 2.00% | ~15,251 |
-| Furious Fists | 2.00% | ~15,251 |
-| Kill Nil | 2.00% | ~15,251 |
-| Qi Gong: Mind | 2.00% | ~15,251 |
-| Qi Gong: Breath | 2.00% | ~15,251 |
-| I know Kung-Fu | 2.00% | ~15,251 |
-| Path of the Prospect | 2.00% | ~15,251 |
-| Rumble in the Hangar | 2.00% | ~15,251 |
-| Take damage to save time | 2.00% | ~15,251 |
-| Diligence as a goal | 2.00% | ~1,437 |
+| A Lady's Blood in the Snow | 2.00% | ~15,252 |
+| Lady Wing Chun | 2.00% | ~15,252 |
+| Furious Fists | 2.00% | ~15,252 |
+| Kill Nil | 2.00% | ~15,252 |
+| Qi Gong: Mind | 2.00% | ~15,252 |
+| Qi Gong: Breath | 2.00% | ~15,252 |
+| I know Kung-Fu | 2.00% | ~15,252 |
+| Path of the Prospect | 2.00% | ~15,252 |
+| Rumble in the Hangar | 2.00% | ~15,252 |
+| Take damage to save time | 2.00% | ~15,252 |
+| Diligence as a goal | 2.00% | ~1,438 |
 | Scareless | 1.00% | ~7,626 |
 | Dance of the Praying Mantis | 1.00% | ~7,626 |
 | Kung-Fu Tussle | 1.00% | ~7,626 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,571 (Ranked 26)  
-Completed: 13,006 (1.71%) (Ranked 150)  
+Progressed: 762,578 (Ranked 26)  
+Completed: 13,007 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -346,15 +346,15 @@ Completed: 13,006 (1.71%) (Ranked 150)
 | 2024-01-21 | 762,261 | 13,003 |
 | 2024-01-22 | 762,418 | 13,004 |
 | 2024-01-23 | 762,568 | 13,006 |
-| 2024-01-24 | 762,571 | 13,006 |
+| 2024-01-24 | 762,578 | 13,007 |
 ## Awards
 Max (Great Boss Battles): 7,269  (Ranked 59)  
-Sum: 12,868 (Ranked 88)  
+Sum: 12,870 (Ranked 88)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,269 |
-| This game has Diverse Characters | 713 |
+| This game has Diverse Characters | 715 |
 | This game has Challenging Combat | 653 |
 | This game has Amazing Storytelling | 627 |
 | This game has Amazing Characters | 624 |
@@ -739,3 +739,4 @@ Diff (max vs sum): -29
 | 2024-01-21 | 4.82 | - | 7,249 | 12,835 |
 | 2024-01-22 | 4.82 | - | 7,261 | 12,853 |
 | 2024-01-23 | 4.82 | - | 7,269 | 12,868 |
+| 2024-01-24 | 4.82 | - | 7,269 | 12,870 |

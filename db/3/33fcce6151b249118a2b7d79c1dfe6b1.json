@@ -76,9 +76,9 @@
       "ID": "BattleWonByLand",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Land",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BattleWonBySea",
@@ -164,9 +164,9 @@
       "ID": "CompleteLevel8",
       "SetID": "8j3le2g",
       "Name": "Wartime Lil",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteLevel9",
@@ -316,9 +316,9 @@
       "ID": "PerfectLevel8",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 8",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerfectLevel9",
@@ -442,8 +442,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:04:42.6341075+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:54:46.9485592+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:58:37.4900778+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:04:42.6341404+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:48:31.9294103+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:54:46.9485857+00:00"
 }

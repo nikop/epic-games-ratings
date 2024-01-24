@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2181,
+  "EOS_Progressed": 2182,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -5309,6 +5309,11 @@
       "Time": "2024-01-23T19:10:07.7179554+00:00",
       "NumProgressed": 2181,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-24T02:01:25.0388178+00:00",
+      "NumProgressed": 2182,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 16,
@@ -5328,7 +5333,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -5360,7 +5365,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -5376,7 +5381,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5384,7 +5389,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5424,7 +5429,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_THEEND",
@@ -5447,7 +5452,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2181,
+      "Progressed": 2182,
       "Completed": 84
     }
   ],
@@ -5455,8 +5460,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:10:38.1713753+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:01:25.0388174+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:03:19.3801392+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:10:38.171414+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:52:03.0464955+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:01:25.0388849+00:00"
 }

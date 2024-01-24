@@ -7,14 +7,14 @@ Rating: 4.85 (Ranked 39)
 | ---- | ---------- | ----- |
 | Start with a bang! | 56.00% | ~9,880 |
 | Feeling the beat! | 56.00% | ~9,880 |
-| You can pet the cat! | 51.00% | ~8,997 |
+| You can pet the cat! | 51.00% | ~8,998 |
 | Who put gears in there? | 42.00% | ~7,410 |
 | Cream of the Crop | 37.00% | ~6,528 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,351 |
-| You got this, Peppermint? | 32.00% | ~5,645 |
+| You got this, Peppermint? | 32.00% | ~5,646 |
 | Perfect Parry | 30.00% | ~5,293 |
 | Alright, that felt AWESOME! | 29.00% | ~5,116 |
-| I play my own way! | 25.00% | ~4,410 |
+| I play my own way! | 25.00% | ~4,411 |
 | This will cost you big time | 24.00% | ~4,234 |
 | Uh, they were broken when I got here | 23.00% | ~4,058 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,881 |
@@ -27,8 +27,8 @@ Rating: 4.85 (Ranked 39)
 | Out in a puff of smoke | 15.00% | ~2,646 |
 | Time to pay up! | 14.00% | ~2,470 |
 | I look cool. But I can look COOLER. | 14.00% | ~2,470 |
-| Who's the boss now? | 13.00% | ~2,293 |
-| Perfecter Parry-er! | 13.00% | ~2,293 |
+| Who's the boss now? | 13.00% | ~2,294 |
+| Perfecter Parry-er! | 13.00% | ~2,294 |
 | I have to read these things? | 12.00% | ~2,117 |
 | NOW we got a kickass hideout! | 10.00% | ~1,616 |
 | There's such a thing as TOO helpful | 9.00% | ~1,588 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,642 (Ranked 168)  
+Progressed: 17,643 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,6 +346,7 @@ Completed: 8 (0.05%) (Ranked 348)
 | 2024-01-21 | 17,560 | 8 |
 | 2024-01-22 | 17,609 | 8 |
 | 2024-01-23 | 17,642 | 8 |
+| 2024-01-24 | 17,643 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

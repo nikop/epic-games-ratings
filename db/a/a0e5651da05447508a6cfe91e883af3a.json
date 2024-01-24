@@ -4,7 +4,7 @@
   "ProductSlug": "dark-table-ccg-abe8b6",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3409,6 +3409,11 @@
       "Time": "2024-01-24T00:10:38.7090199+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T02:01:25.7168316+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -3525,7 +3530,7 @@
       "Name": "First Login",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1078
     },
     {
       "ID": "Losses_100",
@@ -3619,9 +3624,9 @@
       "ID": "Wins_Void_17",
       "SetID": "2bonhb9",
       "Name": "Void Origin Player",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Wins_Water_17",
@@ -3636,14 +3641,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1078,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:10:38.7090194+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:01:25.7168313+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.8880219+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:58:45.4441194+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:10:38.709055+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:48:45.1126005+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:01:25.7168614+00:00"
 }

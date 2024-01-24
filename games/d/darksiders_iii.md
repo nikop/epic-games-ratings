@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 663)  
+Rating: 4.48 (Ranked 662)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 69.00% | ~472 |
 | Helping Hand | 65.00% | ~445 |
 | Increased Vigor | 62.00% | ~424 |
-| Fight Fire with Fire | 59.00% | ~404 |
+| Fight Fire with Fire | 60.00% | ~410 |
 | Increased Capacity | 57.00% | ~390 |
 | Just the start | 51.00% | ~349 |
 | Perfect Storm | 47.00% | ~321 |

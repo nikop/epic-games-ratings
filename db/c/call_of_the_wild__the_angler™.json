@@ -1057,7 +1057,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8413,
+  "EOS_Progressed": 8414,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -14447,6 +14447,11 @@
       "Time": "2024-01-23T22:08:51.5899408+00:00",
       "NumProgressed": 8413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T01:59:51.9791565+00:00",
+      "NumProgressed": 8414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14506,7 +14511,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14688,9 +14693,9 @@
       "ID": "ACHIEVEMENT_030",
       "SetID": "1a05lfd",
       "Name": "Gonna Need a Bigger Boat",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -14777,13 +14782,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8413,
+      "Progressed": 8414,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7785,
+      "Progressed": 7786,
       "Completed": 113
     }
   ],
@@ -14791,8 +14796,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-23T15:00:04.156309+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:09:21.6117744+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:59:51.9791563+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:59:49.6647742+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:09:21.6118976+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:50:20.7558762+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:59:51.9792256+00:00"
 }

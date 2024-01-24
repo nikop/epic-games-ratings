@@ -291,9 +291,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17642,
+  "EOS_Progressed": 17643,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13161,6 +13161,11 @@
       "Time": "2024-01-23T21:06:00.3183739+00:00",
       "NumProgressed": 17642,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T01:58:23.6932335+00:00",
+      "NumProgressed": 17643,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13220,7 +13225,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "Ach008",
@@ -13300,7 +13305,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "Ach018",
@@ -13364,7 +13369,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5645
+      "UsersEstimate": 5646
     },
     {
       "ID": "Ach026",
@@ -13420,7 +13425,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "Ach033",
@@ -13572,7 +13577,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8997
+      "UsersEstimate": 8998
     },
     {
       "ID": "Ach052",
@@ -13739,13 +13744,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17642,
+      "Progressed": 17643,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16163,
+      "Progressed": 16164,
       "Completed": 1931
     }
   ],
@@ -13753,8 +13758,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-23T11:01:11.7898211+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:06:47.8587215+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:58:23.6932332+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:00:38.4653615+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:06:47.8588321+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:51:37.0603341+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:58:23.6933304+00:00"
 }

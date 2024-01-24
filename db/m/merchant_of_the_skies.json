@@ -3,8 +3,8 @@
   "Name": "Merchant of the Skies",
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 962,
+  "EOS_Progressed": 963,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.46,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:10.0879802+00:00",
@@ -227,6 +227,11 @@
       "Time": "2024-01-11T01:55:45.5483212+00:00",
       "NumProgressed": 962,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-24T01:59:17.52182+00:00",
+      "NumProgressed": 963,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -236,9 +241,9 @@
       "ID": "achievement_bank_invested",
       "SetID": "7171fo0",
       "Name": "Thrifty",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_botanical",
@@ -262,7 +267,7 @@
       "Name": "Giants",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_got_rich",
@@ -286,7 +291,7 @@
       "Name": "Real Estate",
       "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_lighthouse",
@@ -294,7 +299,7 @@
       "Name": "Lighthouse Builder",
       "Percentage": 12,
       "XP": 180,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_quest_completed",
@@ -310,7 +315,7 @@
       "Name": "New Ride",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_ship_fueled",
@@ -318,7 +323,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -333,7 +338,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 14
     }
   ],
@@ -341,8 +346,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:08:57.2429894+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:59:17.5218196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:23.3305491+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:00:33.6190433+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:08:57.2430015+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:51:29.1263714+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:59:17.5218296+00:00"
 }

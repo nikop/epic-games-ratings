@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7826,
+  "EOS_Progressed": 7827,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -7143,6 +7143,11 @@
       "Time": "2024-01-23T20:05:32.8737017+00:00",
       "NumProgressed": 7826,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-24T01:57:16.2061994+00:00",
+      "NumProgressed": 7827,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7210,7 +7215,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -7218,7 +7223,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -7242,7 +7247,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "AK_ON_TOWN",
@@ -7250,7 +7255,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7266,7 +7271,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -7354,7 +7359,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -7369,15 +7374,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7826,
+      "Progressed": 7827,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:06:28.6130339+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:57:16.206199+00:00",
   "LastUpdate_AppInfo": "2024-01-21T02:57:10.9974251+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:04:10.8679689+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:06:28.6130832+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:54:00.4832006+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:57:16.2062462+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 468,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2256,9 +2256,9 @@
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
       "SetID": "4n84pon",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ENTER_ALBION",
@@ -2416,9 +2416,9 @@
       "ID": "ACH_SKATE_ALBION",
       "SetID": "4n84pon",
       "Name": "To Russia With Love",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
@@ -2497,8 +2497,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:10:08.2126865+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:00:56.8325851+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:59:08.0733659+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:10:08.2127256+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:49:18.2054551+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:00:56.8326259+00:00"
 }

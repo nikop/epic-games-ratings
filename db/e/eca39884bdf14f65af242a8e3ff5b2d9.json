@@ -2,12 +2,12 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
@@ -1713,10 +1713,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 1688,
       "NumberOfAwardsMax": 204
+    },
+    {
+      "Time": "2024-01-24T01:47:20.9776655+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1693,
+      "NumberOfAwardsMax": 204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1688,
+  "NumberOfAwards": 1693,
   "NumberOfAwardsMax": 204,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1760,7 +1766,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 150
+      "Count": 155
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1799,8 +1805,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-01-23T23:57:50.0665006+00:00",
+  "LastChanged": "2024-01-24T01:47:20.9776653+00:00",
   "LastUpdate_AppInfo": "2024-01-22T09:57:01.2389824+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:57:50.0665011+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:08:48.3326009+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:47:20.9776661+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:59:05.2849009+00:00"
 }

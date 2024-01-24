@@ -5,17 +5,17 @@ Rating: 4.35 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 13.00% | ~13 |
+| Hail to the King, Baby | 15.00% | ~15 |
 | Bring it on! | 11.00% | ~11 |
+| Full House | 11.00% | ~11 |
 | Help! Help! I’m being repressed | 11.00% | ~11 |
 | Can’t Touch This | 10.00% | ~10 |
-| Full House | 10.00% | ~10 |
-| There is no Nobility in Poverty | 9.00% | ~9 |
+| There is no Nobility in Poverty | 10.00% | ~10 |
 | Path of Glory | 8.00% | ~8 |
 | The finest merchandise this side of river Jordan | 6.00% | ~6 |
+| Call the Boys | 5.00% | ~5 |
 | Do you read Sutter Cane? | 5.00% | ~5 |
 | They Got What They Deserved | 5.00% | ~5 |
-| Call the Boys | 4.00% | ~4 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~4 |
 | ‘Tis but a scratch | 4.00% | ~4 |
 | What we’ve got here is failure to communicate | 4.00% | ~4 |
@@ -27,19 +27,19 @@ Rating: 4.35 (Ranked 836)
 | Kingslayer | 3.00% | ~3 |
 | Learn Me a Book | 3.00% | ~3 |
 | Pillars of the Earth | 3.00% | ~3 |
+| Playerxander the Great | 3.00% | ~3 |
 | All the King's Men | 2.00% | ~2 |
+| Battle of the Four Armies | 2.00% | ~2 |
+| Blinded by Science | 2.00% | ~2 |
 | Cut-Me-Own-Throat | 2.00% | ~2 |
 | He made it out, but with an arrow in his back | 2.00% | ~2 |
 | Let Us Pray | 2.00% | ~2 |
 | Naught but a Seamless Victory | 2.00% | ~2 |
 | On the third day at dawn, look east | 2.00% | ~2 |
-| Playerxander the Great | 2.00% | ~2 |
 | Scientia potentia es | 2.00% | ~2 |
 | Time to find India | 2.00% | ~2 |
 | Vlad the Impaler | 2.00% | ~2 |
 | A Quiet Palace | 1.00% | ~1 |
-| Battle of the Four Armies | 1.00% | ~1 |
-| Blinded by Science | 1.00% | ~1 |
 | Crusade Invoker, no Regret | 1.00% | ~1 |
 | Fighting with Power and Steel | 1.00% | ~1 |
 | Greed is Good | 1.00% | ~1 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 504)  
+Progressed: 98 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 97 | 0 |
+| 2024-01-24 | 98 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

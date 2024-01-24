@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19256,
+  "EOS_Progressed": 19257,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18113,6 +18113,11 @@
       "Time": "2024-01-24T00:06:31.7746496+00:00",
       "NumProgressed": 19256,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-24T01:57:20.7770949+00:00",
+      "NumProgressed": 19257,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18149,7 +18154,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "13",
@@ -18181,7 +18186,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "17",
@@ -18205,7 +18210,7 @@
       "Name": "Martian Music",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "2",
@@ -18221,7 +18226,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "21",
@@ -18261,7 +18266,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "26",
@@ -18277,7 +18282,7 @@
       "Name": "Bosmang",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "28",
@@ -18331,9 +18336,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2888
+      "UsersEstimate": 3081
     },
     {
       "ID": "7",
@@ -18357,7 +18362,7 @@
       "Name": "Impossible Objects",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "31",
@@ -18404,13 +18409,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19256,
+      "Progressed": 19257,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5210,
+      "Progressed": 5211,
       "Completed": 1399
     }
   ],
@@ -18418,8 +18423,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:06:31.7746492+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:57:20.7770944+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:59:54.8489384+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:06:31.7747548+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:50:29.0545206+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:57:20.7771712+00:00"
 }

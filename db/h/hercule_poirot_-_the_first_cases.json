@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -62,10 +62,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 510,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.37,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:42.6464552+00:00",
@@ -926,6 +926,11 @@
       "Time": "2024-01-22T15:09:19.3845351+00:00",
       "NumProgressed": 510,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T01:59:57.2647046+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 46,
@@ -1247,9 +1252,9 @@
       "ID": "ACH_045",
       "SetID": "72imik0",
       "Name": "Viscount Edwin Van den Bosch",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_046",
@@ -1287,9 +1292,9 @@
       "ID": "ACH_08",
       "SetID": "72imik0",
       "Name": "The Family",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_09",
@@ -1305,15 +1310,15 @@
       "ID": "72imik0",
       "IsBase": true,
       "Progressed": 510,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:32:42.6542114+00:00",
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:09:25.4159253+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:59:57.2647042+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.6494504+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:03:59.0882664+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:09:25.4159583+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:53:44.306074+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:59:57.2647306+00:00"
 }

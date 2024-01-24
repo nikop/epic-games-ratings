@@ -539,7 +539,7 @@
   ],
   "EOS_Progressed": 3590,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6181,9 +6181,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_13",
@@ -6542,8 +6542,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-23T19:58:05.0105982+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:10:47.5349056+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:01:37.5164397+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:58:53.197682+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:10:47.5349551+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:48:57.329045+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:01:37.5164853+00:00"
 }

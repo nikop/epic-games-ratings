@@ -1,16 +1,16 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.54 (Ranked 551)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 19.00% | ~3,659 |
 | Captain Drummer | 17.00% | ~3,274 |
-| Martian Music | 15.00% | ~2,888 |
-| Bosmang | 15.00% | ~2,888 |
-| Celebrations are in Order | 15.00% | ~2,888 |
-| Impossible Objects | 15.00% | ~2,888 |
+| Celebrations are in Order | 16.00% | ~3,081 |
+| Martian Music | 15.00% | ~2,889 |
+| Bosmang | 15.00% | ~2,889 |
+| Impossible Objects | 15.00% | ~2,889 |
 | The Pit and the Pirates | 14.00% | ~2,696 |
 | Drone Dodger | 14.00% | ~2,696 |
 | Spore Taste | 13.00% | ~2,503 |
@@ -21,10 +21,10 @@ Rating: 4.54 (Ranked 552)
 | Madame Undersecretary | 10.00% | ~521 |
 | Heal Thy Medic | 9.00% | ~1,733 |
 | Keep Arjun in Check | 9.00% | ~469 |
-| Data Archivist | 8.00% | ~1,540 |
-| Drug Gifter | 8.00% | ~1,540 |
-| Thorston Mayer | 8.00% | ~1,540 |
-| Khan's Revenge | 8.00% | ~1,540 |
+| Data Archivist | 8.00% | ~1,541 |
+| Drug Gifter | 8.00% | ~1,541 |
+| Thorston Mayer | 8.00% | ~1,541 |
+| Khan's Revenge | 8.00% | ~1,541 |
 | Doctor Approved | 7.00% | ~1,348 |
 | Bottoms up! | 7.00% | ~1,348 |
 | Master Negotiator | 7.00% | ~365 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 552)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,256 (Ranked 160)  
+Progressed: 19,257 (Ranked 160)  
 Completed: 67 (0.35%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 67 (0.35%) (Ranked 257)
 | 2024-01-21 | 19,222 | 66 |
 | 2024-01-22 | 19,237 | 67 |
 | 2024-01-23 | 19,255 | 67 |
-| 2024-01-24 | 19,256 | 67 |
+| 2024-01-24 | 19,257 | 67 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

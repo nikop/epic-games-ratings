@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.54 (Ranked 551)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,10 +43,10 @@ Number of Ratings: 90  (23.09.2022)
 | This Is Earth Radio | 0.90% | ~4 |
 | Hidden Human Hive Harvest | 0.90% | ~4 |
 | PK Slam Dunk | 0.60% | ~3 |
+| Albion Bridge Is for Falling Down | 0.60% | ~3 |
+| To Russia With Love | 0.60% | ~3 |
 | Toilet Break | 0.40% | ~2 |
-| Albion Bridge Is for Falling Down | 0.40% | ~2 |
 | Ouch of Body Experience | 0.40% | ~2 |
-| To Russia With Love | 0.40% | ~2 |
 | Steezy Down the Spine | 0.40% | ~2 |
 | Path of the Furon | 0.40% | ~2 |
 | Trans-Siberian Express | 0.40% | ~2 |

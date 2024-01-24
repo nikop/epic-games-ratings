@@ -157,9 +157,9 @@
       "ID": "BodySpawnMaster",
       "SetID": "b42i7am",
       "Name": "Body Spawn Master",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BodySwapper",
@@ -373,17 +373,17 @@
       "ID": "GoldCollector",
       "SetID": "b42i7am",
       "Name": "Gold Collector",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GroupFightMastery",
       "SetID": "b42i7am",
       "Name": "Group Fight Mastery",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HardModeChampion",
@@ -589,9 +589,9 @@
       "ID": "TokenCollector",
       "SetID": "b42i7am",
       "Name": "Token Collector",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VanishMaster",
@@ -622,8 +622,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:04:48.4488583+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:54:55.2424819+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.71146+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:00:08.7161861+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:04:48.4489029+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:50:50.9281372+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:54:55.2425314+00:00"
 }

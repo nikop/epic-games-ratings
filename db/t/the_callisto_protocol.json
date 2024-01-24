@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22690,
+  "EOS_Progressed": 22692,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14798,6 +14798,11 @@
       "Time": "2024-01-23T22:09:54.8655191+00:00",
       "NumProgressed": 22690,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T02:01:19.9895964+00:00",
+      "NumProgressed": 22692,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14841,7 +14846,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14921,7 +14926,7 @@
       "Name": "In Striking Distance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "KILL_2HEAD",
@@ -14953,7 +14958,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4084
+      "UsersEstimate": 4085
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14961,7 +14966,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14985,7 +14990,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5672
+      "UsersEstimate": 5673
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15001,7 +15006,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15009,7 +15014,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4084
+      "UsersEstimate": 4085
     },
     {
       "ID": "STORY_HABITAT",
@@ -15017,7 +15022,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "STORY_HANGAR",
@@ -15041,7 +15046,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15153,7 +15158,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "KILL_BIOBOT",
@@ -15184,13 +15189,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22690,
+      "Progressed": 22692,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10616,
+      "Progressed": 10618,
       "Completed": 29
     }
   ],
@@ -15198,8 +15203,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:10:34.6697311+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:01:19.9895962+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:04:09.4246037+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:10:34.6698237+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:53:59.2186449+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:01:19.9896664+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,767 |
+| A Brief Tour of the Realms | 5.00% | ~12,768 |
 | Beast Intentions | 2.00% | ~5,107 |
 | The Cursed Farmer | 2.00% | ~5,107 |
 | The Mad Wizard | 2.00% | ~5,107 |
-| The Ring of Regeneration | 1.00% | ~2,553 |
-| Are Ya Chicken? | 1.00% | ~2,553 |
+| The Ring of Regeneration | 1.00% | ~2,554 |
+| Are Ya Chicken? | 1.00% | ~2,554 |
 | Were-verpowered | 0.90% | ~2,298 |
 | Seeking Allies | 0.90% | ~2,298 |
 | Friendly Imps | 0.90% | ~2,298 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,342 (Ranked 71)  
+Progressed: 255,351 (Ranked 71)  
 Completed: 2,635 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,7 +832,7 @@ Completed: 2,635 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,342 | 2,635 |
+| 2024-01-24 | 255,351 | 2,635 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,618 (Ranked 41)  

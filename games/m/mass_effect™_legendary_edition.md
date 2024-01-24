@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,170 |
+| Distinguished Service Medal | 90.00% | ~4,171 |
 | Spectre Inductee | 66.00% | ~3,058 |
-| Medal of Exploration I | 56.00% | ~2,594 |
-| Recruit | 53.00% | ~2,455 |
+| Medal of Exploration I | 56.00% | ~2,595 |
+| Recruit | 53.00% | ~2,456 |
 | Search and Rescue | 51.00% | ~2,363 |
-| Quarian Ally | 49.00% | ~2,270 |
+| Quarian Ally | 49.00% | ~2,271 |
 | Medal of Heroism | 44.00% | ~2,039 |
 | Honorarium of Corporate Service | 44.00% | ~2,039 |
 | Turian Ally | 41.00% | ~1,900 |
@@ -22,22 +22,22 @@
 | Soldier Ally | 36.00% | ~1,668 |
 | Charismatic | 36.00% | ~1,668 |
 | Very Elusive | 35.00% | ~1,622 |
-| Asari Ally | 34.00% | ~1,575 |
+| Asari Ally | 34.00% | ~1,576 |
 | Medal of Exploration III | 32.00% | ~1,483 |
 | Principled | 32.00% | ~1,483 |
 | Colonial Savior | 32.00% | ~1,483 |
 | Merciless | 32.00% | ~1,483 |
 | Scientist | 32.00% | ~1,483 |
-| Paramour I | 31.00% | ~1,436 |
-| Scholar | 31.00% | ~1,436 |
+| Paramour I | 31.00% | ~1,437 |
+| Krogan Ally | 31.00% | ~1,437 |
+| Scholar | 31.00% | ~1,437 |
 | Sentinel Ally | 30.00% | ~1,390 |
-| Krogan Ally | 30.00% | ~1,390 |
 | The Archangel | 30.00% | ~1,390 |
 | The Professor | 30.00% | ~1,390 |
 | Head Hunter | 30.00% | ~1,390 |
-| The Convict | 28.00% | ~1,297 |
-| Operative | 28.00% | ~1,297 |
-| Power Full | 28.00% | ~1,297 |
+| The Convict | 28.00% | ~1,298 |
+| Operative | 28.00% | ~1,298 |
+| Power Full | 28.00% | ~1,298 |
 | Colony Defense | 27.00% | ~1,251 |
 | The Krogan | 27.00% | ~1,251 |
 | Veteran | 26.00% | ~1,205 |
@@ -86,6 +86,7 @@
 | Weapon Specialist | 17.00% | ~788 |
 | Arbiter | 17.00% | ~788 |
 | Party Crasher | 16.00% | ~741 |
+| Fact Finder | 16.00% | ~741 |
 | Lost and Found | 16.00% | ~741 |
 | Under Pressure | 15.00% | ~695 |
 | Last Resort | 15.00% | ~695 |
@@ -93,7 +94,6 @@
 | Hard Target | 15.00% | ~695 |
 | Saboteur | 15.00% | ~695 |
 | Last Witness | 15.00% | ~695 |
-| Fact Finder | 15.00% | ~695 |
 | Problem Solver | 15.00% | ~695 |
 | No One Left Behind | 14.00% | ~649 |
 | Well Connected | 14.00% | ~649 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~42 |
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,633 (Ranked 212)  
+Progressed: 4,634 (Ranked 212)  
 Completed: 15 (0.32%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,4 +263,4 @@ Completed: 15 (0.32%) (Ranked 262)
 | 2024-01-21 | 4,564 | 14 |
 | 2024-01-22 | 4,594 | 14 |
 | 2024-01-23 | 4,630 | 14 |
-| 2024-01-24 | 4,633 | 15 |
+| 2024-01-24 | 4,634 | 15 |

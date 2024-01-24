@@ -2,7 +2,7 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 152,
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23312,
+  "EOS_Progressed": 23316,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -9137,6 +9137,11 @@
       "Time": "2024-01-24T00:05:35.5378175+00:00",
       "NumProgressed": 23312,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-24T01:56:01.860117+00:00",
+      "NumProgressed": 23316,
+      "NumCompleted": 125
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9149,7 +9154,7 @@
       "Name": "Avid Reader",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -9165,7 +9170,7 @@
       "Name": "Good Listener",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -9228,7 +9233,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 23312,
+      "Progressed": 23316,
       "Completed": 125
     }
   ],
@@ -9236,8 +9241,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:05:35.5378171+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:56:01.8601167+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:58:51.4018227+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:05:35.5378665+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:48:55.0801104+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:56:01.8601707+00:00"
 }

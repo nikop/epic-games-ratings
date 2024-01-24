@@ -9,12 +9,14 @@
 | Parry Mastery | 32.00% | ~11 |
 | Famine Defeated | 21.00% | ~7 |
 | Perceptive | 21.00% | ~7 |
+| Gold Collector | 15.00% | ~5 |
 | Possess Mastery | 15.00% | ~5 |
-| Gold Collector | 12.00% | ~4 |
+| Body Spawn Master | 6.00% | ~2 |
+| Group Fight Mastery | 6.00% | ~2 |
 | Master Assassin | 6.00% | ~2 |
+| Token Collector | 6.00% | ~2 |
 | War Defeated | 6.00% | ~2 |
 | Body Blast Master | 3.00% | ~1 |
-| Body Spawn Master | 3.00% | ~1 |
 | Body Swapper | 3.00% | ~1 |
 | Dash Mastery | 3.00% | ~1 |
 | Death Defeated | 3.00% | ~1 |
@@ -23,11 +25,9 @@
 | Earth Shatter Master | 3.00% | ~1 |
 | Elemental Mastery | 3.00% | ~1 |
 | Fire Blast Master | 3.00% | ~1 |
-| Group Fight Mastery | 3.00% | ~1 |
 | Land Mine Master | 3.00% | ~1 |
 | Reanimate Master | 3.00% | ~1 |
 | Skill Adept | 3.00% | ~1 |
-| Token Collector | 3.00% | ~1 |
 | Vanish Master | 3.00% | ~1 |
 | Blink Master | 0.00% | ~0 |
 | Body Snatcher Champion | 0.00% | ~0 |

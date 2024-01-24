@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3273,
+  "EOS_Progressed": 3275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9054,6 +9054,11 @@
       "Time": "2024-01-23T21:10:03.2921112+00:00",
       "NumProgressed": 3273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T02:01:28.1847358+00:00",
+      "NumProgressed": 3275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -9073,7 +9078,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "BOT_DESTROYER",
@@ -9089,7 +9094,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "CONQUEROR",
@@ -9097,7 +9102,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -9129,7 +9134,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -9145,7 +9150,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "GLOVE_SLAP",
@@ -9169,7 +9174,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "GUARD_MAKER",
@@ -9240,14 +9245,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3273,
+      "Progressed": 3275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:10:40.6319694+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:01:28.1847356+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:04.5235454+00:00",
-  "LastUpdate_Ratings": "2024-01-24T00:03:42.1535658+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:10:40.632032+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:53:18.2465461+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:01:28.1847856+00:00"
 }

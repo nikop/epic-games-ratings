@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25294,
+  "EOS_Progressed": 25297,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -24264,6 +24264,11 @@
       "Time": "2024-01-24T00:04:16.5953582+00:00",
       "NumProgressed": 25294,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-24T01:54:09.703544+00:00",
+      "NumProgressed": 25297,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24275,7 +24280,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19476
+      "UsersEstimate": 19479
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -24291,7 +24296,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -24315,7 +24320,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -24331,7 +24336,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12900
+      "UsersEstimate": 12901
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -24339,7 +24344,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -24347,7 +24352,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -24355,7 +24360,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "ACH_THE_FALL",
@@ -24363,7 +24368,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4048
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -24379,22 +24384,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25294,
+      "Progressed": 25297,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-24T00:04:16.5953574+00:00",
+  "LastChanged_Achievements": "2024-01-24T01:54:09.7035437+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:59:52.3776528+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:04:16.5972129+00:00"
+  "LastUpdate_Ratings": "2024-01-24T01:50:25.1822045+00:00",
+  "LastUpdate_Achievements": "2024-01-24T01:54:09.7036725+00:00"
 }

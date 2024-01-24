@@ -19,7 +19,7 @@ Rating: 4.20 (Ranked 974)
 | Beggars Would Ride | 25.00% | ~898 |
 | Control is an Illusion | 24.00% | ~862 |
 | The Means to Save It | 21.00% | ~754 |
-| Resilience to Sin | 19.00% | ~682 |
+| Resilience to Sin | 20.00% | ~718 |
 | A Familiar Nest | 19.00% | ~682 |
 | Periapt Alizarin | 19.00% | ~682 |
 | Geas Aristeya | 18.00% | ~646 |
