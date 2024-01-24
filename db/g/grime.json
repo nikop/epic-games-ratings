@@ -1951,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169478,
+  "EOS_Progressed": 169482,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24266,6 +24266,11 @@
       "Time": "2024-01-24T06:09:06.6999799+00:00",
       "NumProgressed": 169478,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2024-01-24T07:08:47.2757354+00:00",
+      "NumProgressed": 169482,
+      "NumCompleted": 468
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24390,7 +24395,7 @@
       "Name": "Glare",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -24645,21 +24650,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169061,
+      "Progressed": 169065,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169478,
+      "Progressed": 169482,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:09:06.6999796+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:08:47.2757352+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:00:45.6520826+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:09:06.7000972+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:59:47.5607038+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:08:47.2758539+00:00"
 }

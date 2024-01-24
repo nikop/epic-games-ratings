@@ -6,38 +6,38 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 70.00% | ~1,434 |
+| Balding bloot! | 70.00% | ~1,435 |
 | Lovebirds | 41.00% | ~840 |
 | Hug therapy | 36.00% | ~738 |
 | Life’s short, ride long | 36.00% | ~738 |
 | Over my dead body | 33.00% | ~676 |
 | Shake the rust off their feet | 17.00% | ~348 |
 | My little pony | 16.00% | ~328 |
-| Strike! | 15.00% | ~307 |
-| A love supreme | 15.00% | ~307 |
+| Strike! | 15.00% | ~308 |
+| A love supreme | 15.00% | ~308 |
 | In my shoes | 13.00% | ~266 |
 | Like new! | 12.00% | ~246 |
 | Head in the clouds | 12.00% | ~246 |
-| Heartstrings | 11.00% | ~225 |
+| Heartstrings | 11.00% | ~226 |
 | Back to rust | 10.00% | ~205 |
 | Flower Powered | 10.00% | ~205 |
 | Don't look back | 10.00% | ~205 |
 | Perfect timing | 8.00% | ~164 |
 | Unstoppable | 8.00% | ~164 |
-| Ain't no mountain high enough | 7.00% | ~143 |
+| Ain't no mountain high enough | 7.00% | ~144 |
 | Self-sustainability | 6.00% | ~123 |
 | Can't get wetter... | 4.00% | ~82 |
 | Spring cleaning | 4.00% | ~82 |
 | An eye for an eye | 4.00% | ~82 |
-| Second thoughts | 3.00% | ~61 |
-| Mooning the moon | 3.00% | ~61 |
-| Pearls before Birble | 3.00% | ~61 |
-| Strip-a-bobble | 3.00% | ~61 |
-| Last minute | 3.00% | ~61 |
+| Second thoughts | 3.00% | ~62 |
+| Mooning the moon | 3.00% | ~62 |
+| Pearls before Birble | 3.00% | ~62 |
+| Strip-a-bobble | 3.00% | ~62 |
+| Last minute | 3.00% | ~62 |
 | Thar she blows | 2.00% | ~41 |
 | À la carte | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,049 (Ranked 255)  
+Progressed: 2,050 (Ranked 255)  
 Completed: 10 (0.49%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 10 (0.49%) (Ranked 231)
 | 2024-01-21 | 2,035 | 10 |
 | 2024-01-22 | 2,040 | 10 |
 | 2024-01-23 | 2,048 | 10 |
-| 2024-01-24 | 2,049 | 10 |
+| 2024-01-24 | 2,050 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

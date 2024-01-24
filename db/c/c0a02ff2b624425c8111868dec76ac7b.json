@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -814,6 +814,11 @@
       "Time": "2024-01-20T14:08:58.6825193+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T07:09:19.8843133+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -842,7 +847,7 @@
       "Name": "Armored",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ALL_ORBS_COLLECTED",
@@ -872,9 +877,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -938,7 +943,7 @@
       "Name": "Absorption",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -1010,21 +1015,21 @@
       "Name": "Yin-Yang",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:09:46.0418597+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:09:19.8843127+00:00",
   "LastUpdate_AppInfo": "2024-01-19T17:56:56.9144894+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:01:35.1414942+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:09:46.0418832+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:00:25.6060669+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:09:19.8843287+00:00"
 }

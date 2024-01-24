@@ -10,7 +10,7 @@
 | Budding Conjuror | 62.00% | ~871 |
 | Man-Machine Master | 51.00% | ~717 |
 | Mountain Splitter | 51.00% | ~717 |
-| Charmed by the Hunt | 50.00% | ~702 |
+| Charmed by the Hunt | 51.00% | ~717 |
 | Memory Rouser | 49.00% | ~688 |
 | Subsistence Skills | 49.00% | ~688 |
 | Fusion Conjuror | 48.00% | ~674 |
@@ -32,7 +32,7 @@
 | Team Hunter | 22.00% | ~309 |
 | Karakuri Isle | 21.00% | ~295 |
 | Artful Assister | 21.00% | ~295 |
-| Reincarnation Cycle Stopper | 20.00% | ~281 |
+| Reincarnation Cycle Stopper | 21.00% | ~295 |
 | Human Believer | 18.00% | ~253 |
 | Left Arm Leverager | 17.00% | ~239 |
 | Quintessence of Form | 17.00% | ~239 |

@@ -57,7 +57,7 @@ Rating: 4.63 (Ranked 360)
 | A Conqueror's Cohort | 1.00% | ~73 |
 | Snap Out of It! | 0.70% | ~51 |
 | The Magic That Empowers Me! | 0.70% | ~51 |
-| Jack of All Tomes | 0.50% | ~36 |
+| Jack of All Tomes | 0.60% | ~44 |
 | A Very Special Ring | 0.50% | ~36 |
 | Returning Circle | 0.30% | ~22 |
 | I'll Fight You All | 0.20% | ~15 |

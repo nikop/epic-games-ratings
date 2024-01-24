@@ -9225,9 +9225,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762592,
+  "EOS_Progressed": 762599,
   "EOS_Completed": 13007,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35120,6 +35120,11 @@
       "Time": "2024-01-24T06:11:00.3158726+00:00",
       "NumProgressed": 762592,
       "NumCompleted": 13007
+    },
+    {
+      "Time": "2024-01-24T07:10:21.3948805+00:00",
+      "NumProgressed": 762599,
+      "NumCompleted": 13007
     }
   ],
   "TotalAchievements": 60,
@@ -35515,7 +35520,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -35610,21 +35615,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71893,
+      "Progressed": 71900,
       "Completed": 10820
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762592,
+      "Progressed": 762599,
       "Completed": 13007
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-24T01:53:43.3669284+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:11:00.3158724+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:10:21.3948803+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:03:56.7475269+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:11:00.316001+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:03:24.2652272+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:10:21.395082+00:00"
 }

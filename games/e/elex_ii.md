@@ -10,17 +10,17 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 39.00% | ~112 |
 | Role Model | 36.00% | ~103 |
 | Civilian | 36.00% | ~103 |
-| Creator | 33.00% | ~94 |
+| Creator | 33.00% | ~95 |
 | Military Leader | 31.00% | ~89 |
 | Festival-goer | 29.00% | ~83 |
 | Peddler | 27.00% | ~77 |
-| Commander | 26.00% | ~74 |
+| Commander | 26.00% | ~75 |
 | Irissa's Fate | 22.00% | ~63 |
 | Long-Haul Flyer | 21.00% | ~60 |
 | Family Reunion | 21.00% | ~60 |
-| Pass A38 | 19.00% | ~54 |
-| Eternal Oblivion | 19.00% | ~54 |
-| Banker | 18.00% | ~51 |
+| Pass A38 | 19.00% | ~55 |
+| Eternal Oblivion | 19.00% | ~55 |
+| Banker | 18.00% | ~52 |
 | Storyteller | 16.00% | ~46 |
 | Globetrotter | 16.00% | ~46 |
 | Berserker | 16.00% | ~46 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 415)  
+Progressed: 287 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 278 | 0 |
 | 2024-01-22 | 281 | 0 |
 | 2024-01-23 | 286 | 0 |
+| 2024-01-24 | 287 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

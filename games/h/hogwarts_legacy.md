@@ -5,40 +5,40 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,882 |
-| First Class Student | 29.00% | ~112,268 |
-| Troll with the Punches | 27.00% | ~104,525 |
-| A Keen Sense of Spell | 24.00% | ~92,911 |
-| A Talent for Spending | 20.00% | ~77,426 |
-| That's a Keeper | 19.00% | ~73,555 |
-| Loom for Improvement | 16.00% | ~61,941 |
-| Followed the Butterflies | 15.00% | ~58,070 |
-| The Defender of Dragons | 14.00% | ~54,198 |
-| Challenge Accepted | 14.00% | ~54,198 |
-| The Hallowed Hero | 13.00% | ~50,327 |
-| Coasting Along | 13.00% | ~50,327 |
-| Grappling with a Graphorn | 12.00% | ~46,456 |
-| The One Who Mastered Memories | 12.00% | ~46,456 |
-| The Hero of Hogwarts | 12.00% | ~46,456 |
-| The Spell Master | 11.00% | ~42,584 |
-| Rising From the Ashes | 11.00% | ~42,584 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,884 |
+| First Class Student | 29.00% | ~112,270 |
+| Troll with the Punches | 27.00% | ~104,527 |
+| A Keen Sense of Spell | 24.00% | ~92,913 |
+| A Talent for Spending | 20.00% | ~77,428 |
+| That's a Keeper | 19.00% | ~73,556 |
+| Loom for Improvement | 16.00% | ~61,942 |
+| Followed the Butterflies | 15.00% | ~58,071 |
+| The Defender of Dragons | 14.00% | ~54,199 |
+| Challenge Accepted | 14.00% | ~54,199 |
+| The Hallowed Hero | 13.00% | ~50,328 |
+| Coasting Along | 13.00% | ~50,328 |
+| Grappling with a Graphorn | 12.00% | ~46,457 |
+| The One Who Mastered Memories | 12.00% | ~46,457 |
+| The Hero of Hogwarts | 12.00% | ~46,457 |
+| The Spell Master | 11.00% | ~42,585 |
+| Rising From the Ashes | 11.00% | ~42,585 |
 | The Avenging Gazelle | 9.00% | ~34,842 |
 | A Sallow Grave | 9.00% | ~34,842 |
 | Flight the Good Flight | 9.00% | ~34,842 |
 | Raising Expectations | 9.00% | ~34,842 |
-| Beast Friends | 8.00% | ~30,970 |
-| The Root of the Problem | 8.00% | ~30,970 |
-| The Gryffindor in the Graveyard | 8.00% | ~30,970 |
-| The Toast of the Town | 7.00% | ~27,099 |
-| Third Time's a Charm | 7.00% | ~27,099 |
+| Beast Friends | 8.00% | ~30,971 |
+| The Root of the Problem | 8.00% | ~30,971 |
+| The Gryffindor in the Graveyard | 8.00% | ~30,971 |
+| The Toast of the Town | 7.00% | ~27,100 |
+| Third Time's a Charm | 7.00% | ~27,100 |
 | The Seeker of Knowledge | 6.00% | ~23,228 |
 | Going Through the Potions | 6.00% | ~23,228 |
 | The Ends Petrify the Means | 6.00% | ~23,228 |
 | The Wise Owl | 6.00% | ~23,228 |
-| Put Down Roots | 4.00% | ~15,485 |
-| The Auror's Apprentice | 4.00% | ~15,485 |
-| Room with a View | 4.00% | ~15,485 |
-| The Intrepid Explorer | 4.00% | ~15,485 |
+| Put Down Roots | 4.00% | ~15,486 |
+| The Auror's Apprentice | 4.00% | ~15,486 |
+| Room with a View | 4.00% | ~15,486 |
+| The Intrepid Explorer | 4.00% | ~15,486 |
 | Floo Around the World | 3.00% | ~11,614 |
 | The Good Samaritan | 2.00% | ~7,743 |
 | Savvy Spender | 2.00% | ~7,743 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,710 |
 | Collector's Edition | 0.40% | ~1,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,130 (Ranked 56)  
+Progressed: 387,138 (Ranked 56)  
 Completed: 585 (0.15%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 585 (0.15%) (Ranked 300)
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
 | 2024-01-23 | 387,074 | 585 |
-| 2024-01-24 | 387,130 | 585 |
+| 2024-01-24 | 387,138 | 585 |
 ## Awards
 Max (Character Customization): 32,342  (Ranked 16)  
-Sum: 66,550 (Ranked 24)  
+Sum: 66,567 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 1,848 |
 | This game is Extremely Fun | 1,838 |
 | This game has Diverse Characters | 1,799 |
-| This game is Relaxing | 1,780 |
+| This game is Relaxing | 1,797 |
 | This game has Amazing Characters | 1,761 |
 | This game is Highly Recommended | 1,750 |
 | This game has Quickly Understood Controls | 1,689 |
@@ -658,4 +658,4 @@ Diff (max vs sum): -8
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
 | 2024-01-22 | 4.75 | 32,228 | 66,082 |
 | 2024-01-23 | 4.75 | 32,342 | 66,428 |
-| 2024-01-24 | 4.75 | 32,342 | 66,550 |
+| 2024-01-24 | 4.75 | 32,342 | 66,567 |

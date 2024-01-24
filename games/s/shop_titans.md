@@ -8,12 +8,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 12.00% | ~18,318 |
 | Titan's First Steps | 12.00% | ~18,318 |
-| Basic in Bulk | 11.00% | ~16,791 |
+| Basic in Bulk | 11.00% | ~16,792 |
 | Tinkle of Coins | 10.00% | ~15,265 |
 | Disintermediation | 8.00% | ~12,212 |
 | It's Free Real Estate | 8.00% | ~12,212 |
 | Capitalism Ho! | 8.00% | ~12,212 |
-| Budding Merchant | 7.00% | ~10,685 |
+| Budding Merchant | 7.00% | ~10,686 |
 | One Easy Payment | 6.00% | ~9,159 |
 | Some Assembly Required | 6.00% | ~9,159 |
 | Another Satisfied Customer | 6.00% | ~9,159 |
@@ -32,34 +32,34 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 4.00% | ~6,106 |
 | Did we pack lunch? | 4.00% | ~6,106 |
 | Arcane Industries | 4.00% | ~6,106 |
-| On the Path to Greatness | 3.00% | ~4,579 |
-| A Notch Above the Rest | 3.00% | ~4,579 |
-| Ascended | 3.00% | ~4,579 |
-| Tax not Included | 3.00% | ~4,579 |
-| Research & Development | 3.00% | ~4,579 |
-| Vanity, Verily | 3.00% | ~4,579 |
-| Big Game Hunting | 3.00% | ~4,579 |
-| Fated Encounters | 3.00% | ~4,579 |
-| For the Hoard! | 3.00% | ~4,579 |
-| Blank Page Syndrome | 3.00% | ~4,579 |
-| Scrapbooker | 3.00% | ~4,579 |
-| Locally Sourced | 3.00% | ~4,579 |
-| Flying off the Shelves | 3.00% | ~4,579 |
-| This Power Level...! | 3.00% | ~4,579 |
-| Power of Love | 3.00% | ~4,579 |
-| Expansion in Session | 3.00% | ~4,579 |
-| Efficient Floor Space | 3.00% | ~4,579 |
-| Flawless Fusion | 3.00% | ~4,579 |
-| Trash to Treasure | 3.00% | ~4,579 |
-| Royal Ransom | 3.00% | ~4,579 |
-| Mammonite | 3.00% | ~4,579 |
-| Helping Hand | 3.00% | ~4,579 |
-| Natural 20 | 3.00% | ~4,579 |
-| Seasoned Journeyman | 3.00% | ~4,579 |
-| Black Friday Special | 3.00% | ~4,579 |
-| Magical Harmony | 3.00% | ~4,579 |
-| Special Ingredient | 3.00% | ~4,579 |
-| Complete Monopoly | 3.00% | ~4,579 |
+| On the Path to Greatness | 3.00% | ~4,580 |
+| A Notch Above the Rest | 3.00% | ~4,580 |
+| Ascended | 3.00% | ~4,580 |
+| Tax not Included | 3.00% | ~4,580 |
+| Research & Development | 3.00% | ~4,580 |
+| Vanity, Verily | 3.00% | ~4,580 |
+| Big Game Hunting | 3.00% | ~4,580 |
+| Fated Encounters | 3.00% | ~4,580 |
+| For the Hoard! | 3.00% | ~4,580 |
+| Blank Page Syndrome | 3.00% | ~4,580 |
+| Scrapbooker | 3.00% | ~4,580 |
+| Locally Sourced | 3.00% | ~4,580 |
+| Flying off the Shelves | 3.00% | ~4,580 |
+| This Power Level...! | 3.00% | ~4,580 |
+| Power of Love | 3.00% | ~4,580 |
+| Expansion in Session | 3.00% | ~4,580 |
+| Efficient Floor Space | 3.00% | ~4,580 |
+| Flawless Fusion | 3.00% | ~4,580 |
+| Trash to Treasure | 3.00% | ~4,580 |
+| Royal Ransom | 3.00% | ~4,580 |
+| Mammonite | 3.00% | ~4,580 |
+| Helping Hand | 3.00% | ~4,580 |
+| Natural 20 | 3.00% | ~4,580 |
+| Seasoned Journeyman | 3.00% | ~4,580 |
+| Black Friday Special | 3.00% | ~4,580 |
+| Magical Harmony | 3.00% | ~4,580 |
+| Special Ingredient | 3.00% | ~4,580 |
+| Complete Monopoly | 3.00% | ~4,580 |
 | Cream of the Crop | 2.00% | ~3,053 |
 | Top of the World | 2.00% | ~3,053 |
 | Proud Paladin | 2.00% | ~3,053 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~611 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,646 (Ranked 87)  
+Progressed: 152,650 (Ranked 87)  
 Completed: 362 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,17 +398,17 @@ Completed: 362 (0.24%) (Ranked 279)
 | 2024-01-21 | 152,414 | 360 |
 | 2024-01-22 | 152,516 | 360 |
 | 2024-01-23 | 152,616 | 362 |
-| 2024-01-24 | 152,646 | 362 |
+| 2024-01-24 | 152,650 | 362 |
 ## Awards
 Max (Great for Beginners): 4,975  (Ranked 84)  
-Sum: 28,045 (Ranked 52)  
+Sum: 28,047 (Ranked 52)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,975 |
 | This game is Relaxing | 4,085 |
 | This game has Quickly Understood Controls | 4,079 |
-| This game has Diverse Characters | 4,044 |
+| This game has Diverse Characters | 4,046 |
 | This game is Highly Recommended | 3,828 |
 | This game has Easy Combat | 3,782 |
 | This game has Playful Visuals | 3,252 |
@@ -774,3 +774,4 @@ Diff (max vs sum): 32
 | 2024-01-21 | 4.00 | - | 4,969 | 28,030 |
 | 2024-01-22 | 4.00 | - | 4,973 | 28,039 |
 | 2024-01-23 | 4.00 | - | 4,975 | 28,045 |
+| 2024-01-24 | 4.00 | - | 4,975 | 28,047 |

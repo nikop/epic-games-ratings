@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8345,
+  "EOS_Progressed": 8346,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1075,
+  "EOS_NewPlayers": 1074,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3494,6 +3494,11 @@
       "Time": "2024-01-24T06:09:42.6278306+00:00",
       "NumProgressed": 8345,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T07:09:17.0740978+00:00",
+      "NumProgressed": 8346,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -3569,7 +3574,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3755
+      "UsersEstimate": 3756
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3617,7 +3622,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -3632,7 +3637,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8345,
+      "Progressed": 8346,
       "Completed": 8
     }
   ],
@@ -3640,8 +3645,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:09:42.6278304+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:09:17.0740971+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:58:28.1800305+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:09:42.6278701+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:58:02.1188564+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:09:17.0741318+00:00"
 }

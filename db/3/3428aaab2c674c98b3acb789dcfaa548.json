@@ -10913,9 +10913,9 @@
       "Count": 1718
     }
   ],
-  "EOS_Progressed": 895477,
+  "EOS_Progressed": 895490,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 4521,
+  "EOS_NewPlayers": 4524,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -39643,6 +39643,11 @@
       "Time": "2024-01-24T06:10:56.7704544+00:00",
       "NumProgressed": 895477,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2024-01-24T07:10:18.4969984+00:00",
+      "NumProgressed": 895490,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 75,
@@ -39654,7 +39659,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 250734
+      "UsersEstimate": 250737
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -39694,7 +39699,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26864
+      "UsersEstimate": 26865
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -39710,7 +39715,7 @@
       "Name": "Cardiac Arrest!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26864
+      "UsersEstimate": 26865
     },
     {
       "ID": "ACHIEVEMENT_CASH_OUT",
@@ -39750,7 +39755,7 @@
       "Name": "Crafty",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 62683
+      "UsersEstimate": 62684
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -39758,7 +39763,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26864
+      "UsersEstimate": 26865
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -39806,7 +39811,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35819
+      "UsersEstimate": 35820
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -39862,7 +39867,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35819
+      "UsersEstimate": 35820
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -39926,7 +39931,7 @@
       "Name": "Master of the Mojave",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 26864
+      "UsersEstimate": 26865
     },
     {
       "ID": "ACHIEVEMENT_MAY_MY_HAND_FORGET_ITS_SKILL",
@@ -39950,7 +39955,7 @@
       "Name": "New Kid",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 62683
+      "UsersEstimate": 62684
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -40014,7 +40019,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35819
+      "UsersEstimate": 35820
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -40094,7 +40099,7 @@
       "Name": "Spinal-Tapped",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26864
+      "UsersEstimate": 26865
     },
     {
       "ID": "ACHIEVEMENT_STI_MPLY_AMAZING",
@@ -40118,7 +40123,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35819
+      "UsersEstimate": 35820
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -40126,7 +40131,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 62683
+      "UsersEstimate": 62684
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -40134,7 +40139,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26864
+      "UsersEstimate": 26865
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -40198,7 +40203,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35819
+      "UsersEstimate": 35820
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -40222,7 +40227,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26864
+      "UsersEstimate": 26865
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -40253,13 +40258,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 895477,
+      "Progressed": 895490,
       "Completed": 299
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 895477,
+      "Progressed": 895490,
       "Completed": 253
     }
   ],
@@ -40267,8 +40272,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2024-01-23T23:58:30.6978185+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:10:56.7704541+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:10:18.4969982+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:09.9158872+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:58:42.3349169+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:10:56.7706709+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:58:12.8633845+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:10:18.4971536+00:00"
 }

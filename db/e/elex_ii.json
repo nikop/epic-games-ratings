@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1722,6 +1722,11 @@
       "Time": "2024-01-23T20:05:52.0324839+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T07:08:16.8957992+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1742,7 +1747,7 @@
       "Name": "Banker",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "1000ELEXIT",
@@ -1974,7 +1979,7 @@
       "Name": "Creator",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DESTRUCTION",
@@ -1998,7 +2003,7 @@
       "Name": "Commander",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "FINDBILLY",
@@ -2062,7 +2067,7 @@
       "Name": "Pass A38",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "KILL200MONSTER",
@@ -2118,7 +2123,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "LOVECAJA",
@@ -2133,15 +2138,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:08:28.393336+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:08:16.8957988+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:02:00.1065472+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:08:28.39338+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:00:44.4662502+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:08:16.8958314+00:00"
 }

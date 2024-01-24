@@ -3,9 +3,9 @@
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 508,
-  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 94,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 87,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.32,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 6.38,
   "EosHistory": [
     {
       "Time": "2024-01-18T17:10:07.9287814+00:00",
@@ -329,6 +329,11 @@
       "Time": "2024-01-24T02:29:55.3252445+00:00",
       "NumProgressed": 94,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T07:04:07.3677097+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-01-18T17:10:07.9287841+00:00",
@@ -427,9 +432,9 @@
       "ID": "HATS_ALL",
       "SetID": "89ki2f0",
       "Name": "High fashion",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MONEY_100K",
@@ -467,17 +472,17 @@
       "ID": "PHOTOS_ALL",
       "SetID": "89ki2f0",
       "Name": "Photography student",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RESEARCH_ALL",
       "SetID": "89ki2f0",
       "Name": "Five head",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "RESEARCH_FIRST",
@@ -491,9 +496,9 @@
       "ID": "TASKS_ALL",
       "SetID": "89ki2f0",
       "Name": "Completionist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 150,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "UPGRADES_ALL",
@@ -525,13 +530,13 @@
       "ID": "89ki2f0",
       "IsBase": true,
       "Progressed": 94,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:04:51.7559778+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:04:07.3677095+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:57:34.7720655+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:04:51.7559987+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:57:21.626885+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:04:07.3677285+00:00"
 }

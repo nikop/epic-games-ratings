@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 762,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 51,
@@ -3111,10 +3111,10 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 406433,
+  "EOS_Progressed": 406441,
   "EOS_Completed": 1732,
-  "EOS_NewPlayers": 6385,
-  "EOS_NewCompleters": 98,
+  "EOS_NewPlayers": 6362,
+  "EOS_NewCompleters": 97,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
@@ -22346,6 +22346,11 @@
       "Time": "2024-01-24T06:09:44.5674633+00:00",
       "NumProgressed": 406433,
       "NumCompleted": 1732
+    },
+    {
+      "Time": "2024-01-24T07:09:18.6520215+00:00",
+      "NumProgressed": 406441,
+      "NumCompleted": 1732
     }
   ],
   "TotalAchievements": 24,
@@ -22397,7 +22402,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36579
+      "UsersEstimate": 36580
     },
     {
       "ID": "15",
@@ -22485,7 +22490,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16257
+      "UsersEstimate": 16258
     },
     {
       "ID": "3",
@@ -22509,7 +22514,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52836
+      "UsersEstimate": 52837
     },
     {
       "ID": "6",
@@ -22548,7 +22553,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 406433,
+      "Progressed": 406441,
       "Completed": 1732
     }
   ],
@@ -22556,8 +22561,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-24T03:59:09.874777+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:09:44.5674629+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:09:18.6520211+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:58.5530008+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:59:08.2598557+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:09:44.5675864+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:58:33.3724838+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:09:18.6521113+00:00"
 }

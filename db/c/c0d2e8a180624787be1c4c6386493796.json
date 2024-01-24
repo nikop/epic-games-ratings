@@ -1679,9 +1679,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -1799,9 +1799,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -1967,9 +1967,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 141
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -2182,8 +2182,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:04:41.968214+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:03:59.6103458+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:01:20.8661601+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:04:41.9682725+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:00:14.6346187+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:03:59.6104329+00:00"
 }

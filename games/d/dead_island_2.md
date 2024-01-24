@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,968 |
-| Hotel California | 10.00% | ~80,880 |
-| Break A Leg | 9.00% | ~72,792 |
-| Coup de Grâce | 8.00% | ~64,704 |
-| Hazardous Materials | 8.00% | ~64,704 |
-| Git Gutte! | 7.00% | ~56,616 |
-| Apex Predator | 7.00% | ~56,616 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,616 |
-| Dr. Reed, I Presume? | 6.00% | ~48,528 |
-| Bookworm | 6.00% | ~48,528 |
-| Friends Like These | 6.00% | ~48,528 |
-| Stacking the Deck | 6.00% | ~48,528 |
-| This is My Weapon | 6.00% | ~48,528 |
+| Welcome To Hell-A | 11.00% | ~88,969 |
+| Hotel California | 10.00% | ~80,881 |
+| Break A Leg | 9.00% | ~72,793 |
+| Coup de Grâce | 8.00% | ~64,705 |
+| Hazardous Materials | 8.00% | ~64,705 |
+| Git Gutte! | 7.00% | ~56,617 |
+| Apex Predator | 7.00% | ~56,617 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,617 |
+| Dr. Reed, I Presume? | 6.00% | ~48,529 |
+| Bookworm | 6.00% | ~48,529 |
+| Friends Like These | 6.00% | ~48,529 |
+| Stacking the Deck | 6.00% | ~48,529 |
+| This is My Weapon | 6.00% | ~48,529 |
 | Anger Management | 5.00% | ~40,440 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,440 |
 | But Doctor, I am Butcho | 5.00% | ~40,440 |
@@ -39,7 +39,7 @@ Rating: 4.54 (Ranked 551)
 | Max Headroom | 3.00% | ~24,264 |
 | Go, Bobcats! | 3.00% | ~24,264 |
 | Rising Star | 3.00% | ~24,264 |
-| One of Us | 3.00% | ~4,030 |
+| One of Us | 3.00% | ~4,031 |
 | Make it So | 2.00% | ~16,176 |
 | Smorgasbord | 2.00% | ~16,176 |
 | Not Even My Final Form | 2.00% | ~16,176 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,800 (Ranked 23)  
+Progressed: 808,809 (Ranked 23)  
 Completed: 2,629 (0.33%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 2,629 (0.33%) (Ranked 260)
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
-| 2024-01-24 | 808,800 | 2,629 |
+| 2024-01-24 | 808,809 | 2,629 |
 ## Awards
 Max (Great Boss Battles): 10,850  (Ranked 40)  
 Sum: 16,707 (Ranked 68)  

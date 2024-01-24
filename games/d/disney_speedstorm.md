@@ -1,16 +1,16 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 761)  
+Rating: 4.41 (Ranked 762)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,836 |
-| IT MAKES BOOM! | 9.00% | ~36,579 |
+| ROOKIE | 13.00% | ~52,837 |
+| IT MAKES BOOM! | 9.00% | ~36,580 |
 | EXTRA BOOST | 6.00% | ~24,386 |
 | PROTECTED | 5.00% | ~20,322 |
 | PRO | 5.00% | ~20,322 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,257 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,258 |
 | AGGRESSIVE RACER | 3.00% | ~12,193 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~8,129 |
 | TRAINING HARD | 2.00% | ~8,129 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 761)
 | FRAMED! | 0.70% | ~2,845 |
 | ACE TRICKSTER | 0.70% | ~2,845 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,433 (Ranked 51)  
+Progressed: 406,441 (Ranked 51)  
 Completed: 1,732 (0.43%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 1,732 (0.43%) (Ranked 242)
 | 2024-01-21 | 404,898 | 1,703 |
 | 2024-01-22 | 405,590 | 1,717 |
 | 2024-01-23 | 406,231 | 1,727 |
-| 2024-01-24 | 406,433 | 1,732 |
+| 2024-01-24 | 406,441 | 1,732 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 306)  
 Sum: 1,277 (Ranked 262)  

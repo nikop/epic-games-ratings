@@ -1,33 +1,33 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.41 (Ranked 761)  
+Rating: 4.41 (Ranked 762)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~223,988 |
-| Wind Master | 53.00% | ~179,869 |
-| Davy Jones | 18.00% | ~61,088 |
-| Hook, Line and Stinker | 15.00% | ~50,906 |
-| Gateway Slug | 6.00% | ~20,362 |
-| Race In Yo Face | 5.00% | ~16,969 |
-| Nice Shootin' Duds | 5.00% | ~16,969 |
-| Boarding Party | 5.00% | ~16,969 |
-| Great Balls Of Fire | 4.00% | ~13,575 |
-| Baby's First Thingamabob | 4.00% | ~13,575 |
-| By The Power Of Underskull | 3.00% | ~10,181 |
-| Light Up the Night | 3.00% | ~10,181 |
-| I Don't Like The Slugs | 3.00% | ~10,181 |
-| This Is Fine | 2.00% | ~6,788 |
-| But The Slugs Like Me | 2.00% | ~6,788 |
-| Pengy Fun | 2.00% | ~6,788 |
-| Polar Pontification | 1.00% | ~3,394 |
-| Aggro Kreb | 1.00% | ~3,394 |
-| No More Splosions | 1.00% | ~3,394 |
-| Snapping Turtle | 1.00% | ~3,394 |
-| Fish Kabob | 1.00% | ~3,394 |
-| Enter The Croakers | 1.00% | ~3,394 |
-| Crovert Ops | 0.90% | ~3,054 |
+| Tootorial | 66.00% | ~224,051 |
+| Wind Master | 53.00% | ~179,920 |
+| Davy Jones | 18.00% | ~61,105 |
+| Hook, Line and Stinker | 15.00% | ~50,921 |
+| Gateway Slug | 6.00% | ~20,368 |
+| Race In Yo Face | 5.00% | ~16,974 |
+| Nice Shootin' Duds | 5.00% | ~16,974 |
+| Boarding Party | 5.00% | ~16,974 |
+| Great Balls Of Fire | 4.00% | ~13,579 |
+| Baby's First Thingamabob | 4.00% | ~13,579 |
+| By The Power Of Underskull | 3.00% | ~10,184 |
+| Light Up the Night | 3.00% | ~10,184 |
+| I Don't Like The Slugs | 3.00% | ~10,184 |
+| This Is Fine | 2.00% | ~6,789 |
+| But The Slugs Like Me | 2.00% | ~6,789 |
+| Pengy Fun | 2.00% | ~6,789 |
+| Polar Pontification | 1.00% | ~3,395 |
+| Aggro Kreb | 1.00% | ~3,395 |
+| No More Splosions | 1.00% | ~3,395 |
+| Snapping Turtle | 1.00% | ~3,395 |
+| Fish Kabob | 1.00% | ~3,395 |
+| Enter The Croakers | 1.00% | ~3,395 |
+| Crovert Ops | 0.90% | ~3,055 |
 | Tekk Savvy | 0.70% | ~2,376 |
 | Blowfish Me Down | 0.40% | ~1,358 |
 | Getting Hooked | 0.40% | ~1,358 |
@@ -53,7 +53,7 @@ Rating: 4.41 (Ranked 761)
 | For Whom The Bells Toll | 0.10% | ~339 |
 | Don't I Know You? | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,375 (Ranked 63)  
+Progressed: 339,471 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 3 (0.00%) (Ranked 409)
 | 2024-01-21 | 331,634 | 2 |
 | 2024-01-22 | 335,398 | 2 |
 | 2024-01-23 | 338,664 | 3 |
-| 2024-01-24 | 339,375 | 3 |
+| 2024-01-24 | 339,471 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

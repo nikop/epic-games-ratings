@@ -479,9 +479,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 12146,
+  "EOS_Progressed": 12148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6009,6 +6009,11 @@
       "Time": "2024-01-24T06:11:30.6699536+00:00",
       "NumProgressed": 12146,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T07:10:47.0340771+00:00",
+      "NumProgressed": 12148,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6021,7 +6026,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "03_TheStolenStar",
@@ -6133,7 +6138,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "17_TheExemplar",
@@ -6540,7 +6545,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12146,
+      "Progressed": 12148,
       "Completed": 1
     }
   ],
@@ -6548,8 +6553,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:11:30.6699532+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:10:47.0340769+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:59:24.6661886+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:11:30.6700656+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:58:45.0387181+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:10:47.0341378+00:00"
 }

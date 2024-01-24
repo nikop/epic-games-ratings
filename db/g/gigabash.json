@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126457,
+  "EOS_Progressed": 126464,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2594,
+  "EOS_NewPlayers": 2584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5745,6 +5745,11 @@
       "Time": "2024-01-24T06:06:33.5598702+00:00",
       "NumProgressed": 126457,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T07:05:28.9287856+00:00",
+      "NumProgressed": 126464,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5821,7 +5826,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13910
+      "UsersEstimate": 13911
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5829,7 +5834,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25291
+      "UsersEstimate": 25293
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5853,7 +5858,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18969
+      "UsersEstimate": 18970
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5925,7 +5930,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11381
+      "UsersEstimate": 11382
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -6021,7 +6026,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7587
+      "UsersEstimate": 7588
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -6036,7 +6041,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126457,
+      "Progressed": 126464,
       "Completed": 0
     }
   ],
@@ -6044,8 +6049,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:06:33.5598699+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:05:28.9287853+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:00:31.4019898+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:06:33.5599115+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:59:36.275361+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:05:28.9288362+00:00"
 }

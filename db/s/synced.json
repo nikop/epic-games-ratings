@@ -1905,9 +1905,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90183,
+  "EOS_Progressed": 90188,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1994,
+  "EOS_NewPlayers": 1991,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17970,6 +17970,11 @@
       "Time": "2024-01-24T06:08:28.7968394+00:00",
       "NumProgressed": 90183,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-24T07:08:17.1804509+00:00",
+      "NumProgressed": 90188,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -17982,7 +17987,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42386
+      "UsersEstimate": 42388
     },
     {
       "ID": "10",
@@ -17998,7 +18003,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "12",
@@ -18006,7 +18011,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "13",
@@ -18046,7 +18051,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18938
+      "UsersEstimate": 18939
     },
     {
       "ID": "3",
@@ -18062,7 +18067,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8116
+      "UsersEstimate": 8117
     },
     {
       "ID": "5",
@@ -18086,7 +18091,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23448
+      "UsersEstimate": 23449
     },
     {
       "ID": "8",
@@ -18109,7 +18114,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90183,
+      "Progressed": 90188,
       "Completed": 76
     }
   ],
@@ -18117,8 +18122,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-23T13:57:48.0479941+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:08:28.7968391+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:08:17.1804505+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:59:07.351115+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:08:28.7969396+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:58:32.646204+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:08:17.1805422+00:00"
 }

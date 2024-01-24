@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1628,
+  "EOS_Progressed": 1629,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.13,
   "EosHistory": [
@@ -5734,6 +5734,11 @@
       "Time": "2024-01-24T00:05:59.3636622+00:00",
       "NumProgressed": 1628,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-24T07:05:44.8516062+00:00",
+      "NumProgressed": 1629,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5745,7 +5750,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "MQ01_2",
@@ -5759,9 +5764,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 879
+      "UsersEstimate": 863
     },
     {
       "ID": "MQ02_2",
@@ -5785,7 +5790,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "MQ03_1",
@@ -5815,9 +5820,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 684
     },
     {
       "ID": "MQ03_5",
@@ -5825,7 +5830,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "MQ04_1",
@@ -5865,7 +5870,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "MQ05_3",
@@ -5897,7 +5902,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "MQ06_3",
@@ -5905,7 +5910,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "MQ06_4",
@@ -5913,7 +5918,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MQ07_1",
@@ -5968,7 +5973,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1628,
+      "Progressed": 1629,
       "Completed": 51
     }
   ],
@@ -5976,8 +5981,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-23T12:03:16.4968274+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:06:53.6187143+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:05:44.8516056+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:04:04.4248763+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:06:53.6187494+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:03:30.352301+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:05:44.8516515+00:00"
 }

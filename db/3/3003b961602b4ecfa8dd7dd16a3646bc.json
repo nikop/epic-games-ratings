@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_10_SARAH",
@@ -548,9 +548,9 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_17_PICNIC",
@@ -564,9 +564,9 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_19_PYJAMA",
@@ -651,8 +651,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:11:25.0459409+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:10:42.0619978+00:00",
   "LastUpdate_AppInfo": "2024-01-22T04:57:12.9176008+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:59:23.2261348+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:11:25.045962+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:58:44.0136962+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:10:42.0620138+00:00"
 }

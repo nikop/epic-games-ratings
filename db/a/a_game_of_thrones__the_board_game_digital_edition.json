@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34215,
+  "EOS_Progressed": 34218,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31517,6 +31517,11 @@
       "Time": "2024-01-24T06:11:15.1789083+00:00",
       "NumProgressed": 34215,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-24T07:10:33.7761863+00:00",
+      "NumProgressed": 34218,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31558,9 +31563,9 @@
       "ID": "1019",
       "SetID": "9l3d3cl",
       "Name": "Winter is Coming",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2053
     },
     {
       "ID": "1020",
@@ -31592,7 +31597,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "1024",
@@ -31624,7 +31629,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "1028",
@@ -31664,7 +31669,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13686
+      "UsersEstimate": 13687
     },
     {
       "ID": "1033",
@@ -31703,15 +31708,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34215,
+      "Progressed": 34218,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:11:15.1789081+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:10:33.7761861+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:58:02.977686+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:11:15.1791568+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:57:43.4926189+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:10:33.7763355+00:00"
 }

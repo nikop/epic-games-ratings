@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.60% | ~4,576 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,576 |
 | Sword Stained With Blood | 0.60% | ~4,576 |
-| The best strikes are the ones we avoid | 0.50% | ~359 |
+| The best strikes are the ones we avoid | 0.50% | ~360 |
 | Drunken Fighter | 0.40% | ~3,050 |
 | Martial Artist | 0.40% | ~3,050 |
 | Knowledge Greed | 0.40% | ~3,050 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,592 (Ranked 26)  
+Progressed: 762,599 (Ranked 26)  
 Completed: 13,007 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 13,007 (1.71%) (Ranked 150)
 | 2024-01-21 | 762,261 | 13,003 |
 | 2024-01-22 | 762,418 | 13,004 |
 | 2024-01-23 | 762,568 | 13,006 |
-| 2024-01-24 | 762,592 | 13,007 |
+| 2024-01-24 | 762,599 | 13,007 |
 ## Awards
 Max (Great Boss Battles): 7,269  (Ranked 59)  
 Sum: 12,870 (Ranked 88)  

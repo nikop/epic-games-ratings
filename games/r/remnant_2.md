@@ -5,18 +5,18 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,815 |
-| First of Many | 12.00% | ~35,829 |
-| Not Your Average Trait | 10.00% | ~29,858 |
-| Expanding Horizons | 9.00% | ~26,872 |
-| Gleaming the Cube | 8.00% | ~23,886 |
-| Quest for Survival | 8.00% | ~23,886 |
-| Familiar Face | 8.00% | ~23,886 |
-| Boss'n Up | 8.00% | ~23,886 |
-| Trait Chaser | 8.00% | ~23,886 |
-| Not So Special Now | 7.00% | ~20,900 |
-| Not a Janitor | 7.00% | ~20,900 |
-| Duality | 7.00% | ~20,900 |
+| The Killing Jar | 13.00% | ~38,816 |
+| First of Many | 12.00% | ~35,831 |
+| Not Your Average Trait | 10.00% | ~29,859 |
+| Expanding Horizons | 9.00% | ~26,873 |
+| Gleaming the Cube | 8.00% | ~23,887 |
+| Quest for Survival | 8.00% | ~23,887 |
+| Familiar Face | 8.00% | ~23,887 |
+| Boss'n Up | 8.00% | ~23,887 |
+| Trait Chaser | 8.00% | ~23,887 |
+| Not So Special Now | 7.00% | ~20,901 |
+| Not a Janitor | 7.00% | ~20,901 |
+| Duality | 7.00% | ~20,901 |
 | Equal Measures | 6.00% | ~17,915 |
 | Blue Goddess | 6.00% | ~17,915 |
 | Top Performer | 6.00% | ~17,915 |
@@ -33,21 +33,21 @@ Rating: 4.72 (Ranked 199)
 | Was This Supposed To Happen? | 5.00% | ~14,929 |
 | The Web | 5.00% | ~14,929 |
 | Scrap Collector | 5.00% | ~14,929 |
-| Forever is a Long Time Coming | 4.00% | ~11,943 |
-| Madman's Paradise | 4.00% | ~11,943 |
-| The Agenda | 4.00% | ~11,943 |
-| Bad Moon Rising | 4.00% | ~11,943 |
-| Strapped | 4.00% | ~11,943 |
-| All These Traits� | 4.00% | ~11,943 |
-| Tall Tales | 3.00% | ~8,957 |
-| Edgelord | 3.00% | ~8,957 |
-| Scrap Hoarder | 3.00% | ~8,957 |
-| Carnage in C-Minor | 3.00% | ~8,957 |
-| The Ultimate Weapon | 3.00% | ~8,957 |
-| No One Should Have All That Power | 3.00% | ~8,957 |
-| Transmutate | 3.00% | ~8,957 |
-| Regicide | 3.00% | ~2,332 |
-| Master of the Dark Arts | 3.00% | ~2,332 |
+| Forever is a Long Time Coming | 4.00% | ~11,944 |
+| Madman's Paradise | 4.00% | ~11,944 |
+| The Agenda | 4.00% | ~11,944 |
+| Bad Moon Rising | 4.00% | ~11,944 |
+| Strapped | 4.00% | ~11,944 |
+| All These Traits� | 4.00% | ~11,944 |
+| Tall Tales | 3.00% | ~8,958 |
+| Edgelord | 3.00% | ~8,958 |
+| Scrap Hoarder | 3.00% | ~8,958 |
+| Carnage in C-Minor | 3.00% | ~8,958 |
+| The Ultimate Weapon | 3.00% | ~8,958 |
+| No One Should Have All That Power | 3.00% | ~8,958 |
+| Transmutate | 3.00% | ~8,958 |
+| Regicide | 3.00% | ~2,333 |
+| Master of the Dark Arts | 3.00% | ~2,333 |
 | Crafty | 2.00% | ~5,972 |
 | Ghost in the Machine | 2.00% | ~5,972 |
 | Only Human | 2.00% | ~5,972 |
@@ -61,8 +61,8 @@ Rating: 4.72 (Ranked 199)
 | You Shall Pass | 0.80% | ~622 |
 | A Foul Feast | 0.50% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,578 (Ranked 65)  
-Completed: 1,231 (0.41%) (Ranked 246)  
+Progressed: 298,588 (Ranked 65)  
+Completed: 1,232 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,7 +253,7 @@ Completed: 1,231 (0.41%) (Ranked 246)
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
-| 2024-01-24 | 298,578 | 1,231 |
+| 2024-01-24 | 298,588 | 1,232 |
 ## Awards
 Max (Great Boss Battles): 7,540  (Ranked 56)  
 Sum: 17,334 (Ranked 65)  

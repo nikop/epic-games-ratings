@@ -7,11 +7,11 @@ Rating: 4.35 (Ranked 836)
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 14.00% | ~15 |
 | Help! Help! I’m being repressed | 11.00% | ~12 |
-| Bring it on! | 10.00% | ~10 |
-| Can’t Touch This | 10.00% | ~10 |
-| Full House | 10.00% | ~10 |
-| There is no Nobility in Poverty | 10.00% | ~10 |
-| Path of Glory | 9.00% | ~9 |
+| Bring it on! | 10.00% | ~11 |
+| Can’t Touch This | 10.00% | ~11 |
+| Full House | 10.00% | ~11 |
+| There is no Nobility in Poverty | 9.00% | ~10 |
+| Path of Glory | 8.00% | ~8 |
 | The finest merchandise this side of river Jordan | 6.00% | ~6 |
 | They Got What They Deserved | 6.00% | ~6 |
 | Call the Boys | 5.00% | ~5 |
@@ -40,20 +40,20 @@ Rating: 4.35 (Ranked 836)
 | Time to find India | 2.00% | ~2 |
 | Vlad the Impaler | 2.00% | ~2 |
 | Why is there no culture victory?! | 2.00% | ~2 |
-| A Quiet Palace | 1.00% | ~1 |
-| Crusade Invoker, no Regret | 1.00% | ~1 |
-| Fighting with Power and Steel | 1.00% | ~1 |
-| Greed is Good | 1.00% | ~1 |
-| His All-Holiness | 1.00% | ~1 |
-| His name is King | 1.00% | ~1 |
-| Fight Another Day | 1.00% | ~1 |
-| Let us trade with these fine people | 1.00% | ~1 |
-| New Mineland | 1.00% | ~1 |
-| Prince Ali! Fabulous he! | 1.00% | ~1 |
-| Renaissance Man | 1.00% | ~1 |
-| Spartacus | 1.00% | ~1 |
-| The Magnificent Nine | 1.00% | ~1 |
-| You reap what you sow | 1.00% | ~1 |
+| A Quiet Palace | 0.90% | ~1 |
+| Crusade Invoker, no Regret | 0.90% | ~1 |
+| Fighting with Power and Steel | 0.90% | ~1 |
+| Greed is Good | 0.90% | ~1 |
+| His All-Holiness | 0.90% | ~1 |
+| His name is King | 0.90% | ~1 |
+| Fight Another Day | 0.90% | ~1 |
+| Let us trade with these fine people | 0.90% | ~1 |
+| New Mineland | 0.90% | ~1 |
+| Prince Ali! Fabulous he! | 0.90% | ~1 |
+| Renaissance Man | 0.90% | ~1 |
+| Spartacus | 0.90% | ~1 |
+| The Magnificent Nine | 0.90% | ~1 |
+| You reap what you sow | 0.90% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Blessed Be His Name | 0.00% | ~0 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 499)  
+Progressed: 106 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 105 | 0 |
+| 2024-01-24 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

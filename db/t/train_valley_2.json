@@ -4451,9 +4451,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 434920,
+  "EOS_Progressed": 434921,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27851,6 +27851,11 @@
       "Time": "2024-01-24T06:05:29.105891+00:00",
       "NumProgressed": 434920,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-24T07:04:37.8403722+00:00",
+      "NumProgressed": 434921,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 89,
@@ -27958,7 +27963,7 @@
       "Name": "Builder",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 73936
+      "UsersEstimate": 73937
     },
     {
       "ID": "AchievementCloseCall",
@@ -27966,7 +27971,7 @@
       "Name": "Close call!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 134825
+      "UsersEstimate": 134826
     },
     {
       "ID": "AchievementCommonCause",
@@ -27990,7 +27995,7 @@
       "Name": "Dealmaker",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 321841
+      "UsersEstimate": 321842
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -28046,7 +28051,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 265301
+      "UsersEstimate": 265302
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -28086,7 +28091,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 204412
+      "UsersEstimate": 204413
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -28142,7 +28147,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 156571
+      "UsersEstimate": 156572
     },
     {
       "ID": "AchievementJustInTime",
@@ -28366,7 +28371,7 @@
       "Name": "The Tortoise",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 52190
+      "UsersEstimate": 52191
     },
     {
       "ID": "AchievementToTheEyeballs",
@@ -28374,7 +28379,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 221809
+      "UsersEstimate": 221810
     },
     {
       "ID": "AchievementTourismAge",
@@ -28470,7 +28475,7 @@
       "Name": "Just One More Valley",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 39083
+      "UsersEstimate": 39084
     },
     {
       "ID": "AchievementKnowingtheropes",
@@ -28486,7 +28491,7 @@
       "Name": "Long Haul",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 73824
+      "UsersEstimate": 73825
     },
     {
       "ID": "AchievementMaidenvoyage",
@@ -28573,21 +28578,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 434261,
+      "Progressed": 434262,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 434920,
+      "Progressed": 434921,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2024-01-23T07:58:40.7396456+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:05:29.1058906+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:04:37.840372+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.0283636+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:00:21.4878625+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:05:29.1060434+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:59:28.4197363+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:04:37.840526+00:00"
 }

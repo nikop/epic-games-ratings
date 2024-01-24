@@ -2772,9 +2772,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44571,
+  "EOS_Progressed": 44572,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11662,6 +11662,11 @@
       "Time": "2024-01-24T03:06:02.2302239+00:00",
       "NumProgressed": 44571,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-24T07:06:17.0470604+00:00",
+      "NumProgressed": 44572,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11673,7 +11678,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27634
+      "UsersEstimate": 27635
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11889,7 +11894,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19611
+      "UsersEstimate": 19612
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -11913,7 +11918,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8468
+      "UsersEstimate": 8469
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -11945,7 +11950,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -11961,7 +11966,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16491
+      "UsersEstimate": 16492
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11977,7 +11982,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22731
+      "UsersEstimate": 22732
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -11993,7 +11998,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16491
+      "UsersEstimate": 16492
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -12025,7 +12030,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20948
+      "UsersEstimate": 20949
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -12033,7 +12038,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25405
+      "UsersEstimate": 25406
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -12041,7 +12046,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20948
+      "UsersEstimate": 20949
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -12129,7 +12134,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29417
+      "UsersEstimate": 29418
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -12169,7 +12174,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -12200,15 +12205,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44571,
+      "Progressed": 44572,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-21T19:03:44.8461925+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:07:33.730428+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:06:17.0470601+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:50.2969677+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:03:28.7472464+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:07:33.7305023+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:03:03.3859192+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:06:17.0471877+00:00"
 }

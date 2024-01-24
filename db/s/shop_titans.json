@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8255,10 +8255,16 @@
       "Rating": 4,
       "NumberOfAwards": 28045,
       "NumberOfAwardsMax": 4975
+    },
+    {
+      "Time": "2024-01-24T07:03:35.4368472+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28047,
+      "NumberOfAwardsMax": 4975
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28045,
+  "NumberOfAwards": 28047,
   "NumberOfAwardsMax": 4975,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8272,7 +8278,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4044
+      "Count": 4046
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8311,7 +8317,7 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152646,
+  "EOS_Progressed": 152650,
   "EOS_Completed": 362,
   "EOS_NewPlayers": 1074,
   "EOS_NewCompleters": 6,
@@ -37951,6 +37957,11 @@
       "Time": "2024-01-24T06:10:30.7583567+00:00",
       "NumProgressed": 152646,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2024-01-24T07:09:56.6824702+00:00",
+      "NumProgressed": 152650,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 112,
@@ -37970,7 +37981,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "advlevel03",
@@ -37978,7 +37989,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "advlevel04",
@@ -38010,7 +38021,7 @@
       "Name": "Ascended",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "ascend02",
@@ -38050,7 +38061,7 @@
       "Name": "Tax not Included",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "bigsale03",
@@ -38074,7 +38085,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "blueprint03",
@@ -38090,7 +38101,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "boss01",
@@ -38106,7 +38117,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "boss03",
@@ -38122,7 +38133,7 @@
       "Name": "Fated Encounters",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "chest01",
@@ -38138,7 +38149,7 @@
       "Name": "For the Hoard!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "chest03",
@@ -38154,7 +38165,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "collection02",
@@ -38162,7 +38173,7 @@
       "Name": "Scrapbooker",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "collection03",
@@ -38194,7 +38205,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16791
+      "UsersEstimate": 16792
     },
     {
       "ID": "commonres02",
@@ -38210,7 +38221,7 @@
       "Name": "Locally Sourced",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "commonres04",
@@ -38242,7 +38253,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "craft04",
@@ -38274,7 +38285,7 @@
       "Name": "This Power Level...!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "damage03",
@@ -38322,7 +38333,7 @@
       "Name": "Power of Love",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "energy03",
@@ -38346,7 +38357,7 @@
       "Name": "Expansion in Session",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "expansion03",
@@ -38370,7 +38381,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "furniture02",
@@ -38402,7 +38413,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "fuselegendary",
@@ -38418,7 +38429,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "gemsspent",
@@ -38458,7 +38469,7 @@
       "Name": "Royal Ransom",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "gold05",
@@ -38466,7 +38477,7 @@
       "Name": "Mammonite",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "gold06",
@@ -38482,7 +38493,7 @@
       "Name": "Helping Hand",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "help02",
@@ -38546,7 +38557,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10685
+      "UsersEstimate": 10686
     },
     {
       "ID": "level02",
@@ -38626,7 +38637,7 @@
       "Name": "Natural 20",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "master03",
@@ -38634,7 +38645,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "master04",
@@ -38746,7 +38757,7 @@
       "Name": "Black Friday Special",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "sell03",
@@ -38786,7 +38797,7 @@
       "Name": "Magical Harmony",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "typeunlock01",
@@ -38802,7 +38813,7 @@
       "Name": "Special Ingredient",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "uncommonres02",
@@ -38842,7 +38853,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "yami_a",
@@ -38857,15 +38868,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152646,
+      "Progressed": 152650,
       "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-23T21:03:20.3864316+00:00",
-  "LastChanged_Achievements": "2024-01-24T06:10:30.7583564+00:00",
+  "LastChanged": "2024-01-24T07:03:35.436847+00:00",
+  "LastChanged_Achievements": "2024-01-24T07:09:56.6824698+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-24T06:04:10.905863+00:00",
-  "LastUpdate_Achievements": "2024-01-24T06:10:30.7586405+00:00"
+  "LastUpdate_Ratings": "2024-01-24T07:03:35.4368476+00:00",
+  "LastUpdate_Achievements": "2024-01-24T07:09:56.6826934+00:00"
 }
