@@ -59,6 +59,7 @@
 | Trailblazer | 1.00% | ~3 |
 | Loader | 1.00% | ~3 |
 | The Darkness Within | 1.00% | ~3 |
+| What Lies Below | 1.00% | ~3 |
 | Wyrmslayer | 1.00% | ~3 |
 | Voracity Confronted | 1.00% | ~3 |
 | Manticore | 0.60% | ~2 |
@@ -68,7 +69,6 @@
 | Despoiler | 0.60% | ~2 |
 | Ruiner | 0.60% | ~2 |
 | Arcanite | 0.60% | ~2 |
-| What Lies Below | 0.60% | ~2 |
 | The Last Voyage | 0.60% | ~2 |
 | Theory to Practice | 0.60% | ~2 |
 | And the Sky Full of Stars | 0.30% | ~1 |

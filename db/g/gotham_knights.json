@@ -5403,10 +5403,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5562,
       "NumberOfAwardsMax": 3251
+    },
+    {
+      "Time": "2024-01-24T21:01:54.297547+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5564,
+      "NumberOfAwardsMax": 3251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5562,
+  "NumberOfAwards": 5564,
   "NumberOfAwardsMax": 3251,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5462,7 +5468,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 295
+      "Count": 297
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5471,7 +5477,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83239,
+  "EOS_Progressed": 83240,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
@@ -31386,6 +31392,11 @@
       "Time": "2024-01-24T20:06:31.8989564+00:00",
       "NumProgressed": 83239,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-24T21:06:07.9392325+00:00",
+      "NumProgressed": 83240,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31517,7 +31528,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11653
+      "UsersEstimate": 11654
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -31637,7 +31648,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15815
+      "UsersEstimate": 15816
     },
     {
       "ID": "FREEZE_3",
@@ -31645,7 +31656,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11653
+      "UsersEstimate": 11654
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -31701,7 +31712,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28301
+      "UsersEstimate": 28302
     },
     {
       "ID": "HARLEY_2",
@@ -31709,7 +31720,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19977
+      "UsersEstimate": 19978
     },
     {
       "ID": "HARLEY_3",
@@ -31797,7 +31808,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19977
+      "UsersEstimate": 19978
     },
     {
       "ID": "MYSTERY_03",
@@ -31829,7 +31840,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11653
+      "UsersEstimate": 11654
     },
     {
       "ID": "MYSTERY_07",
@@ -31884,22 +31895,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83239,
+      "Progressed": 83240,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53519,
+      "Progressed": 53520,
       "Completed": 2682
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-24T20:02:12.5431338+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:06:31.898956+00:00",
+  "LastChanged": "2024-01-24T21:01:54.2975468+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:06:07.9392321+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:02:12.5431343+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:06:31.8991406+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:01:54.2975475+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:06:07.9394494+00:00"
 }

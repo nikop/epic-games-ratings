@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2445,
+  "EOS_Progressed": 2446,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -5058,6 +5058,11 @@
       "Time": "2024-01-24T18:10:58.3416563+00:00",
       "NumProgressed": 2445,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T21:11:08.9029321+00:00",
+      "NumProgressed": 2446,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5069,7 +5074,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ACH_02",
@@ -5085,7 +5090,7 @@
       "Name": "Powerful Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_04",
@@ -5093,7 +5098,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_05",
@@ -5181,7 +5186,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_16",
@@ -5356,7 +5361,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2445,
+      "Progressed": 2446,
       "Completed": 5
     }
   ],
@@ -5364,8 +5369,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:11:34.2601836+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:11:08.9029319+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:02:24.5232742+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:11:34.260241+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:02:46.2179995+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:11:08.9029658+00:00"
 }

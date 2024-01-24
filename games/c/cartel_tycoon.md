@@ -6,9 +6,9 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~881 |
+| Our Man | 83.00% | ~882 |
 | Take-Off | 80.00% | ~850 |
-| Hokey-Pokey | 68.00% | ~722 |
+| Hokey-Pokey | 68.00% | ~723 |
 | Camellos | 53.00% | ~563 |
 | Bad Trip | 45.00% | ~478 |
 | That was base | 43.00% | ~457 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~6 |
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,062 (Ranked 300)  
+Progressed: 1,063 (Ranked 300)  
 Completed: 3 (0.28%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 3 (0.28%) (Ranked 271)
 | 2024-01-21 | 1,054 | 3 |
 | 2024-01-22 | 1,057 | 3 |
 | 2024-01-23 | 1,061 | 3 |
-| 2024-01-24 | 1,062 | 3 |
+| 2024-01-24 | 1,063 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

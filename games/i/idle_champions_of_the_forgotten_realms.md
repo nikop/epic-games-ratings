@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.60% | ~1,533 |
 | Beast Mode | 0.50% | ~1,277 |
 | A Mysterious Summons | 0.50% | ~1,277 |
+| Building Trust | 0.50% | ~1,277 |
 | Useless Allies | 0.50% | ~1,277 |
 | Exploring Port Nyanzaru | 0.50% | ~1,277 |
 | Escort to Waterdeep | 0.50% | ~1,277 |
@@ -37,7 +38,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.50% | ~1,108 |
 | Mind Spike | 0.50% | ~1,108 |
 | Low Initiative | 0.40% | ~1,022 |
-| Building Trust | 0.40% | ~1,022 |
 | March of the Undead | 0.40% | ~1,022 |
 | No Time To Rest | 0.40% | ~1,022 |
 | The Dinner Party | 0.40% | ~1,022 |
@@ -137,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~443 |
 | The Lost Hollyphant | 0.20% | ~443 |
 | Alterdeep | 0.20% | ~443 |
+| The Wandering Emporium | 0.20% | ~443 |
 | The Giant's Bane Tavern | 0.20% | ~443 |
 | The Long Haul | 0.20% | ~511 |
 | Lost in the Deep | 0.20% | ~511 |
@@ -407,7 +408,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Attack | 0.10% | ~222 |
 | The Gargoyle | 0.10% | ~222 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~222 |
-| The Wandering Emporium | 0.10% | ~222 |
 | Madcap Adventures Redux | 0.10% | ~222 |
 | When the Going Gets Tough | 0.10% | ~222 |
 | Tiamat's Army | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,419 (Ranked 71)  
+Progressed: 255,425 (Ranked 71)  
 Completed: 2,639 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,10 +832,10 @@ Completed: 2,639 (1.03%) (Ranked 181)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,419 | 2,639 |
+| 2024-01-24 | 255,425 | 2,639 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
-Sum: 33,621 (Ranked 42)  
+Sum: 33,624 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -843,8 +843,8 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,746 |
 | This game has Quickly Understood Controls | 4,921 |
 | This game is Relaxing | 4,797 |
+| This game is Highly Recommended | 4,347 |
 | This game has Amazing Characters | 4,347 |
-| This game is Highly Recommended | 4,344 |
 | This game has Playful Visuals | 3,653 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1212,4 +1212,4 @@ Diff (max vs sum): 33
 | 2024-01-21 | 4.07 | - | 5,810 | 33,602 |
 | 2024-01-22 | 4.07 | - | 5,813 | 33,612 |
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
-| 2024-01-24 | 4.07 | - | 5,813 | 33,621 |
+| 2024-01-24 | 4.07 | - | 5,813 | 33,624 |

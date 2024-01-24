@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~997,998 |
-| I Need a Bigger Garage | 63.00% | ~698,599 |
-| Pump my Ride | 47.00% | ~521,177 |
-| Ghostbuster | 34.00% | ~377,022 |
-| Call Roadside Assistance | 18.00% | ~199,600 |
-| That Was Close | 18.00% | ~199,600 |
-| Quickie | 11.00% | ~121,978 |
-| California Dreamer | 7.00% | ~77,622 |
-| Can't Touch This | 5.00% | ~55,444 |
-| Carménère Taster | 4.00% | ~44,355 |
-| Comeback | 4.00% | ~44,355 |
+| The First of Many | 90.00% | ~998,016 |
+| I Need a Bigger Garage | 63.00% | ~698,611 |
+| Pump my Ride | 47.00% | ~521,186 |
+| Ghostbuster | 34.00% | ~377,028 |
+| Call Roadside Assistance | 18.00% | ~199,603 |
+| That Was Close | 18.00% | ~199,603 |
+| Quickie | 11.00% | ~121,980 |
+| California Dreamer | 7.00% | ~77,623 |
+| Can't Touch This | 5.00% | ~55,445 |
+| Carménère Taster | 4.00% | ~44,356 |
+| Comeback | 4.00% | ~44,356 |
 | Driver from Ipanema | 3.00% | ~33,267 |
 | Supersonic | 3.00% | ~33,267 |
 | Marathonist | 3.00% | ~33,267 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.90% | ~9,980 |
 | Survivor | 0.60% | ~6,653 |
 | King of the World | 0.60% | ~6,653 |
-| Getting Famous | 0.50% | ~5,544 |
+| Getting Famous | 0.50% | ~5,545 |
 | Now Go Play Outside | 0.30% | ~3,327 |
 | Master of the Racetrack | 0.20% | ~2,218 |
 | Look Mom, No Hands! | 0.20% | ~2,218 |
 | Transporter | 0.10% | ~1,109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108,887 (Ranked 15)  
+Progressed: 1,108,907 (Ranked 15)  
 Completed: 540 (0.05%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 540 (0.05%) (Ranked 349)
 | 2024-01-21 | 1,107,941 | 538 |
 | 2024-01-22 | 1,108,276 | 539 |
 | 2024-01-23 | 1,108,626 | 539 |
-| 2024-01-24 | 1,108,887 | 540 |
+| 2024-01-24 | 1,108,907 | 540 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 313)  
 Sum: 1,662 (Ranked 239)  

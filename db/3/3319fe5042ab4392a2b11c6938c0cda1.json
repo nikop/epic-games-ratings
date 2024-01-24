@@ -1034,9 +1034,9 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -1177,8 +1177,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:08:58.1516652+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:08:38.481477+00:00",
   "LastUpdate_AppInfo": "2024-01-24T18:57:12.0797237+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:57:32.031858+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:08:58.151689+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:57:21.5502784+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:08:38.4815077+00:00"
 }

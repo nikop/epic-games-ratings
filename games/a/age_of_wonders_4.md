@@ -10,15 +10,15 @@ Rating: 4.63 (Ranked 360)
 | A Wonderful Discovery | 15.00% | ~1,094 |
 | Walls Cannot Stop Us | 15.00% | ~1,094 |
 | From Friends to Family | 13.00% | ~948 |
-| Bone Peddler | 12.00% | ~875 |
+| Bone Peddler | 12.00% | ~876 |
 | Full Ascension | 10.00% | ~730 |
 | Magical Synergy | 10.00% | ~730 |
 | There Can Only Be One! | 9.00% | ~657 |
 | Stronger Together | 9.00% | ~657 |
 | Seat of Power | 9.00% | ~657 |
+| Valley of Wonders | 8.00% | ~584 |
 | In a Liege of Your Own | 8.00% | ~584 |
 | Intimidation Tactics | 8.00% | ~584 |
-| Valley of Wonders | 7.00% | ~511 |
 | My Final Form | 6.00% | ~438 |
 | But this one is mine | 6.00% | ~438 |
 | Return of the Wizard King | 5.00% | ~365 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 360)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,295 (Ranked 202)  
+Progressed: 7,296 (Ranked 202)  
 Completed: 8 (0.11%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,15 +312,15 @@ Completed: 8 (0.11%) (Ranked 316)
 | 2024-01-21 | 7,285 | 8 |
 | 2024-01-22 | 7,287 | 8 |
 | 2024-01-23 | 7,293 | 8 |
-| 2024-01-24 | 7,295 | 8 |
+| 2024-01-24 | 7,296 | 8 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
-Sum: 245 (Ranked 407)  
-Diff (max vs sum): 76  
+Sum: 246 (Ranked 406)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |
-| This game has Diverse Characters | 39 |
+| This game has Diverse Characters | 40 |
 | This game is Extremely Fun | 28 |
 | This game has Quickly Understood Controls | 24 |
 | This game has Beautiful Visuals | 24 |
@@ -424,3 +424,4 @@ Diff (max vs sum): 76
 | 2024-01-17 | 4.63 | 42 | 240 |
 | 2024-01-22 | 4.63 | 42 | 241 |
 | 2024-01-23 | 4.63 | 43 | 245 |
+| 2024-01-24 | 4.63 | 43 | 246 |

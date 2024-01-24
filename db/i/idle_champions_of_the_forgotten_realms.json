@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9755,10 +9755,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33621,
       "NumberOfAwardsMax": 5813
+    },
+    {
+      "Time": "2024-01-24T20:59:54.3251305+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33624,
+      "NumberOfAwardsMax": 5813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33621,
+  "NumberOfAwards": 33624,
   "NumberOfAwardsMax": 5813,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9790,7 +9796,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4344
+      "Count": 4347
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9805,9 +9811,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255419,
+  "EOS_Progressed": 255425,
   "EOS_Completed": 2639,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41520,6 +41526,11 @@
       "Time": "2024-01-24T20:11:48.3114969+00:00",
       "NumProgressed": 255419,
       "NumCompleted": 2639
+    },
+    {
+      "Time": "2024-01-24T21:11:21.9862269+00:00",
+      "NumProgressed": 255425,
+      "NumCompleted": 2639
     }
   ],
   "TotalAchievements": 546,
@@ -42753,9 +42764,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_17",
@@ -44457,9 +44468,9 @@
       "ID": "objective_completed_660",
       "SetID": "415jc5c",
       "Name": "The Wandering Emporium",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_661",
@@ -45898,21 +45909,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221693,
+      "Progressed": 221699,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255419,
+      "Progressed": 255425,
       "Completed": 2639
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-24T20:00:12.5230546+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:11:48.3114965+00:00",
+  "LastChanged": "2024-01-24T20:59:54.3251303+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:11:21.9862265+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:00:12.5230552+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:11:48.3137329+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:59:54.325131+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:11:21.9883863+00:00"
 }

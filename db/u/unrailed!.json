@@ -3053,9 +3053,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 683488,
+  "EOS_Progressed": 683494,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2073,
+  "EOS_NewPlayers": 2069,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35218,6 +35218,11 @@
       "Time": "2024-01-24T20:11:37.8617758+00:00",
       "NumProgressed": 683488,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-24T21:11:12.3524463+00:00",
+      "NumProgressed": 683494,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -35229,7 +35234,7 @@
       "Name": "Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 109358
+      "UsersEstimate": 109359
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -35269,7 +35274,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129863
+      "UsersEstimate": 129864
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -35277,7 +35282,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95688
+      "UsersEstimate": 95689
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -35349,7 +35354,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95688
+      "UsersEstimate": 95689
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -35477,7 +35482,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 123028
+      "UsersEstimate": 123029
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -35485,7 +35490,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 41009
+      "UsersEstimate": 41010
     },
     {
       "ID": "_03_02_NANUK",
@@ -35549,7 +35554,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 116193
+      "UsersEstimate": 116194
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -35637,22 +35642,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 41009
+      "UsersEstimate": 41010
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 683488,
+      "Progressed": 683494,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-24T18:03:38.3873388+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:11:37.8617754+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:11:12.3524451+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.1246588+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:03:40.2817371+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:11:37.8619465+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:03:23.1143158+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:11:12.3525887+00:00"
 }

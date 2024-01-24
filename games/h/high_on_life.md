@@ -36,12 +36,12 @@ Rating: 4.65 (Ranked 328)
 | Carried Stan's Load To Completion | 0.50% | ~126 |
 | A Starfish Is Born | 0.40% | ~101 |
 | Playing Favorites | 0.40% | ~101 |
+| Give Away All Your Money | 0.30% | ~7 |
 | Meet Frasier from Frasier | 0.30% | ~7 |
 | Epic Legendary Prize | 0.20% | ~50 |
 | Playing Card To Get | 0.20% | ~50 |
 | Mods Please Ban | 0.20% | ~50 |
 | Luglox Genocide | 0.20% | ~50 |
-| Give Away All Your Money | 0.20% | ~5 |
 | It's Like The Santa Clause | 0.20% | ~5 |
 | Seeing All The Sights | 0.10% | ~25 |
 | That's B.A.L.L., Folks | 0.10% | ~2 |

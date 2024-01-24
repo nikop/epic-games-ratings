@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -883,9 +883,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -923,9 +923,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -1274,8 +1274,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:11:32.7981024+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:11:07.5548911+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.5002405+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:59:16.288263+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:11:32.7981426+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:59:00.7244261+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:11:07.5549244+00:00"
 }

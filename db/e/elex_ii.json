@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1819,9 +1819,9 @@
       "ID": "20WEAPONSCRAFTED",
       "SetID": "a1angca",
       "Name": "Weaponsmith",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "300QUESTS",
@@ -2155,8 +2155,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:08:36.2062975+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:08:17.2146974+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:57:31.9223571+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:08:36.2063375+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:57:21.4011393+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:08:17.2147564+00:00"
 }

@@ -1015,7 +1015,7 @@
   ],
   "EOS_Progressed": 18980,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12382,9 +12382,9 @@
       "ID": "achievement_12",
       "SetID": "222fo9l",
       "Name": "Exodus",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5884
+      "UsersEstimate": 6074
     },
     {
       "ID": "achievement_13",
@@ -12743,8 +12743,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-24T01:53:19.4002765+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:06:17.1892022+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:05:53.6242973+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:32.8853693+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:03:37.5000683+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:06:17.1892726+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:03:18.6101859+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:05:53.6243662+00:00"
 }

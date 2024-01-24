@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Don't Panic! | 96.00% | ~1,596 |
 | Space Colonization | 78.00% | ~1,296 |
-| Friendzone | 76.00% | ~1,263 |
+| Friendzone | 77.00% | ~1,280 |
 | Hello World | 71.00% | ~1,180 |
 | Tinkerer | 60.00% | ~997 |
 | Space Engineer | 59.00% | ~981 |

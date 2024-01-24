@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2131,6 +2131,11 @@
       "Time": "2024-01-24T11:10:51.5445708+00:00",
       "NumProgressed": 469,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T21:10:28.8604551+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2141,17 +2146,17 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
       "SetID": "4n84pon",
       "Name": "Ultimate Smoothie",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
@@ -2159,7 +2164,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2271,7 +2276,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2279,7 +2284,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2311,7 +2316,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2357,9 +2362,9 @@
       "ID": "ACH_KILL_SHAMA",
       "SetID": "4n84pon",
       "Name": "Deincarnated",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KILL_WARSHIP",
@@ -2399,7 +2404,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2471,7 +2476,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2494,7 +2499,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 2
     }
   ],
@@ -2502,8 +2507,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:10:51.7259728+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:10:28.8604546+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:00:12.1352011+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:10:51.7260022+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:59:53.8250813+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:10:28.8604844+00:00"
 }

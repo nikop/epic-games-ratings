@@ -31,8 +31,8 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 12.00% | ~35 |
 | Free as a Bird | 11.00% | ~32 |
 | Treasure Hunter | 9.00% | ~26 |
+| Weaponsmith | 9.00% | ~26 |
 | Hotshot | 9.00% | ~26 |
-| Weaponsmith | 8.00% | ~23 |
 | Cleric | 8.00% | ~23 |
 | Detective | 8.00% | ~23 |
 | Alchemist | 5.00% | ~14 |

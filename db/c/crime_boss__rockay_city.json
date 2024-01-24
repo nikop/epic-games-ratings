@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1072,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5705,7 +5705,7 @@
   ],
   "EOS_Progressed": 93610,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -32465,8 +32465,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-24T17:00:01.7939584+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:06:35.219439+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:06:11.1140324+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:34.1927913+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:01:51.8422923+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:06:35.219566+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:01:34.4046279+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:06:11.1141372+00:00"
 }

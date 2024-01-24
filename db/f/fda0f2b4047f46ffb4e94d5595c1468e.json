@@ -5619,9 +5619,9 @@
       "Count": 684
     }
   ],
-  "EOS_Progressed": 24190,
+  "EOS_Progressed": 24192,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17814,6 +17814,11 @@
       "Time": "2024-01-24T20:09:59.6469611+00:00",
       "NumProgressed": 24190,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T21:09:38.5340286+00:00",
+      "NumProgressed": 24192,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17866,7 +17871,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16449
+      "UsersEstimate": 16451
     },
     {
       "ID": "ach07",
@@ -17874,7 +17879,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11127
+      "UsersEstimate": 11128
     },
     {
       "ID": "ach08",
@@ -17898,7 +17903,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "ach11",
@@ -17922,7 +17927,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "ach14",
@@ -17954,7 +17959,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 10160
+      "UsersEstimate": 10161
     },
     {
       "ID": "ach18",
@@ -17962,7 +17967,7 @@
       "Name": "Adventure Time",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7015
+      "UsersEstimate": 7016
     },
     {
       "ID": "ach19",
@@ -18010,7 +18015,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7015
+      "UsersEstimate": 7016
     },
     {
       "ID": "ach25",
@@ -18018,7 +18023,7 @@
       "Name": "Talis-Mania",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "ach26",
@@ -18050,7 +18055,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "ach30",
@@ -18114,7 +18119,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11369
+      "UsersEstimate": 11370
     },
     {
       "ID": "ach38",
@@ -18138,7 +18143,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "ach41",
@@ -18202,7 +18207,7 @@
       "Name": "Total Disrespect",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "ach49",
@@ -18218,14 +18223,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24190,
+      "Progressed": 24192,
       "Completed": 2
     }
   ],
@@ -18233,8 +18238,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-24T14:03:21.9182253+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:09:59.6469609+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:09:38.5340281+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:03:44.3223795+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:09:59.6470821+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:03:26.9585152+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:09:38.5341226+00:00"
 }

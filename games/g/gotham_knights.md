@@ -6,12 +6,12 @@ Rating: 4.19 (Ranked 985)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,620 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,301 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,302 |
 | Loose Ends | 33.00% | ~27,469 |
 | To the Victor Go the Spoils | 27.00% | ~22,475 |
 | Knighthood | 26.00% | ~21,642 |
-| Get ReQ'd | 24.00% | ~19,977 |
-| Whispered Words | 24.00% | ~19,977 |
+| Get ReQ'd | 24.00% | ~19,978 |
+| Whispered Words | 24.00% | ~19,978 |
 | The Batman Family | 22.00% | ~18,313 |
 | Lock and Key | 22.00% | ~18,313 |
 | Something in the Clay | 20.00% | ~16,648 |
@@ -19,15 +19,15 @@ Rating: 4.19 (Ranked 985)
 | Working Hard or Harley Working? | 20.00% | ~16,648 |
 | Unstoppable Force | 20.00% | ~16,648 |
 | Bad Apples in Every Orchard | 20.00% | ~16,648 |
-| Snow Problem | 19.00% | ~15,815 |
+| Snow Problem | 19.00% | ~15,816 |
 | The Show Mud Go On | 17.00% | ~14,151 |
 | From Inside Gotham's Walls | 17.00% | ~14,151 |
 | Protector of Gotham | 16.00% | ~13,318 |
 | In Your Element | 15.00% | ~12,486 |
 | Universal Health Scare | 15.00% | ~12,486 |
-| Rock and a Hard Place | 14.00% | ~11,653 |
-| Cooldown | 14.00% | ~11,653 |
-| Voiceless | 14.00% | ~11,653 |
+| Rock and a Hard Place | 14.00% | ~11,654 |
+| Cooldown | 14.00% | ~11,654 |
+| Voiceless | 14.00% | ~11,654 |
 | Shock Til They Drop | 13.00% | ~10,821 |
 | Seeking Asylum | 13.00% | ~10,821 |
 | End of an Era | 12.00% | ~9,989 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 985)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,239 (Ranked 111)  
+Progressed: 83,240 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,16 +346,16 @@ Completed: 135 (0.16%) (Ranked 298)
 | 2024-01-21 | 83,148 | 135 |
 | 2024-01-22 | 83,185 | 135 |
 | 2024-01-23 | 83,213 | 135 |
-| 2024-01-24 | 83,239 | 135 |
+| 2024-01-24 | 83,240 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,251  (Ranked 103)  
-Sum: 5,562 (Ranked 146)  
+Sum: 5,564 (Ranked 146)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,251 |
 | This game is Great for Beginners | 298 |
-| This game has Diverse Characters | 295 |
+| This game has Diverse Characters | 297 |
 | This game is Extremely Fun | 294 |
 | This game is Relaxing | 292 |
 | This game has Quickly Understood Controls | 291 |
@@ -698,4 +698,4 @@ Diff (max vs sum): -43
 | 2024-01-21 | 4.19 | 3,237 | 5,534 |
 | 2024-01-22 | 4.19 | 3,243 | 5,549 |
 | 2024-01-23 | 4.19 | 3,249 | 5,556 |
-| 2024-01-24 | 4.19 | 3,251 | 5,562 |
+| 2024-01-24 | 4.19 | 3,251 | 5,564 |

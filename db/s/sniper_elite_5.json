@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 4339,
+  "EOS_Progressed": 4340,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -9965,6 +9965,11 @@
       "Time": "2024-01-24T15:09:29.6394949+00:00",
       "NumProgressed": 4339,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-24T21:10:52.2523702+00:00",
+      "NumProgressed": 4340,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9984,7 +9989,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -10008,7 +10013,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -10016,7 +10021,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -10040,7 +10045,7 @@
       "Name": "Organ Grinder",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -10056,7 +10061,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -10128,7 +10133,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -10144,7 +10149,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -10216,7 +10221,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -10312,7 +10317,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10464,7 +10469,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -10472,7 +10477,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -10480,7 +10485,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -10543,13 +10548,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4290,
+      "Progressed": 4291,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4339,
+      "Progressed": 4340,
       "Completed": 11
     }
   ],
@@ -10557,8 +10562,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:11:16.3213823+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:10:52.2523697+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:59:56.0865908+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:11:16.3214697+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:59:37.2343565+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:10:52.2524613+00:00"
 }

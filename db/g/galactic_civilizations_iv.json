@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7584,
+  "EOS_Progressed": 7585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9957,6 +9957,11 @@
       "Time": "2024-01-24T18:11:01.3928541+00:00",
       "NumProgressed": 7584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T21:11:12.9425875+00:00",
+      "NumProgressed": 7585,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10000,7 +10005,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -10008,7 +10013,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4550
+      "UsersEstimate": 4551
     },
     {
       "ID": "Control_All_Relics",
@@ -10080,7 +10085,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5460
+      "UsersEstimate": 5461
     },
     {
       "ID": "First_Ship_Designed",
@@ -10104,7 +10109,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10288,7 +10293,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4550
+      "UsersEstimate": 4551
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10543,15 +10548,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7584,
+      "Progressed": 7585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:11:38.4394472+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:11:12.9425871+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:01:48.0800824+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:11:38.4395653+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:01:30.3022338+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:11:12.9426676+00:00"
 }

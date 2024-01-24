@@ -1718,9 +1718,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140036,
+  "EOS_Progressed": 140037,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29723,6 +29723,11 @@
       "Time": "2024-01-24T20:09:59.1511234+00:00",
       "NumProgressed": 140036,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-24T21:09:37.9556387+00:00",
+      "NumProgressed": 140037,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29766,7 +29771,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25206
+      "UsersEstimate": 25207
     },
     {
       "ID": "ACH_COP_BAD",
@@ -29790,7 +29795,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32208
+      "UsersEstimate": 32209
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -29870,7 +29875,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21005
+      "UsersEstimate": 21006
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -30053,15 +30058,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140036,
+      "Progressed": 140037,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-23T04:58:42.7043232+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:09:59.1511232+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:09:37.9556381+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:00:55.0335618+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:09:59.1512698+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:00:37.7908744+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:09:37.955785+00:00"
 }

@@ -2369,9 +2369,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22718,
+  "EOS_Progressed": 22721,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14879,6 +14879,11 @@
       "Time": "2024-01-24T20:11:15.5639251+00:00",
       "NumProgressed": 22718,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T21:10:51.7135609+00:00",
+      "NumProgressed": 22721,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14906,7 +14911,7 @@
       "Name": "Giving Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14922,7 +14927,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14994,7 +14999,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -15010,7 +15015,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -15018,7 +15023,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "KILL_ROBOT",
@@ -15026,7 +15031,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -15034,7 +15039,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -15050,7 +15055,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -15082,7 +15087,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15090,7 +15095,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "STORY_HABITAT",
@@ -15114,7 +15119,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -15122,7 +15127,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15138,7 +15143,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15146,7 +15151,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "DISMEMBER_100",
@@ -15265,13 +15270,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22718,
+      "Progressed": 22721,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10644,
+      "Progressed": 10647,
       "Completed": 29
     }
   ],
@@ -15279,8 +15284,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-24T20:04:17.5463195+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:11:15.5639247+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:10:51.7135604+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:04:17.5463201+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:11:15.564029+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:03:58.0422272+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:10:51.7136358+00:00"
 }

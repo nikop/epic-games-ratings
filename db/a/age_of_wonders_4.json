@@ -4,10 +4,10 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 360,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 407,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -751,10 +751,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 245,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-01-24T20:57:34.4224702+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 246,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 245,
+  "NumberOfAwards": 246,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -768,7 +774,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Extremely Fun",
@@ -813,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7295,
+  "EOS_Progressed": 7296,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11488,6 +11494,11 @@
       "Time": "2024-01-24T17:03:45.4099938+00:00",
       "NumProgressed": 7295,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T21:04:34.2056257+00:00",
+      "NumProgressed": 7296,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11497,9 +11508,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 584
     },
     {
       "ID": "10",
@@ -11643,7 +11654,7 @@
       "Name": "Bone Peddler",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "27",
@@ -11978,22 +11989,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7295,
+      "Progressed": 7296,
       "Completed": 4770
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7295,
+      "Progressed": 7296,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-23T19:02:49.8867252+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:04:54.4289305+00:00",
+  "LastChanged": "2024-01-24T20:57:34.42247+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:04:34.2056254+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:57:45.7762573+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:04:54.429013+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:57:34.4224705+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:04:34.2057105+00:00"
 }

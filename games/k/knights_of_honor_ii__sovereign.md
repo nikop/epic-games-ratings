@@ -5,28 +5,29 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 17.00% | ~24 |
-| Can’t Touch This | 14.00% | ~19 |
-| Help! Help! I’m being repressed | 14.00% | ~19 |
-| Bring it on! | 11.00% | ~15 |
-| There is no Nobility in Poverty | 11.00% | ~15 |
+| Hail to the King, Baby | 16.00% | ~23 |
+| Can’t Touch This | 15.00% | ~22 |
+| Help! Help! I’m being repressed | 13.00% | ~19 |
+| Bring it on! | 12.00% | ~17 |
+| There is no Nobility in Poverty | 10.00% | ~14 |
 | Full House | 9.00% | ~13 |
 | Path of Glory | 9.00% | ~13 |
-| The finest merchandise this side of river Jordan | 6.00% | ~8 |
-| They Got What They Deserved | 6.00% | ~8 |
-| Playerxander the Great | 5.00% | ~7 |
+| Playerxander the Great | 6.00% | ~9 |
+| The finest merchandise this side of river Jordan | 6.00% | ~9 |
+| They Got What They Deserved | 6.00% | ~9 |
 | What we’ve got here is failure to communicate | 5.00% | ~7 |
 | Big Apple | 4.00% | ~6 |
-| Call the Boys | 4.00% | ~6 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~6 |
-| Dinner Time | 4.00% | ~6 |
 | Do you read Sutter Cane? | 4.00% | ~6 |
-| Learn Me a Book | 4.00% | ~6 |
-| Pillars of the Earth | 4.00% | ~6 |
 | All the King's Men | 3.00% | ~4 |
 | Black Sheep Wall | 3.00% | ~4 |
+| Call the Boys | 3.00% | ~4 |
 | Cut-Me-Own-Throat | 3.00% | ~4 |
+| Dinner Time | 3.00% | ~4 |
+| Learn Me a Book | 3.00% | ~4 |
 | Naught but a Seamless Victory | 3.00% | ~4 |
+| Pillars of the Earth | 3.00% | ~4 |
+| Scientia potentia es | 3.00% | ~4 |
 | ‘Tis but a scratch | 3.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~3 |
 | Blinded by Science | 2.00% | ~3 |
@@ -35,7 +36,6 @@ Rating: 4.35 (Ranked 837)
 | I started a joke | 2.00% | ~3 |
 | Fight Another Day | 2.00% | ~3 |
 | Kingslayer | 2.00% | ~3 |
-| Scientia potentia es | 2.00% | ~3 |
 | Vlad the Impaler | 2.00% | ~3 |
 | A Quiet Palace | 1.00% | ~1 |
 | Crusader “you know what” | 1.00% | ~1 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 481)  
+Progressed: 144 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 139 | 0 |
+| 2024-01-24 | 144 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

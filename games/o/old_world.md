@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.90% | ~154 |
 | Jerwan Aqueduct | 0.90% | ~154 |
 | Royal Library | 0.90% | ~154 |
+| Yazilikaya | 0.90% | ~154 |
 | Lion | 0.80% | ~137 |
 | Strong Difficulty | 0.80% | ~137 |
 | Hunters | 0.80% | ~137 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.80% | ~137 |
 | Ambition Victory | 0.80% | ~137 |
 | Kushite Pyramids | 0.80% | ~137 |
-| Yazilikaya | 0.80% | ~137 |
 | Bad Heir Day | 0.70% | ~120 |
 | Devout | 0.70% | ~120 |
 | Peacemaker | 0.70% | ~120 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,142 (Ranked 170)  
+Progressed: 17,145 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
-| 2024-01-24 | 17,142 | 5 |
+| 2024-01-24 | 17,145 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,946 (Ranked 224)  

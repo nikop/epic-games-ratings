@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Friendly Fire | 33.00% | ~2 |
-| LOVE | 33.00% | ~2 |
-| Safety | 33.00% | ~2 |
-| kuso | 33.00% | ~2 |
-| 13 Years in 69 Minutes | 17.00% | ~1 |
-| Air walker | 17.00% | ~1 |
-| Ball Dropper | 17.00% | ~1 |
-| Bork & Niko | 17.00% | ~1 |
-| Cautious Completionist | 17.00% | ~1 |
-| Freedom | 17.00% | ~1 |
-| Frequent Flyer | 17.00% | ~1 |
-| Where did I put my keys? | 17.00% | ~1 |
-| Gotta Go Fast | 17.00% | ~1 |
-| Jump rope | 17.00% | ~1 |
-| Just a Scratch or Two | 17.00% | ~1 |
-| Longest Fall | 17.00% | ~1 |
-| Nostalgia | 17.00% | ~1 |
-| Threading the Needle | 17.00% | ~1 |
-| YOLO | 17.00% | ~1 |
-| やり甲斐 | 17.00% | ~1 |
+| Friendly Fire | 29.00% | ~2 |
+| LOVE | 29.00% | ~2 |
+| Safety | 29.00% | ~2 |
+| kuso | 29.00% | ~2 |
+| 13 Years in 69 Minutes | 14.00% | ~1 |
+| Air walker | 14.00% | ~1 |
+| Ball Dropper | 14.00% | ~1 |
+| Bork & Niko | 14.00% | ~1 |
+| Cautious Completionist | 14.00% | ~1 |
+| Freedom | 14.00% | ~1 |
+| Frequent Flyer | 14.00% | ~1 |
+| Where did I put my keys? | 14.00% | ~1 |
+| Gotta Go Fast | 14.00% | ~1 |
+| Jump rope | 14.00% | ~1 |
+| Just a Scratch or Two | 14.00% | ~1 |
+| Longest Fall | 14.00% | ~1 |
+| Nostalgia | 14.00% | ~1 |
+| Threading the Needle | 14.00% | ~1 |
+| YOLO | 14.00% | ~1 |
+| やり甲斐 | 14.00% | ~1 |
 | Charlie | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 705)  
+Progressed: 7 (Ranked 694)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,6 +38,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2023-12-11 | 4 | 0 |
 | 2023-12-16 | 5 | 0 |
 | 2024-01-08 | 6 | 0 |
+| 2024-01-24 | 7 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

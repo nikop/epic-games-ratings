@@ -10,12 +10,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.80% | ~8,466 |
 | The Hermit | 0.80% | ~8,466 |
 | True Soldier | 0.80% | ~8,466 |
-| Christmas Tree Attack | 0.70% | ~7,407 |
-| Life of the Road | 0.70% | ~7,407 |
-| The High Priestess | 0.70% | ~7,407 |
-| The Lovers | 0.70% | ~7,407 |
-| The Wheel of Fortune | 0.70% | ~7,407 |
-| Legend of The Afterlife | 0.70% | ~7,407 |
+| Christmas Tree Attack | 0.70% | ~7,408 |
+| Life of the Road | 0.70% | ~7,408 |
+| The High Priestess | 0.70% | ~7,408 |
+| The Lovers | 0.70% | ~7,408 |
+| The Wheel of Fortune | 0.70% | ~7,408 |
+| Legend of The Afterlife | 0.70% | ~7,408 |
 | Bushido and Chill | 0.60% | ~6,349 |
 | Gun Fu | 0.60% | ~6,349 |
 | Stanislavski's Method | 0.60% | ~6,349 |
@@ -33,9 +33,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.30% | ~3,175 |
 | The Wandering Fool | 0.30% | ~3,175 |
 | The Sun | 0.30% | ~3,175 |
-| Spin Doctor | 0.30% | ~560 |
-| King of Wands | 0.30% | ~560 |
-| Easy Come, Easy Go | 0.30% | ~560 |
+| Spin Doctor | 0.30% | ~561 |
+| King of Wands | 0.30% | ~561 |
+| Easy Come, Easy Go | 0.30% | ~561 |
 | Breathtaking | 0.20% | ~2,116 |
 | Ten out of Ten | 0.20% | ~2,116 |
 | The Star | 0.20% | ~2,116 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,198 (Ranked 17)  
+Progressed: 1,058,229 (Ranked 17)  
 Completed: 3,158 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,14 +353,14 @@ Completed: 3,158 (0.30%) (Ranked 266)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,058,198 | 3,158 |
+| 2024-01-24 | 1,058,229 | 3,158 |
 ## Awards
-Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 517,750 (Ranked 8)  
+Max (Character Customization): 144,777  (Ranked 8)  
+Sum: 518,125 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 144,402 |
+| This game has Inclusive Character Customization | 144,777 |
 | This game has Great Boss Battles | 108,235 |
 | This game is Great for Beginners | 33,233 |
 | This game has Diverse Characters | 32,463 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,402 | 517,750 |
+| 2024-01-24 | 4.68 | - | 144,777 | 518,125 |

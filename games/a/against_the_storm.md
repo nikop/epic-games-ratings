@@ -26,6 +26,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~1,050 |
 | A Real Challenge | 5.00% | ~1,050 |
 | Ruined Armory | 4.00% | ~840 |
+| Ancient Battleground | 4.00% | ~840 |
 | Levitating Monument | 4.00% | ~840 |
 | Monastery of the Holy Flame | 4.00% | ~840 |
 | Lost Colonies | 4.00% | ~840 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 3.00% | ~630 |
 | Bandit Camp | 3.00% | ~630 |
 | Barren Lands | 3.00% | ~630 |
-| Ancient Battleground | 3.00% | ~630 |
 | Sparkdew Crystals | 3.00% | ~630 |
 | Haunted Forest | 3.00% | ~630 |
 | Flooded Mines | 3.00% | ~630 |
@@ -348,7 +348,7 @@ Completed: 34 (0.16%) (Ranked 298)
 | 2024-01-24 | 20,997 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 458  (Ranked 233)  
-Sum: 3,413 (Ranked 180)  
+Sum: 3,414 (Ranked 180)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -358,7 +358,7 @@ Diff (max vs sum): 53
 | This game is Extremely Fun | 424 |
 | This game is Highly Recommended | 411 |
 | This game has Unique Visuals | 354 |
-| This game has Amazing Storytelling | 338 |
+| This game has Amazing Storytelling | 339 |
 | This game has Amazing Characters | 299 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 222 |
@@ -658,4 +658,4 @@ Diff (max vs sum): 53
 | 2024-01-21 | 4.82 | - | 455 | 3,407 |
 | 2024-01-22 | 4.82 | - | 455 | 3,408 |
 | 2024-01-23 | 4.82 | - | 458 | 3,412 |
-| 2024-01-24 | 4.82 | - | 458 | 3,413 |
+| 2024-01-24 | 4.82 | - | 458 | 3,414 |

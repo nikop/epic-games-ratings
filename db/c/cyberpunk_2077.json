@@ -18960,18 +18960,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 517750,
       "NumberOfAwardsMax": 144402
+    },
+    {
+      "Time": "2024-01-24T21:03:48.4556498+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 518125,
+      "NumberOfAwardsMax": 144777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 517750,
-  "NumberOfAwardsMax": 144402,
+  "NumberOfAwards": 518125,
+  "NumberOfAwardsMax": 144777,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 144402
+      "Count": 144777
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -19040,7 +19046,7 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1058198,
+  "EOS_Progressed": 1058229,
   "EOS_Completed": 3158,
   "EOS_NewPlayers": 4452,
   "EOS_NewCompleters": 42,
@@ -51065,6 +51071,11 @@
       "Time": "2024-01-24T20:10:06.5154333+00:00",
       "NumProgressed": 1058198,
       "NumCompleted": 3158
+    },
+    {
+      "Time": "2024-01-24T21:09:45.0205586+00:00",
+      "NumProgressed": 1058229,
+      "NumCompleted": 3158
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51197,7 +51208,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7407
+      "UsersEstimate": 7408
     },
     {
       "ID": "MaxPain",
@@ -51245,7 +51256,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7407
+      "UsersEstimate": 7408
     },
     {
       "ID": "Roleplayer",
@@ -51309,7 +51320,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7407
+      "UsersEstimate": 7408
     },
     {
       "ID": "TheLovers",
@@ -51317,7 +51328,7 @@
       "Name": "The Lovers",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7407
+      "UsersEstimate": 7408
     },
     {
       "ID": "TheStar",
@@ -51341,7 +51352,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7407
+      "UsersEstimate": 7408
     },
     {
       "ID": "TheWorld",
@@ -51421,7 +51432,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7407
+      "UsersEstimate": 7408
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51477,7 +51488,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Kingofcups",
@@ -51581,7 +51592,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "TheTower",
@@ -51605,28 +51616,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058198,
+      "Progressed": 1058229,
       "Completed": 3158
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186821,
+      "Progressed": 186852,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-24T18:03:58.0063354+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:10:06.5154329+00:00",
+  "LastChanged": "2024-01-24T21:03:48.4556496+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:09:45.0205581+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:04:06.7245385+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:10:06.5156846+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:03:48.4556502+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:09:45.0207155+00:00"
 }

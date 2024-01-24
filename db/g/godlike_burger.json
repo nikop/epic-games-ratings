@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406407,
+  "EOS_Progressed": 406412,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 2782,
+  "EOS_NewPlayers": 2773,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14565,6 +14565,11 @@
       "Time": "2024-01-24T20:08:51.2846863+00:00",
       "NumProgressed": 406407,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-24T21:08:31.7452328+00:00",
+      "NumProgressed": 406412,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 28,
@@ -14576,7 +14581,7 @@
       "Name": "BUTCHER",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24384
+      "UsersEstimate": 24385
     },
     {
       "ID": "GB_CELEBRITY",
@@ -14600,7 +14605,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 81281
+      "UsersEstimate": 81282
     },
     {
       "ID": "GB_DEBTOR",
@@ -14624,7 +14629,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 162563
+      "UsersEstimate": 162565
     },
     {
       "ID": "GB_GOURMET",
@@ -14680,7 +14685,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 20320
+      "UsersEstimate": 20321
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -14696,7 +14701,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 93474
+      "UsersEstimate": 93475
     },
     {
       "ID": "GB_KEVIN",
@@ -14704,7 +14709,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 121922
+      "UsersEstimate": 121924
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -14728,7 +14733,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 182883
+      "UsersEstimate": 182885
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -14760,7 +14765,7 @@
       "Name": "RAMBO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20320
+      "UsersEstimate": 20321
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -14799,7 +14804,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 406407,
+      "Progressed": 406412,
       "Completed": 63
     }
   ],
@@ -14807,8 +14812,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2024-01-22T22:03:04.087319+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:08:51.2846859+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:08:31.7452324+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.8708888+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:04:11.4940374+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:08:51.2847624+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:03:52.0825384+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:08:31.7453074+00:00"
 }

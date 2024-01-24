@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3839,6 +3839,11 @@
       "Time": "2024-01-24T00:04:50.5621792+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T21:05:29.4438174+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3898,7 +3903,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "kill-lieutenants",
@@ -3914,7 +3919,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "play-at-night",
@@ -4001,15 +4006,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-21T00:03:54.481116+00:00",
-  "LastChanged_Achievements": "2024-01-24T20:05:51.8097772+00:00",
+  "LastChanged_Achievements": "2024-01-24T21:05:29.4438169+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.1776026+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:03:50.6743675+00:00",
-  "LastUpdate_Achievements": "2024-01-24T20:05:51.8098076+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:03:33.1149286+00:00",
+  "LastUpdate_Achievements": "2024-01-24T21:05:29.4438435+00:00"
 }

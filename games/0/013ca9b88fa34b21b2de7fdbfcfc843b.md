@@ -10,10 +10,10 @@ Rating: 4.66 (Ranked 310)
 | ... And Spit Back Out | 5.00% | ~459 |
 | Miner 49er | 4.00% | ~367 |
 | Break-Net Speed | 4.00% | ~367 |
+| Humble Collector | 4.00% | ~367 |
 | Bramble Breaker | 4.00% | ~367 |
 | Calm Sailing | 3.00% | ~275 |
 | Open the Gate! | 3.00% | ~275 |
-| Humble Collector | 3.00% | ~275 |
 | Mist Walker | 3.00% | ~275 |
 | Clear the Air | 2.00% | ~184 |
 | Search for the Hairy Grell | 2.00% | ~184 |
