@@ -18,7 +18,7 @@
 | 16 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.49% |
 | 17 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.39% |
+| 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.34% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.51% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.22% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.21% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -78,7 +78,7 @@
 | 76 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.06% |
 | 78 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 5.00% |
-| 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
+| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.00% |
 | 80 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 81 | [ZZT!](games/z/zzt!.md) | 4.78% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.72% |
@@ -184,13 +184,13 @@
 | 182 | [Sable](games/s/sable.md) | 1.02% |
 | 183 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.01% |
 | 183 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
-| 185 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
-| 185 | [Lemon Cake](games/l/lemon_cake.md) | 0.99% |
-| 187 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 188 | [Trifox](games/t/trifox.md) | 0.94% |
-| 189 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
-| 189 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
-| 191 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.92% |
+| 185 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 1.00% |
+| 186 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
+| 186 | [Lemon Cake](games/l/lemon_cake.md) | 0.99% |
+| 188 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
+| 189 | [Trifox](games/t/trifox.md) | 0.94% |
+| 190 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
+| 190 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 192 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.91% |
 | 192 | [Hades](games/h/hades.md) | 0.91% |
 | 194 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.88% |
@@ -242,12 +242,12 @@
 | 239 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.45% |
 | 241 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.44% |
 | 241 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
-| 243 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.43% |
 | 243 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.43% |
 | 243 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 243 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
-| 247 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.42% |
-| 247 | [Remnant 2](games/r/remnant_2.md) | 0.42% |
+| 246 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.42% |
+| 246 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.42% |
+| 246 | [Remnant 2](games/r/remnant_2.md) | 0.42% |
 | 249 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.41% |
 | 250 | [Tchia](games/t/tchia.md) | 0.40% |
 | 251 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.39% |

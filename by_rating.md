@@ -332,7 +332,6 @@
 | 328 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 178 | 318 |
 | 328 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 121 | 362 |
 | 328 | [DOOM II](games/d/doom_ii.md) | 4.65 | 28 | 544 |
-| 328 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.65 | 74 | 414 |
 | 328 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 591 |
 | 328 | [High On Life](games/h/high_on_life.md) | 4.65 | 0 | 591 |
 | 328 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 20 | 586 |
@@ -347,18 +346,19 @@
 | 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 78 | 407 |
 | 328 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 318 | 260 |
 | 328 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.65 | 0 | 591 |
-| 348 | [APE OUT](games/a/ape_out.md) | 4.64 | 0 | 591 |
-| 348 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 591 |
-| 348 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,036 | 70 |
-| 348 | [Black Skylands](games/b/black_skylands.md) | 4.64 | 0 | 591 |
-| 348 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 0 | 591 |
-| 348 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.64 | 5,288 | 78 |
-| 348 | [No Straight Roads](games/n/no_straight_roads.md) | 4.64 | 0 | 591 |
-| 348 | [Revita](games/r/revita.md) | 4.64 | 0 | 591 |
-| 348 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,618 | 18 |
-| 348 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 36 | 506 |
-| 348 | [Tropico 6](games/t/tropico_6.md) | 4.64 | 108 | 374 |
-| 348 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 213 | 296 |
+| 347 | [APE OUT](games/a/ape_out.md) | 4.64 | 0 | 591 |
+| 347 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 591 |
+| 347 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,036 | 70 |
+| 347 | [Black Skylands](games/b/black_skylands.md) | 4.64 | 0 | 591 |
+| 347 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 0 | 591 |
+| 347 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.64 | 74 | 414 |
+| 347 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.64 | 5,288 | 78 |
+| 347 | [No Straight Roads](games/n/no_straight_roads.md) | 4.64 | 0 | 591 |
+| 347 | [Revita](games/r/revita.md) | 4.64 | 0 | 591 |
+| 347 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,618 | 18 |
+| 347 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 36 | 506 |
+| 347 | [Tropico 6](games/t/tropico_6.md) | 4.64 | 108 | 374 |
+| 347 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 213 | 296 |
 | 360 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.63 | 43 | 483 |
 | 360 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 580 |
 | 360 | [Art of Rally](games/a/art_of_rally_1.md) | 4.63 | 46 | 475 |
@@ -366,7 +366,7 @@
 | 360 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 591 |
 | 360 | [Colt Canyon](games/c/colt_canyon.md) | 4.63 | 0 | 591 |
 | 360 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 511 |
-| 360 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,343 | 112 |
+| 360 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,345 | 112 |
 | 360 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.63 | 0 | 591 |
 | 360 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,813 | 131 |
 | 360 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.63 | 38 | 497 |
@@ -388,7 +388,7 @@
 | 386 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.62 | 0 | 591 |
 | 386 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 998 | 166 |
 | 386 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 295 | 269 |
-| 386 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 635 | 206 |
+| 386 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 637 | 206 |
 | 386 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.62 | 0 | 591 |
 | 386 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 189 | 311 |
 | 386 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.62 | 2,213 | 117 |
@@ -496,7 +496,7 @@
 | 475 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 89 | 400 |
 | 475 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 238 | 284 |
 | 475 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 105 | 378 |
-| 475 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,710 | 28 |
+| 475 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,717 | 28 |
 | 498 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 591 |
 | 498 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.57 | 26 | 551 |
 | 498 | [Aztez](games/a/aztez.md) | 4.57 | 21 | 580 |
@@ -957,7 +957,7 @@
 | 953 | [Out of Line](games/o/out_of_line.md) | 4.23 | 0 | 591 |
 | 953 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.23 | 0 | 591 |
 | 953 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 591 |
-| 953 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 235 | 286 |
+| 953 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 236 | 285 |
 | 953 | [Wreckfest](games/w/wreckfest.md) | 4.23 | 0 | 591 |
 | 960 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.22 | 0 | 591 |
 | 960 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 43 | 483 |
