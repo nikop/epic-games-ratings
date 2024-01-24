@@ -25,13 +25,13 @@ Rating: 3.67 (Ranked 1,107)
 | Neighborhood Revitalization | 7.00% | ~169 |
 | Radio Silence | 7.00% | ~169 |
 | You Clean It Up | 5.00% | ~121 |
+| From the Shadows | 5.00% | ~121 |
 | Helping Hand | 5.00% | ~121 |
 | I Spit On Your Grave | 5.00% | ~121 |
 | Sic Transit Umbra | 4.00% | ~97 |
 | Bell-ringer | 4.00% | ~97 |
 | Silence Is Golden | 4.00% | ~97 |
 | Good Morning | 4.00% | ~97 |
-| From the Shadows | 4.00% | ~97 |
 | Starve the Beast | 4.00% | ~97 |
 | Harvest’s End | 4.00% | ~97 |
 | Revelations | 3.00% | ~73 |

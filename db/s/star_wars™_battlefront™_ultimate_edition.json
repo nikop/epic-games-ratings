@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3128,
+  "EOS_Progressed": 3129,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8574,6 +8574,11 @@
       "Time": "2024-01-24T16:10:22.7309973+00:00",
       "NumProgressed": 3128,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T17:10:24.4140356+00:00",
+      "NumProgressed": 3129,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8810,7 +8815,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "achievement_36",
@@ -9089,13 +9094,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3128,
+      "Progressed": 3129,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3128,
+      "Progressed": 3129,
       "Completed": 1
     }
   ],
@@ -9103,8 +9108,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:22.7309971+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:24.4140352+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:58:51.8513858+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:22.7311694+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:58:46.3996143+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:24.4141092+00:00"
 }

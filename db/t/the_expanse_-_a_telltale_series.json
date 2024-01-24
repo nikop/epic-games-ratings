@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19262,
+  "EOS_Progressed": 19263,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18138,6 +18138,11 @@
       "Time": "2024-01-24T16:06:10.902773+00:00",
       "NumProgressed": 19262,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-24T17:06:09.1377498+00:00",
+      "NumProgressed": 19263,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18198,7 +18203,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "16",
@@ -18350,7 +18355,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "6",
@@ -18390,7 +18395,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "32",
@@ -18429,13 +18434,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19262,
+      "Progressed": 19263,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5216,
+      "Progressed": 5217,
       "Completed": 1400
     }
   ],
@@ -18443,8 +18448,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:06:10.9027727+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:06:09.1377495+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:59:49.2715082+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:06:10.90298+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:59:42.3333681+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:06:09.137838+00:00"
 }

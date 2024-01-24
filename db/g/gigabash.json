@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126596,
+  "EOS_Progressed": 126612,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2545,
+  "EOS_NewPlayers": 2547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5795,6 +5795,11 @@
       "Time": "2024-01-24T16:05:22.1998811+00:00",
       "NumProgressed": 126596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T17:05:21.7614179+00:00",
+      "NumProgressed": 126612,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5871,7 +5876,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13926
+      "UsersEstimate": 13927
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5879,7 +5884,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25319
+      "UsersEstimate": 25322
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5903,7 +5908,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18989
+      "UsersEstimate": 18992
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5943,7 +5948,7 @@
       "Name": "Ninja Reflex",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_ONLINE",
@@ -5959,7 +5964,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10128
+      "UsersEstimate": 10129
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -5975,7 +5980,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11394
+      "UsersEstimate": 11395
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -6031,7 +6036,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6330
+      "UsersEstimate": 6331
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -6071,7 +6076,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -6086,7 +6091,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126596,
+      "Progressed": 126612,
       "Completed": 0
     }
   ],
@@ -6094,8 +6099,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:05:22.1998805+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:05:21.7614176+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:59:39.2969748+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:05:22.1999668+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:59:32.0899645+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:05:21.7614586+00:00"
 }

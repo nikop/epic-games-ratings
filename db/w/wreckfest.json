@@ -379,7 +379,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1273,
+  "EOS_Progressed": 1274,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -3359,6 +3359,11 @@
       "Time": "2024-01-24T16:09:15.0354963+00:00",
       "NumProgressed": 1273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T17:09:19.6271802+00:00",
+      "NumProgressed": 1274,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3387,7 +3392,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "CareerChamp2",
@@ -3530,7 +3535,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1273,
+      "Progressed": 1274,
       "Completed": 0
     }
   ],
@@ -3538,8 +3543,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-23T14:00:16.8218024+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:09:15.0354961+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:09:19.6271798+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:57:28.8014065+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:09:15.035557+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:57:30.729704+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:09:19.6272059+00:00"
 }

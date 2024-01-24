@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34233,
+  "EOS_Progressed": 34235,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31552,6 +31552,11 @@
       "Time": "2024-01-24T15:09:31.8486427+00:00",
       "NumProgressed": 34233,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-24T17:10:08.3768659+00:00",
+      "NumProgressed": 34235,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31683,7 +31688,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6504
+      "UsersEstimate": 6505
     },
     {
       "ID": "1031",
@@ -31691,7 +31696,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "1032",
@@ -31699,7 +31704,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13693
+      "UsersEstimate": 13694
     },
     {
       "ID": "1033",
@@ -31738,15 +31743,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34233,
+      "Progressed": 34235,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:05.8721431+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:08.3768656+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:57:49.5215117+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:05.8724575+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:57:50.2901293+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:08.3770078+00:00"
 }

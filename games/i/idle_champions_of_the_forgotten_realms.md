@@ -14,8 +14,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 1.00% | ~2,554 |
 | Were-verpowered | 0.90% | ~2,299 |
 | Seeking Allies | 0.90% | ~2,299 |
+| Mad Cow Disease | 0.90% | ~2,299 |
 | Friendly Imps | 0.90% | ~2,299 |
-| Mad Cow Disease | 0.80% | ~2,043 |
 | Pure Energy | 0.80% | ~2,043 |
 | Welcome to Sigil | 0.80% | ~1,773 |
 | A Persistent Buzzing | 0.70% | ~1,788 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.60% | ~1,532 |
 | Beast Mode | 0.50% | ~1,277 |
 | A Mysterious Summons | 0.50% | ~1,277 |
+| Useless Allies | 0.50% | ~1,277 |
 | Exploring Port Nyanzaru | 0.50% | ~1,277 |
 | Escort to Waterdeep | 0.50% | ~1,277 |
 | The Overgrown Grove | 0.50% | ~1,108 |
@@ -37,9 +38,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.50% | ~1,108 |
 | Low Initiative | 0.40% | ~1,022 |
 | Building Trust | 0.40% | ~1,022 |
+| March of the Undead | 0.40% | ~1,022 |
 | No Time To Rest | 0.40% | ~1,022 |
 | The Dinner Party | 0.40% | ~1,022 |
-| Useless Allies | 0.40% | ~1,022 |
 | Running of the Saurs | 0.40% | ~1,022 |
 | Waterdeep Detours | 0.40% | ~1,022 |
 | Underdeep Cartography | 0.40% | ~1,022 |
@@ -51,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.30% | ~766 |
 | Homecoming | 0.30% | ~766 |
 | Street War | 0.30% | ~766 |
-| March of the Undead | 0.30% | ~766 |
 | Wisdom Check | 0.30% | ~766 |
 | Invisible Shadows | 0.30% | ~766 |
 | The Botched Kidnapping | 0.30% | ~766 |
@@ -78,6 +78,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.20% | ~511 |
 | Return to the Tomb | 0.20% | ~443 |
 | Heatwave | 0.20% | ~443 |
+| The Dread Domain of Tovag | 0.20% | ~443 |
 | The Lost Heir of Omu | 0.20% | ~511 |
 | Lobsterfolk Assault | 0.20% | ~511 |
 | The Forbidden City | 0.20% | ~511 |
@@ -228,7 +229,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Distance | 0.10% | ~222 |
 | To Avernus in a Handbasket | 0.10% | ~222 |
 | Hands Off! | 0.10% | ~222 |
-| The Dread Domain of Tovag | 0.10% | ~222 |
 | Weak Doesn't Mean Feeble | 0.10% | ~222 |
 | Frail Doesn't Mean Broken | 0.10% | ~222 |
 | The Castle of a Thousand Vecnas | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,392 (Ranked 71)  
+Progressed: 255,399 (Ranked 71)  
 Completed: 2,638 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,7 +832,7 @@ Completed: 2,638 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,392 | 2,638 |
+| 2024-01-24 | 255,399 | 2,638 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,620 (Ranked 42)  

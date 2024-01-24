@@ -389,17 +389,17 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "BOSS_4",
@@ -469,9 +469,9 @@
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PHOTOS_ALL",
@@ -540,8 +540,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:04:03.469818+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:04:05.6008032+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:57:29.2228137+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:04:03.4698405+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:57:31.1812965+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:04:05.6008182+00:00"
 }

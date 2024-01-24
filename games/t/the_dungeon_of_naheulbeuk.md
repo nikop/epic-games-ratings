@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,268 |
-| Alt+F4 | 11.00% | ~27,431 |
-| Where's that freaking Dwarf? | 10.00% | ~24,937 |
+| Sowwy! | 37.00% | ~92,270 |
+| Alt+F4 | 11.00% | ~27,432 |
+| Where's that freaking Dwarf? | 10.00% | ~24,938 |
 | Déjà vu | 8.00% | ~19,950 |
-| Sock! SOCK! | 6.00% | ~14,962 |
-| Speedrun | 6.00% | ~14,962 |
+| Sock! SOCK! | 6.00% | ~14,963 |
+| Speedrun | 6.00% | ~14,963 |
 | A beer, two curses, three companions | 5.00% | ~12,469 |
 | GG EZ | 5.00% | ~12,469 |
 | DM intervention | 5.00% | ~12,469 |
@@ -29,17 +29,17 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 3.00% | ~7,481 |
 | Team Building Exercise | 3.00% | ~7,481 |
 | Oh, when I'll be level 10... | 3.00% | ~7,481 |
-| Shiny and Crôm | 2.00% | ~4,987 |
-| Res Judicata | 2.00% | ~4,987 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,987 |
-| Dwarf Fortress | 2.00% | ~4,987 |
-| Look but don't touch | 2.00% | ~4,987 |
-| The beards of change | 2.00% | ~4,987 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,987 |
-| Lust and Debauchery | 2.00% | ~4,987 |
-| The Ranger of Chaos | 2.00% | ~4,987 |
-| I am the night | 2.00% | ~4,987 |
-| Thieves' Guild Accreditation | 2.00% | ~4,987 |
+| Shiny and Crôm | 2.00% | ~4,988 |
+| Res Judicata | 2.00% | ~4,988 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,988 |
+| Dwarf Fortress | 2.00% | ~4,988 |
+| Look but don't touch | 2.00% | ~4,988 |
+| The beards of change | 2.00% | ~4,988 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,988 |
+| Lust and Debauchery | 2.00% | ~4,988 |
+| The Ranger of Chaos | 2.00% | ~4,988 |
+| I am the night | 2.00% | ~4,988 |
+| Thieves' Guild Accreditation | 2.00% | ~4,988 |
 | %#*!$*! | 1.00% | ~2,494 |
 | Dead for good | 1.00% | ~2,494 |
 | Gargantua | 1.00% | ~2,494 |
@@ -53,9 +53,9 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.60% | ~1,496 |
 | I'd rather... Just... Sing! | 0.50% | ~1,247 |
 | It's been a hard day's night | 0.50% | ~1,247 |
-| Friendly fire | 0.40% | ~997 |
-| The number of the counting shalt be 7 | 0.40% | ~997 |
-| Inception | 0.40% | ~997 |
+| Friendly fire | 0.40% | ~998 |
+| The number of the counting shalt be 7 | 0.40% | ~998 |
+| Inception | 0.40% | ~998 |
 | 100% satisfaction guarantee | 0.30% | ~748 |
 | Death is for wimps | 0.30% | ~748 |
 | Cursed die | 0.20% | ~499 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,374 (Ranked 73)  
+Progressed: 249,378 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 9 (0.00%) (Ranked 409)
 | 2024-01-21 | 249,117 | 9 |
 | 2024-01-22 | 249,232 | 9 |
 | 2024-01-23 | 249,318 | 9 |
-| 2024-01-24 | 249,374 | 9 |
+| 2024-01-24 | 249,378 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 580 (Ranked 330)  

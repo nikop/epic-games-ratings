@@ -4103,9 +4103,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 688
     },
     {
       "ID": "Causality",
@@ -4246,8 +4246,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:09.4821115+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:11.9777581+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:59:28.2815495+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:09.482161+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:59:21.3855273+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:11.9777896+00:00"
 }

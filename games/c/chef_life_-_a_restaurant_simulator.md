@@ -7,7 +7,7 @@ Rating: 4.45 (Ranked 697)
 | ---- | ---------- | ----- |
 | The Big Day | 61.00% | ~638 |
 | You're the Expert! | 27.00% | ~282 |
-| Home Cook | 24.00% | ~251 |
+| Home Cook | 25.00% | ~262 |
 | S is for Scrumptious | 16.00% | ~167 |
 | French Flair | 15.00% | ~157 |
 | So Clean You Can Eat Off the Floor | 15.00% | ~157 |

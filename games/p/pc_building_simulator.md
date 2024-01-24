@@ -1,35 +1,35 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 310)  
+Rating: 4.65 (Ranked 327)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,770,301 |
-| Easy to forget | 46.00% | ~1,661,916 |
-| Back in the black | 39.00% | ~1,409,015 |
-| That's what I'm talking about | 29.00% | ~1,047,729 |
-| The Best of Both Worlds | 25.00% | ~903,215 |
-| Get your wings | 20.00% | ~722,572 |
-| Double trouble | 16.00% | ~578,058 |
-| Smashing it | 11.00% | ~397,415 |
-| But can it run Crysis? | 9.00% | ~325,157 |
-| My favourite feature... | 9.00% | ~325,157 |
-| Customer satisfaction | 8.00% | ~289,029 |
-| From humble beginnings... | 7.00% | ~252,900 |
-| Keeping things neat | 4.00% | ~144,514 |
-| Seems you're pretty good at this | 4.00% | ~144,514 |
-| Bending over backwards | 4.00% | ~144,514 |
+| You need to plug it in... | 49.00% | ~1,770,311 |
+| Easy to forget | 46.00% | ~1,661,925 |
+| Back in the black | 39.00% | ~1,409,023 |
+| That's what I'm talking about | 29.00% | ~1,047,735 |
+| The Best of Both Worlds | 25.00% | ~903,220 |
+| Get your wings | 20.00% | ~722,576 |
+| Double trouble | 16.00% | ~578,061 |
+| Smashing it | 11.00% | ~397,417 |
+| But can it run Crysis? | 9.00% | ~325,159 |
+| My favourite feature... | 9.00% | ~325,159 |
+| Customer satisfaction | 8.00% | ~289,030 |
+| From humble beginnings... | 7.00% | ~252,902 |
+| Keeping things neat | 4.00% | ~144,515 |
+| Seems you're pretty good at this | 4.00% | ~144,515 |
+| Bending over backwards | 4.00% | ~144,515 |
 | I'm broke, Uncle! | 3.00% | ~108,386 |
 | Triple threat | 3.00% | ~108,386 |
 | You rock at this! | 3.00% | ~108,386 |
 | Perfection | 3.00% | ~108,386 |
 | Your music sucks | 3.00% | ~108,386 |
-| Maybe you should try something else? | 2.00% | ~72,257 |
-| Taking care of business | 2.00% | ~72,257 |
-| Things are under control | 2.00% | ~72,257 |
-| Calling in Sick | 2.00% | ~72,257 |
+| Maybe you should try something else? | 2.00% | ~72,258 |
+| Taking care of business | 2.00% | ~72,258 |
+| Things are under control | 2.00% | ~72,258 |
+| Calling in Sick | 2.00% | ~72,258 |
 | Overvolted | 1.00% | ~36,129 |
 | If you fail the first time... | 1.00% | ~36,129 |
 | Amazonian | 1.00% | ~36,129 |
@@ -42,7 +42,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building momentum | 0.60% | ~21,677 |
 | Lead by example | 0.60% | ~21,677 |
 | Treat yourself - RAM | 0.50% | ~18,064 |
-| Mr big business | 0.40% | ~14,451 |
+| Mr big business | 0.40% | ~14,452 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,839 |
 | Mister Big | 0.30% | ~10,839 |
 | Getting your feet wet | 0.30% | ~10,839 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,613 |
 | Treat yourself - GPU | 0.10% | ~3,613 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612,860 (Ranked 5)  
+Progressed: 3,612,880 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,10 +338,10 @@ Completed: 41 (0.00%) (Ranked 409)
 | 2024-01-21 | 3,611,983 | 41 |
 | 2024-01-22 | 3,612,336 | 41 |
 | 2024-01-23 | 3,612,675 | 41 |
-| 2024-01-24 | 3,612,860 | 41 |
+| 2024-01-24 | 3,612,880 | 41 |
 ## Awards
 Max (Great for Beginners): 1,148  (Ranked 154)  
-Sum: 8,328 (Ranked 116)  
+Sum: 8,329 (Ranked 116)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): 38
 | This game is Educational | 1,030 |
 | This game is Extremely Fun | 1,024 |
 | This game is Relaxing | 1,007 |
-| This game has Quickly Understood Controls | 973 |
+| This game has Quickly Understood Controls | 974 |
 | This game is Highly Recommended | 939 |
 | This game has Amazing Storytelling | 843 |
 | This game has Amazing Characters | 689 |
@@ -677,3 +677,4 @@ Diff (max vs sum): 38
 | 2024-01-21 | 4.65 | - | 1,147 | 8,324 |
 | 2024-01-22 | 4.66 | - | 1,147 | 8,325 |
 | 2024-01-23 | 4.66 | - | 1,148 | 8,328 |
+| 2024-01-24 | 4.65 | - | 1,148 | 8,329 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11152,10 +11152,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21843,
       "NumberOfAwardsMax": 8066
+    },
+    {
+      "Time": "2024-01-24T16:59:56.2870916+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21845,
+      "NumberOfAwardsMax": 8066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21843,
+  "NumberOfAwards": 21845,
   "NumberOfAwardsMax": 8066,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11229,12 +11235,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1113
+      "Count": 1115
     }
   ],
-  "EOS_Progressed": 133614,
+  "EOS_Progressed": 133616,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41317,6 +41323,11 @@
       "Time": "2024-01-24T16:10:16.9781025+00:00",
       "NumProgressed": 133614,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T17:10:18.9434701+00:00",
+      "NumProgressed": 133616,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41864,7 +41875,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "combat_kill_collector",
@@ -41928,7 +41939,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41959,21 +41970,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133614,
+      "Progressed": 133616,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8483,
+      "Progressed": 8485,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-24T13:07:12.586229+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:16.9781023+00:00",
+  "LastChanged": "2024-01-24T16:59:56.2870914+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:18.9434698+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:00:04.7533718+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:16.9783201+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:59:56.2870921+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:18.9436291+00:00"
 }

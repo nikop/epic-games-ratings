@@ -1129,9 +1129,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21961,
+  "EOS_Progressed": 21966,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 846,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18469,6 +18469,11 @@
       "Time": "2024-01-24T16:09:59.4894429+00:00",
       "NumProgressed": 21961,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-24T17:10:02.227627+00:00",
+      "NumProgressed": 21966,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18481,7 +18486,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "a_10",
@@ -18529,7 +18534,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9663
+      "UsersEstimate": 9665
     },
     {
       "ID": "a_19",
@@ -18569,7 +18574,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "a_23",
@@ -18728,7 +18733,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21961,
+      "Progressed": 21966,
       "Completed": 13
     }
   ],
@@ -18736,8 +18741,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-23T23:00:01.9387495+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:09:59.4894425+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:02.2276266+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:00:22.2137023+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:09:59.489639+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:00:12.2082679+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:02.2277221+00:00"
 }

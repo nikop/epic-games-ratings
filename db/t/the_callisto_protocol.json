@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22707,
+  "EOS_Progressed": 22708,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14853,6 +14853,11 @@
       "Time": "2024-01-24T15:09:29.1413613+00:00",
       "NumProgressed": 22707,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T17:10:05.7389056+00:00",
+      "NumProgressed": 22708,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15024,7 +15029,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4315
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -15032,7 +15037,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4768
+      "UsersEstimate": 4769
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15064,7 +15069,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4315
     },
     {
       "ID": "STORY_HABITAT",
@@ -15239,13 +15244,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22707,
+      "Progressed": 22708,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10633,
+      "Progressed": 10634,
       "Completed": 29
     }
   ],
@@ -15253,8 +15258,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:03.0165347+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:05.7389053+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:03:23.806956+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:03.0167243+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:03:25.6365168+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:05.7389914+00:00"
 }

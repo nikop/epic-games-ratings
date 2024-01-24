@@ -11,9 +11,9 @@ Rating: 4.22 (Ranked 960)
 | Paper Jams | 25.00% | ~5,677 |
 | Get a Grip | 24.00% | ~5,450 |
 | Chew 'Em Up | 22.00% | ~4,996 |
-| Reforged | 21.00% | ~4,768 |
-| Float Like A Butterfly | 19.00% | ~4,314 |
-| If the SHU Fits... | 19.00% | ~4,314 |
+| Reforged | 21.00% | ~4,769 |
+| Float Like A Butterfly | 19.00% | ~4,315 |
+| If the SHU Fits... | 19.00% | ~4,315 |
 | Workplace Hazard | 18.00% | ~4,087 |
 | Without A Paddle | 16.00% | ~3,633 |
 | In the Pipe, Five by Five | 14.00% | ~3,179 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,707 (Ranked 153)  
+Progressed: 22,708 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-21 | 22,649 | 82 |
 | 2024-01-22 | 22,675 | 82 |
 | 2024-01-23 | 22,690 | 82 |
-| 2024-01-24 | 22,707 | 82 |
+| 2024-01-24 | 22,708 | 82 |
 ## Awards
 Max (Amazing Characters): 143  (Ranked 342)  
 Sum: 687 (Ranked 315)  

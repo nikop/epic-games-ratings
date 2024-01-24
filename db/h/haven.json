@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2051,
+  "EOS_Progressed": 2053,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3935,6 +3935,11 @@
       "Time": "2024-01-24T08:04:02.8165527+00:00",
       "NumProgressed": 2051,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-24T17:04:00.0405697+00:00",
+      "NumProgressed": 2053,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3946,7 +3951,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "10",
@@ -4008,9 +4013,9 @@
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1417
     },
     {
       "ID": "18",
@@ -4106,7 +4111,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "30",
@@ -4154,7 +4159,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "7",
@@ -4185,15 +4190,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2051,
+      "Progressed": 2053,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:03:57.854358+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:04:00.040569+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:59:29.9210753+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:03:57.8544214+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:59:23.1270091+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:04:00.0406325+00:00"
 }

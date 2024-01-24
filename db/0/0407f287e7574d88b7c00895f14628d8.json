@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1223,9 +1223,9 @@
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "jk3",
@@ -1375,9 +1375,9 @@
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "x2",
@@ -1454,8 +1454,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:04:53.9704822+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:04:53.8079032+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:24.3827617+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:03:08.4561788+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:04:53.9705423+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:03:11.9356235+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:04:53.8079571+00:00"
 }

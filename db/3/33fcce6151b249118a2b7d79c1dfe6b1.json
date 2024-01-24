@@ -2,9 +2,9 @@
   "ID": "33fcce6151b249118a2b7d79c1dfe6b1",
   "Name": "Lil\u0027 Guardsman",
   "ProductSlug": "lil-guardsman-3cf46c",
-  "Ranking_EOS_Progress": 704,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -21,10 +21,12 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +54,11 @@
       "Time": "2024-01-24T16:04:16.3161768+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T17:04:18.3368184+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T22:03:25.4967944+00:00",
@@ -78,7 +85,7 @@
       "ID": "BattleWonByAir",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Air",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -86,7 +93,7 @@
       "ID": "BattleWonByLand",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Land",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -110,9 +117,9 @@
       "ID": "CompleteLevel10",
       "SetID": "8j3le2g",
       "Name": "The Night Shift Pt. 2",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteLevel11",
@@ -126,7 +133,7 @@
       "ID": "CompleteLevel2",
       "SetID": "8j3le2g",
       "Name": "The Envoys Arrive",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -134,7 +141,7 @@
       "ID": "CompleteLevel3",
       "SetID": "8j3le2g",
       "Name": "Let\u0027s Play GoblinBall",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -142,7 +149,7 @@
       "ID": "CompleteLevel4",
       "SetID": "8j3le2g",
       "Name": "The Princess Is Missing",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -174,7 +181,7 @@
       "ID": "CompleteLevel8",
       "SetID": "8j3le2g",
       "Name": "Wartime Lil",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -182,7 +189,7 @@
       "ID": "CompleteLevel9",
       "SetID": "8j3le2g",
       "Name": "A Spy Among Goblins",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -206,17 +213,17 @@
       "ID": "GameOver",
       "SetID": "8j3le2g",
       "Name": "Oh my god, you killed Lil! You...",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GhostFinder",
       "SetID": "8j3le2g",
       "Name": "Ghost Finder",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GollumGary",
@@ -270,9 +277,9 @@
       "ID": "PerfectLevel10",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 10",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerfectLevel11",
@@ -286,7 +293,7 @@
       "ID": "PerfectLevel2",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 2",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -294,7 +301,7 @@
       "ID": "PerfectLevel3",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 3",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -302,7 +309,7 @@
       "ID": "PerfectLevel4",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 4",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -326,7 +333,7 @@
       "ID": "PerfectLevel8",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 8",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -334,7 +341,7 @@
       "ID": "PerfectLevel9",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 9",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -382,7 +389,7 @@
       "ID": "TripleBarf",
       "SetID": "8j3le2g",
       "Name": "Triple Barf!",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -430,7 +437,7 @@
       "ID": "WarriorChampion",
       "SetID": "8j3le2g",
       "Name": "Warrior Champion!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -447,13 +454,14 @@
     {
       "ID": "8j3le2g",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
+  "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:04:16.3161765+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:04:18.3368181+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:58:26.71301+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:04:16.3162188+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:58:23.3838876+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:04:18.3368509+00:00"
 }

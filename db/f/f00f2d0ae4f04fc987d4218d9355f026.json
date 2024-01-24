@@ -2,7 +2,7 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 145,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2024-01-24T16:08:26.9423535+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T17:08:32.1799948+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -474,17 +479,17 @@
       "ID": "AllIn",
       "SetID": "aaidab7",
       "Name": "All-in",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Athlete",
       "SetID": "aaidab7",
       "Name": "Athlete",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BioIncMaster",
@@ -498,9 +503,9 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CirculatoryCollapse",
@@ -514,9 +519,9 @@
       "ID": "CloseCall",
       "SetID": "aaidab7",
       "Name": "Close Call",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DedicatedPlayer",
@@ -540,15 +545,15 @@
       "Name": "Diagnostic Professional",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "DigestiveCollapse",
       "SetID": "aaidab7",
       "Name": "Digestive Collapse",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HeartAttack",
@@ -562,9 +567,9 @@
       "ID": "ImmuneCollapse",
       "SetID": "aaidab7",
       "Name": "Immune Collapse",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "LastResort",
@@ -578,9 +583,9 @@
       "ID": "LethalWalkInThePark",
       "SetID": "aaidab7",
       "Name": "Lethal Walk In The Park",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Loaded",
@@ -596,23 +601,23 @@
       "Name": "Loser",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Lupus",
       "SetID": "aaidab7",
       "Name": "Lupus Nephritis",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "LupusNephretis",
       "SetID": "aaidab7",
       "Name": "It\u0027s Never Lupus",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "MedStudent",
@@ -620,39 +625,39 @@
       "Name": "Medical Student",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "MuscularCollapse",
       "SetID": "aaidab7",
       "Name": "Muscular Collapse",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "NervousCollapse",
       "SetID": "aaidab7",
       "Name": "Nervous Collapse",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "Opportunist",
       "SetID": "aaidab7",
       "Name": "Opportunist",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "PrescriptionFrenzy",
       "SetID": "aaidab7",
       "Name": "Prescription Frenzy",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Reaper",
@@ -674,17 +679,17 @@
       "ID": "RespiratoryCollapse",
       "SetID": "aaidab7",
       "Name": "Respiratory Collapse",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SilentKiller",
@@ -722,23 +727,23 @@
       "ID": "WalkInThePark",
       "SetID": "aaidab7",
       "Name": "Walk In The Park",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:08:26.9423532+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:08:32.1799943+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:58:42.1976357+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:08:26.9423875+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:58:37.7380299+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:08:32.1800188+00:00"
 }

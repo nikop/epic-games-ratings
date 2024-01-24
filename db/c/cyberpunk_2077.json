@@ -18948,10 +18948,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 517466,
       "NumberOfAwardsMax": 144402
+    },
+    {
+      "Time": "2024-01-24T17:03:19.3593641+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 517608,
+      "NumberOfAwardsMax": 144402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 517466,
+  "NumberOfAwards": 517608,
   "NumberOfAwardsMax": 144402,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19007,7 +19013,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28700
+      "Count": 28842
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19028,9 +19034,9 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1058115,
+  "EOS_Progressed": 1058138,
   "EOS_Completed": 3157,
-  "EOS_NewPlayers": 4502,
+  "EOS_NewPlayers": 4482,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51033,6 +51039,11 @@
       "Time": "2024-01-24T16:09:12.6918406+00:00",
       "NumProgressed": 1058115,
       "NumCompleted": 3157
+    },
+    {
+      "Time": "2024-01-24T17:09:17.4609469+00:00",
+      "NumProgressed": 1058138,
+      "NumCompleted": 3157
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51085,7 +51096,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "Fortuneteller",
@@ -51349,7 +51360,7 @@
       "Name": "True Warrior",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -51357,7 +51368,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "UnderPressure",
@@ -51501,7 +51512,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "HydraIsDead",
@@ -51517,7 +51528,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "KingOfTheCups",
@@ -51565,7 +51576,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "EasyComeEasyGo",
@@ -51580,21 +51591,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058115,
+      "Progressed": 1058138,
       "Completed": 3157
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186738,
+      "Progressed": 186761,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-24T15:02:55.7980481+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:09:12.6918401+00:00",
+  "LastChanged": "2024-01-24T17:03:19.3593639+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:09:17.4609466+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:03:16.8916671+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:09:12.692101+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:03:19.3593646+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:09:17.4610943+00:00"
 }

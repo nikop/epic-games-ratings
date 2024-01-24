@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 328)  
+Rating: 4.65 (Ranked 327)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -69,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 2.00% | ~343 |
 | Mythology | 2.00% | ~343 |
 | Beloved | 1.00% | ~171 |
+| Conqueror | 1.00% | ~171 |
 | Mighty | 1.00% | ~171 |
 | Victorious | 1.00% | ~171 |
 | Good Difficulty | 1.00% | ~171 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 1.00% | ~171 |
 | Kushite Paganism | 1.00% | ~171 |
 | Capable | 0.90% | ~154 |
-| Conqueror | 0.90% | ~154 |
 | Invincible | 0.90% | ~154 |
 | Ready | 0.90% | ~154 |
 | Subjugator | 0.90% | ~154 |

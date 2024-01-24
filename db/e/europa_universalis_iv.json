@@ -14713,10 +14713,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65642,
       "NumberOfAwardsMax": 7962
+    },
+    {
+      "Time": "2024-01-24T16:57:47.5932917+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65653,
+      "NumberOfAwardsMax": 7962
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65642,
+  "NumberOfAwards": 65653,
   "NumberOfAwardsMax": 7962,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14778,7 +14784,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6141
+      "Count": 6152
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14787,9 +14793,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 504782,
+  "EOS_Progressed": 504825,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4207,
+  "EOS_NewPlayers": 4220,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47047,6 +47053,11 @@
       "Time": "2024-01-24T16:10:27.2618295+00:00",
       "NumProgressed": 504782,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T17:10:28.7910876+00:00",
+      "NumProgressed": 504825,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47496,9 +47507,9 @@
       "ID": "achievement_brothers_in_arms",
       "SetID": "67mdiil",
       "Name": "Brothers in Arms",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2524
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -49722,7 +49733,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -49961,21 +49972,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 504782,
+      "Progressed": 504825,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 504782,
+      "Progressed": 504825,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-24T06:57:40.3317836+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:27.261829+00:00",
+  "LastChanged": "2024-01-24T16:57:47.5932915+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:28.7910872+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:57:46.695277+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:27.2637108+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:57:47.5932922+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:28.7920914+00:00"
 }

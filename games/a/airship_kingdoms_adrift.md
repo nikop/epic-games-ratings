@@ -18,7 +18,9 @@
 | The Pink Flower | 50.00% | ~3 |
 | Safe Delivery | 50.00% | ~3 |
 | Shipping Ships | 50.00% | ~3 |
+| The Mother Ocean | 50.00% | ~3 |
 | Tuck the Tail | 50.00% | ~3 |
+| An Old Hero | 33.00% | ~2 |
 | Dream of Flight | 33.00% | ~2 |
 | Gentlemen Pirates | 33.00% | ~2 |
 | Home Made | 33.00% | ~2 |
@@ -27,9 +29,7 @@
 | Our Tiny Little Fleet | 33.00% | ~2 |
 | Starting Up | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
-| The Mother Ocean | 33.00% | ~2 |
 | Whoops | 33.00% | ~2 |
-| An Old Hero | 17.00% | ~1 |
 | For the Republic! | 17.00% | ~1 |
 | Friendly Neighborhood Commander | 17.00% | ~1 |
 | Good Butcher | 17.00% | ~1 |
@@ -153,7 +153,7 @@
 | Trouble in Aberdonia | 0.00% | ~0 |
 | We need Space! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 704)  
+Progressed: 6 (Ranked 705)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |

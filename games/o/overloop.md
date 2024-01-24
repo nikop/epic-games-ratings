@@ -15,16 +15,16 @@
 | Like a tomato | 60.00% | ~3 |
 | Anna Karenina | 60.00% | ~3 |
 | Be careful with a chandelier | 60.00% | ~3 |
+| Meat salad | 40.00% | ~2 |
+| Ticket to the Moon | 40.00% | ~2 |
+| Dennis | 40.00% | ~2 |
+| Julia | 40.00% | ~2 |
+| Hear that wisper | 40.00% | ~2 |
+| Run, Forest! Run! | 40.00% | ~2 |
 | Cube?? | 20.00% | ~1 |
-| Meat salad | 20.00% | ~1 |
-| Ticket to the Moon | 20.00% | ~1 |
-| Dennis | 20.00% | ~1 |
 | Douglas | 20.00% | ~1 |
-| Julia | 20.00% | ~1 |
 | Flowers for... | 20.00% | ~1 |
 | Noé | 20.00% | ~1 |
-| Hear that wisper | 20.00% | ~1 |
-| Run, Forest! Run! | 20.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 716)  
 Completed: 1 (20.00%) (Ranked 23)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -349,9 +349,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19030,
+  "EOS_Progressed": 19031,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -10764,6 +10764,11 @@
       "Time": "2024-01-24T16:09:59.5381741+00:00",
       "NumProgressed": 19030,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-24T17:10:02.311965+00:00",
+      "NumProgressed": 19031,
+      "NumCompleted": 340
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10776,7 +10781,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16746
+      "UsersEstimate": 16747
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10784,7 +10789,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15414
+      "UsersEstimate": 15415
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10808,7 +10813,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -10888,7 +10893,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -10928,7 +10933,7 @@
       "Name": "Still Single",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5328
+      "UsersEstimate": 5329
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -10984,7 +10989,7 @@
       "Name": "What I Want Is You",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 10276
+      "UsersEstimate": 10277
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10992,7 +10997,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 9705
+      "UsersEstimate": 9706
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -11024,7 +11029,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 5899
+      "UsersEstimate": 5900
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -11032,7 +11037,7 @@
       "Name": "Are You Alright?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 9134
+      "UsersEstimate": 9135
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -11040,7 +11045,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6470
+      "UsersEstimate": 6471
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -11080,7 +11085,7 @@
       "Name": "Worthless Speech",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5899
+      "UsersEstimate": 5900
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -11111,7 +11116,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 19030,
+      "Progressed": 19031,
       "Completed": 340
     }
   ],
@@ -11119,8 +11124,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-23T08:57:32.6452149+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:09:59.5381739+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:02.3119647+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:57:59.1248686+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:09:59.5383203+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:57:58.3876051+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:02.3120325+00:00"
 }

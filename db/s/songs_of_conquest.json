@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1300,
+  "EOS_Progressed": 1301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4502,6 +4502,11 @@
       "Time": "2024-01-24T16:09:48.3538752+00:00",
       "NumProgressed": 1300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T17:09:51.5520891+00:00",
+      "NumProgressed": 1301,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4530,7 +4535,7 @@
       "Name": "Death To Diplomacy",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ArtifactsEquipped",
@@ -4802,7 +4807,7 @@
       "Name": "Get Over Here!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SweepKillCount",
@@ -4945,15 +4950,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1300,
+      "Progressed": 1301,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:09:48.3538748+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:09:51.5520885+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:59:34.5730275+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:09:48.3539992+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:59:27.4091853+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:09:51.5521362+00:00"
 }

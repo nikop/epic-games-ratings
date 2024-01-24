@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,689 |
-| Finding Your Footing | 25.00% | ~14,008 |
-| Nomad | 16.00% | ~8,965 |
-| Picking Up Speed | 15.00% | ~8,405 |
-| Welcome Maya | 14.00% | ~7,844 |
-| Scout | 12.00% | ~6,724 |
+| Rookie | 28.00% | ~15,691 |
+| Finding Your Footing | 25.00% | ~14,010 |
+| Nomad | 16.00% | ~8,966 |
+| Picking Up Speed | 15.00% | ~8,406 |
+| Welcome Maya | 14.00% | ~7,845 |
+| Scout | 12.00% | ~6,725 |
 | Sightseer | 11.00% | ~6,164 |
-| Amateur | 10.00% | ~5,603 |
+| Amateur | 10.00% | ~5,604 |
 | Unlock Maya | 8.00% | ~4,483 |
 | Wanderer | 8.00% | ~4,483 |
-| Enter Paz | 7.00% | ~3,922 |
+| Enter Paz | 7.00% | ~3,923 |
 | Aviator | 5.00% | ~2,802 |
 | My Little Friend | 5.00% | ~2,802 |
 | One With The Board | 5.00% | ~2,802 |
-| Voyager | 4.00% | ~2,241 |
+| Voyager | 4.00% | ~2,242 |
 | Junkie | 3.00% | ~1,681 |
 | Traveler | 3.00% | ~1,681 |
 | Unlock Paz | 3.00% | ~1,681 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~56 |
 | Windswept | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,032 (Ranked 124)  
+Progressed: 56,038 (Ranked 124)  
 Completed: 5 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,10 +325,10 @@ Completed: 5 (0.01%) (Ranked 383)
 | 2024-01-21 | 55,738 | 5 |
 | 2024-01-22 | 55,860 | 5 |
 | 2024-01-23 | 55,984 | 5 |
-| 2024-01-24 | 56,032 | 5 |
+| 2024-01-24 | 56,038 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 457)  
-Sum: 403 (Ranked 360)  
+Sum: 404 (Ranked 360)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): 97
 | This game is Great for Beginners | 49 |
 | This game is Highly Recommended | 47 |
 | This game has Beautiful Visuals | 43 |
-| This game is Extremely Fun | 41 |
+| This game is Extremely Fun | 42 |
 | This game has Quickly Understood Controls | 41 |
 | This game is Relaxing | 38 |
 | This game has Diverse Characters | 34 |
@@ -478,3 +478,4 @@ Diff (max vs sum): 97
 | 2024-01-19 | 4.70 | - | 52 | 401 |
 | 2024-01-20 | 4.70 | - | 52 | 402 |
 | 2024-01-22 | 4.70 | - | 52 | 403 |
+| 2024-01-24 | 4.70 | - | 52 | 404 |

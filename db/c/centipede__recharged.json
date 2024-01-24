@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25578,
+  "EOS_Progressed": 25580,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -24035,6 +24035,11 @@
       "Time": "2024-01-24T13:10:19.8034565+00:00",
       "NumProgressed": 25578,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-24T17:03:43.1111815+00:00",
+      "NumProgressed": 25580,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 16,
@@ -24054,7 +24059,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "Deadline",
@@ -24062,7 +24067,7 @@
       "Name": "Deadline",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -24142,7 +24147,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 12022
+      "UsersEstimate": 12023
     },
     {
       "ID": "Sole_Survivor",
@@ -24158,7 +24163,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "The_Reaper",
@@ -24173,15 +24178,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25578,
+      "Progressed": 25580,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:03:39.7801351+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:03:43.1111811+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:58:22.284377+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:03:39.7803814+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:58:19.0204397+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:03:43.1112932+00:00"
 }

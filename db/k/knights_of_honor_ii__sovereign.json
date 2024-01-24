@@ -5,9 +5,9 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -388,6 +388,11 @@
       "Time": "2024-01-24T16:04:13.4356311+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T17:04:15.6164432+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -480,7 +485,7 @@
       "Name": "Bring it on!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "brutus",
@@ -510,9 +515,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "columbus",
@@ -558,9 +563,9 @@
       "ID": "desperate_times",
       "SetID": "41moj9p",
       "Name": "Desperate Times Call for Desperate Measures",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "die_by_my_hand",
@@ -638,9 +643,9 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "game_of_thorns",
@@ -694,9 +699,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "his_all_holiness",
@@ -912,7 +917,7 @@
       "Name": "Path of Glory",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1054,9 +1059,9 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -1144,7 +1149,7 @@
       "Name": "What we\u2019ve got here is failure to communicate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "wheres_your_crown",
@@ -1199,7 +1204,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
@@ -1207,8 +1212,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:04:13.4356308+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:04:15.6164429+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:59:56.7374606+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:04:13.435814+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:59:48.3921775+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:04:15.6165459+00:00"
 }

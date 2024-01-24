@@ -4,7 +4,7 @@
   "ProductSlug": "party-monsterzz-f42535",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -824,6 +824,11 @@
       "Time": "2024-01-21T04:07:56.9202474+00:00",
       "NumProgressed": 178,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T17:04:16.0892595+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-24T09:04:07.3513415+00:00",
@@ -836,7 +841,7 @@
       "Name": "One of Us! One of Us!",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_1",
@@ -868,21 +873,21 @@
       "Name": "Social Monster",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "8556mdl",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:04:13.8592112+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:04:16.0892591+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:11.4619056+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:58:22.5762362+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:04:13.8592275+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:58:19.3526363+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:04:16.0892693+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "overloop-f572c8",
   "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 540,
+  "Ranking_EOS_NewPlayers": 539,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-26T12:00:00+00:00",
@@ -101,17 +101,17 @@
       "ID": "die_saw",
       "SetID": "c0a8gkh",
       "Name": "Meat salad",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "die_spring",
       "SetID": "c0a8gkh",
       "Name": "Ticket to the Moon",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "die_suicide",
@@ -141,9 +141,9 @@
       "ID": "kill_dennis",
       "SetID": "c0a8gkh",
       "Name": "Dennis",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "kill_douglas",
@@ -157,9 +157,9 @@
       "ID": "kill_julia",
       "SetID": "c0a8gkh",
       "Name": "Julia",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "original_flowers",
@@ -189,17 +189,17 @@
       "ID": "story_rebels",
       "SetID": "c0a8gkh",
       "Name": "Hear that wisper",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "story_vertical_level",
       "SetID": "c0a8gkh",
       "Name": "Run, Forest! Run!",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "take_it_easy_time",
@@ -219,8 +219,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:29.5545439+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:09:19.0330249+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:09:22.6723607+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:59.1852516+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:02:39.6103824+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:09:19.0330467+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:02:46.4019351+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:09:22.6723723+00:00"
 }

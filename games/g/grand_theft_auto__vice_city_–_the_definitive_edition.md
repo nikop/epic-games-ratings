@@ -13,8 +13,8 @@ Rating: 4.53 (Ranked 573)
 | Chauffeur | 16.00% | ~2,668 |
 | Tommy Two-Wheels | 16.00% | ~2,668 |
 | Salutations My Little Friend | 12.00% | ~2,001 |
-| Iron-y | 10.00% | ~1,667 |
-| Gun for Hire | 10.00% | ~1,667 |
+| Iron-y | 10.00% | ~1,668 |
+| Gun for Hire | 10.00% | ~1,668 |
 | Mischief Managed | 9.00% | ~1,501 |
 | Vice City Mogul | 7.00% | ~1,167 |
 | Catch Me if You Can | 6.00% | ~1,000 |
@@ -31,8 +31,8 @@ Rating: 4.53 (Ranked 573)
 | Don't Need Roads | 3.00% | ~500 |
 | Take the Cannoli | 3.00% | ~500 |
 | City Sleuth | 3.00% | ~500 |
-| One is Better Than Two | 2.00% | ~333 |
-| Chopper’d Up | 2.00% | ~333 |
+| One is Better Than Two | 2.00% | ~334 |
+| Chopper’d Up | 2.00% | ~334 |
 | Born in the 80’s | 1.00% | ~167 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~167 |
 | I'm Famous! | 1.00% | ~167 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 573)
 | Done it All | 1.00% | ~167 |
 | Kingpin | 0.70% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,674 (Ranked 172)  
+Progressed: 16,675 (Ranked 172)  
 Completed: 109 (0.65%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 109 (0.65%) (Ranked 211)
 | 2024-01-21 | 16,630 | 109 |
 | 2024-01-22 | 16,644 | 109 |
 | 2024-01-23 | 16,662 | 109 |
-| 2024-01-24 | 16,674 | 109 |
+| 2024-01-24 | 16,675 | 109 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

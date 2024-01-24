@@ -20,16 +20,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.60% | ~6,349 |
 | The Lovers | 0.60% | ~6,349 |
 | The World | 0.60% | ~6,349 |
-| All the President's Men | 0.60% | ~1,120 |
-| Arachnophobia | 0.60% | ~1,120 |
+| All the President's Men | 0.60% | ~1,121 |
+| Arachnophobia | 0.60% | ~1,121 |
 | Gun Fu | 0.50% | ~5,291 |
 | Master Crafter | 0.50% | ~5,291 |
 | I Am The Law | 0.50% | ~5,291 |
 | The Quick and the Dead | 0.50% | ~5,291 |
 | Judy vs Night City | 0.50% | ~5,291 |
-| To Protect and Serve | 0.40% | ~4,232 |
-| True Warrior | 0.40% | ~4,232 |
-| Two Heads, One Bullet | 0.40% | ~4,232 |
+| To Protect and Serve | 0.40% | ~4,233 |
+| True Warrior | 0.40% | ~4,233 |
+| Two Heads, One Bullet | 0.40% | ~4,233 |
 | To Bad Decisions! | 0.30% | ~3,174 |
 | The Wandering Fool | 0.30% | ~3,174 |
 | The Sun | 0.30% | ~3,174 |
@@ -39,7 +39,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.20% | ~2,116 |
 | Ten out of Ten | 0.20% | ~2,116 |
 | The Star | 0.20% | ~2,116 |
-| Dirty Deeds | 0.20% | ~373 |
+| Dirty Deeds | 0.20% | ~374 |
 | City Lights | 0.10% | ~1,058 |
 | Autojock | 0.10% | ~1,058 |
 | Frequent Flyer | 0.10% | ~1,058 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,115 (Ranked 17)  
+Progressed: 1,058,138 (Ranked 17)  
 Completed: 3,157 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,10 +353,10 @@ Completed: 3,157 (0.30%) (Ranked 265)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,058,115 | 3,157 |
+| 2024-01-24 | 1,058,138 | 3,157 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 517,466 (Ranked 8)  
+Sum: 517,608 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -369,7 +369,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 30,196 |
 | This game has Amazing Characters | 29,891 |
 | This game is Relaxing | 28,919 |
-| This game has Quickly Understood Controls | 28,700 |
+| This game has Quickly Understood Controls | 28,842 |
 | This game has a Creative Community | 20,059 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,402 | 517,466 |
+| 2024-01-24 | 4.68 | - | 144,402 | 517,608 |

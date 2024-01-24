@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,690 |
+| New Recruit | 86.00% | ~2,691 |
 | Off to a good start | 60.00% | ~1,877 |
 | Do... or do not. There is no try | 52.00% | ~1,627 |
 | A good blaster at your side | 24.00% | ~751 |
@@ -68,7 +68,7 @@
 | Stay in attack formation | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,128 (Ranked 234)  
+Progressed: 3,129 (Ranked 234)  
 Completed: 1 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 1 (0.03%) (Ranked 364)
 | 2024-01-21 | 3,096 | 1 |
 | 2024-01-22 | 3,110 | 1 |
 | 2024-01-23 | 3,120 | 1 |
-| 2024-01-24 | 3,128 | 1 |
+| 2024-01-24 | 3,129 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

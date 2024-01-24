@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4648,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -9768,9 +9768,9 @@
       "ID": "achievement_61",
       "SetID": "d252ncf",
       "Name": "Big Game Hunter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1069
     },
     {
       "ID": "achievement_62",
@@ -10116,8 +10116,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:25.4392767+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:26.8964744+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-24T16:03:25.0485616+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:25.4396092+00:00"
+  "LastUpdate_Ratings": "2024-01-24T17:03:26.8138734+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:26.8966403+00:00"
 }

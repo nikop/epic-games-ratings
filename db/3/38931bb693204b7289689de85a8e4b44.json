@@ -4,7 +4,7 @@
   "ProductSlug": "quiplash-2-interlashional-3c3888",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 540,
+  "Ranking_EOS_NewPlayers": 539,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-11T00:00:00+00:00",
@@ -28,9 +28,91 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-24T17:05:28.3857837+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "QUIPLASH2I_ALL_FINAL_LASH_TYPES",
+      "SetID": "8606bem",
+      "Name": "Those Who Lash Last",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_ENTER_SAME_THING",
+      "SetID": "8606bem",
+      "Name": "Hi, Jinx!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_GET_QUIPLASH",
+      "SetID": "8606bem",
+      "Name": "The Titular Win",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_GET_SUPER_QUIPLASH",
+      "SetID": "8606bem",
+      "Name": "Quip It Good",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_PLAY_WITH_8_PLAYERS",
+      "SetID": "8606bem",
+      "Name": "Eighters Gonna Eight",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_WIN_2_GAMES",
+      "SetID": "8606bem",
+      "Name": "Quip Royale",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_WIN_ALL_R1_AND_R2",
+      "SetID": "8606bem",
+      "Name": "Quipee-ki-yay!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_WIN_ALL_R1_LOSE_ALL_R2",
+      "SetID": "8606bem",
+      "Name": "Quipwreck",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_WIN_WITH_SAFETY_QUIP",
+      "SetID": "8606bem",
+      "Name": "Safety Dance",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUIPLASH2I_WRITE_KEYWORD_QUIP",
+      "SetID": "8606bem",
+      "Name": "Quip Pro Quo",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8606bem",
@@ -40,8 +122,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-10T18:03:22.1751436+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:05:28.9552884+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:05:28.3857821+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:34.0083326+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:57:09.5681175+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:05:28.9552927+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:57:12.1516742+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:05:28.3886566+00:00"
 }

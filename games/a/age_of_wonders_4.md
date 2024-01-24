@@ -11,11 +11,11 @@ Rating: 4.63 (Ranked 360)
 | Walls Cannot Stop Us | 15.00% | ~1,094 |
 | From Friends to Family | 13.00% | ~948 |
 | Bone Peddler | 12.00% | ~875 |
-| Full Ascension | 10.00% | ~729 |
-| Magical Synergy | 10.00% | ~729 |
-| There Can Only Be One! | 9.00% | ~656 |
-| Stronger Together | 9.00% | ~656 |
-| Seat of Power | 9.00% | ~656 |
+| Full Ascension | 10.00% | ~730 |
+| Magical Synergy | 10.00% | ~730 |
+| There Can Only Be One! | 9.00% | ~657 |
+| Stronger Together | 9.00% | ~657 |
+| Seat of Power | 9.00% | ~657 |
 | In a Liege of Your Own | 8.00% | ~584 |
 | Intimidation Tactics | 8.00% | ~584 |
 | Valley of Wonders | 7.00% | ~511 |
@@ -55,8 +55,8 @@ Rating: 4.63 (Ranked 360)
 | Prometheus Avenged | 1.00% | ~73 |
 | Seal the Deal | 1.00% | ~73 |
 | A Conqueror's Cohort | 1.00% | ~73 |
+| The Magic That Empowers Me! | 0.80% | ~58 |
 | Snap Out of It! | 0.70% | ~51 |
-| The Magic That Empowers Me! | 0.70% | ~51 |
 | Jack of All Tomes | 0.60% | ~44 |
 | A Very Special Ring | 0.50% | ~36 |
 | Returning Circle | 0.30% | ~22 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 360)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,294 (Ranked 202)  
+Progressed: 7,295 (Ranked 202)  
 Completed: 8 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 8 (0.11%) (Ranked 315)
 | 2024-01-21 | 7,285 | 8 |
 | 2024-01-22 | 7,287 | 8 |
 | 2024-01-23 | 7,293 | 8 |
-| 2024-01-24 | 7,294 | 8 |
+| 2024-01-24 | 7,295 | 8 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
 Sum: 245 (Ranked 407)  

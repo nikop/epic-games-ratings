@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44858,
+  "EOS_Progressed": 44859,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29441,6 +29441,11 @@
       "Time": "2024-01-24T16:03:37.1002952+00:00",
       "NumProgressed": 44858,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T17:03:40.4082783+00:00",
+      "NumProgressed": 44859,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29652,7 +29657,7 @@
       "Name": "Pupil",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "ach_legacyrival",
@@ -29668,7 +29673,7 @@
       "Name": "Salvager",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "ach_legacyshipmate",
@@ -29684,7 +29689,7 @@
       "Name": "Open Your Ears",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "ach_portbell",
@@ -29804,7 +29809,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "ach_terror100",
@@ -29883,15 +29888,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44858,
+      "Progressed": 44859,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:03:37.1002947+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:03:40.4082779+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:59:03.7958879+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:03:37.1006602+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:58:56.4641775+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:03:40.4084697+00:00"
 }

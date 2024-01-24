@@ -9799,9 +9799,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255392,
+  "EOS_Progressed": 255399,
   "EOS_Completed": 2638,
-  "EOS_NewPlayers": 978,
+  "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41494,6 +41494,11 @@
       "Time": "2024-01-24T16:10:27.9534635+00:00",
       "NumProgressed": 255392,
       "NumCompleted": 2638
+    },
+    {
+      "Time": "2024-01-24T17:10:29.599005+00:00",
+      "NumProgressed": 255399,
+      "NumCompleted": 2638
     }
   ],
   "TotalAchievements": 546,
@@ -42287,9 +42292,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1184",
@@ -42735,9 +42740,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_170",
@@ -43375,9 +43380,9 @@
       "ID": "objective_completed_40",
       "SetID": "cc37lbc",
       "Name": "Useless Allies",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1277
     },
     {
       "ID": "objective_completed_400",
@@ -43639,9 +43644,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2299
     },
     {
       "ID": "objective_completed_54",
@@ -45872,21 +45877,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221666,
+      "Progressed": 221673,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255392,
+      "Progressed": 255399,
       "Completed": 2638
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T16:10:27.9534632+00:00",
+  "LastChanged_Achievements": "2024-01-24T17:10:29.5990047+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:58:59.2970092+00:00",
-  "LastUpdate_Achievements": "2024-01-24T16:10:27.9575284+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:58:53.4320639+00:00",
+  "LastUpdate_Achievements": "2024-01-24T17:10:29.601263+00:00"
 }

@@ -13,16 +13,16 @@ Rating: 4.67 (Ranked 289)
 | Time Flies | 28.00% | ~380 |
 | The Prince in Heels | 28.00% | ~380 |
 | Make Up For Lost Time | 27.00% | ~366 |
+| The Harder They Fall | 27.00% | ~366 |
 | No, Thanks! | 27.00% | ~366 |
 | Honest Mistake | 27.00% | ~366 |
 | Fast Learner | 27.00% | ~366 |
 | Immaculate Aim | 27.00% | ~366 |
 | The Steel Shadow | 26.00% | ~353 |
-| The Harder They Fall | 26.00% | ~353 |
+| Right On Time | 24.00% | ~325 |
 | Breaking Down Barriers | 24.00% | ~325 |
 | The Wicked Twins | 24.00% | ~325 |
 | Golem Chaser | 24.00% | ~325 |
-| Right On Time | 23.00% | ~312 |
 | Like Clockwork | 23.00% | ~312 |
 | The Betrayer | 23.00% | ~312 |
 | Check Your Pulse | 22.00% | ~298 |

@@ -5,19 +5,19 @@ Rating: 4.35 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Can’t Touch This | 14.00% | ~18 |
 | Hail to the King, Baby | 14.00% | ~18 |
-| Can’t Touch This | 13.00% | ~16 |
-| Bring it on! | 11.00% | ~14 |
-| Help! Help! I’m being repressed | 11.00% | ~14 |
-| Full House | 10.00% | ~13 |
-| There is no Nobility in Poverty | 10.00% | ~13 |
-| Path of Glory | 8.00% | ~10 |
+| Help! Help! I’m being repressed | 13.00% | ~17 |
+| Bring it on! | 11.00% | ~15 |
+| There is no Nobility in Poverty | 11.00% | ~15 |
+| Full House | 9.00% | ~12 |
+| Path of Glory | 8.00% | ~11 |
 | The finest merchandise this side of river Jordan | 6.00% | ~8 |
 | They Got What They Deserved | 6.00% | ~8 |
-| What we’ve got here is failure to communicate | 5.00% | ~6 |
+| Desperate Times Call for Desperate Measures | 5.00% | ~7 |
+| What we’ve got here is failure to communicate | 5.00% | ~7 |
 | Big Apple | 4.00% | ~5 |
 | Call the Boys | 4.00% | ~5 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~5 |
 | Dinner Time | 4.00% | ~5 |
 | Do you read Sutter Cane? | 4.00% | ~5 |
 | Playerxander the Great | 4.00% | ~5 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 488)  
+Progressed: 132 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 126 | 0 |
+| 2024-01-24 | 132 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
