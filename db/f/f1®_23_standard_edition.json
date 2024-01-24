@@ -1653,9 +1653,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18671,
+  "EOS_Progressed": 18672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12758,6 +12758,11 @@
       "Time": "2024-01-24T09:05:46.2568207+00:00",
       "NumProgressed": 18671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:05:35.8896538+00:00",
+      "NumProgressed": 18672,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12770,7 +12775,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3547
+      "UsersEstimate": 3548
     },
     {
       "ID": "achievement_0002",
@@ -12818,7 +12823,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16991
+      "UsersEstimate": 16992
     },
     {
       "ID": "achievement_0008",
@@ -12826,7 +12831,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15497
+      "UsersEstimate": 15498
     },
     {
       "ID": "achievement_0009",
@@ -12930,7 +12935,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12696
+      "UsersEstimate": 12697
     },
     {
       "ID": "achievement_0022",
@@ -12938,7 +12943,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "achievement_0023",
@@ -13161,7 +13166,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18671,
+      "Progressed": 18672,
       "Completed": 0
     }
   ],
@@ -13169,8 +13174,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-23T23:00:35.5670353+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:05:46.2568202+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:05:35.8896534+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:57:32.1521372+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:05:46.2569046+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:57:18.5909831+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:05:35.8897796+00:00"
 }

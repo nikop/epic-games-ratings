@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3692,
+  "EOS_Progressed": 3695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9266,6 +9266,11 @@
       "Time": "2024-01-24T00:08:46.2570488+00:00",
       "NumProgressed": 3692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:08:44.143659+00:00",
+      "NumProgressed": 3695,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9278,7 +9283,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1700
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9286,7 +9291,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9302,7 +9307,7 @@
       "Name": "Stamina Star",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -9310,7 +9315,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9334,7 +9339,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9342,7 +9347,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -9350,7 +9355,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9366,7 +9371,7 @@
       "Name": "Legendary!!!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9382,7 +9387,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9478,7 +9483,7 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -9486,7 +9491,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1663
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9574,7 +9579,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1848
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9669,7 +9674,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3692,
+      "Progressed": 3695,
       "Completed": 0
     }
   ],
@@ -9677,8 +9682,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-23T14:57:52.7665825+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:07:04.8332182+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:08:44.1436583+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:16.583912+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:07:04.8332862+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:58:03.9396969+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:08:44.1437601+00:00"
 }

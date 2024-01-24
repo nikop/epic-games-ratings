@@ -5,7 +5,7 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 145,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -358,6 +358,11 @@
       "Time": "2024-01-24T09:04:37.0564944+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:04:27.1495647+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -400,9 +405,9 @@
       "ID": "battle_of_the_four_armies",
       "SetID": "41moj9p",
       "Name": "Battle of the Four Armies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "big_apple",
@@ -440,9 +445,9 @@
       "ID": "blitz_krieg",
       "SetID": "41moj9p",
       "Name": "Zerg Rush",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bring_it_on",
@@ -600,9 +605,9 @@
       "ID": "from_rags_to_riches",
       "SetID": "41moj9p",
       "Name": "From Rags to Riches",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "full_house",
@@ -664,9 +669,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "his_all_holiness",
@@ -688,9 +693,9 @@
       "ID": "his_name_is_king",
       "SetID": "41moj9p",
       "Name": "His name is King",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "holy_trinity",
@@ -952,9 +957,9 @@
       "ID": "renaissance_man",
       "SetID": "41moj9p",
       "Name": "Renaissance Man",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "scientia_potentia_es",
@@ -1032,9 +1037,9 @@
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "time_to_find_india",
@@ -1136,9 +1141,9 @@
       "ID": "you_are_not_the_boss",
       "SetID": "41moj9p",
       "Name": "You are not the boss of me now",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "you_dare_challenge",
@@ -1169,7 +1174,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
@@ -1177,8 +1182,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:04:37.056494+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:04:27.1495644+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:59:56.677479+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:04:37.0565881+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:59:45.425276+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:04:27.1496454+00:00"
 }

@@ -27,8 +27,8 @@
 | Workout professional | 52.00% | ~315 |
 | Little hacker | 52.00% | ~315 |
 | Handyman | 52.00% | ~315 |
+| Champion – starter pack | 52.00% | ~315 |
 | Fight for life | 51.00% | ~309 |
-| Champion – starter pack | 51.00% | ~309 |
 | It's good to be alive | 51.00% | ~309 |
 | Intriguing candies | 51.00% | ~309 |
 | Own four walls | 50.00% | ~302 |
@@ -58,18 +58,18 @@
 | Problems of cyborgs | 28.00% | ~169 |
 | Another world | 28.00% | ~169 |
 | The lonesome road | 28.00% | ~169 |
+| Keep nature safe | 28.00% | ~169 |
 | Family comes first | 28.00% | ~169 |
 | Key memories | 28.00% | ~169 |
 | The heart of the Resistance | 28.00% | ~169 |
 | Trap disarmed | 27.00% | ~163 |
-| Keep nature safe | 27.00% | ~163 |
 | Careerist | 27.00% | ~163 |
 | The only right decision | 26.00% | ~157 |
 | The last bell ring | 26.00% | ~157 |
 | Anyone can resist | 26.00% | ~157 |
+| Silver’s past | 25.00% | ~151 |
 | Better cooking at home | 25.00% | ~151 |
 | Your own way | 25.00% | ~151 |
-| Silver’s past | 24.00% | ~145 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 605 (Ranked 347)  
 Completed: 9 (1.49%) (Ranked 155)  

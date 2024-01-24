@@ -13962,9 +13962,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63664,
+  "EOS_Progressed": 63667,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 768,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40672,6 +40672,11 @@
       "Time": "2024-01-24T08:08:53.9625891+00:00",
       "NumProgressed": 63664,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T10:09:03.6171297+00:00",
+      "NumProgressed": 63667,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -40755,7 +40760,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "CultivateFirst",
@@ -40763,7 +40768,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 37562
+      "UsersEstimate": 37564
     },
     {
       "ID": "CutTree",
@@ -40779,7 +40784,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35652
+      "UsersEstimate": 35654
     },
     {
       "ID": "DeliveryGrapes",
@@ -40819,7 +40824,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35652
+      "UsersEstimate": 35654
     },
     {
       "ID": "Harvested",
@@ -40835,7 +40840,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 45201
+      "UsersEstimate": 45204
     },
     {
       "ID": "HorseJumps",
@@ -40867,7 +40872,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 28649
+      "UsersEstimate": 28650
     },
     {
       "ID": "Mission",
@@ -40883,7 +40888,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22282
+      "UsersEstimate": 22283
     },
     {
       "ID": "Money",
@@ -40891,7 +40896,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 31195
+      "UsersEstimate": 31197
     },
     {
       "ID": "NumBeehives",
@@ -40907,7 +40912,7 @@
       "Name": "I like to switch it up",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 23556
+      "UsersEstimate": 23557
     },
     {
       "ID": "NumPlaceables",
@@ -40915,7 +40920,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 26102
+      "UsersEstimate": 26103
     },
     {
       "ID": "NumProductionPoints",
@@ -40939,7 +40944,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34379
+      "UsersEstimate": 34380
     },
     {
       "ID": "PetDog",
@@ -40947,7 +40952,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 15916
+      "UsersEstimate": 15917
     },
     {
       "ID": "PlayTime",
@@ -40955,7 +40960,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34379
+      "UsersEstimate": 34380
     },
     {
       "ID": "Sow",
@@ -40963,7 +40968,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "SowFirst",
@@ -40971,7 +40976,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36925
+      "UsersEstimate": 36927
     },
     {
       "ID": "Stones",
@@ -40979,7 +40984,7 @@
       "Name": "Rock on",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "TractorDriving",
@@ -40987,7 +40992,7 @@
       "Name": "Field Trip",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25466
+      "UsersEstimate": 25467
     },
     {
       "ID": "TruckDriving",
@@ -41019,22 +41024,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8276
+      "UsersEstimate": 8277
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63664,
+      "Progressed": 63667,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-24T04:57:41.5593921+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:09:05.4665061+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:09:03.6171291+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:05.9869512+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:09:05.4666353+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:57:52.4389915+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:09:03.6173386+00:00"
 }

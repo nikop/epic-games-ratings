@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3836,
+  "EOS_Progressed": 3837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2432,6 +2432,11 @@
       "Time": "2024-01-22T21:05:48.0793067+00:00",
       "NumProgressed": 3836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:05:49.5799855+00:00",
+      "NumProgressed": 3837,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2491,7 +2496,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2523,7 +2528,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -2547,7 +2552,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2563,7 +2568,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2619,7 +2624,7 @@
       "Name": "And Still Champion...",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -2643,14 +2648,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3836,
+      "Progressed": 3837,
       "Completed": 0
     }
   ],
@@ -2658,8 +2663,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:05:59.8337504+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:05:49.5799852+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:25.2032274+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:27.2545942+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:05:59.8337798+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:58:15.3743199+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:05:49.5800171+00:00"
 }

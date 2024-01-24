@@ -8,13 +8,13 @@ Number of Ratings: 1,003  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Shutdown | 66.00% | ~313,088 |
 | Jeef Skeejj | 44.00% | ~208,725 |
-| Careful planning | 39.00% | ~185,006 |
+| Careful planning | 39.00% | ~185,007 |
 | Second Coming | 34.00% | ~161,288 |
-| Jeef Skagg | 30.00% | ~142,312 |
+| Jeef Skagg | 30.00% | ~142,313 |
 | Mother | 25.00% | ~118,594 |
 | In space, no one can hear you scream | 24.00% | ~113,850 |
-| Chapter I: Echoes | 22.00% | ~104,362 |
-| Excelsior Rule | 22.00% | ~104,362 |
+| Chapter I: Echoes | 22.00% | ~104,363 |
+| Excelsior Rule | 22.00% | ~104,363 |
 | Things persisted in not being what they seemed | 20.00% | ~94,875 |
 | Knightmare Frames | 15.00% | ~71,156 |
 | May His passing cleanse the world | 15.00% | ~71,156 |
@@ -33,18 +33,18 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Survivalists | 7.00% | ~33,206 |
 | The Tech Specialist | 7.00% | ~33,206 |
 | The Mech Soldier | 7.00% | ~33,206 |
-| Chapter V: Memories of None | 6.00% | ~28,462 |
-| The Impersonator | 6.00% | ~28,462 |
-| The Kid | 6.00% | ~28,462 |
-| The Evangelist | 6.00% | ~28,462 |
-| The Inquisitor | 6.00% | ~28,462 |
-| The Ace Pilot | 6.00% | ~28,462 |
-| The Tech Med | 6.00% | ~28,462 |
-| The lucky charm | 6.00% | ~28,462 |
-| The Anonymous | 6.00% | ~28,462 |
-| The Smuggler | 6.00% | ~28,462 |
-| The Crazy Repairman | 6.00% | ~28,462 |
-| The Weasel | 6.00% | ~28,462 |
+| Chapter V: Memories of None | 6.00% | ~28,463 |
+| The Impersonator | 6.00% | ~28,463 |
+| The Kid | 6.00% | ~28,463 |
+| The Evangelist | 6.00% | ~28,463 |
+| The Inquisitor | 6.00% | ~28,463 |
+| The Ace Pilot | 6.00% | ~28,463 |
+| The Tech Med | 6.00% | ~28,463 |
+| The lucky charm | 6.00% | ~28,463 |
+| The Anonymous | 6.00% | ~28,463 |
+| The Smuggler | 6.00% | ~28,463 |
+| The Crazy Repairman | 6.00% | ~28,463 |
+| The Weasel | 6.00% | ~28,463 |
 | Kill the Doctor | 5.00% | ~23,719 |
 | Forsaken | 5.00% | ~23,719 |
 | Mercy | 5.00% | ~23,719 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,375 (Ranked 45)  
+Progressed: 474,376 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 21 (0.00%) (Ranked 409)
 | 2024-01-21 | 474,284 | 21 |
 | 2024-01-22 | 474,324 | 21 |
 | 2024-01-23 | 474,358 | 21 |
-| 2024-01-24 | 474,375 | 21 |
+| 2024-01-24 | 474,376 | 21 |
 ## Awards
 Max (Character Customization): 230  (Ranked 288)  
 Sum: 254 (Ranked 400)  

@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2656,9 +2656,9 @@
       "ID": "flash_bobo",
       "SetID": "69co12a",
       "Name": "Keep nature safe",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 169
     },
     {
       "ID": "flash_delivery",
@@ -2680,9 +2680,9 @@
       "ID": "flash_silver",
       "SetID": "69co12a",
       "Name": "Silver\u2019s past",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 151
     },
     {
       "ID": "flash_yakuza",
@@ -2760,9 +2760,9 @@
       "ID": "league_1",
       "SetID": "69co12a",
       "Name": "Champion \u2013 starter pack",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 315
     },
     {
       "ID": "league_2",
@@ -3039,8 +3039,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:40.4210603+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:38.140264+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:31.5299896+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:00:51.9001424+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:40.4211106+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:03:00.3036855+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:38.1403357+00:00"
 }

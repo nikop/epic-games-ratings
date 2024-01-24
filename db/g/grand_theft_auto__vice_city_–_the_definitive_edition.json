@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16670,
+  "EOS_Progressed": 16672,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -18924,6 +18924,11 @@
       "Time": "2024-01-24T09:10:30.0381283+00:00",
       "NumProgressed": 16670,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-24T10:10:27.7261566+00:00",
+      "NumProgressed": 16672,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -19015,7 +19020,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACH12",
@@ -19039,7 +19044,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "ACH15",
@@ -19095,7 +19100,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7835
+      "UsersEstimate": 7836
     },
     {
       "ID": "ACH22",
@@ -19103,7 +19108,7 @@
       "Name": "Life of the Party",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "ACH23",
@@ -19119,7 +19124,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ACH25",
@@ -19127,7 +19132,7 @@
       "Name": "Chauffeur",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ACH26",
@@ -19135,7 +19140,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ACH27",
@@ -19206,7 +19211,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16670,
+      "Progressed": 16672,
       "Completed": 109
     }
   ],
@@ -19214,8 +19219,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:30.038128+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:27.7261563+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:15.6300727+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:30.0382229+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:58:02.9599407+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:27.7262552+00:00"
 }

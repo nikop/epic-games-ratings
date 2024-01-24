@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8417,
+  "EOS_Progressed": 8419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14462,6 +14462,11 @@
       "Time": "2024-01-24T09:09:20.6828649+00:00",
       "NumProgressed": 8417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:09:18.8519646+00:00",
+      "NumProgressed": 8419,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14505,7 +14510,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -14513,7 +14518,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -14537,7 +14542,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -14792,13 +14797,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8417,
+      "Progressed": 8419,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7789,
+      "Progressed": 7791,
       "Completed": 113
     }
   ],
@@ -14806,8 +14811,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-23T15:00:04.156309+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:09:20.6828646+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:09:18.8519641+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:59:46.045523+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:09:20.6829569+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:59:33.586046+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:09:18.8521152+00:00"
 }

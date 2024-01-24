@@ -6,9 +6,9 @@ Rating: 4.11 (Ranked 1,030)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~4,431 |
-| World Map | 78.00% | ~3,716 |
+| World Map | 78.00% | ~3,717 |
 | Temple of Eternals | 56.00% | ~2,668 |
-| Prestigious | 52.00% | ~2,477 |
+| Prestigious | 52.00% | ~2,478 |
 | Fellowship Power | 42.00% | ~2,001 |
 | Full Party | 31.00% | ~1,477 |
 | Guild Power | 22.00% | ~1,048 |
@@ -39,10 +39,10 @@ Rating: 4.11 (Ranked 1,030)
 | Moving Up The Ladder | 8.00% | ~381 |
 | Relic Of The Past | 8.00% | ~381 |
 | Scroll Master | 8.00% | ~381 |
-| Here We Go Again | 7.00% | ~333 |
-| Master Enchanter | 7.00% | ~333 |
-| The father of Dragons | 7.00% | ~333 |
-| Trader | 7.00% | ~333 |
+| Here We Go Again | 7.00% | ~334 |
+| Master Enchanter | 7.00% | ~334 |
+| The father of Dragons | 7.00% | ~334 |
+| Trader | 7.00% | ~334 |
 | Dragon Slayer | 6.00% | ~286 |
 | Enchanting skill | 6.00% | ~286 |
 | The Expeditioner | 6.00% | ~286 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,030)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,764 (Ranked 211)  
+Progressed: 4,765 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 2 (0.04%) (Ranked 359)
 | 2024-01-21 | 4,725 | 2 |
 | 2024-01-22 | 4,742 | 2 |
 | 2024-01-23 | 4,759 | 2 |
-| 2024-01-24 | 4,764 | 2 |
+| 2024-01-24 | 4,765 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 486)  
 Sum: 162 (Ranked 446)  

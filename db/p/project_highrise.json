@@ -2,7 +2,7 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 145,
@@ -2037,9 +2037,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_drones",
@@ -2542,8 +2542,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:05:16.2015424+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:05:05.8896885+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:11.8458536+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:05:16.2016392+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:57:59.2566675+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:05:05.8897711+00:00"
 }

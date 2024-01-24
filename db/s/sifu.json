@@ -9151,18 +9151,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 12872,
       "NumberOfAwardsMax": 7269
+    },
+    {
+      "Time": "2024-01-24T10:03:32.9712024+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12879,
+      "NumberOfAwardsMax": 7276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12872,
-  "NumberOfAwardsMax": 7269,
+  "NumberOfAwards": 12879,
+  "NumberOfAwardsMax": 7276,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7269
+      "Count": 7276
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9231,9 +9237,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762611,
+  "EOS_Progressed": 762618,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1285,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35141,6 +35147,11 @@
       "Time": "2024-01-24T09:10:16.2445231+00:00",
       "NumProgressed": 762611,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-24T10:10:14.2246825+00:00",
+      "NumProgressed": 762618,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35168,7 +35179,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22878
+      "UsersEstimate": 22879
     },
     {
       "ID": "04_Vengeance_H3",
@@ -35304,7 +35315,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22878
+      "UsersEstimate": 22879
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -35320,7 +35331,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22878
+      "UsersEstimate": 22879
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -35336,7 +35347,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22878
+      "UsersEstimate": 22879
     },
     {
       "ID": "25_ShrineMind",
@@ -35360,7 +35371,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22878
+      "UsersEstimate": 22879
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -35400,7 +35411,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22878
+      "UsersEstimate": 22879
     },
     {
       "ID": "33_BladeOneShot",
@@ -35631,21 +35642,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71912,
+      "Progressed": 71919,
       "Completed": 10820
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762611,
+      "Progressed": 762618,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-24T08:03:26.8079747+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:16.2445225+00:00",
+  "LastChanged": "2024-01-24T10:03:32.9712023+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:14.224682+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:03:45.3020622+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:16.2446892+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:03:32.9712029+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:14.2248852+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3122,
+  "EOS_Progressed": 3123,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8549,6 +8549,11 @@
       "Time": "2024-01-24T02:01:45.7097509+00:00",
       "NumProgressed": 3122,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T10:10:41.6647357+00:00",
+      "NumProgressed": 3123,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8657,7 +8662,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_21",
@@ -8785,7 +8790,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "achievement_36",
@@ -8801,7 +8806,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "achievement_38",
@@ -8833,7 +8838,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "achievement_41",
@@ -8865,7 +8870,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_45",
@@ -9064,13 +9069,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3122,
+      "Progressed": 3123,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3122,
+      "Progressed": 3123,
       "Completed": 1
     }
   ],
@@ -9078,8 +9083,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:44.0626804+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:41.6647353+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:53.9185751+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:44.0627782+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:58:41.8149359+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:41.6648425+00:00"
 }

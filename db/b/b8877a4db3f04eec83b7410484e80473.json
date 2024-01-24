@@ -2,9 +2,9 @@
   "ID": "b8877a4db3f04eec83b7410484e80473",
   "Name": "Railbreak",
   "ProductSlug": "railbreak-f87a0c",
-  "Ranking_EOS_Progress": 618,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -154,6 +154,11 @@
       "Time": "2024-01-22T07:04:07.7366327+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:05:38.6373765+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T01:52:57.8819176+00:00",
@@ -204,7 +209,7 @@
       "ID": "CYPRESS_RIDGE_PARK_ACH",
       "SetID": "af7amn3",
       "Name": "Cypress Ridge Park",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -220,25 +225,25 @@
       "ID": "EXPLOSIVE_TEMPER_ACH",
       "SetID": "af7amn3",
       "Name": "Explosive Temper",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "HEADSHOT_ACH",
       "SetID": "af7amn3",
       "Name": "Headshot",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MAIN_STREET_ACH",
       "SetID": "af7amn3",
       "Name": "Main Street",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MEDICAL_EXCELLENCE_ACH",
@@ -252,7 +257,7 @@
       "ID": "MIRANDAS_GARAGE_ACH",
       "SetID": "af7amn3",
       "Name": "Miranda\u0027s Garage",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -308,7 +313,7 @@
       "ID": "THE_JOURNALIST_ACH",
       "SetID": "af7amn3",
       "Name": "The Journalist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -316,9 +321,9 @@
       "ID": "THE_LAST_SHOT_BAR_ACH",
       "SetID": "af7amn3",
       "Name": "The Last Shot Bar",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "THE_MAYOR_ACH",
@@ -332,7 +337,7 @@
       "ID": "THE_MECHANIC_ACH",
       "SetID": "af7amn3",
       "Name": "The Mechanic",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -340,7 +345,7 @@
       "ID": "THE_SINGER_ACH",
       "SetID": "af7amn3",
       "Name": "The Singer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -356,23 +361,23 @@
       "ID": "WEAK_KNEES_ACH",
       "SetID": "af7amn3",
       "Name": "Weak Knees",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "af7amn3",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-30T21:03:34.3520753+00:00",
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:05:48.9720965+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:05:38.6373759+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:01.6697636+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:19.2004442+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:05:48.9721153+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:58:06.4053471+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:05:38.6373927+00:00"
 }

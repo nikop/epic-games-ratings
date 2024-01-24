@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1044,
+  "EOS_Progressed": 1045,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4509,6 +4509,11 @@
       "Time": "2024-01-23T13:17:49.3896972+00:00",
       "NumProgressed": 1044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:10:27.9438812+00:00",
+      "NumProgressed": 1045,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4566,9 +4571,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 157
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4718,9 +4723,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 251
     },
     {
       "ID": "RecipeDifferent30",
@@ -4839,7 +4844,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1044,
+      "Progressed": 1045,
       "Completed": 0
     }
   ],
@@ -4847,8 +4852,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:30.2330008+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:27.9438807+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.8599474+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:57:29.5211218+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:30.2330449+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:57:15.5658059+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:27.9439342+00:00"
 }

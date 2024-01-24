@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22698,
+  "EOS_Progressed": 22699,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14823,6 +14823,11 @@
       "Time": "2024-01-24T09:10:25.0672021+00:00",
       "NumProgressed": 22698,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T10:10:22.8379609+00:00",
+      "NumProgressed": 22699,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14866,7 +14871,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15010,7 +15015,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15026,7 +15031,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15066,7 +15071,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15194,7 +15199,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -15209,13 +15214,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22698,
+      "Progressed": 22699,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10624,
+      "Progressed": 10625,
       "Completed": 29
     }
   ],
@@ -15223,8 +15228,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:25.0672017+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:22.8379605+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:03:55.8654197+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:25.0672886+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:03:43.7437769+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:22.8380852+00:00"
 }

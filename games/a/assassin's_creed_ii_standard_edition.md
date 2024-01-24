@@ -1,15 +1,15 @@
 # Assassin's Creed II Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-2)  
 [View Rawdata](../../db/a/assassin's_creed_ii_standard_edition.json)  
-Rating: 4.74 (Ranked 170)  
+Rating: 4.75 (Ranked 151)  
 Number of Ratings: 315  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 61  (Ranked 438)  
-Sum: 474 (Ranked 344)  
-Diff (max vs sum): 94  
+Max (Amazing Storytelling): 62  (Ranked 437)  
+Sum: 475 (Ranked 344)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 61 |
+| This game has Amazing Storytelling | 62 |
 | This game is Extremely Fun | 50 |
 | This game has Amazing Characters | 49 |
 | This game is Relaxing | 48 |
@@ -222,3 +222,4 @@ Diff (max vs sum): 94
 | 2024-01-21 | 4.74 | - | 61 | 472 |
 | 2024-01-22 | 4.74 | - | 61 | 473 |
 | 2024-01-23 | 4.74 | - | 61 | 474 |
+| 2024-01-24 | 4.75 | - | 62 | 475 |

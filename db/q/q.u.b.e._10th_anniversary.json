@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30448,
+  "EOS_Progressed": 30450,
   "EOS_Completed": 233,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -11681,6 +11681,11 @@
       "Time": "2024-01-24T08:10:18.3840474+00:00",
       "NumProgressed": 30448,
       "NumCompleted": 233
+    },
+    {
+      "Time": "2024-01-24T10:10:27.7208224+00:00",
+      "NumProgressed": 30450,
+      "NumCompleted": 233
     }
   ],
   "TotalAchievements": 24,
@@ -11780,7 +11785,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -11820,7 +11825,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10352
+      "UsersEstimate": 10353
     },
     {
       "ID": "ACH_Sector2",
@@ -11828,7 +11833,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9134
+      "UsersEstimate": 9135
     },
     {
       "ID": "ACH_Sector3",
@@ -11860,7 +11865,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ACH_Sector7",
@@ -11876,14 +11881,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30448,
+      "Progressed": 30450,
       "Completed": 233
     }
   ],
@@ -11891,8 +11896,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:30.0358354+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:27.7208218+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:03:21.2962229+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:30.035891+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:03:08.151004+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:27.7209041+00:00"
 }

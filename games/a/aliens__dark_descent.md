@@ -1,57 +1,57 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 550)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~5,043 |
-| Keep 'Em Coming | 66.00% | ~4,322 |
-| Snatched Out | 65.00% | ~4,257 |
-| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,798 |
-| Call Me Snake | 54.00% | ~3,536 |
-| Something Lurks Under The Hills | 53.00% | ~3,471 |
-| This Was No Papercut | 51.00% | ~3,340 |
-| The Shrink Hates Me | 49.00% | ~3,209 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~5,044 |
+| Keep 'Em Coming | 66.00% | ~4,324 |
+| Snatched Out | 64.00% | ~4,193 |
+| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,800 |
+| Call Me Snake | 54.00% | ~3,538 |
+| Something Lurks Under The Hills | 53.00% | ~3,472 |
+| This Was No Papercut | 51.00% | ~3,341 |
+| The Shrink Hates Me | 49.00% | ~3,210 |
 | People Person | 48.00% | ~3,144 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,947 |
-| First Steps Into Madness | 45.00% | ~2,947 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,948 |
+| First Steps Into Madness | 45.00% | ~2,948 |
 | Colonial Barrels | 44.00% | ~2,882 |
-| Harper's Hell | 39.00% | ~2,554 |
+| Harper's Hell | 39.00% | ~2,555 |
 | Making a Stand | 38.00% | ~2,489 |
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~2,358 |
-| Where It All Begun | 35.00% | ~2,292 |
-| Recouped Investment | 33.00% | ~2,161 |
-| Living Nightmare | 29.00% | ~1,899 |
-| The More The Merrier | 29.00% | ~1,899 |
-| Omelette Du Fromage | 27.00% | ~1,768 |
+| Where It All Begun | 35.00% | ~2,293 |
+| Recouped Investment | 33.00% | ~2,162 |
+| Living Nightmare | 29.00% | ~1,900 |
+| The More The Merrier | 29.00% | ~1,900 |
+| Omelette Du Fromage | 27.00% | ~1,769 |
 | The Darwin Era Was Here | 26.00% | ~1,703 |
-| Deep Into Insanity | 25.00% | ~1,637 |
+| Deep Into Insanity | 25.00% | ~1,638 |
 | The Passenger | 24.00% | ~1,572 |
-| Come on, You Wanna Live Forever? | 23.00% | ~1,506 |
+| Come on, You Wanna Live Forever? | 23.00% | ~1,507 |
 | The Spire | 22.00% | ~1,441 |
-| El Riesgo Siempre Vive | 21.00% | ~1,375 |
+| El Riesgo Siempre Vive | 21.00% | ~1,376 |
 | Excavating The Truth | 20.00% | ~1,310 |
-| Stuff Of Nightmares | 19.00% | ~1,244 |
-| Frontliner | 19.00% | ~1,244 |
-| Abysmal Horrors | 19.00% | ~1,244 |
+| Stuff Of Nightmares | 19.00% | ~1,245 |
+| Frontliner | 19.00% | ~1,245 |
+| Abysmal Horrors | 19.00% | ~1,245 |
 | One For Every Occasion | 18.00% | ~1,179 |
 | The Cable Guy | 18.00% | ~1,179 |
-| Bandage Lover | 17.00% | ~1,113 |
+| Bandage Lover | 17.00% | ~1,114 |
 | Regicide | 14.00% | ~917 |
-| This Went Smoothly | 13.00% | ~851 |
-| Flawless Victory | 11.00% | ~720 |
-| Heavy Steps | 11.00% | ~720 |
+| This Went Smoothly | 13.00% | ~852 |
+| Flawless Victory | 11.00% | ~721 |
+| Heavy Steps | 11.00% | ~721 |
 | Perfect Enhancements | 8.00% | ~524 |
-| Hardened In The Heat Of Battle | 7.00% | ~458 |
-| The True Experience | 5.00% | ~327 |
+| Hardened In The Heat Of Battle | 7.00% | ~459 |
+| The True Experience | 5.00% | ~328 |
 | Archivist | 2.00% | ~131 |
 | Fair And Square | 2.00% | ~131 |
 | Chalk It Up To Experience | 0.80% | ~52 |
 | Perfect Organism | 0.70% | ~46 |
 | This Ain't No Picnic | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,549 (Ranked 204)  
+Progressed: 6,551 (Ranked 204)  
 Completed: 3 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,11 +263,11 @@ Completed: 3 (0.05%) (Ranked 348)
 | 2024-01-21 | 6,532 | 3 |
 | 2024-01-22 | 6,539 | 3 |
 | 2024-01-23 | 6,548 | 3 |
-| 2024-01-24 | 6,549 | 3 |
+| 2024-01-24 | 6,551 | 3 |
 ## Awards
 Max (Great Boss Battles): 67  (Ranked 428)  
-Sum: 67 (Ranked 501)  
-Diff (max vs sum): -73  
+Sum: 67 (Ranked 502)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 67 |

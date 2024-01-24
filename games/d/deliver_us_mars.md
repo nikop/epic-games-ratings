@@ -5,30 +5,30 @@ Rating: 4.15 (Ranked 1,011)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 58.00% | ~4,830 |
-| The beginning of a beautiful collection | 46.00% | ~3,831 |
-| Home Is... | 40.00% | ~3,331 |
-| Reading is fundamental | 39.00% | ~3,248 |
-| Take a look | 39.00% | ~3,248 |
-| Moonbear | 27.00% | ~2,249 |
-| Getting the hang of it | 23.00% | ~1,915 |
-| Want to Go to Space? | 23.00% | ~1,915 |
-| On the Precipice | 18.00% | ~1,499 |
-| A Nice Place to Live | 17.00% | ~1,416 |
-| The Dream for These Folks | 15.00% | ~1,249 |
-| Like Animals | 14.00% | ~1,166 |
-| Not the Rabbits, Not the Bees | 14.00% | ~1,166 |
-| Delivered Us Mars | 13.00% | ~1,083 |
-| Wants and Needs | 13.00% | ~1,083 |
-| Desperate Times | 13.00% | ~1,083 |
-| Piecing the story together | 12.00% | ~999 |
-| Stellar extra-vehicular activities score | 9.00% | ~750 |
-| Cinephile | 9.00% | ~750 |
-| When ACE met AYLA | 5.00% | ~416 |
-| Kat-like reflexes | 4.00% | ~333 |
+| Better jot that down | 58.00% | ~4,851 |
+| The beginning of a beautiful collection | 46.00% | ~3,847 |
+| Home Is... | 40.00% | ~3,345 |
+| Reading is fundamental | 39.00% | ~3,262 |
+| Take a look | 39.00% | ~3,262 |
+| Moonbear | 27.00% | ~2,258 |
+| Getting the hang of it | 23.00% | ~1,923 |
+| Want to Go to Space? | 23.00% | ~1,923 |
+| On the Precipice | 19.00% | ~1,589 |
+| A Nice Place to Live | 17.00% | ~1,422 |
+| The Dream for These Folks | 15.00% | ~1,254 |
+| Like Animals | 14.00% | ~1,171 |
+| Not the Rabbits, Not the Bees | 14.00% | ~1,171 |
+| Delivered Us Mars | 13.00% | ~1,087 |
+| Wants and Needs | 13.00% | ~1,087 |
+| Desperate Times | 13.00% | ~1,087 |
+| Piecing the story together | 12.00% | ~1,004 |
+| Stellar extra-vehicular activities score | 9.00% | ~753 |
+| Cinephile | 9.00% | ~753 |
+| When ACE met AYLA | 5.00% | ~418 |
+| Kat-like reflexes | 4.00% | ~335 |
 | Kats always land on their feet | 2.00% | ~167 |
 | The Gang | 2.00% | ~167 |
-| As the story unfolds... | 0.90% | ~75 |
+| As the story unfolds... | 0.80% | ~67 |
 | Who waits five minutes, seriously? | 0.40% | ~33 |
 | Peruser | 0.30% | ~25 |
 | Simulacrum | 0.20% | ~17 |
@@ -39,7 +39,7 @@ Rating: 4.15 (Ranked 1,011)
 | Chronicler | 0.20% | ~17 |
 | Shai-Hulud? | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,328 (Ranked 196)  
+Progressed: 8,363 (Ranked 195)  
 Completed: 11 (0.13%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 11 (0.13%) (Ranked 308)
 | 2024-01-21 | 5,442 | 2 |
 | 2024-01-22 | 6,802 | 7 |
 | 2024-01-23 | 8,015 | 11 |
-| 2024-01-24 | 8,328 | 11 |
+| 2024-01-24 | 8,363 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

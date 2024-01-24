@@ -2366,7 +2366,7 @@
   ],
   "EOS_Progressed": 17133,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22941,9 +22941,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -23771,8 +23771,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:10:48.0327316+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:10:45.2780636+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:59:37.668106+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:10:48.0337068+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:59:24.6971809+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:10:45.279031+00:00"
 }

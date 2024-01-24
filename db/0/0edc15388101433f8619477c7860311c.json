@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2024-01-24T06:04:33.7227596+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:04:04.9362217+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -659,15 +664,15 @@
       "Name": "Dating Attraction",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "HauntingSpecter",
@@ -683,7 +688,7 @@
       "Name": "Whose Heart was Never Hurt",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "HideAndSeek",
@@ -721,9 +726,9 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "LoveCrawler",
@@ -739,7 +744,7 @@
       "Name": "Money Camouflage",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MortuaryMarkup",
@@ -769,9 +774,9 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 119
     },
     {
       "ID": "RoadToSalvation",
@@ -785,9 +790,9 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "SeeingThrough",
@@ -826,14 +831,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:04:14.6251442+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:04:04.9362215+00:00",
   "LastUpdate_AppInfo": "2024-01-22T16:57:22.7565466+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:52.1611404+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:04:14.6251577+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:58:39.993831+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:04:04.9362436+00:00"
 }

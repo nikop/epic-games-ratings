@@ -16,8 +16,8 @@ Number of Ratings: 398  (23.09.2022)
 | The Governator | 16.00% | ~1,161 |
 | Caribbean Comrade | 15.00% | ~1,089 |
 | The Dreamer of Dreams | 15.00% | ~1,089 |
+| Go Sovereigns! | 11.00% | ~798 |
 | Happy Ending? | 10.00% | ~726 |
-| Go Sovereigns! | 10.00% | ~726 |
 | For Science! | 10.00% | ~726 |
 | Of Seals And Men | 9.00% | ~653 |
 | Shackadelic | 9.00% | ~653 |

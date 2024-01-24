@@ -799,9 +799,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4764,
+  "EOS_Progressed": 4765,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13319,6 +13319,11 @@
       "Time": "2024-01-24T09:06:34.201071+00:00",
       "NumProgressed": 4764,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T10:06:23.7388801+00:00",
+      "NumProgressed": 4765,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13570,7 +13575,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "heroinspection",
@@ -13642,7 +13647,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "mastery",
@@ -13722,7 +13727,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "prestigiousx10",
@@ -13810,7 +13815,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "thegameison",
@@ -13850,7 +13855,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -13922,14 +13927,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4764,
+      "Progressed": 4765,
       "Completed": 2
     }
   ],
@@ -13937,8 +13942,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:06:34.2010706+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:06:23.7388798+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:57:54.7011401+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:06:34.2011923+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:57:41.0041297+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:06:23.7390329+00:00"
 }

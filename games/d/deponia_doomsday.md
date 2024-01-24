@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 84.00% | ~454 |
-| And again, and again, and... | 61.00% | ~330 |
+| Huzza, he's back. | 84.00% | ~455 |
+| And again, and again, and... | 61.00% | ~331 |
 | Burn, Elysium, burn! | 60.00% | ~325 |
-| Kuvaq Minigame-Master | 59.00% | ~319 |
+| Kuvaq Minigame-Master | 59.00% | ~320 |
 | FunScore | 53.00% | ~287 |
-| Funtime's over | 50.00% | ~270 |
-| Chunky | 47.00% | ~254 |
+| Funtime's over | 50.00% | ~271 |
+| Chunky | 47.00% | ~255 |
 | Boat of love, boat of love | 46.00% | ~249 |
-| Shall we play a game? | 45.00% | ~243 |
-| School's out | 42.00% | ~227 |
+| Shall we play a game? | 45.00% | ~244 |
+| School's out | 42.00% | ~228 |
 | Sole Music | 36.00% | ~195 |
-| Scaffolding Expert | 35.00% | ~189 |
-| Elysian Minigame-Master | 35.00% | ~189 |
-| No man left behind! | 28.00% | ~151 |
-| Portals come in packs | 28.00% | ~151 |
-| Photo Friend | 25.00% | ~135 |
+| Scaffolding Expert | 35.00% | ~190 |
+| Elysian Minigame-Master | 35.00% | ~190 |
+| Portals come in packs | 28.00% | ~152 |
+| No man left behind! | 27.00% | ~146 |
+| Photo Friend | 25.00% | ~136 |
 | Masseltov | 19.00% | ~103 |
 | Brainfreeze | 19.00% | ~103 |
 | And everything comes full circle. | 19.00% | ~103 |
@@ -31,18 +31,18 @@ Rating: 4.55 (Ranked 530)
 | Blast from the Past | 11.00% | ~60 |
 | Play it again, Ronny | 10.00% | ~54 |
 | Paradox! | 10.00% | ~54 |
-| Weapons 101 | 9.00% | ~49 |
 | Goat Team | 9.00% | ~49 |
+| Weapons 101 | 8.00% | ~43 |
 | Sadist | 7.00% | ~38 |
-| The customer is always right | 6.00% | ~32 |
-| Pacifist | 6.00% | ~32 |
-| Apoca...huh? | 6.00% | ~32 |
-| Against better judgement | 6.00% | ~32 |
+| The customer is always right | 6.00% | ~33 |
+| Pacifist | 6.00% | ~33 |
+| Apoca...huh? | 6.00% | ~33 |
+| Against better judgement | 6.00% | ~33 |
 | Distraction | 5.00% | ~27 |
 | Every man for himself! | 5.00% | ~27 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541 (Ranked 355)  
+Progressed: 542 (Ranked 355)  
 Completed: 7 (1.29%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 7 (1.29%) (Ranked 162)
 | 2024-01-20 | 538 | 7 |
 | 2024-01-21 | 540 | 7 |
 | 2024-01-23 | 541 | 7 |
+| 2024-01-24 | 542 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

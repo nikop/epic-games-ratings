@@ -4,7 +4,7 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2024-01-24T09:07:09.6361331+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T10:08:49.0814922+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -481,9 +486,9 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CloseCall",
@@ -513,7 +518,7 @@
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 52
     },
@@ -523,13 +528,13 @@
       "Name": "Digestive Collapse",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "HeartAttack",
       "SetID": "aaidab7",
       "Name": "Heart Attack",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -545,9 +550,9 @@
       "ID": "LastResort",
       "SetID": "aaidab7",
       "Name": "Last Resort",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "LethalWalkInThePark",
@@ -571,7 +576,7 @@
       "Name": "Loser",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Lupus",
@@ -579,7 +584,7 @@
       "Name": "Lupus Nephritis",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LupusNephretis",
@@ -593,7 +598,7 @@
       "ID": "MedStudent",
       "SetID": "aaidab7",
       "Name": "Medical Student",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
       "UsersEstimate": 75
     },
@@ -611,7 +616,7 @@
       "Name": "Nervous Collapse",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Opportunist",
@@ -619,13 +624,13 @@
       "Name": "Opportunist",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PrescriptionFrenzy",
       "SetID": "aaidab7",
       "Name": "Prescription Frenzy",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 49
     },
@@ -649,7 +654,7 @@
       "ID": "RespiratoryCollapse",
       "SetID": "aaidab7",
       "Name": "Respiratory Collapse",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -659,7 +664,7 @@
       "Name": "Richie Rich",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "SilentKiller",
@@ -667,7 +672,7 @@
       "Name": "Silent Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SkeletalCollapse",
@@ -681,9 +686,9 @@
       "ID": "Stabilized",
       "SetID": "aaidab7",
       "Name": "Stabilized",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "Thrifty",
@@ -699,21 +704,21 @@
       "Name": "Walk In The Park",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:07:09.6361328+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:08:49.0814917+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:58:45.2975303+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:07:09.6361561+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:58:32.3153937+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:08:49.0815134+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -9330,8 +9330,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-23T08:00:18.6037817+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:09:02.9400299+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:09:01.1957763+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:00:44.0611975+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:09:02.9401674+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:57:09.2547823+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:09:01.1958761+00:00"
 }

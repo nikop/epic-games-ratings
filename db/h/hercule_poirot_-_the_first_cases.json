@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -996,9 +996,9 @@
       "ID": "ACH_016",
       "SetID": "72imik0",
       "Name": "Curious and Beautiful",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_017",
@@ -1317,8 +1317,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:09:24.459066+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:09:22.5793078+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.6494504+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:03:45.8230011+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:09:24.4590962+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:03:33.5175039+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:09:22.5793477+00:00"
 }

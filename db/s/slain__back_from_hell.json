@@ -262,7 +262,7 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44761,
+  "EOS_Progressed": 44763,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
@@ -30512,6 +30512,11 @@
       "Time": "2024-01-24T09:05:26.5009566+00:00",
       "NumProgressed": 44761,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-24T10:05:16.1464367+00:00",
+      "NumProgressed": 44763,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30667,7 +30672,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -30754,7 +30759,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44761,
+      "Progressed": 44763,
       "Completed": 30
     }
   ],
@@ -30762,8 +30767,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:05:26.5009564+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:05:16.1464363+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:03:35.7494278+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:05:26.5011383+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:03:23.7580829+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:05:16.146664+00:00"
 }

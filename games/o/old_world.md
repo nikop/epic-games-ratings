@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.90% | ~154 |
 | Assyrian Paganism | 0.90% | ~154 |
 | Industrial Progress | 0.90% | ~154 |
+| Cimmerian Archer | 0.90% | ~154 |
 | Jerwan Aqueduct | 0.90% | ~154 |
 | Royal Library | 0.90% | ~154 |
 | Lion | 0.80% | ~137 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.80% | ~137 |
 | Redemption | 0.80% | ~137 |
 | Veneration | 0.80% | ~137 |
-| Cimmerian Archer | 0.80% | ~137 |
 | Phalangite | 0.80% | ~137 |
 | Ambition Victory | 0.80% | ~137 |
 | Kushite Pyramids | 0.80% | ~137 |

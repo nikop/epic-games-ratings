@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3329,6 +3329,11 @@
       "Time": "2024-01-23T07:10:03.7429067+00:00",
       "NumProgressed": 994,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T10:09:23.6634511+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3405,7 +3410,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3436,14 +3441,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-24T09:09:25.7008537+00:00",
+  "LastChanged_Achievements": "2024-01-24T10:09:23.6634506+00:00",
   "LastUpdate_AppInfo": "2024-01-19T17:56:57.984209+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:03:29.2835227+00:00",
-  "LastUpdate_Achievements": "2024-01-24T09:09:25.7008748+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:03:16.0437432+00:00",
+  "LastUpdate_Achievements": "2024-01-24T10:09:23.6634857+00:00"
 }
