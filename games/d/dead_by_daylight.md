@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~95,391 |
-| Zealous | 7.00% | ~83,467 |
-| Skillful | 7.00% | ~83,467 |
-| Not half bad | 6.00% | ~71,543 |
-| Make Some Noise | 6.00% | ~71,543 |
-| Apt Survivor | 5.00% | ~59,619 |
-| Survival Treasures | 5.00% | ~59,619 |
-| The Grand Sacrifice | 4.00% | ~47,695 |
-| No one left behind | 4.00% | ~47,695 |
-| Medic | 4.00% | ~47,695 |
-| Handyman | 4.00% | ~47,695 |
-| Bloody Millionaire | 4.00% | ~47,695 |
-| I | 4.00% | ~47,695 |
-| Sorted | 4.00% | ~47,695 |
-| Healthy Obsession | 4.00% | ~47,695 |
-| Resurgence | 4.00% | ~47,695 |
-| Preemptive Strike | 4.00% | ~47,695 |
-| Humanitarian | 4.00% | ~47,695 |
+| It wakes | 8.00% | ~95,393 |
+| Zealous | 7.00% | ~83,469 |
+| Skillful | 7.00% | ~83,469 |
+| Not half bad | 6.00% | ~71,545 |
+| Make Some Noise | 6.00% | ~71,545 |
+| Apt Survivor | 5.00% | ~59,621 |
+| Survival Treasures | 5.00% | ~59,621 |
+| The Grand Sacrifice | 4.00% | ~47,696 |
+| No one left behind | 4.00% | ~47,696 |
+| Medic | 4.00% | ~47,696 |
+| Handyman | 4.00% | ~47,696 |
+| Bloody Millionaire | 4.00% | ~47,696 |
+| I | 4.00% | ~47,696 |
+| Sorted | 4.00% | ~47,696 |
+| Healthy Obsession | 4.00% | ~47,696 |
+| Resurgence | 4.00% | ~47,696 |
+| Preemptive Strike | 4.00% | ~47,696 |
+| Humanitarian | 4.00% | ~47,696 |
 | Agonizing Escape | 3.00% | ~35,772 |
 | Backdoor Escape | 3.00% | ~35,772 |
 | I've got your back | 3.00% | ~35,772 |
@@ -92,10 +92,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Complete the Evolution | 1.00% | ~11,924 |
 | Extraterrestrial | 1.00% | ~11,924 |
 | Outta Nowhere | 1.00% | ~11,924 |
-| Deep Cleansing | 0.90% | ~10,731 |
-| Texas BBQ | 0.90% | ~10,731 |
-| Outrage | 0.90% | ~10,731 |
-| I See You | 0.90% | ~10,731 |
+| Deep Cleansing | 0.90% | ~10,732 |
+| Texas BBQ | 0.90% | ~10,732 |
+| Outrage | 0.90% | ~10,732 |
+| I See You | 0.90% | ~10,732 |
 | Blood in your mouth | 0.80% | ~9,539 |
 | Heavy Burden | 0.80% | ~9,539 |
 | Punch Drunk | 0.80% | ~9,539 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,192 |
 | Adept Good Guy | 0.10% | ~1,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192,384 (Ranked 14)  
+Progressed: 1,192,412 (Ranked 14)  
 Completed: 68 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,10 +518,10 @@ Completed: 68 (0.01%) (Ranked 383)
 | 2024-01-21 | 1,189,296 | 68 |
 | 2024-01-22 | 1,190,733 | 68 |
 | 2024-01-23 | 1,192,207 | 68 |
-| 2024-01-24 | 1,192,384 | 68 |
+| 2024-01-24 | 1,192,412 | 68 |
 ## Awards
 Max (Diverse Characters): 40,141  (Ranked 15)  
-Sum: 301,753 (Ranked 12)  
+Sum: 301,788 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -529,7 +529,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 34,520 |
 | This game has Amazing Characters | 33,923 |
 | This game has Competitive Players | 33,630 |
-| This game is Extremely Fun | 33,429 |
+| This game is Extremely Fun | 33,464 |
 | This game has Challenging Combat | 33,342 |
 | This game has Quickly Understood Controls | 32,412 |
 | This game has Amazing Storytelling | 30,717 |
@@ -904,4 +904,4 @@ Diff (max vs sum): 3
 | 2024-01-21 | 4.51 | - | 40,050 | 301,205 |
 | 2024-01-22 | 4.51 | - | 40,050 | 301,445 |
 | 2024-01-23 | 4.51 | - | 40,086 | 301,698 |
-| 2024-01-24 | 4.51 | - | 40,141 | 301,753 |
+| 2024-01-24 | 4.51 | - | 40,141 | 301,788 |

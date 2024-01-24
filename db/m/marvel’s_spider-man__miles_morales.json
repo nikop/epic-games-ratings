@@ -2,12 +2,12 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
@@ -4139,10 +4139,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 3188,
       "NumberOfAwardsMax": 2212
+    },
+    {
+      "Time": "2024-01-24T02:23:33.7522785+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 3191,
+      "NumberOfAwardsMax": 2212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3188,
+  "NumberOfAwards": 3191,
   "NumberOfAwardsMax": 2212,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4168,7 +4174,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4186,7 +4192,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 88
+      "Count": 90
     },
     {
       "Text": "This game is Relaxing",
@@ -4237,8 +4243,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2024-01-23T23:58:07.389958+00:00",
+  "LastChanged": "2024-01-24T02:23:33.7522784+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:04.2222262+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:47:46.2524716+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:54:21.3086579+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:23:33.7522788+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:29:47.3542196+00:00"
 }

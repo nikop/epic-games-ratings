@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2018-05-15T15:00:00+00:00",
@@ -3577,9 +3577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 1108653,
+  "EOS_Progressed": 1108660,
   "EOS_Completed": 539,
-  "EOS_NewPlayers": 2789,
+  "EOS_NewPlayers": 2785,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -35677,6 +35677,11 @@
       "Time": "2024-01-24T01:59:55.0613527+00:00",
       "NumProgressed": 1108653,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2024-01-24T02:34:55.7723036+00:00",
+      "NumProgressed": 1108660,
+      "NumCompleted": 539
     }
   ],
   "TotalAchievements": 37,
@@ -35688,7 +35693,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 376942
+      "UsersEstimate": 376944
     },
     {
       "ID": "CompleteAustralia",
@@ -35880,7 +35885,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 121952
+      "UsersEstimate": 121953
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -35888,7 +35893,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 997788
+      "UsersEstimate": 997794
     },
     {
       "ID": "GetLotsOfScore",
@@ -35920,7 +35925,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 521067
+      "UsersEstimate": 521070
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -35928,7 +35933,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 199558
+      "UsersEstimate": 199559
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -35952,7 +35957,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 698451
+      "UsersEstimate": 698456
     },
     {
       "ID": "WinBySmallDifference",
@@ -35960,7 +35965,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 199558
+      "UsersEstimate": 199559
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -35983,15 +35988,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1108653,
+      "Progressed": 1108660,
       "Completed": 539
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2024-01-23T20:03:05.1188301+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:59:55.0613524+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:34:55.7723031+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.9708235+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:53:50.0028899+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:59:55.0615319+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:29:21.0222067+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:34:55.7724663+00:00"
 }

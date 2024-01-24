@@ -6,16 +6,16 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 47.00% | ~608 |
-| Double Kill | 41.00% | ~530 |
-| Critical Hit | 23.00% | ~297 |
-| Veteran | 23.00% | ~297 |
+| Adept | 47.00% | ~609 |
+| Double Kill | 41.00% | ~531 |
+| Critical Hit | 23.00% | ~298 |
+| Veteran | 23.00% | ~298 |
 | Dressed For Success | 15.00% | ~194 |
 | Veni, Vidi, Vici | 11.00% | ~142 |
-| Humiliation | 10.00% | ~129 |
-| Multi Kill | 9.00% | ~116 |
-| Sorcerous Spree | 9.00% | ~116 |
-| Landlord Extraordinaire | 8.00% | ~103 |
+| Humiliation | 10.00% | ~130 |
+| Multi Kill | 9.00% | ~117 |
+| Sorcerous Spree | 9.00% | ~117 |
+| Landlord Extraordinaire | 8.00% | ~104 |
 | Master | 7.00% | ~91 |
 | The Song of Stoutheart | 6.00% | ~78 |
 | Whoops! | 6.00% | ~78 |
@@ -32,8 +32,8 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 1.00% | ~13 |
 | Such A Fungi | 1.00% | ~13 |
 | Grand Master | 1.00% | ~13 |
-| Versatile Wielder | 0.90% | ~12 |
 | Together For Her | 0.90% | ~12 |
+| Versatile Wielder | 0.80% | ~10 |
 | Unlimited Power! | 0.70% | ~9 |
 | Killing Spree | 0.70% | ~9 |
 | Cleave | 0.70% | ~9 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,293 (Ranked 287)  
+Progressed: 1,295 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 1,271 | 0 |
 | 2024-01-22 | 1,284 | 0 |
 | 2024-01-23 | 1,292 | 0 |
-| 2024-01-24 | 1,293 | 0 |
+| 2024-01-24 | 1,295 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 531)  
 Sum: 252 (Ranked 401)  

@@ -14,9 +14,9 @@
 | Card Collector | 23.00% | ~35 |
 | Riddlesolver | 21.00% | ~32 |
 | Dungeon Mastery | 20.00% | ~31 |
+| The Steed | 10.00% | ~15 |
 | A Strange Proposition | 10.00% | ~15 |
 | Card Completionist | 10.00% | ~15 |
-| The Steed | 9.00% | ~14 |
 | The Bodyguard | 7.00% | ~11 |
 | The Apprentice | 7.00% | ~11 |
 | Oracle Mastery | 7.00% | ~11 |
@@ -24,9 +24,9 @@
 | Braving Miasma | 6.00% | ~9 |
 | The Familiar | 6.00% | ~9 |
 | Ancient Nemesis | 6.00% | ~9 |
+| Raider Mastery | 5.00% | ~8 |
 | Traveler Mastery | 5.00% | ~8 |
 | The Plot Thickens | 5.00% | ~8 |
-| Raider Mastery | 4.00% | ~6 |
 | Warden Mastery | 4.00% | ~6 |
 | First time? | 3.00% | ~5 |
 | Best Pupil | 2.00% | ~3 |

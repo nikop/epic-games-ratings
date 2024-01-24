@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -1217,9 +1217,9 @@
       "ID": "Max_Reputation_Gillyshire",
       "SetID": "7b9f97e",
       "Name": "Friend of Gillyshire",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Max_Reputation_Goldenfields",
@@ -1378,8 +1378,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:21.6234956+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:03.1322466+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.6757583+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:50:07.8160981+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:21.6235543+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:25:26.1575746+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:03.1322969+00:00"
 }

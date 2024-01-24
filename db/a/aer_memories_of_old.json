@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 696,
+  "Ranking_Rating": 712,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 145,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -425,6 +425,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-24T02:28:30.9022567+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -433,7 +439,7 @@
   "Tags": [],
   "EOS_Progressed": 29387,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30657,9 +30663,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
-  "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:54:36.6208805+00:00",
+  "LastChanged": "2024-01-24T02:28:30.9022565+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:30:00.039585+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:52:02.15637+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:54:36.6210634+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:28:30.902257+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:30:00.0397409+00:00"
 }

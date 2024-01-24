@@ -5,22 +5,22 @@ Rating: 4.41 (Ranked 761)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~223,729 |
-| Wind Master | 53.00% | ~179,661 |
-| Davy Jones | 18.00% | ~61,017 |
-| Hook, Line and Stinker | 15.00% | ~50,847 |
-| Gateway Slug | 6.00% | ~20,339 |
-| Race In Yo Face | 5.00% | ~16,949 |
-| Nice Shootin' Duds | 5.00% | ~16,949 |
-| Boarding Party | 5.00% | ~16,949 |
-| Great Balls Of Fire | 4.00% | ~13,559 |
-| Baby's First Thingamabob | 4.00% | ~13,559 |
-| By The Power Of Underskull | 3.00% | ~10,169 |
-| Light Up the Night | 3.00% | ~10,169 |
-| I Don't Like The Slugs | 3.00% | ~10,169 |
-| This Is Fine | 2.00% | ~6,780 |
-| But The Slugs Like Me | 2.00% | ~6,780 |
-| Pengy Fun | 2.00% | ~6,780 |
+| Tootorial | 66.00% | ~223,766 |
+| Wind Master | 53.00% | ~179,691 |
+| Davy Jones | 18.00% | ~61,027 |
+| Hook, Line and Stinker | 15.00% | ~50,856 |
+| Gateway Slug | 6.00% | ~20,342 |
+| Race In Yo Face | 5.00% | ~16,952 |
+| Nice Shootin' Duds | 5.00% | ~16,952 |
+| Boarding Party | 5.00% | ~16,952 |
+| Great Balls Of Fire | 4.00% | ~13,562 |
+| Baby's First Thingamabob | 4.00% | ~13,562 |
+| By The Power Of Underskull | 3.00% | ~10,171 |
+| Light Up the Night | 3.00% | ~10,171 |
+| I Don't Like The Slugs | 3.00% | ~10,171 |
+| This Is Fine | 2.00% | ~6,781 |
+| But The Slugs Like Me | 2.00% | ~6,781 |
+| Pengy Fun | 2.00% | ~6,781 |
 | Polar Pontification | 1.00% | ~3,390 |
 | Aggro Kreb | 1.00% | ~3,390 |
 | No More Splosions | 1.00% | ~3,390 |
@@ -53,7 +53,7 @@ Rating: 4.41 (Ranked 761)
 | For Whom The Bells Toll | 0.10% | ~339 |
 | Don't I Know You? | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,983 (Ranked 63)  
+Progressed: 339,040 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 3 (0.00%) (Ranked 409)
 | 2024-01-21 | 331,634 | 2 |
 | 2024-01-22 | 335,398 | 2 |
 | 2024-01-23 | 338,664 | 3 |
-| 2024-01-24 | 338,983 | 3 |
+| 2024-01-24 | 339,040 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

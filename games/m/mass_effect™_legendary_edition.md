@@ -70,13 +70,13 @@
 | Doppelganger | 21.00% | ~973 |
 | Mobilizer | 21.00% | ~973 |
 | Untouchable | 20.00% | ~927 |
+| Eye of the Hurricane | 20.00% | ~927 |
 | Giant Killer | 20.00% | ~927 |
 | Completionist | 20.00% | ~927 |
 | Mission Accomplished | 20.00% | ~927 |
 | Against All Odds | 20.00% | ~927 |
 | A House Divided | 20.00% | ~927 |
 | Agent | 20.00% | ~927 |
-| Eye of the Hurricane | 19.00% | ~880 |
 | World Shaker | 19.00% | ~880 |
 | First Aid Specialist | 18.00% | ~834 |
 | Pathfinder | 18.00% | ~834 |
@@ -87,6 +87,7 @@
 | Arbiter | 17.00% | ~788 |
 | Party Crasher | 16.00% | ~741 |
 | Fact Finder | 16.00% | ~741 |
+| Problem Solver | 16.00% | ~741 |
 | Lost and Found | 16.00% | ~741 |
 | Under Pressure | 15.00% | ~695 |
 | Last Resort | 15.00% | ~695 |
@@ -94,7 +95,6 @@
 | Hard Target | 15.00% | ~695 |
 | Saboteur | 15.00% | ~695 |
 | Last Witness | 15.00% | ~695 |
-| Problem Solver | 15.00% | ~695 |
 | No One Left Behind | 14.00% | ~649 |
 | Well Connected | 14.00% | ~649 |
 | Pyromaniac | 13.00% | ~602 |

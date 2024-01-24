@@ -4,7 +4,7 @@
   "ProductSlug": "selfloss",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T05:58:35.6893054+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:53:31.9563621+00:00",
-  "LastUpdate_Achievements": "2024-01-24T00:06:42.8671894+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:29:07.2662829+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:29:34.7998051+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9743,10 +9743,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33618,
       "NumberOfAwardsMax": 5813
+    },
+    {
+      "Time": "2024-01-24T02:24:46.6717688+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33620,
+      "NumberOfAwardsMax": 5813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33618,
+  "NumberOfAwards": 33620,
   "NumberOfAwardsMax": 5813,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9766,7 +9772,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4919
+      "Count": 4921
     },
     {
       "Text": "This game is Relaxing",
@@ -9793,10 +9799,10 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255351,
-  "EOS_Completed": 2635,
-  "EOS_NewPlayers": 1045,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 255354,
+  "EOS_Completed": 2636,
+  "EOS_NewPlayers": 1046,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -41418,6 +41424,11 @@
       "Time": "2024-01-24T02:01:51.6228358+00:00",
       "NumProgressed": 255351,
       "NumCompleted": 2635
+    },
+    {
+      "Time": "2024-01-24T02:36:27.6072912+00:00",
+      "NumProgressed": 255354,
+      "NumCompleted": 2636
     }
   ],
   "TotalAchievements": 546,
@@ -45701,7 +45712,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "objective_completed_1352",
@@ -45709,7 +45720,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "objective_completed_1557",
@@ -45725,7 +45736,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "objective_completed_1562",
@@ -45741,7 +45752,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "objective_completed_598",
@@ -45796,21 +45807,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221625,
+      "Progressed": 221628,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255351,
-      "Completed": 2635
+      "Progressed": 255354,
+      "Completed": 2636
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-23T19:58:18.5960546+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:51.6228354+00:00",
+  "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:27.6072908+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:49:18.69158+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:51.6250086+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:24:46.6717692+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:27.6095777+00:00"
 }

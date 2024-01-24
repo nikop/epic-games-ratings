@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 952,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3093,9 +3093,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 676
     },
     {
       "ID": "REMAKE_004",
@@ -3260,8 +3260,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:55:15.9630643+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:30:30.5229027+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:49:28.6882196+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:55:15.9630927+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:24:55.0212134+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:30:30.522936+00:00"
 }

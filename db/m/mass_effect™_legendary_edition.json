@@ -9105,9 +9105,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 927
     },
     {
       "ID": "achievement_108",
@@ -10001,9 +10001,9 @@
       "ID": "achievement_94",
       "SetID": "d252ncf",
       "Name": "Problem Solver",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 741
     },
     {
       "ID": "achievement_95",
@@ -10061,8 +10061,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:48.6017076+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:24.9627505+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:54:01.0309163+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:48.6018745+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:29:29.2624716+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:24.9629214+00:00"
 }

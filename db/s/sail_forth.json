@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 4,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-21T19:00:00+00:00",
     "PcReleaseDate": "2022-12-21T19:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338983,
+  "EOS_Progressed": 339040,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 82190,
+  "EOS_NewPlayers": 81406,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1720,6 +1720,11 @@
       "Time": "2024-01-24T01:59:56.1581871+00:00",
       "NumProgressed": 338983,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T02:34:56.672844+00:00",
+      "NumProgressed": 339040,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-01-05T21:08:57.0505921+00:00",
@@ -1764,7 +1769,7 @@
       "Name": "By The Power Of Underskull",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10171
     },
     {
       "ID": "BossDefeatSpaceship",
@@ -1852,7 +1857,7 @@
       "Name": "Hook, Line and Stinker",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 50847
+      "UsersEstimate": 50856
     },
     {
       "ID": "CompleteFishCollectionHalf",
@@ -1900,7 +1905,7 @@
       "Name": "Tootorial",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 223729
+      "UsersEstimate": 223766
     },
     {
       "ID": "EnemyBoatBurn",
@@ -1908,7 +1913,7 @@
       "Name": "Great Balls Of Fire",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13559
+      "UsersEstimate": 13562
     },
     {
       "ID": "FirstAncientJunk",
@@ -1916,7 +1921,7 @@
       "Name": "Baby\u0027s First Thingamabob",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13559
+      "UsersEstimate": 13562
     },
     {
       "ID": "FirstCroakerBounty",
@@ -1932,7 +1937,7 @@
       "Name": "Light Up the Night",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10171
     },
     {
       "ID": "FirstRaceWin",
@@ -1940,7 +1945,7 @@
       "Name": "Race In Yo Face",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 16949
+      "UsersEstimate": 16952
     },
     {
       "ID": "FirstTargetCourseWin",
@@ -1948,7 +1953,7 @@
       "Name": "Nice Shootin\u0027 Duds",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 16949
+      "UsersEstimate": 16952
     },
     {
       "ID": "GameplayBoardShip",
@@ -1956,7 +1961,7 @@
       "Name": "Boarding Party",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16949
+      "UsersEstimate": 16952
     },
     {
       "ID": "GameplayCaptureTekkTanker",
@@ -1972,7 +1977,7 @@
       "Name": "Wind Master",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 179661
+      "UsersEstimate": 179691
     },
     {
       "ID": "GameplaySinkShip",
@@ -1980,7 +1985,7 @@
       "Name": "Davy Jones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 61017
+      "UsersEstimate": 61027
     },
     {
       "ID": "GetFishTip",
@@ -2028,7 +2033,7 @@
       "Name": "This Is Fine",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "RecruitAnglers",
@@ -2068,7 +2073,7 @@
       "Name": "Gateway Slug",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 20339
+      "UsersEstimate": 20342
     },
     {
       "ID": "ShipshapeSpend2",
@@ -2076,7 +2081,7 @@
       "Name": "I Don\u0027t Like The Slugs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10171
     },
     {
       "ID": "ShipshapeSpend3",
@@ -2084,7 +2089,7 @@
       "Name": "But The Slugs Like Me",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "StartlePenguin",
@@ -2092,7 +2097,7 @@
       "Name": "Pengy Fun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "VisitTootGoose",
@@ -2107,7 +2112,7 @@
     {
       "ID": "aem3h3o",
       "IsBase": true,
-      "Progressed": 338983,
+      "Progressed": 339040,
       "Completed": 3
     }
   ],
@@ -2115,8 +2120,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
   "LastChanged": "2024-01-23T20:59:31.9293889+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:59:56.1581869+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:34:56.6728434+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9195405+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:50:53.2559221+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:59:56.1582223+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:25:58.8868953+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:34:56.6728793+00:00"
 }

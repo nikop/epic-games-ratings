@@ -5,7 +5,7 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 145,
@@ -495,9 +495,9 @@
       "ID": "cut_me_own_throat",
       "SetID": "41moj9p",
       "Name": "Cut-Me-Own-Throat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "desperate_times",
@@ -863,9 +863,9 @@
       "ID": "pillars_of_the_earth",
       "SetID": "41moj9p",
       "Name": "Pillars of the Earth",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "playersander_the_great",
@@ -935,9 +935,9 @@
       "ID": "scientia_potentia_es",
       "SetID": "41moj9p",
       "Name": "Scientia potentia es",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "spartacus",
@@ -1152,8 +1152,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:54:42.020467+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:30:04.3554868+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:50:37.4001177+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:54:42.0205565+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:25:48.4409091+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:30:04.355589+00:00"
 }

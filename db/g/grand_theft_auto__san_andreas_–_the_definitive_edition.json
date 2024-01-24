@@ -2653,9 +2653,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 19816,
+  "EOS_Progressed": 19817,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21343,6 +21343,11 @@
       "Time": "2024-01-24T02:01:36.1223721+00:00",
       "NumProgressed": 19816,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T02:36:14.5746562+00:00",
+      "NumProgressed": 19817,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 35,
@@ -21354,7 +21359,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16051
+      "UsersEstimate": 16052
     },
     {
       "ID": "ACH02",
@@ -21410,7 +21415,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10106
+      "UsersEstimate": 10107
     },
     {
       "ID": "ACH09",
@@ -21418,7 +21423,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH10",
@@ -21482,7 +21487,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH18",
@@ -21522,7 +21527,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "ACH23",
@@ -21578,7 +21583,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "ACH30",
@@ -21633,7 +21638,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19816,
+      "Progressed": 19817,
       "Completed": 82
     }
   ],
@@ -21641,8 +21646,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-23T18:58:05.6652416+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:36.1223718+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:14.5746558+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:48:37.738556+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:36.1224769+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:24:15.1406509+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:14.5747558+00:00"
 }

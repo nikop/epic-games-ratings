@@ -1,7 +1,7 @@
 # The Telltale Batman Shadows Edition
 [Store](https://store.epicgames.com/en-US/p/the-telltale-batman)  
 [View Rawdata](../../db/t/the_telltale_batman_shadows_edition.json)  
-Rating: 4.77 (Ranked 122)  
+Rating: 4.78 (Ranked 113)  
 Number of Ratings: 135  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 472)  
@@ -82,3 +82,4 @@ Diff (max vs sum): -51
 | 2024-01-09 | 4.78 | - | 47 | 47 |
 | 2024-01-11 | 4.78 | - | 48 | 48 |
 | 2024-01-23 | 4.77 | - | 48 | 48 |
+| 2024-01-24 | 4.78 | - | 48 | 48 |

@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,963 |
-| Hotel California | 10.00% | ~80,875 |
+| Welcome To Hell-A | 11.00% | ~88,964 |
+| Hotel California | 10.00% | ~80,876 |
 | Break A Leg | 9.00% | ~72,788 |
-| Coup de Grâce | 8.00% | ~64,700 |
-| Hazardous Materials | 8.00% | ~64,700 |
+| Coup de Grâce | 8.00% | ~64,701 |
+| Hazardous Materials | 8.00% | ~64,701 |
 | Git Gutte! | 7.00% | ~56,613 |
 | Apex Predator | 7.00% | ~56,613 |
 | Personal Assistant Personally Assisted | 7.00% | ~56,613 |
-| Dr. Reed, I Presume? | 6.00% | ~48,525 |
-| Bookworm | 6.00% | ~48,525 |
-| Friends Like These | 6.00% | ~48,525 |
-| Stacking the Deck | 6.00% | ~48,525 |
-| This is My Weapon | 6.00% | ~48,525 |
+| Dr. Reed, I Presume? | 6.00% | ~48,526 |
+| Bookworm | 6.00% | ~48,526 |
+| Friends Like These | 6.00% | ~48,526 |
+| Stacking the Deck | 6.00% | ~48,526 |
+| This is My Weapon | 6.00% | ~48,526 |
 | Anger Management | 5.00% | ~40,438 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,438 |
 | But Doctor, I am Butcho | 5.00% | ~40,438 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,754 (Ranked 23)  
+Progressed: 808,761 (Ranked 23)  
 Completed: 2,629 (0.33%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 2,629 (0.33%) (Ranked 260)
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
-| 2024-01-24 | 808,754 | 2,629 |
+| 2024-01-24 | 808,761 | 2,629 |
 ## Awards
 Max (Great Boss Battles): 10,850  (Ranked 40)  
 Sum: 16,700 (Ranked 68)  

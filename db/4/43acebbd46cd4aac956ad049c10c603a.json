@@ -4687,9 +4687,9 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Sinner",
@@ -4848,8 +4848,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-24T01:50:01.4049363+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:56:02.1231427+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:31:06.11903+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:50:01.4049369+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:56:02.1231957+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:25:20.9913921+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:31:06.1190952+00:00"
 }

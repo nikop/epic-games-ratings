@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 713,
+  "Ranking_Rating": 712,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 127,
@@ -611,7 +611,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48224,
+  "EOS_Progressed": 48225,
   "EOS_Completed": 250,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 9,
@@ -15251,6 +15251,11 @@
       "Time": "2024-01-24T02:00:52.9827283+00:00",
       "NumProgressed": 48224,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2024-01-24T02:35:40.9914429+00:00",
+      "NumProgressed": 48225,
+      "NumCompleted": 250
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15423,7 +15428,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 25076
+      "UsersEstimate": 25077
     },
     {
       "ID": "ACH_PEAK",
@@ -15439,7 +15444,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "ACH_REDEND",
@@ -15455,7 +15460,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32792
+      "UsersEstimate": 32793
     },
     {
       "ID": "ACH_S4",
@@ -15479,7 +15484,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36168
+      "UsersEstimate": 36169
     },
     {
       "ID": "ACH_STATUE",
@@ -15487,22 +15492,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20736
+      "UsersEstimate": 20737
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48224,
+      "Progressed": 48225,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:00:52.982728+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:35:40.9914425+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:50:29.0957918+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:00:52.9828113+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:25:42.0235793+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:35:40.9915082+00:00"
 }

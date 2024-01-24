@@ -26,8 +26,8 @@
 | Castle Meldec | 19.00% | ~30 |
 | Sevenkeeps Seat of Kings | 18.00% | ~29 |
 | Friend of Alluvyan | 16.00% | ~25 |
+| Friend of Gillyshire | 15.00% | ~24 |
 | Friend of Connach | 15.00% | ~24 |
-| Friend of Gillyshire | 14.00% | ~22 |
 | Friend of Orgash | 14.00% | ~22 |
 | Friend of Silver Drift Hollow | 14.00% | ~22 |
 | Silver Drift Hollow Mine | 12.00% | ~19 |

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43828,
+  "EOS_Progressed": 43829,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2025,
+  "EOS_NewPlayers": 2021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14964,6 +14964,11 @@
       "Time": "2024-01-24T02:01:39.2432167+00:00",
       "NumProgressed": 43828,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T02:36:17.1159097+00:00",
+      "NumProgressed": 43829,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -15024,7 +15029,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 8327
+      "UsersEstimate": 8328
     },
     {
       "ID": "achievement_16",
@@ -15200,7 +15205,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 41637
+      "UsersEstimate": 41638
     },
     {
       "ID": "achievement_36",
@@ -15232,7 +15237,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "achievement_4",
@@ -15336,7 +15341,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "achievement_9",
@@ -15351,7 +15356,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 43828,
+      "Progressed": 43829,
       "Completed": 3
     }
   ],
@@ -15359,8 +15364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:39.2432165+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:17.1159092+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.6990258+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:53:56.6493147+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:39.2433063+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:29:25.571725+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:17.1159903+00:00"
 }

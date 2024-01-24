@@ -11070,9 +11070,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 97018,
+  "EOS_Progressed": 97019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1347,
+  "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41000,6 +41000,11 @@
       "Time": "2024-01-24T02:01:43.8538515+00:00",
       "NumProgressed": 97018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T02:36:20.9605389+00:00",
+      "NumProgressed": 97019,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -41027,7 +41032,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24254
+      "UsersEstimate": 24255
     },
     {
       "ID": "Best served cold",
@@ -41235,7 +41240,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33956
+      "UsersEstimate": 33957
     },
     {
       "ID": "Lawbringer",
@@ -41251,7 +41256,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23284
+      "UsersEstimate": 23285
     },
     {
       "ID": "Long live the Empire",
@@ -41267,7 +41272,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7761
+      "UsersEstimate": 7762
     },
     {
       "ID": "Minor Clan",
@@ -41387,7 +41392,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29105
+      "UsersEstimate": 29106
     },
     {
       "ID": "Undercover",
@@ -41418,15 +41423,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 97018,
+      "Progressed": 97019,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-23T22:58:51.0667531+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:43.8538512+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:20.9605385+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:49:45.3440501+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:43.8540191+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:25:08.2081768+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:20.9606972+00:00"
 }

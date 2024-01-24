@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
@@ -491,7 +491,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229191,
+  "EOS_Progressed": 229192,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1054,
   "EOS_NewCompleters": 0,
@@ -32426,6 +32426,11 @@
       "Time": "2024-01-24T01:59:08.2849556+00:00",
       "NumProgressed": 229191,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T02:34:19.5886604+00:00",
+      "NumProgressed": 229192,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -32485,7 +32490,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 128347
+      "UsersEstimate": 128348
     },
     {
       "ID": "Checkmate",
@@ -32493,7 +32498,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68757
+      "UsersEstimate": 68758
     },
     {
       "ID": "ChessChampion",
@@ -32573,7 +32578,7 @@
       "Name": "Family Fork",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13751
+      "UsersEstimate": 13752
     },
     {
       "ID": "FoolsMate",
@@ -32629,7 +32634,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13751
+      "UsersEstimate": 13752
     },
     {
       "ID": "ProblemSolved",
@@ -32653,7 +32658,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 71049
+      "UsersEstimate": 71050
     },
     {
       "ID": "QueenSacrifice",
@@ -32685,7 +32690,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 41254
+      "UsersEstimate": 41255
     },
     {
       "ID": "StrangerDanger",
@@ -32740,7 +32745,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 229191,
+      "Progressed": 229192,
       "Completed": 2
     }
   ],
@@ -32748,8 +32753,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-10T18:58:03.4906759+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:59:08.2849551+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:34:19.58866+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:03.3233579+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:47:43.1027722+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:59:08.2851344+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:23:31.4316167+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:34:19.5888586+00:00"
 }

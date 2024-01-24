@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2438,
+  "EOS_Progressed": 2439,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5023,6 +5023,11 @@
       "Time": "2024-01-23T19:10:18.487727+00:00",
       "NumProgressed": 2438,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T02:36:16.817479+00:00",
+      "NumProgressed": 2439,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5072,9 +5077,9 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_07",
@@ -5106,7 +5111,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_11",
@@ -5138,7 +5143,7 @@
       "Name": "Airborne",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_15",
@@ -5194,7 +5199,7 @@
       "Name": "Big Bazar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_22",
@@ -5282,7 +5287,7 @@
       "Name": "Miner",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_34",
@@ -5321,7 +5326,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2438,
+      "Progressed": 2439,
       "Completed": 5
     }
   ],
@@ -5329,8 +5334,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:38.7778338+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:16.8174786+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:51:31.223871+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:38.7778715+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:26:27.7831594+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:16.8175147+00:00"
 }

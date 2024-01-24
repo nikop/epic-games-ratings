@@ -9745,9 +9745,9 @@
       "Count": 1591
     }
   ],
-  "EOS_Progressed": 1852456,
+  "EOS_Progressed": 1852469,
   "EOS_Completed": 750,
-  "EOS_NewPlayers": 6215,
+  "EOS_NewPlayers": 6216,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -36820,6 +36820,11 @@
       "Time": "2024-01-24T02:01:53.4941456+00:00",
       "NumProgressed": 1852456,
       "NumCompleted": 750
+    },
+    {
+      "Time": "2024-01-24T02:36:29.6450554+00:00",
+      "NumProgressed": 1852469,
+      "NumCompleted": 750
     }
   ],
   "TotalAchievements": 1328,
@@ -36887,7 +36892,7 @@
       "Name": "The Collector",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129672
+      "UsersEstimate": 129673
     },
     {
       "ID": "armed_and_dangerous",
@@ -36903,7 +36908,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 111147
+      "UsersEstimate": 111148
     },
     {
       "ID": "armored_1",
@@ -38031,7 +38036,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 240819
+      "UsersEstimate": 240821
     },
     {
       "ID": "brooklyn_2",
@@ -38047,7 +38052,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 74098
+      "UsersEstimate": 74099
     },
     {
       "ID": "brooklyn_4",
@@ -38255,7 +38260,7 @@
       "Name": "Virus",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129672
+      "UsersEstimate": 129673
     },
     {
       "ID": "cac_29",
@@ -41447,7 +41452,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 148196
+      "UsersEstimate": 148198
     },
     {
       "ID": "halloween_1",
@@ -41583,7 +41588,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 148196
+      "UsersEstimate": 148198
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -42543,7 +42548,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203770
+      "UsersEstimate": 203772
     },
     {
       "ID": "no_turning_back",
@@ -42551,7 +42556,7 @@
       "Name": "No Turning Back",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 185246
+      "UsersEstimate": 185247
     },
     {
       "ID": "orange_1",
@@ -46183,7 +46188,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 74098
+      "UsersEstimate": 74099
     },
     {
       "ID": "trk_js_1",
@@ -47335,7 +47340,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 111147
+      "UsersEstimate": 111148
     },
     {
       "ID": "wwh_1",
@@ -47439,7 +47444,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203770
+      "UsersEstimate": 203772
     },
     {
       "ID": "you_shall_not_pass",
@@ -47454,13 +47459,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1852456,
+      "Progressed": 1852469,
       "Completed": 750
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1852456,
+      "Progressed": 1852469,
       "Completed": 128
     }
   ],
@@ -47468,8 +47473,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2024-01-24T01:48:17.1571349+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:01:53.4941449+00:00",
+  "LastChanged_Achievements": "2024-01-24T02:36:29.6450546+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.7387498+00:00",
-  "LastUpdate_Ratings": "2024-01-24T01:48:17.1571359+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:01:53.505764+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:23:59.0195118+00:00",
+  "LastUpdate_Achievements": "2024-01-24T02:36:29.6570456+00:00"
 }

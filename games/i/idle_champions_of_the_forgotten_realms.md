@@ -42,10 +42,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~1,021 |
 | Waterdeep Detours | 0.40% | ~1,021 |
 | Underdeep Cartography | 0.40% | ~1,021 |
-| Arcane Suppression | 0.40% | ~886 |
-| Welcome to the Vrocks | 0.40% | ~886 |
-| Misaligned in Sigil | 0.40% | ~886 |
-| Chaos Theory | 0.40% | ~886 |
+| Arcane Suppression | 0.40% | ~887 |
+| Welcome to the Vrocks | 0.40% | ~887 |
+| Misaligned in Sigil | 0.40% | ~887 |
+| Chaos Theory | 0.40% | ~887 |
 | The Silken Swamp | 0.30% | ~766 |
 | Supply Run | 0.30% | ~766 |
 | Street War | 0.30% | ~766 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,351 (Ranked 71)  
-Completed: 2,635 (1.03%) (Ranked 180)  
+Progressed: 255,354 (Ranked 71)  
+Completed: 2,636 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -832,16 +832,16 @@ Completed: 2,635 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,351 | 2,635 |
+| 2024-01-24 | 255,354 | 2,636 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
-Sum: 33,618 (Ranked 41)  
+Sum: 33,620 (Ranked 41)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,813 |
 | This game has Diverse Characters | 5,746 |
-| This game has Quickly Understood Controls | 4,919 |
+| This game has Quickly Understood Controls | 4,921 |
 | This game is Relaxing | 4,797 |
 | This game has Amazing Characters | 4,346 |
 | This game is Highly Recommended | 4,344 |
@@ -1212,3 +1212,4 @@ Diff (max vs sum): 34
 | 2024-01-21 | 4.07 | - | 5,810 | 33,602 |
 | 2024-01-22 | 4.07 | - | 5,813 | 33,612 |
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
+| 2024-01-24 | 4.07 | - | 5,813 | 33,620 |

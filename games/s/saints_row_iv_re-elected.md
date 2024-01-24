@@ -5,21 +5,21 @@ Rating: 4.40 (Ranked 776)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 62.00% | ~217,212 |
-| Destroyer-In-Chief | 56.00% | ~196,192 |
-| There Is No Pancakes | 52.00% | ~182,178 |
-| First of Many | 40.00% | ~140,137 |
-| Woah. | 35.00% | ~122,620 |
-| Don't Look Down | 28.00% | ~98,096 |
-| Don't Panic | 27.00% | ~94,592 |
-| Ooo A Piece of Candy! | 22.00% | ~77,075 |
-| Ghost in the Machine | 17.00% | ~59,558 |
-| All Too Easy | 15.00% | ~52,551 |
-| Didn't Need to See Him Naked | 13.00% | ~45,544 |
-| Indomitable | 10.00% | ~35,034 |
+| Zero Saints Thirty | 62.00% | ~217,215 |
+| Destroyer-In-Chief | 56.00% | ~196,194 |
+| There Is No Pancakes | 52.00% | ~182,180 |
+| First of Many | 40.00% | ~140,139 |
+| Woah. | 35.00% | ~122,621 |
+| Don't Look Down | 28.00% | ~98,097 |
+| Don't Panic | 27.00% | ~94,594 |
+| Ooo A Piece of Candy! | 22.00% | ~77,076 |
+| Ghost in the Machine | 17.00% | ~59,559 |
+| All Too Easy | 15.00% | ~52,552 |
+| Didn't Need to See Him Naked | 13.00% | ~45,545 |
+| Indomitable | 10.00% | ~35,035 |
 | Bow to the Boss! | 9.00% | ~31,531 |
-| Blast from the Past | 8.00% | ~28,027 |
-| Friend of the Raptors | 8.00% | ~28,027 |
+| Blast from the Past | 8.00% | ~28,028 |
+| Friend of the Raptors | 8.00% | ~28,028 |
 | About Time! | 7.00% | ~24,524 |
 | Betrayed | 7.00% | ~24,524 |
 | Maximum Stopping Power | 7.00% | ~24,524 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 776)
 | Super Power Team Up! | 0.10% | ~350 |
 | Ultimate Hot Potato | 0.10% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350,342 (Ranked 59)  
+Progressed: 350,347 (Ranked 59)  
 Completed: 17 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 17 (0.00%) (Ranked 409)
 | 2024-01-21 | 349,287 | 17 |
 | 2024-01-22 | 349,797 | 17 |
 | 2024-01-23 | 350,289 | 17 |
-| 2024-01-24 | 350,342 | 17 |
+| 2024-01-24 | 350,347 | 17 |
 ## Awards
 Max (Great Boss Battles): 535  (Ranked 223)  
 Sum: 535 (Ranked 336)  

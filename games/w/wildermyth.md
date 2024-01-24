@@ -54,10 +54,10 @@ Number of Ratings: 45  (23.09.2022)
 | I'm Not Smiling | 0.40% | ~6 |
 | Drauvenslayers | 0.30% | ~5 |
 | War-Ender | 0.30% | ~5 |
+| Thwack! | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
 | Solid as the Hills | 0.20% | ~3 |
 | Symbiosis | 0.20% | ~3 |
-| Thwack! | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | We Call That Mortificient! | 0.10% | ~2 |
 | Peacemaker | 0.00% | ~0 |
