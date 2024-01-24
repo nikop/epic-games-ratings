@@ -788,6 +788,7 @@
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [The Forest Quartet](../games/a/a3100205e194489088c7625c8c5c1596.md) | 9 | 1,000 |
 | [The Galactic Junkers](../games/t/the_galactic_junkers.md) | 23 | 1,000 |
+| [The Gap](../games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 18 | 1,000 |
 | [The Gardener and the Wild Vines](../games/t/the_gardener_and_the_wild_vines.md) | 22 | 1,000 |
 | [The Great War: Western Front™](../games/t/the_great_war__western_front™.md) | 12 | 1,000 |
 | [The Hidden Room](../games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 16 | 1,000 |

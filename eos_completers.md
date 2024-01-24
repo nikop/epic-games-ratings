@@ -7,29 +7,29 @@
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.09% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.23% |
+| 8 | [Overloop](games/o/overloop.md) | 40.00% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.68% |
-| 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
-| 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
-| 13 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
-| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.76% |
-| 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.49% |
-| 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
-| 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.39% |
-| 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.74% |
-| 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
-| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
-| 23 | [Overloop](games/o/overloop.md) | 20.00% |
+| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
+| 11 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.52% |
+| 12 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
+| 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
+| 14 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
+| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.76% |
+| 16 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.49% |
+| 17 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
+| 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.39% |
+| 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.74% |
+| 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
+| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.24% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.24% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.23% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -44,7 +44,7 @@
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.78% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.28% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.27% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.82% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
@@ -98,7 +98,7 @@
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.84% |
 | 97 | [The Bunker](games/t/the_bunker.md) | 3.74% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
-| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.63% |
+| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.62% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.57% |
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
@@ -173,7 +173,7 @@
 | 171 | [Adios](games/a/adios.md) | 1.13% |
 | 171 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
 | 173 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
-| 173 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.12% |
+| 174 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.11% |
 | 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 175 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
 | 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.07% |
@@ -225,8 +225,8 @@
 | 223 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 224 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 224 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.55% |
+| 226 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.54% |
 | 226 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
-| 227 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.53% |
 | 228 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.52% |
 | 229 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
 | 230 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.50% |
