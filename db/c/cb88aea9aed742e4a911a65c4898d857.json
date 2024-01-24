@@ -479,9 +479,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 12144,
+  "EOS_Progressed": 12146,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6004,6 +6004,11 @@
       "Time": "2024-01-24T04:11:53.6614928+00:00",
       "NumProgressed": 12144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T06:11:30.6699536+00:00",
+      "NumProgressed": 12146,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6024,7 +6029,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6120,7 +6125,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "16_TheRise",
@@ -6144,7 +6149,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6152,7 +6157,7 @@
       "Name": "Void Wolf",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6272,7 +6277,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6336,7 +6341,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6368,7 +6373,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "47_AFlame",
@@ -6535,7 +6540,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12144,
+      "Progressed": 12146,
       "Completed": 1
     }
   ],
@@ -6543,8 +6548,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:30.934945+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:11:30.6699532+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:58:25.8974315+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:30.9350026+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:59:24.6661886+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:11:30.6700656+00:00"
 }

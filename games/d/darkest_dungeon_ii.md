@@ -9,12 +9,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 15.00% | ~1,269 |
 | Lost and Found | 9.00% | ~761 |
 | Autodidact | 8.00% | ~10,687 |
+| Serenity Now! | 7.00% | ~9,351 |
 | This Belongs in a Museum | 7.00% | ~9,351 |
 | Creep and Sleep | 7.00% | ~9,351 |
 | Overdue Notice | 7.00% | ~9,351 |
 | This guy... again? | 7.00% | ~592 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,016 |
-| Serenity Now! | 6.00% | ~8,016 |
 | Meat and Greet | 6.00% | ~8,016 |
 | Catch and Decease | 6.00% | ~8,016 |
 | Escape from the Black Hole | 6.00% | ~8,016 |

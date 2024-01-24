@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8311,10 +8311,10 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152643,
+  "EOS_Progressed": 152646,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 1075,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 1074,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -37946,6 +37946,11 @@
       "Time": "2024-01-24T05:09:45.1449893+00:00",
       "NumProgressed": 152643,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2024-01-24T06:10:30.7583567+00:00",
+      "NumProgressed": 152646,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 112,
@@ -38125,7 +38130,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18317
+      "UsersEstimate": 18318
     },
     {
       "ID": "chest02",
@@ -38221,7 +38226,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12211
+      "UsersEstimate": 12212
     },
     {
       "ID": "craft02",
@@ -38333,7 +38338,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12211
+      "UsersEstimate": 12212
     },
     {
       "ID": "expansion02",
@@ -38429,7 +38434,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15264
+      "UsersEstimate": 15265
     },
     {
       "ID": "gold02",
@@ -38733,7 +38738,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12211
+      "UsersEstimate": 12212
     },
     {
       "ID": "sell02",
@@ -38773,7 +38778,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18317
+      "UsersEstimate": 18318
     },
     {
       "ID": "twinenchant01",
@@ -38852,15 +38857,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152643,
+      "Progressed": 152646,
       "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-23T21:03:20.3864316+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:09:45.1449892+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:10:30.7583564+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:03:27.9249152+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:09:45.1451983+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:04:10.905863+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:10:30.7586405+00:00"
 }

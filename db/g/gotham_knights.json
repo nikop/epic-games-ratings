@@ -5453,7 +5453,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83228,
+  "EOS_Progressed": 83229,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
@@ -31333,6 +31333,11 @@
       "Time": "2024-01-24T05:04:38.5709814+00:00",
       "NumProgressed": 83228,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-24T06:05:55.9221812+00:00",
+      "NumProgressed": 83229,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31440,7 +31445,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13316
+      "UsersEstimate": 13317
     },
     {
       "ID": "CLAYFACE_1",
@@ -31584,7 +31589,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15813
+      "UsersEstimate": 15814
     },
     {
       "ID": "FREEZE_3",
@@ -31720,7 +31725,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21639
+      "UsersEstimate": 21640
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31736,7 +31741,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27465
+      "UsersEstimate": 27466
     },
     {
       "ID": "MYSTERY_02",
@@ -31831,13 +31836,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83228,
+      "Progressed": 83229,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53508,
+      "Progressed": 53509,
       "Completed": 2680
     }
   ],
@@ -31845,8 +31850,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-23T15:01:04.0104619+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:04:38.5709811+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:05:55.922181+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:59:55.0891739+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:04:38.5711076+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:01:34.1696394+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:05:55.922312+00:00"
 }

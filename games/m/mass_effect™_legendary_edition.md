@@ -42,9 +42,9 @@
 | The Krogan | 27.00% | ~1,252 |
 | Veteran | 26.00% | ~1,205 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,205 |
+| The Assassin | 25.00% | ~1,159 |
 | Driven | 25.00% | ~1,159 |
 | Ghost Ship | 24.00% | ~1,113 |
-| The Assassin | 24.00% | ~1,113 |
 | The Justicar | 24.00% | ~1,113 |
 | The Quarian | 24.00% | ~1,113 |
 | The Prodigal | 24.00% | ~1,113 |

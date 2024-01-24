@@ -8,8 +8,8 @@ Rating: 4.63 (Ranked 360)
 | Feels Familiar | 75.00% | ~1,193 |
 | I Broke It | 73.00% | ~1,161 |
 | Better On Ice | 69.00% | ~1,098 |
+| Blue Dreams | 67.00% | ~1,066 |
 | Notai Notes | 67.00% | ~1,066 |
-| Blue Dreams | 66.00% | ~1,050 |
 | He's Famous! | 66.00% | ~1,050 |
 | Cutie Poro | 66.00% | ~1,050 |
 | Krugmazing | 65.00% | ~1,034 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9225,10 +9225,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762589,
+  "EOS_Progressed": 762592,
   "EOS_Completed": 13007,
-  "EOS_NewPlayers": 1300,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 1302,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -35115,6 +35115,11 @@
       "Time": "2024-01-24T05:10:07.3015584+00:00",
       "NumProgressed": 762589,
       "NumCompleted": 13007
+    },
+    {
+      "Time": "2024-01-24T06:11:00.3158726+00:00",
+      "NumProgressed": 762592,
+      "NumCompleted": 13007
     }
   ],
   "TotalAchievements": 60,
@@ -35126,7 +35131,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45755
+      "UsersEstimate": 45756
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35134,7 +35139,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38129
+      "UsersEstimate": 38130
     },
     {
       "ID": "03_Vengeance_H2",
@@ -35302,7 +35307,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38129
+      "UsersEstimate": 38130
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -35390,7 +35395,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38129
+      "UsersEstimate": 38130
     },
     {
       "ID": "35_WideStrike",
@@ -35605,21 +35610,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71890,
+      "Progressed": 71893,
       "Completed": 10820
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762589,
+      "Progressed": 762592,
       "Completed": 13007
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-24T01:53:43.3669284+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:07.3015583+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:11:00.3158724+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:03:18.0455666+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:07.3016896+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:03:56.7475269+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:11:00.316001+00:00"
 }

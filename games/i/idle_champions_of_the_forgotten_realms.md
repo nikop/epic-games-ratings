@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.30% | ~766 |
 | Street War | 0.30% | ~766 |
 | March of the Undead | 0.30% | ~766 |
+| Wisdom Check | 0.30% | ~766 |
 | Invisible Shadows | 0.30% | ~766 |
 | The Dinner Party | 0.30% | ~766 |
 | The Botched Kidnapping | 0.30% | ~766 |
@@ -83,7 +84,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.20% | ~511 |
 | Force Grey Unleashed | 0.20% | ~511 |
 | Vajra's Guards | 0.20% | ~511 |
-| Wisdom Check | 0.20% | ~511 |
 | Sleuth It Out | 0.20% | ~511 |
 | The Newcomers of Notoriety | 0.20% | ~443 |
 | A Grand Puzzle | 0.20% | ~511 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,362 (Ranked 71)  
+Progressed: 255,363 (Ranked 71)  
 Completed: 2,636 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,7 +832,7 @@ Completed: 2,636 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,362 | 2,636 |
+| 2024-01-24 | 255,363 | 2,636 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,620 (Ranked 41)  

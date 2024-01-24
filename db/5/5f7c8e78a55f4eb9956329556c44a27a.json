@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -1455,9 +1455,9 @@
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -1518,8 +1518,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:04:44.0262861+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:06:03.6243368+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:44.5427917+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:03:02.4022939+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:04:44.0263051+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:03:32.6865869+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:06:03.6243597+00:00"
 }

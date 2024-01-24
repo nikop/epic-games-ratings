@@ -3667,11 +3667,11 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47770,
+  "EOS_Progressed": 47771,
   "EOS_Completed": 375,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.79,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.4845822+00:00",
@@ -34722,6 +34722,11 @@
       "Time": "2024-01-24T05:05:58.2075793+00:00",
       "NumProgressed": 47770,
       "NumCompleted": 375
+    },
+    {
+      "Time": "2024-01-24T06:08:18.6970476+00:00",
+      "NumProgressed": 47771,
+      "NumCompleted": 375
     }
   ],
   "TotalAchievements": 60,
@@ -34741,7 +34746,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21974
+      "UsersEstimate": 21975
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -34773,7 +34778,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10509
+      "UsersEstimate": 10510
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -34781,7 +34786,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5732
+      "UsersEstimate": 5733
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -34797,7 +34802,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11942
+      "UsersEstimate": 11943
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -34845,7 +34850,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 23407
+      "UsersEstimate": 23408
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -34885,7 +34890,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5732
+      "UsersEstimate": 5733
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -34941,7 +34946,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20541
+      "UsersEstimate": 20542
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -34957,7 +34962,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 17197
+      "UsersEstimate": 17198
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -35013,7 +35018,7 @@
       "Name": "Destroy the thing",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11942
+      "UsersEstimate": 11943
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -35109,7 +35114,7 @@
       "Name": "Damned good",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 15286
+      "UsersEstimate": 15287
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -35117,7 +35122,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21974
+      "UsersEstimate": 21975
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -35125,7 +35130,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13853
+      "UsersEstimate": 13854
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -35133,7 +35138,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 33439
+      "UsersEstimate": 33440
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -35181,7 +35186,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13853
+      "UsersEstimate": 13854
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -35212,15 +35217,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47770,
+      "Progressed": 47771,
       "Completed": 375
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-23T08:57:48.8794969+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:05:58.2075788+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:08:18.6970473+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.3456906+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:57:50.036236+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:05:58.2077691+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:58:31.2987338+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:08:18.6971924+00:00"
 }

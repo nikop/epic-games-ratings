@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9166,
+  "EOS_Progressed": 9167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10600,6 +10600,11 @@
       "Time": "2024-01-24T02:01:40.5088177+00:00",
       "NumProgressed": 9166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T06:11:30.2249022+00:00",
+      "NumProgressed": 9167,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10692,7 +10697,7 @@
       "Name": "Angling Authority",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "COLLECT_LOGS",
@@ -10756,7 +10761,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -10804,15 +10809,15 @@
       "Name": "Fanatical Farmer",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "HAVE_WEDDING",
       "SetID": "9eia0f5",
       "Name": "I Now Pronounce You...",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 55
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -10868,7 +10873,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -10955,13 +10960,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9166,
+      "Progressed": 9167,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1783,
+      "Progressed": 1784,
       "Completed": 1050
     }
   ],
@@ -10969,8 +10974,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-23T14:03:14.5919033+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:30.5061876+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:11:30.2249019+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:03:28.7551389+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:30.5062686+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:04:12.1682899+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:11:30.2249851+00:00"
 }

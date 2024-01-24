@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2730,6 +2730,11 @@
       "Time": "2024-01-22T19:09:40.9272689+00:00",
       "NumProgressed": 765,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T06:10:53.0196307+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2741,7 +2746,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2773,7 +2778,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2781,15 +2786,15 @@
       "Name": "Youth Magnet",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -2813,7 +2818,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2821,7 +2826,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -2877,7 +2882,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2891,9 +2896,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2901,7 +2906,7 @@
       "Name": "Trader",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2909,7 +2914,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2925,15 +2930,15 @@
       "Name": "Weapon Boost",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_32",
       "SetID": "7pimpda",
       "Name": "Boss challenge",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2997,7 +3002,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -3029,7 +3034,7 @@
       "Name": "Warden Slayer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -3100,7 +3105,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 3
     }
   ],
@@ -3108,8 +3113,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-23T09:01:35.3083126+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:01.9441921+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:10:53.0196304+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.101279+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:00:14.5268843+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:01.9442256+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:02:03.3174562+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:10:53.0196983+00:00"
 }

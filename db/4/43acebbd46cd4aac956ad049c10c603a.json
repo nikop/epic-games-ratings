@@ -6,7 +6,7 @@
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
@@ -367,11 +367,11 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1464,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-11-08T08:07:23.567232+00:00",
@@ -4362,6 +4362,11 @@
       "Time": "2024-01-24T04:06:31.3013782+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T06:06:21.104931+00:00",
+      "NumProgressed": 1464,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4438,7 +4443,7 @@
       "Name": "Chasing the Light",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Chicken",
@@ -4526,7 +4531,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "HighPlain",
@@ -4548,9 +4553,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 205
     },
     {
       "ID": "LordOfTheFiles",
@@ -4558,7 +4563,7 @@
       "Name": "Lord of the Files",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "LostMarshes",
@@ -4566,7 +4571,7 @@
       "Name": "Lost Marshes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MistressOfRiddles",
@@ -4574,7 +4579,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Mnemosyne",
@@ -4598,7 +4603,7 @@
       "Name": "Museum Visitor",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "NewBeginning",
@@ -4646,7 +4651,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "PuzzleFiend",
@@ -4662,7 +4667,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "RenaissanceRobot",
@@ -4718,7 +4723,7 @@
       "Name": "Team Spirit",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "TextAdventurer",
@@ -4812,17 +4817,17 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 337
     },
     {
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 220
     },
     {
       "ID": "WoodedPlateau",
@@ -4845,7 +4850,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1464,
       "Completed": 3
     }
   ],
@@ -4853,8 +4858,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-24T01:50:01.4049363+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:04:56.2432504+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:06:21.1049306+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:59:03.82784+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:04:56.2432976+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:00:18.8623593+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:06:21.1049848+00:00"
 }

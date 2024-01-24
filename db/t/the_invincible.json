@@ -4959,9 +4959,9 @@
       "ID": "AchvDamnHoles",
       "SetID": "1hj060c",
       "Name": "Ubiquitous holes",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 126
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -5144,8 +5144,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-23T17:57:43.9429739+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:09.9917403+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:11:03.8256518+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:58:00.6331972+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:09.9917791+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:58:46.3528898+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:11:03.8257313+00:00"
 }

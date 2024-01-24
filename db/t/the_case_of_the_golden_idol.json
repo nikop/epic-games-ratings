@@ -1202,9 +1202,9 @@
       "ID": "14",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 1st Case",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "15",
@@ -1241,8 +1241,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:05:56.1416473+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:08:15.7791057+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.7715628+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:58:05.8820088+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:05:56.1416595+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:58:54.5522069+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:08:15.7791223+00:00"
 }

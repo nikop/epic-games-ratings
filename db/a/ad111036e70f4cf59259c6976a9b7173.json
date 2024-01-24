@@ -4,7 +4,7 @@
   "ProductSlug": "image-747287",
   "Ranking_EOS_Progress": 780,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 544,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-20T18:00:00+00:00",
@@ -88,8 +88,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-18T17:09:04.7318232+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:05:36.8038673+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:07:18.3943914+00:00",
   "LastUpdate_AppInfo": "2024-01-18T16:57:14.7573514+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:59:41.9286476+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:05:36.8038711+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:01:16.4693728+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:07:18.3943964+00:00"
 }

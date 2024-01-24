@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22696,
+  "EOS_Progressed": 22697,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14813,6 +14813,11 @@
       "Time": "2024-01-24T05:10:15.8788308+00:00",
       "NumProgressed": 22696,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T06:11:11.4623654+00:00",
+      "NumProgressed": 22697,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14944,7 +14949,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -15032,7 +15037,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "STORY_HANGAR",
@@ -15040,7 +15045,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "STORY_MINETOWN",
@@ -15064,7 +15069,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "STORY_TOWER",
@@ -15080,7 +15085,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "DISMEMBER_100",
@@ -15199,13 +15204,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22696,
+      "Progressed": 22697,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10622,
+      "Progressed": 10623,
       "Completed": 29
     }
   ],
@@ -15213,8 +15218,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:15.8788306+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:11:11.462365+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:03:28.5089737+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:15.8789213+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:04:11.6408268+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:11:11.4625117+00:00"
 }

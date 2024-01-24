@@ -6,23 +6,23 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,911 |
-| Student | 23.00% | ~15,791 |
-| Knower | 16.00% | ~10,985 |
+| Initiation | 29.00% | ~19,912 |
+| Student | 23.00% | ~15,792 |
+| Knower | 16.00% | ~10,986 |
 | Listener | 15.00% | ~10,299 |
-| Aspen Tree | 14.00% | ~9,612 |
-| Healer | 14.00% | ~9,612 |
+| Aspen Tree | 14.00% | ~9,613 |
+| Healer | 14.00% | ~9,613 |
 | Scientist | 12.00% | ~8,239 |
 | Soldier | 12.00% | ~8,239 |
-| Cow Level | 11.00% | ~7,552 |
+| Cow Level | 11.00% | ~7,553 |
 | Old Friend | 10.00% | ~6,866 |
 | Herbalist | 10.00% | ~6,866 |
 | Water | 10.00% | ~6,866 |
-| New Spirits | 9.00% | ~6,179 |
-| Voipel | 9.00% | ~6,179 |
-| Collector | 9.00% | ~6,179 |
-| Wolf | 9.00% | ~6,179 |
-| Black Mage | 9.00% | ~6,179 |
+| New Spirits | 9.00% | ~6,180 |
+| Voipel | 9.00% | ~6,180 |
+| Collector | 9.00% | ~6,180 |
+| Wolf | 9.00% | ~6,180 |
+| Black Mage | 9.00% | ~6,180 |
 | Card Player | 8.00% | ~5,493 |
 | Dead Friend | 8.00% | ~5,493 |
 | Pine Tree | 8.00% | ~5,493 |
@@ -35,12 +35,12 @@ Number of Ratings: 96  (23.09.2022)
 | Witch | 7.00% | ~4,806 |
 | Researcher | 7.00% | ~4,806 |
 | Savvy | 7.00% | ~4,806 |
-| Encyclopedist | 6.00% | ~4,119 |
-| Vorsa | 6.00% | ~4,119 |
-| Old Spirits | 6.00% | ~4,119 |
-| Sinner | 6.00% | ~4,119 |
-| Folklorist | 6.00% | ~4,119 |
-| Keeper of Knowledge | 6.00% | ~4,119 |
+| Encyclopedist | 6.00% | ~4,120 |
+| Vorsa | 6.00% | ~4,120 |
+| Old Spirits | 6.00% | ~4,120 |
+| Sinner | 6.00% | ~4,120 |
+| Folklorist | 6.00% | ~4,120 |
+| Keeper of Knowledge | 6.00% | ~4,120 |
 | Susanin | 5.00% | ~3,433 |
 | Traveller | 5.00% | ~3,433 |
 | Righteous | 4.00% | ~2,746 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,373 |
 | Word Master | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,657 (Ranked 118)  
+Progressed: 68,662 (Ranked 118)  
 Completed: 77 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 77 (0.11%) (Ranked 315)
 | 2024-01-21 | 68,355 | 75 |
 | 2024-01-22 | 68,486 | 77 |
 | 2024-01-23 | 68,629 | 77 |
-| 2024-01-24 | 68,657 | 77 |
+| 2024-01-24 | 68,662 | 77 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

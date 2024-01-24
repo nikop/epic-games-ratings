@@ -353,9 +353,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 344068,
+  "EOS_Progressed": 344069,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1743,
+  "EOS_NewPlayers": 1739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18598,6 +18598,11 @@
       "Time": "2024-01-24T05:04:09.2789587+00:00",
       "NumProgressed": 344068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T06:05:14.2325605+00:00",
+      "NumProgressed": 344069,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -18674,7 +18679,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37847
+      "UsersEstimate": 37848
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -18698,7 +18703,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27525
+      "UsersEstimate": 27526
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -18706,7 +18711,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27525
+      "UsersEstimate": 27526
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -18993,13 +18998,13 @@
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 344068,
+      "Progressed": 344069,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 344057,
+      "Progressed": 344058,
       "Completed": 1
     }
   ],
@@ -19007,8 +19012,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-21T08:03:14.5032449+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:04:09.2789586+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:05:14.2325601+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:14.2029782+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:03:13.0529456+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:04:09.2790455+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:03:49.181671+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:05:14.2326803+00:00"
 }

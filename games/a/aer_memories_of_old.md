@@ -10,8 +10,8 @@ Number of Ratings: 170  (23.09.2022)
 | Mama? | 27.00% | ~7,935 |
 | People's Haven | 18.00% | ~5,290 |
 | Cartographer | 16.00% | ~4,702 |
-| Knowledge for Power | 14.00% | ~4,114 |
-| Antlers of Stone | 14.00% | ~4,114 |
+| Knowledge for Power | 14.00% | ~4,115 |
+| Antlers of Stone | 14.00% | ~4,115 |
 | Gaze into the abyss | 13.00% | ~3,821 |
 | Mausoleum of Ice | 13.00% | ~3,821 |
 | Wings of Stone | 12.00% | ~3,527 |
@@ -24,10 +24,10 @@ Number of Ratings: 170  (23.09.2022)
 | Baa from the past | 6.00% | ~1,763 |
 | Written in stone | 6.00% | ~1,763 |
 | Talk to all the spirit animals | 6.00% | ~1,763 |
-| Ripples on the surface | 5.00% | ~1,469 |
+| Ripples on the surface | 5.00% | ~1,470 |
 | Hide and Seek | 4.00% | ~1,176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,389 (Ranked 145)  
+Progressed: 29,390 (Ranked 145)  
 Completed: 542 (1.84%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 542 (1.84%) (Ranked 145)
 | 2024-01-21 | 29,256 | 539 |
 | 2024-01-22 | 29,323 | 539 |
 | 2024-01-23 | 29,381 | 541 |
-| 2024-01-24 | 29,389 | 542 |
+| 2024-01-24 | 29,390 | 542 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

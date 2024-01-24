@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94136,
+  "EOS_Progressed": 94137,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18999,6 +18999,11 @@
       "Time": "2024-01-24T05:05:44.4963231+00:00",
       "NumProgressed": 94136,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2024-01-24T06:07:29.362969+00:00",
+      "NumProgressed": 94137,
+      "NumCompleted": 351
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -19011,7 +19016,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 75309
+      "UsersEstimate": 75310
     },
     {
       "ID": "grp_beet",
@@ -19099,7 +19104,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 50833
+      "UsersEstimate": 50834
     },
     {
       "ID": "grp_money_tree",
@@ -19115,7 +19120,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 45185
+      "UsersEstimate": 45186
     },
     {
       "ID": "grp_stone",
@@ -19131,7 +19136,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 40478
+      "UsersEstimate": 40479
     },
     {
       "ID": "grp_weekly_beaten",
@@ -19146,7 +19151,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 94136,
+      "Progressed": 94137,
       "Completed": 351
     }
   ],
@@ -19154,8 +19159,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-21T08:00:17.9135113+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:05:44.4963229+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:07:29.3629687+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:11.6108268+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:02:54.8096087+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:05:44.4964185+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:03:20.3437663+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:07:29.3630415+00:00"
 }

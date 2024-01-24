@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4482,6 +4482,11 @@
       "Time": "2024-01-24T02:35:46.5737336+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T06:10:52.8175576+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4878,7 +4883,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4925,15 +4930,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:01.7394848+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:10:52.8175573+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:59:08.1246935+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:01.7395414+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:00:24.9268404+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:10:52.8176456+00:00"
 }

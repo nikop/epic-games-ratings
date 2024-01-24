@@ -12,17 +12,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.70% | ~7,405 |
 | The Wheel of Fortune | 0.70% | ~7,405 |
 | True Soldier | 0.70% | ~7,405 |
-| Christmas Tree Attack | 0.60% | ~6,347 |
-| Life of the Road | 0.60% | ~6,347 |
-| Stanislavski's Method | 0.60% | ~6,347 |
-| The Lovers | 0.60% | ~6,347 |
-| Legend of The Afterlife | 0.60% | ~6,347 |
+| Christmas Tree Attack | 0.60% | ~6,348 |
+| Life of the Road | 0.60% | ~6,348 |
+| Stanislavski's Method | 0.60% | ~6,348 |
+| The Fool | 0.60% | ~6,348 |
+| The Lovers | 0.60% | ~6,348 |
+| Legend of The Afterlife | 0.60% | ~6,348 |
 | All the President's Men | 0.60% | ~1,119 |
 | Arachnophobia | 0.60% | ~1,119 |
 | Bushido and Chill | 0.50% | ~5,290 |
 | Gun Fu | 0.50% | ~5,290 |
 | Master Crafter | 0.50% | ~5,290 |
-| The Fool | 0.50% | ~5,290 |
 | The World | 0.50% | ~5,290 |
 | Judy vs Night City | 0.50% | ~5,290 |
 | To Protect and Serve | 0.40% | ~4,232 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,910 (Ranked 17)  
+Progressed: 1,057,917 (Ranked 17)  
 Completed: 3,154 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,17 +353,17 @@ Completed: 3,154 (0.30%) (Ranked 265)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,057,910 | 3,154 |
+| 2024-01-24 | 1,057,917 | 3,154 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 516,790 (Ranked 8)  
+Sum: 516,946 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 144,402 |
 | This game has Great Boss Battles | 107,875 |
 | This game is Great for Beginners | 33,233 |
-| This game has Diverse Characters | 32,307 |
+| This game has Diverse Characters | 32,463 |
 | This game is Highly Recommended | 30,908 |
 | This game has Amazing Storytelling | 30,300 |
 | This game is Extremely Fun | 30,196 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,402 | 516,790 |
+| 2024-01-24 | 4.68 | - | 144,402 | 516,946 |

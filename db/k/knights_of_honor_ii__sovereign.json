@@ -5,7 +5,7 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 145,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -342,6 +342,11 @@
     {
       "Time": "2024-01-24T05:04:01.6344981+00:00",
       "NumProgressed": 103,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T06:05:03.5453546+00:00",
+      "NumProgressed": 105,
       "NumCompleted": 0
     }
   ],
@@ -433,9 +438,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "brutus",
@@ -465,9 +470,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "columbus",
@@ -593,9 +598,9 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "game_of_thorns",
@@ -633,7 +638,7 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -651,7 +656,7 @@
       "Name": "Help! Help! I\u2019m being repressed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "his_all_holiness",
@@ -865,9 +870,9 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1017,9 +1022,9 @@
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "time_to_find_india",
@@ -1154,7 +1159,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
@@ -1162,8 +1167,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:04:01.6344979+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:05:03.5453543+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:59:27.7516956+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:04:01.6345789+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:00:53.9740323+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:05:03.5454446+00:00"
 }

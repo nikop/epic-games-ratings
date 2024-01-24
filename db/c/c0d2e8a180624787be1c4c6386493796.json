@@ -1671,9 +1671,9 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
@@ -1703,9 +1703,9 @@
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
       "SetID": "caeik3h",
       "Name": "Feels Good To Be Back",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 328
     },
     {
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
@@ -1943,9 +1943,9 @@
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
       "SetID": "caeik3h",
       "Name": "Mine Cart Carnage",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOLE",
@@ -2182,8 +2182,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:03:46.2067843+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:04:41.968214+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:59:44.3434375+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:03:46.2068636+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:01:20.8661601+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:04:41.9682725+00:00"
 }

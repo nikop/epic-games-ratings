@@ -29,16 +29,16 @@ Rating: 4.66 (Ranked 310)
 | Rumble in the Jumble | 1.00% | ~92 |
 | Azorian Anniversary | 1.00% | ~92 |
 | Skilled | 1.00% | ~92 |
-| Scattered Scroll Scrounger | 0.90% | ~82 |
-| Fanatical Farmer | 0.90% | ~82 |
+| Scattered Scroll Scrounger | 0.90% | ~83 |
+| Fanatical Farmer | 0.90% | ~83 |
 | Azorian Hat Dance | 0.70% | ~12 |
+| I Now Pronounce You... | 0.60% | ~55 |
 | Chatty Neighbor | 0.60% | ~55 |
-| I Now Pronounce You... | 0.50% | ~46 |
 | Right Tool For the Job | 0.50% | ~46 |
 | House Proud | 0.50% | ~46 |
 | Going Down | 0.50% | ~9 |
-| Angling Authority | 0.30% | ~27 |
-| Captain of Cozy | 0.30% | ~27 |
+| Angling Authority | 0.30% | ~28 |
+| Captain of Cozy | 0.30% | ~28 |
 | Polyglot | 0.30% | ~5 |
 | Cloverfield Island | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |
@@ -49,7 +49,7 @@ Rating: 4.66 (Ranked 310)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,166 (Ranked 190)  
+Progressed: 9,167 (Ranked 190)  
 Completed: 1 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.01%) (Ranked 383)
 | 2024-01-21 | 9,157 | 1 |
 | 2024-01-22 | 9,163 | 1 |
 | 2024-01-23 | 9,164 | 1 |
-| 2024-01-24 | 9,166 | 1 |
+| 2024-01-24 | 9,167 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

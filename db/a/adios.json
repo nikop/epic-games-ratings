@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84306,
+  "EOS_Progressed": 84307,
   "EOS_Completed": 950,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31282,6 +31282,11 @@
       "Time": "2024-01-24T05:08:27.6006899+00:00",
       "NumProgressed": 84306,
       "NumCompleted": 950
+    },
+    {
+      "Time": "2024-01-24T06:08:44.2216687+00:00",
+      "NumProgressed": 84307,
+      "NumCompleted": 950
     }
   ],
   "TotalAchievements": 25,
@@ -31325,7 +31330,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18547
+      "UsersEstimate": 18548
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -31485,14 +31490,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6744
+      "UsersEstimate": 6745
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84306,
+      "Progressed": 84307,
       "Completed": 950
     }
   ],
@@ -31500,8 +31505,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:08:27.6006897+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:08:44.2216684+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:58:39.1311368+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:08:27.6008459+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:59:44.9205663+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:08:44.2218173+00:00"
 }

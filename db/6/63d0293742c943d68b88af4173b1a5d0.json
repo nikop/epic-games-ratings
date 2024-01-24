@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3024,6 +3024,11 @@
       "Time": "2024-01-24T03:04:28.2467016+00:00",
       "NumProgressed": 953,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T06:05:35.8018454+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3092,7 +3097,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "REMAKE_002",
@@ -3108,7 +3113,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Remake_005",
@@ -3259,14 +3264,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:04:24.7218907+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:05:35.8018452+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:58:41.0717975+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:04:24.7219136+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:59:47.1166511+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:05:35.8018675+00:00"
 }

@@ -26,9 +26,10 @@
 | Ancient Nemesis | 6.00% | ~9 |
 | Raider Mastery | 5.00% | ~8 |
 | Traveler Mastery | 5.00% | ~8 |
+| Warden Mastery | 5.00% | ~8 |
 | The Plot Thickens | 5.00% | ~8 |
-| Warden Mastery | 4.00% | ~6 |
 | First time? | 3.00% | ~5 |
+| ACHOO! | 3.00% | ~5 |
 | Best Pupil | 2.00% | ~3 |
 | FOR JUSTICE! | 2.00% | ~3 |
 | Journey’s End | 2.00% | ~3 |
@@ -36,7 +37,6 @@
 | Trinket Enthusiast | 2.00% | ~3 |
 | The False Prophet | 2.00% | ~3 |
 | Sealed Once Again | 2.00% | ~3 |
-| ACHOO! | 2.00% | ~3 |
 | Towards the Future | 1.00% | ~2 |
 | The Usurper | 1.00% | ~2 |
 | Harmony | 1.00% | ~2 |

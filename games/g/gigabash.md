@@ -5,25 +5,25 @@ Rating: 4.51 (Ranked 600)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,290 |
-| I've Had Enough! | 15.00% | ~18,967 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,909 |
-| Seasoned Fighter | 9.00% | ~11,380 |
-| All For One and One For All | 8.00% | ~10,116 |
+| All Grown Up! | 20.00% | ~25,291 |
+| I've Had Enough! | 15.00% | ~18,969 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,910 |
+| Seasoned Fighter | 9.00% | ~11,381 |
+| All For One and One For All | 8.00% | ~10,117 |
 | Home Sweet Home? | 6.00% | ~7,587 |
-| A New Age | 5.00% | ~6,322 |
-| Oh Baby, A Triple | 3.00% | ~3,793 |
-| Master of Disguise | 3.00% | ~3,793 |
-| Symbiotic | 3.00% | ~3,793 |
+| A New Age | 5.00% | ~6,323 |
+| Oh Baby, A Triple | 3.00% | ~3,794 |
+| Master of Disguise | 3.00% | ~3,794 |
+| Symbiotic | 3.00% | ~3,794 |
 | Battle Hardened | 2.00% | ~2,529 |
 | Double Punch! | 2.00% | ~2,529 |
 | It's Mayhem! | 2.00% | ~2,529 |
 | Right back at'cha | 2.00% | ~2,529 |
 | Spectacular Finisher | 2.00% | ~2,529 |
-| Cautious Veteran | 1.00% | ~1,264 |
-| Katamari | 1.00% | ~1,264 |
-| Martyrdom | 1.00% | ~1,264 |
-| Zero-sum Game | 1.00% | ~1,264 |
+| Cautious Veteran | 1.00% | ~1,265 |
+| Katamari | 1.00% | ~1,265 |
+| Martyrdom | 1.00% | ~1,265 |
+| Zero-sum Game | 1.00% | ~1,265 |
 | Ninja Reflex | 0.90% | ~1,138 |
 | Taste Your Own Medicine | 0.80% | ~1,012 |
 | This is GigaBash! | 0.50% | ~632 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 600)
 | What's Mine is Yours | 0.10% | ~126 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,449 (Ranked 94)  
+Progressed: 126,457 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 125,815 | 0 |
 | 2024-01-22 | 126,105 | 0 |
 | 2024-01-23 | 126,388 | 0 |
-| 2024-01-24 | 126,449 | 0 |
+| 2024-01-24 | 126,457 | 0 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 439)  
 Sum: 59 (Ranked 507)  

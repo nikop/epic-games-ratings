@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4636,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -9579,9 +9579,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1159
     },
     {
       "ID": "achievement_46",
@@ -10071,8 +10071,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:10:36.9599062+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:11:38.1549204+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-24T05:03:29.7006687+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:10:36.9600839+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:04:13.6222323+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:11:38.1551214+00:00"
 }

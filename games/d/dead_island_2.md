@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,967 |
-| Hotel California | 10.00% | ~80,879 |
-| Break A Leg | 9.00% | ~72,791 |
-| Coup de Grâce | 8.00% | ~64,703 |
-| Hazardous Materials | 8.00% | ~64,703 |
-| Git Gutte! | 7.00% | ~56,615 |
-| Apex Predator | 7.00% | ~56,615 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,615 |
+| Welcome To Hell-A | 11.00% | ~88,968 |
+| Hotel California | 10.00% | ~80,880 |
+| Break A Leg | 9.00% | ~72,792 |
+| Coup de Grâce | 8.00% | ~64,704 |
+| Hazardous Materials | 8.00% | ~64,704 |
+| Git Gutte! | 7.00% | ~56,616 |
+| Apex Predator | 7.00% | ~56,616 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,616 |
 | Dr. Reed, I Presume? | 6.00% | ~48,528 |
 | Bookworm | 6.00% | ~48,528 |
 | Friends Like These | 6.00% | ~48,528 |
@@ -31,8 +31,8 @@ Rating: 4.54 (Ranked 551)
 | A Patton Emerges | 4.00% | ~32,352 |
 | I Am the Resurrection | 4.00% | ~32,352 |
 | Our True Nature | 4.00% | ~32,352 |
-| Whatever It Takes | 4.00% | ~5,373 |
-| Pork Chopped | 4.00% | ~5,373 |
+| Whatever It Takes | 4.00% | ~5,374 |
+| Pork Chopped | 4.00% | ~5,374 |
 | Jumbo Keyring | 3.00% | ~24,264 |
 | Humanity Distilled | 3.00% | ~24,264 |
 | Down with the Sickness | 3.00% | ~24,264 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,792 (Ranked 23)  
+Progressed: 808,800 (Ranked 23)  
 Completed: 2,629 (0.33%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 2,629 (0.33%) (Ranked 260)
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
-| 2024-01-24 | 808,792 | 2,629 |
+| 2024-01-24 | 808,800 | 2,629 |
 ## Awards
 Max (Great Boss Battles): 10,850  (Ranked 40)  
 Sum: 16,707 (Ranked 68)  

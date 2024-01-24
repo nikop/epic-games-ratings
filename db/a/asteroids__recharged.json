@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8340,
+  "EOS_Progressed": 8345,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1075,
   "EOS_NewCompleters": 1,
@@ -3489,6 +3489,11 @@
       "Time": "2024-01-24T05:09:10.2887404+00:00",
       "NumProgressed": 8340,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T06:09:42.6278306+00:00",
+      "NumProgressed": 8345,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -3500,7 +3505,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -3532,7 +3537,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3556,7 +3561,7 @@
       "Name": "Misfire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -3564,7 +3569,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3755
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3588,15 +3593,15 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4253
+      "UsersEstimate": 4256
     },
     {
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2337
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3604,7 +3609,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -3627,7 +3632,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8340,
+      "Progressed": 8345,
       "Completed": 8
     }
   ],
@@ -3635,8 +3640,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:09:10.2887403+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:09:42.6278304+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:57:48.3937764+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:09:10.2887638+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:58:28.1800305+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:09:42.6278701+00:00"
 }

@@ -4073,9 +4073,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 20989,
+  "EOS_Progressed": 20990,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20418,6 +20418,11 @@
       "Time": "2024-01-24T04:09:53.2851048+00:00",
       "NumProgressed": 20989,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-24T06:09:35.8880724+00:00",
+      "NumProgressed": 20990,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20510,7 +20515,7 @@
       "Name": "Homesick",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "WinFirstGame",
@@ -20590,7 +20595,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "WinNearFishmen",
@@ -20646,7 +20651,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "WinNearRuins",
@@ -20686,7 +20691,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "WinOnCoral",
@@ -20742,7 +20747,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "WinWIthCaches",
@@ -20901,15 +20906,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20989,
+      "Progressed": 20990,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-23T20:58:10.3034114+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:09:05.3087679+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:09:35.8880721+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:58:21.0545609+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:09:05.3088632+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:59:17.906665+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:09:35.8881992+00:00"
 }

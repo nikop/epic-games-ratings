@@ -1090,9 +1090,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363435,
+  "EOS_Progressed": 363437,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 961,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32965,6 +32965,11 @@
       "Time": "2024-01-24T05:05:12.4268193+00:00",
       "NumProgressed": 363435,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T06:06:43.9781849+00:00",
+      "NumProgressed": 363437,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33080,7 +33085,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54515
+      "UsersEstimate": 54516
     },
     {
       "ID": "ach015",
@@ -33184,7 +33189,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167180
+      "UsersEstimate": 167181
     },
     {
       "ID": "ach028",
@@ -33312,7 +33317,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25440
+      "UsersEstimate": 25441
     },
     {
       "ID": "ach044",
@@ -33336,7 +33341,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25440
+      "UsersEstimate": 25441
     },
     {
       "ID": "ach047",
@@ -33584,7 +33589,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25440
+      "UsersEstimate": 25441
     },
     {
       "ID": "ach079",
@@ -33615,7 +33620,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363435,
+      "Progressed": 363437,
       "Completed": 7
     }
   ],
@@ -33623,8 +33628,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-22T15:59:56.654219+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:05:12.426819+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:06:43.9781846+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:59:56.9503219+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:05:12.4269888+00:00"
+  "LastUpdate_Ratings": "2024-01-24T06:01:37.0905201+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:06:43.978401+00:00"
 }

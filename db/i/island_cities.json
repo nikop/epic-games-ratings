@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -4011,9 +4011,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 290
+      "UsersEstimate": 299
     },
     {
       "ID": "LEVEL_009",
@@ -4140,8 +4140,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-24T05:05:16.6131522+00:00",
+  "LastChanged_Achievements": "2024-01-24T06:06:49.8765124+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:26.5155519+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:58:33.4087613+00:00",
-  "LastUpdate_Achievements": "2024-01-24T05:05:16.6131804+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:59:35.7442981+00:00",
+  "LastUpdate_Achievements": "2024-01-24T06:06:49.8765451+00:00"
 }
