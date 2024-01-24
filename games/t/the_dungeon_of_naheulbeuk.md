@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,273 |
+| Sowwy! | 37.00% | ~92,275 |
 | Alt+F4 | 11.00% | ~27,433 |
 | Where's that freaking Dwarf? | 10.00% | ~24,939 |
 | Déjà vu | 8.00% | ~19,951 |
-| Sock! SOCK! | 6.00% | ~14,963 |
-| Speedrun | 6.00% | ~14,963 |
-| A beer, two curses, three companions | 5.00% | ~12,469 |
-| GG EZ | 5.00% | ~12,469 |
-| DM intervention | 5.00% | ~12,469 |
-| Fireproof Wizardess | 5.00% | ~12,469 |
-| Way of the Wimp | 4.00% | ~9,975 |
-| The plot thickens... At the tavern | 4.00% | ~9,975 |
+| Sock! SOCK! | 6.00% | ~14,964 |
+| Speedrun | 6.00% | ~14,964 |
+| A beer, two curses, three companions | 5.00% | ~12,470 |
+| GG EZ | 5.00% | ~12,470 |
+| DM intervention | 5.00% | ~12,470 |
+| Fireproof Wizardess | 5.00% | ~12,470 |
+| Way of the Wimp | 4.00% | ~9,976 |
+| The plot thickens... At the tavern | 4.00% | ~9,976 |
 | Livin' in a dwarven paradise | 3.00% | ~7,482 |
 | The demons' feast | 3.00% | ~7,482 |
 | The Great Library | 3.00% | ~7,482 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~2,494 |
 | Lëgal Legend | 1.00% | ~2,494 |
 | Material Girl | 1.00% | ~2,494 |
-| We come in peace | 0.90% | ~2,244 |
+| We come in peace | 0.90% | ~2,245 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,995 |
 | Holistic Adventuring Party | 0.70% | ~1,746 |
 | Law and Order | 0.70% | ~1,746 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,387 (Ranked 73)  
+Progressed: 249,393 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 9 (0.00%) (Ranked 410)
 | 2024-01-21 | 249,117 | 9 |
 | 2024-01-22 | 249,232 | 9 |
 | 2024-01-23 | 249,318 | 9 |
-| 2024-01-24 | 249,387 | 9 |
+| 2024-01-24 | 249,393 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 580 (Ranked 330)  

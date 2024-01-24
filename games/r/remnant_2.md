@@ -1,22 +1,22 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.71 (Ranked 206)  
+Rating: 4.72 (Ranked 199)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,839 |
-| First of Many | 12.00% | ~35,851 |
-| Not Your Average Trait | 10.00% | ~29,876 |
-| Expanding Horizons | 9.00% | ~26,888 |
-| Gleaming the Cube | 8.00% | ~23,901 |
-| Quest for Survival | 8.00% | ~23,901 |
-| Familiar Face | 8.00% | ~23,901 |
-| Boss'n Up | 8.00% | ~23,901 |
-| Trait Chaser | 8.00% | ~23,901 |
-| Not So Special Now | 7.00% | ~20,913 |
-| Not a Janitor | 7.00% | ~20,913 |
-| Duality | 7.00% | ~20,913 |
+| The Killing Jar | 13.00% | ~38,840 |
+| First of Many | 12.00% | ~35,852 |
+| Not Your Average Trait | 10.00% | ~29,877 |
+| Expanding Horizons | 9.00% | ~26,889 |
+| Gleaming the Cube | 8.00% | ~23,902 |
+| Quest for Survival | 8.00% | ~23,902 |
+| Familiar Face | 8.00% | ~23,902 |
+| Boss'n Up | 8.00% | ~23,902 |
+| Trait Chaser | 8.00% | ~23,902 |
+| Not So Special Now | 7.00% | ~20,914 |
+| Not a Janitor | 7.00% | ~20,914 |
+| Duality | 7.00% | ~20,914 |
 | Equal Measures | 6.00% | ~17,926 |
 | Blue Goddess | 6.00% | ~17,926 |
 | Top Performer | 6.00% | ~17,926 |
@@ -33,12 +33,12 @@ Rating: 4.71 (Ranked 206)
 | Was This Supposed To Happen? | 5.00% | ~14,938 |
 | The Web | 5.00% | ~14,938 |
 | Scrap Collector | 5.00% | ~14,938 |
-| Forever is a Long Time Coming | 4.00% | ~11,950 |
-| Madman's Paradise | 4.00% | ~11,950 |
-| The Agenda | 4.00% | ~11,950 |
-| Bad Moon Rising | 4.00% | ~11,950 |
-| Strapped | 4.00% | ~11,950 |
-| All These Traits� | 4.00% | ~11,950 |
+| Forever is a Long Time Coming | 4.00% | ~11,951 |
+| Madman's Paradise | 4.00% | ~11,951 |
+| The Agenda | 4.00% | ~11,951 |
+| Bad Moon Rising | 4.00% | ~11,951 |
+| Strapped | 4.00% | ~11,951 |
+| All These Traits� | 4.00% | ~11,951 |
 | Tall Tales | 3.00% | ~8,963 |
 | Edgelord | 3.00% | ~8,963 |
 | Scrap Hoarder | 3.00% | ~8,963 |
@@ -61,7 +61,7 @@ Rating: 4.71 (Ranked 206)
 | You Shall Pass | 0.80% | ~623 |
 | A Foul Feast | 0.50% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,760 (Ranked 65)  
+Progressed: 298,769 (Ranked 65)  
 Completed: 1,241 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 1,241 (0.42%) (Ranked 247)
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
-| 2024-01-24 | 298,760 | 1,241 |
+| 2024-01-24 | 298,769 | 1,241 |
 ## Awards
 Max (Great Boss Battles): 7,540  (Ranked 56)  
 Sum: 17,360 (Ranked 65)  

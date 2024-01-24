@@ -3060,7 +3060,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 545231,
+  "EOS_Progressed": 545232,
   "EOS_Completed": 1696,
   "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 9,
@@ -34095,6 +34095,11 @@
       "Time": "2024-01-24T19:04:49.5357557+00:00",
       "NumProgressed": 545231,
       "NumCompleted": 1696
+    },
+    {
+      "Time": "2024-01-24T20:06:18.5529693+00:00",
+      "NumProgressed": 545232,
+      "NumCompleted": 1696
     }
   ],
   "TotalAchievements": 37,
@@ -34162,7 +34167,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 452542
+      "UsersEstimate": 452543
     },
     {
       "ID": "HONED",
@@ -34218,7 +34223,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 218092
+      "UsersEstimate": 218093
     },
     {
       "ID": "THE_CASTLE",
@@ -34226,7 +34231,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59975
+      "UsersEstimate": 59976
     },
     {
       "ID": "THE_CAVE",
@@ -34234,7 +34239,7 @@
       "Name": "The Cave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43618
+      "UsersEstimate": 43619
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -34386,7 +34391,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43618
+      "UsersEstimate": 43619
     },
     {
       "ID": "WISE_WORDS",
@@ -34401,15 +34406,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 545231,
+      "Progressed": 545232,
       "Completed": 1696
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-23T22:59:12.7218992+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:04:49.5357553+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:06:18.5529689+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:28.055367+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:59:39.3605991+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:04:49.5359392+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:01:04.8362882+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:06:18.553136+00:00"
 }

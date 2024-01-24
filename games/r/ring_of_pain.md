@@ -37,12 +37,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | I Am Overburdened | 0.90% | ~2,191 |
 | Shootout | 0.90% | ~2,191 |
 | Toxic | 0.90% | ~2,191 |
+| Shadow Walker | 0.90% | ~2,191 |
 | Flesh Wound | 0.90% | ~2,191 |
 | Consecutive Curses | 0.80% | ~1,948 |
 | Who To Trust? | 0.80% | ~1,948 |
 | Destroy Your Fears | 0.80% | ~1,948 |
 | Stone Touch | 0.80% | ~1,948 |
-| Shadow Walker | 0.80% | ~1,948 |
 | Shapeshifting | 0.80% | ~1,948 |
 | Just Chilling | 0.70% | ~1,704 |
 | Save Our Souls | 0.70% | ~1,704 |
@@ -83,6 +83,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Stash | 0.30% | ~730 |
 | Gigantic | 0.30% | ~730 |
 | Become The Nightmare | 0.30% | ~730 |
+| Trail Of Death | 0.30% | ~730 |
 | Path To Enlightenment | 0.30% | ~730 |
 | Just Looking Around | 0.30% | ~730 |
 | Fire Away! | 0.30% | ~730 |
@@ -101,7 +102,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Predator | 0.20% | ~487 |
 | Here Comes The Airplane | 0.20% | ~487 |
 | Resourceful | 0.20% | ~487 |
-| Trail Of Death | 0.20% | ~487 |
 | The Boulder | 0.20% | ~487 |
 | Overthrown | 0.20% | ~487 |
 | Illuminate, Annihilate | 0.20% | ~487 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,462 (Ranked 75)  
+Progressed: 243,464 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 309 (0.13%) (Ranked 309)
 | 2024-01-21 | 243,345 | 309 |
 | 2024-01-22 | 243,388 | 309 |
 | 2024-01-23 | 243,428 | 309 |
-| 2024-01-24 | 243,462 | 309 |
+| 2024-01-24 | 243,464 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,803 (Ranked 92)  

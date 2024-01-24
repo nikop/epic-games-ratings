@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 719,
+  "EOS_Progressed": 720,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -2729,6 +2729,11 @@
       "Time": "2024-01-24T00:06:47.5875472+00:00",
       "NumProgressed": 719,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-24T20:04:51.8014728+00:00",
+      "NumProgressed": 720,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2749,7 +2754,7 @@
       "Name": "Blue Skeleton",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "GreenSkeleton",
@@ -2765,7 +2770,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "RedSkeleton",
@@ -2788,14 +2793,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 719,
+      "Progressed": 720,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:03:47.8052861+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:04:51.8014724+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.8355081+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:58:28.5732269+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:03:47.805309+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:59:19.1969467+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:04:51.8014936+00:00"
 }

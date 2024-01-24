@@ -13,7 +13,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Renovator | 50.00% | ~7,158 |
 | Bestest Friend | 44.00% | ~6,299 |
 | Banker | 38.00% | ~5,440 |
-| Gardener | 30.00% | ~4,295 |
+| Gardener | 31.00% | ~4,438 |
 | Generous | 25.00% | ~3,579 |
 | Chef Cook | 19.00% | ~2,720 |
 | Miner | 11.00% | ~1,575 |
@@ -255,7 +255,7 @@ Completed: 356 (2.49%) (Ranked 129)
 | 2024-01-24 | 14,316 | 356 |
 ## Awards
 Max (Great for Beginners): 1,202  (Ranked 151)  
-Sum: 8,474 (Ranked 113)  
+Sum: 8,476 (Ranked 113)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -263,7 +263,7 @@ Diff (max vs sum): 38
 | This game has Diverse Characters | 1,013 |
 | This game is Highly Recommended | 877 |
 | This game has Amazing Characters | 853 |
-| This game is Relaxing | 833 |
+| This game is Relaxing | 835 |
 | This game has Amazing Storytelling | 809 |
 | This game is Extremely Fun | 796 |
 | This game has Quickly Understood Controls | 785 |
@@ -588,4 +588,4 @@ Diff (max vs sum): 38
 | 2024-01-21 | 4.76 | - | 1,199 | 8,454 |
 | 2024-01-22 | 4.76 | - | 1,199 | 8,457 |
 | 2024-01-23 | 4.76 | - | 1,200 | 8,469 |
-| 2024-01-24 | 4.76 | - | 1,202 | 8,474 |
+| 2024-01-24 | 4.76 | - | 1,202 | 8,476 |

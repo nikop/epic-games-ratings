@@ -19040,9 +19040,9 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1058178,
+  "EOS_Progressed": 1058198,
   "EOS_Completed": 3158,
-  "EOS_NewPlayers": 4463,
+  "EOS_NewPlayers": 4452,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51060,6 +51060,11 @@
       "Time": "2024-01-24T19:09:20.9513272+00:00",
       "NumProgressed": 1058178,
       "NumCompleted": 3158
+    },
+    {
+      "Time": "2024-01-24T20:10:06.5154333+00:00",
+      "NumProgressed": 1058198,
+      "NumCompleted": 3158
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51096,7 +51101,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8465
+      "UsersEstimate": 8466
     },
     {
       "ID": "Denied",
@@ -51104,7 +51109,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8465
+      "UsersEstimate": 8466
     },
     {
       "ID": "FollowingTheRiver",
@@ -51142,9 +51147,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5291
+      "UsersEstimate": 6349
     },
     {
       "ID": "Gunslinger",
@@ -51296,7 +51301,7 @@
       "Name": "The Hermit",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8465
+      "UsersEstimate": 8466
     },
     {
       "ID": "TheHightPriestess",
@@ -51368,15 +51373,15 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8465
+      "UsersEstimate": 8466
     },
     {
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4233
+      "UsersEstimate": 5291
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -51607,21 +51612,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058178,
+      "Progressed": 1058198,
       "Completed": 3158
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186801,
+      "Progressed": 186821,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-24T18:03:58.0063354+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:09:20.951327+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:10:06.5154329+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:03:19.4075589+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:09:20.9515009+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:04:06.7245385+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:10:06.5156846+00:00"
 }

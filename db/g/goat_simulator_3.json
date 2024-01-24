@@ -6779,10 +6779,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4460,
       "NumberOfAwardsMax": 556
+    },
+    {
+      "Time": "2024-01-24T19:58:58.8267122+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4462,
+      "NumberOfAwardsMax": 556
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4460,
+  "NumberOfAwards": 4462,
   "NumberOfAwardsMax": 556,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6802,7 +6808,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 431
+      "Count": 432
     },
     {
       "Text": "This game has a Silly Community",
@@ -6820,7 +6826,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 473
+      "Count": 474
     },
     {
       "Text": "This game is Educational",
@@ -6853,9 +6859,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 268665,
+  "EOS_Progressed": 268667,
   "EOS_Completed": 962,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -37633,6 +37639,11 @@
       "Time": "2024-01-24T19:10:21.5575308+00:00",
       "NumProgressed": 268665,
       "NumCompleted": 962
+    },
+    {
+      "Time": "2024-01-24T20:11:32.4936782+00:00",
+      "NumProgressed": 268667,
+      "NumCompleted": 962
     }
   ],
   "TotalAchievements": 39,
@@ -37644,7 +37655,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 67166
+      "UsersEstimate": 67167
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -37708,7 +37719,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244485
+      "UsersEstimate": 244487
     },
     {
       "ID": "AchievementClownID",
@@ -37732,7 +37743,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 75226
+      "UsersEstimate": 75227
     },
     {
       "ID": "AchievementEggID",
@@ -37740,7 +37751,7 @@
       "Name": "Egg Simulator",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 51046
+      "UsersEstimate": 51047
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -37756,7 +37767,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 88659
+      "UsersEstimate": 88660
     },
     {
       "ID": "AchievementGoatID",
@@ -37772,7 +37783,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139706
+      "UsersEstimate": 139707
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -37780,7 +37791,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 51046
+      "UsersEstimate": 51047
     },
     {
       "ID": "AchievementINirvanaID",
@@ -37812,7 +37823,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 153139
+      "UsersEstimate": 153140
     },
     {
       "ID": "AchievementLootBoxID",
@@ -37844,7 +37855,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 99406
+      "UsersEstimate": 99407
     },
     {
       "ID": "AchievementRampID",
@@ -37876,7 +37887,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 196125
+      "UsersEstimate": 196127
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -37892,7 +37903,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 134332
+      "UsersEstimate": 134334
     },
     {
       "ID": "AchievementStreakingID",
@@ -37916,7 +37927,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 145079
+      "UsersEstimate": 145080
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -37940,7 +37951,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171946
+      "UsersEstimate": 171947
     },
     {
       "ID": "AchievementWhaleID",
@@ -37955,16 +37966,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268665,
+      "Progressed": 268667,
       "Completed": 962
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-01-24T17:58:32.1926035+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:10:21.5575306+00:00",
+  "LastChanged": "2024-01-24T19:58:58.8267121+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:11:32.4936778+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:58:15.1142887+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:10:21.5576739+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:58:58.8267127+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:11:32.4938833+00:00"
 }

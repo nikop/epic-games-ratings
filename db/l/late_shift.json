@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1168,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -3390,6 +3390,11 @@
       "Time": "2024-01-24T14:10:51.9580688+00:00",
       "NumProgressed": 1168,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-24T20:11:05.8070883+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -3401,7 +3406,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3457,7 +3462,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ENDING_7",
@@ -3489,7 +3494,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "GOOD_KARMA",
@@ -3529,7 +3534,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "SABOTAGE",
@@ -3553,14 +3558,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1168,
+      "Progressed": 1169,
       "Completed": 14
     }
   ],
@@ -3568,8 +3573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:10:02.6926523+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:11:05.807088+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.6031874+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:57:21.6355197+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:10:02.6926834+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:57:37.159599+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:11:05.8071114+00:00"
 }

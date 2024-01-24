@@ -21,10 +21,10 @@
 | Tail-wind | 7.00% | ~22 |
 | Scholar | 6.00% | ~19 |
 | Deputized | 6.00% | ~19 |
+| Courier | 6.00% | ~19 |
 | Pilgrimage's End | 6.00% | ~19 |
 | Merchant | 6.00% | ~19 |
 | Strategist | 5.00% | ~16 |
-| Courier | 5.00% | ~16 |
 | Quartermaster | 4.00% | ~13 |
 | Potential Unlocked | 4.00% | ~13 |
 | Despised | 4.00% | ~13 |

@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.70% | ~120 |
 | Peacemaker | 0.70% | ~120 |
 | Adur Burzen-Mihr | 0.70% | ~120 |
+| Carthage | 0.70% | ~120 |
 | Rome | 0.70% | ~120 |
 | Revelation | 0.70% | ~120 |
 | Kushite Cavalry | 0.70% | ~120 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
 | Church of the Holy Sepulchre | 0.60% | ~103 |
-| Carthage | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |

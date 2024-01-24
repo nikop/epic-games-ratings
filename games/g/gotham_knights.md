@@ -5,44 +5,44 @@ Rating: 4.19 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,618 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,300 |
-| Loose Ends | 33.00% | ~27,468 |
-| To the Victor Go the Spoils | 27.00% | ~22,473 |
-| Knighthood | 26.00% | ~21,641 |
-| Get ReQ'd | 24.00% | ~19,976 |
-| Whispered Words | 24.00% | ~19,976 |
-| The Batman Family | 22.00% | ~18,312 |
-| Lock and Key | 22.00% | ~18,312 |
-| Something in the Clay | 20.00% | ~16,647 |
-| Quartzer Life Crisis | 20.00% | ~16,647 |
-| Working Hard or Harley Working? | 20.00% | ~16,647 |
-| Unstoppable Force | 20.00% | ~16,647 |
-| Bad Apples in Every Orchard | 20.00% | ~16,647 |
+| First Step Into the Knight | 50.00% | ~41,620 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,301 |
+| Loose Ends | 33.00% | ~27,469 |
+| To the Victor Go the Spoils | 27.00% | ~22,475 |
+| Knighthood | 26.00% | ~21,642 |
+| Get ReQ'd | 24.00% | ~19,977 |
+| Whispered Words | 24.00% | ~19,977 |
+| The Batman Family | 22.00% | ~18,313 |
+| Lock and Key | 22.00% | ~18,313 |
+| Something in the Clay | 20.00% | ~16,648 |
+| Quartzer Life Crisis | 20.00% | ~16,648 |
+| Working Hard or Harley Working? | 20.00% | ~16,648 |
+| Unstoppable Force | 20.00% | ~16,648 |
+| Bad Apples in Every Orchard | 20.00% | ~16,648 |
 | Snow Problem | 19.00% | ~15,815 |
-| The Show Mud Go On | 17.00% | ~14,150 |
-| From Inside Gotham's Walls | 17.00% | ~14,150 |
+| The Show Mud Go On | 17.00% | ~14,151 |
+| From Inside Gotham's Walls | 17.00% | ~14,151 |
 | Protector of Gotham | 16.00% | ~13,318 |
-| In Your Element | 15.00% | ~12,485 |
-| Universal Health Scare | 15.00% | ~12,485 |
+| In Your Element | 15.00% | ~12,486 |
+| Universal Health Scare | 15.00% | ~12,486 |
 | Rock and a Hard Place | 14.00% | ~11,653 |
 | Cooldown | 14.00% | ~11,653 |
 | Voiceless | 14.00% | ~11,653 |
 | Shock Til They Drop | 13.00% | ~10,821 |
 | Seeking Asylum | 13.00% | ~10,821 |
-| End of an Era | 12.00% | ~9,988 |
-| Not On My Watch | 12.00% | ~9,988 |
-| Bulldozed | 12.00% | ~9,988 |
-| Gotham Knight | 12.00% | ~9,988 |
+| End of an Era | 12.00% | ~9,989 |
+| Not On My Watch | 12.00% | ~9,989 |
+| Bulldozed | 12.00% | ~9,989 |
+| Gotham Knight | 12.00% | ~9,989 |
 | Gotham City Confidential | 11.00% | ~9,156 |
 | Drone You Out | 10.00% | ~8,324 |
-| Out of Their League | 9.00% | ~7,491 |
+| Out of Their League | 9.00% | ~7,492 |
 | Solid Alibi | 8.00% | ~6,659 |
-| Fusion Expert | 7.00% | ~5,826 |
+| Fusion Expert | 7.00% | ~5,827 |
 | Family Meeting | 6.00% | ~4,994 |
 | A Worthy Successor | 6.00% | ~4,994 |
 | Expert Crime Fighter | 5.00% | ~4,162 |
-| Dressed to Impress | 4.00% | ~3,329 |
+| Dressed to Impress | 4.00% | ~3,330 |
 | A Momentum Occasion | 3.00% | ~2,497 |
 | Bat Out of Hell | 3.00% | ~2,497 |
 | Practice Makes Perfect | 2.00% | ~1,665 |
@@ -62,12 +62,12 @@ Rating: 4.19 (Ranked 985)
 | Hammer and Icicle | 0.40% | ~214 |
 | Renewable Enemy Source | 0.40% | ~214 |
 | Crime Is a Terrible Thing to Waste | 0.40% | ~214 |
+| The Cold, the Bad and the Ugly | 0.40% | ~214 |
 | Showdown Sovereign | 0.40% | ~214 |
 | Element of Surprise | 0.30% | ~161 |
-| The Cold, the Bad and the Ugly | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,235 (Ranked 111)  
+Progressed: 83,239 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,15 +346,15 @@ Completed: 135 (0.16%) (Ranked 298)
 | 2024-01-21 | 83,148 | 135 |
 | 2024-01-22 | 83,185 | 135 |
 | 2024-01-23 | 83,213 | 135 |
-| 2024-01-24 | 83,235 | 135 |
+| 2024-01-24 | 83,239 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,251  (Ranked 103)  
-Sum: 5,560 (Ranked 146)  
+Sum: 5,562 (Ranked 146)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,251 |
-| This game is Great for Beginners | 296 |
+| This game is Great for Beginners | 298 |
 | This game has Diverse Characters | 295 |
 | This game is Extremely Fun | 294 |
 | This game is Relaxing | 292 |
@@ -698,4 +698,4 @@ Diff (max vs sum): -43
 | 2024-01-21 | 4.19 | 3,237 | 5,534 |
 | 2024-01-22 | 4.19 | 3,243 | 5,549 |
 | 2024-01-23 | 4.19 | 3,249 | 5,556 |
-| 2024-01-24 | 4.19 | 3,251 | 5,560 |
+| 2024-01-24 | 4.19 | 3,251 | 5,562 |

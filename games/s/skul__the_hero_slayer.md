@@ -6,22 +6,22 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,930 |
-| What should I buy? | 80.00% | ~11,983 |
-| Rescued Elder Ent | 61.00% | ~9,137 |
-| Focus! | 60.00% | ~8,987 |
+| The Legend Begins | 93.00% | ~13,931 |
+| What should I buy? | 80.00% | ~11,984 |
+| Rescued Elder Ent | 61.00% | ~9,138 |
+| Focus! | 60.00% | ~8,988 |
 | The End of the Gold Mane Knights | 48.00% | ~7,190 |
 | False Goddess, Disappear | 40.00% | ~5,992 |
 | Rules of Etiquette | 38.00% | ~5,692 |
 | Inventory Management | 33.00% | ~4,943 |
-| The Fall of the Leonia Order | 31.00% | ~4,643 |
+| The Fall of the Leonia Order | 31.00% | ~4,644 |
 | Quick Movements | 30.00% | ~4,494 |
 | Go Home... | 29.00% | ~4,344 |
 | The Final Battle of the First Hero | 28.00% | ~4,194 |
 | The Hero Killer | 26.00% | ~3,895 |
 | Brain at Full Throttle | 20.00% | ~2,996 |
 | Rookies Welcome | 18.00% | ~2,696 |
-| Deadly Power | 17.00% | ~2,546 |
+| Deadly Power | 17.00% | ~2,547 |
 | Castle Restoration Plans | 13.00% | ~1,947 |
 | The Dwarven Chandelier | 11.00% | ~1,648 |
 | Master of Speed | 10.00% | ~1,498 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~150 |
 | Cold-Blooded | 0.60% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,979 (Ranked 176)  
+Progressed: 14,980 (Ranked 176)  
 Completed: 23 (0.15%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 23 (0.15%) (Ranked 301)
 | 2024-01-21 | 14,922 | 22 |
 | 2024-01-22 | 14,954 | 23 |
 | 2024-01-23 | 14,966 | 23 |
-| 2024-01-24 | 14,979 | 23 |
+| 2024-01-24 | 14,980 | 23 |
 ## Awards
 Max (Diverse Characters): 157  (Ranked 333)  
 Sum: 1,043 (Ranked 274)  

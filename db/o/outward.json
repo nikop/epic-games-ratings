@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4852,
+  "EOS_Progressed": 4853,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8694,6 +8694,11 @@
       "Time": "2024-01-24T18:05:02.8496514+00:00",
       "NumProgressed": 4852,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T20:05:43.9668358+00:00",
+      "NumProgressed": 4853,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8761,7 +8766,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "Eureka_23",
@@ -8809,7 +8814,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "HouseofCards_19",
@@ -8905,7 +8910,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -9025,7 +9030,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -9040,15 +9045,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4852,
+      "Progressed": 4853,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:04:24.5581455+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:05:43.9668355+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:03:13.1913825+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:04:24.5582127+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:03:57.4261991+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:05:43.9669089+00:00"
 }

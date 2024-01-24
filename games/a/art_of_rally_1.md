@@ -1,48 +1,48 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.64 (Ranked 348)  
+Rating: 4.63 (Ranked 360)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~347,468 |
-| good drivers have dead flies on the side windows | 32.00% | ~138,987 |
-| keep it tidy | 26.00% | ~112,927 |
-| brail | 26.00% | ~112,927 |
-| car wash | 23.00% | ~99,897 |
-| the artist | 23.00% | ~99,897 |
-| podium | 20.00% | ~86,867 |
-| medium attack | 17.00% | ~73,837 |
-| bicycle race | 6.00% | ~26,060 |
-| grocery-getter | 5.00% | ~21,717 |
-| autopilot | 4.00% | ~17,373 |
-| night ride | 4.00% | ~17,373 |
-| rwd only | 3.00% | ~13,030 |
-| where is the stage? | 3.00% | ~13,030 |
-| snorkel | 3.00% | ~13,030 |
-| food tour: pasta | 3.00% | ~13,030 |
-| to finish first, first you must finish | 2.00% | ~8,687 |
-| perkele | 2.00% | ~8,687 |
-| turbo | 2.00% | ~8,687 |
-| if in doubt, flat out! | 2.00% | ~8,687 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,687 |
-| mittens | 2.00% | ~8,687 |
-| food tour: pretzel | 2.00% | ~8,687 |
-| espresso | 1.00% | ~4,343 |
-| monster | 1.00% | ~4,343 |
-| in like a lamb, out like a lion | 1.00% | ~4,343 |
-| eurobeat | 0.70% | ~3,040 |
-| viking | 0.70% | ~3,040 |
-| parallel universe | 0.70% | ~3,040 |
+| light attack | 80.00% | ~347,520 |
+| good drivers have dead flies on the side windows | 32.00% | ~139,008 |
+| keep it tidy | 26.00% | ~112,944 |
+| brail | 26.00% | ~112,944 |
+| car wash | 23.00% | ~99,912 |
+| the artist | 23.00% | ~99,912 |
+| podium | 20.00% | ~86,880 |
+| medium attack | 17.00% | ~73,848 |
+| bicycle race | 6.00% | ~26,064 |
+| grocery-getter | 5.00% | ~21,720 |
+| autopilot | 4.00% | ~17,376 |
+| night ride | 4.00% | ~17,376 |
+| rwd only | 3.00% | ~13,032 |
+| where is the stage? | 3.00% | ~13,032 |
+| snorkel | 3.00% | ~13,032 |
+| food tour: pasta | 3.00% | ~13,032 |
+| to finish first, first you must finish | 2.00% | ~8,688 |
+| perkele | 2.00% | ~8,688 |
+| turbo | 2.00% | ~8,688 |
+| if in doubt, flat out! | 2.00% | ~8,688 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,688 |
+| mittens | 2.00% | ~8,688 |
+| food tour: pretzel | 2.00% | ~8,688 |
+| espresso | 1.00% | ~4,344 |
+| monster | 1.00% | ~4,344 |
+| in like a lamb, out like a lion | 1.00% | ~4,344 |
+| eurobeat | 0.70% | ~3,041 |
+| viking | 0.70% | ~3,041 |
+| parallel universe | 0.70% | ~3,041 |
 | oktoberfest | 0.60% | ~2,606 |
 | group b | 0.50% | ~2,172 |
 | maximum attack | 0.50% | ~2,172 |
 | samir | 0.50% | ~2,172 |
-| parking lot | 0.40% | ~1,737 |
-| master of rally | 0.40% | ~1,737 |
-| antilag | 0.40% | ~1,737 |
-| real roads, real fast | 0.40% | ~1,737 |
+| parking lot | 0.40% | ~1,738 |
+| master of rally | 0.40% | ~1,738 |
+| antilag | 0.40% | ~1,738 |
+| real roads, real fast | 0.40% | ~1,738 |
 | comfy seats | 0.30% | ~1,303 |
 | simulator | 0.20% | ~869 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~434 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~434 |
 | you're here for a good time, not a long time | 0.10% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,335 (Ranked 47)  
+Progressed: 434,400 (Ranked 47)  
 Completed: 27 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,15 +259,15 @@ Completed: 27 (0.01%) (Ranked 384)
 | 2024-01-21 | 430,837 | 26 |
 | 2024-01-22 | 432,130 | 27 |
 | 2024-01-23 | 433,315 | 27 |
-| 2024-01-24 | 434,335 | 27 |
+| 2024-01-24 | 434,400 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
-Sum: 315 (Ranked 382)  
+Sum: 317 (Ranked 382)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 46 |
-| This game is Highly Recommended | 43 |
+| This game is Highly Recommended | 45 |
 | This game is Great for Quick Sessions | 41 |
 | This game is Relaxing | 37 |
 | This game is Extremely Fun | 37 |
@@ -348,4 +348,4 @@ Diff (max vs sum): 93
 | 2024-01-21 | 4.64 | - | 46 | 299 |
 | 2024-01-22 | 4.64 | - | 46 | 304 |
 | 2024-01-23 | 4.64 | - | 46 | 313 |
-| 2024-01-24 | 4.64 | - | 46 | 315 |
+| 2024-01-24 | 4.64 | - | 46 | 317 |

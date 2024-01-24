@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5027,7 +5027,7 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13346,
+  "EOS_Progressed": 13347,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -20147,6 +20147,11 @@
       "Time": "2024-01-24T17:10:26.0780799+00:00",
       "NumProgressed": 13346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T20:11:43.9572756+00:00",
+      "NumProgressed": 13347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20174,7 +20179,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "04_FithCrusade",
@@ -20294,7 +20299,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "19_EqualToAroden",
@@ -21085,21 +21090,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12128,
+      "Progressed": 12129,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13346,
+      "Progressed": 13347,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-24T13:57:14.4360893+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:10:30.1867775+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:11:43.9572753+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:57:29.6777678+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:10:30.1869392+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:57:49.0859608+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:11:43.9574684+00:00"
 }

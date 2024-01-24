@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1090,9 +1090,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363505,
+  "EOS_Progressed": 363509,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33035,6 +33035,11 @@
       "Time": "2024-01-24T19:05:34.3922866+00:00",
       "NumProgressed": 363505,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T20:07:23.5663455+00:00",
+      "NumProgressed": 363509,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33134,7 +33139,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29080
+      "UsersEstimate": 29081
     },
     {
       "ID": "ach013",
@@ -33182,7 +33187,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29080
+      "UsersEstimate": 29081
     },
     {
       "ID": "ach019",
@@ -33254,7 +33259,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167212
+      "UsersEstimate": 167214
     },
     {
       "ID": "ach028",
@@ -33350,7 +33355,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36350
+      "UsersEstimate": 36351
     },
     {
       "ID": "ach040",
@@ -33382,7 +33387,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25445
+      "UsersEstimate": 25446
     },
     {
       "ID": "ach044",
@@ -33406,7 +33411,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25445
+      "UsersEstimate": 25446
     },
     {
       "ID": "ach047",
@@ -33454,7 +33459,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21810
+      "UsersEstimate": 21811
     },
     {
       "ID": "ach053",
@@ -33510,7 +33515,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36350
+      "UsersEstimate": 36351
     },
     {
       "ID": "ach060",
@@ -33518,7 +33523,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21810
+      "UsersEstimate": 21811
     },
     {
       "ID": "ach061",
@@ -33542,7 +33547,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21810
+      "UsersEstimate": 21811
     },
     {
       "ID": "ach065",
@@ -33606,7 +33611,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21810
+      "UsersEstimate": 21811
     },
     {
       "ID": "ach073",
@@ -33614,7 +33619,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21810
+      "UsersEstimate": 21811
     },
     {
       "ID": "ach074",
@@ -33630,7 +33635,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21810
+      "UsersEstimate": 21811
     },
     {
       "ID": "ach076",
@@ -33654,7 +33659,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25445
+      "UsersEstimate": 25446
     },
     {
       "ID": "ach079",
@@ -33685,7 +33690,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363505,
+      "Progressed": 363509,
       "Completed": 7
     }
   ],
@@ -33693,8 +33698,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-22T15:59:56.654219+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:05:34.3922863+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:07:23.5663451+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:00:29.2881992+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:05:34.3924586+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:02:15.6162593+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:07:23.5665708+00:00"
 }

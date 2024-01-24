@@ -3,9 +3,9 @@
   "Name": "Overloop",
   "ProductSlug": "overloop-f572c8",
   "Ranking_EOS_Progress": 716,
-  "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 539,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 8,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-26T12:00:00+00:00",
     "PcReleaseDate": "2022-08-26T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 5,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 20,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 40,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:29.5545432+00:00",
@@ -36,6 +36,11 @@
       "Time": "2024-01-23T20:09:09.58789+00:00",
       "NumProgressed": 5,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T20:10:14.2236531+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -173,9 +178,9 @@
       "ID": "secret_ending",
       "SetID": "c0a8gkh",
       "Name": "No\u00E9",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "story_chandelier",
@@ -215,12 +220,12 @@
       "ID": "c0a8gkh",
       "IsBase": true,
       "Progressed": 5,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:29.5545439+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:09:26.3517719+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:10:14.2236525+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:59.1852516+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:02:45.6120495+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:09:26.3517853+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:02:38.5320777+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:10:14.2236645+00:00"
 }

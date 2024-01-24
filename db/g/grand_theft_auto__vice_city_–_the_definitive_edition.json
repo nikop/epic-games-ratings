@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,10 +1074,10 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16676,
+  "EOS_Progressed": 16678,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 170,
-  "EOS_NewCompleters": 8,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
@@ -18949,6 +18949,11 @@
       "Time": "2024-01-24T18:10:50.1384342+00:00",
       "NumProgressed": 16676,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-24T20:11:23.0035307+00:00",
+      "NumProgressed": 16678,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -19064,7 +19069,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7171
+      "UsersEstimate": 7172
     },
     {
       "ID": "ACH15",
@@ -19120,7 +19125,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7838
+      "UsersEstimate": 7839
     },
     {
       "ID": "ACH22",
@@ -19231,7 +19236,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16676,
+      "Progressed": 16678,
       "Completed": 109
     }
   ],
@@ -19239,8 +19244,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:10:14.8493999+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:11:23.0035303+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:58:18.6634232+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:10:14.849512+00:00"
+  "LastUpdate_Ratings": "2024-01-24T19:59:03.9612596+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:11:23.0036105+00:00"
 }

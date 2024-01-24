@@ -7,24 +7,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,274 |
-| Lost and Found | 9.00% | ~764 |
+| Lost and Found | 9.00% | ~765 |
 | Autodidact | 8.00% | ~10,690 |
-| This guy... again? | 8.00% | ~679 |
+| This guy... again? | 8.00% | ~680 |
 | Serenity Now! | 7.00% | ~9,354 |
 | This Belongs in a Museum | 7.00% | ~9,354 |
 | Creep and Sleep | 7.00% | ~9,354 |
 | Overdue Notice | 7.00% | ~9,354 |
-| Ploughshares to Swords | 7.00% | ~594 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,017 |
-| Meat and Greet | 6.00% | ~8,017 |
-| Catch and Decease | 6.00% | ~8,017 |
-| Escape from the Black Hole | 6.00% | ~8,017 |
-| It Happens | 6.00% | ~8,017 |
-| Rush Hour | 6.00% | ~8,017 |
-| To Grandmother's House | 6.00% | ~8,017 |
-| FNG | 6.00% | ~8,017 |
-| Bloody Graduation | 6.00% | ~509 |
-| It Rings a Bell | 5.00% | ~6,681 |
+| Ploughshares to Swords | 7.00% | ~595 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,018 |
+| It Rings a Bell | 6.00% | ~8,018 |
+| Meat and Greet | 6.00% | ~8,018 |
+| Catch and Decease | 6.00% | ~8,018 |
+| Escape from the Black Hole | 6.00% | ~8,018 |
+| It Happens | 6.00% | ~8,018 |
+| Rush Hour | 6.00% | ~8,018 |
+| To Grandmother's House | 6.00% | ~8,018 |
+| FNG | 6.00% | ~8,018 |
+| Bloody Graduation | 6.00% | ~510 |
 | Not Today! | 5.00% | ~6,681 |
 | Merry Time | 5.00% | ~6,681 |
 | Harvest Festival | 5.00% | ~6,681 |
@@ -55,12 +55,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~4,009 |
 | Hot Air | 3.00% | ~4,009 |
 | Eyes Up | 3.00% | ~4,009 |
-| This Looks Familiar | 2.00% | ~2,672 |
-| Ichthyophobic | 2.00% | ~2,672 |
-| No More Mouths to Feed | 2.00% | ~2,672 |
-| Worldly Traveller | 2.00% | ~2,672 |
-| Handled | 2.00% | ~2,672 |
-| Body of Work | 2.00% | ~2,672 |
+| This Looks Familiar | 2.00% | ~2,673 |
+| Ichthyophobic | 2.00% | ~2,673 |
+| No More Mouths to Feed | 2.00% | ~2,673 |
+| Worldly Traveller | 2.00% | ~2,673 |
+| Handled | 2.00% | ~2,673 |
+| Body of Work | 2.00% | ~2,673 |
 | Clearing the Ledger | 1.00% | ~1,336 |
 | Hat Trick | 1.00% | ~1,336 |
 | Shrine of Reflection | 1.00% | ~1,336 |
@@ -75,7 +75,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.70% | ~59 |
 | Eidetic | 0.60% | ~802 |
 | Battle Hardened | 0.50% | ~42 |
-| Tears in the Rain | 0.40% | ~534 |
+| Tears in the Rain | 0.40% | ~535 |
 | Maître De La Lame | 0.40% | ~34 |
 | Circle of Life | 0.30% | ~401 |
 | Grand Slam | 0.30% | ~401 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,622 (Ranked 92)  
+Progressed: 133,626 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
-| 2024-01-24 | 133,622 | 5 |
+| 2024-01-24 | 133,626 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
 Sum: 21,854 (Ranked 60)  

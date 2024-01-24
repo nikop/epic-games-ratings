@@ -4,11 +4,11 @@
   "ProductSlug": "batman-arkham-city",
   "Ranking_Rating": 99,
   "Ranking_Popularity": 138,
-  "Ranking_PopularitySum": 213,
+  "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 539,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2012-09-07T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2362,10 +2362,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 2244,
       "NumberOfAwardsMax": 1656
+    },
+    {
+      "Time": "2024-01-24T20:00:33.1699066+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2245,
+      "NumberOfAwardsMax": 1656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2244,
+  "NumberOfAwards": 2245,
   "NumberOfAwardsMax": 1656,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2385,7 +2391,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2435,8 +2441,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2024-01-24T18:59:16.688094+00:00",
+  "LastChanged": "2024-01-24T20:00:33.1699064+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:08.2074525+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:59:16.6880943+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:05:30.9311768+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:00:33.169907+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:07:17.7648893+00:00"
 }

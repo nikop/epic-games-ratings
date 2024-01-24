@@ -2,13 +2,13 @@
   "ID": "38b4b40752b142e5a503acbb241a8b3c",
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 539,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-07-31T15:00:00+00:00",
     "PcReleaseDate": "2023-07-31T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-08-07T09:57:49.6862066+00:00",
@@ -615,6 +615,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 90,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-01-24T20:03:52.7059427+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
@@ -661,9 +667,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-01-22T13:11:03.3443054+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:04:15.89382+00:00",
+  "LastChanged": "2024-01-24T20:03:52.7059425+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:05:31.6664742+00:00",
   "LastUpdate_AppInfo": "2024-01-24T11:57:16.1977964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:03:10.2212979+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:04:15.8938222+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:03:52.7059431+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:05:31.6664776+00:00"
 }

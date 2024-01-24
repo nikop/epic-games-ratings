@@ -1,22 +1,22 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 530)  
+Rating: 4.55 (Ranked 529)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,843 |
-| Apprentice | 58.00% | ~387,346 |
+| The Fool | 72.00% | ~480,846 |
+| Apprentice | 58.00% | ~387,348 |
 | Close Shave | 25.00% | ~166,960 |
-| Mercenary | 23.00% | ~153,603 |
-| Ninja | 23.00% | ~153,603 |
-| Northern Scourge | 17.00% | ~113,532 |
-| Thief Bane | 14.00% | ~93,497 |
+| Mercenary | 23.00% | ~153,604 |
+| Ninja | 23.00% | ~153,604 |
+| Northern Scourge | 17.00% | ~113,533 |
+| Thief Bane | 14.00% | ~93,498 |
 | Master of Arms | 12.00% | ~80,141 |
 | Gambler | 10.00% | ~66,784 |
 | Dice Master | 10.00% | ~66,784 |
-| Swordsman | 9.00% | ~60,105 |
+| Swordsman | 9.00% | ~60,106 |
 | Knight | 8.00% | ~53,427 |
 | Cure for Corruption | 8.00% | ~53,427 |
 | Focused | 8.00% | ~53,427 |
@@ -24,8 +24,8 @@ Number of Ratings: 780  (23.09.2022)
 | Long Shot | 7.00% | ~46,749 |
 | Devil Dice | 7.00% | ~46,749 |
 | Broken Heart | 7.00% | ~46,749 |
-| Adventurer | 6.00% | ~40,070 |
-| Empire's Bane | 6.00% | ~40,070 |
+| Adventurer | 6.00% | ~40,071 |
+| Empire's Bane | 6.00% | ~40,071 |
 | Jack of all Trades | 5.00% | ~33,392 |
 | Smithy | 5.00% | ~33,392 |
 | Leap of Faith | 3.00% | ~20,035 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~668 |
 | Blood Pact | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,838 (Ranked 31)  
+Progressed: 667,842 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 174 (0.03%) (Ranked 365)
 | 2024-01-21 | 667,730 | 174 |
 | 2024-01-22 | 667,776 | 174 |
 | 2024-01-23 | 667,813 | 174 |
-| 2024-01-24 | 667,838 | 174 |
+| 2024-01-24 | 667,842 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 506)  
 Sum: 197 (Ranked 423)  

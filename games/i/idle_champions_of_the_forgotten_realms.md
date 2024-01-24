@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,770 |
+| A Brief Tour of the Realms | 5.00% | ~12,771 |
 | Beast Intentions | 2.00% | ~5,108 |
 | The Cursed Farmer | 2.00% | ~5,108 |
 | The Mad Wizard | 2.00% | ~5,108 |
@@ -17,14 +17,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.90% | ~2,299 |
 | Friendly Imps | 0.90% | ~2,299 |
 | Pure Energy | 0.80% | ~2,043 |
-| Welcome to Sigil | 0.80% | ~1,773 |
+| Welcome to Sigil | 0.80% | ~1,774 |
 | A Persistent Buzzing | 0.70% | ~1,788 |
 | Fast Food | 0.70% | ~1,552 |
-| Maddening | 0.60% | ~1,532 |
-| Terror in the Dark | 0.60% | ~1,532 |
-| Unearthed Evil | 0.60% | ~1,532 |
-| The Crumbling Temple | 0.60% | ~1,532 |
-| The Contagious Curse | 0.60% | ~1,532 |
+| Maddening | 0.60% | ~1,533 |
+| Terror in the Dark | 0.60% | ~1,533 |
+| Unearthed Evil | 0.60% | ~1,533 |
+| The Crumbling Temple | 0.60% | ~1,533 |
+| The Contagious Curse | 0.60% | ~1,533 |
 | Beast Mode | 0.50% | ~1,277 |
 | A Mysterious Summons | 0.50% | ~1,277 |
 | Useless Allies | 0.50% | ~1,277 |
@@ -111,6 +111,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.20% | ~511 |
 | Backtracking Through Barovia | 0.20% | ~511 |
 | Nimble Escape | 0.20% | ~511 |
+| Nimblest Escape | 0.20% | ~511 |
 | Fugitives | 0.20% | ~511 |
 | Excavating History | 0.20% | ~511 |
 | Towering Expectations | 0.20% | ~511 |
@@ -308,7 +309,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~255 |
 | Late Game | 0.10% | ~255 |
 | Shadowfell Stalwarts | 0.10% | ~222 |
-| Nimblest Escape | 0.10% | ~255 |
 | Stumbling Escape | 0.10% | ~255 |
 | Distracted Escape | 0.10% | ~222 |
 | From The Shadows | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,409 (Ranked 71)  
+Progressed: 255,419 (Ranked 71)  
 Completed: 2,639 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,10 +832,10 @@ Completed: 2,639 (1.03%) (Ranked 181)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,409 | 2,639 |
+| 2024-01-24 | 255,419 | 2,639 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
-Sum: 33,620 (Ranked 42)  
+Sum: 33,621 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -843,7 +843,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,746 |
 | This game has Quickly Understood Controls | 4,921 |
 | This game is Relaxing | 4,797 |
-| This game has Amazing Characters | 4,346 |
+| This game has Amazing Characters | 4,347 |
 | This game is Highly Recommended | 4,344 |
 | This game has Playful Visuals | 3,653 |
 ## Ratings History
@@ -1212,4 +1212,4 @@ Diff (max vs sum): 33
 | 2024-01-21 | 4.07 | - | 5,810 | 33,602 |
 | 2024-01-22 | 4.07 | - | 5,813 | 33,612 |
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
-| 2024-01-24 | 4.07 | - | 5,813 | 33,620 |
+| 2024-01-24 | 4.07 | - | 5,813 | 33,621 |

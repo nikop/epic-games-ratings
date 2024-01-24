@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47709,
+  "EOS_Progressed": 47710,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19814,6 +19814,11 @@
       "Time": "2024-01-24T19:04:25.6402832+00:00",
       "NumProgressed": 47709,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T20:05:45.7568771+00:00",
+      "NumProgressed": 47710,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19857,7 +19862,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -19881,7 +19886,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -20248,22 +20253,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47709,
+      "Progressed": 47710,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12546,
-      "Completed": 12546
+      "Progressed": 12547,
+      "Completed": 12547
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:04:25.6402829+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:05:45.7568767+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:03:09.776754+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:04:25.6404075+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:03:52.0906985+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:05:45.7569976+00:00"
 }

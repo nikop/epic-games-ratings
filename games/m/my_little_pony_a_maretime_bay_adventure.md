@@ -19,7 +19,7 @@
 | W.I.N.G.S. Cadet | 27.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 567)  
-Completed: 13 (25.49%) (Ranked 15)  
+Completed: 13 (25.49%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

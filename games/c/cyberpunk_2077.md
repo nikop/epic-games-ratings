@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.80% | ~8,465 |
-| Right Back At Ya | 0.80% | ~8,465 |
-| The Hermit | 0.80% | ~8,465 |
-| True Soldier | 0.80% | ~8,465 |
+| Full Body Conversion | 0.80% | ~8,466 |
+| Right Back At Ya | 0.80% | ~8,466 |
+| The Hermit | 0.80% | ~8,466 |
+| True Soldier | 0.80% | ~8,466 |
 | Christmas Tree Attack | 0.70% | ~7,407 |
 | Life of the Road | 0.70% | ~7,407 |
 | The High Priestess | 0.70% | ~7,407 |
@@ -17,18 +17,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.70% | ~7,407 |
 | Legend of The Afterlife | 0.70% | ~7,407 |
 | Bushido and Chill | 0.60% | ~6,349 |
+| Gun Fu | 0.60% | ~6,349 |
 | Stanislavski's Method | 0.60% | ~6,349 |
 | The Fool | 0.60% | ~6,349 |
 | The World | 0.60% | ~6,349 |
 | All the President's Men | 0.60% | ~1,121 |
 | Arachnophobia | 0.60% | ~1,121 |
-| Gun Fu | 0.50% | ~5,291 |
 | Master Crafter | 0.50% | ~5,291 |
 | I Am The Law | 0.50% | ~5,291 |
 | The Quick and the Dead | 0.50% | ~5,291 |
+| True Warrior | 0.50% | ~5,291 |
 | Judy vs Night City | 0.50% | ~5,291 |
 | To Protect and Serve | 0.40% | ~4,233 |
-| True Warrior | 0.40% | ~4,233 |
 | Two Heads, One Bullet | 0.40% | ~4,233 |
 | To Bad Decisions! | 0.30% | ~3,175 |
 | The Wandering Fool | 0.30% | ~3,175 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,178 (Ranked 17)  
+Progressed: 1,058,198 (Ranked 17)  
 Completed: 3,158 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 3,158 (0.30%) (Ranked 266)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,058,178 | 3,158 |
+| 2024-01-24 | 1,058,198 | 3,158 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
 Sum: 517,750 (Ranked 8)  

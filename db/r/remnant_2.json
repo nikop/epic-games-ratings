@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 206,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 65,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "RatingHistory": [
     {
       "Time": "2023-07-26T04:00:29.4116118+00:00",
@@ -7513,6 +7513,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 17360,
       "NumberOfAwardsMax": 7540
+    },
+    {
+      "Time": "2024-01-24T20:04:22.708149+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 17360,
+      "NumberOfAwardsMax": 7540
     }
   ],
   "ReviewsDisabled": false,
@@ -7587,9 +7593,9 @@
       "Count": 1010
     }
   ],
-  "EOS_Progressed": 298760,
+  "EOS_Progressed": 298769,
   "EOS_Completed": 1241,
-  "EOS_NewPlayers": 3559,
+  "EOS_NewPlayers": 3539,
   "EOS_NewCompleters": 124,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -29882,6 +29888,11 @@
       "Time": "2024-01-24T19:10:09.6358442+00:00",
       "NumProgressed": 298760,
       "NumCompleted": 1241
+    },
+    {
+      "Time": "2024-01-24T20:11:15.4878863+00:00",
+      "NumProgressed": 298769,
+      "NumCompleted": 1241
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -29894,7 +29905,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26888
+      "UsersEstimate": 26889
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -29942,7 +29953,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23901
+      "UsersEstimate": 23902
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -29958,7 +29969,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "Defeat_Guardian",
@@ -29974,7 +29985,7 @@
       "Name": "The Killing Jar",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38839
+      "UsersEstimate": 38840
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -29998,7 +30009,7 @@
       "Name": "Not So Special Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20913
+      "UsersEstimate": 20914
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -30006,7 +30017,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "Defeat_World_Boss",
@@ -30014,7 +30025,7 @@
       "Name": "Quest for Survival",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23901
+      "UsersEstimate": 23902
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -30030,7 +30041,7 @@
       "Name": "The Agenda",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "Meet_Custodian",
@@ -30038,7 +30049,7 @@
       "Name": "Not a Janitor",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20913
+      "UsersEstimate": 20914
     },
     {
       "ID": "Meet_Flautist",
@@ -30046,7 +30057,7 @@
       "Name": "Familiar Face",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23901
+      "UsersEstimate": 23902
     },
     {
       "ID": "Meet_Meidra",
@@ -30078,7 +30089,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35851
+      "UsersEstimate": 35852
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -30086,7 +30097,7 @@
       "Name": "Duality",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20913
+      "UsersEstimate": 20914
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -30110,7 +30121,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -30126,7 +30137,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23901
+      "UsersEstimate": 23902
     },
     {
       "ID": "Obtain_Guns_A",
@@ -30134,7 +30145,7 @@
       "Name": "Strapped",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "Obtain_Guns_B",
@@ -30198,7 +30209,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29876
+      "UsersEstimate": 29877
     },
     {
       "ID": "Obtain_Traits_B",
@@ -30206,7 +30217,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "Obtain_Traits_C",
@@ -30270,7 +30281,7 @@
       "Name": "Trait Chaser",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23901
+      "UsersEstimate": 23902
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -30333,22 +30344,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 298760,
+      "Progressed": 298769,
       "Completed": 1241
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 77925,
+      "Progressed": 77934,
       "Completed": 795
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-01-24T19:03:29.6578532+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:10:09.6358438+00:00",
+  "LastChanged": "2024-01-24T20:04:22.7081488+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:11:15.4878859+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.5413849+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:03:29.6578536+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:10:09.6360127+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:04:22.7081494+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:11:15.4880384+00:00"
 }

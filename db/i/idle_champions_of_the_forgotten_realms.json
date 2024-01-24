@@ -9749,10 +9749,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33620,
       "NumberOfAwardsMax": 5813
+    },
+    {
+      "Time": "2024-01-24T20:00:12.5230549+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33621,
+      "NumberOfAwardsMax": 5813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33620,
+  "NumberOfAwards": 33621,
   "NumberOfAwardsMax": 5813,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9790,7 +9796,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4346
+      "Count": 4347
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9799,9 +9805,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255409,
+  "EOS_Progressed": 255419,
   "EOS_Completed": 2639,
-  "EOS_NewPlayers": 970,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41509,6 +41515,11 @@
       "Time": "2024-01-24T19:10:33.164366+00:00",
       "NumProgressed": 255409,
       "NumCompleted": 2639
+    },
+    {
+      "Time": "2024-01-24T20:11:48.3114969+00:00",
+      "NumProgressed": 255419,
+      "NumCompleted": 2639
     }
   ],
   "TotalAchievements": 546,
@@ -41520,7 +41531,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12770
+      "UsersEstimate": 12771
     },
     {
       "ID": "objective_completed_10",
@@ -41528,7 +41539,7 @@
       "Name": "Maddening",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_100",
@@ -42640,7 +42651,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_150",
@@ -42848,7 +42859,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_20",
@@ -43208,7 +43219,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_36",
@@ -43374,9 +43385,9 @@
       "ID": "objective_completed_399",
       "SetID": "cc37lbc",
       "Name": "Nimblest Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_4",
@@ -44064,7 +44075,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_60",
@@ -45808,7 +45819,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "objective_completed_1558",
@@ -45887,21 +45898,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221683,
+      "Progressed": 221693,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255409,
+      "Progressed": 255419,
       "Completed": 2639
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:10:33.1643655+00:00",
+  "LastChanged": "2024-01-24T20:00:12.5230546+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:11:48.3114965+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T18:59:02.7820094+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:10:33.1668771+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:00:12.5230552+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:11:48.3137329+00:00"
 }

@@ -22,14 +22,15 @@
 | Douglas | 40.00% | ~2 |
 | Julia | 40.00% | ~2 |
 | Flowers for... | 40.00% | ~2 |
+| Noé | 40.00% | ~2 |
 | Hear that wisper | 40.00% | ~2 |
 | Run, Forest! Run! | 40.00% | ~2 |
-| Noé | 20.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 716)  
-Completed: 1 (20.00%) (Ranked 23)  
+Completed: 2 (40.00%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 4 | 1 |
 | 2024-01-23 | 5 | 1 |
+| 2024-01-24 | 5 | 2 |

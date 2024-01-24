@@ -5,27 +5,27 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 16.00% | ~22 |
+| Hail to the King, Baby | 17.00% | ~24 |
 | Can’t Touch This | 14.00% | ~19 |
 | Help! Help! I’m being repressed | 14.00% | ~19 |
 | Bring it on! | 11.00% | ~15 |
-| Path of Glory | 10.00% | ~14 |
-| There is no Nobility in Poverty | 10.00% | ~14 |
-| Full House | 9.00% | ~12 |
+| There is no Nobility in Poverty | 11.00% | ~15 |
+| Full House | 9.00% | ~13 |
+| Path of Glory | 9.00% | ~13 |
 | The finest merchandise this side of river Jordan | 6.00% | ~8 |
 | They Got What They Deserved | 6.00% | ~8 |
-| Big Apple | 4.00% | ~5 |
-| Call the Boys | 4.00% | ~5 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~5 |
-| Dinner Time | 4.00% | ~5 |
-| Do you read Sutter Cane? | 4.00% | ~5 |
-| Pillars of the Earth | 4.00% | ~5 |
-| Playerxander the Great | 4.00% | ~5 |
-| What we’ve got here is failure to communicate | 4.00% | ~5 |
+| Playerxander the Great | 5.00% | ~7 |
+| What we’ve got here is failure to communicate | 5.00% | ~7 |
+| Big Apple | 4.00% | ~6 |
+| Call the Boys | 4.00% | ~6 |
+| Desperate Times Call for Desperate Measures | 4.00% | ~6 |
+| Dinner Time | 4.00% | ~6 |
+| Do you read Sutter Cane? | 4.00% | ~6 |
+| Learn Me a Book | 4.00% | ~6 |
+| Pillars of the Earth | 4.00% | ~6 |
 | All the King's Men | 3.00% | ~4 |
 | Black Sheep Wall | 3.00% | ~4 |
 | Cut-Me-Own-Throat | 3.00% | ~4 |
-| Learn Me a Book | 3.00% | ~4 |
 | Naught but a Seamless Victory | 3.00% | ~4 |
 | ‘Tis but a scratch | 3.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~3 |
@@ -43,6 +43,7 @@ Rating: 4.35 (Ranked 837)
 | His name is King | 1.00% | ~1 |
 | Let Us Pray | 1.00% | ~1 |
 | On the third day at dawn, look east | 1.00% | ~1 |
+| Prince Ali! Fabulous he! | 1.00% | ~1 |
 | Renaissance Man | 1.00% | ~1 |
 | The Magnificent Nine | 1.00% | ~1 |
 | Time to find India | 1.00% | ~1 |
@@ -56,7 +57,6 @@ Rating: 4.35 (Ranked 837)
 | Let us trade with these fine people | 0.70% | ~1 |
 | Lord of the Kings | 0.70% | ~1 |
 | New Mineland | 0.70% | ~1 |
-| Prince Ali! Fabulous he! | 0.70% | ~1 |
 | Spartacus | 0.70% | ~1 |
 | You reap what you sow | 0.70% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135 (Ranked 485)  
+Progressed: 139 (Ranked 481)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 135 | 0 |
+| 2024-01-24 | 139 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

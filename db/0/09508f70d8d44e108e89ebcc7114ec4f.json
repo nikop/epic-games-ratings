@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -1648,9 +1648,9 @@
       "ID": "aquatic_farm",
       "SetID": "ap7g2g4",
       "Name": "Aquatic Farm",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "balloon",
@@ -1680,9 +1680,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 269
     },
     {
       "ID": "circus",
@@ -1696,9 +1696,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 264
+      "UsersEstimate": 269
     },
     {
       "ID": "fish_trade",
@@ -1728,9 +1728,9 @@
       "ID": "hope_farm",
       "SetID": "ap7g2g4",
       "Name": "Hope farm",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "marketplace",
@@ -1784,9 +1784,9 @@
       "ID": "sawmill",
       "SetID": "ap7g2g4",
       "Name": "Sawmill",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 432
     },
     {
       "ID": "seaweed_farm",
@@ -1824,9 +1824,9 @@
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 213
     },
     {
       "ID": "wood",
@@ -1847,8 +1847,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2024-01-24T19:09:51.9176765+00:00",
+  "LastChanged_Achievements": "2024-01-24T20:10:50.6088698+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:07.1835223+00:00",
-  "LastUpdate_Ratings": "2024-01-24T19:03:12.9355978+00:00",
-  "LastUpdate_Achievements": "2024-01-24T19:09:51.9177043+00:00"
+  "LastUpdate_Ratings": "2024-01-24T20:03:57.2126426+00:00",
+  "LastUpdate_Achievements": "2024-01-24T20:10:50.6088893+00:00"
 }

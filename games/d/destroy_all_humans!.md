@@ -6,17 +6,17 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 79.00% | ~444 |
-| Kaijuiced | 73.00% | ~410 |
-| Lie Back and Think of Albion | 68.00% | ~382 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~365 |
-| I Look Up As I Walk to Takoshima | 62.00% | ~348 |
+| Shop Til They Drop | 79.00% | ~445 |
+| Kaijuiced | 73.00% | ~411 |
+| Lie Back and Think of Albion | 67.00% | ~377 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~366 |
+| I Look Up As I Walk to Takoshima | 63.00% | ~355 |
 | Yettisoned | 61.00% | ~343 |
-| Pimp My Raid | 59.00% | ~332 |
+| Pimp My Raid | 60.00% | ~338 |
 | Perfect Probulator | 59.00% | ~332 |
-| Lobster Blisque | 54.00% | ~303 |
+| Lobster Blisque | 54.00% | ~304 |
 | Fly Me to the Moon Base | 53.00% | ~298 |
-| Ducks in a Row, Fish in a Barrel | 49.00% | ~275 |
+| Ducks in a Row, Fish in a Barrel | 49.00% | ~276 |
 | Earthly Pleasures | 48.00% | ~270 |
 | Bodied Sattva | 38.00% | ~214 |
 | Forbidden Donut | 37.00% | ~208 |
@@ -35,7 +35,7 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 16.00% | ~90 |
 | Albion Bridge Is for Falling Down | 15.00% | ~84 |
 | Dusted | 14.00% | ~79 |
-| Higher Than the Futen Zoku | 12.00% | ~67 |
+| Higher Than the Futen Zoku | 12.00% | ~68 |
 | Scuttled | 10.00% | ~56 |
 | Arty Facts | 10.00% | ~56 |
 | PK Slam Dunk | 9.00% | ~51 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~11 |
 | Against All Odds | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562 (Ranked 350)  
+Progressed: 563 (Ranked 350)  
 Completed: 6 (1.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 6 (1.07%) (Ranked 177)
 | 2024-01-21 | 550 | 6 |
 | 2024-01-22 | 555 | 6 |
 | 2024-01-23 | 558 | 6 |
-| 2024-01-24 | 562 | 6 |
+| 2024-01-24 | 563 | 6 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 511)  
 Sum: 35 (Ranked 542)  
