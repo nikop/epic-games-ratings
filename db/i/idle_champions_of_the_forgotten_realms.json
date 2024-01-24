@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9799,9 +9799,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255365,
+  "EOS_Progressed": 255366,
   "EOS_Completed": 2637,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41454,6 +41454,11 @@
       "Time": "2024-01-24T08:10:37.1674228+00:00",
       "NumProgressed": 255365,
       "NumCompleted": 2637
+    },
+    {
+      "Time": "2024-01-24T09:10:49.0867446+00:00",
+      "NumProgressed": 255366,
+      "NumCompleted": 2637
     }
   ],
   "TotalAchievements": 546,
@@ -42399,9 +42404,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 766
     },
     {
       "ID": "objective_completed_125",
@@ -42879,9 +42884,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_231",
@@ -45832,21 +45837,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221639,
+      "Progressed": 221640,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255365,
+      "Progressed": 255366,
       "Completed": 2637
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:37.1674219+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:49.0867442+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:58:50.5971963+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:37.1697292+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:59:00.9338992+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:49.0891582+00:00"
 }

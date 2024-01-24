@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -10161,9 +10161,9 @@
       "ID": "Level_5_Ship",
       "SetID": "4h07amh",
       "Name": "Veteran Crew",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 152
     },
     {
       "ID": "Minor_Civ_Quest",
@@ -10545,8 +10545,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:29.458717+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:41.2913583+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:59:57.5564488+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:29.4588004+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:00:07.2132585+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:41.2914372+00:00"
 }

@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22697,
+  "EOS_Progressed": 22698,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14818,6 +14818,11 @@
       "Time": "2024-01-24T06:11:11.4623654+00:00",
       "NumProgressed": 22697,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T09:10:25.0672021+00:00",
+      "NumProgressed": 22698,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14933,7 +14938,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5447
+      "UsersEstimate": 5448
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14957,7 +14962,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "KILL_ROBOT",
@@ -14973,7 +14978,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14989,7 +14994,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4313
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14997,7 +15002,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15029,7 +15034,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "STORY_HABITAT",
@@ -15204,13 +15209,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22697,
+      "Progressed": 22698,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10623,
+      "Progressed": 10624,
       "Completed": 29
     }
   ],
@@ -15218,8 +15223,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:13.2927637+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:25.0672017+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:03:37.7414578+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:13.2928516+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:03:55.8654197+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:25.0672886+00:00"
 }

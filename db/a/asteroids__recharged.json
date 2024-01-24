@@ -3,7 +3,7 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8348,
+  "EOS_Progressed": 8351,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1073,
+  "EOS_NewPlayers": 1076,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3504,6 +3504,11 @@
       "Time": "2024-01-24T08:09:05.5206262+00:00",
       "NumProgressed": 8348,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T09:09:16.90162+00:00",
+      "NumProgressed": 8351,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -3515,7 +3520,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -3547,7 +3552,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3563,7 +3568,7 @@
       "Name": "Machines",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_MISFIRE",
@@ -3579,7 +3584,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3603,7 +3608,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4257
+      "UsersEstimate": 4259
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3611,7 +3616,7 @@
       "Name": "The Hitman",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3635,14 +3640,14 @@
       "Name": "We Will Rock You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8348,
+      "Progressed": 8351,
       "Completed": 8
     }
   ],
@@ -3650,8 +3655,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:09:05.5206258+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:09:16.9016197+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:58:01.5460031+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:09:05.5206726+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:58:13.0924193+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:09:16.9016627+00:00"
 }

@@ -21,7 +21,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Hero Killer | 26.00% | ~3,892 |
 | Brain at Full Throttle | 20.00% | ~2,994 |
 | Rookies Welcome | 18.00% | ~2,694 |
-| Deadly Power | 16.00% | ~2,395 |
+| Deadly Power | 17.00% | ~2,545 |
 | Castle Restoration Plans | 13.00% | ~1,946 |
 | The Dwarven Chandelier | 11.00% | ~1,646 |
 | Master of Speed | 10.00% | ~1,497 |

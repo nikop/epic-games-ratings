@@ -445,9 +445,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430055,
+  "EOS_Progressed": 430072,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6996,
+  "EOS_NewPlayers": 6997,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4650,6 +4650,11 @@
       "Time": "2024-01-24T08:05:29.623549+00:00",
       "NumProgressed": 430055,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T09:05:48.5105901+00:00",
+      "NumProgressed": 430072,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4670,7 +4675,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30104
+      "UsersEstimate": 30105
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4694,7 +4699,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98913
+      "UsersEstimate": 98917
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4718,7 +4723,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111814
+      "UsersEstimate": 111819
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4726,7 +4731,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94612
+      "UsersEstimate": 94616
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4758,7 +4763,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17202
+      "UsersEstimate": 17203
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4822,7 +4827,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38705
+      "UsersEstimate": 38706
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4854,7 +4859,7 @@
       "Name": "My Best Battle",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -4870,7 +4875,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34404
+      "UsersEstimate": 34406
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4926,7 +4931,7 @@
       "Name": "No Regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -4942,7 +4947,7 @@
       "Name": "Looking for Friends",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "ACHIEVEMENT_037",
@@ -4950,7 +4955,7 @@
       "Name": "Unrelenting Spear",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "ACHIEVEMENT_038",
@@ -4958,7 +4963,7 @@
       "Name": "Storm Watch",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -4974,7 +4979,7 @@
       "Name": "Mercenary Business",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -5005,7 +5010,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 430055,
+      "Progressed": 430072,
       "Completed": 4
     }
   ],
@@ -5013,8 +5018,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-24T06:03:55.6643262+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:05:29.6235484+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:05:48.5105899+00:00",
   "LastUpdate_AppInfo": "2024-01-23T13:04:44.661281+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:03:26.0197852+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:05:29.6236085+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:03:44.4554703+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:05:48.5106588+00:00"
 }

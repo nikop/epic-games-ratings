@@ -1627,7 +1627,7 @@
   ],
   "EOS_Progressed": 14968,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10815,9 +10815,9 @@
       "ID": "FakeGoddessGone_2",
       "SetID": "97dk767",
       "Name": "Deadly Power",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2545
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -10959,8 +10959,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-24T03:00:19.7270261+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:09:47.3452646+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:09:58.4503078+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:00:23.3919983+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:09:47.3453241+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:00:34.4227323+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:09:58.4503603+00:00"
 }

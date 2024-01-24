@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,963 |
-| The Blues | 85.00% | ~630,170 |
+| Out of bed | 99.00% | ~733,964 |
+| The Blues | 85.00% | ~630,171 |
 | Fast | 66.00% | ~489,309 |
-| Healthbar | 55.00% | ~407,757 |
+| Healthbar | 55.00% | ~407,758 |
 | Force Cube | 53.00% | ~392,930 |
 | Double Jump | 48.00% | ~355,861 |
-| Regeneration | 47.00% | ~348,447 |
-| Triple Jump | 43.00% | ~318,792 |
-| Climb the hill | 42.00% | ~311,378 |
+| Regeneration | 47.00% | ~348,448 |
+| Triple Jump | 43.00% | ~318,793 |
+| Climb the hill | 42.00% | ~311,379 |
 | Through the fire pipe | 39.00% | ~289,137 |
-| MacGuffin | 38.00% | ~281,723 |
-| Just once | 37.00% | ~274,309 |
+| MacGuffin | 38.00% | ~281,724 |
+| Just once | 37.00% | ~274,310 |
 | Armor | 30.00% | ~222,413 |
 | True holy spirit | 28.00% | ~207,586 |
 | That's how electronics work obviously | 27.00% | ~200,172 |
@@ -38,12 +38,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Helped a star | 13.00% | ~96,379 |
 | Purple Cube | 13.00% | ~96,379 |
 | Strong | 12.00% | ~88,965 |
-| Blue King's lair | 11.00% | ~81,551 |
-| Payback | 11.00% | ~81,551 |
-| Got the coins back | 11.00% | ~81,551 |
-| Got the gun back | 11.00% | ~81,551 |
-| Infiltrated | 11.00% | ~81,551 |
-| Robbed | 11.00% | ~81,551 |
+| Blue King's lair | 11.00% | ~81,552 |
+| Payback | 11.00% | ~81,552 |
+| Got the coins back | 11.00% | ~81,552 |
+| Got the gun back | 11.00% | ~81,552 |
+| Infiltrated | 11.00% | ~81,552 |
+| Robbed | 11.00% | ~81,552 |
 | Fire Flies | 10.00% | ~74,138 |
 | Cave Flies | 10.00% | ~74,138 |
 | Gold Scam | 10.00% | ~74,138 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,377 (Ranked 27)  
+Progressed: 741,378 (Ranked 27)  
 Completed: 784 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 784 (0.11%) (Ranked 315)
 | 2024-01-21 | 741,153 | 784 |
 | 2024-01-22 | 741,258 | 784 |
 | 2024-01-23 | 741,349 | 784 |
-| 2024-01-24 | 741,377 | 784 |
+| 2024-01-24 | 741,378 | 784 |
 ## Awards
 Max (Challenging Puzzles): 7,785  (Ranked 55)  
 Sum: 10,176 (Ranked 97)  

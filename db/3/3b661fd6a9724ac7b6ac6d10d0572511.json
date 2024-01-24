@@ -9757,9 +9757,9 @@
       "Count": 1593
     }
   ],
-  "EOS_Progressed": 1852592,
+  "EOS_Progressed": 1852612,
   "EOS_Completed": 750,
-  "EOS_NewPlayers": 6214,
+  "EOS_NewPlayers": 6202,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -36867,6 +36867,11 @@
       "Time": "2024-01-24T08:10:39.3544242+00:00",
       "NumProgressed": 1852592,
       "NumCompleted": 750
+    },
+    {
+      "Time": "2024-01-24T09:10:50.9649754+00:00",
+      "NumProgressed": 1852612,
+      "NumCompleted": 750
     }
   ],
   "TotalAchievements": 1328,
@@ -36934,7 +36939,7 @@
       "Name": "The Collector",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129681
+      "UsersEstimate": 129683
     },
     {
       "ID": "armed_and_dangerous",
@@ -36950,7 +36955,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 111156
+      "UsersEstimate": 111157
     },
     {
       "ID": "armored_1",
@@ -38078,7 +38083,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 240837
+      "UsersEstimate": 240840
     },
     {
       "ID": "brooklyn_2",
@@ -38302,7 +38307,7 @@
       "Name": "Virus",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129681
+      "UsersEstimate": 129683
     },
     {
       "ID": "cac_29",
@@ -38382,7 +38387,7 @@
       "Name": "Hipster",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "cac_5",
@@ -38534,7 +38539,7 @@
       "Name": "All Eggs in One Basket",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "charliesierra_6",
@@ -41350,7 +41355,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 92630
+      "UsersEstimate": 92631
     },
     {
       "ID": "gorilla_1",
@@ -41494,7 +41499,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 148207
+      "UsersEstimate": 148209
     },
     {
       "ID": "halloween_1",
@@ -41630,7 +41635,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 148207
+      "UsersEstimate": 148209
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -42502,7 +42507,7 @@
       "Name": "Just Some Medical Students",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "nmh_10",
@@ -42590,15 +42595,15 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203785
+      "UsersEstimate": 203787
     },
     {
       "ID": "no_turning_back",
       "SetID": "61cefe3",
       "Name": "No Turning Back",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 185259
+      "UsersEstimate": 203787
     },
     {
       "ID": "orange_1",
@@ -43702,7 +43707,7 @@
       "Name": "The Heat\u0027s Around the Corner",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "run_10",
@@ -43886,7 +43891,7 @@
       "Name": "Press [F] to Pay Respects",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "sah_11",
@@ -44806,7 +44811,7 @@
       "Name": "Lift With Your Legs",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "trk_af_2",
@@ -45038,7 +45043,7 @@
       "Name": "Goldmember",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "trk_bg_3",
@@ -46246,7 +46251,7 @@
       "Name": "All That Glimmer isn\u0027t Gold",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "trk_js_3",
@@ -46446,7 +46451,7 @@
       "Name": "Do the Kozak Dance",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "trk_nc_2",
@@ -46718,7 +46723,7 @@
       "Name": "Milk and Cookies",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "trk_sw_1",
@@ -47022,7 +47027,7 @@
       "Name": "The Princess is in Another Safe!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "trk_uj_3",
@@ -47382,7 +47387,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 111156
+      "UsersEstimate": 111157
     },
     {
       "ID": "wwh_1",
@@ -47486,7 +47491,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203785
+      "UsersEstimate": 203787
     },
     {
       "ID": "you_shall_not_pass",
@@ -47501,13 +47506,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1852592,
+      "Progressed": 1852612,
       "Completed": 750
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1852592,
+      "Progressed": 1852612,
       "Completed": 128
     }
   ],
@@ -47515,8 +47520,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2024-01-24T06:58:09.4076835+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:39.3544237+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:50.964975+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.7387498+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:58:07.9852926+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:39.366143+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:58:19.4522873+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:50.9770982+00:00"
 }

@@ -19016,10 +19016,10 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1057944,
+  "EOS_Progressed": 1057955,
   "EOS_Completed": 3154,
-  "EOS_NewPlayers": 4632,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 4613,
+  "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50981,6 +50981,11 @@
       "Time": "2024-01-24T08:09:25.4065854+00:00",
       "NumProgressed": 1057944,
       "NumCompleted": 3154
+    },
+    {
+      "Time": "2024-01-24T09:09:36.4346121+00:00",
+      "NumProgressed": 1057955,
+      "NumCompleted": 3154
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51119,9 +51124,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4232
+      "UsersEstimate": 5290
     },
     {
       "ID": "MustBeTheRats",
@@ -51528,21 +51533,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057944,
+      "Progressed": 1057955,
       "Completed": 3154
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186567,
+      "Progressed": 186578,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-24T06:04:02.2634585+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:09:25.4065852+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:09:36.4346119+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:03:30.4063006+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:09:25.4067475+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:03:48.8802131+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:09:36.4347757+00:00"
 }

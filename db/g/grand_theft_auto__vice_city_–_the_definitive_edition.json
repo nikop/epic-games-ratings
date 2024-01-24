@@ -1074,7 +1074,7 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16668,
+  "EOS_Progressed": 16670,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 8,
@@ -18919,6 +18919,11 @@
       "Time": "2024-01-24T08:10:18.264223+00:00",
       "NumProgressed": 16668,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-24T09:10:30.0381283+00:00",
+      "NumProgressed": 16670,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18954,7 +18959,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH05",
@@ -19034,7 +19039,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "ACH15",
@@ -19090,7 +19095,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7834
+      "UsersEstimate": 7835
     },
     {
       "ID": "ACH22",
@@ -19106,7 +19111,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "ACH24",
@@ -19201,7 +19206,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16668,
+      "Progressed": 16670,
       "Completed": 109
     }
   ],
@@ -19209,8 +19214,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:18.2642227+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:30.038128+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:58:04.2821442+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:18.2643102+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:58:15.6300727+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:30.0382229+00:00"
 }

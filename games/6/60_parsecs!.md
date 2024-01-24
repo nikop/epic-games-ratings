@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,582 |
-| Space Colonization | 78.00% | ~1,285 |
-| Friendzone | 76.00% | ~1,252 |
-| Hello World | 71.00% | ~1,170 |
-| Tinkerer | 60.00% | ~989 |
-| Space Engineer | 59.00% | ~972 |
-| Dust to Dust | 55.00% | ~906 |
-| Across The Stars | 43.00% | ~709 |
+| Don't Panic! | 96.00% | ~1,584 |
+| Space Colonization | 78.00% | ~1,287 |
+| Friendzone | 76.00% | ~1,254 |
+| Hello World | 71.00% | ~1,172 |
+| Tinkerer | 60.00% | ~990 |
+| Space Engineer | 59.00% | ~974 |
+| Dust to Dust | 55.00% | ~908 |
+| Across The Stars | 43.00% | ~710 |
 | Crafty | 41.00% | ~676 |
 | All Seats Taken | 33.00% | ~544 |
-| For Science! | 30.00% | ~494 |
-| Meet the Petersons | 30.00% | ~494 |
+| For Science! | 30.00% | ~495 |
+| Meet the Petersons | 30.00% | ~495 |
 | KIA | 25.00% | ~412 |
 | Stay Cool | 25.00% | ~412 |
 | Mutiny in making | 22.00% | ~363 |
 | Et tu, Astrocitizen? | 18.00% | ~297 |
 | Eco-Shuttle | 16.00% | ~264 |
 | Space Explorer | 13.00% | ~214 |
-| Hands Full | 11.00% | ~181 |
+| Hands Full | 11.00% | ~182 |
 | Gold Medalist | 10.00% | ~165 |
 | Non-Fiction | 9.00% | ~148 |
 | No Man Left Behind | 8.00% | ~132 |
-| Intergalactic Breakup | 7.00% | ~115 |
+| Intergalactic Breakup | 7.00% | ~116 |
 | First of April | 6.00% | ~99 |
 | Second Life | 6.00% | ~99 |
 | Axel jump in space! | 5.00% | ~82 |
 | Fix-It Felix | 5.00% | ~82 |
 | Flawless Maegangement | 5.00% | ~82 |
 | Extreme Makeover | 4.00% | ~66 |
-| The Improvinator | 3.00% | ~49 |
-| The Last Supper | 3.00% | ~49 |
+| The Improvinator | 3.00% | ~50 |
+| The Last Supper | 3.00% | ~50 |
 | 2018: A Soup Odyssey | 2.00% | ~33 |
 | Bovine Domain | 1.00% | ~16 |
 | That's No Moon! | 1.00% | ~16 |
@@ -49,8 +49,8 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,648 (Ranked 268)  
-Completed: 1 (0.06%) (Ranked 339)  
+Progressed: 1,650 (Ranked 268)  
+Completed: 1 (0.06%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 1 (0.06%) (Ranked 339)
 | 2024-01-21 | 1,495 | 1 |
 | 2024-01-22 | 1,590 | 1 |
 | 2024-01-23 | 1,644 | 1 |
-| 2024-01-24 | 1,648 | 1 |
+| 2024-01-24 | 1,650 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

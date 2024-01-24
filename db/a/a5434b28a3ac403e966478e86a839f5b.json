@@ -5,9 +5,9 @@
   "Ranking_Rating": 132,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 993,
+  "EOS_Progressed": 994,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -3542,6 +3542,11 @@
       "Time": "2024-01-22T16:05:03.4327228+00:00",
       "NumProgressed": 993,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-24T09:05:48.3114961+00:00",
+      "NumProgressed": 994,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3562,7 +3567,7 @@
       "Name": "Establish Communications",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_eou2",
@@ -3578,7 +3583,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_eou4",
@@ -3650,14 +3655,14 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 993,
+      "Progressed": 994,
       "Completed": 12
     }
   ],
@@ -3665,8 +3670,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-22T20:59:39.7150898+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:05:29.419286+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:05:48.3114957+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:59:52.5043907+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:05:29.4193138+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:00:02.9179871+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:05:48.3115212+00:00"
 }

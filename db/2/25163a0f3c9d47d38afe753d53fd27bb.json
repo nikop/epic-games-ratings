@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1838,
+  "EOS_Progressed": 1839,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.18,
   "EosHistory": [
@@ -4739,6 +4739,11 @@
       "Time": "2024-01-24T02:01:33.0097539+00:00",
       "NumProgressed": 1838,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2024-01-24T09:10:34.0422997+00:00",
+      "NumProgressed": 1839,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 30,
@@ -4750,7 +4755,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "LEVEL_002",
@@ -4758,7 +4763,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "LEVEL_003",
@@ -4766,7 +4771,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "LEVEL_004",
@@ -4774,7 +4779,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "LEVEL_005",
@@ -4782,7 +4787,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "LEVEL_006",
@@ -4806,7 +4811,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "LEVEL_009",
@@ -4814,7 +4819,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "LEVEL_010",
@@ -4830,7 +4835,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "LEVEL_012",
@@ -4854,7 +4859,7 @@
       "Name": "Cross-country",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "LEVEL_015",
@@ -4918,7 +4923,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_023",
@@ -4926,7 +4931,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_024",
@@ -4989,14 +4994,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1838,
+      "Progressed": 1839,
       "Completed": 132
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:22.3221423+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:34.0422995+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:18.273311+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:00:05.8356998+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:22.3221958+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:00:15.5186027+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:34.0423344+00:00"
 }

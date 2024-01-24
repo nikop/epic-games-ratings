@@ -4,7 +4,7 @@
   "ProductSlug": "fishing-planet-87df68",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -202,8 +202,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:03:46.6112871+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:04:06.2470973+00:00",
   "LastUpdate_AppInfo": "2024-01-18T09:57:56.8932402+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:00:17.3257012+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:03:46.6113028+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:00:28.0361447+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:04:06.247108+00:00"
 }

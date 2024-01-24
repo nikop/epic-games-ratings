@@ -4,7 +4,7 @@
   "ProductSlug": "lil-guardsman-3cf46c",
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "CompleteLevel9",
       "SetID": "8j3le2g",
       "Name": "A Spy Among Goblins",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DreamMarvaghWedding",
@@ -324,9 +324,9 @@
       "ID": "PerfectLevel9",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 9",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RiskItForTheBicuit",
@@ -442,8 +442,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:04:20.1255513+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:04:39.988352+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:58:18.4496297+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:04:20.1255775+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:58:29.5804341+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:04:39.9883913+00:00"
 }

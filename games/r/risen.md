@@ -37,9 +37,9 @@ Rating: 4.60 (Ranked 431)
 | Showdown | 13.00% | ~28 |
 | Workaholic | 13.00% | ~28 |
 | Titan Lord | 11.00% | ~24 |
+| Safecracker | 10.00% | ~22 |
 | Master thief | 10.00% | ~22 |
 | Freedom fighter | 9.00% | ~19 |
-| Safecracker | 9.00% | ~19 |
 | Expert | 8.00% | ~17 |
 | The traveler | 6.00% | ~13 |
 | Terror of the hens | 6.00% | ~13 |

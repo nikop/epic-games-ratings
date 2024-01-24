@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2129,6 +2129,11 @@
       "Time": "2024-01-22T20:08:46.6358477+00:00",
       "NumProgressed": 543,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T09:04:21.8627044+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2205,7 +2210,7 @@
       "Name": "Ludopath",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "AC_BOSS_00",
@@ -2213,7 +2218,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "AC_BOSS_01",
@@ -2333,7 +2338,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2341,7 +2346,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2349,7 +2354,7 @@
       "Name": "Voyage",
       "Percentage": 31,
       "XP": 45,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2357,7 +2362,7 @@
       "Name": "Player",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2421,7 +2426,7 @@
       "Name": "Cook",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2476,14 +2481,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:04:02.0690893+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:04:21.862704+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.4116417+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:59:29.0753013+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:04:02.0691188+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:59:40.0869563+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:04:21.8627424+00:00"
 }

@@ -1452,7 +1452,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34219,
+  "EOS_Progressed": 34221,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
@@ -31527,6 +31527,11 @@
       "Time": "2024-01-24T08:10:16.069677+00:00",
       "NumProgressed": 34219,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-24T09:10:27.7873137+00:00",
+      "NumProgressed": 34221,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31642,7 +31647,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5817
+      "UsersEstimate": 5818
     },
     {
       "ID": "1029",
@@ -31666,7 +31671,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4448
+      "UsersEstimate": 4449
     },
     {
       "ID": "1032",
@@ -31698,7 +31703,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4106
+      "UsersEstimate": 4107
     },
     {
       "ID": "1036",
@@ -31713,15 +31718,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34219,
+      "Progressed": 34221,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:16.0696767+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:27.7873133+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:57:44.6254858+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:16.0698141+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:57:56.1902914+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:27.7874566+00:00"
 }

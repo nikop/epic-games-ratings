@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.40% | ~1,021 |
 | Building Trust | 0.40% | ~1,021 |
 | No Time To Rest | 0.40% | ~1,021 |
+| The Dinner Party | 0.40% | ~1,021 |
 | Useless Allies | 0.40% | ~1,021 |
 | Running of the Saurs | 0.40% | ~1,021 |
 | Waterdeep Detours | 0.40% | ~1,021 |
@@ -48,11 +49,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chaos Theory | 0.40% | ~887 |
 | The Silken Swamp | 0.30% | ~766 |
 | Supply Run | 0.30% | ~766 |
+| Homecoming | 0.30% | ~766 |
 | Street War | 0.30% | ~766 |
 | March of the Undead | 0.30% | ~766 |
 | Wisdom Check | 0.30% | ~766 |
 | Invisible Shadows | 0.30% | ~766 |
-| The Dinner Party | 0.30% | ~766 |
 | The Botched Kidnapping | 0.30% | ~766 |
 | Trollskull Manor | 0.30% | ~766 |
 | Attack on the Manor | 0.30% | ~766 |
@@ -77,7 +78,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.20% | ~511 |
 | Return to the Tomb | 0.20% | ~443 |
 | Heatwave | 0.20% | ~443 |
-| Homecoming | 0.20% | ~511 |
 | The Lost Heir of Omu | 0.20% | ~511 |
 | Lobsterfolk Assault | 0.20% | ~511 |
 | The Forbidden City | 0.20% | ~511 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,365 (Ranked 71)  
+Progressed: 255,366 (Ranked 71)  
 Completed: 2,637 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,7 +832,7 @@ Completed: 2,637 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,365 | 2,637 |
+| 2024-01-24 | 255,366 | 2,637 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,620 (Ranked 41)  

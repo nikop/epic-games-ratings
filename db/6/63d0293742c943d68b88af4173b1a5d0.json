@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 956,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3029,6 +3029,11 @@
       "Time": "2024-01-24T06:05:35.8018454+00:00",
       "NumProgressed": 954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T09:05:00.8974725+00:00",
+      "NumProgressed": 956,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3081,7 +3086,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "9",
@@ -3105,7 +3110,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 677
+      "UsersEstimate": 679
     },
     {
       "ID": "REMAKE_004",
@@ -3113,7 +3118,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Remake_005",
@@ -3153,7 +3158,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Remake_010",
@@ -3257,21 +3262,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 956,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:04:42.2504533+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:05:00.8974721+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:58:57.1688759+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:04:42.2504835+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:59:07.4097387+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:05:00.8975072+00:00"
 }

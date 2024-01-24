@@ -9,7 +9,7 @@
 | A turbulent river. | 19.00% | ~59 |
 | In the treetops. | 18.00% | ~56 |
 | At the top of the mountain. | 17.00% | ~53 |
-| Aggressive rocks. | 16.00% | ~49 |
+| Aggressive rocks. | 16.00% | ~50 |
 | Dino Ride. | 14.00% | ~43 |
 | In the heart of the volcano. | 11.00% | ~34 |
 | Rocky fall. | 11.00% | ~34 |
@@ -18,10 +18,10 @@
 | Swimming on a dino's back. | 8.00% | ~25 |
 | The mountain of peril. | 7.00% | ~22 |
 | Lightning swamp. | 6.00% | ~19 |
-| Passing the carcass. | 5.00% | ~15 |
+| Passing the carcass. | 5.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 404)  
-Completed: 7 (2.27%) (Ranked 132)  
+Progressed: 310 (Ranked 404)  
+Completed: 7 (2.26%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 7 (2.27%) (Ranked 132)
 | 2024-01-12 | 306 | 7 |
 | 2024-01-14 | 308 | 7 |
 | 2024-01-23 | 309 | 7 |
+| 2024-01-24 | 310 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

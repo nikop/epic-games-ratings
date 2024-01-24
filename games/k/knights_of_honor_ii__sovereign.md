@@ -11,9 +11,9 @@ Rating: 4.35 (Ranked 836)
 | Can’t Touch This | 10.00% | ~11 |
 | Full House | 10.00% | ~11 |
 | There is no Nobility in Poverty | 9.00% | ~10 |
-| Path of Glory | 8.00% | ~8 |
+| Path of Glory | 8.00% | ~9 |
+| They Got What They Deserved | 7.00% | ~7 |
 | The finest merchandise this side of river Jordan | 6.00% | ~6 |
-| They Got What They Deserved | 6.00% | ~6 |
 | Call the Boys | 5.00% | ~5 |
 | Do you read Sutter Cane? | 5.00% | ~5 |
 | What we’ve got here is failure to communicate | 5.00% | ~5 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 497)  
+Progressed: 107 (Ranked 495)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 106 | 0 |
+| 2024-01-24 | 107 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

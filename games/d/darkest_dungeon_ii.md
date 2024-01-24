@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,269 |
+| Malpractice Assurance | 15.00% | ~1,270 |
 | Lost and Found | 9.00% | ~762 |
 | Autodidact | 8.00% | ~10,688 |
 | Serenity Now! | 7.00% | ~9,352 |
 | This Belongs in a Museum | 7.00% | ~9,352 |
 | Creep and Sleep | 7.00% | ~9,352 |
 | Overdue Notice | 7.00% | ~9,352 |
-| This guy... again? | 7.00% | ~592 |
-| Ploughshares to Swords | 7.00% | ~592 |
+| This guy... again? | 7.00% | ~593 |
+| Ploughshares to Swords | 7.00% | ~593 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,016 |
 | Meat and Greet | 6.00% | ~8,016 |
 | Catch and Decease | 6.00% | ~8,016 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,594 (Ranked 92)  
+Progressed: 133,596 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,10 +355,10 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
-| 2024-01-24 | 133,594 | 5 |
+| 2024-01-24 | 133,596 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
-Sum: 21,839 (Ranked 59)  
+Sum: 21,842 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -367,9 +367,9 @@ Diff (max vs sum): -7
 | This game has Challenging Combat | 1,694 |
 | This game is Highly Recommended | 1,617 |
 | This game has Amazing Characters | 1,544 |
-| This game is Extremely Fun | 1,536 |
+| This game is Extremely Fun | 1,538 |
 | This game has Unique Visuals | 1,488 |
-| This game has Amazing Storytelling | 1,460 |
+| This game has Amazing Storytelling | 1,461 |
 | This game has Quickly Understood Controls | 1,435 |
 | This game has a Creative Community | 1,113 |
 | This game has Obsessive Gameplay | 585 |
@@ -738,4 +738,4 @@ Diff (max vs sum): -7
 | 2024-01-21 | 4.69 | - | 8,057 | 21,807 |
 | 2024-01-22 | 4.69 | - | 8,062 | 21,824 |
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
-| 2024-01-24 | 4.69 | - | 8,066 | 21,839 |
+| 2024-01-24 | 4.69 | - | 8,066 | 21,842 |

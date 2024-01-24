@@ -11140,10 +11140,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21839,
       "NumberOfAwardsMax": 8066
+    },
+    {
+      "Time": "2024-01-24T09:00:04.4948558+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21842,
+      "NumberOfAwardsMax": 8066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21839,
+  "NumberOfAwards": 21842,
   "NumberOfAwardsMax": 8066,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11169,7 +11175,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1536
+      "Count": 1538
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11211,7 +11217,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1460
+      "Count": 1461
     },
     {
       "Text": "This game has a Creative Community",
@@ -11220,9 +11226,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133594,
+  "EOS_Progressed": 133596,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41270,6 +41276,11 @@
       "Time": "2024-01-24T08:10:26.5956178+00:00",
       "NumProgressed": 133594,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T09:10:38.3006262+00:00",
+      "NumProgressed": 133596,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41817,7 +41828,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "combat_kill_collector",
@@ -41825,7 +41836,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41865,7 +41876,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -41912,21 +41923,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133594,
+      "Progressed": 133596,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8463,
+      "Progressed": 8465,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-24T04:01:10.6961794+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:26.5956175+00:00",
+  "LastChanged": "2024-01-24T09:00:04.4948557+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:38.3006258+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:59:54.1124232+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:26.5958469+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:00:04.4948563+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:38.300788+00:00"
 }

@@ -12,9 +12,9 @@ Rating: 4.51 (Ranked 600)
 | Fond Memories | 49.00% | ~798 |
 | A Method To His Madness | 47.00% | ~766 |
 | History Check | 46.00% | ~749 |
+| Gaze Into The Abyss | 43.00% | ~700 |
 | The New World | 43.00% | ~700 |
 | Lock, Stock, And Barrel | 42.00% | ~684 |
-| Gaze Into The Abyss | 42.00% | ~684 |
 | Open Sesame | 42.00% | ~684 |
 | Sticky Fingers | 42.00% | ~684 |
 | Knives Out | 42.00% | ~684 |

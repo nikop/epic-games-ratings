@@ -6,18 +6,18 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~130,332 |
+| Immovable Object | 89.00% | ~130,333 |
 | Comeback | 82.00% | ~120,082 |
-| Information is Key | 80.00% | ~117,153 |
+| Information is Key | 80.00% | ~117,154 |
 | Unlucky | 70.00% | ~102,509 |
-| Anarchist | 68.00% | ~99,580 |
+| Anarchist | 68.00% | ~99,581 |
 | Wallhack | 65.00% | ~95,187 |
 | Steady Supply | 60.00% | ~87,865 |
 | Lucky Shot | 53.00% | ~77,614 |
-| Ring Ring! | 52.00% | ~76,149 |
+| Ring Ring! | 52.00% | ~76,150 |
 | Forward Observer | 51.00% | ~74,685 |
-| Bossing Around | 45.00% | ~65,898 |
-| Frostbite | 45.00% | ~65,898 |
+| Bossing Around | 45.00% | ~65,899 |
+| Frostbite | 45.00% | ~65,899 |
 | Night Owl | 44.00% | ~64,434 |
 | Strength in Numbers | 44.00% | ~64,434 |
 | Fog of War | 41.00% | ~60,041 |
@@ -26,19 +26,19 @@ Number of Ratings: 13,393  (23.09.2022)
 | Rasputin | 38.00% | ~55,648 |
 | Hydra | 36.00% | ~52,719 |
 | This Belongs to Us Now | 36.00% | ~52,719 |
-| Stronghold | 35.00% | ~51,254 |
+| Stronghold | 35.00% | ~51,255 |
 | Leeroy | 33.00% | ~48,326 |
 | Lost Batallion | 33.00% | ~48,326 |
 | This is MY Machine Gun! | 31.00% | ~45,397 |
 | Together As One | 31.00% | ~45,397 |
 | Gavrilo Princip | 27.00% | ~39,539 |
 | Lead Harvest | 25.00% | ~36,610 |
-| Skynet Confirmed | 23.00% | ~33,681 |
+| Skynet Confirmed | 23.00% | ~33,682 |
 | Kesselschlacht | 22.00% | ~32,217 |
 | Democracy Works! | 20.00% | ~29,288 |
 | Switch, Please! | 19.00% | ~27,824 |
-| At Least This Way I Can Win... | 18.00% | ~26,359 |
-| Tourist | 18.00% | ~26,359 |
+| At Least This Way I Can Win... | 18.00% | ~26,360 |
+| Tourist | 18.00% | ~26,360 |
 | I've Seen It All | 17.00% | ~24,895 |
 | Oops! | 17.00% | ~24,895 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~23,431 |
@@ -51,7 +51,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Hawk Eye | 8.00% | ~11,715 |
 | Equality For All | 7.00% | ~10,251 |
 | Hötzendorf | 7.00% | ~10,251 |
-| Crack Shot | 6.00% | ~8,786 |
+| Crack Shot | 6.00% | ~8,787 |
 | From Russia with Love | 5.00% | ~7,322 |
 | Overachiever | 5.00% | ~7,322 |
 | Your Family Will Be Proud... | 5.00% | ~7,322 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,318 |
 | Road to Berlin | 0.60% | ~879 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,441 (Ranked 89)  
+Progressed: 146,442 (Ranked 89)  
 Completed: 35 (0.02%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 35 (0.02%) (Ranked 373)
 | 2024-01-21 | 146,212 | 35 |
 | 2024-01-22 | 146,308 | 35 |
 | 2024-01-23 | 146,415 | 35 |
-| 2024-01-24 | 146,441 | 35 |
+| 2024-01-24 | 146,442 | 35 |
 ## Awards
 Max (Competitive Players): 336  (Ranked 254)  
 Sum: 2,978 (Ranked 188)  

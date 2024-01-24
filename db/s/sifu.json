@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9231,10 +9231,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762604,
-  "EOS_Completed": 13007,
-  "EOS_NewPlayers": 1291,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 762611,
+  "EOS_Completed": 13008,
+  "EOS_NewPlayers": 1286,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -35136,6 +35136,11 @@
       "Time": "2024-01-24T08:10:04.7318474+00:00",
       "NumProgressed": 762604,
       "NumCompleted": 13007
+    },
+    {
+      "Time": "2024-01-24T09:10:16.2445231+00:00",
+      "NumProgressed": 762611,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35147,7 +35152,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45756
+      "UsersEstimate": 45757
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35155,7 +35160,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38130
+      "UsersEstimate": 38131
     },
     {
       "ID": "03_Vengeance_H2",
@@ -35323,7 +35328,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38130
+      "UsersEstimate": 38131
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -35411,7 +35416,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38130
+      "UsersEstimate": 38131
     },
     {
       "ID": "35_WideStrike",
@@ -35626,21 +35631,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71905,
+      "Progressed": 71912,
       "Completed": 10820
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762604,
-      "Completed": 13007
+      "Progressed": 762611,
+      "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-24T08:03:26.8079747+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:10:04.731847+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:10:16.2445225+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-24T08:03:26.8079753+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:10:04.7319973+00:00"
+  "LastUpdate_Ratings": "2024-01-24T09:03:45.3020622+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:10:16.2446892+00:00"
 }

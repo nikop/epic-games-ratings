@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19258,
+  "EOS_Progressed": 19260,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18123,6 +18123,11 @@
       "Time": "2024-01-24T05:05:50.6974668+00:00",
       "NumProgressed": 19258,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-24T09:06:29.9518848+00:00",
+      "NumProgressed": 19260,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18279,7 +18284,7 @@
       "Name": "Call it Even",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "27",
@@ -18343,7 +18348,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "7",
@@ -18391,7 +18396,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "34",
@@ -18414,13 +18419,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19258,
+      "Progressed": 19260,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5212,
+      "Progressed": 5214,
       "Completed": 1400
     }
   ],
@@ -18428,8 +18433,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-24T08:06:11.330499+00:00",
+  "LastChanged_Achievements": "2024-01-24T09:06:29.9518844+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T07:59:40.1920997+00:00",
-  "LastUpdate_Achievements": "2024-01-24T08:06:11.3305893+00:00"
+  "LastUpdate_Ratings": "2024-01-24T08:59:50.8000312+00:00",
+  "LastUpdate_Achievements": "2024-01-24T09:06:29.9519877+00:00"
 }
