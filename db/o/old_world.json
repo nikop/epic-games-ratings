@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17131,
+  "EOS_Progressed": 17133,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20879,6 +20879,11 @@
       "Time": "2024-01-24T04:12:02.6638992+00:00",
       "NumProgressed": 17131,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T05:10:38.2614928+00:00",
+      "NumProgressed": 17133,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22224,9 +22229,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -22728,9 +22733,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -23680,9 +23685,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_JEBEL_BARKAL",
       "SetID": "9201eeb",
       "Name": "Jebel Barkal",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_JERWAN_AQUEDUCT",
@@ -23753,21 +23758,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17131,
+      "Progressed": 17133,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17131,
+      "Progressed": 17133,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:12:02.6638985+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:10:38.2614925+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:00:29.3273947+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:12:02.6648792+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:59:08.5935248+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:10:38.2624262+00:00"
 }

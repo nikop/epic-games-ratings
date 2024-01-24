@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8311,7 +8311,7 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152638,
+  "EOS_Progressed": 152643,
   "EOS_Completed": 362,
   "EOS_NewPlayers": 1075,
   "EOS_NewCompleters": 7,
@@ -37941,6 +37941,11 @@
       "Time": "2024-01-24T04:10:49.9779826+00:00",
       "NumProgressed": 152638,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2024-01-24T05:09:45.1449893+00:00",
+      "NumProgressed": 152643,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 112,
@@ -38032,7 +38037,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "bigsale02",
@@ -38056,7 +38061,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "blueprint02",
@@ -38176,7 +38181,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "commonres01",
@@ -38184,7 +38189,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16790
+      "UsersEstimate": 16791
     },
     {
       "ID": "commonres02",
@@ -38296,7 +38301,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "energy01",
@@ -38304,7 +38309,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "energy02",
@@ -38432,7 +38437,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "gold03",
@@ -38520,7 +38525,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "legenchant01",
@@ -38598,9 +38603,9 @@
       "ID": "loot04",
       "SetID": "anfd17p",
       "Name": "Anything not Nailed Down",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1374
     },
     {
       "ID": "master01",
@@ -38816,7 +38821,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "workers02",
@@ -38847,15 +38852,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152638,
+      "Progressed": 152643,
       "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-23T21:03:20.3864316+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:10:49.9779822+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:09:45.1449892+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:04:21.9581484+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:10:49.9782093+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:03:27.9249152+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:09:45.1451983+00:00"
 }

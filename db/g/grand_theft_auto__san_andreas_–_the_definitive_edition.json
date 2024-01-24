@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2653,9 +2653,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 19817,
+  "EOS_Progressed": 19818,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21348,6 +21348,11 @@
       "Time": "2024-01-24T02:36:14.5746562+00:00",
       "NumProgressed": 19817,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T05:10:27.2100315+00:00",
+      "NumProgressed": 19818,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 35,
@@ -21359,7 +21364,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16052
+      "UsersEstimate": 16053
     },
     {
       "ID": "ACH02",
@@ -21535,7 +21540,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 5152
+      "UsersEstimate": 5153
     },
     {
       "ID": "ACH24",
@@ -21638,7 +21643,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19817,
+      "Progressed": 19818,
       "Completed": 82
     }
   ],
@@ -21646,8 +21651,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-23T18:58:05.6652416+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:11:49.0622816+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:10:27.2100312+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:58:57.0735838+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:11:49.0623952+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:58:08.1660064+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:10:27.2101382+00:00"
 }

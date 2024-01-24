@@ -8,14 +8,14 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 39.00% | ~7,045 |
 | Man of politics | 34.00% | ~6,142 |
-| Friends of sorts | 32.00% | ~5,780 |
-| Yet another secret | 32.00% | ~5,780 |
+| Friends of sorts | 32.00% | ~5,781 |
+| Yet another secret | 32.00% | ~5,781 |
 | Let there be darkness | 31.00% | ~5,600 |
 | End of Book One | 29.00% | ~5,239 |
 | Wannabe knight | 23.00% | ~4,155 |
 | Garden of Eden | 23.00% | ~4,155 |
 | Full house | 23.00% | ~4,155 |
-| Help an old friend | 21.00% | ~3,793 |
+| Help an old friend | 21.00% | ~3,794 |
 | Two of us | 20.00% | ~3,613 |
 | Negotiation skills | 18.00% | ~3,252 |
 | Workers' union | 18.00% | ~3,252 |
@@ -35,8 +35,8 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,626 |
 | The End. | 9.00% | ~1,626 |
 | Nothing but make-believe | 8.00% | ~1,445 |
-| A cry for help | 7.00% | ~1,264 |
-| Silentium est aureum | 7.00% | ~1,264 |
+| A cry for help | 7.00% | ~1,265 |
+| Silentium est aureum | 7.00% | ~1,265 |
 | Rebel without a cause | 6.00% | ~1,084 |
 | Staring contest champion | 5.00% | ~903 |
 | Lone wolf | 5.00% | ~903 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~542 |
 | Boy of mystery | 2.00% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,064 (Ranked 166)  
+Progressed: 18,065 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 125 (0.69%) (Ranked 207)
 | 2024-01-21 | 18,031 | 125 |
 | 2024-01-22 | 18,050 | 125 |
 | 2024-01-23 | 18,062 | 125 |
-| 2024-01-24 | 18,064 | 125 |
+| 2024-01-24 | 18,065 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 334)  
 Sum: 200 (Ranked 422)  

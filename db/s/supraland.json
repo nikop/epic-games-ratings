@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3529,9 +3529,9 @@
       "Count": 198
     }
   ],
-  "EOS_Progressed": 741366,
+  "EOS_Progressed": 741367,
   "EOS_Completed": 784,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -35079,6 +35079,11 @@
       "Time": "2024-01-24T04:12:00.0482334+00:00",
       "NumProgressed": 741366,
       "NumCompleted": 784
+    },
+    {
+      "Time": "2024-01-24T05:10:35.9904742+00:00",
+      "NumProgressed": 741367,
+      "NumCompleted": 784
     }
   ],
   "TotalAchievements": 98,
@@ -35338,7 +35343,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 392924
+      "UsersEstimate": 392925
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -35450,7 +35455,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 407751
+      "UsersEstimate": 407752
     },
     {
       "ID": "Healthregen",
@@ -35530,7 +35535,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 274305
+      "UsersEstimate": 274306
     },
     {
       "ID": "MacGuffin",
@@ -35602,7 +35607,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 733952
+      "UsersEstimate": 733953
     },
     {
       "ID": "PanicLights",
@@ -35762,7 +35767,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 630161
+      "UsersEstimate": 630162
     },
     {
       "ID": "ThroughPipe",
@@ -35802,7 +35807,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 318787
+      "UsersEstimate": 318788
     },
     {
       "ID": "True_Holy_Spirit",
@@ -35810,7 +35815,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 207582
+      "UsersEstimate": 207583
     },
     {
       "ID": "Waldoh",
@@ -35873,15 +35878,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 741366,
+      "Progressed": 741367,
       "Completed": 784
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-23T16:59:18.4349933+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:12:00.0482332+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:10:35.9904739+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.8310257+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:00:11.9011984+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:12:00.0484198+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:58:56.1421778+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:10:35.9906631+00:00"
 }

@@ -5,43 +5,43 @@ Rating: 4.73 (Ranked 186)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 89.00% | ~701 |
-| Thalya – Simply Immortal | 88.00% | ~693 |
-| For the Horde! | 82.00% | ~646 |
-| Hammer Time, Round Two | 81.00% | ~638 |
-| The Hellwoods | 77.00% | ~607 |
-| The Plains of Strothalm | 73.00% | ~575 |
-| Experienced Thalya | 72.00% | ~567 |
+| The Last Stand | 89.00% | ~702 |
+| Thalya – Simply Immortal | 88.00% | ~694 |
+| For the Horde! | 82.00% | ~647 |
+| Hammer Time, Round Two | 81.00% | ~639 |
+| The Hellwoods | 76.00% | ~600 |
+| The Plains of Strothalm | 72.00% | ~568 |
+| Experienced Thalya | 72.00% | ~568 |
 | Bad Elves Go Everywhere | 70.00% | ~552 |
-| Thalya's Concentrated Fury | 68.00% | ~536 |
-| Heroes’ Gorge | 66.00% | ~520 |
-| Unicorn steaks – fresh off the hoof! | 63.00% | ~496 |
+| Thalya's Concentrated Fury | 68.00% | ~537 |
+| Heroes’ Gorge | 66.00% | ~521 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~497 |
 | Master of Magic | 62.00% | ~489 |
-| The Ascent | 61.00% | ~481 |
-| It's Warm and Cozy at Home | 61.00% | ~481 |
-| Magic Accidents | 58.00% | ~457 |
-| Trap Master | 56.00% | ~441 |
-| Hard Work | 56.00% | ~441 |
-| The Big Eaty | 56.00% | ~441 |
-| Minions, Minions! | 55.00% | ~433 |
+| The Ascent | 60.00% | ~473 |
+| It's Warm and Cozy at Home | 60.00% | ~473 |
+| Magic Accidents | 58.00% | ~458 |
+| Trap Master | 56.00% | ~442 |
+| Hard Work | 56.00% | ~442 |
+| The Big Eaty | 56.00% | ~442 |
+| Minions, Minions! | 55.00% | ~434 |
 | “… like son” | 54.00% | ~426 |
 | YOU SHALL NOT PASS! | 51.00% | ~402 |
 | The Cathedral of Light | 50.00% | ~394 |
 | Shame! Shame! Shame! | 50.00% | ~394 |
-| Tanos' Crusade Against Thalya | 48.00% | ~378 |
-| Pure Dynamite! | 46.00% | ~362 |
-| Dungeonlord Gorgu | 46.00% | ~362 |
+| Tanos' Crusade Against Thalya | 48.00% | ~379 |
+| Pure Dynamite! | 46.00% | ~363 |
+| Dungeonlord Gorgu | 46.00% | ~363 |
 | All’s Well That Ends Evil | 44.00% | ~347 |
 | Mana Cannon | 42.00% | ~331 |
 | The Duel | 41.00% | ~323 |
-| If Looks Could Kill | 39.00% | ~307 |
+| If Looks Could Kill | 39.00% | ~308 |
 | Unstoppable Horde | 37.00% | ~292 |
 | Master of the Undead | 37.00% | ~292 |
 | The Finitude Drill | 37.00% | ~292 |
 | Doom Hill | 33.00% | ~260 |
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~252 |
-| Brimstone Shaken, Not Stirred | 31.00% | ~244 |
-| Forbidden Knowledge | 30.00% | ~236 |
+| Brimstone Shaken, Not Stirred | 31.00% | ~245 |
+| Forbidden Knowledge | 30.00% | ~237 |
 | Hungry, Hungry Gorgu! | 29.00% | ~229 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~229 |
 | Stop Tanos! | 29.00% | ~229 |
@@ -52,8 +52,8 @@ Rating: 4.73 (Ranked 186)
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~213 |
 | The Last Stand - This Time For Real! | 26.00% | ~205 |
 | Rubble and Ashes | 23.00% | ~181 |
-| Lavalumps on Ice! | 22.00% | ~173 |
-| To Infinity And Beyond! | 21.00% | ~165 |
+| Lavalumps on Ice! | 22.00% | ~174 |
+| To Infinity And Beyond! | 21.00% | ~166 |
 | To the Max! | 20.00% | ~158 |
 | Evilification | 20.00% | ~158 |
 | My Little Torture Chamber | 19.00% | ~150 |
@@ -63,12 +63,12 @@ Rating: 4.73 (Ranked 186)
 | Untouchable | 18.00% | ~142 |
 | Laser Eyes Are So Useless | 15.00% | ~118 |
 | Hands Off My Stones | 15.00% | ~118 |
-| Gorgu is in the Best of Health | 13.00% | ~102 |
+| Gorgu is in the Best of Health | 13.00% | ~103 |
 | No Mana, No Cry | 11.00% | ~87 |
 | I Don't Need Any Help | 11.00% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788 (Ranked 321)  
-Completed: 37 (4.70%) (Ranked 83)  
+Progressed: 789 (Ranked 321)  
+Completed: 37 (4.69%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,6 +147,7 @@ Completed: 37 (4.70%) (Ranked 83)
 | 2024-01-21 | 783 | 34 |
 | 2024-01-22 | 785 | 37 |
 | 2024-01-23 | 788 | 37 |
+| 2024-01-24 | 789 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -36,10 +36,10 @@
 | Blood Red Island | 12.00% | ~11 |
 | The adventurer | 12.00% | ~11 |
 | Pulp! True Adventures | 12.00% | ~11 |
+| The barbarian invasions | 11.00% | ~10 |
 | ECO mode | 11.00% | ~10 |
 | America had no Faith | 11.00% | ~10 |
 | The scholar | 10.00% | ~9 |
-| The barbarian invasions | 10.00% | ~9 |
 | Vaccine fans | 10.00% | ~9 |
 | A new Hindenburg | 9.00% | ~8 |
 | Pulp! Tales from the Crypt | 6.00% | ~6 |

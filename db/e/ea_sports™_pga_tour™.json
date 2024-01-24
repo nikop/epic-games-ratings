@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1010,
+  "EOS_Progressed": 1011,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -3685,6 +3685,11 @@
       "Time": "2024-01-24T01:54:23.29184+00:00",
       "NumProgressed": 1010,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-24T05:03:48.1894788+00:00",
+      "NumProgressed": 1011,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3705,7 +3710,7 @@
       "Name": "Holey Moley",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "achievement_11",
@@ -3751,9 +3756,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 858
+      "UsersEstimate": 849
     },
     {
       "ID": "achievement_17",
@@ -3761,7 +3766,7 @@
       "Name": "Clean Sheet",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "achievement_18",
@@ -3809,7 +3814,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_7",
@@ -3817,7 +3822,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "achievement_8",
@@ -3840,13 +3845,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 1010,
+      "Progressed": 1011,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:04:51.6866682+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:03:48.1894786+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:37.1636766+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:58:03.0370116+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:04:51.6866898+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:57:33.0884709+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:03:48.1895092+00:00"
 }

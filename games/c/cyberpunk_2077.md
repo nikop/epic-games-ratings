@@ -19,12 +19,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.60% | ~6,347 |
 | All the President's Men | 0.60% | ~1,119 |
 | Arachnophobia | 0.60% | ~1,119 |
-| Bushido and Chill | 0.50% | ~5,289 |
-| Gun Fu | 0.50% | ~5,289 |
-| Master Crafter | 0.50% | ~5,289 |
-| The Fool | 0.50% | ~5,289 |
-| The World | 0.50% | ~5,289 |
-| Judy vs Night City | 0.50% | ~5,289 |
+| Bushido and Chill | 0.50% | ~5,290 |
+| Gun Fu | 0.50% | ~5,290 |
+| Master Crafter | 0.50% | ~5,290 |
+| The Fool | 0.50% | ~5,290 |
+| The World | 0.50% | ~5,290 |
+| Judy vs Night City | 0.50% | ~5,290 |
 | To Protect and Serve | 0.40% | ~4,232 |
 | I Am The Law | 0.40% | ~4,232 |
 | The Quick and the Dead | 0.40% | ~4,232 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,893 (Ranked 17)  
+Progressed: 1,057,910 (Ranked 17)  
 Completed: 3,154 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,10 +353,10 @@ Completed: 3,154 (0.30%) (Ranked 265)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,057,893 | 3,154 |
+| 2024-01-24 | 1,057,910 | 3,154 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 516,634 (Ranked 8)  
+Sum: 516,790 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 32,307 |
 | This game is Highly Recommended | 30,908 |
 | This game has Amazing Storytelling | 30,300 |
-| This game is Extremely Fun | 30,040 |
+| This game is Extremely Fun | 30,196 |
 | This game has Amazing Characters | 29,891 |
 | This game is Relaxing | 28,919 |
 | This game has Quickly Understood Controls | 28,700 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,402 | 516,634 |
+| 2024-01-24 | 4.68 | - | 144,402 | 516,790 |

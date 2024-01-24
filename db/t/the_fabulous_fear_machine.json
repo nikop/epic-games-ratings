@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "ID": "42",
       "SetID": "d37idgg",
       "Name": "The barbarian invasions",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "43",
@@ -872,8 +872,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:07:18.5338333+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:05:29.2632483+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.9721736+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:00:43.3389864+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:07:18.5338616+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:59:16.8084653+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:05:29.2632767+00:00"
 }

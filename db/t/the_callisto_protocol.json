@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22694,
+  "EOS_Progressed": 22696,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14808,6 +14808,11 @@
       "Time": "2024-01-24T04:11:33.7410072+00:00",
       "NumProgressed": 22694,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T05:10:15.8788308+00:00",
+      "NumProgressed": 22696,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14835,7 +14840,7 @@
       "Name": "Giving Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14843,7 +14848,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14851,7 +14856,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14883,7 +14888,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14955,7 +14960,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -15011,7 +15016,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15043,7 +15048,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -15051,7 +15056,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6127
+      "UsersEstimate": 6128
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15067,7 +15072,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15194,13 +15199,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22694,
+      "Progressed": 22696,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10620,
+      "Progressed": 10622,
       "Completed": 29
     }
   ],
@@ -15208,8 +15213,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:11:33.7410067+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:10:15.8788306+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:04:22.8733906+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:11:33.7411048+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:03:28.5089737+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:10:15.8789213+00:00"
 }

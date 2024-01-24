@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 84.00% | ~48,224 |
-| Fashion Killa | 81.00% | ~46,501 |
-| Cool Whip | 74.00% | ~42,483 |
-| Drop the Beat | 66.00% | ~37,890 |
-| Hey Lakeshore | 61.00% | ~35,019 |
-| Public Enemy | 60.00% | ~34,445 |
-| 100 Miles and Runnin' | 59.00% | ~33,871 |
+| Throwing up Tags | 84.00% | ~48,225 |
+| Fashion Killa | 81.00% | ~46,503 |
+| Cool Whip | 74.00% | ~42,484 |
+| Drop the Beat | 66.00% | ~37,891 |
+| Hey Lakeshore | 61.00% | ~35,021 |
+| Public Enemy | 60.00% | ~34,447 |
+| 100 Miles and Runnin' | 59.00% | ~33,872 |
 | Rebel Without a Pause | 39.00% | ~22,390 |
-| Hey Speedie! | 38.00% | ~21,815 |
-| Most Wanted | 34.00% | ~19,519 |
-| New Crew | 33.00% | ~18,945 |
-| Serious Guap | 27.00% | ~15,500 |
-| Style it Out | 27.00% | ~15,500 |
-| Escape Artist | 27.00% | ~15,500 |
-| Rydell's Rydes | 26.00% | ~14,926 |
-| Untouchable | 26.00% | ~14,926 |
-| Oh, It's On | 24.00% | ~13,778 |
+| Hey Speedie! | 38.00% | ~21,816 |
+| Most Wanted | 34.00% | ~19,520 |
+| New Crew | 33.00% | ~18,946 |
+| Serious Guap | 27.00% | ~15,501 |
+| Style it Out | 27.00% | ~15,501 |
+| Escape Artist | 27.00% | ~15,501 |
+| Rydell's Rydes | 26.00% | ~14,927 |
+| Untouchable | 26.00% | ~14,927 |
+| Oh, It's On | 24.00% | ~13,779 |
 | Cash Money Millionaire | 21.00% | ~12,056 |
 | Access All Areas | 17.00% | ~9,760 |
 | #Blessed | 17.00% | ~9,760 |
@@ -36,7 +36,7 @@
 | B for My Name | 6.00% | ~3,445 |
 | Bring Your A Game | 6.00% | ~3,445 |
 | Mixtape | 6.00% | ~3,445 |
-| Flow Master | 5.00% | ~2,870 |
+| Flow Master | 5.00% | ~2,871 |
 | Heaven Spot | 2.00% | ~1,148 |
 | The Bear Champ | 1.00% | ~574 |
 | Adbusting | 1.00% | ~574 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 0.60% | ~344 |
 | Cleaning Up | 0.60% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,409 (Ranked 123)  
+Progressed: 57,411 (Ranked 123)  
 Completed: 63 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,4 +177,4 @@ Completed: 63 (0.11%) (Ranked 315)
 | 2024-01-21 | 57,109 | 62 |
 | 2024-01-22 | 57,258 | 62 |
 | 2024-01-23 | 57,386 | 63 |
-| 2024-01-24 | 57,409 | 63 |
+| 2024-01-24 | 57,411 | 63 |

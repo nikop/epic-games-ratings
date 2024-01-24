@@ -345,9 +345,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203589,
+  "EOS_Progressed": 203593,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29600,6 +29600,11 @@
       "Time": "2024-01-24T04:04:54.7562072+00:00",
       "NumProgressed": 203589,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T05:03:50.5001817+00:00",
+      "NumProgressed": 203593,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -29619,7 +29624,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 144548
+      "UsersEstimate": 144551
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -29627,7 +29632,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 10179
+      "UsersEstimate": 10180
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -29643,7 +29648,7 @@
       "Name": "Initiation",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 34610
+      "UsersEstimate": 34611
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -29691,7 +29696,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10179
+      "UsersEstimate": 10180
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -29738,7 +29743,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 203589,
+      "Progressed": 203593,
       "Completed": 4
     }
   ],
@@ -29746,8 +29751,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2024-01-20T19:58:36.3203452+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:04:54.7562066+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:03:50.5001814+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:45.5124519+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:02:02.3309341+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:04:54.756352+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:00:10.1604266+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:03:50.5003253+00:00"
 }

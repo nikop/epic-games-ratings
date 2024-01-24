@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2596,9 +2596,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 227957,
+  "EOS_Progressed": 227961,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1547,
+  "EOS_NewPlayers": 1548,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34716,6 +34716,11 @@
       "Time": "2024-01-24T04:09:17.5393276+00:00",
       "NumProgressed": 227957,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-24T05:08:40.1700474+00:00",
+      "NumProgressed": 227961,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -34727,7 +34732,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 25075
+      "UsersEstimate": 25076
     },
     {
       "ID": "AtheistOx",
@@ -34751,7 +34756,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13677
+      "UsersEstimate": 13678
     },
     {
       "ID": "CompleteMastery",
@@ -34783,7 +34788,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13677
+      "UsersEstimate": 13678
     },
     {
       "ID": "GearUp",
@@ -35015,7 +35020,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25075
+      "UsersEstimate": 25076
     },
     {
       "ID": "TimeParadox",
@@ -35047,7 +35052,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13677
+      "UsersEstimate": 13678
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -35078,15 +35083,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 227957,
+      "Progressed": 227961,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-22T18:57:08.7177604+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:09:17.5393271+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:08:40.1700471+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:58:31.5689527+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:09:17.5395217+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:57:51.8003988+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:08:40.1701895+00:00"
 }

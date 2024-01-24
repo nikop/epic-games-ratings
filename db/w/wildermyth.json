@@ -2,7 +2,7 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 270,
@@ -2651,9 +2651,9 @@
       "ID": "achievement_kill1000Drauven",
       "SetID": "95dc8p",
       "Name": "Drauvenslayers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_kill1000Gorgons",
@@ -3003,8 +3003,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:11:56.95285+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:10:33.5022935+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.1220407+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:57:33.5920053+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:11:56.9528883+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:57:13.3362198+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:10:33.5023447+00:00"
 }

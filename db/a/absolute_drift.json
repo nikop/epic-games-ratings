@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 713,
+  "Ranking_Rating": 714,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 8,
@@ -487,7 +487,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1565421,
+  "EOS_Progressed": 1565426,
   "EOS_Completed": 773,
   "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 4,
@@ -32502,6 +32502,11 @@
       "Time": "2024-01-24T04:07:03.510562+00:00",
       "NumProgressed": 1565421,
       "NumCompleted": 773
+    },
+    {
+      "Time": "2024-01-24T05:05:18.8056109+00:00",
+      "NumProgressed": 1565426,
+      "NumCompleted": 773
     }
   ],
   "TotalAchievements": 20,
@@ -32521,7 +32526,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109579
+      "UsersEstimate": 109580
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -32529,7 +32534,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31308
+      "UsersEstimate": 31309
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -32585,7 +32590,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31308
+      "UsersEstimate": 31309
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -32601,7 +32606,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31308
+      "UsersEstimate": 31309
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -32609,7 +32614,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156542
+      "UsersEstimate": 156543
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -32617,7 +32622,7 @@
       "Name": "Midnight Master",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31308
+      "UsersEstimate": 31309
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -32641,7 +32646,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31308
+      "UsersEstimate": 31309
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -32672,15 +32677,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1565421,
+      "Progressed": 1565426,
       "Completed": 773
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:07:03.5105614+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:05:18.8056107+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:19.8325784+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:59:55.51171+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:07:03.5107258+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:58:44.3902782+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:05:18.8057509+00:00"
 }

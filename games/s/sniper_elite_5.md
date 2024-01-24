@@ -5,22 +5,22 @@ Rating: 4.48 (Ranked 662)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,038 |
+| Meeting Resistance | 47.00% | ~2,039 |
 | Confirming Suspicions | 42.00% | ~1,822 |
 | The Kraken Wakes | 38.00% | ~1,648 |
 | It's Starting to Crack | 35.00% | ~1,518 |
 | Change the Channel | 32.00% | ~1,388 |
-| Lord of War | 31.00% | ~1,344 |
+| Lord of War | 31.00% | ~1,345 |
 | Taking it back | 30.00% | ~1,301 |
-| Resourceful | 28.00% | ~1,214 |
-| Target America | 28.00% | ~1,214 |
+| Resourceful | 28.00% | ~1,215 |
+| Target America | 28.00% | ~1,215 |
 | The Kraken Sleeps | 26.00% | ~1,128 |
 | Liberté | 24.00% | ~1,041 |
 | Organ Grinder | 24.00% | ~1,041 |
 | As Quiet as a Mouse | 24.00% | ~1,041 |
 | Sharpshooter | 23.00% | ~998 |
-| Gunslinger | 20.00% | ~867 |
-| Explosive Efficiency | 20.00% | ~867 |
+| Gunslinger | 20.00% | ~868 |
+| Explosive Efficiency | 20.00% | ~868 |
 | Climbing the Ladder | 17.00% | ~737 |
 | Just a Flesh Wound | 17.00% | ~737 |
 | Der Geist | 17.00% | ~737 |
@@ -48,8 +48,8 @@ Rating: 4.48 (Ranked 662)
 | Last Resort | 5.00% | ~214 |
 | Siegebreaker | 5.00% | ~214 |
 | Ghost of Falaise | 5.00% | ~214 |
-| Burn after reading | 4.00% | ~173 |
-| Locomotion Commotion | 4.00% | ~173 |
+| Burn after reading | 4.00% | ~174 |
+| Locomotion Commotion | 4.00% | ~174 |
 | If You Go Down To The Woods Today | 4.00% | ~172 |
 | From Paris with Love | 3.00% | ~130 |
 | Souvenir hunter | 3.00% | ~130 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,337 (Ranked 217)  
+Progressed: 4,338 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,6 +354,7 @@ Completed: 11 (0.25%) (Ranked 276)
 | 2024-01-21 | 4,327 | 11 |
 | 2024-01-22 | 4,331 | 11 |
 | 2024-01-23 | 4,337 | 11 |
+| 2024-01-24 | 4,338 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 526)  
 Sum: 31 (Ranked 548)  

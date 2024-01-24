@@ -1951,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169471,
+  "EOS_Progressed": 169475,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 902,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24256,6 +24256,11 @@
       "Time": "2024-01-24T04:09:22.7707286+00:00",
       "NumProgressed": 169471,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2024-01-24T05:08:43.8046735+00:00",
+      "NumProgressed": 169475,
+      "NumCompleted": 468
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24340,7 +24345,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -24372,7 +24377,7 @@
       "Name": "Scion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -24635,21 +24640,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169054,
+      "Progressed": 169058,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169471,
+      "Progressed": 169475,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:09:22.7707284+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:08:43.8046732+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:00:51.3572845+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:09:22.7708344+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:59:22.9241118+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:08:43.8048072+00:00"
 }

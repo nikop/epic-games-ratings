@@ -799,7 +799,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4761,
+  "EOS_Progressed": 4762,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -13309,6 +13309,11 @@
       "Time": "2024-01-24T01:57:26.5062693+00:00",
       "NumProgressed": 4761,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T05:05:54.5896808+00:00",
+      "NumProgressed": 4762,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13326,9 +13331,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 238
     },
     {
       "ID": "angelpower",
@@ -13416,7 +13421,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "dragonclicker",
@@ -13552,7 +13557,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "herewegoagain",
@@ -13744,7 +13749,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "scrollmaster",
@@ -13776,7 +13781,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "thealchemist",
@@ -13816,7 +13821,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "theunstoppable",
@@ -13880,7 +13885,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4429
     },
     {
       "ID": "warmachinesarmy",
@@ -13919,7 +13924,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4761,
+      "Progressed": 4762,
       "Completed": 2
     }
   ],
@@ -13927,8 +13932,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:07:54.9923584+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:05:54.5896805+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:57:58.7277513+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:07:54.9924527+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:57:30.1645427+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:05:54.589803+00:00"
 }

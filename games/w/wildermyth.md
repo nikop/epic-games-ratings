@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 113)  
+Rating: 4.78 (Ranked 112)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -50,9 +50,9 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 0.60% | ~10 |
 | Lochias's Hunger | 0.60% | ~10 |
 | The Power of Friendship | 0.40% | ~6 |
+| Drauvenslayers | 0.40% | ~6 |
 | Back into the Sea | 0.40% | ~6 |
 | I'm Not Smiling | 0.40% | ~6 |
-| Drauvenslayers | 0.30% | ~5 |
 | War-Ender | 0.30% | ~5 |
 | Thwack! | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |

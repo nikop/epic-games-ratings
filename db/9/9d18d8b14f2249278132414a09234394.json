@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 3328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5937,9 +5937,9 @@
       "ID": "ACH_NoPirateLifeForMe",
       "SetID": "ai9gp4m",
       "Name": "No Pirate Life For Me",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_PartOfTheHerd",
@@ -6024,8 +6024,8 @@
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:08:02.1915846+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:05:59.5316646+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:08.6767843+00:00",
-  "LastUpdate_Ratings": "2024-01-24T03:57:29.114869+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:08:02.1916211+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:57:10.2953321+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:05:59.5317118+00:00"
 }

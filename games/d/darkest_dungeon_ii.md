@@ -13,24 +13,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 7.00% | ~9,351 |
 | Overdue Notice | 7.00% | ~9,351 |
 | This guy... again? | 7.00% | ~592 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,015 |
-| Serenity Now! | 6.00% | ~8,015 |
-| Meat and Greet | 6.00% | ~8,015 |
-| Catch and Decease | 6.00% | ~8,015 |
-| Escape from the Black Hole | 6.00% | ~8,015 |
-| Rush Hour | 6.00% | ~8,015 |
-| To Grandmother's House | 6.00% | ~8,015 |
-| FNG | 6.00% | ~8,015 |
-| Ploughshares to Swords | 6.00% | ~507 |
-| Bloody Graduation | 6.00% | ~507 |
-| It Rings a Bell | 5.00% | ~6,679 |
-| Not Today! | 5.00% | ~6,679 |
-| It Happens | 5.00% | ~6,679 |
-| Merry Time | 5.00% | ~6,679 |
-| Harvest Festival | 5.00% | ~6,679 |
-| Whale | 5.00% | ~6,679 |
-| A Place to Lay Your Head | 5.00% | ~6,679 |
-| Nope | 5.00% | ~6,679 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,016 |
+| Serenity Now! | 6.00% | ~8,016 |
+| Meat and Greet | 6.00% | ~8,016 |
+| Catch and Decease | 6.00% | ~8,016 |
+| Escape from the Black Hole | 6.00% | ~8,016 |
+| Rush Hour | 6.00% | ~8,016 |
+| To Grandmother's House | 6.00% | ~8,016 |
+| FNG | 6.00% | ~8,016 |
+| Ploughshares to Swords | 6.00% | ~508 |
+| Bloody Graduation | 6.00% | ~508 |
+| It Rings a Bell | 5.00% | ~6,680 |
+| Not Today! | 5.00% | ~6,680 |
+| It Happens | 5.00% | ~6,680 |
+| Merry Time | 5.00% | ~6,680 |
+| Harvest Festival | 5.00% | ~6,680 |
+| Whale | 5.00% | ~6,680 |
+| A Place to Lay Your Head | 5.00% | ~6,680 |
+| Nope | 5.00% | ~6,680 |
 | Friends 'Til the End | 5.00% | ~423 |
 | Resurrection | 4.00% | ~5,344 |
 | Unleash Hell | 4.00% | ~5,344 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,588 (Ranked 92)  
+Progressed: 133,592 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
-| 2024-01-24 | 133,588 | 5 |
+| 2024-01-24 | 133,592 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
 Sum: 21,839 (Ranked 59)  

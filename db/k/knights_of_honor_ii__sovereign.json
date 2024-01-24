@@ -5,7 +5,7 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 145,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -337,6 +337,11 @@
     {
       "Time": "2024-01-24T04:05:10.6433598+00:00",
       "NumProgressed": 101,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T05:04:01.6344981+00:00",
+      "NumProgressed": 103,
       "NumCompleted": 0
     }
   ],
@@ -876,9 +881,9 @@
       "ID": "playersander_the_great",
       "SetID": "41moj9p",
       "Name": "Playerxander the Great",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "power_overwhelming",
@@ -1149,7 +1154,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
@@ -1157,8 +1162,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:05:10.6433595+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:04:01.6344979+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:00:58.5799249+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:05:10.6434397+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:59:27.7516956+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:04:01.6345789+00:00"
 }

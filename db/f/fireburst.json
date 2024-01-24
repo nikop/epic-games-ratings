@@ -4,7 +4,7 @@
   "ProductSlug": "fireburst-3c29b4",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-28T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.2636519+00:00",
   "LastChanged": "2023-03-31T05:58:25.2636521+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:47.7986804+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:04:20.3348365+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:07:03.0554213+00:00"
+  "LastUpdate_Ratings": "2024-01-24T05:03:27.1477951+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:05:18.403377+00:00"
 }

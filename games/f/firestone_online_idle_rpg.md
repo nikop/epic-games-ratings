@@ -5,13 +5,13 @@ Rating: 4.11 (Ranked 1,030)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,428 |
+| Victor | 93.00% | ~4,429 |
 | World Map | 78.00% | ~3,714 |
-| Temple of Eternals | 56.00% | ~2,666 |
+| Temple of Eternals | 56.00% | ~2,667 |
 | Prestigious | 52.00% | ~2,476 |
 | Fellowship Power | 42.00% | ~2,000 |
 | Full Party | 31.00% | ~1,476 |
-| Guild Power | 22.00% | ~1,047 |
+| Guild Power | 22.00% | ~1,048 |
 | Prestigious x10 | 20.00% | ~952 |
 | The game is on | 18.00% | ~857 |
 | Exotic Merchant | 16.00% | ~762 |
@@ -27,9 +27,9 @@ Rating: 4.11 (Ranked 1,030)
 | Natural Talent | 11.00% | ~524 |
 | Superior | 11.00% | ~524 |
 | The Unstoppable | 11.00% | ~524 |
-| Doing My Part | 9.00% | ~428 |
-| Scientist | 9.00% | ~428 |
-| The power of Awakening | 9.00% | ~428 |
+| Doing My Part | 9.00% | ~429 |
+| Scientist | 9.00% | ~429 |
+| The power of Awakening | 9.00% | ~429 |
 | Challenger | 8.00% | ~381 |
 | Daily Quest Completionist | 8.00% | ~381 |
 | Four Leaf Clover | 8.00% | ~381 |
@@ -48,6 +48,7 @@ Rating: 4.11 (Ranked 1,030)
 | How Do You Turn This On? | 6.00% | ~286 |
 | The Expeditioner | 6.00% | ~286 |
 | Weekly Quest Completionist | 6.00% | ~286 |
+| Ancient Knowledge | 5.00% | ~238 |
 | Blueprint Upgrades | 5.00% | ~238 |
 | Crystal Mining | 5.00% | ~238 |
 | Engineer Mastery | 5.00% | ~238 |
@@ -55,7 +56,6 @@ Rating: 4.11 (Ranked 1,030)
 | Missions Dedication | 5.00% | ~238 |
 | Sailor | 5.00% | ~238 |
 | Active Member | 4.00% | ~190 |
-| Ancient Knowledge | 4.00% | ~190 |
 | Background Story | 4.00% | ~190 |
 | Legendary | 4.00% | ~190 |
 | The Alchemist | 4.00% | ~190 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,030)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,761 (Ranked 211)  
+Progressed: 4,762 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 2 (0.04%) (Ranked 359)
 | 2024-01-21 | 4,725 | 2 |
 | 2024-01-22 | 4,742 | 2 |
 | 2024-01-23 | 4,759 | 2 |
-| 2024-01-24 | 4,761 | 2 |
+| 2024-01-24 | 4,762 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 486)  
 Sum: 162 (Ranked 446)  

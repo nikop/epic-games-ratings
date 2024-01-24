@@ -17,11 +17,11 @@ Number of Ratings: 68  (23.09.2022)
 | Precious! | 15.00% | ~5,332 |
 | Grizzled veteran | 14.00% | ~4,976 |
 | Anatomy Lesson | 14.00% | ~4,976 |
-| Who's the Boss? | 12.00% | ~4,265 |
-| You activated my trap card! | 12.00% | ~4,265 |
-| Obstacle race | 12.00% | ~4,265 |
-| Light of my life | 12.00% | ~4,265 |
-| Augmented rat | 10.00% | ~3,554 |
+| Who's the Boss? | 12.00% | ~4,266 |
+| You activated my trap card! | 12.00% | ~4,266 |
+| Obstacle race | 12.00% | ~4,266 |
+| Light of my life | 12.00% | ~4,266 |
+| Augmented rat | 10.00% | ~3,555 |
 | Doom and gloom | 9.00% | ~3,199 |
 | Dungeon Veteran | 8.00% | ~2,844 |
 | Pack leader | 7.00% | ~2,488 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~36 |
 | Murder Death Kill | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,545 (Ranked 140)  
+Progressed: 35,546 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.00%) (Ranked 409)
 | 2024-01-21 | 35,178 | 1 |
 | 2024-01-22 | 35,356 | 1 |
 | 2024-01-23 | 35,520 | 1 |
-| 2024-01-24 | 35,545 | 1 |
+| 2024-01-24 | 35,546 | 1 |
 ## Awards
 Max (Character Customization): 3,627  (Ranked 96)  
 Sum: 8,504 (Ranked 110)  

@@ -361,9 +361,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235733,
+  "EOS_Progressed": 235735,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28631,6 +28631,11 @@
       "Time": "2024-01-24T04:04:43.0625252+00:00",
       "NumProgressed": 235733,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T05:03:42.2192766+00:00",
+      "NumProgressed": 235735,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -28706,7 +28711,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84864
+      "UsersEstimate": 84865
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -28786,7 +28791,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 80149
+      "UsersEstimate": 80150
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -28865,7 +28870,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235733,
+      "Progressed": 235735,
       "Completed": 6
     }
   ],
@@ -28873,8 +28878,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-20T16:57:43.9194648+00:00",
-  "LastChanged_Achievements": "2024-01-24T04:04:43.0625249+00:00",
+  "LastChanged_Achievements": "2024-01-24T05:03:42.2192764+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:26.6576399+00:00",
-  "LastUpdate_Ratings": "2024-01-24T04:00:21.3067449+00:00",
-  "LastUpdate_Achievements": "2024-01-24T04:04:43.0626905+00:00"
+  "LastUpdate_Ratings": "2024-01-24T04:59:02.7165027+00:00",
+  "LastUpdate_Achievements": "2024-01-24T05:03:42.2194049+00:00"
 }
