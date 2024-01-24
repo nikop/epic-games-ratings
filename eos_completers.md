@@ -44,7 +44,7 @@
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.75% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.27% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.31% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.82% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
@@ -67,7 +67,7 @@
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 66 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.25% |
+| 68 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.19% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
 | 70 | [Time Loader](games/t/time_loader.md) | 6.12% |
 | 71 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
@@ -181,9 +181,9 @@
 | 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
 | 181 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
-| 182 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.02% |
 | 182 | [Sable](games/s/sable.md) | 1.02% |
-| 184 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
+| 183 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.01% |
+| 183 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
 | 185 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
 | 185 | [Lemon Cake](games/l/lemon_cake.md) | 0.99% |
 | 187 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
@@ -302,12 +302,12 @@
 | 298 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 301 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 301 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 303 | [Blanc](games/b/blanc.md) | 0.14% |
-| 303 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
-| 303 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
-| 303 | [Scathe](games/s/scathe.md) | 0.14% |
-| 303 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.14% |
-| 303 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
+| 301 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
+| 304 | [Blanc](games/b/blanc.md) | 0.14% |
+| 304 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
+| 304 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
+| 304 | [Scathe](games/s/scathe.md) | 0.14% |
+| 304 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
 | 309 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
 | 309 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 309 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
