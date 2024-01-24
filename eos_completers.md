@@ -50,15 +50,15 @@
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.83% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.82% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
-| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.55% |
+| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.54% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.39% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.26% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.18% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.17% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.06% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
@@ -82,8 +82,8 @@
 | 80 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 81 | [ZZT!](games/z/zzt!.md) | 4.78% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.72% |
-| 83 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
-| 84 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
+| 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
+| 84 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.65% |
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
 | 87 | [JARS](games/j/jars.md) | 4.42% |
@@ -224,8 +224,8 @@
 | 222 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 223 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 223 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.55% |
-| 225 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.54% |
 | 225 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
+| 226 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.53% |
 | 227 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.52% |
 | 228 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.51% |
 | 228 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
@@ -259,18 +259,18 @@
 | 257 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.35% |
 | 258 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.34% |
 | 258 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
-| 260 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 260 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 262 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.32% |
+| 261 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 261 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.32% |
 | 263 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 263 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 265 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 265 | [Train Valley](games/t/train_valley.md) | 0.30% |
 | 267 | [Darksiders III](games/d/darksiders_iii.md) | 0.29% |
+| 267 | [Dead Space](games/d/dead_space.md) | 0.29% |
 | 267 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.29% |
-| 269 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
-| 269 | [Dead Space](games/d/dead_space.md) | 0.28% |
-| 269 | [GRIME](games/g/grime.md) | 0.28% |
+| 270 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
+| 270 | [GRIME](games/g/grime.md) | 0.28% |
 | 272 | [Filament](games/f/filament.md) | 0.27% |
 | 272 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
 | 274 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
@@ -846,4 +846,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,885 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,886 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
