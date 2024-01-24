@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -89,7 +89,7 @@
   "Tags": [],
   "EOS_Progressed": 1355,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4287,9 +4287,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 203
     },
     {
       "ID": "FactorywoodChests1",
@@ -4624,8 +4624,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-23T01:49:49.4916603+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:10:26.8062281+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:10:54.1705637+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:59.2500544+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:10:26.8062739+00:00"
+  "LastUpdate_Ratings": "2024-01-24T00:00:22.5539409+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:10:54.1706309+00:00"
 }

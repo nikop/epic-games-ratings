@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9793,9 +9793,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255334,
+  "EOS_Progressed": 255342,
   "EOS_Completed": 2635,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41408,6 +41408,11 @@
       "Time": "2024-01-23T23:10:32.0782877+00:00",
       "NumProgressed": 255334,
       "NumCompleted": 2635
+    },
+    {
+      "Time": "2024-01-24T00:10:59.0524886+00:00",
+      "NumProgressed": 255342,
+      "NumCompleted": 2635
     }
   ],
   "TotalAchievements": 546,
@@ -43057,9 +43062,9 @@
       "ID": "objective_completed_283",
       "SetID": "cc37lbc",
       "Name": "Attack on the Manor",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 766
     },
     {
       "ID": "objective_completed_284",
@@ -43601,9 +43606,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 766
     },
     {
       "ID": "objective_completed_546",
@@ -45305,9 +45310,9 @@
       "ID": "objective_completed_96",
       "SetID": "cc37lbc",
       "Name": "Poor Guidance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_97",
@@ -45786,21 +45791,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221608,
+      "Progressed": 221616,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255334,
+      "Progressed": 255342,
       "Completed": 2635
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-23T19:58:18.5960546+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:10:32.0782873+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:10:59.0524882+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:58:29.5176589+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:10:32.0805626+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:59:07.8281613+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:10:59.054747+00:00"
 }

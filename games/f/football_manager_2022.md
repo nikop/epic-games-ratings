@@ -6,31 +6,31 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,845 |
-| He's Signed! | 50.00% | ~239,845 |
-| First Victory | 50.00% | ~239,845 |
-| He's Sold! | 48.00% | ~230,251 |
-| I'm The Boss! | 42.00% | ~201,470 |
-| Hat-trick | 41.00% | ~196,673 |
-| Scoring Streak | 38.00% | ~182,282 |
-| Unbeatable! | 37.00% | ~177,485 |
-| Thumping | 37.00% | ~177,485 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,892 |
-| Total Support | 32.00% | ~153,501 |
-| Record Signing | 32.00% | ~153,501 |
-| He's a Natural | 31.00% | ~148,704 |
-| Millionaire's Club | 31.00% | ~148,704 |
-| Team Performance | 30.00% | ~143,907 |
-| Parked The Bus | 29.00% | ~139,110 |
-| Shrewd Spender | 29.00% | ~139,110 |
-| Star Man | 29.00% | ~139,110 |
-| Attack! | 28.00% | ~134,313 |
-| You're On Fire | 27.00% | ~129,516 |
-| Tremendous Trio | 27.00% | ~129,516 |
-| Record Sale | 27.00% | ~129,516 |
-| On A Roll | 26.00% | ~124,719 |
-| Unstoppable Force | 26.00% | ~124,719 |
-| Armchair Expert | 25.00% | ~119,922 |
+| Clean Sheet | 50.00% | ~239,846 |
+| He's Signed! | 50.00% | ~239,846 |
+| First Victory | 50.00% | ~239,846 |
+| He's Sold! | 48.00% | ~230,253 |
+| I'm The Boss! | 42.00% | ~201,471 |
+| Hat-trick | 41.00% | ~196,674 |
+| Scoring Streak | 38.00% | ~182,283 |
+| Unbeatable! | 37.00% | ~177,486 |
+| Thumping | 37.00% | ~177,486 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,893 |
+| Total Support | 32.00% | ~153,502 |
+| Record Signing | 32.00% | ~153,502 |
+| He's a Natural | 31.00% | ~148,705 |
+| Millionaire's Club | 31.00% | ~148,705 |
+| Team Performance | 30.00% | ~143,908 |
+| Parked The Bus | 29.00% | ~139,111 |
+| Shrewd Spender | 29.00% | ~139,111 |
+| Star Man | 29.00% | ~139,111 |
+| Attack! | 28.00% | ~134,314 |
+| You're On Fire | 27.00% | ~129,517 |
+| Tremendous Trio | 27.00% | ~129,517 |
+| Record Sale | 27.00% | ~129,517 |
+| On A Roll | 26.00% | ~124,720 |
+| Unstoppable Force | 26.00% | ~124,720 |
+| Armchair Expert | 25.00% | ~119,923 |
 | Fantastic Five | 24.00% | ~115,126 |
 | Full Faith | 24.00% | ~115,126 |
 | Iron Curtain | 24.00% | ~115,126 |
@@ -41,14 +41,14 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~105,532 |
 | What A Goal! | 22.00% | ~105,532 |
 | Cup Glory! | 22.00% | ~105,532 |
-| Irresistible Force | 20.00% | ~95,938 |
-| Excellent Match Cohesion | 20.00% | ~95,938 |
-| Do The Double | 19.00% | ~91,141 |
-| Top Form | 17.00% | ~81,547 |
-| Cash To Burn | 17.00% | ~81,547 |
-| Beating Expectations | 16.00% | ~76,750 |
-| Overachiever! | 16.00% | ~76,750 |
-| Rushed signing | 16.00% | ~76,750 |
+| Irresistible Force | 20.00% | ~95,939 |
+| Excellent Match Cohesion | 20.00% | ~95,939 |
+| Do The Double | 19.00% | ~91,142 |
+| Top Form | 17.00% | ~81,548 |
+| Cash To Burn | 17.00% | ~81,548 |
+| Beating Expectations | 16.00% | ~76,751 |
+| Overachiever! | 16.00% | ~76,751 |
+| Rushed signing | 16.00% | ~76,751 |
 | Eyes and Ears | 15.00% | ~71,954 |
 | Window Shopping | 15.00% | ~71,954 |
 | Comeback King! | 14.00% | ~67,157 |
@@ -63,13 +63,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | Headhunted | 9.00% | ~43,172 |
 | Domination | 9.00% | ~43,172 |
 | Best In The Business | 8.00% | ~38,375 |
-| Legend | 6.00% | ~28,781 |
-| Win the Club World Cup | 6.00% | ~28,781 |
-| Parked The Tank | 6.00% | ~28,781 |
-| World Renowned | 6.00% | ~28,781 |
-| Head-to-Head | 6.00% | ~28,781 |
-| Going Places | 5.00% | ~23,984 |
-| We Trust You | 5.00% | ~23,984 |
+| Legend | 6.00% | ~28,782 |
+| Win the Club World Cup | 6.00% | ~28,782 |
+| Parked The Tank | 6.00% | ~28,782 |
+| World Renowned | 6.00% | ~28,782 |
+| Head-to-Head | 6.00% | ~28,782 |
+| Going Places | 5.00% | ~23,985 |
+| We Trust You | 5.00% | ~23,985 |
 | Trophy Hoarder | 4.00% | ~19,188 |
 | National Hero | 3.00% | ~14,391 |
 | Golden Boot | 3.00% | ~14,391 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~480 |
 | Shoestring Budget | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,690 (Ranked 44)  
+Progressed: 479,693 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,6 +384,7 @@ Completed: 22 (0.00%) (Ranked 409)
 | 2024-01-21 | 479,621 | 22 |
 | 2024-01-22 | 479,653 | 22 |
 | 2024-01-23 | 479,690 | 22 |
+| 2024-01-24 | 479,693 | 22 |
 ## Awards
 Max (Relaxing): 6,500  (Ranked 64)  
 Sum: 51,288 (Ranked 31)  

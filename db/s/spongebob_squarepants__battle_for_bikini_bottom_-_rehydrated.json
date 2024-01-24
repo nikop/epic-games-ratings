@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1194,
+  "EOS_Progressed": 1195,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
@@ -3353,6 +3353,11 @@
       "Time": "2024-01-23T23:07:28.1162011+00:00",
       "NumProgressed": 1194,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-24T00:06:52.111579+00:00",
+      "NumProgressed": 1195,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3397,7 +3402,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -3469,7 +3474,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -3477,7 +3482,7 @@
       "Name": "Toxic Terror",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -3501,7 +3506,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -3620,15 +3625,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1194,
+      "Progressed": 1195,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:07:28.1162005+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:06:52.1115786+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:57:12.7711989+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:07:28.1162418+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:58:01.617735+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:06:52.111607+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "dad208fc27084f0fa6ac1cd333c53f57",
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,10 +24,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8015,
+  "EOS_Progressed": 8016,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 310,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 309,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
@@ -9139,6 +9139,11 @@
       "Time": "2024-01-23T23:06:06.2858114+00:00",
       "NumProgressed": 8015,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-24T00:06:42.70684+00:00",
+      "NumProgressed": 8016,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9191,7 +9196,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -9207,7 +9212,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6333
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -9269,23 +9274,23 @@
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV in Speedrun",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 561
+      "UsersEstimate": 481
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 8015,
+      "Progressed": 8016,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:06:06.2858108+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:06:42.7068397+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:58:10.9967726+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:06:06.2858879+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:58:51.6450759+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:06:42.706893+00:00"
 }

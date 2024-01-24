@@ -1,22 +1,22 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.34 (Ranked 849)  
+Rating: 4.35 (Ranked 836)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 14.00% | ~13 |
-| Bring it on! | 12.00% | ~11 |
-| Help! Help! I’m being repressed | 11.00% | ~10 |
-| Full House | 10.00% | ~9 |
-| Can’t Touch This | 9.00% | ~8 |
-| There is no Nobility in Poverty | 9.00% | ~8 |
-| Path of Glory | 7.00% | ~7 |
+| Hail to the King, Baby | 13.00% | ~13 |
+| Bring it on! | 11.00% | ~11 |
+| Help! Help! I’m being repressed | 11.00% | ~11 |
+| Can’t Touch This | 10.00% | ~10 |
+| Full House | 10.00% | ~10 |
+| There is no Nobility in Poverty | 9.00% | ~9 |
+| Path of Glory | 8.00% | ~8 |
 | The finest merchandise this side of river Jordan | 6.00% | ~6 |
+| Do you read Sutter Cane? | 5.00% | ~5 |
+| They Got What They Deserved | 5.00% | ~5 |
 | Call the Boys | 4.00% | ~4 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~4 |
-| Do you read Sutter Cane? | 4.00% | ~4 |
-| They Got What They Deserved | 4.00% | ~4 |
 | ‘Tis but a scratch | 4.00% | ~4 |
 | What we’ve got here is failure to communicate | 4.00% | ~4 |
 | Big Apple | 3.00% | ~3 |
@@ -31,6 +31,7 @@ Rating: 4.34 (Ranked 849)
 | Cut-Me-Own-Throat | 2.00% | ~2 |
 | He made it out, but with an arrow in his back | 2.00% | ~2 |
 | Let Us Pray | 2.00% | ~2 |
+| Naught but a Seamless Victory | 2.00% | ~2 |
 | On the third day at dawn, look east | 2.00% | ~2 |
 | Playerxander the Great | 2.00% | ~2 |
 | Scientia potentia es | 2.00% | ~2 |
@@ -46,7 +47,6 @@ Rating: 4.34 (Ranked 849)
 | His name is King | 1.00% | ~1 |
 | Fight Another Day | 1.00% | ~1 |
 | Let us trade with these fine people | 1.00% | ~1 |
-| Naught but a Seamless Victory | 1.00% | ~1 |
 | New Mineland | 1.00% | ~1 |
 | Prince Ali! Fabulous he! | 1.00% | ~1 |
 | Renaissance Man | 1.00% | ~1 |
@@ -106,12 +106,13 @@ Rating: 4.34 (Ranked 849)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 506)  
+Progressed: 97 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
+| 2024-01-24 | 97 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -153,3 +154,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 4.34 | 0 | 0 |
 | 2024-01-19 | 4.33 | 0 | 0 |
 | 2024-01-20 | 4.34 | 0 | 0 |
+| 2024-01-24 | 4.35 | 0 | 0 |

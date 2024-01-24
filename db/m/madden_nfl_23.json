@@ -1051,7 +1051,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4548,
+  "EOS_Progressed": 4550,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -9146,6 +9146,11 @@
       "Time": "2024-01-23T19:08:57.4552046+00:00",
       "NumProgressed": 4548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T00:09:18.7383959+00:00",
+      "NumProgressed": 4550,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -9166,7 +9171,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "achievement_11",
@@ -9182,7 +9187,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "achievement_13",
@@ -9190,7 +9195,7 @@
       "Name": "Big Spender",
       "Percentage": 52,
       "XP": 60,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "achievement_14",
@@ -9198,7 +9203,7 @@
       "Name": "Dealmaker",
       "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "achievement_15",
@@ -9206,7 +9211,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2412
     },
     {
       "ID": "achievement_16",
@@ -9214,7 +9219,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "achievement_17",
@@ -9222,7 +9227,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_18",
@@ -9246,7 +9251,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_20",
@@ -9278,7 +9283,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_5",
@@ -9286,7 +9291,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "achievement_6",
@@ -9318,14 +9323,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4548,
+      "Progressed": 4550,
       "Completed": 0
     }
   ],
@@ -9333,8 +9338,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-21T01:56:27.488858+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:08:51.6092699+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:09:18.7383955+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.6554152+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:27.3356186+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:08:51.6093335+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:59:56.226073+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:09:18.7384498+00:00"
 }

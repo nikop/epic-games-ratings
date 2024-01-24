@@ -5,11 +5,11 @@ Rating: 4.28 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,171 |
-| Copacetic Coordination | 16.00% | ~58,146 |
-| Fronting the Money | 15.00% | ~54,512 |
-| The Dawn of Automation | 14.00% | ~50,878 |
-| Extraordinary Logistics | 14.00% | ~50,878 |
+| Corner Clout | 46.00% | ~167,172 |
+| Copacetic Coordination | 16.00% | ~58,147 |
+| Fronting the Money | 15.00% | ~54,513 |
+| The Dawn of Automation | 14.00% | ~50,879 |
+| Extraordinary Logistics | 14.00% | ~50,879 |
 | Dirty Money | 13.00% | ~47,244 |
 | Family First | 13.00% | ~47,244 |
 | Cleaning House | 12.00% | ~43,610 |
@@ -42,13 +42,13 @@ Rating: 4.28 (Ranked 905)
 | Friends from Back Home | 4.00% | ~14,537 |
 | Bees Knees Bootlegger | 4.00% | ~14,537 |
 | Half Century Mark | 4.00% | ~14,537 |
-| Corner Opportunities | 3.00% | ~10,902 |
-| 2122 North Clark Street | 3.00% | ~10,902 |
-| Copious Cabbage | 3.00% | ~10,902 |
-| Sockdolager | 3.00% | ~10,902 |
-| Still Stalwart | 3.00% | ~10,902 |
-| Tighten the Screws | 3.00% | ~10,902 |
-| Keeping Your Word | 3.00% | ~10,902 |
+| Corner Opportunities | 3.00% | ~10,903 |
+| 2122 North Clark Street | 3.00% | ~10,903 |
+| Copious Cabbage | 3.00% | ~10,903 |
+| Sockdolager | 3.00% | ~10,903 |
+| Still Stalwart | 3.00% | ~10,903 |
+| Tighten the Screws | 3.00% | ~10,903 |
+| Keeping Your Word | 3.00% | ~10,903 |
 | One of Us | 2.00% | ~7,268 |
 | Baker’s Dozen | 2.00% | ~7,268 |
 | Dropping the Dime | 2.00% | ~7,268 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 905)
 | High Pillow | 0.10% | ~363 |
 | Station Master | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,415 (Ranked 58)  
+Progressed: 363,418 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,6 +365,7 @@ Completed: 7 (0.00%) (Ranked 409)
 | 2024-01-21 | 363,152 | 7 |
 | 2024-01-22 | 363,281 | 7 |
 | 2024-01-23 | 363,415 | 7 |
+| 2024-01-24 | 363,418 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 445)  
 Sum: 276 (Ranked 396)  

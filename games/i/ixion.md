@@ -27,9 +27,9 @@ Rating: 4.59 (Ranked 456)
 | Please Make it Stop! | 9.00% | ~383 |
 | Sightseeing | 8.00% | ~340 |
 | Necessary Enhancement | 8.00% | ~340 |
+| From the Past | 8.00% | ~340 |
 | Access Granted | 7.00% | ~298 |
 | Drill-dozer | 7.00% | ~298 |
-| From the Past | 7.00% | ~298 |
 | Oats | 6.00% | ~255 |
 | All in Good Health | 6.00% | ~255 |
 | What They Hide From Us | 5.00% | ~213 |

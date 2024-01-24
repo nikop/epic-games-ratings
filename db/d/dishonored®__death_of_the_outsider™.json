@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -1617,12 +1617,18 @@
       "Rating": 4.43,
       "NumberOfAwards": 445,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-01-23T23:58:17.2514284+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 447,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 445,
+  "NumberOfAwards": 447,
   "NumberOfAwardsMax": 56,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1634,7 +1640,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 50
+      "Count": 52
     },
     {
       "Text": "This game is Relaxing",
@@ -1703,8 +1709,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2024-01-23T13:05:03.4179925+00:00",
+  "LastChanged": "2024-01-23T23:58:17.2514283+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:51.2242579+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:57:30.8899566+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:04:57.7609734+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:58:17.2514286+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:05:41.0683523+00:00"
 }

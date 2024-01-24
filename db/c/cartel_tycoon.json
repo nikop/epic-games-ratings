@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1062,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3834,6 +3834,11 @@
       "Time": "2024-01-23T23:04:01.6938107+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T00:04:50.5621792+00:00",
+      "NumProgressed": 1062,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3883,9 +3888,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 446
     },
     {
       "ID": "hire-lieutenant",
@@ -3901,7 +3906,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "pack-and-sell",
@@ -3909,15 +3914,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 308
     },
     {
       "ID": "product-profit",
@@ -3933,15 +3938,15 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 64
     },
     {
       "ID": "rob-village",
@@ -3949,7 +3954,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "sell-variety",
@@ -3957,7 +3962,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "send-smuggling",
@@ -3981,7 +3986,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "use-submarine",
@@ -3996,15 +4001,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1062,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-21T00:03:54.481116+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:04:01.6938103+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:04:50.5621788+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.1776026+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:02:58.0488595+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:04:01.6938394+00:00"
+  "LastUpdate_Ratings": "2024-01-24T00:03:51.6369557+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:04:50.5622083+00:00"
 }

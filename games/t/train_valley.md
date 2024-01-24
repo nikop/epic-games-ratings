@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 670 (Ranked 341)  
-Completed: 2 (0.30%) (Ranked 264)  
+Completed: 2 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

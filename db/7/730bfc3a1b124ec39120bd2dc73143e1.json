@@ -4,7 +4,7 @@
   "ProductSlug": "secret-doctrine-342083",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-25T03:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-31T19:56:54.1353227+00:00",
   "LastUpdate_AppInfo": "2024-01-18T13:57:19.5493258+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:08.6801878+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:04:24.1943697+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:59:38.893969+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:05:10.5317432+00:00"
 }

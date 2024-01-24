@@ -10,9 +10,9 @@
 | Pest Control | 29.00% | ~468 |
 | Exhaustive Explorer | 27.00% | ~436 |
 | Blobmeister | 26.00% | ~420 |
-| How Low Can We Go? | 24.00% | ~387 |
+| How Low Can We Go? | 24.00% | ~388 |
 | Team Builder | 20.00% | ~323 |
-| Long Live Rock | 17.00% | ~274 |
+| Long Live Rock | 17.00% | ~275 |
 | Aggressive Antivirus | 15.00% | ~242 |
 | Effective Efficiency | 13.00% | ~210 |
 | Unblurred Lines | 12.00% | ~194 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,614 (Ranked 271)  
+Progressed: 1,615 (Ranked 271)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,3 +136,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 1,596 | 0 |
 | 2024-01-22 | 1,608 | 0 |
 | 2024-01-23 | 1,614 | 0 |
+| 2024-01-24 | 1,615 | 0 |

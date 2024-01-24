@@ -2,12 +2,12 @@
   "ID": "22516e1b4eea447e8f027e34d3a05e87",
   "Name": "Knights of Honor II: Sovereign",
   "ProductSlug": "knights-of-honor-ii-sovereign",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 506,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[KR]"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-02-23T23:57:47.5434783+00:00",
@@ -241,15 +241,21 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-24T00:00:00.2758873+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -316,6 +322,11 @@
     {
       "Time": "2024-01-23T23:03:48.3380043+00:00",
       "NumProgressed": 94,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T00:04:39.1937498+00:00",
+      "NumProgressed": 97,
       "NumCompleted": 0
     }
   ],
@@ -407,7 +418,7 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -439,9 +450,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "columbus",
@@ -511,9 +522,9 @@
       "ID": "do_you_read",
       "SetID": "41moj9p",
       "Name": "Do you read Sutter Cane?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "dust_and_salt",
@@ -569,7 +580,7 @@
       "Name": "Full House",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "game_of_thorns",
@@ -607,7 +618,7 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -625,7 +636,7 @@
       "Name": "Help! Help! I\u2019m being repressed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "his_all_holiness",
@@ -799,9 +810,9 @@
       "ID": "naught_but_a_seamless_victory",
       "SetID": "41moj9p",
       "Name": "Naught but a Seamless Victory",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "new_mineland",
@@ -839,9 +850,9 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "pillars_of_the_earth",
@@ -985,15 +996,15 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "time_to_find_india",
@@ -1128,16 +1139,16 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-12-07T15:57:38.7138742+00:00",
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
-  "LastChanged": "2024-01-20T16:58:07.6974686+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:03:48.338004+00:00",
+  "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:04:39.1937496+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:32.668734+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:03:48.3381144+00:00"
+  "LastUpdate_Ratings": "2024-01-24T00:00:00.2758875+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:04:39.1938409+00:00"
 }

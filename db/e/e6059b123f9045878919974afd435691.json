@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1510,
+  "EOS_Progressed": 1511,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4064,6 +4064,11 @@
       "Time": "2024-01-23T22:10:15.2462796+00:00",
       "NumProgressed": 1510,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T00:10:55.226018+00:00",
+      "NumProgressed": 1511,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4075,7 +4080,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -4083,7 +4088,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4123,7 +4128,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -4203,7 +4208,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -4371,7 +4376,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4395,7 +4400,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4507,7 +4512,7 @@
       "Name": "The Last of Us",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4515,7 +4520,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -4523,7 +4528,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4602,14 +4607,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1510,
+      "Progressed": 1511,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:10:28.2099491+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:10:55.2260176+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:02:43.4068302+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:10:28.2100129+00:00"
+  "LastUpdate_Ratings": "2024-01-24T00:03:39.6076511+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:10:55.2260878+00:00"
 }

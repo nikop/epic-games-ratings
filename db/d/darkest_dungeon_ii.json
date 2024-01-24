@@ -11208,9 +11208,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133577,
+  "EOS_Progressed": 133580,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41233,6 +41233,11 @@
       "Time": "2024-01-23T23:10:20.3977768+00:00",
       "NumProgressed": 133577,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T00:10:47.8709731+00:00",
+      "NumProgressed": 133580,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41372,7 +41377,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41404,7 +41409,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41468,7 +41473,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41875,21 +41880,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133577,
+      "Progressed": 133580,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8446,
+      "Progressed": 8449,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-23T19:59:21.9519372+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:10:20.3977763+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:10:47.8709725+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:43.4172767+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:10:20.3979682+00:00"
+  "LastUpdate_Ratings": "2024-01-24T00:00:08.6617728+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:10:47.8711857+00:00"
 }

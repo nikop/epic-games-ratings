@@ -1741,10 +1741,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 579,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2024-01-24T00:00:23.7023704+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 580,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 579,
+  "NumberOfAwards": 580,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1806,12 +1812,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 249318,
+  "EOS_Progressed": 249325,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 900,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27304,6 +27310,11 @@
       "Time": "2024-01-23T23:10:27.6418859+00:00",
       "NumProgressed": 249318,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-24T00:10:54.90895+00:00",
+      "NumProgressed": 249325,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27363,7 +27374,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19945
+      "UsersEstimate": 19946
     },
     {
       "ID": "Chapter2",
@@ -27747,7 +27758,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14959
+      "UsersEstimate": 14960
     },
     {
       "ID": "ElfEpic",
@@ -27763,7 +27774,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92248
+      "UsersEstimate": 92250
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27811,7 +27822,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27425
+      "UsersEstimate": 27426
     },
     {
       "ID": "FollowBraztok",
@@ -27963,7 +27974,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14959
+      "UsersEstimate": 14960
     },
     {
       "ID": "SupportCount4",
@@ -28018,21 +28029,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249318,
+      "Progressed": 249325,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249318,
+      "Progressed": 249325,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-01-23T15:59:56.8096112+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:10:27.6418856+00:00",
+  "LastChanged": "2024-01-24T00:00:23.7023702+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:10:54.9089496+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-23T23:00:01.2364853+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:10:27.642044+00:00"
+  "LastUpdate_Ratings": "2024-01-24T00:00:23.7023708+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:10:54.9091756+00:00"
 }

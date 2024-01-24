@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17124,
+  "EOS_Progressed": 17126,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20859,6 +20859,11 @@
       "Time": "2024-01-23T22:10:17.6802977+00:00",
       "NumProgressed": 17124,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T00:10:57.8296665+00:00",
+      "NumProgressed": 17126,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20918,7 +20923,7 @@
       "Name": "Regicide",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -21022,7 +21027,7 @@
       "Name": "Carthage - Ox Hide",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -21246,7 +21251,7 @@
       "Name": "Drillmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -21254,7 +21259,7 @@
       "Name": "Brilliant",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -21334,7 +21339,7 @@
       "Name": "Great",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -21494,7 +21499,7 @@
       "Name": "Settler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -21518,7 +21523,7 @@
       "Name": "Valiant",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -21550,7 +21555,7 @@
       "Name": "Wise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -21574,7 +21579,7 @@
       "Name": "Legendary Cities",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -21606,7 +21611,7 @@
       "Name": "Able Difficulty",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -21638,7 +21643,7 @@
       "Name": "Just Difficulty",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -21660,9 +21665,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -21702,7 +21707,7 @@
       "Name": "Artisans",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -21724,9 +21729,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -21772,9 +21777,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
       "SetID": "7l38kb8",
       "Name": "Traders",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -21790,7 +21795,7 @@
       "Name": "Furious Family",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -21806,7 +21811,7 @@
       "Name": "The Eternal Treaty",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
@@ -22190,7 +22195,7 @@
       "Name": "Acropolis",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -22198,7 +22203,7 @@
       "Name": "Apadana",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -22214,7 +22219,7 @@
       "Name": "Colossus",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -22228,9 +22233,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -22286,7 +22291,7 @@
       "Name": "Lighthouse",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -22294,7 +22299,7 @@
       "Name": "Mausoleum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -22302,7 +22307,7 @@
       "Name": "Musaeum",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -22310,7 +22315,7 @@
       "Name": "Necropolis",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -22398,7 +22403,7 @@
       "Name": "Learn to Play 2",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -22476,9 +22481,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -22534,7 +22539,7 @@
       "Name": "Old World Order",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -22550,7 +22555,7 @@
       "Name": "Pantheon of Gods",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -22606,7 +22611,7 @@
       "Name": "Play a Network Game",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -22622,7 +22627,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -22646,7 +22651,7 @@
       "Name": "Christianity",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -22662,7 +22667,7 @@
       "Name": "Manichaeism",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -22686,7 +22691,7 @@
       "Name": "Carthaginian Paganism",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -22694,7 +22699,7 @@
       "Name": "Egyptian Paganism",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -22726,7 +22731,7 @@
       "Name": "Roman Paganism",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -22734,7 +22739,7 @@
       "Name": "Zoroastrianism",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -22798,7 +22803,7 @@
       "Name": "Ten Crowns",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -22862,7 +22867,7 @@
       "Name": "Mythology",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -22910,7 +22915,7 @@
       "Name": "Cataphract Archer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -22958,7 +22963,7 @@
       "Name": "Siege Tower",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -23630,7 +23635,7 @@
       "Name": "Al Khazneh",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSEUM",
@@ -23733,21 +23738,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17124,
+      "Progressed": 17126,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17124,
+      "Progressed": 17126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:10:30.8269384+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:10:57.8296661+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:11.614629+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:10:30.8281039+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:59:41.6182818+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:10:57.8306937+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -287,11 +287,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23309,
-  "EOS_Completed": 124,
-  "EOS_NewPlayers": 1023,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 0.53,
+  "EOS_Progressed": 23312,
+  "EOS_Completed": 125,
+  "EOS_NewPlayers": 1021,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -9132,6 +9132,11 @@
       "Time": "2024-01-23T23:04:51.5863299+00:00",
       "NumProgressed": 23309,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-24T00:05:35.5378175+00:00",
+      "NumProgressed": 23312,
+      "NumCompleted": 125
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9192,7 +9197,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -9223,16 +9228,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 23309,
-      "Completed": 124
+      "Progressed": 23312,
+      "Completed": 125
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:04:51.5863295+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:05:35.5378171+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:58:10.6328537+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:04:51.5863949+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:58:51.4018227+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:05:35.5378665+00:00"
 }

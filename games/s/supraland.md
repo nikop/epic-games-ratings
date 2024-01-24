@@ -7,25 +7,25 @@ Number of Ratings: 25,175  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Out of bed | 99.00% | ~733,936 |
-| The Blues | 85.00% | ~630,147 |
-| Fast | 66.00% | ~489,290 |
-| Healthbar | 55.00% | ~407,742 |
-| Force Cube | 53.00% | ~392,915 |
+| The Blues | 85.00% | ~630,148 |
+| Fast | 66.00% | ~489,291 |
+| Healthbar | 55.00% | ~407,743 |
+| Force Cube | 53.00% | ~392,916 |
 | Double Jump | 48.00% | ~355,848 |
 | Regeneration | 47.00% | ~348,434 |
 | Triple Jump | 43.00% | ~318,780 |
 | Climb the hill | 42.00% | ~311,367 |
 | Through the fire pipe | 39.00% | ~289,126 |
 | MacGuffin | 38.00% | ~281,713 |
-| Just once | 37.00% | ~274,299 |
+| Just once | 37.00% | ~274,300 |
 | Armor | 30.00% | ~222,405 |
 | True holy spirit | 28.00% | ~207,578 |
 | That's how electronics work obviously | 27.00% | ~200,164 |
-| Force Cube Catapult | 25.00% | ~185,337 |
+| Force Cube Catapult | 25.00% | ~185,338 |
 | Holy Sword | 23.00% | ~170,510 |
 | Telefrag | 23.00% | ~170,510 |
 | Freed from prison | 22.00% | ~163,097 |
-| Stomp | 21.00% | ~155,683 |
+| Stomp | 21.00% | ~155,684 |
 | Double Health | 19.00% | ~140,856 |
 | Buckle | 18.00% | ~133,443 |
 | Green Keycard | 18.00% | ~133,443 |
@@ -34,9 +34,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Beam | 14.00% | ~103,789 |
 | 9 | 14.00% | ~103,789 |
 | Supraball Noob | 14.00% | ~103,789 |
-| Health Drink | 13.00% | ~96,375 |
-| Helped a star | 13.00% | ~96,375 |
-| Purple Cube | 13.00% | ~96,375 |
+| Health Drink | 13.00% | ~96,376 |
+| Helped a star | 13.00% | ~96,376 |
+| Purple Cube | 13.00% | ~96,376 |
 | Strong | 12.00% | ~88,962 |
 | Blue King's lair | 11.00% | ~81,548 |
 | Payback | 11.00% | ~81,548 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~74,135 |
 | Translocator | 10.00% | ~74,135 |
 | Yellow Shot Button | 10.00% | ~74,135 |
-| Moon Door | 9.00% | ~66,721 |
-| Momentum | 9.00% | ~66,721 |
-| Through the tiny pipe | 9.00% | ~66,721 |
-| Win! | 9.00% | ~66,721 |
+| Moon Door | 9.00% | ~66,722 |
+| Momentum | 9.00% | ~66,722 |
+| Through the tiny pipe | 9.00% | ~66,722 |
+| Win! | 9.00% | ~66,722 |
 | The real real teleported man | 8.00% | ~59,308 |
 | Well deserved | 6.00% | ~44,481 |
 | Super Sword | 4.00% | ~29,654 |
@@ -63,9 +63,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Poor ancestors | 2.00% | ~14,827 |
 | Shelf filled | 2.00% | ~14,827 |
 | Invisible Wall | 2.00% | ~14,827 |
-| Groupies | 1.00% | ~7,413 |
-| Jesus Christ Suprastar | 1.00% | ~7,413 |
-| Redstone Pickaxe | 1.00% | ~7,413 |
+| Groupies | 1.00% | ~7,414 |
+| Jesus Christ Suprastar | 1.00% | ~7,414 |
+| Redstone Pickaxe | 1.00% | ~7,414 |
 | DLC: Crashed | 0.60% | ~4,448 |
 | DLC: Gotta Jump High | 0.60% | ~4,448 |
 | DLC: Gotta Run Fast | 0.60% | ~4,448 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,349 (Ranked 27)  
+Progressed: 741,350 (Ranked 27)  
 Completed: 784 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,6 +384,7 @@ Completed: 784 (0.11%) (Ranked 315)
 | 2024-01-21 | 741,153 | 784 |
 | 2024-01-22 | 741,258 | 784 |
 | 2024-01-23 | 741,349 | 784 |
+| 2024-01-24 | 741,350 | 784 |
 ## Awards
 Max (Challenging Puzzles): 7,785  (Ranked 55)  
 Sum: 10,176 (Ranked 97)  

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 124,
@@ -441,10 +441,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-23T23:58:59.2482098+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 245,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
+  "NumberOfAwards": 245,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -470,12 +476,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 12138,
+  "EOS_Progressed": 12140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5978,6 +5984,11 @@
       "Time": "2024-01-23T23:10:22.9008287+00:00",
       "NumProgressed": 12138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T00:10:50.1149278+00:00",
+      "NumProgressed": 12140,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5990,7 +6001,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2913
+      "UsersEstimate": 2914
     },
     {
       "ID": "03_TheStolenStar",
@@ -5998,7 +6009,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6014,7 +6025,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6086,7 +6097,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "15_Pentakill",
@@ -6118,7 +6129,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6156,9 +6167,9 @@
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1335
     },
     {
       "ID": "24_TheHighrise",
@@ -6342,7 +6353,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "47_AFlame",
@@ -6509,16 +6520,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12138,
+      "Progressed": 12140,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-23T21:58:21.6665491+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:10:22.9008283+00:00",
+  "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:10:50.1149275+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:58:19.4959427+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:10:22.9008965+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:58:59.2482101+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:10:50.1149932+00:00"
 }

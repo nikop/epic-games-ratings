@@ -9,9 +9,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 15.00% | ~1,267 |
 | Lost and Found | 9.00% | ~760 |
 | Autodidact | 8.00% | ~10,686 |
-| This Belongs in a Museum | 7.00% | ~9,350 |
-| Creep and Sleep | 7.00% | ~9,350 |
-| Overdue Notice | 7.00% | ~9,350 |
+| This Belongs in a Museum | 7.00% | ~9,351 |
+| Creep and Sleep | 7.00% | ~9,351 |
+| Overdue Notice | 7.00% | ~9,351 |
 | This guy... again? | 7.00% | ~591 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,015 |
 | Serenity Now! | 6.00% | ~8,015 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,577 (Ranked 92)  
+Progressed: 133,580 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,6 +355,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
+| 2024-01-24 | 133,580 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
 Sum: 21,835 (Ranked 59)  

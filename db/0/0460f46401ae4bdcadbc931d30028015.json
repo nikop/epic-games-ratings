@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 1003,
+  "Ranking_Rating": 996,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 184,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -1807,10 +1807,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 458,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-01-23T23:58:16.8753378+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 460,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458,
+  "NumberOfAwards": 460,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1872,12 +1878,12 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 39
+      "Count": 41
     }
   ],
-  "EOS_Progressed": 11374,
+  "EOS_Progressed": 11379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12525,6 +12531,11 @@
       "Time": "2024-01-23T23:07:36.5160587+00:00",
       "NumProgressed": 11374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T00:06:59.6663078+00:00",
+      "NumProgressed": 11379,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12545,7 +12556,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3869
     },
     {
       "ID": "achievement_11",
@@ -12561,7 +12572,7 @@
       "Name": "Dealmaker",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "achievement_13",
@@ -12569,7 +12580,7 @@
       "Name": "MVP",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3414
     },
     {
       "ID": "achievement_14",
@@ -12577,7 +12588,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3869
     },
     {
       "ID": "achievement_15",
@@ -12633,7 +12644,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6711
+      "UsersEstimate": 6714
     },
     {
       "ID": "achievement_21",
@@ -12649,7 +12660,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_4",
@@ -12673,7 +12684,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2959
     },
     {
       "ID": "achievement_7",
@@ -12689,7 +12700,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "achievement_9",
@@ -12697,23 +12708,23 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11374,
+      "Progressed": 11379,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-23T20:57:29.8170223+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:07:36.5160583+00:00",
+  "LastChanged": "2024-01-23T23:58:16.8753376+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:06:59.6663074+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:57:30.467185+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:07:36.5161201+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:58:16.8753381+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:06:59.6663916+00:00"
 }

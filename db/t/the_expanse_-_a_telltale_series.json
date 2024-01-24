@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,7 +373,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19255,
+  "EOS_Progressed": 19256,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
@@ -18108,6 +18108,11 @@
       "Time": "2024-01-23T23:05:53.8791998+00:00",
       "NumProgressed": 19255,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-24T00:06:31.7746496+00:00",
+      "NumProgressed": 19256,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18152,7 +18157,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "14",
@@ -18296,7 +18301,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "30",
@@ -18399,13 +18404,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19255,
+      "Progressed": 19256,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5209,
+      "Progressed": 5210,
       "Completed": 1399
     }
   ],
@@ -18413,8 +18418,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:05:53.8791994+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:06:31.7746492+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:25.8159613+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:05:53.8792845+00:00"
+  "LastUpdate_Ratings": "2024-01-23T23:59:54.8489384+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:06:31.7747548+00:00"
 }

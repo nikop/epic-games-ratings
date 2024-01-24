@@ -5,8 +5,8 @@ Rating: 4.74 (Ranked 170)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 77.00% | ~718 |
-| Shelter Escape | 75.00% | ~700 |
+| New arm | 78.00% | ~728 |
+| Shelter Escape | 76.00% | ~709 |
 | The First Bond | 65.00% | ~606 |
 | Novice Scavenger | 58.00% | ~541 |
 | Master Craftsman | 44.00% | ~411 |

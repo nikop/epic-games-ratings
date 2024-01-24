@@ -6135,7 +6135,7 @@
       "Count": 563
     }
   ],
-  "EOS_Progressed": 14307,
+  "EOS_Progressed": 14308,
   "EOS_Completed": 356,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 4,
@@ -26095,6 +26095,11 @@
       "Time": "2024-01-23T22:09:19.123997+00:00",
       "NumProgressed": 14307,
       "NumCompleted": 356
+    },
+    {
+      "Time": "2024-01-24T00:09:49.2660848+00:00",
+      "NumProgressed": 14308,
+      "NumCompleted": 356
     }
   ],
   "TotalAchievements": 15,
@@ -26106,7 +26111,7 @@
       "Name": "Angler",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "Banker",
@@ -26122,7 +26127,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6295
+      "UsersEstimate": 6296
     },
     {
       "ID": "Chef_Cook",
@@ -26130,7 +26135,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "Chit_Chatter",
@@ -26218,14 +26223,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8441
+      "UsersEstimate": 8442
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14307,
+      "Progressed": 14308,
       "Completed": 356
     }
   ],
@@ -26233,8 +26238,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-23T19:59:24.1969564+00:00",
-  "LastChanged_Achievements": "2024-01-23T23:09:25.5732262+00:00",
+  "LastChanged_Achievements": "2024-01-24T00:09:49.2660844+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:46.2855027+00:00",
-  "LastUpdate_Achievements": "2024-01-23T23:09:25.573322+00:00"
+  "LastUpdate_Ratings": "2024-01-24T00:00:11.5703813+00:00",
+  "LastUpdate_Achievements": "2024-01-24T00:09:49.2662364+00:00"
 }

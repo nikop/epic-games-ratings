@@ -32,8 +32,8 @@ Rating: 4.67 (Ranked 289)
 | The Family Fortune | 19.00% | ~257 |
 | Whiz Kid | 16.00% | ~217 |
 | Good Neighbor | 16.00% | ~217 |
+| Family Memories | 15.00% | ~203 |
 | Chaincrawler Explorer | 14.00% | ~190 |
-| Family Memories | 14.00% | ~190 |
 | Syron for Hope | 14.00% | ~190 |
 | Ask Questions Later | 14.00% | ~190 |
 | Treasure Trove | 13.00% | ~176 |

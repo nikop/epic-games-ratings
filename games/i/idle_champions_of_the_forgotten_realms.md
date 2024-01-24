@@ -54,9 +54,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~766 |
 | The Botched Kidnapping | 0.30% | ~766 |
 | Trollskull Manor | 0.30% | ~766 |
+| Attack on the Manor | 0.30% | ~766 |
 | The Death Curse | 0.30% | ~766 |
 | Premature Betrayal | 0.30% | ~766 |
 | A Tale of Two Cities | 0.30% | ~766 |
+| The Dead Three | 0.30% | ~766 |
 | Flying Monkey Skulls of Doom | 0.30% | ~766 |
 | Close Escort | 0.30% | ~766 |
 | Constant Banditry | 0.30% | ~766 |
@@ -96,7 +98,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~511 |
 | Seeds of Deceit | 0.20% | ~511 |
 | The Gargoyle's Apprentice | 0.20% | ~511 |
-| Attack on the Manor | 0.20% | ~511 |
 | The Trepidatious Trio | 0.20% | ~511 |
 | Treasure Hunters | 0.20% | ~511 |
 | The Guardian of Orolunga | 0.20% | ~511 |
@@ -109,7 +110,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.20% | ~511 |
 | Hopelessly Lost | 0.20% | ~511 |
 | Enter the Sargauth | 0.20% | ~511 |
-| The Dead Three | 0.20% | ~511 |
 | Lair of the Xanathar | 0.20% | ~511 |
 | Waterdeep Under Siege | 0.20% | ~511 |
 | Crowded Streets | 0.20% | ~511 |
@@ -137,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.20% | ~511 |
 | Expert Opinion | 0.20% | ~511 |
 | The Haunted Jungle | 0.20% | ~511 |
+| Poor Guidance | 0.20% | ~511 |
 | The Beginning is the End | 0.20% | ~443 |
 | A Wise Approach | 0.20% | ~443 |
 | The Brains of an Illithid's Desire | 0.20% | ~443 |
@@ -508,7 +509,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~222 |
 | Ineffectual Intellectuals | 0.10% | ~222 |
 | The Archaeologist and the Sailor | 0.10% | ~222 |
-| Poor Guidance | 0.10% | ~255 |
 | Overwhelming Force | 0.10% | ~255 |
 | The Court of Storms | 0.10% | ~222 |
 | Coasting to the Finish | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,334 (Ranked 71)  
+Progressed: 255,342 (Ranked 71)  
 Completed: 2,635 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,6 +832,7 @@ Completed: 2,635 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
+| 2024-01-24 | 255,342 | 2,635 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,618 (Ranked 41)  

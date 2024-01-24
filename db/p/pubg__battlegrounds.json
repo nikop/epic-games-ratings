@@ -2,13 +2,13 @@
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
   "ProductSlug": "pubg-59c1d9",
-  "Ranking_Rating": 1062,
+  "Ranking_Rating": 1063,
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 7,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2022-12-06T05:00:00+00:00",
@@ -39820,6 +39820,6 @@
   "LastChanged": "2024-01-23T16:59:53.6187942+00:00",
   "LastChanged_Achievements": "2024-01-23T23:07:44.2224555+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.061199+00:00",
-  "LastUpdate_Ratings": "2024-01-23T22:59:33.155818+00:00",
+  "LastUpdate_Ratings": "2024-01-24T00:00:00.6885547+00:00",
   "LastUpdate_Achievements": "2024-01-23T23:07:44.2226051+00:00"
 }
