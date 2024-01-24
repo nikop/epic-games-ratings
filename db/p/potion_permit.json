@@ -4004,9 +4004,9 @@
       "ID": "ACHIEVEMENTS_22",
       "SetID": "d4o538a",
       "Name": "The Capitalist",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 850
+      "UsersEstimate": 870
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -4149,8 +4149,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-24T05:59:53.8763127+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:11:50.8561514+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:05:42.9878988+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1423657+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:05:57.2680996+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:11:50.8561865+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:59:49.3008642+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:05:42.9879484+00:00"
 }

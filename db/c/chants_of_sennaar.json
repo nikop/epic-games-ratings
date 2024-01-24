@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2988,
+  "EOS_Progressed": 2989,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 7.83,
   "EosHistory": [
@@ -8036,6 +8036,11 @@
       "Time": "2024-01-24T12:04:59.3660401+00:00",
       "NumProgressed": 2988,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-24T14:04:49.8644918+00:00",
+      "NumProgressed": 2989,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 25,
@@ -8103,7 +8108,7 @@
       "Name": "Free at last",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "META_RESULT_1-4",
@@ -8215,7 +8220,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "PROGRESS_N3",
@@ -8223,7 +8228,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "PROGRESS_N4",
@@ -8239,14 +8244,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2988,
+      "Progressed": 2989,
       "Completed": 234
     }
   ],
@@ -8254,8 +8259,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:10:56.7246379+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:04:49.8644915+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:07:44.6507831+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:10:56.7246948+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:01:36.5537281+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:04:49.8645534+00:00"
 }

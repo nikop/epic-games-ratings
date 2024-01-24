@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,588 |
-| Space Colonization | 78.00% | ~1,290 |
-| Friendzone | 76.00% | ~1,257 |
-| Hello World | 71.00% | ~1,174 |
-| Tinkerer | 60.00% | ~992 |
-| Space Engineer | 59.00% | ~976 |
-| Dust to Dust | 55.00% | ~910 |
-| Across The Stars | 43.00% | ~711 |
-| Crafty | 41.00% | ~678 |
-| All Seats Taken | 33.00% | ~546 |
-| For Science! | 30.00% | ~496 |
-| Meet the Petersons | 30.00% | ~496 |
+| Don't Panic! | 96.00% | ~1,592 |
+| Space Colonization | 78.00% | ~1,293 |
+| Friendzone | 76.00% | ~1,260 |
+| Hello World | 71.00% | ~1,177 |
+| Space Engineer | 59.00% | ~978 |
+| Tinkerer | 59.00% | ~978 |
+| Dust to Dust | 55.00% | ~912 |
+| Across The Stars | 43.00% | ~713 |
+| Crafty | 41.00% | ~680 |
+| All Seats Taken | 33.00% | ~547 |
+| For Science! | 30.00% | ~497 |
+| Meet the Petersons | 30.00% | ~497 |
 | KIA | 25.00% | ~414 |
 | Stay Cool | 25.00% | ~414 |
-| Mutiny in making | 22.00% | ~364 |
-| Et tu, Astrocitizen? | 18.00% | ~298 |
+| Mutiny in making | 22.00% | ~365 |
+| Et tu, Astrocitizen? | 17.00% | ~282 |
 | Eco-Shuttle | 16.00% | ~265 |
-| Space Explorer | 13.00% | ~215 |
+| Space Explorer | 13.00% | ~216 |
 | Hands Full | 11.00% | ~182 |
-| Gold Medalist | 10.00% | ~165 |
+| Gold Medalist | 10.00% | ~166 |
 | Non-Fiction | 9.00% | ~149 |
-| No Man Left Behind | 8.00% | ~132 |
+| No Man Left Behind | 8.00% | ~133 |
 | Intergalactic Breakup | 7.00% | ~116 |
 | First of April | 6.00% | ~99 |
 | Second Life | 6.00% | ~99 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,654 (Ranked 268)  
+Progressed: 1,658 (Ranked 268)  
 Completed: 1 (0.06%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 1 (0.06%) (Ranked 340)
 | 2024-01-21 | 1,495 | 1 |
 | 2024-01-22 | 1,590 | 1 |
 | 2024-01-23 | 1,644 | 1 |
-| 2024-01-24 | 1,654 | 1 |
+| 2024-01-24 | 1,658 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

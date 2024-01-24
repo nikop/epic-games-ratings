@@ -819,9 +819,9 @@
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
       "SetID": "1fek4an",
       "Name": "One Step",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SHOW_ALL",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:10:56.2333717+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:04:49.4145587+00:00",
   "LastUpdate_AppInfo": "2024-01-24T13:03:08.6719123+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:09:18.6790873+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:10:56.2334268+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:03:12.3377339+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:04:49.4146028+00:00"
 }

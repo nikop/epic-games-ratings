@@ -18,8 +18,8 @@ Rating: 4.61 (Ranked 402)
 | I Want One Too! | 21.00% | ~776 |
 | Legendary!!! | 21.00% | ~776 |
 | Go-Faster Stripes | 18.00% | ~665 |
+| We've Just Begun | 16.00% | ~591 |
 | I'm Here Too! | 15.00% | ~554 |
-| We've Just Begun | 15.00% | ~554 |
 | Is It the Right Size? | 10.00% | ~370 |
 | Stamina Star | 9.00% | ~333 |
 | Evangelist | 7.00% | ~259 |

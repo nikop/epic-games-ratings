@@ -4,7 +4,7 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -591,9 +591,9 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "631i43e",
       "Name": "Pious",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_21",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:16:44.927568+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:10:35.7980598+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:21.0521021+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:06:49.8390453+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:16:44.9276167+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:00:42.662621+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:10:35.7981082+00:00"
 }

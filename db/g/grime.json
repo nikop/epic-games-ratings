@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1951,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169499,
+  "EOS_Progressed": 169507,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24301,6 +24301,11 @@
       "Time": "2024-01-24T13:14:39.5284393+00:00",
       "NumProgressed": 169499,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2024-01-24T14:08:50.8847773+00:00",
+      "NumProgressed": 169507,
+      "NumCompleted": 468
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24321,7 +24326,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -24329,7 +24334,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -24345,7 +24350,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -24393,7 +24398,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -24433,7 +24438,7 @@
       "Name": "Host",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -24457,7 +24462,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -24465,7 +24470,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -24481,7 +24486,7 @@
       "Name": "Inevitable",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -24537,7 +24542,7 @@
       "Name": "Predator",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -24545,7 +24550,7 @@
       "Name": "Kinship",
       "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -24601,7 +24606,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "QUEST_CHILD",
@@ -24617,7 +24622,7 @@
       "Name": "Generous",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "QUEST_KIN",
@@ -24641,7 +24646,7 @@
       "Name": "Proportions",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -24680,21 +24685,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169082,
+      "Progressed": 169090,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169499,
+      "Progressed": 169507,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:14:39.5284388+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:08:50.8847769+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:06:51.4827981+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:14:39.5285623+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:00:44.346593+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:08:50.8848817+00:00"
 }

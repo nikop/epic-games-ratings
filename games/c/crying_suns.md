@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~313,091 |
-| Jeef Skeejj | 44.00% | ~208,728 |
+| The Shutdown | 66.00% | ~313,093 |
+| Jeef Skeejj | 44.00% | ~208,729 |
 | Careful planning | 39.00% | ~185,009 |
 | Second Coming | 34.00% | ~161,290 |
-| Jeef Skagg | 30.00% | ~142,314 |
-| Mother | 25.00% | ~118,595 |
-| In space, no one can hear you scream | 24.00% | ~113,851 |
+| Jeef Skagg | 30.00% | ~142,315 |
+| Mother | 25.00% | ~118,596 |
+| In space, no one can hear you scream | 24.00% | ~113,852 |
 | Chapter I: Echoes | 22.00% | ~104,364 |
 | Excelsior Rule | 22.00% | ~104,364 |
-| Things persisted in not being what they seemed | 20.00% | ~94,876 |
+| Things persisted in not being what they seemed | 20.00% | ~94,877 |
 | Knightmare Frames | 15.00% | ~71,157 |
 | May His passing cleanse the world | 15.00% | ~71,157 |
 | Chapter II: Fallible Flesh | 15.00% | ~71,157 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | Plan for the worst | 12.00% | ~56,926 |
 | Tetsuo | 11.00% | ~52,182 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,438 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,950 |
-| Through the mirror | 8.00% | ~37,950 |
-| General Vivar | 8.00% | ~37,950 |
-| Back to Ganyma | 8.00% | ~37,950 |
-| Kaos Rule | 8.00% | ~37,950 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,951 |
+| Through the mirror | 8.00% | ~37,951 |
+| General Vivar | 8.00% | ~37,951 |
+| Back to Ganyma | 8.00% | ~37,951 |
+| Kaos Rule | 8.00% | ~37,951 |
 | Meet your maker | 7.00% | ~33,207 |
 | Admiral Okonkwo | 7.00% | ~33,207 |
 | The Survivalists | 7.00% | ~33,207 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,381 (Ranked 45)  
+Progressed: 474,383 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 21 (0.00%) (Ranked 409)
 | 2024-01-21 | 474,284 | 21 |
 | 2024-01-22 | 474,324 | 21 |
 | 2024-01-23 | 474,358 | 21 |
-| 2024-01-24 | 474,381 | 21 |
+| 2024-01-24 | 474,383 | 21 |
 ## Awards
 Max (Character Customization): 230  (Ranked 288)  
 Sum: 254 (Ranked 400)  

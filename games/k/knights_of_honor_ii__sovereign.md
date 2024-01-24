@@ -6,31 +6,32 @@ Rating: 4.35 (Ranked 836)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 14.00% | ~16 |
+| Can’t Touch This | 13.00% | ~15 |
 | Help! Help! I’m being repressed | 12.00% | ~14 |
-| Can’t Touch This | 11.00% | ~13 |
-| Bring it on! | 10.00% | ~11 |
-| Full House | 10.00% | ~11 |
-| There is no Nobility in Poverty | 10.00% | ~11 |
-| Path of Glory | 9.00% | ~10 |
+| Bring it on! | 9.00% | ~11 |
+| Full House | 9.00% | ~11 |
+| Path of Glory | 9.00% | ~11 |
+| There is no Nobility in Poverty | 9.00% | ~11 |
 | They Got What They Deserved | 7.00% | ~8 |
 | The finest merchandise this side of river Jordan | 6.00% | ~7 |
 | What we’ve got here is failure to communicate | 5.00% | ~6 |
 | Call the Boys | 4.00% | ~5 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~5 |
-| Dinner Time | 4.00% | ~5 |
 | Do you read Sutter Cane? | 4.00% | ~5 |
-| Pillars of the Earth | 4.00% | ~5 |
 | Playerxander the Great | 4.00% | ~5 |
-| ‘Tis but a scratch | 4.00% | ~5 |
-| Battle of the Four Armies | 3.00% | ~3 |
-| Big Apple | 3.00% | ~3 |
-| Black Sheep Wall | 3.00% | ~3 |
-| Cut-Me-Own-Throat | 3.00% | ~3 |
-| Forth, Eorlingas! | 3.00% | ~3 |
-| I started a joke | 3.00% | ~3 |
-| Kingslayer | 3.00% | ~3 |
-| Learn Me a Book | 3.00% | ~3 |
-| Scientia potentia es | 3.00% | ~3 |
+| Battle of the Four Armies | 3.00% | ~4 |
+| Big Apple | 3.00% | ~4 |
+| Black Sheep Wall | 3.00% | ~4 |
+| Cut-Me-Own-Throat | 3.00% | ~4 |
+| Desperate Times Call for Desperate Measures | 3.00% | ~4 |
+| Dinner Time | 3.00% | ~4 |
+| Forth, Eorlingas! | 3.00% | ~4 |
+| I started a joke | 3.00% | ~4 |
+| Kingslayer | 3.00% | ~4 |
+| Learn Me a Book | 3.00% | ~4 |
+| Pillars of the Earth | 3.00% | ~4 |
+| Scientia potentia es | 3.00% | ~4 |
+| ‘Tis but a scratch | 3.00% | ~4 |
+| A Quiet Palace | 2.00% | ~2 |
 | All the King's Men | 2.00% | ~2 |
 | Blinded by Science | 2.00% | ~2 |
 | He made it out, but with an arrow in his back | 2.00% | ~2 |
@@ -44,7 +45,6 @@ Rating: 4.35 (Ranked 836)
 | Time to find India | 2.00% | ~2 |
 | Vlad the Impaler | 2.00% | ~2 |
 | Why is there no culture victory?! | 2.00% | ~2 |
-| A Quiet Palace | 0.90% | ~1 |
 | Zerg Rush | 0.90% | ~1 |
 | Crusade Invoker, no Regret | 0.90% | ~1 |
 | Fighting with Power and Steel | 0.90% | ~1 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 492)  
+Progressed: 117 (Ranked 491)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 114 | 0 |
+| 2024-01-24 | 117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

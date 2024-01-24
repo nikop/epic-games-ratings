@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -441,9 +441,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 2415,
+  "EOS_Progressed": 2417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4691,6 +4691,11 @@
       "Time": "2024-01-23T20:05:19.8680747+00:00",
       "NumProgressed": 2415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T14:07:16.9798242+00:00",
+      "NumProgressed": 2417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4710,7 +4715,7 @@
       "Name": "Revelations",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_003",
@@ -4734,7 +4739,7 @@
       "Name": "Contingency Plans",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_007",
@@ -4774,7 +4779,7 @@
       "Name": "Block Party",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_012",
@@ -4926,7 +4931,7 @@
       "Name": "ICU",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Achievement_031",
@@ -4998,7 +5003,7 @@
       "Name": "Check, Please!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_040",
@@ -5229,7 +5234,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2415,
+      "Progressed": 2417,
       "Completed": 0
     }
   ],
@@ -5237,8 +5242,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-24T13:03:24.6026213+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:13:25.4998613+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:07:16.9798238+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:03:24.6026218+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:13:25.4999243+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:57:17.9885269+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:07:16.9798921+00:00"
 }

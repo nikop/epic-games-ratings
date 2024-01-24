@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3125,
+  "EOS_Progressed": 3126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8564,6 +8564,11 @@
       "Time": "2024-01-24T13:17:35.9348067+00:00",
       "NumProgressed": 3125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T14:11:26.9650342+00:00",
+      "NumProgressed": 3126,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8600,7 +8605,7 @@
       "Name": "Stay on target",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_13",
@@ -8624,7 +8629,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_16",
@@ -8632,7 +8637,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_17",
@@ -8656,7 +8661,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_2",
@@ -8696,7 +8701,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_24",
@@ -8728,7 +8733,7 @@
       "Name": "Your journey has only started",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_28",
@@ -8744,7 +8749,7 @@
       "Name": "On the ball",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_3",
@@ -8760,7 +8765,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_31",
@@ -8816,7 +8821,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "achievement_38",
@@ -8848,7 +8853,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "achievement_41",
@@ -8920,7 +8925,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_5",
@@ -8960,7 +8965,7 @@
       "Name": "I\u2019ll take that bet",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_54",
@@ -8968,7 +8973,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_55",
@@ -9064,7 +9069,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_9",
@@ -9079,13 +9084,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3125,
+      "Progressed": 3126,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3125,
+      "Progressed": 3126,
       "Completed": 1
     }
   ],
@@ -9093,8 +9098,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:17:35.9348064+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:11:26.9650337+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:05:30.3673236+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:17:35.9349062+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:59:22.8894051+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:11:26.9651229+00:00"
 }

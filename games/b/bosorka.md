@@ -12,7 +12,7 @@
 | A good start | 44.00% | ~65 |
 | Skilled rider | 41.00% | ~60 |
 | Devil's dozen | 26.00% | ~38 |
-| It doesn't work like that | 24.00% | ~35 |
+| It doesn't work like that | 25.00% | ~37 |
 | Unstoppable Curiosity | 18.00% | ~26 |
 | This is just the beginning... | 16.00% | ~24 |
 | A small victory | 14.00% | ~21 |

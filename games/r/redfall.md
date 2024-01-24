@@ -9,7 +9,7 @@ Rating: 3.67 (Ranked 1,107)
 | Catch and Release | 18.00% | ~435 |
 | Home Is Where the Heart Is | 17.00% | ~411 |
 | Wounded Whispers | 17.00% | ~411 |
-| ICU | 16.00% | ~386 |
+| ICU | 16.00% | ~387 |
 | Blood Will Have Blood | 14.00% | ~338 |
 | Ne Plus Ultra | 14.00% | ~338 |
 | Peek-a-boo | 14.00% | ~338 |
@@ -34,10 +34,10 @@ Rating: 3.67 (Ranked 1,107)
 | From the Shadows | 4.00% | ~97 |
 | Starve the Beast | 4.00% | ~97 |
 | Harvest’s End | 4.00% | ~97 |
-| Revelations | 3.00% | ~72 |
-| Contingency Plans | 3.00% | ~72 |
-| Block Party | 3.00% | ~72 |
-| Check, Please! | 3.00% | ~72 |
+| Revelations | 3.00% | ~73 |
+| Contingency Plans | 3.00% | ~73 |
+| Block Party | 3.00% | ~73 |
+| Check, Please! | 3.00% | ~73 |
 | Right This Way | 2.00% | ~48 |
 | Nice Try | 2.00% | ~48 |
 | Blacklight Down | 2.00% | ~48 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,107)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,415 (Ranked 248)  
+Progressed: 2,417 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 2,412 | 0 |
 | 2024-01-22 | 2,413 | 0 |
 | 2024-01-23 | 2,415 | 0 |
+| 2024-01-24 | 2,417 | 0 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 531)  
 Sum: 30 (Ranked 552)  

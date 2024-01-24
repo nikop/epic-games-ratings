@@ -2,9 +2,9 @@
   "ID": "1bb409739a2a48cc97a8779a76e933f1",
   "Name": "MY LITTLE PONY A Maretime Bay Adventure",
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
-  "Ranking_EOS_Progress": 568,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 442,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 26,
+  "EOS_Completed_Percentage": 25.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:29.3073693+00:00",
@@ -136,6 +136,11 @@
       "Time": "2024-01-23T01:54:19.0111184+00:00",
       "NumProgressed": 50,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-24T14:05:17.2879989+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 13,
@@ -147,7 +152,7 @@
       "Name": "An Adorable Thief",
       "Percentage": 84,
       "XP": 75,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "1",
@@ -155,13 +160,13 @@
       "Name": "Unicycling 101",
       "Percentage": 82,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "10",
       "SetID": "1kmik7f",
       "Name": "Where Did The Magic Go?",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
       "UsersEstimate": 23
     },
@@ -169,7 +174,7 @@
       "ID": "11",
       "SetID": "1kmik7f",
       "Name": "Friendship Is Still Magic",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
       "UsersEstimate": 23
     },
@@ -177,7 +182,7 @@
       "ID": "12",
       "SetID": "1kmik7f",
       "Name": "Starscout",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 75,
       "UsersEstimate": 18
     },
@@ -185,15 +190,15 @@
       "ID": "2",
       "SetID": "1kmik7f",
       "Name": "Mane Street Awaits!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 75,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "3",
       "SetID": "1kmik7f",
       "Name": "Pipp Pipp Parade!",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 75,
       "UsersEstimate": 30
     },
@@ -201,15 +206,15 @@
       "ID": "4",
       "SetID": "1kmik7f",
       "Name": "Amateur Detective",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "5",
       "SetID": "1kmik7f",
       "Name": "Glowing Up",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 75,
       "UsersEstimate": 29
     },
@@ -217,7 +222,7 @@
       "ID": "6",
       "SetID": "1kmik7f",
       "Name": "W.I.N.G.S. Cadet",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 75,
       "UsersEstimate": 14
     },
@@ -225,7 +230,7 @@
       "ID": "7",
       "SetID": "1kmik7f",
       "Name": "Sheriff\u0027s Apprentice",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 75,
       "UsersEstimate": 27
     },
@@ -233,7 +238,7 @@
       "ID": "8",
       "SetID": "1kmik7f",
       "Name": "Pro Herder",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 75,
       "UsersEstimate": 26
     },
@@ -241,7 +246,7 @@
       "ID": "9",
       "SetID": "1kmik7f",
       "Name": "The Neigh-gotiator",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
       "UsersEstimate": 26
     }
@@ -250,7 +255,7 @@
     {
       "ID": "1kmik7f",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 13
     }
   ],
@@ -258,8 +263,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:11:24.8273408+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:05:17.2879985+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:04.4087727+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:04:07.7050491+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:11:24.8273498+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:58:03.4089048+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:05:17.2880061+00:00"
 }

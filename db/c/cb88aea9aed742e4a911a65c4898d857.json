@@ -479,9 +479,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 12153,
+  "EOS_Progressed": 12154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6034,6 +6034,11 @@
       "Time": "2024-01-24T13:17:31.0022779+00:00",
       "NumProgressed": 12153,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T14:11:21.7988395+00:00",
+      "NumProgressed": 12154,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6158,7 +6163,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "17_TheExemplar",
@@ -6565,7 +6570,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12153,
+      "Progressed": 12154,
       "Completed": 1
     }
   ],
@@ -6573,8 +6578,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:17:31.0022773+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:11:21.7988391+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:05:26.776894+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:17:31.0023451+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:59:19.5722197+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:11:21.7989062+00:00"
 }

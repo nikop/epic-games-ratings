@@ -2,9 +2,9 @@
   "ID": "33fcce6151b249118a2b7d79c1dfe6b1",
   "Name": "Lil\u0027 Guardsman",
   "ProductSlug": "lil-guardsman-3cf46c",
-  "Ranking_EOS_Progress": 739,
+  "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2024-01-23T20:03:39.5048948+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T14:05:02.0523955+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -68,7 +73,7 @@
       "ID": "BattleWonByAir",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Air",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "BattleWonByLand",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Land",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "CompleteLevel2",
       "SetID": "8j3le2g",
       "Name": "The Envoys Arrive",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -124,7 +129,7 @@
       "ID": "CompleteLevel3",
       "SetID": "8j3le2g",
       "Name": "Let\u0027s Play GoblinBall",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "CompleteLevel4",
       "SetID": "8j3le2g",
       "Name": "The Princess Is Missing",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -164,7 +169,7 @@
       "ID": "CompleteLevel8",
       "SetID": "8j3le2g",
       "Name": "Wartime Lil",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -172,7 +177,7 @@
       "ID": "CompleteLevel9",
       "SetID": "8j3le2g",
       "Name": "A Spy Among Goblins",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "PerfectLevel2",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 2",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -284,7 +289,7 @@
       "ID": "PerfectLevel3",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 3",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -292,7 +297,7 @@
       "ID": "PerfectLevel4",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 4",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -316,7 +321,7 @@
       "ID": "PerfectLevel8",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 8",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -324,7 +329,7 @@
       "ID": "PerfectLevel9",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 9",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -372,7 +377,7 @@
       "ID": "TripleBarf",
       "SetID": "8j3le2g",
       "Name": "Triple Barf!",
-      "Percentage": 67,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -420,7 +425,7 @@
       "ID": "WarriorChampion",
       "SetID": "8j3le2g",
       "Name": "Warrior Champion!",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -437,13 +442,13 @@
     {
       "ID": "8j3le2g",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:11:09.3871424+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:05:02.0523952+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:04:54.7141731+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:11:09.3871685+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:58:46.7706258+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:05:02.0524203+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,770,275 |
-| Easy to forget | 46.00% | ~1,661,891 |
-| Back in the black | 39.00% | ~1,408,995 |
-| That's what I'm talking about | 29.00% | ~1,047,714 |
-| The Best of Both Worlds | 25.00% | ~903,202 |
-| Get your wings | 20.00% | ~722,561 |
-| Double trouble | 16.00% | ~578,049 |
-| Smashing it | 11.00% | ~397,409 |
-| But can it run Crysis? | 9.00% | ~325,153 |
-| My favourite feature... | 9.00% | ~325,153 |
-| Customer satisfaction | 8.00% | ~289,025 |
-| From humble beginnings... | 7.00% | ~252,896 |
-| Keeping things neat | 4.00% | ~144,512 |
-| Seems you're pretty good at this | 4.00% | ~144,512 |
-| Bending over backwards | 4.00% | ~144,512 |
-| I'm broke, Uncle! | 3.00% | ~108,384 |
-| Triple threat | 3.00% | ~108,384 |
-| You rock at this! | 3.00% | ~108,384 |
-| Perfection | 3.00% | ~108,384 |
-| Your music sucks | 3.00% | ~108,384 |
+| You need to plug it in... | 49.00% | ~1,770,284 |
+| Easy to forget | 46.00% | ~1,661,899 |
+| Back in the black | 39.00% | ~1,409,001 |
+| That's what I'm talking about | 29.00% | ~1,047,719 |
+| The Best of Both Worlds | 25.00% | ~903,206 |
+| Get your wings | 20.00% | ~722,565 |
+| Double trouble | 16.00% | ~578,052 |
+| Smashing it | 11.00% | ~397,411 |
+| But can it run Crysis? | 9.00% | ~325,154 |
+| My favourite feature... | 9.00% | ~325,154 |
+| Customer satisfaction | 8.00% | ~289,026 |
+| From humble beginnings... | 7.00% | ~252,898 |
+| Keeping things neat | 4.00% | ~144,513 |
+| Seems you're pretty good at this | 4.00% | ~144,513 |
+| Bending over backwards | 4.00% | ~144,513 |
+| I'm broke, Uncle! | 3.00% | ~108,385 |
+| Triple threat | 3.00% | ~108,385 |
+| You rock at this! | 3.00% | ~108,385 |
+| Perfection | 3.00% | ~108,385 |
+| Your music sucks | 3.00% | ~108,385 |
 | Maybe you should try something else? | 2.00% | ~72,256 |
 | Taking care of business | 2.00% | ~72,256 |
 | Things are under control | 2.00% | ~72,256 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,613 |
 | Treat yourself - GPU | 0.10% | ~3,613 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612,807 (Ranked 5)  
+Progressed: 3,612,824 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 41 (0.00%) (Ranked 409)
 | 2024-01-21 | 3,611,983 | 41 |
 | 2024-01-22 | 3,612,336 | 41 |
 | 2024-01-23 | 3,612,675 | 41 |
-| 2024-01-24 | 3,612,807 | 41 |
+| 2024-01-24 | 3,612,824 | 41 |
 ## Awards
 Max (Great for Beginners): 1,148  (Ranked 154)  
 Sum: 8,328 (Ranked 116)  

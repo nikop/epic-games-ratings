@@ -1167,9 +1167,9 @@
       "ID": "id_11",
       "SetID": "bk9jib6",
       "Name": "Wise man",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "id_12",
@@ -1287,9 +1287,9 @@
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 195
     },
     {
       "ID": "id_32",
@@ -1568,8 +1568,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-23T07:58:03.0213159+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:17:30.433263+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:11:21.195963+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:05:29.1339619+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:17:30.4332961+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:59:21.6466253+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:11:21.1959979+00:00"
 }

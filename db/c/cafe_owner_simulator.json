@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -4011,6 +4011,11 @@
       "Time": "2024-01-24T09:10:29.0296733+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T14:11:06.9543041+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -4030,7 +4035,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "CHIEF",
@@ -4046,7 +4051,7 @@
       "Name": "CLEANER",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "DEBTOR",
@@ -4110,7 +4115,7 @@
       "Name": "SUCCESSFUL",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "THINGS_ARE_GOING_WELL",
@@ -4118,7 +4123,7 @@
       "Name": "THINGS ARE GOING WELL",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "YETTI",
@@ -4133,7 +4138,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 0
     }
   ],
@@ -4141,8 +4146,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:17:16.4347664+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:11:06.9543039+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.6348808+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:07:41.860631+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:17:16.4347979+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:01:33.9056773+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:11:06.9543353+00:00"
 }

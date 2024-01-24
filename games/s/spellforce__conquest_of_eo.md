@@ -18,8 +18,8 @@
 | Necromancer's Apprentice | 38.00% | ~60 |
 | Alchemist's Apprentice | 36.00% | ~57 |
 | Friend of Lyraine | 32.00% | ~51 |
+| Redecorating | 29.00% | ~46 |
 | The Circle | 29.00% | ~46 |
-| Redecorating | 28.00% | ~45 |
 | Bad JuJu | 24.00% | ~38 |
 | Friend of Sevenkeeps | 21.00% | ~33 |
 | Slave to the rhythm | 19.00% | ~30 |

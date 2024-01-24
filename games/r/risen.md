@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 431)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 89.00% | ~193 |
+| Beginner | 90.00% | ~195 |
 | Map reader | 66.00% | ~143 |
 | Adventurer | 65.00% | ~141 |
 | Philanthropist | 62.00% | ~135 |
@@ -23,10 +23,10 @@ Rating: 4.60 (Ranked 431)
 | Death of a legend | 21.00% | ~46 |
 | Archaeologist | 21.00% | ~46 |
 | Family man | 20.00% | ~43 |
+| Wise man | 18.00% | ~39 |
 | Little hero | 18.00% | ~39 |
 | The fourth triplet | 18.00% | ~39 |
 | Sidelined | 18.00% | ~39 |
-| Wise man | 17.00% | ~37 |
 | Pandora's box | 17.00% | ~37 |
 | Hard worker | 17.00% | ~37 |
 | Fence | 17.00% | ~37 |

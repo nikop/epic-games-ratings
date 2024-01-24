@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 86.00% | ~2,688 |
-| Off to a good start | 60.00% | ~1,875 |
-| Do... or do not. There is no try | 52.00% | ~1,625 |
+| Off to a good start | 60.00% | ~1,876 |
+| Do... or do not. There is no try | 52.00% | ~1,626 |
 | A good blaster at your side | 24.00% | ~750 |
 | I suggest a new strategy | 17.00% | ~531 |
 | Great shot, kid! | 15.00% | ~469 |
@@ -31,15 +31,15 @@
 | Safety ain't the point of a joyride | 3.00% | ~94 |
 | Not bad for a little furball | 3.00% | ~94 |
 | Patience you must have | 3.00% | ~94 |
-| The Force is strong with this one | 2.00% | ~62 |
-| I've been waiting for you | 2.00% | ~62 |
-| When 900 years old you reach... | 2.00% | ~62 |
-| Determined | 2.00% | ~62 |
-| Your journey has only started | 2.00% | ~62 |
-| On the ball | 2.00% | ~62 |
-| Precision shot | 2.00% | ~62 |
-| That's no moon | 2.00% | ~62 |
-| Don't underestimate the Force | 2.00% | ~62 |
+| The Force is strong with this one | 2.00% | ~63 |
+| I've been waiting for you | 2.00% | ~63 |
+| When 900 years old you reach... | 2.00% | ~63 |
+| Determined | 2.00% | ~63 |
+| Your journey has only started | 2.00% | ~63 |
+| On the ball | 2.00% | ~63 |
+| Precision shot | 2.00% | ~63 |
+| That's no moon | 2.00% | ~63 |
+| Don't underestimate the Force | 2.00% | ~63 |
 | Hold the line! | 1.00% | ~31 |
 | Ackbar's Elite | 1.00% | ~31 |
 | This is a new day, a new beginning | 1.00% | ~31 |
@@ -56,9 +56,9 @@
 | When surrounded by war... | 0.60% | ~19 |
 | No such thing as luck | 0.50% | ~16 |
 | Stop that Droid | 0.50% | ~16 |
-| Stay on target | 0.40% | ~12 |
-| Do we take prisoners? | 0.40% | ~12 |
-| I’ll take that bet | 0.40% | ~12 |
+| Stay on target | 0.40% | ~13 |
+| Do we take prisoners? | 0.40% | ~13 |
+| I’ll take that bet | 0.40% | ~13 |
 | Greed can be a very powerful ally | 0.30% | ~9 |
 | That got him! | 0.20% | ~6 |
 | in a galaxy far, far away.... | 0.20% | ~6 |
@@ -68,7 +68,7 @@
 | Stay in attack formation | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,125 (Ranked 234)  
+Progressed: 3,126 (Ranked 234)  
 Completed: 1 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 1 (0.03%) (Ranked 364)
 | 2024-01-21 | 3,096 | 1 |
 | 2024-01-22 | 3,110 | 1 |
 | 2024-01-23 | 3,120 | 1 |
-| 2024-01-24 | 3,125 | 1 |
+| 2024-01-24 | 3,126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

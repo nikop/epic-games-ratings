@@ -373,7 +373,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19260,
+  "EOS_Progressed": 19261,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
@@ -18128,6 +18128,11 @@
       "Time": "2024-01-24T09:06:29.9518848+00:00",
       "NumProgressed": 19260,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-24T14:07:37.7774766+00:00",
+      "NumProgressed": 19261,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18156,7 +18161,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "12",
@@ -18172,7 +18177,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3659
+      "UsersEstimate": 3660
     },
     {
       "ID": "14",
@@ -18244,7 +18249,7 @@
       "Name": "Drone Dodger",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "22",
@@ -18388,7 +18393,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "33",
@@ -18412,20 +18417,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19260,
+      "Progressed": 19261,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5214,
+      "Progressed": 5215,
       "Completed": 1400
     }
   ],
@@ -18433,8 +18438,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:13:46.3772487+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:07:37.7774761+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:06:50.5519394+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:13:46.377368+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:00:43.3992909+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:07:37.7775859+00:00"
 }

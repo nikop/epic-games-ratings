@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~514 |
 | Trade Caravan | 3.00% | ~514 |
 | Regicide | 2.00% | ~343 |
+| Hanging Gardens in Babylon | 2.00% | ~343 |
 | Drillmaster | 2.00% | ~343 |
 | Brilliant | 2.00% | ~343 |
 | Great | 2.00% | ~343 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 2.00% | ~343 |
 | Zoroastrianism | 2.00% | ~343 |
 | Mythology | 2.00% | ~343 |
-| Hanging Gardens in Babylon | 1.00% | ~171 |
 | Beloved | 1.00% | ~171 |
 | Mighty | 1.00% | ~171 |
 | Victorious | 1.00% | ~171 |
@@ -201,6 +201,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Future Regicide | 0.10% | ~17 |
 | Acropolis in Athenai | 0.10% | ~17 |
 | Barbarian Horde | 0.10% | ~17 |
+| The Great Raging Horde | 0.10% | ~17 |
 | United Against The Horde | 0.10% | ~17 |
 | Battle of Opis | 0.10% | ~17 |
 | Before the Mongol Horde | 0.10% | ~17 |
@@ -338,7 +339,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Yazilikaya in Hattusa | 0.10% | ~17 |
 | Royal Library in Nineveh | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
-| The Great Raging Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,136 (Ranked 170)  
+Progressed: 17,137 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,16 +644,16 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
-| 2024-01-24 | 17,136 | 5 |
+| 2024-01-24 | 17,137 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
-Sum: 1,945 (Ranked 224)  
+Sum: 1,946 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 231 |
+| This game is Extremely Fun | 229 |
 | This game has Diverse Characters | 228 |
-| This game is Extremely Fun | 228 |
 | This game is Highly Recommended | 224 |
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
@@ -864,3 +864,4 @@ Diff (max vs sum): 63
 | 2024-01-19 | 4.65 | - | 230 | 1,942 |
 | 2024-01-20 | 4.65 | - | 231 | 1,944 |
 | 2024-01-21 | 4.65 | - | 231 | 1,945 |
+| 2024-01-24 | 4.65 | - | 231 | 1,946 |

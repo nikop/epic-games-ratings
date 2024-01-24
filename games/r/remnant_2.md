@@ -5,18 +5,18 @@ Rating: 4.71 (Ranked 206)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,826 |
-| First of Many | 12.00% | ~35,840 |
-| Not Your Average Trait | 10.00% | ~29,866 |
-| Expanding Horizons | 9.00% | ~26,880 |
-| Gleaming the Cube | 8.00% | ~23,893 |
-| Quest for Survival | 8.00% | ~23,893 |
-| Familiar Face | 8.00% | ~23,893 |
-| Boss'n Up | 8.00% | ~23,893 |
-| Trait Chaser | 8.00% | ~23,893 |
-| Not So Special Now | 7.00% | ~20,906 |
-| Not a Janitor | 7.00% | ~20,906 |
-| Duality | 7.00% | ~20,906 |
+| The Killing Jar | 13.00% | ~38,828 |
+| First of Many | 12.00% | ~35,841 |
+| Not Your Average Trait | 10.00% | ~29,867 |
+| Expanding Horizons | 9.00% | ~26,881 |
+| Gleaming the Cube | 8.00% | ~23,894 |
+| Quest for Survival | 8.00% | ~23,894 |
+| Familiar Face | 8.00% | ~23,894 |
+| Boss'n Up | 8.00% | ~23,894 |
+| Trait Chaser | 8.00% | ~23,894 |
+| Not So Special Now | 7.00% | ~20,907 |
+| Not a Janitor | 7.00% | ~20,907 |
+| Duality | 7.00% | ~20,907 |
 | Equal Measures | 6.00% | ~17,920 |
 | Blue Goddess | 6.00% | ~17,920 |
 | Top Performer | 6.00% | ~17,920 |
@@ -24,15 +24,15 @@ Rating: 4.71 (Ranked 206)
 | Almost There | 6.00% | ~17,920 |
 | Make Some Room | 6.00% | ~17,920 |
 | Good, But Could Be Better! | 6.00% | ~17,920 |
-| Am I Seeing This? | 5.00% | ~14,933 |
-| Chaos | 5.00% | ~14,933 |
-| Traitor | 5.00% | ~14,933 |
-| Power Surge | 5.00% | ~14,933 |
-| The God Gambit | 5.00% | ~14,933 |
-| Dark Designs | 5.00% | ~14,933 |
-| Was This Supposed To Happen? | 5.00% | ~14,933 |
-| The Web | 5.00% | ~14,933 |
-| Scrap Collector | 5.00% | ~14,933 |
+| Am I Seeing This? | 5.00% | ~14,934 |
+| Chaos | 5.00% | ~14,934 |
+| Traitor | 5.00% | ~14,934 |
+| Power Surge | 5.00% | ~14,934 |
+| The God Gambit | 5.00% | ~14,934 |
+| Dark Designs | 5.00% | ~14,934 |
+| Was This Supposed To Happen? | 5.00% | ~14,934 |
+| The Web | 5.00% | ~14,934 |
+| Scrap Collector | 5.00% | ~14,934 |
 | Forever is a Long Time Coming | 4.00% | ~11,947 |
 | Madman's Paradise | 4.00% | ~11,947 |
 | The Agenda | 4.00% | ~11,947 |
@@ -57,11 +57,11 @@ Rating: 4.71 (Ranked 206)
 | The Collector | 2.00% | ~5,973 |
 | Maxed Out! | 2.00% | ~5,973 |
 | Proving Grounds | 1.00% | ~2,987 |
-| Succession | 0.90% | ~700 |
+| Succession | 0.90% | ~701 |
 | You Shall Pass | 0.80% | ~623 |
 | A Foul Feast | 0.50% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,663 (Ranked 65)  
+Progressed: 298,674 (Ranked 65)  
 Completed: 1,235 (0.41%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 1,235 (0.41%) (Ranked 247)
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
-| 2024-01-24 | 298,663 | 1,235 |
+| 2024-01-24 | 298,674 | 1,235 |
 ## Awards
 Max (Great Boss Battles): 7,540  (Ranked 56)  
 Sum: 17,343 (Ranked 65)  

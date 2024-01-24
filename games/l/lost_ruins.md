@@ -35,12 +35,12 @@ Rating: 4.85 (Ranked 39)
 | Marksman | 2.00% | ~14 |
 | Meat Lover | 2.00% | ~14 |
 | Sling of David | 2.00% | ~14 |
+| Assassin | 1.00% | ~7 |
 | Roughneck | 1.00% | ~7 |
 | Rune Master | 1.00% | ~7 |
 | Sword Master | 1.00% | ~7 |
 | Weapon Master | 1.00% | ~7 |
 | Witch | 1.00% | ~7 |
-| Assassin | 0.80% | ~6 |
 | Art Collector | 0.60% | ~4 |
 | Necromancer | 0.40% | ~3 |
 | Cryomancer | 0.30% | ~2 |

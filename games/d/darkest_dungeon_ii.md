@@ -6,23 +6,23 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,271 |
+| Malpractice Assurance | 15.00% | ~1,272 |
 | Lost and Found | 9.00% | ~763 |
-| Autodidact | 8.00% | ~10,688 |
-| Serenity Now! | 7.00% | ~9,352 |
-| This Belongs in a Museum | 7.00% | ~9,352 |
-| Creep and Sleep | 7.00% | ~9,352 |
-| Overdue Notice | 7.00% | ~9,352 |
-| This guy... again? | 7.00% | ~593 |
-| Ploughshares to Swords | 7.00% | ~593 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,016 |
-| Meat and Greet | 6.00% | ~8,016 |
-| Catch and Decease | 6.00% | ~8,016 |
-| Escape from the Black Hole | 6.00% | ~8,016 |
-| Rush Hour | 6.00% | ~8,016 |
-| To Grandmother's House | 6.00% | ~8,016 |
-| FNG | 6.00% | ~8,016 |
-| Bloody Graduation | 6.00% | ~508 |
+| Autodidact | 8.00% | ~10,689 |
+| Serenity Now! | 7.00% | ~9,353 |
+| This Belongs in a Museum | 7.00% | ~9,353 |
+| Creep and Sleep | 7.00% | ~9,353 |
+| Overdue Notice | 7.00% | ~9,353 |
+| This guy... again? | 7.00% | ~594 |
+| Ploughshares to Swords | 7.00% | ~594 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,017 |
+| Meat and Greet | 6.00% | ~8,017 |
+| Catch and Decease | 6.00% | ~8,017 |
+| Escape from the Black Hole | 6.00% | ~8,017 |
+| Rush Hour | 6.00% | ~8,017 |
+| To Grandmother's House | 6.00% | ~8,017 |
+| FNG | 6.00% | ~8,017 |
+| Bloody Graduation | 6.00% | ~509 |
 | It Rings a Bell | 5.00% | ~6,680 |
 | Not Today! | 5.00% | ~6,680 |
 | It Happens | 5.00% | ~6,680 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,606 (Ranked 92)  
+Progressed: 133,610 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
-| 2024-01-24 | 133,606 | 5 |
+| 2024-01-24 | 133,610 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
 Sum: 21,843 (Ranked 59)  

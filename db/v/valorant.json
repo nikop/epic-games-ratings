@@ -14657,10 +14657,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 678221,
       "NumberOfAwardsMax": 95197
+    },
+    {
+      "Time": "2024-01-24T14:02:42.5015283+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 678446,
+      "NumberOfAwardsMax": 95197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 678221,
+  "NumberOfAwards": 678446,
   "NumberOfAwardsMax": 95197,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -14698,7 +14704,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 74318
+      "Count": 74543
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14736,8 +14742,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-01-24T13:08:10.3370916+00:00",
+  "LastChanged": "2024-01-24T14:02:42.5015281+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:52.0895554+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:08:10.3370923+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:15:33.9936824+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:02:42.5015287+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:09:45.260769+00:00"
 }

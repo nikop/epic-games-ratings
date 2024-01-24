@@ -5,7 +5,7 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 146,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -373,6 +373,11 @@
       "Time": "2024-01-24T13:11:05.0849135+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T14:04:58.1585136+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -391,9 +396,9 @@
       "ID": "a_quiet_palace",
       "SetID": "41moj9p",
       "Name": "A Quiet Palace",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "all_the_kings_men",
@@ -417,7 +422,7 @@
       "Name": "Battle of the Four Armies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "big_apple",
@@ -425,7 +430,7 @@
       "Name": "Big Apple",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "black_sheep_wall",
@@ -433,7 +438,7 @@
       "Name": "Black Sheep Wall",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "blessed_be_his_name",
@@ -463,7 +468,7 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -495,9 +500,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "columbus",
@@ -537,15 +542,15 @@
       "Name": "Cut-Me-Own-Throat",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "desperate_times",
       "SetID": "41moj9p",
       "Name": "Desperate Times Call for Desperate Measures",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "die_by_my_hand",
@@ -559,9 +564,9 @@
       "ID": "dinner_time",
       "SetID": "41moj9p",
       "Name": "Dinner Time",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "do_you_read",
@@ -601,7 +606,7 @@
       "Name": "Forth, Eorlingas!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "freeeedom",
@@ -623,7 +628,7 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -745,7 +750,7 @@
       "Name": "I started a joke",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ibn_battuta",
@@ -801,7 +806,7 @@
       "Name": "Kingslayer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "learn_me_a_book",
@@ -809,7 +814,7 @@
       "Name": "Learn Me a Book",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "let_us_pray",
@@ -897,15 +902,15 @@
       "Name": "Path of Glory",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "pillars_of_the_earth",
       "SetID": "41moj9p",
       "Name": "Pillars of the Earth",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "playersander_the_great",
@@ -977,7 +982,7 @@
       "Name": "Scientia potentia es",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "spartacus",
@@ -1039,7 +1044,7 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -1063,9 +1068,9 @@
       "ID": "tis_but_a_scratch",
       "SetID": "41moj9p",
       "Name": "\u2018Tis but a scratch",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "together_we_stand",
@@ -1184,7 +1189,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
@@ -1192,8 +1197,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:11:05.0849131+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:04:58.1585133+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:06:59.2281052+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:11:05.0849956+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:00:51.6048003+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:04:58.1585945+00:00"
 }

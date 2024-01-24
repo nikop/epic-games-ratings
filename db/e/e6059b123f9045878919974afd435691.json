@@ -4099,9 +4099,9 @@
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 333
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -4618,8 +4618,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:17:37.6207205+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:11:28.5839419+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:09:15.6924145+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:17:37.620776+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:03:08.4989675+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:11:28.5840054+00:00"
 }

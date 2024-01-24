@@ -2284,10 +2284,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1945,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-01-24T14:00:22.8203694+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1946,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1945,
+  "NumberOfAwards": 1946,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2301,7 +2307,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2364,9 +2370,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17136,
+  "EOS_Progressed": 17137,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20889,6 +20895,11 @@
       "Time": "2024-01-24T11:11:46.1991343+00:00",
       "NumProgressed": 17136,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T14:11:31.4215135+00:00",
+      "NumProgressed": 17137,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20978,9 +20989,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -21002,9 +21013,9 @@
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING",
       "SetID": "9201eeb",
       "Name": "The Great Raging Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER",
@@ -23763,21 +23774,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17136,
+      "Progressed": 17137,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17136,
+      "Progressed": 17137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:17:40.724104+00:00",
+  "LastChanged": "2024-01-24T14:00:22.8203692+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:11:31.4215131+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:06:30.0787598+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:17:40.7252352+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:00:22.8203701+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:11:31.4224643+00:00"
 }

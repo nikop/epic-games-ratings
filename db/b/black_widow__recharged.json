@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 961,
+  "Ranking_Rating": 960,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 149,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25305,
+  "EOS_Progressed": 25306,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -24304,6 +24304,11 @@
       "Time": "2024-01-24T13:10:30.0806692+00:00",
       "NumProgressed": 25305,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-24T14:04:24.0283539+00:00",
+      "NumProgressed": 25306,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24315,7 +24320,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19485
+      "UsersEstimate": 19486
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -24331,7 +24336,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -24395,7 +24400,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6579
+      "UsersEstimate": 6580
     },
     {
       "ID": "ACH_THE_FALL",
@@ -24426,15 +24431,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25305,
+      "Progressed": 25306,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:10:30.0806689+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:04:24.0283535+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:06:46.4861135+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:10:30.080821+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:00:39.5394162+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:04:24.0285196+00:00"
 }

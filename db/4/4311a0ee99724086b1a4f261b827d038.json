@@ -917,9 +917,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244887,
+  "EOS_Progressed": 244889,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1024,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22422,6 +22422,11 @@
       "Time": "2024-01-24T13:17:23.5904859+00:00",
       "NumProgressed": 244887,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T14:11:14.3905758+00:00",
+      "NumProgressed": 244889,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22490,7 +22495,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51426
+      "UsersEstimate": 51427
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22514,7 +22519,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9795
+      "UsersEstimate": 9796
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -22705,7 +22710,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244887,
+      "Progressed": 244889,
       "Completed": 0
     }
   ],
@@ -22713,8 +22718,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:17:23.5904856+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:11:14.3905755+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:05:57.2496142+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:17:23.590654+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:59:49.2177035+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:11:14.390686+00:00"
 }

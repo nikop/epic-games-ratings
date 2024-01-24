@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -19022,10 +19022,10 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1058040,
+  "EOS_Progressed": 1058058,
   "EOS_Completed": 3155,
-  "EOS_NewPlayers": 4570,
-  "EOS_NewCompleters": 43,
+  "EOS_NewPlayers": 4546,
+  "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51012,6 +51012,11 @@
       "Time": "2024-01-24T13:16:02.9757071+00:00",
       "NumProgressed": 1058040,
       "NumCompleted": 3155
+    },
+    {
+      "Time": "2024-01-24T14:09:53.9503666+00:00",
+      "NumProgressed": 1058058,
+      "NumCompleted": 3155
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51318,9 +51323,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7406
+      "UsersEstimate": 8464
     },
     {
       "ID": "TrueWarrior",
@@ -51559,21 +51564,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058040,
+      "Progressed": 1058058,
       "Completed": 3155
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186663,
+      "Progressed": 186681,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-24T12:03:55.4420344+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:16:02.9757067+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:09:53.9503662+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:09:50.912062+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:16:02.9759194+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:03:44.0143346+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:09:53.9505925+00:00"
 }

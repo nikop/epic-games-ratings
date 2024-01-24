@@ -18,17 +18,17 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,695 |
 | Sharpened Vessel | 1.00% | ~1,695 |
 | Scion | 0.90% | ~1,522 |
-| Jawcrab | 0.90% | ~1,525 |
-| Jawstag | 0.90% | ~1,525 |
+| Jawcrab | 0.90% | ~1,526 |
+| Jawstag | 0.90% | ~1,526 |
 | Shapely | 0.80% | ~1,356 |
 | Glare | 0.80% | ~1,353 |
 | Watcher | 0.80% | ~1,356 |
-| Predator | 0.70% | ~1,186 |
+| Predator | 0.70% | ~1,187 |
 | Assimilation | 0.60% | ~1,017 |
-| Host | 0.60% | ~1,014 |
+| Host | 0.60% | ~1,015 |
 | Celebration | 0.60% | ~1,017 |
-| Hunt Down | 0.50% | ~847 |
-| Inevitable | 0.50% | ~847 |
+| Hunt Down | 0.50% | ~848 |
+| Inevitable | 0.50% | ~848 |
 | Breath | 0.40% | ~678 |
 | Artisan | 0.40% | ~678 |
 | Hush | 0.40% | ~678 |
@@ -36,24 +36,24 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.40% | ~678 |
 | Unwrap the Gift | 0.40% | ~678 |
 | Dream | 0.40% | ~676 |
-| Bloodhunter | 0.30% | ~508 |
-| Kinship | 0.30% | ~508 |
-| Passage | 0.30% | ~508 |
-| Proportions | 0.30% | ~508 |
+| Bloodhunter | 0.30% | ~509 |
+| Kinship | 0.30% | ~509 |
+| Passage | 0.30% | ~509 |
+| Proportions | 0.30% | ~509 |
 | Zygote | 0.20% | ~338 |
 | Weakness | 0.20% | ~339 |
 | Kin | 0.20% | ~338 |
 | Listen | 0.20% | ~338 |
 | Spiral Heart | 0.10% | ~161 |
-| Skinmaker | 0.10% | ~169 |
-| Instruments | 0.10% | ~169 |
-| Generous | 0.10% | ~169 |
+| Skinmaker | 0.10% | ~170 |
+| Instruments | 0.10% | ~170 |
+| Generous | 0.10% | ~170 |
 | The Nightmare | 0.10% | ~169 |
 | Touch of Otherwhere | 0.10% | ~169 |
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,499 (Ranked 85)  
+Progressed: 169,507 (Ranked 85)  
 Completed: 468 (0.28%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 468 (0.28%) (Ranked 269)
 | 2024-01-21 | 169,214 | 465 |
 | 2024-01-22 | 169,324 | 467 |
 | 2024-01-23 | 169,450 | 468 |
-| 2024-01-24 | 169,499 | 468 |
+| 2024-01-24 | 169,507 | 468 |
 ## Awards
 Max (Highly Recommended): 64  (Ranked 432)  
 Sum: 469 (Ranked 346)  

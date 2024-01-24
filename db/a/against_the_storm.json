@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 3883,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4079,9 +4079,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 20992,
+  "EOS_Progressed": 20995,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20434,6 +20434,11 @@
       "Time": "2024-01-24T13:15:08.9748956+00:00",
       "NumProgressed": 20992,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-24T14:09:20.5151239+00:00",
+      "NumProgressed": 20995,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20534,7 +20539,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "WinHard",
@@ -20542,7 +20547,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "WinImpossible",
@@ -20710,7 +20715,7 @@
       "Name": "Coral Forest",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "WinOnCursed",
@@ -20726,7 +20731,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "WinOnMoorlands",
@@ -20734,7 +20739,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "WinPrestige10",
@@ -20782,7 +20787,7 @@
       "Name": "Taking Action",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "WinWithResolve",
@@ -20822,7 +20827,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "WinWithoutOrders",
@@ -20846,7 +20851,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "WinNearFrosts",
@@ -20870,7 +20875,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "WinNearPetrified",
@@ -20878,7 +20883,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "WinNearPresence",
@@ -20886,7 +20891,7 @@
       "Name": "Ominous Presence",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "WinNearStorms",
@@ -20894,7 +20899,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20917,15 +20922,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20992,
+      "Progressed": 20995,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-24T08:58:47.1626612+00:00",
-  "LastChanged_Achievements": "2024-01-24T13:15:08.9748953+00:00",
+  "LastChanged_Achievements": "2024-01-24T14:09:20.5151236+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:05:19.5313396+00:00",
-  "LastUpdate_Achievements": "2024-01-24T13:15:08.9749885+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:59:11.7864648+00:00",
+  "LastUpdate_Achievements": "2024-01-24T14:09:20.5152292+00:00"
 }
