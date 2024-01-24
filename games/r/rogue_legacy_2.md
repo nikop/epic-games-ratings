@@ -20,9 +20,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | Truly Blessed | 0.80% | ~228 |
 | Pillow Investments | 0.80% | ~228 |
 | Looks Familiar | 0.80% | ~228 |
-| For Justice | 0.70% | ~199 |
-| Good Boy! | 0.70% | ~199 |
-| For Survival | 0.50% | ~142 |
+| For Justice | 0.70% | ~200 |
+| Good Boy! | 0.70% | ~200 |
+| For Survival | 0.50% | ~143 |
 | For Wrath | 0.40% | ~114 |
 | For Love | 0.40% | ~114 |
 | K.O. | 0.40% | ~114 |
@@ -30,23 +30,23 @@ Number of Ratings: 1,331  (23.09.2022)
 | Wasted Betrayal | 0.40% | ~114 |
 | Jack of all Trades | 0.40% | ~114 |
 | Color Coordination | 0.40% | ~114 |
-| For Pride | 0.30% | ~85 |
-| Maybe Wax Doesn't Melt | 0.30% | ~85 |
+| For Pride | 0.30% | ~86 |
+| Maybe Wax Doesn't Melt | 0.30% | ~86 |
 | Black-shoppe | 0.20% | ~57 |
 | For Greed | 0.20% | ~57 |
 | For Penance | 0.20% | ~57 |
 | Good Practice | 0.20% | ~57 |
 | A Glimpse of the Future | 0.20% | ~57 |
-| Full House | 0.10% | ~28 |
-| Erebus Purified | 0.10% | ~28 |
-| It Was Just an Estimate | 0.10% | ~28 |
-| Had to Do It | 0.10% | ~28 |
+| Full House | 0.10% | ~29 |
+| Erebus Purified | 0.10% | ~29 |
+| It Was Just an Estimate | 0.10% | ~29 |
+| Had to Do It | 0.10% | ~29 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,499 (Ranked 147)  
+Progressed: 28,502 (Ranked 147)  
 Completed: 35 (0.12%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 35 (0.12%) (Ranked 314)
 | 2024-01-21 | 28,466 | 35 |
 | 2024-01-22 | 28,481 | 35 |
 | 2024-01-23 | 28,492 | 35 |
-| 2024-01-24 | 28,499 | 35 |
+| 2024-01-24 | 28,502 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 291)  
 Sum: 1,572 (Ranked 248)  

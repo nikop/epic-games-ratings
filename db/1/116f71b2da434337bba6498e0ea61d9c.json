@@ -4,7 +4,7 @@
   "ProductSlug": "virtual-rides-3-2add3b",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -79,9 +79,9 @@
       "ID": "vr3_arch_changed_theme",
       "SetID": "3dg153n",
       "Name": "Change the mood.",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "vr3_arch_first_coloration",
@@ -95,25 +95,25 @@
       "ID": "vr3_arch_first_customization_piece",
       "SetID": "3dg153n",
       "Name": "Investments",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "vr3_arch_first_money",
       "SetID": "3dg153n",
       "Name": "Enterpriser",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "vr3_arch_first_texturation",
       "SetID": "3dg153n",
       "Name": "First Texturation",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "vr3_arch_full_customization",
@@ -151,9 +151,9 @@
       "ID": "vr3_arch_under_control",
       "SetID": "3dg153n",
       "Name": "Everything under control.",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -166,8 +166,8 @@
   ],
   "FirstSeen": "2023-12-21T18:58:40.4575311+00:00",
   "FirstSeenAchievements": "2023-12-11T19:03:46.1606302+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:08:14.7828884+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:08:45.5622116+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.6861112+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:57:26.6128259+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:08:14.7828964+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:57:34.8133612+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:08:45.5622241+00:00"
 }

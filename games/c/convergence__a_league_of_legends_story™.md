@@ -15,10 +15,10 @@ Rating: 4.67 (Ranked 289)
 | Make Up For Lost Time | 27.00% | ~366 |
 | No, Thanks! | 27.00% | ~366 |
 | Honest Mistake | 27.00% | ~366 |
+| Fast Learner | 27.00% | ~366 |
 | Immaculate Aim | 27.00% | ~366 |
 | The Steel Shadow | 26.00% | ~353 |
 | The Harder They Fall | 26.00% | ~353 |
-| Fast Learner | 26.00% | ~353 |
 | Breaking Down Barriers | 24.00% | ~325 |
 | The Wicked Twins | 24.00% | ~325 |
 | Golem Chaser | 24.00% | ~325 |

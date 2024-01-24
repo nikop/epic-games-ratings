@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.59 (Ranked 455)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,10 +19,10 @@ Rating: 4.59 (Ranked 454)
 | A view to Win | 13.00% | ~2,519 |
 | The Living Portrait | 12.00% | ~2,325 |
 | Smells Like Trouble | 12.00% | ~2,325 |
-| My Motto, My Creed | 11.00% | ~2,131 |
-| Private Collection | 11.00% | ~2,131 |
-| Killer Looks | 11.00% | ~2,131 |
-| Hostile Takeover | 11.00% | ~2,131 |
+| My Motto, My Creed | 11.00% | ~2,132 |
+| Private Collection | 11.00% | ~2,132 |
+| Killer Looks | 11.00% | ~2,132 |
+| Hostile Takeover | 11.00% | ~2,132 |
 | Keycards Royale | 10.00% | ~1,938 |
 | Dr. No Kill | 10.00% | ~1,938 |
 | In It to Win It | 9.00% | ~1,744 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 454)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,377 (Ranked 159)  
+Progressed: 19,378 (Ranked 159)  
 Completed: 4 (0.02%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,6 +321,7 @@ Completed: 4 (0.02%) (Ranked 373)
 | 2024-01-21 | 19,370 | 4 |
 | 2024-01-22 | 19,372 | 4 |
 | 2024-01-23 | 19,377 | 4 |
+| 2024-01-24 | 19,378 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

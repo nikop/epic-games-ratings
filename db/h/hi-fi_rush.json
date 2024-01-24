@@ -291,9 +291,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17675,
+  "EOS_Progressed": 17677,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13211,6 +13211,11 @@
       "Time": "2024-01-24T15:03:17.3440505+00:00",
       "NumProgressed": 17675,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T16:03:41.5518354+00:00",
+      "NumProgressed": 17677,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13222,7 +13227,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9898
+      "UsersEstimate": 9899
     },
     {
       "ID": "Ach002",
@@ -13254,7 +13259,7 @@
       "Name": "Headliner",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "Ach006",
@@ -13334,7 +13339,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "Ach016",
@@ -13358,7 +13363,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "Ach019",
@@ -13398,7 +13403,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9898
+      "UsersEstimate": 9899
     },
     {
       "ID": "Ach024",
@@ -13414,7 +13419,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5656
+      "UsersEstimate": 5657
     },
     {
       "ID": "Ach026",
@@ -13430,7 +13435,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3888
+      "UsersEstimate": 3889
     },
     {
       "ID": "Ach028",
@@ -13446,7 +13451,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "Ach030",
@@ -13462,7 +13467,7 @@
       "Name": "Perfect Parry",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5302
+      "UsersEstimate": 5303
     },
     {
       "ID": "Ach032",
@@ -13478,7 +13483,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "Ach034",
@@ -13622,7 +13627,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9014
+      "UsersEstimate": 9015
     },
     {
       "ID": "Ach052",
@@ -13789,13 +13794,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17675,
+      "Progressed": 17677,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16196,
+      "Progressed": 16198,
       "Completed": 1931
     }
   ],
@@ -13803,8 +13808,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-23T11:01:11.7898211+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:03:17.3440501+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:03:41.551835+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:57:05.9913238+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:03:17.3441625+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:57:12.1901968+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:03:41.5520661+00:00"
 }

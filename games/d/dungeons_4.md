@@ -9,7 +9,7 @@ Rating: 4.73 (Ranked 186)
 | Thalya – Simply Immortal | 88.00% | ~694 |
 | For the Horde! | 82.00% | ~647 |
 | Hammer Time, Round Two | 81.00% | ~639 |
-| The Hellwoods | 76.00% | ~600 |
+| The Hellwoods | 77.00% | ~608 |
 | The Plains of Strothalm | 72.00% | ~568 |
 | Experienced Thalya | 72.00% | ~568 |
 | Bad Elves Go Everywhere | 70.00% | ~552 |
@@ -19,7 +19,7 @@ Rating: 4.73 (Ranked 186)
 | Master of Magic | 62.00% | ~489 |
 | The Ascent | 61.00% | ~481 |
 | It's Warm and Cozy at Home | 61.00% | ~481 |
-| Magic Accidents | 58.00% | ~458 |
+| Magic Accidents | 59.00% | ~466 |
 | Trap Master | 56.00% | ~442 |
 | Hard Work | 56.00% | ~442 |
 | The Big Eaty | 56.00% | ~442 |

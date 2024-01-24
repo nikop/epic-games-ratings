@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -3327,9 +3327,9 @@
       "ID": "Map",
       "SetID": "5lok9mm",
       "Name": "Don\u0027t draw dicks pls",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2100
     },
     {
       "ID": "MissionUnlikely",
@@ -3519,8 +3519,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2024-01-19T09:58:09.3210694+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:07:48.0020236+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:08:18.07581+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.4896944+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:00:27.8377432+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:07:48.002098+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:02:35.8596229+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:08:18.0758872+00:00"
 }

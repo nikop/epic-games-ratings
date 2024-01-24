@@ -6,8 +6,8 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,11 +89,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1469,6 +1469,11 @@
       "Time": "2024-01-22T12:07:13.8975561+00:00",
       "NumProgressed": 685,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T16:06:30.1731502+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1560,7 +1565,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Healthy_Child",
@@ -1600,7 +1605,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Leisurely_Strol",
@@ -1711,7 +1716,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 6
     }
   ],
@@ -1719,8 +1724,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:05:58.8622123+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:06:30.1731496+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:07.0579048+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:03:04.7244978+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:05:58.8622408+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:03:26.2914674+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:06:30.1731992+00:00"
 }

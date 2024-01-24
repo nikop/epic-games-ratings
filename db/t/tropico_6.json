@@ -1653,7 +1653,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7258,
+  "EOS_Progressed": 7259,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -17293,6 +17293,11 @@
       "Time": "2024-01-24T13:10:19.5902425+00:00",
       "NumProgressed": 7258,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T16:03:39.7675174+00:00",
+      "NumProgressed": 7259,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17312,7 +17317,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -17424,7 +17429,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -17464,7 +17469,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17488,7 +17493,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -17576,7 +17581,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17623,15 +17628,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7258,
+      "Progressed": 7259,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-23T16:59:37.7783117+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:03:15.8090573+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:03:39.7675167+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:59:27.9875722+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:03:15.8091568+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:59:41.8237089+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:03:39.7676847+00:00"
 }

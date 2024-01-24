@@ -6,8 +6,8 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 6.00% | ~45 |
-| Soul Cache | 6.00% | ~45 |
+| Mint I | 6.00% | ~46 |
+| Soul Cache | 6.00% | ~46 |
 | Astarte | 2.00% | ~15 |
 | Close the Rift | 2.00% | ~15 |
 | Mammon | 2.00% | ~15 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758 (Ranked 328)  
+Progressed: 759 (Ranked 327)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 739 | 0 |
 | 2024-01-22 | 746 | 0 |
 | 2024-01-23 | 755 | 0 |
-| 2024-01-24 | 758 | 0 |
+| 2024-01-24 | 759 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 479)  
 Sum: 45 (Ranked 526)  

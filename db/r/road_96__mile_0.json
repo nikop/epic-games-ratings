@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 770,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -2862,6 +2862,11 @@
       "Time": "2024-01-24T09:10:31.4616073+00:00",
       "NumProgressed": 769,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T16:10:09.5827278+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2873,7 +2878,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "completeact2",
@@ -2935,9 +2940,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrh1",
@@ -2977,7 +2982,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "scoreminrankrv2",
@@ -2992,7 +2997,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 770,
       "Completed": 3
     }
   ],
@@ -3000,8 +3005,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:09:35.60303+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:10:09.5827275+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:58:08.8999369+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:35.603058+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:58:19.6407848+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:10:09.5827693+00:00"
 }

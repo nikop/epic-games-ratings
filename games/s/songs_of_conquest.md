@@ -34,9 +34,9 @@ Number of Ratings: 292  (23.09.2022)
 | Grand Master | 1.00% | ~13 |
 | Together For Her | 0.90% | ~12 |
 | Versatile Wielder | 0.80% | ~10 |
+| Cleave | 0.80% | ~10 |
 | Unlimited Power! | 0.70% | ~9 |
 | Killing Spree | 0.70% | ~9 |
-| Cleave | 0.70% | ~9 |
 | Death To Diplomacy | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |
 | Fully Charged | 0.40% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,299 (Ranked 287)  
+Progressed: 1,300 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 1,271 | 0 |
 | 2024-01-22 | 1,284 | 0 |
 | 2024-01-23 | 1,292 | 0 |
-| 2024-01-24 | 1,299 | 0 |
+| 2024-01-24 | 1,300 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 531)  
 Sum: 252 (Ranked 401)  

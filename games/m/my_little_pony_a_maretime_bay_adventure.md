@@ -12,7 +12,7 @@
 | Glowing Up | 59.00% | ~30 |
 | Sheriff's Apprentice | 53.00% | ~27 |
 | Pro Herder | 53.00% | ~27 |
-| The Neigh-gotiator | 51.00% | ~26 |
+| The Neigh-gotiator | 53.00% | ~27 |
 | Where Did The Magic Go? | 45.00% | ~23 |
 | Friendship Is Still Magic | 45.00% | ~23 |
 | Starscout | 35.00% | ~18 |

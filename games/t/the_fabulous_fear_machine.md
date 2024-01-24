@@ -31,11 +31,11 @@
 | The bully | 16.00% | ~15 |
 | Pulp! The Beyond | 15.00% | ~14 |
 | The beast in the Oval Office | 13.00% | ~12 |
+| Blood Red Island | 13.00% | ~12 |
 | Bread and bocaua | 13.00% | ~12 |
 | Fanatacism is... poisonous | 13.00% | ~12 |
+| The adventurer | 13.00% | ~12 |
 | Pulp! True Adventures | 13.00% | ~12 |
-| Blood Red Island | 12.00% | ~11 |
-| The adventurer | 12.00% | ~11 |
 | The barbarian invasions | 11.00% | ~10 |
 | ECO mode | 11.00% | ~10 |
 | America had no Faith | 11.00% | ~10 |

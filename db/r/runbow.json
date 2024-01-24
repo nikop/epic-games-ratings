@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253792,
+  "EOS_Progressed": 253793,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24887,6 +24887,11 @@
       "Time": "2024-01-24T15:09:36.3593077+00:00",
       "NumProgressed": 253792,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T16:10:10.3396056+00:00",
+      "NumProgressed": 253793,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24898,7 +24903,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17765
+      "UsersEstimate": 17766
     },
     {
       "ID": "aWinnerIsYou",
@@ -24922,7 +24927,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53296
+      "UsersEstimate": 53297
     },
     {
       "ID": "blotbuster",
@@ -25002,7 +25007,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50758
+      "UsersEstimate": 50759
     },
     {
       "ID": "didYourTime",
@@ -25090,7 +25095,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17765
+      "UsersEstimate": 17766
     },
     {
       "ID": "itsTheFall",
@@ -25265,7 +25270,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253792,
+      "Progressed": 253793,
       "Completed": 6
     }
   ],
@@ -25273,8 +25278,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:09:36.3593075+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:10:10.3396053+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:57:51.1190082+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:36.3594212+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:58:00.134098+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:10:10.3398572+00:00"
 }

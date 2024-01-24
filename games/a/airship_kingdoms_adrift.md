@@ -20,16 +20,18 @@
 | Shipping Ships | 50.00% | ~3 |
 | Tuck the Tail | 50.00% | ~3 |
 | Dream of Flight | 33.00% | ~2 |
+| Gentlemen Pirates | 33.00% | ~2 |
 | Home Made | 33.00% | ~2 |
 | In His Majesty's Service! | 33.00% | ~2 |
+| Let’s get Rich | 33.00% | ~2 |
 | Our Tiny Little Fleet | 33.00% | ~2 |
+| Starting Up | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
 | The Mother Ocean | 33.00% | ~2 |
 | Whoops | 33.00% | ~2 |
 | An Old Hero | 17.00% | ~1 |
 | For the Republic! | 17.00% | ~1 |
 | Friendly Neighborhood Commander | 17.00% | ~1 |
-| Gentlemen Pirates | 17.00% | ~1 |
 | Good Butcher | 17.00% | ~1 |
 | Good Carpenter | 17.00% | ~1 |
 | Good Cook | 17.00% | ~1 |
@@ -42,14 +44,12 @@
 | It is Unsafe Out Here | 17.00% | ~1 |
 | It’s Commandeering | 17.00% | ~1 |
 | It’s Smarter to Pay the Toll | 17.00% | ~1 |
-| Let’s get Rich | 17.00% | ~1 |
 | Living off the Land | 17.00% | ~1 |
 | Not Again | 17.00% | ~1 |
 | Our Own Path | 17.00% | ~1 |
 | Shady Business | 17.00% | ~1 |
 | Shellshock | 17.00% | ~1 |
 | Small Business | 17.00% | ~1 |
-| Starting Up | 17.00% | ~1 |
 | There She Blows! | 17.00% | ~1 |
 | The Amber Flower | 17.00% | ~1 |
 | The Blue Flower | 17.00% | ~1 |

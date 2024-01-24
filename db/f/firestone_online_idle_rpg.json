@@ -805,7 +805,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4767,
+  "EOS_Progressed": 4768,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
@@ -13340,6 +13340,11 @@
       "Time": "2024-01-24T15:05:43.6556304+00:00",
       "NumProgressed": 4767,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T16:06:14.3914969+00:00",
+      "NumProgressed": 4768,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13535,7 +13540,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "fourleafclover",
@@ -13751,7 +13756,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "relicofthepast",
@@ -13911,7 +13916,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "warmachinesarmy",
@@ -13943,14 +13948,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4767,
+      "Progressed": 4768,
       "Completed": 2
     }
   ],
@@ -13958,8 +13963,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-24T14:57:39.9491694+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:05:43.6556301+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:06:14.3914966+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:57:39.9491698+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:05:43.6557434+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:57:48.2760133+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:06:14.3917329+00:00"
 }

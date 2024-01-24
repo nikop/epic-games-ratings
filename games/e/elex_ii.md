@@ -1,35 +1,35 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~130 |
-| Best Buddy | 39.00% | ~112 |
+| Entrepreneur | 44.00% | ~128 |
+| Best Buddy | 39.00% | ~113 |
 | Role Model | 36.00% | ~104 |
 | Civilian | 36.00% | ~104 |
-| Creator | 33.00% | ~95 |
-| Military Leader | 31.00% | ~89 |
+| Creator | 33.00% | ~96 |
+| Military Leader | 31.00% | ~90 |
 | Festival-goer | 29.00% | ~84 |
 | Peddler | 27.00% | ~78 |
 | Commander | 26.00% | ~75 |
-| Irissa's Fate | 23.00% | ~66 |
-| Long-Haul Flyer | 22.00% | ~63 |
-| Family Reunion | 22.00% | ~63 |
+| Irissa's Fate | 23.00% | ~67 |
+| Family Reunion | 22.00% | ~64 |
+| Long-Haul Flyer | 21.00% | ~61 |
 | Pass A38 | 19.00% | ~55 |
 | Eternal Oblivion | 19.00% | ~55 |
 | Banker | 18.00% | ~52 |
 | Storyteller | 16.00% | ~46 |
 | Globetrotter | 16.00% | ~46 |
 | Berserker | 16.00% | ~46 |
-| Hunter | 14.00% | ~40 |
-| Lover | 14.00% | ~40 |
+| Hunter | 13.00% | ~38 |
+| Lover | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Alb | 12.00% | ~35 |
 | Perfectionist | 12.00% | ~35 |
-| Free as a Bird | 10.00% | ~29 |
+| Free as a Bird | 11.00% | ~32 |
 | Treasure Hunter | 9.00% | ~26 |
 | Hotshot | 9.00% | ~26 |
 | Weaponsmith | 8.00% | ~23 |
@@ -37,8 +37,8 @@ Number of Ratings: 124  (23.09.2022)
 | Detective | 8.00% | ~23 |
 | Alchemist | 5.00% | ~14 |
 | Self-Sufficient | 5.00% | ~14 |
-| Idealist | 5.00% | ~14 |
 | Unbreakable | 5.00% | ~14 |
+| Idealist | 4.00% | ~12 |
 | Legendary | 3.00% | ~9 |
 | Toy Time | 2.00% | ~6 |
 | Defector | 2.00% | ~6 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 415)  
+Progressed: 290 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 278 | 0 |
 | 2024-01-22 | 281 | 0 |
 | 2024-01-23 | 286 | 0 |
-| 2024-01-24 | 288 | 0 |
+| 2024-01-24 | 290 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12518,
+  "EOS_Progressed": 12519,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16413,6 +16413,11 @@
       "Time": "2024-01-24T13:11:00.5817677+00:00",
       "NumProgressed": 12518,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-24T16:04:10.1700323+00:00",
+      "NumProgressed": 12519,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 29,
@@ -16424,7 +16429,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10390
+      "UsersEstimate": 10391
     },
     {
       "ID": "ACH02",
@@ -16432,7 +16437,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "ACH03",
@@ -16496,7 +16501,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "ACH11",
@@ -16568,7 +16573,7 @@
       "Name": "A Gift from the King",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH20",
@@ -16655,7 +16660,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12518,
+      "Progressed": 12519,
       "Completed": 96
     }
   ],
@@ -16663,8 +16668,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:03:44.2188982+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:04:10.1700315+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:58:06.7173893+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:03:44.2190373+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:58:17.422031+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:04:10.1702546+00:00"
 }

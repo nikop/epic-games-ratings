@@ -2,9 +2,9 @@
   "ID": "ba878400ac4f4833af4729cc8adde4f1",
   "Name": "Overloop",
   "ProductSlug": "overloop-f572c8",
-  "Ranking_EOS_Progress": 715,
+  "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 540,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-26T12:00:00+00:00",
@@ -45,9 +45,9 @@
       "ID": "a_36",
       "SetID": "c0a8gkh",
       "Name": "The longest story",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "clone_100",
@@ -133,9 +133,9 @@
       "ID": "die_train",
       "SetID": "c0a8gkh",
       "Name": "Anna Karenina",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "kill_dennis",
@@ -219,8 +219,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:29.5545439+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:08:47.2930281+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:09:19.0330249+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:59.1852516+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:00:32.0748856+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:08:47.2930482+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:02:39.6103824+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:09:19.0330467+00:00"
 }

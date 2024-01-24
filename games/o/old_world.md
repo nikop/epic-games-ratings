@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 327)  
+Rating: 4.65 (Ranked 328)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,14 +10,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~1,028 |
 | Explorer | 5.00% | ~857 |
 | Friendly Family | 5.00% | ~857 |
-| Able | 4.00% | ~685 |
-| Architect | 4.00% | ~685 |
-| Good | 4.00% | ~685 |
-| Intrepid | 4.00% | ~685 |
-| Mason | 4.00% | ~685 |
-| Strong | 4.00% | ~685 |
-| Hanging Gardens | 4.00% | ~685 |
-| Oracle | 4.00% | ~685 |
+| Able | 4.00% | ~686 |
+| Architect | 4.00% | ~686 |
+| Good | 4.00% | ~686 |
+| Intrepid | 4.00% | ~686 |
+| Mason | 4.00% | ~686 |
+| Strong | 4.00% | ~686 |
+| Hanging Gardens | 4.00% | ~686 |
+| Oracle | 4.00% | ~686 |
 | Ambitious | 3.00% | ~514 |
 | Enlightened | 3.00% | ~514 |
 | Fountainhead | 3.00% | ~514 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,137 (Ranked 170)  
+Progressed: 17,140 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
-| 2024-01-24 | 17,137 | 5 |
+| 2024-01-24 | 17,140 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,946 (Ranked 224)  

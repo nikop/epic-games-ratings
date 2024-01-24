@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2694,9 +2694,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 608
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2710,9 +2710,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 466
     },
     {
       "ID": "ach_main04undead_completed",
@@ -3143,8 +3143,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:09:16.0140034+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:09:49.4213472+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:58:53.696163+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:16.0140509+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:59:06.2111169+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:09:49.421467+00:00"
 }

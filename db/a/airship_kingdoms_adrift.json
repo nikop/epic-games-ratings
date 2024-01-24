@@ -4,7 +4,7 @@
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
@@ -237,9 +237,9 @@
       "ID": "ACH_GENTLEMEN_PIRATES",
       "SetID": "9i65mgf",
       "Name": "Gentlemen Pirates",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_GOOD_ALCHEMIST",
@@ -549,9 +549,9 @@
       "ID": "ACH_LET_S_GET_RICH",
       "SetID": "9i65mgf",
       "Name": "Let\u2019s get Rich",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LIVING_OFF_THE_LAND",
@@ -789,9 +789,9 @@
       "ID": "ACH_STARTING_UP",
       "SetID": "9i65mgf",
       "Name": "Starting Up",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_STAY_A_WHILE_AND_LISTEN",
@@ -1260,8 +1260,8 @@
   ],
   "FirstSeen": "2024-01-21T20:58:52.2546392+00:00",
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:03:13.8466853+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:03:38.0226388+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.652208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:59:42.2652084+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:03:13.8468775+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:59:58.5282583+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:03:38.0229527+00:00"
 }

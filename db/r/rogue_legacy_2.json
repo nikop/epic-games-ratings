@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1644,9 +1644,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28499,
+  "EOS_Progressed": 28502,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14739,6 +14739,11 @@
       "Time": "2024-01-24T15:09:38.872727+00:00",
       "NumProgressed": 28499,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-24T16:10:12.9999678+00:00",
+      "NumProgressed": 28502,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14774,7 +14779,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AllRunes",
@@ -14790,7 +14795,7 @@
       "Name": "Erebus Purified",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AllSkills",
@@ -14806,7 +14811,7 @@
       "Name": "For Justice",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "BossBridgeDefeated",
@@ -14870,7 +14875,7 @@
       "Name": "For Survival",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "BossForestDefeated",
@@ -14918,7 +14923,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "BossTowerDefeated",
@@ -14950,7 +14955,7 @@
       "Name": "It Was Just an Estimate",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FifteenLivesEasy",
@@ -14982,7 +14987,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "NightmareKhidr",
@@ -14998,7 +15003,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "PrequelReveal",
@@ -15038,7 +15043,7 @@
       "Name": "Had to Do It",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "UnlockHighMastery",
@@ -15061,21 +15066,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28499,
+      "Progressed": 28502,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7429,
+      "Progressed": 7432,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-20T14:59:06.0031145+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:09:38.8727258+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:10:12.9999675+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.0687635+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:57:26.4881329+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:38.872801+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:57:34.6198372+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:10:13.000131+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1478,
+  "EOS_Progressed": 1479,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -3749,6 +3749,11 @@
       "Time": "2024-01-23T22:09:07.7814521+00:00",
       "NumProgressed": 1478,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-24T16:09:13.1116728+00:00",
+      "NumProgressed": 1479,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3784,7 +3789,7 @@
       "Name": "Roll with it",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3792,7 +3797,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -3800,7 +3805,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -3848,7 +3853,7 @@
       "Name": "Memento",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3864,7 +3869,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3888,7 +3893,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -3912,7 +3917,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH_STAR_2",
@@ -3920,7 +3925,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_STAR_3",
@@ -3975,7 +3980,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1478,
+      "Progressed": 1479,
       "Completed": 18
     }
   ],
@@ -3983,8 +3988,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-22T05:00:40.8775564+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:08:42.4435373+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:09:13.1116725+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:19.5337676+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:00:28.3192494+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:08:42.4435622+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:02:36.3581597+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:09:13.111762+00:00"
 }

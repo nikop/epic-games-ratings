@@ -9799,9 +9799,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255390,
+  "EOS_Progressed": 255392,
   "EOS_Completed": 2638,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41489,6 +41489,11 @@
       "Time": "2024-01-24T15:09:53.4917203+00:00",
       "NumProgressed": 255390,
       "NumCompleted": 2638
+    },
+    {
+      "Time": "2024-01-24T16:10:27.9534635+00:00",
+      "NumProgressed": 255392,
+      "NumCompleted": 2638
     }
   ],
   "TotalAchievements": 546,
@@ -43258,9 +43263,9 @@
       "ID": "objective_completed_385",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Resolve",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_386",
@@ -45867,21 +45872,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221664,
+      "Progressed": 221666,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255390,
+      "Progressed": 255392,
       "Completed": 2638
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:09:53.4917199+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:10:27.9534632+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:58:47.6508545+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:53.4939706+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:58:59.2970092+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:10:27.9575284+00:00"
 }

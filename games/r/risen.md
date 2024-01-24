@@ -41,8 +41,8 @@ Rating: 4.60 (Ranked 431)
 | Master thief | 10.00% | ~22 |
 | Freedom fighter | 9.00% | ~20 |
 | Expert | 8.00% | ~17 |
+| Terror of the hens | 7.00% | ~15 |
 | The traveler | 6.00% | ~13 |
-| Terror of the hens | 6.00% | ~13 |
 | King of the handymen | 6.00% | ~13 |
 | Moneybags | 5.00% | ~11 |
 | King Midas | 4.00% | ~9 |

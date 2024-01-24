@@ -2,12 +2,12 @@
   "ID": "92d67652a4ca46c28507a29d6bc3db4d",
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
-  "Ranking_Rating": 696,
-  "Ranking_Popularity": 432,
+  "Ranking_Rating": 697,
+  "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 540,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-16T06:00:00+00:00",
@@ -587,11 +587,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-01-24T16:03:19.7262599+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 64,
+  "NumberOfAwards": 86,
+  "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -604,7 +610,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 64
+      "Count": 66
     },
     {
       "Text": "This game has Diverse Characters",
@@ -625,8 +631,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-01-24T13:09:55.122501+00:00",
+  "LastChanged": "2024-01-24T16:03:19.7262598+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.8024002+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:02:58.4571936+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:04:23.7079883+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:03:19.7262603+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:04:52.1586462+00:00"
 }

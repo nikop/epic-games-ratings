@@ -4,8 +4,8 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1319,
+  "EOS_Progressed": 1320,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.4,
+  "EOS_Completed_Percentage": 4.39,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -3249,6 +3249,11 @@
       "Time": "2024-01-24T02:01:20.9053582+00:00",
       "NumProgressed": 1319,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-24T16:10:03.1771736+00:00",
+      "NumProgressed": 1320,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3277,7 +3282,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -3317,7 +3322,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -3340,14 +3345,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1319,
+      "Progressed": 1320,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:09:29.3022994+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:10:03.177173+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:10.3938259+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:59:24.3403607+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:29.3023292+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:59:37.897123+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:10:03.1772163+00:00"
 }

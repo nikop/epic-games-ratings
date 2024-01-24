@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84330,
+  "EOS_Progressed": 84334,
   "EOS_Completed": 950,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31332,6 +31332,11 @@
       "Time": "2024-01-24T15:06:02.3645825+00:00",
       "NumProgressed": 84330,
       "NumCompleted": 950
+    },
+    {
+      "Time": "2024-01-24T16:08:13.2439027+00:00",
+      "NumProgressed": 84334,
+      "NumCompleted": 950
     }
   ],
   "TotalAchievements": 25,
@@ -31383,7 +31388,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15179
+      "UsersEstimate": 15180
     },
     {
       "ID": "Butcher",
@@ -31415,7 +31420,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16866
+      "UsersEstimate": 16867
     },
     {
       "ID": "Hearty",
@@ -31439,7 +31444,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "Master, Commander",
@@ -31447,7 +31452,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "Meaty",
@@ -31471,7 +31476,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14336
+      "UsersEstimate": 14337
     },
     {
       "ID": "Nothing Left to Say",
@@ -31487,7 +31492,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "Right On Target",
@@ -31495,7 +31500,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11806
+      "UsersEstimate": 11807
     },
     {
       "ID": "Sniper",
@@ -31535,14 +31540,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6746
+      "UsersEstimate": 6747
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84330,
+      "Progressed": 84334,
       "Completed": 950
     }
   ],
@@ -31550,8 +31555,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:06:02.3645819+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:08:13.2439023+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:58:53.3440147+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:06:02.3647439+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:59:05.8297214+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:08:13.2440494+00:00"
 }

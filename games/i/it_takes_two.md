@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~106,891 |
-| Struck A Pose | 82.00% | ~105,603 |
-| Look At Him Go | 70.00% | ~90,149 |
-| On Rails Experience | 46.00% | ~59,241 |
-| A Daring Devil | 44.00% | ~56,665 |
-| Break the Bank | 34.00% | ~43,787 |
-| It Took Two | 33.00% | ~42,499 |
-| Bug Sized Relaxation | 15.00% | ~19,318 |
-| Plastic Prison Breakers | 13.00% | ~16,742 |
-| Terror Of The Seven Seas | 11.00% | ~14,166 |
-| Realize Your Art | 8.00% | ~10,303 |
-| Force Triangulated | 8.00% | ~10,303 |
-| Meditation Maestro | 8.00% | ~10,303 |
-| Lost And Found | 7.00% | ~9,015 |
-| Something Fishy | 7.00% | ~9,015 |
-| Snackosaurus | 6.00% | ~7,727 |
-| Platforming Prodigy | 6.00% | ~7,727 |
-| Mood Swing | 5.00% | ~6,439 |
-| Faraway Frequencies | 3.00% | ~3,864 |
-| Minigame Megalomania | 2.00% | ~2,576 |
+| Fried Friendship | 83.00% | ~106,938 |
+| Struck A Pose | 82.00% | ~105,650 |
+| Look At Him Go | 70.00% | ~90,189 |
+| On Rails Experience | 46.00% | ~59,267 |
+| A Daring Devil | 44.00% | ~56,690 |
+| Break the Bank | 34.00% | ~43,806 |
+| It Took Two | 33.00% | ~42,518 |
+| Bug Sized Relaxation | 15.00% | ~19,326 |
+| Plastic Prison Breakers | 13.00% | ~16,749 |
+| Terror Of The Seven Seas | 11.00% | ~14,173 |
+| Realize Your Art | 8.00% | ~10,307 |
+| Force Triangulated | 8.00% | ~10,307 |
+| Meditation Maestro | 8.00% | ~10,307 |
+| Lost And Found | 7.00% | ~9,019 |
+| Something Fishy | 7.00% | ~9,019 |
+| Snackosaurus | 6.00% | ~7,730 |
+| Platforming Prodigy | 6.00% | ~7,730 |
+| Mood Swing | 5.00% | ~6,442 |
+| Faraway Frequencies | 3.00% | ~3,865 |
+| Minigame Megalomania | 2.00% | ~2,577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,784 (Ranked 93)  
-Completed: 314 (0.24%) (Ranked 279)  
+Progressed: 128,841 (Ranked 93)  
+Completed: 315 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,4 +156,4 @@ Completed: 314 (0.24%) (Ranked 279)
 | 2024-01-21 | 126,057 | 301 |
 | 2024-01-22 | 127,069 | 306 |
 | 2024-01-23 | 128,029 | 309 |
-| 2024-01-24 | 128,784 | 314 |
+| 2024-01-24 | 128,841 | 315 |

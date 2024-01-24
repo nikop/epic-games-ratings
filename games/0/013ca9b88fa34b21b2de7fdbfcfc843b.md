@@ -15,12 +15,12 @@ Rating: 4.66 (Ranked 310)
 | Open the Gate! | 3.00% | ~275 |
 | Humble Collector | 3.00% | ~275 |
 | Mist Walker | 3.00% | ~275 |
-| Clear the Air | 2.00% | ~183 |
-| Search for the Hairy Grell | 2.00% | ~183 |
-| Lumberjack | 2.00% | ~183 |
-| Higher Tax Bracket | 2.00% | ~183 |
-| Oui, Chef! | 2.00% | ~183 |
-| Botanical Breakthrough | 2.00% | ~183 |
+| Clear the Air | 2.00% | ~184 |
+| Search for the Hairy Grell | 2.00% | ~184 |
+| Lumberjack | 2.00% | ~184 |
+| Higher Tax Bracket | 2.00% | ~184 |
+| Oui, Chef! | 2.00% | ~184 |
+| Botanical Breakthrough | 2.00% | ~184 |
 | Exit Through The Gift Shop | 2.00% | ~36 |
 | Flaming Hot Completos | 1.00% | ~92 |
 | Fae Farmer | 1.00% | ~92 |
@@ -49,7 +49,7 @@ Rating: 4.66 (Ranked 310)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,173 (Ranked 190)  
+Progressed: 9,175 (Ranked 190)  
 Completed: 1 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.01%) (Ranked 383)
 | 2024-01-21 | 9,157 | 1 |
 | 2024-01-22 | 9,163 | 1 |
 | 2024-01-23 | 9,164 | 1 |
-| 2024-01-24 | 9,173 | 1 |
+| 2024-01-24 | 9,175 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

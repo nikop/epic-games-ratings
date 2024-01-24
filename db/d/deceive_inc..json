@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19377,
+  "EOS_Progressed": 19378,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14895,6 +14895,11 @@
       "Time": "2024-01-23T21:08:18.5370912+00:00",
       "NumProgressed": 19377,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T16:08:28.9656457+00:00",
+      "NumProgressed": 19378,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -15114,7 +15119,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "0028",
@@ -15146,7 +15151,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "0032",
@@ -15154,7 +15159,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "0033",
@@ -15162,7 +15167,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "0034",
@@ -15193,7 +15198,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19377,
+      "Progressed": 19378,
       "Completed": 4
     }
   ],
@@ -15201,8 +15206,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:07:58.2370849+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:08:28.9656452+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-24T15:00:34.160498+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:07:58.2372221+00:00"
+  "LastUpdate_Ratings": "2024-01-24T16:02:41.9606193+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:08:28.9658625+00:00"
 }

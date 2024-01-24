@@ -5,9 +5,9 @@
   "Ranking_Rating": 644,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2710,6 +2710,11 @@
       "Time": "2024-01-24T14:11:13.8912688+00:00",
       "NumProgressed": 758,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T16:10:12.0990504+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2858,7 +2863,7 @@
       "Name": "Mint I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MintII",
@@ -2906,7 +2911,7 @@
       "Name": "Soul Cache",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "TheDeadCourt",
@@ -2961,15 +2966,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-24T15:09:38.0908059+00:00",
+  "LastChanged_Achievements": "2024-01-24T16:10:12.0990501+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:02.2099798+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:58:58.2109232+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:38.0908342+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:59:10.9536886+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:10:12.0990982+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "red-ronin-d2678c",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 540,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-03-17T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.2317068+00:00",
   "LastChanged": "2023-03-31T05:57:54.2317069+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:48.5355724+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:58:07.0061374+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:05:24.4893241+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:58:17.6647185+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:05:54.3374449+00:00"
 }

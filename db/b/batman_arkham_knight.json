@@ -4,10 +4,10 @@
   "ProductSlug": "batman-arkham-knight",
   "Ranking_Rating": 69,
   "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 95,
+  "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewPlayers": 540,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2015-06-23T15:00:00+00:00",
@@ -6905,10 +6905,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10265,
       "NumberOfAwardsMax": 6450
+    },
+    {
+      "Time": "2024-01-24T15:59:20.9564827+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10266,
+      "NumberOfAwardsMax": 6450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10265,
+  "NumberOfAwards": 10266,
   "NumberOfAwardsMax": 6450,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6928,7 +6934,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 509
+      "Count": 510
     },
     {
       "Text": "This game is Relaxing",
@@ -6990,8 +6996,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2024-01-24T14:59:08.1281451+00:00",
+  "LastChanged": "2024-01-24T15:59:20.9564825+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.2592844+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:59:08.1281457+00:00",
-  "LastUpdate_Achievements": "2024-01-24T15:09:16.4797325+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:59:20.9564832+00:00",
+  "LastUpdate_Achievements": "2024-01-24T16:09:49.8310452+00:00"
 }

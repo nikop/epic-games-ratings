@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 996)  
+Rating: 4.17 (Ranked 997)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,8 +56,8 @@ Number of Ratings: 429  (23.09.2022)
 | Diplomatic Victory! | 0.60% | ~45 |
 | Commodity Trader - Level 2 | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
+| Solid Economy | 0.40% | ~30 |
 | Commodity Selling Guru | 0.40% | ~30 |
-| Solid Economy | 0.30% | ~23 |
 | Commodity Guru | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |

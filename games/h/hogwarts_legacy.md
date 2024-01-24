@@ -1,31 +1,31 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.75 (Ranked 151)  
+Rating: 4.75 (Ranked 152)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,907 |
-| First Class Student | 29.00% | ~112,291 |
-| Troll with the Punches | 27.00% | ~104,546 |
-| A Keen Sense of Spell | 24.00% | ~92,930 |
-| A Talent for Spending | 20.00% | ~77,442 |
-| That's a Keeper | 19.00% | ~73,570 |
-| Loom for Improvement | 16.00% | ~61,953 |
-| Followed the Butterflies | 15.00% | ~58,081 |
-| The Defender of Dragons | 14.00% | ~54,209 |
-| Challenge Accepted | 14.00% | ~54,209 |
-| The Hallowed Hero | 13.00% | ~50,337 |
-| Coasting Along | 13.00% | ~50,337 |
-| Grappling with a Graphorn | 12.00% | ~46,465 |
-| The One Who Mastered Memories | 12.00% | ~46,465 |
-| The Hero of Hogwarts | 12.00% | ~46,465 |
-| The Spell Master | 11.00% | ~42,593 |
-| Rising From the Ashes | 11.00% | ~42,593 |
-| The Avenging Gazelle | 9.00% | ~34,849 |
-| A Sallow Grave | 9.00% | ~34,849 |
-| Flight the Good Flight | 9.00% | ~34,849 |
-| Raising Expectations | 9.00% | ~34,849 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,909 |
+| First Class Student | 29.00% | ~112,293 |
+| Troll with the Punches | 27.00% | ~104,549 |
+| A Keen Sense of Spell | 24.00% | ~92,932 |
+| A Talent for Spending | 20.00% | ~77,443 |
+| That's a Keeper | 19.00% | ~73,571 |
+| Loom for Improvement | 16.00% | ~61,955 |
+| Followed the Butterflies | 15.00% | ~58,083 |
+| The Defender of Dragons | 14.00% | ~54,210 |
+| Challenge Accepted | 14.00% | ~54,210 |
+| The Hallowed Hero | 13.00% | ~50,338 |
+| Coasting Along | 13.00% | ~50,338 |
+| Grappling with a Graphorn | 12.00% | ~46,466 |
+| The One Who Mastered Memories | 12.00% | ~46,466 |
+| The Hero of Hogwarts | 12.00% | ~46,466 |
+| The Spell Master | 11.00% | ~42,594 |
+| Rising From the Ashes | 11.00% | ~42,594 |
+| The Avenging Gazelle | 9.00% | ~34,850 |
+| A Sallow Grave | 9.00% | ~34,850 |
+| Flight the Good Flight | 9.00% | ~34,850 |
+| Raising Expectations | 9.00% | ~34,850 |
 | Beast Friends | 8.00% | ~30,977 |
 | The Root of the Problem | 8.00% | ~30,977 |
 | The Gryffindor in the Graveyard | 8.00% | ~30,977 |
@@ -35,11 +35,11 @@ Rating: 4.75 (Ranked 151)
 | Going Through the Potions | 6.00% | ~23,233 |
 | The Ends Petrify the Means | 6.00% | ~23,233 |
 | The Wise Owl | 6.00% | ~23,233 |
-| Put Down Roots | 4.00% | ~15,488 |
-| The Auror's Apprentice | 4.00% | ~15,488 |
-| Room with a View | 4.00% | ~15,488 |
-| The Intrepid Explorer | 4.00% | ~15,488 |
-| Floo Around the World | 3.00% | ~11,616 |
+| Put Down Roots | 4.00% | ~15,489 |
+| The Auror's Apprentice | 4.00% | ~15,489 |
+| Room with a View | 4.00% | ~15,489 |
+| The Intrepid Explorer | 4.00% | ~15,489 |
+| Floo Around the World | 3.00% | ~11,617 |
 | The Good Samaritan | 2.00% | ~7,744 |
 | Savvy Spender | 2.00% | ~7,744 |
 | Rise to the Challenges | 2.00% | ~7,744 |
@@ -48,10 +48,10 @@ Rating: 4.75 (Ranked 151)
 | A Forte for Achievement | 2.00% | ~7,744 |
 | Merlin's Beard! | 1.00% | ~3,872 |
 | Spilled Milk | 0.90% | ~3,485 |
-| The Nature of the Beast | 0.70% | ~2,710 |
+| The Nature of the Beast | 0.70% | ~2,711 |
 | Collector's Edition | 0.40% | ~1,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,209 (Ranked 56)  
+Progressed: 387,217 (Ranked 56)  
 Completed: 587 (0.15%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 587 (0.15%) (Ranked 300)
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
 | 2024-01-23 | 387,074 | 585 |
-| 2024-01-24 | 387,209 | 587 |
+| 2024-01-24 | 387,217 | 587 |
 ## Awards
 Max (Character Customization): 32,342  (Ranked 16)  
 Sum: 66,590 (Ranked 24)  

@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 550)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 19.00% | ~3,660 |
-| Captain Drummer | 17.00% | ~3,274 |
+| Captain Drummer | 17.00% | ~3,275 |
 | Celebrations are in Order | 16.00% | ~3,082 |
 | Martian Music | 15.00% | ~2,889 |
 | Bosmang | 15.00% | ~2,889 |
@@ -19,7 +19,7 @@ Rating: 4.54 (Ranked 550)
 | Zen Master | 11.00% | ~574 |
 | Safe Cracker | 10.00% | ~522 |
 | Madame Undersecretary | 10.00% | ~522 |
-| Heal Thy Medic | 9.00% | ~1,733 |
+| Heal Thy Medic | 9.00% | ~1,734 |
 | Keep Arjun in Check | 9.00% | ~469 |
 | Data Archivist | 8.00% | ~1,541 |
 | Drug Gifter | 8.00% | ~1,541 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,261 (Ranked 160)  
+Progressed: 19,262 (Ranked 160)  
 Completed: 67 (0.35%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 67 (0.35%) (Ranked 257)
 | 2024-01-21 | 19,222 | 66 |
 | 2024-01-22 | 19,237 | 67 |
 | 2024-01-23 | 19,255 | 67 |
-| 2024-01-24 | 19,261 | 67 |
+| 2024-01-24 | 19,262 | 67 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

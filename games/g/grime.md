@@ -8,8 +8,8 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Imprint | 5.00% | ~8,476 |
 | Taste | 4.00% | ~6,781 |
-| The Hunt | 3.00% | ~5,085 |
-| Ravenous | 3.00% | ~5,085 |
+| The Hunt | 3.00% | ~5,086 |
+| Ravenous | 3.00% | ~5,086 |
 | Weeper | 2.00% | ~3,390 |
 | Harmless | 1.00% | ~1,695 |
 | Feast | 1.00% | ~1,695 |
@@ -29,7 +29,7 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.60% | ~1,017 |
 | Hunt Down | 0.50% | ~848 |
 | Inevitable | 0.50% | ~848 |
-| Dream | 0.50% | ~845 |
+| Dream | 0.50% | ~846 |
 | Breath | 0.40% | ~678 |
 | Artisan | 0.40% | ~678 |
 | Hush | 0.40% | ~678 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,515 (Ranked 85)  
+Progressed: 169,521 (Ranked 85)  
 Completed: 468 (0.28%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,11 +309,11 @@ Completed: 468 (0.28%) (Ranked 270)
 | 2024-01-21 | 169,214 | 465 |
 | 2024-01-22 | 169,324 | 467 |
 | 2024-01-23 | 169,450 | 468 |
-| 2024-01-24 | 169,515 | 468 |
+| 2024-01-24 | 169,521 | 468 |
 ## Awards
-Max (Highly Recommended): 64  (Ranked 432)  
+Max (Highly Recommended): 64  (Ranked 433)  
 Sum: 469 (Ranked 346)  
-Diff (max vs sum): 86  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 64 |

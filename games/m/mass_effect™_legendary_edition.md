@@ -35,8 +35,8 @@
 | The Archangel | 30.00% | ~1,394 |
 | The Professor | 30.00% | ~1,394 |
 | Head Hunter | 30.00% | ~1,394 |
+| Operative | 29.00% | ~1,348 |
 | The Convict | 28.00% | ~1,301 |
-| Operative | 28.00% | ~1,301 |
 | Power Full | 28.00% | ~1,301 |
 | Colony Defense | 27.00% | ~1,255 |
 | The Krogan | 27.00% | ~1,255 |
@@ -64,7 +64,9 @@
 | Digital Exorcist | 22.00% | ~1,023 |
 | Focused | 21.00% | ~976 |
 | Archivist | 21.00% | ~976 |
+| Mission Accomplished | 21.00% | ~976 |
 | Suicide Mission | 21.00% | ~976 |
+| Against All Odds | 21.00% | ~976 |
 | Friend or Foe | 21.00% | ~976 |
 | Cat's in the Cradle | 21.00% | ~976 |
 | Doppelganger | 21.00% | ~976 |
@@ -73,8 +75,6 @@
 | Eye of the Hurricane | 20.00% | ~930 |
 | Giant Killer | 20.00% | ~930 |
 | Completionist | 20.00% | ~930 |
-| Mission Accomplished | 20.00% | ~930 |
-| Against All Odds | 20.00% | ~930 |
 | A House Divided | 20.00% | ~930 |
 | Agent | 20.00% | ~930 |
 | World Shaker | 19.00% | ~883 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,648 (Ranked 212)  
-Completed: 15 (0.32%) (Ranked 261)  
+Completed: 15 (0.32%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
