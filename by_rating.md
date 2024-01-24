@@ -48,6 +48,7 @@
 | 39 | [Subnautica](games/s/subnautica.md) | 4.85 | 796 | 187 |
 | 39 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 591 |
 | 48 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 36 | 506 |
+| 48 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.84 | 0 | 591 |
 | 48 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.84 | 0 | 591 |
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 49 | 469 |
 | 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,302 | 50 |
@@ -55,19 +56,18 @@
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 459 | 232 |
 | 48 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.84 | 0 | 591 |
 | 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 591 |
-| 56 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 174 | 321 |
-| 56 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 591 |
-| 56 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 591 |
-| 56 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 230 | 288 |
-| 56 | [Firework](games/f/firework.md) | 4.83 | 0 | 591 |
-| 56 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 556 | 217 |
-| 56 | [Grindstone](games/g/grindstone.md) | 4.83 | 0 | 591 |
-| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 267 | 281 |
-| 56 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 282 | 273 |
-| 56 | [Rayman Origins](games/r/rayman_origins.md) | 4.83 | 42 | 486 |
-| 56 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.83 | 0 | 591 |
-| 56 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.83 | 0 | 591 |
-| 56 | [TUNIC](games/t/tunic.md) | 4.83 | 38 | 497 |
+| 57 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 174 | 321 |
+| 57 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 591 |
+| 57 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 230 | 288 |
+| 57 | [Firework](games/f/firework.md) | 4.83 | 0 | 591 |
+| 57 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 556 | 217 |
+| 57 | [Grindstone](games/g/grindstone.md) | 4.83 | 0 | 591 |
+| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 267 | 281 |
+| 57 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 282 | 273 |
+| 57 | [Rayman Origins](games/r/rayman_origins.md) | 4.83 | 42 | 486 |
+| 57 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.83 | 0 | 591 |
+| 57 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.83 | 0 | 591 |
+| 57 | [TUNIC](games/t/tunic.md) | 4.83 | 38 | 497 |
 | 69 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 591 |
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 458 | 233 |
 | 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,450 | 65 |
@@ -101,7 +101,7 @@
 | 99 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 56 | 449 |
 | 99 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,653 | 138 |
 | 99 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 591 |
-| 99 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 831 | 183 |
+| 99 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 838 | 183 |
 | 99 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 172 | 325 |
 | 99 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 591 |
 | 99 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,362 | 145 |
@@ -419,7 +419,7 @@
 | 402 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 426 | 239 |
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,385 | 144 |
 | 402 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 650 | 203 |
-| 402 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,903 | 39 |
+| 402 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,910 | 39 |
 | 402 | [RIDE 5](games/r/ride_5.md) | 4.61 | 0 | 591 |
 | 402 | [RiME](games/r/rime.md) | 4.61 | 0 | 591 |
 | 402 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,109 | 155 |
@@ -1085,8 +1085,8 @@
 | 1,080 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.90 | 0 | 591 |
 | 1,080 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 3.90 | 0 | 591 |
 | 1,080 | [Warface: Clutch](games/w/warface.md) | 3.90 | 482 | 227 |
-| 1,086 | [Potion Permit](games/p/potion_permit.md) | 3.87 | 72 | 418 |
-| 1,086 | [Saints Row](games/s/saints_row.md) | 3.87 | 1,149 | 153 |
+| 1,086 | [Potion Permit](games/p/potion_permit.md) | 3.88 | 72 | 418 |
+| 1,087 | [Saints Row](games/s/saints_row.md) | 3.87 | 1,149 | 153 |
 | 1,088 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 591 |
 | 1,088 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.86 | 0 | 591 |
 | 1,090 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.85 | 0 | 591 |
