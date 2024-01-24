@@ -108,29 +108,29 @@
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 870 | 179 |
 | 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,728 | 109 |
 | 99 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 421 | 240 |
+| 99 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.79 | 116 | 367 |
 | 99 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 59 | 439 |
 | 99 | [Star Atlas](games/s/star_atlas.md) | 4.79 | 30 | 531 |
 | 99 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 591 |
-| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,204 | 44 |
-| 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 182 | 316 |
-| 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,266 | 66 |
-| 112 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.78 | 116 | 367 |
-| 112 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.78 | 0 | 591 |
-| 112 | [Quake](games/q/quake.md) | 4.78 | 52 | 457 |
-| 112 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.78 | 0 | 591 |
-| 112 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 988 | 168 |
-| 112 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 591 |
-| 112 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.78 | 48 | 472 |
-| 112 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 531 |
-| 123 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 9,868 | 42 |
-| 123 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,551 | 38 |
-| 123 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 591 |
-| 123 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,518 | 111 |
-| 123 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 2,212 | 117 |
-| 123 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 156 | 334 |
-| 123 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.77 | 0 | 591 |
-| 123 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 591 |
-| 123 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 591 |
+| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,204 | 44 |
+| 113 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,270 | 66 |
+| 113 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.78 | 0 | 591 |
+| 113 | [Quake](games/q/quake.md) | 4.78 | 52 | 457 |
+| 113 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.78 | 0 | 591 |
+| 113 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 988 | 168 |
+| 113 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 591 |
+| 113 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.78 | 48 | 472 |
+| 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 531 |
+| 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 9,868 | 42 |
+| 122 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.77 | 182 | 316 |
+| 122 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,551 | 38 |
+| 122 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 591 |
+| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,518 | 111 |
+| 122 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 2,212 | 117 |
+| 122 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 156 | 334 |
+| 122 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.77 | 0 | 591 |
+| 122 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 591 |
+| 122 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 591 |
 | 132 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.76 | 0 | 591 |
 | 132 | [Aground](games/a/aground.md) | 4.76 | 0 | 591 |
 | 132 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.76 | 0 | 591 |
@@ -263,7 +263,7 @@
 | 242 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 22 | 572 |
 | 242 | [Tchia](games/t/tchia.md) | 4.69 | 0 | 591 |
 | 242 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 591 |
-| 242 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,097 | 156 |
+| 242 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,099 | 156 |
 | 242 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 172 | 325 |
 | 266 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,283 | 90 |
 | 266 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 729 | 195 |
@@ -508,7 +508,7 @@
 | 498 | [Minit](games/m/minit.md) | 4.57 | 0 | 591 |
 | 498 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,075 | 105 |
 | 498 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 591 |
-| 498 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,461 | 100 |
+| 498 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,462 | 100 |
 | 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.57 | 37 | 503 |
 | 498 | [Tails of Iron](games/t/tails_of_iron.md) | 4.57 | 0 | 591 |
 | 498 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,976 | 83 |
@@ -518,7 +518,7 @@
 | 516 | [Among Us](games/a/among_us.md) | 4.56 | 3,060 | 106 |
 | 516 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 0 | 591 |
 | 516 | [Costume Quest](games/c/costume_quest.md) | 4.56 | 0 | 591 |
-| 516 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,004 | 165 |
+| 516 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,005 | 165 |
 | 516 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 546 |
 | 516 | [Hue](games/h/hue.md) | 4.56 | 0 | 591 |
 | 516 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 591 |
