@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2024-01-22T00:08:30.5058347+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T13:14:52.5939389+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -1174,9 +1179,9 @@
       "ID": "20",
       "SetID": "7l2nmpm",
       "Name": "Tempo",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 10
     },
     {
       "ID": "21",
@@ -1294,16 +1299,16 @@
       "ID": "9",
       "SetID": "7l2nmpm",
       "Name": "Cadence",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1001,
       "Completed": 0
     }
   ],
@@ -1311,8 +1316,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:09:15.5395534+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:14:52.5939383+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:39.2150303+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:58:20.4826419+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:09:15.5395743+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:04:14.2367959+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:14:52.5939576+00:00"
 }

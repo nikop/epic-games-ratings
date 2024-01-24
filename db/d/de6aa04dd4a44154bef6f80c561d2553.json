@@ -4,7 +4,7 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -341,9 +341,9 @@
       "ID": "Chapter05_Breakout",
       "SetID": "c8fdd59",
       "Name": "Breakout",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Chapter06_NewExperience",
@@ -605,9 +605,9 @@
       "ID": "WeWasHere",
       "SetID": "c8fdd59",
       "Name": "We Was Here",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WithoutDiscrimination",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:11:28.8191335+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:17:30.5641964+00:00",
   "LastUpdate_AppInfo": "2024-01-22T18:57:05.0936311+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:01:45.3309897+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:11:28.81916+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:07:47.9085798+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:17:30.5642246+00:00"
 }

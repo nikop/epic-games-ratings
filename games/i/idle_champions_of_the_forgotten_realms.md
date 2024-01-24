@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~12,769 |
-| Beast Intentions | 2.00% | ~5,107 |
-| The Cursed Farmer | 2.00% | ~5,107 |
-| The Mad Wizard | 2.00% | ~5,107 |
+| Beast Intentions | 2.00% | ~5,108 |
+| The Cursed Farmer | 2.00% | ~5,108 |
+| The Mad Wizard | 2.00% | ~5,108 |
 | The Ring of Regeneration | 1.00% | ~2,554 |
 | Are Ya Chicken? | 1.00% | ~2,554 |
 | Were-verpowered | 0.90% | ~2,298 |
@@ -35,14 +35,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.50% | ~1,108 |
 | Don't Lose Your Head | 0.50% | ~1,108 |
 | Mind Spike | 0.50% | ~1,108 |
-| Low Initiative | 0.40% | ~1,021 |
-| Building Trust | 0.40% | ~1,021 |
-| No Time To Rest | 0.40% | ~1,021 |
-| The Dinner Party | 0.40% | ~1,021 |
-| Useless Allies | 0.40% | ~1,021 |
-| Running of the Saurs | 0.40% | ~1,021 |
-| Waterdeep Detours | 0.40% | ~1,021 |
-| Underdeep Cartography | 0.40% | ~1,021 |
+| Low Initiative | 0.40% | ~1,022 |
+| Building Trust | 0.40% | ~1,022 |
+| No Time To Rest | 0.40% | ~1,022 |
+| The Dinner Party | 0.40% | ~1,022 |
+| Useless Allies | 0.40% | ~1,022 |
+| Running of the Saurs | 0.40% | ~1,022 |
+| Waterdeep Detours | 0.40% | ~1,022 |
+| Underdeep Cartography | 0.40% | ~1,022 |
 | Arcane Suppression | 0.40% | ~887 |
 | Welcome to the Vrocks | 0.40% | ~887 |
 | Misaligned in Sigil | 0.40% | ~887 |
@@ -100,6 +100,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~511 |
 | Seeds of Deceit | 0.20% | ~511 |
 | The Gargoyle's Apprentice | 0.20% | ~511 |
+| House of Darkness | 0.20% | ~511 |
 | The Trepidatious Trio | 0.20% | ~511 |
 | Treasure Hunters | 0.20% | ~511 |
 | The Guardian of Orolunga | 0.20% | ~511 |
@@ -291,7 +292,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~255 |
 | Seeds of Corruption | 0.10% | ~255 |
 | The Strahd Squad | 0.10% | ~222 |
-| House of Darkness | 0.10% | ~255 |
 | Home Not So Alone | 0.10% | ~222 |
 | Our Time To Shine | 0.10% | ~255 |
 | Review by the Blackstaff | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,372 (Ranked 71)  
+Progressed: 255,376 (Ranked 71)  
 Completed: 2,638 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,7 +832,7 @@ Completed: 2,638 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,372 | 2,638 |
+| 2024-01-24 | 255,376 | 2,638 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,620 (Ranked 42)  

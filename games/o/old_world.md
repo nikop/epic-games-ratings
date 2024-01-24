@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 3.00% | ~514 |
 | Great Ziggurat | 3.00% | ~514 |
 | Ishtar Gate | 3.00% | ~514 |
+| Lighthouse | 3.00% | ~514 |
 | Pyramids | 3.00% | ~514 |
 | Learn to Play 1 | 3.00% | ~514 |
 | Judaism | 3.00% | ~514 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 2.00% | ~343 |
 | Apadana | 2.00% | ~343 |
 | Colossus | 2.00% | ~343 |
-| Lighthouse | 2.00% | ~343 |
 | Mausoleum | 2.00% | ~343 |
 | Musaeum | 2.00% | ~343 |
 | Necropolis | 2.00% | ~343 |

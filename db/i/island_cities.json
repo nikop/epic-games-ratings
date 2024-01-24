@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 905,
+  "EOS_Progressed": 906,
   "EOS_Completed": 152,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 16.8,
+  "EOS_Completed_Percentage": 16.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3946,6 +3946,11 @@
       "Time": "2024-01-23T23:05:14.99138+00:00",
       "NumProgressed": 905,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2024-01-24T13:12:56.7080874+00:00",
+      "NumProgressed": 906,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 22,
@@ -3957,7 +3962,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "LEVEL_002",
@@ -3965,7 +3970,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "LEVEL_003",
@@ -3973,7 +3978,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "LEVEL_004",
@@ -3989,7 +3994,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "LEVEL_006",
@@ -3997,7 +4002,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "LEVEL_007",
@@ -4029,7 +4034,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "LEVEL_011",
@@ -4037,7 +4042,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "LEVEL_012",
@@ -4132,7 +4137,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 905,
+      "Progressed": 906,
       "Completed": 152
     }
   ],
@@ -4140,8 +4145,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:06:53.6336426+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:12:56.708087+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:26.5155519+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:59:40.9882748+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:06:53.6336829+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:05:38.3123209+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:12:56.7081192+00:00"
 }

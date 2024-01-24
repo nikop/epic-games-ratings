@@ -9799,9 +9799,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255372,
+  "EOS_Progressed": 255376,
   "EOS_Completed": 2638,
-  "EOS_NewPlayers": 994,
+  "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41474,6 +41474,11 @@
       "Time": "2024-01-24T12:11:39.9204346+00:00",
       "NumProgressed": 255372,
       "NumCompleted": 2638
+    },
+    {
+      "Time": "2024-01-24T13:17:41.5838726+00:00",
+      "NumProgressed": 255376,
+      "NumCompleted": 2638
     }
   ],
   "TotalAchievements": 546,
@@ -41853,7 +41858,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "objective_completed_110",
@@ -42669,7 +42674,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_164",
@@ -42709,7 +42714,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_17",
@@ -42821,7 +42826,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_208",
@@ -42901,7 +42906,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_231",
@@ -43107,9 +43112,9 @@
       "ID": "objective_completed_280",
       "SetID": "cc37lbc",
       "Name": "House of Darkness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_281",
@@ -43157,7 +43162,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "objective_completed_34",
@@ -43357,7 +43362,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_400",
@@ -43973,7 +43978,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_590",
@@ -44629,7 +44634,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "objective_completed_70",
@@ -44661,7 +44666,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_75",
@@ -44693,7 +44698,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_8",
@@ -45852,21 +45857,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221646,
+      "Progressed": 221650,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255372,
+      "Progressed": 255376,
       "Completed": 2638
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:11:39.9204341+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:17:41.5838724+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:59:42.4982576+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:11:39.9226692+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:05:39.8853694+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:17:41.5861158+00:00"
 }

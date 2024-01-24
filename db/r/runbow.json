@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253787,
+  "EOS_Progressed": 253789,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24872,6 +24872,11 @@
       "Time": "2024-01-24T12:11:19.5795985+00:00",
       "NumProgressed": 253787,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T13:17:20.8595678+00:00",
+      "NumProgressed": 253789,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24907,7 +24912,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53295
+      "UsersEstimate": 53296
     },
     {
       "ID": "blotbuster",
@@ -24987,7 +24992,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50757
+      "UsersEstimate": 50758
     },
     {
       "ID": "didYourTime",
@@ -25059,7 +25064,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134507
+      "UsersEstimate": 134508
     },
     {
       "ID": "indegestible",
@@ -25203,7 +25208,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32992
+      "UsersEstimate": 32993
     },
     {
       "ID": "treeMedalist",
@@ -25250,7 +25255,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253787,
+      "Progressed": 253789,
       "Completed": 6
     }
   ],
@@ -25258,8 +25263,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:11:19.5795981+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:17:20.8595673+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:58:22.9359732+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:11:19.5797077+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:04:16.8163564+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:17:20.85975+00:00"
 }

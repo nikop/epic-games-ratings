@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,758 |
+| The Old Grandmaster | 6.00% | ~45,759 |
 | The Assault | 5.00% | ~38,132 |
 | Life is your teacher | 5.00% | ~38,132 |
 | Lightning Hands | 5.00% | ~38,132 |
@@ -31,12 +31,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 1.00% | ~7,626 |
 | Kung-Fu Tussle | 1.00% | ~7,626 |
 | Project Arena | 1.00% | ~719 |
-| Fight the way you practice | 0.90% | ~647 |
+| Fight the way you practice | 0.90% | ~648 |
 | Muk Yan Master | 0.80% | ~6,101 |
 | Detective Story | 0.80% | ~6,101 |
-| Tiger on Fire | 0.70% | ~5,338 |
-| Source of Flying Daggers | 0.70% | ~5,338 |
-| Iron Money | 0.70% | ~5,338 |
+| Tiger on Fire | 0.70% | ~5,339 |
+| Source of Flying Daggers | 0.70% | ~5,339 |
+| Iron Money | 0.70% | ~5,339 |
 | Bloody Sport | 0.70% | ~504 |
 | Martial Hub | 0.70% | ~504 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,576 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,633 (Ranked 26)  
+Progressed: 762,646 (Ranked 26)  
 Completed: 13,008 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 13,008 (1.71%) (Ranked 150)
 | 2024-01-21 | 762,261 | 13,003 |
 | 2024-01-22 | 762,418 | 13,004 |
 | 2024-01-23 | 762,568 | 13,006 |
-| 2024-01-24 | 762,633 | 13,008 |
+| 2024-01-24 | 762,646 | 13,008 |
 ## Awards
 Max (Great Boss Battles): 7,276  (Ranked 59)  
 Sum: 12,879 (Ranked 88)  

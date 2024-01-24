@@ -3059,9 +3059,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 35570,
+  "EOS_Progressed": 35571,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1400,
+  "EOS_NewPlayers": 1394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18234,6 +18234,11 @@
       "Time": "2024-01-24T12:11:01.9099522+00:00",
       "NumProgressed": 35570,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T13:17:02.777675+00:00",
+      "NumProgressed": 35571,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -18246,7 +18251,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "Achievement_Trophy02",
@@ -18270,7 +18275,7 @@
       "Name": "Merchant of doom",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "Achievement_Trophy05",
@@ -18286,7 +18291,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "Achievement_Trophy07",
@@ -18438,7 +18443,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "Achievement_Trophy26",
@@ -18486,7 +18491,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 10315
+      "UsersEstimate": 10316
     },
     {
       "ID": "Achievement_Trophy32",
@@ -18566,7 +18571,7 @@
       "Name": "Obstacle race",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "Achievement_Trophy42",
@@ -18582,7 +18587,7 @@
       "Name": "Light of my life",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "Achievement_Trophy44",
@@ -18598,7 +18603,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "Achievement_Trophy46",
@@ -18733,7 +18738,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 35570,
+      "Progressed": 35571,
       "Completed": 1
     }
   ],
@@ -18741,8 +18746,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-23T23:02:44.6333796+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:11:01.9099518+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:17:02.7776745+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:49.3369443+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:03:23.3260795+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:11:01.9100667+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:09:17.1486588+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:17:02.7778231+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 662,
-  "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 475,
+  "Ranking_Popularity": 382,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 217,
@@ -496,21 +496,27 @@
       "Rating": 4.48,
       "NumberOfAwards": 100,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-01-24T13:04:26.9223835+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 101,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 100,
-  "NumberOfAwardsMax": 100,
+  "NumberOfAwards": 101,
+  "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 100
+      "Count": 101
     }
   ],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -2625,6 +2631,11 @@
       "Time": "2024-01-24T11:06:42.078588+00:00",
       "NumProgressed": 686,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T13:12:24.1812098+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2685,7 +2696,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2693,7 +2704,7 @@
       "Name": "Increased Capacity",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -2707,9 +2718,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 419
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2717,7 +2728,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2749,7 +2760,7 @@
       "Name": "Perfect Storm",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -2773,7 +2784,7 @@
       "Name": "Cleanup Crew",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Collect_Soulmulet",
@@ -2789,7 +2800,7 @@
       "Name": "Salvation",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2947,9 +2958,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 234
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2957,7 +2968,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2971,9 +2982,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 316
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2989,7 +3000,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -3021,7 +3032,7 @@
       "Name": "Throne Potato",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -3029,7 +3040,7 @@
       "Name": "Seeing Red",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Level_Up_100",
@@ -3045,7 +3056,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Save_Humans_10",
@@ -3077,7 +3088,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -3093,7 +3104,7 @@
       "Name": "First of many\u2026",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -3101,7 +3112,7 @@
       "Name": "25 to Life",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -3133,7 +3144,7 @@
       "Name": "Just the start",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -3148,15 +3159,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
-  "LastChanged": "2024-01-22T20:57:00.0680665+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:06:21.9062423+00:00",
+  "LastChanged": "2024-01-24T13:04:26.9223833+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:12:24.1812094+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:58:33.1895026+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:06:21.9062919+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:04:26.922385+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:12:24.1812583+00:00"
 }

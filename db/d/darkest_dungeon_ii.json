@@ -11146,10 +11146,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21842,
       "NumberOfAwardsMax": 8066
+    },
+    {
+      "Time": "2024-01-24T13:07:12.5862291+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21843,
+      "NumberOfAwardsMax": 8066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21842,
+  "NumberOfAwards": 21843,
   "NumberOfAwardsMax": 8066,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11169,7 +11175,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1617
+      "Count": 1618
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11226,9 +11232,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133603,
+  "EOS_Progressed": 133606,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41291,6 +41297,11 @@
       "Time": "2024-01-24T11:11:33.5897551+00:00",
       "NumProgressed": 133603,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T13:17:28.7741939+00:00",
+      "NumProgressed": 133606,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41902,7 +41913,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41933,21 +41944,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133603,
+      "Progressed": 133606,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8472,
+      "Progressed": 8475,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-24T09:00:04.4948557+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:11:27.177679+00:00",
+  "LastChanged": "2024-01-24T13:07:12.586229+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:17:28.7741937+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:01:12.0014843+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:11:27.1778462+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:07:12.5862296+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:17:28.7743515+00:00"
 }

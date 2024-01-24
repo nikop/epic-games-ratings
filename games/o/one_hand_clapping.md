@@ -9,10 +9,10 @@
 | Fermata | 4.00% | ~40 |
 | Cadenza | 3.00% | ~30 |
 | Maestro Mountain | 3.00% | ~30 |
-| Tempo | 2.00% | ~20 |
 | Staccato | 2.00% | ~20 |
 | Fugue Forest | 2.00% | ~20 |
-| Cadence | 2.00% | ~20 |
+| Tempo | 1.00% | ~10 |
+| Cadence | 1.00% | ~10 |
 | Silent City: Reprise | 0.80% | ~8 |
 | Maestro Mountain Glyph | 0.70% | ~7 |
 | Coda Cave | 0.70% | ~7 |
@@ -33,7 +33,7 @@
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 303)  
+Progressed: 1,001 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 997 | 0 |
 | 2024-01-21 | 999 | 0 |
 | 2024-01-22 | 1,000 | 0 |
+| 2024-01-24 | 1,001 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 10.00% | ~162 |
-| Me and My Familiar | 9.00% | ~145 |
+| Me and My Familiar | 9.00% | ~146 |
 | This Too Shall Pass | 7.00% | ~113 |
 | Cutthroat Competitors | 7.00% | ~113 |
 | Daybreak | 7.00% | ~113 |
@@ -17,9 +17,9 @@ Number of Ratings: 45  (23.09.2022)
 | Completing the Look | 4.00% | ~65 |
 | War Endured | 4.00% | ~65 |
 | Core Failure | 4.00% | ~65 |
-| A Mythic Menagerie | 3.00% | ~48 |
-| Who's Counting? | 3.00% | ~48 |
-| Pyrrhic Victory | 3.00% | ~48 |
+| A Mythic Menagerie | 3.00% | ~49 |
+| Who's Counting? | 3.00% | ~49 |
+| Pyrrhic Victory | 3.00% | ~49 |
 | Let Me Get My Chisel | 2.00% | ~32 |
 | Thematic Divergence | 2.00% | ~32 |
 | Chain Reaction | 2.00% | ~32 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.10% | ~2 |
 | Peacemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,616 (Ranked 270)  
+Progressed: 1,617 (Ranked 270)  
 Completed: 7 (0.43%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 7 (0.43%) (Ranked 242)
 | 2024-01-21 | 1,612 | 7 |
 | 2024-01-22 | 1,613 | 7 |
 | 2024-01-23 | 1,616 | 7 |
+| 2024-01-24 | 1,617 | 7 |
 ## Awards
 Max (Character Customization): 30  (Ranked 531)  
 Sum: 30 (Ranked 552)  

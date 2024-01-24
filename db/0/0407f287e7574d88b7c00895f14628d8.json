@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1066,9 +1066,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "dl2",
@@ -1449,8 +1449,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:05:58.719006+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:12:00.527003+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:24.3827617+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:03:43.6616076+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:05:58.719064+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:09:39.2431174+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:12:00.5270439+00:00"
 }

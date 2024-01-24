@@ -3,11 +3,11 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1107,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 555,
+  "Ranking_Popularity": 531,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.66,
+  "Rating": 3.67,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -421,18 +421,24 @@
       "Rating": 3.66,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-01-24T13:03:24.6026215+00:00",
+      "Rating": 3.67,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 30,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 29
+      "Count": 30
     }
   ],
   "EOS_Progressed": 2415,
@@ -5230,9 +5236,9 @@
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2024-01-23T13:07:49.7668672+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:07:21.2726316+00:00",
+  "LastChanged": "2024-01-24T13:03:24.6026213+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:13:25.4998613+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:57:32.4137688+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:07:21.272698+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:03:24.6026218+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:13:25.4999243+00:00"
 }

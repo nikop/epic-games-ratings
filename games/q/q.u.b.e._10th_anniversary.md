@@ -14,9 +14,9 @@ Rating: 4.43 (Ranked 734)
 | Sector 5 | 13.00% | ~3,959 |
 | Sector 6 | 11.00% | ~3,350 |
 | Feeling the Blues | 9.00% | ~2,741 |
-| Squished | 8.00% | ~2,436 |
-| Finale | 8.00% | ~2,436 |
-| Sector 7 | 8.00% | ~2,436 |
+| Squished | 8.00% | ~2,437 |
+| Finale | 8.00% | ~2,437 |
+| Sector 7 | 8.00% | ~2,437 |
 | Did That Work? -- No! | 7.00% | ~2,132 |
 | Master Room | 5.00% | ~1,523 |
 | The Puzzle Master | 3.00% | ~914 |
@@ -30,7 +30,7 @@ Rating: 4.43 (Ranked 734)
 | Completed It. | 2.00% | ~609 |
 | Maxed Out | 2.00% | ~609 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,456 (Ranked 144)  
+Progressed: 30,457 (Ranked 144)  
 Completed: 233 (0.77%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 233 (0.77%) (Ranked 200)
 | 2024-01-21 | 30,271 | 225 |
 | 2024-01-22 | 30,343 | 231 |
 | 2024-01-23 | 30,420 | 233 |
-| 2024-01-24 | 30,456 | 233 |
+| 2024-01-24 | 30,457 | 233 |
 ## Awards
 Max (Challenging Puzzles): 26  (Ranked 551)  
 Sum: 26 (Ranked 563)  

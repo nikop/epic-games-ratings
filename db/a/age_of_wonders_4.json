@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7293,
+  "EOS_Progressed": 7294,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11478,6 +11478,11 @@
       "Time": "2024-01-23T20:05:54.1369188+00:00",
       "NumProgressed": 7293,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T13:10:22.9709399+00:00",
+      "NumProgressed": 7294,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11487,9 +11492,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 511
     },
     {
       "ID": "10",
@@ -11705,7 +11710,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "35",
@@ -11761,7 +11766,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "41",
@@ -11968,13 +11973,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7293,
+      "Progressed": 7294,
       "Completed": 4770
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7293,
+      "Progressed": 7294,
       "Completed": 8
     }
   ],
@@ -11982,8 +11987,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-23T19:02:49.8867252+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:04:27.066416+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:10:22.9709393+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:57:24.8814085+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:04:27.0665521+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:03:17.7150846+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:10:22.9710696+00:00"
 }

@@ -26,7 +26,7 @@ Number of Ratings: 892  (23.09.2022)
 | Unboxing | 97.00% | ~864 |
 | What Plants Crave | 94.00% | ~838 |
 | Yakmel Whisperer | 93.00% | ~829 |
-| Panda-kin | 91.00% | ~811 |
+| Panda-kin | 92.00% | ~820 |
 | First Love | 91.00% | ~811 |
 | No Mountain Wide Enough | 89.00% | ~793 |
 | Chatterbox | 89.00% | ~793 |

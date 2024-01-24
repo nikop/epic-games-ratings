@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1583,9 +1583,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -1631,9 +1631,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 174
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -2182,8 +2182,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:04:45.2566741+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:10:42.3302476+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:01:26.5791689+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:04:45.2567534+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:07:27.8018739+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:10:42.3303202+00:00"
 }

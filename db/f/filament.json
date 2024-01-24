@@ -450,9 +450,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 209693,
+  "EOS_Progressed": 209698,
   "EOS_Completed": 567,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30250,6 +30250,11 @@
       "Time": "2024-01-24T12:07:17.1880062+00:00",
       "NumProgressed": 209693,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2024-01-24T13:13:21.4175517+00:00",
+      "NumProgressed": 209698,
+      "NumCompleted": 567
     }
   ],
   "TotalAchievements": 29,
@@ -30285,7 +30290,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 197111
+      "UsersEstimate": 197116
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30445,7 +30450,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20969
+      "UsersEstimate": 20970
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -30461,7 +30466,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16775
+      "UsersEstimate": 16776
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -30492,7 +30497,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209693,
+      "Progressed": 209698,
       "Completed": 567
     }
   ],
@@ -30500,8 +30505,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-24T06:58:21.8929265+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:07:17.1880059+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:13:21.4175508+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:59:00.6620509+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:07:17.1881644+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:04:56.6284151+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:13:21.4176965+00:00"
 }

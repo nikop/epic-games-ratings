@@ -6,34 +6,34 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~38,156 |
-| Just The Two of Us | 32.00% | ~35,912 |
-| Up On High | 25.00% | ~28,056 |
-| Under The Hood | 25.00% | ~28,056 |
+| Simoon | 34.00% | ~38,157 |
+| Just The Two of Us | 32.00% | ~35,913 |
+| Up On High | 25.00% | ~28,057 |
+| Under The Hood | 25.00% | ~28,057 |
 | Got Your Nose | 24.00% | ~26,934 |
 | The Gift of Gab | 24.00% | ~26,934 |
-| Wrapping Up | 22.00% | ~24,689 |
-| More Than A Box Of Sand | 18.00% | ~20,200 |
-| The Dunboyne | 17.00% | ~19,078 |
-| Badge Hobbyist | 17.00% | ~19,078 |
+| Wrapping Up | 22.00% | ~24,690 |
+| More Than A Box Of Sand | 18.00% | ~20,201 |
+| The Dunboyne | 17.00% | ~19,079 |
+| Badge Hobbyist | 17.00% | ~19,079 |
 | Chum Novice | 16.00% | ~17,956 |
 | Silver-Tongued Sable | 16.00% | ~17,956 |
 | Sticky Paws | 16.00% | ~17,956 |
 | Bubble Up | 16.00% | ~17,956 |
 | Thread The Needle | 15.00% | ~16,834 |
-| Power to the People | 14.00% | ~15,711 |
-| Nesting Giant | 14.00% | ~15,711 |
-| Take That! | 13.00% | ~14,589 |
-| Treasure Tracker | 13.00% | ~14,589 |
-| Big Spender | 13.00% | ~14,589 |
+| Power to the People | 14.00% | ~15,712 |
+| Nesting Giant | 14.00% | ~15,712 |
+| Take That! | 13.00% | ~14,590 |
+| Treasure Tracker | 13.00% | ~14,590 |
+| Big Spender | 13.00% | ~14,590 |
 | Badge Collector | 12.00% | ~13,467 |
 | Quite The Catch | 12.00% | ~13,467 |
 | Rowleys Way | 11.00% | ~12,345 |
-| The Machinist Mask | 10.00% | ~11,222 |
-| The Cartographer Mask | 10.00% | ~11,222 |
-| Balfron Connection | 10.00% | ~11,222 |
-| Ceiling Of Stars | 10.00% | ~11,222 |
-| Playing Dress Up | 10.00% | ~11,222 |
+| The Machinist Mask | 10.00% | ~11,223 |
+| The Cartographer Mask | 10.00% | ~11,223 |
+| Balfron Connection | 10.00% | ~11,223 |
+| Ceiling Of Stars | 10.00% | ~11,223 |
+| Playing Dress Up | 10.00% | ~11,223 |
 | Many Different Faces | 9.00% | ~10,100 |
 | Trellick's Pillar | 9.00% | ~10,100 |
 | Centre Of Brunswick | 9.00% | ~10,100 |
@@ -50,10 +50,10 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,856 |
 | Smoked Out | 7.00% | ~7,856 |
 | A Hard Place | 7.00% | ~7,856 |
-| The Climber Mask | 6.00% | ~6,733 |
-| The Merchant Mask | 6.00% | ~6,733 |
-| Honorary Chum | 6.00% | ~6,733 |
-| Bikes Don't Fly | 6.00% | ~6,733 |
+| The Climber Mask | 6.00% | ~6,734 |
+| The Merchant Mask | 6.00% | ~6,734 |
+| Honorary Chum | 6.00% | ~6,734 |
+| Bikes Don't Fly | 6.00% | ~6,734 |
 | The Gliding | 5.00% | ~5,611 |
 | The Entertainer Mask | 5.00% | ~5,611 |
 | The Quick and the Curious | 4.00% | ~4,489 |
@@ -61,9 +61,9 @@ Number of Ratings: 43  (23.09.2022)
 | Chum Expert | 3.00% | ~3,367 |
 | Gastric Bypass | 3.00% | ~3,367 |
 | The Angler Mask | 3.00% | ~3,367 |
-| Vivacious Vivarium | 2.00% | ~2,244 |
+| Vivacious Vivarium | 2.00% | ~2,245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,224 (Ranked 98)  
+Progressed: 112,227 (Ranked 98)  
 Completed: 1,148 (1.02%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 1,148 (1.02%) (Ranked 181)
 | 2024-01-21 | 111,910 | 1,143 |
 | 2024-01-22 | 112,031 | 1,146 |
 | 2024-01-23 | 112,152 | 1,146 |
-| 2024-01-24 | 112,224 | 1,148 |
+| 2024-01-24 | 112,227 | 1,148 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 531)  
 Sum: 155 (Ranked 448)  

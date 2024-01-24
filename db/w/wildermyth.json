@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -178,9 +178,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 1616,
+  "EOS_Progressed": 1617,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2538,6 +2538,11 @@
       "Time": "2024-01-23T20:10:13.8168028+00:00",
       "NumProgressed": 1616,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T13:17:34.4577441+00:00",
+      "NumProgressed": 1617,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2565,7 +2570,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2581,7 +2586,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -2693,7 +2698,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -2765,7 +2770,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "completedStory_cvawn",
@@ -2996,15 +3001,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1616,
+      "Progressed": 1617,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:11:32.8648614+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:17:34.4577437+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.1220407+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:57:42.6935147+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:11:32.864901+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:03:34.9583451+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:17:34.457789+00:00"
 }

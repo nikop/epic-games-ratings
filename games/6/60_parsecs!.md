@@ -8,8 +8,8 @@
 | Space Colonization | 78.00% | ~1,290 |
 | Friendzone | 76.00% | ~1,257 |
 | Hello World | 71.00% | ~1,174 |
+| Tinkerer | 60.00% | ~992 |
 | Space Engineer | 59.00% | ~976 |
-| Tinkerer | 59.00% | ~976 |
 | Dust to Dust | 55.00% | ~910 |
 | Across The Stars | 43.00% | ~711 |
 | Crafty | 41.00% | ~678 |
@@ -19,7 +19,7 @@
 | KIA | 25.00% | ~414 |
 | Stay Cool | 25.00% | ~414 |
 | Mutiny in making | 22.00% | ~364 |
-| Et tu, Astrocitizen? | 17.00% | ~281 |
+| Et tu, Astrocitizen? | 18.00% | ~298 |
 | Eco-Shuttle | 16.00% | ~265 |
 | Space Explorer | 13.00% | ~215 |
 | Hands Full | 11.00% | ~182 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8027,
+  "EOS_Progressed": 8028,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -9174,6 +9174,11 @@
       "Time": "2024-01-24T12:08:26.4510245+00:00",
       "NumProgressed": 8027,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-24T13:14:01.0995013+00:00",
+      "NumProgressed": 8028,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9186,7 +9191,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -9194,7 +9199,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -9226,7 +9231,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -9242,7 +9247,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -9313,14 +9318,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 8027,
+      "Progressed": 8028,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:08:26.4510241+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:14:01.0995007+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:59:20.2929026+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:08:26.4510715+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:05:16.9624149+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:14:01.0995514+00:00"
 }

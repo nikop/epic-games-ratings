@@ -6,28 +6,28 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~528 |
-| First of many… | 69.00% | ~473 |
-| Helping Hand | 65.00% | ~446 |
-| Increased Vigor | 62.00% | ~425 |
+| Green with Envy | 77.00% | ~529 |
+| First of many… | 69.00% | ~474 |
+| Helping Hand | 65.00% | ~447 |
+| Increased Vigor | 61.00% | ~419 |
 | Fight Fire with Fire | 59.00% | ~405 |
-| Increased Capacity | 57.00% | ~391 |
-| Just the start | 50.00% | ~343 |
-| Perfect Storm | 47.00% | ~322 |
-| All That Glitters | 47.00% | ~322 |
+| Increased Capacity | 57.00% | ~392 |
+| Just the start | 50.00% | ~344 |
+| Perfect Storm | 47.00% | ~323 |
+| All That Glitters | 46.00% | ~316 |
 | Enhance! | 43.00% | ~295 |
-| One Of the Chosen | 42.00% | ~288 |
-| Devil's in the Details | 41.00% | ~281 |
-| Throne Potato | 41.00% | ~281 |
-| Five's a Crowd | 41.00% | ~281 |
-| Salvation | 40.00% | ~274 |
-| 25 to Life | 40.00% | ~274 |
+| One Of the Chosen | 42.00% | ~289 |
+| Devil's in the Details | 41.00% | ~282 |
+| Throne Potato | 41.00% | ~282 |
+| Five's a Crowd | 41.00% | ~282 |
+| Salvation | 40.00% | ~275 |
+| 25 to Life | 40.00% | ~275 |
 | Unshakable Fortitude | 37.00% | ~254 |
 | Soul Harvester | 37.00% | ~254 |
 | Delusions of Grandeur | 36.00% | ~247 |
 | I Wanna Rock | 35.00% | ~240 |
-| Love Tap | 35.00% | ~240 |
-| Maximum Vigor | 33.00% | ~226 |
+| Love Tap | 34.00% | ~234 |
+| Maximum Vigor | 33.00% | ~227 |
 | Freeze Frame | 31.00% | ~213 |
 | Eat Your Heart Out | 31.00% | ~213 |
 | For Whom the Bell Tolls | 30.00% | ~206 |
@@ -35,8 +35,8 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 27.00% | ~185 |
 | Crowd Source | 27.00% | ~185 |
 | Big Spender | 27.00% | ~185 |
-| Cleanup Crew | 26.00% | ~178 |
-| Seeing Red | 26.00% | ~178 |
+| Cleanup Crew | 26.00% | ~179 |
+| Seeing Red | 26.00% | ~179 |
 | Demon Meddler | 24.00% | ~165 |
 | Egomaniac | 24.00% | ~165 |
 | Maximum Capacity | 23.00% | ~158 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686 (Ranked 337)  
+Progressed: 687 (Ranked 337)  
 Completed: 2 (0.29%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,14 +111,14 @@ Completed: 2 (0.29%) (Ranked 267)
 | 2024-01-21 | 667 | 2 |
 | 2024-01-22 | 677 | 2 |
 | 2024-01-23 | 683 | 2 |
-| 2024-01-24 | 686 | 2 |
+| 2024-01-24 | 687 | 2 |
 ## Awards
-Max (Great Boss Battles): 100  (Ranked 384)  
-Sum: 100 (Ranked 475)  
-Diff (max vs sum): -91  
+Max (Great Boss Battles): 101  (Ranked 382)  
+Sum: 101 (Ranked 474)  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 100 |
+| This game has Great Boss Battles | 101 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -211,3 +211,4 @@ Diff (max vs sum): -91
 | 2024-01-13 | 4.48 | - | 99 | 99 |
 | 2024-01-19 | 4.49 | - | 100 | 100 |
 | 2024-01-22 | 4.48 | - | 100 | 100 |
+| 2024-01-24 | 4.48 | - | 101 | 101 |

@@ -4,10 +4,10 @@
   "ProductSlug": "rayman-legends",
   "Ranking_Rating": 91,
   "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 544,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2019-11-29T11:00:00+00:00",
@@ -1372,10 +1372,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 444,
       "NumberOfAwardsMax": 372
+    },
+    {
+      "Time": "2024-01-24T13:05:36.5916897+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 464,
+      "NumberOfAwardsMax": 372
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 444,
+  "NumberOfAwards": 464,
   "NumberOfAwardsMax": 372,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1402,6 +1408,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1415,8 +1427,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2024-01-23T19:58:16.2539352+00:00",
+  "LastChanged": "2024-01-24T13:05:36.5916896+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:01.9456305+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:59:39.189101+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:05:59.1029223+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:05:36.59169+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:12:00.600368+00:00"
 }

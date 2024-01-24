@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -3621,9 +3621,9 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 293
     },
     {
       "ID": "Priestess",
@@ -3740,8 +3740,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:04:34.9365509+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:10:31.2923032+00:00",
   "LastUpdate_AppInfo": "2024-01-24T03:57:24.1255449+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:03:10.6467816+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:04:34.9366224+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:08:23.3588787+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:10:31.2923453+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2024-01-24T02:01:26.6450851+00:00",
       "NumProgressed": 774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T13:17:16.6830725+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2564,7 +2569,7 @@
       "Name": "Hypnotorious: Galaxy Brain",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -2636,7 +2641,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2675,14 +2680,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:11:15.5400878+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:17:16.6830722+00:00",
   "LastUpdate_AppInfo": "2024-01-20T02:56:57.3928045+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:59:28.761874+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:11:15.540106+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:05:25.8690466+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:17:16.6830948+00:00"
 }

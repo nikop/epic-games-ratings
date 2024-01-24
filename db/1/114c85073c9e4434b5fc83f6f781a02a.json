@@ -2,9 +2,9 @@
   "ID": "114c85073c9e4434b5fc83f6f781a02a",
   "Name": "Supfly Delivery Simulator",
   "ProductSlug": "supfly-delivery-simulator-82d2fd",
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_Progress": 628,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-11-08T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-11-06T10:07:21.2241111+00:00",
@@ -137,6 +137,11 @@
       "Time": "2024-01-15T21:07:59.8388525+00:00",
       "NumProgressed": 22,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T13:14:25.0157839+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-29T07:04:24.2015685+00:00",
@@ -147,7 +152,7 @@
       "ID": "COLD_WEATHER",
       "SetID": "7ae64fg",
       "Name": "Cold weather",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 110,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "GETTING_AN_UPGRADE",
       "SetID": "7ae64fg",
       "Name": "Getting an upgrade",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 110,
       "UsersEstimate": 4
     },
@@ -163,7 +168,7 @@
       "ID": "HIGH_TECH",
       "SetID": "7ae64fg",
       "Name": "High Tech",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 120,
       "UsersEstimate": 1
     },
@@ -171,7 +176,7 @@
       "ID": "HOT_WEATHER",
       "SetID": "7ae64fg",
       "Name": "Hot weather",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 110,
       "UsersEstimate": 1
     },
@@ -181,13 +186,13 @@
       "Name": "Oops",
       "Percentage": 100,
       "XP": 110,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SMALL_BUSINESS",
       "SetID": "7ae64fg",
       "Name": "Small business",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 110,
       "UsersEstimate": 8
     },
@@ -195,7 +200,7 @@
       "ID": "SPECIAL_DELIVERY",
       "SetID": "7ae64fg",
       "Name": "Special delivery",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 110,
       "UsersEstimate": 13
     },
@@ -203,7 +208,7 @@
       "ID": "STEP_BY_STEP",
       "SetID": "7ae64fg",
       "Name": "Step by step",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 110,
       "UsersEstimate": 3
     },
@@ -211,22 +216,22 @@
       "ID": "TIME_TO_START",
       "SetID": "7ae64fg",
       "Name": "Time to start",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 110,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ae64fg",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:08:49.2001803+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:14:25.0157834+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:12.1527907+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:01:49.8984887+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:08:49.2001865+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:07:53.3895268+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:14:25.0157926+00:00"
 }

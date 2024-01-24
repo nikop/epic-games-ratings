@@ -5,27 +5,27 @@ Rating: 4.35 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 14.00% | ~15 |
-| Can’t Touch This | 12.00% | ~13 |
-| Help! Help! I’m being repressed | 12.00% | ~13 |
+| Hail to the King, Baby | 14.00% | ~16 |
+| Help! Help! I’m being repressed | 12.00% | ~14 |
+| Can’t Touch This | 11.00% | ~13 |
 | Bring it on! | 10.00% | ~11 |
 | Full House | 10.00% | ~11 |
-| There is no Nobility in Poverty | 9.00% | ~10 |
-| Path of Glory | 8.00% | ~9 |
+| There is no Nobility in Poverty | 10.00% | ~11 |
+| Path of Glory | 9.00% | ~10 |
+| They Got What They Deserved | 7.00% | ~8 |
 | The finest merchandise this side of river Jordan | 6.00% | ~7 |
-| They Got What They Deserved | 6.00% | ~7 |
-| Call the Boys | 5.00% | ~6 |
-| Do you read Sutter Cane? | 5.00% | ~6 |
 | What we’ve got here is failure to communicate | 5.00% | ~6 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~4 |
-| Pillars of the Earth | 4.00% | ~4 |
-| Playerxander the Great | 4.00% | ~4 |
-| ‘Tis but a scratch | 4.00% | ~4 |
+| Call the Boys | 4.00% | ~5 |
+| Desperate Times Call for Desperate Measures | 4.00% | ~5 |
+| Dinner Time | 4.00% | ~5 |
+| Do you read Sutter Cane? | 4.00% | ~5 |
+| Pillars of the Earth | 4.00% | ~5 |
+| Playerxander the Great | 4.00% | ~5 |
+| ‘Tis but a scratch | 4.00% | ~5 |
 | Battle of the Four Armies | 3.00% | ~3 |
 | Big Apple | 3.00% | ~3 |
 | Black Sheep Wall | 3.00% | ~3 |
 | Cut-Me-Own-Throat | 3.00% | ~3 |
-| Dinner Time | 3.00% | ~3 |
 | Forth, Eorlingas! | 3.00% | ~3 |
 | I started a joke | 3.00% | ~3 |
 | Kingslayer | 3.00% | ~3 |
@@ -40,6 +40,7 @@ Rating: 4.35 (Ranked 836)
 | Naught but a Seamless Victory | 2.00% | ~2 |
 | On the third day at dawn, look east | 2.00% | ~2 |
 | Renaissance Man | 2.00% | ~2 |
+| The Magnificent Nine | 2.00% | ~2 |
 | Time to find India | 2.00% | ~2 |
 | Vlad the Impaler | 2.00% | ~2 |
 | Why is there no culture victory?! | 2.00% | ~2 |
@@ -54,7 +55,6 @@ Rating: 4.35 (Ranked 836)
 | New Mineland | 0.90% | ~1 |
 | Prince Ali! Fabulous he! | 0.90% | ~1 |
 | Spartacus | 0.90% | ~1 |
-| The Magnificent Nine | 0.90% | ~1 |
 | You are not the boss of me now | 0.90% | ~1 |
 | You reap what you sow | 0.90% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 494)  
+Progressed: 114 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 110 | 0 |
+| 2024-01-24 | 114 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

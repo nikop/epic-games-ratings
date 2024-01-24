@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -329,7 +329,7 @@
   "Tags": [],
   "EOS_Progressed": 11538,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4605,
+  "EOS_NewPlayers": 4570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10669,9 +10669,9 @@
       "ID": "ACH_10_WATER",
       "SetID": "5nj1ea3",
       "Name": "2-1-6",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 5884
+      "UsersEstimate": 6000
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -11150,8 +11150,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-22T16:59:28.4698873+00:00",
-  "LastChanged_Achievements": "2024-01-24T12:09:01.1581287+00:00",
+  "LastChanged_Achievements": "2024-01-24T13:14:37.8061082+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:35.1717195+00:00",
-  "LastUpdate_Ratings": "2024-01-24T12:01:23.1803658+00:00",
-  "LastUpdate_Achievements": "2024-01-24T12:09:01.1582076+00:00"
+  "LastUpdate_Ratings": "2024-01-24T13:07:23.6523651+00:00",
+  "LastUpdate_Achievements": "2024-01-24T13:14:37.8061866+00:00"
 }

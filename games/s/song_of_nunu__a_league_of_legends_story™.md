@@ -5,25 +5,25 @@ Rating: 4.63 (Ranked 360)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~1,194 |
-| I Broke It | 73.00% | ~1,162 |
-| Better On Ice | 69.00% | ~1,098 |
-| Blue Dreams | 67.00% | ~1,067 |
+| Feels Familiar | 75.00% | ~1,195 |
+| I Broke It | 73.00% | ~1,163 |
+| Better On Ice | 69.00% | ~1,099 |
 | Notai Notes | 67.00% | ~1,067 |
+| Blue Dreams | 66.00% | ~1,051 |
 | He's Famous! | 66.00% | ~1,051 |
 | Cutie Poro | 66.00% | ~1,051 |
 | Krugmazing | 65.00% | ~1,035 |
-| The Fire Below the Mountain | 62.00% | ~987 |
-| Moneyball | 61.00% | ~971 |
+| The Fire Below the Mountain | 62.00% | ~988 |
+| Moneyball | 61.00% | ~972 |
 | Iceborn | 56.00% | ~892 |
 | No Bites | 55.00% | ~876 |
 | Boom Things | 54.00% | ~860 |
 | Tear of Freedom | 53.00% | ~844 |
 | My Darkest Day | 50.00% | ~796 |
-| Rhythm Of Willump | 47.00% | ~748 |
-| The Relentless Storm | 47.00% | ~748 |
-| A Tragic Reminder | 46.00% | ~732 |
-| 3000 Year Blackout | 45.00% | ~716 |
+| Rhythm Of Willump | 47.00% | ~749 |
+| The Relentless Storm | 47.00% | ~749 |
+| A Tragic Reminder | 46.00% | ~733 |
+| 3000 Year Blackout | 45.00% | ~717 |
 | So Close | 43.00% | ~685 |
 | The Finisher | 43.00% | ~685 |
 | You Get Used To It | 42.00% | ~669 |
@@ -35,14 +35,14 @@ Rating: 4.63 (Ranked 360)
 | True Legends | 38.00% | ~605 |
 | Bullseye | 37.00% | ~589 |
 | It Is Not Over | 36.00% | ~573 |
-| On The Rocks | 34.00% | ~541 |
-| Snowy Poro | 33.00% | ~525 |
-| Never Gets Old | 32.00% | ~509 |
+| On The Rocks | 34.00% | ~542 |
+| Snowy Poro | 33.00% | ~526 |
+| Never Gets Old | 32.00% | ~510 |
 | Vertical Power | 27.00% | ~430 |
 | One From The Heart | 14.00% | ~223 |
 | Yummy | 10.00% | ~159 |
 | Snowball Fightn't | 9.00% | ~143 |
-| It Was Him | 7.00% | ~111 |
+| It Was Him | 7.00% | ~112 |
 | Handy Yeti | 6.00% | ~96 |
 | The Pied Piper Of Freljord | 4.00% | ~64 |
 | Braum's Poro Ranch | 3.00% | ~48 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 360)
 | We Are Speed | 2.00% | ~32 |
 | Sneaky Notai | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,592 (Ranked 272)  
+Progressed: 1,593 (Ranked 272)  
 Completed: 11 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 11 (0.69%) (Ranked 207)
 | 2024-01-21 | 1,585 | 10 |
 | 2024-01-22 | 1,587 | 10 |
 | 2024-01-23 | 1,591 | 11 |
-| 2024-01-24 | 1,592 | 11 |
+| 2024-01-24 | 1,593 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
