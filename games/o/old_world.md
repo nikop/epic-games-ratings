@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 2.00% | ~343 |
 | Brilliant | 2.00% | ~343 |
 | Great | 2.00% | ~343 |
+| Intercessor | 2.00% | ~343 |
 | Valiant | 2.00% | ~343 |
 | Wise | 2.00% | ~343 |
 | Legendary Cities | 2.00% | ~343 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 2.00% | ~343 |
 | Hanging Gardens in Babylon | 1.00% | ~171 |
 | Beloved | 1.00% | ~171 |
-| Intercessor | 1.00% | ~171 |
 | Mighty | 1.00% | ~171 |
 | Victorious | 1.00% | ~171 |
 | Good Difficulty | 1.00% | ~171 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,133 (Ranked 170)  
+Progressed: 17,136 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
-| 2024-01-24 | 17,133 | 5 |
+| 2024-01-24 | 17,136 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

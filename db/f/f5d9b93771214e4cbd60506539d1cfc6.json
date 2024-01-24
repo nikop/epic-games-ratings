@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162412,
+  "EOS_Progressed": 162413,
   "EOS_Completed": 402,
   "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 10,
@@ -26343,6 +26343,11 @@
       "Time": "2024-01-24T10:08:40.8150747+00:00",
       "NumProgressed": 162412,
       "NumCompleted": 402
+    },
+    {
+      "Time": "2024-01-24T11:08:49.4890437+00:00",
+      "NumProgressed": 162413,
+      "NumCompleted": 402
     }
   ],
   "TotalAchievements": 31,
@@ -26362,7 +26367,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113688
+      "UsersEstimate": 113689
     },
     {
       "ID": "EAwards_10",
@@ -26450,7 +26455,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45475
+      "UsersEstimate": 45476
     },
     {
       "ID": "EAwards_20",
@@ -26474,7 +26479,7 @@
       "Name": "Poncho\u0027d Out",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "EAwards_23",
@@ -26538,7 +26543,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 32482
+      "UsersEstimate": 32483
     },
     {
       "ID": "EAwards_30",
@@ -26562,7 +26567,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19489
+      "UsersEstimate": 19490
     },
     {
       "ID": "EAwards_6",
@@ -26594,14 +26599,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19489
+      "UsersEstimate": 19490
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 162412,
+      "Progressed": 162413,
       "Completed": 402
     }
   ],
@@ -26609,8 +26614,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:08:40.8150742+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:08:49.4890434+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:57:48.4214327+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:08:40.8152495+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:58:16.9593075+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:08:49.4891851+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1887,7 +1887,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 11402,
+  "EOS_Progressed": 11403,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
@@ -12587,6 +12587,11 @@
       "Time": "2024-01-24T09:06:51.7075881+00:00",
       "NumProgressed": 11402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T11:08:35.1667238+00:00",
+      "NumProgressed": 11403,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12615,7 +12620,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "achievement_12",
@@ -12623,7 +12628,7 @@
       "Name": "Dealmaker",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "achievement_13",
@@ -12695,7 +12700,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6727
+      "UsersEstimate": 6728
     },
     {
       "ID": "achievement_21",
@@ -12727,7 +12732,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "achievement_6",
@@ -12766,7 +12771,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11402,
+      "Progressed": 11403,
       "Completed": 0
     }
   ],
@@ -12774,8 +12779,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-24T03:58:17.7837569+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:08:31.015853+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:08:35.1667235+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:57:55.6815079+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:08:31.015933+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:58:26.5993531+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:08:35.1667948+00:00"
 }

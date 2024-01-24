@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5266,9 +5266,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1324
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -5891,8 +5891,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-24T01:48:40.9947297+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:05:49.3716474+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:07:22.2060518+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:58:23.5607436+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:05:49.3717865+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:59:08.5420532+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:07:22.2061742+00:00"
 }

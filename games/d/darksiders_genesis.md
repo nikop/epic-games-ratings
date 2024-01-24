@@ -7,7 +7,7 @@ Number of Ratings: 67  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mint I | 6.00% | ~45 |
-| Soul Cache | 5.00% | ~38 |
+| Soul Cache | 6.00% | ~45 |
 | Astarte | 2.00% | ~15 |
 | Close the Rift | 2.00% | ~15 |
 | Mammon | 2.00% | ~15 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120785,
+  "EOS_Progressed": 120786,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25947,6 +25947,11 @@
       "Time": "2024-01-24T10:10:36.5401013+00:00",
       "NumProgressed": 120785,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-24T11:11:34.1627038+00:00",
+      "NumProgressed": 120786,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 49,
@@ -25966,7 +25971,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 93004
+      "UsersEstimate": 93005
     },
     {
       "ID": "EAwards_10",
@@ -26030,7 +26035,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44690
+      "UsersEstimate": 44691
     },
     {
       "ID": "EAwards_18",
@@ -26038,7 +26043,7 @@
       "Name": "You Survived",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12078
+      "UsersEstimate": 12079
     },
     {
       "ID": "EAwards_19",
@@ -26118,7 +26123,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12078
+      "UsersEstimate": 12079
     },
     {
       "ID": "EAwards_28",
@@ -26310,7 +26315,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12078
+      "UsersEstimate": 12079
     },
     {
       "ID": "EAwards_6",
@@ -26349,7 +26354,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120785,
+      "Progressed": 120786,
       "Completed": 62
     }
   ],
@@ -26357,8 +26362,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:10:36.5401008+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:11:34.1627033+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.1684277+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:58:24.6426118+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:10:36.5402892+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:59:10.1540483+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:11:34.1628643+00:00"
 }

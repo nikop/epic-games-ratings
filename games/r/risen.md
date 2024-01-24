@@ -28,15 +28,15 @@ Rating: 4.60 (Ranked 431)
 | The fourth triplet | 18.00% | ~39 |
 | Wise man | 17.00% | ~37 |
 | Pandora's box | 17.00% | ~37 |
+| Hard worker | 17.00% | ~37 |
 | Fence | 17.00% | ~37 |
 | Ghost hunter | 16.00% | ~35 |
-| Hard worker | 16.00% | ~35 |
 | Defender | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
+| Showdown | 14.00% | ~30 |
 | Peacekeeper | 14.00% | ~30 |
-| Showdown | 13.00% | ~28 |
 | Workaholic | 13.00% | ~28 |
-| Titan Lord | 11.00% | ~24 |
+| Titan Lord | 12.00% | ~26 |
 | Safecracker | 10.00% | ~22 |
 | Master thief | 10.00% | ~22 |
 | Freedom fighter | 9.00% | ~19 |

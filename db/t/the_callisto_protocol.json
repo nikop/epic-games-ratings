@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22699,
+  "EOS_Progressed": 22700,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14828,6 +14828,11 @@
       "Time": "2024-01-24T10:10:22.8379609+00:00",
       "NumProgressed": 22699,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-24T11:11:15.4540253+00:00",
+      "NumProgressed": 22700,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14847,7 +14852,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -15135,7 +15140,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -15151,7 +15156,7 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -15159,7 +15164,7 @@
       "Name": "Don\u0027t Let It Mellow",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FIND_ALL_DATA_DRIVES",
@@ -15175,7 +15180,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "FINISH_DLC4",
@@ -15214,13 +15219,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22699,
+      "Progressed": 22700,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10625,
+      "Progressed": 10626,
       "Completed": 29
     }
   ],
@@ -15228,8 +15233,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:10:22.8379605+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:11:15.4540249+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:03:43.7437769+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:10:22.8380852+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:04:17.5957297+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:11:15.4541661+00:00"
 }

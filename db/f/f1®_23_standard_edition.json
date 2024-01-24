@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18672,
+  "EOS_Progressed": 18673,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12763,6 +12763,11 @@
       "Time": "2024-01-24T10:05:35.8896538+00:00",
       "NumProgressed": 18672,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T11:07:02.5263774+00:00",
+      "NumProgressed": 18673,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12815,7 +12820,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13070
+      "UsersEstimate": 13071
     },
     {
       "ID": "achievement_0007",
@@ -12831,7 +12836,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15498
+      "UsersEstimate": 15499
     },
     {
       "ID": "achievement_0009",
@@ -12847,7 +12852,7 @@
       "Name": "Network Success",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "achievement_0011",
@@ -12887,7 +12892,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "achievement_0016",
@@ -12935,7 +12940,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12697
+      "UsersEstimate": 12698
     },
     {
       "ID": "achievement_0022",
@@ -12951,7 +12956,7 @@
       "Name": "Sharing the Love",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "achievement_0024",
@@ -12991,7 +12996,7 @@
       "Name": "Spinning Around",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "achievement_0029",
@@ -13031,7 +13036,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "achievement_0034",
@@ -13039,7 +13044,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "achievement_0035",
@@ -13111,7 +13116,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7843
     },
     {
       "ID": "achievement_0044",
@@ -13135,7 +13140,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3734
+      "UsersEstimate": 3735
     },
     {
       "ID": "achievement_0047",
@@ -13166,7 +13171,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18672,
+      "Progressed": 18673,
       "Completed": 0
     }
   ],
@@ -13174,8 +13179,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-23T23:00:35.5670353+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:05:35.8896534+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:07:02.526377+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:57:18.5909831+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:05:35.8897796+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:57:30.4267415+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:07:02.5265092+00:00"
 }

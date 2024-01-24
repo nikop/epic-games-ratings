@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 30.00% | ~133 |
+| Brace for impact! | 30.00% | ~134 |
 | A Forest Walk | 29.00% | ~129 |
-| Baby's First Car | 28.00% | ~124 |
+| Baby's First Car | 28.00% | ~125 |
 | Amateur Mechanic | 27.00% | ~120 |
 | Pushover | 27.00% | ~120 |
-| C-C-C-Combo! | 25.00% | ~111 |
 | Multiply that! | 25.00% | ~111 |
+| C-C-C-Combo! | 24.00% | ~107 |
 | Fore! | 22.00% | ~98 |
 | The Collector | 22.00% | ~98 |
 | Insurance fraud | 22.00% | ~98 |
@@ -24,12 +24,12 @@
 | To and Fro | 20.00% | ~89 |
 | Goodbye cruel world | 20.00% | ~89 |
 | Beach Party! | 20.00% | ~89 |
-| First Come, First Serve | 19.00% | ~84 |
-| Anger Issues | 19.00% | ~84 |
-| Take that Frosty! | 19.00% | ~84 |
+| First Come, First Serve | 19.00% | ~85 |
+| Anger Issues | 19.00% | ~85 |
+| Take that Frosty! | 19.00% | ~85 |
 | Disoriented | 18.00% | ~80 |
 | Your Highness | 18.00% | ~80 |
-| Event Amateur | 17.00% | ~75 |
+| Event Amateur | 17.00% | ~76 |
 | Feeling Hot Hot Hot! | 16.00% | ~71 |
 | Feeling Dizzy? | 16.00% | ~71 |
 | Ferry Good! | 16.00% | ~71 |
@@ -58,9 +58,9 @@
 | M2H was Here! | 2.00% | ~9 |
 | Ultimate Car Collector | 0.90% | ~4 |
 | Master Mechanic | 0.90% | ~4 |
-| Crashed and Driven | 0.50% | ~2 |
+| Crashed and Driven | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 369)  
+Progressed: 445 (Ranked 369)  
 Completed: 2 (0.45%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 2 (0.45%) (Ranked 238)
 | 2024-01-18 | 442 | 2 |
 | 2024-01-19 | 443 | 2 |
 | 2024-01-20 | 444 | 2 |
+| 2024-01-24 | 445 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

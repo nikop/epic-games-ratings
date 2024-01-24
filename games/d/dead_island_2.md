@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,972 |
-| Hotel California | 10.00% | ~80,883 |
-| Break A Leg | 9.00% | ~72,795 |
+| Welcome To Hell-A | 11.00% | ~88,973 |
+| Hotel California | 10.00% | ~80,884 |
+| Break A Leg | 9.00% | ~72,796 |
 | Coup de Grâce | 8.00% | ~64,707 |
 | Hazardous Materials | 8.00% | ~64,707 |
-| Git Gutte! | 7.00% | ~56,618 |
-| Apex Predator | 7.00% | ~56,618 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,618 |
-| Dr. Reed, I Presume? | 6.00% | ~48,530 |
-| Bookworm | 6.00% | ~48,530 |
-| Friends Like These | 6.00% | ~48,530 |
-| Stacking the Deck | 6.00% | ~48,530 |
-| This is My Weapon | 6.00% | ~48,530 |
+| Git Gutte! | 7.00% | ~56,619 |
+| Apex Predator | 7.00% | ~56,619 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,619 |
+| Dr. Reed, I Presume? | 6.00% | ~48,531 |
+| Bookworm | 6.00% | ~48,531 |
+| Friends Like These | 6.00% | ~48,531 |
+| Stacking the Deck | 6.00% | ~48,531 |
+| This is My Weapon | 6.00% | ~48,531 |
 | Anger Management | 5.00% | ~40,442 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,442 |
 | But Doctor, I am Butcho | 5.00% | ~40,442 |
 | Can't Handle the Truth | 5.00% | ~40,442 |
 | Like Riding a Bike | 5.00% | ~40,442 |
-| Making Your Mark | 4.00% | ~32,353 |
-| Perks of the Job | 4.00% | ~32,353 |
-| Slayer Squad | 4.00% | ~32,353 |
-| Zombologist | 4.00% | ~32,353 |
-| Ooh, Shiny! | 4.00% | ~32,353 |
-| A Patton Emerges | 4.00% | ~32,353 |
-| I Am the Resurrection | 4.00% | ~32,353 |
-| Our True Nature | 4.00% | ~32,353 |
+| Making Your Mark | 4.00% | ~32,354 |
+| Perks of the Job | 4.00% | ~32,354 |
+| Slayer Squad | 4.00% | ~32,354 |
+| Zombologist | 4.00% | ~32,354 |
+| Ooh, Shiny! | 4.00% | ~32,354 |
+| A Patton Emerges | 4.00% | ~32,354 |
+| I Am the Resurrection | 4.00% | ~32,354 |
+| Our True Nature | 4.00% | ~32,354 |
 | Whatever It Takes | 4.00% | ~5,375 |
 | Pork Chopped | 4.00% | ~5,375 |
 | Jumbo Keyring | 3.00% | ~24,265 |
@@ -39,7 +39,7 @@ Rating: 4.54 (Ranked 550)
 | Max Headroom | 3.00% | ~24,265 |
 | Go, Bobcats! | 3.00% | ~24,265 |
 | Rising Star | 3.00% | ~24,265 |
-| One of Us | 3.00% | ~4,031 |
+| One of Us | 3.00% | ~4,032 |
 | Make it So | 2.00% | ~16,177 |
 | Smorgasbord | 2.00% | ~16,177 |
 | Not Even My Final Form | 2.00% | ~16,177 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,833 (Ranked 23)  
+Progressed: 808,842 (Ranked 23)  
 Completed: 2,629 (0.33%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 2,629 (0.33%) (Ranked 260)
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
-| 2024-01-24 | 808,833 | 2,629 |
+| 2024-01-24 | 808,842 | 2,629 |
 ## Awards
 Max (Great Boss Battles): 10,850  (Ranked 40)  
 Sum: 16,707 (Ranked 68)  

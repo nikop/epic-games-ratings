@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~41,675 |
-| Safety in the Storm | 23.00% | ~10,090 |
-| A Better Idea | 23.00% | ~10,090 |
-| Begin the Ceremony | 19.00% | ~8,335 |
-| Mission Accomplished | 18.00% | ~7,896 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,580 |
-| A Starfighter of Your Own | 13.00% | ~5,703 |
-| Asset Secured | 12.00% | ~5,264 |
+| Fracture at Fostar Haven | 95.00% | ~41,683 |
+| Safety in the Storm | 23.00% | ~10,092 |
+| A Better Idea | 23.00% | ~10,092 |
+| Begin the Ceremony | 19.00% | ~8,337 |
+| Mission Accomplished | 18.00% | ~7,898 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,582 |
+| A Starfighter of Your Own | 13.00% | ~5,704 |
+| Asset Secured | 12.00% | ~5,265 |
 | Unkillable | 7.00% | ~3,071 |
 | Together, Vanguard | 7.00% | ~3,071 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,632 |
-| Sound Strategy | 5.00% | ~2,193 |
-| Stomped | 5.00% | ~2,193 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,633 |
+| Sound Strategy | 5.00% | ~2,194 |
+| Stomped | 5.00% | ~2,194 |
 | Fearless | 4.00% | ~1,755 |
 | Back From the Brink | 4.00% | ~1,755 |
 | Flames Over Mon Cala | 4.00% | ~1,755 |
@@ -26,16 +26,16 @@
 | Temporary Guardian | 3.00% | ~1,316 |
 | Baited | 3.00% | ~1,316 |
 | Punch It | 3.00% | ~1,316 |
-| Stun 'Em | 2.00% | ~877 |
-| Squadron Hunter | 2.00% | ~877 |
-| Combat Pilot | 2.00% | ~877 |
-| Dressed for the Job You Want | 2.00% | ~877 |
+| Stun 'Em | 2.00% | ~878 |
+| Squadron Hunter | 2.00% | ~878 |
+| Combat Pilot | 2.00% | ~878 |
+| Dressed for the Job You Want | 2.00% | ~878 |
 | I Have You Now | 1.00% | ~439 |
 | Against the Current | 0.80% | ~351 |
 | Denied | 0.70% | ~307 |
 | Found Your Place | 0.60% | ~263 |
 | Unstoppable Ace | 0.50% | ~219 |
-| Special Modifications | 0.40% | ~175 |
+| Special Modifications | 0.40% | ~176 |
 | Seasoned Star Pilot | 0.30% | ~132 |
 | Heavy Hitter | 0.30% | ~132 |
 | The Trap is Set | 0.30% | ~132 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~44 |
 | Ultimate Weapon | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,868 (Ranked 136)  
+Progressed: 43,877 (Ranked 136)  
 Completed: 3 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 3 (0.01%) (Ranked 383)
 | 2024-01-21 | 43,332 | 3 |
 | 2024-01-22 | 43,563 | 3 |
 | 2024-01-23 | 43,796 | 3 |
-| 2024-01-24 | 43,868 | 3 |
+| 2024-01-24 | 43,877 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

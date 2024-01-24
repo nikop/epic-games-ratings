@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -903,9 +903,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3931,
+  "EOS_Progressed": 3932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6193,6 +6193,11 @@
       "Time": "2024-01-22T21:06:11.0678252+00:00",
       "NumProgressed": 3931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T11:07:47.5475028+00:00",
+      "NumProgressed": 3932,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6436,7 +6441,7 @@
       "Name": "Purging Spree",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Kills_Vakir",
@@ -6540,7 +6545,7 @@
       "Name": "Bloodless",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -6747,21 +6752,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3931,
+      "Progressed": 3932,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3931,
+      "Progressed": 3932,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-24T02:29:22.6319201+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:06:06.9066465+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:07:47.5475024+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:03:39.4521308+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:06:06.9067553+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:04:11.1180624+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:07:47.5475977+00:00"
 }

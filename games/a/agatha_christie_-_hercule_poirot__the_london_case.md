@@ -42,17 +42,17 @@
 | Johan Kristiansen | 24.00% | ~29 |
 | Mortimer Ailsworth | 24.00% | ~29 |
 | Well-travelled | 23.00% | ~27 |
-| Florence Farquhar | 21.00% | ~25 |
-| The Investigation Starts Anew | 21.00% | ~25 |
-| The Penitent Magdalene | 18.00% | ~21 |
-| A true performance | 18.00% | ~21 |
-| A treasured heirloom | 17.00% | ~20 |
+| Florence Farquhar | 22.00% | ~26 |
+| The Investigation Starts Anew | 22.00% | ~26 |
+| The Penitent Magdalene | 19.00% | ~23 |
+| A true performance | 19.00% | ~23 |
+| A treasured heirloom | 18.00% | ~21 |
+| The Denouement | 16.00% | ~19 |
 | A perilous journey | 16.00% | ~19 |
-| The Denouement | 15.00% | ~18 |
 | Perkins | 10.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 490)  
-Completed: 5 (4.20%) (Ranked 90)  
+Completed: 6 (5.04%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,3 +124,4 @@ Completed: 5 (4.20%) (Ranked 90)
 | 2024-01-17 | 118 | 4 |
 | 2024-01-18 | 118 | 5 |
 | 2024-01-22 | 119 | 5 |
+| 2024-01-24 | 119 | 6 |

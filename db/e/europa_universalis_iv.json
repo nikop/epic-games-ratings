@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14787,9 +14787,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 504624,
+  "EOS_Progressed": 504645,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4231,
+  "EOS_NewPlayers": 4239,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47017,6 +47017,11 @@
       "Time": "2024-01-24T10:10:45.7803567+00:00",
       "NumProgressed": 504624,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T11:11:47.0447039+00:00",
+      "NumProgressed": 504645,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47468,7 +47473,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -49692,7 +49697,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -49931,21 +49936,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 504624,
+      "Progressed": 504645,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 504624,
+      "Progressed": 504645,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-24T06:57:40.3317836+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:10:45.7803562+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:11:47.0447034+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:57:39.4526997+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:10:45.7814364+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:58:02.5908665+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:11:47.0459181+00:00"
 }

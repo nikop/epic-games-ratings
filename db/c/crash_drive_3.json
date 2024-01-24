@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2024-01-20T20:09:23.0654964+00:00",
       "NumProgressed": 444,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T11:10:34.4990097+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -790,13 +795,13 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
       "SetID": "20koof9",
       "Name": "Crashed and Driven",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -830,7 +835,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -902,7 +907,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -956,9 +961,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -966,7 +971,7 @@
       "Name": "Anger Issues",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -990,7 +995,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -1166,7 +1171,7 @@
       "Name": "Event Amateur",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -1229,7 +1234,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 2
     }
   ],
@@ -1237,8 +1242,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:09:54.0921017+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:10:34.4990092+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:56.9911425+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:58:33.5390133+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:09:54.0921565+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:59:24.5433335+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:10:34.4990449+00:00"
 }

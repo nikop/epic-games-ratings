@@ -5,36 +5,36 @@ Rating: 4.51 (Ranked 600)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~182,812 |
-| FIRST BLOOD | 40.00% | ~162,499 |
-| KEVIN! | 30.00% | ~121,874 |
-| JACK OF ALL TRADES | 23.00% | ~93,437 |
-| CRIMINAL | 20.00% | ~81,250 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,750 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,625 |
-| HONORS STUDENT | 8.00% | ~32,500 |
+| MASTER CHEF | 45.00% | ~182,816 |
+| FIRST BLOOD | 40.00% | ~162,503 |
+| KEVIN! | 30.00% | ~121,877 |
+| JACK OF ALL TRADES | 23.00% | ~93,439 |
+| CRIMINAL | 20.00% | ~81,252 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,751 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,626 |
+| HONORS STUDENT | 8.00% | ~32,501 |
 | BUTCHER | 6.00% | ~24,375 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,312 |
-| RAMBO | 5.00% | ~20,312 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,313 |
+| RAMBO | 5.00% | ~20,313 |
 | HELL'S KITCHEN | 4.00% | ~16,250 |
-| CELEBRITY | 3.00% | ~12,187 |
-| MARTYR | 3.00% | ~12,187 |
+| CELEBRITY | 3.00% | ~12,188 |
+| MARTYR | 3.00% | ~12,188 |
 | GRATITUDE | 2.00% | ~8,125 |
 | PATTY-KILLER | 2.00% | ~8,125 |
-| EXPERIMENTALIST | 1.00% | ~4,062 |
-| GOURMET | 1.00% | ~4,062 |
-| LAW-ABIDING CITIZEN | 1.00% | ~4,062 |
-| PRUDENT | 1.00% | ~4,062 |
+| EXPERIMENTALIST | 1.00% | ~4,063 |
+| GOURMET | 1.00% | ~4,063 |
+| LAW-ABIDING CITIZEN | 1.00% | ~4,063 |
+| PRUDENT | 1.00% | ~4,063 |
 | SCATTERBRAIN | 0.80% | ~3,250 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,844 |
-| TASTE UNTASTY | 0.60% | ~2,437 |
-| DEBTOR | 0.20% | ~812 |
-| I'VE SEEN SOME… | 0.20% | ~812 |
+| TASTE UNTASTY | 0.60% | ~2,438 |
+| DEBTOR | 0.20% | ~813 |
+| I'VE SEEN SOME… | 0.20% | ~813 |
 | CORRUPTIONIST | 0.10% | ~406 |
 | MISTER ALL THUMBS | 0.10% | ~406 |
 | TRAVELER | 0.10% | ~406 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,248 (Ranked 52)  
+Progressed: 406,258 (Ranked 52)  
 Completed: 63 (0.02%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 63 (0.02%) (Ranked 373)
 | 2024-01-21 | 405,413 | 62 |
 | 2024-01-22 | 405,767 | 62 |
 | 2024-01-23 | 406,123 | 63 |
-| 2024-01-24 | 406,248 | 63 |
+| 2024-01-24 | 406,258 | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

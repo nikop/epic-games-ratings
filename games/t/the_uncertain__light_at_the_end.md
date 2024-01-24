@@ -35,7 +35,7 @@ Rating: 3.86 (Ranked 1,088)
 | Urban Scrawl | 1.00% | ~7 |
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685 (Ranked 337)  
+Progressed: 685 (Ranked 338)  
 Completed: 6 (0.88%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |

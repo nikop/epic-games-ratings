@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -479,9 +479,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 12149,
+  "EOS_Progressed": 12150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6019,6 +6019,11 @@
       "Time": "2024-01-24T09:10:40.1509161+00:00",
       "NumProgressed": 12149,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T11:11:35.787367+00:00",
+      "NumProgressed": 12150,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6039,7 +6044,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6055,7 +6060,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6159,7 +6164,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6207,7 +6212,7 @@
       "Name": "Highrise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "25_DynastyProspers",
@@ -6279,7 +6284,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6343,7 +6348,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6375,7 +6380,7 @@
       "Name": "Polyglot",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "46_ASpark",
@@ -6383,7 +6388,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "47_AFlame",
@@ -6391,7 +6396,7 @@
       "Name": "A Flame",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -6550,7 +6555,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12149,
+      "Progressed": 12150,
       "Completed": 1
     }
   ],
@@ -6558,8 +6563,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:10:37.8155926+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:11:35.7873665+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:58:39.569376+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:10:37.8156929+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:59:33.7323791+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:11:35.7874276+00:00"
 }

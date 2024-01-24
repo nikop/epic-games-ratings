@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -774,9 +774,9 @@
       "ID": "creepytale3_ach_7",
       "SetID": "7idcjbn",
       "Name": "Burn, little bird!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "creepytale3_ach_8",
@@ -805,8 +805,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:06:28.5177141+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:08:18.8927142+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:23.2113439+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:59:54.8914881+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:06:28.5177436+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:01:24.6362408+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:08:18.8927477+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~527 |
+| Green with Envy | 77.00% | ~528 |
 | First of many… | 69.00% | ~473 |
-| Helping Hand | 65.00% | ~445 |
+| Helping Hand | 65.00% | ~446 |
 | Increased Vigor | 62.00% | ~425 |
-| Fight Fire with Fire | 59.00% | ~404 |
-| Increased Capacity | 57.00% | ~390 |
-| Just the start | 51.00% | ~349 |
+| Fight Fire with Fire | 59.00% | ~405 |
+| Increased Capacity | 57.00% | ~391 |
+| Just the start | 50.00% | ~343 |
 | Perfect Storm | 47.00% | ~322 |
 | All That Glitters | 47.00% | ~322 |
 | Enhance! | 43.00% | ~295 |
@@ -22,14 +22,14 @@ Number of Ratings: 116  (23.09.2022)
 | Five's a Crowd | 41.00% | ~281 |
 | Salvation | 40.00% | ~274 |
 | 25 to Life | 40.00% | ~274 |
-| Unshakable Fortitude | 37.00% | ~253 |
-| Soul Harvester | 37.00% | ~253 |
+| Unshakable Fortitude | 37.00% | ~254 |
+| Soul Harvester | 37.00% | ~254 |
 | Delusions of Grandeur | 36.00% | ~247 |
 | I Wanna Rock | 35.00% | ~240 |
 | Love Tap | 35.00% | ~240 |
 | Maximum Vigor | 33.00% | ~226 |
-| Freeze Frame | 31.00% | ~212 |
-| Eat Your Heart Out | 31.00% | ~212 |
+| Freeze Frame | 31.00% | ~213 |
+| Eat Your Heart Out | 31.00% | ~213 |
 | For Whom the Bell Tolls | 30.00% | ~206 |
 | Unyielding Strength | 28.00% | ~192 |
 | Can you restore the Balance? | 27.00% | ~185 |
@@ -37,8 +37,8 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 27.00% | ~185 |
 | Cleanup Crew | 26.00% | ~178 |
 | Seeing Red | 26.00% | ~178 |
-| Egomaniac | 25.00% | ~171 |
-| Demon Meddler | 24.00% | ~164 |
+| Demon Meddler | 24.00% | ~165 |
+| Egomaniac | 24.00% | ~165 |
 | Maximum Capacity | 23.00% | ~158 |
 | Protector of Humanity | 23.00% | ~158 |
 | Everybody Wants to Rule the World | 23.00% | ~158 |
@@ -60,18 +60,18 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Vale | 4.00% | ~27 |
 | Keeper of the Sky | 4.00% | ~27 |
 | Keep it 100! | 4.00% | ~27 |
-| BFA | 4.00% | ~27 |
 | "Incredible!" | 3.00% | ~21 |
 | Proceed on your way to Armageddon | 3.00% | ~21 |
 | Keeper of Colossal Automata | 3.00% | ~21 |
 | Keeper of the Tempo | 3.00% | ~21 |
+| BFA | 3.00% | ~21 |
 | "Apocalyptic!" | 2.00% | ~14 |
 | "Amazing!" | 2.00% | ~14 |
 | Death Incarnate | 2.00% | ~14 |
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685 (Ranked 337)  
+Progressed: 686 (Ranked 337)  
 Completed: 2 (0.29%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.29%) (Ranked 267)
 | 2024-01-21 | 667 | 2 |
 | 2024-01-22 | 677 | 2 |
 | 2024-01-23 | 683 | 2 |
-| 2024-01-24 | 685 | 2 |
+| 2024-01-24 | 686 | 2 |
 ## Awards
 Max (Great Boss Battles): 100  (Ranked 384)  
 Sum: 100 (Ranked 475)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2054,6 +2054,11 @@
       "Time": "2024-01-21T11:10:39.0220861+00:00",
       "NumProgressed": 712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T11:11:31.8953058+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2145,7 +2150,7 @@
       "Name": "Goblin Tales",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Hardboiled",
@@ -2185,7 +2190,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Librarian",
@@ -2249,7 +2254,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Pyromancer",
@@ -2257,7 +2262,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Reincarnation",
@@ -2321,7 +2326,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "TheFallen",
@@ -2329,7 +2334,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TheTrio",
@@ -2384,7 +2389,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 1
     }
   ],
@@ -2392,8 +2397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:10:34.8157534+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:11:31.8953054+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.4166375+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:02:53.4951187+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:10:34.8157941+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:02:20.7862736+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:11:31.8953399+00:00"
 }

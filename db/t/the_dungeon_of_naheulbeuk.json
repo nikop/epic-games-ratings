@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1815,9 +1815,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 249355,
+  "EOS_Progressed": 249358,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 887,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27365,6 +27365,11 @@
       "Time": "2024-01-24T10:10:42.3080143+00:00",
       "NumProgressed": 249355,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-24T11:11:42.1332277+00:00",
+      "NumProgressed": 249358,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27392,7 +27397,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "BarbarianEpic",
@@ -27424,7 +27429,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19948
+      "UsersEstimate": 19949
     },
     {
       "ID": "Chapter2",
@@ -27824,7 +27829,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92261
+      "UsersEstimate": 92262
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27944,7 +27949,7 @@
       "Name": "Law and Order",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "Poster",
@@ -28079,21 +28084,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249355,
+      "Progressed": 249358,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249355,
+      "Progressed": 249358,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-24T00:00:23.7023702+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:10:42.3080137+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:11:42.1332273+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:00:09.5576572+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:10:42.3082565+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:01:47.4564163+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:11:42.1334411+00:00"
 }

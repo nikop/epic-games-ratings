@@ -6135,9 +6135,9 @@
       "Count": 563
     }
   ],
-  "EOS_Progressed": 14310,
+  "EOS_Progressed": 14311,
   "EOS_Completed": 356,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -26110,6 +26110,11 @@
       "Time": "2024-01-24T03:09:19.3082258+00:00",
       "NumProgressed": 14310,
       "NumCompleted": 356
+    },
+    {
+      "Time": "2024-01-24T11:10:23.5914146+00:00",
+      "NumProgressed": 14311,
+      "NumCompleted": 356
     }
   ],
   "TotalAchievements": 15,
@@ -26137,7 +26142,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6296
+      "UsersEstimate": 6297
     },
     {
       "ID": "Chef_Cook",
@@ -26161,7 +26166,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7155
+      "UsersEstimate": 7156
     },
     {
       "ID": "Duty_Bound",
@@ -26217,7 +26222,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 7155
+      "UsersEstimate": 7156
     },
     {
       "ID": "Thorn_Cleaner",
@@ -26240,7 +26245,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14310,
+      "Progressed": 14311,
       "Completed": 356
     }
   ],
@@ -26248,8 +26253,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-23T19:59:24.1969564+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:09:46.0625451+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:10:23.5914142+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:59:56.8262276+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:09:46.0626943+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:01:27.4716095+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:10:23.5915158+00:00"
 }

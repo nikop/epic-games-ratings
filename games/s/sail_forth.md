@@ -1,39 +1,39 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.41 (Ranked 762)  
+Rating: 4.41 (Ranked 761)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~224,247 |
-| Wind Master | 53.00% | ~180,077 |
-| Davy Jones | 18.00% | ~61,158 |
-| Hook, Line and Stinker | 15.00% | ~50,965 |
-| Gateway Slug | 6.00% | ~20,386 |
-| Race In Yo Face | 5.00% | ~16,988 |
-| Nice Shootin' Duds | 5.00% | ~16,988 |
-| Boarding Party | 5.00% | ~16,988 |
-| Great Balls Of Fire | 4.00% | ~13,591 |
-| Baby's First Thingamabob | 4.00% | ~13,591 |
-| By The Power Of Underskull | 3.00% | ~10,193 |
-| Light Up the Night | 3.00% | ~10,193 |
-| I Don't Like The Slugs | 3.00% | ~10,193 |
-| This Is Fine | 2.00% | ~6,795 |
-| But The Slugs Like Me | 2.00% | ~6,795 |
-| Pengy Fun | 2.00% | ~6,795 |
-| Polar Pontification | 1.00% | ~3,398 |
-| Aggro Kreb | 1.00% | ~3,398 |
-| No More Splosions | 1.00% | ~3,398 |
-| Snapping Turtle | 1.00% | ~3,398 |
-| Fish Kabob | 1.00% | ~3,398 |
-| Enter The Croakers | 1.00% | ~3,398 |
-| Crovert Ops | 0.90% | ~3,058 |
-| Tekk Savvy | 0.70% | ~2,378 |
-| Blowfish Me Down | 0.40% | ~1,359 |
-| Getting Hooked | 0.40% | ~1,359 |
-| Fish And Tips | 0.40% | ~1,359 |
-| This Magik Moment | 0.40% | ~1,359 |
-| Sweeter Than Honey | 0.30% | ~1,019 |
+| Tootorial | 66.00% | ~224,325 |
+| Wind Master | 53.00% | ~180,140 |
+| Davy Jones | 18.00% | ~61,180 |
+| Hook, Line and Stinker | 15.00% | ~50,983 |
+| Gateway Slug | 6.00% | ~20,393 |
+| Race In Yo Face | 5.00% | ~16,994 |
+| Nice Shootin' Duds | 5.00% | ~16,994 |
+| Boarding Party | 5.00% | ~16,994 |
+| Great Balls Of Fire | 4.00% | ~13,595 |
+| Baby's First Thingamabob | 4.00% | ~13,595 |
+| By The Power Of Underskull | 3.00% | ~10,197 |
+| Light Up the Night | 3.00% | ~10,197 |
+| I Don't Like The Slugs | 3.00% | ~10,197 |
+| This Is Fine | 2.00% | ~6,798 |
+| But The Slugs Like Me | 2.00% | ~6,798 |
+| Pengy Fun | 2.00% | ~6,798 |
+| Polar Pontification | 1.00% | ~3,399 |
+| Aggro Kreb | 1.00% | ~3,399 |
+| No More Splosions | 1.00% | ~3,399 |
+| Snapping Turtle | 1.00% | ~3,399 |
+| Fish Kabob | 1.00% | ~3,399 |
+| Enter The Croakers | 1.00% | ~3,399 |
+| Crovert Ops | 0.90% | ~3,059 |
+| Tekk Savvy | 0.70% | ~2,379 |
+| Blowfish Me Down | 0.40% | ~1,360 |
+| Getting Hooked | 0.40% | ~1,360 |
+| Fish And Tips | 0.40% | ~1,360 |
+| This Magik Moment | 0.40% | ~1,360 |
+| Sweeter Than Honey | 0.30% | ~1,020 |
 | Total Eclipse of the Eel | 0.20% | ~680 |
 | Over The Moon | 0.20% | ~680 |
 | What's Krakalackin? | 0.10% | ~340 |
@@ -53,7 +53,7 @@ Rating: 4.41 (Ranked 762)
 | For Whom The Bells Toll | 0.10% | ~340 |
 | Don't I Know You? | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,768 (Ranked 63)  
+Progressed: 339,887 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 3 (0.00%) (Ranked 409)
 | 2024-01-21 | 331,634 | 2 |
 | 2024-01-22 | 335,398 | 2 |
 | 2024-01-23 | 338,664 | 3 |
-| 2024-01-24 | 339,768 | 3 |
+| 2024-01-24 | 339,887 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

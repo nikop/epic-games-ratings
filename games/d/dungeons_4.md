@@ -17,8 +17,8 @@ Rating: 4.73 (Ranked 186)
 | Heroes’ Gorge | 66.00% | ~521 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~497 |
 | Master of Magic | 62.00% | ~489 |
-| The Ascent | 60.00% | ~473 |
-| It's Warm and Cozy at Home | 60.00% | ~473 |
+| The Ascent | 61.00% | ~481 |
+| It's Warm and Cozy at Home | 61.00% | ~481 |
 | Magic Accidents | 58.00% | ~458 |
 | Trap Master | 56.00% | ~442 |
 | Hard Work | 56.00% | ~442 |
@@ -68,7 +68,7 @@ Rating: 4.73 (Ranked 186)
 | I Don't Need Any Help | 11.00% | ~87 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 789 (Ranked 321)  
-Completed: 37 (4.69%) (Ranked 83)  
+Completed: 37 (4.69%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -29,7 +29,7 @@
 | Kirlian's best disciple | 17.00% | ~16 |
 | Blessed antennas | 16.00% | ~15 |
 | The bully | 16.00% | ~15 |
-| Pulp! The Beyond | 14.00% | ~13 |
+| Pulp! The Beyond | 15.00% | ~14 |
 | Bread and bocaua | 13.00% | ~12 |
 | Fanatacism is... poisonous | 13.00% | ~12 |
 | The beast in the Oval Office | 12.00% | ~11 |

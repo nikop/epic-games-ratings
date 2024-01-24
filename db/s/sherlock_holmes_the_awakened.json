@@ -201,7 +201,7 @@
   "Tags": [],
   "EOS_Progressed": 1630,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.13,
   "EosHistory": [
@@ -5777,9 +5777,9 @@
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 196
+      "UsersEstimate": 212
     },
     {
       "ID": "MQ02_3",
@@ -5897,9 +5897,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 489
     },
     {
       "ID": "MQ06_2",
@@ -5986,8 +5986,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-23T12:03:16.4968274+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:05:47.6885809+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:07:19.7627164+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:03:38.6108503+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:05:47.6886288+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:04:09.9434846+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:07:19.7627676+00:00"
 }

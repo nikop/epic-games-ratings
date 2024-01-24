@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84318,
+  "EOS_Progressed": 84319,
   "EOS_Completed": 950,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31307,6 +31307,11 @@
       "Time": "2024-01-24T10:08:34.2227433+00:00",
       "NumProgressed": 84318,
       "NumCompleted": 950
+    },
+    {
+      "Time": "2024-01-24T11:08:39.9272837+00:00",
+      "NumProgressed": 84319,
+      "NumCompleted": 950
     }
   ],
   "TotalAchievements": 25,
@@ -31334,7 +31339,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 16020
+      "UsersEstimate": 16021
     },
     {
       "ID": "Audiophile",
@@ -31438,7 +31443,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16020
+      "UsersEstimate": 16021
     },
     {
       "ID": "Nice Try",
@@ -31510,14 +31515,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6745
+      "UsersEstimate": 6746
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84318,
+      "Progressed": 84319,
       "Completed": 950
     }
   ],
@@ -31525,8 +31530,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-24T10:08:34.2227429+00:00",
+  "LastChanged_Achievements": "2024-01-24T11:08:39.9272833+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-24T09:58:54.2311871+00:00",
-  "LastUpdate_Achievements": "2024-01-24T10:08:34.222989+00:00"
+  "LastUpdate_Ratings": "2024-01-24T10:59:55.0027836+00:00",
+  "LastUpdate_Achievements": "2024-01-24T11:08:39.9274267+00:00"
 }
