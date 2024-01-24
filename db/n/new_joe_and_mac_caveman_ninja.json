@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -852,9 +852,9 @@
       "ID": "05",
       "SetID": "6glb5g1",
       "Name": "A turbulent river.",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "06",
@@ -949,8 +949,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:07:26.948269+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:05:32.7054014+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:25.3828236+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:57:06.021736+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:07:26.9482809+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:57:07.0464806+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:05:32.7054154+00:00"
 }

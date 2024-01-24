@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -649,6 +649,11 @@
       "Time": "2024-01-24T12:04:36.4174066+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T15:03:25.0206774+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -661,7 +666,7 @@
       "Name": "Girl Carrying A Doll",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "DatingAttraction",
@@ -669,7 +674,7 @@
       "Name": "Dating Attraction",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FirstTry",
@@ -677,7 +682,7 @@
       "Name": "Getting It on the First Try",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "HauntingSpecter",
@@ -693,7 +698,7 @@
       "Name": "Whose Heart was Never Hurt",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "HideAndSeek",
@@ -715,9 +720,9 @@
       "ID": "JustCautious",
       "SetID": "7m88n8p",
       "Name": "Just Being Cautious",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "KarmaEyes",
@@ -733,15 +738,15 @@
       "Name": "Conveying Love through Letters",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "MoneyCamouflage",
@@ -749,7 +754,7 @@
       "Name": "Money Camouflage",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MortuaryMarkup",
@@ -781,7 +786,7 @@
       "Name": "Protected by Divine Power",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "RoadToSalvation",
@@ -797,15 +802,15 @@
       "Name": "See No Evil",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 65,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "TimeManagement",
@@ -827,23 +832,23 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:04:26.8518134+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:03:25.020677+00:00",
   "LastUpdate_AppInfo": "2024-01-22T16:57:22.7565466+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:59:20.2920828+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:04:26.8518264+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:58:39.531174+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:03:25.0206898+00:00"
 }

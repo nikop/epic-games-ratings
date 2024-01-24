@@ -5,10 +5,10 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -378,6 +378,11 @@
       "Time": "2024-01-24T14:04:58.1585136+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T15:03:47.6106494+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -404,9 +409,9 @@
       "ID": "all_the_kings_men",
       "SetID": "41moj9p",
       "Name": "All the King\u0027s Men",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ashes_to_ashes",
@@ -428,9 +433,9 @@
       "ID": "big_apple",
       "SetID": "41moj9p",
       "Name": "Big Apple",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "black_sheep_wall",
@@ -452,15 +457,15 @@
       "ID": "blinded_by_science",
       "SetID": "41moj9p",
       "Name": "Blinded by Science",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "blitz_krieg",
       "SetID": "41moj9p",
       "Name": "Zerg Rush",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -500,9 +505,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "columbus",
@@ -524,7 +529,7 @@
       "ID": "crusade_invoker",
       "SetID": "41moj9p",
       "Name": "Crusade Invoker, no Regret",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -564,9 +569,9 @@
       "ID": "dinner_time",
       "SetID": "41moj9p",
       "Name": "Dinner Time",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "do_you_read",
@@ -596,7 +601,7 @@
       "ID": "fighting_with_power_and_steel",
       "SetID": "41moj9p",
       "Name": "Fighting with Power and Steel",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -620,7 +625,7 @@
       "ID": "from_rags_to_riches",
       "SetID": "41moj9p",
       "Name": "From Rags to Riches",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -652,7 +657,7 @@
       "ID": "greed_is_good",
       "SetID": "41moj9p",
       "Name": "Greed is Good",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -670,7 +675,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "he_made_it_out",
@@ -692,9 +697,9 @@
       "ID": "his_all_holiness",
       "SetID": "41moj9p",
       "Name": "His All-Holiness",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "his_holiness",
@@ -828,7 +833,7 @@
       "ID": "let_us_trade",
       "SetID": "41moj9p",
       "Name": "Let us trade with these fine people",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -868,7 +873,7 @@
       "ID": "new_mineland",
       "SetID": "41moj9p",
       "Name": "New Mineland",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -900,9 +905,9 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "pillars_of_the_earth",
@@ -932,7 +937,7 @@
       "ID": "prince_ali",
       "SetID": "41moj9p",
       "Name": "Prince Ali! Fabulous he!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -988,7 +993,7 @@
       "ID": "spartacus",
       "SetID": "41moj9p",
       "Name": "Spartacus",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1044,9 +1049,9 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -1156,7 +1161,7 @@
       "ID": "you_are_not_the_boss",
       "SetID": "41moj9p",
       "Name": "You are not the boss of me now",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1172,7 +1177,7 @@
       "ID": "you_reap_what_you_sow",
       "SetID": "41moj9p",
       "Name": "You reap what you sow",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1189,7 +1194,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -1197,8 +1202,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:04:58.1585133+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:03:47.6106491+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:00:51.6048003+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:04:58.1585945+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:59:40.5442914+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:03:47.6107404+00:00"
 }

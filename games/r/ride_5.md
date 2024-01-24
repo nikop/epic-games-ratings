@@ -1,14 +1,14 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.61 (Ranked 402)  
+Rating: 4.62 (Ranked 386)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,848 |
-| First Love | 46.00% | ~1,700 |
-| Clean Race | 45.00% | ~1,663 |
-| Hear That Roar! | 43.00% | ~1,589 |
+| First Love | 46.00% | ~1,701 |
+| Clean Race | 45.00% | ~1,664 |
+| Hear That Roar! | 43.00% | ~1,590 |
 | Bitter Rivalry | 31.00% | ~1,146 |
 | Rivals to the End | 31.00% | ~1,146 |
 | Champagne Spray | 30.00% | ~1,109 |
@@ -18,8 +18,8 @@ Rating: 4.61 (Ranked 402)
 | I Want One Too! | 21.00% | ~776 |
 | Legendary!!! | 21.00% | ~776 |
 | Go-Faster Stripes | 18.00% | ~665 |
-| We've Just Begun | 16.00% | ~591 |
-| I'm Here Too! | 15.00% | ~554 |
+| We've Just Begun | 16.00% | ~592 |
+| I'm Here Too! | 15.00% | ~555 |
 | Is It the Right Size? | 10.00% | ~370 |
 | Stamina Star | 9.00% | ~333 |
 | Evangelist | 7.00% | ~259 |
@@ -55,7 +55,7 @@ Rating: 4.61 (Ranked 402)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,696 (Ranked 227)  
+Progressed: 3,697 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 3,669 | 0 |
 | 2024-01-22 | 3,676 | 0 |
 | 2024-01-23 | 3,691 | 0 |
-| 2024-01-24 | 3,696 | 0 |
+| 2024-01-24 | 3,697 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -213,3 +213,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-14 | 4.58 | 0 | 0 |
 | 2024-01-15 | 4.59 | 0 | 0 |
 | 2024-01-23 | 4.61 | 0 | 0 |
+| 2024-01-24 | 4.62 | 0 | 0 |

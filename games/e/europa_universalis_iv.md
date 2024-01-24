@@ -18,17 +18,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,514 |
 | It's all about the money | 0.30% | ~1,514 |
 | True Catholic | 0.30% | ~1,514 |
-| Aggressive Expander | 0.20% | ~1,009 |
-| Blockader | 0.20% | ~1,009 |
-| Combined Arms | 0.20% | ~1,009 |
-| Double the Love | 0.20% | ~1,009 |
-| It's all about luck | 0.20% | ~1,009 |
-| My armies are invincible! | 0.20% | ~1,009 |
-| Respected | 0.20% | ~1,009 |
-| Royal Authority | 0.20% | ~1,009 |
-| The Princess is in this Castle | 0.20% | ~1,009 |
-| Total Control | 0.20% | ~1,009 |
-| Truly Divine Ruler | 0.20% | ~1,009 |
+| Aggressive Expander | 0.20% | ~1,010 |
+| Blockader | 0.20% | ~1,010 |
+| Combined Arms | 0.20% | ~1,010 |
+| Double the Love | 0.20% | ~1,010 |
+| It's all about luck | 0.20% | ~1,010 |
+| My armies are invincible! | 0.20% | ~1,010 |
+| Respected | 0.20% | ~1,010 |
+| Royal Authority | 0.20% | ~1,010 |
+| The Princess is in this Castle | 0.20% | ~1,010 |
+| Total Control | 0.20% | ~1,010 |
+| Truly Divine Ruler | 0.20% | ~1,010 |
 | The 52 Garhs | 0.10% | ~505 |
 | I don't like sand | 0.10% | ~505 |
 | A Blessed Nation | 0.10% | ~505 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~505 |
 | The Zoro-Austrians | 0.10% | ~505 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504,719 (Ranked 42)  
+Progressed: 504,750 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-21 | 503,481 | 2 |
 | 2024-01-22 | 504,018 | 2 |
 | 2024-01-23 | 504,493 | 2 |
-| 2024-01-24 | 504,719 | 2 |
+| 2024-01-24 | 504,750 | 2 |
 ## Awards
 Max (Educational): 7,962  (Ranked 53)  
 Sum: 65,642 (Ranked 25)  

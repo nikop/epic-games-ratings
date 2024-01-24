@@ -4,8 +4,8 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-12-19T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -759,6 +759,11 @@
       "Time": "2024-01-24T09:05:43.5442678+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T15:04:53.846639+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -771,7 +776,7 @@
       "Name": "MISSION 01",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
@@ -779,7 +784,7 @@
       "Name": "MISSION 02",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
@@ -979,7 +984,7 @@
       "Name": "MY 2ND REWARD",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_MR_03",
@@ -1027,7 +1032,7 @@
       "Name": "RUNAWAY 01",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_RW_02",
@@ -1131,7 +1136,7 @@
       "Name": "SURVIVE MAP 01",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_SURV_02",
@@ -1170,14 +1175,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:06:31.5513077+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:04:53.8466386+00:00",
   "LastUpdate_AppInfo": "2024-01-23T10:56:58.5988815+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:02:40.9933166+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:06:31.5513391+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:00:24.9834296+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:04:53.8466766+00:00"
 }

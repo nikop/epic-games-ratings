@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84326,
+  "EOS_Progressed": 84330,
   "EOS_Completed": 950,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31327,6 +31327,11 @@
       "Time": "2024-01-24T14:08:29.7689423+00:00",
       "NumProgressed": 84326,
       "NumCompleted": 950
+    },
+    {
+      "Time": "2024-01-24T15:06:02.3645825+00:00",
+      "NumProgressed": 84330,
+      "NumCompleted": 950
     }
   ],
   "TotalAchievements": 25,
@@ -31354,7 +31359,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 16022
+      "UsersEstimate": 16023
     },
     {
       "ID": "Audiophile",
@@ -31370,7 +31375,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18552
+      "UsersEstimate": 18553
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -31410,7 +31415,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16865
+      "UsersEstimate": 16866
     },
     {
       "ID": "Hearty",
@@ -31426,7 +31431,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7589
+      "UsersEstimate": 7590
     },
     {
       "ID": "Magnetic Miracles",
@@ -31442,7 +31447,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17708
+      "UsersEstimate": 17709
     },
     {
       "ID": "Meaty",
@@ -31456,9 +31461,9 @@
       "ID": "Mechanic",
       "SetID": "1e8d2nk",
       "Name": "Mechanic",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16865
+      "UsersEstimate": 16023
     },
     {
       "ID": "Nice Try",
@@ -31466,7 +31471,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14335
+      "UsersEstimate": 14336
     },
     {
       "ID": "Nothing Left to Say",
@@ -31537,7 +31542,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84326,
+      "Progressed": 84330,
       "Completed": 950
     }
   ],
@@ -31545,8 +31550,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:08:29.768942+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:06:02.3645819+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:59:40.1593917+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:08:29.7691265+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:58:53.3440147+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:06:02.3647439+00:00"
 }

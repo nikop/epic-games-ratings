@@ -6,7 +6,7 @@
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
@@ -1951,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169507,
+  "EOS_Progressed": 169515,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24306,6 +24306,11 @@
       "Time": "2024-01-24T14:08:50.8847773+00:00",
       "NumProgressed": 169507,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2024-01-24T15:07:56.619504+00:00",
+      "NumProgressed": 169515,
+      "NumCompleted": 468
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24382,7 +24387,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -24534,7 +24539,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -24612,9 +24617,9 @@
       "ID": "QUEST_CHILD",
       "SetID": "72k7oh",
       "Name": "Dream",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 676
+      "UsersEstimate": 845
     },
     {
       "ID": "QUEST_CODA",
@@ -24685,21 +24690,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169090,
+      "Progressed": 169098,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169507,
+      "Progressed": 169515,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:08:50.8847769+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:07:56.6195037+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:00:44.346593+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:08:50.8848817+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:59:35.6333612+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:07:56.6196305+00:00"
 }

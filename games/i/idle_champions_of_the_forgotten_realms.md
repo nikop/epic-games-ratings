@@ -6,15 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,769 |
+| A Brief Tour of the Realms | 5.00% | ~12,770 |
 | Beast Intentions | 2.00% | ~5,108 |
 | The Cursed Farmer | 2.00% | ~5,108 |
 | The Mad Wizard | 2.00% | ~5,108 |
 | The Ring of Regeneration | 1.00% | ~2,554 |
 | Are Ya Chicken? | 1.00% | ~2,554 |
-| Were-verpowered | 0.90% | ~2,298 |
-| Seeking Allies | 0.90% | ~2,298 |
-| Friendly Imps | 0.90% | ~2,298 |
+| Were-verpowered | 0.90% | ~2,299 |
+| Seeking Allies | 0.90% | ~2,299 |
+| Friendly Imps | 0.90% | ~2,299 |
 | Mad Cow Disease | 0.80% | ~2,043 |
 | Pure Energy | 0.80% | ~2,043 |
 | Welcome to Sigil | 0.80% | ~1,773 |
@@ -102,6 +102,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.20% | ~511 |
 | House of Darkness | 0.20% | ~511 |
 | The Trepidatious Trio | 0.20% | ~511 |
+| Our Time To Shine | 0.20% | ~511 |
 | Treasure Hunters | 0.20% | ~511 |
 | The Guardian of Orolunga | 0.20% | ~511 |
 | The Lost Love | 0.20% | ~511 |
@@ -293,7 +294,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Corruption | 0.10% | ~255 |
 | The Strahd Squad | 0.10% | ~222 |
 | Home Not So Alone | 0.10% | ~222 |
-| Our Time To Shine | 0.10% | ~255 |
 | Review by the Blackstaff | 0.10% | ~222 |
 | Think Your Way Out Of It | 0.10% | ~255 |
 | Air's Getting Pretty Thin | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,381 (Ranked 71)  
+Progressed: 255,390 (Ranked 71)  
 Completed: 2,638 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,7 +832,7 @@ Completed: 2,638 (1.03%) (Ranked 180)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,381 | 2,638 |
+| 2024-01-24 | 255,390 | 2,638 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,620 (Ranked 42)  

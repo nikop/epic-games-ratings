@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34232,
+  "EOS_Progressed": 34233,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31547,6 +31547,11 @@
       "Time": "2024-01-24T13:17:14.7125687+00:00",
       "NumProgressed": 34232,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-24T15:09:31.8486427+00:00",
+      "NumProgressed": 34233,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31662,7 +31667,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5819
+      "UsersEstimate": 5820
     },
     {
       "ID": "1029",
@@ -31733,15 +31738,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34232,
+      "Progressed": 34233,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:11:05.4374438+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:31.8486424+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:57:57.9261966+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:11:05.4375786+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:57:41.1364023+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:31.8487743+00:00"
 }

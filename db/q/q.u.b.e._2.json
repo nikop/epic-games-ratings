@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48251,
+  "EOS_Progressed": 48252,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15301,6 +15301,11 @@
       "Time": "2024-01-24T14:10:33.8334006+00:00",
       "NumProgressed": 48251,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2024-01-24T15:09:09.5640503+00:00",
+      "NumProgressed": 48252,
+      "NumCompleted": 250
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15529,7 +15534,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36188
+      "UsersEstimate": 36189
     },
     {
       "ID": "ACH_STATUE",
@@ -15544,15 +15549,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48251,
+      "Progressed": 48252,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:10:33.8334002+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:09.56405+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:00:43.2084388+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:10:33.8334652+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:59:34.8918915+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:09.5641273+00:00"
 }

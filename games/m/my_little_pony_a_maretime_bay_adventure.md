@@ -8,10 +8,10 @@
 | Unicycling 101 | 82.00% | ~42 |
 | Mane Street Awaits! | 73.00% | ~37 |
 | Amateur Detective | 63.00% | ~32 |
-| Pipp Pipp Parade! | 59.00% | ~30 |
-| Glowing Up | 57.00% | ~29 |
+| Pipp Pipp Parade! | 61.00% | ~31 |
+| Glowing Up | 59.00% | ~30 |
 | Sheriff's Apprentice | 53.00% | ~27 |
-| Pro Herder | 51.00% | ~26 |
+| Pro Herder | 53.00% | ~27 |
 | The Neigh-gotiator | 51.00% | ~26 |
 | Where Did The Magic Go? | 45.00% | ~23 |
 | Friendship Is Still Magic | 45.00% | ~23 |

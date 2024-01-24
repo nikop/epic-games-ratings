@@ -2,10 +2,10 @@
   "ID": "7c6b6697df584024be9c60a1da59096b",
   "Name": "Dude, Where Is My Beer?",
   "ProductSlug": "dude-where-is-my-beer-2455aa",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
     "PcReleaseDate": "2020-11-04T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2024-01-24T06:08:19.3275516+00:00",
       "NumProgressed": 87,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T15:05:47.8166277+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T15:07:12.853291+00:00",
@@ -500,7 +505,7 @@
       "ID": "LOOKED_FOUNTAIN",
       "SetID": "6akbe6n",
       "Name": "Free Walking Tour",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -516,9 +521,9 @@
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "NO_HINTS_USED",
@@ -532,7 +537,7 @@
       "ID": "OPENED_LADY_DOOR_3_TIMES",
       "SetID": "6akbe6n",
       "Name": "Perv!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -581,14 +586,14 @@
     {
       "ID": "6akbe6n",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:07:48.6155385+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:05:47.8166273+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:15.1936755+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:00:00.455263+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:07:48.6155556+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:59:07.0109906+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:05:47.8166471+00:00"
 }

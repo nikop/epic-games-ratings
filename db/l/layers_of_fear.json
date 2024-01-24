@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1663,9 +1663,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 135
     },
     {
       "ID": "do_what_you_have_to",
@@ -1887,9 +1887,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "something_important",
@@ -1982,8 +1982,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:10:02.0745762+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:08:47.7973848+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:59:43.0652995+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:10:02.0746243+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:58:55.2434298+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:08:47.7974247+00:00"
 }

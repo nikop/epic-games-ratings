@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -4091,9 +4091,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 816
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4403,9 +4403,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 544
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4515,9 +4515,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 514
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4618,8 +4618,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:11:28.5839419+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:49.8596285+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:03:08.4989675+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:11:28.5840054+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:02:32.6295962+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:49.8596856+00:00"
 }

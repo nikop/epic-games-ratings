@@ -5,19 +5,19 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,335 |
-| No more cages! | 90.00% | ~3,160 |
-| Everfrost | 76.00% | ~2,668 |
-| Dark Forest | 76.00% | ~2,668 |
-| Pentakill | 75.00% | ~2,633 |
-| The use of petricite | 73.00% | ~2,563 |
+| For Demacia | 95.00% | ~3,336 |
+| No more cages! | 90.00% | ~3,161 |
+| Everfrost | 76.00% | ~2,669 |
+| Dark Forest | 76.00% | ~2,669 |
+| Pentakill | 75.00% | ~2,634 |
+| The use of petricite | 73.00% | ~2,564 |
 | You can pet the dog | 60.00% | ~2,107 |
 | Thornbarrow | 44.00% | ~1,545 |
 | Big Helmet Bro | 42.00% | ~1,475 |
 | Clarion Cove | 42.00% | ~1,475 |
-| Ternmoat Headquarters | 40.00% | ~1,404 |
-| Elemental master | 38.00% | ~1,334 |
-| Past trauma | 38.00% | ~1,334 |
+| Ternmoat Headquarters | 40.00% | ~1,405 |
+| Elemental master | 38.00% | ~1,335 |
+| Past trauma | 38.00% | ~1,335 |
 | Cypress Glen Headquarters | 35.00% | ~1,229 |
 | Old friend | 34.00% | ~1,194 |
 | Petricite Burst | 34.00% | ~1,194 |
@@ -50,16 +50,16 @@ Rating: 4.79 (Ranked 99)
 | Truth is a dark mirror | 15.00% | ~527 |
 | Call it 'redistribution of magic | 15.00% | ~527 |
 | Embrace the darkness | 14.00% | ~492 |
-| Do you trust me? | 13.00% | ~456 |
-| The great mage rebellion starts now | 13.00% | ~456 |
-| Back to sleep, then... | 13.00% | ~456 |
+| Do you trust me? | 13.00% | ~457 |
+| The great mage rebellion starts now | 13.00% | ~457 |
+| Back to sleep, then... | 13.00% | ~457 |
 | Chains master | 11.00% | ~386 |
 | You can pet the... horse | 11.00% | ~386 |
 | Spellcrafting | 11.00% | ~386 |
 | Silverwing nest | 3.00% | ~105 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,511 (Ranked 231)  
+Progressed: 3,512 (Ranked 231)  
 Completed: 37 (1.05%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 37 (1.05%) (Ranked 177)
 | 2024-01-21 | 3,499 | 36 |
 | 2024-01-22 | 3,503 | 37 |
 | 2024-01-23 | 3,507 | 37 |
-| 2024-01-24 | 3,511 | 37 |
+| 2024-01-24 | 3,512 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

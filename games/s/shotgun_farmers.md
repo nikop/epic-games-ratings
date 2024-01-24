@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 82.00% | ~319 |
-| First Blood | 65.00% | ~253 |
-| Triple Kill | 63.00% | ~245 |
-| Aspairagus | 60.00% | ~203 |
+| Seeds of War | 82.00% | ~320 |
+| First Blood | 65.00% | ~254 |
+| Triple Kill | 63.00% | ~246 |
 | No Asperascope | 59.00% | ~230 |
+| Aspairagus | 59.00% | ~201 |
 | Survivor | 56.00% | ~190 |
-| Cornivore | 53.00% | ~206 |
-| I Believe I Can Fly | 50.00% | ~194 |
-| No Diggity | 46.00% | ~156 |
-| Early Survivor | 39.00% | ~132 |
-| Bouncemato | 32.00% | ~108 |
+| Cornivore | 53.00% | ~207 |
+| I Believe I Can Fly | 50.00% | ~195 |
+| No Diggity | 45.00% | ~153 |
+| Early Survivor | 38.00% | ~129 |
+| Bouncemato | 32.00% | ~109 |
 | 10K | 28.00% | ~109 |
 | Amateur Survivor | 28.00% | ~95 |
 | 15K | 26.00% | ~101 |
@@ -22,14 +22,14 @@
 | Drinking Problem | 22.00% | ~86 |
 | Quick-Draw Pod | 22.00% | ~75 |
 | Pork Chop Express | 21.00% | ~82 |
-| Professional Survivor | 19.00% | ~64 |
+| Professional Survivor | 19.00% | ~65 |
 | Skin Of Your Teeth | 17.00% | ~66 |
 | Carrocketeer | 17.00% | ~66 |
 | Getting Started | 16.00% | ~62 |
 | This Is My Boomstick | 15.00% | ~51 |
-| Eggtraordinary | 14.00% | ~54 |
-| Oh My Gourd | 14.00% | ~47 |
-| Perfect | 14.00% | ~47 |
+| Eggtraordinary | 14.00% | ~55 |
+| Oh My Gourd | 14.00% | ~48 |
+| Perfect | 14.00% | ~48 |
 | Summers Here | 12.00% | ~41 |
 | Quit Horsin' Around | 11.00% | ~43 |
 | Quadsparagus | 11.00% | ~37 |
@@ -37,8 +37,8 @@
 | Bring Home The Bacon | 9.00% | ~35 |
 | Expert Survivor | 8.00% | ~27 |
 | Early Bird | 6.00% | ~23 |
-| Chick Magnet | 5.00% | ~19 |
-| I Have The High Ground | 5.00% | ~19 |
+| Chick Magnet | 5.00% | ~20 |
+| I Have The High Ground | 5.00% | ~20 |
 | Pyromaniac | 5.00% | ~17 |
 | Honk Honk | 3.00% | ~12 |
 | Master Survivor | 3.00% | ~10 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389 (Ranked 379)  
+Progressed: 390 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,6 +252,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 386 | 0 |
 | 2024-01-22 | 387 | 0 |
 | 2024-01-23 | 389 | 0 |
+| 2024-01-24 | 390 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 224,
   "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4258,6 +4258,6 @@
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
   "LastChanged": "2024-01-24T07:59:21.6624694+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:09.0550195+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:00:17.4257078+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:08:49.5268092+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:59:17.2483137+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:07:55.6605652+00:00"
 }

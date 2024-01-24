@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5621,7 +5621,7 @@
   ],
   "EOS_Progressed": 24185,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18068,9 +18068,9 @@
       "ID": "ach34",
       "SetID": "47in8n6",
       "Name": "Always Accessorize",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5804
+      "UsersEstimate": 6046
     },
     {
       "ID": "ach35",
@@ -18213,8 +18213,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-24T14:03:21.9182253+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:09:46.9951089+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:08:37.1843115+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:03:21.918226+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:09:46.9952025+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:02:40.4502551+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:08:37.1843803+00:00"
 }

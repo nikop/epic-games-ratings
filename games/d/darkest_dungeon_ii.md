@@ -23,14 +23,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,017 |
 | FNG | 6.00% | ~8,017 |
 | Bloody Graduation | 6.00% | ~509 |
-| It Rings a Bell | 5.00% | ~6,680 |
-| Not Today! | 5.00% | ~6,680 |
-| It Happens | 5.00% | ~6,680 |
-| Merry Time | 5.00% | ~6,680 |
-| Harvest Festival | 5.00% | ~6,680 |
-| Whale | 5.00% | ~6,680 |
-| A Place to Lay Your Head | 5.00% | ~6,680 |
-| Nope | 5.00% | ~6,680 |
+| It Rings a Bell | 5.00% | ~6,681 |
+| Not Today! | 5.00% | ~6,681 |
+| It Happens | 5.00% | ~6,681 |
+| Merry Time | 5.00% | ~6,681 |
+| Harvest Festival | 5.00% | ~6,681 |
+| Whale | 5.00% | ~6,681 |
+| A Place to Lay Your Head | 5.00% | ~6,681 |
+| Nope | 5.00% | ~6,681 |
 | Friends 'Til the End | 5.00% | ~424 |
 | Resurrection | 4.00% | ~5,344 |
 | Unleash Hell | 4.00% | ~5,344 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,610 (Ranked 92)  
+Progressed: 133,612 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,11 +355,11 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
-| 2024-01-24 | 133,610 | 5 |
+| 2024-01-24 | 133,612 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
-Sum: 21,843 (Ranked 59)  
-Diff (max vs sum): -7  
+Sum: 21,843 (Ranked 60)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,066 |

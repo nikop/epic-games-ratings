@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1129,9 +1129,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21953,
+  "EOS_Progressed": 21956,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 847,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18459,6 +18459,11 @@
       "Time": "2024-01-24T14:10:56.9964147+00:00",
       "NumProgressed": 21953,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-24T15:09:25.7509239+00:00",
+      "NumProgressed": 21956,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18471,7 +18476,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "a_10",
@@ -18519,7 +18524,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9659
+      "UsersEstimate": 9661
     },
     {
       "ID": "a_19",
@@ -18718,7 +18723,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21953,
+      "Progressed": 21956,
       "Completed": 13
     }
   ],
@@ -18726,8 +18731,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-23T23:00:01.9387495+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:10:56.9964145+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:25.7509232+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:01:28.9693022+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:10:56.9965128+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:00:04.91417+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:25.751016+00:00"
 }

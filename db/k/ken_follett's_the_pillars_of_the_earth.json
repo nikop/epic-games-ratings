@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18071,
+  "EOS_Progressed": 18072,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -19025,6 +19025,11 @@
       "Time": "2024-01-24T12:08:17.864095+00:00",
       "NumProgressed": 18071,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-24T15:05:44.5404838+00:00",
+      "NumProgressed": 18072,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19052,7 +19057,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "tpote_achievement_12",
@@ -19100,7 +19105,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "tpote_achievement_18",
@@ -19324,7 +19329,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "tpote_achievement_6",
@@ -19332,7 +19337,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "tpote_achievement_7",
@@ -19363,15 +19368,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18071,
+      "Progressed": 18072,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:07:43.9211809+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:05:44.5404835+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:03:26.6946995+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:07:43.9212735+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:02:43.6117869+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:05:44.5405907+00:00"
 }

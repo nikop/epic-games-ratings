@@ -4,8 +4,8 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -435,9 +435,9 @@
       "ID": "BFT_CH7",
       "SetID": "7o7kd30",
       "Name": "Chapter 7 Complete",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BFT_CH7HB",
@@ -523,9 +523,9 @@
       "ID": "BFT_MUSIC",
       "SetID": "7o7kd30",
       "Name": "Music Collector",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BFT_PLAT",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:11:12.3596248+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:37.2927912+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:22.0467912+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:59:53.7816417+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:11:12.3596425+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:59:02.1622399+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:37.2928108+00:00"
 }

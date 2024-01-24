@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,592 |
-| Space Colonization | 78.00% | ~1,293 |
-| Friendzone | 76.00% | ~1,260 |
-| Hello World | 71.00% | ~1,177 |
-| Space Engineer | 59.00% | ~978 |
-| Tinkerer | 59.00% | ~978 |
+| Don't Panic! | 96.00% | ~1,593 |
+| Space Colonization | 78.00% | ~1,294 |
+| Friendzone | 76.00% | ~1,261 |
+| Hello World | 71.00% | ~1,178 |
+| Space Engineer | 59.00% | ~979 |
+| Tinkerer | 59.00% | ~979 |
 | Dust to Dust | 55.00% | ~912 |
 | Across The Stars | 43.00% | ~713 |
 | Crafty | 41.00% | ~680 |
 | All Seats Taken | 33.00% | ~547 |
-| For Science! | 30.00% | ~497 |
-| Meet the Petersons | 30.00% | ~497 |
-| KIA | 25.00% | ~414 |
-| Stay Cool | 25.00% | ~414 |
+| For Science! | 30.00% | ~498 |
+| Meet the Petersons | 30.00% | ~498 |
+| KIA | 25.00% | ~415 |
+| Stay Cool | 25.00% | ~415 |
 | Mutiny in making | 22.00% | ~365 |
 | Et tu, Astrocitizen? | 17.00% | ~282 |
 | Eco-Shuttle | 16.00% | ~265 |
@@ -27,8 +27,8 @@
 | Non-Fiction | 9.00% | ~149 |
 | No Man Left Behind | 8.00% | ~133 |
 | Intergalactic Breakup | 7.00% | ~116 |
-| First of April | 6.00% | ~99 |
-| Second Life | 6.00% | ~99 |
+| First of April | 6.00% | ~100 |
+| Second Life | 6.00% | ~100 |
 | Axel jump in space! | 5.00% | ~83 |
 | Fix-It Felix | 5.00% | ~83 |
 | Flawless Maegangement | 5.00% | ~83 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,658 (Ranked 268)  
+Progressed: 1,659 (Ranked 268)  
 Completed: 1 (0.06%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 1 (0.06%) (Ranked 340)
 | 2024-01-21 | 1,495 | 1 |
 | 2024-01-22 | 1,590 | 1 |
 | 2024-01-23 | 1,644 | 1 |
-| 2024-01-24 | 1,658 | 1 |
+| 2024-01-24 | 1,659 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

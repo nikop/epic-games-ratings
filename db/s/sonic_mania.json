@@ -2,13 +2,13 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 543,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T18:52:05+00:00",
@@ -1936,10 +1936,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 1682,
       "NumberOfAwardsMax": 988
+    },
+    {
+      "Time": "2024-01-24T15:00:19.2923783+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1683,
+      "NumberOfAwardsMax": 988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1682,
+  "NumberOfAwards": 1683,
   "NumberOfAwardsMax": 988,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2019,7 +2025,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has a Creative Community",
@@ -2039,8 +2045,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2024-01-20T23:59:37.8650925+00:00",
+  "LastChanged": "2024-01-24T15:00:19.2923782+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:24.8467898+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:01:51.2491929+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:05:22.7068403+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:00:19.2923786+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:04:04.3153023+00:00"
 }

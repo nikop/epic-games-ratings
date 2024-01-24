@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1726,6 +1726,11 @@
       "Time": "2024-01-23T23:08:55.5373664+00:00",
       "NumProgressed": 389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T15:08:27.6537957+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1745,7 +1750,7 @@
       "Name": "Chick Magnet",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_crushed_by_supply_drop",
@@ -1785,7 +1790,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ach_first_harvest",
@@ -1793,7 +1798,7 @@
       "Name": "Seeds of War",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1801,7 +1806,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1865,7 +1870,7 @@
       "Name": "I Have The High Ground",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_kill_while_standing_on_cow",
@@ -2017,7 +2022,7 @@
       "Name": "Eggtraordinary",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_sniperKillNoScope",
@@ -2049,7 +2054,7 @@
       "Name": "Triple Kill",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -2081,7 +2086,7 @@
       "Name": "Cornivore",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ach_all_koth_points",
@@ -2113,7 +2118,7 @@
       "Name": "Bouncemato",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_kill_pistol_with_pistol",
@@ -2129,7 +2134,7 @@
       "Name": "Oh My Gourd",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_perfect",
@@ -2137,7 +2142,7 @@
       "Name": "Perfect",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_prestige_2",
@@ -2199,9 +2204,9 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_waves_20",
@@ -2217,7 +2222,7 @@
       "Name": "Professional Survivor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_waves_40",
@@ -2239,9 +2244,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -2255,9 +2260,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 153
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -2328,13 +2333,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 2
     }
   ],
@@ -2342,8 +2347,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:09:33.8182861+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:08:27.6537953+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:04.3355436+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:58:51.7170277+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:09:33.8183643+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:58:19.0913218+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:08:27.6538748+00:00"
 }

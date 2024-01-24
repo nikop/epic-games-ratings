@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13968,9 +13968,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63679,
+  "EOS_Progressed": 63682,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40703,6 +40703,11 @@
       "Time": "2024-01-24T14:09:11.1528632+00:00",
       "NumProgressed": 63679,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T15:08:11.2545218+00:00",
+      "NumProgressed": 63682,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -40794,7 +40799,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 37571
+      "UsersEstimate": 37572
     },
     {
       "ID": "CutTree",
@@ -40810,7 +40815,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35660
+      "UsersEstimate": 35662
     },
     {
       "ID": "DeliveryGrapes",
@@ -40850,7 +40855,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35660
+      "UsersEstimate": 35662
     },
     {
       "ID": "Harvested",
@@ -40866,7 +40871,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 45212
+      "UsersEstimate": 45214
     },
     {
       "ID": "HorseJumps",
@@ -40898,7 +40903,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 28656
+      "UsersEstimate": 28657
     },
     {
       "ID": "Mission",
@@ -40914,7 +40919,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22288
+      "UsersEstimate": 22289
     },
     {
       "ID": "Money",
@@ -40922,7 +40927,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 31203
+      "UsersEstimate": 31204
     },
     {
       "ID": "NumBeehives",
@@ -40938,7 +40943,7 @@
       "Name": "I like to switch it up",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 23561
+      "UsersEstimate": 23562
     },
     {
       "ID": "NumPlaceables",
@@ -40946,7 +40951,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 26108
+      "UsersEstimate": 26110
     },
     {
       "ID": "NumProductionPoints",
@@ -40970,7 +40975,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34387
+      "UsersEstimate": 34388
     },
     {
       "ID": "PetDog",
@@ -40986,7 +40991,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34387
+      "UsersEstimate": 34388
     },
     {
       "ID": "Sow",
@@ -41002,7 +41007,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36934
+      "UsersEstimate": 36936
     },
     {
       "ID": "Stones",
@@ -41018,7 +41023,7 @@
       "Name": "Field Trip",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25472
+      "UsersEstimate": 25473
     },
     {
       "ID": "TruckDriving",
@@ -41034,7 +41039,7 @@
       "Name": "Van Gogh",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14646
+      "UsersEstimate": 14647
     },
     {
       "ID": "VehicleRepair",
@@ -41050,22 +41055,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8278
+      "UsersEstimate": 8279
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63679,
+      "Progressed": 63682,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-24T13:04:17.3987244+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:09:11.1528627+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:08:11.2545213+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:58:12.2777123+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:09:11.1530094+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:57:51.5069672+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:08:11.2546992+00:00"
 }

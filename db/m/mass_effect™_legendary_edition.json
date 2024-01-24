@@ -3,7 +3,7 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4646,
+  "EOS_Progressed": 4648,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -9073,6 +9073,11 @@
       "Time": "2024-01-24T14:11:29.8970506+00:00",
       "NumProgressed": 4646,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-24T15:09:51.0794589+00:00",
+      "NumProgressed": 4648,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -9125,7 +9130,7 @@
       "Name": "Untouchable",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_104",
@@ -9157,7 +9162,7 @@
       "Name": "Eye of the Hurricane",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_108",
@@ -9189,7 +9194,7 @@
       "Name": "Giant Killer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_111",
@@ -9277,7 +9282,7 @@
       "Name": "Paramour I",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "achievement_121",
@@ -9309,7 +9314,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "achievement_125",
@@ -9365,7 +9370,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_17",
@@ -9397,7 +9402,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "achievement_20",
@@ -9405,7 +9410,7 @@
       "Name": "Completionist",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_21",
@@ -9413,7 +9418,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "achievement_22",
@@ -9421,7 +9426,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "achievement_23",
@@ -9453,7 +9458,7 @@
       "Name": "Krogan Ally",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "achievement_27",
@@ -9461,7 +9466,7 @@
       "Name": "Turian Ally",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "achievement_28",
@@ -9469,7 +9474,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "achievement_29",
@@ -9485,7 +9490,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4183
     },
     {
       "ID": "achievement_30",
@@ -9501,7 +9506,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3068
     },
     {
       "ID": "achievement_32",
@@ -9517,7 +9522,7 @@
       "Name": "Search and Rescue",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "achievement_34",
@@ -9533,7 +9538,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 125,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_36",
@@ -9541,7 +9546,7 @@
       "Name": "Missing in Action",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "achievement_37",
@@ -9549,7 +9554,7 @@
       "Name": "Very Elusive",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "achievement_38",
@@ -9557,7 +9562,7 @@
       "Name": "Colony Defense",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_39",
@@ -9565,7 +9570,7 @@
       "Name": "Ghost Ship",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "achievement_4",
@@ -9573,7 +9578,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "achievement_40",
@@ -9589,7 +9594,7 @@
       "Name": "Against All Odds",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_42",
@@ -9597,7 +9602,7 @@
       "Name": "No One Left Behind",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "achievement_43",
@@ -9637,7 +9642,7 @@
       "Name": "The Justicar",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "achievement_48",
@@ -9645,7 +9650,7 @@
       "Name": "The Krogan",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_49",
@@ -9661,7 +9666,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "achievement_50",
@@ -9669,7 +9674,7 @@
       "Name": "The Quarian",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "achievement_51",
@@ -9677,7 +9682,7 @@
       "Name": "A House Divided",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_52",
@@ -9741,7 +9746,7 @@
       "Name": "The Prodigal",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "achievement_6",
@@ -9757,7 +9762,7 @@
       "Name": "Treason",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "achievement_61",
@@ -9765,7 +9770,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "achievement_62",
@@ -9821,7 +9826,7 @@
       "Name": "Agent",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_69",
@@ -9869,7 +9874,7 @@
       "Name": "Scholar",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "achievement_74",
@@ -9901,7 +9906,7 @@
       "Name": "Digital Exorcist",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "achievement_78",
@@ -9957,7 +9962,7 @@
       "Name": "Pathfinder",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_84",
@@ -9965,7 +9970,7 @@
       "Name": "Tunnel Rat",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_85",
@@ -9973,7 +9978,7 @@
       "Name": "Party Crasher",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "achievement_86",
@@ -10029,7 +10034,7 @@
       "Name": "Well Connected",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "achievement_92",
@@ -10037,7 +10042,7 @@
       "Name": "Fact Finder",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "achievement_93",
@@ -10045,7 +10050,7 @@
       "Name": "Liberator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_94",
@@ -10053,7 +10058,7 @@
       "Name": "Problem Solver",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "achievement_95",
@@ -10093,26 +10098,26 @@
       "Name": "Lost and Found",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     }
   ],
   "AchievementSets": [
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4646,
+      "Progressed": 4648,
       "Completed": 15
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4646,
+      "Progressed": 4648,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:11:29.8970502+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:51.0794586+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:03:55.481143+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:11:29.897216+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:03:03.3038972+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:51.07963+00:00"
 }

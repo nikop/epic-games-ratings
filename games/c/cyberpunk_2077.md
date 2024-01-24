@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.80% | ~8,464 |
-| Right Back At Ya | 0.80% | ~8,464 |
-| True Soldier | 0.80% | ~8,464 |
-| Christmas Tree Attack | 0.70% | ~7,406 |
-| Life of the Road | 0.70% | ~7,406 |
-| The Hermit | 0.70% | ~7,406 |
-| The High Priestess | 0.70% | ~7,406 |
-| The Wheel of Fortune | 0.70% | ~7,406 |
-| Legend of The Afterlife | 0.70% | ~7,406 |
-| Bushido and Chill | 0.60% | ~6,348 |
-| Stanislavski's Method | 0.60% | ~6,348 |
-| The Fool | 0.60% | ~6,348 |
-| The Lovers | 0.60% | ~6,348 |
-| The World | 0.60% | ~6,348 |
+| Full Body Conversion | 0.80% | ~8,465 |
+| Right Back At Ya | 0.80% | ~8,465 |
+| True Soldier | 0.80% | ~8,465 |
+| Christmas Tree Attack | 0.70% | ~7,407 |
+| Life of the Road | 0.70% | ~7,407 |
+| The Hermit | 0.70% | ~7,407 |
+| The High Priestess | 0.70% | ~7,407 |
+| The Wheel of Fortune | 0.70% | ~7,407 |
+| Legend of The Afterlife | 0.70% | ~7,407 |
+| Bushido and Chill | 0.60% | ~6,349 |
+| Stanislavski's Method | 0.60% | ~6,349 |
+| The Fool | 0.60% | ~6,349 |
+| The Lovers | 0.60% | ~6,349 |
+| The World | 0.60% | ~6,349 |
 | All the President's Men | 0.60% | ~1,120 |
 | Arachnophobia | 0.60% | ~1,120 |
 | Gun Fu | 0.50% | ~5,290 |
@@ -30,12 +30,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.40% | ~4,232 |
 | True Warrior | 0.40% | ~4,232 |
 | Two Heads, One Bullet | 0.40% | ~4,232 |
+| To Bad Decisions! | 0.30% | ~3,174 |
 | The Wandering Fool | 0.30% | ~3,174 |
 | The Sun | 0.30% | ~3,174 |
 | Spin Doctor | 0.30% | ~560 |
 | King of Wands | 0.30% | ~560 |
 | Easy Come, Easy Go | 0.30% | ~560 |
-| To Bad Decisions! | 0.20% | ~2,116 |
 | Breathtaking | 0.20% | ~2,116 |
 | Ten out of Ten | 0.20% | ~2,116 |
 | The Star | 0.20% | ~2,116 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,058 (Ranked 17)  
-Completed: 3,155 (0.30%) (Ranked 265)  
+Progressed: 1,058,088 (Ranked 17)  
+Completed: 3,156 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -353,10 +353,10 @@ Completed: 3,155 (0.30%) (Ranked 265)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,058,058 | 3,155 |
+| 2024-01-24 | 1,058,088 | 3,156 |
 ## Awards
 Max (Character Customization): 144,402  (Ranked 8)  
-Sum: 517,306 (Ranked 8)  
+Sum: 517,466 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -365,7 +365,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 33,233 |
 | This game has Diverse Characters | 32,463 |
 | This game is Highly Recommended | 30,908 |
-| This game has Amazing Storytelling | 30,300 |
+| This game has Amazing Storytelling | 30,460 |
 | This game is Extremely Fun | 30,196 |
 | This game has Amazing Characters | 29,891 |
 | This game is Relaxing | 28,919 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,402 | 517,306 |
+| 2024-01-24 | 4.68 | - | 144,402 | 517,466 |

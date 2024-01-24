@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-12-26T23:58:21.0860973+00:00",
@@ -75,15 +75,21 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-24T14:58:03.0484549+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3696,
+  "EOS_Progressed": 3697,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9276,6 +9282,11 @@
       "Time": "2024-01-24T12:08:56.1624392+00:00",
       "NumProgressed": 3696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T15:07:51.7589312+00:00",
+      "NumProgressed": 3697,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9288,7 +9299,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9296,7 +9307,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9464,7 +9475,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9496,7 +9507,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9544,7 +9555,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9679,16 +9690,16 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3696,
+      "Progressed": 3697,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged": "2024-01-23T14:57:52.7665825+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:08:43.7023962+00:00",
+  "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:07:51.7589307+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:58:27.9513894+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:08:43.7024572+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:58:03.0484552+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:07:51.7590595+00:00"
 }

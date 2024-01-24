@@ -5,25 +5,27 @@ Rating: 4.35 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 14.00% | ~16 |
-| Can’t Touch This | 13.00% | ~15 |
+| Can’t Touch This | 14.00% | ~17 |
+| Hail to the King, Baby | 14.00% | ~17 |
 | Help! Help! I’m being repressed | 12.00% | ~14 |
+| There is no Nobility in Poverty | 10.00% | ~12 |
 | Bring it on! | 9.00% | ~11 |
 | Full House | 9.00% | ~11 |
-| Path of Glory | 9.00% | ~11 |
-| There is no Nobility in Poverty | 9.00% | ~11 |
+| Path of Glory | 8.00% | ~10 |
 | They Got What They Deserved | 7.00% | ~8 |
 | The finest merchandise this side of river Jordan | 6.00% | ~7 |
 | What we’ve got here is failure to communicate | 5.00% | ~6 |
+| Big Apple | 4.00% | ~5 |
 | Call the Boys | 4.00% | ~5 |
+| Dinner Time | 4.00% | ~5 |
 | Do you read Sutter Cane? | 4.00% | ~5 |
 | Playerxander the Great | 4.00% | ~5 |
+| All the King's Men | 3.00% | ~4 |
 | Battle of the Four Armies | 3.00% | ~4 |
-| Big Apple | 3.00% | ~4 |
 | Black Sheep Wall | 3.00% | ~4 |
+| Blinded by Science | 3.00% | ~4 |
 | Cut-Me-Own-Throat | 3.00% | ~4 |
 | Desperate Times Call for Desperate Measures | 3.00% | ~4 |
-| Dinner Time | 3.00% | ~4 |
 | Forth, Eorlingas! | 3.00% | ~4 |
 | I started a joke | 3.00% | ~4 |
 | Kingslayer | 3.00% | ~4 |
@@ -32,9 +34,8 @@ Rating: 4.35 (Ranked 836)
 | Scientia potentia es | 3.00% | ~4 |
 | ‘Tis but a scratch | 3.00% | ~4 |
 | A Quiet Palace | 2.00% | ~2 |
-| All the King's Men | 2.00% | ~2 |
-| Blinded by Science | 2.00% | ~2 |
 | He made it out, but with an arrow in his back | 2.00% | ~2 |
+| His All-Holiness | 2.00% | ~2 |
 | His name is King | 2.00% | ~2 |
 | Fight Another Day | 2.00% | ~2 |
 | Let Us Pray | 2.00% | ~2 |
@@ -45,18 +46,17 @@ Rating: 4.35 (Ranked 836)
 | Time to find India | 2.00% | ~2 |
 | Vlad the Impaler | 2.00% | ~2 |
 | Why is there no culture victory?! | 2.00% | ~2 |
-| Zerg Rush | 0.90% | ~1 |
-| Crusade Invoker, no Regret | 0.90% | ~1 |
-| Fighting with Power and Steel | 0.90% | ~1 |
-| From Rags to Riches | 0.90% | ~1 |
-| Greed is Good | 0.90% | ~1 |
-| His All-Holiness | 0.90% | ~1 |
-| Let us trade with these fine people | 0.90% | ~1 |
-| New Mineland | 0.90% | ~1 |
-| Prince Ali! Fabulous he! | 0.90% | ~1 |
-| Spartacus | 0.90% | ~1 |
-| You are not the boss of me now | 0.90% | ~1 |
-| You reap what you sow | 0.90% | ~1 |
+| Zerg Rush | 0.80% | ~1 |
+| Crusade Invoker, no Regret | 0.80% | ~1 |
+| Fighting with Power and Steel | 0.80% | ~1 |
+| From Rags to Riches | 0.80% | ~1 |
+| Greed is Good | 0.80% | ~1 |
+| Let us trade with these fine people | 0.80% | ~1 |
+| New Mineland | 0.80% | ~1 |
+| Prince Ali! Fabulous he! | 0.80% | ~1 |
+| Spartacus | 0.80% | ~1 |
+| You are not the boss of me now | 0.80% | ~1 |
+| You reap what you sow | 0.80% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Blessed Be His Name | 0.00% | ~0 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 491)  
+Progressed: 119 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 117 | 0 |
+| 2024-01-24 | 119 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

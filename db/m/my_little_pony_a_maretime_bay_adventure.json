@@ -4,8 +4,8 @@
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2022-05-26T23:00:00+00:00",
@@ -198,9 +198,9 @@
       "ID": "3",
       "SetID": "1kmik7f",
       "Name": "Pipp Pipp Parade!",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "4",
@@ -214,9 +214,9 @@
       "ID": "5",
       "SetID": "1kmik7f",
       "Name": "Glowing Up",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "6",
@@ -238,9 +238,9 @@
       "ID": "8",
       "SetID": "1kmik7f",
       "Name": "Pro Herder",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "9",
@@ -263,8 +263,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:05:17.2879985+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:04:00.3691976+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:04.4087727+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:58:03.4089048+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:05:17.2880061+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:57:45.2766972+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:04:00.369235+00:00"
 }

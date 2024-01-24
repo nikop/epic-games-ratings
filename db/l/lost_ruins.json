@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,7 +39,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 713,
+  "EOS_Progressed": 714,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -2059,6 +2059,11 @@
       "Time": "2024-01-24T11:11:31.8953058+00:00",
       "NumProgressed": 713,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T15:09:41.2868431+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2086,7 +2091,7 @@
       "Name": "Artifact Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Assassin",
@@ -2142,7 +2147,7 @@
       "Name": "Gladiator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "GoblinTales",
@@ -2206,7 +2211,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Marksman",
@@ -2252,9 +2257,9 @@
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 79
     },
     {
       "ID": "Pyromancer",
@@ -2350,7 +2355,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "TreasureHunter",
@@ -2389,7 +2394,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 713,
+      "Progressed": 714,
       "Completed": 1
     }
   ],
@@ -2397,8 +2402,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:11:18.0048839+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:41.2868427+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.4166375+00:00",
-  "LastUpdate_Ratings": "2024-01-24T14:02:40.6203173+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:11:18.0049191+00:00"
+  "LastUpdate_Ratings": "2024-01-24T15:00:24.7383737+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:41.2868774+00:00"
 }

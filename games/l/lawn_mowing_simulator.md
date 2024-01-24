@@ -1,25 +1,25 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 1,038)  
+Rating: 4.08 (Ranked 1,037)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~552,877 |
-| Every story has a beginning | 36.00% | ~251,944 |
-| The first of many | 31.00% | ~216,952 |
-| Positive word of mouth | 18.00% | ~125,972 |
-| Lawn in the U.S.A. | 15.00% | ~104,977 |
-| Blade Runner | 9.00% | ~62,986 |
-| Credible | 7.00% | ~48,989 |
+| The dream begins | 79.00% | ~552,885 |
+| Every story has a beginning | 36.00% | ~251,947 |
+| The first of many | 31.00% | ~216,955 |
+| Positive word of mouth | 18.00% | ~125,974 |
+| Lawn in the U.S.A. | 15.00% | ~104,978 |
+| Blade Runner | 9.00% | ~62,987 |
+| Credible | 7.00% | ~48,990 |
 | Teamwork makes the dream work | 6.00% | ~41,991 |
 | Where there's muck there's brass | 4.00% | ~27,994 |
 | Bigger and better | 4.00% | ~27,994 |
 | Aggressive expansion | 4.00% | ~27,994 |
-| Size isn't everything | 3.00% | ~20,995 |
-| Close shave | 3.00% | ~20,995 |
-| Established | 3.00% | ~20,995 |
+| Size isn't everything | 3.00% | ~20,996 |
+| Close shave | 3.00% | ~20,996 |
+| Established | 3.00% | ~20,996 |
 | Fighting on all fronts | 2.00% | ~13,997 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,997 |
 | Every good deed… | 2.00% | ~13,997 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~700 |
 | Mo mowers, mo problems | 0.10% | ~700 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699,844 (Ranked 29)  
+Progressed: 699,854 (Ranked 29)  
 Completed: 19 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 19 (0.00%) (Ranked 409)
 | 2024-01-21 | 699,359 | 19 |
 | 2024-01-22 | 699,556 | 19 |
 | 2024-01-23 | 699,740 | 19 |
-| 2024-01-24 | 699,844 | 19 |
+| 2024-01-24 | 699,854 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 317)  
 Sum: 993 (Ranked 280)  

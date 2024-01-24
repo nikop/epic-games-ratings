@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18678,
+  "EOS_Progressed": 18679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12783,6 +12783,11 @@
       "Time": "2024-01-24T14:06:35.5908353+00:00",
       "NumProgressed": 18678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T15:04:56.5412926+00:00",
+      "NumProgressed": 18679,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12843,7 +12848,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16997
+      "UsersEstimate": 16998
     },
     {
       "ID": "achievement_0008",
@@ -12851,7 +12856,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15503
+      "UsersEstimate": 15504
     },
     {
       "ID": "achievement_0009",
@@ -12939,7 +12944,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "achievement_0020",
@@ -12955,7 +12960,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12701
+      "UsersEstimate": 12702
     },
     {
       "ID": "achievement_0022",
@@ -12963,7 +12968,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4856
+      "UsersEstimate": 4857
     },
     {
       "ID": "achievement_0023",
@@ -13035,7 +13040,7 @@
       "Name": "Recycle",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "achievement_0032",
@@ -13186,7 +13191,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18678,
+      "Progressed": 18679,
       "Completed": 0
     }
   ],
@@ -13194,8 +13199,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-23T23:00:35.5670353+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:06:35.590835+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:04:56.5412921+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:57:20.9767124+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:06:35.5909128+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:57:16.9332019+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:04:56.5414152+00:00"
 }

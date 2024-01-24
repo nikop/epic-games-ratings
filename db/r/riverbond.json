@@ -515,9 +515,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 536295,
+  "EOS_Progressed": 536296,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -30270,6 +30270,11 @@
       "Time": "2024-01-24T14:09:33.2882363+00:00",
       "NumProgressed": 536295,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2024-01-24T15:08:27.2691419+00:00",
+      "NumProgressed": 536296,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 57,
@@ -30297,7 +30302,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 375406
+      "UsersEstimate": 375407
     },
     {
       "ID": "12",
@@ -30321,7 +30326,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64355
+      "UsersEstimate": 64356
     },
     {
       "ID": "15",
@@ -30361,7 +30366,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 332503
+      "UsersEstimate": 332504
     },
     {
       "ID": "2",
@@ -30385,7 +30390,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58992
+      "UsersEstimate": 58993
     },
     {
       "ID": "22",
@@ -30537,7 +30542,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 182340
+      "UsersEstimate": 182341
     },
     {
       "ID": "4",
@@ -30609,7 +30614,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 332503
+      "UsersEstimate": 332504
     },
     {
       "ID": "48",
@@ -30625,7 +30630,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 182340
+      "UsersEstimate": 182341
     },
     {
       "ID": "5",
@@ -30736,15 +30741,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 536295,
+      "Progressed": 536296,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-20T03:59:27.4592532+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:09:33.2882356+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:08:27.2691415+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:23.3858975+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:58:24.5661169+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:09:33.2884275+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:58:00.5622458+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:08:27.2693737+00:00"
 }

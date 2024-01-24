@@ -9799,9 +9799,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255381,
+  "EOS_Progressed": 255390,
   "EOS_Completed": 2638,
-  "EOS_NewPlayers": 991,
+  "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41484,6 +41484,11 @@
       "Time": "2024-01-24T14:11:32.7064981+00:00",
       "NumProgressed": 255381,
       "NumCompleted": 2638
+    },
+    {
+      "Time": "2024-01-24T15:09:53.4917203+00:00",
+      "NumProgressed": 255390,
+      "NumCompleted": 2638
     }
   ],
   "TotalAchievements": 546,
@@ -41495,7 +41500,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12769
+      "UsersEstimate": 12770
     },
     {
       "ID": "objective_completed_10",
@@ -42359,7 +42364,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "objective_completed_1203",
@@ -43149,9 +43154,9 @@
       "ID": "objective_completed_285",
       "SetID": "cc37lbc",
       "Name": "Our Time To Shine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_286",
@@ -43287,7 +43292,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "objective_completed_390",
@@ -44711,7 +44716,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "objective_completed_80",
@@ -45862,21 +45867,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221655,
+      "Progressed": 221664,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255381,
+      "Progressed": 255390,
       "Completed": 2638
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T02:24:46.6717687+00:00",
-  "LastChanged_Achievements": "2024-01-24T14:11:32.7064977+00:00",
+  "LastChanged_Achievements": "2024-01-24T15:09:53.4917199+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T13:59:32.5767333+00:00",
-  "LastUpdate_Achievements": "2024-01-24T14:11:32.7087175+00:00"
+  "LastUpdate_Ratings": "2024-01-24T14:58:47.6508545+00:00",
+  "LastUpdate_Achievements": "2024-01-24T15:09:53.4939706+00:00"
 }
