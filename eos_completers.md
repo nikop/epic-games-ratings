@@ -65,7 +65,7 @@
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
-| 65 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.38% |
+| 66 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.32% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 69 | [Time Loader](games/t/time_loader.md) | 6.16% |
@@ -76,20 +76,20 @@
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
 | 75 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.08% |
-| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
-| 79 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
-| 80 | [ZZT!](games/z/zzt!.md) | 4.78% |
-| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.72% |
-| 82 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
-| 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
-| 84 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
-| 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
-| 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
-| 87 | [JARS](games/j/jars.md) | 4.42% |
-| 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
-| 89 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
-| 90 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.20% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.06% |
+| 78 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 5.04% |
+| 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
+| 80 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
+| 81 | [ZZT!](games/z/zzt!.md) | 4.78% |
+| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.72% |
+| 83 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
+| 84 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
+| 85 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
+| 86 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
+| 86 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
+| 88 | [JARS](games/j/jars.md) | 4.42% |
+| 89 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
+| 90 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 91 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18% |
 | 92 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.17% |
 | 92 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
