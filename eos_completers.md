@@ -106,7 +106,7 @@
 | 104 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.44% |
 | 105 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
-| 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
+| 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.20% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
 | 109 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.12% |
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.11% |
@@ -227,9 +227,9 @@
 | 225 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 226 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.53% |
 | 227 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.52% |
-| 228 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.51% |
 | 228 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
-| 230 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 229 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.50% |
+| 229 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 231 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.49% |
 | 231 | [Five Dates](games/f/five_dates.md) | 0.49% |
 | 231 | [Haven](games/h/haven.md) | 0.49% |
@@ -277,9 +277,9 @@
 | 274 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.26% |
 | 276 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 276 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |
+| 276 | [It Takes Two](games/i/it_takes_two.md) | 0.25% |
 | 276 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
-| 279 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
-| 279 | [Shop Titans](games/s/shop_titans.md) | 0.24% |
+| 280 | [Shop Titans](games/s/shop_titans.md) | 0.24% |
 | 281 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
 | 281 | [Them and Us](games/t/them_and_us.md) | 0.23% |
 | 283 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
@@ -311,9 +311,9 @@
 | 308 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
 | 308 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 308 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 308 | [RAILGRADE](games/r/railgrade.md) | 0.13% |
 | 308 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
-| 314 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
+| 313 | [RAILGRADE](games/r/railgrade.md) | 0.12% |
+| 313 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
 | 315 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 315 | [Black Book](games/b/black_book.md) | 0.11% |
 | 315 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
@@ -846,4 +846,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,887 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,890 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |

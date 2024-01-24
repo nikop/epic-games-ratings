@@ -54,6 +54,7 @@
 | [Almost My Floor](games/0/01965f68ad134c028c8900062fe5ab5c.md) | 2024-02-29 | - |  | - | - |
 | [Earth Fire And Wind](games/9/926045895bbf4c198aa1173f0877d246.md) | 2024-02-29 | - |  | - | - |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-02-29 | - |  | - | - |
+| [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-29 | - |  | - | - |
 | [LakeSide](games/6/6c09dd49cbb348d5ae4d4c9c308890b8.md) | 2024-02-29 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-02-29 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
@@ -175,6 +176,7 @@
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2024-12-31 | 19 (1,000 XP) | 1 | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-12-31 | 16 (1,000 XP) | 0 | - | - |
 | [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
+| [Kendo Warrior](games/1/1b93bdbbc5934ba5bc467d797bd30957.md) | 2024-12-31 | - |  | - | - |
 | [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2024-12-31 | - |  | - | - |
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2024-12-31 | - |  | - | - |

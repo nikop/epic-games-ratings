@@ -613,6 +613,7 @@
 | [Quantum Recharged](../games/9/9161d1b30f4e4a0cbec5ee398d6e5cd6.md) | 13 | 1,000 |
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
 | [Quick Race](../games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 15 | 1,000 |
+| [Quiplash 2 InterLASHional](../games/3/38931bb693204b7289689de85a8e4b44.md) | 10 | 1,000 |
 | [Quiz Time](../games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | 5 | 1,000 |
 | [Ragnarok Survivors Valhalla](../games/3/377c7afca797475bb73be258c94f82ea.md) | 34 | 1,000 |
 | [Railbreak](../games/b/b8877a4db3f04eec83b7410484e80473.md) | 25 | 1,000 |
