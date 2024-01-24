@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1887,9 +1887,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 11408,
+  "EOS_Progressed": 11411,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12607,6 +12607,11 @@
       "Time": "2024-01-24T21:04:08.6138425+00:00",
       "NumProgressed": 11408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T22:03:25.4546877+00:00",
+      "NumProgressed": 11411,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12627,7 +12632,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "achievement_11",
@@ -12635,15 +12640,15 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "achievement_12",
       "SetID": "aiin7da",
       "Name": "Dealmaker",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2967
     },
     {
       "ID": "achievement_13",
@@ -12651,7 +12656,7 @@
       "Name": "MVP",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3422
+      "UsersEstimate": 3423
     },
     {
       "ID": "achievement_14",
@@ -12659,7 +12664,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "achievement_15",
@@ -12715,7 +12720,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "achievement_21",
@@ -12731,7 +12736,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "achievement_4",
@@ -12747,7 +12752,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "achievement_6",
@@ -12755,7 +12760,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "achievement_7",
@@ -12763,7 +12768,7 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "achievement_8",
@@ -12771,7 +12776,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 3080
+      "UsersEstimate": 3081
     },
     {
       "ID": "achievement_9",
@@ -12779,14 +12784,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11408,
+      "Progressed": 11411,
       "Completed": 0
     }
   ],
@@ -12794,8 +12799,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-24T03:58:17.7837569+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:04:08.6138424+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:03:25.4546874+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:58:37.2632383+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:04:08.6139239+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:57:53.2275028+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:03:25.4547544+00:00"
 }

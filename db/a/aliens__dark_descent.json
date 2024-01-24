@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -585,9 +585,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6554,
+  "EOS_Progressed": 6555,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10320,6 +10320,11 @@
       "Time": "2024-01-24T21:07:38.7562551+00:00",
       "NumProgressed": 6554,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T22:05:54.982785+00:00",
+      "NumProgressed": 6555,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10363,7 +10368,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10443,7 +10448,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10483,7 +10488,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -10507,7 +10512,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10531,7 +10536,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10579,7 +10584,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10627,7 +10632,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10659,7 +10664,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10683,14 +10688,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3211
+      "UsersEstimate": 3212
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6554,
+      "Progressed": 6555,
       "Completed": 3
     }
   ],
@@ -10698,8 +10703,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-23T16:59:17.3064618+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:07:38.7562546+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:05:54.9827843+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:00:25.4008897+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:07:38.7563298+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:02.7379289+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:05:54.9829239+00:00"
 }

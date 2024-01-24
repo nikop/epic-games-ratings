@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 508
     },
     {
       "ID": "World2Boss",
@@ -1734,8 +1734,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:11:15.0880016+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:10:11.1995461+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.1787817+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:01:40.081206+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:11:15.0880279+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:51.3639543+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:10:11.1995813+00:00"
 }

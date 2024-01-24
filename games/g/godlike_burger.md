@@ -5,20 +5,20 @@ Rating: 4.51 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~182,885 |
-| FIRST BLOOD | 40.00% | ~162,565 |
-| KEVIN! | 30.00% | ~121,924 |
-| JACK OF ALL TRADES | 23.00% | ~93,475 |
-| CRIMINAL | 20.00% | ~81,282 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,769 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,641 |
-| HONORS STUDENT | 8.00% | ~32,513 |
+| MASTER CHEF | 45.00% | ~182,891 |
+| FIRST BLOOD | 40.00% | ~162,570 |
+| KEVIN! | 30.00% | ~121,927 |
+| JACK OF ALL TRADES | 23.00% | ~93,478 |
+| CRIMINAL | 20.00% | ~81,285 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,771 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,642 |
+| HONORS STUDENT | 8.00% | ~32,514 |
 | BUTCHER | 6.00% | ~24,385 |
 | INDIVIDUAL APPROACH | 5.00% | ~20,321 |
 | RAMBO | 5.00% | ~20,321 |
-| HELL'S KITCHEN | 4.00% | ~16,256 |
-| CELEBRITY | 3.00% | ~12,192 |
-| MARTYR | 3.00% | ~12,192 |
+| HELL'S KITCHEN | 4.00% | ~16,257 |
+| CELEBRITY | 3.00% | ~12,193 |
+| MARTYR | 3.00% | ~12,193 |
 | GRATITUDE | 2.00% | ~8,128 |
 | PATTY-KILLER | 2.00% | ~8,128 |
 | EXPERIMENTALIST | 1.00% | ~4,064 |
@@ -27,14 +27,14 @@ Rating: 4.51 (Ranked 601)
 | PRUDENT | 1.00% | ~4,064 |
 | SCATTERBRAIN | 0.80% | ~3,251 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,845 |
-| TASTE UNTASTY | 0.60% | ~2,438 |
+| TASTE UNTASTY | 0.60% | ~2,439 |
 | DEBTOR | 0.20% | ~813 |
 | I'VE SEEN SOME… | 0.20% | ~813 |
 | CORRUPTIONIST | 0.10% | ~406 |
 | MISTER ALL THUMBS | 0.10% | ~406 |
 | TRAVELER | 0.10% | ~406 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,412 (Ranked 52)  
+Progressed: 406,424 (Ranked 52)  
 Completed: 63 (0.02%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 63 (0.02%) (Ranked 374)
 | 2024-01-21 | 405,413 | 62 |
 | 2024-01-22 | 405,767 | 62 |
 | 2024-01-23 | 406,123 | 63 |
-| 2024-01-24 | 406,412 | 63 |
+| 2024-01-24 | 406,424 | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

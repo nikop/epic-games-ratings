@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2446,
+  "EOS_Progressed": 2448,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5063,6 +5063,11 @@
       "Time": "2024-01-24T21:11:08.9029321+00:00",
       "NumProgressed": 2446,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T22:10:06.4439112+00:00",
+      "NumProgressed": 2448,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5074,7 +5079,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACH_02",
@@ -5146,7 +5151,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_11",
@@ -5266,7 +5271,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_26",
@@ -5288,9 +5293,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH_29",
@@ -5306,7 +5311,7 @@
       "Name": "Alchemist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_31",
@@ -5314,7 +5319,7 @@
       "Name": "Stone Collection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_33",
@@ -5330,7 +5335,7 @@
       "Name": "The Collector",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_35",
@@ -5361,7 +5366,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2446,
+      "Progressed": 2448,
       "Completed": 5
     }
   ],
@@ -5369,8 +5374,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:11:08.9029319+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:10:06.4439108+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:02:46.2179995+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:11:08.9029658+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:00:10.5831997+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:10:06.443961+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,275 |
 | Lost and Found | 9.00% | ~765 |
-| Autodidact | 8.00% | ~10,690 |
+| Autodidact | 8.00% | ~10,691 |
 | This guy... again? | 8.00% | ~680 |
 | Serenity Now! | 7.00% | ~9,354 |
 | This Belongs in a Museum | 7.00% | ~9,354 |
@@ -25,12 +25,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,018 |
 | FNG | 6.00% | ~8,018 |
 | Bloody Graduation | 6.00% | ~510 |
-| Not Today! | 5.00% | ~6,681 |
-| Merry Time | 5.00% | ~6,681 |
-| Harvest Festival | 5.00% | ~6,681 |
-| Whale | 5.00% | ~6,681 |
-| A Place to Lay Your Head | 5.00% | ~6,681 |
-| Nope | 5.00% | ~6,681 |
+| Not Today! | 5.00% | ~6,682 |
+| Merry Time | 5.00% | ~6,682 |
+| Harvest Festival | 5.00% | ~6,682 |
+| Whale | 5.00% | ~6,682 |
+| A Place to Lay Your Head | 5.00% | ~6,682 |
+| Nope | 5.00% | ~6,682 |
 | Friends 'Til the End | 5.00% | ~425 |
 | Resurrection | 4.00% | ~5,345 |
 | Unleash Hell | 4.00% | ~5,345 |
@@ -72,9 +72,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.80% | ~1,069 |
 | A Life Well Lived | 0.70% | ~935 |
 | Bacon Bits | 0.70% | ~935 |
-| On This Long Road, We Found Redemption | 0.70% | ~59 |
+| On This Long Road, We Found Redemption | 0.70% | ~60 |
 | Eidetic | 0.60% | ~802 |
-| Battle Hardened | 0.50% | ~42 |
+| Battle Hardened | 0.50% | ~43 |
 | Tears in the Rain | 0.40% | ~535 |
 | Maître De La Lame | 0.40% | ~34 |
 | Circle of Life | 0.30% | ~401 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,629 (Ranked 92)  
+Progressed: 133,633 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,16 +355,16 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
-| 2024-01-24 | 133,629 | 5 |
+| 2024-01-24 | 133,633 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
-Sum: 21,854 (Ranked 60)  
+Sum: 21,856 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,073 |
 | This game has Diverse Characters | 1,886 |
-| This game has Challenging Combat | 1,694 |
+| This game has Challenging Combat | 1,696 |
 | This game is Highly Recommended | 1,618 |
 | This game has Amazing Characters | 1,546 |
 | This game is Extremely Fun | 1,538 |
@@ -738,4 +738,4 @@ Diff (max vs sum): -8
 | 2024-01-21 | 4.69 | - | 8,057 | 21,807 |
 | 2024-01-22 | 4.69 | - | 8,062 | 21,824 |
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
-| 2024-01-24 | 4.69 | - | 8,073 | 21,854 |
+| 2024-01-24 | 4.69 | - | 8,073 | 21,856 |

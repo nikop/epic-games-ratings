@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 772,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2872,6 +2872,11 @@
       "Time": "2024-01-24T21:11:00.0356889+00:00",
       "NumProgressed": 771,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T22:09:59.507084+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2883,7 +2888,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "completeact2",
@@ -2891,7 +2896,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 37,
       "XP": 80,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "completeact3",
@@ -3002,7 +3007,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 772,
       "Completed": 3
     }
   ],
@@ -3010,8 +3015,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:11:00.0356884+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:59.5070835+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:58:58.2226586+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:11:00.0357128+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:58:07.1244842+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:59.5071145+00:00"
 }

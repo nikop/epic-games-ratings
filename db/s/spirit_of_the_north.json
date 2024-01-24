@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80920,
+  "EOS_Progressed": 80921,
   "EOS_Completed": 440,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -31249,6 +31249,11 @@
       "Time": "2024-01-24T21:04:42.8380977+00:00",
       "NumProgressed": 80920,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2024-01-24T22:03:49.912121+00:00",
+      "NumProgressed": 80921,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 24,
@@ -31268,7 +31273,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17802
+      "UsersEstimate": 17803
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -31284,7 +31289,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17802
+      "UsersEstimate": 17803
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -31404,7 +31409,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 17802
+      "UsersEstimate": 17803
     },
     {
       "ID": "SPIRIT_DASH",
@@ -31420,7 +31425,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13756
+      "UsersEstimate": 13757
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -31436,7 +31441,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9710
+      "UsersEstimate": 9711
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -31451,7 +31456,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80920,
+      "Progressed": 80921,
       "Completed": 440
     }
   ],
@@ -31459,8 +31464,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:04:42.8380974+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:03:49.9121207+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:57.351198+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:57:57.802413+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:04:42.8382351+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:57:28.5903688+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:03:49.9123022+00:00"
 }

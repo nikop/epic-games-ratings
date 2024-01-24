@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Throwing up Tags | 84.00% | ~48,303 |
-| Fashion Killa | 81.00% | ~46,577 |
-| Cool Whip | 74.00% | ~42,552 |
-| Drop the Beat | 66.00% | ~37,952 |
+| Fashion Killa | 81.00% | ~46,578 |
+| Cool Whip | 74.00% | ~42,553 |
+| Drop the Beat | 66.00% | ~37,953 |
 | Hey Lakeshore | 61.00% | ~35,077 |
 | Public Enemy | 60.00% | ~34,502 |
 | 100 Miles and Runnin' | 59.00% | ~33,927 |
-| Rebel Without a Pause | 39.00% | ~22,426 |
-| Hey Speedie! | 38.00% | ~21,851 |
+| Rebel Without a Pause | 39.00% | ~22,427 |
+| Hey Speedie! | 38.00% | ~21,852 |
 | Most Wanted | 34.00% | ~19,551 |
 | New Crew | 33.00% | ~18,976 |
 | Serious Guap | 28.00% | ~16,101 |
@@ -25,7 +25,7 @@
 | Access All Areas | 17.00% | ~9,776 |
 | #Blessed | 17.00% | ~9,776 |
 | Lake Better Watch Out | 17.00% | ~9,776 |
-| Found Family | 13.00% | ~7,475 |
+| Found Family | 13.00% | ~7,476 |
 | Kick it | 12.00% | ~6,900 |
 | In the Flow | 11.00% | ~6,325 |
 | The Collector | 11.00% | ~6,325 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 0.60% | ~345 |
 | Cleaning Up | 0.60% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,503 (Ranked 123)  
+Progressed: 57,504 (Ranked 123)  
 Completed: 63 (0.11%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,4 +177,4 @@ Completed: 63 (0.11%) (Ranked 316)
 | 2024-01-21 | 57,109 | 62 |
 | 2024-01-22 | 57,258 | 62 |
 | 2024-01-23 | 57,386 | 63 |
-| 2024-01-24 | 57,503 | 63 |
+| 2024-01-24 | 57,504 | 63 |

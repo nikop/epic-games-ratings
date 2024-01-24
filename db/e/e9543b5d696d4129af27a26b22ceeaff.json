@@ -518,9 +518,9 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_HALL_OF_FAME",
@@ -606,9 +606,9 @@
       "ID": "ACH_STAR_IS_BORN",
       "SetID": "1lnhagg",
       "Name": "A Star is Born",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_TRIPLE_DOUBLE",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:05:19.5093677+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:04:16.8010006+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:02:52.0578152+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:05:19.5094155+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:02:34.1024724+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:04:16.8010263+00:00"
 }

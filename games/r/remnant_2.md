@@ -5,15 +5,15 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,842 |
-| First of Many | 12.00% | ~35,854 |
-| Not Your Average Trait | 10.00% | ~29,878 |
-| Expanding Horizons | 9.00% | ~26,890 |
-| Gleaming the Cube | 8.00% | ~23,902 |
-| Quest for Survival | 8.00% | ~23,902 |
-| Familiar Face | 8.00% | ~23,902 |
-| Boss'n Up | 8.00% | ~23,902 |
-| Trait Chaser | 8.00% | ~23,902 |
+| The Killing Jar | 13.00% | ~38,843 |
+| First of Many | 12.00% | ~35,855 |
+| Not Your Average Trait | 10.00% | ~29,879 |
+| Expanding Horizons | 9.00% | ~26,891 |
+| Gleaming the Cube | 8.00% | ~23,903 |
+| Quest for Survival | 8.00% | ~23,903 |
+| Familiar Face | 8.00% | ~23,903 |
+| Boss'n Up | 8.00% | ~23,903 |
+| Trait Chaser | 8.00% | ~23,903 |
 | Not So Special Now | 7.00% | ~20,915 |
 | Not a Janitor | 7.00% | ~20,915 |
 | Duality | 7.00% | ~20,915 |
@@ -33,21 +33,21 @@ Rating: 4.72 (Ranked 199)
 | Was This Supposed To Happen? | 5.00% | ~14,939 |
 | The Web | 5.00% | ~14,939 |
 | Scrap Collector | 5.00% | ~14,939 |
-| Forever is a Long Time Coming | 4.00% | ~11,951 |
-| Madman's Paradise | 4.00% | ~11,951 |
-| The Agenda | 4.00% | ~11,951 |
-| Bad Moon Rising | 4.00% | ~11,951 |
-| Strapped | 4.00% | ~11,951 |
-| All These Traits� | 4.00% | ~11,951 |
-| Tall Tales | 3.00% | ~8,963 |
-| Edgelord | 3.00% | ~8,963 |
-| Scrap Hoarder | 3.00% | ~8,963 |
-| Carnage in C-Minor | 3.00% | ~8,963 |
-| The Ultimate Weapon | 3.00% | ~8,963 |
-| No One Should Have All That Power | 3.00% | ~8,963 |
-| Transmutate | 3.00% | ~8,963 |
-| Regicide | 3.00% | ~2,338 |
-| Master of the Dark Arts | 3.00% | ~2,338 |
+| Forever is a Long Time Coming | 4.00% | ~11,952 |
+| Madman's Paradise | 4.00% | ~11,952 |
+| The Agenda | 4.00% | ~11,952 |
+| Bad Moon Rising | 4.00% | ~11,952 |
+| Strapped | 4.00% | ~11,952 |
+| All These Traits� | 4.00% | ~11,952 |
+| Tall Tales | 3.00% | ~8,964 |
+| Edgelord | 3.00% | ~8,964 |
+| Scrap Hoarder | 3.00% | ~8,964 |
+| Carnage in C-Minor | 3.00% | ~8,964 |
+| The Ultimate Weapon | 3.00% | ~8,964 |
+| No One Should Have All That Power | 3.00% | ~8,964 |
+| Transmutate | 3.00% | ~8,964 |
+| Regicide | 3.00% | ~2,339 |
+| Master of the Dark Arts | 3.00% | ~2,339 |
 | Crafty | 2.00% | ~5,976 |
 | Ghost in the Machine | 2.00% | ~5,976 |
 | Only Human | 2.00% | ~5,976 |
@@ -61,7 +61,7 @@ Rating: 4.72 (Ranked 199)
 | You Shall Pass | 0.80% | ~624 |
 | A Foul Feast | 0.50% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,781 (Ranked 65)  
+Progressed: 298,789 (Ranked 65)  
 Completed: 1,242 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,17 +253,17 @@ Completed: 1,242 (0.42%) (Ranked 247)
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
-| 2024-01-24 | 298,781 | 1,242 |
+| 2024-01-24 | 298,789 | 1,242 |
 ## Awards
 Max (Great Boss Battles): 7,540  (Ranked 56)  
-Sum: 17,376 (Ranked 65)  
+Sum: 17,396 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,540 |
-| This game is Highly Recommended | 1,102 |
+| This game is Highly Recommended | 1,113 |
 | This game has Diverse Characters | 1,071 |
-| This game is Extremely Fun | 1,027 |
+| This game is Extremely Fun | 1,036 |
 | This game is Relaxing | 1,026 |
 | This game has Quickly Understood Controls | 1,019 |
 | This game has Challenging Combat | 1,010 |
@@ -456,4 +456,4 @@ Diff (max vs sum): -9
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
 | 2024-01-23 | 4.72 | 7,507 | 17,292 |
-| 2024-01-24 | 4.72 | 7,540 | 17,376 |
+| 2024-01-24 | 4.72 | 7,540 | 17,396 |

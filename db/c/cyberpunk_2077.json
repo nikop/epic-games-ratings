@@ -18966,10 +18966,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 518125,
       "NumberOfAwardsMax": 144777
+    },
+    {
+      "Time": "2024-01-24T22:03:11.9819158+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 518283,
+      "NumberOfAwardsMax": 144777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 518125,
+  "NumberOfAwards": 518283,
   "NumberOfAwardsMax": 144777,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19019,7 +19025,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33233
+      "Count": 33391
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -19046,10 +19052,10 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1058229,
+  "EOS_Progressed": 1058245,
   "EOS_Completed": 3158,
-  "EOS_NewPlayers": 4452,
-  "EOS_NewCompleters": 42,
+  "EOS_NewPlayers": 4440,
+  "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51076,6 +51082,11 @@
       "Time": "2024-01-24T21:09:45.0205586+00:00",
       "NumProgressed": 1058229,
       "NumCompleted": 3158
+    },
+    {
+      "Time": "2024-01-24T22:09:06.1650136+00:00",
+      "NumProgressed": 1058245,
+      "NumCompleted": 3158
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51462,9 +51473,9 @@
       "ID": "DogtownLaw",
       "SetID": "23nboa5",
       "Name": "The APB is Not Enough",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 374
     },
     {
       "ID": "Easycomeeasygo",
@@ -51623,21 +51634,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058229,
+      "Progressed": 1058245,
       "Completed": 3158
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186852,
+      "Progressed": 186868,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-24T21:03:48.4556496+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:09:45.0205581+00:00",
+  "LastChanged": "2024-01-24T22:03:11.9819157+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:06.1650134+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:03:48.4556502+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:09:45.0207155+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:03:11.9819172+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:06.1651583+00:00"
 }

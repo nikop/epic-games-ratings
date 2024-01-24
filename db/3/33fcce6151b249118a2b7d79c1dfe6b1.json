@@ -4,7 +4,7 @@
   "ProductSlug": "lil-guardsman-3cf46c",
   "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -69,9 +69,9 @@
       "ID": "AllianceMarvagh",
       "SetID": "8j3le2g",
       "Name": "Alliance Chosen: Marvagh",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AlliancePetrard",
@@ -157,9 +157,9 @@
       "ID": "CompleteLevel5",
       "SetID": "8j3le2g",
       "Name": "The Night Shift",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteLevel6",
@@ -460,8 +460,8 @@
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:05:18.8418001+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:04:16.173362+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:59:08.3757881+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:05:18.8418376+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:58:13.5096034+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:04:16.1733925+00:00"
 }

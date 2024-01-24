@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 132)  
+Rating: 4.76 (Ranked 133)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -405,7 +405,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-24 | 13,347 | 0 |
 ## Awards
 Max (Character Customization): 1,787  (Ranked 133)  
-Sum: 7,249 (Ranked 128)  
+Sum: 7,250 (Ranked 128)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -418,7 +418,7 @@ Diff (max vs sum): 5
 | This game has Challenging Combat | 608 |
 | This game has Quickly Understood Controls | 589 |
 | This game is Relaxing | 567 |
-| This game has a Creative Community | 410 |
+| This game has a Creative Community | 411 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -750,4 +750,4 @@ Diff (max vs sum): 5
 | 2024-01-21 | 4.76 | - | 1,787 | 7,244 |
 | 2024-01-22 | 4.76 | - | 1,787 | 7,245 |
 | 2024-01-23 | 4.76 | - | 1,787 | 7,248 |
-| 2024-01-24 | 4.76 | - | 1,787 | 7,249 |
+| 2024-01-24 | 4.76 | - | 1,787 | 7,250 |

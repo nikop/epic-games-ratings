@@ -5,19 +5,19 @@ Rating: 4.67 (Ranked 289)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 48.00% | ~651 |
+| Time Heals All Wounds | 48.00% | ~652 |
 | Rail Rat | 37.00% | ~502 |
 | The Mysterious Stranger | 36.00% | ~489 |
 | Immaculate Aim | 31.00% | ~421 |
 | The Brass Boss | 29.00% | ~394 |
 | Time Flies | 28.00% | ~380 |
 | The Prince in Heels | 28.00% | ~380 |
-| Make Up For Lost Time | 27.00% | ~366 |
-| The Harder They Fall | 27.00% | ~366 |
-| No, Thanks! | 27.00% | ~366 |
-| Honest Mistake | 27.00% | ~366 |
-| Fast Learner | 27.00% | ~366 |
-| Immaculate Aim | 27.00% | ~366 |
+| Make Up For Lost Time | 27.00% | ~367 |
+| The Harder They Fall | 27.00% | ~367 |
+| No, Thanks! | 27.00% | ~367 |
+| Honest Mistake | 27.00% | ~367 |
+| Fast Learner | 27.00% | ~367 |
+| Immaculate Aim | 27.00% | ~367 |
 | The Steel Shadow | 26.00% | ~353 |
 | Right On Time | 24.00% | ~326 |
 | Breaking Down Barriers | 24.00% | ~326 |
@@ -27,18 +27,18 @@ Rating: 4.67 (Ranked 289)
 | The Betrayer | 23.00% | ~312 |
 | Check Your Pulse | 22.00% | ~299 |
 | The Loose Cannon | 21.00% | ~285 |
-| Street Style | 20.00% | ~271 |
-| The Man Who Shattered Time | 20.00% | ~271 |
-| The Family Fortune | 20.00% | ~271 |
+| Street Style | 20.00% | ~272 |
+| The Man Who Shattered Time | 20.00% | ~272 |
+| The Family Fortune | 20.00% | ~272 |
 | Whiz Kid | 16.00% | ~217 |
 | Good Neighbor | 16.00% | ~217 |
 | Family Memories | 15.00% | ~204 |
 | Chaincrawler Explorer | 14.00% | ~190 |
 | Syron for Hope | 14.00% | ~190 |
 | Ask Questions Later | 14.00% | ~190 |
-| Treasure Trove | 13.00% | ~176 |
-| Cartographer | 13.00% | ~176 |
-| Sump Explorer | 13.00% | ~176 |
+| Treasure Trove | 13.00% | ~177 |
+| Cartographer | 13.00% | ~177 |
+| Sump Explorer | 13.00% | ~177 |
 | Factorywood Explorer | 11.00% | ~149 |
 | Theater Explorer | 11.00% | ~149 |
 | Cultivair Explorer | 10.00% | ~136 |
@@ -55,11 +55,11 @@ Rating: 4.67 (Ranked 289)
 | Fitting In | 2.00% | ~27 |
 | No Time to Waste | 1.00% | ~14 |
 | A Lesson in Precision | 0.90% | ~12 |
-| Wildlife Protection | 0.70% | ~9 |
-| Raw Talent | 0.70% | ~9 |
+| Wildlife Protection | 0.70% | ~10 |
+| Raw Talent | 0.70% | ~10 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,357 (Ranked 282)  
+Progressed: 1,358 (Ranked 282)  
 Completed: 8 (0.59%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 8 (0.59%) (Ranked 218)
 | 2024-01-21 | 1,350 | 8 |
 | 2024-01-22 | 1,352 | 8 |
 | 2024-01-23 | 1,355 | 8 |
-| 2024-01-24 | 1,357 | 8 |
+| 2024-01-24 | 1,358 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

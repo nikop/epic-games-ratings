@@ -39,6 +39,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.20% | ~2,116 |
 | Ten out of Ten | 0.20% | ~2,116 |
 | The Star | 0.20% | ~2,116 |
+| The APB is Not Enough | 0.20% | ~374 |
 | Dirty Deeds | 0.20% | ~374 |
 | City Lights | 0.10% | ~1,058 |
 | Autojock | 0.10% | ~1,058 |
@@ -56,7 +57,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.10% | ~1,058 |
 | V for Vendetta | 0.10% | ~1,058 |
 | It's Elementary | 0.10% | ~1,058 |
-| The APB is Not Enough | 0.10% | ~187 |
 | Relic Ruler | 0.10% | ~187 |
 | Judgement Day | 0.10% | ~187 |
 | King of Cups | 0.10% | ~187 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,229 (Ranked 17)  
+Progressed: 1,058,245 (Ranked 17)  
 Completed: 3,158 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,16 +353,16 @@ Completed: 3,158 (0.30%) (Ranked 266)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,058,229 | 3,158 |
+| 2024-01-24 | 1,058,245 | 3,158 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
-Sum: 518,125 (Ranked 8)  
+Sum: 518,283 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 144,777 |
 | This game has Great Boss Battles | 108,235 |
-| This game is Great for Beginners | 33,233 |
+| This game is Great for Beginners | 33,391 |
 | This game has Diverse Characters | 32,463 |
 | This game is Highly Recommended | 31,050 |
 | This game has Amazing Storytelling | 30,460 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 0
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
-| 2024-01-24 | 4.68 | - | 144,777 | 518,125 |
+| 2024-01-24 | 4.68 | - | 144,777 | 518,283 |

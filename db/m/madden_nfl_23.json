@@ -1051,7 +1051,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4557,
+  "EOS_Progressed": 4558,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -9176,6 +9176,11 @@
       "Time": "2024-01-24T06:09:43.0575901+00:00",
       "NumProgressed": 4557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T22:08:47.5328109+00:00",
+      "NumProgressed": 4558,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -9218,9 +9223,9 @@
       "ID": "achievement_13",
       "SetID": "c8fif6p",
       "Name": "Big Spender",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2416
     },
     {
       "ID": "achievement_14",
@@ -9234,9 +9239,9 @@
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2416
     },
     {
       "ID": "achievement_16",
@@ -9244,7 +9249,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "achievement_17",
@@ -9355,7 +9360,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4557,
+      "Progressed": 4558,
       "Completed": 0
     }
   ],
@@ -9363,8 +9368,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-21T01:56:27.488858+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:09:19.1193005+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:08:47.5328104+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.6554152+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:01:07.0248525+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:09:19.1193554+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:30.278769+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:08:47.5328644+00:00"
 }

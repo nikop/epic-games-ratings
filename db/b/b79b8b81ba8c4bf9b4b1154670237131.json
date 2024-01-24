@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16904,
+  "EOS_Progressed": 16905,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7348,6 +7348,11 @@
       "Time": "2024-01-24T20:11:00.7772633+00:00",
       "NumProgressed": 16904,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-24T22:09:43.0751521+00:00",
+      "NumProgressed": 16905,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7392,7 +7397,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12678
+      "UsersEstimate": 12679
     },
     {
       "ID": "ACH_AE_14",
@@ -7480,7 +7485,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "ACH_AE_24",
@@ -7488,7 +7493,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "ACH_AE_25",
@@ -7504,7 +7509,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "ACH_AE_27",
@@ -7592,7 +7597,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACH_AE_5",
@@ -7600,7 +7605,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACH_AE_6",
@@ -7639,7 +7644,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16904,
+      "Progressed": 16905,
       "Completed": 17
     }
   ],
@@ -7647,8 +7652,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:10:37.343758+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:43.0751514+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.2339366+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:00:18.2143562+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:10:37.3438109+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:58:58.3455593+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:43.0752311+00:00"
 }

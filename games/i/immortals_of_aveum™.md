@@ -5,17 +5,17 @@ Rating: 4.20 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,204 |
-| Battlefields Have Memories | 82.00% | ~2,952 |
-| Enlisted | 76.00% | ~2,736 |
-| Maybe Engage a Little | 71.00% | ~2,556 |
-| No More Names | 55.00% | ~1,980 |
-| Initiate | 42.00% | ~1,512 |
-| Thrada-Kul | 38.00% | ~1,368 |
-| Gravity-Challenged Rocks | 32.00% | ~1,152 |
-| Soldier | 28.00% | ~1,008 |
-| All the Major Food Groups | 27.00% | ~972 |
-| Socialite | 26.00% | ~936 |
+| Unforeseen | 89.00% | ~3,206 |
+| Battlefields Have Memories | 82.00% | ~2,954 |
+| Enlisted | 76.00% | ~2,738 |
+| Maybe Engage a Little | 71.00% | ~2,557 |
+| No More Names | 55.00% | ~1,981 |
+| Initiate | 42.00% | ~1,513 |
+| Thrada-Kul | 38.00% | ~1,369 |
+| Gravity-Challenged Rocks | 32.00% | ~1,153 |
+| Soldier | 28.00% | ~1,009 |
+| All the Major Food Groups | 27.00% | ~973 |
+| Socialite | 26.00% | ~937 |
 | Beggars Would Ride | 25.00% | ~900 |
 | Control is an Illusion | 24.00% | ~864 |
 | The Means to Save It | 21.00% | ~756 |
@@ -45,16 +45,16 @@ Rating: 4.20 (Ranked 974)
 | Backtracker | 1.00% | ~36 |
 | Witch-Taker | 0.90% | ~32 |
 | Master of Ultramarine | 0.90% | ~32 |
-| Petite Bourgeoisie | 0.80% | ~29 |
 | Family Business | 0.70% | ~25 |
 | Diplomat | 0.70% | ~25 |
+| Petite Bourgeoisie | 0.70% | ~25 |
 | Master of Malachite | 0.70% | ~25 |
 | Out of Time | 0.50% | ~18 |
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600 (Ranked 230)  
-Completed: 5 (0.14%) (Ranked 303)  
+Progressed: 3,602 (Ranked 230)  
+Completed: 5 (0.14%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 5 (0.14%) (Ranked 303)
 | 2024-01-21 | 3,570 | 5 |
 | 2024-01-22 | 3,582 | 5 |
 | 2024-01-23 | 3,589 | 5 |
-| 2024-01-24 | 3,600 | 5 |
+| 2024-01-24 | 3,602 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 567)  
 Sum: 46 (Ranked 524)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -408,6 +408,11 @@
       "Time": "2024-01-24T21:05:15.4200506+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T22:04:13.7910298+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -426,9 +431,9 @@
       "ID": "a_quiet_palace",
       "SetID": "41moj9p",
       "Name": "A Quiet Palace",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "all_the_kings_men",
@@ -714,9 +719,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "his_all_holiness",
@@ -850,9 +855,9 @@
       "ID": "let_us_pray",
       "SetID": "41moj9p",
       "Name": "Let Us Pray",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "let_us_trade",
@@ -898,7 +903,7 @@
       "ID": "new_mineland",
       "SetID": "41moj9p",
       "Name": "New Mineland",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -930,17 +935,17 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "pillars_of_the_earth",
       "SetID": "41moj9p",
       "Name": "Pillars of the Earth",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "playersander_the_great",
@@ -1050,9 +1055,9 @@
       "ID": "the_magnificent_nine",
       "SetID": "41moj9p",
       "Name": "The Magnificent Nine",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "the_merchant_of_venice",
@@ -1090,9 +1095,9 @@
       "ID": "time_to_find_india",
       "SetID": "41moj9p",
       "Name": "Time to find India",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "tis_but_a_scratch",
@@ -1106,9 +1111,9 @@
       "ID": "together_we_stand",
       "SetID": "41moj9p",
       "Name": "Together We Stand",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "two_sides_to_every_story",
@@ -1219,7 +1224,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
@@ -1227,8 +1232,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:05:15.4200498+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:04:13.7910294+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:01:13.225094+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:05:15.420201+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:34.3651418+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:04:13.7911424+00:00"
 }

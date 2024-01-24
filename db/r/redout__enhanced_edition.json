@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 76,
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239352,
+  "EOS_Progressed": 239351,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": -123,
+  "EOS_NewPlayers": -128,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29563,6 +29563,11 @@
       "Time": "2024-01-24T20:09:32.4676248+00:00",
       "NumProgressed": 239352,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-24T22:08:42.6415492+00:00",
+      "NumProgressed": 239351,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -29590,7 +29595,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 67019
+      "UsersEstimate": 67018
     },
     {
       "ID": "CENTAUR",
@@ -29845,15 +29850,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239352,
+      "Progressed": 239351,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:09:12.1472389+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:08:42.6415488+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:59:56.5134574+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:09:12.1473645+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:58:45.2286671+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:08:42.6417438+00:00"
 }

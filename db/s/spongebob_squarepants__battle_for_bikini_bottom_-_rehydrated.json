@@ -3611,9 +3611,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3667,8 +3667,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:04:21.3670537+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:03:34.8651508+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:58:13.7863762+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:04:21.3671103+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:57:38.5926091+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:03:34.8651877+00:00"
 }

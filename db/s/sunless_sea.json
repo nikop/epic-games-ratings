@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44869,
+  "EOS_Progressed": 44870,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29466,6 +29466,11 @@
       "Time": "2024-01-24T21:04:27.0870664+00:00",
       "NumProgressed": 44869,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T22:03:38.8696231+00:00",
+      "NumProgressed": 44870,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29675,9 +29680,9 @@
       "ID": "ach_legacypupil",
       "SetID": "ammcm",
       "Name": "Pupil",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2692
+      "UsersEstimate": 3141
     },
     {
       "ID": "ach_legacyrival",
@@ -29805,7 +29810,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "ach_stranger",
@@ -29829,7 +29834,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "ach_terror100",
@@ -29908,15 +29913,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44869,
+      "Progressed": 44870,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:04:27.0870662+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:03:38.8696226+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:59:59.3049383+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:04:27.0872413+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:58:46.8212807+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:03:38.8698001+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -2546,9 +2546,9 @@
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_KILL_100",
@@ -2667,8 +2667,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:10:23.4205386+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:33.0927597+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:06.1088777+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:58:14.7444206+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:10:23.4205668+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:57:39.1924238+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:33.0927877+00:00"
 }

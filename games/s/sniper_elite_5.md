@@ -7,14 +7,14 @@ Rating: 4.48 (Ranked 663)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,040 |
 | Confirming Suspicions | 42.00% | ~1,823 |
-| The Kraken Wakes | 38.00% | ~1,649 |
+| The Kraken Wakes | 38.00% | ~1,650 |
 | It's Starting to Crack | 35.00% | ~1,519 |
 | Change the Channel | 32.00% | ~1,389 |
-| Lord of War | 31.00% | ~1,345 |
+| Lord of War | 31.00% | ~1,346 |
 | Taking it back | 30.00% | ~1,302 |
 | Resourceful | 28.00% | ~1,215 |
 | Target America | 28.00% | ~1,215 |
-| The Kraken Sleeps | 26.00% | ~1,128 |
+| The Kraken Sleeps | 26.00% | ~1,129 |
 | Liberté | 24.00% | ~1,042 |
 | Organ Grinder | 24.00% | ~1,042 |
 | As Quiet as a Mouse | 24.00% | ~1,042 |
@@ -24,10 +24,10 @@ Rating: 4.48 (Ranked 663)
 | Climbing the Ladder | 17.00% | ~738 |
 | Just a Flesh Wound | 17.00% | ~738 |
 | Der Geist | 17.00% | ~738 |
-| Skirmisher | 16.00% | ~694 |
-| Close Quarters | 16.00% | ~694 |
-| Snake in the Grass | 16.00% | ~694 |
-| Brains of the Operation | 16.00% | ~694 |
+| Skirmisher | 16.00% | ~695 |
+| Close Quarters | 16.00% | ~695 |
+| Snake in the Grass | 16.00% | ~695 |
+| Brains of the Operation | 16.00% | ~695 |
 | No Stone Unturned | 15.00% | ~651 |
 | Fields of Glory | 15.00% | ~651 |
 | Die Nussknacker Sweet! | 15.00% | ~651 |
@@ -39,7 +39,7 @@ Rating: 4.48 (Ranked 663)
 | Rigged to Blow | 9.00% | ~391 |
 | Herr Today, Gone Tomorrow | 7.00% | ~300 |
 | The Long Game | 6.00% | ~260 |
-| Operation Foxley | 6.00% | ~257 |
+| Operation Foxley | 6.00% | ~258 |
 | Strategist | 5.00% | ~217 |
 | Tinkerer | 5.00% | ~217 |
 | It'll Buff Right Out | 5.00% | ~217 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 663)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,340 (Ranked 217)  
+Progressed: 4,341 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 11 (0.25%) (Ranked 277)
 | 2024-01-21 | 4,327 | 11 |
 | 2024-01-22 | 4,331 | 11 |
 | 2024-01-23 | 4,337 | 11 |
-| 2024-01-24 | 4,340 | 11 |
+| 2024-01-24 | 4,341 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 526)  
 Sum: 31 (Ranked 548)  

@@ -515,9 +515,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 349429,
+  "EOS_Progressed": 349449,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2704,
+  "EOS_NewPlayers": 2709,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14600,6 +14600,11 @@
       "Time": "2024-01-24T21:09:48.8198041+00:00",
       "NumProgressed": 349429,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T22:09:08.8520392+00:00",
+      "NumProgressed": 349449,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14612,7 +14617,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17471
+      "UsersEstimate": 17472
     },
     {
       "ID": "S02_BRDA",
@@ -14620,7 +14625,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13977
+      "UsersEstimate": 13978
     },
     {
       "ID": "S03_OTWA",
@@ -14652,7 +14657,7 @@
       "Name": "They tricked me",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "S07_INWA",
@@ -14660,7 +14665,7 @@
       "Name": "We need to talk",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "S08_MNSA",
@@ -14748,7 +14753,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20966
+      "UsersEstimate": 20967
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14780,7 +14785,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "S23_ETHEREAL",
@@ -14931,7 +14936,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 349429,
+      "Progressed": 349449,
       "Completed": 7
     }
   ],
@@ -14939,8 +14944,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-24T02:59:53.121966+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:09:48.8198036+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:08.8520388+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:01:35.204875+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:09:48.8198722+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:48.2675858+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:08.8521404+00:00"
 }

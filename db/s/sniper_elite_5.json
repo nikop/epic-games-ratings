@@ -685,9 +685,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 4340,
+  "EOS_Progressed": 4341,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -9970,6 +9970,11 @@
       "Time": "2024-01-24T21:10:52.2523702+00:00",
       "NumProgressed": 4340,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-24T22:09:53.8406044+00:00",
+      "NumProgressed": 4341,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -10109,7 +10114,7 @@
       "Name": "Skirmisher",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -10189,7 +10194,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -10229,7 +10234,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -10237,7 +10242,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -10245,7 +10250,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -10357,7 +10362,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -10389,7 +10394,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10453,7 +10458,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -10548,13 +10553,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4291,
+      "Progressed": 4292,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4340,
+      "Progressed": 4341,
       "Completed": 11
     }
   ],
@@ -10562,8 +10567,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:10:52.2523697+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:53.8406039+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:59:37.2343565+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:10:52.2524613+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:58:31.7103067+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:53.8407677+00:00"
 }

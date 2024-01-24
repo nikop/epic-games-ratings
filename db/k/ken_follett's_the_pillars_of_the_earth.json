@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18081,
+  "EOS_Progressed": 18082,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -19060,6 +19060,11 @@
       "Time": "2024-01-24T21:07:57.4853068+00:00",
       "NumProgressed": 18081,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-24T22:06:08.2973465+00:00",
+      "NumProgressed": 18082,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19175,7 +19180,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5243
+      "UsersEstimate": 5244
     },
     {
       "ID": "tpote_achievement_22",
@@ -19279,7 +19284,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "tpote_achievement_34",
@@ -19398,15 +19403,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18081,
+      "Progressed": 18082,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:07:57.4853065+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:06:08.2973462+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:03:31.6793278+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:07:57.4853981+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:02:59.1207099+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:06:08.2974594+00:00"
 }

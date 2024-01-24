@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19268,
+  "EOS_Progressed": 19270,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18158,6 +18158,11 @@
       "Time": "2024-01-24T20:08:20.2570378+00:00",
       "NumProgressed": 19268,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-24T22:06:04.2251664+00:00",
+      "NumProgressed": 19270,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18194,7 +18199,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "13",
@@ -18226,7 +18231,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "17",
@@ -18258,7 +18263,7 @@
       "Name": "Data Logger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "20",
@@ -18266,7 +18271,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "21",
@@ -18298,7 +18303,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "25",
@@ -18306,7 +18311,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "26",
@@ -18314,7 +18319,7 @@
       "Name": "Call it Even",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "27",
@@ -18426,7 +18431,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "34",
@@ -18449,13 +18454,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19268,
+      "Progressed": 19270,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5222,
+      "Progressed": 5224,
       "Completed": 1400
     }
   ],
@@ -18463,8 +18468,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:07:51.7130667+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:06:04.2251659+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:01:05.4004058+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:07:51.7131981+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:29.2259025+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:06:04.2252777+00:00"
 }

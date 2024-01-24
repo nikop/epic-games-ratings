@@ -11170,10 +11170,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21854,
       "NumberOfAwardsMax": 8073
+    },
+    {
+      "Time": "2024-01-24T21:59:42.5138495+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21856,
+      "NumberOfAwardsMax": 8073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21854,
+  "NumberOfAwards": 21856,
   "NumberOfAwardsMax": 8073,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11205,7 +11211,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1694
+      "Count": 1696
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11250,9 +11256,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133629,
+  "EOS_Progressed": 133633,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41360,6 +41366,11 @@
       "Time": "2024-01-24T21:11:09.2579345+00:00",
       "NumProgressed": 133629,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T22:10:06.701144+00:00",
+      "NumProgressed": 133633,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41523,7 +41534,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41675,7 +41686,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41683,7 +41694,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41723,7 +41734,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10690
+      "UsersEstimate": 10691
     },
     {
       "ID": "hero_story_complete_all",
@@ -41747,7 +41758,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "hospital_full_service",
@@ -41763,7 +41774,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41819,7 +41830,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "run_victory_act01",
@@ -41891,7 +41902,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -41995,28 +42006,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133629,
+      "Progressed": 133633,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8498,
+      "Progressed": 8502,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-24T19:00:07.9499662+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:11:09.257934+00:00",
+  "LastChanged": "2024-01-24T21:59:42.5138492+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:10:06.7011437+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:01:26.2920636+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:11:09.2581172+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:42.51385+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:10:06.7013609+00:00"
 }

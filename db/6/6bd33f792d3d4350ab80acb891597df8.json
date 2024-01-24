@@ -2,9 +2,9 @@
   "ID": "6bd33f792d3d4350ab80acb891597df8",
   "Name": "The House of Da Vinci 3",
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -749,6 +749,11 @@
       "Time": "2024-01-23T04:08:33.0891648+00:00",
       "NumProgressed": 147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T22:08:26.9111004+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -758,9 +763,9 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
@@ -768,7 +773,7 @@
       "Name": "All in a Day\u0027s Work",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
@@ -776,7 +781,7 @@
       "Name": "The Bald Lady",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -824,21 +829,21 @@
       "Name": "Ancient Enigma",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 117
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 30,
       "UsersEstimate": 104
     },
@@ -848,7 +853,7 @@
       "Name": "Chimney Sweeper",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -862,17 +867,17 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 124
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
@@ -886,9 +891,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -902,9 +907,9 @@
       "ID": "CgkIxYDzrbcPEAIQEw",
       "SetID": "4egpam7",
       "Name": "Writer",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "CgkIxYDzrbcPEAIQFA",
@@ -999,14 +1004,14 @@
     {
       "ID": "4egpam7",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:08:50.1572533+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:08:26.9111+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:21.3786845+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:57:23.505624+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:08:50.1572738+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:57:04.1892634+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:08:26.9111282+00:00"
 }

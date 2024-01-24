@@ -11073,11 +11073,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 9723,
       "NumberOfAwardsMax": 1275
+    },
+    {
+      "Time": "2024-01-24T21:57:55.2586132+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9745,
+      "NumberOfAwardsMax": 1292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9723,
-  "NumberOfAwardsMax": 1275,
+  "NumberOfAwards": 9745,
+  "NumberOfAwardsMax": 1292,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11096,13 +11102,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1244
+      "Count": 1249
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1275
+      "Count": 1292
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11164,8 +11170,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-01-24T19:58:53.8857764+00:00",
+  "LastChanged": "2024-01-24T21:57:55.2586131+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3162193+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:58:40.2632619+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:04:33.7500628+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:57:55.2586139+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:03:43.6824108+00:00"
 }

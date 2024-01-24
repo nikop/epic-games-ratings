@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,771 |
-| Beast Intentions | 2.00% | ~5,108 |
-| The Cursed Farmer | 2.00% | ~5,108 |
-| The Mad Wizard | 2.00% | ~5,108 |
+| A Brief Tour of the Realms | 5.00% | ~12,772 |
+| Beast Intentions | 2.00% | ~5,109 |
+| The Cursed Farmer | 2.00% | ~5,109 |
+| The Mad Wizard | 2.00% | ~5,109 |
 | The Ring of Regeneration | 1.00% | ~2,554 |
 | Are Ya Chicken? | 1.00% | ~2,554 |
 | Were-verpowered | 0.90% | ~2,299 |
@@ -31,12 +31,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.50% | ~1,277 |
 | Exploring Port Nyanzaru | 0.50% | ~1,277 |
 | Escort to Waterdeep | 0.50% | ~1,277 |
-| The Overgrown Grove | 0.50% | ~1,108 |
-| When Tentacles Attack | 0.50% | ~1,108 |
-| Flames of Avernus | 0.50% | ~1,108 |
-| Mental Gymnastics | 0.50% | ~1,108 |
-| Don't Lose Your Head | 0.50% | ~1,108 |
-| Mind Spike | 0.50% | ~1,108 |
+| The Overgrown Grove | 0.50% | ~1,109 |
+| When Tentacles Attack | 0.50% | ~1,109 |
+| Flames of Avernus | 0.50% | ~1,109 |
+| Mental Gymnastics | 0.50% | ~1,109 |
+| Don't Lose Your Head | 0.50% | ~1,109 |
+| Mind Spike | 0.50% | ~1,109 |
 | Low Initiative | 0.40% | ~1,022 |
 | March of the Undead | 0.40% | ~1,022 |
 | No Time To Rest | 0.40% | ~1,022 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,425 (Ranked 71)  
+Progressed: 255,433 (Ranked 71)  
 Completed: 2,639 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -832,15 +832,15 @@ Completed: 2,639 (1.03%) (Ranked 181)
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
-| 2024-01-24 | 255,425 | 2,639 |
+| 2024-01-24 | 255,433 | 2,639 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
-Sum: 33,624 (Ranked 42)  
+Sum: 33,628 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,813 |
-| This game has Diverse Characters | 5,746 |
+| This game has Diverse Characters | 5,750 |
 | This game has Quickly Understood Controls | 4,921 |
 | This game is Relaxing | 4,797 |
 | This game is Highly Recommended | 4,347 |
@@ -1212,4 +1212,4 @@ Diff (max vs sum): 33
 | 2024-01-21 | 4.07 | - | 5,810 | 33,602 |
 | 2024-01-22 | 4.07 | - | 5,813 | 33,612 |
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
-| 2024-01-24 | 4.07 | - | 5,813 | 33,624 |
+| 2024-01-24 | 4.07 | - | 5,813 | 33,628 |

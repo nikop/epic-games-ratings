@@ -35,12 +35,12 @@ Number of Ratings: 124  (23.09.2022)
 | Hotshot | 9.00% | ~26 |
 | Cleric | 8.00% | ~23 |
 | Detective | 8.00% | ~23 |
+| Self-Sufficient | 6.00% | ~17 |
 | Alchemist | 5.00% | ~14 |
-| Self-Sufficient | 5.00% | ~14 |
 | Unbreakable | 5.00% | ~14 |
 | Idealist | 4.00% | ~12 |
 | Legendary | 4.00% | ~12 |
-| Toy Time | 2.00% | ~6 |
+| Toy Time | 3.00% | ~9 |
 | Defector | 2.00% | ~6 |
 | Morkon | 2.00% | ~6 |
 | Outlaw | 2.00% | ~6 |

@@ -36,7 +36,7 @@ Rating: 4.43 (Ranked 734)
 | Berserker Slayer | 12.00% | ~92 |
 | Boss challenge | 11.00% | ~84 |
 | Giantess Slayer | 11.00% | ~84 |
-| Warden Slayer | 10.00% | ~77 |
+| Warden Slayer | 11.00% | ~84 |
 | Master Cook | 9.00% | ~69 |
 | Silver Moon Wolf King Challenge | 4.00% | ~31 |
 | Giant Lizard Challenge | 4.00% | ~31 |

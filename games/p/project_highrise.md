@@ -40,10 +40,10 @@
 | Thrilled Tenants | 11.00% | ~60 |
 | 28 Days Later | 10.00% | ~54 |
 | Terrifically Trashed | 10.00% | ~54 |
+| Swimming in Surplus | 9.00% | ~49 |
+| First 100 Days | 8.00% | ~43 |
 | Aestheticly Pleased | 8.00% | ~43 |
-| Swimming in Surplus | 8.00% | ~43 |
 | Refined Palates | 8.00% | ~43 |
-| First 100 Days | 7.00% | ~38 |
 | Plaza Plan | 7.00% | ~38 |
 | Master of Puppets | 7.00% | ~38 |
 | Phoning It In | 7.00% | ~38 |
@@ -52,6 +52,7 @@
 | Golden Opportunity | 6.00% | ~33 |
 | Careful Constructor | 5.00% | ~27 |
 | Meet Me at HQ | 5.00% | ~27 |
+| Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
 | Maximum Reuse | 5.00% | ~27 |
 | It's a Gas | 5.00% | ~27 |
@@ -60,7 +61,6 @@
 | Penthouse in the Sky | 4.00% | ~22 |
 | Baron of Business | 4.00% | ~22 |
 | I'm Busy Ruling | 4.00% | ~22 |
-| Sky High Stature | 4.00% | ~22 |
 | Tuned In | 4.00% | ~22 |
 | Decorator's Touch | 3.00% | ~16 |
 | Office Bigwigs | 3.00% | ~16 |

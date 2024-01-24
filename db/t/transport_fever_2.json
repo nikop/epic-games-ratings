@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -7256,9 +7256,9 @@
       "ID": "achBackToTheFuture",
       "SetID": "dgl390n",
       "Name": "Back to the future",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 201
     },
     {
       "ID": "achBridgeLength",
@@ -7672,8 +7672,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:10:25.6099171+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:34.6686067+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.5683931+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:03:35.4717209+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:10:25.609978+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:03:01.5564004+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:34.6687279+00:00"
 }

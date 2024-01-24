@@ -9761,10 +9761,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33624,
       "NumberOfAwardsMax": 5813
+    },
+    {
+      "Time": "2024-01-24T21:58:43.8356185+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33628,
+      "NumberOfAwardsMax": 5813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33624,
+  "NumberOfAwards": 33628,
   "NumberOfAwardsMax": 5813,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9778,7 +9784,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5746
+      "Count": 5750
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9811,9 +9817,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255425,
+  "EOS_Progressed": 255433,
   "EOS_Completed": 2639,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41531,6 +41537,11 @@
       "Time": "2024-01-24T21:11:21.9862269+00:00",
       "NumProgressed": 255425,
       "NumCompleted": 2639
+    },
+    {
+      "Time": "2024-01-24T22:10:17.1025937+00:00",
+      "NumProgressed": 255433,
+      "NumCompleted": 2639
     }
   ],
   "TotalAchievements": 546,
@@ -41542,7 +41553,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12771
+      "UsersEstimate": 12772
     },
     {
       "ID": "objective_completed_10",
@@ -41910,7 +41921,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "objective_completed_110",
@@ -43214,7 +43225,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "objective_completed_34",
@@ -44686,7 +44697,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "objective_completed_70",
@@ -45862,7 +45873,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "objective_completed_673",
@@ -45870,7 +45881,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "objective_completed_678",
@@ -45878,7 +45889,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "objective_completed_683",
@@ -45886,7 +45897,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "objective_completed_860",
@@ -45894,7 +45905,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "objective_completed_865",
@@ -45902,28 +45913,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221699,
+      "Progressed": 221707,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255425,
+      "Progressed": 255433,
       "Completed": 2639
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-24T20:59:54.3251303+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:11:21.9862265+00:00",
+  "LastChanged": "2024-01-24T21:58:43.8356184+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:10:17.1025933+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:59:54.325131+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:11:21.9883863+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:58:43.8356192+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:10:17.1048565+00:00"
 }

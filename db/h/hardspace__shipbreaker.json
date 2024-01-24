@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -2590,9 +2590,9 @@
       "ID": "ACH_ACT_3_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act III Complete",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -2799,8 +2799,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-07T01:52:54.3373134+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:10:36.4904027+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:42.3355947+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:14.8594905+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:01:37.9691543+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:10:36.4904263+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:59:50.0459997+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:42.3356251+00:00"
 }

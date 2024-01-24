@@ -5,24 +5,24 @@ Rating: 4.43 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,709 |
-| Delving Onward | 69.00% | ~268,182 |
-| Miner's Helper | 59.00% | ~229,315 |
-| Suit Up | 54.00% | ~209,882 |
-| To the Mountain's Roots | 50.00% | ~194,335 |
-| Remains To Be Seen | 35.00% | ~136,034 |
-| Covered Head to Toe | 33.00% | ~128,261 |
-| Line of Azog, Ended | 32.00% | ~124,374 |
-| Risk a Little Real Light | 31.00% | ~120,488 |
-| Caradhras The Cruel | 19.00% | ~73,847 |
-| A Memory of this Place | 18.00% | ~69,961 |
-| Battering Ram | 14.00% | ~54,414 |
-| False King, Deposed | 14.00% | ~54,414 |
-| Baruk Khazâd! | 13.00% | ~50,527 |
-| Shadow's Bane | 10.00% | ~38,867 |
-| Westgate Weaponcraft | 9.00% | ~34,980 |
-| Deeps Weaponcraft | 8.00% | ~31,094 |
-| Darkness Is Passing | 8.00% | ~31,094 |
+| Speak Friend | 82.00% | ~318,719 |
+| Delving Onward | 69.00% | ~268,191 |
+| Miner's Helper | 59.00% | ~229,322 |
+| Suit Up | 54.00% | ~209,888 |
+| To the Mountain's Roots | 50.00% | ~194,341 |
+| Remains To Be Seen | 35.00% | ~136,039 |
+| Covered Head to Toe | 33.00% | ~128,265 |
+| Line of Azog, Ended | 32.00% | ~124,378 |
+| Risk a Little Real Light | 31.00% | ~120,491 |
+| Caradhras The Cruel | 19.00% | ~73,850 |
+| A Memory of this Place | 19.00% | ~73,850 |
+| Battering Ram | 14.00% | ~54,415 |
+| False King, Deposed | 14.00% | ~54,415 |
+| Baruk Khazâd! | 13.00% | ~50,529 |
+| Shadow's Bane | 10.00% | ~38,868 |
+| Westgate Weaponcraft | 9.00% | ~34,981 |
+| Deeps Weaponcraft | 8.00% | ~31,095 |
+| Darkness Is Passing | 8.00% | ~31,095 |
 | Decked Out | 5.00% | ~19,434 |
 | Guarded from Despair | 5.00% | ~19,434 |
 | Master of All Trades | 4.00% | ~15,547 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 734)
 | Shielded | 1.00% | ~3,887 |
 | We're Gonna Need More Mugs | 0.20% | ~777 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,670 (Ranked 55)  
+Progressed: 388,682 (Ranked 55)  
 Completed: 400 (0.10%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 400 (0.10%) (Ranked 322)
 | 2024-01-21 | 387,836 | 387 |
 | 2024-01-22 | 388,142 | 391 |
 | 2024-01-23 | 388,385 | 397 |
-| 2024-01-24 | 388,670 | 400 |
+| 2024-01-24 | 388,682 | 400 |
 ## Awards
 Max (Great for Beginners): 1,006  (Ranked 164)  
 Sum: 5,763 (Ranked 142)  

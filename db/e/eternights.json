@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -3603,9 +3603,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -3756,8 +3756,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:10:07.263792+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:09:21.6749114+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:57:22.6645252+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:10:07.2638226+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:57:03.6401619+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:09:21.6749561+00:00"
 }

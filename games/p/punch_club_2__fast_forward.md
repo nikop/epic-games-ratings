@@ -58,10 +58,10 @@
 | Problems of cyborgs | 28.00% | ~170 |
 | Another world | 28.00% | ~170 |
 | The lonesome road | 28.00% | ~170 |
+| Keep nature safe | 28.00% | ~170 |
 | Family comes first | 28.00% | ~170 |
 | Key memories | 28.00% | ~170 |
 | The heart of the Resistance | 28.00% | ~170 |
-| Keep nature safe | 27.00% | ~164 |
 | Careerist | 27.00% | ~164 |
 | Trap disarmed | 26.00% | ~158 |
 | The only right decision | 26.00% | ~158 |

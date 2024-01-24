@@ -16,7 +16,7 @@
 | Medal of Exploration II | 39.00% | ~1,814 |
 | Council Legion of Merit | 39.00% | ~1,814 |
 | Missing in Action | 38.00% | ~1,768 |
-| Medal of Honor | 36.00% | ~1,675 |
+| Medal of Honor | 37.00% | ~1,721 |
 | Soldier | 36.00% | ~1,675 |
 | Meritorious Service Medal | 36.00% | ~1,675 |
 | Soldier Ally | 36.00% | ~1,675 |

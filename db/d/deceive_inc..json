@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19379,
+  "EOS_Progressed": 19380,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14905,6 +14905,11 @@
       "Time": "2024-01-24T19:08:36.7689892+00:00",
       "NumProgressed": 19379,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T22:08:23.7403953+00:00",
+      "NumProgressed": 19380,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14932,7 +14937,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3294
+      "UsersEstimate": 3295
     },
     {
       "ID": "0004",
@@ -15100,7 +15105,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "0025",
@@ -15116,7 +15121,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "0027",
@@ -15180,7 +15185,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "0035",
@@ -15203,7 +15208,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19379,
+      "Progressed": 19380,
       "Completed": 4
     }
   ],
@@ -15211,8 +15216,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:08:44.3722723+00:00",
+  "LastChanged_Achievements": "2024-01-24T22:08:23.7403947+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-24T20:57:11.7421268+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:08:44.3723446+00:00"
+  "LastUpdate_Ratings": "2024-01-24T21:56:56.4341867+00:00",
+  "LastUpdate_Achievements": "2024-01-24T22:08:23.7405157+00:00"
 }

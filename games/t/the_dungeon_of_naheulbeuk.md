@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,278 |
+| Sowwy! | 37.00% | ~92,279 |
 | Alt+F4 | 11.00% | ~27,434 |
 | Where's that freaking Dwarf? | 10.00% | ~24,940 |
 | Déjà vu | 8.00% | ~19,952 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,400 (Ranked 73)  
+Progressed: 249,403 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,15 +333,15 @@ Completed: 9 (0.00%) (Ranked 410)
 | 2024-01-21 | 249,117 | 9 |
 | 2024-01-22 | 249,232 | 9 |
 | 2024-01-23 | 249,318 | 9 |
-| 2024-01-24 | 249,400 | 9 |
+| 2024-01-24 | 249,403 | 9 |
 ## Awards
-Max (Character Customization): 273  (Ranked 278)  
-Sum: 580 (Ranked 330)  
-Diff (max vs sum): -52  
+Max (Character Customization): 276  (Ranked 277)  
+Sum: 584 (Ranked 330)  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 273 |
-| This game is Relaxing | 41 |
+| This game has Inclusive Character Customization | 276 |
+| This game is Relaxing | 42 |
 | This game is Highly Recommended | 39 |
 | This game is Great for Beginners | 38 |
 | This game has Quickly Understood Controls | 36 |
@@ -577,4 +577,4 @@ Diff (max vs sum): -52
 | 2024-01-20 | 4.59 | - | 273 | 577 |
 | 2024-01-22 | 4.58 | - | 273 | 578 |
 | 2024-01-23 | 4.58 | - | 273 | 579 |
-| 2024-01-24 | 4.58 | - | 273 | 580 |
+| 2024-01-24 | 4.58 | - | 276 | 584 |

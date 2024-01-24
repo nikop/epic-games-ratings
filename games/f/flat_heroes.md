@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 74.00% | ~502 |
+| Dash Crash | 75.00% | ~508 |
 | Snake Eyes | 60.00% | ~407 |
 | Be water, my friend | 58.00% | ~393 |
 | Fireball | 45.00% | ~305 |
