@@ -679,7 +679,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47691,
+  "EOS_Progressed": 47692,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
@@ -19759,6 +19759,11 @@
       "Time": "2024-01-24T01:54:51.5467881+00:00",
       "NumProgressed": 47691,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-24T03:04:09.3764145+00:00",
+      "NumProgressed": 47692,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19930,7 +19935,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -19986,7 +19991,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -20026,7 +20031,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "MAGIC_IVY",
@@ -20193,22 +20198,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47691,
+      "Progressed": 47692,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12528,
-      "Completed": 12528
+      "Progressed": 12529,
+      "Completed": 12529
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:30:11.4997896+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:04:09.3764142+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:29:08.9989788+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:30:11.4998902+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:03:08.2605416+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:04:09.3765645+00:00"
 }

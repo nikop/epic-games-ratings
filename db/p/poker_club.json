@@ -1189,9 +1189,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553347,
+  "EOS_Progressed": 553349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33064,6 +33064,11 @@
       "Time": "2024-01-24T02:30:27.6426305+00:00",
       "NumProgressed": 553347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T03:04:25.4578107+00:00",
+      "NumProgressed": 553349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -33083,7 +33088,7 @@
       "Name": "Backdoor",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 143870
+      "UsersEstimate": 143871
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -33171,7 +33176,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 221339
+      "UsersEstimate": 221340
     },
     {
       "ID": "DeadlyAssassin",
@@ -33227,7 +33232,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232406
+      "UsersEstimate": 232407
     },
     {
       "ID": "HoldingYourOwn",
@@ -33323,7 +33328,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420544
+      "UsersEstimate": 420545
     },
     {
       "ID": "ProPlayer",
@@ -33347,7 +33352,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 121736
+      "UsersEstimate": 121737
     },
     {
       "ID": "RegularPunter",
@@ -33434,7 +33439,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553347,
+      "Progressed": 553349,
       "Completed": 2
     }
   ],
@@ -33442,8 +33447,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-23T19:59:33.7584568+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:30:27.6426301+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:04:25.4578101+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:26:09.9453092+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:30:27.6428099+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:59:59.6911468+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:04:25.4579822+00:00"
 }

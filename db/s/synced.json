@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1905,9 +1905,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90174,
+  "EOS_Progressed": 90175,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2021,
+  "EOS_NewPlayers": 2016,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17950,6 +17950,11 @@
       "Time": "2024-01-24T02:32:26.5061043+00:00",
       "NumProgressed": 90174,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-24T03:06:24.2368881+00:00",
+      "NumProgressed": 90175,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18034,7 +18039,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12624
+      "UsersEstimate": 12625
     },
     {
       "ID": "4",
@@ -18066,7 +18071,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23445
+      "UsersEstimate": 23446
     },
     {
       "ID": "8",
@@ -18089,7 +18094,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90174,
+      "Progressed": 90175,
       "Completed": 76
     }
   ],
@@ -18097,8 +18102,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-23T13:57:48.0479941+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:32:26.5061038+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:06:24.2368877+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:24:22.070288+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:32:26.5061818+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:58:13.0983225+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:06:24.2369955+00:00"
 }

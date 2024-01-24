@@ -4912,9 +4912,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_40",
@@ -5038,8 +5038,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:35:58.228468+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:09:55.0646565+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:28:37.885988+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:35:58.2285247+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:02:36.6130471+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:09:55.064711+00:00"
 }

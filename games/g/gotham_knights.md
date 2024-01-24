@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,610 |
+| First Step Into the Knight | 50.00% | ~41,611 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,295 |
 | Loose Ends | 33.00% | ~27,463 |
 | To the Victor Go the Spoils | 27.00% | ~22,470 |
-| Knighthood | 26.00% | ~21,637 |
+| Knighthood | 26.00% | ~21,638 |
 | Get ReQ'd | 24.00% | ~19,973 |
 | Whispered Words | 24.00% | ~19,973 |
 | The Batman Family | 22.00% | ~18,309 |
@@ -22,7 +22,7 @@ Rating: 4.19 (Ranked 985)
 | Snow Problem | 19.00% | ~15,812 |
 | The Show Mud Go On | 17.00% | ~14,148 |
 | From Inside Gotham's Walls | 17.00% | ~14,148 |
-| Protector of Gotham | 16.00% | ~13,315 |
+| Protector of Gotham | 16.00% | ~13,316 |
 | In Your Element | 15.00% | ~12,483 |
 | Universal Health Scare | 15.00% | ~12,483 |
 | Rock and a Hard Place | 14.00% | ~11,651 |
@@ -38,7 +38,7 @@ Rating: 4.19 (Ranked 985)
 | Drone You Out | 10.00% | ~8,322 |
 | Out of Their League | 9.00% | ~7,490 |
 | Solid Alibi | 8.00% | ~6,658 |
-| Fusion Expert | 7.00% | ~5,825 |
+| Fusion Expert | 7.00% | ~5,826 |
 | Family Meeting | 6.00% | ~4,993 |
 | A Worthy Successor | 6.00% | ~4,993 |
 | Expert Crime Fighter | 5.00% | ~4,161 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 985)
 | The Cold, the Bad and the Ugly | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,221 (Ranked 111)  
+Progressed: 83,222 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 135 (0.16%) (Ranked 297)
 | 2024-01-21 | 83,148 | 135 |
 | 2024-01-22 | 83,185 | 135 |
 | 2024-01-23 | 83,213 | 135 |
-| 2024-01-24 | 83,221 | 135 |
+| 2024-01-24 | 83,222 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,249  (Ranked 102)  
 Sum: 5,556 (Ranked 146)  

@@ -38,12 +38,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.90% | ~2,191 |
 | Toxic | 0.90% | ~2,191 |
 | Flesh Wound | 0.90% | ~2,191 |
-| Consecutive Curses | 0.80% | ~1,947 |
-| Who To Trust? | 0.80% | ~1,947 |
-| Destroy Your Fears | 0.80% | ~1,947 |
-| Stone Touch | 0.80% | ~1,947 |
-| Shadow Walker | 0.80% | ~1,947 |
-| Shapeshifting | 0.80% | ~1,947 |
+| Consecutive Curses | 0.80% | ~1,948 |
+| Who To Trust? | 0.80% | ~1,948 |
+| Destroy Your Fears | 0.80% | ~1,948 |
+| Stone Touch | 0.80% | ~1,948 |
+| Shadow Walker | 0.80% | ~1,948 |
+| Shapeshifting | 0.80% | ~1,948 |
 | Just Chilling | 0.70% | ~1,704 |
 | Save Our Souls | 0.70% | ~1,704 |
 | Acid Bath | 0.70% | ~1,704 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,437 (Ranked 75)  
+Progressed: 243,439 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 309 (0.13%) (Ranked 309)
 | 2024-01-21 | 243,345 | 309 |
 | 2024-01-22 | 243,388 | 309 |
 | 2024-01-23 | 243,428 | 309 |
-| 2024-01-24 | 243,437 | 309 |
+| 2024-01-24 | 243,439 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,802 (Ranked 92)  

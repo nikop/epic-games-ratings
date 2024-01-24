@@ -11070,7 +11070,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 97019,
+  "EOS_Progressed": 97020,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 0,
@@ -41005,6 +41005,11 @@
       "Time": "2024-01-24T02:36:20.9605389+00:00",
       "NumProgressed": 97019,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T03:10:18.0099636+00:00",
+      "NumProgressed": 97020,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -41096,7 +41101,7 @@
       "Name": "Duelist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12612
+      "UsersEstimate": 12613
     },
     {
       "ID": "Dynasty",
@@ -41208,7 +41213,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17463
+      "UsersEstimate": 17464
     },
     {
       "ID": "Kingslayer",
@@ -41248,7 +41253,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41718
+      "UsersEstimate": 41719
     },
     {
       "ID": "Lawmaker",
@@ -41423,15 +41428,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 97019,
+      "Progressed": 97020,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-23T22:58:51.0667531+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:36:20.9605385+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:10:18.0099634+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:25:08.2081768+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:36:20.9606972+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:58:57.6511436+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:10:18.0101379+00:00"
 }

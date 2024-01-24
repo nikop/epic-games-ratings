@@ -353,9 +353,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 344060,
+  "EOS_Progressed": 344061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1758,
+  "EOS_NewPlayers": 1753,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18583,6 +18583,11 @@
       "Time": "2024-01-24T02:30:13.118261+00:00",
       "NumProgressed": 344060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T03:04:10.897963+00:00",
+      "NumProgressed": 344061,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -18619,7 +18624,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 151386
+      "UsersEstimate": 151387
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -18627,7 +18632,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 110099
+      "UsersEstimate": 110100
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -18978,13 +18983,13 @@
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 344060,
+      "Progressed": 344061,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 344049,
+      "Progressed": 344050,
       "Completed": 1
     }
   ],
@@ -18992,8 +18997,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-21T08:03:14.5032449+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:30:13.1182606+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:04:10.8979627+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:14.2029782+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:29:09.3588618+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:30:13.1183521+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:03:08.6063432+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:04:10.8980652+00:00"
 }

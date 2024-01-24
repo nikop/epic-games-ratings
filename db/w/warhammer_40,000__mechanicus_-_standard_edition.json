@@ -1122,9 +1122,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232964,
+  "EOS_Progressed": 232966,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31762,6 +31762,11 @@
       "Time": "2024-01-24T02:01:32.4459471+00:00",
       "NumProgressed": 232964,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T03:10:08.3808857+00:00",
+      "NumProgressed": 232966,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31813,7 +31818,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23296
+      "UsersEstimate": 23297
     },
     {
       "ID": "ACH_BASE_16",
@@ -31821,7 +31826,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23296
+      "UsersEstimate": 23297
     },
     {
       "ID": "ACH_BASE_17",
@@ -31837,7 +31842,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23296
+      "UsersEstimate": 23297
     },
     {
       "ID": "ACH_BASE_19",
@@ -32021,7 +32026,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30285
+      "UsersEstimate": 30286
     },
     {
       "ID": "ACH_BASE_8",
@@ -32044,7 +32049,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232964,
+      "Progressed": 232966,
       "Completed": 5
     }
   ],
@@ -32052,8 +32057,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-22T21:01:37.0351842+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:36:11.6486253+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:10:08.3808854+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:23:22.0639402+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:36:11.6487507+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:57:15.2184387+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:10:08.3810083+00:00"
 }

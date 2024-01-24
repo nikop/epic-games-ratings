@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3667,9 +3667,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47763,
+  "EOS_Progressed": 47764,
   "EOS_Completed": 375,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34707,6 +34707,11 @@
       "Time": "2024-01-24T01:57:31.8530371+00:00",
       "NumProgressed": 47763,
       "NumCompleted": 375
+    },
+    {
+      "Time": "2024-01-24T03:06:13.9762599+00:00",
+      "NumProgressed": 47764,
+      "NumCompleted": 375
     }
   ],
   "TotalAchievements": 60,
@@ -34806,7 +34811,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -34814,7 +34819,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8597
+      "UsersEstimate": 8598
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -34878,7 +34883,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17672
+      "UsersEstimate": 17673
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -34910,7 +34915,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17672
+      "UsersEstimate": 17673
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -34926,7 +34931,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20538
+      "UsersEstimate": 20539
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -34934,7 +34939,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -35022,7 +35027,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10985
+      "UsersEstimate": 10986
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -35054,7 +35059,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7164
+      "UsersEstimate": 7165
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -35110,7 +35115,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13851
+      "UsersEstimate": 13852
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -35118,7 +35123,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 33434
+      "UsersEstimate": 33435
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -35166,7 +35171,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13851
+      "UsersEstimate": 13852
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -35190,22 +35195,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12418
+      "UsersEstimate": 12419
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47763,
+      "Progressed": 47764,
       "Completed": 375
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-23T08:57:48.8794969+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:32:16.3682192+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:06:13.9762596+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.3456906+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:23:53.952255+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:32:16.3683633+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:57:44.6833007+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:06:13.9764277+00:00"
 }

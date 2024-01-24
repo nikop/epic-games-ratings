@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43829,
+  "EOS_Progressed": 43834,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2021,
+  "EOS_NewPlayers": 2022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14969,6 +14969,11 @@
       "Time": "2024-01-24T02:36:17.1159097+00:00",
       "NumProgressed": 43829,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T03:10:14.07869+00:00",
+      "NumProgressed": 43834,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -14981,7 +14986,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "achievement_10",
@@ -14989,7 +14994,7 @@
       "Name": "Seasoned Star Pilot",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_11",
@@ -15021,7 +15026,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_15",
@@ -15085,7 +15090,7 @@
       "Name": "Sound Strategy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "achievement_22",
@@ -15141,7 +15146,7 @@
       "Name": "The Trap is Set",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_29",
@@ -15157,7 +15162,7 @@
       "Name": "The Galaxy\u0027s Finest (Veteran)",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_30",
@@ -15165,7 +15170,7 @@
       "Name": "Across the Stars",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_31",
@@ -15173,7 +15178,7 @@
       "Name": "Got \u0027Em",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_32",
@@ -15189,7 +15194,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "achievement_34",
@@ -15205,7 +15210,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 41638
+      "UsersEstimate": 41642
     },
     {
       "ID": "achievement_36",
@@ -15221,7 +15226,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 5259
+      "UsersEstimate": 5260
     },
     {
       "ID": "achievement_38",
@@ -15237,7 +15242,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 10081
+      "UsersEstimate": 10082
     },
     {
       "ID": "achievement_4",
@@ -15309,7 +15314,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "achievement_5",
@@ -15341,7 +15346,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 10081
+      "UsersEstimate": 10082
     },
     {
       "ID": "achievement_9",
@@ -15356,7 +15361,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 43829,
+      "Progressed": 43834,
       "Completed": 3
     }
   ],
@@ -15364,8 +15369,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:36:17.1159092+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:10:14.0786897+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.6990258+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:29:25.571725+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:36:17.1159903+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:03:24.8483503+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:10:14.0787964+00:00"
 }

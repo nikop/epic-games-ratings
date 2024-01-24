@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258699,
+  "EOS_Progressed": 258700,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31792,6 +31792,11 @@
       "Time": "2024-01-24T01:58:26.9096973+00:00",
       "NumProgressed": 258699,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T03:03:34.0055172+00:00",
+      "NumProgressed": 258700,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31851,7 +31856,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -32211,14 +32216,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258699,
+      "Progressed": 258700,
       "Completed": 8
     }
   ],
@@ -32226,8 +32231,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-24T01:58:26.9096971+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:03:34.0055169+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:28:55.4215384+00:00",
-  "LastUpdate_Achievements": "2024-01-24T01:58:26.9098455+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:02:54.7745142+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:03:34.0059826+00:00"
 }

@@ -1,14 +1,14 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.29 (Ranked 890)  
+Rating: 4.29 (Ranked 891)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 59.00% | ~404 |
 | Mushroom Picker | 54.00% | ~369 |
-| Scrap Gatherer | 52.00% | ~356 |
+| Scrap Gatherer | 53.00% | ~363 |
 | Scrapper | 44.00% | ~301 |
 | Cook | 42.00% | ~287 |
 | Teleport | 42.00% | ~287 |

@@ -4451,9 +4451,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 434906,
+  "EOS_Progressed": 434907,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1552,
+  "EOS_NewPlayers": 1548,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27831,6 +27831,11 @@
       "Time": "2024-01-24T02:30:24.8599322+00:00",
       "NumProgressed": 434906,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-24T03:04:22.7099563+00:00",
+      "NumProgressed": 434907,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 89,
@@ -27970,7 +27975,7 @@
       "Name": "Dealmaker",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 321830
+      "UsersEstimate": 321831
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -28122,7 +28127,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 156566
+      "UsersEstimate": 156567
     },
     {
       "ID": "AchievementJustInTime",
@@ -28162,7 +28167,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 100028
+      "UsersEstimate": 100029
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -28354,7 +28359,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 221802
+      "UsersEstimate": 221803
     },
     {
       "ID": "AchievementTourismAge",
@@ -28378,7 +28383,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 100028
+      "UsersEstimate": 100029
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -28553,21 +28558,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 434247,
+      "Progressed": 434248,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 434906,
+      "Progressed": 434907,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2024-01-23T07:58:40.7396456+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:30:24.8599317+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:04:22.709956+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.0283636+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:25:22.8679004+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:30:24.8601326+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:59:12.0890154+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:04:22.7101309+00:00"
 }

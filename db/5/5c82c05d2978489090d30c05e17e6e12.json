@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76761,
+  "EOS_Progressed": 76762,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8417,6 +8417,11 @@
       "Time": "2024-01-24T02:34:54.4010651+00:00",
       "NumProgressed": 76761,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-24T03:08:50.1800997+00:00",
+      "NumProgressed": 76762,
+      "NumCompleted": 130
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8653,7 +8658,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6908
+      "UsersEstimate": 6909
     },
     {
       "ID": "Achievement_5",
@@ -8700,7 +8705,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76761,
+      "Progressed": 76762,
       "Completed": 130
     }
   ],
@@ -8708,8 +8713,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:34:54.4010645+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:08:50.1800991+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:25:00.3672634+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:34:54.4011261+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:58:48.6955764+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:08:50.1802261+00:00"
 }

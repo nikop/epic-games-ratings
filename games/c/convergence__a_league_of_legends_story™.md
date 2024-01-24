@@ -11,9 +11,9 @@ Rating: 4.67 (Ranked 289)
 | Immaculate Aim | 30.00% | ~407 |
 | The Brass Boss | 29.00% | ~393 |
 | Time Flies | 28.00% | ~380 |
+| The Prince in Heels | 28.00% | ~380 |
 | Make Up For Lost Time | 27.00% | ~366 |
 | No, Thanks! | 27.00% | ~366 |
-| The Prince in Heels | 27.00% | ~366 |
 | Honest Mistake | 27.00% | ~366 |
 | Immaculate Aim | 27.00% | ~366 |
 | The Steel Shadow | 26.00% | ~353 |
@@ -21,10 +21,10 @@ Rating: 4.67 (Ranked 289)
 | Fast Learner | 26.00% | ~353 |
 | Breaking Down Barriers | 24.00% | ~325 |
 | The Wicked Twins | 24.00% | ~325 |
+| Golem Chaser | 24.00% | ~325 |
 | Right On Time | 23.00% | ~312 |
 | Like Clockwork | 23.00% | ~312 |
 | The Betrayer | 23.00% | ~312 |
-| Golem Chaser | 23.00% | ~312 |
 | The Loose Cannon | 21.00% | ~285 |
 | Check Your Pulse | 21.00% | ~285 |
 | Street Style | 20.00% | ~271 |

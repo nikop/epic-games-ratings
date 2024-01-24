@@ -1013,9 +1013,9 @@
       "Count": 318
     }
   ],
-  "EOS_Progressed": 18911,
+  "EOS_Progressed": 18912,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12258,6 +12258,11 @@
       "Time": "2024-01-24T02:30:35.3394425+00:00",
       "NumProgressed": 18911,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-24T03:04:33.1201307+00:00",
+      "NumProgressed": 18912,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -12270,7 +12275,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15696
+      "UsersEstimate": 15697
     },
     {
       "ID": "achievement_10",
@@ -12294,7 +12299,7 @@
       "Name": "Exodus",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "achievement_13",
@@ -12358,7 +12363,7 @@
       "Name": "Lab Rat",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12859
+      "UsersEstimate": 12860
     },
     {
       "ID": "achievement_20",
@@ -12366,7 +12371,7 @@
       "Name": "Autofire",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 9077
+      "UsersEstimate": 9078
     },
     {
       "ID": "achievement_21",
@@ -12398,7 +12403,7 @@
       "Name": "Eviscerator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "achievement_25",
@@ -12430,7 +12435,7 @@
       "Name": "Story Teller",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "achievement_29",
@@ -12438,7 +12443,7 @@
       "Name": "Legend Teller",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "achievement_3",
@@ -12446,7 +12451,7 @@
       "Name": "All Systems Go",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 10779
+      "UsersEstimate": 10780
     },
     {
       "ID": "achievement_30",
@@ -12462,7 +12467,7 @@
       "Name": "Marksman",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 18344
+      "UsersEstimate": 18345
     },
     {
       "ID": "achievement_32",
@@ -12542,7 +12547,7 @@
       "Name": "There\u0027s Always Peng!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 5673
+      "UsersEstimate": 5674
     },
     {
       "ID": "achievement_41",
@@ -12558,7 +12563,7 @@
       "Name": "Brute Force",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 10590
+      "UsersEstimate": 10591
     },
     {
       "ID": "achievement_43",
@@ -12582,7 +12587,7 @@
       "Name": "Mindless Prey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "achievement_46",
@@ -12606,7 +12611,7 @@
       "Name": "True Believer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 9077
+      "UsersEstimate": 9078
     },
     {
       "ID": "achievement_6",
@@ -12622,7 +12627,7 @@
       "Name": "S.O.S.",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7375
+      "UsersEstimate": 7376
     },
     {
       "ID": "achievement_8",
@@ -12645,7 +12650,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 18911,
+      "Progressed": 18912,
       "Completed": 54
     }
   ],
@@ -12653,8 +12658,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-24T01:53:19.4002765+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:30:35.339442+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:04:33.1201303+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:32.8853693+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:28:57.6679473+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:30:35.3395409+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:02:56.8158519+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:04:33.1202027+00:00"
 }

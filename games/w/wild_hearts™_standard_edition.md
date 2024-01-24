@@ -22,9 +22,9 @@
 | Flawless Crystal | 39.00% | ~548 |
 | Counter Specialist | 36.00% | ~506 |
 | Master of the Skies | 33.00% | ~464 |
+| Axer of Auspice | 31.00% | ~436 |
 | Mighty Marmelizer | 30.00% | ~422 |
 | Fair Means or Foul | 30.00% | ~422 |
-| Axer of Auspice | 30.00% | ~422 |
 | Kemono at Heart | 29.00% | ~407 |
 | Single Minded | 27.00% | ~379 |
 | Snare Specialist | 25.00% | ~351 |

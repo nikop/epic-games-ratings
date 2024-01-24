@@ -5453,7 +5453,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83221,
+  "EOS_Progressed": 83222,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
@@ -31318,6 +31318,11 @@
       "Time": "2024-01-24T02:30:46.2964395+00:00",
       "NumProgressed": 83221,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-24T03:04:44.9183855+00:00",
+      "NumProgressed": 83222,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31425,7 +31430,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13315
+      "UsersEstimate": 13316
     },
     {
       "ID": "CLAYFACE_1",
@@ -31473,7 +31478,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5825
+      "UsersEstimate": 5826
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -31673,7 +31678,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41610
+      "UsersEstimate": 41611
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31705,7 +31710,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21637
+      "UsersEstimate": 21638
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31816,13 +31821,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83221,
+      "Progressed": 83222,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53501,
+      "Progressed": 53502,
       "Completed": 2680
     }
   ],
@@ -31830,8 +31835,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-23T15:01:04.0104619+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:30:46.296439+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:04:44.9183851+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:26:18.0358835+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:30:46.296601+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:00:08.1973314+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:04:44.9185475+00:00"
 }

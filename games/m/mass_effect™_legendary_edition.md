@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,171 |
-| Spectre Inductee | 66.00% | ~3,058 |
-| Medal of Exploration I | 56.00% | ~2,595 |
-| Recruit | 53.00% | ~2,456 |
-| Search and Rescue | 51.00% | ~2,363 |
+| Distinguished Service Medal | 90.00% | ~4,172 |
+| Spectre Inductee | 66.00% | ~3,059 |
+| Medal of Exploration I | 56.00% | ~2,596 |
+| Recruit | 53.00% | ~2,457 |
+| Search and Rescue | 51.00% | ~2,364 |
 | Quarian Ally | 49.00% | ~2,271 |
 | Medal of Heroism | 44.00% | ~2,039 |
 | Honorarium of Corporate Service | 44.00% | ~2,039 |
 | Turian Ally | 41.00% | ~1,900 |
-| Medal of Exploration II | 39.00% | ~1,807 |
-| Council Legion of Merit | 39.00% | ~1,807 |
+| Medal of Exploration II | 39.00% | ~1,808 |
+| Council Legion of Merit | 39.00% | ~1,808 |
 | Missing in Action | 38.00% | ~1,761 |
-| Medal of Honor | 36.00% | ~1,668 |
-| Soldier | 36.00% | ~1,668 |
-| Meritorious Service Medal | 36.00% | ~1,668 |
-| Soldier Ally | 36.00% | ~1,668 |
-| Charismatic | 36.00% | ~1,668 |
+| Medal of Honor | 36.00% | ~1,669 |
+| Soldier | 36.00% | ~1,669 |
+| Meritorious Service Medal | 36.00% | ~1,669 |
+| Soldier Ally | 36.00% | ~1,669 |
+| Charismatic | 36.00% | ~1,669 |
 | Very Elusive | 35.00% | ~1,622 |
 | Asari Ally | 34.00% | ~1,576 |
 | Medal of Exploration III | 32.00% | ~1,483 |
@@ -42,7 +42,7 @@
 | The Krogan | 27.00% | ~1,251 |
 | Veteran | 26.00% | ~1,205 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,205 |
-| Driven | 25.00% | ~1,158 |
+| Driven | 25.00% | ~1,159 |
 | Ghost Ship | 24.00% | ~1,112 |
 | The Assassin | 24.00% | ~1,112 |
 | The Justicar | 24.00% | ~1,112 |
@@ -59,9 +59,9 @@
 | Heart of Darkness | 23.00% | ~1,066 |
 | Bringer of War | 23.00% | ~1,066 |
 | Shopaholic | 23.00% | ~1,066 |
-| Treason | 22.00% | ~1,019 |
-| Big Game Hunter | 22.00% | ~1,019 |
-| Digital Exorcist | 22.00% | ~1,019 |
+| Treason | 22.00% | ~1,020 |
+| Big Game Hunter | 22.00% | ~1,020 |
+| Digital Exorcist | 22.00% | ~1,020 |
 | Focused | 21.00% | ~973 |
 | Archivist | 21.00% | ~973 |
 | Suicide Mission | 21.00% | ~973 |
@@ -77,7 +77,7 @@
 | Against All Odds | 20.00% | ~927 |
 | A House Divided | 20.00% | ~927 |
 | Agent | 20.00% | ~927 |
-| World Shaker | 19.00% | ~880 |
+| World Shaker | 19.00% | ~881 |
 | First Aid Specialist | 18.00% | ~834 |
 | Pathfinder | 18.00% | ~834 |
 | Tunnel Rat | 18.00% | ~834 |
@@ -85,10 +85,10 @@
 | Savior | 17.00% | ~788 |
 | Weapon Specialist | 17.00% | ~788 |
 | Arbiter | 17.00% | ~788 |
-| Party Crasher | 16.00% | ~741 |
-| Fact Finder | 16.00% | ~741 |
-| Problem Solver | 16.00% | ~741 |
-| Lost and Found | 16.00% | ~741 |
+| Party Crasher | 16.00% | ~742 |
+| Fact Finder | 16.00% | ~742 |
+| Problem Solver | 16.00% | ~742 |
+| Lost and Found | 16.00% | ~742 |
 | Under Pressure | 15.00% | ~695 |
 | Last Resort | 15.00% | ~695 |
 | Paramour II | 15.00% | ~695 |
@@ -97,16 +97,16 @@
 | Last Witness | 15.00% | ~695 |
 | No One Left Behind | 14.00% | ~649 |
 | Well Connected | 14.00% | ~649 |
-| Pyromaniac | 13.00% | ~602 |
-| Executioner | 13.00% | ~602 |
-| Patriot | 13.00% | ~602 |
-| Master and Commander | 13.00% | ~602 |
+| Pyromaniac | 13.00% | ~603 |
+| Executioner | 13.00% | ~603 |
+| Patriot | 13.00% | ~603 |
+| Master and Commander | 13.00% | ~603 |
 | Legend | 12.00% | ~556 |
 | Long Service Medal | 11.00% | ~510 |
 | Sabotage Specialist | 11.00% | ~510 |
 | Throw Mastery | 11.00% | ~510 |
-| Mail Slot | 10.00% | ~463 |
-| Electronics Specialist | 10.00% | ~463 |
+| Mail Slot | 10.00% | ~464 |
+| Electronics Specialist | 10.00% | ~464 |
 | Combined Arms | 9.00% | ~417 |
 | Always Prepared | 8.00% | ~371 |
 | Bruiser | 8.00% | ~371 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~42 |
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,634 (Ranked 212)  
+Progressed: 4,635 (Ranked 212)  
 Completed: 15 (0.32%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,4 +263,4 @@ Completed: 15 (0.32%) (Ranked 262)
 | 2024-01-21 | 4,564 | 14 |
 | 2024-01-22 | 4,594 | 14 |
 | 2024-01-23 | 4,630 | 14 |
-| 2024-01-24 | 4,634 | 15 |
+| 2024-01-24 | 4,635 | 15 |

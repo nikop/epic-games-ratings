@@ -1881,9 +1881,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 11388,
+  "EOS_Progressed": 11389,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12546,6 +12546,11 @@
       "Time": "2024-01-24T02:33:57.5199141+00:00",
       "NumProgressed": 11388,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T03:07:53.8973898+00:00",
+      "NumProgressed": 11389,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12590,7 +12595,7 @@
       "Name": "MVP",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "achievement_14",
@@ -12654,7 +12659,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6719
+      "UsersEstimate": 6720
     },
     {
       "ID": "achievement_21",
@@ -12725,7 +12730,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11388,
+      "Progressed": 11389,
       "Completed": 0
     }
   ],
@@ -12733,8 +12738,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-23T23:58:16.8753376+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:33:57.5199137+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:07:53.8973896+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:23:46.5630099+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:33:57.5199675+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:57:37.4143614+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:07:53.8974461+00:00"
 }

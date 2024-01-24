@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4269,18 +4269,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 6886,
       "NumberOfAwardsMax": 2512
+    },
+    {
+      "Time": "2024-01-24T03:02:54.3716335+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 6892,
+      "NumberOfAwardsMax": 2518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6886,
-  "NumberOfAwardsMax": 2512,
+  "NumberOfAwards": 6892,
+  "NumberOfAwardsMax": 2518,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2512
+      "Count": 2518
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4349,9 +4355,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59771,
+  "EOS_Progressed": 59772,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19629,6 +19635,11 @@
       "Time": "2024-01-24T02:34:40.534283+00:00",
       "NumProgressed": 59771,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2024-01-24T03:08:35.7801345+00:00",
+      "NumProgressed": 59772,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 45,
@@ -19760,7 +19771,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 26299
+      "UsersEstimate": 26300
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -19792,7 +19803,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17931
+      "UsersEstimate": 17932
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -19816,7 +19827,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 11356
+      "UsersEstimate": 11357
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -19832,7 +19843,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 32276
+      "UsersEstimate": 32277
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -19904,7 +19915,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57380
+      "UsersEstimate": 57381
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19944,7 +19955,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41242
+      "UsersEstimate": 41243
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -19976,7 +19987,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 30483
+      "UsersEstimate": 30484
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -19992,22 +20003,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41242
+      "UsersEstimate": 41243
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59771,
+      "Progressed": 59772,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2024-01-23T11:03:00.9369207+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:34:40.5342825+00:00",
+  "LastChanged": "2024-01-24T03:02:54.3716333+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:08:35.7801343+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.6764829+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:28:55.0284167+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:34:40.534374+00:00"
+  "LastUpdate_Ratings": "2024-01-24T03:02:54.3716339+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:08:35.780221+00:00"
 }

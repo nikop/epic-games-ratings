@@ -27,7 +27,7 @@ Rating: 4.87 (Ranked 25)
 | Alchemists Express | 23.00% | ~686 |
 | Free at last | 21.00% | ~627 |
 | A Link to the Past | 18.00% | ~537 |
-| A great audience | 15.00% | ~448 |
+| A great audience | 16.00% | ~477 |
 | For its own good | 15.00% | ~448 |
 | Fashion victim | 10.00% | ~298 |
 ## Popularity (Based on EOS Achievements)

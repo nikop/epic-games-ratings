@@ -3946,9 +3946,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243437,
+  "EOS_Progressed": 243439,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32811,6 +32811,11 @@
       "Time": "2024-01-24T02:36:25.7726398+00:00",
       "NumProgressed": 243437,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-24T03:10:22.9153425+00:00",
+      "NumProgressed": 243439,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32870,7 +32875,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "DAILY7",
@@ -33038,7 +33043,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ENDWOUNDED",
@@ -33230,7 +33235,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "KILL10000",
@@ -33478,7 +33483,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "PLAY10HOURS",
@@ -33598,7 +33603,7 @@
       "Name": "Shadow Walker",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "SURVIVEON1",
@@ -33622,7 +33627,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -33925,13 +33930,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243437,
+      "Progressed": 243439,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4917,
+      "Progressed": 4919,
       "Completed": 431
     }
   ],
@@ -33939,8 +33944,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T22:00:30.5602822+00:00",
-  "LastChanged_Achievements": "2024-01-24T02:36:25.7726391+00:00",
+  "LastChanged_Achievements": "2024-01-24T03:10:22.9153423+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-24T02:23:42.581322+00:00",
-  "LastUpdate_Achievements": "2024-01-24T02:36:25.7728825+00:00"
+  "LastUpdate_Ratings": "2024-01-24T02:57:34.6630453+00:00",
+  "LastUpdate_Achievements": "2024-01-24T03:10:22.9155835+00:00"
 }
