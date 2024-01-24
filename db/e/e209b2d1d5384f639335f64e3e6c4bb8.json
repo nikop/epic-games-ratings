@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-deserts-of-kharak",
   "Ranking_Rating": 760,
   "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 484,
+  "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 62,
@@ -353,9 +353,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 344207,
+  "EOS_Progressed": 344215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1701,
+  "EOS_NewPlayers": 1699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18683,6 +18683,11 @@
       "Time": "2024-01-24T22:04:20.2721884+00:00",
       "NumProgressed": 344207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T23:04:14.0928547+00:00",
+      "NumProgressed": 344215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -18719,7 +18724,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 151451
+      "UsersEstimate": 151455
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -18727,7 +18732,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 110146
+      "UsersEstimate": 110149
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -18735,7 +18740,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 72283
+      "UsersEstimate": 72285
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -18743,7 +18748,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 51631
+      "UsersEstimate": 51632
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -18751,7 +18756,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 41305
+      "UsersEstimate": 41306
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -18759,7 +18764,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37863
+      "UsersEstimate": 37864
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -18799,7 +18804,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24094
+      "UsersEstimate": 24095
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -18807,7 +18812,7 @@
       "Name": "Torin Crater",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24094
+      "UsersEstimate": 24095
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -18815,7 +18820,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 20652
+      "UsersEstimate": 20653
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -19071,20 +19076,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 175546
+      "UsersEstimate": 175550
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 344207,
+      "Progressed": 344215,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 344196,
+      "Progressed": 344204,
       "Completed": 1
     }
   ],
@@ -19092,8 +19097,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-21T08:03:14.5032449+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:04:20.272188+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:04:14.0928542+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:14.2029782+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:03:01.310842+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:04:20.2723032+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:02:56.8822246+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:04:14.0929484+00:00"
 }

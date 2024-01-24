@@ -4,10 +4,10 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 663,
   "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -518,7 +518,7 @@
   ],
   "EOS_Progressed": 689,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2992,9 +2992,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 324
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -3176,8 +3176,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-24T13:04:26.9223833+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:05:07.7483159+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:05:00.4317644+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:57:56.8248331+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:05:07.7483998+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:58:03.8682232+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:05:00.4318212+00:00"
 }

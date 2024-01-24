@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15281,
+  "EOS_Progressed": 15282,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11368,6 +11368,11 @@
       "Time": "2024-01-24T21:11:05.8284003+00:00",
       "NumProgressed": 15281,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-24T23:10:05.4180707+00:00",
+      "NumProgressed": 15282,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11388,7 +11393,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6265
+      "UsersEstimate": 6266
     },
     {
       "ID": "BeLikeWater",
@@ -11404,7 +11409,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ChewingTheScenery",
@@ -11420,7 +11425,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "Eavesdropper",
@@ -11524,7 +11529,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "NoMoreTotems",
@@ -11651,7 +11656,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15281,
+      "Progressed": 15282,
       "Completed": 28
     }
   ],
@@ -11659,8 +11664,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:10:04.0430381+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:10:05.4180704+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:54.166583+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:10:04.0431201+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:00:01.6355131+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:10:05.4181239+00:00"
 }

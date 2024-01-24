@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 152)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,928 |
-| First Class Student | 29.00% | ~112,310 |
-| Troll with the Punches | 27.00% | ~104,565 |
-| A Keen Sense of Spell | 24.00% | ~92,946 |
-| A Talent for Spending | 20.00% | ~77,455 |
-| That's a Keeper | 19.00% | ~73,582 |
-| Loom for Improvement | 16.00% | ~61,964 |
-| Followed the Butterflies | 15.00% | ~58,091 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,930 |
+| First Class Student | 29.00% | ~112,311 |
+| Troll with the Punches | 27.00% | ~104,566 |
+| A Keen Sense of Spell | 24.00% | ~92,947 |
+| A Talent for Spending | 20.00% | ~77,456 |
+| That's a Keeper | 19.00% | ~73,583 |
+| Loom for Improvement | 16.00% | ~61,965 |
+| Followed the Butterflies | 15.00% | ~58,092 |
 | The Defender of Dragons | 14.00% | ~54,219 |
 | Challenge Accepted | 14.00% | ~54,219 |
 | The Hallowed Hero | 13.00% | ~50,346 |
 | Coasting Along | 13.00% | ~50,346 |
-| Grappling with a Graphorn | 12.00% | ~46,473 |
-| The One Who Mastered Memories | 12.00% | ~46,473 |
-| The Hero of Hogwarts | 12.00% | ~46,473 |
-| The Spell Master | 11.00% | ~42,600 |
-| Rising From the Ashes | 11.00% | ~42,600 |
+| Grappling with a Graphorn | 12.00% | ~46,474 |
+| The One Who Mastered Memories | 12.00% | ~46,474 |
+| The Hero of Hogwarts | 12.00% | ~46,474 |
+| The Spell Master | 11.00% | ~42,601 |
+| Rising From the Ashes | 11.00% | ~42,601 |
 | The Avenging Gazelle | 9.00% | ~34,855 |
 | A Sallow Grave | 9.00% | ~34,855 |
 | Flight the Good Flight | 9.00% | ~34,855 |
@@ -29,9 +29,9 @@ Rating: 4.75 (Ranked 152)
 | Beast Friends | 8.00% | ~30,982 |
 | The Root of the Problem | 8.00% | ~30,982 |
 | The Gryffindor in the Graveyard | 8.00% | ~30,982 |
-| The Seeker of Knowledge | 7.00% | ~27,109 |
-| The Toast of the Town | 7.00% | ~27,109 |
-| Third Time's a Charm | 7.00% | ~27,109 |
+| The Seeker of Knowledge | 7.00% | ~27,110 |
+| The Toast of the Town | 7.00% | ~27,110 |
+| Third Time's a Charm | 7.00% | ~27,110 |
 | Going Through the Potions | 6.00% | ~23,237 |
 | The Ends Petrify the Means | 6.00% | ~23,237 |
 | The Wise Owl | 6.00% | ~23,237 |
@@ -47,11 +47,11 @@ Rating: 4.75 (Ranked 152)
 | Finishing Touches | 2.00% | ~7,746 |
 | A Forte for Achievement | 2.00% | ~7,746 |
 | Merlin's Beard! | 1.00% | ~3,873 |
-| Spilled Milk | 0.90% | ~3,485 |
+| Spilled Milk | 0.90% | ~3,486 |
 | The Nature of the Beast | 0.70% | ~2,711 |
 | Collector's Edition | 0.40% | ~1,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,276 (Ranked 56)  
+Progressed: 387,280 (Ranked 56)  
 Completed: 588 (0.15%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 588 (0.15%) (Ranked 301)
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
 | 2024-01-23 | 387,074 | 585 |
-| 2024-01-24 | 387,276 | 588 |
+| 2024-01-24 | 387,280 | 588 |
 ## Awards
 Max (Character Customization): 32,437  (Ranked 16)  
-Sum: 66,738 (Ranked 24)  
+Sum: 66,757 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -342,7 +342,7 @@ Diff (max vs sum): -8
 | This game is Great for Beginners | 1,947 |
 | This game is Extremely Fun | 1,850 |
 | This game has Amazing Storytelling | 1,848 |
-| This game has Diverse Characters | 1,799 |
+| This game has Diverse Characters | 1,818 |
 | This game is Relaxing | 1,797 |
 | This game is Highly Recommended | 1,763 |
 | This game has Amazing Characters | 1,761 |
@@ -658,4 +658,4 @@ Diff (max vs sum): -8
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
 | 2024-01-22 | 4.75 | 32,228 | 66,082 |
 | 2024-01-23 | 4.75 | 32,342 | 66,428 |
-| 2024-01-24 | 4.75 | 32,437 | 66,738 |
+| 2024-01-24 | 4.75 | 32,437 | 66,757 |

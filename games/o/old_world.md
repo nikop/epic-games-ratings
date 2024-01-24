@@ -127,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.70% | ~120 |
 | Devout | 0.70% | ~120 |
 | Peacemaker | 0.70% | ~120 |
+| Church of the Holy Sepulchre | 0.70% | ~120 |
 | Adur Burzen-Mihr | 0.70% | ~120 |
 | Carthage | 0.70% | ~120 |
 | Rome | 0.70% | ~120 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.70% | ~120 |
 | Jebel Barkal | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
-| Church of the Holy Sepulchre | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |
@@ -647,13 +647,13 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-24 | 17,146 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
-Sum: 1,946 (Ranked 224)  
+Sum: 1,947 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 231 |
+| This game has Diverse Characters | 229 |
 | This game is Extremely Fun | 229 |
-| This game has Diverse Characters | 228 |
 | This game is Highly Recommended | 224 |
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
@@ -864,4 +864,4 @@ Diff (max vs sum): 63
 | 2024-01-19 | 4.65 | - | 230 | 1,942 |
 | 2024-01-20 | 4.65 | - | 231 | 1,944 |
 | 2024-01-21 | 4.65 | - | 231 | 1,945 |
-| 2024-01-24 | 4.65 | - | 231 | 1,946 |
+| 2024-01-24 | 4.65 | - | 231 | 1,947 |

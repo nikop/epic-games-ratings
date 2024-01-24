@@ -2290,10 +2290,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1946,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-01-24T22:59:24.1816015+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1947,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1946,
+  "NumberOfAwards": 1947,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2301,7 +2307,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game is Extremely Fun",
@@ -22310,9 +22316,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -23811,9 +23817,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-24T14:00:22.8203692+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:10:15.7817478+00:00",
+  "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:10:17.2921366+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:15.7567685+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:10:15.7829443+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:24.1816019+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:10:17.2931665+00:00"
 }

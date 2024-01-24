@@ -27,7 +27,7 @@ Rating: 4.54 (Ranked 550)
 | Omelette Du Fromage | 27.00% | ~1,770 |
 | The Darwin Era Was Here | 26.00% | ~1,704 |
 | Deep Into Insanity | 25.00% | ~1,639 |
-| The Passenger | 24.00% | ~1,573 |
+| The Passenger | 25.00% | ~1,639 |
 | Come on, You Wanna Live Forever? | 23.00% | ~1,508 |
 | The Spire | 22.00% | ~1,442 |
 | El Riesgo Siempre Vive | 21.00% | ~1,377 |

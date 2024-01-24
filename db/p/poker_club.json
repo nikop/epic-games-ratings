@@ -1189,7 +1189,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553506,
+  "EOS_Progressed": 553510,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 0,
@@ -33164,6 +33164,11 @@
       "Time": "2024-01-24T22:04:33.9018445+00:00",
       "NumProgressed": 553506,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-24T23:04:27.624543+00:00",
+      "NumProgressed": 553510,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -33175,7 +33180,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 149447
+      "UsersEstimate": 149448
     },
     {
       "ID": "Backdoor",
@@ -33183,7 +33188,7 @@
       "Name": "Backdoor",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 143912
+      "UsersEstimate": 143913
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -33271,7 +33276,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 221402
+      "UsersEstimate": 221404
     },
     {
       "ID": "DeadlyAssassin",
@@ -33279,7 +33284,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 88561
+      "UsersEstimate": 88562
     },
     {
       "ID": "DogEatDog",
@@ -33287,7 +33292,7 @@
       "Name": "Dog Eat Dog",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38745
+      "UsersEstimate": 38746
     },
     {
       "ID": "DressToImpress",
@@ -33303,7 +33308,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33210
+      "UsersEstimate": 33211
     },
     {
       "ID": "GoForIt",
@@ -33327,7 +33332,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232473
+      "UsersEstimate": 232474
     },
     {
       "ID": "HoldingYourOwn",
@@ -33375,7 +33380,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 44280
+      "UsersEstimate": 44281
     },
     {
       "ID": "OnTheButton",
@@ -33423,7 +33428,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420665
+      "UsersEstimate": 420668
     },
     {
       "ID": "ProPlayer",
@@ -33439,7 +33444,7 @@
       "Name": "Quack Quack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38745
+      "UsersEstimate": 38746
     },
     {
       "ID": "RankAmateur",
@@ -33447,7 +33452,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 121771
+      "UsersEstimate": 121772
     },
     {
       "ID": "RegularPunter",
@@ -33495,7 +33500,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 44280
+      "UsersEstimate": 44281
     },
     {
       "ID": "ThreeWay",
@@ -33503,7 +33508,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 105166
+      "UsersEstimate": 105167
     },
     {
       "ID": "TopDog",
@@ -33519,7 +33524,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 44280
+      "UsersEstimate": 44281
     },
     {
       "ID": "WHIP",
@@ -33534,7 +33539,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553506,
+      "Progressed": 553510,
       "Completed": 2
     }
   ],
@@ -33542,8 +33547,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-23T19:59:33.7584568+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:04:33.9018441+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:04:27.6245424+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:55.1025098+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:04:33.9020131+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:00:02.5788005+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:04:27.6246805+00:00"
 }

@@ -1922,9 +1922,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_campaigns_1",
@@ -2370,9 +2370,9 @@
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_retail_1",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:04:52.425555+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:04:45.3781383+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:57:56.9581994+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:04:52.4256461+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:58:04.0573484+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:04:45.3782188+00:00"
 }

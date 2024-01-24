@@ -4,7 +4,7 @@
   "ProductSlug": "batman-arkham-knight",
   "Ranking_Rating": 69,
   "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 95,
+  "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 538,
@@ -6917,10 +6917,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10271,
       "NumberOfAwardsMax": 6455
+    },
+    {
+      "Time": "2024-01-24T22:59:11.6057825+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10273,
+      "NumberOfAwardsMax": 6455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10271,
+  "NumberOfAwards": 10273,
   "NumberOfAwardsMax": 6455,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6952,7 +6958,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 423
+      "Count": 425
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7002,8 +7008,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2024-01-24T16:59:14.6707514+00:00",
+  "LastChanged": "2024-01-24T22:59:11.6057823+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.2592844+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:02.544487+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:09:40.5554462+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:11.6057829+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:09:41.828811+00:00"
 }

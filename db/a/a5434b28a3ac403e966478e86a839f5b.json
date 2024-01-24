@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 996,
+  "EOS_Progressed": 997,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -3563,6 +3563,11 @@
       "Time": "2024-01-24T21:06:52.7344528+00:00",
       "NumProgressed": 996,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-24T23:05:15.6682282+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3575,15 +3580,15 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_eou2",
@@ -3639,7 +3644,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_mg2",
@@ -3678,7 +3683,7 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 996,
+      "Progressed": 997,
       "Completed": 12
     }
   ],
@@ -3686,8 +3691,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-24T21:59:40.9634781+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:05:23.0387238+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:05:15.6682276+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:40.9634787+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:05:23.0387573+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:49.3783159+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:05:15.6682516+00:00"
 }

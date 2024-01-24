@@ -6,22 +6,22 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~643,406 |
-| Death From Above | 44.00% | ~615,432 |
-| Master of the Household | 37.00% | ~517,522 |
-| Death of the Party | 35.00% | ~489,548 |
-| NEXUS-47 | 32.00% | ~447,587 |
-| The Last Tango | 31.00% | ~433,600 |
-| Nightmare Fuel | 30.00% | ~419,613 |
-| The Result of Previous Training | 29.00% | ~405,626 |
-| Cleared for Field Duty | 28.00% | ~391,639 |
-| Tools of the Trade | 28.00% | ~391,639 |
-| Seizing the Opportunity | 26.00% | ~363,664 |
-| Bullet Train | 21.00% | ~293,729 |
-| Stylish Assassin | 20.00% | ~279,742 |
-| Silent Assassin | 14.00% | ~195,819 |
-| Rise Up | 12.00% | ~167,845 |
-| Evil Wine Club | 11.00% | ~153,858 |
+| Unseen Assassin | 46.00% | ~643,408 |
+| Death From Above | 44.00% | ~615,434 |
+| Master of the Household | 37.00% | ~517,524 |
+| Death of the Party | 35.00% | ~489,550 |
+| NEXUS-47 | 32.00% | ~447,588 |
+| The Last Tango | 31.00% | ~433,601 |
+| Nightmare Fuel | 30.00% | ~419,614 |
+| The Result of Previous Training | 29.00% | ~405,627 |
+| Cleared for Field Duty | 28.00% | ~391,640 |
+| Tools of the Trade | 28.00% | ~391,640 |
+| Seizing the Opportunity | 26.00% | ~363,666 |
+| Bullet Train | 21.00% | ~293,730 |
+| Stylish Assassin | 20.00% | ~279,743 |
+| Silent Assassin | 14.00% | ~195,820 |
+| Rise Up | 12.00% | ~167,846 |
+| Evil Wine Club | 11.00% | ~153,859 |
 | Console Cowboy | 10.00% | ~139,871 |
 | Last Stop | 10.00% | ~139,871 |
 | A New Profile | 9.00% | ~125,884 |
@@ -32,16 +32,16 @@ Number of Ratings: 21,082  (23.09.2022)
 | Family Feud | 6.00% | ~83,923 |
 | Icebreaker | 6.00% | ~83,923 |
 | Count Down From 47 | 6.00% | ~83,923 |
-| Shortcut Killer | 5.00% | ~69,935 |
-| Followed the Trails | 5.00% | ~69,935 |
-| Last Call | 5.00% | ~69,935 |
-| Rich Harvest | 5.00% | ~69,935 |
-| Treacherous Architecture | 4.00% | ~55,948 |
-| Stair Master | 4.00% | ~55,948 |
-| Upstairs, Downstairs | 4.00% | ~55,948 |
-| The Great Outdoors | 4.00% | ~55,948 |
-| Partied Out | 4.00% | ~55,948 |
-| Surveillance Master | 4.00% | ~55,948 |
+| Shortcut Killer | 5.00% | ~69,936 |
+| Followed the Trails | 5.00% | ~69,936 |
+| Last Call | 5.00% | ~69,936 |
+| Rich Harvest | 5.00% | ~69,936 |
+| Treacherous Architecture | 4.00% | ~55,949 |
+| Stair Master | 4.00% | ~55,949 |
+| Upstairs, Downstairs | 4.00% | ~55,949 |
+| The Great Outdoors | 4.00% | ~55,949 |
+| Partied Out | 4.00% | ~55,949 |
+| Surveillance Master | 4.00% | ~55,949 |
 | Training Escalated | 3.00% | ~41,961 |
 | Warehouse Veteran | 3.00% | ~41,961 |
 | Future Shock | 3.00% | ~41,961 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,987 |
 | The Creative Assassin | 0.70% | ~9,791 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,398,709 (Ranked 9)  
+Progressed: 1,398,714 (Ranked 9)  
 Completed: 2,244 (0.16%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 2,244 (0.16%) (Ranked 298)
 | 2024-01-21 | 1,397,727 | 2,243 |
 | 2024-01-22 | 1,398,072 | 2,243 |
 | 2024-01-23 | 1,398,403 | 2,244 |
-| 2024-01-24 | 1,398,709 | 2,244 |
+| 2024-01-24 | 1,398,714 | 2,244 |
 ## Awards
 Max (Diverse Characters): 11,551  (Ranked 38)  
-Sum: 77,683 (Ranked 22)  
+Sum: 77,694 (Ranked 22)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): 16
 | This game is Extremely Fun | 9,769 |
 | This game has Amazing Storytelling | 9,664 |
 | This game has Amazing Characters | 9,528 |
-| This game has a Creative Community | 9,105 |
+| This game has a Creative Community | 9,116 |
 | This game has Quickly Understood Controls | 8,983 |
 | This game is Relaxing | 8,861 |
 | This game is Great for Beginners | 8,394 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 16
 | 2024-01-21 | 4.77 | - | 11,507 | 77,527 |
 | 2024-01-22 | 4.77 | - | 11,522 | 77,570 |
 | 2024-01-23 | 4.77 | - | 11,540 | 77,637 |
-| 2024-01-24 | 4.77 | - | 11,551 | 77,683 |
+| 2024-01-24 | 4.77 | - | 11,551 | 77,694 |

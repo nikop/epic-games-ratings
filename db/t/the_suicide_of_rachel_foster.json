@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1865,
+  "EOS_Progressed": 1866,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -4398,6 +4398,11 @@
       "Time": "2024-01-24T12:04:59.8764498+00:00",
       "NumProgressed": 1865,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-24T23:04:02.0307893+00:00",
+      "NumProgressed": 1866,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 11,
@@ -4417,7 +4422,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4449,7 +4454,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH_FineGioco",
@@ -4465,7 +4470,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -4473,7 +4478,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -4496,15 +4501,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1865,
+      "Progressed": 1866,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:04:07.3512978+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:04:02.0307891+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:52.6871318+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:02:56.2041193+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:04:07.3513298+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:02:51.8858972+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:04:02.0308173+00:00"
 }

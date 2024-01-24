@@ -388,9 +388,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "631i43e",
       "Name": "Got Your Back",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -500,9 +500,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "631i43e",
       "Name": "Largeville",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -763,8 +763,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:09:35.2918714+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:09:36.6806184+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:21.0521021+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:28.63098+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:09:35.291926+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:36.4729478+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:09:36.6806603+00:00"
 }

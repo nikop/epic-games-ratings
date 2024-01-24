@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25319,
+  "EOS_Progressed": 25320,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
@@ -24329,6 +24329,11 @@
       "Time": "2024-01-24T22:03:48.3767846+00:00",
       "NumProgressed": 25319,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-24T23:03:42.7679019+00:00",
+      "NumProgressed": 25320,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24444,22 +24449,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25319,
+      "Progressed": 25320,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:03:48.3767842+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:03:42.7679014+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:26.8757258+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:03:48.3769345+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:34.7068206+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:03:42.7680216+00:00"
 }

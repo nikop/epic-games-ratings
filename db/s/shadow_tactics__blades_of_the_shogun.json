@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2602,9 +2602,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 228114,
+  "EOS_Progressed": 228117,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1582,
+  "EOS_NewPlayers": 1580,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34812,6 +34812,11 @@
       "Time": "2024-01-24T22:08:18.5772572+00:00",
       "NumProgressed": 228114,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-24T23:08:19.1789083+00:00",
+      "NumProgressed": 228117,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -34863,7 +34868,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20530
+      "UsersEstimate": 20531
     },
     {
       "ID": "FiveShadows",
@@ -34935,7 +34940,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6843
+      "UsersEstimate": 6844
     },
     {
       "ID": "Jonin",
@@ -35039,7 +35044,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20530
+      "UsersEstimate": 20531
     },
     {
       "ID": "Rollin",
@@ -35047,7 +35052,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20530
+      "UsersEstimate": 20531
     },
     {
       "ID": "StillRollin",
@@ -35079,7 +35084,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20530
+      "UsersEstimate": 20531
     },
     {
       "ID": "TheCave",
@@ -35103,7 +35108,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6843
+      "UsersEstimate": 6844
     },
     {
       "ID": "Thorough",
@@ -35174,15 +35179,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 228114,
+      "Progressed": 228117,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-24T21:58:01.6726985+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:08:18.5772569+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:08:19.178908+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:58:01.6726991+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:08:18.5773937+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:58:09.0515132+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:08:19.1791049+00:00"
 }

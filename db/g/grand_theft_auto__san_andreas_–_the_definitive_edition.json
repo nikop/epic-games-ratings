@@ -6,9 +6,9 @@
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2671,9 +2671,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 19835,
+  "EOS_Progressed": 19836,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21421,6 +21421,11 @@
       "Time": "2024-01-24T21:11:06.6300116+00:00",
       "NumProgressed": 19835,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2024-01-24T23:10:05.9939409+00:00",
+      "NumProgressed": 19836,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 35,
@@ -21432,7 +21437,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16066
+      "UsersEstimate": 16067
     },
     {
       "ID": "ACH02",
@@ -21440,7 +21445,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ACH03",
@@ -21711,7 +21716,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19835,
+      "Progressed": 19836,
       "Completed": 83
     }
   ],
@@ -21719,8 +21724,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-24T17:58:55.0029711+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:10:04.6675353+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:10:05.9939406+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:58:17.0645602+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:10:04.6676391+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:58:25.6247855+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:10:05.9940266+00:00"
 }

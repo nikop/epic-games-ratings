@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9817,10 +9817,10 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255433,
-  "EOS_Completed": 2639,
-  "EOS_NewPlayers": 973,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 255441,
+  "EOS_Completed": 2640,
+  "EOS_NewPlayers": 972,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -41542,6 +41542,11 @@
       "Time": "2024-01-24T22:10:17.1025937+00:00",
       "NumProgressed": 255433,
       "NumCompleted": 2639
+    },
+    {
+      "Time": "2024-01-24T23:10:18.569649+00:00",
+      "NumProgressed": 255441,
+      "NumCompleted": 2640
     }
   ],
   "TotalAchievements": 546,
@@ -45297,7 +45302,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "objective_completed_902",
@@ -45920,21 +45925,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221707,
+      "Progressed": 221715,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255433,
-      "Completed": 2639
+      "Progressed": 255441,
+      "Completed": 2640
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T21:58:43.8356184+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:10:17.1025933+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:10:18.5696486+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:58:43.8356192+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:10:17.1048565+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:58:51.8941987+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:10:18.5719486+00:00"
 }

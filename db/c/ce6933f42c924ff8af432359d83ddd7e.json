@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.39,
   "EosHistory": [
@@ -3259,6 +3259,11 @@
       "Time": "2024-01-24T18:10:45.0413006+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-24T23:09:54.8903119+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3271,7 +3276,7 @@
       "Name": "Time traveller",
       "Percentage": 21,
       "XP": 140,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_CUBES",
@@ -3279,7 +3284,7 @@
       "Name": "Brain-teaser",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_DONUTS",
@@ -3311,7 +3316,7 @@
       "Name": "Evil plan",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -3327,7 +3332,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -3335,7 +3340,7 @@
       "Name": "Fast as lightning",
       "Percentage": 7,
       "XP": 180,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_THE_END",
@@ -3343,21 +3348,21 @@
       "Name": "Exit",
       "Percentage": 57,
       "XP": 65,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:09:53.4051097+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:09:54.8903117+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:10.3938259+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:18.3008457+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:09:53.4051354+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:26.6166781+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:09:54.8903381+00:00"
 }

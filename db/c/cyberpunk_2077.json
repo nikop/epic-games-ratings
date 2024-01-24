@@ -19052,9 +19052,9 @@
       "Count": 20059
     }
   ],
-  "EOS_Progressed": 1058245,
+  "EOS_Progressed": 1058255,
   "EOS_Completed": 3158,
-  "EOS_NewPlayers": 4440,
+  "EOS_NewPlayers": 4434,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51087,6 +51087,11 @@
       "Time": "2024-01-24T22:09:06.1650136+00:00",
       "NumProgressed": 1058245,
       "NumCompleted": 3158
+    },
+    {
+      "Time": "2024-01-24T23:09:07.5342326+00:00",
+      "NumProgressed": 1058255,
+      "NumCompleted": 3158
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51115,7 +51120,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "Cyberjunkie",
@@ -51171,7 +51176,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "Gunslinger",
@@ -51243,7 +51248,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "NoMansLand",
@@ -51275,7 +51280,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "Specialist",
@@ -51283,15 +51288,15 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "Temperance",
       "SetID": "47clieb",
       "Name": "Temperance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1058
+      "UsersEstimate": 2117
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -51315,7 +51320,7 @@
       "Name": "The Fool",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "TheHermit",
@@ -51347,7 +51352,7 @@
       "Name": "The Star",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "TheSun",
@@ -51371,7 +51376,7 @@
       "Name": "The World",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "ThisIsPacifica",
@@ -51634,21 +51639,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058245,
+      "Progressed": 1058255,
       "Completed": 3158
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186868,
+      "Progressed": 186878,
       "Completed": 10695
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-24T22:03:11.9819157+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:09:06.1650134+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:09:07.5342324+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:03:11.9819172+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:09:06.1651583+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:03:05.5136825+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:09:07.5343871+00:00"
 }

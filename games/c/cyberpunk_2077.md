@@ -16,11 +16,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.70% | ~7,408 |
 | The Wheel of Fortune | 0.70% | ~7,408 |
 | Legend of The Afterlife | 0.70% | ~7,408 |
-| Bushido and Chill | 0.60% | ~6,349 |
-| Gun Fu | 0.60% | ~6,349 |
-| Stanislavski's Method | 0.60% | ~6,349 |
-| The Fool | 0.60% | ~6,349 |
-| The World | 0.60% | ~6,349 |
+| Bushido and Chill | 0.60% | ~6,350 |
+| Gun Fu | 0.60% | ~6,350 |
+| Stanislavski's Method | 0.60% | ~6,350 |
+| The Fool | 0.60% | ~6,350 |
+| The World | 0.60% | ~6,350 |
 | All the President's Men | 0.60% | ~1,121 |
 | Arachnophobia | 0.60% | ~1,121 |
 | Master Crafter | 0.50% | ~5,291 |
@@ -36,9 +36,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.30% | ~561 |
 | King of Wands | 0.30% | ~561 |
 | Easy Come, Easy Go | 0.30% | ~561 |
-| Breathtaking | 0.20% | ~2,116 |
-| Ten out of Ten | 0.20% | ~2,116 |
-| The Star | 0.20% | ~2,116 |
+| Breathtaking | 0.20% | ~2,117 |
+| Ten out of Ten | 0.20% | ~2,117 |
+| Temperance | 0.20% | ~2,117 |
+| The Star | 0.20% | ~2,117 |
 | The APB is Not Enough | 0.20% | ~374 |
 | Dirty Deeds | 0.20% | ~374 |
 | City Lights | 0.10% | ~1,058 |
@@ -50,7 +51,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Must Be Rats | 0.10% | ~1,058 |
 | The Wasteland | 0.10% | ~1,058 |
 | Daemon In The Shell | 0.10% | ~1,058 |
-| Temperance | 0.10% | ~1,058 |
 | Rough Landing | 0.10% | ~1,058 |
 | The Devil | 0.10% | ~1,058 |
 | Greetings from Pacifica! | 0.10% | ~1,058 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,245 (Ranked 17)  
+Progressed: 1,058,255 (Ranked 17)  
 Completed: 3,158 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 3,158 (0.30%) (Ranked 266)
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
-| 2024-01-24 | 1,058,245 | 3,158 |
+| 2024-01-24 | 1,058,255 | 3,158 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
 Sum: 518,283 (Ranked 8)  

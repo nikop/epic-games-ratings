@@ -1721,9 +1721,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8077,
+  "EOS_Progressed": 8078,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17306,6 +17306,11 @@
       "Time": "2024-01-24T22:05:55.320013+00:00",
       "NumProgressed": 8077,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-24T23:05:47.9009982+00:00",
+      "NumProgressed": 8078,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17349,7 +17354,7 @@
       "Name": "Green Thumb",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 5492
+      "UsersEstimate": 5493
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -17357,15 +17362,15 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "HARVEST_CROP_50",
       "SetID": "5349c2e",
       "Name": "Reap What You Sow",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 5896
+      "UsersEstimate": 5978
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17429,7 +17434,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -17477,7 +17482,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5654
+      "UsersEstimate": 5655
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17485,7 +17490,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -17493,7 +17498,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -17517,7 +17522,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -17525,7 +17530,7 @@
       "Name": "Novice Researcher",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5573
+      "UsersEstimate": 5574
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17549,7 +17554,7 @@
       "Name": "Onward",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 4765
+      "UsersEstimate": 4766
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17564,15 +17569,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8077,
+      "Progressed": 8078,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-24T18:59:09.0330203+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:05:55.3200126+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:05:47.9009978+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.945305+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:58:49.0404365+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:05:55.32011+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:58:57.4273033+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:05:47.901093+00:00"
 }

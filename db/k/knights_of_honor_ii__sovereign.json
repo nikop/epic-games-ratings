@@ -5,7 +5,7 @@
   "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 146,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -413,6 +413,11 @@
       "Time": "2024-01-24T22:04:13.7910298+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T23:04:07.8183536+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -455,9 +460,9 @@
       "ID": "battle_of_the_four_armies",
       "SetID": "41moj9p",
       "Name": "Battle of the Four Armies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "big_apple",
@@ -505,7 +510,7 @@
       "Name": "Bring it on!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "brutus",
@@ -599,9 +604,9 @@
       "ID": "dinner_time",
       "SetID": "41moj9p",
       "Name": "Dinner Time",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "do_you_read",
@@ -705,7 +710,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "he_made_it_out",
@@ -721,7 +726,7 @@
       "Name": "Help! Help! I\u2019m being repressed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "his_all_holiness",
@@ -937,7 +942,7 @@
       "Name": "Path of Glory",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1047,9 +1052,9 @@
       "ID": "the_finest_merchandise",
       "SetID": "41moj9p",
       "Name": "The finest merchandise this side of river Jordan",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "the_magnificent_nine",
@@ -1081,7 +1086,7 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -1224,7 +1229,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
@@ -1232,8 +1237,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:04:13.7910294+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:04:07.8183533+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:34.3651418+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:04:13.7911424+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:43.2736897+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:04:07.8184455+00:00"
 }

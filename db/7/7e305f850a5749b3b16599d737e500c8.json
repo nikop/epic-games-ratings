@@ -4,8 +4,8 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -1508,9 +1508,9 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "Fixer",
@@ -1580,9 +1580,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "Street_food",
@@ -1604,9 +1604,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
@@ -1619,8 +1619,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2024-01-24T21:08:26.7299464+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:03:17.7732198+00:00",
   "LastUpdate_AppInfo": "2024-01-23T10:56:58.4114323+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:58:59.2312553+00:00",
-  "LastUpdate_Achievements": "2024-01-24T21:08:26.7299638+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:08.4245742+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:03:17.7748286+00:00"
 }

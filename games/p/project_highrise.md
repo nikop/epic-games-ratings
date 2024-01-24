@@ -8,7 +8,7 @@
 | Starting Skyward | 48.00% | ~260 |
 | Grime is Not Good | 41.00% | ~222 |
 | Floor Galore | 36.00% | ~195 |
-| Campaign Launch | 35.00% | ~190 |
+| Campaign Launch | 36.00% | ~195 |
 | Dinner Dash | 35.00% | ~190 |
 | Need a Consult | 33.00% | ~179 |
 | It's Technical | 33.00% | ~179 |
@@ -33,8 +33,8 @@
 | Rehab Expert | 15.00% | ~81 |
 | Established Fame | 15.00% | ~81 |
 | Under One Roof | 13.00% | ~70 |
+| Starred Dining | 13.00% | ~70 |
 | Cashflow Chief | 13.00% | ~70 |
-| Starred Dining | 12.00% | ~65 |
 | Smooth Operator | 11.00% | ~60 |
 | Boutique Benefits | 11.00% | ~60 |
 | Thrilled Tenants | 11.00% | ~60 |

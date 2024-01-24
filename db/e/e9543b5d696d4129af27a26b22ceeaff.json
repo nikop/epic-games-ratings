@@ -454,17 +454,17 @@
       "ID": "ACH_ASSISTS_DELIVERY",
       "SetID": "1lnhagg",
       "Name": "Best Assistant",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:04:16.8010006+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:04:10.7467086+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:02:34.1024724+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:04:16.8010263+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:00:19.1089009+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:04:10.7467287+00:00"
 }

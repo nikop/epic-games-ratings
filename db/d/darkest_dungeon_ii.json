@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11256,9 +11256,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133633,
+  "EOS_Progressed": 133635,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41371,6 +41371,11 @@
       "Time": "2024-01-24T22:10:06.701144+00:00",
       "NumProgressed": 133633,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-24T23:10:08.1526648+00:00",
+      "NumProgressed": 133635,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41918,7 +41923,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "combat_kill_collector",
@@ -42013,21 +42018,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133633,
+      "Progressed": 133635,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8502,
+      "Progressed": 8504,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-24T21:59:42.5138492+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:10:06.7011437+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:10:08.1526646+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:42.51385+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:10:06.7013609+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:50.9882254+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:10:08.1528244+00:00"
 }

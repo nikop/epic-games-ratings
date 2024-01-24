@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,596 |
-| Space Colonization | 78.00% | ~1,296 |
-| Friendzone | 77.00% | ~1,280 |
-| Hello World | 71.00% | ~1,180 |
-| Tinkerer | 60.00% | ~997 |
-| Space Engineer | 59.00% | ~981 |
-| Dust to Dust | 55.00% | ~914 |
-| Across The Stars | 43.00% | ~715 |
-| Crafty | 41.00% | ~681 |
-| All Seats Taken | 34.00% | ~565 |
-| For Science! | 31.00% | ~515 |
+| Don't Panic! | 96.00% | ~1,597 |
+| Space Colonization | 78.00% | ~1,298 |
+| Friendzone | 76.00% | ~1,265 |
+| Hello World | 71.00% | ~1,181 |
+| Tinkerer | 60.00% | ~998 |
+| Space Engineer | 59.00% | ~982 |
+| Dust to Dust | 55.00% | ~915 |
+| Across The Stars | 43.00% | ~716 |
+| Crafty | 41.00% | ~682 |
+| All Seats Taken | 34.00% | ~566 |
+| For Science! | 31.00% | ~516 |
 | Meet the Petersons | 30.00% | ~499 |
-| Stay Cool | 26.00% | ~432 |
 | KIA | 25.00% | ~416 |
+| Stay Cool | 25.00% | ~416 |
 | Mutiny in making | 22.00% | ~366 |
-| Et tu, Astrocitizen? | 18.00% | ~299 |
+| Et tu, Astrocitizen? | 18.00% | ~300 |
 | Eco-Shuttle | 16.00% | ~266 |
 | Space Explorer | 13.00% | ~216 |
 | Hands Full | 11.00% | ~183 |
@@ -32,7 +32,7 @@
 | Axel jump in space! | 5.00% | ~83 |
 | Fix-It Felix | 5.00% | ~83 |
 | Flawless Maegangement | 5.00% | ~83 |
-| Extreme Makeover | 4.00% | ~66 |
+| Extreme Makeover | 4.00% | ~67 |
 | The Improvinator | 3.00% | ~50 |
 | The Last Supper | 3.00% | ~50 |
 | 2018: A Soup Odyssey | 2.00% | ~33 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,662 (Ranked 268)  
+Progressed: 1,664 (Ranked 268)  
 Completed: 1 (0.06%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 1 (0.06%) (Ranked 341)
 | 2024-01-21 | 1,495 | 1 |
 | 2024-01-22 | 1,590 | 1 |
 | 2024-01-23 | 1,644 | 1 |
-| 2024-01-24 | 1,662 | 1 |
+| 2024-01-24 | 1,664 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

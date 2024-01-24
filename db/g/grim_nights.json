@@ -455,9 +455,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_lose",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2024-01-24T22:04:45.0443591+00:00",
+  "LastChanged_Achievements": "2024-01-24T23:04:38.05606+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.3551279+00:00",
-  "LastUpdate_Ratings": "2024-01-24T21:59:02.1857742+00:00",
-  "LastUpdate_Achievements": "2024-01-24T22:04:45.0443699+00:00"
+  "LastUpdate_Ratings": "2024-01-24T22:59:11.2500083+00:00",
+  "LastUpdate_Achievements": "2024-01-24T23:04:38.0560772+00:00"
 }

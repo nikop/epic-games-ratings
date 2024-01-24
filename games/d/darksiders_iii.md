@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 57.00% | ~393 |
 | Just the start | 50.00% | ~344 |
 | Perfect Storm | 47.00% | ~324 |
-| All That Glitters | 46.00% | ~317 |
+| All That Glitters | 47.00% | ~324 |
 | Enhance! | 43.00% | ~296 |
 | One Of the Chosen | 42.00% | ~289 |
 | Devil's in the Details | 41.00% | ~282 |
@@ -114,8 +114,8 @@ Completed: 2 (0.29%) (Ranked 268)
 | 2024-01-24 | 689 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 382)  
-Sum: 101 (Ranked 474)  
-Diff (max vs sum): -92  
+Sum: 101 (Ranked 475)  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 101 |
