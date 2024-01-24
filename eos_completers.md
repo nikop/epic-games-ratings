@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.30% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.29% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -46,7 +46,7 @@
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.28% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
-| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.92% |
+| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.89% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
@@ -62,7 +62,7 @@
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.06% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
-| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.82% |
+| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
@@ -82,7 +82,7 @@
 | 80 | [ZZT!](games/z/zzt!.md) | 4.78% |
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.73% |
 | 82 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
-| 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.70% |
+| 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
 | 84 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
@@ -118,7 +118,7 @@
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.88% |
 | 117 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
 | 118 | [Lamentum](games/l/lamentum.md) | 2.86% |
-| 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.83% |
+| 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.82% |
 | 120 | [Without Escape](games/w/without_escape.md) | 2.78% |
 | 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
@@ -846,4 +846,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,881 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,883 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
