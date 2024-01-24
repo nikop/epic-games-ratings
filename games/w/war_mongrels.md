@@ -47,9 +47,9 @@ Number of Ratings: 34  (23.09.2022)
 | The Good Samaritan | 5.00% | ~40 |
 | Collectibles of Chapter VIII | 4.00% | ~32 |
 | Collectibles of Chapter XI | 4.00% | ~32 |
+| Collectibles of Chapter IX | 3.00% | ~24 |
 | Collectibles of Chapter X | 3.00% | ~24 |
 | Collectibles of Chapter VI | 2.00% | ~16 |
-| Collectibles of Chapter IX | 2.00% | ~16 |
 | Daddy Would Be Proud | 2.00% | ~16 |
 | Hold a Door | 1.00% | ~8 |
 | Warm Up | 0.40% | ~3 |

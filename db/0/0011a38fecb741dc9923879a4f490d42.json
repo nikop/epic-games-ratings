@@ -4,7 +4,7 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -247,9 +247,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "631i43e",
       "Name": "Manipulator",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -383,9 +383,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "631i43e",
       "Name": "Got Your Back",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -431,9 +431,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "631i43e",
       "Name": "Might Close Early",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -535,9 +535,9 @@
       "ID": "NEW_ACHIEVEMENT_2_14",
       "SetID": "631i43e",
       "Name": "Heavy Duty Medicine",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_15",
@@ -679,9 +679,9 @@
       "ID": "NEW_ACHIEVEMENT_2_30",
       "SetID": "631i43e",
       "Name": "Backpages",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_31",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:10:49.3050122+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:10:45.1238026+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:21.0521021+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:01:00.9858257+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:10:49.3050541+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:00:51.2948326+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:10:45.1238545+00:00"
 }

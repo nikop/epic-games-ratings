@@ -1,29 +1,29 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.72 (Ranked 199)  
+Rating: 4.71 (Ranked 206)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,823 |
-| First of Many | 12.00% | ~35,836 |
-| Not Your Average Trait | 10.00% | ~29,864 |
-| Expanding Horizons | 9.00% | ~26,877 |
-| Gleaming the Cube | 8.00% | ~23,891 |
-| Quest for Survival | 8.00% | ~23,891 |
-| Familiar Face | 8.00% | ~23,891 |
-| Boss'n Up | 8.00% | ~23,891 |
-| Trait Chaser | 8.00% | ~23,891 |
-| Not So Special Now | 7.00% | ~20,904 |
-| Not a Janitor | 7.00% | ~20,904 |
-| Duality | 7.00% | ~20,904 |
-| Equal Measures | 6.00% | ~17,918 |
-| Blue Goddess | 6.00% | ~17,918 |
-| Top Performer | 6.00% | ~17,918 |
-| Shhh...It's a Secret | 6.00% | ~17,918 |
-| Almost There | 6.00% | ~17,918 |
-| Make Some Room | 6.00% | ~17,918 |
-| Good, But Could Be Better! | 6.00% | ~17,918 |
+| The Killing Jar | 13.00% | ~38,824 |
+| First of Many | 12.00% | ~35,838 |
+| Not Your Average Trait | 10.00% | ~29,865 |
+| Expanding Horizons | 9.00% | ~26,878 |
+| Gleaming the Cube | 8.00% | ~23,892 |
+| Quest for Survival | 8.00% | ~23,892 |
+| Familiar Face | 8.00% | ~23,892 |
+| Boss'n Up | 8.00% | ~23,892 |
+| Trait Chaser | 8.00% | ~23,892 |
+| Not So Special Now | 7.00% | ~20,905 |
+| Not a Janitor | 7.00% | ~20,905 |
+| Duality | 7.00% | ~20,905 |
+| Equal Measures | 6.00% | ~17,919 |
+| Blue Goddess | 6.00% | ~17,919 |
+| Top Performer | 6.00% | ~17,919 |
+| Shhh...It's a Secret | 6.00% | ~17,919 |
+| Almost There | 6.00% | ~17,919 |
+| Make Some Room | 6.00% | ~17,919 |
+| Good, But Could Be Better! | 6.00% | ~17,919 |
 | Am I Seeing This? | 5.00% | ~14,932 |
 | Chaos | 5.00% | ~14,932 |
 | Traitor | 5.00% | ~14,932 |
@@ -33,12 +33,12 @@ Rating: 4.72 (Ranked 199)
 | Was This Supposed To Happen? | 5.00% | ~14,932 |
 | The Web | 5.00% | ~14,932 |
 | Scrap Collector | 5.00% | ~14,932 |
-| Forever is a Long Time Coming | 4.00% | ~11,945 |
-| Madman's Paradise | 4.00% | ~11,945 |
-| The Agenda | 4.00% | ~11,945 |
-| Bad Moon Rising | 4.00% | ~11,945 |
-| Strapped | 4.00% | ~11,945 |
-| All These Traits� | 4.00% | ~11,945 |
+| Forever is a Long Time Coming | 4.00% | ~11,946 |
+| Madman's Paradise | 4.00% | ~11,946 |
+| The Agenda | 4.00% | ~11,946 |
+| Bad Moon Rising | 4.00% | ~11,946 |
+| Strapped | 4.00% | ~11,946 |
+| All These Traits� | 4.00% | ~11,946 |
 | Tall Tales | 3.00% | ~8,959 |
 | Edgelord | 3.00% | ~8,959 |
 | Scrap Hoarder | 3.00% | ~8,959 |
@@ -58,10 +58,10 @@ Rating: 4.72 (Ranked 199)
 | Maxed Out! | 2.00% | ~5,973 |
 | Proving Grounds | 1.00% | ~2,986 |
 | Succession | 0.90% | ~700 |
-| You Shall Pass | 0.80% | ~622 |
+| You Shall Pass | 0.80% | ~623 |
 | A Foul Feast | 0.50% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,635 (Ranked 65)  
+Progressed: 298,648 (Ranked 65)  
 Completed: 1,235 (0.41%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 1,235 (0.41%) (Ranked 247)
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
-| 2024-01-24 | 298,635 | 1,235 |
+| 2024-01-24 | 298,648 | 1,235 |
 ## Awards
 Max (Great Boss Battles): 7,540  (Ranked 56)  
-Sum: 17,334 (Ranked 65)  
+Sum: 17,343 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -269,7 +269,7 @@ Diff (max vs sum): -9
 | This game is Relaxing | 1,010 |
 | This game has Amazing Storytelling | 1,000 |
 | This game has Amazing Characters | 959 |
-| This game has Unique Visuals | 875 |
+| This game has Unique Visuals | 884 |
 | This game has a Creative Community | 721 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -456,4 +456,4 @@ Diff (max vs sum): -9
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
 | 2024-01-23 | 4.72 | 7,507 | 17,292 |
-| 2024-01-24 | 4.72 | 7,540 | 17,334 |
+| 2024-01-24 | 4.72 | 7,540 | 17,343 |

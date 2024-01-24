@@ -7,6 +7,7 @@ Number of Ratings: 190  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In Need of New Shoes | 0.10% | ~3 |
+| Sportsman stage | 0.10% | ~3 |
 | Ahoooooooooy! | 0.00% | ~0 |
 | Arctic Edge | 0.00% | ~0 |
 | Aurora Gazer | 0.00% | ~0 |
@@ -24,7 +25,6 @@ Number of Ratings: 190  (23.09.2022)
 | Not Great, Not Terrible | 0.00% | ~0 |
 | Number One Dad | 0.00% | ~0 |
 | Plain Assessment | 0.00% | ~0 |
-| Sportsman stage | 0.00% | ~0 |
 | Springbok Namibia | 0.00% | ~0 |
 | Surefire Assessment | 0.00% | ~0 |
 | Swinging Duck | 0.00% | ~0 |

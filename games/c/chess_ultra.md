@@ -1,19 +1,19 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.31 (Ranked 880)  
+Rating: 4.31 (Ranked 879)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~162,748 |
-| Doubled Pawn | 57.00% | ~130,657 |
-| Check | 56.00% | ~128,364 |
-| Absolute pin | 47.00% | ~107,734 |
+| Chop Wood | 71.00% | ~162,749 |
+| Doubled Pawn | 57.00% | ~130,658 |
+| Check | 56.00% | ~128,365 |
+| Absolute pin | 47.00% | ~107,735 |
 | Promotion | 31.00% | ~71,059 |
 | Checkmate | 30.00% | ~68,767 |
-| O-O | 24.00% | ~55,013 |
+| O-O | 24.00% | ~55,014 |
 | Spanish Bishop | 21.00% | ~48,137 |
-| Queen Sacrifice | 20.00% | ~45,844 |
+| Queen Sacrifice | 20.00% | ~45,845 |
 | Stalemate | 18.00% | ~41,260 |
 | O-O-O | 13.00% | ~29,799 |
 | Octopus | 13.00% | ~29,799 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 880)
 | Tournament Master | 0.10% | ~229 |
 | Tournament Pro | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,222 (Ranked 79)  
+Progressed: 229,224 (Ranked 79)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-21 | 228,936 | 2 |
 | 2024-01-22 | 229,052 | 2 |
 | 2024-01-23 | 229,179 | 2 |
-| 2024-01-24 | 229,222 | 2 |
+| 2024-01-24 | 229,224 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

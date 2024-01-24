@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2024-01-13T00:10:25.5338934+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T12:11:03.1182527+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -440,7 +445,7 @@
       "ID": "collect1",
       "SetID": "c64if4d",
       "Name": "Crimson rivers",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -456,7 +461,7 @@
       "ID": "collect3",
       "SetID": "c64if4d",
       "Name": "Collector",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -472,7 +477,7 @@
       "ID": "collect5",
       "SetID": "c64if4d",
       "Name": "Overplay the rogue",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -584,7 +589,7 @@
       "ID": "special11",
       "SetID": "c64if4d",
       "Name": "The power of persuasion",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -616,7 +621,7 @@
       "ID": "special4",
       "SetID": "c64if4d",
       "Name": "A solo player",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -664,7 +669,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 20,
       "UsersEstimate": 71
     },
@@ -680,7 +685,7 @@
       "ID": "story11",
       "SetID": "c64if4d",
       "Name": "By someone else\u0027s hands",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -736,7 +741,7 @@
       "ID": "story18",
       "SetID": "c64if4d",
       "Name": "Happily ever after",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -808,7 +813,7 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -824,7 +829,7 @@
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 14
     }
@@ -833,7 +838,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
@@ -841,8 +846,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:11:08.1025231+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:11:03.1182524+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.9473311+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:57:52.5035607+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:11:08.1025577+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:57:56.597194+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:11:03.1182797+00:00"
 }

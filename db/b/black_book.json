@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 68687,
+  "EOS_Progressed": 68689,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1168,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -18046,6 +18046,11 @@
       "Time": "2024-01-24T11:08:41.1945752+00:00",
       "NumProgressed": 68687,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-24T12:08:44.1582649+00:00",
+      "NumProgressed": 68689,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -18178,7 +18183,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8242
+      "UsersEstimate": 8243
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -18210,7 +18215,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "GREAT_SORCERER",
@@ -18258,7 +18263,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19919
+      "UsersEstimate": 19920
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -18290,7 +18295,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "NEW_SPIRITS",
@@ -18306,7 +18311,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8242
+      "UsersEstimate": 8243
     },
     {
       "ID": "NORMAL_END",
@@ -18314,7 +18319,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "OLD_SPIRITS",
@@ -18457,15 +18462,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 68687,
+      "Progressed": 68689,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:08:41.1945748+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:08:44.1582645+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:05.7187732+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:58:01.6504662+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:08:41.1947024+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:58:05.0022675+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:08:44.1583607+00:00"
 }

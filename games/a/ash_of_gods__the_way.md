@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 89.00% | ~71 |
+| First success | 88.00% | ~71 |
 | Suicide squad | 51.00% | ~41 |
 | Train hard, fight easy | 35.00% | ~28 |
 | Under cover | 35.00% | ~28 |
 | First blood | 35.00% | ~28 |
 | Royal blessing | 30.00% | ~24 |
 | Blood and sand | 25.00% | ~20 |
-| A hidden snake | 24.00% | ~19 |
+| A hidden snake | 23.00% | ~19 |
 | Surpass the teacher | 21.00% | ~17 |
 | Power of Inquisition | 19.00% | ~15 |
 | All for one! | 19.00% | ~15 |
 | Help of the Gell | 19.00% | ~15 |
-| Crimson rivers | 18.00% | ~14 |
-| She-Wolf | 18.00% | ~14 |
+| Crimson rivers | 17.00% | ~14 |
+| She-Wolf | 17.00% | ~14 |
 | Vene, vidi, vici | 16.00% | ~13 |
 | Rage | 16.00% | ~13 |
 | Trial by cold | 15.00% | ~12 |
@@ -27,8 +27,8 @@
 | Stronger than Gellian steel | 9.00% | ~7 |
 | Punish the Punisher | 9.00% | ~7 |
 | The End | 9.00% | ~7 |
-| Collector | 8.00% | ~6 |
-| Overplay the rogue | 8.00% | ~6 |
+| Collector | 7.00% | ~6 |
+| Overplay the rogue | 7.00% | ~6 |
 | First among Frisians | 6.00% | ~5 |
 | Defeat the bear | 6.00% | ~5 |
 | Protect the Healer! | 6.00% | ~5 |
@@ -41,10 +41,10 @@
 | Do it yourself | 4.00% | ~3 |
 | There can be only one | 4.00% | ~3 |
 | All's fair in love and war | 4.00% | ~3 |
-| The power of persuasion | 3.00% | ~2 |
-| A solo player | 3.00% | ~2 |
-| By someone else's hands | 3.00% | ~2 |
-| Happily ever after | 3.00% | ~2 |
+| The power of persuasion | 2.00% | ~2 |
+| A solo player | 2.00% | ~2 |
+| By someone else's hands | 2.00% | ~2 |
+| Happily ever after | 2.00% | ~2 |
 | Master of the Way | 1.00% | ~1 |
 | Blood and honour | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 529)  
+Progressed: 81 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-11 | 78 | 0 |
 | 2024-01-12 | 79 | 0 |
 | 2024-01-13 | 80 | 0 |
+| 2024-01-24 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

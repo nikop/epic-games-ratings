@@ -5,12 +5,12 @@ Rating: 4.51 (Ranked 600)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 61.00% | ~994 |
-| To Hell In A Handcart | 60.00% | ~978 |
+| Read Between The Lines | 61.00% | ~995 |
+| To Hell In A Handcart | 60.00% | ~979 |
 | High Profile | 53.00% | ~864 |
-| Whispers In The Dark | 51.00% | ~831 |
+| Whispers In The Dark | 51.00% | ~832 |
 | Fond Memories | 49.00% | ~799 |
-| A Method To His Madness | 47.00% | ~766 |
+| A Method To His Madness | 47.00% | ~767 |
 | History Check | 46.00% | ~750 |
 | Gaze Into The Abyss | 43.00% | ~701 |
 | The New World | 43.00% | ~701 |
@@ -18,23 +18,23 @@ Rating: 4.51 (Ranked 600)
 | Open Sesame | 42.00% | ~685 |
 | Sticky Fingers | 42.00% | ~685 |
 | Knives Out | 42.00% | ~685 |
-| Back In The Saddle | 41.00% | ~668 |
-| Land, Ho! | 41.00% | ~668 |
+| Back In The Saddle | 41.00% | ~669 |
+| Land, Ho! | 41.00% | ~669 |
 | No Man Is An Island | 40.00% | ~652 |
 | At Wits' End | 39.00% | ~636 |
-| Up In Flames | 38.00% | ~619 |
-| Fhtagn! | 38.00% | ~619 |
+| Up In Flames | 38.00% | ~620 |
+| Fhtagn! | 38.00% | ~620 |
 | Bookworm | 37.00% | ~603 |
-| Going Once... | 35.00% | ~570 |
-| Let Me Be Frank | 34.00% | ~554 |
-| No Stone Unturned | 31.00% | ~505 |
-| Brain Food | 30.00% | ~489 |
+| Going Once... | 35.00% | ~571 |
+| Let Me Be Frank | 34.00% | ~555 |
+| No Stone Unturned | 31.00% | ~506 |
+| Brain Food | 29.00% | ~473 |
 | Read It And Weep | 20.00% | ~326 |
-| Curiosity Killed The Cat | 18.00% | ~293 |
+| Curiosity Killed The Cat | 18.00% | ~294 |
 | Big Breakthrough | 13.00% | ~212 |
 | Reawakened | 3.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,630 (Ranked 269)  
+Progressed: 1,631 (Ranked 269)  
 Completed: 51 (3.13%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 51 (3.13%) (Ranked 109)
 | 2024-01-21 | 1,584 | 51 |
 | 2024-01-22 | 1,607 | 51 |
 | 2024-01-23 | 1,627 | 51 |
-| 2024-01-24 | 1,630 | 51 |
+| 2024-01-24 | 1,631 | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,17 +8,17 @@ Number of Ratings: 71  (23.09.2022)
 | ---- | ---------- | ----- |
 | "Nice" to meet you | 76.00% | ~1,417 |
 | Freeze to death | 56.00% | ~1,044 |
-| Is she really dead? | 46.00% | ~857 |
-| Screwdriver | 44.00% | ~820 |
-| Cutepie | 41.00% | ~764 |
-| Someone was here | 41.00% | ~764 |
+| Is she really dead? | 46.00% | ~858 |
+| Screwdriver | 44.00% | ~821 |
+| Cutepie | 41.00% | ~765 |
+| Someone was here | 40.00% | ~746 |
 | Ghost Hunters | 40.00% | ~746 |
 | Alone | 39.00% | ~727 |
 | Pack Rat | 39.00% | ~727 |
 | All together, again | 34.00% | ~634 |
 | Spicy | 5.00% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,864 (Ranked 260)  
+Progressed: 1,865 (Ranked 260)  
 Completed: 78 (4.18%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 78 (4.18%) (Ranked 91)
 | 2024-01-20 | 1,856 | 78 |
 | 2024-01-21 | 1,857 | 78 |
 | 2024-01-22 | 1,860 | 78 |
-| 2024-01-24 | 1,864 | 78 |
+| 2024-01-24 | 1,865 | 78 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

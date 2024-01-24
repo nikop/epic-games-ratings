@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~505 |
 | The Zoro-Austrians | 0.10% | ~505 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504,645 (Ranked 42)  
+Progressed: 504,671 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -649,7 +649,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-21 | 503,481 | 2 |
 | 2024-01-22 | 504,018 | 2 |
 | 2024-01-23 | 504,493 | 2 |
-| 2024-01-24 | 504,645 | 2 |
+| 2024-01-24 | 504,671 | 2 |
 ## Awards
 Max (Educational): 7,962  (Ranked 53)  
 Sum: 65,642 (Ranked 25)  

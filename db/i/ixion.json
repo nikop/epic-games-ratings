@@ -8867,9 +8867,9 @@
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 425
     },
     {
       "ID": "ACH_BASE_11",
@@ -9330,8 +9330,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-23T08:00:18.6037817+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:09:18.4432278+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:09:19.3061263+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:57:16.6958704+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:09:18.4433071+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:57:21.1379691+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:09:19.3062104+00:00"
 }

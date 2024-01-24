@@ -515,9 +515,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 349246,
+  "EOS_Progressed": 349260,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2712,
+  "EOS_NewPlayers": 2720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14550,6 +14550,11 @@
       "Time": "2024-01-24T11:10:10.088121+00:00",
       "NumProgressed": 349246,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T12:10:08.5728868+00:00",
+      "NumProgressed": 349260,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14562,7 +14567,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17462
+      "UsersEstimate": 17463
     },
     {
       "ID": "S02_BRDA",
@@ -14578,7 +14583,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3492
+      "UsersEstimate": 3493
     },
     {
       "ID": "S04_BRDC",
@@ -14586,7 +14591,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3492
+      "UsersEstimate": 3493
     },
     {
       "ID": "S05_SWRA",
@@ -14626,7 +14631,7 @@
       "Name": "Here to stay",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "S10_GRSB",
@@ -14634,7 +14639,7 @@
       "Name": "Counting on you",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "S11_MMR6",
@@ -14642,7 +14647,7 @@
       "Name": "This is the end",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "S12_ALL",
@@ -14650,7 +14655,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "S13_ALL_HARD",
@@ -14658,7 +14663,7 @@
       "Name": "No damsels in distress",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "S14_ALL_VERYHARD",
@@ -14698,7 +14703,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20955
+      "UsersEstimate": 20956
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14754,7 +14759,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3492
+      "UsersEstimate": 3493
     },
     {
       "ID": "S26_CRTA",
@@ -14786,7 +14791,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3492
+      "UsersEstimate": 3493
     },
     {
       "ID": "S30_DIAMOND",
@@ -14858,7 +14863,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -14881,7 +14886,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 349246,
+      "Progressed": 349260,
       "Completed": 7
     }
   ],
@@ -14889,8 +14894,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-24T02:59:53.121966+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:10:10.0881207+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:10:08.5728865+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:01:31.8688761+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:10:10.0882161+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:01:20.8196088+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:10:08.5729773+00:00"
 }

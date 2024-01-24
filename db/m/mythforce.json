@@ -878,9 +878,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6455,
+  "EOS_Progressed": 6456,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13658,6 +13658,11 @@
       "Time": "2024-01-24T11:08:23.5764999+00:00",
       "NumProgressed": 6455,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-24T12:08:27.8142262+00:00",
+      "NumProgressed": 6456,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13806,7 +13811,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13822,7 +13827,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13838,7 +13843,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13853,15 +13858,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6455,
+      "Progressed": 6456,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:08:23.5764995+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:08:27.8142258+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:58:09.5862183+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:08:23.5765938+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:58:12.5934324+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:08:27.8142925+00:00"
 }

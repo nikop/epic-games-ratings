@@ -15,9 +15,9 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 29.00% | ~83 |
 | Peddler | 27.00% | ~77 |
 | Commander | 26.00% | ~75 |
+| Long-Haul Flyer | 22.00% | ~63 |
 | Family Reunion | 22.00% | ~63 |
 | Irissa's Fate | 22.00% | ~63 |
-| Long-Haul Flyer | 21.00% | ~60 |
 | Pass A38 | 19.00% | ~55 |
 | Eternal Oblivion | 19.00% | ~55 |
 | Banker | 18.00% | ~52 |

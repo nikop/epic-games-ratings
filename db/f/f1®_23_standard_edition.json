@@ -1653,9 +1653,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18673,
+  "EOS_Progressed": 18674,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12768,6 +12768,11 @@
       "Time": "2024-01-24T11:07:02.5263774+00:00",
       "NumProgressed": 18673,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T12:06:41.3320612+00:00",
+      "NumProgressed": 18674,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12812,7 +12817,7 @@
       "Name": "Crucial Combo",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "achievement_0006",
@@ -12820,7 +12825,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "achievement_0007",
@@ -12828,7 +12833,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16992
+      "UsersEstimate": 16993
     },
     {
       "ID": "achievement_0008",
@@ -13012,7 +13017,7 @@
       "Name": "Reuse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "achievement_0031",
@@ -13124,7 +13129,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6722
+      "UsersEstimate": 6723
     },
     {
       "ID": "achievement_0045",
@@ -13164,14 +13169,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18673,
+      "Progressed": 18674,
       "Completed": 0
     }
   ],
@@ -13179,8 +13184,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-23T23:00:35.5670353+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:07:02.526377+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:06:41.3320609+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:57:30.4267415+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:07:02.5265092+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:57:35.1702991+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:06:41.3321401+00:00"
 }

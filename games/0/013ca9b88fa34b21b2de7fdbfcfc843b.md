@@ -31,7 +31,7 @@ Rating: 4.66 (Ranked 310)
 | Skilled | 1.00% | ~92 |
 | Scattered Scroll Scrounger | 0.90% | ~83 |
 | Fanatical Farmer | 0.90% | ~83 |
-| Azorian Hat Dance | 0.70% | ~12 |
+| Azorian Hat Dance | 0.70% | ~13 |
 | I Now Pronounce You... | 0.60% | ~55 |
 | Chatty Neighbor | 0.60% | ~55 |
 | Right Tool For the Job | 0.50% | ~46 |
@@ -49,7 +49,7 @@ Rating: 4.66 (Ranked 310)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,167 (Ranked 190)  
+Progressed: 9,169 (Ranked 190)  
 Completed: 1 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.01%) (Ranked 383)
 | 2024-01-21 | 9,157 | 1 |
 | 2024-01-22 | 9,163 | 1 |
 | 2024-01-23 | 9,164 | 1 |
-| 2024-01-24 | 9,167 | 1 |
+| 2024-01-24 | 9,169 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

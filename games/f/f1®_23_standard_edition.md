@@ -5,13 +5,13 @@ Rating: 4.65 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,992 |
+| Getting on the Step | 91.00% | ~16,993 |
 | On the Top Step | 83.00% | ~15,499 |
-| Setting up for Success | 70.00% | ~13,071 |
+| Setting up for Success | 70.00% | ~13,072 |
 | Team Orders | 68.00% | ~12,698 |
 | Engineer | 46.00% | ~8,590 |
 | Familiar Faces | 42.00% | ~7,843 |
-| Going the Extra Mile | 36.00% | ~6,722 |
+| Going the Extra Mile | 36.00% | ~6,723 |
 | Sharing the Love | 34.00% | ~6,349 |
 | Hitting a Season | 29.00% | ~5,415 |
 | A Dozen Pieces | 26.00% | ~4,855 |
@@ -22,9 +22,9 @@ Rating: 4.65 (Ranked 327)
 | Spring Cleaning | 19.00% | ~3,548 |
 | Reduce | 15.00% | ~2,801 |
 | Ups and Downs | 15.00% | ~2,801 |
-| Crucial Combo | 13.00% | ~2,427 |
-| Reuse | 13.00% | ~2,427 |
-| Proving Them Wrong | 13.00% | ~2,427 |
+| Crucial Combo | 13.00% | ~2,428 |
+| Reuse | 13.00% | ~2,428 |
+| Proving Them Wrong | 13.00% | ~2,428 |
 | Gathering Dust | 12.00% | ~2,241 |
 | One for the Book | 11.00% | ~2,054 |
 | Eagle Eye | 10.00% | ~1,867 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 327)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,673 (Ranked 165)  
+Progressed: 18,674 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 18,591 | 0 |
 | 2024-01-22 | 18,629 | 0 |
 | 2024-01-23 | 18,659 | 0 |
-| 2024-01-24 | 18,673 | 0 |
+| 2024-01-24 | 18,674 | 0 |
 ## Awards
 Max (Diverse Characters): 74  (Ranked 414)  
 Sum: 484 (Ranked 342)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1090,9 +1090,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363456,
+  "EOS_Progressed": 363458,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32995,6 +32995,11 @@
       "Time": "2024-01-24T11:07:09.7149917+00:00",
       "NumProgressed": 363456,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-24T12:06:47.8592071+00:00",
+      "NumProgressed": 363458,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33094,7 +33099,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "ach013",
@@ -33110,7 +33115,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54518
+      "UsersEstimate": 54519
     },
     {
       "ID": "ach015",
@@ -33134,7 +33139,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47249
+      "UsersEstimate": 47250
     },
     {
       "ID": "ach018",
@@ -33142,7 +33147,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "ach019",
@@ -33214,7 +33219,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167190
+      "UsersEstimate": 167191
     },
     {
       "ID": "ach028",
@@ -33358,7 +33363,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47249
+      "UsersEstimate": 47250
     },
     {
       "ID": "ach046",
@@ -33645,7 +33650,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363456,
+      "Progressed": 363458,
       "Completed": 7
     }
   ],
@@ -33653,8 +33658,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-22T15:59:56.654219+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:07:09.7149912+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:06:47.8592067+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:01:56.3839126+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:07:09.7152151+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:01:42.3885044+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:06:47.8594046+00:00"
 }

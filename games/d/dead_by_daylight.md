@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~95,422 |
-| Zealous | 7.00% | ~83,495 |
-| Skillful | 7.00% | ~83,495 |
-| Not half bad | 6.00% | ~71,567 |
-| Make Some Noise | 6.00% | ~71,567 |
-| Apt Survivor | 5.00% | ~59,639 |
-| Survival Treasures | 5.00% | ~59,639 |
-| The Grand Sacrifice | 4.00% | ~47,711 |
-| No one left behind | 4.00% | ~47,711 |
-| Medic | 4.00% | ~47,711 |
-| Handyman | 4.00% | ~47,711 |
-| Bloody Millionaire | 4.00% | ~47,711 |
-| I | 4.00% | ~47,711 |
-| Sorted | 4.00% | ~47,711 |
-| Healthy Obsession | 4.00% | ~47,711 |
-| Resurgence | 4.00% | ~47,711 |
-| Preemptive Strike | 4.00% | ~47,711 |
-| Humanitarian | 4.00% | ~47,711 |
-| Agonizing Escape | 3.00% | ~35,783 |
-| Backdoor Escape | 3.00% | ~35,783 |
-| I've got your back | 3.00% | ~35,783 |
-| Perfect Escape | 3.00% | ~35,783 |
-| Perfect Killing | 3.00% | ~35,783 |
-| Apt Killer | 3.00% | ~35,783 |
-| Risk it all | 3.00% | ~35,783 |
-| II | 3.00% | ~35,783 |
-| Engineer | 3.00% | ~35,783 |
-| Wounded Healer | 3.00% | ~35,783 |
-| Close Shave | 3.00% | ~35,783 |
+| It wakes | 8.00% | ~95,426 |
+| Zealous | 7.00% | ~83,498 |
+| Skillful | 7.00% | ~83,498 |
+| Not half bad | 6.00% | ~71,570 |
+| Make Some Noise | 6.00% | ~71,570 |
+| Apt Survivor | 5.00% | ~59,641 |
+| Survival Treasures | 5.00% | ~59,641 |
+| The Grand Sacrifice | 4.00% | ~47,713 |
+| No one left behind | 4.00% | ~47,713 |
+| Medic | 4.00% | ~47,713 |
+| Handyman | 4.00% | ~47,713 |
+| Bloody Millionaire | 4.00% | ~47,713 |
+| I | 4.00% | ~47,713 |
+| Sorted | 4.00% | ~47,713 |
+| Healthy Obsession | 4.00% | ~47,713 |
+| Resurgence | 4.00% | ~47,713 |
+| Preemptive Strike | 4.00% | ~47,713 |
+| Humanitarian | 4.00% | ~47,713 |
+| Agonizing Escape | 3.00% | ~35,785 |
+| Backdoor Escape | 3.00% | ~35,785 |
+| I've got your back | 3.00% | ~35,785 |
+| Perfect Escape | 3.00% | ~35,785 |
+| Perfect Killing | 3.00% | ~35,785 |
+| Apt Killer | 3.00% | ~35,785 |
+| Risk it all | 3.00% | ~35,785 |
+| II | 3.00% | ~35,785 |
+| Engineer | 3.00% | ~35,785 |
+| Wounded Healer | 3.00% | ~35,785 |
+| Close Shave | 3.00% | ~35,785 |
 | Blood on your hands | 2.00% | ~23,856 |
 | Escape Artist | 2.00% | ~23,856 |
 | Made it out alive! | 2.00% | ~23,856 |
@@ -96,14 +96,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Texas BBQ | 0.90% | ~10,735 |
 | Outrage | 0.90% | ~10,735 |
 | I See You | 0.90% | ~10,735 |
-| Blood in your mouth | 0.80% | ~9,542 |
-| Heavy Burden | 0.80% | ~9,542 |
-| Punch Drunk | 0.80% | ~9,542 |
-| Prowler | 0.80% | ~9,542 |
-| Triage | 0.80% | ~9,542 |
-| Whiffing to Success | 0.70% | ~8,349 |
-| Power Moves | 0.70% | ~8,349 |
-| Kitted Out | 0.70% | ~8,349 |
+| Blood in your mouth | 0.80% | ~9,543 |
+| Heavy Burden | 0.80% | ~9,543 |
+| Punch Drunk | 0.80% | ~9,543 |
+| Prowler | 0.80% | ~9,543 |
+| Triage | 0.80% | ~9,543 |
+| Whiffing to Success | 0.70% | ~8,350 |
+| Power Moves | 0.70% | ~8,350 |
+| Kitted Out | 0.70% | ~8,350 |
 | Looter | 0.60% | ~7,157 |
 | Death of Ignorance | 0.60% | ~7,157 |
 | Mad House | 0.50% | ~5,964 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,193 |
 | Adept Good Guy | 0.10% | ~1,193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192,779 (Ranked 14)  
+Progressed: 1,192,825 (Ranked 14)  
 Completed: 68 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,21 +518,21 @@ Completed: 68 (0.01%) (Ranked 383)
 | 2024-01-21 | 1,189,296 | 68 |
 | 2024-01-22 | 1,190,733 | 68 |
 | 2024-01-23 | 1,192,207 | 68 |
-| 2024-01-24 | 1,192,779 | 68 |
+| 2024-01-24 | 1,192,825 | 68 |
 ## Awards
 Max (Diverse Characters): 40,141  (Ranked 15)  
-Sum: 301,814 (Ranked 12)  
+Sum: 301,869 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 40,141 |
-| This game is Highly Recommended | 34,520 |
+| This game is Highly Recommended | 34,551 |
 | This game has Amazing Characters | 33,949 |
 | This game has Competitive Players | 33,630 |
 | This game is Extremely Fun | 33,464 |
 | This game has Challenging Combat | 33,342 |
 | This game has Quickly Understood Controls | 32,412 |
-| This game has Amazing Storytelling | 30,717 |
+| This game has Amazing Storytelling | 30,741 |
 | This game has a Competitive Community | 29,639 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -904,4 +904,4 @@ Diff (max vs sum): 3
 | 2024-01-21 | 4.51 | - | 40,050 | 301,205 |
 | 2024-01-22 | 4.51 | - | 40,050 | 301,445 |
 | 2024-01-23 | 4.51 | - | 40,086 | 301,698 |
-| 2024-01-24 | 4.51 | - | 40,141 | 301,814 |
+| 2024-01-24 | 4.51 | - | 40,141 | 301,869 |

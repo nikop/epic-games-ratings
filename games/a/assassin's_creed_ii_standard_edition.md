@@ -4,9 +4,9 @@
 Rating: 4.75 (Ranked 151)  
 Number of Ratings: 315  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 62  (Ranked 437)  
+Max (Amazing Storytelling): 62  (Ranked 438)  
 Sum: 477 (Ranked 344)  
-Diff (max vs sum): 93  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 62 |

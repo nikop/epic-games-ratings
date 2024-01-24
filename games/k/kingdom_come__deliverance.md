@@ -1,36 +1,36 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 207)  
+Rating: 4.71 (Ranked 206)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~262,057 |
-| Cavalier | 26.00% | ~212,922 |
-| Fatso | 23.00% | ~188,354 |
-| Awakening | 21.00% | ~171,975 |
-| Ranger | 20.00% | ~163,786 |
-| Scrooge | 20.00% | ~163,786 |
-| Anorectic | 16.00% | ~131,029 |
-| Firestarter | 16.00% | ~131,029 |
-| Bookworm | 15.00% | ~122,839 |
-| Insomniac | 13.00% | ~106,461 |
-| Buddy | 12.00% | ~98,271 |
-| Thief | 12.00% | ~98,271 |
-| Sinner | 11.00% | ~90,082 |
-| Traveller | 11.00% | ~90,082 |
-| Convict | 10.00% | ~81,893 |
-| Haggler | 10.00% | ~81,893 |
-| Runt | 8.00% | ~65,514 |
-| McLovin | 7.00% | ~57,325 |
+| Blacksmith's Son | 32.00% | ~262,060 |
+| Cavalier | 26.00% | ~212,924 |
+| Fatso | 23.00% | ~188,356 |
+| Awakening | 21.00% | ~171,977 |
+| Ranger | 20.00% | ~163,788 |
+| Scrooge | 20.00% | ~163,788 |
+| Anorectic | 16.00% | ~131,030 |
+| Firestarter | 16.00% | ~131,030 |
+| Bookworm | 15.00% | ~122,841 |
+| Insomniac | 13.00% | ~106,462 |
+| Buddy | 12.00% | ~98,273 |
+| Thief | 12.00% | ~98,273 |
+| Sinner | 11.00% | ~90,083 |
+| Traveller | 11.00% | ~90,083 |
+| Convict | 10.00% | ~81,894 |
+| Haggler | 10.00% | ~81,894 |
+| Runt | 8.00% | ~65,515 |
+| McLovin | 7.00% | ~57,326 |
 | Casanova | 6.00% | ~49,136 |
-| Bad Trip | 5.00% | ~40,946 |
-| Monk | 5.00% | ~40,946 |
-| Serial Killer | 5.00% | ~40,946 |
-| Bastard | 4.00% | ~32,757 |
-| Hunter | 4.00% | ~32,757 |
-| Plague Doctor | 4.00% | ~32,757 |
+| Bad Trip | 5.00% | ~40,947 |
+| Monk | 5.00% | ~40,947 |
+| Serial Killer | 5.00% | ~40,947 |
+| Bastard | 4.00% | ~32,758 |
+| Hunter | 4.00% | ~32,758 |
+| Plague Doctor | 4.00% | ~32,758 |
 | Bard | 3.00% | ~24,568 |
 | Conqueror | 3.00% | ~24,568 |
 | Ginger in a Pickle | 3.00% | ~24,568 |
@@ -53,7 +53,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Stealth Killer | 1.00% | ~8,189 |
 | Bailiff | 0.90% | ~7,370 |
 | Tracker | 0.90% | ~7,370 |
-| David Horak | 0.80% | ~6,551 |
+| David Horak | 0.80% | ~6,552 |
 | Fighter | 0.70% | ~5,733 |
 | Mercenary's Honour | 0.70% | ~5,733 |
 | Saviour | 0.70% | ~5,733 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~819 |
 | Wingman | 0.10% | ~819 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 818,929 (Ranked 22)  
+Progressed: 818,939 (Ranked 22)  
 Completed: 54 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,14 +368,14 @@ Completed: 54 (0.01%) (Ranked 383)
 | 2024-01-21 | 818,592 | 53 |
 | 2024-01-22 | 818,753 | 53 |
 | 2024-01-23 | 818,885 | 54 |
-| 2024-01-24 | 818,929 | 54 |
+| 2024-01-24 | 818,939 | 54 |
 ## Awards
-Max (Character Customization): 7,806  (Ranked 54)  
-Sum: 28,908 (Ranked 50)  
+Max (Character Customization): 7,813  (Ranked 54)  
+Sum: 28,915 (Ranked 50)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,806 |
+| This game has Inclusive Character Customization | 7,813 |
 | This game has Great Boss Battles | 5,677 |
 | This game has Challenging Combat | 1,818 |
 | This game has Diverse Characters | 1,786 |
@@ -752,3 +752,4 @@ Diff (max vs sum): 4
 | 2024-01-21 | 4.71 | - | 7,796 | 28,888 |
 | 2024-01-22 | 4.71 | - | 7,801 | 28,897 |
 | 2024-01-23 | 4.71 | - | 7,806 | 28,908 |
+| 2024-01-24 | 4.71 | - | 7,813 | 28,915 |

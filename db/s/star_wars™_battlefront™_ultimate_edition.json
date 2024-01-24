@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3123,
+  "EOS_Progressed": 3124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8554,6 +8554,11 @@
       "Time": "2024-01-24T10:10:41.6647357+00:00",
       "NumProgressed": 3123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-24T12:11:34.4132905+00:00",
+      "NumProgressed": 3124,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8790,7 +8795,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "achievement_36",
@@ -9006,7 +9011,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_60",
@@ -9069,13 +9074,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3123,
+      "Progressed": 3124,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3123,
+      "Progressed": 3124,
       "Completed": 1
     }
   ],
@@ -9083,8 +9088,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:11:41.1329897+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:11:34.4132898+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:59:37.4787665+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:11:41.1330635+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:59:33.0193981+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:11:34.4133639+00:00"
 }

@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12516,
+  "EOS_Progressed": 12517,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16403,6 +16403,11 @@
       "Time": "2024-01-24T11:05:18.4212568+00:00",
       "NumProgressed": 12516,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-24T12:05:02.9932274+00:00",
+      "NumProgressed": 12517,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 29,
@@ -16414,7 +16419,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10388
+      "UsersEstimate": 10389
     },
     {
       "ID": "ACH02",
@@ -16438,7 +16443,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4882
     },
     {
       "ID": "ACH05",
@@ -16446,7 +16451,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH06",
@@ -16542,7 +16547,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "ACH18",
@@ -16574,7 +16579,7 @@
       "Name": "Splish Splash",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH22",
@@ -16645,7 +16650,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12516,
+      "Progressed": 12517,
       "Completed": 96
     }
   ],
@@ -16653,8 +16658,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:05:18.4212565+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:05:02.9932271+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:58:44.867178+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:05:18.42134+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:58:45.4237878+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:05:02.993321+00:00"
 }

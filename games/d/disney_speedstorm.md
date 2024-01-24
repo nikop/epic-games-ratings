@@ -5,13 +5,13 @@ Rating: 4.41 (Ranked 761)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,845 |
-| IT MAKES BOOM! | 9.00% | ~36,585 |
-| EXTRA BOOST | 6.00% | ~24,390 |
-| PROTECTED | 5.00% | ~20,325 |
-| PRO | 5.00% | ~20,325 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,260 |
-| AGGRESSIVE RACER | 3.00% | ~12,195 |
+| ROOKIE | 13.00% | ~52,848 |
+| IT MAKES BOOM! | 9.00% | ~36,587 |
+| EXTRA BOOST | 6.00% | ~24,391 |
+| PROTECTED | 5.00% | ~20,326 |
+| PRO | 5.00% | ~20,326 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,261 |
+| AGGRESSIVE RACER | 3.00% | ~12,196 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~8,130 |
 | TRAINING HARD | 2.00% | ~8,130 |
 | BE OUR GUEST | 2.00% | ~8,130 |
@@ -25,12 +25,12 @@ Rating: 4.41 (Ranked 761)
 | FRIENDLY | 1.00% | ~4,065 |
 | MASTER | 1.00% | ~4,065 |
 | LEGENDARY HERO | 1.00% | ~4,065 |
-| EXPERIENCED CREW | 0.90% | ~3,658 |
-| PERFECTLY POISED | 0.70% | ~2,845 |
-| FRAMED! | 0.70% | ~2,845 |
-| ACE TRICKSTER | 0.70% | ~2,845 |
+| EXPERIENCED CREW | 0.90% | ~3,659 |
+| PERFECTLY POISED | 0.70% | ~2,846 |
+| FRAMED! | 0.70% | ~2,846 |
+| ACE TRICKSTER | 0.70% | ~2,846 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,498 (Ranked 51)  
+Progressed: 406,520 (Ranked 51)  
 Completed: 1,733 (0.43%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 1,733 (0.43%) (Ranked 242)
 | 2024-01-21 | 404,898 | 1,703 |
 | 2024-01-22 | 405,590 | 1,717 |
 | 2024-01-23 | 406,231 | 1,727 |
-| 2024-01-24 | 406,498 | 1,733 |
+| 2024-01-24 | 406,520 | 1,733 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 306)  
 Sum: 1,277 (Ranked 262)  

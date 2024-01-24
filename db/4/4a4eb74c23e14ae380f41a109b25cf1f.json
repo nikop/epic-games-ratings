@@ -4,7 +4,7 @@
   "ProductSlug": "miwa-the-sacred-fox-89da48",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 545,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "c95dc43",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-01-24T12:05:18.0820913+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:05:18.0820899+00:00",
   "LastUpdate_AppInfo": "2024-01-22T17:57:04.1672977+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:58:35.9544724+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:05:34.4750005+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:58:37.2614767+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:05:18.082093+00:00"
 }

@@ -1787,9 +1787,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1818,8 +1818,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:05:33.5683283+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:05:17.1853758+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.5757531+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:00:39.9686331+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:05:33.5683576+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:00:31.7991016+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:05:17.1853913+00:00"
 }

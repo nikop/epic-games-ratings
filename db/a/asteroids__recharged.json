@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8357,
+  "EOS_Progressed": 8359,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1074,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3519,6 +3519,11 @@
       "Time": "2024-01-24T11:09:38.3521962+00:00",
       "NumProgressed": 8357,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-24T12:09:38.2112107+00:00",
+      "NumProgressed": 8359,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -3562,7 +3567,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3594,7 +3599,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3618,7 +3623,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3626,7 +3631,7 @@
       "Name": "The Hitman",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3657,7 +3662,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8357,
+      "Progressed": 8359,
       "Completed": 8
     }
   ],
@@ -3665,8 +3670,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:09:38.3521956+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:09:38.2112103+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-24T10:58:33.7504949+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:09:38.3522276+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:58:34.8128635+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:09:38.2112371+00:00"
 }

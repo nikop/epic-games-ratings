@@ -1718,9 +1718,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139999,
+  "EOS_Progressed": 140000,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29678,6 +29678,11 @@
       "Time": "2024-01-24T11:09:58.981696+00:00",
       "NumProgressed": 139999,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-24T12:09:58.1871297+00:00",
+      "NumProgressed": 140000,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -30008,15 +30013,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139999,
+      "Progressed": 140000,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-23T04:58:42.7043232+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:09:58.9816955+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:09:58.1871293+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:00:31.1723503+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:09:58.9818444+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:00:24.7947275+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:09:58.1872925+00:00"
 }

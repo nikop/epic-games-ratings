@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -362,6 +362,11 @@
     {
       "Time": "2024-01-24T10:04:27.1495647+00:00",
       "NumProgressed": 108,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-24T12:05:07.1705831+00:00",
+      "NumProgressed": 110,
       "NumCompleted": 0
     }
   ],
@@ -479,15 +484,15 @@
       "Name": "Call the Boys",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "columbus",
@@ -559,7 +564,7 @@
       "Name": "Do you read Sutter Cane?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "dust_and_salt",
@@ -999,7 +1004,7 @@
       "Name": "The finest merchandise this side of river Jordan",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "the_magnificent_nine",
@@ -1039,7 +1044,7 @@
       "Name": "They Got What They Deserved",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "time_to_find_india",
@@ -1119,7 +1124,7 @@
       "Name": "What we\u2019ve got here is failure to communicate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "wheres_your_crown",
@@ -1174,7 +1179,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
@@ -1182,8 +1187,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:05:22.9080724+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:05:07.1705827+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:01:10.478154+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:05:22.9081974+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:00:59.8525419+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:05:07.1706759+00:00"
 }

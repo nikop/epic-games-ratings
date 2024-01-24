@@ -6,17 +6,17 @@ Rating: 4.35 (Ranked 836)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 14.00% | ~15 |
+| Can’t Touch This | 12.00% | ~13 |
 | Help! Help! I’m being repressed | 12.00% | ~13 |
 | Bring it on! | 10.00% | ~11 |
-| Can’t Touch This | 10.00% | ~11 |
 | Full House | 10.00% | ~11 |
 | There is no Nobility in Poverty | 9.00% | ~10 |
 | Path of Glory | 8.00% | ~9 |
-| The finest merchandise this side of river Jordan | 6.00% | ~6 |
-| They Got What They Deserved | 6.00% | ~6 |
-| Call the Boys | 5.00% | ~5 |
-| Do you read Sutter Cane? | 5.00% | ~5 |
-| What we’ve got here is failure to communicate | 5.00% | ~5 |
+| The finest merchandise this side of river Jordan | 6.00% | ~7 |
+| They Got What They Deserved | 6.00% | ~7 |
+| Call the Boys | 5.00% | ~6 |
+| Do you read Sutter Cane? | 5.00% | ~6 |
+| What we’ve got here is failure to communicate | 5.00% | ~6 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~4 |
 | Pillars of the Earth | 4.00% | ~4 |
 | Playerxander the Great | 4.00% | ~4 |
@@ -106,13 +106,13 @@ Rating: 4.35 (Ranked 836)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 494)  
+Progressed: 110 (Ranked 494)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
-| 2024-01-24 | 108 | 0 |
+| 2024-01-24 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

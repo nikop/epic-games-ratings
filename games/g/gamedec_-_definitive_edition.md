@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~75,028 |
-| Powergamer | 27.00% | ~69,854 |
-| Write that down | 25.00% | ~64,680 |
-| Barely scratched the surface | 25.00% | ~64,680 |
-| Guns, lots of guns | 13.00% | ~33,633 |
-| Collector | 12.00% | ~31,046 |
+| I will finish what you started | 29.00% | ~75,030 |
+| Powergamer | 27.00% | ~69,855 |
+| Write that down | 25.00% | ~64,681 |
+| Barely scratched the surface | 25.00% | ~64,681 |
+| Guns, lots of guns | 13.00% | ~33,634 |
+| Collector | 12.00% | ~31,047 |
 | Elementary! | 9.00% | ~23,285 |
-| Griever | 8.00% | ~20,697 |
-| Pumpkin Jack | 8.00% | ~20,697 |
-| Wake up! | 8.00% | ~20,697 |
-| It's honest work | 7.00% | ~18,110 |
+| Griever | 8.00% | ~20,698 |
+| Pumpkin Jack | 8.00% | ~20,698 |
+| Wake up! | 8.00% | ~20,698 |
+| It's honest work | 7.00% | ~18,111 |
 | Me smart | 6.00% | ~15,523 |
 | Trash compactor | 6.00% | ~15,523 |
 | Valedictorian | 6.00% | ~15,523 |
@@ -43,7 +43,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,587 |
 | Take the blue pill | 1.00% | ~2,587 |
 | The power of three | 1.00% | ~2,587 |
-| Let's try another | 0.90% | ~2,328 |
+| Let's try another | 0.90% | ~2,329 |
 | It's blue, always blue | 0.80% | ~2,070 |
 | Home run | 0.80% | ~2,070 |
 | I have the high ground | 0.70% | ~1,811 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~517 |
 | Memory 5 | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,718 (Ranked 70)  
+Progressed: 258,723 (Ranked 70)  
 Completed: 8 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 8 (0.00%) (Ranked 409)
 | 2024-01-21 | 258,533 | 8 |
 | 2024-01-22 | 258,615 | 8 |
 | 2024-01-23 | 258,690 | 8 |
-| 2024-01-24 | 258,718 | 8 |
+| 2024-01-24 | 258,723 | 8 |
 ## Awards
 Max (Character Customization): 99  (Ranked 387)  
 Sum: 99 (Ranked 476)  

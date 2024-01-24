@@ -1567,9 +1567,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 261016,
+  "EOS_Progressed": 261019,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28202,6 +28202,11 @@
       "Time": "2024-01-24T11:08:08.2724133+00:00",
       "NumProgressed": 261016,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-24T12:07:43.238041+00:00",
+      "NumProgressed": 261019,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28261,7 +28266,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80915
+      "UsersEstimate": 80916
     },
     {
       "ID": "BackHomeNTimes",
@@ -28325,7 +28330,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7830
+      "UsersEstimate": 7831
     },
     {
       "ID": "CreditLevel3",
@@ -28453,7 +28458,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7830
+      "UsersEstimate": 7831
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -28485,7 +28490,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7830
+      "UsersEstimate": 7831
     },
     {
       "ID": "KillOtherWithMine",
@@ -28509,7 +28514,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7830
+      "UsersEstimate": 7831
     },
     {
       "ID": "KillOthers3",
@@ -28660,7 +28665,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 261016,
+      "Progressed": 261019,
       "Completed": 3
     }
   ],
@@ -28668,8 +28673,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-23T04:02:56.023083+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:08:08.2724129+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:07:43.2380405+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:03:23.4786535+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:08:08.2726109+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:03:16.1914635+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:07:43.23825+00:00"
 }

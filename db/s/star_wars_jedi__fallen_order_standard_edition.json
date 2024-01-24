@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36871,
+  "EOS_Progressed": 36882,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1306,
+  "EOS_NewPlayers": 1312,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17268,6 +17268,11 @@
       "Time": "2024-01-24T11:09:12.4567594+00:00",
       "NumProgressed": 36871,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-24T12:09:13.7540601+00:00",
+      "NumProgressed": 36882,
+      "NumCompleted": 360
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -17280,7 +17285,7 @@
       "Name": "Kicking Back",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achievement_10",
@@ -17288,7 +17293,7 @@
       "Name": "Everything is Connected",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 21016
+      "UsersEstimate": 21023
     },
     {
       "ID": "achievement_11",
@@ -17296,7 +17301,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 16223
+      "UsersEstimate": 16228
     },
     {
       "ID": "achievement_12",
@@ -17304,7 +17309,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 24335
+      "UsersEstimate": 24342
     },
     {
       "ID": "achievement_13",
@@ -17312,7 +17317,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 19173
+      "UsersEstimate": 19179
     },
     {
       "ID": "achievement_14",
@@ -17320,7 +17325,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 5899
+      "UsersEstimate": 5901
     },
     {
       "ID": "achievement_15",
@@ -17328,7 +17333,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 17698
+      "UsersEstimate": 17703
     },
     {
       "ID": "achievement_16",
@@ -17336,7 +17341,7 @@
       "Name": "For A More Civilized Age",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 17329
+      "UsersEstimate": 17335
     },
     {
       "ID": "achievement_17",
@@ -17344,7 +17349,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 16592
+      "UsersEstimate": 16597
     },
     {
       "ID": "achievement_18",
@@ -17352,7 +17357,7 @@
       "Name": "Back At You",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 25810
+      "UsersEstimate": 25817
     },
     {
       "ID": "achievement_19",
@@ -17360,7 +17365,7 @@
       "Name": "Perfect Timing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 18436
+      "UsersEstimate": 18441
     },
     {
       "ID": "achievement_2",
@@ -17384,7 +17389,7 @@
       "Name": "Triple Take",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4793
+      "UsersEstimate": 4795
     },
     {
       "ID": "achievement_22",
@@ -17400,7 +17405,7 @@
       "Name": "Big Bang",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4056
+      "UsersEstimate": 4057
     },
     {
       "ID": "achievement_24",
@@ -17408,7 +17413,7 @@
       "Name": "Don\u0027t Mess with BD-1",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 14380
+      "UsersEstimate": 14384
     },
     {
       "ID": "achievement_25",
@@ -17416,7 +17421,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "achievement_26",
@@ -17424,7 +17429,7 @@
       "Name": "Look Out Below",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 15117
+      "UsersEstimate": 15122
     },
     {
       "ID": "achievement_27",
@@ -17440,7 +17445,7 @@
       "Name": "Bank Shot",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 18804
+      "UsersEstimate": 18810
     },
     {
       "ID": "achievement_29",
@@ -17448,7 +17453,7 @@
       "Name": "Blade Master",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 13642
+      "UsersEstimate": 13646
     },
     {
       "ID": "achievement_3",
@@ -17456,7 +17461,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 7743
+      "UsersEstimate": 7745
     },
     {
       "ID": "achievement_30",
@@ -17464,7 +17469,7 @@
       "Name": "Cal Got Your Tongue?",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4793
+      "UsersEstimate": 4795
     },
     {
       "ID": "achievement_31",
@@ -17472,7 +17477,7 @@
       "Name": "Medical Droid",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "achievement_32",
@@ -17488,7 +17493,7 @@
       "Name": "Full House",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12540
     },
     {
       "ID": "achievement_34",
@@ -17496,7 +17501,7 @@
       "Name": "Data Disk",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "achievement_35",
@@ -17504,7 +17509,7 @@
       "Name": "Sabersmith",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 29128
+      "UsersEstimate": 29137
     },
     {
       "ID": "achievement_36",
@@ -17512,7 +17517,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 17698
+      "UsersEstimate": 17703
     },
     {
       "ID": "achievement_37",
@@ -17520,7 +17525,7 @@
       "Name": "Data Collector",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "achievement_38",
@@ -17528,7 +17533,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 15117
+      "UsersEstimate": 15122
     },
     {
       "ID": "achievement_39",
@@ -17536,7 +17541,7 @@
       "Name": "Echo Location",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 7005
+      "UsersEstimate": 7008
     },
     {
       "ID": "achievement_4",
@@ -17544,7 +17549,7 @@
       "Name": "Feel the Force",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "achievement_5",
@@ -17560,7 +17565,7 @@
       "Name": "Trust Only In The Force",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 15855
+      "UsersEstimate": 15859
     },
     {
       "ID": "achievement_7",
@@ -17568,7 +17573,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 36871
+      "UsersEstimate": 36882
     },
     {
       "ID": "achievement_8",
@@ -17576,7 +17581,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 33553
+      "UsersEstimate": 33563
     },
     {
       "ID": "achievement_9",
@@ -17584,14 +17589,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 27653
+      "UsersEstimate": 27662
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 36871,
+      "Progressed": 36882,
       "Completed": 360
     }
   ],
@@ -17599,8 +17604,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2024-01-01T22:59:19.1576337+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:09:12.456759+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:09:13.7540597+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.8127417+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:00:33.8929051+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:09:12.4568726+00:00"
+  "LastUpdate_Ratings": "2024-01-24T12:00:26.5341076+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:09:13.7541586+00:00"
 }

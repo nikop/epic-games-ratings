@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76803,
+  "EOS_Progressed": 76808,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8462,6 +8462,11 @@
       "Time": "2024-01-24T11:09:45.1104324+00:00",
       "NumProgressed": 76803,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-24T12:09:44.4612147+00:00",
+      "NumProgressed": 76808,
+      "NumCompleted": 130
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8474,7 +8479,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28417
+      "UsersEstimate": 28419
     },
     {
       "ID": "Achievement_10",
@@ -8562,7 +8567,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21505
+      "UsersEstimate": 21506
     },
     {
       "ID": "Achievement_20",
@@ -8650,7 +8655,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9216
+      "UsersEstimate": 9217
     },
     {
       "ID": "Achievement_30",
@@ -8698,7 +8703,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6912
+      "UsersEstimate": 6913
     },
     {
       "ID": "Achievement_5",
@@ -8706,7 +8711,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5376
+      "UsersEstimate": 5377
     },
     {
       "ID": "Achievement_6",
@@ -8745,7 +8750,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76803,
+      "Progressed": 76808,
       "Completed": 130
     }
   ],
@@ -8753,8 +8758,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-24T11:09:45.110432+00:00",
+  "LastChanged_Achievements": "2024-01-24T12:09:44.4612141+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-24T11:00:04.9202675+00:00",
-  "LastUpdate_Achievements": "2024-01-24T11:09:45.1104823+00:00"
+  "LastUpdate_Ratings": "2024-01-24T11:59:59.8076377+00:00",
+  "LastUpdate_Achievements": "2024-01-24T12:09:44.4612613+00:00"
 }
