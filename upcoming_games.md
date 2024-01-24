@@ -331,6 +331,7 @@
 | [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | - |  | - | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |
 | [FRACTALS OF DESTINY](games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 2099-01-01 | 8 (1,000 XP) | 1 | - | - |
+| [Futimha Tactics](games/f/fe51006afe8b459ca86ec36efc9bec9d.md) | 2099-01-01 | - |  | - | - |
 | [G.I. Joe Wrath of Cobra](games/d/d9d79f35d883467ca7886d443087b602.md) | 2099-01-01 | - |  | - | - |
 | [Game Room](games/4/40712343dccb4c8183c34eda1c034c17.md) | 2099-01-01 | - |  | - | - |
 | [Garten of Banban 7](games/1/1e3a55074a2b486a8c75dc34feab3b5e.md) | 2099-01-01 | - |  | - | - |

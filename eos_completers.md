@@ -65,22 +65,22 @@
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
-| 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
-| 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 68 | [Time Loader](games/t/time_loader.md) | 6.16% |
-| 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
-| 70 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
-| 71 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.88% |
-| 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
-| 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
-| 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 5.32% |
+| 65 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.38% |
+| 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
+| 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 69 | [Time Loader](games/t/time_loader.md) | 6.16% |
+| 70 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
+| 71 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
+| 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.88% |
+| 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
+| 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
+| 75 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.08% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
 | 79 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.78% |
-| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.73% |
+| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.72% |
 | 82 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
 | 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
 | 84 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
@@ -186,9 +186,9 @@
 | 184 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
 | 184 | [Lemon Cake](games/l/lemon_cake.md) | 0.99% |
 | 186 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 187 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
 | 187 | [Trifox](games/t/trifox.md) | 0.94% |
-| 189 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
+| 188 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
+| 188 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 190 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.91% |
 | 190 | [Hades](games/h/hades.md) | 0.91% |
 | 192 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.88% |
@@ -283,14 +283,14 @@
 | 281 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
 | 281 | [Them and Us](games/t/them_and_us.md) | 0.23% |
 | 283 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
-| 284 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.21% |
 | 284 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.21% |
 | 284 | [Eternights](games/e/eternights.md) | 0.21% |
 | 284 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 288 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
-| 288 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 288 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.20% |
-| 288 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.20% |
+| 287 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.20% |
+| 287 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
+| 287 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 287 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.20% |
+| 287 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.20% |
 | 292 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
 | 292 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
 | 294 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
@@ -846,4 +846,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,883 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,884 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
