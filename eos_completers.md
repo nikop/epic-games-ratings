@@ -145,7 +145,7 @@
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 144 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.85% |
 | 145 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
-| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.83% |
+| 145 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.84% |
 | 147 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
 | 149 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.72% |
@@ -176,13 +176,13 @@
 | 174 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 174 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
 | 176 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.07% |
-| 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.06% |
-| 178 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
-| 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
+| 177 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
+| 177 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
+| 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
 | 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 181 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.02% |
 | 181 | [Sable](games/s/sable.md) | 1.02% |
-| 181 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.02% |
+| 183 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
 | 184 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
 | 184 | [Lemon Cake](games/l/lemon_cake.md) | 0.99% |
 | 186 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
@@ -303,16 +303,16 @@
 | 300 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 300 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
 | 303 | [Blanc](games/b/blanc.md) | 0.14% |
-| 303 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.14% |
 | 303 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
 | 303 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
 | 303 | [Scathe](games/s/scathe.md) | 0.14% |
 | 303 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
-| 309 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
-| 309 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
-| 309 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 309 | [RAILGRADE](games/r/railgrade.md) | 0.13% |
-| 309 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
+| 308 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.13% |
+| 308 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
+| 308 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
+| 308 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 308 | [RAILGRADE](games/r/railgrade.md) | 0.13% |
+| 308 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
 | 314 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
 | 315 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 315 | [Black Book](games/b/black_book.md) | 0.11% |
