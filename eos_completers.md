@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.32% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.31% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -54,14 +54,14 @@
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
-| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.48% |
+| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.58% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.40% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.26% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.19% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.18% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.06% |
-| 62 | [Scorn](games/s/scorn.md) | 6.88% |
+| 62 | [Scorn](games/s/scorn.md) | 6.87% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.82% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
@@ -152,13 +152,13 @@
 | 150 | [Sifu](games/s/sifu.md) | 1.71% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
 | 152 | [Frogun](games/f/frogun.md) | 1.66% |
-| 153 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
-| 154 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.49% |
-| 155 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
+| 153 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
+| 154 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
+| 155 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.49% |
 | 156 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
-| 157 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
-| 158 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.37% |
-| 158 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.37% |
+| 156 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.45% |
+| 158 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
+| 159 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.37% |
 | 160 | [Chorus](games/c/chorus.md) | 1.32% |
 | 161 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
 | 162 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
@@ -173,9 +173,9 @@
 | 170 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
 | 172 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 172 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.12% |
-| 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.08% |
 | 174 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 174 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
+| 176 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.07% |
 | 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.06% |
 | 178 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
 | 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
