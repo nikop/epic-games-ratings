@@ -6,24 +6,24 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~539 |
-| First of many… | 68.00% | ~476 |
-| Helping Hand | 65.00% | ~455 |
-| Increased Vigor | 61.00% | ~427 |
-| Fight Fire with Fire | 59.00% | ~413 |
-| Increased Capacity | 56.00% | ~392 |
+| Green with Envy | 77.00% | ~540 |
+| First of many… | 69.00% | ~484 |
+| Helping Hand | 65.00% | ~456 |
+| Increased Vigor | 61.00% | ~428 |
+| Fight Fire with Fire | 59.00% | ~414 |
+| Increased Capacity | 57.00% | ~400 |
 | Just the start | 50.00% | ~350 |
-| Perfect Storm | 46.00% | ~322 |
+| Perfect Storm | 47.00% | ~329 |
 | All That Glitters | 46.00% | ~322 |
 | Enhance! | 43.00% | ~301 |
-| One Of the Chosen | 41.00% | ~287 |
+| One Of the Chosen | 42.00% | ~294 |
+| Throne Potato | 41.00% | ~287 |
 | Five's a Crowd | 41.00% | ~287 |
+| Salvation | 40.00% | ~280 |
 | Devil's in the Details | 40.00% | ~280 |
-| Throne Potato | 40.00% | ~280 |
 | 25 to Life | 40.00% | ~280 |
-| Salvation | 39.00% | ~273 |
+| Unshakable Fortitude | 37.00% | ~259 |
 | Soul Harvester | 37.00% | ~259 |
-| Unshakable Fortitude | 36.00% | ~252 |
 | I Wanna Rock | 35.00% | ~245 |
 | Delusions of Grandeur | 35.00% | ~245 |
 | Love Tap | 34.00% | ~238 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 334)  
-Completed: 2 (0.29%) (Ranked 268)  
+Progressed: 701 (Ranked 334)  
+Completed: 2 (0.29%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 2 (0.29%) (Ranked 268)
 | 2024-01-22 | 677 | 2 |
 | 2024-01-23 | 683 | 2 |
 | 2024-01-24 | 689 | 2 |
-| 2024-01-25 | 700 | 2 |
+| 2024-01-25 | 701 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 382)  
 Sum: 101 (Ranked 475)  

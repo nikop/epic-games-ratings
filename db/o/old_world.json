@@ -6,9 +6,9 @@
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 365,
+  "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2376,9 +2376,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17164,
+  "EOS_Progressed": 17167,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20981,6 +20981,11 @@
       "Time": "2024-01-25T22:10:26.0806342+00:00",
       "NumProgressed": 17164,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T23:10:36.5179578+00:00",
+      "NumProgressed": 17167,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21046,9 +21051,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -21184,7 +21189,7 @@
       "Name": "Carthage - Riches and Influence",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
@@ -21336,7 +21341,7 @@
       "Name": "Ancient",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
@@ -21384,7 +21389,7 @@
       "Name": "Capable",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -21488,7 +21493,7 @@
       "Name": "Invincible",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -21528,7 +21533,7 @@
       "Name": "Lion",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -21592,7 +21597,7 @@
       "Name": "Ready",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -21632,7 +21637,7 @@
       "Name": "Subjugator",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -21736,7 +21741,7 @@
       "Name": "Glorious Difficulty",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -21872,7 +21877,7 @@
       "Name": "Riders",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -21968,7 +21973,7 @@
       "Name": "Run, Pheidippides, Run!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -22536,7 +22541,7 @@
       "Name": "Learn to Play 4",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -22568,7 +22573,7 @@
       "Name": "Pyramids in Menefer",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_MERCHANTS_LEVANT",
@@ -22640,7 +22645,7 @@
       "Name": "Persia",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -22654,9 +22659,9 @@
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -22696,7 +22701,7 @@
       "Name": "Play a Free-For-All Game (\u003E2 Players)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
@@ -22774,9 +22779,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 687
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -22792,7 +22797,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -22904,7 +22909,7 @@
       "Name": "Capturing Cities",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -22936,7 +22941,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -22998,9 +23003,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -23040,7 +23045,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -23048,7 +23053,7 @@
       "Name": "Three Man Chariot",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -23120,7 +23125,7 @@
       "Name": "Conquest Victory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -23720,7 +23725,7 @@
       "Name": "Beja Archer",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGO_COTHON",
@@ -23800,7 +23805,7 @@
       "Name": "Royal Library",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
@@ -23808,7 +23813,7 @@
       "Name": "Yazilikaya",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_JERWAN_JERWAN_AQUEDUCT",
@@ -23855,21 +23860,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17164,
+      "Progressed": 17167,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17164,
+      "Progressed": 17167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:26.0806335+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:36.5179574+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:00:02.4738724+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:26.081611+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:00:08.4669409+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:36.5189283+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 431,
-  "Ranking_EOS_Completed": 410,
+  "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1177,9 +1177,9 @@
       "ID": "id_11",
       "SetID": "bk9jib6",
       "Name": "Wise man",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "id_12",
@@ -1329,9 +1329,9 @@
       "ID": "id_36",
       "SetID": "bk9jib6",
       "Name": "Beast slayer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "id_37",
@@ -1385,9 +1385,9 @@
       "ID": "id_46",
       "SetID": "bk9jib6",
       "Name": "Mage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "id_47",
@@ -1449,9 +1449,9 @@
       "ID": "id_53",
       "SetID": "bk9jib6",
       "Name": "Jester",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "id_54",
@@ -1578,8 +1578,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-23T07:58:03.0213159+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:18.8173908+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:28.9208743+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:22.6547715+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:18.8174223+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:59:29.4578753+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:28.9209142+00:00"
 }

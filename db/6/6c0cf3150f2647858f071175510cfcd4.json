@@ -3,9 +3,9 @@
   "Name": "Aircraft Carrier Survival",
   "ProductSlug": "aircraft-carrier-survival-769456",
   "Ranking_EOS_Progress": 582,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2024-01-17T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -370,8 +370,8 @@
   ],
   "FirstSeen": "2024-01-18T18:00:15.4077819+00:00",
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:04:57.1878133+00:00",
-  "LastUpdate_AppInfo": "2024-01-18T21:57:13.63618+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:00:07.3027523+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:57.1878237+00:00"
+  "LastChanged_Achievements": "2024-01-25T23:05:02.3926611+00:00",
+  "LastUpdate_AppInfo": "2024-01-25T22:57:13.1353785+00:00",
+  "LastUpdate_Ratings": "2024-01-25T23:00:13.4571457+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:05:02.3926707+00:00"
 }

@@ -7,10 +7,10 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 78.00% | ~449 |
-| Kaijuiced | 72.00% | ~415 |
-| Lie Back and Think of Albion | 67.00% | ~386 |
+| Kaijuiced | 73.00% | ~420 |
+| Lie Back and Think of Albion | 68.00% | ~392 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~369 |
-| I Look Up As I Walk to Takoshima | 62.00% | ~357 |
+| I Look Up As I Walk to Takoshima | 63.00% | ~363 |
 | Yettisoned | 61.00% | ~351 |
 | Pimp My Raid | 59.00% | ~340 |
 | Perfect Probulator | 59.00% | ~340 |
@@ -48,7 +48,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 576 (Ranked 349)  
-Completed: 6 (1.04%) (Ranked 179)  
+Completed: 6 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -15,7 +15,7 @@ Rating: 4.73 (Ranked 185)
 | Felons | 59.00% | ~11,095 |
 | A Sea of Promises | 58.00% | ~10,907 |
 | Tales and Revelations | 54.00% | ~10,155 |
-| Bloodline | 49.00% | ~9,214 |
+| Bloodline | 50.00% | ~9,402 |
 | The Cradle of Centuries | 46.00% | ~8,650 |
 | The Life We Deserve | 43.00% | ~8,086 |
 | Night guard | 41.00% | ~7,710 |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 185)
 | Malignant | 1.00% | ~188 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,805 (Ranked 164)  
-Completed: 70 (0.37%) (Ranked 253)  
+Completed: 71 (0.38%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,7 +320,7 @@ Completed: 70 (0.37%) (Ranked 253)
 | 2024-01-22 | 18,692 | 70 |
 | 2024-01-23 | 18,733 | 70 |
 | 2024-01-24 | 18,774 | 70 |
-| 2024-01-25 | 18,805 | 70 |
+| 2024-01-25 | 18,805 | 71 |
 ## Awards
 Max (Great Boss Battles): 473  (Ranked 229)  
 Sum: 740 (Ranked 309)  

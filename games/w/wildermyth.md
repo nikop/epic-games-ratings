@@ -24,12 +24,12 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 2.00% | ~32 |
 | Chain Reaction | 2.00% | ~32 |
 | Echoes Die | 2.00% | ~32 |
+| A Story of Heroes | 2.00% | ~32 |
 | Turncoat | 2.00% | ~32 |
 | Legends Never Die | 1.00% | ~16 |
 | In Soil, In Smoke | 1.00% | ~16 |
 | Everfading | 1.00% | ~16 |
 | Another Tale to Tell | 1.00% | ~16 |
-| A Story of Heroes | 1.00% | ~16 |
 | All My Birds, Safely Home | 1.00% | ~16 |
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | No Time for Clawmonsters | 1.00% | ~16 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,619 (Ranked 271)  
-Completed: 7 (0.43%) (Ranked 243)  
+Completed: 7 (0.43%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "deponia-the-complete-journey",
   "Ranking_Rating": 386,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 388,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 853,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2014-07-08T10:00:00+00:00",
@@ -748,6 +748,6 @@
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
   "LastChanged": "2024-01-18T23:58:55.8168777+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:31.5589666+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:58:00.3586421+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:06:07.0038445+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:58:07.7257736+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:06:11.4744736+00:00"
 }

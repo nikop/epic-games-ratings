@@ -19,8 +19,8 @@ Rating: 4.38 (Ranked 803)
 | The Altercation | 49.00% | ~250 |
 | Truth from Within | 47.00% | ~240 |
 | The Major | 46.00% | ~235 |
+| Curious and Beautiful | 44.00% | ~225 |
 | Comtesse Margaux de Vos | 44.00% | ~225 |
-| Curious and Beautiful | 43.00% | ~220 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~220 |
 | The Interrogations | 43.00% | ~220 |
 | Well-acquainted | 41.00% | ~210 |
@@ -53,7 +53,7 @@ Rating: 4.38 (Ranked 803)
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 511 (Ranked 360)  
-Completed: 8 (1.57%) (Ranked 154)  
+Completed: 8 (1.57%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "RPG Survivors",
   "ProductSlug": "rpg-survivors-8bf58c",
   "Ranking_EOS_Progress": 853,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2024-02-15T12:00:00+00:00",
     "PcReleaseDate": "2024-02-15T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T08:57:24.0044653+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:47.4235108+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:03:42.5450035+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:54.9927915+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:03:47.5949338+00:00"
 }

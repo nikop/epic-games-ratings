@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 4.00% | ~687 |
 | Hanging Gardens | 4.00% | ~687 |
 | Oracle | 4.00% | ~687 |
+| Judaism | 4.00% | ~687 |
 | Ambitious | 3.00% | ~515 |
 | Enlightened | 3.00% | ~515 |
 | Fountainhead | 3.00% | ~515 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 3.00% | ~515 |
 | Pyramids | 3.00% | ~515 |
 | Learn to Play 1 | 3.00% | ~515 |
-| Judaism | 3.00% | ~515 |
 | Babylonian Paganism | 3.00% | ~515 |
 | Greek Paganism | 3.00% | ~515 |
 | Naming Landmarks | 3.00% | ~515 |
@@ -101,18 +101,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 1.00% | ~172 |
 | Kushite Paganism | 1.00% | ~172 |
 | Jerwan Aqueduct | 1.00% | ~172 |
-| Capable | 0.90% | ~154 |
-| Invincible | 0.90% | ~154 |
-| Lion | 0.90% | ~154 |
-| Ready | 0.90% | ~154 |
-| Subjugator | 0.90% | ~154 |
-| Riders | 0.90% | ~154 |
-| Learn to Play 4 | 0.90% | ~154 |
-| Assyrian Paganism | 0.90% | ~154 |
-| Industrial Progress | 0.90% | ~154 |
-| Cimmerian Archer | 0.90% | ~154 |
-| Royal Library | 0.90% | ~154 |
-| Yazilikaya | 0.90% | ~154 |
+| Capable | 0.90% | ~155 |
+| Invincible | 0.90% | ~155 |
+| Lion | 0.90% | ~155 |
+| Ready | 0.90% | ~155 |
+| Subjugator | 0.90% | ~155 |
+| Riders | 0.90% | ~155 |
+| Learn to Play 4 | 0.90% | ~155 |
+| Assyrian Paganism | 0.90% | ~155 |
+| Industrial Progress | 0.90% | ~155 |
+| Cimmerian Archer | 0.90% | ~155 |
+| Royal Library | 0.90% | ~155 |
+| Yazilikaya | 0.90% | ~155 |
+| Bad Heir Day | 0.80% | ~137 |
 | Strong Difficulty | 0.80% | ~137 |
 | Hunters | 0.80% | ~137 |
 | Babylonia | 0.80% | ~137 |
@@ -120,18 +121,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
 | Redemption | 0.80% | ~137 |
+| Revelation | 0.80% | ~137 |
 | Veneration | 0.80% | ~137 |
 | Phalangite | 0.80% | ~137 |
 | Ambition Victory | 0.80% | ~137 |
 | Kushite Pyramids | 0.80% | ~137 |
-| Bad Heir Day | 0.70% | ~120 |
 | Devout | 0.70% | ~120 |
 | Peacemaker | 0.70% | ~120 |
 | Church of the Holy Sepulchre | 0.70% | ~120 |
 | Adur Burzen-Mihr | 0.70% | ~120 |
 | Carthage | 0.70% | ~120 |
 | Rome | 0.70% | ~120 |
-| Revelation | 0.70% | ~120 |
 | Kushite Cavalry | 0.70% | ~120 |
 | Turreted Elephant | 0.70% | ~120 |
 | Deposed Tribe | 0.70% | ~120 |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.50% | ~86 |
 | Cao'an | 0.50% | ~86 |
 | Learn to Play 5 | 0.50% | ~86 |
+| Old World Order | 0.50% | ~86 |
 | Cataphract Archer | 0.50% | ~86 |
 | No Undo | 0.50% | ~86 |
 | Poetic Leader | 0.50% | ~86 |
@@ -152,23 +153,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cothon | 0.50% | ~86 |
 | Carthage - Ox Hide | 0.40% | ~69 |
 | The Eternal Treaty | 0.40% | ~69 |
-| Old World Order | 0.40% | ~69 |
 | Pantheon of Gods | 0.40% | ~69 |
 | Play a Network Game | 0.40% | ~69 |
 | Ten Crowns | 0.40% | ~69 |
 | Siege Tower | 0.40% | ~69 |
 | Colosseum | 0.40% | ~69 |
-| Carthage - Riches and Influence | 0.30% | ~51 |
-| Ancient | 0.30% | ~51 |
-| Glorious Difficulty | 0.30% | ~51 |
-| Run, Pheidippides, Run! | 0.30% | ~51 |
-| Pyramids in Menefer | 0.30% | ~51 |
-| Persia | 0.30% | ~51 |
-| Play a Free-For-All Game (>2 Players) | 0.30% | ~51 |
-| Capturing Cities | 0.30% | ~51 |
-| Three Man Chariot | 0.30% | ~51 |
-| Conquest Victory | 0.30% | ~51 |
-| Beja Archer | 0.30% | ~51 |
+| Carthage - Riches and Influence | 0.30% | ~52 |
+| Ancient | 0.30% | ~52 |
+| Glorious Difficulty | 0.30% | ~52 |
+| Run, Pheidippides, Run! | 0.30% | ~52 |
+| Pyramids in Menefer | 0.30% | ~52 |
+| Persia | 0.30% | ~52 |
+| Play a Free-For-All Game (>2 Players) | 0.30% | ~52 |
+| Capturing Cities | 0.30% | ~52 |
+| Three Man Chariot | 0.30% | ~52 |
+| Conquest Victory | 0.30% | ~52 |
+| Beja Archer | 0.30% | ~52 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
 | Silver Victory (Carthage 1) | 0.20% | ~34 |
 | Cleopatra's Love | 0.20% | ~34 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,164 (Ranked 170)  
-Completed: 5 (0.03%) (Ranked 365)  
+Progressed: 17,167 (Ranked 170)  
+Completed: 5 (0.03%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -645,7 +645,7 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
-| 2024-01-25 | 17,164 | 5 |
+| 2024-01-25 | 17,167 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

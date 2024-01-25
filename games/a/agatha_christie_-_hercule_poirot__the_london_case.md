@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Marc Allard | 76.00% | ~91 |
 | Little ideas | 73.00% | ~88 |
-| The Ship | 69.00% | ~83 |
-| Seeking the truth | 61.00% | ~73 |
+| The Ship | 70.00% | ~84 |
+| Seeking the truth | 62.00% | ~74 |
 | An old friend | 59.00% | ~71 |
 | The Gala | 58.00% | ~70 |
 | A curious gathering | 56.00% | ~67 |
@@ -15,11 +15,11 @@
 | Impossible is possible | 55.00% | ~66 |
 | Arthur Hastings | 55.00% | ~66 |
 | The Missing Magdalene | 51.00% | ~61 |
-| Everything matters | 46.00% | ~55 |
+| Everything matters | 48.00% | ~58 |
 | DI Hardwicke | 46.00% | ~55 |
 | An expert mediator | 45.00% | ~54 |
 | Betty Allen | 40.00% | ~48 |
-| Order and method | 38.00% | ~46 |
+| Order and method | 39.00% | ~47 |
 | The Investigation Begins | 38.00% | ~46 |
 | Irene Court-Smyth | 37.00% | ~44 |
 | Ms. Camilla B. Culsham | 36.00% | ~43 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -19112,9 +19112,9 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058739,
+  "EOS_Progressed": 1058751,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4234,
+  "EOS_NewPlayers": 4232,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51267,6 +51267,11 @@
       "Time": "2024-01-25T22:09:15.3632058+00:00",
       "NumProgressed": 1058739,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T23:09:25.9310413+00:00",
+      "NumProgressed": 1058751,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51295,7 +51300,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "Cyberjunkie",
@@ -51351,7 +51356,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "Gunslinger",
@@ -51367,7 +51372,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "IAmMaxTac",
@@ -51423,7 +51428,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "NoMansLand",
@@ -51463,7 +51468,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "Temperance",
@@ -51471,7 +51476,7 @@
       "Name": "Temperance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -51495,7 +51500,7 @@
       "Name": "The Fool",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "TheHermit",
@@ -51527,7 +51532,7 @@
       "Name": "The Star",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "TheSun",
@@ -51551,7 +51556,7 @@
       "Name": "The World",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "ThisIsPacifica",
@@ -51599,7 +51604,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6353
     },
     {
       "ID": "VForVendetta",
@@ -51814,21 +51819,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058739,
+      "Progressed": 1058751,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187362,
+      "Progressed": 187374,
       "Completed": 10701
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-25T22:03:13.3511755+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:15.3632053+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:25.931041+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:03:13.3511762+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:15.3633895+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:03:16.7899403+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:25.9312041+00:00"
 }

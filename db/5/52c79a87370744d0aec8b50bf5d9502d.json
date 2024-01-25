@@ -3,9 +3,9 @@
   "Name": "Spooky Mahjong",
   "ProductSlug": "spooky-mahjong-b9f12c",
   "Ranking_EOS_Progress": 853,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2024-02-25T21:00:00+00:00",
     "PcReleaseDate": "2021-05-23T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T08:57:23.424317+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:17.4352109+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:05:26.7372626+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:25.5170199+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:05:31.6827818+00:00"
 }

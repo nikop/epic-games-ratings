@@ -6,9 +6,9 @@
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -876,10 +876,10 @@
     }
   ],
   "EOS_Progressed": 18805,
-  "EOS_Completed": 70,
-  "EOS_NewPlayers": 318,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed": 71,
+  "EOS_NewPlayers": 315,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:45.6707556+00:00",
@@ -17120,6 +17120,11 @@
       "Time": "2024-01-25T20:08:22.8920574+00:00",
       "NumProgressed": 18805,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-25T23:08:27.617208+00:00",
+      "NumProgressed": 18805,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 35,
@@ -17201,9 +17206,9 @@
       "ID": "ACH_10",
       "SetID": "9d4cf4c",
       "Name": "Bloodline",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9402
     },
     {
       "ID": "ACH_11",
@@ -17411,15 +17416,15 @@
       "ID": "9d4cf4c",
       "IsBase": true,
       "Progressed": 18805,
-      "Completed": 70
+      "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-24T21:58:09.3389593+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:06:23.4224754+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:08:27.6172076+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:58:56.1935626+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:06:23.4225538+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:59:03.2817892+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:08:27.617307+00:00"
 }

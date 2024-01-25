@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122: Squadrons",
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 387,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44215,
+  "EOS_Progressed": 44216,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1947,
+  "EOS_NewPlayers": 1934,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15179,6 +15179,11 @@
       "Time": "2024-01-25T22:10:16.939862+00:00",
       "NumProgressed": 44215,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T23:10:27.0642028+00:00",
+      "NumProgressed": 44216,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -15415,7 +15420,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 42004
+      "UsersEstimate": 42005
     },
     {
       "ID": "achievement_36",
@@ -15447,7 +15452,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10170
     },
     {
       "ID": "achievement_4",
@@ -15551,7 +15556,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10170
     },
     {
       "ID": "achievement_9",
@@ -15566,7 +15571,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 44215,
+      "Progressed": 44216,
       "Completed": 3
     }
   ],
@@ -15574,8 +15579,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:16.9398617+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:27.0642026+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.6990258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:03:18.6352046+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:16.9399563+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:03:22.0278013+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:27.0643054+00:00"
 }

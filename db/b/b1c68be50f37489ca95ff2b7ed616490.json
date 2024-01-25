@@ -3,9 +3,9 @@
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1757,8 +1757,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:04:04.8110033+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:04:09.6213864+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:24.0691623+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:03:10.9882265+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:04.8110267+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:03:14.9209252+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:09.6214112+00:00"
 }

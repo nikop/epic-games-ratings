@@ -4,8 +4,8 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 245,
-  "EOS_Completed": 95,
+  "EOS_Completed": 96,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 38.78,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 39.18,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1464,6 +1464,11 @@
       "Time": "2024-01-25T01:54:49.1232724+00:00",
       "NumProgressed": 245,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2024-01-25T23:04:00.5524055+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 18,
@@ -1481,9 +1486,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "Dust_fighter",
@@ -1561,9 +1566,9 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "Repair",
@@ -1619,13 +1624,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 245,
-      "Completed": 95
+      "Completed": 96
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:03:55.5800508+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:04:00.5524049+00:00",
   "LastUpdate_AppInfo": "2024-01-23T10:56:58.4114323+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:45.923503+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:03:55.580068+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:59:52.1486558+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:00.5524237+00:00"
 }

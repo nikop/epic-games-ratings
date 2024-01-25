@@ -11,7 +11,7 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 36.00% | ~105 |
 | Civilian | 36.00% | ~105 |
 | Creator | 33.00% | ~96 |
-| Military Leader | 31.00% | ~91 |
+| Military Leader | 32.00% | ~93 |
 | Festival-goer | 29.00% | ~85 |
 | Peddler | 27.00% | ~79 |
 | Commander | 26.00% | ~76 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 292 (Ranked 413)  
-Completed: 0 (0.00%) (Ranked 410)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

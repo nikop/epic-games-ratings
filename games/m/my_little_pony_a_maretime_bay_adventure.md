@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| An Adorable Thief | 84.00% | ~43 |
-| Unicycling 101 | 82.00% | ~42 |
+| An Adorable Thief | 86.00% | ~44 |
+| Unicycling 101 | 84.00% | ~43 |
 | Mane Street Awaits! | 73.00% | ~37 |
 | Amateur Detective | 63.00% | ~32 |
 | Pipp Pipp Parade! | 61.00% | ~31 |

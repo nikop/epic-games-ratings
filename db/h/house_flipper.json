@@ -6,9 +6,9 @@
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2337,7 +2337,7 @@
       "Count": 226
     }
   ],
-  "EOS_Progressed": 22241,
+  "EOS_Progressed": 22242,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -13797,6 +13797,11 @@
       "Time": "2024-01-25T22:05:10.8023727+00:00",
       "NumProgressed": 22241,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-25T23:05:15.8801211+00:00",
+      "NumProgressed": 22242,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13848,7 +13853,7 @@
       "Name": "Estate Agent",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "FirstMoney",
@@ -13856,7 +13861,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21129
+      "UsersEstimate": 21130
     },
     {
       "ID": "GameOver",
@@ -13991,15 +13996,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22241,
+      "Progressed": 22242,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-24T13:58:56.0398482+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:05:10.8023724+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:05:15.8801209+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:59.629962+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:06.5830183+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:05:10.8024228+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:59:13.4476371+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:05:15.8801943+00:00"
 }

@@ -11,8 +11,8 @@ Rating: 4.69 (Ranked 242)
 | Body and Soul | 0.90% | ~81 |
 | Globe Trotter | 0.80% | ~72 |
 | Ahem Ahem | 0.70% | ~63 |
+| Audiophile | 0.70% | ~63 |
 | Soul-Canon | 0.70% | ~63 |
-| Audiophile | 0.60% | ~54 |
 | Clay Pigeon | 0.50% | ~45 |
 | Shredder | 0.50% | ~45 |
 | Historian | 0.40% | ~36 |
@@ -28,7 +28,7 @@ Rating: 4.69 (Ranked 242)
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,008 (Ranked 192)  
-Completed: 36 (0.40%) (Ranked 250)  
+Completed: 36 (0.40%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -54,7 +54,7 @@ Rating: 4.71 (Ranked 205)
 | Reunion | 1.00% | ~191 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,052 (Ranked 163)  
-Completed: 56 (0.29%) (Ranked 268)  
+Completed: 56 (0.29%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

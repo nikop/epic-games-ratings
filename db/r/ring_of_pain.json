@@ -6,9 +6,9 @@
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3958,9 +3958,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243512,
+  "EOS_Progressed": 243514,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32988,6 +32988,11 @@
       "Time": "2024-01-25T22:10:25.4804585+00:00",
       "NumProgressed": 243512,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-25T23:10:35.7888336+00:00",
+      "NumProgressed": 243514,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33261,9 +33266,9 @@
       "ID": "FREEZE20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Cold Hearted",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2435
     },
     {
       "ID": "FULLINVENTORY",
@@ -34102,22 +34107,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243512,
+      "Progressed": 243514,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4992,
-      "Completed": 432
+      "Progressed": 4994,
+      "Completed": 433
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-25T19:58:48.1833562+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:25.4804581+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:35.7888334+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:58:38.0674718+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:25.4807254+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:58:45.1257222+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:35.7890865+00:00"
 }

@@ -18,7 +18,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Truly Rabid *Traditionalist* | 11.00% | ~15,413 |
 | Unbelievably Boring **** | 9.00% | ~12,611 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,611 |
-| Enemy Of The Physical Realm | 8.00% | ~11,209 |
+| Enemy Of The Physical Realm | 8.00% | ~11,210 |
 | Hardie's Heroes | 6.00% | ~8,407 |
 | The Lawbringer | 4.00% | ~5,605 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,605 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~140 |
 | What body? | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,118 (Ranked 91)  
-Completed: 29 (0.02%) (Ranked 374)  
+Progressed: 140,119 (Ranked 91)  
+Completed: 29 (0.02%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,7 +327,7 @@ Completed: 29 (0.02%) (Ranked 374)
 | 2024-01-22 | 139,915 | 29 |
 | 2024-01-23 | 139,976 | 29 |
 | 2024-01-24 | 140,039 | 29 |
-| 2024-01-25 | 140,118 | 29 |
+| 2024-01-25 | 140,119 | 29 |
 ## Awards
 Max (Character Customization): 772  (Ranked 193)  
 Sum: 1,178 (Ranked 266)  

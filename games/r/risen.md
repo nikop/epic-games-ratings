@@ -18,15 +18,15 @@ Rating: 4.60 (Ranked 432)
 | Ladies' man | 30.00% | ~66 |
 | Ferocious wild boars | 25.00% | ~55 |
 | Idiot | 25.00% | ~55 |
-| Beast slayer | 22.00% | ~48 |
+| Beast slayer | 23.00% | ~51 |
 | Ogre friend | 22.00% | ~48 |
 | Death of a legend | 21.00% | ~46 |
 | Family man | 20.00% | ~44 |
 | Archaeologist | 20.00% | ~44 |
 | Sidelined | 19.00% | ~42 |
+| Wise man | 18.00% | ~40 |
 | Little hero | 18.00% | ~40 |
 | The fourth triplet | 18.00% | ~40 |
-| Wise man | 17.00% | ~37 |
 | Pandora's box | 16.00% | ~35 |
 | Hard worker | 16.00% | ~35 |
 | Fence | 16.00% | ~35 |
@@ -48,16 +48,16 @@ Rating: 4.60 (Ranked 432)
 | King Midas | 4.00% | ~9 |
 | Rune master | 3.00% | ~7 |
 | Fervent swimmer | 3.00% | ~7 |
+| Jester | 3.00% | ~7 |
 | Big game hunter | 2.00% | ~4 |
-| Jester | 2.00% | ~4 |
-| Mage | 1.00% | ~2 |
+| Mage | 2.00% | ~4 |
 | Sharpshooter | 1.00% | ~2 |
 | Gladiator | 0.50% | ~1 |
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 220 (Ranked 431)  
-Completed: 0 (0.00%) (Ranked 410)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

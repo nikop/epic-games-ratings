@@ -27,8 +27,8 @@
 | Workout professional | 52.00% | ~316 |
 | Little hacker | 52.00% | ~316 |
 | Handyman | 52.00% | ~316 |
+| Champion – starter pack | 52.00% | ~316 |
 | Fight for life | 51.00% | ~310 |
-| Champion – starter pack | 51.00% | ~310 |
 | It's good to be alive | 51.00% | ~310 |
 | Intriguing candies | 51.00% | ~310 |
 | Own four walls | 50.00% | ~304 |
@@ -72,7 +72,7 @@
 | Your own way | 25.00% | ~152 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 608 (Ranked 347)  
-Completed: 9 (1.48%) (Ranked 156)  
+Completed: 9 (1.48%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

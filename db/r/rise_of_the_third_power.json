@@ -3,9 +3,9 @@
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -460,8 +460,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:07.2173454+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:18.119587+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:10.7605029+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:57.8566386+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:07.2173596+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:58:05.2066568+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:18.1195989+00:00"
 }

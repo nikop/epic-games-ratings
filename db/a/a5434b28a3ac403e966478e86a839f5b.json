@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -3633,9 +3633,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_eou6",
@@ -3706,8 +3706,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-24T21:59:40.9634781+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:05:57.2216189+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:06:01.7545529+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:20.7853803+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:05:57.2216421+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:28.8601796+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:06:01.7545795+00:00"
 }

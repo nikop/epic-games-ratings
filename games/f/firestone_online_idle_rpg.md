@@ -9,7 +9,7 @@ Rating: 4.08 (Ranked 1,038)
 | World Map | 78.00% | ~3,745 |
 | Temple of Eternals | 56.00% | ~2,689 |
 | Prestigious | 52.00% | ~2,497 |
-| Fellowship Power | 41.00% | ~1,968 |
+| Fellowship Power | 42.00% | ~2,016 |
 | Full Party | 31.00% | ~1,488 |
 | Guild Power | 22.00% | ~1,056 |
 | Prestigious x10 | 20.00% | ~960 |
@@ -29,12 +29,12 @@ Rating: 4.08 (Ranked 1,038)
 | The Unstoppable | 11.00% | ~528 |
 | Scientist | 10.00% | ~480 |
 | Doing My Part | 9.00% | ~432 |
+| Hunter | 9.00% | ~432 |
 | The power of Awakening | 9.00% | ~432 |
 | Challenger | 8.00% | ~384 |
 | Daily Quest Completionist | 8.00% | ~384 |
 | Four Leaf Clover | 8.00% | ~384 |
 | Frostfire Liberator | 8.00% | ~384 |
-| Hunter | 8.00% | ~384 |
 | Mastery | 8.00% | ~384 |
 | Moving Up The Ladder | 8.00% | ~384 |
 | Relic Of The Past | 8.00% | ~384 |
@@ -82,7 +82,7 @@ Rating: 4.08 (Ranked 1,038)
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,801 (Ranked 211)  
-Completed: 2 (0.04%) (Ranked 360)  
+Completed: 2 (0.04%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

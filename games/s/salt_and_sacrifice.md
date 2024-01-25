@@ -20,7 +20,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Dawnlight Order | 64.00% | ~43,786 |
 | The Electromancer | 61.00% | ~41,733 |
 | The Terramancer | 59.00% | ~40,365 |
-| The Exalted | 56.00% | ~38,312 |
+| The Exalted | 57.00% | ~38,997 |
 | Sheriff Inquisitors | 55.00% | ~37,628 |
 | Blueheart Runners | 54.00% | ~36,944 |
 | The Necromancer | 52.00% | ~35,576 |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,421 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68,415 (Ranked 119)  
-Completed: 1,296 (1.89%) (Ranked 144)  
+Completed: 1,296 (1.89%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
   "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -286,9 +286,9 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CH1_MOTHER",
@@ -397,8 +397,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:11.4352431+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:21.8855234+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:05.5118798+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:58:32.9446229+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:11.4352525+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:58:40.1072566+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:21.8855362+00:00"
 }

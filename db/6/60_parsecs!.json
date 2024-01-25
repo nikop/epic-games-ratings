@@ -3,9 +3,9 @@
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 1676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2285,9 +2285,9 @@
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 939
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -2349,9 +2349,9 @@
       "ID": "Achievement_Friendzone",
       "SetID": "c01p6e5",
       "Name": "Friendzone",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1291
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -2566,8 +2566,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:01.5651306+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:12.7993411+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:01.9198203+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:28.2906225+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:01.5651633+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:36.3011762+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:12.7993849+00:00"
 }

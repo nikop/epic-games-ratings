@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,838 |
-| Landlord | 35.00% | ~34,054 |
-| Trained | 30.00% | ~29,189 |
-| Bannerlord | 25.00% | ~24,324 |
-| Lawmaker | 24.00% | ~23,351 |
-| Horde breaker | 22.00% | ~21,405 |
-| The king is pleased | 20.00% | ~19,459 |
-| Apple of my eye | 18.00% | ~17,513 |
-| King Solomon | 18.00% | ~17,513 |
-| This Is Our Land | 17.00% | ~16,540 |
+| Lawbringer | 43.00% | ~41,839 |
+| Landlord | 35.00% | ~34,055 |
+| Trained | 30.00% | ~29,190 |
+| Bannerlord | 25.00% | ~24,325 |
+| Lawmaker | 24.00% | ~23,352 |
+| Horde breaker | 22.00% | ~21,406 |
+| The king is pleased | 20.00% | ~19,460 |
+| Apple of my eye | 18.00% | ~17,514 |
+| King Solomon | 18.00% | ~17,514 |
+| This Is Our Land | 17.00% | ~16,541 |
 | Against all odds | 16.00% | ~15,568 |
 | I can do it | 16.00% | ~15,568 |
 | Duelist | 13.00% | ~12,649 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,297 (Ranked 105)  
-Completed: 0 (0.00%) (Ranked 410)  
+Progressed: 97,299 (Ranked 105)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,10 +338,10 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 96,846 | 0 |
 | 2024-01-23 | 97,011 | 0 |
 | 2024-01-24 | 97,171 | 0 |
-| 2024-01-25 | 97,297 | 0 |
+| 2024-01-25 | 97,299 | 0 |
 ## Awards
 Max (Character Customization): 8,250  (Ranked 51)  
-Sum: 17,051 (Ranked 67)  
+Sum: 17,052 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -16
 | This game has Amazing Characters | 944 |
 | This game is Relaxing | 921 |
 | This game has Quickly Understood Controls | 904 |
-| This game has a Creative Community | 710 |
+| This game has a Creative Community | 711 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -735,4 +735,4 @@ Diff (max vs sum): -16
 | 2024-01-22 | 4.74 | - | 8,207 | 16,980 |
 | 2024-01-23 | 4.74 | - | 8,223 | 17,008 |
 | 2024-01-24 | 4.74 | - | 8,238 | 17,033 |
-| 2024-01-25 | 4.74 | - | 8,250 | 17,051 |
+| 2024-01-25 | 4.74 | - | 8,250 | 17,052 |

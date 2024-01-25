@@ -6,9 +6,9 @@
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18094,
+  "EOS_Progressed": 18095,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -19121,6 +19121,11 @@
       "Time": "2024-01-25T21:06:49.5409633+00:00",
       "NumProgressed": 18094,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-25T23:03:29.151423+00:00",
+      "NumProgressed": 18095,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19132,7 +19137,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "tpote_achievement_10",
@@ -19204,7 +19209,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "tpote_achievement_19",
@@ -19236,7 +19241,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5247
+      "UsersEstimate": 5248
     },
     {
       "ID": "tpote_achievement_22",
@@ -19260,7 +19265,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "tpote_achievement_25",
@@ -19300,7 +19305,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "tpote_achievement_3",
@@ -19316,7 +19321,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "tpote_achievement_31",
@@ -19364,7 +19369,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "tpote_achievement_37",
@@ -19388,7 +19393,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "tpote_achievement_4",
@@ -19404,7 +19409,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "tpote_achievement_41",
@@ -19412,7 +19417,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "tpote_achievement_5",
@@ -19459,15 +19464,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18094,
+      "Progressed": 18095,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2024-01-25T16:03:51.8791748+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:06:49.5409625+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:03:29.1514228+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:03:01.5064832+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:06:49.5410692+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:03:05.3592467+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:03:29.1515382+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 454,
-  "EOS_Completed": 110,
+  "EOS_Completed": 111,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 24.23,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 24.45,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -2439,6 +2439,11 @@
       "Time": "2024-01-25T18:07:57.625478+00:00",
       "NumProgressed": 454,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-25T23:06:08.4518629+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -2513,9 +2518,9 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 195
     },
     {
       "ID": "GasFound",
@@ -2563,13 +2568,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 454,
-      "Completed": 110
+      "Completed": 111
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:06:03.8893054+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:06:08.4518626+00:00",
   "LastUpdate_AppInfo": "2024-01-24T03:57:23.183892+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:03.9516957+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:06:03.8893348+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:59:10.8834234+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:06:08.4518847+00:00"
 }

@@ -19,12 +19,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.70% | ~7,411 |
 | All the President's Men | 0.70% | ~1,312 |
 | Arachnophobia | 0.70% | ~1,312 |
-| Bushido and Chill | 0.60% | ~6,352 |
-| Gun Fu | 0.60% | ~6,352 |
-| Master Crafter | 0.60% | ~6,352 |
-| The Fool | 0.60% | ~6,352 |
-| The World | 0.60% | ~6,352 |
-| Judy vs Night City | 0.60% | ~6,352 |
+| Bushido and Chill | 0.60% | ~6,353 |
+| Gun Fu | 0.60% | ~6,353 |
+| Master Crafter | 0.60% | ~6,353 |
+| The Fool | 0.60% | ~6,353 |
+| The World | 0.60% | ~6,353 |
+| Judy vs Night City | 0.60% | ~6,353 |
 | To Protect and Serve | 0.50% | ~5,294 |
 | I Am The Law | 0.50% | ~5,294 |
 | The Quick and the Dead | 0.50% | ~5,294 |
@@ -36,10 +36,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.30% | ~3,176 |
 | King of Wands | 0.30% | ~562 |
 | Easy Come, Easy Go | 0.30% | ~562 |
-| Breathtaking | 0.20% | ~2,117 |
-| Ten out of Ten | 0.20% | ~2,117 |
-| Temperance | 0.20% | ~2,117 |
-| The Star | 0.20% | ~2,117 |
+| Breathtaking | 0.20% | ~2,118 |
+| Ten out of Ten | 0.20% | ~2,118 |
+| Temperance | 0.20% | ~2,118 |
+| The Star | 0.20% | ~2,118 |
 | The APB is Not Enough | 0.20% | ~375 |
 | Dirty Deeds | 0.20% | ~375 |
 | City Lights | 0.10% | ~1,059 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,739 (Ranked 17)  
-Completed: 3,163 (0.30%) (Ranked 266)  
+Progressed: 1,058,751 (Ranked 17)  
+Completed: 3,163 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -354,7 +354,7 @@ Completed: 3,163 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,739 | 3,163 |
+| 2024-01-25 | 1,058,751 | 3,163 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
 Sum: 520,256 (Ranked 8)  

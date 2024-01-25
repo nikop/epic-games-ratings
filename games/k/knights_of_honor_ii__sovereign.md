@@ -5,64 +5,64 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Bring it on! | 16.00% | ~29 |
+| Hail to the King, Baby | 16.00% | ~29 |
 | Can’t Touch This | 15.00% | ~27 |
-| Hail to the King, Baby | 15.00% | ~27 |
-| Bring it on! | 14.00% | ~25 |
-| Help! Help! I’m being repressed | 14.00% | ~25 |
-| Path of Glory | 9.00% | ~16 |
+| Help! Help! I’m being repressed | 14.00% | ~26 |
+| Path of Glory | 10.00% | ~18 |
 | There is no Nobility in Poverty | 9.00% | ~16 |
-| Full House | 8.00% | ~14 |
-| The finest merchandise this side of river Jordan | 7.00% | ~13 |
-| Playerxander the Great | 6.00% | ~11 |
-| They Got What They Deserved | 6.00% | ~11 |
+| Full House | 8.00% | ~15 |
+| The finest merchandise this side of river Jordan | 8.00% | ~15 |
+| They Got What They Deserved | 7.00% | ~13 |
+| Dinner Time | 5.00% | ~9 |
+| Playerxander the Great | 5.00% | ~9 |
 | Big Apple | 4.00% | ~7 |
-| Dinner Time | 4.00% | ~7 |
 | Do you read Sutter Cane? | 4.00% | ~7 |
+| His name is King | 4.00% | ~7 |
 | What we’ve got here is failure to communicate | 4.00% | ~7 |
 | All the King's Men | 3.00% | ~5 |
 | Black Sheep Wall | 3.00% | ~5 |
 | Call the Boys | 3.00% | ~5 |
+| Cut-Me-Own-Throat | 3.00% | ~5 |
 | Desperate Times Call for Desperate Measures | 3.00% | ~5 |
-| His name is King | 3.00% | ~5 |
+| Fight Another Day | 3.00% | ~5 |
 | Kingslayer | 3.00% | ~5 |
 | Learn Me a Book | 3.00% | ~5 |
+| On the third day at dawn, look east | 3.00% | ~5 |
 | Pillars of the Earth | 3.00% | ~5 |
+| Scientia potentia es | 3.00% | ~5 |
 | ‘Tis but a scratch | 3.00% | ~5 |
 | A Quiet Palace | 2.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~4 |
 | Blinded by Science | 2.00% | ~4 |
-| Cut-Me-Own-Throat | 2.00% | ~4 |
 | Forth, Eorlingas! | 2.00% | ~4 |
+| From Rags to Riches | 2.00% | ~4 |
 | He made it out, but with an arrow in his back | 2.00% | ~4 |
 | I started a joke | 2.00% | ~4 |
-| Fight Another Day | 2.00% | ~4 |
 | Let Us Pray | 2.00% | ~4 |
 | Naught but a Seamless Victory | 2.00% | ~4 |
-| On the third day at dawn, look east | 2.00% | ~4 |
-| Scientia potentia es | 2.00% | ~4 |
+| Renaissance Man | 2.00% | ~4 |
 | The Magnificent Nine | 2.00% | ~4 |
 | Time to find India | 2.00% | ~4 |
 | Vlad the Impaler | 2.00% | ~4 |
+| Zerg Rush | 1.00% | ~2 |
 | Crusader “you know what” | 1.00% | ~2 |
 | Fighting with Power and Steel | 1.00% | ~2 |
+| Greed is Good | 1.00% | ~2 |
 | His All-Holiness | 1.00% | ~2 |
+| Let us trade with these fine people | 1.00% | ~2 |
 | New Mineland | 1.00% | ~2 |
 | Prince Ali! Fabulous he! | 1.00% | ~2 |
-| Renaissance Man | 1.00% | ~2 |
+| Spartacus | 1.00% | ~2 |
 | Why is there no culture victory?! | 1.00% | ~2 |
 | You are not the boss of me now | 1.00% | ~2 |
 | You reap what you sow | 1.00% | ~2 |
-| Zerg Rush | 0.60% | ~1 |
-| Crusade Invoker, no Regret | 0.60% | ~1 |
-| From Rags to Riches | 0.60% | ~1 |
-| Greed is Good | 0.60% | ~1 |
-| Let us trade with these fine people | 0.60% | ~1 |
-| Lord of the Kings | 0.60% | ~1 |
-| Spartacus | 0.60% | ~1 |
-| Together We Stand | 0.60% | ~1 |
+| Blessed Be His Name | 0.50% | ~1 |
+| Crusade Invoker, no Regret | 0.50% | ~1 |
+| Lord of the Kings | 0.50% | ~1 |
+| Together We Stand | 0.50% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
-| Blessed Be His Name | 0.00% | ~0 |
 | Brutus | 0.00% | ~0 |
 | Buyin' the Dip | 0.00% | ~0 |
 | Edge of the World | 0.00% | ~0 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 448)  
-Completed: 0 (0.00%) (Ranked 410)  
+Progressed: 183 (Ranked 448)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 181 | 0 |
+| 2024-01-25 | 183 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

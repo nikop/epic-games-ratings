@@ -3,9 +3,9 @@
   "Name": "Skyts",
   "ProductSlug": "skyts-f5dfd7",
   "Ranking_EOS_Progress": 853,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-12-01T00:00:00+00:00",
     "PcReleaseDate": "2023-12-08T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-10T15:59:08.048372+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.433032+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:00:06.9655449+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:05:59.2740473+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:00:13.2163485+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:06:03.6235102+00:00"
 }

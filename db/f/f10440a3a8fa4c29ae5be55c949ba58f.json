@@ -3,9 +3,9 @@
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10463,
+  "EOS_Progressed": 10474,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 925,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4204,6 +4204,11 @@
       "Time": "2024-01-25T22:09:36.4943136+00:00",
       "NumProgressed": 10463,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-25T23:09:47.1658716+00:00",
+      "NumProgressed": 10474,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -4216,7 +4221,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5132
     },
     {
       "ID": "Document1",
@@ -4224,7 +4229,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "Document2",
@@ -4279,14 +4284,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 10463,
+      "Progressed": 10474,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:36.4943131+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:47.1658713+00:00",
   "LastUpdate_AppInfo": "2024-01-21T22:57:09.6072792+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:09.3112432+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:36.4943424+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:17.5156064+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:47.1658983+00:00"
 }

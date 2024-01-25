@@ -11,7 +11,7 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 32.00% | ~5,790 |
 | Yet another secret | 32.00% | ~5,790 |
 | Let there be darkness | 31.00% | ~5,609 |
-| End of Book One | 29.00% | ~5,247 |
+| End of Book One | 29.00% | ~5,248 |
 | Wannabe knight | 23.00% | ~4,162 |
 | Garden of Eden | 23.00% | ~4,162 |
 | Full house | 23.00% | ~4,162 |
@@ -25,15 +25,15 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,533 |
 | Exterminator | 13.00% | ~2,352 |
 | Whodunnit | 12.00% | ~2,171 |
-| Good midwife | 10.00% | ~1,809 |
-| Friar Tuck | 10.00% | ~1,809 |
-| First profit | 10.00% | ~1,809 |
-| Team player | 10.00% | ~1,809 |
-| Skilled merchant | 9.00% | ~1,628 |
-| Brother Marcus | 9.00% | ~1,628 |
-| The oath | 9.00% | ~1,628 |
-| The truth revealed | 9.00% | ~1,628 |
-| The End. | 9.00% | ~1,628 |
+| Good midwife | 10.00% | ~1,810 |
+| Friar Tuck | 10.00% | ~1,810 |
+| First profit | 10.00% | ~1,810 |
+| Team player | 10.00% | ~1,810 |
+| Skilled merchant | 9.00% | ~1,629 |
+| Brother Marcus | 9.00% | ~1,629 |
+| The oath | 9.00% | ~1,629 |
+| The truth revealed | 9.00% | ~1,629 |
+| The End. | 9.00% | ~1,629 |
 | Nothing but make-believe | 8.00% | ~1,448 |
 | A cry for help | 7.00% | ~1,267 |
 | Silentium est aureum | 7.00% | ~1,267 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~543 |
 | Boy of mystery | 2.00% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,094 (Ranked 166)  
-Completed: 125 (0.69%) (Ranked 209)  
+Progressed: 18,095 (Ranked 166)  
+Completed: 125 (0.69%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,7 +328,7 @@ Completed: 125 (0.69%) (Ranked 209)
 | 2024-01-22 | 18,050 | 125 |
 | 2024-01-23 | 18,062 | 125 |
 | 2024-01-24 | 18,082 | 125 |
-| 2024-01-25 | 18,094 | 125 |
+| 2024-01-25 | 18,095 | 125 |
 ## Awards
 Max (Easy Puzzles): 157  (Ranked 334)  
 Sum: 201 (Ranked 422)  

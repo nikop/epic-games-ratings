@@ -41,7 +41,7 @@
 | Just Here for the Food | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 568)  
-Completed: 1 (1.96%) (Ranked 141)  
+Completed: 1 (1.96%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

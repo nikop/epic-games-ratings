@@ -11,7 +11,7 @@
 | Crab Cakes | 51.00% | ~36 |
 | Personally Punched | 27.00% | ~19 |
 | Flight of the Raven | 24.00% | ~17 |
-| Drop In | 20.00% | ~14 |
+| Drop In | 21.00% | ~15 |
 | The Last Bullet | 13.00% | ~9 |
 | Champion of Light | 11.00% | ~8 |
 | Betrayed | 10.00% | ~7 |
@@ -30,7 +30,7 @@
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71 (Ranked 542)  
-Completed: 0 (0.00%) (Ranked 410)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

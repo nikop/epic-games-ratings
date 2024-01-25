@@ -13,9 +13,9 @@
 | Pumpkins and Postage Stamps | 22.00% | ~43 |
 | Kiwinter Kiwonderland | 7.00% | ~14 |
 | Secrets of the Telepost | 4.00% | ~8 |
+| Against All Odds | 2.00% | ~4 |
 | Autumn Postmasters | 2.00% | ~4 |
 | Summer Postmasters | 2.00% | ~4 |
-| Against All Odds | 1.00% | ~2 |
 | Postmasters General | 1.00% | ~2 |
 | Winter Postmasters | 1.00% | ~2 |
 | Working Overtime | 0.50% | ~1 |
@@ -26,7 +26,7 @@
 | Fully Stocked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 197 (Ranked 439)  
-Completed: 0 (0.00%) (Ranked 410)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

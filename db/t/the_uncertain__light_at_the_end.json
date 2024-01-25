@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -1474,6 +1474,11 @@
       "Time": "2024-01-24T16:06:30.1731502+00:00",
       "NumProgressed": 686,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T23:04:02.7463017+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1493,7 +1498,7 @@
       "Name": "Identity Theft",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Butterfly",
@@ -1517,7 +1522,7 @@
       "Name": "Mind the Gap",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Echoes",
@@ -1573,7 +1578,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Hitman",
@@ -1589,7 +1594,7 @@
       "Name": "F is for Feline",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Investigative",
@@ -1613,7 +1618,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MISSING_DATA",
@@ -1621,7 +1626,7 @@
       "Name": "Does Not Compute",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Misanthrope",
@@ -1716,7 +1721,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 6
     }
   ],
@@ -1724,8 +1729,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:03:57.9027117+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:04:02.7463015+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:07.0579048+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:03:22.2034123+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:03:57.902732+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:03:25.5532959+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:02.746324+00:00"
 }

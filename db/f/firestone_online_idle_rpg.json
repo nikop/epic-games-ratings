@@ -6,9 +6,9 @@
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -819,7 +819,7 @@
   ],
   "EOS_Progressed": 4801,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13635,9 +13635,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1968
+      "UsersEstimate": 2016
     },
     {
       "ID": "fourleafclover",
@@ -13715,9 +13715,9 @@
       "ID": "hunter",
       "SetID": "3nl4bcg",
       "Name": "Hunter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 432
     },
     {
       "ID": "inspection",
@@ -14060,8 +14060,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-25T19:58:35.2116206+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:06:49.085857+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:03:28.8076369+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:58:26.6334427+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:06:49.0859616+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:58:33.9952063+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:03:28.8093928+00:00"
 }

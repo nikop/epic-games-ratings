@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Going Down! | 92.00% | ~253 |
-| To Each Their Own | 41.00% | ~113 |
+| To Each Their Own | 42.00% | ~116 |
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~50 |
 | Like Phileas Fogg | 17.00% | ~47 |
 | Onwards and Upwards | 12.00% | ~33 |
@@ -45,7 +45,7 @@
 | Playing Favourites | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 275 (Ranked 418)  
-Completed: 2 (0.73%) (Ranked 206)  
+Completed: 2 (0.73%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

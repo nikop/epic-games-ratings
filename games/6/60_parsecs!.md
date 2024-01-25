@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Don't Panic! | 96.00% | ~1,609 |
 | Space Colonization | 78.00% | ~1,307 |
-| Friendzone | 76.00% | ~1,274 |
+| Friendzone | 77.00% | ~1,291 |
 | Hello World | 71.00% | ~1,190 |
 | Space Engineer | 60.00% | ~1,006 |
 | Tinkerer | 60.00% | ~1,006 |
-| Dust to Dust | 55.00% | ~922 |
+| Dust to Dust | 56.00% | ~939 |
 | Across The Stars | 44.00% | ~737 |
 | Crafty | 42.00% | ~704 |
 | All Seats Taken | 34.00% | ~570 |
@@ -50,7 +50,7 @@
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,676 (Ranked 268)  
-Completed: 1 (0.06%) (Ranked 341)  
+Completed: 1 (0.06%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

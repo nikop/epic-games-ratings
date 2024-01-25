@@ -41,7 +41,7 @@ Rating: 4.79 (Ranked 100)
 | Whispers in the Woods III | 18.00% | ~633 |
 | My heart and sword always for Demacia | 18.00% | ~633 |
 | True power | 18.00% | ~633 |
-| Meltridge | 17.00% | ~598 |
+| Meltridge | 18.00% | ~633 |
 | Cloven Dell Headquarters | 17.00% | ~598 |
 | I smell fear | 16.00% | ~562 |
 | Whispers in the Woods IV | 15.00% | ~527 |
@@ -60,7 +60,7 @@ Rating: 4.79 (Ranked 100)
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,515 (Ranked 231)  
-Completed: 37 (1.05%) (Ranked 177)  
+Completed: 37 (1.05%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

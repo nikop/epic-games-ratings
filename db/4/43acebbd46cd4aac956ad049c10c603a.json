@@ -6,9 +6,9 @@
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4587,9 +4587,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 471
     },
     {
       "ID": "JustOneLap",
@@ -4643,9 +4643,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 441
     },
     {
       "ID": "NewBeginning",
@@ -4755,9 +4755,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 191
     },
     {
       "ID": "TeamSpirit",
@@ -4900,8 +4900,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-25T15:01:28.3159391+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:05:44.3644421+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:05:49.2207379+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:58.5151852+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:05:44.3644928+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:00:04.443014+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:05:49.2207972+00:00"
 }

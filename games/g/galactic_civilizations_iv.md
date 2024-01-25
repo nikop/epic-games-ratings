@@ -44,19 +44,19 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
 | Recruit a Dozen Leaders | 0.80% | ~61 |
+| Commodity Seller, Level 2 | 0.80% | ~61 |
 | Win as the Krynn | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
-| Commodity Seller, Level 2 | 0.70% | ~53 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
+| Commodity Trader - Level 2 | 0.60% | ~46 |
 | Win as the Drath | 0.60% | ~46 |
 | Win as the Iridium | 0.60% | ~46 |
 | Win as the Manti | 0.60% | ~46 |
 | Win as the Onyx | 0.60% | ~46 |
 | Diplomatic Victory! | 0.60% | ~46 |
-| Commodity Trader - Level 2 | 0.50% | ~38 |
+| Solid Economy | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
-| Solid Economy | 0.40% | ~30 |
 | Commodity Selling Guru | 0.40% | ~30 |
 | Commodity Guru | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,588 (Ranked 200)  
-Completed: 0 (0.00%) (Ranked 410)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

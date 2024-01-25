@@ -38,10 +38,10 @@ Rating: 3.67 (Ranked 1,107)
 | Contingency Plans | 3.00% | ~73 |
 | Block Party | 3.00% | ~73 |
 | Check, Please! | 3.00% | ~73 |
+| Curious Finch | 3.00% | ~73 |
 | Right This Way | 2.00% | ~48 |
 | Nice Try | 2.00% | ~48 |
 | Blacklight Down | 2.00% | ~48 |
-| Curious Finch | 2.00% | ~48 |
 | Neighborhood Watch | 1.00% | ~24 |
 | Blood Brother | 1.00% | ~24 |
 | Sisterhood | 1.00% | ~24 |
@@ -73,7 +73,7 @@ Rating: 3.67 (Ranked 1,107)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,420 (Ranked 248)  
-Completed: 0 (0.00%) (Ranked 410)  
+Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

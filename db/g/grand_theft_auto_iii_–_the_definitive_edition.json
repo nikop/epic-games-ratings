@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,7 +733,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12536,
+  "EOS_Progressed": 12537,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 4,
@@ -16493,6 +16493,11 @@
       "Time": "2024-01-25T21:04:59.0496334+00:00",
       "NumProgressed": 12536,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-25T23:04:47.1269196+00:00",
+      "NumProgressed": 12537,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16504,7 +16509,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "ACH02",
@@ -16576,7 +16581,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ACH11",
@@ -16608,7 +16613,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "ACH15",
@@ -16624,7 +16629,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "ACH17",
@@ -16632,7 +16637,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "ACH18",
@@ -16735,7 +16740,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12536,
+      "Progressed": 12537,
       "Completed": 97
     }
   ],
@@ -16743,8 +16748,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:04:42.3167745+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:04:47.1269194+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:58:51.5415751+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:42.3168782+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:58:58.5255071+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:47.1270255+00:00"
 }

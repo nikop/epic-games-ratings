@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -3733,9 +3733,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3766,8 +3766,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:31.0953735+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:41.6655695+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:49.8908138+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:31.0953986+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:57.5060892+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:41.6656063+00:00"
 }

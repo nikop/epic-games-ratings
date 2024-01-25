@@ -6,9 +6,9 @@
   "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -6109,10 +6109,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8483,
       "NumberOfAwardsMax": 1205
+    },
+    {
+      "Time": "2024-01-25T23:02:41.536898+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8484,
+      "NumberOfAwardsMax": 1205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8483,
+  "NumberOfAwards": 8484,
   "NumberOfAwardsMax": 1205,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6168,7 +6174,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 809
+      "Count": 810
     },
     {
       "Text": "This game has a Creative Community",
@@ -6183,9 +6189,9 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 14328,
+  "EOS_Progressed": 14329,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -26238,6 +26244,11 @@
       "Time": "2024-01-25T22:09:26.5882167+00:00",
       "NumProgressed": 14328,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2024-01-25T23:09:37.0653224+00:00",
+      "NumProgressed": 14329,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 15,
@@ -26265,7 +26276,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6304
+      "UsersEstimate": 6305
     },
     {
       "ID": "Chef_Cook",
@@ -26273,7 +26284,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2723
     },
     {
       "ID": "Chit_Chatter",
@@ -26303,9 +26314,9 @@
       "ID": "Gardener",
       "SetID": "chapdi4",
       "Name": "Gardener",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4442
     },
     {
       "ID": "Generous",
@@ -26321,7 +26332,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9743
+      "UsersEstimate": 9744
     },
     {
       "ID": "Miner",
@@ -26368,16 +26379,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14328,
+      "Progressed": 14329,
       "Completed": 358
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-25T22:00:25.6325579+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:26.5882164+00:00",
+  "LastChanged": "2024-01-25T23:02:41.5368978+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:37.0653209+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:00:25.6325583+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:26.5883117+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:02:41.5368983+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:37.0654208+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 465,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -828,9 +828,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -884,9 +884,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -916,9 +916,9 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "CgkInO_K3eIdEAIQFA",
@@ -932,9 +932,9 @@
       "ID": "CgkInO_K3eIdEAIQFQ",
       "SetID": "6bj96in",
       "Name": "RUNNER",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CgkInO_K3eIdEAIQFg",
@@ -987,8 +987,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:11.2524484+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:21.8856448+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:18.9276185+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:58:05.6099551+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:11.252465+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:58:12.6175842+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:21.8856719+00:00"
 }

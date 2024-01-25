@@ -85,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.20% | ~511 |
 | The Forbidden City | 0.20% | ~511 |
 | Captured! | 0.20% | ~511 |
+| Home Field Advantage | 0.20% | ~511 |
 | Force Grey Unleashed | 0.20% | ~511 |
 | Vajra's Guards | 0.20% | ~511 |
 | Sleuth It Out | 0.20% | ~511 |
@@ -142,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.20% | ~444 |
 | The Gargoyle | 0.20% | ~444 |
 | The Wandering Emporium | 0.20% | ~444 |
+| Questlines | 0.20% | ~444 |
 | The Giant's Bane Tavern | 0.20% | ~444 |
 | The Long Haul | 0.20% | ~511 |
 | Lost in the Deep | 0.20% | ~511 |
@@ -271,7 +273,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~256 |
 | No Good at All | 0.10% | ~256 |
 | Fall From Grace | 0.10% | ~256 |
-| Home Field Advantage | 0.10% | ~256 |
 | Double Vision | 0.10% | ~256 |
 | Underground Railroad | 0.10% | ~256 |
 | Never Split the Party | 0.10% | ~256 |
@@ -413,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.10% | ~222 |
 | Show of Strength | 0.10% | ~222 |
 | Fight Dragons with Dragons | 0.10% | ~222 |
-| Questlines | 0.10% | ~222 |
 | Raggadragga's Crew | 0.10% | ~222 |
 | Just The Worst | 0.10% | ~222 |
 | Bel's Forge | 0.10% | ~222 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,630 (Ranked 71)  
-Completed: 2,644 (1.03%) (Ranked 181)  
+Progressed: 255,638 (Ranked 71)  
+Completed: 2,648 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -833,7 +833,7 @@ Completed: 2,644 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
-| 2024-01-25 | 255,630 | 2,644 |
+| 2024-01-25 | 255,638 | 2,648 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,643 (Ranked 42)  

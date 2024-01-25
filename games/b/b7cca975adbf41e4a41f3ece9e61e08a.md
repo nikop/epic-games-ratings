@@ -15,8 +15,8 @@ Rating: 4.69 (Ranked 242)
 | Love Actually | 42.00% | ~8,012 |
 | Drama King | 37.00% | ~7,058 |
 | Go Clean up In Your Own Way | 34.00% | ~6,486 |
+| You're Really Something Else | 33.00% | ~6,295 |
 | Drama CP: Reel to Real | 32.00% | ~6,104 |
-| You're Really Something Else | 32.00% | ~6,104 |
 | FIRST LOVE | 31.00% | ~5,914 |
 | Worthless Speech | 31.00% | ~5,914 |
 | Happy Family | 30.00% | ~5,723 |
@@ -49,7 +49,7 @@ Rating: 4.69 (Ranked 242)
 | Limerence | 2.00% | ~382 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,076 (Ranked 162)  
-Completed: 343 (1.80%) (Ranked 149)  
+Completed: 343 (1.80%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

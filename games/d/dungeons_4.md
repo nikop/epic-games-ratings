@@ -32,7 +32,7 @@ Rating: 4.73 (Ranked 185)
 | Pure Dynamite! | 46.00% | ~363 |
 | Dungeonlord Gorgu | 46.00% | ~363 |
 | All’s Well That Ends Evil | 44.00% | ~347 |
-| Mana Cannon | 42.00% | ~331 |
+| Mana Cannon | 43.00% | ~339 |
 | The Duel | 41.00% | ~323 |
 | If Looks Could Kill | 39.00% | ~308 |
 | Unstoppable Horde | 37.00% | ~292 |
@@ -42,19 +42,19 @@ Rating: 4.73 (Ranked 185)
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~252 |
 | Brimstone Shaken, Not Stirred | 31.00% | ~245 |
 | Forbidden Knowledge | 30.00% | ~237 |
+| Raiders of the Lost Stone | 30.00% | ~237 |
 | Hungry, Hungry Gorgu! | 29.00% | ~229 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~229 |
 | Stop Tanos! | 29.00% | ~229 |
 | Sabotage! | 29.00% | ~229 |
-| Raiders of the Lost Stone | 29.00% | ~229 |
 | The Rune Sockets of Finitude (Part 1) | 29.00% | ~229 |
 | The Rune Sockets of Finitude (Part 2) | 28.00% | ~221 |
 | Bonus Evilness | 27.00% | ~213 |
 | The Last Stand - This Time For Real! | 26.00% | ~205 |
 | Rubble and Ashes | 24.00% | ~189 |
-| Lavalumps on Ice! | 22.00% | ~174 |
+| Lavalumps on Ice! | 23.00% | ~181 |
+| To the Max! | 21.00% | ~166 |
 | To Infinity And Beyond! | 21.00% | ~166 |
-| To the Max! | 20.00% | ~158 |
 | Evilification | 20.00% | ~158 |
 | My Little Torture Chamber | 19.00% | ~150 |
 | Heal Heal Blessing | 19.00% | ~150 |

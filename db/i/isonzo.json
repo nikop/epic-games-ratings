@@ -6,9 +6,9 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1099,7 +1099,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10050,
+  "EOS_Progressed": 10051,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -11569,6 +11569,11 @@
       "Time": "2024-01-25T16:11:02.293669+00:00",
       "NumProgressed": 10050,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-25T23:10:02.7840526+00:00",
+      "NumProgressed": 10051,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11636,7 +11641,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -11676,7 +11681,7 @@
       "Name": "Drop and Give Me 20",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ISONZO_ACH_FAREWELL_TO_ARMS",
@@ -11716,7 +11721,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -11740,7 +11745,7 @@
       "Name": "Malpractice",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ISONZO_ACH_MAMMA_MIA",
@@ -11756,7 +11761,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -11772,7 +11777,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4523
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11796,7 +11801,7 @@
       "Name": "Rome Wasn\u0027t Built In A Day",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ISONZO_ACH_SACRO_EGOISMO",
@@ -11820,7 +11825,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11908,7 +11913,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11916,7 +11921,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11939,7 +11944,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10050,
+      "Progressed": 10051,
       "Completed": 10
     }
   ],
@@ -11947,8 +11952,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:52.2130479+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:02.7840524+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:00:05.1739815+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:52.2131054+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:00:11.392439+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:02.784115+00:00"
 }

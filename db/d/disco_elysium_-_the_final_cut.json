@@ -6,9 +6,9 @@
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1724,9 +1724,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140118,
+  "EOS_Progressed": 140119,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29839,6 +29839,11 @@
       "Time": "2024-01-25T22:09:09.2462625+00:00",
       "NumProgressed": 140118,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-25T23:09:20.2493862+00:00",
+      "NumProgressed": 140119,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29914,7 +29919,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11209
+      "UsersEstimate": 11210
     },
     {
       "ID": "ACH_COP_DORK",
@@ -30169,15 +30174,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140118,
+      "Progressed": 140119,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-25T13:06:58.6481989+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:09.246262+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:20.249386+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:57.3989431+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:09.2464243+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:00:03.2507503+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:20.2495642+00:00"
 }

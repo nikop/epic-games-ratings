@@ -3,9 +3,9 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 348,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -2523,9 +2523,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 245
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2619,9 +2619,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 275
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2666,8 +2666,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:04:26.9708535+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:04:31.6884732+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:48.2712879+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:13.5765996+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:26.970879+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:21.6387589+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:31.6884925+00:00"
 }

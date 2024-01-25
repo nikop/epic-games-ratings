@@ -39,10 +39,10 @@ Number of Ratings: 62  (23.09.2022)
 | No More Marching | 8.00% | ~440 |
 | Is This Real Life? | 8.00% | ~440 |
 | Duty-Bound | 7.00% | ~385 |
+| Follow the White Rabbit | 7.00% | ~385 |
 | Liberation | 7.00% | ~385 |
 | Risk Assessment | 7.00% | ~385 |
 | Sunglasses at Night | 6.00% | ~330 |
-| Follow the White Rabbit | 6.00% | ~330 |
 | Carbon Cat | 6.00% | ~330 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~275 |
 | Man of Steel | 5.00% | ~275 |
@@ -75,7 +75,7 @@ Number of Ratings: 62  (23.09.2022)
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,496 (Ranked 207)  
-Completed: 18 (0.33%) (Ranked 262)  
+Completed: 18 (0.33%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

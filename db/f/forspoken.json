@@ -6,9 +6,9 @@
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 387,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47756,
+  "EOS_Progressed": 47759,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19919,6 +19919,11 @@
       "Time": "2024-01-25T22:04:52.3316622+00:00",
       "NumProgressed": 47756,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T23:04:57.6933144+00:00",
+      "NumProgressed": 47759,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19978,7 +19983,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6208
+      "UsersEstimate": 6209
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -20090,7 +20095,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -20122,7 +20127,7 @@
       "Name": "Leapfrogger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -20146,7 +20151,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -20170,7 +20175,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -20186,7 +20191,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "MAGIC_IVY",
@@ -20218,7 +20223,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -20242,7 +20247,7 @@
       "Name": "Hell of a Run",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -20353,22 +20358,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47756,
+      "Progressed": 47759,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12593,
-      "Completed": 12593
+      "Progressed": 12596,
+      "Completed": 12596
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:04:52.3316618+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:04:57.6933143+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:03:03.7424085+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:52.3317652+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:03:07.6341865+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:57.6934335+00:00"
 }

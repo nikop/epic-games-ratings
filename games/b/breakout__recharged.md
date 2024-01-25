@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Is There Anybody Out There? | 91.00% | ~136 |
 | Cluster One | 83.00% | ~124 |
-| Another Brick in the Wall (Part 1) | 62.00% | ~92 |
+| Another Brick in the Wall (Part 1) | 63.00% | ~94 |
 | Comfortably Numb | 56.00% | ~83 |
 | High Hopes | 52.00% | ~77 |
 | Echoes | 45.00% | ~67 |
-| Another Brick in the Wall (Part 2) | 43.00% | ~64 |
-| Biding My Time | 38.00% | ~57 |
+| Another Brick in the Wall (Part 2) | 44.00% | ~66 |
+| Biding My Time | 39.00% | ~58 |
 | The Gunner's Dream | 36.00% | ~54 |
 | Another Brick in the Wall (Part 3) | 30.00% | ~45 |
 | Burning Bridges | 23.00% | ~34 |
@@ -21,7 +21,7 @@
 | What Shall We Do Now? | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 471)  
-Completed: 3 (2.01%) (Ranked 138)  
+Completed: 3 (2.01%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

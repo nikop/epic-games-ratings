@@ -3,9 +3,9 @@
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19229,
+  "EOS_Progressed": 19231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12994,6 +12994,11 @@
       "Time": "2024-01-25T22:04:35.4067513+00:00",
       "NumProgressed": 19229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T23:04:40.0768948+00:00",
+      "NumProgressed": 19231,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -13094,7 +13099,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -13110,7 +13115,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -13197,14 +13202,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 19229,
+      "Progressed": 19231,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:04:35.4067508+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:04:40.0768946+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:53.1330929+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:08.7973905+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:35.4068298+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:17.0330114+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:40.0769608+00:00"
 }

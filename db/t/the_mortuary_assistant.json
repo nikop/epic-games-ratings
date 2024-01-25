@@ -3,9 +3,9 @@
   "Name": "The Mortuary Assistant",
   "ProductSlug": "the-mortuary-assistant-2d2620",
   "Ranking_EOS_Progress": 853,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-10-25T05:00:00+00:00",
     "PcReleaseDate": "2022-08-02T05:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.2341281+00:00",
   "LastChanged": "2023-03-31T05:58:43.2341282+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:16.4051945+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:22.1857655+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:55.183027+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:30.1802902+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:05:00.4368114+00:00"
 }

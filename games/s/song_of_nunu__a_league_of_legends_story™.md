@@ -27,9 +27,9 @@ Rating: 4.64 (Ranked 349)
 | So Close | 43.00% | ~688 |
 | The Finisher | 43.00% | ~688 |
 | You Get Used To It | 42.00% | ~672 |
-| Family | 40.00% | ~640 |
+| Family | 41.00% | ~656 |
+| Boosted! | 41.00% | ~656 |
 | Biggest Snowball Ever | 40.00% | ~640 |
-| Boosted! | 40.00% | ~640 |
 | Deadliest and Biggest Snowball Ever! | 40.00% | ~640 |
 | Freeze The Ice Witch | 39.00% | ~624 |
 | True Legends | 38.00% | ~608 |
@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 349)
 | Sneaky Notai | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,600 (Ranked 272)  
-Completed: 11 (0.69%) (Ranked 209)  
+Completed: 11 (0.69%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

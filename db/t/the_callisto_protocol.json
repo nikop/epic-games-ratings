@@ -6,9 +6,9 @@
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22745,
+  "EOS_Progressed": 22746,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14961,6 +14961,11 @@
       "Time": "2024-01-25T20:10:29.3186988+00:00",
       "NumProgressed": 22745,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-25T23:10:14.5922894+00:00",
+      "NumProgressed": 22746,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14988,7 +14993,7 @@
       "Name": "Giving Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14996,7 +15001,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "DISARM_ENEMY",
@@ -15108,7 +15113,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -15140,7 +15145,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4776
+      "UsersEstimate": 4777
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15196,7 +15201,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -15220,7 +15225,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15347,13 +15352,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22745,
+      "Progressed": 22746,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10671,
+      "Progressed": 10672,
       "Completed": 29
     }
   ],
@@ -15361,8 +15366,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:04.3126844+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:14.5922891+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:03:20.3033105+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:04.3127679+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:03:23.6959281+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:14.5923894+00:00"
 }

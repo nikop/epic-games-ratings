@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 1.00% | ~2,435 |
 | That Was Quick | 1.00% | ~2,435 |
 | Colorful Corpse | 1.00% | ~2,435 |
+| Cold Hearted | 1.00% | ~2,435 |
 | Defeat The Dark | 1.00% | ~2,435 |
 | The Bestiary | 1.00% | ~2,435 |
 | Goodbye, Frog Friend | 1.00% | ~2,435 |
@@ -34,7 +35,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 0.90% | ~2,192 |
 | Who To Trust? | 0.90% | ~2,192 |
 | Walk It Off | 0.90% | ~2,192 |
-| Cold Hearted | 0.90% | ~2,192 |
 | I Am Overburdened | 0.90% | ~2,192 |
 | Shootout | 0.90% | ~2,192 |
 | Stone Touch | 0.90% | ~2,192 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,512 (Ranked 75)  
-Completed: 309 (0.13%) (Ranked 309)  
+Progressed: 243,514 (Ranked 75)  
+Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -425,7 +425,7 @@ Completed: 309 (0.13%) (Ranked 309)
 | 2024-01-22 | 243,388 | 309 |
 | 2024-01-23 | 243,428 | 309 |
 | 2024-01-24 | 243,469 | 309 |
-| 2024-01-25 | 243,512 | 309 |
+| 2024-01-25 | 243,514 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,804 (Ranked 92)  

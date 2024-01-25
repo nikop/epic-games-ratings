@@ -3,9 +3,9 @@
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1379,
-  "EOS_Completed": 6,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 21,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-08-22T19:03:09.0790912+00:00",
@@ -4079,6 +4079,11 @@
       "Time": "2024-01-25T04:10:07.4257587+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T23:10:20.1923063+00:00",
+      "NumProgressed": 1379,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -4177,9 +4182,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 441
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -4251,13 +4256,13 @@
       "ID": "3ai6ml8",
       "IsBase": true,
       "Progressed": 1379,
-      "Completed": 6
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:10:09.7006301+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:10:20.192306+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:47.785644+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:56.3997594+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:10:09.7006687+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:00:02.2719136+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:10:20.192336+00:00"
 }

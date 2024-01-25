@@ -3,9 +3,9 @@
   "Name": "Mighty Fight Federation",
   "ProductSlug": "mighty-fight-federation",
   "Ranking_EOS_Progress": 853,
-  "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-02-16T19:00:00+00:00",
     "PcReleaseDate": "2021-03-01T12:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.2596061+00:00",
   "LastChanged": "2023-03-31T05:58:01.2596062+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:39.9964292+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:57:42.4304302+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:04:14.4416762+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:57:50.1603573+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:04:19.1758011+00:00"
 }

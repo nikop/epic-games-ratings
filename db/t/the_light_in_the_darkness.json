@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2923,
+  "EOS_Progressed": 2924,
   "EOS_Completed": 272,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.31,
+  "EOS_Completed_Percentage": 9.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8606,6 +8606,11 @@
       "Time": "2024-01-25T22:09:28.0209395+00:00",
       "NumProgressed": 2923,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2024-01-25T23:09:38.5555669+00:00",
+      "NumProgressed": 2924,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 12,
@@ -8657,7 +8662,7 @@
       "Name": "Jakob",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "Jude",
@@ -8712,7 +8717,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2923,
+      "Progressed": 2924,
       "Completed": 272
     }
   ],
@@ -8720,8 +8725,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:09:28.020939+00:00",
+  "LastChanged_Achievements": "2024-01-25T23:09:38.5555667+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:45.8788305+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:59:13.868648+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:09:28.0209921+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:59:20.6876494+00:00",
+  "LastUpdate_Achievements": "2024-01-25T23:09:38.5556184+00:00"
 }
