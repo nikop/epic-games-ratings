@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -831,25 +831,25 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "beat_c1a_bronze",
@@ -1414,8 +1414,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:04:34.5492829+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:04:55.7974998+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:19.5674371+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:58:07.677806+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:04:34.549349+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:58:16.5816418+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:04:55.7975757+00:00"
 }

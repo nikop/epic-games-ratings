@@ -6865,9 +6865,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 268691,
+  "EOS_Progressed": 268692,
   "EOS_Completed": 963,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -37695,6 +37695,11 @@
       "Time": "2024-01-25T08:10:31.2632498+00:00",
       "NumProgressed": 268691,
       "NumCompleted": 963
+    },
+    {
+      "Time": "2024-01-25T09:10:54.5408073+00:00",
+      "NumProgressed": 268692,
+      "NumCompleted": 963
     }
   ],
   "TotalAchievements": 39,
@@ -37754,7 +37759,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 80607
+      "UsersEstimate": 80608
     },
     {
       "ID": "AchievementBoulderID",
@@ -37770,7 +37775,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244509
+      "UsersEstimate": 244510
     },
     {
       "ID": "AchievementClownID",
@@ -37778,7 +37783,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 45677
+      "UsersEstimate": 45678
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -37794,7 +37799,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 75233
+      "UsersEstimate": 75234
     },
     {
       "ID": "AchievementEggID",
@@ -37834,7 +37839,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139719
+      "UsersEstimate": 139720
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -37938,7 +37943,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 196144
+      "UsersEstimate": 196145
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -37978,7 +37983,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 145093
+      "UsersEstimate": 145094
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -38002,7 +38007,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171962
+      "UsersEstimate": 171963
     },
     {
       "ID": "AchievementWhaleID",
@@ -38017,7 +38022,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268691,
+      "Progressed": 268692,
       "Completed": 963
     }
   ],
@@ -38025,8 +38030,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-24T21:57:57.5289855+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:10:31.2632493+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:10:54.540807+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:58:34.2998961+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:10:31.263444+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:58:42.8448903+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:10:54.5409413+00:00"
 }

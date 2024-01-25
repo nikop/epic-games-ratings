@@ -5,8 +5,8 @@ Rating: 4.27 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,046 |
-| Don't I Know You...? | 74.00% | ~1,941 |
+| Rigged And Ready | 78.00% | ~2,047 |
+| Don't I Know You...? | 74.00% | ~1,942 |
 | Jailbreak | 64.00% | ~1,679 |
 | HEADSHOT! | 37.00% | ~971 |
 | Suited and Booted | 37.00% | ~971 |
@@ -21,12 +21,12 @@ Rating: 4.27 (Ranked 915)
 | True Survivor | 21.00% | ~551 |
 | Offensive Defense | 20.00% | ~525 |
 | Shocking | 20.00% | ~525 |
-| Court Martial | 19.00% | ~498 |
-| Unforeseeable Consequences | 19.00% | ~498 |
+| Court Martial | 19.00% | ~499 |
+| Unforeseeable Consequences | 19.00% | ~499 |
 | Dead Again | 18.00% | ~472 |
 | Clean Cut | 18.00% | ~472 |
 | Full Arsenal | 17.00% | ~446 |
-| Can't Trust Banks | 15.00% | ~393 |
+| Can't Trust Banks | 15.00% | ~394 |
 | Mommy Dearest | 14.00% | ~367 |
 | Bad Dog | 13.00% | ~341 |
 | Where It All Began | 13.00% | ~341 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 915)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,623 (Ranked 243)  
+Progressed: 2,624 (Ranked 243)  
 Completed: 13 (0.50%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,6 +279,7 @@ Completed: 13 (0.50%) (Ranked 230)
 | 2024-01-21 | 2,614 | 13 |
 | 2024-01-22 | 2,617 | 13 |
 | 2024-01-23 | 2,623 | 13 |
+| 2024-01-25 | 2,624 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

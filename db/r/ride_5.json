@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3711,
+  "EOS_Progressed": 3712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9342,6 +9342,11 @@
       "Time": "2024-01-25T06:08:52.3125684+00:00",
       "NumProgressed": 3711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T09:08:52.9801883+00:00",
+      "NumProgressed": 3712,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9354,7 +9359,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9386,7 +9391,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9410,7 +9415,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9442,7 +9447,7 @@
       "Name": "Legendary!!!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9642,7 +9647,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9658,7 +9663,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9706,7 +9711,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9745,7 +9750,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3711,
+      "Progressed": 3712,
       "Completed": 0
     }
   ],
@@ -9753,8 +9758,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:08:31.0481498+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:08:52.980188+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:58:38.9314838+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:08:31.0482112+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:58:47.3613183+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:08:52.980254+00:00"
 }

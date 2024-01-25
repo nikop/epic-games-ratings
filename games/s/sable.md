@@ -6,21 +6,21 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~38,194 |
+| Simoon | 34.00% | ~38,195 |
 | Just The Two of Us | 32.00% | ~35,948 |
 | Up On High | 25.00% | ~28,084 |
 | Under The Hood | 25.00% | ~28,084 |
 | Got Your Nose | 24.00% | ~26,961 |
 | The Gift of Gab | 24.00% | ~26,961 |
 | Wrapping Up | 22.00% | ~24,714 |
-| More Than A Box Of Sand | 18.00% | ~20,220 |
+| More Than A Box Of Sand | 18.00% | ~20,221 |
 | The Dunboyne | 17.00% | ~19,097 |
 | Badge Hobbyist | 17.00% | ~19,097 |
 | Chum Novice | 16.00% | ~17,974 |
 | Silver-Tongued Sable | 16.00% | ~17,974 |
 | Sticky Paws | 16.00% | ~17,974 |
 | Bubble Up | 16.00% | ~17,974 |
-| Thread The Needle | 15.00% | ~16,850 |
+| Thread The Needle | 15.00% | ~16,851 |
 | Power to the People | 14.00% | ~15,727 |
 | Nesting Giant | 14.00% | ~15,727 |
 | Take That! | 13.00% | ~14,604 |
@@ -63,8 +63,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,370 |
 | Vivacious Vivarium | 2.00% | ~2,247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,336 (Ranked 98)  
-Completed: 1,154 (1.03%) (Ranked 181)  
+Progressed: 112,337 (Ranked 98)  
+Completed: 1,155 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,7 +343,7 @@ Completed: 1,154 (1.03%) (Ranked 181)
 | 2024-01-22 | 112,031 | 1,146 |
 | 2024-01-23 | 112,152 | 1,146 |
 | 2024-01-24 | 112,294 | 1,150 |
-| 2024-01-25 | 112,336 | 1,154 |
+| 2024-01-25 | 112,337 | 1,155 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 531)  
 Sum: 155 (Ranked 448)  

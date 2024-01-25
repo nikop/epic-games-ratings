@@ -16,7 +16,7 @@ Number of Ratings: 116  (23.09.2022)
 | Perfect Storm | 47.00% | ~325 |
 | All That Glitters | 46.00% | ~318 |
 | Enhance! | 43.00% | ~298 |
-| One Of the Chosen | 41.00% | ~284 |
+| One Of the Chosen | 42.00% | ~291 |
 | Throne Potato | 41.00% | ~284 |
 | Five's a Crowd | 41.00% | ~284 |
 | Salvation | 40.00% | ~277 |
@@ -25,8 +25,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unshakable Fortitude | 37.00% | ~256 |
 | Soul Harvester | 37.00% | ~256 |
 | I Wanna Rock | 35.00% | ~242 |
+| Love Tap | 35.00% | ~242 |
 | Delusions of Grandeur | 35.00% | ~242 |
-| Love Tap | 34.00% | ~235 |
 | Maximum Vigor | 33.00% | ~228 |
 | Freeze Frame | 31.00% | ~215 |
 | Eat Your Heart Out | 31.00% | ~215 |
@@ -52,9 +52,9 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Reaper | 9.00% | ~62 |
 | Humanitarian | 9.00% | ~62 |
 | Made of Sterner Stuff | 7.00% | ~48 |
+| Purity of Power | 5.00% | ~35 |
 | Balance in all things | 5.00% | ~35 |
 | My Evil Twin | 5.00% | ~35 |
-| Purity of Power | 4.00% | ~28 |
 | "Impressive!" | 4.00% | ~28 |
 | Keeper of the Bonfire | 4.00% | ~28 |
 | Keeper of the Vale | 4.00% | ~28 |

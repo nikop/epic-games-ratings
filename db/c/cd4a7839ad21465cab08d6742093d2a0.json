@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-06-08T17:00:00+00:00",
     "PcReleaseDate": "2023-06-08T17:00:00+00:00",
@@ -52,47 +52,47 @@
     {
       "ID": "baxter",
       "SetID": "506b0a7",
-      "Name": "Baxter",
-      "Percentage": 0,
+      "Name": "Reunion",
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beach",
       "SetID": "506b0a7",
-      "Name": "Beach",
-      "Percentage": 0,
+      "Name": "Ascension",
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bodkin",
       "SetID": "506b0a7",
-      "Name": "Bodkin",
-      "Percentage": 0,
+      "Name": "Confessed",
+      "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "bosham",
       "SetID": "506b0a7",
-      "Name": "Bosham",
-      "Percentage": 0,
+      "Name": "Flourished",
+      "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "clarence",
       "SetID": "506b0a7",
-      "Name": "Clarence",
-      "Percentage": 0,
+      "Name": "The Impostor Synod",
+      "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "constance",
       "SetID": "506b0a7",
-      "Name": "Constance",
+      "Name": "Hell Hath Such Fury",
       "Percentage": 0,
       "XP": 55,
       "UsersEstimate": 0
@@ -100,23 +100,23 @@
     {
       "ID": "empress",
       "SetID": "506b0a7",
-      "Name": "Empress",
-      "Percentage": 0,
+      "Name": "Katabasis",
+      "Percentage": 100,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "freddie",
       "SetID": "506b0a7",
-      "Name": "Freddie",
-      "Percentage": 0,
+      "Name": "Confessor",
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "galahad",
       "SetID": "506b0a7",
-      "Name": "Galahad",
+      "Name": "Sanctuary",
       "Percentage": 0,
       "XP": 55,
       "UsersEstimate": 0
@@ -124,7 +124,7 @@
     {
       "ID": "horace",
       "SetID": "506b0a7",
-      "Name": "Horace",
+      "Name": "The Last Bill",
       "Percentage": 0,
       "XP": 55,
       "UsersEstimate": 0
@@ -132,31 +132,31 @@
     {
       "ID": "ickenham",
       "SetID": "506b0a7",
-      "Name": "Ickenham",
-      "Percentage": 0,
+      "Name": "Forger of Bonds",
+      "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "julia",
       "SetID": "506b0a7",
-      "Name": "Julia",
-      "Percentage": 0,
+      "Name": "Suited and Booted",
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "mcallister",
       "SetID": "506b0a7",
-      "Name": "McAllister",
-      "Percentage": 0,
+      "Name": "Abstracted",
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "parsloe",
       "SetID": "506b0a7",
-      "Name": "Parsloe",
+      "Name": "Censurious",
       "Percentage": 0,
       "XP": 55,
       "UsersEstimate": 0
@@ -164,7 +164,7 @@
     {
       "ID": "pilbeam",
       "SetID": "506b0a7",
-      "Name": "Pilbeam",
+      "Name": "Acceptance",
       "Percentage": 0,
       "XP": 55,
       "UsersEstimate": 0
@@ -172,15 +172,15 @@
     {
       "ID": "pongo",
       "SetID": "506b0a7",
-      "Name": "Pongo",
-      "Percentage": 0,
+      "Name": "Tried",
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "psmith",
       "SetID": "506b0a7",
-      "Name": "Psmith",
+      "Name": "Baptism",
       "Percentage": 0,
       "XP": 120,
       "UsersEstimate": 0
@@ -196,8 +196,8 @@
   ],
   "FirstSeen": "2023-06-09T04:57:25.0433962+00:00",
   "FirstSeenAchievements": "2023-06-08T18:00:58.4934075+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:09:35.7493302+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:09:58.1977134+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:10.2012378+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:57:38.0343399+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:09:35.74934+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:57:47.599648+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:09:58.1977214+00:00"
 }

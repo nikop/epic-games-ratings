@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -1775,9 +1775,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 289
+      "UsersEstimate": 293
     },
     {
       "ID": "ach_skip_1",
@@ -1814,8 +1814,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:09:49.8395104+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:10:12.7218683+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:13.7185047+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:02:54.2731017+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:09:49.8395287+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:03:12.3403035+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:10:12.7218824+00:00"
 }

@@ -6,11 +6,11 @@ Rating: 4.35 (Ranked 837)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 16.00% | ~24 |
-| Can’t Touch This | 15.00% | ~22 |
-| Help! Help! I’m being repressed | 15.00% | ~22 |
-| Bring it on! | 12.00% | ~18 |
-| Path of Glory | 11.00% | ~16 |
-| There is no Nobility in Poverty | 11.00% | ~16 |
+| Can’t Touch This | 14.00% | ~21 |
+| Help! Help! I’m being repressed | 14.00% | ~21 |
+| Bring it on! | 13.00% | ~20 |
+| Path of Glory | 11.00% | ~17 |
+| There is no Nobility in Poverty | 11.00% | ~17 |
 | Full House | 9.00% | ~14 |
 | They Got What They Deserved | 7.00% | ~11 |
 | Playerxander the Great | 6.00% | ~9 |
@@ -22,16 +22,16 @@ Rating: 4.35 (Ranked 837)
 | Desperate Times Call for Desperate Measures | 4.00% | ~6 |
 | Learn Me a Book | 4.00% | ~6 |
 | Pillars of the Earth | 4.00% | ~6 |
-| All the King's Men | 3.00% | ~4 |
-| Battle of the Four Armies | 3.00% | ~4 |
-| Black Sheep Wall | 3.00% | ~4 |
-| Call the Boys | 3.00% | ~4 |
-| Cut-Me-Own-Throat | 3.00% | ~4 |
-| Kingslayer | 3.00% | ~4 |
-| Let Us Pray | 3.00% | ~4 |
-| Naught but a Seamless Victory | 3.00% | ~4 |
-| Scientia potentia es | 3.00% | ~4 |
-| ‘Tis but a scratch | 3.00% | ~4 |
+| All the King's Men | 3.00% | ~5 |
+| Battle of the Four Armies | 3.00% | ~5 |
+| Black Sheep Wall | 3.00% | ~5 |
+| Call the Boys | 3.00% | ~5 |
+| Cut-Me-Own-Throat | 3.00% | ~5 |
+| Kingslayer | 3.00% | ~5 |
+| Let Us Pray | 3.00% | ~5 |
+| Naught but a Seamless Victory | 3.00% | ~5 |
+| Scientia potentia es | 3.00% | ~5 |
+| ‘Tis but a scratch | 3.00% | ~5 |
 | A Quiet Palace | 2.00% | ~3 |
 | Blinded by Science | 2.00% | ~3 |
 | Forth, Eorlingas! | 2.00% | ~3 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 468)  
+Progressed: 152 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 150 | 0 |
+| 2024-01-25 | 152 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

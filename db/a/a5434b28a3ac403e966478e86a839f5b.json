@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 997,
+  "EOS_Progressed": 998,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -3568,6 +3568,11 @@
       "Time": "2024-01-24T23:05:15.6682282+00:00",
       "NumProgressed": 997,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-25T09:06:20.3869029+00:00",
+      "NumProgressed": 998,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3588,7 +3593,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH_eou2",
@@ -3604,7 +3609,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_eou4",
@@ -3612,7 +3617,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_eou5",
@@ -3620,7 +3625,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_eou6",
@@ -3628,7 +3633,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_eou7",
@@ -3636,7 +3641,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_eou8",
@@ -3683,7 +3688,7 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 997,
+      "Progressed": 998,
       "Completed": 12
     }
   ],
@@ -3691,8 +3696,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-24T21:59:40.9634781+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:05:58.2951786+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:06:20.3869024+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:00:30.7675042+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:05:58.295199+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:00:39.8810007+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:06:20.3869364+00:00"
 }

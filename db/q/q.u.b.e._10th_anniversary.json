@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30512,
+  "EOS_Progressed": 30513,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -11791,6 +11791,11 @@
       "Time": "2024-01-25T08:10:23.5226948+00:00",
       "NumProgressed": 30512,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-25T09:10:46.885449+00:00",
+      "NumProgressed": 30513,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 24,
@@ -11826,7 +11831,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -11993,7 +11998,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30512,
+      "Progressed": 30513,
       "Completed": 234
     }
   ],
@@ -12001,8 +12006,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:10:23.5226946+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:10:46.8854487+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:02:47.0324312+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:10:23.5227792+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:03:04.8331175+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:10:46.8855187+00:00"
 }

@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29454,
+  "EOS_Progressed": 29456,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30608,6 +30608,11 @@
       "Time": "2024-01-25T08:04:36.0488098+00:00",
       "NumProgressed": 29454,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2024-01-25T09:04:57.305251+00:00",
+      "NumProgressed": 29456,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 20,
@@ -30659,7 +30664,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -30675,7 +30680,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3535
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -30731,7 +30736,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3535
     },
     {
       "ID": "INTRO_FINISHED",
@@ -30739,7 +30744,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22385
+      "UsersEstimate": 22387
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30778,15 +30783,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29454,
+      "Progressed": 29456,
       "Completed": 543
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-25T02:24:21.066454+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:04:36.0488094+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:04:57.3052507+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:57:48.0388116+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:04:36.0489257+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:57:57.6131812+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:04:57.3054117+00:00"
 }

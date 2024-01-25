@@ -5,19 +5,19 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,908 |
-| Feeling the beat! | 56.00% | ~9,908 |
-| You can pet the cat! | 51.00% | ~9,023 |
+| Start with a bang! | 56.00% | ~9,909 |
+| Feeling the beat! | 56.00% | ~9,909 |
+| You can pet the cat! | 51.00% | ~9,024 |
 | Who put gears in there? | 42.00% | ~7,431 |
-| Cream of the Crop | 37.00% | ~6,546 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,369 |
+| Cream of the Crop | 37.00% | ~6,547 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,370 |
 | You got this, Peppermint? | 32.00% | ~5,662 |
 | Perfect Parry | 30.00% | ~5,308 |
 | Alright, that felt AWESOME! | 29.00% | ~5,131 |
-| I play my own way! | 25.00% | ~4,423 |
-| This will cost you big time | 24.00% | ~4,246 |
-| Uh, they were broken when I got here | 24.00% | ~4,246 |
-| Z-shielding's got nothing on us! | 22.00% | ~3,892 |
+| I play my own way! | 25.00% | ~4,424 |
+| This will cost you big time | 24.00% | ~4,247 |
+| Uh, they were broken when I got here | 24.00% | ~4,247 |
+| Z-shielding's got nothing on us! | 22.00% | ~3,893 |
 | Kissing the sky! | 21.00% | ~3,716 |
 | Whoa! There's ANOTHER health bar!? | 19.00% | ~3,362 |
 | Does that say weakpoint? | 18.00% | ~3,185 |
@@ -30,10 +30,10 @@ Rating: 4.85 (Ranked 39)
 | Who's the boss now? | 13.00% | ~2,300 |
 | Perfecter Parry-er! | 13.00% | ~2,300 |
 | I have to read these things? | 12.00% | ~2,123 |
-| NOW we got a kickass hideout! | 10.00% | ~1,621 |
+| NOW we got a kickass hideout! | 10.00% | ~1,622 |
 | There's such a thing as TOO helpful | 9.00% | ~1,592 |
-| Well that was a rush! | 8.00% | ~1,415 |
-| That's a lot of junk metal… | 8.00% | ~1,415 |
+| Well that was a rush! | 8.00% | ~1,416 |
+| That's a lot of junk metal… | 8.00% | ~1,416 |
 | Beat-hit mania | 7.00% | ~1,239 |
 | Chip-tuned | 5.00% | ~885 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~885 |
@@ -50,7 +50,7 @@ Rating: 4.85 (Ranked 39)
 | Call me Turbo Chai | 2.00% | ~324 |
 | Easy Listening | 1.00% | ~177 |
 | OK, well THEY came after ME! | 0.90% | ~159 |
-| New bad guys? No problem! | 0.70% | ~113 |
+| New bad guys? No problem! | 0.70% | ~114 |
 | Now this is how you fight like a team! | 0.50% | ~88 |
 | I am a good person who likes to help | 0.50% | ~88 |
 | Problem solved... wait, what? | 0.40% | ~71 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,693 (Ranked 168)  
+Progressed: 17,694 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 8 (0.05%) (Ranked 349)
 | 2024-01-22 | 17,609 | 8 |
 | 2024-01-23 | 17,642 | 8 |
 | 2024-01-24 | 17,683 | 8 |
-| 2024-01-25 | 17,693 | 8 |
+| 2024-01-25 | 17,694 | 8 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 498)  
 Sum: 38 (Ranked 537)  

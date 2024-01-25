@@ -6,8 +6,8 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,710 |
-| Battering Crew | 19.00% | ~6,512 |
+| Conqueror | 40.00% | ~13,711 |
+| Battering Crew | 19.00% | ~6,513 |
 | The Kingsroad | 17.00% | ~5,827 |
 | Well Stocked | 13.00% | ~4,456 |
 | Royal Fleet | 12.00% | ~4,113 |
@@ -17,19 +17,19 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 7.00% | ~2,399 |
 | Influential | 7.00% | ~2,399 |
 | A Long Journey | 7.00% | ~2,399 |
-| Ours is the Fury | 6.00% | ~2,056 |
-| We Do Not Sow | 6.00% | ~2,056 |
-| Winter is Coming | 6.00% | ~2,056 |
-| Defender of the Wall | 6.00% | ~2,056 |
+| Ours is the Fury | 6.00% | ~2,057 |
+| We Do Not Sow | 6.00% | ~2,057 |
+| Winter is Coming | 6.00% | ~2,057 |
+| Defender of the Wall | 6.00% | ~2,057 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,714 |
 | Growing Strong | 5.00% | ~1,714 |
 | Hear me Roar! | 5.00% | ~1,714 |
 | What is Dead may Never Die | 3.00% | ~1,028 |
-| King in the North | 2.00% | ~685 |
-| The Swift | 2.00% | ~685 |
+| King in the North | 2.00% | ~686 |
+| The Swift | 2.00% | ~686 |
 | War of the Five Kings | 1.00% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,274 (Ranked 141)  
+Progressed: 34,278 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 88 (0.26%) (Ranked 275)
 | 2024-01-22 | 34,134 | 88 |
 | 2024-01-23 | 34,197 | 88 |
 | 2024-01-24 | 34,261 | 88 |
-| 2024-01-25 | 34,274 | 88 |
+| 2024-01-25 | 34,278 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 355)  
 Sum: 820 (Ranked 295)  

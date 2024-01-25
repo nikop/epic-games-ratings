@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -1099,9 +1099,9 @@
       "ID": "11",
       "SetID": "7l2nmpm",
       "Name": "Symphony",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "12",
@@ -1316,8 +1316,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:08:47.667189+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:09:08.9090698+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:39.2150303+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:58:24.7188437+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:08:47.66721+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:58:33.2872318+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:09:08.9090955+00:00"
 }

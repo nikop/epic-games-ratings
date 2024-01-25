@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11256,9 +11256,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133648,
+  "EOS_Progressed": 133650,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41406,6 +41406,11 @@
       "Time": "2024-01-25T08:10:33.590301+00:00",
       "NumProgressed": 133648,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T09:10:56.7367541+00:00",
+      "NumProgressed": 133650,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41425,7 +41430,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9355
+      "UsersEstimate": 9356
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41521,7 +41526,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -41537,7 +41542,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -41545,7 +41550,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9355
+      "UsersEstimate": 9356
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41577,7 +41582,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9355
+      "UsersEstimate": 9356
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41641,7 +41646,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9355
+      "UsersEstimate": 9356
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41817,7 +41822,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41849,7 +41854,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -41881,7 +41886,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "run_victory_act03",
@@ -41889,7 +41894,7 @@
       "Name": "Eyes Up",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "run_victory_act04",
@@ -41961,7 +41966,7 @@
       "Name": "This guy... again?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -42048,21 +42053,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133648,
+      "Progressed": 133650,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8517,
+      "Progressed": 8519,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-24T21:59:42.5138492+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:10:33.5903006+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:10:56.7367538+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:00:45.5764319+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:10:33.5905512+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:57:14.6263844+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:10:56.7369624+00:00"
 }

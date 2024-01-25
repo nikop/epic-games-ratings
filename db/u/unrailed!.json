@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -3053,9 +3053,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 683547,
+  "EOS_Progressed": 683550,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2058,
+  "EOS_NewPlayers": 2056,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35278,6 +35278,11 @@
       "Time": "2024-01-25T08:10:35.3008267+00:00",
       "NumProgressed": 683547,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-25T09:10:58.6203163+00:00",
+      "NumProgressed": 683550,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -35537,7 +35542,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 123038
+      "UsersEstimate": 123039
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -35609,7 +35614,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 116203
+      "UsersEstimate": 116204
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -35704,15 +35709,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 683547,
+      "Progressed": 683550,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-24T18:03:38.3873388+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:10:35.3008264+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:10:58.6203159+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.1246588+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:02:58.0001098+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:10:35.3010278+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:03:15.9889285+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:10:58.6204745+00:00"
 }

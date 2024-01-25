@@ -9,11 +9,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 15.00% | ~1,278 |
 | Lost and Found | 9.00% | ~767 |
 | Autodidact | 8.00% | ~10,692 |
-| This guy... again? | 8.00% | ~681 |
-| Serenity Now! | 7.00% | ~9,355 |
-| This Belongs in a Museum | 7.00% | ~9,355 |
-| Creep and Sleep | 7.00% | ~9,355 |
-| Overdue Notice | 7.00% | ~9,355 |
+| This guy... again? | 8.00% | ~682 |
+| Serenity Now! | 7.00% | ~9,356 |
+| This Belongs in a Museum | 7.00% | ~9,356 |
+| Creep and Sleep | 7.00% | ~9,356 |
+| Overdue Notice | 7.00% | ~9,356 |
 | Ploughshares to Swords | 7.00% | ~596 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,019 |
 | It Rings a Bell | 6.00% | ~8,019 |
@@ -49,12 +49,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,346 |
 | Unshackled | 4.00% | ~5,346 |
 | Road Trip | 4.00% | ~5,346 |
-| Hope Rekindled | 3.00% | ~4,009 |
-| Predator | 3.00% | ~4,009 |
-| When You Want Something Done Right | 3.00% | ~4,009 |
-| Utopia | 3.00% | ~4,009 |
-| Hot Air | 3.00% | ~4,009 |
-| Eyes Up | 3.00% | ~4,009 |
+| Hope Rekindled | 3.00% | ~4,010 |
+| Predator | 3.00% | ~4,010 |
+| When You Want Something Done Right | 3.00% | ~4,010 |
+| Utopia | 3.00% | ~4,010 |
+| Hot Air | 3.00% | ~4,010 |
+| Eyes Up | 3.00% | ~4,010 |
 | This Looks Familiar | 2.00% | ~2,673 |
 | Ichthyophobic | 2.00% | ~2,673 |
 | No More Mouths to Feed | 2.00% | ~2,673 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,648 (Ranked 92)  
+Progressed: 133,650 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,648 | 5 |
+| 2024-01-25 | 133,650 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
 Sum: 21,856 (Ranked 60)  

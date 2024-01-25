@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,7 +679,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47721,
+  "EOS_Progressed": 47724,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
@@ -19859,6 +19859,11 @@
       "Time": "2024-01-25T06:04:45.2588836+00:00",
       "NumProgressed": 47721,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T09:05:10.1232894+00:00",
+      "NumProgressed": 47724,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -20222,7 +20227,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "STAYING_AIR",
@@ -20293,22 +20298,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47721,
+      "Progressed": 47724,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12558,
-      "Completed": 12558
+      "Progressed": 12561,
+      "Completed": 12561
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:04:48.797444+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:05:10.1232892+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:03:06.7790286+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:04:48.7975408+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:03:25.1165343+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:05:10.1234652+00:00"
 }

@@ -1,7 +1,7 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.71 (Ranked 206)  
+Rating: 4.71 (Ranked 205)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -61,7 +61,7 @@ Rating: 4.71 (Ranked 206)
 | You Shall Pass | 0.80% | ~625 |
 | A Foul Feast | 0.50% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,898 (Ranked 65)  
+Progressed: 298,903 (Ranked 65)  
 Completed: 1,245 (0.42%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 1,245 (0.42%) (Ranked 246)
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
-| 2024-01-25 | 298,898 | 1,245 |
+| 2024-01-25 | 298,903 | 1,245 |
 ## Awards
 Max (Great Boss Battles): 7,572  (Ranked 56)  
 Sum: 17,470 (Ranked 65)  

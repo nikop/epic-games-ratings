@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2623,
+  "EOS_Progressed": 2624,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4921,6 +4921,11 @@
       "Time": "2024-01-23T21:04:08.8201095+00:00",
       "NumProgressed": 2623,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-25T09:05:27.4625366+00:00",
+      "NumProgressed": 2624,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4980,7 +4985,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHV_08",
@@ -5132,7 +5137,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ACHV_27",
@@ -5212,7 +5217,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACHV_37",
@@ -5236,7 +5241,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ACHV_40",
@@ -5292,7 +5297,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHV_47",
@@ -5387,7 +5392,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2623,
+      "Progressed": 2624,
       "Completed": 13
     }
   ],
@@ -5395,8 +5400,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:05:05.8925575+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:05:27.4625362+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:03:00.7069347+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:05:05.8926097+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:03:18.8102315+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:05:27.4626032+00:00"
 }

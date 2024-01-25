@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -826,7 +826,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44892,
+  "EOS_Progressed": 44893,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
@@ -29521,6 +29521,11 @@
       "Time": "2024-01-25T08:04:03.8171746+00:00",
       "NumProgressed": 44892,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T09:04:24.396471+00:00",
+      "NumProgressed": 44893,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29730,9 +29735,9 @@
       "ID": "ach_legacypupil",
       "SetID": "ammcm",
       "Name": "Pupil",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3142
+      "UsersEstimate": 2694
     },
     {
       "ID": "ach_legacyrival",
@@ -29876,7 +29881,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "ach_sweetheart",
@@ -29963,15 +29968,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44892,
+      "Progressed": 44893,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:04:03.8171744+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:04:24.3964708+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:59:29.8535509+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:04:03.8173489+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:59:38.4531425+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:04:24.3966368+00:00"
 }

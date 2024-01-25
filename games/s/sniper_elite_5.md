@@ -9,7 +9,7 @@ Rating: 4.48 (Ranked 662)
 | Confirming Suspicions | 42.00% | ~1,824 |
 | The Kraken Wakes | 38.00% | ~1,650 |
 | It's Starting to Crack | 35.00% | ~1,520 |
-| Change the Channel | 32.00% | ~1,389 |
+| Change the Channel | 32.00% | ~1,390 |
 | Lord of War | 31.00% | ~1,346 |
 | Taking it back | 30.00% | ~1,303 |
 | Resourceful | 28.00% | ~1,216 |
@@ -19,8 +19,8 @@ Rating: 4.48 (Ranked 662)
 | Organ Grinder | 24.00% | ~1,042 |
 | As Quiet as a Mouse | 24.00% | ~1,042 |
 | Sharpshooter | 23.00% | ~999 |
-| Gunslinger | 20.00% | ~868 |
-| Explosive Efficiency | 20.00% | ~868 |
+| Gunslinger | 20.00% | ~869 |
+| Explosive Efficiency | 20.00% | ~869 |
 | Climbing the Ladder | 17.00% | ~738 |
 | Just a Flesh Wound | 17.00% | ~738 |
 | Der Geist | 17.00% | ~738 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,342 (Ranked 217)  
+Progressed: 4,343 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 11 (0.25%) (Ranked 277)
 | 2024-01-22 | 4,331 | 11 |
 | 2024-01-23 | 4,337 | 11 |
 | 2024-01-24 | 4,341 | 11 |
-| 2024-01-25 | 4,342 | 11 |
+| 2024-01-25 | 4,343 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 526)  
 Sum: 31 (Ranked 548)  

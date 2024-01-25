@@ -20,8 +20,8 @@
 | Antiphony | 0.50% | ~5 |
 | Silent City Glyph | 0.50% | ~5 |
 | Coda Cave Glyph | 0.50% | ~5 |
+| Symphony | 0.30% | ~3 |
 | Musica Universalis | 0.30% | ~3 |
-| Symphony | 0.20% | ~2 |
 | Fugue Forest Glyph | 0.20% | ~2 |
 | Consonance | 0.10% | ~1 |
 | Dissonance | 0.10% | ~1 |

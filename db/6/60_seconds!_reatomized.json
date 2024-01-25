@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11603,
+  "EOS_Progressed": 11604,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4030,
+  "EOS_NewPlayers": 4023,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10753,6 +10753,11 @@
       "Time": "2024-01-25T08:08:36.0029545+00:00",
       "NumProgressed": 11603,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T09:08:58.1163997+00:00",
+      "NumProgressed": 11604,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -10836,7 +10841,7 @@
       "Name": "All thumbs",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 10443
+      "UsersEstimate": 10444
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -10852,7 +10857,7 @@
       "Name": "Out of the Bag",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 8238
+      "UsersEstimate": 8239
     },
     {
       "ID": "ACH_CATDOM",
@@ -10892,7 +10897,7 @@
       "Name": "One way ticket",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 9398
+      "UsersEstimate": 9399
     },
     {
       "ID": "ACH_DEEDEE",
@@ -10948,7 +10953,7 @@
       "Name": "Girl Power",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "ACH_EASY",
@@ -10964,7 +10969,7 @@
       "Name": "Enigma",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_EXPLORE_SHELTER",
@@ -10980,7 +10985,7 @@
       "Name": "Family guy",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -10988,7 +10993,7 @@
       "Name": "New order",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACH_FLY",
@@ -11012,7 +11017,7 @@
       "Name": "Rescue time!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "ACH_HARD",
@@ -11028,7 +11033,7 @@
       "Name": "What goes around...",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "ACH_HOLIDAYS",
@@ -11060,7 +11065,7 @@
       "Name": "Home, sweet home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 10327
+      "UsersEstimate": 10328
     },
     {
       "ID": "ACH_MADHATTER",
@@ -11084,7 +11089,7 @@
       "Name": "New species",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_NAYSAYER",
@@ -11132,7 +11137,7 @@
       "Name": "A gift",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5569
+      "UsersEstimate": 5570
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -11164,7 +11169,7 @@
       "Name": "The Dark Side",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 7542
+      "UsersEstimate": 7543
     },
     {
       "ID": "ACH_ROGUE",
@@ -11180,7 +11185,7 @@
       "Name": "I will survive!",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 10559
+      "UsersEstimate": 10560
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -11204,7 +11209,7 @@
       "Name": "Last man standing",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 8702
+      "UsersEstimate": 8703
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -11212,7 +11217,7 @@
       "Name": "Prepper",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 10675
+      "UsersEstimate": 10676
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -11243,7 +11248,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 11603,
+      "Progressed": 11604,
       "Completed": 1
     }
   ],
@@ -11251,8 +11256,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-24T16:00:13.4095324+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:08:36.0029542+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:08:58.1163992+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:35.1717195+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:57:14.0655937+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:08:36.0030465+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:57:23.2665057+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:08:58.1164989+00:00"
 }

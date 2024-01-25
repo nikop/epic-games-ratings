@@ -5,9 +5,9 @@ Rating: 4.19 (Ranked 984)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,625 |
+| First Step Into the Knight | 50.00% | ~41,626 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,305 |
-| Loose Ends | 33.00% | ~27,472 |
+| Loose Ends | 33.00% | ~27,473 |
 | To the Victor Go the Spoils | 27.00% | ~22,478 |
 | Knighthood | 26.00% | ~21,645 |
 | Get ReQ'd | 24.00% | ~19,980 |
@@ -28,29 +28,29 @@ Rating: 4.19 (Ranked 984)
 | Rock and a Hard Place | 14.00% | ~11,655 |
 | Cooldown | 14.00% | ~11,655 |
 | Voiceless | 14.00% | ~11,655 |
-| Shock Til They Drop | 13.00% | ~10,822 |
-| Seeking Asylum | 13.00% | ~10,822 |
+| Shock Til They Drop | 13.00% | ~10,823 |
+| Seeking Asylum | 13.00% | ~10,823 |
 | End of an Era | 12.00% | ~9,990 |
 | Not On My Watch | 12.00% | ~9,990 |
 | Bulldozed | 12.00% | ~9,990 |
 | Gotham Knight | 12.00% | ~9,990 |
 | Gotham City Confidential | 11.00% | ~9,158 |
 | Drone You Out | 10.00% | ~8,325 |
-| Out of Their League | 9.00% | ~7,492 |
+| Out of Their League | 9.00% | ~7,493 |
 | Solid Alibi | 8.00% | ~6,660 |
 | Fusion Expert | 7.00% | ~5,828 |
 | Family Meeting | 6.00% | ~4,995 |
 | A Worthy Successor | 6.00% | ~4,995 |
-| Expert Crime Fighter | 5.00% | ~4,162 |
+| Expert Crime Fighter | 5.00% | ~4,163 |
 | Dressed to Impress | 4.00% | ~3,330 |
 | A Momentum Occasion | 3.00% | ~2,498 |
 | Bat Out of Hell | 3.00% | ~2,498 |
 | Practice Makes Perfect | 2.00% | ~1,665 |
 | He'd Be So Proud of You | 2.00% | ~1,665 |
-| Talonted | 1.00% | ~832 |
-| The Man-Bat Family | 1.00% | ~832 |
-| Batarang Collector | 1.00% | ~832 |
-| Claiming the Mural High Ground | 1.00% | ~832 |
+| Talonted | 1.00% | ~833 |
+| The Man-Bat Family | 1.00% | ~833 |
+| Batarang Collector | 1.00% | ~833 |
+| Claiming the Mural High Ground | 1.00% | ~833 |
 | Icebreaker | 0.80% | ~428 |
 | History Major | 0.80% | ~666 |
 | A Sophisticated Mallet | 0.80% | ~428 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 984)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,250 (Ranked 111)  
+Progressed: 83,251 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 135 (0.16%) (Ranked 299)
 | 2024-01-22 | 83,185 | 135 |
 | 2024-01-23 | 83,213 | 135 |
 | 2024-01-24 | 83,243 | 135 |
-| 2024-01-25 | 83,250 | 135 |
+| 2024-01-25 | 83,251 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,251  (Ranked 103)  
 Sum: 5,567 (Ranked 146)  

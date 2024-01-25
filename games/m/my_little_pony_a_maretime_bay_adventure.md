@@ -10,11 +10,11 @@
 | Amateur Detective | 63.00% | ~32 |
 | Pipp Pipp Parade! | 61.00% | ~31 |
 | Glowing Up | 59.00% | ~30 |
-| Sheriff's Apprentice | 53.00% | ~27 |
+| Sheriff's Apprentice | 55.00% | ~28 |
 | Pro Herder | 53.00% | ~27 |
 | The Neigh-gotiator | 53.00% | ~27 |
-| Where Did The Magic Go? | 45.00% | ~23 |
-| Friendship Is Still Magic | 45.00% | ~23 |
+| Where Did The Magic Go? | 47.00% | ~24 |
+| Friendship Is Still Magic | 47.00% | ~24 |
 | Starscout | 35.00% | ~18 |
 | W.I.N.G.S. Cadet | 27.00% | ~14 |
 ## Popularity (Based on EOS Achievements)

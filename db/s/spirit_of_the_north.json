@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80937,
+  "EOS_Progressed": 80938,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -31294,6 +31294,11 @@
       "Time": "2024-01-25T07:04:58.9767163+00:00",
       "NumProgressed": 80937,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2024-01-25T09:04:36.8337977+00:00",
+      "NumProgressed": 80938,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 24,
@@ -31353,7 +31358,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22662
+      "UsersEstimate": 22663
     },
     {
       "ID": "FOXIN_AROUND",
@@ -31369,7 +31374,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -31481,7 +31486,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9712
+      "UsersEstimate": 9713
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -31496,7 +31501,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80937,
+      "Progressed": 80938,
       "Completed": 441
     }
   ],
@@ -31504,8 +31509,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:04:15.9257433+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:04:36.8337974+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:57.351198+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:58:01.4042732+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:04:15.9259+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:58:10.1368817+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:04:36.8339348+00:00"
 }

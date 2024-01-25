@@ -23,11 +23,11 @@
 | Charismatic | 36.00% | ~1,676 |
 | Very Elusive | 35.00% | ~1,630 |
 | Asari Ally | 34.00% | ~1,583 |
+| Scientist | 33.00% | ~1,536 |
 | Medal of Exploration III | 32.00% | ~1,490 |
 | Principled | 32.00% | ~1,490 |
 | Colonial Savior | 32.00% | ~1,490 |
 | Merciless | 32.00% | ~1,490 |
-| Scientist | 32.00% | ~1,490 |
 | Paramour I | 31.00% | ~1,443 |
 | Krogan Ally | 31.00% | ~1,443 |
 | Scholar | 31.00% | ~1,443 |

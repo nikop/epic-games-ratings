@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,7 +373,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19279,
+  "EOS_Progressed": 19280,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 1,
@@ -18198,6 +18198,11 @@
       "Time": "2024-01-25T07:08:52.9171644+00:00",
       "NumProgressed": 19279,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-25T09:08:39.8625574+00:00",
+      "NumProgressed": 19280,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18258,7 +18263,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "16",
@@ -18386,7 +18391,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "30",
@@ -18489,13 +18494,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19279,
+      "Progressed": 19280,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5233,
+      "Progressed": 5234,
       "Completed": 1401
     }
   ],
@@ -18503,8 +18508,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-25T08:08:18.3225949+00:00",
+  "LastChanged_Achievements": "2024-01-25T09:08:39.862557+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:00:17.4657453+00:00",
-  "LastUpdate_Achievements": "2024-01-25T08:08:18.3227013+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:00:26.7307571+00:00",
+  "LastUpdate_Achievements": "2024-01-25T09:08:39.8626523+00:00"
 }
