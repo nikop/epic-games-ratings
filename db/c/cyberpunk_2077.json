@@ -19014,10 +19014,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 519589,
       "NumberOfAwardsMax": 144777
+    },
+    {
+      "Time": "2024-01-25T18:03:50.566057+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 519758,
+      "NumberOfAwardsMax": 144777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 519589,
+  "NumberOfAwards": 519758,
   "NumberOfAwardsMax": 144777,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19061,7 +19067,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31050
+      "Count": 31219
     },
     {
       "Text": "This game is Great for Beginners",
@@ -19094,10 +19100,10 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058635,
+  "EOS_Progressed": 1058665,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4261,
-  "EOS_NewCompleters": 43,
+  "EOS_NewPlayers": 4254,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51224,6 +51230,11 @@
       "Time": "2024-01-25T17:09:32.3140719+00:00",
       "NumProgressed": 1058635,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T18:10:02.5992161+00:00",
+      "NumProgressed": 1058665,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51356,7 +51367,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7410
+      "UsersEstimate": 7411
     },
     {
       "ID": "MaxPain",
@@ -51404,7 +51415,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7410
+      "UsersEstimate": 7411
     },
     {
       "ID": "Roleplayer",
@@ -51412,7 +51423,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7410
+      "UsersEstimate": 7411
     },
     {
       "ID": "Specialist",
@@ -51476,7 +51487,7 @@
       "Name": "The Lovers",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7410
+      "UsersEstimate": 7411
     },
     {
       "ID": "TheStar",
@@ -51580,7 +51591,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7410
+      "UsersEstimate": 7411
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51706,9 +51717,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1311
     },
     {
       "ID": "KingOfTheCups",
@@ -51771,21 +51782,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058635,
+      "Progressed": 1058665,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187258,
+      "Progressed": 187288,
       "Completed": 10701
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-25T17:03:29.5874347+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:09:32.3140714+00:00",
+  "LastChanged": "2024-01-25T18:03:50.5660563+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:10:02.5992156+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:03:29.5874354+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:09:32.3142383+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:03:50.5660577+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:10:02.599386+00:00"
 }

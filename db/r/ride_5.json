@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3722,
+  "EOS_Progressed": 3723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9377,6 +9377,11 @@
       "Time": "2024-01-25T17:08:34.2219242+00:00",
       "NumProgressed": 3722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T18:08:46.9772826+00:00",
+      "NumProgressed": 3723,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9389,7 +9394,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9397,7 +9402,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9477,7 +9482,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9685,7 +9690,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9780,7 +9785,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3722,
+      "Progressed": 3723,
       "Completed": 0
     }
   ],
@@ -9788,8 +9793,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:08:34.2219237+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:08:46.9772822+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:59:01.7495585+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:08:34.2220399+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:59:31.3354013+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:08:46.9773682+00:00"
 }

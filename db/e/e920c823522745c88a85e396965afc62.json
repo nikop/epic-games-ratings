@@ -4,7 +4,7 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "beginner",
@@ -423,9 +423,9 @@
       "ID": "decorated",
       "SetID": "d4692al",
       "Name": "Decorated",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "dining",
@@ -599,9 +599,9 @@
       "ID": "wealthy",
       "SetID": "d4692al",
       "Name": "Wealthy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:04:05.9586693+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:04:40.0418618+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:56.0033725+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:00:17.0979307+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:04:05.9586951+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:01:11.8950109+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:04:40.0418777+00:00"
 }

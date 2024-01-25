@@ -2,12 +2,12 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 92,
+  "Ranking_Rating": 93,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": null,
@@ -9404,9 +9404,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479758,
+  "EOS_Progressed": 479759,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37374,6 +37374,11 @@
       "Time": "2024-01-25T17:10:08.7061371+00:00",
       "NumProgressed": 479758,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-25T18:10:49.1979735+00:00",
+      "NumProgressed": 479759,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -37409,7 +37414,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 177510
+      "UsersEstimate": 177511
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -37481,7 +37486,7 @@
       "Name": "Parked The Bus",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143927
+      "UsersEstimate": 143928
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -37489,7 +37494,7 @@
       "Name": "Legend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28785
+      "UsersEstimate": 28786
     },
     {
       "ID": "achievement_5_players_in_team_of_the_week",
@@ -37497,7 +37502,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143927
+      "UsersEstimate": 143928
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -37537,7 +37542,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 177510
+      "UsersEstimate": 177511
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -37569,7 +37574,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239879
+      "UsersEstimate": 239880
     },
     {
       "ID": "achievement_club_world_cup",
@@ -37577,7 +37582,7 @@
       "Name": "Win the Club World Cup",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28785
+      "UsersEstimate": 28786
     },
     {
       "ID": "achievement_do_the_double",
@@ -37593,7 +37598,7 @@
       "Name": "Parked The Tank",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28785
+      "UsersEstimate": 28786
     },
     {
       "ID": "achievement_european_player_of_the_year_award",
@@ -37617,7 +37622,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 201498
+      "UsersEstimate": 201499
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -37641,7 +37646,7 @@
       "Name": "World Renowned",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 28785
+      "UsersEstimate": 28786
     },
     {
       "ID": "achievement_get_offered_an_international_manager_job",
@@ -37673,7 +37678,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 134332
+      "UsersEstimate": 134333
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -37713,7 +37718,7 @@
       "Name": "Head-to-Head",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28785
+      "UsersEstimate": 28786
     },
     {
       "ID": "achievement_headhunted",
@@ -37761,7 +37766,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110344
+      "UsersEstimate": 110345
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -37809,7 +37814,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167915
+      "UsersEstimate": 167916
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -37937,7 +37942,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239879
+      "UsersEstimate": 239880
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -37945,7 +37950,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110344
+      "UsersEstimate": 110345
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -38017,7 +38022,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239879
+      "UsersEstimate": 239880
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -38168,15 +38173,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479758,
+      "Progressed": 479759,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-25T16:03:43.4277061+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:10:08.7061366+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:10:49.1979733+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8725355+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:03:11.0036424+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:10:08.7063639+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:03:04.8118196+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:10:49.1981416+00:00"
 }

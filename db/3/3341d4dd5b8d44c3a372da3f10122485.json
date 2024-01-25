@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -1829,9 +1829,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "Majak",
@@ -1900,8 +1900,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:05:58.5194183+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:07:08.8587209+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.7228603+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:58:56.7677693+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:05:58.5194343+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:59:24.5446204+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:07:08.8587402+00:00"
 }

@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,033 |
-| Hotel California | 10.00% | ~80,939 |
-| Break A Leg | 9.00% | ~72,845 |
-| Coup de Grâce | 8.00% | ~64,751 |
-| Hazardous Materials | 8.00% | ~64,751 |
-| Git Gutte! | 7.00% | ~56,657 |
-| Apex Predator | 7.00% | ~56,657 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,657 |
-| Dr. Reed, I Presume? | 6.00% | ~48,563 |
-| Bookworm | 6.00% | ~48,563 |
-| Friends Like These | 6.00% | ~48,563 |
-| Stacking the Deck | 6.00% | ~48,563 |
-| This is My Weapon | 6.00% | ~48,563 |
-| Anger Management | 5.00% | ~40,469 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,469 |
-| But Doctor, I am Butcho | 5.00% | ~40,469 |
-| Can't Handle the Truth | 5.00% | ~40,469 |
-| Like Riding a Bike | 5.00% | ~40,469 |
-| A Patton Emerges | 5.00% | ~40,469 |
+| Welcome To Hell-A | 11.00% | ~89,035 |
+| Hotel California | 10.00% | ~80,941 |
+| Break A Leg | 9.00% | ~72,847 |
+| Coup de Grâce | 8.00% | ~64,753 |
+| Hazardous Materials | 8.00% | ~64,753 |
+| Git Gutte! | 7.00% | ~56,659 |
+| Friends Like These | 7.00% | ~56,659 |
+| Apex Predator | 7.00% | ~56,659 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,659 |
+| Dr. Reed, I Presume? | 6.00% | ~48,565 |
+| Bookworm | 6.00% | ~48,565 |
+| Stacking the Deck | 6.00% | ~48,565 |
+| This is My Weapon | 6.00% | ~48,565 |
+| Anger Management | 5.00% | ~40,470 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,470 |
+| But Doctor, I am Butcho | 5.00% | ~40,470 |
+| Can't Handle the Truth | 5.00% | ~40,470 |
+| Like Riding a Bike | 5.00% | ~40,470 |
+| A Patton Emerges | 5.00% | ~40,470 |
 | Making Your Mark | 4.00% | ~32,376 |
 | Perks of the Job | 4.00% | ~32,376 |
 | Slayer Squad | 4.00% | ~32,376 |
@@ -31,15 +31,15 @@ Rating: 4.54 (Ranked 550)
 | Ooh, Shiny! | 4.00% | ~32,376 |
 | I Am the Resurrection | 4.00% | ~32,376 |
 | Our True Nature | 4.00% | ~32,376 |
-| Whatever It Takes | 4.00% | ~5,397 |
-| Pork Chopped | 4.00% | ~5,397 |
+| Whatever It Takes | 4.00% | ~5,398 |
+| Pork Chopped | 4.00% | ~5,398 |
 | Jumbo Keyring | 3.00% | ~24,282 |
 | Humanity Distilled | 3.00% | ~24,282 |
 | Down with the Sickness | 3.00% | ~24,282 |
 | Max Headroom | 3.00% | ~24,282 |
 | Go, Bobcats! | 3.00% | ~24,282 |
 | Rising Star | 3.00% | ~24,282 |
-| One of Us | 3.00% | ~4,048 |
+| One of Us | 3.00% | ~4,049 |
 | Make it So | 2.00% | ~16,188 |
 | On Safari | 2.00% | ~16,188 |
 | Smorgasbord | 2.00% | ~16,188 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,388 (Ranked 23)  
+Progressed: 809,410 (Ranked 23)  
 Completed: 2,633 (0.33%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,22 +337,22 @@ Completed: 2,633 (0.33%) (Ranked 262)
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
-| 2024-01-25 | 809,388 | 2,633 |
+| 2024-01-25 | 809,410 | 2,633 |
 ## Awards
 Max (Great Boss Battles): 10,927  (Ranked 39)  
-Sum: 16,822 (Ranked 68)  
+Sum: 16,833 (Ranked 68)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 10,927 |
-| This game is Great for Beginners | 859 |
+| This game is Great for Beginners | 866 |
 | This game has Diverse Characters | 810 |
 | This game has Quickly Understood Controls | 763 |
 | This game is Relaxing | 722 |
 | This game has Amazing Storytelling | 718 |
 | This game is Highly Recommended | 705 |
 | This game is Extremely Fun | 679 |
-| This game has Amazing Characters | 639 |
+| This game has Amazing Characters | 643 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -635,4 +635,4 @@ Diff (max vs sum): -29
 | 2024-01-22 | 4.54 | 10,811 | 16,633 |
 | 2024-01-23 | 4.54 | 10,850 | 16,700 |
 | 2024-01-24 | 4.54 | 10,888 | 16,780 |
-| 2024-01-25 | 4.54 | 10,927 | 16,822 |
+| 2024-01-25 | 4.54 | 10,927 | 16,833 |

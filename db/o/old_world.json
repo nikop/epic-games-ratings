@@ -2376,9 +2376,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17157,
+  "EOS_Progressed": 17159,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20961,6 +20961,11 @@
       "Time": "2024-01-25T17:10:52.6687501+00:00",
       "NumProgressed": 17157,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T18:11:42.4222456+00:00",
+      "NumProgressed": 17159,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21596,7 +21601,7 @@
       "Name": "Settler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -22724,7 +22729,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -23835,21 +23840,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17157,
+      "Progressed": 17159,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17157,
+      "Progressed": 17159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:10:52.6687494+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:11:42.4222453+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:00:26.0518344+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:10:52.6697939+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:01:23.7704842+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:11:42.4233778+00:00"
 }

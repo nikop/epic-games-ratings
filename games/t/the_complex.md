@@ -15,7 +15,7 @@
 | Trust Me For Once | 26.00% | ~227 |
 | Lab Rat | 25.00% | ~218 |
 | Stalemate | 22.00% | ~192 |
-| Kindar Surprise | 16.00% | ~140 |
+| Kindar Surprise | 17.00% | ~149 |
 | MVP - Most Vanishing Person | 13.00% | ~114 |
 | Deadly Secret | 12.00% | ~105 |
 | Get Out Of This Alive | 9.00% | ~79 |

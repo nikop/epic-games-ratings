@@ -4,7 +4,7 @@
   "ProductSlug": "arto-ff98ff",
   "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-01T15:00:00+00:00",
@@ -207,8 +207,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-12T18:06:31.6672669+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:10:34.0008953+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:11:20.52549+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:03.359868+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:59:39.5693893+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:10:34.0009084+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:00:21.0058429+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:11:20.5255014+00:00"
 }

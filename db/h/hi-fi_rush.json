@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -297,9 +297,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 17705,
+  "EOS_Progressed": 17706,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13282,6 +13282,11 @@
       "Time": "2024-01-25T16:05:34.7798011+00:00",
       "NumProgressed": 17705,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-25T18:05:19.5097323+00:00",
+      "NumProgressed": 17706,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13645,7 +13650,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "Ach046",
@@ -13661,7 +13666,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     },
     {
       "ID": "Ach048",
@@ -13669,7 +13674,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "Ach049",
@@ -13860,13 +13865,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17705,
+      "Progressed": 17706,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16226,
+      "Progressed": 16227,
       "Completed": 1931
     }
   ],
@@ -13874,8 +13879,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-25T07:57:37.7523595+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:04:35.2743713+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:05:19.5097318+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:57:59.9499403+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:04:35.2745002+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:58:08.2298653+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:05:19.5098473+00:00"
 }

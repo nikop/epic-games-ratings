@@ -591,9 +591,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 6557,
+  "EOS_Progressed": 6558,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10341,6 +10341,11 @@
       "Time": "2024-01-25T16:08:37.1093668+00:00",
       "NumProgressed": 6557,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T18:08:26.7977083+00:00",
+      "NumProgressed": 6558,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10392,7 +10397,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10400,7 +10405,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -10432,7 +10437,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -10544,7 +10549,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10560,7 +10565,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10600,7 +10605,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10608,7 +10613,7 @@
       "Name": "The Passenger",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10624,7 +10629,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10648,7 +10653,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10656,7 +10661,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5049
+      "UsersEstimate": 5050
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10664,7 +10669,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10672,7 +10677,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10711,7 +10716,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6557,
+      "Progressed": 6558,
       "Completed": 3
     }
   ],
@@ -10719,8 +10724,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-25T11:00:46.5251271+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:06:58.108083+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:08:26.7977082+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:00:11.7282341+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:06:58.1081685+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:01:04.3910102+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:08:26.7977662+00:00"
 }

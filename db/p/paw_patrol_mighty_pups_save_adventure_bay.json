@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "10",
@@ -485,9 +485,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "23",
@@ -614,8 +614,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:03:52.679141+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:04:23.0705215+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.1262179+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:57:43.2731346+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:03:52.6791653+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:57:46.1587128+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:04:23.0706799+00:00"
 }

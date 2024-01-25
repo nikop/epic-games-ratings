@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18090,
+  "EOS_Progressed": 18091,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -19106,6 +19106,11 @@
       "Time": "2024-01-25T16:08:46.942079+00:00",
       "NumProgressed": 18090,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-25T18:08:37.2618444+00:00",
+      "NumProgressed": 18091,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19141,7 +19146,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "tpote_achievement_13",
@@ -19149,7 +19154,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "tpote_achievement_14",
@@ -19181,7 +19186,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "tpote_achievement_18",
@@ -19357,7 +19362,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "tpote_achievement_38",
@@ -19444,15 +19449,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18090,
+      "Progressed": 18091,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2024-01-25T16:03:51.8791748+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:07:05.6248613+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:08:37.2618441+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:03:17.0544043+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:07:05.6250106+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:03:33.2666856+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:08:37.2619395+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -441,9 +441,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 2418,
+  "EOS_Progressed": 2419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4701,6 +4701,11 @@
       "Time": "2024-01-25T14:04:26.4149939+00:00",
       "NumProgressed": 2418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T18:04:24.9417057+00:00",
+      "NumProgressed": 2419,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4832,7 +4837,7 @@
       "Name": "Bad Wiring",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Achievement_018",
@@ -4848,7 +4853,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "Achievement_020",
@@ -4926,9 +4931,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 290
     },
     {
       "ID": "Achievement_030",
@@ -4968,7 +4973,7 @@
       "Name": "Catch and Release",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "Achievement_035",
@@ -5239,7 +5244,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2418,
+      "Progressed": 2419,
       "Completed": 0
     }
   ],
@@ -5247,8 +5252,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-24T13:03:24.6026213+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:03:54.0651073+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:04:24.9417054+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:58:10.393654+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:03:54.0652273+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:58:22.604965+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:04:24.9417664+00:00"
 }

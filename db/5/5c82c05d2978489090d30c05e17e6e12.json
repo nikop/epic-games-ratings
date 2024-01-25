@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76968,
+  "EOS_Progressed": 76975,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 1111,
+  "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8608,6 +8608,11 @@
       "Time": "2024-01-25T17:09:13.8861354+00:00",
       "NumProgressed": 76968,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-25T18:09:39.7900623+00:00",
+      "NumProgressed": 76975,
+      "NumCompleted": 130
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8620,7 +8625,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28478
+      "UsersEstimate": 28481
     },
     {
       "ID": "Achievement_10",
@@ -8660,7 +8665,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "Achievement_15",
@@ -8708,7 +8713,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21551
+      "UsersEstimate": 21553
     },
     {
       "ID": "Achievement_20",
@@ -8732,7 +8737,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "Achievement_23",
@@ -8796,7 +8801,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9236
+      "UsersEstimate": 9237
     },
     {
       "ID": "Achievement_30",
@@ -8820,7 +8825,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "Achievement_33",
@@ -8844,7 +8849,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6927
+      "UsersEstimate": 6928
     },
     {
       "ID": "Achievement_5",
@@ -8891,7 +8896,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76968,
+      "Progressed": 76975,
       "Completed": 130
     }
   ],
@@ -8899,8 +8904,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-24T15:59:11.7050326+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:09:13.8861348+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:09:39.7900617+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:00:01.9119559+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:09:13.886199+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:00:51.0080197+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:09:39.790131+00:00"
 }

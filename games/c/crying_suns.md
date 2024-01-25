@@ -6,21 +6,21 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~313,127 |
-| Jeef Skeejj | 44.00% | ~208,751 |
-| Careful planning | 39.00% | ~185,030 |
-| Second Coming | 34.00% | ~161,308 |
-| Jeef Skagg | 30.00% | ~142,330 |
-| Mother | 25.00% | ~118,609 |
-| In space, no one can hear you scream | 24.00% | ~113,864 |
+| The Shutdown | 66.00% | ~313,129 |
+| Jeef Skeejj | 44.00% | ~208,753 |
+| Careful planning | 39.00% | ~185,031 |
+| Second Coming | 34.00% | ~161,309 |
+| Jeef Skagg | 30.00% | ~142,331 |
+| Mother | 25.00% | ~118,610 |
+| In space, no one can hear you scream | 24.00% | ~113,865 |
 | Chapter I: Echoes | 22.00% | ~104,376 |
 | Excelsior Rule | 22.00% | ~104,376 |
-| Things persisted in not being what they seemed | 20.00% | ~94,887 |
-| Knightmare Frames | 15.00% | ~71,165 |
-| May His passing cleanse the world | 15.00% | ~71,165 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,165 |
-| Pope Zenon | 15.00% | ~71,165 |
-| Plan for the worst | 12.00% | ~56,932 |
+| Things persisted in not being what they seemed | 20.00% | ~94,888 |
+| Knightmare Frames | 15.00% | ~71,166 |
+| May His passing cleanse the world | 15.00% | ~71,166 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,166 |
+| Pope Zenon | 15.00% | ~71,166 |
+| Plan for the worst | 12.00% | ~56,933 |
 | Tetsuo | 11.00% | ~52,188 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,444 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,955 |
@@ -28,11 +28,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,955 |
 | Back to Ganyma | 8.00% | ~37,955 |
 | Kaos Rule | 8.00% | ~37,955 |
-| Meet your maker | 7.00% | ~33,210 |
-| Admiral Okonkwo | 7.00% | ~33,210 |
-| The Survivalists | 7.00% | ~33,210 |
-| The Tech Specialist | 7.00% | ~33,210 |
-| The Mech Soldier | 7.00% | ~33,210 |
+| Meet your maker | 7.00% | ~33,211 |
+| Admiral Okonkwo | 7.00% | ~33,211 |
+| The Survivalists | 7.00% | ~33,211 |
+| The Tech Specialist | 7.00% | ~33,211 |
+| The Mech Soldier | 7.00% | ~33,211 |
 | Chapter V: Memories of None | 6.00% | ~28,466 |
 | The Impersonator | 6.00% | ~28,466 |
 | The Kid | 6.00% | ~28,466 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,435 (Ranked 45)  
+Progressed: 474,438 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 21 (0.00%) (Ranked 410)
 | 2024-01-22 | 474,324 | 21 |
 | 2024-01-23 | 474,358 | 21 |
 | 2024-01-24 | 474,401 | 21 |
-| 2024-01-25 | 474,435 | 21 |
+| 2024-01-25 | 474,438 | 21 |
 ## Awards
 Max (Character Customization): 231  (Ranked 287)  
 Sum: 255 (Ranked 401)  

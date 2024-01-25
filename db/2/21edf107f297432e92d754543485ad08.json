@@ -4,7 +4,7 @@
   "ProductSlug": "revenge-of-the-ronin-faff20",
   "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -28,9 +28,91 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-25T18:05:05.8587721+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "4g4p79k",
+      "Name": "The Avenging Hermit",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "4g4p79k",
+      "Name": "Thorn In My Side",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "4g4p79k",
+      "Name": "One Sword Is Good Enough",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "4g4p79k",
+      "Name": "Defeat The City Guard",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "4g4p79k",
+      "Name": "The King Killer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "4g4p79k",
+      "Name": "The Vengeful Father",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "4g4p79k",
+      "Name": "The Last Prince",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "4g4p79k",
+      "Name": "Mage Of Hell",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "4g4p79k",
+      "Name": "Demon Defeater",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "4g4p79k",
+      "Name": "The Wind Stopper",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4g4p79k",
@@ -40,8 +122,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-22T12:03:42.2532187+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:04:24.9551258+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:05:05.8587713+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:09.7840583+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:00:20.2304319+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:04:24.9551271+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:01:15.9259463+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:05:05.8915414+00:00"
 }

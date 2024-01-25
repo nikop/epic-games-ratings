@@ -27,9 +27,9 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 14.00% | ~41 |
 | Hunter | 14.00% | ~41 |
 | Lover | 14.00% | ~41 |
+| Alb | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
-| Alb | 12.00% | ~35 |
-| Free as a Bird | 11.00% | ~32 |
+| Free as a Bird | 12.00% | ~35 |
 | Treasure Hunter | 9.00% | ~26 |
 | Weaponsmith | 9.00% | ~26 |
 | Hotshot | 9.00% | ~26 |

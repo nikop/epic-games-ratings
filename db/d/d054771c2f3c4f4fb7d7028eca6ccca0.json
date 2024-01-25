@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4622,
+  "EOS_Progressed": 4629,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6054,6 +6054,11 @@
       "Time": "2024-01-25T17:05:05.9839052+00:00",
       "NumProgressed": 4622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T18:06:00.3758041+00:00",
+      "NumProgressed": 4629,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -6090,7 +6095,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1620
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -6130,7 +6135,7 @@
       "Name": "Terrible Journey",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -6138,7 +6143,7 @@
       "Name": "Dark Prizes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -6170,7 +6175,7 @@
       "Name": "Worthy Badge",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -6234,7 +6239,7 @@
       "Name": "Competitor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -6250,7 +6255,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1944
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6266,7 +6271,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6434,27 +6439,27 @@
       "Name": "Hundred below",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4622,
+      "Progressed": 4629,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 400,
-      "Completed": 400
+      "Progressed": 407,
+      "Completed": 407
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:05:05.9839047+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:06:00.3758035+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:08.5926908+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:02:56.0716913+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:05:05.9839682+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:02:44.5753253+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:06:00.3758648+00:00"
 }

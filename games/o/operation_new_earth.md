@@ -13,9 +13,9 @@ Rating: 3.33 (Ranked 1,112)
 | Covert Operative | 12.00% | ~277 |
 | Lieutenant | 10.00% | ~231 |
 | Getting Deployment | 10.00% | ~231 |
+| Stocking Up | 10.00% | ~231 |
 | On Target | 10.00% | ~231 |
 | Keeping Busy | 9.00% | ~208 |
-| Stocking Up | 9.00% | ~208 |
 | Infantry Reporting | 9.00% | ~208 |
 | Exterminator | 8.00% | ~185 |
 | Fighting for Survival | 8.00% | ~185 |

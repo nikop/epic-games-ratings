@@ -11,8 +11,8 @@
 | A Box of Tricks | 24.00% | ~25 |
 | Puzzle Prodigy | 24.00% | ~25 |
 | Snitch | 23.00% | ~24 |
+| Breathless End | 20.00% | ~21 |
 | Finger-Lickin' Bad | 20.00% | ~21 |
-| Breathless End | 19.00% | ~20 |
 | Bathroom Brawler | 18.00% | ~19 |
 | Codebreaker | 18.00% | ~19 |
 | Flying High | 18.00% | ~19 |

@@ -6,10 +6,10 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,841 |
-| Worker Specialization | 76.00% | ~5,765 |
-| First Contact | 72.00% | ~5,462 |
-| Win a Battle | 65.00% | ~4,931 |
+| Colonize a Planet | 77.00% | ~5,842 |
+| Worker Specialization | 76.00% | ~5,766 |
+| First Contact | 72.00% | ~5,463 |
+| Win a Battle | 65.00% | ~4,932 |
 | Anomaly Researcher | 60.00% | ~4,552 |
 | Unleash My Power | 60.00% | ~4,552 |
 | Own 30 Planets | 32.00% | ~2,428 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,586 (Ranked 200)  
+Progressed: 7,587 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 7,579 | 0 |
 | 2024-01-23 | 7,582 | 0 |
 | 2024-01-24 | 7,585 | 0 |
-| 2024-01-25 | 7,586 | 0 |
+| 2024-01-25 | 7,587 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 387)  
 Sum: 702 (Ranked 314)  

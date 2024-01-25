@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -16886,10 +16886,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 101742,
       "NumberOfAwardsMax": 13077
+    },
+    {
+      "Time": "2024-01-25T17:57:33.7058773+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 101755,
+      "NumberOfAwardsMax": 13077
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 101742,
+  "NumberOfAwards": 101755,
   "NumberOfAwardsMax": 13077,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -16909,7 +16915,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10015
+      "Count": 10019
     },
     {
       "Text": "This game is Relaxing",
@@ -16921,7 +16927,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9417
+      "Count": 9423
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16933,7 +16939,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9072
+      "Count": 9075
     },
     {
       "Text": "This game has Challenging Combat",
@@ -16971,8 +16977,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-01-25T09:57:06.4705661+00:00",
+  "LastChanged": "2024-01-25T17:57:33.7058772+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:33.9804668+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:57:33.9319813+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:05:29.9678825+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:57:33.7058778+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:06:31.1417749+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 147,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 777,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2887,6 +2887,11 @@
       "Time": "2024-01-25T10:10:39.9291922+00:00",
       "NumProgressed": 776,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T18:11:20.6597203+00:00",
+      "NumProgressed": 777,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2898,7 +2903,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "completeact2",
@@ -2914,7 +2919,7 @@
       "Name": "On the Road",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "findalltapes",
@@ -3002,7 +3007,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "scoreminrankrv2",
@@ -3017,7 +3022,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 777,
       "Completed": 3
     }
   ],
@@ -3025,8 +3030,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:10:34.0805125+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:11:20.6597197+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:59:08.2381322+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:10:34.0805426+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:59:40.1855298+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:11:20.6597461+00:00"
 }

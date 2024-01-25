@@ -12,8 +12,8 @@
 | Leave My Baby Alone! | 4.00% | ~9 |
 | Research Complete | 4.00% | ~9 |
 | Room Revealer | 4.00% | ~9 |
+| Seed of Love | 4.00% | ~9 |
 | The Mendel Experiment | 4.00% | ~9 |
-| Seed of Love | 3.00% | ~7 |
 | Who's a Good Plant? | 3.00% | ~7 |
 | Budding Scientist | 2.00% | ~4 |
 | Feet in the Water | 2.00% | ~4 |

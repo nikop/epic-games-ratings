@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19285,
+  "EOS_Progressed": 19287,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18218,6 +18218,11 @@
       "Time": "2024-01-25T16:04:32.5234394+00:00",
       "NumProgressed": 19285,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-25T18:04:15.0065758+00:00",
+      "NumProgressed": 19287,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18262,7 +18267,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "14",
@@ -18374,7 +18379,7 @@
       "Name": "Call it Even",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "27",
@@ -18406,7 +18411,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "30",
@@ -18486,7 +18491,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "34",
@@ -18509,13 +18514,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19285,
+      "Progressed": 19287,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5239,
+      "Progressed": 5241,
       "Completed": 1403
     }
   ],
@@ -18523,8 +18528,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:03:46.432153+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:04:15.0065753+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:00:41.2128971+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:03:46.4322519+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:01:43.6365843+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:04:15.0066855+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -7601,10 +7601,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 30723,
       "NumberOfAwardsMax": 14949
+    },
+    {
+      "Time": "2024-01-25T18:02:41.8918268+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 30731,
+      "NumberOfAwardsMax": 14949
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30723,
+  "NumberOfAwards": 30731,
   "NumberOfAwardsMax": 14949,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7630,7 +7636,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1666
+      "Count": 1670
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7642,7 +7648,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1511
+      "Count": 1514
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7660,7 +7666,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1569
+      "Count": 1570
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7693,8 +7699,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-25T17:02:54.0441298+00:00",
+  "LastChanged": "2024-01-25T18:02:41.8918267+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:40.7738579+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:02:54.0441307+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:08:34.3608587+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:02:41.8918272+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:08:47.1921432+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "auto-chess",
   "Ranking_Rating": 601,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
@@ -5545,10 +5545,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 6542,
       "NumberOfAwardsMax": 888
+    },
+    {
+      "Time": "2024-01-25T18:01:38.6177365+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6543,
+      "NumberOfAwardsMax": 888
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6542,
+  "NumberOfAwards": 6543,
   "NumberOfAwardsMax": 888,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5574,7 +5580,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 756
+      "Count": 757
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5630,8 +5636,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2024-01-24T13:06:44.8871733+00:00",
+  "LastChanged": "2024-01-25T18:01:38.6177363+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:32.5762987+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:00:37.337282+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:04:41.1977002+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:01:38.617737+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:05:27.3973751+00:00"
 }

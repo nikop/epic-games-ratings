@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -443,11 +443,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29483,
+  "EOS_Progressed": 29486,
   "EOS_Completed": 544,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 1.85,
+  "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -30648,6 +30648,11 @@
       "Time": "2024-01-25T17:05:01.7575956+00:00",
       "NumProgressed": 29483,
       "NumCompleted": 544
+    },
+    {
+      "Time": "2024-01-25T18:05:54.6897447+00:00",
+      "NumProgressed": 29486,
+      "NumCompleted": 544
     }
   ],
   "TotalAchievements": 20,
@@ -30659,7 +30664,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -30683,7 +30688,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -30699,7 +30704,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -30779,7 +30784,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22407
+      "UsersEstimate": 22409
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30787,7 +30792,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7960
+      "UsersEstimate": 7961
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30818,15 +30823,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29483,
+      "Progressed": 29486,
       "Completed": 544
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-25T02:24:21.066454+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:05:01.7575952+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:05:54.6897442+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:58:10.2636074+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:05:01.7577558+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:58:22.4178522+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:05:54.6898989+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 100,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6,
   "EosHistory": [
@@ -382,9 +382,9 @@
       "ID": "BANK_FIRST",
       "SetID": "89ki2f0",
       "Name": "Broke into the Botanical Bank",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BANK_MOTHERLODE",
@@ -486,9 +486,9 @@
       "ID": "MONEY_1K",
       "SetID": "89ki2f0",
       "Name": "Buy yourself something nice",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "MONEY_1M",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:04:56.3689862+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:05:47.440706+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:58:17.2133588+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:04:56.3690115+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:58:31.7273447+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:05:47.4407265+00:00"
 }

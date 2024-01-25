@@ -1887,9 +1887,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 11445,
+  "EOS_Progressed": 11448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12667,6 +12667,11 @@
       "Time": "2024-01-25T12:03:59.6147577+00:00",
       "NumProgressed": 11445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T18:04:49.9080965+00:00",
+      "NumProgressed": 11448,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12687,7 +12692,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "achievement_11",
@@ -12719,7 +12724,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "achievement_15",
@@ -12775,7 +12780,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "achievement_21",
@@ -12831,7 +12836,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "achievement_9",
@@ -12839,14 +12844,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11445,
+      "Progressed": 11448,
       "Completed": 0
     }
   ],
@@ -12854,8 +12859,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-24T03:58:17.7837569+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:04:13.1184486+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:04:49.9080963+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.5430361+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:58:51.7608614+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:04:13.1185259+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:59:17.713694+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:04:49.908157+00:00"
 }

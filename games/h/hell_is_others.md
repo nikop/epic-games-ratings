@@ -1,15 +1,15 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 786)  
+Rating: 4.39 (Ranked 787)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,925 |
-| Predator I | 23.00% | ~60,041 |
+| Survivor | 31.00% | ~80,926 |
+| Predator I | 23.00% | ~60,042 |
 | Fixer I | 10.00% | ~26,105 |
 | A week in Century City | 10.00% | ~26,105 |
-| The Wait | 7.00% | ~18,273 |
+| The Wait | 7.00% | ~18,274 |
 | Green thumb I | 6.00% | ~15,663 |
 | Cleaning Company | 6.00% | ~15,663 |
 | Well-oiled machine | 5.00% | ~13,052 |
@@ -18,10 +18,10 @@ Rating: 4.39 (Ranked 786)
 | Pacifist | 4.00% | ~10,442 |
 | Vandalism | 4.00% | ~10,442 |
 | Capitalist I | 4.00% | ~10,442 |
-| Fixer II | 3.00% | ~7,831 |
-| It took a while | 3.00% | ~7,831 |
-| Adrenaline | 3.00% | ~7,831 |
-| Predator II | 3.00% | ~7,831 |
+| Fixer II | 3.00% | ~7,832 |
+| It took a while | 3.00% | ~7,832 |
+| Adrenaline | 3.00% | ~7,832 |
+| Predator II | 3.00% | ~7,832 |
 | By a hair | 2.00% | ~5,221 |
 | Samurai | 2.00% | ~5,221 |
 | I Left You a Present | 2.00% | ~5,221 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 786)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,049 (Ranked 69)  
+Progressed: 261,050 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 3 (0.00%) (Ranked 410)
 | 2024-01-22 | 260,974 | 3 |
 | 2024-01-23 | 261,002 | 3 |
 | 2024-01-24 | 261,032 | 3 |
-| 2024-01-25 | 261,049 | 3 |
+| 2024-01-25 | 261,050 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 452)  
 Sum: 390 (Ranked 366)  

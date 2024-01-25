@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9835,10 +9835,10 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255556,
-  "EOS_Completed": 2643,
-  "EOS_NewPlayers": 998,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 255576,
+  "EOS_Completed": 2644,
+  "EOS_NewPlayers": 1013,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -41655,6 +41655,11 @@
       "Time": "2024-01-25T17:10:54.1720511+00:00",
       "NumProgressed": 255556,
       "NumCompleted": 2643
+    },
+    {
+      "Time": "2024-01-25T18:11:43.9642265+00:00",
+      "NumProgressed": 255576,
+      "NumCompleted": 2644
     }
   ],
   "TotalAchievements": 546,
@@ -41666,7 +41671,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12778
+      "UsersEstimate": 12779
     },
     {
       "ID": "objective_completed_10",
@@ -42034,7 +42039,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "objective_completed_110",
@@ -43338,7 +43343,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "objective_completed_34",
@@ -44810,7 +44815,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "objective_completed_70",
@@ -45410,7 +45415,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "objective_completed_902",
@@ -46033,21 +46038,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221830,
+      "Progressed": 221850,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255556,
-      "Completed": 2643
+      "Progressed": 255576,
+      "Completed": 2644
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-25T16:59:49.7154831+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:10:54.1720505+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:11:43.9642263+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:59:49.7154837+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:10:54.1744662+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:00:34.9920948+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:11:43.9664701+00:00"
 }

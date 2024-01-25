@@ -4,8 +4,8 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
@@ -2744,6 +2744,11 @@
       "Time": "2024-01-25T12:04:16.4408856+00:00",
       "NumProgressed": 722,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-25T18:05:15.4897195+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2780,7 +2785,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "RedSkeleton",
@@ -2788,7 +2793,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "YellowSkeleton",
@@ -2803,14 +2808,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:04:32.2585318+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:05:15.4897192+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.8355081+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:59:12.2402224+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:04:32.2585557+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:59:45.4590964+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:05:15.4897443+00:00"
 }

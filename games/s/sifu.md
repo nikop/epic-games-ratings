@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,628 |
 | Project Arena | 1.00% | ~721 |
 | Fight the way you practice | 0.90% | ~649 |
-| Muk Yan Master | 0.80% | ~6,102 |
-| Detective Story | 0.80% | ~6,102 |
+| Muk Yan Master | 0.80% | ~6,103 |
+| Detective Story | 0.80% | ~6,103 |
 | Tiger on Fire | 0.70% | ~5,340 |
 | Source of Flying Daggers | 0.70% | ~5,340 |
 | Iron Money | 0.70% | ~5,340 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,811 (Ranked 26)  
+Progressed: 762,813 (Ranked 26)  
 Completed: 13,008 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 13,008 (1.71%) (Ranked 150)
 | 2024-01-22 | 762,418 | 13,004 |
 | 2024-01-23 | 762,568 | 13,006 |
 | 2024-01-24 | 762,706 | 13,008 |
-| 2024-01-25 | 762,811 | 13,008 |
+| 2024-01-25 | 762,813 | 13,008 |
 ## Awards
 Max (Great Boss Battles): 7,286  (Ranked 59)  
 Sum: 12,893 (Ranked 88)  

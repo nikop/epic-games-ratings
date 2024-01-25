@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -402,7 +402,7 @@
   ],
   "EOS_Progressed": 5495,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5738,9 +5738,9 @@
       "ID": "ID_ACHIEV_19",
       "SetID": "98bke8c",
       "Name": "Melting Down",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 495
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -6138,8 +6138,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:06:15.3706537+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:07:31.0563284+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:53.2151346+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:59:24.9784092+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:06:15.3707509+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:00:01.4130218+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:07:31.0564214+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4256,
+  "EOS_Progressed": 4257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8875,6 +8875,11 @@
       "Time": "2024-01-25T06:09:09.9786914+00:00",
       "NumProgressed": 4256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T18:09:13.5838824+00:00",
+      "NumProgressed": 4257,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8950,7 +8955,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH_BASE_19",
@@ -8966,7 +8971,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH_BASE_21",
@@ -8998,7 +9003,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACH_BASE_25",
@@ -9014,7 +9019,7 @@
       "Name": "Sightseeing",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_BASE_27",
@@ -9110,7 +9115,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_BASE_38",
@@ -9318,7 +9323,7 @@
       "Name": "From the Past",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_BASE_8",
@@ -9341,13 +9346,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2440,
+      "Progressed": 2441,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4256,
+      "Progressed": 4257,
       "Completed": 0
     }
   ],
@@ -9355,8 +9360,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-23T08:00:18.6037817+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:08:54.7574975+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:09:13.583882+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:58:02.5864049+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:08:54.7575981+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:58:11.4772192+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:09:13.5839533+00:00"
 }

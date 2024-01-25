@@ -9255,9 +9255,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762811,
+  "EOS_Progressed": 762813,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35325,6 +35325,11 @@
       "Time": "2024-01-25T17:10:19.0016289+00:00",
       "NumProgressed": 762811,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-25T18:11:01.6433575+00:00",
+      "NumProgressed": 762813,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35384,7 +35389,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "08_Wude_H2",
@@ -35448,7 +35453,7 @@
       "Name": "Detective Story",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "16_Detective_H2",
@@ -35815,21 +35820,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72112,
+      "Progressed": 72114,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762811,
+      "Progressed": 762813,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-25T13:10:10.2468767+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:10:19.0016283+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:11:01.6433572+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:03:25.4997676+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:10:19.0018336+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:03:45.292745+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:11:01.6435367+00:00"
 }

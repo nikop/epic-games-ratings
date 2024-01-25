@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 224.00% | ~2,014 |
 | Super Spelunker | 169.00% | ~1,519 |
 | Iron Chef | 158.00% | ~1,420 |
-| The Little Wood that Could | 138.00% | ~1,241 |
+| The Little Wood that Could | 139.00% | ~1,250 |
 | Officially Official | 133.00% | ~1,196 |
 | On that Grindset | 126.00% | ~1,133 |
 | Greeno-B-Gone | 124.00% | ~1,115 |

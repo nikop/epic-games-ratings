@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,7 +733,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12531,
+  "EOS_Progressed": 12532,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 5,
@@ -16478,6 +16478,11 @@
       "Time": "2024-01-25T16:06:12.3961951+00:00",
       "NumProgressed": 12531,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-25T18:05:57.3498342+00:00",
+      "NumProgressed": 12532,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16489,7 +16494,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10401
+      "UsersEstimate": 10402
     },
     {
       "ID": "ACH02",
@@ -16625,7 +16630,7 @@
       "Name": "Not So Fast",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH19",
@@ -16633,7 +16638,7 @@
       "Name": "A Gift from the King",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH20",
@@ -16681,7 +16686,7 @@
       "Name": "Right-hand Man",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH26",
@@ -16720,7 +16725,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12531,
+      "Progressed": 12532,
       "Completed": 97
     }
   ],
@@ -16728,8 +16733,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-25T17:05:03.8104844+00:00",
+  "LastChanged_Achievements": "2024-01-25T18:05:57.3498337+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:59:05.861195+00:00",
-  "LastUpdate_Achievements": "2024-01-25T17:05:03.8105958+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:59:37.0518197+00:00",
+  "LastUpdate_Achievements": "2024-01-25T18:05:57.3499251+00:00"
 }
