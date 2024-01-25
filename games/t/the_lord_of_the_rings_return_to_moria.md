@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,813 |
-| Delving Onward | 69.00% | ~268,269 |
-| Miner's Helper | 59.00% | ~229,390 |
-| Suit Up | 54.00% | ~209,950 |
-| To the Mountain's Roots | 50.00% | ~194,398 |
-| Remains To Be Seen | 35.00% | ~136,079 |
-| Covered Head to Toe | 33.00% | ~128,303 |
-| Line of Azog, Ended | 32.00% | ~124,415 |
-| Risk a Little Real Light | 31.00% | ~120,527 |
-| Caradhras The Cruel | 19.00% | ~73,871 |
-| A Memory of this Place | 19.00% | ~73,871 |
-| Battering Ram | 14.00% | ~54,431 |
-| False King, Deposed | 14.00% | ~54,431 |
-| Baruk Khazâd! | 13.00% | ~50,543 |
+| Speak Friend | 82.00% | ~318,820 |
+| Delving Onward | 69.00% | ~268,275 |
+| Miner's Helper | 59.00% | ~229,395 |
+| Suit Up | 54.00% | ~209,955 |
+| To the Mountain's Roots | 50.00% | ~194,402 |
+| Remains To Be Seen | 35.00% | ~136,082 |
+| Covered Head to Toe | 33.00% | ~128,306 |
+| Line of Azog, Ended | 32.00% | ~124,418 |
+| Risk a Little Real Light | 31.00% | ~120,530 |
+| Caradhras The Cruel | 19.00% | ~73,873 |
+| A Memory of this Place | 19.00% | ~73,873 |
+| Battering Ram | 14.00% | ~54,433 |
+| False King, Deposed | 14.00% | ~54,433 |
+| Baruk Khazâd! | 13.00% | ~50,545 |
 | Shadow's Bane | 10.00% | ~38,880 |
 | Westgate Weaponcraft | 9.00% | ~34,992 |
 | Deeps Weaponcraft | 8.00% | ~31,104 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 734)
 | Shielded | 1.00% | ~3,888 |
 | We're Gonna Need More Mugs | 0.20% | ~778 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,796 (Ranked 55)  
+Progressed: 388,805 (Ranked 55)  
 Completed: 402 (0.10%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 402 (0.10%) (Ranked 322)
 | 2024-01-22 | 388,142 | 391 |
 | 2024-01-23 | 388,385 | 397 |
 | 2024-01-24 | 388,697 | 400 |
-| 2024-01-25 | 388,796 | 402 |
+| 2024-01-25 | 388,805 | 402 |
 ## Awards
 Max (Great for Beginners): 1,012  (Ranked 163)  
 Sum: 5,775 (Ranked 142)  

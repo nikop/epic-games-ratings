@@ -2,10 +2,10 @@
   "ID": "3ce6af86146c4e46b97aff18292fb25b",
   "Name": "field peas~Sayaendou~",
   "ProductSlug": "test-dd068f",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-07-14T01:00:00+00:00",
     "PcReleaseDate": "2023-07-14T01:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.4306202+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:59:57.3664356+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:09:22.3299101+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:23.6388798+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:16:18.9799335+00:00"
 }

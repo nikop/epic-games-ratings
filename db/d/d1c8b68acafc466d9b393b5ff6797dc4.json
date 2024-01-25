@@ -2,10 +2,10 @@
   "ID": "d1c8b68acafc466d9b393b5ff6797dc4",
   "Name": "Metro Simulator",
   "ProductSlug": "metro-simulator-494510",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-06-14T03:00:00+00:00",
     "PcReleaseDate": "2021-12-07T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-26T07:57:12.2942264+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.745617+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:31.6612677+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:09:11.9173161+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:05:44.838288+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:16:07.2264051+00:00"
 }

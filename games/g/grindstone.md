@@ -31,8 +31,8 @@ Number of Ratings: 63  (23.09.2022)
 | Trying To Get Into That 1%, Huh? | 18.00% | ~945 |
 | Can't Touch This | 18.00% | ~945 |
 | That Was Quick | 17.00% | ~893 |
+| Goldrush Glory Days | 16.00% | ~840 |
 | Yummy! | 16.00% | ~840 |
-| Goldrush Glory Days | 15.00% | ~788 |
 | Best Party Guest | 15.00% | ~788 |
 | Shrub it Off | 15.00% | ~788 |
 | Collected 50 mushrooms | 14.00% | ~735 |

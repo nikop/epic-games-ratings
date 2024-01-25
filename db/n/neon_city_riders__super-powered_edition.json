@@ -2,10 +2,10 @@
   "ID": "48175747d7244b11838935da9193668d",
   "Name": "Neon City Riders: Super-powered Edition",
   "ProductSlug": "neon-city-riders",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-08-03T16:20:00+00:00",
     "PcReleaseDate": "2020-03-11T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.4419417+00:00",
   "LastChanged": "2023-03-31T05:58:31.4419418+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.4777415+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:57:40.5182058+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:09:25.9630613+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:04:46.4775717+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:16:22.9727186+00:00"
 }

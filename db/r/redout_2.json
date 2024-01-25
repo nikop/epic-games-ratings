@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1406,6 +1406,11 @@
       "Time": "2024-01-25T01:56:29.4439572+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T13:12:33.632394+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1577,7 +1582,7 @@
       "Name": "This is to go, even Further Beyond!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CAREERCLASSS",
@@ -1609,7 +1614,7 @@
       "Name": "Gitting Gud",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CAREERTRIALSS",
@@ -1617,7 +1622,7 @@
       "Name": "[Sweats profusely]",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CHAMPION",
@@ -1625,7 +1630,7 @@
       "Name": "Redout Champion",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "COMPLETE10FRIENDS",
@@ -1753,7 +1758,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1825,14 +1830,14 @@
       "Name": "Great Start",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 0
     }
   ],
@@ -1840,8 +1845,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-01-13T16:03:26.8950598+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:05:28.8179351+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:12:33.6323937+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:43.1636719+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:03:22.2413792+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:05:28.8179758+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:10:13.6905603+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:12:33.6324417+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4049,
+  "EOS_Progressed": 4051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5001,6 +5001,11 @@
       "Time": "2024-01-25T11:04:41.4734236+00:00",
       "NumProgressed": 4049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T13:10:59.317754+00:00",
+      "NumProgressed": 4051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -5012,7 +5017,7 @@
       "Name": "The Nameless One",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_B_DP",
@@ -5020,7 +5025,7 @@
       "Name": "Comedy and Tragedy",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_B_FS",
@@ -5036,7 +5041,7 @@
       "Name": "Pillars of Eternity",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_B_KK",
@@ -5084,7 +5089,7 @@
       "Name": "Rule of Thirds",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_K_A1",
@@ -5108,7 +5113,7 @@
       "Name": "Missilis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_MC",
@@ -5156,7 +5161,7 @@
       "Name": "War Chest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_M_D3",
@@ -5164,7 +5169,7 @@
       "Name": "Chthonic Investor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_M_D4",
@@ -5188,7 +5193,7 @@
       "Name": "Pyr Demon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_M_I",
@@ -5204,7 +5209,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_M_SC",
@@ -5220,7 +5225,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_OB_BB",
@@ -5236,7 +5241,7 @@
       "Name": "First Fragment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_OB_CA",
@@ -5252,7 +5257,7 @@
       "Name": "Don\u0027t Pay the Ferryman",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_OB_CR",
@@ -5268,7 +5273,7 @@
       "Name": "Sisters of the Pantheon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_OB_DS",
@@ -5276,7 +5281,7 @@
       "Name": "Labour of Apollo",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_OB_FB",
@@ -5284,7 +5289,7 @@
       "Name": "Siege Unit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_OB_FC",
@@ -5300,7 +5305,7 @@
       "Name": "Biotechnology",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_OB_HC",
@@ -5316,7 +5321,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_OB_LS",
@@ -5324,7 +5329,7 @@
       "Name": "Divine Assemblage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_OB_PR",
@@ -5348,7 +5353,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_OB_SD",
@@ -5364,7 +5369,7 @@
       "Name": "The Archimedes Principle",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_OB_TP",
@@ -5372,7 +5377,7 @@
       "Name": "Rites at Sea",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_OL",
@@ -5380,7 +5385,7 @@
       "Name": "Ophiolatreia",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_OT",
@@ -5420,7 +5425,7 @@
       "Name": "Close Shut the Doors",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_TF",
@@ -5444,7 +5449,7 @@
       "Name": "Halls of Marble",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "KA",
@@ -5492,7 +5497,7 @@
       "Name": "Scrap Metal",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "KKA",
@@ -5508,14 +5513,14 @@
       "Name": "Serpentine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 4049,
+      "Progressed": 4051,
       "Completed": 0
     }
   ],
@@ -5523,8 +5528,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:04:03.6087181+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:10:59.3177535+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.0348001+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:44.5429624+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:03.6087841+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:05:59.7307553+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:10:59.3178189+00:00"
 }

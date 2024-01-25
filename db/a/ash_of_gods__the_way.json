@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "story10",
@@ -851,8 +851,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:10:08.1527599+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:17:09.7440046+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.9473311+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:57:58.2709785+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:10:08.1527886+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:05:06.5391343+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:17:09.7440833+00:00"
 }

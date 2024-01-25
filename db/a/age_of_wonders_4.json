@@ -6,9 +6,9 @@
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7297,
+  "EOS_Progressed": 7298,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11504,6 +11504,11 @@
       "Time": "2024-01-25T10:04:24.2074789+00:00",
       "NumProgressed": 7297,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-25T13:11:16.4943633+00:00",
+      "NumProgressed": 7298,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11643,7 +11648,7 @@
       "Name": "Secret Technique",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "25",
@@ -11994,13 +11999,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7297,
+      "Progressed": 7298,
       "Completed": 4770
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7297,
+      "Progressed": 7298,
       "Completed": 8
     }
   ],
@@ -12008,8 +12013,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-24T20:57:34.42247+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:04:18.9952032+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:11:16.4943629+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:57:37.8327318+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:18.9952864+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:04:43.2982178+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:16.4944515+00:00"
 }

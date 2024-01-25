@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -6553,9 +6553,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1606
     },
     {
       "ID": "AC05",
@@ -6745,9 +6745,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1106
     },
     {
       "ID": "AC29",
@@ -6785,9 +6785,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1343
     },
     {
       "ID": "AC34",
@@ -6898,8 +6898,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:04:36.8850029+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:11:36.3193845+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:20.0636425+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:59:44.2853118+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:36.8850568+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:07.5317838+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:36.3194565+00:00"
 }

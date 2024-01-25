@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -459,10 +459,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 249,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-01-25T13:06:17.9283133+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 250,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 249,
+  "NumberOfAwards": 250,
   "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -482,7 +488,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Highly Recommended",
@@ -491,9 +497,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12206,
+  "EOS_Progressed": 12209,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6126,6 +6132,11 @@
       "Time": "2024-01-25T12:10:27.747837+00:00",
       "NumProgressed": 12206,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T13:17:32.3563888+00:00",
+      "NumProgressed": 12209,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6138,7 +6149,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "03_TheStolenStar",
@@ -6146,7 +6157,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6250,7 +6261,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "17_TheExemplar",
@@ -6258,7 +6269,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6266,7 +6277,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6314,7 +6325,7 @@
       "Name": "Highrise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "25_DynastyProspers",
@@ -6490,7 +6501,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "47_AFlame",
@@ -6522,7 +6533,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6657,16 +6668,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12206,
+      "Progressed": 12209,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-25T09:59:16.2080401+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:10:27.7478367+00:00",
+  "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:17:32.3563882+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:59:00.5076772+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:10:27.7478964+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:06:17.9283138+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:17:32.3564707+00:00"
 }

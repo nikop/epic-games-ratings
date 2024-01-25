@@ -2,10 +2,10 @@
   "ID": "adenium",
   "Name": "Afterparty",
   "ProductSlug": "afterparty",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2019-10-29T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.7219801+00:00",
   "LastChanged": "2023-03-31T05:57:08.7219802+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.5226623+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:57:48.3328545+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:05:39.3327176+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:04:55.3978181+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:12:45.339661+00:00"
 }

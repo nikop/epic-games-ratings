@@ -10,12 +10,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 5.00% | ~38,139 |
 | Life is your teacher | 5.00% | ~38,139 |
 | Lightning Hands | 5.00% | ~38,139 |
-| The Hateful Pole Fighter | 3.00% | ~22,883 |
-| Stuntmaster | 3.00% | ~22,883 |
-| Street Fighting | 3.00% | ~22,883 |
-| State of constant learning | 3.00% | ~22,883 |
-| Qi Gong: Essence | 3.00% | ~22,883 |
-| Old Child | 3.00% | ~22,883 |
+| The Hateful Pole Fighter | 3.00% | ~22,884 |
+| Stuntmaster | 3.00% | ~22,884 |
+| Street Fighting | 3.00% | ~22,884 |
+| State of constant learning | 3.00% | ~22,884 |
+| Qi Gong: Essence | 3.00% | ~22,884 |
+| Old Child | 3.00% | ~22,884 |
 | A Lady's Blood in the Snow | 2.00% | ~15,256 |
 | Lady Wing Chun | 2.00% | ~15,256 |
 | Furious Fists | 2.00% | ~15,256 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,777 (Ranked 26)  
+Progressed: 762,785 (Ranked 26)  
 Completed: 13,008 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,16 +347,16 @@ Completed: 13,008 (1.71%) (Ranked 150)
 | 2024-01-22 | 762,418 | 13,004 |
 | 2024-01-23 | 762,568 | 13,006 |
 | 2024-01-24 | 762,706 | 13,008 |
-| 2024-01-25 | 762,777 | 13,008 |
+| 2024-01-25 | 762,785 | 13,008 |
 ## Awards
-Max (Great Boss Battles): 7,276  (Ranked 59)  
-Sum: 12,882 (Ranked 88)  
+Max (Great Boss Battles): 7,286  (Ranked 59)  
+Sum: 12,893 (Ranked 88)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,276 |
+| This game has Great Boss Battles | 7,286 |
 | This game has Diverse Characters | 716 |
-| This game has Challenging Combat | 653 |
+| This game has Challenging Combat | 654 |
 | This game has Amazing Storytelling | 629 |
 | This game has Amazing Characters | 624 |
 | This game is Highly Recommended | 617 |
@@ -741,4 +741,4 @@ Diff (max vs sum): -29
 | 2024-01-22 | 4.82 | - | 7,261 | 12,853 |
 | 2024-01-23 | 4.82 | - | 7,269 | 12,868 |
 | 2024-01-24 | 4.82 | - | 7,276 | 12,879 |
-| 2024-01-25 | 4.82 | - | 7,276 | 12,882 |
+| 2024-01-25 | 4.82 | - | 7,286 | 12,893 |

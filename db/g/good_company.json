@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5869,
+  "EOS_Progressed": 5870,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5549,6 +5549,11 @@
       "Time": "2024-01-24T19:04:51.7899087+00:00",
       "NumProgressed": 5869,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T13:12:24.4137884+00:00",
+      "NumProgressed": 5870,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5992,7 +5997,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -6152,7 +6157,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ach_trait_overload",
@@ -6167,15 +6172,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5869,
+      "Progressed": 5870,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:05:20.3698399+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:12:24.413788+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.6376044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:00:04.7212429+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:05:20.3699233+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:32.0467825+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:12:24.4138828+00:00"
 }

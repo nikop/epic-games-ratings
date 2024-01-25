@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,330 |
-| Titan's First Steps | 12.00% | ~18,330 |
-| Basic in Bulk | 11.00% | ~16,803 |
-| Tinkle of Coins | 10.00% | ~15,275 |
-| Disintermediation | 8.00% | ~12,220 |
-| It's Free Real Estate | 8.00% | ~12,220 |
-| Capitalism Ho! | 8.00% | ~12,220 |
+| Sponsored by Argon | 12.00% | ~18,331 |
+| Titan's First Steps | 12.00% | ~18,331 |
+| Basic in Bulk | 11.00% | ~16,804 |
+| Tinkle of Coins | 10.00% | ~15,276 |
+| Disintermediation | 8.00% | ~12,221 |
+| It's Free Real Estate | 8.00% | ~12,221 |
+| Capitalism Ho! | 8.00% | ~12,221 |
 | Budding Merchant | 7.00% | ~10,693 |
-| One Easy Payment | 6.00% | ~9,165 |
-| Some Assembly Required | 6.00% | ~9,165 |
-| Another Satisfied Customer | 6.00% | ~9,165 |
-| Pretty Penny | 6.00% | ~9,165 |
-| Own the Means of Production | 6.00% | ~9,165 |
+| One Easy Payment | 6.00% | ~9,166 |
+| Some Assembly Required | 6.00% | ~9,166 |
+| Another Satisfied Customer | 6.00% | ~9,166 |
+| Pretty Penny | 6.00% | ~9,166 |
+| Own the Means of Production | 6.00% | ~9,166 |
 | The Daily Grind | 5.00% | ~7,638 |
 | Bounty Hunters | 5.00% | ~7,638 |
 | Where it Hurts | 5.00% | ~7,638 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~611 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,753 (Ranked 87)  
+Progressed: 152,760 (Ranked 87)  
 Completed: 364 (0.24%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,10 +399,10 @@ Completed: 364 (0.24%) (Ranked 281)
 | 2024-01-22 | 152,516 | 360 |
 | 2024-01-23 | 152,616 | 362 |
 | 2024-01-24 | 152,717 | 363 |
-| 2024-01-25 | 152,753 | 364 |
+| 2024-01-25 | 152,760 | 364 |
 ## Awards
 Max (Great for Beginners): 4,980  (Ranked 84)  
-Sum: 28,055 (Ranked 52)  
+Sum: 28,057 (Ranked 52)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -411,7 +411,7 @@ Diff (max vs sum): 32
 | This game has Quickly Understood Controls | 4,080 |
 | This game has Diverse Characters | 4,047 |
 | This game is Highly Recommended | 3,828 |
-| This game has Easy Combat | 3,782 |
+| This game has Easy Combat | 3,784 |
 | This game has Playful Visuals | 3,252 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -776,4 +776,4 @@ Diff (max vs sum): 32
 | 2024-01-22 | 4.00 | - | 4,973 | 28,039 |
 | 2024-01-23 | 4.00 | - | 4,975 | 28,045 |
 | 2024-01-24 | 4.00 | - | 4,980 | 28,053 |
-| 2024-01-25 | 4.00 | - | 4,980 | 28,055 |
+| 2024-01-25 | 4.00 | - | 4,980 | 28,057 |

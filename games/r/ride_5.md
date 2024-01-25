@@ -5,23 +5,23 @@ Rating: 4.62 (Ranked 386)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,857 |
-| First Love | 46.00% | ~1,708 |
-| Clean Race | 45.00% | ~1,671 |
-| Hear That Roar! | 43.00% | ~1,597 |
-| Bitter Rivalry | 31.00% | ~1,151 |
-| Rivals to the End | 31.00% | ~1,151 |
-| Champagne Spray | 30.00% | ~1,114 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,040 |
-| Quick Pit Stop | 23.00% | ~854 |
-| Restored and Ready | 21.00% | ~780 |
-| I Want One Too! | 21.00% | ~780 |
-| Legendary!!! | 21.00% | ~780 |
+| Eat My Dust | 50.00% | ~1,858 |
+| First Love | 46.00% | ~1,710 |
+| Clean Race | 45.00% | ~1,673 |
+| Hear That Roar! | 43.00% | ~1,598 |
+| Bitter Rivalry | 31.00% | ~1,152 |
+| Rivals to the End | 31.00% | ~1,152 |
+| Champagne Spray | 30.00% | ~1,115 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,041 |
+| Quick Pit Stop | 23.00% | ~855 |
+| Restored and Ready | 21.00% | ~781 |
+| I Want One Too! | 21.00% | ~781 |
+| Legendary!!! | 21.00% | ~781 |
 | Go-Faster Stripes | 18.00% | ~669 |
-| I'm Here Too! | 15.00% | ~557 |
-| We've Just Begun | 15.00% | ~557 |
-| Is It the Right Size? | 10.00% | ~371 |
-| Stamina Star | 9.00% | ~334 |
+| I'm Here Too! | 15.00% | ~558 |
+| We've Just Begun | 15.00% | ~558 |
+| Is It the Right Size? | 10.00% | ~372 |
+| Stamina Star | 9.00% | ~335 |
 | Evangelist | 7.00% | ~260 |
 | Make It Your Own! | 5.00% | ~186 |
 | Cherry Blossom and Temples | 5.00% | ~186 |
@@ -29,10 +29,10 @@ Rating: 4.62 (Ranked 386)
 | Romantic Races | 4.00% | ~149 |
 | I Make the Rules! | 4.00% | ~149 |
 | My Work Here Is Done | 4.00% | ~149 |
-| Spoilt for Choice | 3.00% | ~111 |
-| La Dolce Vita | 3.00% | ~111 |
-| Rounding Off | 3.00% | ~111 |
-| Overtaking the Master | 3.00% | ~111 |
+| Spoilt for Choice | 3.00% | ~112 |
+| La Dolce Vita | 3.00% | ~112 |
+| Rounding Off | 3.00% | ~112 |
+| Overtaking the Master | 3.00% | ~112 |
 | Iconic! | 2.00% | ~74 |
 | I'll Be the Best! | 2.00% | ~74 |
 | Back in Blighty | 2.00% | ~74 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 386)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,714 (Ranked 227)  
+Progressed: 3,717 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 3,676 | 0 |
 | 2024-01-23 | 3,691 | 0 |
 | 2024-01-24 | 3,706 | 0 |
-| 2024-01-25 | 3,714 | 0 |
+| 2024-01-25 | 3,717 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2024-01-25T12:08:38.7411971+00:00",
       "NumProgressed": 135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T13:15:30.1778611+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -651,7 +656,7 @@
       "Name": "Loser",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Lupus",
@@ -659,7 +664,7 @@
       "Name": "Lupus Nephritis",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LupusNephretis",
@@ -667,15 +672,15 @@
       "Name": "It\u0027s Never Lupus",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MedStudent",
       "SetID": "aaidab7",
       "Name": "Medical Student",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 88
     },
     {
       "ID": "MuscularCollapse",
@@ -707,7 +712,7 @@
       "Name": "Prescription Frenzy",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Reaper",
@@ -723,15 +728,15 @@
       "Name": "Renal Collapse",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "RespiratoryCollapse",
       "SetID": "aaidab7",
       "Name": "Respiratory Collapse",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "RichieRich",
@@ -745,9 +750,9 @@
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "SkeletalCollapse",
@@ -763,7 +768,7 @@
       "Name": "Stabilized",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Thrifty",
@@ -771,7 +776,7 @@
       "Name": "Thrifty",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "WalkInThePark",
@@ -779,21 +784,21 @@
       "Name": "Walk In The Park",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:08:38.7411968+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:15:30.1778607+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:53.883723+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:08:38.74122+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:06:10.4594001+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:15:30.1778855+00:00"
 }

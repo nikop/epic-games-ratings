@@ -4,12 +4,12 @@
 Rating: 3.84 (Ranked 1,093)  
 ## Awards
 Max (Relaxing): 115  (Ranked 368)  
-Sum: 330 (Ranked 378)  
+Sum: 331 (Ranked 378)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 115 |
-| This game has Quickly Understood Controls | 111 |
+| This game has Quickly Understood Controls | 112 |
 | This game is Great for Beginners | 104 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -214,3 +214,4 @@ Diff (max vs sum): -10
 | 2024-01-21 | 3.84 | 114 | 327 |
 | 2024-01-22 | 3.84 | 114 | 328 |
 | 2024-01-23 | 3.84 | 115 | 330 |
+| 2024-01-25 | 3.84 | 115 | 331 |

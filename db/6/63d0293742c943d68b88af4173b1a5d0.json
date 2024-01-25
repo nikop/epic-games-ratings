@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3059,6 +3059,11 @@
       "Time": "2024-01-25T07:05:48.5217411+00:00",
       "NumProgressed": 965,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T13:12:14.4830808+00:00",
+      "NumProgressed": 968,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3111,7 +3116,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "9",
@@ -3127,15 +3132,15 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 687
     },
     {
       "ID": "REMAKE_004",
@@ -3143,7 +3148,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 569
+      "UsersEstimate": 571
     },
     {
       "ID": "Remake_005",
@@ -3183,7 +3188,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Remake_010",
@@ -3287,21 +3292,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 968,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:05:11.1067369+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:12:14.4830805+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:59:15.8330338+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:05:11.106766+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:06:35.0495303+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:12:14.4831085+00:00"
 }

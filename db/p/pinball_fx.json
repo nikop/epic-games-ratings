@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2329,9 +2329,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 298322,
+  "EOS_Progressed": 298328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2014,
+  "EOS_NewPlayers": 2004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34509,6 +34509,11 @@
       "Time": "2024-01-25T12:05:53.0519313+00:00",
       "NumProgressed": 298322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T13:13:00.9158692+00:00",
+      "NumProgressed": 298328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -34680,7 +34685,7 @@
       "Name": "I Found it!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5967
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -34831,21 +34836,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 298322,
+      "Progressed": 298328,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 16481,
+      "Progressed": 16487,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-25T12:03:35.3730743+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:05:53.051931+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:13:00.9158688+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.8694902+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:03:35.373075+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:05:53.0520846+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:10:25.7656579+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:13:00.9160371+00:00"
 }

@@ -1559,7 +1559,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430600,
+  "EOS_Progressed": 430601,
   "EOS_Completed": 558,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 2,
@@ -20149,6 +20149,11 @@
       "Time": "2024-01-25T12:08:47.0872858+00:00",
       "NumProgressed": 430600,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2024-01-25T13:15:39.679004+00:00",
+      "NumProgressed": 430601,
+      "NumCompleted": 558
     }
   ],
   "TotalAchievements": 41,
@@ -20176,7 +20181,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258360
+      "UsersEstimate": 258361
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -20240,7 +20245,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258360
+      "UsersEstimate": 258361
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -20328,7 +20333,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 409070
+      "UsersEstimate": 409071
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -20344,7 +20349,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 310032
+      "UsersEstimate": 310033
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -20360,7 +20365,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 301420
+      "UsersEstimate": 301421
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -20376,7 +20381,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 344480
+      "UsersEstimate": 344481
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -20440,7 +20445,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 241136
+      "UsersEstimate": 241137
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -20487,15 +20492,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430600,
+      "Progressed": 430601,
       "Completed": 558
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-21T22:57:16.168016+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:08:47.0872852+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:15:39.6790035+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:27.3802595+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:52.3253602+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:08:47.0874132+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:06:08.6118085+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:15:39.6790981+00:00"
 }

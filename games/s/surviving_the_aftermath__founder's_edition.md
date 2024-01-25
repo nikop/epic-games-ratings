@@ -6,53 +6,53 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 85.00% | ~434,196 |
-| Leader | 49.00% | ~250,301 |
-| Healer | 39.00% | ~199,219 |
-| Explorer | 37.00% | ~189,003 |
-| Aspiring Inventor | 29.00% | ~148,138 |
-| Adventurer | 28.00% | ~143,029 |
-| Famous Healer | 25.00% | ~127,705 |
-| Local Leader | 22.00% | ~112,380 |
-| Famous Explorer | 21.00% | ~107,272 |
-| New Opportunities | 21.00% | ~107,272 |
-| Energized | 21.00% | ~107,272 |
-| Survivor | 21.00% | ~107,272 |
-| The Great Healer | 20.00% | ~102,164 |
-| Catastrofan | 19.00% | ~97,056 |
-| The Long Haul | 19.00% | ~97,056 |
-| Legendary Explorer | 17.00% | ~86,839 |
-| Cleaner | 17.00% | ~86,839 |
-| Finders, Keepers | 16.00% | ~81,731 |
-| Top Notch | 15.00% | ~76,623 |
-| Great Leader | 14.00% | ~71,515 |
-| Ice Lakes | 14.00% | ~71,515 |
-| Mentor | 14.00% | ~71,515 |
-| Real Survivor | 14.00% | ~71,515 |
-| Merchant | 12.00% | ~61,298 |
-| Rocket Surgeon | 12.00% | ~61,298 |
-| Around the World | 11.00% | ~56,190 |
-| Spreading Influence | 11.00% | ~56,190 |
-| Big Game Hunter | 10.00% | ~51,082 |
-| War Never Changes | 10.00% | ~51,082 |
-| Sky Burial | 10.00% | ~51,082 |
-| Friendly | 9.00% | ~45,974 |
-| Famous Adventurer | 9.00% | ~45,974 |
-| Bookworm | 9.00% | ~45,974 |
-| Prepared for Anything | 8.00% | ~40,866 |
-| Big Catastrofan | 8.00% | ~40,866 |
-| It's a Finnish Thing | 6.00% | ~30,649 |
-| Bread and Circuses | 6.00% | ~30,649 |
-| Trader | 5.00% | ~25,541 |
-| New Eden | 4.00% | ~20,433 |
-| Amped Up | 4.00% | ~20,433 |
+| First Step | 85.00% | ~434,217 |
+| Leader | 49.00% | ~250,314 |
+| Healer | 39.00% | ~199,229 |
+| Explorer | 37.00% | ~189,012 |
+| Aspiring Inventor | 29.00% | ~148,145 |
+| Adventurer | 28.00% | ~143,036 |
+| Famous Healer | 25.00% | ~127,711 |
+| Local Leader | 22.00% | ~112,386 |
+| Famous Explorer | 21.00% | ~107,277 |
+| New Opportunities | 21.00% | ~107,277 |
+| Energized | 21.00% | ~107,277 |
+| Survivor | 21.00% | ~107,277 |
+| The Great Healer | 20.00% | ~102,169 |
+| Catastrofan | 19.00% | ~97,060 |
+| The Long Haul | 19.00% | ~97,060 |
+| Legendary Explorer | 17.00% | ~86,843 |
+| Cleaner | 17.00% | ~86,843 |
+| Finders, Keepers | 16.00% | ~81,735 |
+| Top Notch | 15.00% | ~76,627 |
+| Great Leader | 14.00% | ~71,518 |
+| Ice Lakes | 14.00% | ~71,518 |
+| Mentor | 14.00% | ~71,518 |
+| Real Survivor | 14.00% | ~71,518 |
+| Merchant | 12.00% | ~61,301 |
+| Rocket Surgeon | 12.00% | ~61,301 |
+| Around the World | 11.00% | ~56,193 |
+| Spreading Influence | 11.00% | ~56,193 |
+| Big Game Hunter | 10.00% | ~51,084 |
+| War Never Changes | 10.00% | ~51,084 |
+| Sky Burial | 10.00% | ~51,084 |
+| Friendly | 9.00% | ~45,976 |
+| Famous Adventurer | 9.00% | ~45,976 |
+| Bookworm | 9.00% | ~45,976 |
+| Prepared for Anything | 8.00% | ~40,868 |
+| Big Catastrofan | 8.00% | ~40,868 |
+| It's a Finnish Thing | 6.00% | ~30,651 |
+| Bread and Circuses | 6.00% | ~30,651 |
+| Trader | 5.00% | ~25,542 |
+| New Eden | 4.00% | ~20,434 |
+| Amped Up | 4.00% | ~20,434 |
 | Really Friendly | 3.00% | ~15,325 |
 | Luxurious Living | 3.00% | ~15,325 |
 | Look, no Hands! | 3.00% | ~15,325 |
-| Ranch Hand | 2.00% | ~10,216 |
-| Doomsday is canceled | 2.00% | ~10,216 |
-| Tailored to fit | 2.00% | ~10,216 |
-| Biggest Catastrofan | 2.00% | ~10,216 |
+| Ranch Hand | 2.00% | ~10,217 |
+| Doomsday is canceled | 2.00% | ~10,217 |
+| Tailored to fit | 2.00% | ~10,217 |
+| Biggest Catastrofan | 2.00% | ~10,217 |
 | Mogul | 1.00% | ~5,108 |
 | A Closer Look | 1.00% | ~5,108 |
 | True Survivor | 1.00% | ~5,108 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.10% | ~511 |
 | Customized calamities | 0.10% | ~511 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 510,819 (Ranked 41)  
+Progressed: 510,844 (Ranked 41)  
 Completed: 64 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,10 +346,10 @@ Completed: 64 (0.01%) (Ranked 384)
 | 2024-01-22 | 509,386 | 63 |
 | 2024-01-23 | 510,000 | 64 |
 | 2024-01-24 | 510,583 | 64 |
-| 2024-01-25 | 510,819 | 64 |
+| 2024-01-25 | 510,844 | 64 |
 ## Awards
 Max (Great for Beginners): 282  (Ranked 273)  
-Sum: 1,700 (Ranked 234)  
+Sum: 1,701 (Ranked 234)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -360,7 +360,7 @@ Diff (max vs sum): 39
 | This game is Relaxing | 214 |
 | This game is Highly Recommended | 204 |
 | This game has Amazing Characters | 191 |
-| This game has a Creative Community | 121 |
+| This game has a Creative Community | 122 |
 | This game has Diverse Characters | 83 |
 | This game has Obsessive Gameplay | 58 |
 ## Ratings History
@@ -576,4 +576,4 @@ Diff (max vs sum): 39
 | 2024-01-22 | 4.39 | - | 280 | 1,692 |
 | 2024-01-23 | 4.39 | - | 280 | 1,695 |
 | 2024-01-24 | 4.39 | - | 280 | 1,698 |
-| 2024-01-25 | 4.39 | - | 282 | 1,700 |
+| 2024-01-25 | 4.39 | - | 282 | 1,701 |

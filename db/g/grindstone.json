@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -1291,9 +1291,9 @@
       "ID": "ACHIEVE_50_GOLD",
       "SetID": "b8l3p0g",
       "Name": "Goldrush Glory Days",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 788
+      "UsersEstimate": 840
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -1643,8 +1643,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:08:28.96059+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:13:49.6947699+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:27.1921833+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:57:38.8185774+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:08:28.9606416+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:04:44.4323794+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:13:49.6948395+00:00"
 }

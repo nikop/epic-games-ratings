@@ -2,10 +2,10 @@
   "ID": "02ecdb76193847068c30293dcad33190",
   "Name": "Life After End",
   "ProductSlug": "lae-1c780e",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-22T09:57:01.4953973+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:02:56.4817962+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:45.1495133+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:09:44.102282+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:45.473903+00:00"
 }

@@ -1969,9 +1969,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169617,
+  "EOS_Progressed": 169622,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24434,6 +24434,11 @@
       "Time": "2024-01-25T12:08:38.5890419+00:00",
       "NumProgressed": 169617,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2024-01-25T13:15:30.1339746+00:00",
+      "NumProgressed": 169622,
+      "NumCompleted": 470
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24788,9 +24793,9 @@
       "ID": "MISC_FINISHNG",
       "SetID": "72k7oh",
       "Name": "Touch of Otherwhere",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 169
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -24813,21 +24818,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169200,
+      "Progressed": 169205,
       "Completed": 1270
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169617,
+      "Progressed": 169622,
       "Completed": 470
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-25T02:26:41.7874727+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:08:38.5890415+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:15:30.1339743+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:59:55.4391825+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:08:38.5891585+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:21.2572233+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:15:30.1341183+00:00"
 }

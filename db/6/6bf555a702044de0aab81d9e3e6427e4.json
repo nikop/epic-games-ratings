@@ -2,10 +2,10 @@
   "ID": "6bf555a702044de0aab81d9e3e6427e4",
   "Name": "Farmer\u0027s Life",
   "ProductSlug": "farmers-life-f91b9a",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-20T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-21T06:57:38.0713088+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:11.4617237+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:47.8802666+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:09:36.0511729+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:06:03.5875147+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:16:34.0904392+00:00"
 }

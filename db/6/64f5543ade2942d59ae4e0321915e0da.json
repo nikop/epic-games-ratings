@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -2368,9 +2368,9 @@
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -2487,8 +2487,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:04:32.5925965+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:11:31.5477646+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.4116417+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:59:44.041899+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:32.5926335+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:07.2479215+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:31.5478157+00:00"
 }

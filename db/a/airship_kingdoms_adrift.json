@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
     "PcReleaseDate": "2024-01-19T14:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "ACH_NOT_AGAIN",
       "SetID": "9i65mgf",
       "Name": "Not Again",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_NOT_A_GOOD_DECOY",
@@ -741,9 +741,9 @@
       "ID": "ACH_SHELLSHOCK",
       "SetID": "9i65mgf",
       "Name": "Shellshock",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SHIPPING_SHIPS",
@@ -789,9 +789,9 @@
       "ID": "ACH_STARTING_UP",
       "SetID": "9i65mgf",
       "Name": "Starting Up",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_STAY_A_WHILE_AND_LISTEN",
@@ -1260,8 +1260,8 @@
   ],
   "FirstSeen": "2024-01-21T20:58:52.2546392+00:00",
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:04:15.9728438+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:11:13.2003739+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.652208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:00:01.8845143+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:15.9730206+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:28.8569255+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:13.2006344+00:00"
 }

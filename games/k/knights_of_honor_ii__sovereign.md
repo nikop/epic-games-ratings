@@ -5,16 +5,16 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 16.00% | ~25 |
-| Bring it on! | 15.00% | ~24 |
-| Help! Help! I’m being repressed | 15.00% | ~24 |
+| Bring it on! | 16.00% | ~26 |
+| Hail to the King, Baby | 16.00% | ~26 |
 | Can’t Touch This | 14.00% | ~22 |
+| Help! Help! I’m being repressed | 14.00% | ~22 |
 | Path of Glory | 10.00% | ~16 |
 | There is no Nobility in Poverty | 10.00% | ~16 |
 | Full House | 9.00% | ~14 |
-| Playerxander the Great | 6.00% | ~9 |
-| The finest merchandise this side of river Jordan | 6.00% | ~9 |
-| They Got What They Deserved | 6.00% | ~9 |
+| Playerxander the Great | 6.00% | ~10 |
+| The finest merchandise this side of river Jordan | 6.00% | ~10 |
+| They Got What They Deserved | 6.00% | ~10 |
 | Dinner Time | 5.00% | ~8 |
 | Big Apple | 4.00% | ~6 |
 | Call the Boys | 4.00% | ~6 |
@@ -31,6 +31,7 @@ Rating: 4.35 (Ranked 837)
 | Kingslayer | 3.00% | ~5 |
 | Let Us Pray | 3.00% | ~5 |
 | Naught but a Seamless Victory | 3.00% | ~5 |
+| On the third day at dawn, look east | 3.00% | ~5 |
 | Scientia potentia es | 3.00% | ~5 |
 | ‘Tis but a scratch | 3.00% | ~5 |
 | A Quiet Palace | 2.00% | ~3 |
@@ -45,7 +46,6 @@ Rating: 4.35 (Ranked 837)
 | Crusader “you know what” | 1.00% | ~2 |
 | His All-Holiness | 1.00% | ~2 |
 | New Mineland | 1.00% | ~2 |
-| On the third day at dawn, look east | 1.00% | ~2 |
 | Prince Ali! Fabulous he! | 1.00% | ~2 |
 | Renaissance Man | 1.00% | ~2 |
 | Why is there no culture victory?! | 1.00% | ~2 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157 (Ranked 464)  
+Progressed: 160 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 157 | 0 |
+| 2024-01-25 | 160 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

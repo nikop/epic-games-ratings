@@ -4,8 +4,8 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8469,
+  "EOS_Progressed": 8472,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3639,6 +3639,11 @@
       "Time": "2024-01-25T12:09:04.4996859+00:00",
       "NumProgressed": 8469,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-25T13:15:59.2927526+00:00",
+      "NumProgressed": 8472,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -3706,7 +3711,7 @@
       "Name": "Misfire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -3714,7 +3719,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3738,7 +3743,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4321
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3746,7 +3751,7 @@
       "Name": "The Hitman",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3754,7 +3759,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -3777,7 +3782,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8469,
+      "Progressed": 8472,
       "Completed": 8
     }
   ],
@@ -3785,8 +3790,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:09:04.4996857+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:15:59.2927523+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:23.8919364+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:09:04.4997261+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:05:35.702907+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:15:59.2928034+00:00"
 }

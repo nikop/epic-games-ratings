@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5563,10 +5563,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9360,
       "NumberOfAwardsMax": 3091
+    },
+    {
+      "Time": "2024-01-25T13:09:57.573821+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9362,
+      "NumberOfAwardsMax": 3091
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9360,
+  "NumberOfAwards": 9362,
   "NumberOfAwardsMax": 3091,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5586,7 +5592,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 632
+      "Count": 634
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5643,9 +5649,9 @@
       "Count": 690
     }
   ],
-  "EOS_Progressed": 24216,
+  "EOS_Progressed": 24217,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17903,6 +17909,11 @@
       "Time": "2024-01-25T12:09:20.1449184+00:00",
       "NumProgressed": 24216,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T13:16:16.2835167+00:00",
+      "NumProgressed": 24217,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17915,7 +17926,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8233
+      "UsersEstimate": 8234
     },
     {
       "ID": "ach02",
@@ -17931,7 +17942,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10897
+      "UsersEstimate": 10898
     },
     {
       "ID": "ach04",
@@ -17955,7 +17966,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16467
+      "UsersEstimate": 16468
     },
     {
       "ID": "ach07",
@@ -17963,7 +17974,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11139
+      "UsersEstimate": 11140
     },
     {
       "ID": "ach08",
@@ -18003,7 +18014,7 @@
       "Name": "Annihilation",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ach13",
@@ -18035,15 +18046,15 @@
       "Name": "Test Your Might",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ach17",
       "SetID": "47in8n6",
       "Name": "So I Just Kill Stuff??",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 10171
+      "UsersEstimate": 9929
     },
     {
       "ID": "ach18",
@@ -18067,7 +18078,7 @@
       "Name": "Buddy System",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ach21",
@@ -18091,7 +18102,7 @@
       "Name": "Take And Deny",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "ach24",
@@ -18211,7 +18222,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8233
+      "UsersEstimate": 8234
     },
     {
       "ID": "ach39",
@@ -18219,7 +18230,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 7991
+      "UsersEstimate": 7992
     },
     {
       "ID": "ach40",
@@ -18251,7 +18262,7 @@
       "Name": "Working Overtime",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 7991
+      "UsersEstimate": 7992
     },
     {
       "ID": "ach44",
@@ -18314,16 +18325,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24216,
+      "Progressed": 24217,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-25T11:03:27.8108475+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:09:20.1449179+00:00",
+  "LastChanged": "2024-01-25T13:09:57.5738208+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:16:16.2835162+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:03:08.2936291+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:09:20.1450128+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:09:57.5738215+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:16:16.2835982+00:00"
 }

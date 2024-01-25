@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8279,10 +8279,16 @@
       "Rating": 4,
       "NumberOfAwards": 28055,
       "NumberOfAwardsMax": 4980
+    },
+    {
+      "Time": "2024-01-25T13:10:21.2699148+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28057,
+      "NumberOfAwardsMax": 4980
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28055,
+  "NumberOfAwards": 28057,
   "NumberOfAwardsMax": 4980,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8308,7 +8314,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3782
+      "Count": 3784
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8335,9 +8341,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152753,
+  "EOS_Progressed": 152760,
   "EOS_Completed": 364,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -38115,6 +38121,11 @@
       "Time": "2024-01-25T12:09:43.9475887+00:00",
       "NumProgressed": 152753,
       "NumCompleted": 364
+    },
+    {
+      "Time": "2024-01-25T13:16:42.9694377+00:00",
+      "NumProgressed": 152760,
+      "NumCompleted": 364
     }
   ],
   "TotalAchievements": 112,
@@ -38206,7 +38217,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "bigsale02",
@@ -38230,7 +38241,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "blueprint02",
@@ -38294,7 +38305,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18330
+      "UsersEstimate": 18331
     },
     {
       "ID": "chest02",
@@ -38358,7 +38369,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     },
     {
       "ID": "commonres02",
@@ -38390,7 +38401,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "craft02",
@@ -38478,7 +38489,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "energy02",
@@ -38502,7 +38513,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "expansion02",
@@ -38598,7 +38609,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15275
+      "UsersEstimate": 15276
     },
     {
       "ID": "gold02",
@@ -38606,7 +38617,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "gold03",
@@ -38902,7 +38913,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "sell02",
@@ -38942,7 +38953,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18330
+      "UsersEstimate": 18331
     },
     {
       "ID": "twinenchant01",
@@ -38990,7 +39001,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "workers02",
@@ -39021,15 +39032,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152753,
+      "Progressed": 152760,
       "Completed": 364
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-25T12:03:29.043245+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:09:43.9475885+00:00",
+  "LastChanged": "2024-01-25T13:10:21.2699146+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:16:42.9694374+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:03:29.0432456+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:09:43.9478457+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:10:21.2699153+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:16:42.9696576+00:00"
 }

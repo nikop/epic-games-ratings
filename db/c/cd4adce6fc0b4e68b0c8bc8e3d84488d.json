@@ -2,10 +2,10 @@
   "ID": "cd4adce6fc0b4e68b0c8bc8e3d84488d",
   "Name": "Synergy of Serra",
   "ProductSlug": "synergyofserra-3243db",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-07T15:00:00+00:00",
     "PcReleaseDate": "2023-05-31T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-07T20:58:02.7467722+00:00",
   "LastUpdate_AppInfo": "2024-01-23T06:57:14.1913784+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:03:10.4532046+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:10:06.7033791+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:10:00.1258792+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:17:08.1377093+00:00"
 }

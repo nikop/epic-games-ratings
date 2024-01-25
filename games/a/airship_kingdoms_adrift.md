@@ -17,7 +17,9 @@
 | Not a Good Decoy | 50.00% | ~3 |
 | The Pink Flower | 50.00% | ~3 |
 | Safe Delivery | 50.00% | ~3 |
+| Shellshock | 50.00% | ~3 |
 | Shipping Ships | 50.00% | ~3 |
+| Starting Up | 50.00% | ~3 |
 | The Mother Ocean | 50.00% | ~3 |
 | Tuck the Tail | 50.00% | ~3 |
 | Whoops | 50.00% | ~3 |
@@ -27,9 +29,8 @@
 | Home Made | 33.00% | ~2 |
 | In His Majesty's Service! | 33.00% | ~2 |
 | Let’s get Rich | 33.00% | ~2 |
+| Not Again | 33.00% | ~2 |
 | Our Tiny Little Fleet | 33.00% | ~2 |
-| Shellshock | 33.00% | ~2 |
-| Starting Up | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
 | For the Republic! | 17.00% | ~1 |
 | Friendly Neighborhood Commander | 17.00% | ~1 |
@@ -46,7 +47,6 @@
 | It’s Commandeering | 17.00% | ~1 |
 | It’s Smarter to Pay the Toll | 17.00% | ~1 |
 | Living off the Land | 17.00% | ~1 |
-| Not Again | 17.00% | ~1 |
 | Our Own Path | 17.00% | ~1 |
 | Shady Business | 17.00% | ~1 |
 | Small Business | 17.00% | ~1 |

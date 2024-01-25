@@ -2,10 +2,10 @@
   "ID": "bfb2b691db4741f7827ab8bd3dfd5b18",
   "Name": "Hidden Cats: Magic Forest",
   "ProductSlug": "hidden-cats-magic-forest-05b1f3",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-12-08T06:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-20T10:56:55.515666+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:30.1542791+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:34.3364883+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:05:43.1237215+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:33.5714907+00:00"
 }

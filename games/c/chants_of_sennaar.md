@@ -28,7 +28,7 @@ Rating: 4.87 (Ranked 24)
 | Free at last | 21.00% | ~630 |
 | A Link to the Past | 18.00% | ~540 |
 | A great audience | 16.00% | ~480 |
-| For its own good | 15.00% | ~450 |
+| For its own good | 16.00% | ~480 |
 | Fashion victim | 10.00% | ~300 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,000 (Ranked 236)  

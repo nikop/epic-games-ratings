@@ -2,10 +2,10 @@
   "ID": "a99f555b20ad4e49a077ae50ebbd1238",
   "Name": "Zeeverse",
   "ProductSlug": "zeeverse-92a34e",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-18T14:30:00+00:00",
     "PcReleaseDate": "2023-12-21T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "LastUpdate_AppInfo": "2024-01-24T16:57:07.3279907+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:54.4345471+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:06:14.5767432+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:06:11.2039265+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:13:24.5441779+00:00"
 }

@@ -18,29 +18,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 4.00% | ~686 |
 | Hanging Gardens | 4.00% | ~686 |
 | Oracle | 4.00% | ~686 |
-| Ambitious | 3.00% | ~514 |
-| Enlightened | 3.00% | ~514 |
-| Fountainhead | 3.00% | ~514 |
-| Glorious | 3.00% | ~514 |
-| Just | 3.00% | ~514 |
-| Keystone | 3.00% | ~514 |
-| Learned | 3.00% | ~514 |
-| Magnificent | 3.00% | ~514 |
-| Noble | 3.00% | ~514 |
-| Pioneer | 3.00% | ~514 |
-| Warrior | 3.00% | ~514 |
-| Developing Cities | 3.00% | ~514 |
-| Strong Cities | 3.00% | ~514 |
-| Great Ziggurat | 3.00% | ~514 |
-| Ishtar Gate | 3.00% | ~514 |
-| Lighthouse | 3.00% | ~514 |
-| Pyramids | 3.00% | ~514 |
-| Learn to Play 1 | 3.00% | ~514 |
-| Judaism | 3.00% | ~514 |
-| Babylonian Paganism | 3.00% | ~514 |
-| Greek Paganism | 3.00% | ~514 |
-| Naming Landmarks | 3.00% | ~514 |
-| Trade Caravan | 3.00% | ~514 |
+| Ambitious | 3.00% | ~515 |
+| Enlightened | 3.00% | ~515 |
+| Fountainhead | 3.00% | ~515 |
+| Glorious | 3.00% | ~515 |
+| Just | 3.00% | ~515 |
+| Keystone | 3.00% | ~515 |
+| Learned | 3.00% | ~515 |
+| Magnificent | 3.00% | ~515 |
+| Noble | 3.00% | ~515 |
+| Pioneer | 3.00% | ~515 |
+| Warrior | 3.00% | ~515 |
+| Developing Cities | 3.00% | ~515 |
+| Strong Cities | 3.00% | ~515 |
+| Great Ziggurat | 3.00% | ~515 |
+| Ishtar Gate | 3.00% | ~515 |
+| Lighthouse | 3.00% | ~515 |
+| Pyramids | 3.00% | ~515 |
+| Learn to Play 1 | 3.00% | ~515 |
+| Judaism | 3.00% | ~515 |
+| Babylonian Paganism | 3.00% | ~515 |
+| Greek Paganism | 3.00% | ~515 |
+| Naming Landmarks | 3.00% | ~515 |
+| Trade Caravan | 3.00% | ~515 |
 | Regicide | 2.00% | ~343 |
 | Hanging Gardens in Babylon | 2.00% | ~343 |
 | Drillmaster | 2.00% | ~343 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,150 (Ranked 170)  
+Progressed: 17,151 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
-| 2024-01-25 | 17,150 | 5 |
+| 2024-01-25 | 17,151 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

@@ -2,10 +2,10 @@
   "ID": "4b562eb9baa5482ea14bdff1af498af1",
   "Name": "Psychiatrist Simulator",
   "ProductSlug": "psychiatrist-simulator-bfbcc4",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-01-19T13:00:00+00:00",
     "PcReleaseDate": "2018-01-27T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T04:57:08.2522528+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:00:00.363011+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:06:21.4764417+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:27.1907576+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:13:31.9830141+00:00"
 }

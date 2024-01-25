@@ -17,8 +17,8 @@
 | Delegate Maintenance | 28.00% | ~152 |
 | Destination Destiny | 28.00% | ~152 |
 | Happy Tenants | 23.00% | ~125 |
+| Potent Potables | 23.00% | ~125 |
 | Your Prestige is Rising | 22.00% | ~119 |
-| Potent Potables | 22.00% | ~119 |
 | Smooth Service | 22.00% | ~119 |
 | Retail Revenue | 21.00% | ~114 |
 | Don't Feel a Loan | 20.00% | ~108 |
@@ -35,8 +35,8 @@
 | Under One Roof | 14.00% | ~76 |
 | Cashflow Chief | 14.00% | ~76 |
 | Starred Dining | 13.00% | ~70 |
+| Boutique Benefits | 12.00% | ~65 |
 | Smooth Operator | 11.00% | ~60 |
-| Boutique Benefits | 11.00% | ~60 |
 | Thrilled Tenants | 11.00% | ~60 |
 | 28 Days Later | 10.00% | ~54 |
 | Terrifically Trashed | 10.00% | ~54 |
@@ -44,8 +44,8 @@
 | Refined Palates | 9.00% | ~49 |
 | First 100 Days | 8.00% | ~43 |
 | Aestheticly Pleased | 8.00% | ~43 |
-| Plaza Plan | 7.00% | ~38 |
-| Master of Puppets | 7.00% | ~38 |
+| Plaza Plan | 8.00% | ~43 |
+| Master of Puppets | 8.00% | ~43 |
 | Phoning It In | 7.00% | ~38 |
 | Water Features | 6.00% | ~33 |
 | Meet Me at HQ | 6.00% | ~33 |

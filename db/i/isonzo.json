@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10046,
+  "EOS_Progressed": 10047,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11559,6 +11559,11 @@
       "Time": "2024-01-25T02:36:47.7399372+00:00",
       "NumProgressed": 10046,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-25T13:17:02.8243819+00:00",
+      "NumProgressed": 10047,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11586,7 +11591,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11714,7 +11719,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11818,7 +11823,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11866,7 +11871,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -11898,7 +11903,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11922,14 +11927,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5123
+      "UsersEstimate": 5124
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10046,
+      "Progressed": 10047,
       "Completed": 10
     }
   ],
@@ -11937,8 +11942,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:10:01.614564+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:17:02.8243816+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:59:44.2205776+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:10:01.6146316+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:07:07.4666441+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:17:02.8244439+00:00"
 }

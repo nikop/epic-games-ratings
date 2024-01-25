@@ -10,17 +10,17 @@ Rating: 4.29 (Ranked 890)
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,689 |
 | Right Back Atcha | 6.00% | ~2,689 |
 | Killed by Death | 5.00% | ~2,241 |
-| Kill 'Em All | 4.00% | ~1,792 |
+| Kill 'Em All | 4.00% | ~1,793 |
 | Down Boy! | 2.00% | ~896 |
 | A Snowball's Chance in Hell | 2.00% | ~896 |
 | Enjoy The Silence | 1.00% | ~448 |
 | Sure Footed As A Goat | 0.90% | ~403 |
 | Backdoor Man | 0.90% | ~403 |
-| Thorn in My Herbicide | 0.80% | ~358 |
-| Red In Tooth And Claw | 0.80% | ~358 |
-| Death Becomes Her | 0.80% | ~358 |
-| The Sky Is Falling | 0.80% | ~358 |
-| Schadenfreude | 0.80% | ~358 |
+| Thorn in My Herbicide | 0.80% | ~359 |
+| Red In Tooth And Claw | 0.80% | ~359 |
+| Death Becomes Her | 0.80% | ~359 |
+| The Sky Is Falling | 0.80% | ~359 |
+| Schadenfreude | 0.80% | ~359 |
 | Start As You Mean To Go On | 0.70% | ~314 |
 | Hail the Great Horned Metal God! | 0.70% | ~314 |
 | That'll Come In Handy... | 0.70% | ~314 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 890)
 | Heart Of Steel | 0.10% | ~45 |
 | Death or Glory | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,812 (Ranked 134)  
+Progressed: 44,815 (Ranked 134)  
 Completed: 30 (0.07%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 30 (0.07%) (Ranked 340)
 | 2024-01-22 | 44,700 | 30 |
 | 2024-01-23 | 44,747 | 30 |
 | 2024-01-24 | 44,793 | 30 |
-| 2024-01-25 | 44,812 | 30 |
+| 2024-01-25 | 44,815 | 30 |
 ## Awards
 Max (Great Boss Battles): 129  (Ranked 355)  
 Sum: 129 (Ranked 459)  

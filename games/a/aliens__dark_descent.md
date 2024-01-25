@@ -29,7 +29,7 @@ Rating: 4.54 (Ranked 550)
 | Deep Into Insanity | 25.00% | ~1,639 |
 | The Passenger | 25.00% | ~1,639 |
 | Come on, You Wanna Live Forever? | 23.00% | ~1,508 |
-| The Spire | 22.00% | ~1,442 |
+| The Spire | 23.00% | ~1,508 |
 | El Riesgo Siempre Vive | 21.00% | ~1,377 |
 | Excavating The Truth | 20.00% | ~1,311 |
 | Stuff Of Nightmares | 19.00% | ~1,246 |

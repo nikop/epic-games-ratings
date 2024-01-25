@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9182,
+  "EOS_Progressed": 9185,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10655,6 +10655,11 @@
       "Time": "2024-01-25T09:10:57.2063808+00:00",
       "NumProgressed": 9182,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T13:17:32.0890237+00:00",
+      "NumProgressed": 9185,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10683,7 +10688,7 @@
       "Name": "Calm Sailing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -10691,7 +10696,7 @@
       "Name": "Open the Gate!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -10827,7 +10832,7 @@
       "Name": "Mist Walker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -11010,13 +11015,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9182,
+      "Progressed": 9185,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1799,
+      "Progressed": 1802,
       "Completed": 1051
     }
   ],
@@ -11024,8 +11029,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-23T14:03:14.5919033+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:10:27.4513273+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:17:32.089023+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-25T12:03:29.5231617+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:10:27.451388+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:10:21.8125817+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:17:32.089085+00:00"
 }

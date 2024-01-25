@@ -2,10 +2,10 @@
   "ID": "bbae2cd3c9a3495f94e3223c91bdc69a",
   "Name": "Sudoku Zenkai",
   "ProductSlug": "sudoku-zenkai-3990b1",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-06T14:00:00+00:00",
     "PcReleaseDate": "2018-04-01T23:00:00+00:00",
@@ -501,8 +501,8 @@
   ],
   "FirstSeen": "2023-12-10T18:57:24.6785918+00:00",
   "FirstSeenAchievements": "2023-12-03T08:03:13.5424256+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:05:10.293293+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:12:13.7040499+00:00",
   "LastUpdate_AppInfo": "2024-01-21T10:57:21.0732115+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:59.0137627+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:05:10.2933456+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:06:16.2235594+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:12:13.7041106+00:00"
 }

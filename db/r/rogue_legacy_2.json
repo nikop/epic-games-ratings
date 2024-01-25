@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1644,7 +1644,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28511,
+  "EOS_Progressed": 28513,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -14779,6 +14779,11 @@
       "Time": "2024-01-25T12:10:22.6348799+00:00",
       "NumProgressed": 28511,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-25T13:17:26.4972545+00:00",
+      "NumProgressed": 28513,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14918,15 +14923,15 @@
       "Name": "Harvest and Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "BossGardenAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Penance",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 86
     },
     {
       "ID": "BossGardenDefeated",
@@ -15101,21 +15106,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28511,
+      "Progressed": 28513,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7441,
+      "Progressed": 7443,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-20T14:59:06.0031145+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:10:22.6348796+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:17:26.4972543+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.0687635+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:57:53.4635169+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:10:22.634949+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:05:01.2629599+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:17:26.4973209+00:00"
 }

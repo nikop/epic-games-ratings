@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -297,9 +297,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 17696,
+  "EOS_Progressed": 17697,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13267,6 +13267,11 @@
       "Time": "2024-01-25T11:05:02.2056241+00:00",
       "NumProgressed": 17696,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-25T13:11:16.3064493+00:00",
+      "NumProgressed": 17697,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13300,9 +13305,9 @@
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3185
     },
     {
       "ID": "Ach005",
@@ -13310,7 +13315,7 @@
       "Name": "Headliner",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "Ach006",
@@ -13318,7 +13323,7 @@
       "Name": "Time to pay up!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "Ach007",
@@ -13326,7 +13331,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "Ach008",
@@ -13478,7 +13483,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "Ach027",
@@ -13502,7 +13507,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "Ach030",
@@ -13526,7 +13531,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "Ach033",
@@ -13606,7 +13611,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "Ach043",
@@ -13646,7 +13651,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7432
+      "UsersEstimate": 7433
     },
     {
       "ID": "Ach048",
@@ -13845,13 +13850,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17696,
+      "Progressed": 17697,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16217,
+      "Progressed": 16218,
       "Completed": 1931
     }
   ],
@@ -13859,8 +13864,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-25T07:57:37.7523595+00:00",
-  "LastChanged_Achievements": "2024-01-25T12:04:18.807509+00:00",
+  "LastChanged_Achievements": "2024-01-25T13:11:16.306449+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:57:33.3584952+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:18.8076134+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:04:38.0898582+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:16.3065523+00:00"
 }

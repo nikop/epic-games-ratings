@@ -2,10 +2,10 @@
   "ID": "48cd441a8e144f00aa1549ab64a228eb",
   "Name": "Extreme Bike Racing",
   "ProductSlug": "extreme-bike-racing-e00c81",
-  "Ranking_EOS_Progress": 848,
+  "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-12T18:30:00+00:00",
     "PcReleaseDate": "2023-12-12T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-15T20:59:24.6111998+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:51.9285776+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:58:43.399264+00:00",
-  "LastUpdate_Achievements": "2024-01-25T12:04:55.49411+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:05:58.4112845+00:00",
+  "LastUpdate_Achievements": "2024-01-25T13:11:57.1560167+00:00"
 }
