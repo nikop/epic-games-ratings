@@ -471,6 +471,7 @@
 | [Zoeti](../games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 30 | 1,000 |
 | [A Tale of Paper: Refolded](../games/a/a_tale_of_paper__refolded.md) | 29 | 1,000 |
 | [Ad Infinitum](../games/a/ad_infinitum.md) | 29 | 1,000 |
+| [Airhead](../games/a/airhead.md) | 29 | 1,000 |
 | [Airoheart](../games/a/airoheart.md) | 29 | 1,000 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
 | [Black Academy](../games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 29 | 1,000 |

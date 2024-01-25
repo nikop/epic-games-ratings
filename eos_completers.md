@@ -18,8 +18,8 @@
 | 16 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.76% |
 | 17 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.34% |
-| 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.28% |
 | 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.28% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.16% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.15% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -61,7 +61,7 @@
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.06% |
-| 62 | [Scorn](games/s/scorn.md) | 6.87% |
+| 62 | [Scorn](games/s/scorn.md) | 6.86% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
@@ -254,9 +254,9 @@
 | 251 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.39% |
 | 253 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 253 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
-| 255 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
-| 255 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.36% |
-| 255 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 253 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.37% |
+| 256 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
+| 256 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 258 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.35% |
 | 259 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.34% |
 | 259 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.34% |
@@ -742,6 +742,7 @@
 | 410 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
 | 410 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
 | 410 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 0.00% |
+| 410 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 0.00% |
 | 410 | [Songs of Conquest](games/s/songs_of_conquest.md) | 0.00% |
 | 410 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 0.00% |
 | 410 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |

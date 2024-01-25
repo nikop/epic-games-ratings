@@ -10,7 +10,7 @@
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-01-31 | 45 (1,000 XP) | 1 | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
-| [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 0 | - | - |
+| [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | - |
 | [Arena 9th](games/b/b2915d5851bc4ddf91d7c90adf03f72b.md) | 2024-02-01 | - |  | - | - |
 | [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
 | [Island of Fear](games/c/cd9345b512a544e38b7ff0165111e35c.md) | 2024-02-01 | - |  | - | - |
@@ -23,6 +23,7 @@
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 0 | - | - |
 | [Grieve](games/3/33d6300ac8394fd48337c934f52c71cc.md) | 2024-02-09 | - |  | - | - |
 | [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | - |
+| [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 0 | - | - |
 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | - | - |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | - |  | - | - |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | - |  | - | - |
@@ -224,7 +225,6 @@
 | [Active and Operational](games/a/active_and_operational.md) | 2099-01-01 | - |  | - | - |
 | [AEVITAS](games/e/e551d0f379ad42629494c89540c1c853.md) | 2099-01-01 | - |  | - | - |
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | - |  | - | - |
-| [Airhead](games/a/airhead.md) | 2099-01-01 | - |  | - | - |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2099-01-01 | - |  | - | - |
 | [Alder Choke](games/a/alder_choke.md) | 2099-01-01 | - |  | - | - |
