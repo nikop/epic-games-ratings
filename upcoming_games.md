@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | - |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-01-26 | 18 (1,000 XP) | 0 | - | - |
 | [Alice's Jigsaw. Wonderland Chronicles 2](games/6/6445bb085c274bb58007a3febb1df67e.md) | 2024-01-26 | - |  | - | - |
 | [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
@@ -521,6 +520,7 @@
 | [Ultimate Fishing Simulator](games/c/ccef09bb805048a88de4be4a592da1b3.md) | 2099-01-01 | - |  | - | - |
 | [Uncharted Ocean 2](games/f/faa3c51fffce498e8e10721027aab2d0.md) | 2099-01-01 | - |  | - | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | 2099-01-01 | - |  | - | - |
+| [Unstoppable](games/0/0dbbe16ebc3545e6a248cb918da66b9f.md) | 2099-01-01 | - |  | - | - |
 | [Until the Last Plane](games/u/until_the_last_plane.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | 2099-01-01 | - |  | - | - |
 | [Varkalai: The Cradle Of Fate](games/6/672fdfd6cf634e21a53019d3fc5deb20.md) | 2099-01-01 | - |  | - | - |

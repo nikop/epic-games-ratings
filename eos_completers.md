@@ -27,9 +27,9 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.24% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.56% |
-| 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.12% |
+| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
+| 29 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.22% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.11% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -37,7 +37,7 @@
 | 35 | [Remains](games/r/remains.md) | 12.70% |
 | 36 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 12.50% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.24% |
-| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
+| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.04% |
@@ -54,7 +54,7 @@
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
-| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.49% |
+| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.48% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.39% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.34% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
@@ -81,7 +81,7 @@
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.00% |
 | 80 | [Bugsnax](games/b/bugsnax.md) | 4.92% |
 | 81 | [ZZT!](games/z/zzt!.md) | 4.78% |
-| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.71% |
+| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.70% |
 | 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
 | 84 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.65% |
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
@@ -851,4 +851,4 @@
 | 410 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 410 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 410 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,892 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,893 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
