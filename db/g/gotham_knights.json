@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 985,
+  "Ranking_Rating": 984,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 111,
@@ -5409,10 +5409,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5564,
       "NumberOfAwardsMax": 3251
+    },
+    {
+      "Time": "2024-01-25T01:53:37.5506581+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5565,
+      "NumberOfAwardsMax": 3251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5564,
+  "NumberOfAwards": 5565,
   "NumberOfAwardsMax": 3251,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5426,7 +5432,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5477,9 +5483,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83245,
+  "EOS_Progressed": 83246,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31407,6 +31413,11 @@
       "Time": "2024-01-25T00:04:49.2888963+00:00",
       "NumProgressed": 83245,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-25T01:56:27.7938368+00:00",
+      "NumProgressed": 83246,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31498,7 +31509,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9989
+      "UsersEstimate": 9990
     },
     {
       "ID": "APPLY_STATUS",
@@ -31578,7 +31589,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9989
+      "UsersEstimate": 9990
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -31594,7 +31605,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9989
+      "UsersEstimate": 9990
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -31634,7 +31645,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 8324
+      "UsersEstimate": 8325
     },
     {
       "ID": "FREEZE_1",
@@ -31722,7 +31733,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28303
+      "UsersEstimate": 28304
     },
     {
       "ID": "HARLEY_2",
@@ -31762,7 +31773,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41622
+      "UsersEstimate": 41623
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31866,7 +31877,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9989
+      "UsersEstimate": 9990
     },
     {
       "ID": "SECRET_CACHE",
@@ -31905,22 +31916,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83245,
+      "Progressed": 83246,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53525,
+      "Progressed": 53526,
       "Completed": 2682
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-24T21:01:54.2975468+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:04:49.288896+00:00",
+  "LastChanged": "2024-01-25T01:53:37.5506579+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:56:27.7938364+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-25T00:00:19.2827156+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:04:49.2890543+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:53:37.5506584+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:56:27.7940208+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 38.00% | ~58 |
-| Treasure Hunting | 37.00% | ~57 |
-| Shine! | 31.00% | ~47 |
-| Friend! | 29.00% | ~44 |
-| Uncut Gem | 27.00% | ~41 |
-| Clear as Water | 27.00% | ~41 |
-| Setting Off | 24.00% | ~37 |
+| Might be useful… | 38.00% | ~59 |
+| Treasure Hunting | 36.00% | ~55 |
+| Shine! | 31.00% | ~48 |
+| Friend! | 29.00% | ~45 |
+| Uncut Gem | 27.00% | ~42 |
+| Clear as Water | 27.00% | ~42 |
+| Setting Off | 23.00% | ~35 |
 | Card Collector | 23.00% | ~35 |
 | Riddlesolver | 21.00% | ~32 |
 | Dungeon Mastery | 20.00% | ~31 |
@@ -18,12 +18,12 @@
 | A Strange Proposition | 10.00% | ~15 |
 | Card Completionist | 10.00% | ~15 |
 | The Bodyguard | 8.00% | ~12 |
-| The Apprentice | 7.00% | ~11 |
-| Braving Miasma | 7.00% | ~11 |
-| Oracle Mastery | 7.00% | ~11 |
 | No Stone Unturned | 7.00% | ~11 |
+| The Apprentice | 6.00% | ~9 |
+| Braving Miasma | 6.00% | ~9 |
 | The Familiar | 6.00% | ~9 |
 | Ancient Nemesis | 6.00% | ~9 |
+| Oracle Mastery | 6.00% | ~9 |
 | Raider Mastery | 5.00% | ~8 |
 | Traveler Mastery | 5.00% | ~8 |
 | Warden Mastery | 5.00% | ~8 |
@@ -42,10 +42,10 @@
 | Harmony | 1.00% | ~2 |
 | A New Tomorrow | 1.00% | ~2 |
 | Gladiator | 1.00% | ~2 |
-| The New Demon Lord | 0.70% | ~1 |
+| The New Demon Lord | 0.60% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 467)  
+Progressed: 154 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,6 +131,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-15 | 150 | 0 |
 | 2024-01-19 | 151 | 0 |
 | 2024-01-22 | 153 | 0 |
+| 2024-01-25 | 154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

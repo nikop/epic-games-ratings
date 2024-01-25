@@ -2375,9 +2375,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22723,
+  "EOS_Progressed": 22724,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14900,6 +14900,11 @@
       "Time": "2024-01-25T00:09:44.5954268+00:00",
       "NumProgressed": 22723,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-25T02:01:31.6157158+00:00",
+      "NumProgressed": 22724,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14943,7 +14948,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15071,7 +15076,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4317
+      "UsersEstimate": 4318
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -15103,7 +15108,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15111,7 +15116,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4317
+      "UsersEstimate": 4318
     },
     {
       "ID": "STORY_HABITAT",
@@ -15255,7 +15260,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "KILL_BIOBOT",
@@ -15286,13 +15291,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22723,
+      "Progressed": 22724,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10649,
+      "Progressed": 10650,
       "Completed": 29
     }
   ],
@@ -15300,8 +15305,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T00:03:12.6782605+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:09:44.5954265+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:31.6157155+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-25T00:03:12.6782613+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:09:44.5955068+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:54:38.7610662+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:31.6157974+00:00"
 }

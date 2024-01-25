@@ -6,29 +6,29 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,282 |
-| Alt+F4 | 11.00% | ~27,435 |
-| Where's that freaking Dwarf? | 10.00% | ~24,941 |
-| Déjà vu | 8.00% | ~19,953 |
+| Sowwy! | 37.00% | ~92,285 |
+| Alt+F4 | 11.00% | ~27,436 |
+| Where's that freaking Dwarf? | 10.00% | ~24,942 |
+| Déjà vu | 8.00% | ~19,954 |
 | Sock! SOCK! | 6.00% | ~14,965 |
 | Speedrun | 6.00% | ~14,965 |
 | A beer, two curses, three companions | 5.00% | ~12,471 |
 | GG EZ | 5.00% | ~12,471 |
 | DM intervention | 5.00% | ~12,471 |
 | Fireproof Wizardess | 5.00% | ~12,471 |
-| Way of the Wimp | 4.00% | ~9,976 |
-| The plot thickens... At the tavern | 4.00% | ~9,976 |
-| Livin' in a dwarven paradise | 3.00% | ~7,482 |
-| The demons' feast | 3.00% | ~7,482 |
-| The Great Library | 3.00% | ~7,482 |
-| Torture and Sensibility | 3.00% | ~7,482 |
-| Urik's Depths | 3.00% | ~7,482 |
-| The Dungeon Master | 3.00% | ~7,482 |
-| The Statuette of Gladeulfeurah | 3.00% | ~7,482 |
-| The Woman in the High Castle | 3.00% | ~7,482 |
-| A tale of adventurers not quite like the others... | 3.00% | ~7,482 |
-| Team Building Exercise | 3.00% | ~7,482 |
-| Oh, when I'll be level 10... | 3.00% | ~7,482 |
+| Way of the Wimp | 4.00% | ~9,977 |
+| The plot thickens... At the tavern | 4.00% | ~9,977 |
+| Livin' in a dwarven paradise | 3.00% | ~7,483 |
+| The demons' feast | 3.00% | ~7,483 |
+| The Great Library | 3.00% | ~7,483 |
+| Torture and Sensibility | 3.00% | ~7,483 |
+| Urik's Depths | 3.00% | ~7,483 |
+| The Dungeon Master | 3.00% | ~7,483 |
+| The Statuette of Gladeulfeurah | 3.00% | ~7,483 |
+| The Woman in the High Castle | 3.00% | ~7,483 |
+| A tale of adventurers not quite like the others... | 3.00% | ~7,483 |
+| Team Building Exercise | 3.00% | ~7,483 |
+| Oh, when I'll be level 10... | 3.00% | ~7,483 |
 | Shiny and Crôm | 2.00% | ~4,988 |
 | Res Judicata | 2.00% | ~4,988 |
 | The Famous Dungeon of Naheulbeuk | 2.00% | ~4,988 |
@@ -50,7 +50,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.80% | ~1,995 |
 | Holistic Adventuring Party | 0.70% | ~1,746 |
 | Law and Order | 0.70% | ~1,746 |
-| Scholar of the Lands of Fangh | 0.60% | ~1,496 |
+| Scholar of the Lands of Fangh | 0.60% | ~1,497 |
 | I'd rather... Just... Sing! | 0.50% | ~1,247 |
 | It's been a hard day's night | 0.50% | ~1,247 |
 | Friendly fire | 0.40% | ~998 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,412 (Ranked 73)  
+Progressed: 249,419 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 9 (0.00%) (Ranked 410)
 | 2024-01-22 | 249,232 | 9 |
 | 2024-01-23 | 249,318 | 9 |
 | 2024-01-24 | 249,409 | 9 |
-| 2024-01-25 | 249,412 | 9 |
+| 2024-01-25 | 249,419 | 9 |
 ## Awards
 Max (Character Customization): 276  (Ranked 277)  
-Sum: 585 (Ranked 330)  
+Sum: 586 (Ranked 330)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): -53
 | This game has Amazing Storytelling | 34 |
 | This game has Amazing Characters | 32 |
 | This game is Extremely Fun | 30 |
-| This game has Playful Visuals | 22 |
+| This game has Playful Visuals | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -579,3 +579,4 @@ Diff (max vs sum): -53
 | 2024-01-22 | 4.58 | - | 273 | 578 |
 | 2024-01-23 | 4.58 | - | 273 | 579 |
 | 2024-01-24 | 4.58 | - | 276 | 585 |
+| 2024-01-25 | 4.58 | - | 276 | 586 |

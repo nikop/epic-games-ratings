@@ -32,7 +32,7 @@ Rating: 4.63 (Ranked 360)
 | Boosted! | 40.00% | ~638 |
 | Deadliest and Biggest Snowball Ever! | 40.00% | ~638 |
 | Freeze The Ice Witch | 39.00% | ~622 |
-| True Legends | 38.00% | ~606 |
+| True Legends | 39.00% | ~622 |
 | Bullseye | 37.00% | ~591 |
 | It Is Not Over | 36.00% | ~575 |
 | On The Rocks | 34.00% | ~543 |

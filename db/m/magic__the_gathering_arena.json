@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewPlayers": 536,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -16874,18 +16874,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 101713,
       "NumberOfAwardsMax": 13070
+    },
+    {
+      "Time": "2024-01-25T01:51:21.8337613+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 101735,
+      "NumberOfAwardsMax": 13077
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 101713,
-  "NumberOfAwardsMax": 13070,
+  "NumberOfAwards": 101735,
+  "NumberOfAwardsMax": 13077,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 13070
+      "Count": 13077
     },
     {
       "Text": "This game has Competitive Players",
@@ -16903,7 +16909,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 10749
+      "Count": 10753
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16915,7 +16921,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10188
+      "Count": 10194
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16939,7 +16945,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6696
+      "Count": 6701
     },
     {
       "Text": "This game has a Competitive Community",
@@ -16959,8 +16965,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-01-24T21:01:34.9403533+00:00",
+  "LastChanged": "2024-01-25T01:51:21.8337612+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:33.9804668+00:00",
-  "LastUpdate_Ratings": "2024-01-25T00:00:03.5331281+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:04:30.6562657+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:51:21.8337617+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:56:06.9596877+00:00"
 }

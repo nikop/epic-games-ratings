@@ -1,12 +1,12 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 985)  
+Rating: 4.19 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,622 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,303 |
+| First Step Into the Knight | 50.00% | ~41,623 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,304 |
 | Loose Ends | 33.00% | ~27,471 |
 | To the Victor Go the Spoils | 27.00% | ~22,476 |
 | Knighthood | 26.00% | ~21,644 |
@@ -30,12 +30,12 @@ Rating: 4.19 (Ranked 985)
 | Voiceless | 14.00% | ~11,654 |
 | Shock Til They Drop | 13.00% | ~10,822 |
 | Seeking Asylum | 13.00% | ~10,822 |
-| End of an Era | 12.00% | ~9,989 |
-| Not On My Watch | 12.00% | ~9,989 |
-| Bulldozed | 12.00% | ~9,989 |
-| Gotham Knight | 12.00% | ~9,989 |
+| End of an Era | 12.00% | ~9,990 |
+| Not On My Watch | 12.00% | ~9,990 |
+| Bulldozed | 12.00% | ~9,990 |
+| Gotham Knight | 12.00% | ~9,990 |
 | Gotham City Confidential | 11.00% | ~9,157 |
-| Drone You Out | 10.00% | ~8,324 |
+| Drone You Out | 10.00% | ~8,325 |
 | Out of Their League | 9.00% | ~7,492 |
 | Solid Alibi | 8.00% | ~6,660 |
 | Fusion Expert | 7.00% | ~5,827 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 985)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,245 (Ranked 111)  
+Progressed: 83,246 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,10 +347,10 @@ Completed: 135 (0.16%) (Ranked 298)
 | 2024-01-22 | 83,185 | 135 |
 | 2024-01-23 | 83,213 | 135 |
 | 2024-01-24 | 83,243 | 135 |
-| 2024-01-25 | 83,245 | 135 |
+| 2024-01-25 | 83,246 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,251  (Ranked 103)  
-Sum: 5,564 (Ranked 146)  
+Sum: 5,565 (Ranked 146)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -358,8 +358,8 @@ Diff (max vs sum): -43
 | This game is Great for Beginners | 298 |
 | This game has Diverse Characters | 297 |
 | This game is Extremely Fun | 294 |
+| This game has Quickly Understood Controls | 292 |
 | This game is Relaxing | 292 |
-| This game has Quickly Understood Controls | 291 |
 | This game has Amazing Characters | 283 |
 | This game has Amazing Storytelling | 282 |
 | This game is Highly Recommended | 276 |
@@ -700,3 +700,4 @@ Diff (max vs sum): -43
 | 2024-01-22 | 4.19 | 3,243 | 5,549 |
 | 2024-01-23 | 4.19 | 3,249 | 5,556 |
 | 2024-01-24 | 4.19 | 3,251 | 5,564 |
+| 2024-01-25 | 4.19 | 3,251 | 5,565 |

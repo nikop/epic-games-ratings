@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4923,6 +4923,11 @@
       "Time": "2024-01-24T21:10:43.4376049+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T02:01:24.3438313+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4935,7 +4940,7 @@
       "Name": "The Teleprobe",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "AchvAllMemories",
@@ -4991,7 +4996,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -4999,7 +5004,7 @@
       "Name": "The Alliance",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "AchvDoom",
@@ -5063,7 +5068,7 @@
       "Name": "The Necroevolution",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "AchvNest",
@@ -5095,7 +5100,7 @@
       "Name": "Strong objection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "AchvReachBase",
@@ -5103,7 +5108,7 @@
       "Name": "The field base",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "AchvReachCamp",
@@ -5111,7 +5116,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "AchvReachCity",
@@ -5159,14 +5164,14 @@
       "Name": "Beyond divisions",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 2
     }
   ],
@@ -5174,8 +5179,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-23T17:57:43.9429739+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:09:38.2290276+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:24.343831+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:20.6399595+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:09:38.2290736+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:49:21.9735077+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:24.3438696+00:00"
 }

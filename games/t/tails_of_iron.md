@@ -7,12 +7,12 @@ Rating: 4.57 (Ranked 498)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 4.00% | ~94 |
 | Become King | 3.00% | ~71 |
+| Collect Monster Parts | 3.00% | ~71 |
 | Ranged Weapon | 3.00% | ~71 |
 | Defeat 25 Frogs | 3.00% | ~71 |
 | The Bright Fir | 3.00% | ~30 |
 | Collect Gold | 2.00% | ~47 |
 | Collect Iron Ore | 2.00% | ~47 |
-| Collect Monster Parts | 2.00% | ~47 |
 | Complete Elder Faction | 2.00% | ~47 |
 | End of the Mozis | 2.00% | ~47 |
 | Defeat Ratnor Rodentson | 2.00% | ~47 |

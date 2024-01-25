@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -1152,9 +1152,9 @@
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "ach-paleMask-cure",
@@ -1192,9 +1192,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "ach-redElk",
@@ -1208,9 +1208,9 @@
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ach-rob-shrines",
@@ -1289,8 +1289,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:10:02.372706+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:51.4871981+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:24.1101253+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:59:42.6381683+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:10:02.3727547+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:50:58.2930333+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:51.4872428+00:00"
 }

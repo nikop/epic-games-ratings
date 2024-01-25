@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 873,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
@@ -2110,9 +2110,9 @@
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 218
     },
     {
       "ID": "ending_6",
@@ -2223,8 +2223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:09:39.9595802+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:26.1903755+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:29.4438802+00:00",
-  "LastUpdate_Ratings": "2024-01-25T00:02:50.0254606+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:09:39.9596063+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:54:11.8385675+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:26.1903949+00:00"
 }

@@ -375,7 +375,7 @@
   "Tags": [],
   "EOS_Progressed": 19272,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18394,9 +18394,9 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 173
     },
     {
       "ID": "8",
@@ -18473,8 +18473,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:06:04.3224212+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:59:19.4709795+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:59:42.3753797+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:06:04.3225752+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:50:58.0077444+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:59:19.4710822+00:00"
 }

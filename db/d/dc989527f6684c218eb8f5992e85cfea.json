@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15895,
+  "EOS_Progressed": 15896,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -19856,6 +19856,11 @@
       "Time": "2024-01-24T23:03:23.783589+00:00",
       "NumProgressed": 15895,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T01:54:55.9873903+00:00",
+      "NumProgressed": 15896,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19867,7 +19872,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -20066,7 +20071,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15895,
+      "Progressed": 15896,
       "Completed": 0
     }
   ],
@@ -20074,8 +20079,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:03:26.6277774+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:54:55.98739+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8491193+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:53.4797018+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:03:26.6278669+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:50:00.9434568+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:54:55.9874951+00:00"
 }

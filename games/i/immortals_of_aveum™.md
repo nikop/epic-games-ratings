@@ -1,17 +1,17 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 974)  
+Rating: 4.19 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,207 |
-| Battlefields Have Memories | 82.00% | ~2,954 |
-| Enlisted | 76.00% | ~2,738 |
-| Maybe Engage a Little | 71.00% | ~2,558 |
+| Unforeseen | 89.00% | ~3,208 |
+| Battlefields Have Memories | 82.00% | ~2,955 |
+| Enlisted | 76.00% | ~2,739 |
+| Maybe Engage a Little | 71.00% | ~2,559 |
 | No More Names | 55.00% | ~1,982 |
-| Initiate | 42.00% | ~1,513 |
-| Thrada-Kul | 38.00% | ~1,369 |
+| Initiate | 42.00% | ~1,514 |
+| Thrada-Kul | 38.00% | ~1,370 |
 | Gravity-Challenged Rocks | 32.00% | ~1,153 |
 | Soldier | 28.00% | ~1,009 |
 | All the Major Food Groups | 27.00% | ~973 |
@@ -25,7 +25,7 @@ Rating: 4.20 (Ranked 974)
 | Geas Aristeya | 18.00% | ~649 |
 | A Perfect Cycle | 17.00% | ~613 |
 | Recruit | 17.00% | ~613 |
-| Armsman | 14.00% | ~504 |
+| Armsman | 14.00% | ~505 |
 | Lights Army | 12.00% | ~432 |
 | Periapt Cerulean | 10.00% | ~360 |
 | Good Boy | 10.00% | ~360 |
@@ -40,20 +40,20 @@ Rating: 4.20 (Ranked 974)
 | Veteran | 3.00% | ~108 |
 | Grand Magnus | 2.00% | ~72 |
 | Tip of the Spear | 2.00% | ~72 |
+| Witch-Taker | 1.00% | ~36 |
 | Master of Carmine | 1.00% | ~36 |
 | Shroudfane Surveyor | 1.00% | ~36 |
 | Backtracker | 1.00% | ~36 |
-| Witch-Taker | 0.90% | ~32 |
 | Master of Ultramarine | 0.90% | ~32 |
+| Petite Bourgeoisie | 0.80% | ~29 |
 | Family Business | 0.70% | ~25 |
 | Diplomat | 0.70% | ~25 |
-| Petite Bourgeoisie | 0.70% | ~25 |
 | Master of Malachite | 0.70% | ~25 |
 | Out of Time | 0.50% | ~18 |
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,603 (Ranked 230)  
+Progressed: 3,604 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 5 (0.14%) (Ranked 304)
 | 2024-01-22 | 3,582 | 5 |
 | 2024-01-23 | 3,589 | 5 |
 | 2024-01-24 | 3,602 | 5 |
-| 2024-01-25 | 3,603 | 5 |
+| 2024-01-25 | 3,604 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 567)  
 Sum: 46 (Ranked 524)  
@@ -240,3 +240,4 @@ Diff (max vs sum): 43
 | 2024-01-19 | 4.19 | 22 | 42 |
 | 2024-01-21 | 4.20 | 23 | 43 |
 | 2024-01-23 | 4.20 | 23 | 46 |
+| 2024-01-25 | 4.19 | 23 | 46 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -367,9 +367,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235761,
+  "EOS_Progressed": 235763,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28702,6 +28702,11 @@
       "Time": "2024-01-25T00:03:49.5645436+00:00",
       "NumProgressed": 235761,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T01:55:21.7645891+00:00",
+      "NumProgressed": 235763,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -28777,7 +28782,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84874
+      "UsersEstimate": 84875
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -28913,7 +28918,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -28921,7 +28926,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40079
+      "UsersEstimate": 40080
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -28936,7 +28941,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235761,
+      "Progressed": 235763,
       "Completed": 6
     }
   ],
@@ -28944,8 +28949,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-24T17:59:56.6891716+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:03:49.5645433+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:55:21.7645887+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:26.6576399+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:59:23.8607854+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:03:49.5646798+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:50:35.8868843+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:55:21.7647381+00:00"
 }

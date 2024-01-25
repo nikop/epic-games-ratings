@@ -6,43 +6,43 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~347,682 |
-| good drivers have dead flies on the side windows | 32.00% | ~139,073 |
-| keep it tidy | 26.00% | ~112,997 |
-| brail | 26.00% | ~112,997 |
-| car wash | 23.00% | ~99,959 |
-| the artist | 23.00% | ~99,959 |
-| podium | 20.00% | ~86,921 |
-| medium attack | 17.00% | ~73,883 |
-| bicycle race | 6.00% | ~26,076 |
-| grocery-getter | 5.00% | ~21,730 |
-| autopilot | 4.00% | ~17,384 |
-| night ride | 4.00% | ~17,384 |
-| rwd only | 3.00% | ~13,038 |
-| where is the stage? | 3.00% | ~13,038 |
-| snorkel | 3.00% | ~13,038 |
-| food tour: pasta | 3.00% | ~13,038 |
-| to finish first, first you must finish | 2.00% | ~8,692 |
-| perkele | 2.00% | ~8,692 |
-| turbo | 2.00% | ~8,692 |
-| if in doubt, flat out! | 2.00% | ~8,692 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,692 |
-| mittens | 2.00% | ~8,692 |
-| food tour: pretzel | 2.00% | ~8,692 |
-| espresso | 1.00% | ~4,346 |
-| monster | 1.00% | ~4,346 |
-| in like a lamb, out like a lion | 1.00% | ~4,346 |
-| eurobeat | 0.70% | ~3,042 |
-| viking | 0.70% | ~3,042 |
-| parallel universe | 0.70% | ~3,042 |
+| light attack | 80.00% | ~347,741 |
+| good drivers have dead flies on the side windows | 32.00% | ~139,096 |
+| keep it tidy | 26.00% | ~113,016 |
+| brail | 26.00% | ~113,016 |
+| car wash | 23.00% | ~99,975 |
+| the artist | 23.00% | ~99,975 |
+| podium | 20.00% | ~86,935 |
+| medium attack | 17.00% | ~73,895 |
+| bicycle race | 6.00% | ~26,081 |
+| grocery-getter | 5.00% | ~21,734 |
+| autopilot | 4.00% | ~17,387 |
+| night ride | 4.00% | ~17,387 |
+| rwd only | 3.00% | ~13,040 |
+| where is the stage? | 3.00% | ~13,040 |
+| snorkel | 3.00% | ~13,040 |
+| food tour: pasta | 3.00% | ~13,040 |
+| to finish first, first you must finish | 2.00% | ~8,694 |
+| perkele | 2.00% | ~8,694 |
+| turbo | 2.00% | ~8,694 |
+| if in doubt, flat out! | 2.00% | ~8,694 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,694 |
+| mittens | 2.00% | ~8,694 |
+| food tour: pretzel | 2.00% | ~8,694 |
+| espresso | 1.00% | ~4,347 |
+| monster | 1.00% | ~4,347 |
+| in like a lamb, out like a lion | 1.00% | ~4,347 |
+| eurobeat | 0.70% | ~3,043 |
+| viking | 0.70% | ~3,043 |
+| parallel universe | 0.70% | ~3,043 |
 | oktoberfest | 0.60% | ~2,608 |
 | group b | 0.50% | ~2,173 |
 | maximum attack | 0.50% | ~2,173 |
 | samir | 0.50% | ~2,173 |
-| parking lot | 0.40% | ~1,738 |
-| master of rally | 0.40% | ~1,738 |
-| antilag | 0.40% | ~1,738 |
-| real roads, real fast | 0.40% | ~1,738 |
+| parking lot | 0.40% | ~1,739 |
+| master of rally | 0.40% | ~1,739 |
+| antilag | 0.40% | ~1,739 |
+| real roads, real fast | 0.40% | ~1,739 |
 | comfy seats | 0.30% | ~1,304 |
 | simulator | 0.20% | ~869 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~435 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~435 |
 | you're here for a good time, not a long time | 0.10% | ~435 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,603 (Ranked 47)  
+Progressed: 434,676 (Ranked 47)  
 Completed: 27 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,17 +260,17 @@ Completed: 27 (0.01%) (Ranked 384)
 | 2024-01-22 | 432,130 | 27 |
 | 2024-01-23 | 433,315 | 27 |
 | 2024-01-24 | 434,560 | 27 |
-| 2024-01-25 | 434,603 | 27 |
+| 2024-01-25 | 434,676 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
-Sum: 317 (Ranked 382)  
-Diff (max vs sum): 93  
+Sum: 318 (Ranked 381)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 46 |
 | This game is Highly Recommended | 45 |
 | This game is Great for Quick Sessions | 41 |
-| This game is Relaxing | 37 |
+| This game is Relaxing | 38 |
 | This game is Extremely Fun | 37 |
 | This game has Amazing Storytelling | 35 |
 | This game is Great for Beginners | 28 |
@@ -350,3 +350,4 @@ Diff (max vs sum): 93
 | 2024-01-22 | 4.64 | - | 46 | 304 |
 | 2024-01-23 | 4.64 | - | 46 | 313 |
 | 2024-01-24 | 4.64 | - | 46 | 317 |
+| 2024-01-25 | 4.63 | - | 46 | 318 |

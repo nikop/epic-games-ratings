@@ -2,10 +2,10 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 310,
+  "Ranking_Rating": 309,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 190,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 147,
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9178,
+  "EOS_Progressed": 9179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10635,6 +10635,11 @@
       "Time": "2024-01-24T19:10:24.5390075+00:00",
       "NumProgressed": 9178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T02:01:47.6862315+00:00",
+      "NumProgressed": 9179,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10990,13 +10995,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9178,
+      "Progressed": 9179,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1795,
+      "Progressed": 1796,
       "Completed": 1050
     }
   ],
@@ -11004,8 +11009,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-23T14:03:14.5919033+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:09:59.2936998+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:47.6862311+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-25T00:03:12.7941759+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:09:59.2937593+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:54:38.8928065+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:47.6862961+00:00"
 }

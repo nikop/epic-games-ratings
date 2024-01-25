@@ -9,20 +9,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.80% | ~8,466 |
 | Right Back At Ya | 0.80% | ~8,466 |
 | The Hermit | 0.80% | ~8,466 |
+| The Wheel of Fortune | 0.80% | ~8,466 |
 | True Soldier | 0.80% | ~8,466 |
 | Christmas Tree Attack | 0.70% | ~7,408 |
 | Life of the Road | 0.70% | ~7,408 |
 | The High Priestess | 0.70% | ~7,408 |
 | The Lovers | 0.70% | ~7,408 |
-| The Wheel of Fortune | 0.70% | ~7,408 |
 | Legend of The Afterlife | 0.70% | ~7,408 |
 | Bushido and Chill | 0.60% | ~6,350 |
 | Gun Fu | 0.60% | ~6,350 |
 | Stanislavski's Method | 0.60% | ~6,350 |
 | The Fool | 0.60% | ~6,350 |
 | The World | 0.60% | ~6,350 |
-| All the President's Men | 0.60% | ~1,121 |
-| Arachnophobia | 0.60% | ~1,121 |
+| All the President's Men | 0.60% | ~1,122 |
+| Arachnophobia | 0.60% | ~1,122 |
 | Master Crafter | 0.50% | ~5,291 |
 | I Am The Law | 0.50% | ~5,291 |
 | The Quick and the Dead | 0.50% | ~5,291 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,274 (Ranked 17)  
+Progressed: 1,058,298 (Ranked 17)  
 Completed: 3,158 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,10 +354,10 @@ Completed: 3,158 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,274 | 3,158 |
+| 2024-01-25 | 1,058,298 | 3,158 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
-Sum: 518,283 (Ranked 8)  
+Sum: 518,396 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -371,7 +371,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 29,891 |
 | This game is Relaxing | 28,919 |
 | This game has Quickly Understood Controls | 28,842 |
-| This game has a Creative Community | 20,059 |
+| This game has a Creative Community | 20,172 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -746,3 +746,4 @@ Diff (max vs sum): 0
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
+| 2024-01-25 | 4.68 | - | 144,777 | 518,396 |

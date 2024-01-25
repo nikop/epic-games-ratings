@@ -421,9 +421,9 @@
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SOS_EVIL_CODE",
@@ -477,9 +477,9 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SOS_GHOSTS",
@@ -509,9 +509,9 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SOS_HEARTBREAKING_END",
@@ -557,9 +557,9 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SOS_LASTBATTLE",
@@ -781,9 +781,9 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SOS_WHAT_HURTS",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:04:05.4312015+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:55:39.3845992+00:00",
   "LastUpdate_AppInfo": "2024-01-22T20:56:58.2954624+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:33.8154982+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:04:05.4312601+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:49:38.9339749+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:55:39.3846447+00:00"
 }

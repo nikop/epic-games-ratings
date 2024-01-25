@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 328)  
+Rating: 4.65 (Ranked 327)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,9 +31,9 @@ Rating: 4.65 (Ranked 328)
 | We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~252 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~25 |
 | Mux Ado About Shipping | 0.90% | ~22 |
+| Sequel-Bait | 0.60% | ~151 |
+| Carried Stan's Load To Completion | 0.60% | ~151 |
 | Fall In Love With A Parasite | 0.60% | ~15 |
-| Sequel-Bait | 0.50% | ~126 |
-| Carried Stan's Load To Completion | 0.50% | ~126 |
 | A Starfish Is Born | 0.40% | ~101 |
 | Playing Favorites | 0.40% | ~101 |
 | Give Away All Your Money | 0.30% | ~7 |

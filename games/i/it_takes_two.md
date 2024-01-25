@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~107,060 |
-| Struck A Pose | 82.00% | ~105,770 |
-| Look At Him Go | 70.00% | ~90,292 |
-| On Rails Experience | 46.00% | ~59,334 |
-| A Daring Devil | 44.00% | ~56,755 |
-| Break the Bank | 34.00% | ~43,856 |
-| It Took Two | 33.00% | ~42,566 |
-| Bug Sized Relaxation | 15.00% | ~19,348 |
-| Plastic Prison Breakers | 13.00% | ~16,768 |
-| Terror Of The Seven Seas | 11.00% | ~14,189 |
-| Realize Your Art | 8.00% | ~10,319 |
-| Force Triangulated | 8.00% | ~10,319 |
-| Meditation Maestro | 8.00% | ~10,319 |
-| Lost And Found | 7.00% | ~9,029 |
-| Something Fishy | 7.00% | ~9,029 |
-| Snackosaurus | 6.00% | ~7,739 |
-| Platforming Prodigy | 6.00% | ~7,739 |
-| Mood Swing | 5.00% | ~6,449 |
+| Fried Friendship | 83.00% | ~107,071 |
+| Struck A Pose | 82.00% | ~105,781 |
+| Look At Him Go | 70.00% | ~90,301 |
+| On Rails Experience | 46.00% | ~59,340 |
+| A Daring Devil | 44.00% | ~56,760 |
+| Break the Bank | 34.00% | ~43,860 |
+| It Took Two | 33.00% | ~42,570 |
+| Bug Sized Relaxation | 15.00% | ~19,350 |
+| Plastic Prison Breakers | 13.00% | ~16,770 |
+| Terror Of The Seven Seas | 11.00% | ~14,190 |
+| Realize Your Art | 8.00% | ~10,320 |
+| Force Triangulated | 8.00% | ~10,320 |
+| Meditation Maestro | 8.00% | ~10,320 |
+| Lost And Found | 7.00% | ~9,030 |
+| Something Fishy | 7.00% | ~9,030 |
+| Snackosaurus | 6.00% | ~7,740 |
+| Platforming Prodigy | 6.00% | ~7,740 |
+| Mood Swing | 5.00% | ~6,450 |
 | Faraway Frequencies | 3.00% | ~3,870 |
 | Minigame Megalomania | 2.00% | ~2,580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,988 (Ranked 93)  
+Progressed: 129,001 (Ranked 93)  
 Completed: 318 (0.25%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,4 +157,4 @@ Completed: 318 (0.25%) (Ranked 277)
 | 2024-01-22 | 127,069 | 306 |
 | 2024-01-23 | 128,029 | 309 |
 | 2024-01-24 | 128,980 | 318 |
-| 2024-01-25 | 128,988 | 318 |
+| 2024-01-25 | 129,001 | 318 |

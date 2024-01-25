@@ -479,9 +479,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 12190,
+  "EOS_Progressed": 12193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6079,6 +6079,11 @@
       "Time": "2024-01-24T23:10:09.5670209+00:00",
       "NumProgressed": 12190,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T02:01:47.9647057+00:00",
+      "NumProgressed": 12193,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6099,7 +6104,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6203,7 +6208,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "17_TheExemplar",
@@ -6219,7 +6224,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6251,7 +6256,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "23_DynastyRestored",
@@ -6267,7 +6272,7 @@
       "Name": "Highrise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "25_DynastyProspers",
@@ -6299,7 +6304,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6443,7 +6448,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "47_AFlame",
@@ -6610,7 +6615,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12190,
+      "Progressed": 12193,
       "Completed": 1
     }
   ],
@@ -6618,8 +6623,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:09:59.3268285+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:47.9647054+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:45.7470434+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:09:59.3268998+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:49:53.1504671+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:47.9647867+00:00"
 }

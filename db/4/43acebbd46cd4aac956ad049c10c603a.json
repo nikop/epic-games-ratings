@@ -4523,9 +4523,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 132
     },
     {
       "ID": "GoodCitizen",
@@ -4795,9 +4795,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 616
     },
     {
       "ID": "TouchGrass",
@@ -4868,8 +4868,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-24T01:50:01.4049363+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:05:08.4271509+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:56:48.398859+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:59:25.2717472+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:05:08.4272122+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:50:38.0329995+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:56:48.3989421+00:00"
 }

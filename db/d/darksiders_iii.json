@@ -2717,9 +2717,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 394
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -3181,8 +3181,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-24T13:04:26.9223833+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:05:06.2121367+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:56:45.9234947+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:07.8267617+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:05:06.2122313+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:49:06.0881661+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:56:45.9235475+00:00"
 }

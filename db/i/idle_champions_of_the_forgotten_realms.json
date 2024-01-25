@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9817,9 +9817,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255449,
-  "EOS_Completed": 2640,
-  "EOS_NewPlayers": 973,
+  "EOS_Progressed": 255460,
+  "EOS_Completed": 2641,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41552,6 +41552,11 @@
       "Time": "2024-01-25T00:10:08.4503802+00:00",
       "NumProgressed": 255449,
       "NumCompleted": 2640
+    },
+    {
+      "Time": "2024-01-25T02:01:57.7143728+00:00",
+      "NumProgressed": 255460,
+      "NumCompleted": 2641
     }
   ],
   "TotalAchievements": 546,
@@ -41563,7 +41568,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12772
+      "UsersEstimate": 12773
     },
     {
       "ID": "objective_completed_10",
@@ -43243,7 +43248,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "objective_completed_35",
@@ -43427,7 +43432,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "objective_completed_40",
@@ -45930,21 +45935,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221723,
+      "Progressed": 221734,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255449,
-      "Completed": 2640
+      "Progressed": 255460,
+      "Completed": 2641
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T21:58:43.8356184+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:10:08.4503798+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:57.7143725+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:55.3644332+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:10:08.4526494+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:50:03.3404578+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:57.7165838+00:00"
 }

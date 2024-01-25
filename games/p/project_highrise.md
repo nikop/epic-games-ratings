@@ -27,9 +27,9 @@
 | Leveled Up Shops | 18.00% | ~98 |
 | We Don't Need No Education | 18.00% | ~98 |
 | Lux Living | 17.00% | ~92 |
+| Tasty Profits | 17.00% | ~92 |
 | Emporium Empire | 17.00% | ~92 |
 | Get Electrified | 17.00% | ~92 |
-| Tasty Profits | 16.00% | ~87 |
 | Rehab Expert | 15.00% | ~81 |
 | Established Fame | 15.00% | ~81 |
 | Under One Roof | 13.00% | ~70 |

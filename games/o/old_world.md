@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 328)  
+Rating: 4.65 (Ranked 327)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 1.00% | ~171 |
 | Capable | 0.90% | ~154 |
 | Invincible | 0.90% | ~154 |
+| Lion | 0.90% | ~154 |
 | Ready | 0.90% | ~154 |
 | Subjugator | 0.90% | ~154 |
 | Riders | 0.90% | ~154 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 0.90% | ~154 |
 | Royal Library | 0.90% | ~154 |
 | Yazilikaya | 0.90% | ~154 |
-| Lion | 0.80% | ~137 |
 | Strong Difficulty | 0.80% | ~137 |
 | Hunters | 0.80% | ~137 |
 | Babylonia | 0.80% | ~137 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,148 (Ranked 170)  
+Progressed: 17,149 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
-| 2024-01-25 | 17,148 | 5 |
+| 2024-01-25 | 17,149 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

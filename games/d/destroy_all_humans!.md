@@ -6,7 +6,7 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 78.00% | ~442 |
+| Shop Til They Drop | 79.00% | ~448 |
 | Kaijuiced | 73.00% | ~414 |
 | Lie Back and Think of Albion | 68.00% | ~386 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~369 |

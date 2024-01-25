@@ -19,9 +19,9 @@ Rating: 4.67 (Ranked 289)
 | Fast Learner | 27.00% | ~367 |
 | Immaculate Aim | 27.00% | ~367 |
 | The Steel Shadow | 26.00% | ~353 |
+| The Wicked Twins | 25.00% | ~340 |
 | Right On Time | 24.00% | ~326 |
 | Breaking Down Barriers | 24.00% | ~326 |
-| The Wicked Twins | 24.00% | ~326 |
 | Golem Chaser | 24.00% | ~326 |
 | Like Clockwork | 23.00% | ~312 |
 | The Betrayer | 23.00% | ~312 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 289)
 | Fitting In | 2.00% | ~27 |
 | No Time to Waste | 1.00% | ~14 |
 | A Lesson in Precision | 0.90% | ~12 |
-| Wildlife Protection | 0.70% | ~10 |
+| Wildlife Protection | 0.80% | ~11 |
 | Raw Talent | 0.70% | ~10 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)

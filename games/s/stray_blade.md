@@ -19,11 +19,11 @@
 | The Golden Flash | 4.00% | ~7 |
 | Searing Heat | 3.00% | ~5 |
 | Witch | 3.00% | ~5 |
+| Nothing but the Truth | 3.00% | ~5 |
 | The A-Team | 3.00% | ~5 |
 | The Power of the Mountains | 3.00% | ~5 |
 | Defeat Ingla | 2.00% | ~3 |
 | Through Dangers Untold | 2.00% | ~3 |
-| Nothing but the Truth | 2.00% | ~3 |
 | The End | 2.00% | ~3 |
 | But what of the Acreans? | 2.00% | ~3 |
 | Changing the World | 2.00% | ~3 |

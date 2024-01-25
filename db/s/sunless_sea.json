@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44876,
+  "EOS_Progressed": 44880,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29481,6 +29481,11 @@
       "Time": "2024-01-25T00:03:35.8588597+00:00",
       "NumProgressed": 44876,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T01:55:06.1996475+00:00",
+      "NumProgressed": 44880,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29508,7 +29513,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7629
+      "UsersEstimate": 7630
     },
     {
       "ID": "ach_antiquarian10",
@@ -29556,7 +29561,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "ach_cursestone",
@@ -29580,7 +29585,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "ach_deathofermod",
@@ -29612,7 +29617,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16155
+      "UsersEstimate": 16157
     },
     {
       "ID": "ach_die10",
@@ -29660,7 +29665,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "ach_invictus",
@@ -29684,15 +29689,15 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_legacypupil",
       "SetID": "ammcm",
       "Name": "Pupil",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3141
+      "UsersEstimate": 2693
     },
     {
       "ID": "ach_legacyrival",
@@ -29716,7 +29721,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "ach_newstories",
@@ -29836,7 +29841,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "ach_sweetheart",
@@ -29852,7 +29857,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_terror90",
@@ -29860,7 +29865,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "ach_undercurrent",
@@ -29892,7 +29897,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_year1",
@@ -29923,15 +29928,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44876,
+      "Progressed": 44880,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:03:35.8588596+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:55:06.1996474+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:58.4410548+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:03:35.8590096+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:50:07.1158167+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:55:06.1997827+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4036,6 +4036,11 @@
       "Time": "2024-01-25T00:09:48.1400879+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T02:01:35.4249084+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -4055,7 +4060,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "CHIEF",
@@ -4071,7 +4076,7 @@
       "Name": "CLEANER",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "DEBTOR",
@@ -4087,7 +4092,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "FIRST_100K",
@@ -4111,7 +4116,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "INTRODUCTION",
@@ -4158,7 +4163,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 0
     }
   ],
@@ -4166,8 +4171,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:09:48.1400876+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:01:35.4249082+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.6348808+00:00",
-  "LastUpdate_Ratings": "2024-01-25T00:00:19.3609608+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:09:48.1401197+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:53:37.5736994+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:01:35.4249341+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1843,18 +1843,24 @@
       "Rating": 4.12,
       "NumberOfAwards": 543,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-01-25T01:49:39.7636905+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 544,
+      "NumberOfAwardsMax": 142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 543,
-  "NumberOfAwardsMax": 141,
+  "NumberOfAwards": 544,
+  "NumberOfAwardsMax": 142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 141
+      "Count": 142
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1911,9 +1917,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90309,
+  "EOS_Progressed": 90318,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1863,
+  "EOS_NewPlayers": 1861,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -18066,6 +18072,11 @@
       "Time": "2024-01-25T00:07:52.769988+00:00",
       "NumProgressed": 90309,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-25T01:59:27.7811755+00:00",
+      "NumProgressed": 90318,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18078,7 +18089,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42445
+      "UsersEstimate": 42449
     },
     {
       "ID": "10",
@@ -18094,7 +18105,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "12",
@@ -18102,7 +18113,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "13",
@@ -18142,7 +18153,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18965
+      "UsersEstimate": 18967
     },
     {
       "ID": "3",
@@ -18150,7 +18161,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12643
+      "UsersEstimate": 12645
     },
     {
       "ID": "4",
@@ -18158,7 +18169,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8128
+      "UsersEstimate": 8129
     },
     {
       "ID": "5",
@@ -18182,7 +18193,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24383
+      "UsersEstimate": 24386
     },
     {
       "ID": "8",
@@ -18205,16 +18216,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90309,
+      "Progressed": 90318,
       "Completed": 76
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-24T13:59:01.4899023+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:07:52.7699877+00:00",
+  "LastChanged": "2024-01-25T01:49:39.7636903+00:00",
+  "LastChanged_Achievements": "2024-01-25T01:59:27.7811749+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:34.5581452+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:07:52.7700809+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:49:39.7636908+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:59:27.7812633+00:00"
 }

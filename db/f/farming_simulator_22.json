@@ -13992,9 +13992,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63739,
+  "EOS_Progressed": 63740,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40777,6 +40777,11 @@
       "Time": "2024-01-25T00:08:24.0969491+00:00",
       "NumProgressed": 63739,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T02:00:02.5041924+00:00",
+      "NumProgressed": 63740,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -40788,7 +40793,7 @@
       "Name": "Clucky Streak",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "BreedCows",
@@ -40868,7 +40873,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 37606
+      "UsersEstimate": 37607
     },
     {
       "ID": "CutTree",
@@ -40916,7 +40921,7 @@
       "Name": "The plot thickens",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "FertilizeFirst",
@@ -40932,7 +40937,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "HarvestedFirst",
@@ -40996,7 +41001,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 31232
+      "UsersEstimate": 31233
     },
     {
       "ID": "NumBeehives",
@@ -41012,7 +41017,7 @@
       "Name": "I like to switch it up",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 23583
+      "UsersEstimate": 23584
     },
     {
       "ID": "NumPlaceables",
@@ -41044,7 +41049,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34419
+      "UsersEstimate": 34420
     },
     {
       "ID": "PetDog",
@@ -41060,7 +41065,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34419
+      "UsersEstimate": 34420
     },
     {
       "ID": "Sow",
@@ -41100,7 +41105,7 @@
       "Name": "Long haul",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "VehicleRepaint",
@@ -41131,15 +41136,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63739,
+      "Progressed": 63740,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-24T22:57:58.1646089+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:08:24.0969487+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:00:02.5041918+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:58:01.726093+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:08:24.0971102+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:48:58.7992164+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:00:02.5043279+00:00"
 }

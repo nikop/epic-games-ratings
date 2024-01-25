@@ -10,14 +10,14 @@
 | Slay it! | 37.00% | ~25 |
 | Top notch! | 37.00% | ~25 |
 | Bling bling! | 28.00% | ~19 |
-| Lives lost | 19.00% | ~13 |
-| Slaughter | 19.00% | ~13 |
-| Still alive! | 18.00% | ~12 |
-| Slay that one too! | 13.00% | ~9 |
+| Lives lost | 21.00% | ~14 |
+| Slaughter | 21.00% | ~14 |
+| Still alive! | 19.00% | ~13 |
+| Slay that one too! | 15.00% | ~10 |
+| ... And that one! | 9.00% | ~6 |
 | You monster! | 9.00% | ~6 |
 | Massive slaughter | 9.00% | ~6 |
-| ... And that one! | 7.00% | ~5 |
-| Endurance test! | 3.00% | ~2 |
+| Endurance test! | 4.00% | ~3 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67 (Ranked 544)  

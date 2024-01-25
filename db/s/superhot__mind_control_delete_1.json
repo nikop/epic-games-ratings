@@ -2,12 +2,12 @@
   "ID": "56e54e682d614c468e3d5afc54ca0adf",
   "Name": "SUPERHOT: Mind Control Delete",
   "ProductSlug": "superhot-mind-control-delete",
-  "Ranking_Rating": 310,
+  "Ranking_Rating": 309,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewPlayers": 536,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-07-16T16:00:00+00:00",
@@ -248,6 +248,6 @@
   "FirstSeenRating": "2022-08-09T03:31:43.3372712+00:00",
   "LastChanged": "2024-01-21T09:04:04.179037+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:43.7486664+00:00",
-  "LastUpdate_Ratings": "2024-01-25T00:03:06.4039949+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:08:04.373339+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:54:31.847611+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:59:40.8864047+00:00"
 }

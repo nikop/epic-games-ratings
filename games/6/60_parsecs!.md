@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,597 |
-| Space Colonization | 78.00% | ~1,298 |
-| Friendzone | 76.00% | ~1,265 |
-| Hello World | 71.00% | ~1,181 |
-| Tinkerer | 60.00% | ~998 |
-| Space Engineer | 59.00% | ~982 |
-| Dust to Dust | 55.00% | ~915 |
-| Across The Stars | 44.00% | ~732 |
-| Crafty | 41.00% | ~682 |
+| Don't Panic! | 96.00% | ~1,599 |
+| Space Colonization | 78.00% | ~1,299 |
+| Friendzone | 76.00% | ~1,266 |
+| Hello World | 71.00% | ~1,183 |
+| Tinkerer | 60.00% | ~1,000 |
+| Space Engineer | 59.00% | ~983 |
+| Dust to Dust | 55.00% | ~916 |
+| Across The Stars | 44.00% | ~733 |
+| Crafty | 41.00% | ~683 |
 | All Seats Taken | 34.00% | ~566 |
 | For Science! | 31.00% | ~516 |
-| Meet the Petersons | 30.00% | ~499 |
+| Meet the Petersons | 30.00% | ~500 |
+| Stay Cool | 26.00% | ~433 |
 | KIA | 25.00% | ~416 |
-| Stay Cool | 25.00% | ~416 |
-| Mutiny in making | 22.00% | ~366 |
+| Mutiny in making | 22.00% | ~367 |
 | Et tu, Astrocitizen? | 18.00% | ~300 |
-| Eco-Shuttle | 16.00% | ~266 |
-| Space Explorer | 13.00% | ~216 |
+| Eco-Shuttle | 16.00% | ~267 |
+| Space Explorer | 13.00% | ~217 |
 | Hands Full | 11.00% | ~183 |
-| Gold Medalist | 10.00% | ~166 |
+| Gold Medalist | 10.00% | ~167 |
 | Non-Fiction | 9.00% | ~150 |
 | No Man Left Behind | 8.00% | ~133 |
-| Intergalactic Breakup | 7.00% | ~116 |
+| Intergalactic Breakup | 7.00% | ~117 |
 | First of April | 6.00% | ~100 |
 | Second Life | 6.00% | ~100 |
 | Axel jump in space! | 5.00% | ~83 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,664 (Ranked 268)  
+Progressed: 1,666 (Ranked 268)  
 Completed: 1 (0.06%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,6 +213,7 @@ Completed: 1 (0.06%) (Ranked 341)
 | 2024-01-22 | 1,590 | 1 |
 | 2024-01-23 | 1,644 | 1 |
 | 2024-01-24 | 1,664 | 1 |
+| 2024-01-25 | 1,666 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

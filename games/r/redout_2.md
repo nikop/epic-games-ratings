@@ -5,8 +5,8 @@ Rating: 4.53 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~330 |
-| Increasing your Power Level | 27.00% | ~330 |
+| Rookie No More | 27.00% | ~331 |
+| Increasing your Power Level | 27.00% | ~331 |
 | Enter the Speed Gauntlet | 25.00% | ~306 |
 | I just can't choose | 25.00% | ~306 |
 | A Cheese Grater to the Face | 19.00% | ~233 |
@@ -15,17 +15,17 @@ Rating: 4.53 (Ranked 573)
 | Ride in the rising sun | 16.00% | ~196 |
 | Suit up | 16.00% | ~196 |
 | Walked like an Egyptian | 15.00% | ~184 |
-| Rookie No-No More | 13.00% | ~159 |
 | Running at the speed of sound | 13.00% | ~159 |
+| Rookie No-No More | 12.00% | ~147 |
 | Martian explorer | 11.00% | ~135 |
 | To the core | 8.00% | ~98 |
 | Blurred photofinish | 8.00% | ~98 |
 | EZ game EZ life | 7.00% | ~86 |
 | First step into a larger world | 7.00% | ~86 |
-| Over the clouds | 6.00% | ~73 |
-| Under the sea, under the sea | 6.00% | ~73 |
-| Even Faster! | 6.00% | ~73 |
-| Longshot | 6.00% | ~73 |
+| Over the clouds | 6.00% | ~74 |
+| Under the sea, under the sea | 6.00% | ~74 |
+| Even Faster! | 6.00% | ~74 |
+| Longshot | 6.00% | ~74 |
 | B-asic! | 5.00% | ~61 |
 | Under the neon lights | 4.00% | ~49 |
 | All Power to Engines! | 4.00% | ~49 |
@@ -58,7 +58,7 @@ Rating: 4.53 (Ranked 573)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,224 (Ranked 291)  
+Progressed: 1,225 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 1,222 | 0 |
 | 2024-01-23 | 1,223 | 0 |
 | 2024-01-24 | 1,224 | 0 |
+| 2024-01-25 | 1,225 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

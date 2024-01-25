@@ -5,17 +5,17 @@ Rating: 4.64 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~17,016 |
-| On the Top Step | 83.00% | ~15,520 |
-| Setting up for Success | 70.00% | ~13,089 |
-| Team Orders | 68.00% | ~12,715 |
-| Engineer | 46.00% | ~8,602 |
-| Familiar Faces | 42.00% | ~7,854 |
-| Going the Extra Mile | 36.00% | ~6,732 |
-| Sharing the Love | 34.00% | ~6,358 |
-| Hitting a Season | 29.00% | ~5,423 |
-| A Dozen Pieces | 26.00% | ~4,862 |
-| Making History | 25.00% | ~4,675 |
+| Getting on the Step | 91.00% | ~17,019 |
+| On the Top Step | 83.00% | ~15,523 |
+| Setting up for Success | 70.00% | ~13,091 |
+| Team Orders | 68.00% | ~12,717 |
+| Engineer | 46.00% | ~8,603 |
+| Familiar Faces | 42.00% | ~7,855 |
+| Going the Extra Mile | 36.00% | ~6,733 |
+| Sharing the Love | 34.00% | ~6,359 |
+| Hitting a Season | 29.00% | ~5,424 |
+| A Dozen Pieces | 26.00% | ~4,863 |
+| Making History | 25.00% | ~4,676 |
 | Network Success | 24.00% | ~4,488 |
 | Challenge Yourself | 24.00% | ~4,488 |
 | Writing a new Chapter | 20.00% | ~3,740 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 347)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,699 (Ranked 165)  
+Progressed: 18,702 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 18,629 | 0 |
 | 2024-01-23 | 18,659 | 0 |
 | 2024-01-24 | 18,697 | 0 |
-| 2024-01-25 | 18,699 | 0 |
+| 2024-01-25 | 18,702 | 0 |
 ## Awards
-Max (Diverse Characters): 74  (Ranked 414)  
-Sum: 484 (Ranked 342)  
-Diff (max vs sum): 72  
+Max (Diverse Characters): 76  (Ranked 410)  
+Sum: 486 (Ranked 342)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 74 |
+| This game has Diverse Characters | 76 |
 | This game has a Competitive Community | 58 |
 | This game has Amazing Characters | 51 |
 | This game is Highly Recommended | 50 |
@@ -345,3 +345,4 @@ Diff (max vs sum): 72
 | 2024-01-22 | 4.65 | 71 | 477 |
 | 2024-01-23 | 4.65 | 74 | 484 |
 | 2024-01-24 | 4.64 | 74 | 484 |
+| 2024-01-25 | 4.64 | 76 | 486 |

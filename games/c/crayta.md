@@ -1,7 +1,7 @@
 # Crayta
 [Store](https://store.epicgames.com/en-US/p/crayta)  
 [View Rawdata](../../db/c/crayta.json)  
-Rating: 4.19 (Ranked 985)  
+Rating: 4.19 (Ranked 984)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,009 (Ranked 99)  
+Progressed: 110,010 (Ranked 99)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,6 +307,7 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 110,002 | 5 |
 | 2024-01-23 | 110,004 | 5 |
 | 2024-01-24 | 110,009 | 5 |
+| 2024-01-25 | 110,010 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 466)  
 Sum: 370 (Ranked 369)  

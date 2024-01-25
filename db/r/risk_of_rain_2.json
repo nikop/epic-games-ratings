@@ -4,10 +4,10 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 69,
   "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 196,
+  "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewPlayers": 536,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
@@ -3585,10 +3585,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 2747,
       "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2024-01-25T01:48:32.1844197+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 2750,
+      "NumberOfAwardsMax": 303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2747,
+  "NumberOfAwards": 2750,
   "NumberOfAwardsMax": 303,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3620,7 +3626,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3638,7 +3644,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 226
+      "Count": 228
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3676,8 +3682,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2024-01-24T17:58:01.4041687+00:00",
+  "LastChanged": "2024-01-25T01:48:32.1844196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:57.4749626+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:57:38.0773942+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:04:36.1921647+00:00"
+  "LastUpdate_Ratings": "2024-01-25T01:48:32.1844201+00:00",
+  "LastUpdate_Achievements": "2024-01-25T01:56:13.0398137+00:00"
 }
