@@ -66,13 +66,13 @@ Number of Ratings: 37  (23.09.2022)
 | Only the sausage has two ends. | 2.00% | ~89 |
 | I've been everywhere V | 2.00% | ~89 |
 | Tax-man V | 2.00% | ~89 |
+| A time consuming game V | 2.00% | ~89 |
 | When there's fire... | 1.00% | ~45 |
 | Reunification | 1.00% | ~45 |
 | Treat her well… | 1.00% | ~45 |
 | I've been everywhere II | 1.00% | ~45 |
 | I've been everywhere I | 1.00% | ~45 |
 | I've been everywhere VI | 1.00% | ~45 |
-| A time consuming game V | 1.00% | ~45 |
 | Builder V | 0.90% | ~40 |
 | Ten-Hut! | 0.90% | ~40 |
 | The wood shortage | 0.90% | ~40 |

@@ -2,13 +2,13 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1060,
+  "Ranking_Rating": 1061,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8329,9 +8329,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152739,
+  "EOS_Progressed": 152743,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -38084,6 +38084,11 @@
       "Time": "2024-01-25T07:10:20.9937938+00:00",
       "NumProgressed": 152739,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2024-01-25T08:09:46.8133256+00:00",
+      "NumProgressed": 152743,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 112,
@@ -38175,7 +38180,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9164
+      "UsersEstimate": 9165
     },
     {
       "ID": "bigsale02",
@@ -38199,7 +38204,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9164
+      "UsersEstimate": 9165
     },
     {
       "ID": "blueprint02",
@@ -38327,7 +38332,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16801
+      "UsersEstimate": 16802
     },
     {
       "ID": "commonres02",
@@ -38447,7 +38452,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9164
+      "UsersEstimate": 9165
     },
     {
       "ID": "energy02",
@@ -38575,7 +38580,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9164
+      "UsersEstimate": 9165
     },
     {
       "ID": "gold03",
@@ -38959,7 +38964,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9164
+      "UsersEstimate": 9165
     },
     {
       "ID": "workers02",
@@ -38990,15 +38995,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152739,
+      "Progressed": 152743,
       "Completed": 363
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-24T22:03:18.9806203+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:10:20.9937934+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:09:46.8133252+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:04:08.7111947+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:10:20.9939911+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:03:23.4932659+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:09:46.8135494+00:00"
 }

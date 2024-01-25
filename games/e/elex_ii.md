@@ -25,8 +25,8 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 16.00% | ~46 |
 | Berserker | 16.00% | ~46 |
 | Hunter | 14.00% | ~41 |
+| Lover | 14.00% | ~41 |
 | Perfectionist | 13.00% | ~38 |
-| Lover | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Alb | 12.00% | ~35 |
 | Free as a Bird | 11.00% | ~32 |

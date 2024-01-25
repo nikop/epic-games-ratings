@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1037,
+  "Ranking_Rating": 1038,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 211,
@@ -13648,9 +13648,9 @@
       "ID": "hunter",
       "SetID": "3nl4bcg",
       "Name": "Hunter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 430
     },
     {
       "ID": "inspection",
@@ -13993,8 +13993,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-24T14:57:39.9491694+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:08:54.8996905+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:08:20.4982199+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:58:29.8124266+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:08:54.8997879+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:58:15.0434413+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:08:20.4983174+00:00"
 }

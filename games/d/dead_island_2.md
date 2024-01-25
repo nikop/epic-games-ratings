@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,013 |
-| Hotel California | 10.00% | ~80,921 |
-| Break A Leg | 9.00% | ~72,829 |
-| Coup de Grâce | 8.00% | ~64,737 |
-| Hazardous Materials | 8.00% | ~64,737 |
+| Welcome To Hell-A | 11.00% | ~89,014 |
+| Hotel California | 10.00% | ~80,922 |
+| Break A Leg | 9.00% | ~72,830 |
+| Coup de Grâce | 8.00% | ~64,738 |
+| Hazardous Materials | 8.00% | ~64,738 |
 | Git Gutte! | 7.00% | ~56,645 |
 | Apex Predator | 7.00% | ~56,645 |
 | Personal Assistant Personally Assisted | 7.00% | ~56,645 |
@@ -24,21 +24,21 @@ Rating: 4.54 (Ranked 550)
 | Can't Handle the Truth | 5.00% | ~40,461 |
 | Like Riding a Bike | 5.00% | ~40,461 |
 | A Patton Emerges | 5.00% | ~40,461 |
-| Making Your Mark | 4.00% | ~32,368 |
-| Perks of the Job | 4.00% | ~32,368 |
-| Slayer Squad | 4.00% | ~32,368 |
-| Zombologist | 4.00% | ~32,368 |
-| Ooh, Shiny! | 4.00% | ~32,368 |
-| I Am the Resurrection | 4.00% | ~32,368 |
-| Our True Nature | 4.00% | ~32,368 |
-| Whatever It Takes | 4.00% | ~5,390 |
-| Pork Chopped | 4.00% | ~5,390 |
-| Jumbo Keyring | 3.00% | ~24,276 |
-| Humanity Distilled | 3.00% | ~24,276 |
-| Down with the Sickness | 3.00% | ~24,276 |
-| Max Headroom | 3.00% | ~24,276 |
-| Go, Bobcats! | 3.00% | ~24,276 |
-| Rising Star | 3.00% | ~24,276 |
+| Making Your Mark | 4.00% | ~32,369 |
+| Perks of the Job | 4.00% | ~32,369 |
+| Slayer Squad | 4.00% | ~32,369 |
+| Zombologist | 4.00% | ~32,369 |
+| Ooh, Shiny! | 4.00% | ~32,369 |
+| I Am the Resurrection | 4.00% | ~32,369 |
+| Our True Nature | 4.00% | ~32,369 |
+| Whatever It Takes | 4.00% | ~5,391 |
+| Pork Chopped | 4.00% | ~5,391 |
+| Jumbo Keyring | 3.00% | ~24,277 |
+| Humanity Distilled | 3.00% | ~24,277 |
+| Down with the Sickness | 3.00% | ~24,277 |
+| Max Headroom | 3.00% | ~24,277 |
+| Go, Bobcats! | 3.00% | ~24,277 |
+| Rising Star | 3.00% | ~24,277 |
 | One of Us | 3.00% | ~4,043 |
 | Make it So | 2.00% | ~16,184 |
 | On Safari | 2.00% | ~16,184 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,211 (Ranked 23)  
+Progressed: 809,219 (Ranked 23)  
 Completed: 2,633 (0.33%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 2,633 (0.33%) (Ranked 262)
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
-| 2024-01-25 | 809,211 | 2,633 |
+| 2024-01-25 | 809,219 | 2,633 |
 ## Awards
 Max (Great Boss Battles): 10,888  (Ranked 40)  
 Sum: 16,780 (Ranked 68)  

@@ -11,14 +11,14 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 3.00% | ~5,088 |
 | Weeper | 3.00% | ~5,088 |
 | Ravenous | 3.00% | ~5,088 |
+| Scion | 1.00% | ~1,692 |
 | Harmless | 1.00% | ~1,696 |
+| Jawcrab | 1.00% | ~1,696 |
 | Feast | 1.00% | ~1,696 |
 | Silenced Whispers | 1.00% | ~1,696 |
 | Devourer | 1.00% | ~1,696 |
 | Yank | 1.00% | ~1,696 |
 | Sharpened Vessel | 1.00% | ~1,696 |
-| Scion | 0.90% | ~1,523 |
-| Jawcrab | 0.90% | ~1,526 |
 | Jawstag | 0.90% | ~1,526 |
 | Shapely | 0.80% | ~1,357 |
 | Glare | 0.80% | ~1,353 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,599 (Ranked 85)  
+Progressed: 169,601 (Ranked 85)  
 Completed: 470 (0.28%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 470 (0.28%) (Ranked 271)
 | 2024-01-22 | 169,324 | 467 |
 | 2024-01-23 | 169,450 | 468 |
 | 2024-01-24 | 169,567 | 470 |
-| 2024-01-25 | 169,599 | 470 |
+| 2024-01-25 | 169,601 | 470 |
 ## Awards
 Max (Highly Recommended): 64  (Ranked 433)  
 Sum: 471 (Ranked 345)  

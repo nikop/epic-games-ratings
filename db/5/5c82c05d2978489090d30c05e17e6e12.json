@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76914,
+  "EOS_Progressed": 76920,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1114,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8563,6 +8563,11 @@
       "Time": "2024-01-25T07:09:44.3070974+00:00",
       "NumProgressed": 76914,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-25T08:09:10.0402353+00:00",
+      "NumProgressed": 76920,
+      "NumCompleted": 130
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8575,7 +8580,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28458
+      "UsersEstimate": 28460
     },
     {
       "ID": "Achievement_10",
@@ -8655,7 +8660,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "Achievement_2",
@@ -8663,7 +8668,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21536
+      "UsersEstimate": 21538
     },
     {
       "ID": "Achievement_20",
@@ -8711,7 +8716,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "Achievement_26",
@@ -8791,7 +8796,7 @@
       "Name": "Warden",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "Achievement_4",
@@ -8799,7 +8804,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6922
+      "UsersEstimate": 6923
     },
     {
       "ID": "Achievement_5",
@@ -8823,7 +8828,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "Achievement_8",
@@ -8831,7 +8836,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "Achievement_9",
@@ -8846,7 +8851,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76914,
+      "Progressed": 76920,
       "Completed": 130
     }
   ],
@@ -8854,8 +8859,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-24T15:59:11.7050326+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:09:44.3070972+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:09:10.040235+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:59:52.1042383+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:09:44.307161+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:59:38.3622547+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:09:10.0402858+00:00"
 }

@@ -7,10 +7,10 @@ Rating: 3.80 (Ranked 1,101)
 | ---- | ---------- | ----- |
 | Eeligally Ambitious | 95.00% | ~16,672 |
 | No Half Measures | 87.00% | ~15,268 |
-| Personal Matter | 86.00% | ~15,092 |
-| But You Have Heard of Me | 72.00% | ~12,635 |
-| Double the Barrels, double the Fun | 54.00% | ~9,476 |
-| Pimp My Glide | 50.00% | ~8,774 |
+| Personal Matter | 86.00% | ~15,093 |
+| But You Have Heard of Me | 72.00% | ~12,636 |
+| Double the Barrels, double the Fun | 54.00% | ~9,477 |
+| Pimp My Glide | 50.00% | ~8,775 |
 | ... And Where Do the Stories Come From? | 40.00% | ~7,020 |
 | House Party! | 35.00% | ~6,142 |
 | Make It Rain | 23.00% | ~4,036 |
@@ -21,10 +21,10 @@ Rating: 3.80 (Ranked 1,101)
 | Sharing Is Caring | 10.00% | ~1,755 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,404 |
 | Morally Flexible | 6.00% | ~1,053 |
-| Fishing for Compliments | 5.00% | ~877 |
+| Fishing for Compliments | 5.00% | ~878 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~526 |
 | A True Dandy | 2.00% | ~351 |
-| A New Legend Awaits | 1.00% | ~175 |
+| A New Legend Awaits | 1.00% | ~176 |
 | Pirate King | 0.90% | ~158 |
 | Oooh, We're Half Way There | 0.80% | ~140 |
 | O Captain! My Captain! | 0.20% | ~35 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,101)
 | Heavy Tunaing | 0.10% | ~18 |
 | Pufferfish | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,549 (Ranked 169)  
+Progressed: 17,550 (Ranked 169)  
 Completed: 1 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 1 (0.01%) (Ranked 384)
 | 2024-01-22 | 17,544 | 1 |
 | 2024-01-23 | 17,546 | 1 |
 | 2024-01-24 | 17,549 | 1 |
+| 2024-01-25 | 17,550 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

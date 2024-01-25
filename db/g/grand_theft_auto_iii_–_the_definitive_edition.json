@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12527,
+  "EOS_Progressed": 12528,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16453,6 +16453,11 @@
       "Time": "2024-01-25T01:55:41.2241091+00:00",
       "NumProgressed": 12527,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-25T08:04:37.9565753+00:00",
+      "NumProgressed": 12528,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 29,
@@ -16464,7 +16469,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10397
+      "UsersEstimate": 10398
     },
     {
       "ID": "ACH02",
@@ -16472,7 +16477,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     },
     {
       "ID": "ACH03",
@@ -16504,7 +16509,7 @@
       "Name": "Street Sweeper",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH07",
@@ -16695,7 +16700,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12527,
+      "Progressed": 12528,
       "Completed": 96
     }
   ],
@@ -16703,8 +16708,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:05:20.6483142+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:04:37.9565749+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:58:57.5690847+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:05:20.6484083+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:58:42.9952374+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:04:37.956661+00:00"
 }

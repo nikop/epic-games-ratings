@@ -1833,9 +1833,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249431,
+  "EOS_Progressed": 249432,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27483,6 +27483,11 @@
       "Time": "2024-01-25T07:11:13.1502696+00:00",
       "NumProgressed": 249431,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-25T08:10:39.4929384+00:00",
+      "NumProgressed": 249432,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27542,7 +27547,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19954
+      "UsersEstimate": 19955
     },
     {
       "ID": "Chapter2",
@@ -27942,7 +27947,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92289
+      "UsersEstimate": 92290
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27990,7 +27995,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27437
+      "UsersEstimate": 27438
     },
     {
       "ID": "FollowBraztok",
@@ -28197,21 +28202,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249431,
+      "Progressed": 249432,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249431,
+      "Progressed": 249432,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-25T01:53:33.3656171+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:11:13.150269+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:39.4929381+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:03:18.2751443+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:11:13.150422+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:02:33.2384183+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:39.4930981+00:00"
 }

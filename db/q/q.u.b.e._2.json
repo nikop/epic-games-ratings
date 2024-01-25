@@ -611,7 +611,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48292,
+  "EOS_Progressed": 48293,
   "EOS_Completed": 253,
   "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 12,
@@ -15371,6 +15371,11 @@
       "Time": "2024-01-25T07:10:31.3485482+00:00",
       "NumProgressed": 48292,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2024-01-25T08:09:56.9912583+00:00",
+      "NumProgressed": 48293,
+      "NumCompleted": 253
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15399,7 +15404,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 9658
+      "UsersEstimate": 9659
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -15599,7 +15604,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36219
+      "UsersEstimate": 36220
     },
     {
       "ID": "ACH_STATUE",
@@ -15614,15 +15619,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48292,
+      "Progressed": 48293,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:10:31.3485476+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:09:56.9912579+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:00:30.486246+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:10:31.3486274+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:00:17.061224+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:09:56.9913661+00:00"
 }

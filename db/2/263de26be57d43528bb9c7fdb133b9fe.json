@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -417,9 +417,9 @@
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "BOSS_4",
@@ -529,9 +529,9 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "UPGRADES_FIRST",
@@ -560,8 +560,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:05:13.7136249+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:04:31.0542721+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:58:11.1193878+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:05:13.7136363+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:57:55.5427096+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:04:31.0542841+00:00"
 }

@@ -1,27 +1,27 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 171)  
+Rating: 4.74 (Ranked 170)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,794 |
-| Landlord | 35.00% | ~34,018 |
-| Trained | 30.00% | ~29,158 |
-| Bannerlord | 25.00% | ~24,299 |
-| Lawmaker | 24.00% | ~23,327 |
-| Horde breaker | 22.00% | ~21,383 |
-| The king is pleased | 20.00% | ~19,439 |
-| Apple of my eye | 18.00% | ~17,495 |
-| King Solomon | 18.00% | ~17,495 |
-| This Is Our Land | 17.00% | ~16,523 |
-| Against all odds | 16.00% | ~15,551 |
-| I can do it | 16.00% | ~15,551 |
-| Duelist | 13.00% | ~12,635 |
-| God of the Arena | 12.00% | ~11,663 |
-| Swordbearer | 11.00% | ~10,691 |
-| What have the Romans ever done for us? | 11.00% | ~10,691 |
+| Lawbringer | 43.00% | ~41,798 |
+| Landlord | 35.00% | ~34,021 |
+| Trained | 30.00% | ~29,161 |
+| Bannerlord | 25.00% | ~24,301 |
+| Lawmaker | 24.00% | ~23,329 |
+| Horde breaker | 22.00% | ~21,385 |
+| The king is pleased | 20.00% | ~19,441 |
+| Apple of my eye | 18.00% | ~17,497 |
+| King Solomon | 18.00% | ~17,497 |
+| This Is Our Land | 17.00% | ~16,525 |
+| Against all odds | 16.00% | ~15,553 |
+| I can do it | 16.00% | ~15,553 |
+| Duelist | 13.00% | ~12,637 |
+| God of the Arena | 12.00% | ~11,664 |
+| Swordbearer | 11.00% | ~10,692 |
+| What have the Romans ever done for us? | 11.00% | ~10,692 |
 | Butterlord | 10.00% | ~9,720 |
 | Dynasty | 10.00% | ~9,720 |
 | I spit on your grave | 10.00% | ~9,720 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,195 (Ranked 105)  
+Progressed: 97,204 (Ranked 105)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 96,846 | 0 |
 | 2024-01-23 | 97,011 | 0 |
 | 2024-01-24 | 97,171 | 0 |
-| 2024-01-25 | 97,195 | 0 |
+| 2024-01-25 | 97,204 | 0 |
 ## Awards
 Max (Character Customization): 8,238  (Ranked 51)  
 Sum: 17,033 (Ranked 67)  

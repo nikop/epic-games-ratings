@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44098,
+  "EOS_Progressed": 44102,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2005,
+  "EOS_NewPlayers": 2001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15114,6 +15114,11 @@
       "Time": "2024-01-25T07:11:07.0602756+00:00",
       "NumProgressed": 44098,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T08:10:33.1395426+00:00",
+      "NumProgressed": 44102,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -15350,7 +15355,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 41893
+      "UsersEstimate": 41897
     },
     {
       "ID": "achievement_36",
@@ -15438,7 +15443,7 @@
       "Name": "Unstoppable Ace",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_46",
@@ -15501,7 +15506,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 44098,
+      "Progressed": 44102,
       "Completed": 3
     }
   ],
@@ -15509,8 +15514,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:11:07.0602751+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:33.1395424+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.6990258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:04:07.8441805+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:11:07.0603575+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:03:22.5301865+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:33.139646+00:00"
 }

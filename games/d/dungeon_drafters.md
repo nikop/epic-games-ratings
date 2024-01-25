@@ -18,9 +18,9 @@
 | A Strange Proposition | 10.00% | ~15 |
 | Card Completionist | 10.00% | ~15 |
 | The Bodyguard | 8.00% | ~12 |
+| Braving Miasma | 7.00% | ~11 |
 | No Stone Unturned | 7.00% | ~11 |
 | The Apprentice | 6.00% | ~9 |
-| Braving Miasma | 6.00% | ~9 |
 | The Familiar | 6.00% | ~9 |
 | Ancient Nemesis | 6.00% | ~9 |
 | Oracle Mastery | 6.00% | ~9 |
@@ -28,9 +28,9 @@
 | Traveler Mastery | 5.00% | ~8 |
 | Warden Mastery | 5.00% | ~8 |
 | The Plot Thickens | 5.00% | ~8 |
+| Best Pupil | 3.00% | ~5 |
 | First time? | 3.00% | ~5 |
 | ACHOO! | 3.00% | ~5 |
-| Best Pupil | 2.00% | ~3 |
 | FOR JUSTICE! | 2.00% | ~3 |
 | Journey’s End | 2.00% | ~3 |
 | Masterpiece | 2.00% | ~3 |

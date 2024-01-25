@@ -5,23 +5,23 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,907 |
-| Feeling the beat! | 56.00% | ~9,907 |
-| You can pet the cat! | 51.00% | ~9,022 |
-| Who put gears in there? | 42.00% | ~7,430 |
+| Start with a bang! | 56.00% | ~9,908 |
+| Feeling the beat! | 56.00% | ~9,908 |
+| You can pet the cat! | 51.00% | ~9,023 |
+| Who put gears in there? | 42.00% | ~7,431 |
 | Cream of the Crop | 37.00% | ~6,546 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,369 |
-| You got this, Peppermint? | 32.00% | ~5,661 |
-| Perfect Parry | 30.00% | ~5,307 |
-| Alright, that felt AWESOME! | 29.00% | ~5,130 |
+| You got this, Peppermint? | 32.00% | ~5,662 |
+| Perfect Parry | 30.00% | ~5,308 |
+| Alright, that felt AWESOME! | 29.00% | ~5,131 |
 | I play my own way! | 25.00% | ~4,423 |
 | This will cost you big time | 24.00% | ~4,246 |
 | Uh, they were broken when I got here | 24.00% | ~4,246 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,892 |
-| Kissing the sky! | 21.00% | ~3,715 |
-| Whoa! There's ANOTHER health bar!? | 19.00% | ~3,361 |
-| Does that say weakpoint? | 18.00% | ~3,184 |
-| The Negotiator | 17.00% | ~3,007 |
+| Kissing the sky! | 21.00% | ~3,716 |
+| Whoa! There's ANOTHER health bar!? | 19.00% | ~3,362 |
+| Does that say weakpoint? | 18.00% | ~3,185 |
+| The Negotiator | 17.00% | ~3,008 |
 | You must like calling me in, Chai | 16.00% | ~2,831 |
 | Headliner | 15.00% | ~2,654 |
 | Out in a puff of smoke | 15.00% | ~2,654 |
@@ -34,7 +34,7 @@ Rating: 4.85 (Ranked 39)
 | There's such a thing as TOO helpful | 9.00% | ~1,592 |
 | Well that was a rush! | 8.00% | ~1,415 |
 | That's a lot of junk metal… | 8.00% | ~1,415 |
-| Beat-hit mania | 7.00% | ~1,238 |
+| Beat-hit mania | 7.00% | ~1,239 |
 | Chip-tuned | 5.00% | ~885 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~885 |
 | Wanna hear my playlist? | 4.00% | ~708 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,691 (Ranked 168)  
+Progressed: 17,693 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,14 +347,14 @@ Completed: 8 (0.05%) (Ranked 349)
 | 2024-01-22 | 17,609 | 8 |
 | 2024-01-23 | 17,642 | 8 |
 | 2024-01-24 | 17,683 | 8 |
-| 2024-01-25 | 17,691 | 8 |
+| 2024-01-25 | 17,693 | 8 |
 ## Awards
-Max (Great Boss Battles): 37  (Ranked 503)  
-Sum: 37 (Ranked 538)  
-Diff (max vs sum): -35  
+Max (Great Boss Battles): 38  (Ranked 498)  
+Sum: 38 (Ranked 537)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 37 |
+| This game has Great Boss Battles | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -401,3 +401,4 @@ Diff (max vs sum): -35
 | 2024-01-17 | 4.86 | 36 | 36 |
 | 2024-01-21 | 4.86 | 37 | 37 |
 | 2024-01-23 | 4.85 | 37 | 37 |
+| 2024-01-25 | 4.85 | 38 | 38 |

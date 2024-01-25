@@ -485,9 +485,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12194,
+  "EOS_Progressed": 12196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6095,6 +6095,11 @@
       "Time": "2024-01-25T07:11:08.2407806+00:00",
       "NumProgressed": 12194,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T08:10:34.3659144+00:00",
+      "NumProgressed": 12196,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6123,7 +6128,7 @@
       "Name": "Trade Empire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -6131,7 +6136,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6203,7 +6208,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "15_Pentakill",
@@ -6211,7 +6216,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "16_TheRise",
@@ -6275,7 +6280,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "24_TheHighrise",
@@ -6363,7 +6368,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6417,9 +6422,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1707
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6427,7 +6432,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6435,7 +6440,7 @@
       "Name": "No Place Like Home",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6626,7 +6631,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12194,
+      "Progressed": 12196,
       "Completed": 1
     }
   ],
@@ -6634,8 +6639,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T02:25:43.581088+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:11:08.2407799+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:34.3659139+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:59:30.333475+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:11:08.2408519+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:59:16.6061988+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:34.3659735+00:00"
 }

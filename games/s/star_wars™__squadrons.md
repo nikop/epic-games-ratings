@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~41,893 |
+| Fracture at Fostar Haven | 95.00% | ~41,897 |
 | Safety in the Storm | 23.00% | ~10,143 |
 | A Better Idea | 23.00% | ~10,143 |
 | Begin the Ceremony | 19.00% | ~8,379 |
@@ -34,7 +34,7 @@
 | Against the Current | 0.80% | ~353 |
 | Denied | 0.70% | ~309 |
 | Found Your Place | 0.60% | ~265 |
-| Unstoppable Ace | 0.50% | ~220 |
+| Unstoppable Ace | 0.50% | ~221 |
 | Special Modifications | 0.40% | ~176 |
 | Seasoned Star Pilot | 0.30% | ~132 |
 | Heavy Hitter | 0.30% | ~132 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~44 |
 | Ultimate Weapon | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,098 (Ranked 136)  
+Progressed: 44,102 (Ranked 136)  
 Completed: 3 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 3 (0.01%) (Ranked 384)
 | 2024-01-22 | 43,563 | 3 |
 | 2024-01-23 | 43,796 | 3 |
 | 2024-01-24 | 44,024 | 3 |
-| 2024-01-25 | 44,098 | 3 |
+| 2024-01-25 | 44,102 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

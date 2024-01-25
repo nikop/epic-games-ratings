@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253811,
+  "EOS_Progressed": 253812,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24947,6 +24947,11 @@
       "Time": "2024-01-25T07:11:00.141319+00:00",
       "NumProgressed": 253811,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T08:10:26.0880391+00:00",
+      "NumProgressed": 253812,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24982,7 +24987,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53300
+      "UsersEstimate": 53301
     },
     {
       "ID": "blotbuster",
@@ -25278,7 +25283,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32995
+      "UsersEstimate": 32996
     },
     {
       "ID": "treeMedalist",
@@ -25325,7 +25330,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253811,
+      "Progressed": 253812,
       "Completed": 6
     }
   ],
@@ -25333,8 +25338,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:11:00.1413166+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:26.0880387+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:58:41.1885136+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:11:00.1414748+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:58:26.5992431+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:26.0881502+00:00"
 }

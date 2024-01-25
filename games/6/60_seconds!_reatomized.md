@@ -5,30 +5,30 @@ Rating: 4.52 (Ranked 583)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,673 |
-| I will survive! | 91.00% | ~10,557 |
-| All thumbs | 90.00% | ~10,441 |
-| Home, sweet home | 89.00% | ~10,325 |
-| Survivalist | 87.00% | ~10,093 |
-| One way ticket | 81.00% | ~9,397 |
-| Last man standing | 75.00% | ~8,701 |
-| Out of the Bag | 71.00% | ~8,237 |
-| Family guy | 69.00% | ~8,005 |
-| The Dark Side | 65.00% | ~7,541 |
-| Duck and cover! | 60.00% | ~6,961 |
-| Souper! | 58.00% | ~6,729 |
-| 2-1-6 | 52.00% | ~6,033 |
-| Pacifist | 52.00% | ~6,033 |
-| A gift | 48.00% | ~5,568 |
-| Girl Power | 41.00% | ~4,756 |
-| What goes around... | 39.00% | ~4,524 |
-| Be Prepared | 34.00% | ~3,944 |
-| Unbreakable | 31.00% | ~3,596 |
-| Atomic drill | 29.00% | ~3,364 |
-| Gotta get 'em all | 28.00% | ~3,248 |
-| This is the end | 28.00% | ~3,248 |
-| Disco Roach | 24.00% | ~2,784 |
-| Dawkins Residence | 18.00% | ~2,088 |
+| Prepper | 92.00% | ~10,675 |
+| I will survive! | 91.00% | ~10,559 |
+| All thumbs | 90.00% | ~10,443 |
+| Home, sweet home | 89.00% | ~10,327 |
+| Survivalist | 87.00% | ~10,095 |
+| One way ticket | 81.00% | ~9,398 |
+| Last man standing | 75.00% | ~8,702 |
+| Out of the Bag | 71.00% | ~8,238 |
+| Family guy | 69.00% | ~8,006 |
+| The Dark Side | 65.00% | ~7,542 |
+| Duck and cover! | 60.00% | ~6,962 |
+| Souper! | 58.00% | ~6,730 |
+| 2-1-6 | 52.00% | ~6,034 |
+| Pacifist | 52.00% | ~6,034 |
+| A gift | 48.00% | ~5,569 |
+| Girl Power | 41.00% | ~4,757 |
+| What goes around... | 39.00% | ~4,525 |
+| Be Prepared | 34.00% | ~3,945 |
+| Unbreakable | 31.00% | ~3,597 |
+| Atomic drill | 29.00% | ~3,365 |
+| Gotta get 'em all | 28.00% | ~3,249 |
+| This is the end | 28.00% | ~3,249 |
+| Disco Roach | 24.00% | ~2,785 |
+| Dawkins Residence | 18.00% | ~2,089 |
 | Rescue time! | 15.00% | ~1,740 |
 | New order | 14.00% | ~1,624 |
 | Enigma | 13.00% | ~1,508 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 583)
 | Dead Hand | 0.10% | ~12 |
 | Tora! Tora! Tora! | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,601 (Ranked 183)  
+Progressed: 11,603 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 1 (0.01%) (Ranked 384)
 | 2024-01-22 | 11,172 | 1 |
 | 2024-01-23 | 11,490 | 1 |
 | 2024-01-24 | 11,584 | 1 |
-| 2024-01-25 | 11,601 | 1 |
+| 2024-01-25 | 11,603 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

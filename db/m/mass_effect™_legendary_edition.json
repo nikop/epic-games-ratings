@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4655,
+  "EOS_Progressed": 4656,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9103,6 +9103,11 @@
       "Time": "2024-01-25T07:11:15.0717924+00:00",
       "NumProgressed": 4655,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-25T08:10:41.4630437+00:00",
+      "NumProgressed": 4656,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -9251,7 +9256,7 @@
       "Name": "Savior",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "achievement_115",
@@ -9339,7 +9344,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "achievement_125",
@@ -9355,7 +9360,7 @@
       "Name": "Veteran",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "achievement_127",
@@ -9427,7 +9432,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "achievement_20",
@@ -9451,7 +9456,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "achievement_23",
@@ -9475,7 +9480,7 @@
       "Name": "Sentinel Ally",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "achievement_26",
@@ -9531,7 +9536,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "achievement_32",
@@ -9547,7 +9552,7 @@
       "Name": "Search and Rescue",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "achievement_34",
@@ -9579,7 +9584,7 @@
       "Name": "Very Elusive",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "achievement_38",
@@ -9603,7 +9608,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "achievement_40",
@@ -9643,7 +9648,7 @@
       "Name": "The Archangel",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "achievement_45",
@@ -9659,7 +9664,7 @@
       "Name": "The Convict",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "achievement_47",
@@ -9683,7 +9688,7 @@
       "Name": "The Professor",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "achievement_5",
@@ -9803,7 +9808,7 @@
       "Name": "Head Hunter",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "achievement_63",
@@ -9881,9 +9886,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1490
     },
     {
       "ID": "achievement_72",
@@ -9891,7 +9896,7 @@
       "Name": "Weapon Specialist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "achievement_73",
@@ -9907,7 +9912,7 @@
       "Name": "Power Full",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "achievement_75",
@@ -9923,7 +9928,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "achievement_77",
@@ -9979,7 +9984,7 @@
       "Name": "World Shaker",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_83",
@@ -10027,7 +10032,7 @@
       "Name": "Arbiter",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "achievement_89",
@@ -10130,19 +10135,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4655,
+      "Progressed": 4656,
       "Completed": 16
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4655,
+      "Progressed": 4656,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:11:15.0717919+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:41.4630433+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:04:10.3058767+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:11:15.0719657+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:03:25.2103044+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:41.4632349+00:00"
 }

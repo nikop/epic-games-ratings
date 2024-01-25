@@ -5425,9 +5425,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "5k00jcd",
       "Name": "Extreme conditions",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5598,8 +5598,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:07:05.1735661+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:06:22.0894825+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:19.8144856+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:58:36.3733679+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:07:05.1736265+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:58:21.7902391+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:06:22.0895283+00:00"
 }

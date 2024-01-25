@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1044,
+  "Ranking_Rating": 1045,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
@@ -9823,9 +9823,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255487,
+  "EOS_Progressed": 255494,
   "EOS_Completed": 2642,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41593,6 +41593,11 @@
       "Time": "2024-01-25T07:11:17.5655613+00:00",
       "NumProgressed": 255487,
       "NumCompleted": 2642
+    },
+    {
+      "Time": "2024-01-25T08:10:44.1173598+00:00",
+      "NumProgressed": 255494,
+      "NumCompleted": 2642
     }
   ],
   "TotalAchievements": 546,
@@ -41604,7 +41609,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12774
+      "UsersEstimate": 12775
     },
     {
       "ID": "objective_completed_10",
@@ -45971,21 +45976,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221761,
-      "Completed": 4160
+      "Progressed": 221768,
+      "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255487,
+      "Progressed": 255494,
       "Completed": 2642
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-25T06:59:40.0713416+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:11:17.565561+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:44.1173591+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:59:40.0713421+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:11:17.5677682+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:59:26.3886955+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:44.1196652+00:00"
 }

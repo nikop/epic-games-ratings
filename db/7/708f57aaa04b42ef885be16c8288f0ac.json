@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15294,
+  "EOS_Progressed": 15296,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11403,6 +11403,11 @@
       "Time": "2024-01-25T07:11:04.0581561+00:00",
       "NumProgressed": 15294,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-25T08:10:30.2077345+00:00",
+      "NumProgressed": 15296,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11487,7 +11492,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8412
+      "UsersEstimate": 8413
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11559,7 +11564,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "NoMoreTotems",
@@ -11607,7 +11612,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "TheQuarterback",
@@ -11615,7 +11620,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "ThisIsDharma",
@@ -11671,7 +11676,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "k01101110",
@@ -11679,14 +11684,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15294,
+      "Progressed": 15296,
       "Completed": 28
     }
   ],
@@ -11694,8 +11699,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:11:04.0581559+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:30.2077341+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:03:15.0779589+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:11:04.0582199+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:02:30.0301486+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:30.2078153+00:00"
 }

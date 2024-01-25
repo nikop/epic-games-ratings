@@ -3065,9 +3065,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 35686,
+  "EOS_Progressed": 35687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18335,6 +18335,11 @@
       "Time": "2024-01-25T07:10:46.4603968+00:00",
       "NumProgressed": 35686,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T08:10:12.3517839+00:00",
+      "NumProgressed": 35687,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -18547,7 +18552,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11776
+      "UsersEstimate": 11777
     },
     {
       "ID": "Achievement_Trophy27",
@@ -18579,7 +18584,7 @@
       "Name": "Spread the plague",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 9278
+      "UsersEstimate": 9279
     },
     {
       "ID": "Achievement_Trophy31",
@@ -18651,7 +18656,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "Achievement_Trophy40",
@@ -18834,7 +18839,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 35686,
+      "Progressed": 35687,
       "Completed": 1
     }
   ],
@@ -18842,8 +18847,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-24T23:02:43.400566+00:00",
-  "LastChanged_Achievements": "2024-01-25T07:10:46.4603964+00:00",
+  "LastChanged_Achievements": "2024-01-25T08:10:12.3517835+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:49.3369443+00:00",
-  "LastUpdate_Ratings": "2024-01-25T07:03:38.0552694+00:00",
-  "LastUpdate_Achievements": "2024-01-25T07:10:46.4604856+00:00"
+  "LastUpdate_Ratings": "2024-01-25T08:02:52.884431+00:00",
+  "LastUpdate_Achievements": "2024-01-25T08:10:12.3518918+00:00"
 }
