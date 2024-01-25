@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 958,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22740,
+  "EOS_Progressed": 22742,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14951,6 +14951,11 @@
       "Time": "2024-01-25T18:11:13.5269676+00:00",
       "NumProgressed": 22740,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-25T19:10:36.180424+00:00",
+      "NumProgressed": 22742,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14994,7 +14999,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15074,7 +15079,7 @@
       "Name": "In Striking Distance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "KILL_2HEAD",
@@ -15106,7 +15111,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -15114,7 +15119,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -15130,7 +15135,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15138,7 +15143,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15154,7 +15159,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15170,7 +15175,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3638
+      "UsersEstimate": 3639
     },
     {
       "ID": "STORY_HANGAR",
@@ -15337,13 +15342,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22740,
+      "Progressed": 22742,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10666,
+      "Progressed": 10668,
       "Completed": 29
     }
   ],
@@ -15351,8 +15356,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:11:13.5269673+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:36.1804235+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:04:01.0200294+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:11:13.5270481+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:03:41.8251669+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:36.1805256+00:00"
 }

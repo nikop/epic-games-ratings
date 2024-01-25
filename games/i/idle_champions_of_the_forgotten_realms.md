@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,779 |
+| A Brief Tour of the Realms | 5.00% | ~12,780 |
 | Beast Intentions | 2.00% | ~5,112 |
 | The Cursed Farmer | 2.00% | ~5,112 |
 | The Mad Wizard | 2.00% | ~5,112 |
@@ -20,11 +20,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,775 |
 | A Persistent Buzzing | 0.70% | ~1,789 |
 | Fast Food | 0.70% | ~1,553 |
-| Maddening | 0.60% | ~1,533 |
-| Terror in the Dark | 0.60% | ~1,533 |
-| Unearthed Evil | 0.60% | ~1,533 |
-| The Crumbling Temple | 0.60% | ~1,533 |
-| The Contagious Curse | 0.60% | ~1,533 |
+| Maddening | 0.60% | ~1,534 |
+| Terror in the Dark | 0.60% | ~1,534 |
+| Unearthed Evil | 0.60% | ~1,534 |
+| The Crumbling Temple | 0.60% | ~1,534 |
+| The Contagious Curse | 0.60% | ~1,534 |
 | Beast Mode | 0.50% | ~1,278 |
 | A Mysterious Summons | 0.50% | ~1,278 |
 | Building Trust | 0.50% | ~1,278 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,576 (Ranked 71)  
+Progressed: 255,592 (Ranked 71)  
 Completed: 2,644 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -833,7 +833,7 @@ Completed: 2,644 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
-| 2024-01-25 | 255,576 | 2,644 |
+| 2024-01-25 | 255,592 | 2,644 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,635 (Ranked 42)  

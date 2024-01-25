@@ -8527,10 +8527,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 5011,
       "NumberOfAwardsMax": 652
+    },
+    {
+      "Time": "2024-01-25T18:59:54.8000262+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 5012,
+      "NumberOfAwardsMax": 652
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5011,
+  "NumberOfAwards": 5012,
   "NumberOfAwardsMax": 652,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8556,7 +8562,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 559
+      "Count": 560
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8601,9 +8607,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 221259,
+  "EOS_Progressed": 221278,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 2963,
+  "EOS_NewPlayers": 2949,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40866,6 +40872,11 @@
       "Time": "2024-01-25T18:10:58.3291283+00:00",
       "NumProgressed": 221259,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-25T19:10:24.3242319+00:00",
+      "NumProgressed": 221278,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -40877,7 +40888,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "Achievement_1",
@@ -40909,7 +40920,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 33189
+      "UsersEstimate": 33192
     },
     {
       "ID": "Achievement_13",
@@ -40957,7 +40968,7 @@
       "Name": "Stone Walls",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 53102
+      "UsersEstimate": 53107
     },
     {
       "ID": "Achievement_5",
@@ -40965,7 +40976,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "Achievement_6",
@@ -40989,7 +41000,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19913
+      "UsersEstimate": 19915
     },
     {
       "ID": "Achievement_9",
@@ -40997,22 +41008,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8850
+      "UsersEstimate": 8851
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 221259,
+      "Progressed": 221278,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-25T16:59:51.816277+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:10:58.3291281+00:00",
+  "LastChanged": "2024-01-25T18:59:54.800026+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:24.3242315+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.4348703+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:00:37.6345986+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:10:58.3292876+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:59:54.8000267+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:24.3243977+00:00"
 }

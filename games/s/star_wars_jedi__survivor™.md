@@ -5,29 +5,29 @@ Rating: 4.50 (Ranked 623)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~45,752 |
-| For Saw Gerrera | 97.00% | ~44,828 |
-| Grab Some Seat | 85.00% | ~39,282 |
-| Can You Pet the Bogling? | 81.00% | ~37,433 |
-| The Past Made Present | 74.00% | ~34,198 |
+| Rooftop Duel | 99.00% | ~45,753 |
+| For Saw Gerrera | 97.00% | ~44,829 |
+| Grab Some Seat | 85.00% | ~39,283 |
+| Can You Pet the Bogling? | 81.00% | ~37,434 |
+| The Past Made Present | 74.00% | ~34,199 |
 | Survivors, We Adapt | 69.00% | ~31,888 |
 | They Never Saw It Coming | 68.00% | ~31,426 |
-| Among the Masters | 67.00% | ~30,963 |
+| Among the Masters | 67.00% | ~30,964 |
 | Who Gives a Puck | 63.00% | ~29,115 |
-| Mirror Match | 60.00% | ~27,728 |
+| Mirror Match | 60.00% | ~27,729 |
 | For the Path | 56.00% | ~25,880 |
 | Now, This Isn't Podracing | 54.00% | ~24,956 |
-| Skywalker | 52.00% | ~24,031 |
-| Out of Bedlam | 51.00% | ~23,569 |
+| Skywalker | 52.00% | ~24,032 |
+| Out of Bedlam | 51.00% | ~23,570 |
 | Cleaning Up | 49.00% | ~22,645 |
 | Tanalorr Bound | 43.00% | ~19,872 |
 | Hey, Luke At Us | 42.00% | ~19,410 |
 | Tragedy | 41.00% | ~18,948 |
 | Kitted Out | 41.00% | ~18,948 |
-| At the Precipice | 39.00% | ~18,023 |
-| Greezy Money | 39.00% | ~18,023 |
-| Into the Abyss | 38.00% | ~17,561 |
-| Riposte | 37.00% | ~17,099 |
+| At the Precipice | 39.00% | ~18,024 |
+| Greezy Money | 39.00% | ~18,024 |
+| Into the Abyss | 38.00% | ~17,562 |
+| Riposte | 37.00% | ~17,100 |
 | A Place You Could Call Home | 36.00% | ~16,637 |
 | Catch! | 34.00% | ~15,713 |
 | They're Probably Fine | 34.00% | ~15,713 |
@@ -40,7 +40,7 @@ Rating: 4.50 (Ranked 623)
 | King of the World | 14.00% | ~6,470 |
 | Reconnaissance | 13.00% | ~6,008 |
 | Max Capacity | 12.00% | ~5,546 |
-| A Presence I've Not Felt Since... | 10.00% | ~4,621 |
+| A Presence I've Not Felt Since... | 10.00% | ~4,622 |
 | Slam Dunk | 9.00% | ~4,159 |
 | Star Tours | 8.00% | ~3,697 |
 | Gambler | 8.00% | ~3,697 |
@@ -59,8 +59,8 @@ Rating: 4.50 (Ranked 623)
 | Splurgle | 2.00% | ~924 |
 | Blood, Sweat, and Tears | 2.00% | ~924 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,214 (Ranked 131)  
-Completed: 169 (0.37%) (Ranked 253)  
+Progressed: 46,215 (Ranked 131)  
+Completed: 170 (0.37%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,20 +190,20 @@ Completed: 169 (0.37%) (Ranked 253)
 | 2024-01-22 | 45,714 | 162 |
 | 2024-01-23 | 45,918 | 166 |
 | 2024-01-24 | 46,110 | 168 |
-| 2024-01-25 | 46,214 | 169 |
+| 2024-01-25 | 46,215 | 170 |
 ## Awards
 Max (Great Boss Battles): 8,897  (Ranked 47)  
-Sum: 14,697 (Ranked 81)  
+Sum: 14,712 (Ranked 81)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,897 |
 | This game is Highly Recommended | 704 |
 | This game has Quickly Understood Controls | 700 |
+| This game has Diverse Characters | 689 |
 | This game is Extremely Fun | 686 |
 | This game has Amazing Characters | 679 |
 | This game has Amazing Storytelling | 676 |
-| This game has Diverse Characters | 674 |
 | This game is Relaxing | 653 |
 | This game has Challenging Combat | 651 |
 | This game has a Creative Community | 377 |
@@ -480,4 +480,4 @@ Diff (max vs sum): -34
 | 2024-01-22 | 4.50 | 8,638 | 14,184 |
 | 2024-01-23 | 4.50 | 8,730 | 14,358 |
 | 2024-01-24 | 4.50 | 8,803 | 14,520 |
-| 2024-01-25 | 4.50 | 8,897 | 14,697 |
+| 2024-01-25 | 4.50 | 8,897 | 14,712 |

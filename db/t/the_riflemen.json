@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77725,
+  "EOS_Progressed": 77750,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4602,
+  "EOS_NewPlayers": 4586,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 15.13,
   "EosHistory": [
@@ -17948,6 +17948,11 @@
       "Time": "2024-01-25T18:10:39.9332934+00:00",
       "NumProgressed": 77725,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-25T19:10:09.61694+00:00",
+      "NumProgressed": 77750,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -17968,7 +17973,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 58294
+      "UsersEstimate": 58312
     },
     {
       "ID": "grenadeKills",
@@ -17984,7 +17989,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "headshots1000",
@@ -18024,7 +18029,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "revengeMedal",
@@ -18071,7 +18076,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 77725,
+      "Progressed": 77750,
       "Completed": 11760
     }
   ],
@@ -18079,8 +18084,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-24T23:59:35.154619+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:10:39.9332931+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:09.6169396+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.9687625+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:01:32.8806045+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:10:39.9333818+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:00:36.9296696+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:09.6170659+00:00"
 }

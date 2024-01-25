@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,633 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,310 |
+| First Step Into the Knight | 50.00% | ~41,634 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,311 |
 | Loose Ends | 33.00% | ~27,478 |
 | To the Victor Go the Spoils | 27.00% | ~22,482 |
-| Knighthood | 26.00% | ~21,649 |
+| Knighthood | 26.00% | ~21,650 |
 | Get ReQ'd | 24.00% | ~19,984 |
 | Whispered Words | 24.00% | ~19,984 |
 | The Batman Family | 22.00% | ~18,319 |
 | Lock and Key | 22.00% | ~18,319 |
-| Something in the Clay | 20.00% | ~16,653 |
-| Quartzer Life Crisis | 20.00% | ~16,653 |
-| Working Hard or Harley Working? | 20.00% | ~16,653 |
-| Unstoppable Force | 20.00% | ~16,653 |
-| Bad Apples in Every Orchard | 20.00% | ~16,653 |
+| Something in the Clay | 20.00% | ~16,654 |
+| Quartzer Life Crisis | 20.00% | ~16,654 |
+| Working Hard or Harley Working? | 20.00% | ~16,654 |
+| Unstoppable Force | 20.00% | ~16,654 |
+| Bad Apples in Every Orchard | 20.00% | ~16,654 |
 | Snow Problem | 19.00% | ~15,821 |
-| The Show Mud Go On | 17.00% | ~14,155 |
-| From Inside Gotham's Walls | 17.00% | ~14,155 |
+| The Show Mud Go On | 17.00% | ~14,156 |
+| From Inside Gotham's Walls | 17.00% | ~14,156 |
 | Protector of Gotham | 16.00% | ~13,323 |
 | In Your Element | 15.00% | ~12,490 |
 | Universal Health Scare | 15.00% | ~12,490 |
-| Rock and a Hard Place | 14.00% | ~11,657 |
-| Cooldown | 14.00% | ~11,657 |
-| Voiceless | 14.00% | ~11,657 |
+| Rock and a Hard Place | 14.00% | ~11,658 |
+| Cooldown | 14.00% | ~11,658 |
+| Voiceless | 14.00% | ~11,658 |
 | Shock Til They Drop | 13.00% | ~10,825 |
 | Seeking Asylum | 13.00% | ~10,825 |
 | End of an Era | 12.00% | ~9,992 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 983)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,266 (Ranked 111)  
+Progressed: 83,268 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 135 (0.16%) (Ranked 300)
 | 2024-01-22 | 83,185 | 135 |
 | 2024-01-23 | 83,213 | 135 |
 | 2024-01-24 | 83,243 | 135 |
-| 2024-01-25 | 83,266 | 135 |
+| 2024-01-25 | 83,268 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,251  (Ranked 103)  
 Sum: 5,567 (Ranked 146)  

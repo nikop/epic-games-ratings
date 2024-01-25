@@ -5,29 +5,29 @@ Rating: 4.53 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,697 |
-| I will survive! | 91.00% | ~10,581 |
-| All thumbs | 90.00% | ~10,464 |
-| Home, sweet home | 89.00% | ~10,348 |
-| Survivalist | 87.00% | ~10,115 |
-| One way ticket | 81.00% | ~9,418 |
-| Last man standing | 75.00% | ~8,720 |
-| Out of the Bag | 71.00% | ~8,255 |
-| Family guy | 69.00% | ~8,023 |
-| The Dark Side | 65.00% | ~7,558 |
-| Duck and cover! | 60.00% | ~6,976 |
-| Souper! | 58.00% | ~6,744 |
-| Pacifist | 53.00% | ~6,162 |
-| 2-1-6 | 52.00% | ~6,046 |
-| A gift | 48.00% | ~5,581 |
-| Girl Power | 41.00% | ~4,767 |
+| Prepper | 92.00% | ~10,699 |
+| I will survive! | 91.00% | ~10,582 |
+| All thumbs | 90.00% | ~10,466 |
+| Home, sweet home | 89.00% | ~10,350 |
+| Survivalist | 87.00% | ~10,117 |
+| One way ticket | 81.00% | ~9,419 |
+| Last man standing | 75.00% | ~8,722 |
+| Out of the Bag | 71.00% | ~8,257 |
+| Family guy | 69.00% | ~8,024 |
+| The Dark Side | 65.00% | ~7,559 |
+| Duck and cover! | 60.00% | ~6,977 |
+| Souper! | 58.00% | ~6,745 |
+| Pacifist | 53.00% | ~6,163 |
+| 2-1-6 | 52.00% | ~6,047 |
+| A gift | 48.00% | ~5,582 |
+| Girl Power | 41.00% | ~4,768 |
 | What goes around... | 39.00% | ~4,535 |
-| Be Prepared | 34.00% | ~3,953 |
-| Unbreakable | 31.00% | ~3,604 |
+| Be Prepared | 34.00% | ~3,954 |
+| Unbreakable | 31.00% | ~3,605 |
 | Atomic drill | 29.00% | ~3,372 |
 | Gotta get 'em all | 28.00% | ~3,256 |
 | This is the end | 28.00% | ~3,256 |
-| Disco Roach | 24.00% | ~2,790 |
+| Disco Roach | 24.00% | ~2,791 |
 | Dawkins Residence | 18.00% | ~2,093 |
 | Rescue time! | 15.00% | ~1,744 |
 | New order | 14.00% | ~1,628 |
@@ -66,7 +66,7 @@ Rating: 4.53 (Ranked 573)
 | Dead Hand | 0.10% | ~12 |
 | Tora! Tora! Tora! | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,627 (Ranked 183)  
+Progressed: 11,629 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 1 (0.01%) (Ranked 384)
 | 2024-01-22 | 11,172 | 1 |
 | 2024-01-23 | 11,490 | 1 |
 | 2024-01-24 | 11,584 | 1 |
-| 2024-01-25 | 11,627 | 1 |
+| 2024-01-25 | 11,629 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

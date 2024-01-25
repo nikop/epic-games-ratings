@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,201 |
-| Spectre Inductee | 66.00% | ~3,081 |
-| Medal of Exploration I | 56.00% | ~2,614 |
-| Recruit | 53.00% | ~2,474 |
+| Distinguished Service Medal | 90.00% | ~4,202 |
+| Spectre Inductee | 66.00% | ~3,082 |
+| Medal of Exploration I | 56.00% | ~2,615 |
+| Recruit | 53.00% | ~2,475 |
 | Search and Rescue | 51.00% | ~2,381 |
-| Quarian Ally | 49.00% | ~2,287 |
+| Quarian Ally | 49.00% | ~2,288 |
 | Honorarium of Corporate Service | 45.00% | ~2,101 |
 | Medal of Heroism | 44.00% | ~2,054 |
 | Turian Ally | 41.00% | ~1,914 |
 | Medal of Exploration II | 39.00% | ~1,821 |
 | Council Legion of Merit | 39.00% | ~1,821 |
 | Missing in Action | 38.00% | ~1,774 |
-| Medal of Honor | 37.00% | ~1,727 |
-| Soldier | 36.00% | ~1,680 |
-| Meritorious Service Medal | 36.00% | ~1,680 |
-| Soldier Ally | 36.00% | ~1,680 |
-| Charismatic | 36.00% | ~1,680 |
+| Medal of Honor | 37.00% | ~1,728 |
+| Soldier | 36.00% | ~1,681 |
+| Meritorious Service Medal | 36.00% | ~1,681 |
+| Soldier Ally | 36.00% | ~1,681 |
+| Charismatic | 36.00% | ~1,681 |
 | Very Elusive | 35.00% | ~1,634 |
 | Asari Ally | 34.00% | ~1,587 |
 | Medal of Exploration III | 32.00% | ~1,494 |
@@ -31,23 +31,23 @@
 | Paramour I | 31.00% | ~1,447 |
 | Krogan Ally | 31.00% | ~1,447 |
 | Scholar | 31.00% | ~1,447 |
-| Sentinel Ally | 30.00% | ~1,400 |
-| The Archangel | 30.00% | ~1,400 |
-| The Professor | 30.00% | ~1,400 |
-| Head Hunter | 30.00% | ~1,400 |
+| Sentinel Ally | 30.00% | ~1,401 |
+| The Archangel | 30.00% | ~1,401 |
+| The Professor | 30.00% | ~1,401 |
+| Head Hunter | 30.00% | ~1,401 |
 | Operative | 29.00% | ~1,354 |
 | The Convict | 28.00% | ~1,307 |
 | Power Full | 28.00% | ~1,307 |
-| Colony Defense | 27.00% | ~1,260 |
-| The Krogan | 27.00% | ~1,260 |
+| Colony Defense | 27.00% | ~1,261 |
+| The Krogan | 27.00% | ~1,261 |
 | Veteran | 26.00% | ~1,214 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,214 |
 | Ghost Ship | 25.00% | ~1,167 |
 | The Assassin | 25.00% | ~1,167 |
 | Driven | 25.00% | ~1,167 |
-| The Justicar | 24.00% | ~1,120 |
-| The Quarian | 24.00% | ~1,120 |
-| The Prodigal | 24.00% | ~1,120 |
+| The Justicar | 24.00% | ~1,121 |
+| The Quarian | 24.00% | ~1,121 |
+| The Prodigal | 24.00% | ~1,121 |
 | A Personal Touch | 23.00% | ~1,074 |
 | Battlemaster | 23.00% | ~1,074 |
 | Catharsis | 23.00% | ~1,074 |
@@ -81,10 +81,10 @@
 | First Aid Specialist | 18.00% | ~840 |
 | Pathfinder | 18.00% | ~840 |
 | Tunnel Rat | 18.00% | ~840 |
-| Arbiter | 18.00% | ~840 |
 | Liberator | 18.00% | ~840 |
 | Savior | 17.00% | ~794 |
 | Weapon Specialist | 17.00% | ~794 |
+| Arbiter | 17.00% | ~794 |
 | Party Crasher | 16.00% | ~747 |
 | Fact Finder | 16.00% | ~747 |
 | Problem Solver | 16.00% | ~747 |
@@ -102,15 +102,15 @@
 | Patriot | 13.00% | ~607 |
 | Master and Commander | 13.00% | ~607 |
 | Legend | 12.00% | ~560 |
-| Long Service Medal | 11.00% | ~513 |
-| Sabotage Specialist | 11.00% | ~513 |
-| Throw Mastery | 11.00% | ~513 |
+| Long Service Medal | 11.00% | ~514 |
+| Sabotage Specialist | 11.00% | ~514 |
+| Throw Mastery | 11.00% | ~514 |
 | Mail Slot | 10.00% | ~467 |
 | Electronics Specialist | 10.00% | ~467 |
 | Combined Arms | 9.00% | ~420 |
-| Always Prepared | 8.00% | ~373 |
-| Bruiser | 8.00% | ~373 |
-| Warp Mastery | 8.00% | ~373 |
+| Always Prepared | 8.00% | ~374 |
+| Bruiser | 8.00% | ~374 |
+| Warp Mastery | 8.00% | ~374 |
 | Barrier Mastery | 7.00% | ~327 |
 | Sky High | 7.00% | ~327 |
 | Paramour III | 7.00% | ~327 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~42 |
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,668 (Ranked 212)  
+Progressed: 4,669 (Ranked 212)  
 Completed: 16 (0.34%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,4 +264,4 @@ Completed: 16 (0.34%) (Ranked 259)
 | 2024-01-22 | 4,594 | 14 |
 | 2024-01-23 | 4,630 | 14 |
 | 2024-01-24 | 4,653 | 15 |
-| 2024-01-25 | 4,668 | 16 |
+| 2024-01-25 | 4,669 | 16 |

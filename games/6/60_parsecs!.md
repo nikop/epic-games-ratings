@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,605 |
-| Space Colonization | 78.00% | ~1,304 |
+| Don't Panic! | 96.00% | ~1,606 |
+| Space Colonization | 78.00% | ~1,305 |
 | Friendzone | 76.00% | ~1,271 |
-| Hello World | 71.00% | ~1,187 |
-| Space Engineer | 60.00% | ~1,003 |
-| Tinkerer | 60.00% | ~1,003 |
+| Hello World | 71.00% | ~1,188 |
+| Space Engineer | 60.00% | ~1,004 |
+| Tinkerer | 60.00% | ~1,004 |
 | Dust to Dust | 55.00% | ~920 |
 | Across The Stars | 44.00% | ~736 |
-| Crafty | 42.00% | ~702 |
-| All Seats Taken | 34.00% | ~568 |
-| For Science! | 31.00% | ~518 |
+| Crafty | 42.00% | ~703 |
+| All Seats Taken | 34.00% | ~569 |
+| For Science! | 31.00% | ~519 |
 | Meet the Petersons | 30.00% | ~502 |
 | Stay Cool | 26.00% | ~435 |
 | KIA | 25.00% | ~418 |
@@ -24,7 +24,7 @@
 | Space Explorer | 14.00% | ~234 |
 | Hands Full | 11.00% | ~184 |
 | Gold Medalist | 10.00% | ~167 |
-| Non-Fiction | 9.00% | ~150 |
+| Non-Fiction | 9.00% | ~151 |
 | No Man Left Behind | 8.00% | ~134 |
 | Intergalactic Breakup | 7.00% | ~117 |
 | Second Life | 7.00% | ~117 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,672 (Ranked 268)  
+Progressed: 1,673 (Ranked 268)  
 Completed: 1 (0.06%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 1 (0.06%) (Ranked 341)
 | 2024-01-22 | 1,590 | 1 |
 | 2024-01-23 | 1,644 | 1 |
 | 2024-01-24 | 1,664 | 1 |
-| 2024-01-25 | 1,672 | 1 |
+| 2024-01-25 | 1,673 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

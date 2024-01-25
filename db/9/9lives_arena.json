@@ -2,10 +2,10 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 787,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 215,
+  "Ranking_Rating": 776,
+  "Ranking_Popularity": 564,
+  "Ranking_PopularitySum": 571,
+  "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 147,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2024-01-06T12:01:38.2851424+00:00",
@@ -137,23 +137,29 @@
       "Rating": 4.39,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-01-25T18:59:19.9935266+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 23
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 4564,
+  "EOS_Progressed": 4569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3576,6 +3582,11 @@
       "Time": "2024-01-25T18:04:11.4196373+00:00",
       "NumProgressed": 4564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T19:03:49.8573521+00:00",
+      "NumProgressed": 4569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -3627,16 +3638,16 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 4564,
+      "Progressed": 4569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-01-25T09:58:54.1619329+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:04:11.4196371+00:00",
+  "LastChanged": "2024-01-25T18:59:19.9935264+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:03:49.8573517+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:49.9220174+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:59:52.2714006+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:04:11.419663+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:59:19.9935268+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:03:49.8573771+00:00"
 }

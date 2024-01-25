@@ -6,20 +6,20 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,932 |
-| Worth it | 63.00% | ~44,368 |
-| Eagle Eye | 54.00% | ~38,030 |
-| Corpseman I | 39.00% | ~27,466 |
-| Blast fishing | 37.00% | ~26,057 |
-| Not alone | 32.00% | ~22,536 |
-| Headhunter I | 26.00% | ~18,310 |
-| Developers, Developers, Developers | 24.00% | ~16,902 |
-| Manual Labour I | 24.00% | ~16,902 |
+| Setting an example | 78.00% | ~54,934 |
+| Worth it | 63.00% | ~44,370 |
+| Eagle Eye | 54.00% | ~38,031 |
+| Corpseman I | 39.00% | ~27,467 |
+| Blast fishing | 37.00% | ~26,058 |
+| Not alone | 32.00% | ~22,537 |
+| Headhunter I | 26.00% | ~18,311 |
+| Developers, Developers, Developers | 24.00% | ~16,903 |
+| Manual Labour I | 24.00% | ~16,903 |
 | Basic Training | 23.00% | ~16,198 |
-| Furchtlos und Treu | 13.00% | ~9,155 |
+| Furchtlos und Treu | 13.00% | ~9,156 |
 | Gott Mit Uns | 12.00% | ~8,451 |
-| This We'll Defend! | 9.00% | ~6,338 |
-| For King and Country | 9.00% | ~6,338 |
+| This We'll Defend! | 9.00% | ~6,339 |
+| For King and Country | 9.00% | ~6,339 |
 | Battle hardened | 8.00% | ~5,634 |
 | Anker wirf! | 8.00% | ~5,634 |
 | Providentiea Memor | 8.00% | ~5,634 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,113 |
 | Silver x100 | 3.00% | ~2,113 |
 | Impavidum Ferient Bella! | 3.00% | ~2,113 |
-| Bronze x100 | 2.00% | ~1,408 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,408 |
+| Bronze x100 | 2.00% | ~1,409 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,409 |
 | Gold x100 | 1.00% | ~704 |
 | Hunting the Hun | 1.00% | ~704 |
 | #1 | 1.00% | ~704 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,425 (Ranked 117)  
+Progressed: 70,428 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.01%) (Ranked 384)
 | 2024-01-22 | 70,210 | 4 |
 | 2024-01-23 | 70,281 | 4 |
 | 2024-01-24 | 70,351 | 4 |
-| 2024-01-25 | 70,425 | 4 |
+| 2024-01-25 | 70,428 | 4 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 377)  
 Sum: 844 (Ranked 290)  

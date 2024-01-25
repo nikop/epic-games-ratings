@@ -11262,9 +11262,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133673,
+  "EOS_Progressed": 133679,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41457,6 +41457,11 @@
       "Time": "2024-01-25T18:11:31.6867485+00:00",
       "NumProgressed": 133673,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T19:10:51.0622198+00:00",
+      "NumProgressed": 133679,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41468,7 +41473,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41476,7 +41481,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9357
+      "UsersEstimate": 9358
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41484,7 +41489,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41564,7 +41569,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -41596,7 +41601,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9357
+      "UsersEstimate": 9358
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41628,7 +41633,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9357
+      "UsersEstimate": 9358
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41644,7 +41649,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "combat_kill_gaunts",
@@ -41660,7 +41665,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -41668,7 +41673,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41684,7 +41689,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "combat_kill_librarian",
@@ -41692,7 +41697,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9357
+      "UsersEstimate": 9358
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41708,7 +41713,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41740,7 +41745,7 @@
       "Name": "It Happens",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41764,7 +41769,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41788,7 +41793,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "driving_distance_easy",
@@ -41876,7 +41881,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "inn_visit_all_variants",
@@ -41884,7 +41889,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -41948,7 +41953,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "run_victory_act05",
@@ -41956,7 +41961,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -42004,7 +42009,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "combat_kill_collector",
@@ -42012,7 +42017,7 @@
       "Name": "This guy... again?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -42099,21 +42104,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133673,
+      "Progressed": 133679,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8542,
+      "Progressed": 8548,
       "Completed": 831
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T14:57:32.90618+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:11:31.6867483+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:51.0622195+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:57:24.4719652+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:11:31.6869021+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:57:26.9759353+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:51.0623798+00:00"
 }

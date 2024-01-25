@@ -9255,9 +9255,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762813,
+  "EOS_Progressed": 762820,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1156,
+  "EOS_NewPlayers": 1158,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35330,6 +35330,11 @@
       "Time": "2024-01-25T18:11:01.6433575+00:00",
       "NumProgressed": 762813,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-25T19:10:27.009753+00:00",
+      "NumProgressed": 762820,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35357,7 +35362,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22884
+      "UsersEstimate": 22885
     },
     {
       "ID": "04_Vengeance_H3",
@@ -35493,7 +35498,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22884
+      "UsersEstimate": 22885
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -35509,7 +35514,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22884
+      "UsersEstimate": 22885
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -35525,7 +35530,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22884
+      "UsersEstimate": 22885
     },
     {
       "ID": "25_ShrineMind",
@@ -35549,7 +35554,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22884
+      "UsersEstimate": 22885
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -35589,7 +35594,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22884
+      "UsersEstimate": 22885
     },
     {
       "ID": "33_BladeOneShot",
@@ -35820,21 +35825,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72114,
+      "Progressed": 72121,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762813,
+      "Progressed": 762820,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-25T13:10:10.2468767+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:11:01.6433572+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:27.0097526+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:03:45.292745+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:11:01.6435367+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:03:29.4325198+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:27.0098954+00:00"
 }

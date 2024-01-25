@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,595 |
+| Break Out | 65.00% | ~1,596 |
 | Trinity | 35.00% | ~859 |
 | The Collector | 29.00% | ~712 |
 | Find Allies | 28.00% | ~687 |
@@ -17,13 +17,13 @@ Rating: 4.20 (Ranked 974)
 | I Found It | 26.00% | ~638 |
 | Fashion Victim | 24.00% | ~589 |
 | Stone Collection | 24.00% | ~589 |
-| Powerful Allies | 23.00% | ~564 |
-| Tributes of Caladrias | 23.00% | ~564 |
+| Powerful Allies | 23.00% | ~565 |
+| Tributes of Caladrias | 23.00% | ~565 |
 | Big Bazar | 17.00% | ~417 |
 | Alchemist | 16.00% | ~393 |
 | Essence Blow | 15.00% | ~368 |
 | The Mentor | 13.00% | ~319 |
-| Calm before the Storm | 12.00% | ~294 |
+| Calm before the Storm | 12.00% | ~295 |
 | To Battle | 11.00% | ~270 |
 | Godslayer | 11.00% | ~270 |
 | Airborne | 9.00% | ~221 |
@@ -42,7 +42,7 @@ Rating: 4.20 (Ranked 974)
 | All That Gold | 1.00% | ~25 |
 | Feeling Fancy | 0.40% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,454 (Ranked 247)  
+Progressed: 2,455 (Ranked 247)  
 Completed: 5 (0.20%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 5 (0.20%) (Ranked 288)
 | 2024-01-22 | 2,431 | 5 |
 | 2024-01-23 | 2,438 | 5 |
 | 2024-01-24 | 2,449 | 5 |
-| 2024-01-25 | 2,454 | 5 |
+| 2024-01-25 | 2,455 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

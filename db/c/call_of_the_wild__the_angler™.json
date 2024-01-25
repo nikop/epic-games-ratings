@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 958,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 196,
@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8431,
+  "EOS_Progressed": 8432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14512,6 +14512,11 @@
       "Time": "2024-01-25T15:09:27.0823079+00:00",
       "NumProgressed": 8431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T19:09:23.218652+00:00",
+      "NumProgressed": 8432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14555,7 +14560,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -14587,7 +14592,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -14842,13 +14847,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8431,
+      "Progressed": 8432,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7803,
+      "Progressed": 7804,
       "Completed": 113
     }
   ],
@@ -14856,8 +14861,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-23T15:00:04.156309+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:09:39.330829+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:09:23.2186515+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:01:36.5381936+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:09:39.3309229+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:00:40.0642508+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:09:23.2187469+00:00"
 }

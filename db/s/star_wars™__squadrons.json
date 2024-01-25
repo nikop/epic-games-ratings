@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44213,
+  "EOS_Progressed": 44214,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2016,
+  "EOS_NewPlayers": 2001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15169,6 +15169,11 @@
       "Time": "2024-01-25T18:11:30.7185906+00:00",
       "NumProgressed": 44213,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T19:10:50.2288633+00:00",
+      "NumProgressed": 44214,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -15229,7 +15234,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 8400
+      "UsersEstimate": 8401
     },
     {
       "ID": "achievement_16",
@@ -15389,7 +15394,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "achievement_34",
@@ -15405,7 +15410,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 42002
+      "UsersEstimate": 42003
     },
     {
       "ID": "achievement_36",
@@ -15556,7 +15561,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 44213,
+      "Progressed": 44214,
       "Completed": 3
     }
   ],
@@ -15564,8 +15569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:11:30.7185904+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:50.2288629+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.6990258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:03:58.5109955+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:11:30.7187043+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:03:39.7835487+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:50.228958+00:00"
 }

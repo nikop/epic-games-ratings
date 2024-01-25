@@ -3,12 +3,12 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 152,
-  "Ranking_Popularity": 333,
+  "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1625,7 +1625,7 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 14997,
+  "EOS_Progressed": 14998,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
@@ -10845,6 +10845,11 @@
       "Time": "2024-01-25T18:10:35.3850273+00:00",
       "NumProgressed": 14997,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-25T19:10:06.4163268+00:00",
+      "NumProgressed": 14998,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 24,
@@ -10856,7 +10861,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "Chatterbox",
@@ -10880,7 +10885,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8998
+      "UsersEstimate": 8999
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10912,7 +10917,7 @@
       "Name": "Deadly Power",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -10976,7 +10981,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "SavedElderEnt",
@@ -10984,7 +10989,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 9148
+      "UsersEstimate": 9149
     },
     {
       "ID": "SavedElderEnt_2",
@@ -11016,7 +11021,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13947
+      "UsersEstimate": 13948
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -11047,15 +11052,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14997,
+      "Progressed": 14998,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-24T03:00:19.7270261+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:10:35.385027+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:06.4163263+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-25T17:57:55.6457392+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:10:35.3850937+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:57:51.2272242+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:06.4163837+00:00"
 }

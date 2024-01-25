@@ -6171,7 +6171,7 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 14326,
+  "EOS_Progressed": 14327,
   "EOS_Completed": 358,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 6,
@@ -26216,6 +26216,11 @@
       "Time": "2024-01-25T18:10:19.551714+00:00",
       "NumProgressed": 14326,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2024-01-25T19:09:53.7875565+00:00",
+      "NumProgressed": 14327,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 15,
@@ -26243,7 +26248,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6303
+      "UsersEstimate": 6304
     },
     {
       "ID": "Chef_Cook",
@@ -26267,7 +26272,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "Duty_Bound",
@@ -26315,7 +26320,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9598
+      "UsersEstimate": 9599
     },
     {
       "ID": "Renovator",
@@ -26323,7 +26328,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "Thorn_Cleaner",
@@ -26339,14 +26344,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8452
+      "UsersEstimate": 8453
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14326,
+      "Progressed": 14327,
       "Completed": 358
     }
   ],
@@ -26354,8 +26359,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-25T15:02:42.3837253+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:10:19.5517139+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:09:53.7875563+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:01:59.8903947+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:10:19.5517896+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:02:47.9797618+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:09:53.7876966+00:00"
 }

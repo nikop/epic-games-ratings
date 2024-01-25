@@ -1,21 +1,21 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 959)  
+Rating: 4.22 (Ranked 958)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,367 |
-| The Outer Way | 28.00% | ~6,367 |
+| Flesh Wound | 28.00% | ~6,368 |
+| The Outer Way | 28.00% | ~6,368 |
 | Desperate Times | 27.00% | ~6,140 |
-| Paper Jams | 25.00% | ~5,685 |
+| Paper Jams | 25.00% | ~5,686 |
 | Get a Grip | 24.00% | ~5,458 |
 | Chew 'Em Up | 22.00% | ~5,003 |
-| Reforged | 21.00% | ~4,775 |
+| Reforged | 21.00% | ~4,776 |
 | Float Like A Butterfly | 20.00% | ~4,548 |
 | If the SHU Fits... | 19.00% | ~4,321 |
-| Workplace Hazard | 18.00% | ~4,093 |
-| Without A Paddle | 16.00% | ~3,638 |
+| Workplace Hazard | 18.00% | ~4,094 |
+| Without A Paddle | 16.00% | ~3,639 |
 | In the Pipe, Five by Five | 14.00% | ~3,184 |
 | Crash Site | 14.00% | ~3,184 |
 | Two Heads Are Better Than One | 13.00% | ~2,956 |
@@ -27,8 +27,8 @@ Rating: 4.22 (Ranked 959)
 | You Need a Gun | 10.00% | ~2,274 |
 | I Do Belong Here | 9.00% | ~2,047 |
 | Keep Fighting | 8.00% | ~853 |
-| In Striking Distance | 6.00% | ~1,364 |
-| The Commonality | 6.00% | ~1,364 |
+| In Striking Distance | 6.00% | ~1,365 |
+| The Commonality | 6.00% | ~1,365 |
 | It's Time | 6.00% | ~640 |
 | One Last Job | 3.00% | ~320 |
 | Armed to the Teeth | 2.00% | ~213 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 959)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,740 (Ranked 153)  
+Progressed: 22,742 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 82 (0.36%) (Ranked 256)
 | 2024-01-22 | 22,675 | 82 |
 | 2024-01-23 | 22,690 | 82 |
 | 2024-01-24 | 22,722 | 82 |
-| 2024-01-25 | 22,740 | 82 |
+| 2024-01-25 | 22,742 | 82 |
 ## Awards
 Max (Amazing Characters): 143  (Ranked 344)  
 Sum: 691 (Ranked 315)  

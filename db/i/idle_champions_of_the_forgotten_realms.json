@@ -9835,9 +9835,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255576,
+  "EOS_Progressed": 255592,
   "EOS_Completed": 2644,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41660,6 +41660,11 @@
       "Time": "2024-01-25T18:11:43.9642265+00:00",
       "NumProgressed": 255576,
       "NumCompleted": 2644
+    },
+    {
+      "Time": "2024-01-25T19:11:01.8410223+00:00",
+      "NumProgressed": 255592,
+      "NumCompleted": 2644
     }
   ],
   "TotalAchievements": 546,
@@ -41671,7 +41676,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12779
+      "UsersEstimate": 12780
     },
     {
       "ID": "objective_completed_10",
@@ -41679,7 +41684,7 @@
       "Name": "Maddening",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_100",
@@ -42791,7 +42796,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_150",
@@ -42999,7 +43004,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_20",
@@ -43359,7 +43364,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_36",
@@ -44215,7 +44220,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_60",
@@ -46038,21 +46043,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221850,
+      "Progressed": 221866,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255576,
+      "Progressed": 255592,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-25T16:59:49.7154831+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:11:43.9642263+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:11:01.8410219+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:00:34.9920948+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:11:43.9664701+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:59:52.7290284+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:11:01.8435175+00:00"
 }

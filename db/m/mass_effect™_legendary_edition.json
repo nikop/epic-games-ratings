@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4668,
+  "EOS_Progressed": 4669,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9148,6 +9148,11 @@
       "Time": "2024-01-25T18:11:41.1991318+00:00",
       "NumProgressed": 4668,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-25T19:10:59.4387893+00:00",
+      "NumProgressed": 4669,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -9160,7 +9165,7 @@
       "Name": "Medal of Honor",
       "Percentage": 37,
       "XP": 125,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "achievement_10",
@@ -9272,7 +9277,7 @@
       "Name": "Always Prepared",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_112",
@@ -9376,7 +9381,7 @@
       "Name": "Long Service Medal",
       "Percentage": 11,
       "XP": 125,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_124",
@@ -9384,7 +9389,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "achievement_125",
@@ -9392,7 +9397,7 @@
       "Name": "Soldier",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "achievement_126",
@@ -9408,7 +9413,7 @@
       "Name": "Bruiser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_13",
@@ -9432,7 +9437,7 @@
       "Name": "Sabotage Specialist",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_16",
@@ -9456,7 +9461,7 @@
       "Name": "Meritorious Service Medal",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "achievement_19",
@@ -9488,7 +9493,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "achievement_22",
@@ -9512,7 +9517,7 @@
       "Name": "Soldier Ally",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "achievement_25",
@@ -9520,7 +9525,7 @@
       "Name": "Sentinel Ally",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "achievement_26",
@@ -9544,7 +9549,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "achievement_29",
@@ -9560,7 +9565,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4201
+      "UsersEstimate": 4202
     },
     {
       "ID": "achievement_30",
@@ -9576,7 +9581,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "achievement_32",
@@ -9584,7 +9589,7 @@
       "Name": "Charismatic",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "achievement_33",
@@ -9632,7 +9637,7 @@
       "Name": "Colony Defense",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "achievement_39",
@@ -9688,7 +9693,7 @@
       "Name": "The Archangel",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "achievement_45",
@@ -9712,7 +9717,7 @@
       "Name": "The Justicar",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "achievement_48",
@@ -9720,7 +9725,7 @@
       "Name": "The Krogan",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "achievement_49",
@@ -9728,7 +9733,7 @@
       "Name": "The Professor",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "achievement_5",
@@ -9744,7 +9749,7 @@
       "Name": "The Quarian",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "achievement_51",
@@ -9816,7 +9821,7 @@
       "Name": "The Prodigal",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "achievement_6",
@@ -9848,7 +9853,7 @@
       "Name": "Head Hunter",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "achievement_63",
@@ -9912,7 +9917,7 @@
       "Name": "Throw Mastery",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_70",
@@ -10000,7 +10005,7 @@
       "Name": "Warp Mastery",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_80",
@@ -10070,9 +10075,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 840
+      "UsersEstimate": 794
     },
     {
       "ID": "achievement_89",
@@ -10175,19 +10180,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4668,
+      "Progressed": 4669,
       "Completed": 16
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4668,
+      "Progressed": 4669,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:11:41.1991316+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:59.4387889+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:04:01.8776114+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:11:41.1992994+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:03:42.3805943+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:59.4389876+00:00"
 }

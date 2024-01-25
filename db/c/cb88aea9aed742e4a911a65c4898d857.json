@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
-  "Ranking_Popularity": 322,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 384,
@@ -497,9 +497,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12224,
+  "EOS_Progressed": 12226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6162,6 +6162,11 @@
       "Time": "2024-01-25T18:11:32.7176562+00:00",
       "NumProgressed": 12224,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T19:10:51.8569466+00:00",
+      "NumProgressed": 12226,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6270,7 +6275,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "15_Pentakill",
@@ -6358,7 +6363,7 @@
       "Name": "The Dynasty Prospers",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -6414,7 +6419,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -6446,7 +6451,7 @@
       "Name": "Adventurous Archaeologist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -6486,7 +6491,7 @@
       "Name": "Jungle Heat",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6582,7 +6587,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -6614,7 +6619,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -6630,7 +6635,7 @@
       "Name": "The Possessed Ship",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -6654,7 +6659,7 @@
       "Name": "Invisible Bureaucracy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -6693,7 +6698,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12224,
+      "Progressed": 12226,
       "Completed": 1
     }
   ],
@@ -6701,8 +6706,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:11:32.7176559+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:10:51.856946+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:00:21.4154127+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:11:32.7177562+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:59:42.3283546+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:10:51.8570071+00:00"
 }

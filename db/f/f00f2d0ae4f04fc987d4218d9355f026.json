@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2024-01-25T18:08:54.2162089+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T19:08:49.5434382+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -570,15 +575,15 @@
       "Name": "Busy Labs",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "CloseCall",
@@ -608,9 +613,9 @@
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "DigestiveCollapse",
@@ -672,9 +677,9 @@
       "ID": "Lupus",
       "SetID": "aaidab7",
       "Name": "Lupus Nephritis",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "LupusNephretis",
@@ -696,17 +701,17 @@
       "ID": "MuscularCollapse",
       "SetID": "aaidab7",
       "Name": "Muscular Collapse",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "NervousCollapse",
       "SetID": "aaidab7",
       "Name": "Nervous Collapse",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "Opportunist",
@@ -714,7 +719,7 @@
       "Name": "Opportunist",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "PrescriptionFrenzy",
@@ -754,15 +759,15 @@
       "Name": "Richie Rich",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "SkeletalCollapse",
@@ -776,39 +781,39 @@
       "ID": "Stabilized",
       "SetID": "aaidab7",
       "Name": "Stabilized",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "Thrifty",
       "SetID": "aaidab7",
       "Name": "Thrifty",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "WalkInThePark",
       "SetID": "aaidab7",
       "Name": "Walk In The Park",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:08:54.2162082+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:08:49.5434377+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:00:11.7798101+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:08:54.2162292+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:59:35.1928131+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:08:49.5434657+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "676a89b2e8344c9db39a79724150cba6",
   "Name": "Against All Odds",
   "ProductSlug": "against-all-odds-409105",
-  "Ranking_Rating": 942,
+  "Ranking_Rating": 958,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 851,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-05-04T16:58:21.4625211+00:00",
@@ -233,6 +233,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-25T19:00:45.0564344+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -251,8 +257,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-04T16:58:21.462516+00:00",
   "FirstSeenRating": "2023-05-04T16:58:21.4625207+00:00",
-  "LastChanged": "2023-12-31T17:58:06.9022635+00:00",
+  "LastChanged": "2024-01-25T19:00:45.0564343+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.224797+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:01:42.9184625+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:08:31.9718877+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:00:45.0564347+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:08:32.890765+00:00"
 }

@@ -1,53 +1,53 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 696)  
+Rating: 4.45 (Ranked 695)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~400,776 |
-| Happy Returns | 78.00% | ~385,932 |
-| Hey! That's mine! | 78.00% | ~385,932 |
-| Field Promotion | 74.00% | ~366,141 |
-| Leadhead | 71.00% | ~351,297 |
-| Eradicator | 68.00% | ~336,454 |
-| Surplus | 66.00% | ~326,558 |
-| I Spy | 64.00% | ~316,662 |
-| Burn Baby Burn | 59.00% | ~291,923 |
-| Yellow Beats Green | 56.00% | ~277,080 |
-| Salvage Rights | 53.00% | ~262,236 |
-| What IS that? | 51.00% | ~252,340 |
-| Close Call | 50.00% | ~247,392 |
-| Pew Pew | 50.00% | ~247,392 |
-| Penny Pincher | 49.00% | ~242,445 |
-| Arsenal | 46.00% | ~227,601 |
-| Boot Camp | 46.00% | ~227,601 |
-| Flawless Victory | 42.00% | ~207,810 |
-| Confident | 41.00% | ~202,862 |
-| Exterminator | 36.00% | ~178,123 |
-| Sharpshooter | 34.00% | ~168,227 |
-| Not So Fast | 33.00% | ~163,279 |
-| Great Ball of Fire | 32.00% | ~158,331 |
-| No Sale | 31.00% | ~153,383 |
-| Kaboom! | 30.00% | ~148,436 |
-| Liquidator | 29.00% | ~143,488 |
-| High Voltage | 24.00% | ~118,748 |
-| Filthy Rich | 20.00% | ~98,957 |
-| Pyrrhic Victory | 18.00% | ~89,061 |
-| The Not-So-Friendly Skies | 18.00% | ~89,061 |
-| Power Builder | 17.00% | ~84,113 |
-| Death From Above | 16.00% | ~79,166 |
-| Retry | 16.00% | ~79,166 |
-| Head Trauma | 12.00% | ~59,374 |
-| Full Defense | 10.00% | ~49,478 |
+| First Blood | 81.00% | ~400,782 |
+| Happy Returns | 78.00% | ~385,938 |
+| Hey! That's mine! | 78.00% | ~385,938 |
+| Field Promotion | 74.00% | ~366,146 |
+| Leadhead | 71.00% | ~351,302 |
+| Eradicator | 68.00% | ~336,459 |
+| Surplus | 66.00% | ~326,563 |
+| I Spy | 64.00% | ~316,667 |
+| Burn Baby Burn | 59.00% | ~291,927 |
+| Yellow Beats Green | 56.00% | ~277,084 |
+| Salvage Rights | 53.00% | ~262,240 |
+| What IS that? | 51.00% | ~252,344 |
+| Close Call | 50.00% | ~247,396 |
+| Pew Pew | 50.00% | ~247,396 |
+| Penny Pincher | 49.00% | ~242,448 |
+| Arsenal | 46.00% | ~227,604 |
+| Boot Camp | 46.00% | ~227,604 |
+| Flawless Victory | 42.00% | ~207,813 |
+| Confident | 41.00% | ~202,865 |
+| Exterminator | 36.00% | ~178,125 |
+| Sharpshooter | 34.00% | ~168,229 |
+| Not So Fast | 33.00% | ~163,281 |
+| Great Ball of Fire | 32.00% | ~158,333 |
+| No Sale | 31.00% | ~153,386 |
+| Kaboom! | 30.00% | ~148,438 |
+| Liquidator | 29.00% | ~143,490 |
+| High Voltage | 24.00% | ~118,750 |
+| Filthy Rich | 20.00% | ~98,958 |
+| Pyrrhic Victory | 18.00% | ~89,063 |
+| The Not-So-Friendly Skies | 18.00% | ~89,063 |
+| Power Builder | 17.00% | ~84,115 |
+| Death From Above | 16.00% | ~79,167 |
+| Retry | 16.00% | ~79,167 |
+| Head Trauma | 12.00% | ~59,375 |
+| Full Defense | 10.00% | ~49,479 |
 | Overseer | 9.00% | ~44,531 |
 | Annihilator | 8.00% | ~39,583 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,583 |
-| Indecisive | 6.00% | ~29,687 |
-| Base Defender | 5.00% | ~24,739 |
-| Relay Race | 5.00% | ~24,739 |
-| Tower Expert | 4.00% | ~19,791 |
+| Indecisive | 6.00% | ~29,688 |
+| Base Defender | 5.00% | ~24,740 |
+| Relay Race | 5.00% | ~24,740 |
+| Tower Expert | 4.00% | ~19,792 |
 | Diversity | 3.00% | ~14,844 |
 | Full Potential | 3.00% | ~14,844 |
 | Minimalist | 2.00% | ~9,896 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Planet Defender | 0.90% | ~4,453 |
 | Master Siege Breaker | 0.80% | ~3,958 |
 | Few and Proud | 0.80% | ~3,958 |
-| Shell-shocked | 0.70% | ~3,463 |
+| Shell-shocked | 0.70% | ~3,464 |
 | Alien Tears | 0.50% | ~2,474 |
 | Full House | 0.50% | ~2,474 |
 | Kickstarter | 0.30% | ~1,484 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~495 |
 | You Monster | 0.10% | ~495 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,785 (Ranked 43)  
+Progressed: 494,792 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,10 +374,10 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 494,643 | 5 |
 | 2024-01-23 | 494,699 | 5 |
 | 2024-01-24 | 494,744 | 5 |
-| 2024-01-25 | 494,785 | 5 |
+| 2024-01-25 | 494,792 | 5 |
 ## Awards
 Max (Great for Beginners): 265  (Ranked 282)  
-Sum: 1,754 (Ranked 229)  
+Sum: 1,755 (Ranked 229)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -387,7 +387,7 @@ Diff (max vs sum): 53
 | This game is Extremely Fun | 215 |
 | This game is Highly Recommended | 200 |
 | This game has Challenging Combat | 186 |
-| This game has Amazing Storytelling | 184 |
+| This game has Amazing Storytelling | 185 |
 | This game has Amazing Characters | 176 |
 | This game has a Creative Community | 75 |
 | This game has Playful Visuals | 38 |
@@ -564,3 +564,4 @@ Diff (max vs sum): 53
 | 2024-01-19 | 4.45 | - | 265 | 1,751 |
 | 2024-01-20 | 4.45 | - | 265 | 1,752 |
 | 2024-01-22 | 4.45 | - | 265 | 1,754 |
+| 2024-01-25 | 4.45 | - | 265 | 1,755 |

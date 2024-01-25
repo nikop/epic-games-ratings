@@ -1,12 +1,12 @@
 # Swords of Legends Online
 [Store](https://store.epicgames.com/en-US/p/swords-of-legends-online)  
 [View Rawdata](../../db/s/swords_of_legends_online.json)  
-Rating: 4.28 (Ranked 905)  
+Rating: 4.28 (Ranked 904)  
 Number of Ratings: 262  (23.09.2022)  
 ## Awards
-Max (Character Customization): 173  (Ranked 325)  
+Max (Character Customization): 173  (Ranked 326)  
 Sum: 471 (Ranked 345)  
-Diff (max vs sum): -20  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 173 |

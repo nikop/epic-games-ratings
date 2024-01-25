@@ -1,42 +1,42 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 662)  
+Rating: 4.48 (Ranked 663)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~537 |
+| Green with Envy | 77.00% | ~538 |
 | First of many… | 68.00% | ~475 |
 | Helping Hand | 65.00% | ~454 |
 | Increased Vigor | 61.00% | ~426 |
 | Fight Fire with Fire | 59.00% | ~412 |
 | Increased Capacity | 56.00% | ~391 |
-| Just the start | 50.00% | ~349 |
-| Perfect Storm | 47.00% | ~328 |
-| All That Glitters | 46.00% | ~321 |
-| Enhance! | 43.00% | ~300 |
-| One Of the Chosen | 42.00% | ~293 |
-| Throne Potato | 41.00% | ~286 |
-| Five's a Crowd | 41.00% | ~286 |
-| Salvation | 40.00% | ~279 |
-| Devil's in the Details | 40.00% | ~279 |
-| 25 to Life | 40.00% | ~279 |
-| Unshakable Fortitude | 37.00% | ~258 |
-| Soul Harvester | 37.00% | ~258 |
-| I Wanna Rock | 35.00% | ~244 |
-| Delusions of Grandeur | 35.00% | ~244 |
-| Love Tap | 34.00% | ~237 |
-| Maximum Vigor | 33.00% | ~230 |
-| Freeze Frame | 31.00% | ~216 |
-| Eat Your Heart Out | 31.00% | ~216 |
-| For Whom the Bell Tolls | 29.00% | ~202 |
-| Unyielding Strength | 27.00% | ~188 |
-| Can you restore the Balance? | 27.00% | ~188 |
-| Crowd Source | 27.00% | ~188 |
-| Big Spender | 27.00% | ~188 |
-| Cleanup Crew | 26.00% | ~181 |
-| Seeing Red | 26.00% | ~181 |
+| Just the start | 50.00% | ~350 |
+| Perfect Storm | 46.00% | ~322 |
+| All That Glitters | 46.00% | ~322 |
+| Enhance! | 43.00% | ~301 |
+| One Of the Chosen | 41.00% | ~287 |
+| Five's a Crowd | 41.00% | ~287 |
+| Devil's in the Details | 40.00% | ~280 |
+| Throne Potato | 40.00% | ~280 |
+| 25 to Life | 40.00% | ~280 |
+| Salvation | 39.00% | ~273 |
+| Soul Harvester | 37.00% | ~259 |
+| Unshakable Fortitude | 36.00% | ~252 |
+| I Wanna Rock | 35.00% | ~245 |
+| Delusions of Grandeur | 35.00% | ~245 |
+| Love Tap | 34.00% | ~238 |
+| Maximum Vigor | 33.00% | ~231 |
+| Freeze Frame | 31.00% | ~217 |
+| Eat Your Heart Out | 31.00% | ~217 |
+| For Whom the Bell Tolls | 29.00% | ~203 |
+| Unyielding Strength | 27.00% | ~189 |
+| Big Spender | 27.00% | ~189 |
+| Cleanup Crew | 26.00% | ~182 |
+| Can you restore the Balance? | 26.00% | ~182 |
+| Seeing Red | 26.00% | ~182 |
+| Crowd Source | 26.00% | ~182 |
 | Demon Meddler | 24.00% | ~168 |
 | Egomaniac | 24.00% | ~168 |
 | Maximum Capacity | 23.00% | ~161 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 335)  
+Progressed: 699 (Ranked 335)  
 Completed: 2 (0.29%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.29%) (Ranked 268)
 | 2024-01-22 | 677 | 2 |
 | 2024-01-23 | 683 | 2 |
 | 2024-01-24 | 689 | 2 |
-| 2024-01-25 | 698 | 2 |
+| 2024-01-25 | 699 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 382)  
 Sum: 101 (Ranked 475)  

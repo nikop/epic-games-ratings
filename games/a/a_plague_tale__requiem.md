@@ -5,16 +5,16 @@ Rating: 4.73 (Ranked 185)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~17,110 |
+| Under a New Sun | 91.00% | ~17,111 |
 | Newcomers | 76.00% | ~14,290 |
-| A Burden of Blood | 71.00% | ~13,349 |
-| Protector's Duty | 67.00% | ~12,597 |
-| In our Wake | 65.00% | ~12,221 |
-| Alchemist | 65.00% | ~12,221 |
-| Leaving all Behind | 62.00% | ~11,657 |
-| Felons | 59.00% | ~11,093 |
-| A Sea of Promises | 58.00% | ~10,905 |
-| Tales and Revelations | 54.00% | ~10,153 |
+| A Burden of Blood | 71.00% | ~13,350 |
+| Protector's Duty | 67.00% | ~12,598 |
+| In our Wake | 65.00% | ~12,222 |
+| Alchemist | 65.00% | ~12,222 |
+| Leaving all Behind | 62.00% | ~11,658 |
+| Felons | 59.00% | ~11,094 |
+| A Sea of Promises | 58.00% | ~10,906 |
+| Tales and Revelations | 54.00% | ~10,154 |
 | Bloodline | 49.00% | ~9,213 |
 | The Cradle of Centuries | 46.00% | ~8,649 |
 | The Life We Deserve | 43.00% | ~8,085 |
@@ -22,13 +22,13 @@ Rating: 4.73 (Ranked 185)
 | Nothing Left | 37.00% | ~6,957 |
 | Healing our Wounds | 35.00% | ~6,581 |
 | Dying Sun | 31.00% | ~5,829 |
-| Improved crossbow | 25.00% | ~4,700 |
-| King Hugo | 24.00% | ~4,512 |
-| Perfect shot | 23.00% | ~4,324 |
-| Mercy | 23.00% | ~4,324 |
-| Effective instruments | 21.00% | ~3,948 |
-| Knights! | 20.00% | ~3,760 |
-| Perfect throw | 20.00% | ~3,760 |
+| Improved crossbow | 25.00% | ~4,701 |
+| King Hugo | 24.00% | ~4,513 |
+| Perfect shot | 23.00% | ~4,325 |
+| Mercy | 23.00% | ~4,325 |
+| Effective instruments | 21.00% | ~3,949 |
+| Knights! | 20.00% | ~3,761 |
+| Perfect throw | 20.00% | ~3,761 |
 | Handful of pockets | 12.00% | ~2,256 |
 | Not a toy anymore | 11.00% | ~2,068 |
 | Pocket laboratory | 11.00% | ~2,068 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 185)
 | Explorer | 1.00% | ~188 |
 | Malignant | 1.00% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,802 (Ranked 164)  
+Progressed: 18,803 (Ranked 164)  
 Completed: 70 (0.37%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 70 (0.37%) (Ranked 253)
 | 2024-01-22 | 18,692 | 70 |
 | 2024-01-23 | 18,733 | 70 |
 | 2024-01-24 | 18,774 | 70 |
-| 2024-01-25 | 18,802 | 70 |
+| 2024-01-25 | 18,803 | 70 |
 ## Awards
 Max (Great Boss Battles): 473  (Ranked 229)  
 Sum: 740 (Ranked 309)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -199,11 +199,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1637,
+  "EOS_Progressed": 1638,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5774,6 +5774,11 @@
       "Time": "2024-01-25T14:08:29.6849365+00:00",
       "NumProgressed": 1637,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-25T19:06:50.070112+00:00",
+      "NumProgressed": 1638,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5793,7 +5798,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "MQ02_1",
@@ -5809,7 +5814,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "MQ02_3",
@@ -5833,7 +5838,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MQ03_2",
@@ -5865,7 +5870,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "MQ04_1",
@@ -5889,7 +5894,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "MQ05_1",
@@ -5905,7 +5910,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "MQ05_3",
@@ -5945,7 +5950,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "MQ06_4",
@@ -5961,7 +5966,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "MQ07_2",
@@ -5969,7 +5974,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "MQ08_1",
@@ -5977,7 +5982,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "MQ08_2",
@@ -6008,7 +6013,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1637,
+      "Progressed": 1638,
       "Completed": 51
     }
   ],
@@ -6016,8 +6021,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-23T12:03:16.4968274+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:08:01.6279245+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:06:50.0701115+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:03:52.5762781+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:08:01.6279998+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:03:35.2374686+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:06:50.0701661+00:00"
 }

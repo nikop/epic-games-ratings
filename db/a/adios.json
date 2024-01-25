@@ -153,9 +153,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84413,
+  "EOS_Progressed": 84414,
   "EOS_Completed": 952,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31458,6 +31458,11 @@
       "Time": "2024-01-25T18:08:42.985259+00:00",
       "NumProgressed": 84413,
       "NumCompleted": 952
+    },
+    {
+      "Time": "2024-01-25T19:08:41.005325+00:00",
+      "NumProgressed": 84414,
+      "NumCompleted": 952
     }
   ],
   "TotalAchievements": 25,
@@ -31485,7 +31490,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 16038
+      "UsersEstimate": 16039
     },
     {
       "ID": "Audiophile",
@@ -31509,7 +31514,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15194
+      "UsersEstimate": 15195
     },
     {
       "ID": "Butcher",
@@ -31613,7 +31618,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9285
+      "UsersEstimate": 9286
     },
     {
       "ID": "Right On Target",
@@ -31668,7 +31673,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84413,
+      "Progressed": 84414,
       "Completed": 952
     }
   ],
@@ -31676,8 +31681,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-25T04:58:57.692419+00:00",
-  "LastChanged_Achievements": "2024-01-25T18:08:42.9852588+00:00",
+  "LastChanged_Achievements": "2024-01-25T19:08:41.0053245+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:00:42.2245696+00:00",
-  "LastUpdate_Achievements": "2024-01-25T18:08:42.9854093+00:00"
+  "LastUpdate_Ratings": "2024-01-25T18:59:58.2844926+00:00",
+  "LastUpdate_Achievements": "2024-01-25T19:08:41.0055143+00:00"
 }
