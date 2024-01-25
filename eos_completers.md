@@ -176,10 +176,10 @@
 | 174 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.10% |
 | 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 175 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
-| 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.06% |
-| 178 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
-| 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
-| 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
+| 177 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
+| 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.05% |
+| 177 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
+| 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
 | 181 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 181 | [Sable](games/s/sable.md) | 1.03% |
 | 183 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
@@ -333,12 +333,12 @@
 | 329 | [House Flipper](games/h/house_flipper.md) | 0.09% |
 | 329 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 329 | [MythForce](games/m/mythforce.md) | 0.09% |
+| 329 | [SYNCED](games/s/synced.md) | 0.09% |
 | 329 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
 | 329 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 336 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
-| 336 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
-| 336 | [SYNCED](games/s/synced.md) | 0.08% |
-| 336 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
+| 337 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
+| 337 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
+| 337 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
 | 340 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 341 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.06% |
 | 341 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
