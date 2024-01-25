@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 102551,
+  "EOS_Progressed": 102552,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2571,
+  "EOS_NewPlayers": 2557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15038,6 +15038,11 @@
       "Time": "2024-01-25T19:10:42.3004682+00:00",
       "NumProgressed": 102551,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T21:10:05.6525133+00:00",
+      "NumProgressed": 102552,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -15090,7 +15095,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 30765
+      "UsersEstimate": 30766
     },
     {
       "ID": "achievement_15",
@@ -15106,7 +15111,7 @@
       "Name": "Heads Down",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 64607
+      "UsersEstimate": 64608
     },
     {
       "ID": "achievement_17",
@@ -15122,7 +15127,7 @@
       "Name": "Eager Beaver",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 32816
+      "UsersEstimate": 32817
     },
     {
       "ID": "achievement_19",
@@ -15146,7 +15151,7 @@
       "Name": "Last Man Standing",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 93321
+      "UsersEstimate": 93322
     },
     {
       "ID": "achievement_21",
@@ -15170,7 +15175,7 @@
       "Name": "Lovely",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 28714
+      "UsersEstimate": 28715
     },
     {
       "ID": "achievement_5",
@@ -15202,7 +15207,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 68709
+      "UsersEstimate": 68710
     },
     {
       "ID": "achievement_9",
@@ -15217,13 +15222,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 102551,
+      "Progressed": 102552,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:35.4807153+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:05.652513+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.7832783+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:57:17.8086992+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:35.4807956+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:57:33.3052937+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:05.6526061+00:00"
 }

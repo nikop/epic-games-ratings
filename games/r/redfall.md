@@ -13,8 +13,8 @@ Rating: 3.67 (Ranked 1,107)
 | Blood Will Have Blood | 14.00% | ~339 |
 | Ne Plus Ultra | 14.00% | ~339 |
 | Peek-a-boo | 14.00% | ~339 |
-| Fly Fisher | 13.00% | ~314 |
-| Sucks To Be You | 13.00% | ~314 |
+| Fly Fisher | 13.00% | ~315 |
+| Sucks To Be You | 13.00% | ~315 |
 | Throw The First Stone | 12.00% | ~290 |
 | Enter of Your Own Free Will | 11.00% | ~266 |
 | Welcome to the Neighborhood | 11.00% | ~266 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,107)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,419 (Ranked 248)  
+Progressed: 2,420 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 2,413 | 0 |
 | 2024-01-23 | 2,415 | 0 |
 | 2024-01-24 | 2,417 | 0 |
-| 2024-01-25 | 2,419 | 0 |
+| 2024-01-25 | 2,420 | 0 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 532)  
 Sum: 30 (Ranked 552)  

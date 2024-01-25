@@ -20,16 +20,16 @@ Rating: 4.85 (Ranked 39)
 | Gladiator | 11.00% | ~79 |
 | Lumberjack | 11.00% | ~79 |
 | Orcs Must Die! | 11.00% | ~79 |
-| Troubleshooter | 10.00% | ~71 |
+| Troubleshooter | 10.00% | ~72 |
 | Money Swag | 8.00% | ~57 |
 | Oops | 7.00% | ~50 |
 | Shield Crusher | 7.00% | ~50 |
 | Treasure Hunter | 6.00% | ~43 |
 | Explorer | 5.00% | ~36 |
 | Trio | 5.00% | ~36 |
-| Pyromancer | 4.00% | ~29 |
 | Arrive Home | 3.00% | ~21 |
 | Holy Knight | 3.00% | ~21 |
+| Pyromancer | 3.00% | ~21 |
 | Spell Master | 3.00% | ~21 |
 | Hoarder | 2.00% | ~14 |
 | Marksman | 2.00% | ~14 |
@@ -46,7 +46,7 @@ Rating: 4.85 (Ranked 39)
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714 (Ranked 331)  
+Progressed: 715 (Ranked 331)  
 Completed: 1 (0.14%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 1 (0.14%) (Ranked 305)
 | 2024-01-20 | 711 | 1 |
 | 2024-01-21 | 712 | 1 |
 | 2024-01-24 | 714 | 1 |
+| 2024-01-25 | 715 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

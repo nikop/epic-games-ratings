@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253830,
+  "EOS_Progressed": 253832,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
@@ -24992,6 +24992,11 @@
       "Time": "2024-01-25T20:10:36.3156513+00:00",
       "NumProgressed": 253830,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T21:10:06.510154+00:00",
+      "NumProgressed": 253832,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -25027,7 +25032,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53304
+      "UsersEstimate": 53305
     },
     {
       "ID": "blotbuster",
@@ -25075,7 +25080,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38074
+      "UsersEstimate": 38075
     },
     {
       "ID": "clearCut",
@@ -25099,7 +25104,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45689
+      "UsersEstimate": 45690
     },
     {
       "ID": "curator",
@@ -25179,7 +25184,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134530
+      "UsersEstimate": 134531
     },
     {
       "ID": "indegestible",
@@ -25219,7 +25224,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20306
+      "UsersEstimate": 20307
     },
     {
       "ID": "lockupLockdown",
@@ -25243,7 +25248,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126915
+      "UsersEstimate": 126916
     },
     {
       "ID": "notScared",
@@ -25275,7 +25280,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20306
+      "UsersEstimate": 20307
     },
     {
       "ID": "rideTheWave",
@@ -25370,7 +25375,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253830,
+      "Progressed": 253832,
       "Completed": 6
     }
   ],
@@ -25378,8 +25383,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:36.315651+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:06.5101535+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:47.0216923+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:36.3157595+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:58:54.5408004+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:06.5103209+00:00"
 }

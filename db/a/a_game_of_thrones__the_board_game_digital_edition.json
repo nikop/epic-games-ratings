@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34309,
+  "EOS_Progressed": 34312,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31677,6 +31677,11 @@
       "Time": "2024-01-25T20:10:31.1070373+00:00",
       "NumProgressed": 34309,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-25T21:10:01.6100727+00:00",
+      "NumProgressed": 34312,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31712,7 +31717,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "1019",
@@ -31728,7 +31733,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "1021",
@@ -31736,7 +31741,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "1022",
@@ -31816,7 +31821,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "1032",
@@ -31824,7 +31829,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13724
+      "UsersEstimate": 13725
     },
     {
       "ID": "1033",
@@ -31863,15 +31868,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34309,
+      "Progressed": 34312,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:31.107037+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:01.6100723+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:36.6515018+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:31.1071601+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:58:45.0866987+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:01.6102472+00:00"
 }

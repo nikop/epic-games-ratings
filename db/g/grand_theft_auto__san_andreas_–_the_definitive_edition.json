@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2621,10 +2621,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1127,
       "NumberOfAwardsMax": 728
+    },
+    {
+      "Time": "2024-01-25T20:59:22.7953417+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1129,
+      "NumberOfAwardsMax": 728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1127,
+  "NumberOfAwards": 1129,
   "NumberOfAwardsMax": 728,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2656,7 +2662,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2689,9 +2695,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 19848,
+  "EOS_Progressed": 19849,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21484,6 +21490,11 @@
       "Time": "2024-01-25T20:10:41.5309437+00:00",
       "NumProgressed": 19848,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2024-01-25T21:10:11.0934156+00:00",
+      "NumProgressed": 19849,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 35,
@@ -21495,7 +21506,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16077
+      "UsersEstimate": 16078
     },
     {
       "ID": "ACH02",
@@ -21551,7 +21562,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10123
     },
     {
       "ID": "ACH09",
@@ -21671,7 +21682,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 5160
+      "UsersEstimate": 5161
     },
     {
       "ID": "ACH24",
@@ -21774,16 +21785,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19848,
+      "Progressed": 19849,
       "Completed": 83
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-25T18:59:22.4365026+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:41.5309434+00:00",
+  "LastChanged": "2024-01-25T20:59:22.7953416+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:11.093415+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:59:18.2651108+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:41.5310444+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:22.795342+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:11.0935403+00:00"
 }

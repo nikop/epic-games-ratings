@@ -5,7 +5,7 @@
   "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 147,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -488,6 +488,11 @@
       "Time": "2024-01-25T20:05:02.8481279+00:00",
       "NumProgressed": 172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T21:05:05.0065035+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -578,9 +583,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "brutus",
@@ -794,9 +799,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "his_all_holiness",
@@ -1156,7 +1161,7 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -1299,7 +1304,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 174,
       "Completed": 0
     }
   ],
@@ -1307,8 +1312,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:05:02.8481276+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:05:05.0065031+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:46.6107151+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:05:02.8482362+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:41.3486744+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:05:05.0065898+00:00"
 }

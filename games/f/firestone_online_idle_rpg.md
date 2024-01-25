@@ -5,11 +5,11 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,463 |
-| World Map | 78.00% | ~3,743 |
-| Temple of Eternals | 56.00% | ~2,687 |
-| Prestigious | 52.00% | ~2,495 |
-| Fellowship Power | 42.00% | ~2,016 |
+| Victor | 93.00% | ~4,465 |
+| World Map | 78.00% | ~3,745 |
+| Temple of Eternals | 56.00% | ~2,689 |
+| Prestigious | 52.00% | ~2,497 |
+| Fellowship Power | 41.00% | ~1,968 |
 | Full Party | 31.00% | ~1,488 |
 | Guild Power | 22.00% | ~1,056 |
 | Prestigious x10 | 20.00% | ~960 |
@@ -45,17 +45,17 @@ Rating: 4.08 (Ranked 1,038)
 | Trader | 7.00% | ~336 |
 | Dragon Slayer | 6.00% | ~288 |
 | Enchanting skill | 6.00% | ~288 |
-| How Do You Turn This On? | 6.00% | ~288 |
 | The Expeditioner | 6.00% | ~288 |
 | Weekly Quest Completionist | 6.00% | ~288 |
-| Ancient Knowledge | 5.00% | ~240 |
 | Blueprint Upgrades | 5.00% | ~240 |
 | Crystal Mining | 5.00% | ~240 |
 | Engineer Mastery | 5.00% | ~240 |
+| How Do You Turn This On? | 5.00% | ~240 |
 | Lock And Load | 5.00% | ~240 |
 | Missions Dedication | 5.00% | ~240 |
 | Sailor | 5.00% | ~240 |
 | Active Member | 4.00% | ~192 |
+| Ancient Knowledge | 4.00% | ~192 |
 | Background Story | 4.00% | ~192 |
 | Legendary | 4.00% | ~192 |
 | The Alchemist | 4.00% | ~192 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,799 (Ranked 211)  
+Progressed: 4,801 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 2 (0.04%) (Ranked 360)
 | 2024-01-22 | 4,742 | 2 |
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
-| 2024-01-25 | 4,799 | 2 |
+| 2024-01-25 | 4,801 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 488)  
 Sum: 126 (Ranked 461)  

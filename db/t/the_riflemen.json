@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77778,
+  "EOS_Progressed": 77800,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4574,
+  "EOS_NewPlayers": 4561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 15.12,
   "EosHistory": [
@@ -17958,6 +17958,11 @@
       "Time": "2024-01-25T20:10:02.1313933+00:00",
       "NumProgressed": 77778,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-25T21:09:35.6881808+00:00",
+      "NumProgressed": 77800,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -17978,7 +17983,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 58334
+      "UsersEstimate": 58350
     },
     {
       "ID": "grenadeKills",
@@ -17994,7 +17999,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "headshots1000",
@@ -18050,7 +18055,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "shotgunKills",
@@ -18081,7 +18086,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 77778,
+      "Progressed": 77800,
       "Completed": 11760
     }
   ],
@@ -18089,8 +18094,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-24T23:59:35.154619+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:02.131393+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:09:35.6881803+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.9687625+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:33.004374+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:02.1314777+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:29.3691243+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:09:35.6882701+00:00"
 }

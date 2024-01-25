@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 733)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,596 |
-| This is only the beginning | 20.00% | ~46,612 |
+| No aid from the Omnissiah | 26.00% | ~60,597 |
+| This is only the beginning | 20.00% | ~46,613 |
 | Knowledge is power | 13.00% | ~30,298 |
 | Power Ranger | 10.00% | ~23,306 |
 | Galvanic Rifle | 10.00% | ~23,306 |
 | Radium Ready | 10.00% | ~23,306 |
-| Taser Goad | 9.00% | ~20,975 |
-| Half a cog | 9.00% | ~20,975 |
+| Taser Goad | 9.00% | ~20,976 |
+| Half a cog | 9.00% | ~20,976 |
 | Watch them crumble | 6.00% | ~13,984 |
-| Competent Cohort | 4.00% | ~9,322 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,322 |
-| One with the Machine | 4.00% | ~9,322 |
+| Competent Cohort | 4.00% | ~9,323 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,323 |
+| One with the Machine | 4.00% | ~9,323 |
 | Legio Cybernetica | 3.00% | ~6,992 |
 | Fleshy Disposal | 3.00% | ~6,992 |
 | Battle Servitor | 2.00% | ~4,661 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 733)
 | Impatient destruction | 2.00% | ~4,661 |
 | Vivisected Vizier | 2.00% | ~4,661 |
 | Architect Abortion | 2.00% | ~4,661 |
-| Cohortus Maximus | 0.80% | ~1,864 |
+| Cohortus Maximus | 0.80% | ~1,865 |
 | Mother of Xenarites | 0.40% | ~932 |
 | False God | 0.30% | ~699 |
 | Hard | 0.20% | ~466 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 733)
 | Perma-live | 0.10% | ~233 |
 | Purge the Heretek | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,060 (Ranked 78)  
+Progressed: 233,064 (Ranked 78)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,17 +320,17 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 232,884 | 5 |
 | 2024-01-23 | 232,955 | 5 |
 | 2024-01-24 | 233,023 | 5 |
-| 2024-01-25 | 233,060 | 5 |
+| 2024-01-25 | 233,064 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 270)  
-Sum: 2,234 (Ranked 214)  
+Sum: 2,235 (Ranked 214)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 292 |
 | This game has Quickly Understood Controls | 289 |
 | This game is Extremely Fun | 286 |
-| This game has Amazing Characters | 279 |
+| This game has Amazing Characters | 280 |
 | This game has Diverse Characters | 270 |
 | This game has Amazing Storytelling | 252 |
 | This game is Relaxing | 246 |
@@ -462,3 +462,4 @@ Diff (max vs sum): 56
 | 2024-01-12 | 4.43 | 292 | 2,232 |
 | 2024-01-15 | 4.43 | 292 | 2,233 |
 | 2024-01-22 | 4.43 | 292 | 2,234 |
+| 2024-01-25 | 4.43 | 292 | 2,235 |

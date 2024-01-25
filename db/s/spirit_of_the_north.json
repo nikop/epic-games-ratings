@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80972,
+  "EOS_Progressed": 80974,
   "EOS_Completed": 442,
   "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 6,
@@ -31354,6 +31354,11 @@
       "Time": "2024-01-25T20:04:32.3271975+00:00",
       "NumProgressed": 80972,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2024-01-25T21:04:36.584964+00:00",
+      "NumProgressed": 80974,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 24,
@@ -31381,7 +31386,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55871
+      "UsersEstimate": 55872
     },
     {
       "ID": "BEST_FRIENDS",
@@ -31405,7 +31410,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 17004
+      "UsersEstimate": 17005
     },
     {
       "ID": "FETCH",
@@ -31413,7 +31418,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22672
+      "UsersEstimate": 22673
     },
     {
       "ID": "FOXIN_AROUND",
@@ -31445,7 +31450,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42915
+      "UsersEstimate": 42916
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -31485,7 +31490,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7287
+      "UsersEstimate": 7288
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -31493,7 +31498,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 7287
+      "UsersEstimate": 7288
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -31525,7 +31530,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13765
+      "UsersEstimate": 13766
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -31556,7 +31561,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80972,
+      "Progressed": 80974,
       "Completed": 442
     }
   ],
@@ -31564,8 +31569,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:04:32.3271972+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:04:36.5849635+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:57.351198+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:21.174573+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:04:32.3273422+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:58:30.8999836+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:04:36.5851564+00:00"
 }

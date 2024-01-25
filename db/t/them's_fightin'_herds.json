@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -367,7 +367,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235783,
+  "EOS_Progressed": 235784,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
@@ -28777,6 +28777,11 @@
       "Time": "2024-01-25T20:04:35.5372676+00:00",
       "NumProgressed": 235783,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T21:04:39.5565478+00:00",
+      "NumProgressed": 235784,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -28932,7 +28937,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 80166
+      "UsersEstimate": 80167
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -28948,7 +28953,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49514
+      "UsersEstimate": 49515
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -28956,7 +28961,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7074
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -29011,7 +29016,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235783,
+      "Progressed": 235784,
       "Completed": 6
     }
   ],
@@ -29019,8 +29024,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-24T17:59:56.6891716+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:04:35.5372672+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:04:39.5565472+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:26.6576399+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:19.6442291+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:04:35.5373834+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:17.7196573+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:04:39.5567049+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4155,9 +4155,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33937,
+  "EOS_Progressed": 33938,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26460,6 +26460,11 @@
       "Time": "2024-01-25T19:09:55.1938492+00:00",
       "NumProgressed": 33937,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-25T21:09:22.6609883+00:00",
+      "NumProgressed": 33938,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26543,7 +26548,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "Diabolical",
@@ -26615,7 +26620,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "Ghost_Expert",
@@ -26719,7 +26724,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "Rivalry",
@@ -26775,7 +26780,7 @@
       "Name": "Stylish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4072
+      "UsersEstimate": 4073
     },
     {
       "ID": "Summoner",
@@ -26823,7 +26828,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "There_You_Are",
@@ -26878,7 +26883,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33937,
+      "Progressed": 33938,
       "Completed": 71
     }
   ],
@@ -26886,8 +26891,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-25T19:58:42.2810542+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:09:47.7210709+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:09:22.6609878+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:41.0805246+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:42.2810546+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:09:47.7211995+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:58:50.1492343+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:09:22.6611012+00:00"
 }

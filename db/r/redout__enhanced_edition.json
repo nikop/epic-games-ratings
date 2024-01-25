@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239346,
+  "EOS_Progressed": 239345,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": -104,
+  "EOS_NewPlayers": -102,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29638,6 +29638,11 @@
       "Time": "2024-01-25T20:09:05.0099584+00:00",
       "NumProgressed": 239346,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-25T21:08:42.7152269+00:00",
+      "NumProgressed": 239345,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -29809,7 +29814,7 @@
       "Name": "ON A ROLL",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23935
+      "UsersEstimate": 23934
     },
     {
       "ID": "PHOTOFINISH",
@@ -29920,15 +29925,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239346,
+      "Progressed": 239345,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:09:05.009958+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:08:42.7152265+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:59:49.7683645+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:09:05.0101133+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:51.3712468+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:08:42.7154125+00:00"
 }

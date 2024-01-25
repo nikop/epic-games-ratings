@@ -2,9 +2,9 @@
   "ID": "7e5f7d87c17c4e68b5e200306aa46344",
   "Name": "Bladerite",
   "ProductSlug": "bladerite-0f382c",
-  "Ranking_EOS_Progress": 852,
+  "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-23T06:57:12.7931533+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:40.2797936+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:04:54.3592959+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:58:48.3715717+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:04:57.0375959+00:00"
 }

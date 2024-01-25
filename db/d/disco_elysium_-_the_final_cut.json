@@ -1724,9 +1724,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140108,
+  "EOS_Progressed": 140115,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29829,6 +29829,11 @@
       "Time": "2024-01-25T20:09:26.6310083+00:00",
       "NumProgressed": 140108,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-25T21:09:02.9410909+00:00",
+      "NumProgressed": 140115,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29872,7 +29877,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25219
+      "UsersEstimate": 25221
     },
     {
       "ID": "ACH_COP_BAD",
@@ -29896,7 +29901,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32225
+      "UsersEstimate": 32226
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -29920,7 +29925,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39230
+      "UsersEstimate": 39232
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -29936,7 +29941,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5604
+      "UsersEstimate": 5605
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -29944,7 +29949,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22417
+      "UsersEstimate": 22418
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -29952,7 +29957,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 28022
+      "UsersEstimate": 28023
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29968,7 +29973,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18214
+      "UsersEstimate": 18215
     },
     {
       "ID": "ACH_COP_STAR",
@@ -29976,7 +29981,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21016
+      "UsersEstimate": 21017
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -29984,7 +29989,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15412
+      "UsersEstimate": 15413
     },
     {
       "ID": "ACH_CUNO",
@@ -30032,7 +30037,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8406
+      "UsersEstimate": 8407
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -30056,7 +30061,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19615
+      "UsersEstimate": 19616
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -30120,7 +30125,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19615
+      "UsersEstimate": 19616
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -30136,7 +30141,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5604
+      "UsersEstimate": 5605
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -30159,15 +30164,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140108,
+      "Progressed": 140115,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-25T13:06:58.6481989+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:09:26.631008+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:09:02.9410901+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:19.927265+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:09:26.6311249+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:17.9779101+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:09:02.9412391+00:00"
 }

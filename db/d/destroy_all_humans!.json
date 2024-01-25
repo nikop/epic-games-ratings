@@ -6,8 +6,8 @@
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -2330,6 +2330,11 @@
       "Time": "2024-01-25T14:06:07.2810141+00:00",
       "NumProgressed": 574,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T21:05:10.6244276+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2342,7 +2347,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2358,7 +2363,7 @@
       "Name": "Scuttled",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -2382,7 +2387,7 @@
       "Name": "Yettisoned",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2398,15 +2403,15 @@
       "Name": "Forbidden Donut",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2414,7 +2419,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -2478,7 +2483,7 @@
       "Name": "Steezy Down the Spine",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_CHALLENGE_TWOSTARSEVERYWHERE",
@@ -2502,7 +2507,7 @@
       "Name": "Kaijuiced",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2510,7 +2515,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2518,7 +2523,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -2550,7 +2555,7 @@
       "Name": "Arty Facts",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -2582,7 +2587,7 @@
       "Name": "Upgreatest",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -2606,7 +2611,7 @@
       "Name": "Toilet Break",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_MENU_FURONIGAMI",
@@ -2622,7 +2627,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_REVISIT_MISSION",
@@ -2630,7 +2635,7 @@
       "Name": "Dusted",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2646,7 +2651,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2654,22 +2659,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:05:09.0471529+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:05:10.6244272+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:24.5329483+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:59:45.3470138+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:05:09.0472115+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:47.5219359+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:05:10.624463+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -379,9 +379,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 1469,
+  "EOS_Progressed": 1470,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2024-01-25T16:07:40.7318741+00:00",
       "NumProgressed": 1469,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T21:06:04.2683514+00:00",
+      "NumProgressed": 1470,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4475,7 +4480,7 @@
       "Name": "Chasing the Light",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Chicken",
@@ -4577,9 +4582,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 456
     },
     {
       "ID": "JustOneLap",
@@ -4619,7 +4624,7 @@
       "Name": "Mnemosyne",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "MuseumExplorer",
@@ -4675,7 +4680,7 @@
       "Name": "Persistent",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "PrometheusUnbound",
@@ -4723,7 +4728,7 @@
       "Name": "Signatory",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "SingleRod",
@@ -4779,7 +4784,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TheFuture",
@@ -4803,7 +4808,7 @@
       "Name": "The Spark",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "TheThiefOfFire",
@@ -4811,15 +4816,15 @@
       "Name": "The Thief of Fire",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 603
     },
     {
       "ID": "TouchGrass",
@@ -4827,7 +4832,7 @@
       "Name": "Touch Grass",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "TrevorsBiographer",
@@ -4882,7 +4887,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1469,
+      "Progressed": 1470,
       "Completed": 3
     }
   ],
@@ -4890,8 +4895,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-25T15:01:28.3159391+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:06:07.3744044+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:06:04.268351+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:21.3303538+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:06:07.3744808+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:19.141472+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:06:04.2684225+00:00"
 }

@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126954,
+  "EOS_Progressed": 126958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2469,
+  "EOS_NewPlayers": 2462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5935,6 +5935,11 @@
       "Time": "2024-01-25T20:06:15.3872303+00:00",
       "NumProgressed": 126954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T21:06:11.58585+00:00",
+      "NumProgressed": 126958,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -6019,7 +6024,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25391
+      "UsersEstimate": 25392
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -6043,7 +6048,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19043
+      "UsersEstimate": 19044
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -6099,7 +6104,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10156
+      "UsersEstimate": 10157
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -6226,7 +6231,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126954,
+      "Progressed": 126958,
       "Completed": 0
     }
   ],
@@ -6234,8 +6239,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:06:15.3872299+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:06:11.5858496+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:30.5874128+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:06:15.3872813+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:27.334106+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:06:11.5858993+00:00"
 }

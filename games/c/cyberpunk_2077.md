@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.90% | ~9,528 |
-| Right Back At Ya | 0.90% | ~9,528 |
+| Full Body Conversion | 0.90% | ~9,529 |
+| Right Back At Ya | 0.90% | ~9,529 |
 | The Hermit | 0.80% | ~8,470 |
 | The High Priestess | 0.80% | ~8,470 |
 | The Wheel of Fortune | 0.80% | ~8,470 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,710 (Ranked 17)  
+Progressed: 1,058,724 (Ranked 17)  
 Completed: 3,163 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,14 +354,14 @@ Completed: 3,163 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,710 | 3,163 |
+| 2024-01-25 | 1,058,724 | 3,163 |
 ## Awards
-Max (Character Customization): 144,777  (Ranked 8)  
-Sum: 519,758 (Ranked 8)  
+Max (Character Customization): 145,126  (Ranked 8)  
+Sum: 520,107 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 144,777 |
+| This game has Inclusive Character Customization | 145,126 |
 | This game has Great Boss Battles | 108,553 |
 | This game is Great for Beginners | 33,391 |
 | This game has Diverse Characters | 32,605 |
@@ -746,4 +746,4 @@ Diff (max vs sum): 0
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
-| 2024-01-25 | 4.68 | - | 144,777 | 519,758 |
+| 2024-01-25 | 4.68 | - | 145,126 | 520,107 |

@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,282 |
-| Autodidact | 9.00% | ~12,031 |
+| Malpractice Assurance | 15.00% | ~1,283 |
+| Autodidact | 9.00% | ~12,032 |
 | Lost and Found | 9.00% | ~770 |
 | This guy... again? | 8.00% | ~684 |
 | Serenity Now! | 7.00% | ~9,358 |
@@ -50,11 +50,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,347 |
 | Unshackled | 4.00% | ~5,347 |
 | Road Trip | 4.00% | ~5,347 |
-| Hope Rekindled | 3.00% | ~4,010 |
-| When You Want Something Done Right | 3.00% | ~4,010 |
-| Utopia | 3.00% | ~4,010 |
-| Hot Air | 3.00% | ~4,010 |
-| Eyes Up | 3.00% | ~4,010 |
+| Hope Rekindled | 3.00% | ~4,011 |
+| When You Want Something Done Right | 3.00% | ~4,011 |
+| Utopia | 3.00% | ~4,011 |
+| Hot Air | 3.00% | ~4,011 |
+| Eyes Up | 3.00% | ~4,011 |
 | This Looks Familiar | 2.00% | ~2,674 |
 | Ichthyophobic | 2.00% | ~2,674 |
 | No More Mouths to Feed | 2.00% | ~2,674 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,681 (Ranked 92)  
+Progressed: 133,685 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,10 +356,10 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,681 | 5 |
+| 2024-01-25 | 133,685 | 5 |
 ## Awards
 Max (Character Customization): 8,078  (Ranked 52)  
-Sum: 21,865 (Ranked 60)  
+Sum: 21,867 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -369,7 +369,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,618 |
 | This game has Amazing Characters | 1,546 |
 | This game is Extremely Fun | 1,538 |
-| This game has Unique Visuals | 1,488 |
+| This game has Unique Visuals | 1,490 |
 | This game has Amazing Storytelling | 1,461 |
 | This game has Quickly Understood Controls | 1,435 |
 | This game has a Creative Community | 1,115 |
@@ -740,4 +740,4 @@ Diff (max vs sum): -8
 | 2024-01-22 | 4.69 | - | 8,062 | 21,824 |
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
 | 2024-01-24 | 4.69 | - | 8,073 | 21,856 |
-| 2024-01-25 | 4.69 | - | 8,078 | 21,865 |
+| 2024-01-25 | 4.69 | - | 8,078 | 21,867 |

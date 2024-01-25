@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2059,
+  "EOS_Progressed": 2060,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3960,6 +3960,11 @@
       "Time": "2024-01-25T14:05:36.8345656+00:00",
       "NumProgressed": 2059,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-25T21:04:46.2491447+00:00",
+      "NumProgressed": 2060,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3971,7 +3976,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "10",
@@ -4027,7 +4032,7 @@
       "Name": "My little pony",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "17",
@@ -4107,7 +4112,7 @@
       "Name": "Heartstrings",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "27",
@@ -4131,7 +4136,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "30",
@@ -4179,7 +4184,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "7",
@@ -4210,15 +4215,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2059,
+      "Progressed": 2060,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:04:42.5627907+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:04:46.2491442+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:20.3579702+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:04:42.562847+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:18.2579024+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:04:46.249173+00:00"
 }

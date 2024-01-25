@@ -9785,10 +9785,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33635,
       "NumberOfAwardsMax": 5816
+    },
+    {
+      "Time": "2024-01-25T20:59:49.9010357+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33640,
+      "NumberOfAwardsMax": 5816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33635,
+  "NumberOfAwards": 33640,
   "NumberOfAwardsMax": 5816,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9832,12 +9838,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3653
+      "Count": 3658
     }
   ],
-  "EOS_Progressed": 255606,
+  "EOS_Progressed": 255619,
   "EOS_Completed": 2644,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41670,6 +41676,11 @@
       "Time": "2024-01-25T20:10:54.7610964+00:00",
       "NumProgressed": 255606,
       "NumCompleted": 2644
+    },
+    {
+      "Time": "2024-01-25T21:10:24.0809439+00:00",
+      "NumProgressed": 255619,
+      "NumCompleted": 2644
     }
   ],
   "TotalAchievements": 546,
@@ -41681,7 +41692,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12780
+      "UsersEstimate": 12781
     },
     {
       "ID": "objective_completed_10",
@@ -42545,7 +42556,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "objective_completed_1203",
@@ -43473,7 +43484,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "objective_completed_390",
@@ -43817,7 +43828,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "objective_completed_54",
@@ -44897,7 +44908,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "objective_completed_80",
@@ -46048,21 +46059,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221880,
+      "Progressed": 221893,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255606,
+      "Progressed": 255619,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-25T16:59:49.7154831+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:54.7610961+00:00",
+  "LastChanged": "2024-01-25T20:59:49.9010356+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:24.0809436+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:59:48.1683785+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:54.7634281+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:49.9010361+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:24.0833331+00:00"
 }

@@ -1,9 +1,9 @@
 {
   "ID": "epic",
   "Name": "Epic Games store",
-  "Ranking_EOS_Progress": 852,
+  "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:56.9583766+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:19.8440563+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:04:41.359643+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:58:29.6384951+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:04:45.1218071+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~538 |
-| First of many… | 68.00% | ~475 |
-| Helping Hand | 65.00% | ~454 |
-| Increased Vigor | 61.00% | ~426 |
-| Fight Fire with Fire | 59.00% | ~412 |
-| Increased Capacity | 56.00% | ~391 |
+| Green with Envy | 77.00% | ~539 |
+| First of many… | 68.00% | ~476 |
+| Helping Hand | 65.00% | ~455 |
+| Increased Vigor | 61.00% | ~427 |
+| Fight Fire with Fire | 59.00% | ~413 |
+| Increased Capacity | 56.00% | ~392 |
 | Just the start | 50.00% | ~350 |
 | Perfect Storm | 46.00% | ~322 |
 | All That Glitters | 46.00% | ~322 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699 (Ranked 335)  
+Progressed: 700 (Ranked 334)  
 Completed: 2 (0.29%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.29%) (Ranked 268)
 | 2024-01-22 | 677 | 2 |
 | 2024-01-23 | 683 | 2 |
 | 2024-01-24 | 689 | 2 |
-| 2024-01-25 | 699 | 2 |
+| 2024-01-25 | 700 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 382)  
 Sum: 101 (Ranked 475)  

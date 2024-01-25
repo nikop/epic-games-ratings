@@ -2,9 +2,9 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1358,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -4914,6 +4914,11 @@
       "Time": "2024-01-25T17:10:47.3163135+00:00",
       "NumProgressed": 1358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T21:10:17.096221+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4973,7 +4978,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "call_of_mana_2",
@@ -5117,7 +5122,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "elite_deck_2",
@@ -5165,7 +5170,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "glitter_of_gold_2",
@@ -5309,7 +5314,7 @@
       "Name": "Punctual 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "punctual_2",
@@ -5452,14 +5457,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1358,
+      "Progressed": 1359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:47.8464512+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:17.0962205+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:58.8758212+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:57.2495739+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:47.8465132+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:03.6319298+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:17.0963136+00:00"
 }

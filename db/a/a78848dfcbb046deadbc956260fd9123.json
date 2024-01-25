@@ -2,9 +2,9 @@
   "ID": "a78848dfcbb046deadbc956260fd9123",
   "Name": "CLeM",
   "ProductSlug": "clem-d637c0",
-  "Ranking_EOS_Progress": 852,
+  "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-02-06T16:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-22T11:04:20.1223043+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:05:15.0895821+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:05:16.4021313+00:00",
   "LastUpdate_AppInfo": "2024-01-22T10:57:18.5476667+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:59:05.3768832+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:05:15.0895839+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:10.6629072+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:05:16.402134+00:00"
 }

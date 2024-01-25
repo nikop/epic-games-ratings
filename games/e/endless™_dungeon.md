@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 68.00% | ~1,104 |
-| Getting the Hang of It | 42.00% | ~682 |
-| Hoarder | 33.00% | ~536 |
-| Pest Control | 29.00% | ~471 |
-| Exhaustive Explorer | 27.00% | ~438 |
-| Blobmeister | 26.00% | ~422 |
+| Leap Before You Look | 68.00% | ~1,106 |
+| Getting the Hang of It | 42.00% | ~683 |
+| Hoarder | 33.00% | ~537 |
+| Pest Control | 29.00% | ~472 |
+| Exhaustive Explorer | 27.00% | ~439 |
+| Blobmeister | 26.00% | ~423 |
 | How Low Can We Go? | 24.00% | ~390 |
 | Team Builder | 20.00% | ~325 |
-| Long Live Rock | 17.00% | ~276 |
+| Long Live Rock | 17.00% | ~277 |
 | Aggressive Antivirus | 15.00% | ~244 |
-| Effective Efficiency | 13.00% | ~211 |
 | Unblurred Lines | 12.00% | ~195 |
 | Obsessively Thorough | 12.00% | ~195 |
+| Effective Efficiency | 12.00% | ~195 |
 | Endlessly Effective | 11.00% | ~179 |
-| What's Behind Every Door? | 6.00% | ~97 |
+| What's Behind Every Door? | 6.00% | ~98 |
 | No Stone Unturned | 5.00% | ~81 |
-| Turret Syndrome | 2.00% | ~32 |
+| Turret Syndrome | 2.00% | ~33 |
 | Endless Biographer | 1.00% | ~16 |
 | All Your Secrets Are Belong to Us | 1.00% | ~16 |
 | Grab 'Em All | 0.20% | ~3 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,624 (Ranked 270)  
+Progressed: 1,627 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 1,608 | 0 |
 | 2024-01-23 | 1,614 | 0 |
 | 2024-01-24 | 1,616 | 0 |
-| 2024-01-25 | 1,624 | 0 |
+| 2024-01-25 | 1,627 | 0 |

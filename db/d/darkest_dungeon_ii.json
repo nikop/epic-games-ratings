@@ -11188,10 +11188,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21865,
       "NumberOfAwardsMax": 8078
+    },
+    {
+      "Time": "2024-01-25T20:57:38.4952848+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21867,
+      "NumberOfAwardsMax": 8078
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21865,
+  "NumberOfAwards": 21867,
   "NumberOfAwardsMax": 8078,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11253,7 +11259,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1488
+      "Count": 1490
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11268,9 +11274,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133681,
+  "EOS_Progressed": 133685,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41473,6 +41479,11 @@
       "Time": "2024-01-25T20:10:44.3641556+00:00",
       "NumProgressed": 133681,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T21:10:13.8466744+00:00",
+      "NumProgressed": 133685,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41588,7 +41599,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -41836,7 +41847,7 @@
       "Name": "Autodidact",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12031
+      "UsersEstimate": 12032
     },
     {
       "ID": "hero_story_complete_all",
@@ -41884,7 +41895,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41916,7 +41927,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -41948,7 +41959,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "run_victory_act03",
@@ -41956,7 +41967,7 @@
       "Name": "Eyes Up",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "run_victory_act04",
@@ -42020,7 +42031,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "combat_kill_collector",
@@ -42115,21 +42126,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133681,
+      "Progressed": 133685,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8550,
+      "Progressed": 8554,
       "Completed": 831
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-25T19:57:23.2090322+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:44.3641553+00:00",
+  "LastChanged": "2024-01-25T20:57:38.4952846+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:13.846674+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:57:23.2090329+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:44.3643187+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:57:38.4952851+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:13.8469035+00:00"
 }

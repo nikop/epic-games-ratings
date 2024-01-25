@@ -7,10 +7,10 @@ Rating: 4.35 (Ranked 837)
 | ---- | ---------- | ----- |
 | Can’t Touch This | 16.00% | ~28 |
 | Hail to the King, Baby | 16.00% | ~28 |
-| Bring it on! | 15.00% | ~26 |
-| Help! Help! I’m being repressed | 15.00% | ~26 |
+| Bring it on! | 14.00% | ~24 |
+| Help! Help! I’m being repressed | 14.00% | ~24 |
 | Path of Glory | 10.00% | ~17 |
-| There is no Nobility in Poverty | 9.00% | ~15 |
+| There is no Nobility in Poverty | 9.00% | ~16 |
 | Full House | 8.00% | ~14 |
 | The finest merchandise this side of river Jordan | 7.00% | ~12 |
 | Playerxander the Great | 6.00% | ~10 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172 (Ranked 454)  
+Progressed: 174 (Ranked 453)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 172 | 0 |
+| 2024-01-25 | 174 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

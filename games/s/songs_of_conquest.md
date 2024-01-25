@@ -21,7 +21,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~79 |
 | Don't Touch My Stuff | 6.00% | ~79 |
 | Trojan Horse | 5.00% | ~66 |
-| Expert Essence Employment | 4.00% | ~52 |
+| Expert Essence Employment | 4.00% | ~53 |
 | This Spot's Taken | 3.00% | ~39 |
 | Infernal Influence | 2.00% | ~26 |
 | From the Ashes | 2.00% | ~26 |
@@ -33,8 +33,8 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~13 |
 | Grand Master | 1.00% | ~13 |
 | Together For Her | 0.90% | ~12 |
-| Versatile Wielder | 0.80% | ~10 |
-| Cleave | 0.80% | ~10 |
+| Versatile Wielder | 0.80% | ~11 |
+| Cleave | 0.80% | ~11 |
 | Unlimited Power! | 0.70% | ~9 |
 | Killing Spree | 0.70% | ~9 |
 | Death To Diplomacy | 0.50% | ~7 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,312 (Ranked 287)  
+Progressed: 1,313 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 1,284 | 0 |
 | 2024-01-23 | 1,292 | 0 |
 | 2024-01-24 | 1,304 | 0 |
-| 2024-01-25 | 1,312 | 0 |
+| 2024-01-25 | 1,313 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 532)  
 Sum: 252 (Ranked 402)  

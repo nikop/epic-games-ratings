@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667872,
+  "EOS_Progressed": 667873,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27707,6 +27707,11 @@
       "Time": "2024-01-25T20:10:17.9378306+00:00",
       "NumProgressed": 667872,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-25T21:09:49.6648956+00:00",
+      "NumProgressed": 667873,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27718,7 +27723,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480868
+      "UsersEstimate": 480869
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27998,7 +28003,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 60108
+      "UsersEstimate": 60109
     },
     {
       "ID": "Achievement_37_Champion",
@@ -28101,15 +28106,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667872,
+      "Progressed": 667873,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:17.9378302+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:09:49.6648952+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:58:33.8792876+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:17.9379781+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:58:42.6038232+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:09:49.6650306+00:00"
 }

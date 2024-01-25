@@ -1145,9 +1145,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 643878,
+  "EOS_Progressed": 643871,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": -2594,
+  "EOS_NewPlayers": -2590,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33500,6 +33500,11 @@
       "Time": "2024-01-25T20:10:38.501714+00:00",
       "NumProgressed": 643878,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2024-01-25T21:10:08.3001507+00:00",
+      "NumProgressed": 643871,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 52,
@@ -33511,7 +33516,7 @@
       "Name": "1000 KILLS",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 64388
+      "UsersEstimate": 64387
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -33519,7 +33524,7 @@
       "Name": "100 KILLS",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 218919
+      "UsersEstimate": 218916
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -33527,7 +33532,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 122337
+      "UsersEstimate": 122335
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -33535,7 +33540,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 199602
+      "UsersEstimate": 199600
     },
     {
       "ID": "BIGUPS",
@@ -33575,7 +33580,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 186725
+      "UsersEstimate": 186723
     },
     {
       "ID": "CHAPTER2",
@@ -33583,7 +33588,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 135214
+      "UsersEstimate": 135213
     },
     {
       "ID": "CHAPTER3",
@@ -33591,7 +33596,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 115898
+      "UsersEstimate": 115897
     },
     {
       "ID": "CHAPTER4",
@@ -33599,7 +33604,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 96582
+      "UsersEstimate": 96581
     },
     {
       "ID": "CHAPTER5",
@@ -33607,7 +33612,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 83704
+      "UsersEstimate": 83703
     },
     {
       "ID": "CHAPTER6",
@@ -33615,7 +33620,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70827
+      "UsersEstimate": 70826
     },
     {
       "ID": "CHURCH",
@@ -33623,7 +33628,7 @@
       "Name": "CHURCH",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2575
     },
     {
       "ID": "COMMAND",
@@ -33639,7 +33644,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 70827
+      "UsersEstimate": 70826
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -33655,7 +33660,7 @@
       "Name": "FIREFIGHT LEVEL 20",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12878
+      "UsersEstimate": 12877
     },
     {
       "ID": "FIREFIGHT30 LEVEL (0-30)",
@@ -33679,7 +33684,7 @@
       "Name": "FIREFIGHT LEVEL 50",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2575
     },
     {
       "ID": "FIREFIGHT60 LEVEL (0-60)",
@@ -33719,7 +33724,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12878
+      "UsersEstimate": 12877
     },
     {
       "ID": "FRESH",
@@ -33887,7 +33892,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 193163
+      "UsersEstimate": 193161
     },
     {
       "ID": "SOUL",
@@ -33926,7 +33931,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 643878,
+      "Progressed": 643871,
       "Completed": 57
     }
   ],
@@ -33934,8 +33939,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2024-01-25T05:59:03.9150598+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:10:38.5017139+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:10:08.3001502+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:30.378073+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:59:37.9435323+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:10:38.5018743+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:40.8446309+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:10:08.3003154+00:00"
 }

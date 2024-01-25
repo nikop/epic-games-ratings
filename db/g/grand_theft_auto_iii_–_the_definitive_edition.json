@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,10 +733,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12535,
+  "EOS_Progressed": 12536,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 126,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 124,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
@@ -16488,6 +16488,11 @@
       "Time": "2024-01-25T19:05:12.4338935+00:00",
       "NumProgressed": 12535,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-25T21:04:59.0496334+00:00",
+      "NumProgressed": 12536,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16499,7 +16504,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10404
+      "UsersEstimate": 10405
     },
     {
       "ID": "ACH02",
@@ -16507,7 +16512,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "ACH03",
@@ -16730,7 +16735,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12535,
+      "Progressed": 12536,
       "Completed": 97
     }
   ],
@@ -16738,8 +16743,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-25T20:04:56.6390487+00:00",
+  "LastChanged_Achievements": "2024-01-25T21:04:59.0496321+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:59:04.1613256+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:04:56.6391429+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:59:09.6604254+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:04:59.0497231+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3bb0cfb02595417f9134a5f31bc46333",
   "Name": "RETOOLED",
   "ProductSlug": "retooled-6184a1",
-  "Ranking_EOS_Progress": 852,
+  "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-05-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T13:57:07.7884042+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:00:40.8928486+00:00",
-  "LastUpdate_Achievements": "2024-01-25T20:05:10.616826+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:00:36.4183121+00:00",
+  "LastUpdate_Achievements": "2024-01-25T21:05:12.1683786+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~16,077 |
-| Pay 'n' Spray | 51.00% | ~10,122 |
-| All Dressed Up for San Fierro | 26.00% | ~5,160 |
+| Getting Started | 81.00% | ~16,078 |
+| Pay 'n' Spray | 51.00% | ~10,123 |
+| All Dressed Up for San Fierro | 26.00% | ~5,161 |
 | The American Dream | 19.00% | ~3,771 |
 | School's Out | 19.00% | ~3,771 |
 | Smooth Moves | 17.00% | ~3,374 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.60% | ~119 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,848 (Ranked 158)  
+Progressed: 19,849 (Ranked 158)  
 Completed: 83 (0.42%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,18 +321,18 @@ Completed: 83 (0.42%) (Ranked 246)
 | 2024-01-22 | 19,799 | 82 |
 | 2024-01-23 | 19,815 | 82 |
 | 2024-01-24 | 19,836 | 83 |
-| 2024-01-25 | 19,848 | 83 |
+| 2024-01-25 | 19,849 | 83 |
 ## Awards
 Max (Great Boss Battles): 728  (Ranked 196)  
-Sum: 1,127 (Ranked 270)  
+Sum: 1,129 (Ranked 270)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 728 |
 | This game has Amazing Storytelling | 63 |
+| This game is Highly Recommended | 63 |
 | This game is Relaxing | 62 |
 | This game has Amazing Characters | 62 |
-| This game is Highly Recommended | 61 |
 | This game is Great for Beginners | 58 |
 | This game has Diverse Characters | 58 |
 | This game has Quickly Understood Controls | 47 |
@@ -582,4 +582,4 @@ Diff (max vs sum): -74
 | 2024-01-22 | 4.55 | 709 | 1,095 |
 | 2024-01-23 | 4.55 | 712 | 1,102 |
 | 2024-01-24 | 4.55 | 720 | 1,116 |
-| 2024-01-25 | 4.55 | 728 | 1,127 |
+| 2024-01-25 | 4.55 | 728 | 1,129 |
