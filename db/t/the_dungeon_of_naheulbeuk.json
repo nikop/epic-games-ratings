@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1833,9 +1833,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249434,
+  "EOS_Progressed": 249436,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27493,6 +27493,11 @@
       "Time": "2024-01-25T09:11:02.9231308+00:00",
       "NumProgressed": 249434,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-25T10:10:54.4118154+00:00",
+      "NumProgressed": 249436,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27904,7 +27909,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24943
+      "UsersEstimate": 24944
     },
     {
       "ID": "DwarfElf15Support",
@@ -28207,21 +28212,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249434,
+      "Progressed": 249436,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249434,
+      "Progressed": 249436,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-25T01:53:33.3656171+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:11:02.9231303+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:10:54.4118153+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:02:33.2384183+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:11:02.923292+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:56:56.609738+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:10:54.4119725+00:00"
 }

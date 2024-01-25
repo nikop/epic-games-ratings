@@ -1,24 +1,24 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.44 (Ranked 715)  
+Rating: 4.44 (Ranked 714)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~36,221 |
-| Quick Understanding of Block Extrusion | 68.00% | ~32,841 |
-| Nature or Nurture | 52.00% | ~25,113 |
-| Power Glove | 50.00% | ~24,148 |
-| Forgotten Memories | 43.00% | ~20,767 |
-| Cogs in the Machine | 37.00% | ~17,869 |
-| Mission Success | 23.00% | ~11,108 |
-| There's No Place Like Home | 23.00% | ~11,108 |
-| Green Cube Killer | 20.00% | ~9,659 |
-| Infinity Loop | 18.00% | ~8,693 |
-| Path to Salvation | 18.00% | ~8,693 |
-| Descendants | 16.00% | ~7,727 |
-| The Flawed Teacher | 13.00% | ~6,278 |
+| Lost in Space | 75.00% | ~36,225 |
+| Quick Understanding of Block Extrusion | 68.00% | ~32,844 |
+| Nature or Nurture | 52.00% | ~25,116 |
+| Power Glove | 50.00% | ~24,150 |
+| Forgotten Memories | 43.00% | ~20,769 |
+| Cogs in the Machine | 37.00% | ~17,871 |
+| Mission Success | 23.00% | ~11,109 |
+| There's No Place Like Home | 23.00% | ~11,109 |
+| Green Cube Killer | 20.00% | ~9,660 |
+| Infinity Loop | 18.00% | ~8,694 |
+| Path to Salvation | 18.00% | ~8,694 |
+| Descendants | 16.00% | ~7,728 |
+| The Flawed Teacher | 13.00% | ~6,279 |
 | To Infinity and Beyond | 6.00% | ~2,898 |
 | The Truthful Enemy | 5.00% | ~2,415 |
 | Laser Sharp | 3.00% | ~1,449 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~483 |
 | Expert Collector | 1.00% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,295 (Ranked 127)  
+Progressed: 48,300 (Ranked 127)  
 Completed: 253 (0.52%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 253 (0.52%) (Ranked 228)
 | 2024-01-22 | 48,125 | 248 |
 | 2024-01-23 | 48,212 | 250 |
 | 2024-01-24 | 48,276 | 252 |
-| 2024-01-25 | 48,295 | 253 |
+| 2024-01-25 | 48,300 | 253 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

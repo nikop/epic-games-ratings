@@ -4,8 +4,8 @@
   "ProductSlug": "shalnor-legends-2-fea913",
   "Ranking_EOS_Progress": 754,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-05T13:00:00+00:00",
     "PcReleaseDate": "2023-09-05T13:00:00+00:00",
@@ -55,17 +55,17 @@
       "ID": "ach_id_002",
       "SetID": "ahh0nbm",
       "Name": "Monster Slayer",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_id_003",
       "SetID": "ahh0nbm",
       "Name": "The Great Culling",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_id_004",
@@ -253,8 +253,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T06:04:53.5272508+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:06:14.6691934+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:06:08.3308114+00:00",
   "LastUpdate_AppInfo": "2024-01-21T10:57:20.3253483+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:03:01.7617537+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:06:14.6692128+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:02:52.9257408+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:06:08.3308244+00:00"
 }

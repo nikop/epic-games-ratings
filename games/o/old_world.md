@@ -137,6 +137,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.70% | ~120 |
 | Jebel Barkal | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
+| Egypt | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.50% | ~86 |
 | Cao'an | 0.50% | ~86 |
 | Learn to Play 5 | 0.50% | ~86 |
-| Egypt | 0.50% | ~86 |
 | Cataphract Archer | 0.50% | ~86 |
 | No Undo | 0.50% | ~86 |
 | Poetic Leader | 0.50% | ~86 |

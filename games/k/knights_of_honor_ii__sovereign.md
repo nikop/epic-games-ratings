@@ -9,8 +9,8 @@ Rating: 4.35 (Ranked 837)
 | Can’t Touch This | 14.00% | ~21 |
 | Help! Help! I’m being repressed | 14.00% | ~21 |
 | Bring it on! | 13.00% | ~20 |
-| Path of Glory | 11.00% | ~17 |
-| There is no Nobility in Poverty | 11.00% | ~17 |
+| Path of Glory | 10.00% | ~15 |
+| There is no Nobility in Poverty | 10.00% | ~15 |
 | Full House | 9.00% | ~14 |
 | They Got What They Deserved | 7.00% | ~11 |
 | Playerxander the Great | 6.00% | ~9 |
@@ -36,6 +36,7 @@ Rating: 4.35 (Ranked 837)
 | Blinded by Science | 2.00% | ~3 |
 | Forth, Eorlingas! | 2.00% | ~3 |
 | He made it out, but with an arrow in his back | 2.00% | ~3 |
+| His name is King | 2.00% | ~3 |
 | I started a joke | 2.00% | ~3 |
 | Fight Another Day | 2.00% | ~3 |
 | The Magnificent Nine | 2.00% | ~3 |
@@ -43,7 +44,6 @@ Rating: 4.35 (Ranked 837)
 | Vlad the Impaler | 2.00% | ~3 |
 | Crusader “you know what” | 1.00% | ~2 |
 | His All-Holiness | 1.00% | ~2 |
-| His name is King | 1.00% | ~2 |
 | New Mineland | 1.00% | ~2 |
 | On the third day at dawn, look east | 1.00% | ~2 |
 | Prince Ali! Fabulous he! | 1.00% | ~2 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 468)  
+Progressed: 153 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 152 | 0 |
+| 2024-01-25 | 153 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

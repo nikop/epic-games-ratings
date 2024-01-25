@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -2122,9 +2122,9 @@
       "ID": "ach_ep1_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Sandbagger",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_ep1_revs_2",
@@ -2322,9 +2322,9 @@
       "ID": "ach_recycling_1",
       "SetID": "b8gh1fi",
       "Name": "Maximum Reuse",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_renters",
@@ -2410,9 +2410,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_revs_2",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:05:46.433329+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:05:39.9551129+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:58:42.0399326+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:05:46.433411+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:58:32.7407948+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:05:39.9551859+00:00"
 }

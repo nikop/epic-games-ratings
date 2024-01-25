@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3712,
+  "EOS_Progressed": 3713,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9347,6 +9347,11 @@
       "Time": "2024-01-25T09:08:52.9801883+00:00",
       "NumProgressed": 3712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T10:08:44.8476353+00:00",
+      "NumProgressed": 3713,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9367,7 +9372,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9431,7 +9436,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9519,7 +9524,7 @@
       "Name": "Romantic Races",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -9567,7 +9572,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9583,7 +9588,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -9679,7 +9684,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -9750,7 +9755,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3712,
+      "Progressed": 3713,
       "Completed": 0
     }
   ],
@@ -9758,8 +9763,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:08:52.980188+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:08:44.847635+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:58:47.3613183+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:08:52.980254+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:58:38.1042195+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:08:44.8477056+00:00"
 }

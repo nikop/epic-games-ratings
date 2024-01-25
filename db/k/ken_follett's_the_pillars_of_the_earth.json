@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18084,
+  "EOS_Progressed": 18085,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -19075,6 +19075,11 @@
       "Time": "2024-01-25T01:59:24.1364664+00:00",
       "NumProgressed": 18084,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-25T10:08:34.4304647+00:00",
+      "NumProgressed": 18085,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19102,7 +19107,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "tpote_achievement_12",
@@ -19150,7 +19155,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "tpote_achievement_18",
@@ -19190,7 +19195,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5244
+      "UsersEstimate": 5245
     },
     {
       "ID": "tpote_achievement_22",
@@ -19374,7 +19379,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "tpote_achievement_6",
@@ -19382,7 +19387,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "tpote_achievement_7",
@@ -19413,15 +19418,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18084,
+      "Progressed": 18085,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:08:42.7550628+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:08:34.4304645+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:03:22.6992451+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:08:42.7551519+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:03:14.1339213+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:08:34.4305683+00:00"
 }

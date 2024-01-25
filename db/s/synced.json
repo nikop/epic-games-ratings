@@ -1917,9 +1917,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90340,
+  "EOS_Progressed": 90342,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1821,
+  "EOS_NewPlayers": 1810,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18117,6 +18117,11 @@
       "Time": "2024-01-25T09:08:44.0351393+00:00",
       "NumProgressed": 90340,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-25T10:08:35.8195087+00:00",
+      "NumProgressed": 90342,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18129,7 +18134,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42460
+      "UsersEstimate": 42461
     },
     {
       "ID": "10",
@@ -18193,7 +18198,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18971
+      "UsersEstimate": 18972
     },
     {
       "ID": "3",
@@ -18225,7 +18230,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "7",
@@ -18256,7 +18261,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90340,
+      "Progressed": 90342,
       "Completed": 77
     }
   ],
@@ -18264,8 +18269,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-25T01:49:39.7636903+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:08:44.0351388+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:08:35.8195083+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:59:11.8436657+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:08:44.0352549+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:59:03.3825213+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:08:35.8196058+00:00"
 }

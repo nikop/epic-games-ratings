@@ -5,25 +5,25 @@ Rating: 4.52 (Ranked 583)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,676 |
-| I will survive! | 91.00% | ~10,560 |
+| Prepper | 92.00% | ~10,677 |
+| I will survive! | 91.00% | ~10,561 |
 | All thumbs | 90.00% | ~10,444 |
 | Home, sweet home | 89.00% | ~10,328 |
-| Survivalist | 87.00% | ~10,095 |
-| One way ticket | 81.00% | ~9,399 |
-| Last man standing | 75.00% | ~8,703 |
-| Out of the Bag | 71.00% | ~8,239 |
+| Survivalist | 87.00% | ~10,096 |
+| One way ticket | 81.00% | ~9,400 |
+| Last man standing | 75.00% | ~8,704 |
+| Out of the Bag | 71.00% | ~8,240 |
 | Family guy | 69.00% | ~8,007 |
 | The Dark Side | 65.00% | ~7,543 |
-| Duck and cover! | 60.00% | ~6,962 |
-| Souper! | 58.00% | ~6,730 |
-| 2-1-6 | 52.00% | ~6,034 |
-| Pacifist | 52.00% | ~6,034 |
+| Duck and cover! | 60.00% | ~6,963 |
+| Souper! | 58.00% | ~6,731 |
+| 2-1-6 | 52.00% | ~6,035 |
+| Pacifist | 52.00% | ~6,035 |
 | A gift | 48.00% | ~5,570 |
 | Girl Power | 41.00% | ~4,758 |
 | What goes around... | 39.00% | ~4,526 |
-| Be Prepared | 34.00% | ~3,945 |
-| Unbreakable | 31.00% | ~3,597 |
+| Be Prepared | 34.00% | ~3,946 |
+| Unbreakable | 31.00% | ~3,598 |
 | Atomic drill | 29.00% | ~3,365 |
 | Gotta get 'em all | 28.00% | ~3,249 |
 | This is the end | 28.00% | ~3,249 |
@@ -33,8 +33,8 @@ Rating: 4.52 (Ranked 583)
 | New order | 14.00% | ~1,625 |
 | Enigma | 13.00% | ~1,509 |
 | New species | 13.00% | ~1,509 |
-| A New Hope | 12.00% | ~1,392 |
-| Men in Black | 11.00% | ~1,276 |
+| A New Hope | 12.00% | ~1,393 |
+| Men in Black | 11.00% | ~1,277 |
 | Challenger | 10.00% | ~1,160 |
 | No stone unturned | 10.00% | ~1,160 |
 | Mad Hatter | 6.00% | ~696 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 583)
 | Dead Hand | 0.10% | ~12 |
 | Tora! Tora! Tora! | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,604 (Ranked 183)  
+Progressed: 11,605 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 1 (0.01%) (Ranked 384)
 | 2024-01-22 | 11,172 | 1 |
 | 2024-01-23 | 11,490 | 1 |
 | 2024-01-24 | 11,584 | 1 |
-| 2024-01-25 | 11,604 | 1 |
+| 2024-01-25 | 11,605 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 776,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2882,6 +2882,11 @@
       "Time": "2024-01-24T23:10:00.8579931+00:00",
       "NumProgressed": 775,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T10:10:39.9291922+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2949,7 +2954,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "scoreminrankrf2",
@@ -2957,7 +2962,7 @@
       "Name": "Partners in Crime",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "scoreminrankrh1",
@@ -3005,14 +3010,14 @@
       "Name": "Friendzone",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 776,
       "Completed": 3
     }
   ],
@@ -3020,8 +3025,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:10:48.344648+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:10:39.9291918+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:58:53.741394+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:10:48.3446735+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:58:44.5397849+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:10:39.929219+00:00"
 }

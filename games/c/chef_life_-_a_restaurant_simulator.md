@@ -1,12 +1,12 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.45 (Ranked 697)  
+Rating: 4.45 (Ranked 696)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Big Day | 61.00% | ~638 |
-| You're the Expert! | 27.00% | ~282 |
+| You're the Expert! | 28.00% | ~293 |
 | Home Cook | 25.00% | ~262 |
 | S is for Scrumptious | 16.00% | ~167 |
 | French Flair | 15.00% | ~157 |

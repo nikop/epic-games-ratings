@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8063,
+  "EOS_Progressed": 8064,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -9259,6 +9259,11 @@
       "Time": "2024-01-25T09:08:43.2553529+00:00",
       "NumProgressed": 8063,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-25T10:08:34.9158811+00:00",
+      "NumProgressed": 8064,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9269,9 +9274,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_END",
       "SetID": "4d50jip",
       "Name": "Finish The Hidden Room",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1855
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -9303,7 +9308,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -9327,7 +9332,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -9398,14 +9403,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 8063,
+      "Progressed": 8064,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:08:43.2553524+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:08:34.9158808+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:59:17.2555304+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:08:43.2554019+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:59:09.0784289+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:08:34.9159449+00:00"
 }

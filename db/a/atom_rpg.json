@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1767,
+  "EOS_Progressed": 1768,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4817,6 +4817,11 @@
       "Time": "2024-01-24T22:10:03.2436659+00:00",
       "NumProgressed": 1767,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T10:10:44.1963733+00:00",
+      "NumProgressed": 1768,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4884,7 +4889,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "EXPERT_1",
@@ -4916,7 +4921,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "HEAD_BURST_1",
@@ -5100,7 +5105,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "WISHMASTER_1",
@@ -5115,15 +5120,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1767,
+      "Progressed": 1768,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:10:52.5247356+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:10:44.1963729+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.2672243+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:00:02.9003704+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:10:52.5247784+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:59:54.1631076+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:10:44.1964068+00:00"
 }

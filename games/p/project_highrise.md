@@ -32,9 +32,9 @@
 | Get Electrified | 17.00% | ~92 |
 | Rehab Expert | 15.00% | ~81 |
 | Established Fame | 15.00% | ~81 |
+| Cashflow Chief | 14.00% | ~76 |
 | Under One Roof | 13.00% | ~70 |
 | Starred Dining | 13.00% | ~70 |
-| Cashflow Chief | 13.00% | ~70 |
 | Smooth Operator | 11.00% | ~60 |
 | Boutique Benefits | 11.00% | ~60 |
 | Thrilled Tenants | 11.00% | ~60 |
@@ -48,24 +48,24 @@
 | Master of Puppets | 7.00% | ~38 |
 | Phoning It In | 7.00% | ~38 |
 | Water Features | 6.00% | ~33 |
+| Maximum Reuse | 6.00% | ~33 |
 | Revenue Royalty | 6.00% | ~33 |
 | Golden Opportunity | 6.00% | ~33 |
 | Careful Constructor | 5.00% | ~27 |
 | Meet Me at HQ | 5.00% | ~27 |
 | Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
-| Maximum Reuse | 5.00% | ~27 |
 | It's a Gas | 5.00% | ~27 |
 | Pipe Up | 5.00% | ~27 |
 | Meet ADA/360 | 4.00% | ~22 |
 | Penthouse in the Sky | 4.00% | ~22 |
 | Baron of Business | 4.00% | ~22 |
 | I'm Busy Ruling | 4.00% | ~22 |
+| Sandbagger | 4.00% | ~22 |
 | Tuned In | 4.00% | ~22 |
 | Decorator's Touch | 3.00% | ~16 |
 | Office Bigwigs | 3.00% | ~16 |
 | Three of a Kind | 3.00% | ~16 |
-| Sandbagger | 3.00% | ~16 |
 | Apartment Awareness | 2.00% | ~11 |
 | Glut of Gastronomy | 2.00% | ~11 |
 | Luxury Boutiques | 2.00% | ~11 |

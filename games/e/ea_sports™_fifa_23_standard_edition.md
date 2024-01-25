@@ -5,33 +5,33 @@ Rating: 4.26 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~162,080 |
-| Dead-ball specialist | 61.00% | ~131,825 |
-| European Legend | 52.00% | ~112,376 |
-| Multitasking | 51.00% | ~110,215 |
-| Balanced Path | 49.00% | ~105,892 |
-| High Grades | 48.00% | ~103,731 |
-| A Moment of Your Time | 46.00% | ~99,409 |
-| Let the Games Begin | 46.00% | ~99,409 |
-| Aiming High | 46.00% | ~99,409 |
-| Tactical Tinkerer | 40.00% | ~86,443 |
-| Intuition and Execution | 39.00% | ~84,282 |
+| Power Shot | 75.00% | ~162,082 |
+| Dead-ball specialist | 61.00% | ~131,826 |
+| European Legend | 52.00% | ~112,377 |
+| Multitasking | 51.00% | ~110,216 |
+| Balanced Path | 49.00% | ~105,893 |
+| High Grades | 48.00% | ~103,732 |
+| A Moment of Your Time | 46.00% | ~99,410 |
+| Let the Games Begin | 46.00% | ~99,410 |
+| Aiming High | 46.00% | ~99,410 |
+| Tactical Tinkerer | 40.00% | ~86,444 |
+| Intuition and Execution | 39.00% | ~84,283 |
 | Squad Building Connoisseur | 38.00% | ~82,121 |
 | The Winning Formula | 36.00% | ~77,799 |
 | Parking the Bus | 27.00% | ~58,349 |
 | Safe House | 26.00% | ~56,188 |
 | Best of Five | 26.00% | ~56,188 |
 | Football is Everything | 24.00% | ~51,866 |
-| The Chosen One | 21.00% | ~45,382 |
-| Fresh Fit | 20.00% | ~43,221 |
-| Bring it on | 17.00% | ~36,738 |
+| The Chosen One | 21.00% | ~45,383 |
+| Fresh Fit | 20.00% | ~43,222 |
+| Bring it on | 17.00% | ~36,739 |
 | Life-Like | 14.00% | ~30,255 |
 | Make the Grade | 12.00% | ~25,933 |
 | I Played Them All | 10.00% | ~21,611 |
 | Specialist | 10.00% | ~21,611 |
 | Teamwork works | 9.00% | ~19,450 |
 | First of Many | 9.00% | ~19,450 |
-| Momentous Achievement | 6.00% | ~12,966 |
+| Momentous Achievement | 6.00% | ~12,967 |
 | Becoming Unplayable | 5.00% | ~10,805 |
 | Shop till you drop | 5.00% | ~10,805 |
 | On the way up | 5.00% | ~10,805 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 928)
 | Training Addict | 0.10% | ~216 |
 | Dazzling Personality | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,107 (Ranked 82)  
+Progressed: 216,109 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 215,558 | 0 |
 | 2024-01-23 | 215,829 | 0 |
 | 2024-01-24 | 216,038 | 0 |
-| 2024-01-25 | 216,107 | 0 |
+| 2024-01-25 | 216,109 | 0 |
 ## Awards
 Max (Diverse Characters): 22,383  (Ranked 21)  
 Sum: 110,936 (Ranked 17)  

@@ -6,23 +6,23 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~55,847 |
-| INFUSED WITH LIGHT | 53.00% | ~42,897 |
-| FOXIN' AROUND | 29.00% | ~23,472 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~55,849 |
+| INFUSED WITH LIGHT | 53.00% | ~42,899 |
+| FOXIN' AROUND | 29.00% | ~23,473 |
 | FETCH | 28.00% | ~22,663 |
-| BLOOMS OF LIGHT | 26.00% | ~21,044 |
-| AWAKEN | 22.00% | ~17,806 |
-| BEST FRIENDS | 22.00% | ~17,806 |
-| SPIRIT BARK | 22.00% | ~17,806 |
-| ERADICATE | 21.00% | ~16,997 |
+| BLOOMS OF LIGHT | 26.00% | ~21,045 |
+| AWAKEN | 22.00% | ~17,807 |
+| BEST FRIENDS | 22.00% | ~17,807 |
+| SPIRIT BARK | 22.00% | ~17,807 |
+| ERADICATE | 21.00% | ~16,998 |
 | GARDEN OF LIGHT | 18.00% | ~14,569 |
-| SPIRIT FORM | 17.00% | ~13,759 |
-| UPROOTING DARKNESS | 16.00% | ~12,950 |
-| WRITTEN IN STONE | 16.00% | ~12,950 |
+| SPIRIT FORM | 17.00% | ~13,760 |
+| UPROOTING DARKNESS | 16.00% | ~12,951 |
+| WRITTEN IN STONE | 16.00% | ~12,951 |
 | WEIGHTLESS | 12.00% | ~9,713 |
-| SPIRIT DASH | 11.00% | ~8,903 |
-| OLD COMPANION | 9.00% | ~7,284 |
-| PLAGUE DOCTOR | 9.00% | ~7,284 |
+| SPIRIT DASH | 11.00% | ~8,904 |
+| OLD COMPANION | 9.00% | ~7,285 |
+| PLAGUE DOCTOR | 9.00% | ~7,285 |
 | MATCH MAKER | 8.00% | ~6,475 |
 | NORTHERN LIGHTS | 8.00% | ~6,475 |
 | SPIRITED AWAY | 8.00% | ~6,475 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,619 |
 | KINDRED SPIRITS | 0.60% | ~486 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,938 (Ranked 113)  
+Progressed: 80,941 (Ranked 113)  
 Completed: 441 (0.54%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,11 +311,11 @@ Completed: 441 (0.54%) (Ranked 226)
 | 2024-01-22 | 80,772 | 439 |
 | 2024-01-23 | 80,845 | 439 |
 | 2024-01-24 | 80,924 | 440 |
-| 2024-01-25 | 80,938 | 441 |
+| 2024-01-25 | 80,941 | 441 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 546)  
-Sum: 116 (Ranked 467)  
-Diff (max vs sum): 79  
+Sum: 116 (Ranked 468)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

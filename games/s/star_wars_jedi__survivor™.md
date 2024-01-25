@@ -5,46 +5,46 @@ Rating: 4.50 (Ranked 623)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~45,702 |
-| For Saw Gerrera | 97.00% | ~44,779 |
-| Grab Some Seat | 85.00% | ~39,239 |
-| Can You Pet the Bogling? | 81.00% | ~37,393 |
-| The Past Made Present | 74.00% | ~34,161 |
-| Survivors, We Adapt | 69.00% | ~31,853 |
-| They Never Saw It Coming | 68.00% | ~31,392 |
-| Among the Masters | 67.00% | ~30,930 |
-| Who Gives a Puck | 63.00% | ~29,083 |
-| Mirror Match | 60.00% | ~27,698 |
-| For the Path | 55.00% | ~25,390 |
-| Now, This Isn't Podracing | 54.00% | ~24,929 |
-| Skywalker | 52.00% | ~24,005 |
-| Out of Bedlam | 51.00% | ~23,544 |
-| Cleaning Up | 49.00% | ~22,620 |
-| Tanalorr Bound | 43.00% | ~19,851 |
-| Hey, Luke At Us | 42.00% | ~19,389 |
-| Tragedy | 41.00% | ~18,927 |
-| Kitted Out | 41.00% | ~18,927 |
-| At the Precipice | 39.00% | ~18,004 |
-| Into the Abyss | 38.00% | ~17,542 |
-| Greezy Money | 38.00% | ~17,542 |
-| Riposte | 37.00% | ~17,081 |
-| A Place You Could Call Home | 36.00% | ~16,619 |
-| Catch! | 34.00% | ~15,696 |
-| They're Probably Fine | 34.00% | ~15,696 |
-| Han Slowlo | 29.00% | ~13,388 |
-| There Is No Try | 29.00% | ~13,388 |
-| The Jedi Path | 25.00% | ~11,541 |
-| This Is Canon | 21.00% | ~9,694 |
-| It's a Trap | 21.00% | ~9,694 |
+| Rooftop Duel | 99.00% | ~45,706 |
+| For Saw Gerrera | 97.00% | ~44,783 |
+| Grab Some Seat | 85.00% | ~39,243 |
+| Can You Pet the Bogling? | 81.00% | ~37,396 |
+| The Past Made Present | 74.00% | ~34,164 |
+| Survivors, We Adapt | 69.00% | ~31,856 |
+| They Never Saw It Coming | 68.00% | ~31,394 |
+| Among the Masters | 67.00% | ~30,933 |
+| Who Gives a Puck | 63.00% | ~29,086 |
+| Mirror Match | 60.00% | ~27,701 |
+| For the Path | 55.00% | ~25,392 |
+| Now, This Isn't Podracing | 54.00% | ~24,931 |
+| Skywalker | 52.00% | ~24,007 |
+| Out of Bedlam | 51.00% | ~23,546 |
+| Cleaning Up | 49.00% | ~22,622 |
+| Tanalorr Bound | 43.00% | ~19,852 |
+| Hey, Luke At Us | 42.00% | ~19,391 |
+| Tragedy | 41.00% | ~18,929 |
+| Kitted Out | 41.00% | ~18,929 |
+| At the Precipice | 39.00% | ~18,006 |
+| Into the Abyss | 38.00% | ~17,544 |
+| Greezy Money | 38.00% | ~17,544 |
+| Riposte | 37.00% | ~17,082 |
+| A Place You Could Call Home | 36.00% | ~16,620 |
+| Catch! | 34.00% | ~15,697 |
+| They're Probably Fine | 34.00% | ~15,697 |
+| Han Slowlo | 29.00% | ~13,389 |
+| There Is No Try | 29.00% | ~13,389 |
+| The Jedi Path | 25.00% | ~11,542 |
+| This Is Canon | 21.00% | ~9,695 |
+| It's a Trap | 21.00% | ~9,695 |
 | You've Got A Friend | 18.00% | ~8,310 |
-| King of the World | 14.00% | ~6,463 |
-| Reconnaissance | 13.00% | ~6,001 |
+| King of the World | 14.00% | ~6,464 |
+| Reconnaissance | 13.00% | ~6,002 |
 | Max Capacity | 12.00% | ~5,540 |
-| A Presence I've Not Felt Since... | 10.00% | ~4,616 |
+| A Presence I've Not Felt Since... | 10.00% | ~4,617 |
 | Slam Dunk | 9.00% | ~4,155 |
 | Star Tours | 8.00% | ~3,693 |
 | Gambler | 8.00% | ~3,693 |
-| Growth Spurt | 7.00% | ~3,231 |
+| Growth Spurt | 7.00% | ~3,232 |
 | Caij Match | 6.00% | ~2,770 |
 | Perk of the Job | 5.00% | ~2,308 |
 | I'm a Living Legend | 4.00% | ~1,847 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 623)
 | Splurgle | 2.00% | ~923 |
 | Blood, Sweat, and Tears | 2.00% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,164 (Ranked 131)  
+Progressed: 46,168 (Ranked 131)  
 Completed: 168 (0.36%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,15 +190,15 @@ Completed: 168 (0.36%) (Ranked 255)
 | 2024-01-22 | 45,714 | 162 |
 | 2024-01-23 | 45,918 | 166 |
 | 2024-01-24 | 46,110 | 168 |
-| 2024-01-25 | 46,164 | 168 |
+| 2024-01-25 | 46,168 | 168 |
 ## Awards
 Max (Great Boss Battles): 8,803  (Ranked 47)  
-Sum: 14,559 (Ranked 81)  
+Sum: 14,568 (Ranked 81)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,803 |
-| This game is Highly Recommended | 695 |
+| This game is Highly Recommended | 704 |
 | This game has Quickly Understood Controls | 687 |
 | This game is Extremely Fun | 686 |
 | This game has Amazing Characters | 679 |
@@ -480,4 +480,4 @@ Diff (max vs sum): -34
 | 2024-01-22 | 4.50 | 8,638 | 14,184 |
 | 2024-01-23 | 4.50 | 8,730 | 14,358 |
 | 2024-01-24 | 4.50 | 8,803 | 14,520 |
-| 2024-01-25 | 4.50 | 8,803 | 14,559 |
+| 2024-01-25 | 4.50 | 8,803 | 14,568 |

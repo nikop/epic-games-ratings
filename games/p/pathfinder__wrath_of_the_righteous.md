@@ -9,24 +9,24 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 28.00% | ~3,738 |
 | A Spark | 20.00% | ~2,670 |
 | Burning City | 19.00% | ~2,536 |
-| Defender's Heart | 17.00% | ~2,269 |
+| Defender's Heart | 17.00% | ~2,270 |
 | Mythic Choices | 16.00% | ~2,136 |
 | Banner over the Citadel | 14.00% | ~1,869 |
-| Queen's Gratitude | 13.00% | ~1,735 |
-| Fifth Crusade | 9.00% | ~1,201 |
-| Embrace of the Abyss | 7.00% | ~934 |
-| Path of the Angel | 7.00% | ~934 |
-| Demonic and Divine | 7.00% | ~934 |
+| Queen's Gratitude | 13.00% | ~1,736 |
+| Fifth Crusade | 9.00% | ~1,202 |
+| Embrace of the Abyss | 7.00% | ~935 |
+| Path of the Angel | 7.00% | ~935 |
+| Demonic and Divine | 7.00% | ~935 |
 | Transformation | 6.00% | ~801 |
 | Great Upstart | 6.00% | ~801 |
 | Voice from Your Dreams | 6.00% | ~801 |
 | All Paths Open | 6.00% | ~801 |
-| Path of the Azata | 5.00% | ~667 |
-| The Legacy | 5.00% | ~667 |
-| Divide and Rule | 5.00% | ~667 |
-| A Flame | 5.00% | ~667 |
-| Next-Door Play | 5.00% | ~667 |
-| Get the Toad | 5.00% | ~667 |
+| Path of the Azata | 5.00% | ~668 |
+| The Legacy | 5.00% | ~668 |
+| Divide and Rule | 5.00% | ~668 |
+| A Flame | 5.00% | ~668 |
+| Next-Door Play | 5.00% | ~668 |
+| Get the Toad | 5.00% | ~668 |
 | Heart of the Fallen Land | 4.00% | ~534 |
 | Mythic Reinforcements | 4.00% | ~534 |
 | Hey, I Know You! | 4.00% | ~534 |
@@ -45,12 +45,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~267 |
 | Truly Important Deed | 2.00% | ~267 |
 | This Wall Won't Fall | 2.00% | ~243 |
-| The Final Threshold | 1.00% | ~133 |
-| Path of the Dragon | 1.00% | ~133 |
-| Path of the Legend | 1.00% | ~133 |
-| Strategic Victory | 1.00% | ~133 |
-| Abyssal Conspiracy | 1.00% | ~133 |
-| Truly Profane Gift | 1.00% | ~133 |
+| The Final Threshold | 1.00% | ~134 |
+| Path of the Dragon | 1.00% | ~134 |
+| Path of the Legend | 1.00% | ~134 |
+| Strategic Victory | 1.00% | ~134 |
+| Abyssal Conspiracy | 1.00% | ~134 |
+| Truly Profane Gift | 1.00% | ~134 |
 | Not the Last Sarkorian | 1.00% | ~121 |
 | End of Eternal Guard | 0.90% | ~120 |
 | Masterful Charge | 0.70% | ~93 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,349 (Ranked 179)  
+Progressed: 13,350 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 13,333 | 0 |
 | 2024-01-23 | 13,340 | 0 |
 | 2024-01-24 | 13,347 | 0 |
-| 2024-01-25 | 13,349 | 0 |
+| 2024-01-25 | 13,350 | 0 |
 ## Awards
 Max (Character Customization): 1,787  (Ranked 133)  
 Sum: 7,250 (Ranked 128)  

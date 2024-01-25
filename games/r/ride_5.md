@@ -7,12 +7,12 @@ Rating: 4.62 (Ranked 386)
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,856 |
 | First Love | 46.00% | ~1,708 |
-| Clean Race | 45.00% | ~1,670 |
-| Hear That Roar! | 43.00% | ~1,596 |
+| Clean Race | 45.00% | ~1,671 |
+| Hear That Roar! | 43.00% | ~1,597 |
 | Bitter Rivalry | 31.00% | ~1,151 |
 | Rivals to the End | 31.00% | ~1,151 |
 | Champagne Spray | 30.00% | ~1,114 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,039 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,040 |
 | Quick Pit Stop | 23.00% | ~854 |
 | Restored and Ready | 21.00% | ~780 |
 | I Want One Too! | 21.00% | ~780 |
@@ -26,9 +26,9 @@ Rating: 4.62 (Ranked 386)
 | Make It Your Own! | 5.00% | ~186 |
 | Cherry Blossom and Temples | 5.00% | ~186 |
 | The Road to Liberty | 5.00% | ~186 |
-| Romantic Races | 4.00% | ~148 |
-| I Make the Rules! | 4.00% | ~148 |
-| My Work Here Is Done | 4.00% | ~148 |
+| Romantic Races | 4.00% | ~149 |
+| I Make the Rules! | 4.00% | ~149 |
+| My Work Here Is Done | 4.00% | ~149 |
 | Spoilt for Choice | 3.00% | ~111 |
 | La Dolce Vita | 3.00% | ~111 |
 | Rounding Off | 3.00% | ~111 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 386)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,712 (Ranked 227)  
+Progressed: 3,713 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 3,676 | 0 |
 | 2024-01-23 | 3,691 | 0 |
 | 2024-01-24 | 3,706 | 0 |
-| 2024-01-25 | 3,712 | 0 |
+| 2024-01-25 | 3,713 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

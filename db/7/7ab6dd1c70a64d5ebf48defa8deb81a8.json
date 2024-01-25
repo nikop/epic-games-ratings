@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2449,
+  "EOS_Progressed": 2450,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5073,6 +5073,11 @@
       "Time": "2024-01-24T23:10:07.6687945+00:00",
       "NumProgressed": 2449,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T10:10:47.3703939+00:00",
+      "NumProgressed": 2450,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5100,7 +5105,7 @@
       "Name": "Powerful Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_04",
@@ -5116,7 +5121,7 @@
       "Name": "To Battle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_06",
@@ -5124,7 +5129,7 @@
       "Name": "Godslayer",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_07",
@@ -5156,7 +5161,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_11",
@@ -5196,7 +5201,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_16",
@@ -5204,7 +5209,7 @@
       "Name": "Essence Blow",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_17",
@@ -5236,7 +5241,7 @@
       "Name": "Flawless Victory",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_21",
@@ -5244,7 +5249,7 @@
       "Name": "Big Bazar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_22",
@@ -5268,7 +5273,7 @@
       "Name": "All There Is",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_25",
@@ -5292,7 +5297,7 @@
       "Name": "False God",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_28",
@@ -5371,7 +5376,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2449,
+      "Progressed": 2450,
       "Completed": 5
     }
   ],
@@ -5379,8 +5384,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:10:55.7076839+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:10:47.3703935+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:02:59.3616294+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:10:55.7077263+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:02:50.4672279+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:10:47.3704359+00:00"
 }

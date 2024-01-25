@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5033,9 +5033,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 13349,
+  "EOS_Progressed": 13350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20168,6 +20168,11 @@
       "Time": "2024-01-25T06:10:51.3954259+00:00",
       "NumProgressed": 13349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T10:10:55.5709922+00:00",
+      "NumProgressed": 13350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20203,7 +20208,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -20211,7 +20216,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -20227,7 +20232,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "08_PathOfAngel",
@@ -20235,7 +20240,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "09_PathOfDemon",
@@ -20251,7 +20256,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "11_PathOfAeon",
@@ -20291,7 +20296,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "16_PathOfLegend",
@@ -20299,7 +20304,7 @@
       "Name": "Path of the Legend",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "17_Transformation",
@@ -20363,7 +20368,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "25_MasterfulDispell",
@@ -20379,7 +20384,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "28_GreatUpstart",
@@ -20395,7 +20400,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -20411,7 +20416,7 @@
       "Name": "Divide and Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "32_MythicReinforcements",
@@ -20427,7 +20432,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -20443,7 +20448,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -20555,7 +20560,7 @@
       "Name": "A Flame",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -20571,7 +20576,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -20587,7 +20592,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "54_DeathByColumn",
@@ -20603,7 +20608,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "56_GetToad",
@@ -20611,7 +20616,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "57_PathOfDevil",
@@ -21106,21 +21111,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12131,
+      "Progressed": 12132,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13349,
+      "Progressed": 13350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-24T21:57:14.7243978+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:11:04.0222235+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:10:55.570992+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:57:54.8459458+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:11:04.0223917+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:57:39.8407723+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:10:55.5711525+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~533 |
+| Green with Envy | 77.00% | ~534 |
 | First of many… | 68.00% | ~471 |
 | Helping Hand | 65.00% | ~450 |
-| Increased Vigor | 61.00% | ~422 |
-| Fight Fire with Fire | 59.00% | ~408 |
-| Increased Capacity | 57.00% | ~394 |
+| Increased Vigor | 61.00% | ~423 |
+| Fight Fire with Fire | 59.00% | ~409 |
+| Increased Capacity | 56.00% | ~388 |
 | Just the start | 50.00% | ~346 |
-| Perfect Storm | 47.00% | ~325 |
-| All That Glitters | 46.00% | ~318 |
+| Perfect Storm | 47.00% | ~326 |
+| All That Glitters | 46.00% | ~319 |
 | Enhance! | 43.00% | ~298 |
 | One Of the Chosen | 42.00% | ~291 |
 | Throne Potato | 41.00% | ~284 |
@@ -24,10 +24,10 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 40.00% | ~277 |
 | Unshakable Fortitude | 37.00% | ~256 |
 | Soul Harvester | 37.00% | ~256 |
-| I Wanna Rock | 35.00% | ~242 |
-| Love Tap | 35.00% | ~242 |
-| Delusions of Grandeur | 35.00% | ~242 |
-| Maximum Vigor | 33.00% | ~228 |
+| I Wanna Rock | 35.00% | ~243 |
+| Delusions of Grandeur | 35.00% | ~243 |
+| Love Tap | 34.00% | ~236 |
+| Maximum Vigor | 33.00% | ~229 |
 | Freeze Frame | 31.00% | ~215 |
 | Eat Your Heart Out | 31.00% | ~215 |
 | For Whom the Bell Tolls | 30.00% | ~208 |
@@ -51,7 +51,7 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Keeper | 12.00% | ~83 |
 | Soul Reaper | 9.00% | ~62 |
 | Humanitarian | 9.00% | ~62 |
-| Made of Sterner Stuff | 7.00% | ~48 |
+| Made of Sterner Stuff | 7.00% | ~49 |
 | Purity of Power | 5.00% | ~35 |
 | Balance in all things | 5.00% | ~35 |
 | My Evil Twin | 5.00% | ~35 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692 (Ranked 337)  
+Progressed: 693 (Ranked 337)  
 Completed: 2 (0.29%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.29%) (Ranked 268)
 | 2024-01-22 | 677 | 2 |
 | 2024-01-23 | 683 | 2 |
 | 2024-01-24 | 689 | 2 |
-| 2024-01-25 | 692 | 2 |
+| 2024-01-25 | 693 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 382)  
 Sum: 101 (Ranked 475)  

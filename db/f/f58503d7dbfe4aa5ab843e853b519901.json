@@ -4,8 +4,8 @@
   "ProductSlug": "the-inquisitor-73701c",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-02-08T18:00:00+00:00",
     "PcReleaseDate": "2024-02-08T18:00:00+00:00",
@@ -28,9 +28,339 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-25T10:10:19.3277437+00:00",
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ANIMALS_PROTECTOR",
+      "SetID": "76ladh9",
+      "Name": "Animals protector",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AVID_COLLECTOR",
+      "SetID": "76ladh9",
+      "Name": "Avid Collector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLADES_OF_CALOGA",
+      "SetID": "76ladh9",
+      "Name": "Blades from Caloga",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHESS_MASTER",
+      "SetID": "76ladh9",
+      "Name": "Chess master",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CODE_BREAKER",
+      "SetID": "76ladh9",
+      "Name": "Code breaker",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DUST_TO_DUST",
+      "SetID": "76ladh9",
+      "Name": "Dust to dust",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXECUTIONER_MASK",
+      "SetID": "76ladh9",
+      "Name": "Mask of the Merry Executioner from Tiannon.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FALLEN_ANGELS_KILLER",
+      "SetID": "76ladh9",
+      "Name": "Fallen Angels killer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FAREWELL_FRIEND",
+      "SetID": "76ladh9",
+      "Name": "Farewell, Friend",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FENCER",
+      "SetID": "76ladh9",
+      "Name": "Fencer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINDERS_KEEPERS",
+      "SetID": "76ladh9",
+      "Name": "Finders Keepers",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_PRAYER",
+      "SetID": "76ladh9",
+      "Name": "First Prayer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOD_BOY",
+      "SetID": "76ladh9",
+      "Name": "Good Boy",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IRON_HAND",
+      "SetID": "76ladh9",
+      "Name": "Iron hand",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KOENIGSTEINS_GUIDE",
+      "SetID": "76ladh9",
+      "Name": "Koenigstein\u0027s Guide",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIGHT_HUNGER",
+      "SetID": "76ladh9",
+      "Name": "Light Hunger",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIVING_ON_PRAYER",
+      "SetID": "76ladh9",
+      "Name": "Living on a Prayer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LORD_SWORD",
+      "SetID": "76ladh9",
+      "Name": "By the Lord\u2019s sword!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOST_AND_FOUND",
+      "SetID": "76ladh9",
+      "Name": "Lost and Found",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MADNESS_FESTERS",
+      "SetID": "76ladh9",
+      "Name": "Madness Festers",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASQUERADE_KING",
+      "SetID": "76ladh9",
+      "Name": "Masquerade king",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_INQUISITOR",
+      "SetID": "76ladh9",
+      "Name": "Master Inquisitor",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_INTERROGATOR",
+      "SetID": "76ladh9",
+      "Name": "Master interrogator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_OF_ALCHEMY",
+      "SetID": "76ladh9",
+      "Name": "Master of alchemy",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_OF_LOGIC",
+      "SetID": "76ladh9",
+      "Name": "Master of logic",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MURK_TAMER",
+      "SetID": "76ladh9",
+      "Name": "Murk Tamer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NAILS_AND_THORNS",
+      "SetID": "76ladh9",
+      "Name": "By the nails and thorns!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEGOTIATOR",
+      "SetID": "76ladh9",
+      "Name": "Negotiator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PERCEPTIVENESS",
+      "SetID": "76ladh9",
+      "Name": "Excellent perceptiveness",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWER_OF_EMPATHY",
+      "SetID": "76ladh9",
+      "Name": "The power of empathy",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAVIOR_OF_MANKIND",
+      "SetID": "76ladh9",
+      "Name": "Savior of mankind",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SERVANT_OF_GOD",
+      "SetID": "76ladh9",
+      "Name": "Faithful Servant of God",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLAYER_OF_HERETICS",
+      "SetID": "76ladh9",
+      "Name": "Slayer of heretics",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STALLING_MASTER",
+      "SetID": "76ladh9",
+      "Name": "Stalling Master",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SWORDSMAN",
+      "SetID": "76ladh9",
+      "Name": "Swordsman",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THIS_BUT_A_DUST",
+      "SetID": "76ladh9",
+      "Name": "\u2018Tis but dust, scamp.",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THREE_KINGS",
+      "SetID": "76ladh9",
+      "Name": "The Three Kings",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THREE_SIXES",
+      "SetID": "76ladh9",
+      "Name": "Three Sixes",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VAMPIRE_SLAYER",
+      "SetID": "76ladh9",
+      "Name": "Vampire slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WAYWARD_WOMAN",
+      "SetID": "76ladh9",
+      "Name": "Wayward Woman",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WEASEL",
+      "SetID": "76ladh9",
+      "Name": "Nimble as a weasel",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "76ladh9",
@@ -40,8 +370,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-12T18:03:29.6771707+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:10:28.4201592+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:10:19.3277422+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:10.0697222+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:57:52.0282704+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:10:28.4201629+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:57:36.9274484+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:10:19.3619671+00:00"
 }

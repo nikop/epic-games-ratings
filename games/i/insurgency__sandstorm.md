@@ -15,18 +15,18 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~15,908 |
 | Stylin' | 3.00% | ~15,908 |
 | Turf War | 3.00% | ~15,908 |
-| Banged | 2.00% | ~10,605 |
-| First Blood | 2.00% | ~10,605 |
-| Flaccid Paralysis | 2.00% | ~10,605 |
-| Push Victory | 2.00% | ~10,605 |
-| Self-destructive | 2.00% | ~10,605 |
+| Banged | 2.00% | ~10,606 |
+| First Blood | 2.00% | ~10,606 |
+| Flaccid Paralysis | 2.00% | ~10,606 |
+| Push Victory | 2.00% | ~10,606 |
+| Self-destructive | 2.00% | ~10,606 |
 | Blindfire | 1.00% | ~5,303 |
 | Ruthless | 1.00% | ~5,303 |
 | Semper Paratus | 1.00% | ~5,303 |
-| Carrying | 0.90% | ~4,772 |
-| Efficient | 0.90% | ~4,772 |
-| Mount & Gun | 0.90% | ~4,772 |
-| Personal | 0.90% | ~4,772 |
+| Carrying | 0.90% | ~4,773 |
+| Efficient | 0.90% | ~4,773 |
+| Mount & Gun | 0.90% | ~4,773 |
+| Personal | 0.90% | ~4,773 |
 | Grounded | 0.80% | ~4,242 |
 | Play to Win | 0.80% | ~4,242 |
 | Special Delivery | 0.70% | ~3,712 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~530 |
 | Road Hazard | 0.10% | ~530 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,270 (Ranked 40)  
+Progressed: 530,279 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 2 (0.00%) (Ranked 410)
 | 2024-01-22 | 528,483 | 2 |
 | 2024-01-23 | 529,253 | 2 |
 | 2024-01-24 | 529,990 | 2 |
-| 2024-01-25 | 530,270 | 2 |
+| 2024-01-25 | 530,279 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 426  (Ranked 239)  
 Sum: 3,443 (Ranked 178)  

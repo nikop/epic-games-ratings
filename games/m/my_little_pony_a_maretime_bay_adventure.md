@@ -15,11 +15,11 @@
 | The Neigh-gotiator | 53.00% | ~27 |
 | Where Did The Magic Go? | 47.00% | ~24 |
 | Friendship Is Still Magic | 47.00% | ~24 |
-| Starscout | 35.00% | ~18 |
-| W.I.N.G.S. Cadet | 27.00% | ~14 |
+| Starscout | 37.00% | ~19 |
+| W.I.N.G.S. Cadet | 29.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 567)  
-Completed: 13 (25.49%) (Ranked 16)  
+Completed: 14 (27.45%) (Ranked 15)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,6 +44,7 @@ Completed: 13 (25.49%) (Ranked 16)
 | 2024-01-16 | 49 | 13 |
 | 2024-01-23 | 50 | 13 |
 | 2024-01-24 | 51 | 13 |
+| 2024-01-25 | 51 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

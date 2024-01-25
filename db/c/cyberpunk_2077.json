@@ -19076,9 +19076,9 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058416,
+  "EOS_Progressed": 1058436,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4356,
+  "EOS_NewPlayers": 4349,
   "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51166,6 +51166,11 @@
       "Time": "2024-01-25T09:09:49.255797+00:00",
       "NumProgressed": 1058416,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T10:09:40.1558314+00:00",
+      "NumProgressed": 1058436,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51194,7 +51199,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "Cyberjunkie",
@@ -51250,7 +51255,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "Gunslinger",
@@ -51266,7 +51271,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "IAmMaxTac",
@@ -51394,7 +51399,7 @@
       "Name": "The Fool",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "TheHermit",
@@ -51450,7 +51455,7 @@
       "Name": "The World",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "ThisIsPacifica",
@@ -51713,21 +51718,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058416,
+      "Progressed": 1058436,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187039,
+      "Progressed": 187059,
       "Completed": 10699
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-25T06:03:23.8390449+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:09:49.2557966+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:09:40.1558309+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:03:35.3257632+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:09:49.2559516+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:03:26.845308+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:09:40.15599+00:00"
 }

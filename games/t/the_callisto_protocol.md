@@ -12,10 +12,10 @@ Rating: 4.22 (Ranked 960)
 | Get a Grip | 24.00% | ~5,455 |
 | Chew 'Em Up | 22.00% | ~5,000 |
 | Reforged | 21.00% | ~4,773 |
-| Float Like A Butterfly | 19.00% | ~4,318 |
-| If the SHU Fits... | 19.00% | ~4,318 |
+| Float Like A Butterfly | 19.00% | ~4,319 |
+| If the SHU Fits... | 19.00% | ~4,319 |
 | Workplace Hazard | 18.00% | ~4,091 |
-| Without A Paddle | 16.00% | ~3,636 |
+| Without A Paddle | 16.00% | ~3,637 |
 | In the Pipe, Five by Five | 14.00% | ~3,182 |
 | Crash Site | 14.00% | ~3,182 |
 | Two Heads Are Better Than One | 13.00% | ~2,955 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,728 (Ranked 153)  
+Progressed: 22,729 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,11 +325,11 @@ Completed: 82 (0.36%) (Ranked 255)
 | 2024-01-22 | 22,675 | 82 |
 | 2024-01-23 | 22,690 | 82 |
 | 2024-01-24 | 22,722 | 82 |
-| 2024-01-25 | 22,728 | 82 |
+| 2024-01-25 | 22,729 | 82 |
 ## Awards
-Max (Amazing Characters): 143  (Ranked 343)  
+Max (Amazing Characters): 143  (Ranked 344)  
 Sum: 691 (Ranked 315)  
-Diff (max vs sum): 28  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 143 |

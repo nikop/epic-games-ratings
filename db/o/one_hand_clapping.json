@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -1179,9 +1179,9 @@
       "ID": "20",
       "SetID": "7l2nmpm",
       "Name": "Tempo",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "21",
@@ -1316,8 +1316,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:09:08.9090698+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:09:00.6611088+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:39.2150303+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:58:33.2872318+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:09:08.9090955+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:58:18.6510952+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:09:00.6611321+00:00"
 }

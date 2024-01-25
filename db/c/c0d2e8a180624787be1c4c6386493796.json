@@ -1747,9 +1747,9 @@
       "ID": "KR4_ACHIEVEMENT_GLYPTODON",
       "SetID": "caeik3h",
       "Name": "Morphball",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOBLIRANGS",
@@ -2202,8 +2202,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:04:46.1749164+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:04:39.365176+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:00:46.79671+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:04:46.1749816+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:02:38.7263868+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:04:39.365275+00:00"
 }

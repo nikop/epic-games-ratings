@@ -3,9 +3,9 @@
   "Name": "MY LITTLE PONY A Maretime Bay Adventure",
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
   "Ranking_EOS_Progress": 567,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2022-05-26T23:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 51,
-  "EOS_Completed": 13,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25.49,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 27.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:29.3073693+00:00",
@@ -141,6 +141,11 @@
       "Time": "2024-01-24T14:05:17.2879989+00:00",
       "NumProgressed": 51,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-25T10:05:09.7470752+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 13,
@@ -182,9 +187,9 @@
       "ID": "12",
       "SetID": "1kmik7f",
       "Name": "Starscout",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "2",
@@ -222,9 +227,9 @@
       "ID": "6",
       "SetID": "1kmik7f",
       "Name": "W.I.N.G.S. Cadet",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "7",
@@ -256,15 +261,15 @@
       "ID": "1kmik7f",
       "IsBase": true,
       "Progressed": 51,
-      "Completed": 13
+      "Completed": 14
     }
   ],
   "FirstSeen": "2023-01-24T20:58:52.6858094+00:00",
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:05:16.5103141+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:05:09.7470745+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:04.4087727+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:58:28.8126241+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:05:16.5103229+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:58:14.0470851+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:05:09.7470862+00:00"
 }

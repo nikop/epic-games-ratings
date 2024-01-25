@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
-  "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 406,
+  "Ranking_Popularity": 322,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -453,18 +453,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 247,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-25T09:59:16.2080403+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 249,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 247,
-  "NumberOfAwardsMax": 172,
+  "NumberOfAwards": 249,
+  "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 172
+      "Count": 174
     },
     {
       "Text": "This game has Diverse Characters",
@@ -485,9 +491,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12201,
+  "EOS_Progressed": 12202,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6105,6 +6111,11 @@
       "Time": "2024-01-25T09:10:57.6128661+00:00",
       "NumProgressed": 12201,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T10:10:49.2841751+00:00",
+      "NumProgressed": 12202,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6636,16 +6647,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12201,
+      "Progressed": 12202,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-25T02:25:43.581088+00:00",
-  "LastChanged_Achievements": "2024-01-25T09:10:57.6128655+00:00",
+  "LastChanged": "2024-01-25T09:59:16.2080401+00:00",
+  "LastChanged_Achievements": "2024-01-25T10:10:49.2841746+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T08:59:24.9221045+00:00",
-  "LastUpdate_Achievements": "2024-01-25T09:10:57.6129281+00:00"
+  "LastUpdate_Ratings": "2024-01-25T09:59:16.2080406+00:00",
+  "LastUpdate_Achievements": "2024-01-25T10:10:49.2842439+00:00"
 }
