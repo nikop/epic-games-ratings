@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4561,9 +4561,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 469
     },
     {
       "ID": "JustOneLap",
@@ -4874,8 +4874,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-25T02:26:20.9707207+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:32:14.9327504+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:05:12.7011933+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:26:20.9707211+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:32:14.9328014+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:59:25.3205051+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:05:12.7012516+00:00"
 }

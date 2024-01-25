@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 937,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3537,6 +3537,11 @@
       "Time": "2024-01-24T15:08:57.3209887+00:00",
       "NumProgressed": 936,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T03:09:29.7212657+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3581,7 +3586,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3589,7 +3594,7 @@
       "Name": "Min\u0027s Promise",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -3605,7 +3610,7 @@
       "Name": "Sia\u0027s Promise",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -3629,7 +3634,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3685,7 +3690,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3709,7 +3714,7 @@
       "Name": "First wall",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3717,7 +3722,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3725,7 +3730,7 @@
       "Name": "Second wall",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3733,7 +3738,7 @@
       "Name": "Stone Retriever",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3748,7 +3753,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 937,
       "Completed": 2
     }
   ],
@@ -3756,8 +3761,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:36:26.4917896+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:09:29.7212654+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:24:08.0188749+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:36:26.4918287+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:57:16.7198476+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:09:29.7212971+00:00"
 }

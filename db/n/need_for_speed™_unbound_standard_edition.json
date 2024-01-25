@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 57522,
+  "EOS_Progressed": 57523,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1243,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -14818,6 +14818,11 @@
       "Time": "2024-01-25T02:36:43.610445+00:00",
       "NumProgressed": 57522,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-25T03:09:46.6948166+00:00",
+      "NumProgressed": 57523,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -14902,7 +14907,7 @@
       "Name": "In the Flow",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "achievement_19",
@@ -14918,7 +14923,7 @@
       "Name": "Most Wanted",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 19557
+      "UsersEstimate": 19558
     },
     {
       "ID": "achievement_20",
@@ -14950,7 +14955,7 @@
       "Name": "Public Enemy",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 34513
+      "UsersEstimate": 34514
     },
     {
       "ID": "achievement_24",
@@ -15006,7 +15011,7 @@
       "Name": "New Crew",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18982
+      "UsersEstimate": 18983
     },
     {
       "ID": "achievement_30",
@@ -15046,7 +15051,7 @@
       "Name": "The Collector",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "achievement_35",
@@ -15054,7 +15059,7 @@
       "Name": "Hey Speedie!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 21858
+      "UsersEstimate": 21859
     },
     {
       "ID": "achievement_36",
@@ -15062,7 +15067,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 33938
+      "UsersEstimate": 33939
     },
     {
       "ID": "achievement_37",
@@ -15070,7 +15075,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 48318
+      "UsersEstimate": 48319
     },
     {
       "ID": "achievement_38",
@@ -15078,7 +15083,7 @@
       "Name": "Fashion Killa",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 46593
+      "UsersEstimate": 46594
     },
     {
       "ID": "achievement_39",
@@ -15086,7 +15091,7 @@
       "Name": "Cool Whip",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 42566
+      "UsersEstimate": 42567
     },
     {
       "ID": "achievement_4",
@@ -15094,7 +15099,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "achievement_40",
@@ -15134,7 +15139,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 35088
+      "UsersEstimate": 35089
     },
     {
       "ID": "achievement_8",
@@ -15157,13 +15162,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 57522,
+      "Progressed": 57523,
       "Completed": 63
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:36:43.6104447+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:09:46.6948163+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.4566272+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:25:56.0164594+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:36:43.6105225+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:59:01.0511314+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:09:46.6949326+00:00"
 }

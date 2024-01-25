@@ -6,36 +6,36 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~488,629 |
-| Sword Runner | 24.00% | ~293,178 |
-| Running out of breath | 19.00% | ~232,099 |
-| Wallrunner | 19.00% | ~232,099 |
-| I call it luck | 14.00% | ~171,020 |
-| Out of order | 13.00% | ~158,804 |
-| Homerunner | 12.00% | ~146,589 |
-| Back to hell | 9.00% | ~109,942 |
-| Running Wild | 9.00% | ~109,942 |
-| Where are my Keys? | 9.00% | ~109,942 |
-| Perfection | 8.00% | ~97,726 |
-| Sword to a gunfight | 8.00% | ~97,726 |
-| Why not both | 7.00% | ~85,510 |
-| Artificial selection | 6.00% | ~73,294 |
-| Finish line | 6.00% | ~73,294 |
-| Control freak | 6.00% | ~73,294 |
-| Upgrades not mandatory | 6.00% | ~73,294 |
-| Unstoppable force | 5.00% | ~61,079 |
-| Dead in the air | 4.00% | ~48,863 |
-| Wave of mutilation | 4.00% | ~48,863 |
-| Can't Run Can't Hide | 3.00% | ~36,647 |
-| Improvise, adapt, overrun | 2.00% | ~24,431 |
-| Pre-empative strike | 2.00% | ~24,431 |
-| R is for Running | 2.00% | ~24,431 |
-| Strike | 2.00% | ~24,431 |
-| Triple A | 2.00% | ~24,431 |
-| More than human | 1.00% | ~12,216 |
+| Longrunner | 40.00% | ~488,668 |
+| Sword Runner | 24.00% | ~293,201 |
+| Running out of breath | 19.00% | ~232,117 |
+| Wallrunner | 19.00% | ~232,117 |
+| I call it luck | 14.00% | ~171,034 |
+| Out of order | 13.00% | ~158,817 |
+| Homerunner | 12.00% | ~146,601 |
+| Back to hell | 9.00% | ~109,950 |
+| Running Wild | 9.00% | ~109,950 |
+| Where are my Keys? | 9.00% | ~109,950 |
+| Perfection | 8.00% | ~97,734 |
+| Sword to a gunfight | 8.00% | ~97,734 |
+| Why not both | 7.00% | ~85,517 |
+| Artificial selection | 6.00% | ~73,300 |
+| Finish line | 6.00% | ~73,300 |
+| Control freak | 6.00% | ~73,300 |
+| Upgrades not mandatory | 6.00% | ~73,300 |
+| Unstoppable force | 5.00% | ~61,084 |
+| Dead in the air | 4.00% | ~48,867 |
+| Wave of mutilation | 4.00% | ~48,867 |
+| Can't Run Can't Hide | 3.00% | ~36,650 |
+| Improvise, adapt, overrun | 2.00% | ~24,433 |
+| Pre-empative strike | 2.00% | ~24,433 |
+| R is for Running | 2.00% | ~24,433 |
+| Strike | 2.00% | ~24,433 |
+| Triple A | 2.00% | ~24,433 |
+| More than human | 1.00% | ~12,217 |
 | Push it to the limit | 0.80% | ~9,773 |
-| Fine addition | 0.70% | ~8,551 |
-| About Adam | 0.40% | ~4,886 |
+| Fine addition | 0.70% | ~8,552 |
+| About Adam | 0.40% | ~4,887 |
 | One Of Those Days | 0.30% | ~3,665 |
 | Hit me if you can | 0.20% | ~2,443 |
 | Junkrunner | 0.20% | ~2,443 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,222 |
 | Up Close And Personal | 0.10% | ~1,222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,221,573 (Ranked 13)  
+Progressed: 1,221,671 (Ranked 13)  
 Completed: 257 (0.02%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 257 (0.02%) (Ranked 374)
 | 2024-01-22 | 1,207,635 | 249 |
 | 2024-01-23 | 1,214,546 | 253 |
 | 2024-01-24 | 1,221,068 | 257 |
-| 2024-01-25 | 1,221,573 | 257 |
+| 2024-01-25 | 1,221,671 | 257 |
 ## Awards
 Max (Great Boss Battles): 1,717  (Ranked 136)  
-Sum: 2,104 (Ranked 220)  
+Sum: 2,106 (Ranked 220)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -84
 | This game has Quickly Understood Controls | 57 |
 | This game has a Creative Community | 47 |
 | This game has Amazing Characters | 44 |
-| This game has Unique Visuals | 41 |
+| This game has Unique Visuals | 43 |
 | This game is Highly Recommended | 41 |
 | This game has Amazing Storytelling | 38 |
 | This game is Relaxing | 34 |
@@ -564,3 +564,4 @@ Diff (max vs sum): -84
 | 2024-01-22 | 4.58 | - | 1,663 | 2,034 |
 | 2024-01-23 | 4.58 | - | 1,690 | 2,067 |
 | 2024-01-24 | 4.58 | - | 1,717 | 2,104 |
+| 2024-01-25 | 4.58 | - | 1,717 | 2,106 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19273,
+  "EOS_Progressed": 19274,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18173,6 +18173,11 @@
       "Time": "2024-01-25T02:33:10.7624476+00:00",
       "NumProgressed": 19273,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-25T03:06:06.6895877+00:00",
+      "NumProgressed": 19274,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18249,7 +18254,7 @@
       "Name": "Spore Taste",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "18",
@@ -18361,7 +18366,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "30",
@@ -18425,7 +18430,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "32",
@@ -18464,22 +18469,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19273,
+      "Progressed": 19274,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5227,
-      "Completed": 1400
+      "Progressed": 5228,
+      "Completed": 1401
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:33:10.7624472+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:06:06.6895866+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:26:41.166346+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:33:10.7625778+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:59:43.2455159+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:06:06.6896723+00:00"
 }

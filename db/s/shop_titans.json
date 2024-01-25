@@ -8329,7 +8329,7 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152730,
+  "EOS_Progressed": 152731,
   "EOS_Completed": 363,
   "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 4,
@@ -38064,6 +38064,11 @@
       "Time": "2024-01-25T02:36:29.0211244+00:00",
       "NumProgressed": 152730,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2024-01-25T03:09:32.2615239+00:00",
+      "NumProgressed": 152731,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 112,
@@ -38075,7 +38080,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "advlevel02",
@@ -38211,7 +38216,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "boss02",
@@ -38379,7 +38384,7 @@
       "Name": "Where it Hurts",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "damage02",
@@ -38627,7 +38632,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "jackslot02",
@@ -38699,7 +38704,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "loot02",
@@ -38731,7 +38736,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "master02",
@@ -38970,15 +38975,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152730,
+      "Progressed": 152731,
       "Completed": 363
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-24T22:03:18.9806203+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:36:29.021124+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:09:32.2615237+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:30:13.6789166+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:36:29.0213428+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:03:12.0719086+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:09:32.2617824+00:00"
 }

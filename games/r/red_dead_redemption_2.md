@@ -5,7 +5,7 @@ Rating: 4.88 (Ranked 17)
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 261,624  (Ranked 5)  
-Sum: 685,244 (Ranked 6)  
+Sum: 685,397 (Ranked 6)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 28,697 |
 | This game has Amazing Storytelling | 28,312 |
 | This game is Extremely Fun | 28,247 |
-| This game has Amazing Characters | 28,016 |
+| This game has Amazing Characters | 28,169 |
 | This game is Relaxing | 28,004 |
 | This game is Educational | 27,866 |
 | This game has Quickly Understood Controls | 27,092 |
@@ -392,3 +392,4 @@ Diff (max vs sum): -1
 | 2024-01-22 | 4.88 | - | 259,799 | 679,288 |
 | 2024-01-23 | 4.88 | - | 260,722 | 682,219 |
 | 2024-01-24 | 4.88 | - | 261,624 | 685,244 |
+| 2024-01-25 | 4.88 | - | 261,624 | 685,397 |

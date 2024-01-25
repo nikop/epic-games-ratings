@@ -2,7 +2,7 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 91,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 44,
@@ -9306,10 +9306,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51291,
       "NumberOfAwardsMax": 6500
+    },
+    {
+      "Time": "2024-01-25T03:02:48.417477+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51294,
+      "NumberOfAwardsMax": 6500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51291,
+  "NumberOfAwards": 51294,
   "NumberOfAwardsMax": 6500,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -9365,7 +9371,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5643
+      "Count": 5646
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9380,7 +9386,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479734,
+  "EOS_Progressed": 479735,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
@@ -37290,6 +37296,11 @@
       "Time": "2024-01-24T23:09:37.517689+00:00",
       "NumProgressed": 479734,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-25T03:09:44.8250006+00:00",
+      "NumProgressed": 479735,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -37445,7 +37456,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76757
+      "UsersEstimate": 76758
     },
     {
       "ID": "achievement_big_win",
@@ -37461,7 +37472,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105541
+      "UsersEstimate": 105542
     },
     {
       "ID": "achievement_childhood_dream",
@@ -37477,7 +37488,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105541
+      "UsersEstimate": 105542
     },
     {
       "ID": "achievement_clean_sheet",
@@ -37485,7 +37496,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239867
+      "UsersEstimate": 239868
     },
     {
       "ID": "achievement_club_world_cup",
@@ -37501,7 +37512,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 91149
+      "UsersEstimate": 91150
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -37533,7 +37544,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 201488
+      "UsersEstimate": 201489
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -37573,7 +37584,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105541
+      "UsersEstimate": 105542
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -37581,7 +37592,7 @@
       "Name": "Superb Strike",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47973
+      "UsersEstimate": 47974
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -37717,7 +37728,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76757
+      "UsersEstimate": 76758
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -37781,7 +37792,7 @@
       "Name": "International Superstar",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47973
+      "UsersEstimate": 47974
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -37813,7 +37824,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76757
+      "UsersEstimate": 76758
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -37845,7 +37856,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 230272
+      "UsersEstimate": 230273
     },
     {
       "ID": "achievement_signed_a_player",
@@ -37853,7 +37864,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239867
+      "UsersEstimate": 239868
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -37933,7 +37944,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239867
+      "UsersEstimate": 239868
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -37941,7 +37952,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105541
+      "UsersEstimate": 105542
     },
     {
       "ID": "achievement_won_international_championship",
@@ -37957,7 +37968,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 62365
+      "UsersEstimate": 62366
     },
     {
       "ID": "achievement_won_world_cup",
@@ -37973,7 +37984,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 47973
+      "UsersEstimate": 47974
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -38084,15 +38095,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479734,
+      "Progressed": 479735,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2024-01-24T19:03:02.1883904+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:36:41.594935+00:00",
+  "LastChanged": "2024-01-25T03:02:48.4174768+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:09:44.8250003+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8725355+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:29:49.457612+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:36:41.5951216+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:02:48.4174776+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:09:44.8251885+00:00"
 }

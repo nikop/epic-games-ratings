@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3708,
+  "EOS_Progressed": 3709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9327,6 +9327,11 @@
       "Time": "2024-01-25T02:35:19.5084972+00:00",
       "NumProgressed": 3708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T03:08:23.0590392+00:00",
+      "NumProgressed": 3709,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9347,7 +9352,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9355,7 +9360,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -9411,7 +9416,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9627,7 +9632,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9643,7 +9648,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9691,7 +9696,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9730,7 +9735,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3708,
+      "Progressed": 3709,
       "Completed": 0
     }
   ],
@@ -9738,8 +9743,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:35:19.5084967+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:08:23.0590389+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:25:09.093948+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:35:19.5085598+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:58:14.2333239+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:08:23.059119+00:00"
 }

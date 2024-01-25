@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126461,
+  "EOS_Progressed": 126462,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2196,
+  "EOS_NewPlayers": 2191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14942,6 +14942,11 @@
       "Time": "2024-01-25T02:31:11.1579866+00:00",
       "NumProgressed": 126461,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-25T03:04:10.0933308+00:00",
+      "NumProgressed": 126462,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-20T19:08:07.8580208+00:00",
@@ -14954,7 +14959,7 @@
       "Name": "Adapt and Overcome",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 125196
+      "UsersEstimate": 125197
     },
     {
       "ID": "achievement_10",
@@ -15002,7 +15007,7 @@
       "Name": "Going Places",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 58172
+      "UsersEstimate": 58173
     },
     {
       "ID": "achievement_16",
@@ -15058,7 +15063,7 @@
       "Name": "War machine",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 77141
+      "UsersEstimate": 77142
     },
     {
       "ID": "achievement_22",
@@ -15090,7 +15095,7 @@
       "Name": "No-one gets left behind",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 60701
+      "UsersEstimate": 60702
     },
     {
       "ID": "achievement_26",
@@ -15114,7 +15119,7 @@
       "Name": "Foot Soldier",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 107492
+      "UsersEstimate": 107493
     },
     {
       "ID": "achievement_29",
@@ -15130,7 +15135,7 @@
       "Name": "Luck of the Irish",
       "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 87258
+      "UsersEstimate": 87259
     },
     {
       "ID": "achievement_30",
@@ -15138,7 +15143,7 @@
       "Name": "Deadshot",
       "Percentage": 61,
       "XP": 45,
-      "UsersEstimate": 77141
+      "UsersEstimate": 77142
     },
     {
       "ID": "achievement_31",
@@ -15154,7 +15159,7 @@
       "Name": "Good Company",
       "Percentage": 82,
       "XP": 35,
-      "UsersEstimate": 103698
+      "UsersEstimate": 103699
     },
     {
       "ID": "achievement_33",
@@ -15162,7 +15167,7 @@
       "Name": "Showoff",
       "Percentage": 80,
       "XP": 35,
-      "UsersEstimate": 101169
+      "UsersEstimate": 101170
     },
     {
       "ID": "achievement_34",
@@ -15178,7 +15183,7 @@
       "Name": "Dead in their tracks!",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 60701
+      "UsersEstimate": 60702
     },
     {
       "ID": "achievement_5",
@@ -15210,7 +15215,7 @@
       "Name": "The Winner Takes It All",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 60701
+      "UsersEstimate": 60702
     },
     {
       "ID": "achievement_9",
@@ -15225,7 +15230,7 @@
     {
       "ID": "6l7mn2m",
       "IsBase": true,
-      "Progressed": 126461,
+      "Progressed": 126462,
       "Completed": 7
     }
   ],
@@ -15233,8 +15238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.4915207+00:00",
   "FirstSeenAchievements": "2023-07-26T19:04:03.7783313+00:00",
   "LastChanged": "2023-03-31T05:58:10.4915208+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:31:11.1579861+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:04:10.0933305+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.7247159+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:26:29.8185844+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:31:11.1580828+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:59:33.4386508+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:04:10.0934413+00:00"
 }

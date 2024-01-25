@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36984,
+  "EOS_Progressed": 36985,
   "EOS_Completed": 364,
-  "EOS_NewPlayers": 1298,
+  "EOS_NewPlayers": 1296,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17343,6 +17343,11 @@
       "Time": "2024-01-25T02:35:33.0332004+00:00",
       "NumProgressed": 36984,
       "NumCompleted": 364
+    },
+    {
+      "Time": "2024-01-25T03:08:36.5828158+00:00",
+      "NumProgressed": 36985,
+      "NumCompleted": 364
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -17379,7 +17384,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 24409
+      "UsersEstimate": 24410
     },
     {
       "ID": "achievement_13",
@@ -17395,7 +17400,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 5917
+      "UsersEstimate": 5918
     },
     {
       "ID": "achievement_15",
@@ -17403,7 +17408,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 17752
+      "UsersEstimate": 17753
     },
     {
       "ID": "achievement_16",
@@ -17411,7 +17416,7 @@
       "Name": "For A More Civilized Age",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 17382
+      "UsersEstimate": 17383
     },
     {
       "ID": "achievement_17",
@@ -17427,7 +17432,7 @@
       "Name": "Back At You",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 25889
+      "UsersEstimate": 25890
     },
     {
       "ID": "achievement_19",
@@ -17499,7 +17504,7 @@
       "Name": "Look Out Below",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 15163
+      "UsersEstimate": 15164
     },
     {
       "ID": "achievement_27",
@@ -17563,7 +17568,7 @@
       "Name": "Full House",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 12944
+      "UsersEstimate": 12945
     },
     {
       "ID": "achievement_34",
@@ -17579,7 +17584,7 @@
       "Name": "Sabersmith",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 29217
+      "UsersEstimate": 29218
     },
     {
       "ID": "achievement_36",
@@ -17587,7 +17592,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 17752
+      "UsersEstimate": 17753
     },
     {
       "ID": "achievement_37",
@@ -17603,7 +17608,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 15163
+      "UsersEstimate": 15164
     },
     {
       "ID": "achievement_39",
@@ -17635,7 +17640,7 @@
       "Name": "Trust Only In The Force",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 15903
+      "UsersEstimate": 15904
     },
     {
       "ID": "achievement_7",
@@ -17643,7 +17648,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 36984
+      "UsersEstimate": 36985
     },
     {
       "ID": "achievement_8",
@@ -17651,7 +17656,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 33655
+      "UsersEstimate": 33656
     },
     {
       "ID": "achievement_9",
@@ -17659,14 +17664,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 27738
+      "UsersEstimate": 27739
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 36984,
+      "Progressed": 36985,
       "Completed": 364
     }
   ],
@@ -17674,8 +17679,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2024-01-01T22:59:19.1576337+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:35:33.0332+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:08:36.5828155+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.8127417+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:26:21.0865466+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:35:33.0332788+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:59:25.4417841+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:08:36.5829026+00:00"
 }

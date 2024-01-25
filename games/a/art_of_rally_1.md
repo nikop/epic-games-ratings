@@ -6,22 +6,22 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~347,755 |
-| good drivers have dead flies on the side windows | 32.00% | ~139,102 |
-| keep it tidy | 26.00% | ~113,020 |
-| brail | 26.00% | ~113,020 |
-| car wash | 23.00% | ~99,980 |
-| the artist | 23.00% | ~99,980 |
-| podium | 20.00% | ~86,939 |
-| medium attack | 17.00% | ~73,898 |
-| bicycle race | 6.00% | ~26,082 |
-| grocery-getter | 5.00% | ~21,735 |
-| autopilot | 4.00% | ~17,388 |
-| night ride | 4.00% | ~17,388 |
-| rwd only | 3.00% | ~13,041 |
-| where is the stage? | 3.00% | ~13,041 |
-| snorkel | 3.00% | ~13,041 |
-| food tour: pasta | 3.00% | ~13,041 |
+| light attack | 80.00% | ~347,774 |
+| good drivers have dead flies on the side windows | 32.00% | ~139,110 |
+| keep it tidy | 26.00% | ~113,027 |
+| brail | 26.00% | ~113,027 |
+| car wash | 23.00% | ~99,985 |
+| the artist | 23.00% | ~99,985 |
+| podium | 20.00% | ~86,944 |
+| medium attack | 17.00% | ~73,902 |
+| bicycle race | 6.00% | ~26,083 |
+| grocery-getter | 5.00% | ~21,736 |
+| autopilot | 4.00% | ~17,389 |
+| night ride | 4.00% | ~17,389 |
+| rwd only | 3.00% | ~13,042 |
+| where is the stage? | 3.00% | ~13,042 |
+| snorkel | 3.00% | ~13,042 |
+| food tour: pasta | 3.00% | ~13,042 |
 | to finish first, first you must finish | 2.00% | ~8,694 |
 | perkele | 2.00% | ~8,694 |
 | turbo | 2.00% | ~8,694 |
@@ -36,9 +36,9 @@ Number of Ratings: 56  (23.09.2022)
 | viking | 0.70% | ~3,043 |
 | parallel universe | 0.70% | ~3,043 |
 | oktoberfest | 0.60% | ~2,608 |
-| group b | 0.50% | ~2,173 |
-| maximum attack | 0.50% | ~2,173 |
-| samir | 0.50% | ~2,173 |
+| group b | 0.50% | ~2,174 |
+| maximum attack | 0.50% | ~2,174 |
+| samir | 0.50% | ~2,174 |
 | parking lot | 0.40% | ~1,739 |
 | master of rally | 0.40% | ~1,739 |
 | antilag | 0.40% | ~1,739 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~435 |
 | you're here for a good time, not a long time | 0.10% | ~435 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,694 (Ranked 47)  
+Progressed: 434,718 (Ranked 47)  
 Completed: 27 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 27 (0.01%) (Ranked 384)
 | 2024-01-22 | 432,130 | 27 |
 | 2024-01-23 | 433,315 | 27 |
 | 2024-01-24 | 434,560 | 27 |
-| 2024-01-25 | 434,694 | 27 |
+| 2024-01-25 | 434,718 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
 Sum: 318 (Ranked 381)  

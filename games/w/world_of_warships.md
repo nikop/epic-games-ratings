@@ -6,20 +6,20 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~73,094 |
-| Initial Capital | 61.00% | ~59,449 |
-| Junior Supply Officer | 39.00% | ~38,009 |
-| Moneybags | 38.00% | ~37,034 |
-| Naval Warfare. Arson | 29.00% | ~28,263 |
-| Naval Warfare. Ramming | 28.00% | ~27,288 |
-| Amateur | 26.00% | ~25,339 |
-| Naval Warfare. Tactics | 26.00% | ~25,339 |
-| Naval Constructor | 25.00% | ~24,364 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~18,517 |
-| Naval Warfare. Flooding | 16.00% | ~15,593 |
-| Naval Warfare. Lucky Shot | 16.00% | ~15,593 |
+| Junior Naval Designer | 75.00% | ~73,097 |
+| Initial Capital | 61.00% | ~59,452 |
+| Junior Supply Officer | 39.00% | ~38,011 |
+| Moneybags | 38.00% | ~37,036 |
+| Naval Warfare. Arson | 29.00% | ~28,264 |
+| Naval Warfare. Ramming | 28.00% | ~27,290 |
+| Amateur | 26.00% | ~25,340 |
+| Naval Warfare. Tactics | 26.00% | ~25,340 |
+| Naval Constructor | 25.00% | ~24,366 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~18,518 |
+| Naval Warfare. Flooding | 16.00% | ~15,594 |
+| Naval Warfare. Lucky Shot | 16.00% | ~15,594 |
 | Business Magnate | 13.00% | ~12,670 |
-| Battle Hero | 12.00% | ~11,695 |
+| Battle Hero | 12.00% | ~11,696 |
 | Warrior | 10.00% | ~9,746 |
 | Supply Officer | 10.00% | ~9,746 |
 | Smooth Supply | 10.00% | ~9,746 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~97 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,458 (Ranked 104)  
+Progressed: 97,463 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 96,588 | 0 |
 | 2024-01-23 | 97,027 | 0 |
 | 2024-01-24 | 97,412 | 0 |
-| 2024-01-25 | 97,458 | 0 |
+| 2024-01-25 | 97,463 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,757  (Ranked 134)  
 Sum: 14,730 (Ranked 80)  

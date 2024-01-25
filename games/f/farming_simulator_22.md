@@ -6,29 +6,29 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~45,257 |
+| Own use | 71.00% | ~45,258 |
 | I read Shakespeare and stuff | 59.00% | ~37,608 |
-| Just a sprinkle | 58.00% | ~36,970 |
+| Just a sprinkle | 58.00% | ~36,971 |
 | I'm stumped | 56.00% | ~35,696 |
 | Plant get enough | 56.00% | ~35,696 |
 | This is just my weekend vehicle | 54.00% | ~34,421 |
 | It's just the beginning | 54.00% | ~34,421 |
 | Hard work pays off | 49.00% | ~31,234 |
 | It's never too late to farm | 45.00% | ~28,684 |
-| All out of Land | 41.00% | ~26,134 |
+| All out of Land | 41.00% | ~26,135 |
 | Field Trip | 40.00% | ~25,497 |
 | I like to switch it up | 37.00% | ~23,585 |
 | Help me to help you | 35.00% | ~22,310 |
 | Ultimutt Pawesomeness | 25.00% | ~15,936 |
 | Van Gogh | 23.00% | ~14,661 |
-| You wood not believe it | 20.00% | ~12,748 |
-| Vehicle fleet | 20.00% | ~12,748 |
+| You wood not believe it | 20.00% | ~12,749 |
+| Vehicle fleet | 20.00% | ~12,749 |
 | Well-Oiled Machine | 15.00% | ~9,561 |
 | Clucky Streak | 14.00% | ~8,924 |
 | The plot thickens | 14.00% | ~8,924 |
 | Large-scale supplier | 14.00% | ~8,924 |
 | Long haul | 14.00% | ~8,924 |
-| That's a wrap | 13.00% | ~8,286 |
+| That's a wrap | 13.00% | ~8,287 |
 | Fix me up | 11.00% | ~7,012 |
 | Highly cultivated | 10.00% | ~6,374 |
 | It's sow easy | 10.00% | ~6,374 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~255 |
 | Raisin the stakes | 0.30% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,742 (Ranked 120)  
+Progressed: 63,743 (Ranked 120)  
 Completed: 6 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 6 (0.01%) (Ranked 384)
 | 2024-01-22 | 63,564 | 6 |
 | 2024-01-23 | 63,645 | 6 |
 | 2024-01-24 | 63,734 | 6 |
-| 2024-01-25 | 63,742 | 6 |
+| 2024-01-25 | 63,743 | 6 |
 ## Awards
 Max (Great for Beginners): 6,197  (Ranked 67)  
 Sum: 46,137 (Ranked 33)  

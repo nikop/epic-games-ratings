@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 11,
@@ -2481,9 +2481,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 1302595,
+  "EOS_Progressed": 1302596,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1060,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30306,6 +30306,11 @@
       "Time": "2024-01-25T02:31:55.1865833+00:00",
       "NumProgressed": 1302595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T03:04:53.1573168+00:00",
+      "NumProgressed": 1302596,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -30429,7 +30434,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 143285
+      "UsersEstimate": 143286
     },
     {
       "ID": "10_ghost_wins",
@@ -30613,7 +30618,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 768531
+      "UsersEstimate": 768532
     },
     {
       "ID": "hunter_win",
@@ -30621,7 +30626,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 703401
+      "UsersEstimate": 703402
     },
     {
       "ID": "master_of_loadouts",
@@ -30652,7 +30657,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1302595,
+      "Progressed": 1302596,
       "Completed": 0
     }
   ],
@@ -30660,8 +30665,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-23T09:57:08.7151111+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:31:55.186583+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:04:53.1573161+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:08.3458382+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:24:48.0885434+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:31:55.186717+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:57:53.6455366+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:04:53.1574776+00:00"
 }

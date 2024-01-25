@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~93,091 |
-| Enemy Attrition | 67.00% | ~68,540 |
-| Grim Reaper | 66.00% | ~67,517 |
-| Heads Down | 64.00% | ~65,471 |
-| Not On My Watch | 60.00% | ~61,379 |
-| Combat Engineer | 41.00% | ~41,942 |
-| Eager Beaver | 32.00% | ~32,735 |
-| Call ’em in! | 30.00% | ~30,689 |
-| Lovely | 28.00% | ~28,643 |
+| Last Man Standing | 91.00% | ~93,095 |
+| Enemy Attrition | 67.00% | ~68,542 |
+| Grim Reaper | 66.00% | ~67,519 |
+| Heads Down | 64.00% | ~65,473 |
+| Not On My Watch | 60.00% | ~61,381 |
+| Combat Engineer | 41.00% | ~41,944 |
+| Eager Beaver | 32.00% | ~32,737 |
+| Call ’em in! | 30.00% | ~30,691 |
+| Lovely | 28.00% | ~28,645 |
 | Store fuglar fanga ingi flugor | 17.00% | ~17,391 |
 | Ou La Mort | 15.00% | ~15,345 |
 | Elite | 14.00% | ~14,322 |
@@ -26,7 +26,7 @@
 | Hoist the Flag | 0.30% | ~307 |
 | Sins of the Fathers | 0.20% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,298 (Ranked 102)  
+Progressed: 102,302 (Ranked 102)  
 Completed: 1 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,4 +157,4 @@ Completed: 1 (0.00%) (Ranked 410)
 | 2024-01-22 | 101,646 | 1 |
 | 2024-01-23 | 101,973 | 1 |
 | 2024-01-24 | 102,278 | 1 |
-| 2024-01-25 | 102,298 | 1 |
+| 2024-01-25 | 102,302 | 1 |

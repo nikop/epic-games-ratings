@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -2901,9 +2901,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -3118,8 +3118,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-23T09:01:35.3083126+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:36:44.8692917+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:09:47.9804697+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.101279+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:24:09.9982038+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:36:44.8693671+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:57:18.6957017+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:09:47.9805061+00:00"
 }

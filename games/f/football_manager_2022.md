@@ -1,16 +1,16 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 91)  
+Rating: 4.80 (Ranked 92)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,867 |
-| He's Signed! | 50.00% | ~239,867 |
-| First Victory | 50.00% | ~239,867 |
-| He's Sold! | 48.00% | ~230,272 |
-| I'm The Boss! | 42.00% | ~201,488 |
+| Clean Sheet | 50.00% | ~239,868 |
+| He's Signed! | 50.00% | ~239,868 |
+| First Victory | 50.00% | ~239,868 |
+| He's Sold! | 48.00% | ~230,273 |
+| I'm The Boss! | 42.00% | ~201,489 |
 | Hat-trick | 41.00% | ~196,691 |
 | Scoring Streak | 38.00% | ~182,299 |
 | Unbeatable! | 37.00% | ~177,502 |
@@ -37,27 +37,27 @@ Number of Ratings: 19,160  (23.09.2022)
 | The Boss | 24.00% | ~115,136 |
 | Top Of The Class | 23.00% | ~110,339 |
 | Goal Machine | 23.00% | ~110,339 |
-| Splashing The Cash | 22.00% | ~105,541 |
-| Clean Bill of Health | 22.00% | ~105,541 |
-| What A Goal! | 22.00% | ~105,541 |
-| Cup Glory! | 22.00% | ~105,541 |
+| Splashing The Cash | 22.00% | ~105,542 |
+| Clean Bill of Health | 22.00% | ~105,542 |
+| What A Goal! | 22.00% | ~105,542 |
+| Cup Glory! | 22.00% | ~105,542 |
 | Irresistible Force | 20.00% | ~95,947 |
 | Excellent Match Cohesion | 20.00% | ~95,947 |
-| Do The Double | 19.00% | ~91,149 |
+| Do The Double | 19.00% | ~91,150 |
 | Top Form | 17.00% | ~81,555 |
 | Cash To Burn | 17.00% | ~81,555 |
-| Beating Expectations | 16.00% | ~76,757 |
-| Overachiever! | 16.00% | ~76,757 |
-| Rushed signing | 16.00% | ~76,757 |
+| Beating Expectations | 16.00% | ~76,758 |
+| Overachiever! | 16.00% | ~76,758 |
+| Rushed signing | 16.00% | ~76,758 |
 | Eyes and Ears | 15.00% | ~71,960 |
 | Window Shopping | 15.00% | ~71,960 |
 | Comeback King! | 14.00% | ~67,163 |
-| You're Up! | 13.00% | ~62,365 |
+| You're Up! | 13.00% | ~62,366 |
 | Money, Money, Money | 12.00% | ~57,568 |
 | Invincible! | 11.00% | ~52,771 |
-| Superb Strike | 10.00% | ~47,973 |
-| International Superstar | 10.00% | ~47,973 |
-| Best In The World | 10.00% | ~47,973 |
+| Superb Strike | 10.00% | ~47,974 |
+| International Superstar | 10.00% | ~47,974 |
+| Best In The World | 10.00% | ~47,974 |
 | Best In Europe | 9.00% | ~43,176 |
 | National Service | 9.00% | ~43,176 |
 | Headhunted | 9.00% | ~43,176 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~480 |
 | Shoestring Budget | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,734 (Ranked 44)  
+Progressed: 479,735 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,9 +385,10 @@ Completed: 22 (0.00%) (Ranked 410)
 | 2024-01-22 | 479,653 | 22 |
 | 2024-01-23 | 479,690 | 22 |
 | 2024-01-24 | 479,734 | 22 |
+| 2024-01-25 | 479,735 | 22 |
 ## Awards
 Max (Relaxing): 6,500  (Ranked 64)  
-Sum: 51,291 (Ranked 31)  
+Sum: 51,294 (Ranked 31)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -397,7 +398,7 @@ Diff (max vs sum): 33
 | This game has Competitive Players | 5,939 |
 | This game has Quickly Understood Controls | 5,917 |
 | This game is Educational | 5,907 |
-| This game has Diverse Characters | 5,643 |
+| This game has Diverse Characters | 5,646 |
 | This game has Amazing Storytelling | 4,947 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,406 |
@@ -762,3 +763,4 @@ Diff (max vs sum): 33
 | 2024-01-22 | 4.80 | - | 6,498 | 51,284 |
 | 2024-01-23 | 4.80 | - | 6,500 | 51,288 |
 | 2024-01-24 | 4.80 | - | 6,500 | 51,291 |
+| 2024-01-25 | 4.80 | - | 6,500 | 51,294 |

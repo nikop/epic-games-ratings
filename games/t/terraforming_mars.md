@@ -11,18 +11,18 @@ Number of Ratings: 2,731  (23.09.2022)
 | Prop-M Rover | 32.00% | ~29,345 |
 | Changing the Planet | 28.00% | ~25,677 |
 | Sojourner | 26.00% | ~23,843 |
-| New Home | 23.00% | ~21,091 |
-| Beagle 2 | 23.00% | ~21,091 |
-| Winner Winner Terraformer | 20.00% | ~18,340 |
-| Project Manager | 19.00% | ~17,423 |
-| Collector | 19.00% | ~17,423 |
-| Curiosity | 18.00% | ~16,506 |
-| Master | 18.00% | ~16,506 |
-| No Longer Red | 17.00% | ~15,589 |
-| Self-sufficient | 17.00% | ~15,589 |
-| Money money | 15.00% | ~13,755 |
-| First Journey | 14.00% | ~12,838 |
-| Biggest Reward | 13.00% | ~11,921 |
+| New Home | 23.00% | ~21,092 |
+| Beagle 2 | 23.00% | ~21,092 |
+| Winner Winner Terraformer | 20.00% | ~18,341 |
+| Project Manager | 19.00% | ~17,424 |
+| Collector | 19.00% | ~17,424 |
+| Curiosity | 18.00% | ~16,507 |
+| Master | 18.00% | ~16,507 |
+| No Longer Red | 17.00% | ~15,590 |
+| Self-sufficient | 17.00% | ~15,590 |
+| Money money | 15.00% | ~13,756 |
+| First Journey | 14.00% | ~12,839 |
+| Biggest Reward | 13.00% | ~11,922 |
 | Acquired knowledge | 12.00% | ~11,004 |
 | Landlord | 11.00% | ~10,087 |
 | Most Achievements | 11.00% | ~10,087 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Opportunity | 3.00% | ~2,751 |
 | Team Effort | 2.00% | ~1,834 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,702 (Ranked 108)  
+Progressed: 91,704 (Ranked 108)  
 Completed: 186 (0.20%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 186 (0.20%) (Ranked 288)
 | 2024-01-22 | 91,529 | 186 |
 | 2024-01-23 | 91,612 | 186 |
 | 2024-01-24 | 91,694 | 186 |
-| 2024-01-25 | 91,702 | 186 |
+| 2024-01-25 | 91,704 | 186 |
 ## Awards
 Max (Relaxing): 546  (Ranked 220)  
 Sum: 3,366 (Ranked 181)  

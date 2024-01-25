@@ -9,7 +9,7 @@ Rating: 4.51 (Ranked 601)
 | I've Had Enough! | 15.00% | ~19,008 |
 | Fists, Fury & a lot of Rage | 11.00% | ~13,939 |
 | Seasoned Fighter | 9.00% | ~11,405 |
-| All For One and One For All | 8.00% | ~10,137 |
+| All For One and One For All | 8.00% | ~10,138 |
 | Home Sweet Home? | 6.00% | ~7,603 |
 | A New Age | 5.00% | ~6,336 |
 | Oh Baby, A Triple | 3.00% | ~3,802 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 601)
 | What's Mine is Yours | 0.10% | ~127 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,718 (Ranked 94)  
+Progressed: 126,722 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 126,105 | 0 |
 | 2024-01-23 | 126,388 | 0 |
 | 2024-01-24 | 126,676 | 0 |
-| 2024-01-25 | 126,718 | 0 |
+| 2024-01-25 | 126,722 | 0 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 441)  
 Sum: 59 (Ranked 508)  

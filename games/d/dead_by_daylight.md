@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~95,507 |
-| Zealous | 7.00% | ~83,568 |
-| Skillful | 7.00% | ~83,568 |
-| Not half bad | 6.00% | ~71,630 |
-| Make Some Noise | 6.00% | ~71,630 |
-| Apt Survivor | 5.00% | ~59,692 |
-| Survival Treasures | 5.00% | ~59,692 |
-| Sorted | 5.00% | ~59,692 |
-| The Grand Sacrifice | 4.00% | ~47,753 |
-| No one left behind | 4.00% | ~47,753 |
-| Medic | 4.00% | ~47,753 |
-| Handyman | 4.00% | ~47,753 |
-| Bloody Millionaire | 4.00% | ~47,753 |
-| I | 4.00% | ~47,753 |
-| Healthy Obsession | 4.00% | ~47,753 |
-| Resurgence | 4.00% | ~47,753 |
-| Preemptive Strike | 4.00% | ~47,753 |
-| Humanitarian | 4.00% | ~47,753 |
-| Agonizing Escape | 3.00% | ~35,815 |
-| Backdoor Escape | 3.00% | ~35,815 |
-| I've got your back | 3.00% | ~35,815 |
-| Perfect Escape | 3.00% | ~35,815 |
-| Perfect Killing | 3.00% | ~35,815 |
-| Apt Killer | 3.00% | ~35,815 |
-| Risk it all | 3.00% | ~35,815 |
-| II | 3.00% | ~35,815 |
-| Engineer | 3.00% | ~35,815 |
-| Wounded Healer | 3.00% | ~35,815 |
-| Close Shave | 3.00% | ~35,815 |
+| It wakes | 8.00% | ~95,508 |
+| Zealous | 7.00% | ~83,570 |
+| Skillful | 7.00% | ~83,570 |
+| Not half bad | 6.00% | ~71,631 |
+| Make Some Noise | 6.00% | ~71,631 |
+| Apt Survivor | 5.00% | ~59,693 |
+| Survival Treasures | 5.00% | ~59,693 |
+| Sorted | 5.00% | ~59,693 |
+| The Grand Sacrifice | 4.00% | ~47,754 |
+| No one left behind | 4.00% | ~47,754 |
+| Medic | 4.00% | ~47,754 |
+| Handyman | 4.00% | ~47,754 |
+| Bloody Millionaire | 4.00% | ~47,754 |
+| I | 4.00% | ~47,754 |
+| Healthy Obsession | 4.00% | ~47,754 |
+| Resurgence | 4.00% | ~47,754 |
+| Preemptive Strike | 4.00% | ~47,754 |
+| Humanitarian | 4.00% | ~47,754 |
+| Agonizing Escape | 3.00% | ~35,816 |
+| Backdoor Escape | 3.00% | ~35,816 |
+| I've got your back | 3.00% | ~35,816 |
+| Perfect Escape | 3.00% | ~35,816 |
+| Perfect Killing | 3.00% | ~35,816 |
+| Apt Killer | 3.00% | ~35,816 |
+| Risk it all | 3.00% | ~35,816 |
+| II | 3.00% | ~35,816 |
+| Engineer | 3.00% | ~35,816 |
+| Wounded Healer | 3.00% | ~35,816 |
+| Close Shave | 3.00% | ~35,816 |
 | Blood on your hands | 2.00% | ~23,877 |
 | Escape Artist | 2.00% | ~23,877 |
 | Made it out alive! | 2.00% | ~23,877 |
@@ -65,37 +65,37 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 2.00% | ~23,877 |
 | Second Act | 2.00% | ~23,877 |
 | MU/TH/UR Dearest | 2.00% | ~23,877 |
-| A bite for the Entity | 1.00% | ~11,938 |
-| Blood on your face | 1.00% | ~11,938 |
-| Jump Scares | 1.00% | ~11,938 |
-| Nerves of steel | 1.00% | ~11,938 |
-| Hemophobia | 1.00% | ~11,938 |
-| Shock Therapy | 1.00% | ~11,938 |
-| Leapfrog | 1.00% | ~11,938 |
-| Cottage Owner | 1.00% | ~11,938 |
-| Serial Killer | 1.00% | ~11,938 |
-| Escaping the Nightmare | 1.00% | ~11,938 |
-| Game Over | 1.00% | ~11,938 |
-| Party Crasher | 1.00% | ~11,938 |
-| Campbell's Chapel Legacy | 1.00% | ~11,938 |
-| Ancestor's Rite | 1.00% | ~11,938 |
-| Devoted Gatekeeping | 1.00% | ~11,938 |
-| Shrine Apparatus | 1.00% | ~11,938 |
-| Broken Bodies | 1.00% | ~11,938 |
-| Grim Pilgrimage | 1.00% | ~11,938 |
-| Selfless Survival | 1.00% | ~11,938 |
-| End of Days | 1.00% | ~11,938 |
-| Insult and Injury | 1.00% | ~11,938 |
-| Outrun the Overlap | 1.00% | ~11,938 |
-| High Speed Pursuit | 1.00% | ~11,938 |
-| Rebuilding The Borgo | 1.00% | ~11,938 |
-| Complete the Evolution | 1.00% | ~11,938 |
-| Extraterrestrial | 1.00% | ~11,938 |
-| Outta Nowhere | 1.00% | ~11,938 |
-| Deep Cleansing | 0.90% | ~10,744 |
-| Texas BBQ | 0.90% | ~10,744 |
-| Outrage | 0.90% | ~10,744 |
-| I See You | 0.90% | ~10,744 |
+| A bite for the Entity | 1.00% | ~11,939 |
+| Blood on your face | 1.00% | ~11,939 |
+| Jump Scares | 1.00% | ~11,939 |
+| Nerves of steel | 1.00% | ~11,939 |
+| Hemophobia | 1.00% | ~11,939 |
+| Shock Therapy | 1.00% | ~11,939 |
+| Leapfrog | 1.00% | ~11,939 |
+| Cottage Owner | 1.00% | ~11,939 |
+| Serial Killer | 1.00% | ~11,939 |
+| Escaping the Nightmare | 1.00% | ~11,939 |
+| Game Over | 1.00% | ~11,939 |
+| Party Crasher | 1.00% | ~11,939 |
+| Campbell's Chapel Legacy | 1.00% | ~11,939 |
+| Ancestor's Rite | 1.00% | ~11,939 |
+| Devoted Gatekeeping | 1.00% | ~11,939 |
+| Shrine Apparatus | 1.00% | ~11,939 |
+| Broken Bodies | 1.00% | ~11,939 |
+| Grim Pilgrimage | 1.00% | ~11,939 |
+| Selfless Survival | 1.00% | ~11,939 |
+| End of Days | 1.00% | ~11,939 |
+| Insult and Injury | 1.00% | ~11,939 |
+| Outrun the Overlap | 1.00% | ~11,939 |
+| High Speed Pursuit | 1.00% | ~11,939 |
+| Rebuilding The Borgo | 1.00% | ~11,939 |
+| Complete the Evolution | 1.00% | ~11,939 |
+| Extraterrestrial | 1.00% | ~11,939 |
+| Outta Nowhere | 1.00% | ~11,939 |
+| Deep Cleansing | 0.90% | ~10,745 |
+| Texas BBQ | 0.90% | ~10,745 |
+| Outrage | 0.90% | ~10,745 |
+| I See You | 0.90% | ~10,745 |
 | Blood in your mouth | 0.80% | ~9,551 |
 | Heavy Burden | 0.80% | ~9,551 |
 | Punch Drunk | 0.80% | ~9,551 |
@@ -122,12 +122,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Speed Kills | 0.40% | ~4,775 |
 | Rescue Mission | 0.40% | ~4,775 |
 | One Thousand Cuts | 0.40% | ~4,775 |
-| Silent Approach | 0.30% | ~3,581 |
-| Bound and Downed | 0.30% | ~3,581 |
-| Multi-tasker | 0.30% | ~3,581 |
-| Viral Video | 0.30% | ~3,581 |
-| Terror of LV-426 | 0.30% | ~3,581 |
-| Joke’s On You | 0.30% | ~3,581 |
+| Silent Approach | 0.30% | ~3,582 |
+| Bound and Downed | 0.30% | ~3,582 |
+| Multi-tasker | 0.30% | ~3,582 |
+| Viral Video | 0.30% | ~3,582 |
+| Terror of LV-426 | 0.30% | ~3,582 |
+| Joke’s On You | 0.30% | ~3,582 |
 | Cripple them all | 0.20% | ~2,388 |
 | The Key to Escape | 0.20% | ~2,388 |
 | Adept Meg | 0.20% | ~2,388 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,194 |
 | Adept Good Guy | 0.10% | ~1,194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,193,833 (Ranked 14)  
+Progressed: 1,193,855 (Ranked 14)  
 Completed: 68 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,14 +519,14 @@ Completed: 68 (0.01%) (Ranked 384)
 | 2024-01-22 | 1,190,733 | 68 |
 | 2024-01-23 | 1,192,207 | 68 |
 | 2024-01-24 | 1,193,640 | 68 |
-| 2024-01-25 | 1,193,833 | 68 |
+| 2024-01-25 | 1,193,855 | 68 |
 ## Awards
-Max (Diverse Characters): 40,141  (Ranked 15)  
-Sum: 301,992 (Ranked 12)  
+Max (Diverse Characters): 40,177  (Ranked 15)  
+Sum: 302,028 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 40,141 |
+| This game has Diverse Characters | 40,177 |
 | This game is Highly Recommended | 34,551 |
 | This game has Amazing Characters | 33,949 |
 | This game has Competitive Players | 33,659 |
@@ -906,3 +906,4 @@ Diff (max vs sum): 3
 | 2024-01-22 | 4.51 | - | 40,050 | 301,445 |
 | 2024-01-23 | 4.51 | - | 40,086 | 301,698 |
 | 2024-01-24 | 4.51 | - | 40,141 | 301,992 |
+| 2024-01-25 | 4.51 | - | 40,177 | 302,028 |

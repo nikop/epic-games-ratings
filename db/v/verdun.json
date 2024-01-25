@@ -2015,9 +2015,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 70365,
+  "EOS_Progressed": 70368,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32900,6 +32900,11 @@
       "Time": "2024-01-25T01:59:30.0713696+00:00",
       "NumProgressed": 70365,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T03:08:15.5426892+00:00",
+      "NumProgressed": 70368,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -32911,7 +32916,7 @@
       "Name": "Eagle Eye",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 37997
+      "UsersEstimate": 37999
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -33143,7 +33148,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18295
+      "UsersEstimate": 18296
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -33167,7 +33172,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22517
+      "UsersEstimate": 22518
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -33175,7 +33180,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 27442
+      "UsersEstimate": 27444
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -33199,7 +33204,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 44330
+      "UsersEstimate": 44332
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -33223,7 +33228,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 16184
+      "UsersEstimate": 16185
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -33279,7 +33284,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 54885
+      "UsersEstimate": 54887
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -33327,7 +33332,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -33375,22 +33380,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 26035
+      "UsersEstimate": 26036
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 70365,
+      "Progressed": 70368,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-23T20:00:00.0597539+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:33:20.6157181+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:08:15.5426889+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:26.9198992+00:00",
   "LastUpdate_Ratings": "2024-01-25T02:29:32.5061445+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:33:20.6158604+00:00"
+  "LastUpdate_Achievements": "2024-01-25T03:08:15.5428607+00:00"
 }

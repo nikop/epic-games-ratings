@@ -10,7 +10,7 @@ Rating: 4.43 (Ranked 734)
 | Kuku Bird Hunter | 65.00% | ~499 |
 | Storm Traveller | 60.00% | ~460 |
 | Wolf King Killer | 55.00% | ~422 |
-| Fashion Connoisseur | 52.00% | ~399 |
+| Fashion Connoisseur | 53.00% | ~407 |
 | Arms Mechanic | 49.00% | ~376 |
 | Flower Thief | 44.00% | ~337 |
 | Apostle of Flame | 40.00% | ~307 |

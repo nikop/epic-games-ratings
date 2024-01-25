@@ -9707,10 +9707,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 24723,
       "NumberOfAwardsMax": 10623
+    },
+    {
+      "Time": "2024-01-25T02:58:17.0887002+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 24729,
+      "NumberOfAwardsMax": 10623
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24723,
+  "NumberOfAwards": 24729,
   "NumberOfAwardsMax": 10623,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9748,7 +9754,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1585
+      "Count": 1591
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9781,9 +9787,9 @@
       "Count": 1593
     }
   ],
-  "EOS_Progressed": 1853196,
+  "EOS_Progressed": 1853207,
   "EOS_Completed": 751,
-  "EOS_NewPlayers": 6111,
+  "EOS_NewPlayers": 6099,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -36981,6 +36987,11 @@
       "Time": "2024-01-25T02:37:25.5887344+00:00",
       "NumProgressed": 1853196,
       "NumCompleted": 751
+    },
+    {
+      "Time": "2024-01-25T03:10:27.9569681+00:00",
+      "NumProgressed": 1853207,
+      "NumCompleted": 751
     }
   ],
   "TotalAchievements": 1328,
@@ -38192,7 +38203,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 240915
+      "UsersEstimate": 240917
     },
     {
       "ID": "brooklyn_2",
@@ -41608,7 +41619,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 148256
+      "UsersEstimate": 148257
     },
     {
       "ID": "halloween_1",
@@ -41744,7 +41755,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 148256
+      "UsersEstimate": 148257
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -41958,9 +41969,9 @@
       "ID": "ignominy_7",
       "SetID": "bkjdbk8",
       "Name": "Becoming Abominable",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 3706
     },
     {
       "ID": "ignominy_75",
@@ -42704,7 +42715,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203852
+      "UsersEstimate": 203853
     },
     {
       "ID": "no_turning_back",
@@ -42712,7 +42723,7 @@
       "Name": "No Turning Back",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203852
+      "UsersEstimate": 203853
     },
     {
       "ID": "orange_1",
@@ -47600,7 +47611,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203852
+      "UsersEstimate": 203853
     },
     {
       "ID": "you_shall_not_pass",
@@ -47615,22 +47626,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1853196,
+      "Progressed": 1853207,
       "Completed": 751
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1853196,
+      "Progressed": 1853207,
       "Completed": 128
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2024-01-24T17:58:40.8533818+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:37:25.588734+00:00",
+  "LastChanged": "2024-01-25T02:58:17.0887+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:10:27.9569676+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.7387498+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:25:11.9103006+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:37:25.6013665+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:58:17.0887007+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:10:27.9686225+00:00"
 }

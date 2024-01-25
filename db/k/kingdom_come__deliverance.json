@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10293,7 +10293,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 819043,
+  "EOS_Progressed": 819044,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 1,
@@ -41963,6 +41963,11 @@
       "Time": "2024-01-25T02:37:18.4438869+00:00",
       "NumProgressed": 819043,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-25T03:10:21.2046895+00:00",
+      "NumProgressed": 819044,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 82,
@@ -42062,7 +42067,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122856
+      "UsersEstimate": 122857
     },
     {
       "ID": "Buddy",
@@ -42478,7 +42483,7 @@
       "Name": "Runt",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 65523
+      "UsersEstimate": 65524
     },
     {
       "ID": "Saviour",
@@ -42629,15 +42634,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 819043,
+      "Progressed": 819044,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-24T20:00:37.134521+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:37:18.4438867+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:10:21.2046892+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.3609649+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:26:07.4206541+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:37:18.4440845+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:59:12.5889682+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:10:21.2049085+00:00"
 }

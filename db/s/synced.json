@@ -1917,9 +1917,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90319,
+  "EOS_Progressed": 90323,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1855,
+  "EOS_NewPlayers": 1850,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -18082,6 +18082,11 @@
       "Time": "2024-01-25T02:33:18.4007583+00:00",
       "NumProgressed": 90319,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-25T03:08:13.4243861+00:00",
+      "NumProgressed": 90323,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18094,7 +18099,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42450
+      "UsersEstimate": 42452
     },
     {
       "ID": "10",
@@ -18158,7 +18163,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18967
+      "UsersEstimate": 18968
     },
     {
       "ID": "3",
@@ -18182,7 +18187,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "6",
@@ -18198,7 +18203,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24386
+      "UsersEstimate": 24387
     },
     {
       "ID": "8",
@@ -18221,7 +18226,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90319,
+      "Progressed": 90323,
       "Completed": 76
     }
   ],
@@ -18229,8 +18234,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-25T01:49:39.7636903+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:33:18.400758+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:08:13.4243858+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:25:31.9507912+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:33:18.400839+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:58:36.6529591+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:08:13.4244915+00:00"
 }

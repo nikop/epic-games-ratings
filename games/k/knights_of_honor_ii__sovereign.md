@@ -1,7 +1,7 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.35 (Ranked 836)  
+Rating: 4.35 (Ranked 837)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,6 +20,7 @@ Rating: 4.35 (Ranked 836)
 | What we’ve got here is failure to communicate | 5.00% | ~7 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~6 |
 | Do you read Sutter Cane? | 4.00% | ~6 |
+| Learn Me a Book | 4.00% | ~6 |
 | Pillars of the Earth | 4.00% | ~6 |
 | All the King's Men | 3.00% | ~4 |
 | Battle of the Four Armies | 3.00% | ~4 |
@@ -27,7 +28,6 @@ Rating: 4.35 (Ranked 836)
 | Call the Boys | 3.00% | ~4 |
 | Cut-Me-Own-Throat | 3.00% | ~4 |
 | Kingslayer | 3.00% | ~4 |
-| Learn Me a Book | 3.00% | ~4 |
 | Naught but a Seamless Victory | 3.00% | ~4 |
 | Scientia potentia es | 3.00% | ~4 |
 | ‘Tis but a scratch | 3.00% | ~4 |

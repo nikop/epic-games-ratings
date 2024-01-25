@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120846,
+  "EOS_Progressed": 120847,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26022,6 +26022,11 @@
       "Time": "2024-01-25T02:37:12.6449058+00:00",
       "NumProgressed": 120846,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-25T03:10:15.3180321+00:00",
+      "NumProgressed": 120847,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 49,
@@ -26041,7 +26046,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 93051
+      "UsersEstimate": 93052
     },
     {
       "ID": "EAwards_10",
@@ -26057,7 +26062,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32628
+      "UsersEstimate": 32629
     },
     {
       "ID": "EAwards_12",
@@ -26424,7 +26429,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120846,
+      "Progressed": 120847,
       "Completed": 62
     }
   ],
@@ -26432,8 +26437,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:37:12.6449055+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:10:15.3180318+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.1684277+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:25:28.877734+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:37:12.6450466+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:58:32.9425221+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:10:15.3182343+00:00"
 }

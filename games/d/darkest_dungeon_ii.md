@@ -43,6 +43,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Banishment | 4.00% | ~5,346 |
 | Deprogramming | 4.00% | ~5,346 |
 | Now Stay Dead | 4.00% | ~5,346 |
+| Reverse Banditry | 4.00% | ~5,346 |
 | Spelunker | 4.00% | ~5,346 |
 | Ramble On | 4.00% | ~5,346 |
 | A Clear Conscience | 4.00% | ~5,346 |
@@ -50,7 +51,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Road Trip | 4.00% | ~5,346 |
 | Hope Rekindled | 3.00% | ~4,009 |
 | Predator | 3.00% | ~4,009 |
-| Reverse Banditry | 3.00% | ~4,009 |
 | When You Want Something Done Right | 3.00% | ~4,009 |
 | Utopia | 3.00% | ~4,009 |
 | Hot Air | 3.00% | ~4,009 |

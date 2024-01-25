@@ -2,13 +2,13 @@
   "ID": "3eb832eb6d9f4496818a0b0d667420c0",
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-12-18T08:00:00+00:00",
     "PcReleaseDate": "2022-06-28T07:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430675,
+  "EOS_Progressed": 430690,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6817,
+  "EOS_NewPlayers": 6806,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4740,6 +4740,11 @@
       "Time": "2024-01-25T02:32:28.7219483+00:00",
       "NumProgressed": 430675,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T03:05:26.3081487+00:00",
+      "NumProgressed": 430690,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4760,7 +4765,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30147
+      "UsersEstimate": 30148
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4784,7 +4789,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99055
+      "UsersEstimate": 99059
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4808,7 +4813,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111976
+      "UsersEstimate": 111979
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4816,7 +4821,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94748
+      "UsersEstimate": 94752
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4848,7 +4853,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17227
+      "UsersEstimate": 17228
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4912,7 +4917,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38761
+      "UsersEstimate": 38762
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4920,7 +4925,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -4952,7 +4957,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -4960,7 +4965,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34454
+      "UsersEstimate": 34455
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4976,7 +4981,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -5056,7 +5061,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -5095,7 +5100,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 430675,
+      "Progressed": 430690,
       "Completed": 4
     }
   ],
@@ -5103,8 +5108,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-24T06:03:55.6643262+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:32:28.7219478+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:05:26.3081483+00:00",
   "LastUpdate_AppInfo": "2024-01-23T13:04:44.661281+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:30:02.4512229+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:32:28.7219984+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:03:00.7920363+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:05:26.3081942+00:00"
 }

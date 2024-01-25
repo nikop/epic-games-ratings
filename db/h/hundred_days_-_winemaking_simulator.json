@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 155,
@@ -1129,7 +1129,7 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 22014,
+  "EOS_Progressed": 22017,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 0,
@@ -18519,6 +18519,11 @@
       "Time": "2024-01-25T02:36:55.4433795+00:00",
       "NumProgressed": 22014,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-25T03:09:58.2020841+00:00",
+      "NumProgressed": 22017,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18531,7 +18536,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "a_10",
@@ -18563,7 +18568,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "a_16",
@@ -18579,7 +18584,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9686
+      "UsersEstimate": 9687
     },
     {
       "ID": "a_19",
@@ -18651,7 +18656,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "a_28",
@@ -18667,7 +18672,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "a_30",
@@ -18763,7 +18768,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "a_9",
@@ -18778,7 +18783,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 22014,
+      "Progressed": 22017,
       "Completed": 13
     }
   ],
@@ -18786,8 +18791,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-23T23:00:01.9387495+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:36:55.4433791+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:09:58.2020838+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:27:10.7439579+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:36:55.4434897+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:00:11.833131+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:09:58.2021813+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -11106,9 +11106,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 97182,
+  "EOS_Progressed": 97184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1296,
+  "EOS_NewPlayers": 1298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41161,6 +41161,11 @@
       "Time": "2024-01-25T02:37:17.1079231+00:00",
       "NumProgressed": 97182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T03:10:19.8668948+00:00",
+      "NumProgressed": 97184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -41292,7 +41297,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "God of the Arena",
@@ -41404,7 +41409,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41788
+      "UsersEstimate": 41789
     },
     {
       "ID": "Lawmaker",
@@ -41420,7 +41425,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "Mastery",
@@ -41434,9 +41439,9 @@
       "ID": "Minor Clan",
       "SetID": "den0lp1",
       "Name": "Minor Clan",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 194
     },
     {
       "ID": "Mounted Archery",
@@ -41460,7 +41465,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "Ride it like you stole it",
@@ -41524,7 +41529,7 @@
       "Name": "The king is pleased",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19436
+      "UsersEstimate": 19437
     },
     {
       "ID": "This Is Our Land",
@@ -41579,15 +41584,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 97182,
+      "Progressed": 97184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-24T22:59:10.0558813+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:37:17.1079229+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:10:19.8668945+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:26:09.5802264+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:37:17.1080699+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:59:14.7962303+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:10:19.8671101+00:00"
 }

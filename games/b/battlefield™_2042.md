@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 99.00% | ~125,196 |
-| Foot Soldier | 85.00% | ~107,492 |
+| Adapt and Overcome | 99.00% | ~125,197 |
+| Foot Soldier | 85.00% | ~107,493 |
 | Making Dunn Proud | 83.00% | ~104,963 |
-| Good Company | 82.00% | ~103,698 |
-| Showoff | 80.00% | ~101,169 |
+| Good Company | 82.00% | ~103,699 |
+| Showoff | 80.00% | ~101,170 |
 | Squad Wiper | 70.00% | ~88,523 |
-| Luck of the Irish | 69.00% | ~87,258 |
+| Luck of the Irish | 69.00% | ~87,259 |
 | Burnout | 65.00% | ~82,200 |
-| War machine | 61.00% | ~77,141 |
-| Deadshot | 61.00% | ~77,141 |
+| War machine | 61.00% | ~77,142 |
+| Deadshot | 61.00% | ~77,142 |
 | Thank you, Santa | 55.00% | ~69,554 |
-| No-one gets left behind | 48.00% | ~60,701 |
-| Dead in their tracks! | 48.00% | ~60,701 |
-| The Winner Takes It All | 48.00% | ~60,701 |
-| Going Places | 46.00% | ~58,172 |
+| No-one gets left behind | 48.00% | ~60,702 |
+| Dead in their tracks! | 48.00% | ~60,702 |
+| The Winner Takes It All | 48.00% | ~60,702 |
+| Going Places | 46.00% | ~58,173 |
 | Wrecking Crew | 41.00% | ~51,849 |
 | I'm Five by Five, B | 32.00% | ~40,468 |
 | Command and Conquest | 29.00% | ~36,674 |
@@ -39,7 +39,7 @@
 | Pack Rat | 0.30% | ~379 |
 | Escape Artist | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,461 (Ranked 95)  
+Progressed: 126,462 (Ranked 95)  
 Completed: 7 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 7 (0.01%) (Ranked 384)
 | 2024-01-22 | 125,939 | 7 |
 | 2024-01-23 | 126,191 | 7 |
 | 2024-01-24 | 126,430 | 7 |
-| 2024-01-25 | 126,461 | 7 |
+| 2024-01-25 | 126,462 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

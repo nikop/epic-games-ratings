@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9817,9 +9817,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255469,
+  "EOS_Progressed": 255471,
   "EOS_Completed": 2641,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41562,6 +41562,11 @@
       "Time": "2024-01-25T02:37:23.264439+00:00",
       "NumProgressed": 255469,
       "NumCompleted": 2641
+    },
+    {
+      "Time": "2024-01-25T03:10:26.015977+00:00",
+      "NumProgressed": 255471,
+      "NumCompleted": 2641
     }
   ],
   "TotalAchievements": 546,
@@ -41573,7 +41578,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12773
+      "UsersEstimate": 12774
     },
     {
       "ID": "objective_completed_10",
@@ -45940,21 +45945,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221743,
+      "Progressed": 221745,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255469,
+      "Progressed": 255471,
       "Completed": 2641
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T21:58:43.8356184+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:37:23.2644387+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:10:26.0159766+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:25:52.1201703+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:37:23.2667937+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:58:57.2257427+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:10:26.0184636+00:00"
 }

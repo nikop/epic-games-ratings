@@ -10967,9 +10967,9 @@
       "Count": 1726
     }
   ],
-  "EOS_Progressed": 895926,
+  "EOS_Progressed": 895934,
   "EOS_Completed": 254,
-  "EOS_NewPlayers": 4463,
+  "EOS_NewPlayers": 4455,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -39797,6 +39797,11 @@
       "Time": "2024-01-25T02:36:48.5363188+00:00",
       "NumProgressed": 895926,
       "NumCompleted": 254
+    },
+    {
+      "Time": "2024-01-25T03:09:51.4257653+00:00",
+      "NumProgressed": 895934,
+      "NumCompleted": 254
     }
   ],
   "TotalAchievements": 75,
@@ -39808,7 +39813,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 250859
+      "UsersEstimate": 250862
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -40032,7 +40037,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44796
+      "UsersEstimate": 44797
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -40128,7 +40133,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44796
+      "UsersEstimate": 44797
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -40232,7 +40237,7 @@
       "Name": "Safety Deposit Box",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -40328,7 +40333,7 @@
       "Name": "Up and Comer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 44796
+      "UsersEstimate": 44797
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -40360,7 +40365,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44796
+      "UsersEstimate": 44797
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -40400,20 +40405,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44796
+      "UsersEstimate": 44797
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 895926,
+      "Progressed": 895934,
       "Completed": 299
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 895926,
+      "Progressed": 895934,
       "Completed": 254
     }
   ],
@@ -40421,8 +40426,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2024-01-25T02:25:14.5129154+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:36:48.5363181+00:00",
+  "LastChanged_Achievements": "2024-01-25T03:09:51.425765+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:09.9158872+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:25:14.512916+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:36:48.5364956+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:58:19.7239711+00:00",
+  "LastUpdate_Achievements": "2024-01-25T03:09:51.4259161+00:00"
 }

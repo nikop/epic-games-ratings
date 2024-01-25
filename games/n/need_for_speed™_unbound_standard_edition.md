@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 84.00% | ~48,318 |
-| Fashion Killa | 81.00% | ~46,593 |
-| Cool Whip | 74.00% | ~42,566 |
+| Throwing up Tags | 84.00% | ~48,319 |
+| Fashion Killa | 81.00% | ~46,594 |
+| Cool Whip | 74.00% | ~42,567 |
 | Drop the Beat | 66.00% | ~37,965 |
-| Hey Lakeshore | 61.00% | ~35,088 |
-| Public Enemy | 60.00% | ~34,513 |
-| 100 Miles and Runnin' | 59.00% | ~33,938 |
+| Hey Lakeshore | 61.00% | ~35,089 |
+| Public Enemy | 60.00% | ~34,514 |
+| 100 Miles and Runnin' | 59.00% | ~33,939 |
 | Rebel Without a Pause | 39.00% | ~22,434 |
-| Hey Speedie! | 38.00% | ~21,858 |
-| Most Wanted | 34.00% | ~19,557 |
-| New Crew | 33.00% | ~18,982 |
+| Hey Speedie! | 38.00% | ~21,859 |
+| Most Wanted | 34.00% | ~19,558 |
+| New Crew | 33.00% | ~18,983 |
 | Serious Guap | 28.00% | ~16,106 |
 | Style it Out | 27.00% | ~15,531 |
 | Escape Artist | 27.00% | ~15,531 |
 | Rydell's Rydes | 26.00% | ~14,956 |
 | Untouchable | 26.00% | ~14,956 |
-| Oh, It's On | 24.00% | ~13,805 |
+| Oh, It's On | 24.00% | ~13,806 |
 | Cash Money Millionaire | 21.00% | ~12,080 |
 | Access All Areas | 17.00% | ~9,779 |
 | #Blessed | 17.00% | ~9,779 |
 | Lake Better Watch Out | 17.00% | ~9,779 |
 | Found Family | 13.00% | ~7,478 |
 | Kick it | 12.00% | ~6,903 |
-| In the Flow | 11.00% | ~6,327 |
-| The Collector | 11.00% | ~6,327 |
+| In the Flow | 11.00% | ~6,328 |
+| The Collector | 11.00% | ~6,328 |
 | Top Billin' | 9.00% | ~5,177 |
 | Teacher's Pet | 8.00% | ~4,602 |
 | Full House | 7.00% | ~4,027 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 0.60% | ~345 |
 | Cleaning Up | 0.60% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,522 (Ranked 123)  
+Progressed: 57,523 (Ranked 123)  
 Completed: 63 (0.11%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,4 +178,4 @@ Completed: 63 (0.11%) (Ranked 316)
 | 2024-01-22 | 57,258 | 62 |
 | 2024-01-23 | 57,386 | 63 |
 | 2024-01-24 | 57,508 | 63 |
-| 2024-01-25 | 57,522 | 63 |
+| 2024-01-25 | 57,523 | 63 |
