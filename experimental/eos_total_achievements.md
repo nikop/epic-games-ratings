@@ -859,6 +859,7 @@
 | [Olija](../games/o/olija.md) | 10 | 1,000 |
 | [Primal Survivors](../games/5/50d797d4a45a495b94e4abc016ace565.md) | 10 | 1,000 |
 | [Quiplash 2 InterLASHional](../games/3/38931bb693204b7289689de85a8e4b44.md) | 10 | 1,000 |
+| [Revenge Of The Ronin](../games/2/21edf107f297432e92d754543485ad08.md) | 10 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Sylvio And The Mountains Giants](../games/e/eeeac1c46be840b1a8977237cbeb6b09.md) | 10 | 1,000 |
 | [Thunder Ray](../games/3/3c59565688c94fa2807baaa19ed62478.md) | 10 | 1,000 |
