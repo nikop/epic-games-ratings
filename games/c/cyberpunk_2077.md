@@ -23,13 +23,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.60% | ~6,352 |
 | The Fool | 0.60% | ~6,352 |
 | The World | 0.60% | ~6,352 |
-| Arachnophobia | 0.60% | ~1,123 |
+| Judy vs Night City | 0.60% | ~6,352 |
+| Arachnophobia | 0.60% | ~1,124 |
 | To Protect and Serve | 0.50% | ~5,293 |
 | I Am The Law | 0.50% | ~5,293 |
 | The Quick and the Dead | 0.50% | ~5,293 |
 | True Warrior | 0.50% | ~5,293 |
-| Judy vs Night City | 0.50% | ~5,293 |
-| Two Heads, One Bullet | 0.40% | ~4,234 |
+| Two Heads, One Bullet | 0.40% | ~4,235 |
 | Spin Doctor | 0.40% | ~749 |
 | To Bad Decisions! | 0.30% | ~3,176 |
 | The Wandering Fool | 0.30% | ~3,176 |
@@ -40,8 +40,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.20% | ~2,117 |
 | Temperance | 0.20% | ~2,117 |
 | The Star | 0.20% | ~2,117 |
-| The APB is Not Enough | 0.20% | ~374 |
-| Dirty Deeds | 0.20% | ~374 |
+| The APB is Not Enough | 0.20% | ~375 |
+| Dirty Deeds | 0.20% | ~375 |
 | City Lights | 0.10% | ~1,059 |
 | Autojock | 0.10% | ~1,059 |
 | Frequent Flyer | 0.10% | ~1,059 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,616 (Ranked 17)  
+Progressed: 1,058,635 (Ranked 17)  
 Completed: 3,163 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,10 +354,10 @@ Completed: 3,163 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,616 | 3,163 |
+| 2024-01-25 | 1,058,635 | 3,163 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
-Sum: 519,435 (Ranked 8)  
+Sum: 519,589 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -370,7 +370,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 30,343 |
 | This game has Amazing Characters | 30,029 |
 | This game is Relaxing | 29,086 |
-| This game has Quickly Understood Controls | 28,842 |
+| This game has Quickly Understood Controls | 28,996 |
 | This game has a Creative Community | 20,172 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -746,4 +746,4 @@ Diff (max vs sum): 0
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
-| 2024-01-25 | 4.68 | - | 144,777 | 519,435 |
+| 2024-01-25 | 4.68 | - | 144,777 | 519,589 |

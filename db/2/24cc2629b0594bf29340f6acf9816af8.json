@@ -2,18 +2,20 @@
   "ID": "24cc2629b0594bf29340f6acf9816af8",
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
-    "ReleaseDate": "2099-02-01T00:00:00+00:00",
-    "PcReleaseDate": "2099-02-01T00:00:00+00:00",
+    "ReleaseDate": "2024-03-21T16:00:00+00:00",
+    "PcReleaseDate": "2024-03-21T16:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "isPrepurchase": "true"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -29,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T23:57:00.9270752+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:33.1216514+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:06:44.399584+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:38.5935527+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:05:29.491063+00:00"
 }

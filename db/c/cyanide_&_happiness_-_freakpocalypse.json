@@ -2,10 +2,10 @@
   "ID": "f0e736561b7d42d0bbd18c7ce039a151",
   "Name": "Cyanide \u0026 Happiness - Freakpocalypse (Episode 1)",
   "ProductSlug": "cyanide-happiness-freakpocalypse",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-03-11T17:00:00+00:00",
     "PcReleaseDate": "2021-03-11T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.6124809+00:00",
   "LastChanged": "2023-03-31T05:57:27.6124811+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:46.9752734+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:07.4518162+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:09:52.8173557+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:19.654719+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:09:17.7447028+00:00"
 }

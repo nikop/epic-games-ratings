@@ -2,10 +2,10 @@
   "ID": "a46b9e5fc65b4adbbc35e3b6d796f4ad",
   "Name": "Darkblade Ascent",
   "ProductSlug": "darkblade-ascent-9b6b8b",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-22T18:57:04.409386+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:42.4581709+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:09:00.8926586+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:00.9984592+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:08:36.1440773+00:00"
 }

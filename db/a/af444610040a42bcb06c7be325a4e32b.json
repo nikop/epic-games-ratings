@@ -2,10 +2,10 @@
   "ID": "af444610040a42bcb06c7be325a4e32b",
   "Name": "KunKunBeauty",
   "ProductSlug": "chickenbeauty-08b149",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-18T00:00:00+00:00",
     "PcReleaseDate": "2023-12-19T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-22T04:57:13.1393047+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:58:20.4491712+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:48.907917+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:57:59.5331045+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:45.7249625+00:00"
 }

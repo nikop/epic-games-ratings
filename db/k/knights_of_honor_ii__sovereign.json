@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -473,6 +473,11 @@
       "Time": "2024-01-25T16:06:19.577373+00:00",
       "NumProgressed": 167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:05:09.6066338+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -595,9 +600,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "columbus",
@@ -691,9 +696,9 @@
       "ID": "fighting_with_power_and_steel",
       "SetID": "41moj9p",
       "Name": "Fighting with Power and Steel",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "forth_eorlingas",
@@ -763,9 +768,9 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "he_made_it_out",
@@ -781,7 +786,7 @@
       "Name": "Help! Help! I\u2019m being repressed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "his_all_holiness",
@@ -803,9 +808,9 @@
       "ID": "his_name_is_king",
       "SetID": "41moj9p",
       "Name": "His name is King",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "holy_trinity",
@@ -1107,9 +1112,9 @@
       "ID": "the_finest_merchandise",
       "SetID": "41moj9p",
       "Name": "The finest merchandise this side of river Jordan",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "the_magnificent_nine",
@@ -1284,7 +1289,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 168,
       "Completed": 0
     }
   ],
@@ -1292,8 +1297,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:06:19.5773723+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:05:09.6066334+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:02:05.072981+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:06:19.5774993+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:46.4307116+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:05:09.6067404+00:00"
 }

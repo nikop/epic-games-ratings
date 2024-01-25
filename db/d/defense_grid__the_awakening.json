@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -2188,9 +2188,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 494782,
+  "EOS_Progressed": 494783,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31923,6 +31923,11 @@
       "Time": "2024-01-25T16:11:14.3823279+00:00",
       "NumProgressed": 494782,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T17:10:24.3216862+00:00",
+      "NumProgressed": 494783,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -31990,7 +31995,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 291921
+      "UsersEstimate": 291922
     },
     {
       "ID": "CHAS",
@@ -32030,7 +32035,7 @@
       "Name": "Close Call",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 247391
+      "UsersEstimate": 247392
     },
     {
       "ID": "COMBATTURMOIL",
@@ -32110,7 +32115,7 @@
       "Name": "Filthy Rich",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 98956
+      "UsersEstimate": 98957
     },
     {
       "ID": "FIREBUG",
@@ -32126,7 +32131,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 400773
+      "UsersEstimate": 400774
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -32134,7 +32139,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 207808
+      "UsersEstimate": 207809
     },
     {
       "ID": "FLURRY",
@@ -32190,7 +32195,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 158330
+      "UsersEstimate": 158331
     },
     {
       "ID": "GUNCRAZY",
@@ -32206,7 +32211,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385930
+      "UsersEstimate": 385931
     },
     {
       "ID": "HEADTRAUMA",
@@ -32222,7 +32227,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385930
+      "UsersEstimate": 385931
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -32246,7 +32251,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 316660
+      "UsersEstimate": 316661
     },
     {
       "ID": "KABOOM",
@@ -32270,7 +32275,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 351295
+      "UsersEstimate": 351296
     },
     {
       "ID": "LIQUIDATOR",
@@ -32334,7 +32339,7 @@
       "Name": "No Sale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 153382
+      "UsersEstimate": 153383
     },
     {
       "ID": "NOTSOFAST",
@@ -32382,7 +32387,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 242443
+      "UsersEstimate": 242444
     },
     {
       "ID": "PEWPEW",
@@ -32390,7 +32395,7 @@
       "Name": "Pew Pew",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 247391
+      "UsersEstimate": 247392
     },
     {
       "ID": "PLANETARYSERVICE",
@@ -32462,7 +32467,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 262234
+      "UsersEstimate": 262235
     },
     {
       "ID": "SAVANTGENIUS",
@@ -32518,7 +32523,7 @@
       "Name": "Surplus",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 326556
+      "UsersEstimate": 326557
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -32629,15 +32634,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 494782,
+      "Progressed": 494783,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2024-01-22T11:03:58.4021239+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:11:14.3823275+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:24.3216858+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:42.1557591+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:04:06.6962268+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:11:14.3824949+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:27.7042077+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:24.3218857+00:00"
 }

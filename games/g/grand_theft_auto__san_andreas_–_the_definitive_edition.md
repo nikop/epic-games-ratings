@@ -5,18 +5,18 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~16,073 |
-| Pay 'n' Spray | 51.00% | ~10,120 |
-| All Dressed Up for San Fierro | 26.00% | ~5,159 |
-| The American Dream | 19.00% | ~3,770 |
-| School's Out | 19.00% | ~3,770 |
-| Smooth Moves | 17.00% | ~3,373 |
-| What happens in Las Venturas... | 15.00% | ~2,976 |
-| Today Was a Good Day | 15.00% | ~2,976 |
+| Getting Started | 81.00% | ~16,074 |
+| Pay 'n' Spray | 51.00% | ~10,121 |
+| All Dressed Up for San Fierro | 26.00% | ~5,160 |
+| The American Dream | 19.00% | ~3,771 |
+| School's Out | 19.00% | ~3,771 |
+| Smooth Moves | 17.00% | ~3,374 |
+| What happens in Las Venturas... | 15.00% | ~2,977 |
+| Today Was a Good Day | 15.00% | ~2,977 |
 | Horror of the Santa Maria | 11.00% | ~2,183 |
 | Liberty City State of Mind | 10.00% | ~1,984 |
-| The End of the Line | 8.00% | ~1,587 |
-| Original Gangster | 8.00% | ~1,587 |
+| The End of the Line | 8.00% | ~1,588 |
+| Original Gangster | 8.00% | ~1,588 |
 | With Extra Dip | 7.00% | ~1,389 |
 | Saviour | 6.00% | ~1,191 |
 | They Can’t Stop All of Us | 5.00% | ~992 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.60% | ~119 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,843 (Ranked 158)  
+Progressed: 19,845 (Ranked 158)  
 Completed: 83 (0.42%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,11 +321,11 @@ Completed: 83 (0.42%) (Ranked 246)
 | 2024-01-22 | 19,799 | 82 |
 | 2024-01-23 | 19,815 | 82 |
 | 2024-01-24 | 19,836 | 83 |
-| 2024-01-25 | 19,843 | 83 |
+| 2024-01-25 | 19,845 | 83 |
 ## Awards
 Max (Great Boss Battles): 720  (Ranked 197)  
-Sum: 1,117 (Ranked 271)  
-Diff (max vs sum): -74  
+Sum: 1,119 (Ranked 270)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 720 |
@@ -334,7 +334,7 @@ Diff (max vs sum): -74
 | This game has Amazing Characters | 62 |
 | This game is Highly Recommended | 61 |
 | This game is Great for Beginners | 58 |
-| This game has Diverse Characters | 56 |
+| This game has Diverse Characters | 58 |
 | This game has Quickly Understood Controls | 47 |
 | This game is Extremely Fun | 46 |
 | This game has a Creative Community | 29 |
@@ -582,4 +582,4 @@ Diff (max vs sum): -74
 | 2024-01-22 | 4.55 | 709 | 1,095 |
 | 2024-01-23 | 4.55 | 712 | 1,102 |
 | 2024-01-24 | 4.55 | 720 | 1,116 |
-| 2024-01-25 | 4.55 | 720 | 1,117 |
+| 2024-01-25 | 4.55 | 720 | 1,119 |

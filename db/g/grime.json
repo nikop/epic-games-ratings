@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1969,9 +1969,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169634,
+  "EOS_Progressed": 169644,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 852,
+  "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24454,6 +24454,11 @@
       "Time": "2024-01-25T16:09:05.0937918+00:00",
       "NumProgressed": 169634,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2024-01-25T17:08:39.5490324+00:00",
+      "NumProgressed": 169644,
+      "NumCompleted": 470
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24800,9 +24805,9 @@
       "ID": "DEFEAT_DREAMBORN",
       "SetID": "72k7oh",
       "Name": "The Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 169
     },
     {
       "ID": "MISC_FINISHNG",
@@ -24816,38 +24821,38 @@
       "ID": "MISC_OVERLOADITEM",
       "SetID": "72k7oh",
       "Name": "Enrich",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 169
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
       "SetID": "72k7oh",
       "Name": "Intensify",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169217,
+      "Progressed": 169227,
       "Completed": 1271
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169634,
+      "Progressed": 169644,
       "Completed": 470
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-25T02:26:41.7874727+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:09:05.0937914+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:08:39.5490319+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:58.9916938+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:09:05.0939377+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:41.8978132+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:08:39.5492281+00:00"
 }

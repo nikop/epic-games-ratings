@@ -2,10 +2,10 @@
   "ID": "36bcb7861f4e48adbdb7adbe04b683e0",
   "Name": "WORLD OF ART - learn with JIGSAW PUZZLES",
   "ProductSlug": "world-of-art-learn-with-jigsaw-puzzles-c908c2",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-01-25T02:00:00+00:00",
     "PcReleaseDate": "2020-06-17T22:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42,6 +42,11 @@
       "Time": "2024-01-23T16:05:58.4868679+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:04:24.9536388+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.8160279+00:00",
@@ -52,9 +57,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "85ipd90",
       "Name": "Welcome!",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -140,7 +145,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "85ipd90",
       "Name": "To the Top!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "85ipd90",
       "Name": "I Like this game",
-      "Percentage": 133,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -188,7 +193,7 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "85ipd90",
       "Name": "I love this game",
-      "Percentage": 133,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -196,7 +201,7 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "85ipd90",
       "Name": "My Favorite game",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -212,7 +217,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "85ipd90",
       "Name": "Top Player",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -236,7 +241,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "85ipd90",
       "Name": "First Steps",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -350,13 +355,13 @@
       "Name": "Loyalty VI",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_19",
       "SetID": "85ipd90",
       "Name": "Loyalty V",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -372,7 +377,7 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "85ipd90",
       "Name": "Loyalty IV",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -716,7 +721,7 @@
       "ID": "NEW_ACHIEVEMENT_7_25",
       "SetID": "85ipd90",
       "Name": "First Autumn 2021",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -724,9 +729,9 @@
       "ID": "NEW_ACHIEVEMENT_7_26",
       "SetID": "85ipd90",
       "Name": "Spring\u006022",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_7_27",
@@ -853,13 +858,13 @@
     {
       "ID": "85ipd90",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-07T15:03:10.8160278+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:05:22.103039+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:24.9536384+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8483746+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:57:48.3690064+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:22.1031453+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:57:35.5068922+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:24.9537427+00:00"
 }

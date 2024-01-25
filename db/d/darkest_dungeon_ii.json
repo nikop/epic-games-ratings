@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11262,9 +11262,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133666,
+  "EOS_Progressed": 133670,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41447,6 +41447,11 @@
       "Time": "2024-01-25T16:11:37.568718+00:00",
       "NumProgressed": 133666,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T17:10:43.1466435+00:00",
+      "NumProgressed": 133670,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41576,9 +41581,9 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4010
+      "UsersEstimate": 5347
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -41610,7 +41615,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41762,7 +41767,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41770,7 +41775,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41834,7 +41839,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "hospital_full_service",
@@ -41850,7 +41855,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41906,7 +41911,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6683
+      "UsersEstimate": 6684
     },
     {
       "ID": "run_victory_act01",
@@ -41994,7 +41999,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "combat_kill_collector",
@@ -42042,7 +42047,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -42058,7 +42063,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -42089,21 +42094,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133666,
+      "Progressed": 133670,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8535,
+      "Progressed": 8539,
       "Completed": 830
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T14:57:32.90618+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:11:37.5687177+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:43.1466427+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:57:36.8710279+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:11:37.5689751+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:57:27.0961067+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:43.1468747+00:00"
 }

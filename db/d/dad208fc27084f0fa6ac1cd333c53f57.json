@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8069,
+  "EOS_Progressed": 8070,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -9284,6 +9284,11 @@
       "Time": "2024-01-25T16:08:47.4431547+00:00",
       "NumProgressed": 8069,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-25T17:07:06.0173941+00:00",
+      "NumProgressed": 8070,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9344,7 +9349,7 @@
       "Name": "Turn on the TV",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 4680
+      "UsersEstimate": 4681
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -9423,14 +9428,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 8069,
+      "Progressed": 8070,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:47.4431543+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:07:06.0173936+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:25.3688153+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:47.4432077+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:32.6773792+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:07:06.0174594+00:00"
 }

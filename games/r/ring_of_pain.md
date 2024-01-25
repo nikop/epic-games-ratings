@@ -31,24 +31,24 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 1.00% | ~2,435 |
 | An Offering | 1.00% | ~2,435 |
 | Not Touching You | 1.00% | ~50 |
-| Dig Your Own Grave | 0.90% | ~2,191 |
-| Who To Trust? | 0.90% | ~2,191 |
-| Walk It Off | 0.90% | ~2,191 |
-| Cold Hearted | 0.90% | ~2,191 |
-| I Am Overburdened | 0.90% | ~2,191 |
-| Shootout | 0.90% | ~2,191 |
-| Stone Touch | 0.90% | ~2,191 |
-| Toxic | 0.90% | ~2,191 |
-| Shadow Walker | 0.90% | ~2,191 |
-| Flesh Wound | 0.90% | ~2,191 |
+| Dig Your Own Grave | 0.90% | ~2,192 |
+| Who To Trust? | 0.90% | ~2,192 |
+| Walk It Off | 0.90% | ~2,192 |
+| Cold Hearted | 0.90% | ~2,192 |
+| I Am Overburdened | 0.90% | ~2,192 |
+| Shootout | 0.90% | ~2,192 |
+| Stone Touch | 0.90% | ~2,192 |
+| Toxic | 0.90% | ~2,192 |
+| Shadow Walker | 0.90% | ~2,192 |
+| Flesh Wound | 0.90% | ~2,192 |
 | Consecutive Curses | 0.80% | ~1,948 |
 | Destroy Your Fears | 0.80% | ~1,948 |
+| New Perspectives | 0.80% | ~1,948 |
 | Shapeshifting | 0.80% | ~1,948 |
-| Just Chilling | 0.70% | ~1,704 |
-| Save Our Souls | 0.70% | ~1,704 |
-| Stop Hitting Yourself | 0.70% | ~1,704 |
-| Acid Bath | 0.70% | ~1,704 |
-| New Perspectives | 0.70% | ~1,704 |
+| Just Chilling | 0.70% | ~1,705 |
+| Save Our Souls | 0.70% | ~1,705 |
+| Stop Hitting Yourself | 0.70% | ~1,705 |
+| Acid Bath | 0.70% | ~1,705 |
 | Expensive Look | 0.70% | ~35 |
 | What Doesn't Kill You | 0.70% | ~35 |
 | Shadow Spreads | 0.60% | ~1,461 |
@@ -59,13 +59,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Illuminate, Eliminate | 0.60% | ~1,461 |
 | Doing Time | 0.60% | ~1,461 |
 | Spreading Plague | 0.60% | ~1,461 |
-| Thank You, Friend | 0.50% | ~1,217 |
-| Max Damage! | 0.50% | ~1,217 |
-| A Rough Road | 0.50% | ~1,217 |
-| Berzerker | 0.50% | ~1,217 |
-| Chain Reaction | 0.50% | ~1,217 |
-| Antivenom | 0.50% | ~1,217 |
-| The Long Run | 0.50% | ~1,217 |
+| Thank You, Friend | 0.50% | ~1,218 |
+| Max Damage! | 0.50% | ~1,218 |
+| A Rough Road | 0.50% | ~1,218 |
+| Berzerker | 0.50% | ~1,218 |
+| Chain Reaction | 0.50% | ~1,218 |
+| Antivenom | 0.50% | ~1,218 |
+| The Long Run | 0.50% | ~1,218 |
 | Who Needs Luck? | 0.50% | ~25 |
 | New Game+ | 0.40% | ~974 |
 | Barbecue | 0.40% | ~974 |
@@ -76,19 +76,19 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.40% | ~974 |
 | Obsessed | 0.40% | ~974 |
 | Precious | 0.40% | ~974 |
-| Achievement Hunter | 0.30% | ~730 |
-| Challenge Increases | 0.30% | ~730 |
-| A Long Climb | 0.30% | ~730 |
-| Grave Digger | 0.30% | ~730 |
-| Soul Stash | 0.30% | ~730 |
-| Gigantic | 0.30% | ~730 |
-| Become The Nightmare | 0.30% | ~730 |
-| Trail Of Death | 0.30% | ~730 |
-| Path To Enlightenment | 0.30% | ~730 |
-| Just Looking Around | 0.30% | ~730 |
-| Fire Away! | 0.30% | ~730 |
-| Defuser | 0.30% | ~730 |
-| Sentimental Value | 0.30% | ~730 |
+| Achievement Hunter | 0.30% | ~731 |
+| Challenge Increases | 0.30% | ~731 |
+| A Long Climb | 0.30% | ~731 |
+| Grave Digger | 0.30% | ~731 |
+| Soul Stash | 0.30% | ~731 |
+| Gigantic | 0.30% | ~731 |
+| Become The Nightmare | 0.30% | ~731 |
+| Trail Of Death | 0.30% | ~731 |
+| Path To Enlightenment | 0.30% | ~731 |
+| Just Looking Around | 0.30% | ~731 |
+| Fire Away! | 0.30% | ~731 |
+| Defuser | 0.30% | ~731 |
+| Sentimental Value | 0.30% | ~731 |
 | Raw Power | 0.30% | ~15 |
 | Quick Descent | 0.20% | ~487 |
 | A Week Attempt | 0.20% | ~487 |
@@ -112,40 +112,40 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Kin | 0.20% | ~10 |
 | Brute | 0.20% | ~10 |
 | Nuclear | 0.20% | ~10 |
-| Disposal | 0.10% | ~243 |
-| Hanging On | 0.10% | ~243 |
-| A Hard Carry | 0.10% | ~243 |
-| For Science | 0.10% | ~243 |
-| Blizzard | 0.10% | ~243 |
-| Poor Choices | 0.10% | ~243 |
-| Not What I Meant | 0.10% | ~243 |
-| A Rock And A Hard Place | 0.10% | ~243 |
-| Never Too Many Hats | 0.10% | ~243 |
-| Master of Strategy | 0.10% | ~243 |
-| Good Boys | 0.10% | ~243 |
-| Need An Antidote? | 0.10% | ~243 |
-| Sprinter | 0.10% | ~243 |
-| The Tickler | 0.10% | ~243 |
-| Masochist | 0.10% | ~243 |
-| Minimalist | 0.10% | ~243 |
-| Near Death Experience | 0.10% | ~243 |
-| Down Under | 0.10% | ~243 |
-| Only The Best | 0.10% | ~243 |
-| Mastermind | 0.10% | ~243 |
-| No Swapsies | 0.10% | ~243 |
-| Ignoring Midgame | 0.10% | ~243 |
-| Quick To Pick | 0.10% | ~243 |
-| Tunnel Vision | 0.10% | ~243 |
-| Martial Master | 0.10% | ~243 |
-| Nudie Run | 0.10% | ~243 |
-| You Call That A Knife? | 0.10% | ~243 |
+| Disposal | 0.10% | ~244 |
+| Hanging On | 0.10% | ~244 |
+| A Hard Carry | 0.10% | ~244 |
+| For Science | 0.10% | ~244 |
+| Blizzard | 0.10% | ~244 |
+| Poor Choices | 0.10% | ~244 |
+| Not What I Meant | 0.10% | ~244 |
+| A Rock And A Hard Place | 0.10% | ~244 |
+| Never Too Many Hats | 0.10% | ~244 |
+| Master of Strategy | 0.10% | ~244 |
+| Good Boys | 0.10% | ~244 |
+| Need An Antidote? | 0.10% | ~244 |
+| Sprinter | 0.10% | ~244 |
+| The Tickler | 0.10% | ~244 |
+| Masochist | 0.10% | ~244 |
+| Minimalist | 0.10% | ~244 |
+| Near Death Experience | 0.10% | ~244 |
+| Down Under | 0.10% | ~244 |
+| Only The Best | 0.10% | ~244 |
+| Mastermind | 0.10% | ~244 |
+| No Swapsies | 0.10% | ~244 |
+| Ignoring Midgame | 0.10% | ~244 |
+| Quick To Pick | 0.10% | ~244 |
+| Tunnel Vision | 0.10% | ~244 |
+| Martial Master | 0.10% | ~244 |
+| Nudie Run | 0.10% | ~244 |
+| You Call That A Knife? | 0.10% | ~244 |
 | Scrounger Appreciation | 0.10% | ~5 |
 | All Natural | 0.10% | ~5 |
 | Multiclass | 0.10% | ~5 |
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,497 (Ranked 75)  
+Progressed: 243,501 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 309 (0.13%) (Ranked 309)
 | 2024-01-22 | 243,388 | 309 |
 | 2024-01-23 | 243,428 | 309 |
 | 2024-01-24 | 243,469 | 309 |
-| 2024-01-25 | 243,497 | 309 |
+| 2024-01-25 | 243,501 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,803 (Ranked 92)  

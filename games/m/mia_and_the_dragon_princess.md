@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Relight my Cannon | 39.00% | ~41 |
-| Glass Act | 37.00% | ~38 |
-| Tour Guide Extraordinaire | 36.00% | ~37 |
+| Relight my Cannon | 40.00% | ~42 |
+| Glass Act | 36.00% | ~38 |
+| Tour Guide Extraordinaire | 36.00% | ~38 |
 | Explosive End | 25.00% | ~26 |
 | A Box of Tricks | 24.00% | ~25 |
 | Puzzle Prodigy | 24.00% | ~25 |
@@ -23,8 +23,8 @@
 | Fool's Gold | 4.00% | ~4 |
 | Escape Artist | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 501)  
-Completed: 3 (2.88%) (Ranked 116)  
+Progressed: 105 (Ranked 501)  
+Completed: 3 (2.86%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,3 +86,4 @@ Completed: 3 (2.88%) (Ranked 116)
 | 2024-01-11 | 102 | 3 |
 | 2024-01-19 | 103 | 3 |
 | 2024-01-20 | 104 | 3 |
+| 2024-01-25 | 105 | 3 |

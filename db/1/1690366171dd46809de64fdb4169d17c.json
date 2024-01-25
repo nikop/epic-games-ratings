@@ -2,10 +2,10 @@
   "ID": "1690366171dd46809de64fdb4169d17c",
   "Name": "NINJA KATO 2",
   "ProductSlug": "ninja-kato-2-37fa87",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-01-21T15:00:00+00:00",
     "PcReleaseDate": "2024-01-21T15:00:00+00:00",
@@ -106,8 +106,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T02:33:32.7448769+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:05:16.9793199+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:21.6918496+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.9528621+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:58:11.8863126+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:16.9793259+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:57:53.1831032+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:21.6918564+00:00"
 }

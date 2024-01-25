@@ -13,7 +13,7 @@
 | How Low Can We Go? | 24.00% | ~390 |
 | Team Builder | 20.00% | ~325 |
 | Long Live Rock | 17.00% | ~276 |
-| Aggressive Antivirus | 15.00% | ~243 |
+| Aggressive Antivirus | 15.00% | ~244 |
 | Effective Efficiency | 13.00% | ~211 |
 | Unblurred Lines | 12.00% | ~195 |
 | Obsessively Thorough | 12.00% | ~195 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,623 (Ranked 270)  
+Progressed: 1,624 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 1,608 | 0 |
 | 2024-01-23 | 1,614 | 0 |
 | 2024-01-24 | 1,616 | 0 |
-| 2024-01-25 | 1,623 | 0 |
+| 2024-01-25 | 1,624 | 0 |

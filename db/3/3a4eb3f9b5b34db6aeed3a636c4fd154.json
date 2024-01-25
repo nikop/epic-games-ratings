@@ -2,10 +2,10 @@
   "ID": "3a4eb3f9b5b34db6aeed3a636c4fd154",
   "Name": "Quiz Time",
   "ProductSlug": "quiz-time-e4daaa",
-  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
     "PcReleaseDate": "2015-06-22T18:30:00+00:00",
@@ -108,8 +108,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-02T18:03:40.8766537+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:07:15.6671054+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:05:53.8792567+00:00",
   "LastUpdate_AppInfo": "2024-01-20T22:57:05.0575326+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:31.7114721+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:07:15.6671118+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:21.8574133+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:05:53.8792632+00:00"
 }

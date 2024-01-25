@@ -2,10 +2,10 @@
   "ID": "2247c107d7f74b8bb72445b10b6c1eae",
   "Name": "Everstorm",
   "ProductSlug": "everstorm-1ae54b",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-23T08:57:19.1984115+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:05.8874876+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:21.1254072+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:33.1733891+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:24.1588221+00:00"
 }

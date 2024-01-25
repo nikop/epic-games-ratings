@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15908,
+  "EOS_Progressed": 15909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19901,6 +19901,11 @@
       "Time": "2024-01-25T15:04:49.3054241+00:00",
       "NumProgressed": 15908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:04:17.8091652+00:00",
+      "NumProgressed": 15909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -20000,7 +20005,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -20104,14 +20109,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15908,
+      "Progressed": 15909,
       "Completed": 0
     }
   ],
@@ -20119,8 +20124,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:05:12.0467195+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:17.8091638+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8491193+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:45.090013+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:12.0468552+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:47.4364923+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:17.8092979+00:00"
 }

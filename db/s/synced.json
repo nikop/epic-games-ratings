@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1929,9 +1929,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90387,
+  "EOS_Progressed": 90389,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1788,
+  "EOS_NewPlayers": 1764,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18164,6 +18164,11 @@
       "Time": "2024-01-25T16:08:48.4483774+00:00",
       "NumProgressed": 90387,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-25T17:07:06.8126277+00:00",
+      "NumProgressed": 90389,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18176,7 +18181,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42482
+      "UsersEstimate": 42483
     },
     {
       "ID": "10",
@@ -18240,7 +18245,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18981
+      "UsersEstimate": 18982
     },
     {
       "ID": "3",
@@ -18280,7 +18285,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24404
+      "UsersEstimate": 24405
     },
     {
       "ID": "8",
@@ -18303,7 +18308,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90387,
+      "Progressed": 90389,
       "Completed": 77
     }
   ],
@@ -18311,8 +18316,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-25T13:06:04.9842638+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:48.4483769+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:07:06.8126272+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:17.4203773+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:48.4484902+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:27.1745624+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:07:06.8126914+00:00"
 }

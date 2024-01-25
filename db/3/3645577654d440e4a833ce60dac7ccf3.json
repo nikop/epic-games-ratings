@@ -2,10 +2,10 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -289,6 +289,11 @@
       "Time": "2024-01-17T18:07:00.5492563+00:00",
       "NumProgressed": 55,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:07:01.7503808+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-22T06:03:17.9237808+00:00",
@@ -491,7 +496,7 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -499,7 +504,7 @@
       "ID": "Tower1_RankA",
       "SetID": "df8cl74",
       "Name": "The First Tower: A Rank",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -507,7 +512,7 @@
       "ID": "Tower1_RankS",
       "SetID": "df8cl74",
       "Name": "The First Tower: S Rank",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -644,14 +649,14 @@
     {
       "ID": "df8cl74",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-02T01:47:17.1216415+00:00",
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:41.8921773+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:07:01.7503803+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:23.7207275+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:57:34.3707599+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:41.8922158+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:57:25.3286162+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:07:01.7504084+00:00"
 }

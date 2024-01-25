@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,280 |
+| Malpractice Assurance | 15.00% | ~1,281 |
 | Autodidact | 9.00% | ~12,030 |
-| Lost and Found | 9.00% | ~768 |
+| Lost and Found | 9.00% | ~769 |
 | This guy... again? | 8.00% | ~683 |
 | Serenity Now! | 7.00% | ~9,357 |
 | This Belongs in a Museum | 7.00% | ~9,357 |
 | Creep and Sleep | 7.00% | ~9,357 |
 | Overdue Notice | 7.00% | ~9,357 |
-| Ploughshares to Swords | 7.00% | ~597 |
+| Ploughshares to Swords | 7.00% | ~598 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,020 |
 | It Rings a Bell | 6.00% | ~8,020 |
 | Meat and Greet | 6.00% | ~8,020 |
@@ -25,12 +25,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,020 |
 | FNG | 6.00% | ~8,020 |
 | Bloody Graduation | 6.00% | ~512 |
-| Not Today! | 5.00% | ~6,683 |
-| Merry Time | 5.00% | ~6,683 |
-| Harvest Festival | 5.00% | ~6,683 |
-| Whale | 5.00% | ~6,683 |
-| A Place to Lay Your Head | 5.00% | ~6,683 |
-| Nope | 5.00% | ~6,683 |
+| Not Today! | 5.00% | ~6,684 |
+| Merry Time | 5.00% | ~6,684 |
+| Harvest Festival | 5.00% | ~6,684 |
+| Whale | 5.00% | ~6,684 |
+| A Place to Lay Your Head | 5.00% | ~6,684 |
+| Nope | 5.00% | ~6,684 |
 | Friends 'Til the End | 5.00% | ~427 |
 | Resurrection | 4.00% | ~5,347 |
 | Unleash Hell | 4.00% | ~5,347 |
@@ -39,6 +39,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 4.00% | ~5,347 |
 | Boxcar Kid | 4.00% | ~5,347 |
 | Unfulfilled Desires | 4.00% | ~5,347 |
+| Predator | 4.00% | ~5,347 |
 | Dissector | 4.00% | ~5,347 |
 | Banishment | 4.00% | ~5,347 |
 | Deprogramming | 4.00% | ~5,347 |
@@ -50,7 +51,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 4.00% | ~5,347 |
 | Road Trip | 4.00% | ~5,347 |
 | Hope Rekindled | 3.00% | ~4,010 |
-| Predator | 3.00% | ~4,010 |
 | When You Want Something Done Right | 3.00% | ~4,010 |
 | Utopia | 3.00% | ~4,010 |
 | Hot Air | 3.00% | ~4,010 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,666 (Ranked 92)  
+Progressed: 133,670 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,666 | 5 |
+| 2024-01-25 | 133,670 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
 Sum: 21,860 (Ranked 60)  

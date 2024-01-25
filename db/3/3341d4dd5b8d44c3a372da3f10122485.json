@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 43.23,
+  "EOS_Completed_Percentage": 43.07,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1774,6 +1774,11 @@
       "Time": "2024-01-23T19:04:56.8143269+00:00",
       "NumProgressed": 266,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2024-01-25T17:05:58.5194188+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 115
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1794,7 +1799,7 @@
       "Name": "Intro",
       "Percentage": 94,
       "XP": 75,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Kanalizace",
@@ -1826,7 +1831,7 @@
       "Name": "Woods",
       "Percentage": 59,
       "XP": 80,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Majak",
@@ -1856,9 +1861,9 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 75,
-      "UsersEstimate": 221
+      "UsersEstimate": 219
     },
     {
       "ID": "Snekoun",
@@ -1866,15 +1871,15 @@
       "Name": "Snailman",
       "Percentage": 82,
       "XP": 80,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 205
+      "UsersEstimate": 203
     },
     {
       "ID": "Tuleni",
@@ -1882,21 +1887,21 @@
       "Name": "Seal Peaks",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 115
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:07:21.6888401+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:05:58.5194183+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.7228603+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:36.722065+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:07:21.6888595+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:56.7677693+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:05:58.5194343+00:00"
 }

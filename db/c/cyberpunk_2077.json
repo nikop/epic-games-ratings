@@ -19008,10 +19008,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 519435,
       "NumberOfAwardsMax": 144777
+    },
+    {
+      "Time": "2024-01-25T17:03:29.5874349+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 519589,
+      "NumberOfAwardsMax": 144777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 519435,
+  "NumberOfAwards": 519589,
   "NumberOfAwardsMax": 144777,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19067,7 +19073,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28842
+      "Count": 28996
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19088,10 +19094,10 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058616,
+  "EOS_Progressed": 1058635,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4277,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 4261,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51213,6 +51219,11 @@
       "Time": "2024-01-25T16:10:10.2162637+00:00",
       "NumProgressed": 1058616,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T17:09:32.3140719+00:00",
+      "NumProgressed": 1058635,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51537,15 +51548,15 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4234
+      "UsersEstimate": 4235
     },
     {
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5293
+      "UsersEstimate": 6352
     },
     {
       "ID": "VForVendetta",
@@ -51601,7 +51612,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Easycomeeasygo",
@@ -51697,7 +51708,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "KingOfTheCups",
@@ -51745,7 +51756,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "EasyComeEasyGo",
@@ -51760,21 +51771,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058616,
+      "Progressed": 1058635,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187239,
+      "Progressed": 187258,
       "Completed": 10701
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-25T16:04:09.1460953+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:10:10.2162632+00:00",
+  "LastChanged": "2024-01-25T17:03:29.5874347+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:09:32.3140714+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:04:09.1460959+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:10:10.2164681+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:29.5874354+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:09:32.3142383+00:00"
 }

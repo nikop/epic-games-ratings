@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -201,7 +201,7 @@
   "Tags": [],
   "EOS_Progressed": 1637,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
@@ -5983,9 +5983,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 606
+      "UsersEstimate": 622
     },
     {
       "ID": "MQ08_3",
@@ -6016,8 +6016,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-23T12:03:16.4968274+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:12.9327735+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:06:39.0342166+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:04:11.1615755+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:12.9328329+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:31.0620327+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:06:39.0342657+00:00"
 }

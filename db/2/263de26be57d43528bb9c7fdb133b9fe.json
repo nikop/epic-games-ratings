@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -398,9 +398,9 @@
       "ID": "BANK_STEAL",
       "SetID": "89ki2f0",
       "Name": "See you later space turnip\u2026",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BOSS_1",
@@ -438,9 +438,9 @@
       "ID": "BOSS_FINAL",
       "SetID": "89ki2f0",
       "Name": "But at what cost...",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DARKWEB_ALL",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:06:02.733812+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:56.3689862+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:58:44.4514381+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:06:02.7338268+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:17.2133588+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:56.3690115+00:00"
 }

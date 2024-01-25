@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47734,
+  "EOS_Progressed": 47736,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19889,6 +19889,11 @@
       "Time": "2024-01-25T16:06:26.8425876+00:00",
       "NumProgressed": 47734,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T17:05:15.5302691+00:00",
+      "NumProgressed": 47736,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19948,7 +19953,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -20252,7 +20257,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3341
+      "UsersEstimate": 3342
     },
     {
       "ID": "STAYING_AIR",
@@ -20323,22 +20328,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47734,
+      "Progressed": 47736,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12571,
-      "Completed": 12571
+      "Progressed": 12573,
+      "Completed": 12573
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:06:26.8425872+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:05:15.5302685+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:03:55.3462545+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:06:26.8427081+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:19.4992567+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:05:15.5303958+00:00"
 }

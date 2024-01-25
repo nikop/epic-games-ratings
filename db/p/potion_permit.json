@@ -6,9 +6,9 @@
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -427,11 +427,11 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 1978,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Progressed": 1979,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 13,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:48.6875554+00:00",
@@ -3832,6 +3832,11 @@
       "Time": "2024-01-24T21:05:57.9791246+00:00",
       "NumProgressed": 1978,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-25T17:05:43.2074045+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 38,
@@ -3843,7 +3848,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3851,7 +3856,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3899,7 +3904,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3915,7 +3920,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3953,9 +3958,9 @@
       "ID": "ACHIEVEMENTS_15",
       "SetID": "d4o538a",
       "Name": "Friendly",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 910
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3971,7 +3976,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3979,7 +3984,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -4011,7 +4016,7 @@
       "Name": "The Capitalist",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -4099,7 +4104,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -4107,7 +4112,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -4146,16 +4151,16 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1978,
-      "Completed": 11
+      "Progressed": 1979,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-24T05:59:53.8763127+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:07:01.9836367+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:05:43.2074039+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1423657+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:05.4060096+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:07:01.9836906+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:02.5399037+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:05:43.2074469+00:00"
 }

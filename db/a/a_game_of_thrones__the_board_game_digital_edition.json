@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34292,
+  "EOS_Progressed": 34294,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31657,6 +31657,11 @@
       "Time": "2024-01-25T16:11:21.4782803+00:00",
       "NumProgressed": 34292,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-25T17:10:30.1719189+00:00",
+      "NumProgressed": 34294,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31740,7 +31745,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "1025",
@@ -31756,7 +31761,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "1027",
@@ -31764,7 +31769,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "1028",
@@ -31780,7 +31785,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "1030",
@@ -31788,7 +31793,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "1031",
@@ -31804,7 +31809,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13717
+      "UsersEstimate": 13718
     },
     {
       "ID": "1033",
@@ -31820,7 +31825,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "1035",
@@ -31836,22 +31841,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34292,
+      "Progressed": 34294,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:11:21.4782799+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:30.1719181+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:12.8648372+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:11:21.4784749+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:38.5860736+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:30.1720737+00:00"
 }

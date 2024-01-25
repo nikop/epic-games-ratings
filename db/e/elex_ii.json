@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1742,6 +1742,11 @@
       "Time": "2024-01-25T10:08:36.7580481+00:00",
       "NumProgressed": 291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:07:08.0825077+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1760,9 +1765,9 @@
       "ID": "10000ELEXIT",
       "SetID": "a1angca",
       "Name": "Banker",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "1000ELEXIT",
@@ -1866,7 +1871,7 @@
       "Name": "Globetrotter",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "50000ELEXIT",
@@ -1882,7 +1887,7 @@
       "Name": "Military Leader",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ALLCOMBAT",
@@ -1898,7 +1903,7 @@
       "Name": "Self-Sufficient",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ALLJETPACK",
@@ -2026,7 +2031,7 @@
       "Name": "Festival-goer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FINDCITY",
@@ -2042,7 +2047,7 @@
       "Name": "Best Buddy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FINDMAP",
@@ -2153,15 +2158,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:50.0137824+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:07:08.0825072+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:58:14.373998+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:50.0138476+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:57:55.0262629+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:07:08.0825544+00:00"
 }

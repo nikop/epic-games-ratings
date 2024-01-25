@@ -2,10 +2,10 @@
   "ID": "67086faf5dc74b94a46c4f3e9e7867e3",
   "Name": "Everything is going to be OK",
   "ProductSlug": "everything-is-going-to-be-ok-db21ff",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-05T07:00:00+00:00",
     "PcReleaseDate": "2018-05-02T09:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-22T07:57:48.3794827+00:00",
   "LastChanged": "2023-04-22T07:57:48.3794828+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.0102857+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:58:56.5857638+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:45.4825062+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:26.2175716+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:07:04.4079466+00:00"
 }

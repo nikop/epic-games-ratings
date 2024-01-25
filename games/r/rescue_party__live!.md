@@ -9,8 +9,8 @@
 | Life matters | 36.00% | ~99 |
 | Safety first | 31.00% | ~85 |
 | Professional team! | 23.00% | ~63 |
+| Dawn of Victory | 14.00% | ~39 |
 | Resource manager | 14.00% | ~39 |
-| Dawn of Victory | 13.00% | ~36 |
 | Team assemble | 11.00% | ~30 |
 | Give me a hand | 7.00% | ~19 |
 | Gloable operation | 4.00% | ~11 |
@@ -24,7 +24,7 @@
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 275 (Ranked 418)  
-Completed: 7 (2.55%) (Ranked 123)  
+Completed: 7 (2.55%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

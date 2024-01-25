@@ -9255,9 +9255,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762809,
+  "EOS_Progressed": 762811,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1168,
+  "EOS_NewPlayers": 1162,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35320,6 +35320,11 @@
       "Time": "2024-01-25T16:11:07.6859857+00:00",
       "NumProgressed": 762809,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-25T17:10:19.0016289+00:00",
+      "NumProgressed": 762811,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35339,7 +35344,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38140
+      "UsersEstimate": 38141
     },
     {
       "ID": "03_Vengeance_H2",
@@ -35507,7 +35512,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38140
+      "UsersEstimate": 38141
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -35595,7 +35600,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38140
+      "UsersEstimate": 38141
     },
     {
       "ID": "35_WideStrike",
@@ -35810,21 +35815,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72110,
+      "Progressed": 72112,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762809,
+      "Progressed": 762811,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-25T13:10:10.2468767+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:11:07.6859853+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:19.0016283+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:04:03.7920294+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:11:07.6861398+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:25.4997676+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:19.0018336+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "dealmaker",
       "SetID": "d4692al",
       "Name": "Devious Dealmaker",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "decorated",
@@ -431,17 +431,17 @@
       "ID": "dining",
       "SetID": "d4692al",
       "Name": "Fine Dining",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "entertainment",
       "SetID": "d4692al",
       "Name": "Exquisite Entertainment",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "exContractor",
@@ -479,9 +479,9 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "indoorlands",
@@ -495,9 +495,9 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "mass",
@@ -543,9 +543,9 @@
       "ID": "store",
       "SetID": "d4692al",
       "Name": "Luxurious Store",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "toomany",
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:04:56.5864635+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:05.9586693+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:56.0033725+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:25.4141231+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:04:56.5864888+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:17.0979307+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:05.9586951+00:00"
 }

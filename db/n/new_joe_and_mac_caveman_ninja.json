@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 404,
-  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 310,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.26,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -811,6 +811,11 @@
       "Time": "2024-01-24T09:06:22.5777469+00:00",
       "NumProgressed": 310,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-25T17:04:05.2377298+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -942,15 +947,15 @@
       "ID": "6glb5g1",
       "IsBase": true,
       "Progressed": 310,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2022-12-04T10:57:37.9087586+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:04:55.7255272+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:05.2377293+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:25.3828236+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:58:23.0384785+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:04:55.725541+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:01.3637372+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:05.2377742+00:00"
 }

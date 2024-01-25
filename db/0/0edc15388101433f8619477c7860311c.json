@@ -2,10 +2,10 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2024-01-25T08:04:17.1169618+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:04:42.7271675+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -674,9 +679,9 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "DatingAttraction",
@@ -690,7 +695,7 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
       "UsersEstimate": 73
     },
@@ -754,9 +759,9 @@
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "MoneyCamouflage",
@@ -772,7 +777,7 @@
       "Name": "Mortuary Makeup Artist",
       "Percentage": 26,
       "XP": 65,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NoOneLeft",
@@ -796,7 +801,7 @@
       "Name": "Protected by Divine Power",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "RoadToSalvation",
@@ -812,15 +817,15 @@
       "Name": "See No Evil",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 65,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "TimeManagement",
@@ -836,7 +841,7 @@
       "Name": "Waiting for Salvation",
       "Percentage": 26,
       "XP": 65,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WhoseChild",
@@ -851,14 +856,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:05:44.877641+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:42.727167+00:00",
   "LastUpdate_AppInfo": "2024-01-22T16:57:22.7565466+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:35.0618783+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:44.8776617+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:40.1163461+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:42.7271833+00:00"
 }

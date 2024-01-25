@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -934,9 +934,9 @@
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "5K",
@@ -1021,8 +1021,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:04.2214796+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:06:32.3180493+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.843362+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:20.7372935+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:04.2214957+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:13.6065689+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:06:32.3180731+00:00"
 }

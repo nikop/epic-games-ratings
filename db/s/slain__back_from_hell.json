@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44821,
+  "EOS_Progressed": 44825,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30637,6 +30637,11 @@
       "Time": "2024-01-25T16:07:27.0677299+00:00",
       "NumProgressed": 44821,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-25T17:06:02.8083387+00:00",
+      "NumProgressed": 44825,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30648,7 +30653,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -30656,7 +30661,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9412
+      "UsersEstimate": 9413
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -30800,7 +30805,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -30808,7 +30813,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -30879,7 +30884,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44821,
+      "Progressed": 44825,
       "Completed": 30
     }
   ],
@@ -30887,8 +30892,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:07:27.0677294+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:06:02.8083379+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:03:51.1417844+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:07:27.0679001+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:16.5282583+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:06:02.8084825+00:00"
 }

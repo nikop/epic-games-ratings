@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25345,
+  "EOS_Progressed": 25346,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -24389,6 +24389,11 @@
       "Time": "2024-01-25T16:05:40.3820987+00:00",
       "NumProgressed": 25345,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-25T17:04:39.1191695+00:00",
+      "NumProgressed": 25346,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24416,7 +24421,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -24472,7 +24477,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -24511,15 +24516,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25345,
+      "Progressed": 25346,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:05:40.3820981+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:39.119169+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:54.4777183+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:40.3822591+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:38.6950948+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:39.1192928+00:00"
 }

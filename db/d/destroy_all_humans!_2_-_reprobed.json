@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2141,6 +2141,11 @@
       "Time": "2024-01-24T23:09:38.3278245+00:00",
       "NumProgressed": 471,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T17:10:08.3530339+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2151,9 +2156,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2185,7 +2190,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2265,7 +2270,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2343,9 +2348,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2353,7 +2358,7 @@
       "Name": "Die Nasty",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -2489,7 +2494,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2497,14 +2502,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 2
     }
   ],
@@ -2512,8 +2517,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:10:54.4017999+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:08.3530335+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:47.8980789+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:10:54.401839+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:49.4432738+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:08.3530659+00:00"
 }

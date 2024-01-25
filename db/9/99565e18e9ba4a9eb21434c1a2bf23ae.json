@@ -2,10 +2,10 @@
   "ID": "99565e18e9ba4a9eb21434c1a2bf23ae",
   "Name": "Slide Stories - Bucky\u0027s Quest",
   "ProductSlug": "slide-stories-buckys-quest-4c9f6e",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 782,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-01-31T12:00:00+00:00",
     "PcReleaseDate": "2021-10-14T12:00:00+00:00",
@@ -144,8 +144,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-22T17:03:51.8854635+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:06:29.8501908+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:05:17.7420441+00:00",
   "LastUpdate_AppInfo": "2024-01-22T16:57:22.6152259+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:41.6657235+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:06:29.8502029+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:00.3691734+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:05:17.7420577+00:00"
 }

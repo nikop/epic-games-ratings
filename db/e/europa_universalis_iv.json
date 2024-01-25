@@ -14835,9 +14835,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 505295,
+  "EOS_Progressed": 505325,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4178,
+  "EOS_NewPlayers": 4180,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47215,6 +47215,11 @@
       "Time": "2024-01-25T16:11:49.7129765+00:00",
       "NumProgressed": 505295,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T17:10:53.3795839+00:00",
+      "NumProgressed": 505325,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47666,7 +47671,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -48250,7 +48255,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -49226,7 +49231,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -50129,21 +50134,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 505295,
+      "Progressed": 505325,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 505295,
+      "Progressed": 505325,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-25T08:58:22.133981+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:11:49.7129761+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:53.3795833+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:08.8058141+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:11:49.7139873+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:35.3855929+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:53.380611+00:00"
 }

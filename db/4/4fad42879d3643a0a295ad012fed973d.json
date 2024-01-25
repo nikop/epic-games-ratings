@@ -2,10 +2,10 @@
   "ID": "4fad42879d3643a0a295ad012fed973d",
   "Name": "Ex Natura Nature Corrupted",
   "ProductSlug": "ex-natura-nature-corrupted-d92548",
-  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-01-20T17:30:00+00:00",
     "PcReleaseDate": "2023-07-19T03:00:00+00:00",
@@ -180,8 +180,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-17T15:03:59.363264+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:05:36.2477776+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:04:36.3846621+00:00",
   "LastUpdate_AppInfo": "2024-01-24T15:57:07.4679868+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:58:33.2076739+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:36.2477872+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:08.9969986+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:36.384677+00:00"
 }

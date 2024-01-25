@@ -6,15 +6,15 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponge Smasher | 23.00% | ~280 |
-| Jellyfish Jam | 22.00% | ~268 |
-| Spatula Seeker | 22.00% | ~268 |
-| Jellyfishing | 17.00% | ~207 |
-| Sock Getter | 14.00% | ~170 |
-| Sweet Victory | 13.00% | ~158 |
-| Super Spatula Seeker | 13.00% | ~158 |
-| Star Smasher | 13.00% | ~158 |
-| Time For Tutorial | 13.00% | ~158 |
+| Sponge Smasher | 23.00% | ~281 |
+| Jellyfish Jam | 22.00% | ~269 |
+| Spatula Seeker | 22.00% | ~269 |
+| Jellyfishing | 17.00% | ~208 |
+| Sock Getter | 14.00% | ~171 |
+| Sweet Victory | 13.00% | ~159 |
+| Super Spatula Seeker | 13.00% | ~159 |
+| Star Smasher | 13.00% | ~159 |
+| Time For Tutorial | 13.00% | ~159 |
 | Uptown and Downtown | 11.00% | ~134 |
 | Squirrel Smasher | 11.00% | ~134 |
 | Surf's Up! | 11.00% | ~134 |
@@ -22,9 +22,9 @@ Number of Ratings: 76  (23.09.2022)
 | Shrimp Catcher | 9.00% | ~110 |
 | Toxic Terror | 9.00% | ~110 |
 | Hit Rock Bottom | 9.00% | ~110 |
-| Are you ready now? | 8.00% | ~97 |
-| Keep it Rolling | 8.00% | ~97 |
-| Ultra Spatula Seeker | 8.00% | ~97 |
+| Are you ready now? | 8.00% | ~98 |
+| Keep it Rolling | 8.00% | ~98 |
+| Ultra Spatula Seeker | 8.00% | ~98 |
 | Robot encyclopedia | 7.00% | ~85 |
 | Hello, Bikini Bottom | 7.00% | ~85 |
 | The Small Does Not Rule | 5.00% | ~61 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~12 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,217 (Ranked 292)  
-Completed: 12 (0.99%) (Ranked 185)  
+Progressed: 1,221 (Ranked 292)  
+Completed: 12 (0.98%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 12 (0.99%) (Ranked 185)
 | 2024-01-22 | 1,179 | 10 |
 | 2024-01-23 | 1,194 | 10 |
 | 2024-01-24 | 1,205 | 12 |
-| 2024-01-25 | 1,217 | 12 |
+| 2024-01-25 | 1,221 | 12 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 506)  
 Sum: 36 (Ranked 539)  

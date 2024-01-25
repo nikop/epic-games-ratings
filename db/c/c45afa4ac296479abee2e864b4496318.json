@@ -2,10 +2,10 @@
   "ID": "c45afa4ac296479abee2e864b4496318",
   "Name": "WW2 Bunker Simulator",
   "ProductSlug": "ww2-bunker-simulator-fe8678",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-10-10T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T15:57:08.2521249+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:28.805991+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:04:33.8723336+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:19.5943391+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:03:47.4845036+00:00"
 }

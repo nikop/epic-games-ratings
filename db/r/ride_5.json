@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3720,
+  "EOS_Progressed": 3722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9372,6 +9372,11 @@
       "Time": "2024-01-25T16:08:58.4050075+00:00",
       "NumProgressed": 3720,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:08:34.2219242+00:00",
+      "NumProgressed": 3722,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9384,7 +9389,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9416,7 +9421,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9440,7 +9445,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9470,9 +9475,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 744
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9584,7 +9589,7 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -9592,7 +9597,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9672,7 +9677,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9680,7 +9685,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9688,7 +9693,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9736,7 +9741,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9775,7 +9780,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3720,
+      "Progressed": 3722,
       "Completed": 0
     }
   ],
@@ -9783,8 +9788,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:58.405007+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:08:34.2219237+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:43.5876898+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:58.4050921+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:01.7495585+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:08:34.2220399+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5253,9 +5253,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -5909,9 +5909,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 284
     }
   ],
   "AchievementSets": [
@@ -5926,8 +5926,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-24T01:48:40.9947297+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:08:16.2757045+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:06:41.8573298+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:12.147936+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:08:16.2757995+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:23.2938602+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:06:41.8574398+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 152,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 344,
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -1854,10 +1854,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 480,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-25T16:58:52.5950409+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 481,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 480,
+  "NumberOfAwards": 481,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1913,7 +1919,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1939,8 +1945,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-01-25T15:59:31.6367712+00:00",
+  "LastChanged": "2024-01-25T16:58:52.5950407+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:30.9450985+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:31.6367731+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:04:47.5678636+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:52.5950413+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:03:58.4748192+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "CirculatoryCollapse",
@@ -595,17 +595,17 @@
       "ID": "DiagnosticMaster",
       "SetID": "aaidab7",
       "Name": "Diagnostic Master",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "DigestiveCollapse",
@@ -659,17 +659,17 @@
       "ID": "Loser",
       "SetID": "aaidab7",
       "Name": "Loser",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Lupus",
       "SetID": "aaidab7",
       "Name": "Lupus Nephritis",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LupusNephretis",
@@ -699,9 +699,9 @@
       "ID": "NervousCollapse",
       "SetID": "aaidab7",
       "Name": "Nervous Collapse",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Opportunist",
@@ -715,9 +715,9 @@
       "ID": "PrescriptionFrenzy",
       "SetID": "aaidab7",
       "Name": "Prescription Frenzy",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "Reaper",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:09:05.3527504+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:08:39.7115041+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:00:25.0072336+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:09:05.3527768+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:59:32.5199711+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:08:39.7115287+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667866,
+  "EOS_Progressed": 667867,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27687,6 +27687,11 @@
       "Time": "2024-01-25T16:11:05.0726692+00:00",
       "NumProgressed": 667866,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-25T17:10:16.8943653+00:00",
+      "NumProgressed": 667867,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27706,7 +27711,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387362
+      "UsersEstimate": 387363
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27962,7 +27967,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166966
+      "UsersEstimate": 166967
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -28081,15 +28086,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667866,
+      "Progressed": 667867,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:11:05.0726688+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:16.8943647+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:09.177208+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:11:05.0728542+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:35.6554631+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:16.8945597+00:00"
 }

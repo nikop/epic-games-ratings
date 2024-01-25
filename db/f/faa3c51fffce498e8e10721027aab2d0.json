@@ -2,10 +2,10 @@
   "ID": "faa3c51fffce498e8e10721027aab2d0",
   "Name": "Uncharted Ocean 2",
   "ProductSlug": "uncharted-ocean-2-63f76c",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-01-13T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T10:57:10.7243981+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:03:24.7684218+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:10:00.9969884+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:02:57.7842746+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:09:24.9862474+00:00"
 }

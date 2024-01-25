@@ -2,10 +2,10 @@
   "ID": "aa56a5f6ef2047bc8f6c4f9bc9bf259d",
   "Name": "Mystery Solitaire. The Black Raven",
   "ProductSlug": "mystery-solitaire-the-black-raven-65336d",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-05T21:00:00+00:00",
     "PcReleaseDate": "2019-05-06T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-13T03:58:47.1075036+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.0081546+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:03:56.9033249+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:05:02.9674119+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:20.5800023+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:04:10.6982696+00:00"
 }

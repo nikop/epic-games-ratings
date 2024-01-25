@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1357,
+  "EOS_Progressed": 1358,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -4909,6 +4909,11 @@
       "Time": "2024-01-24T04:11:56.6322806+00:00",
       "NumProgressed": 1357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T17:10:47.3163135+00:00",
+      "NumProgressed": 1358,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -5088,7 +5093,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "elemental_stones_2",
@@ -5216,7 +5221,7 @@
       "Name": "Invincible 2",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "invincible_3",
@@ -5408,7 +5413,7 @@
       "Name": "Taste of Victory 2",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "taste_of_victory_3",
@@ -5447,14 +5452,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1357,
+      "Progressed": 1358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-25T16:11:42.2815541+00:00",
+  "LastChanged_Achievements": "2024-01-25T17:10:47.316313+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:58.8758212+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:59:40.3069986+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:11:42.2816146+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:58:59.4184734+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:10:47.3163856+00:00"
 }

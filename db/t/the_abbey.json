@@ -2,10 +2,10 @@
   "ID": "e1b25c47966441e2971f57523a29756e",
   "Name": "The Abbey",
   "ProductSlug": "the-abbey-b6fbc4",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-31T00:00:00+00:00",
     "PcReleaseDate": "2008-08-25T04:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T03:57:32.7255499+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:01:55.4954226+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:04:37.9644773+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:39.3829774+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:03:50.824372+00:00"
 }

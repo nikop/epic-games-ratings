@@ -2,10 +2,10 @@
   "ID": "1460e510782245bd95c1da971156c299",
   "Name": "Werewolf: The Apocalypse \u2014 Heart of the Forest",
   "ProductSlug": "werewolf-the-apocalypse-heart-of-the-forest-2584f2",
-  "Ranking_EOS_Progress": 850,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-13T00:00:00+00:00",
     "PcReleaseDate": "2020-10-12T22:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.7757603+00:00",
   "LastChanged": "2023-03-31T05:58:28.7757605+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:25.2712115+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:03:28.9316691+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:04:34.3047093+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:03:00.8010698+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:03:47.8044655+00:00"
 }

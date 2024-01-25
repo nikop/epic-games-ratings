@@ -4,11 +4,11 @@
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 934,
   "Ranking_Popularity": 171,
-  "Ranking_PopularitySum": 134,
-  "Ranking_EOS_Progress": 850,
+  "Ranking_PopularitySum": 133,
+  "Ranking_EOS_Progress": 851,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -9025,11 +9025,17 @@
       "Rating": 4.25,
       "NumberOfAwards": 6888,
       "NumberOfAwardsMax": 960
+    },
+    {
+      "Time": "2024-01-25T17:00:56.961409+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 6896,
+      "NumberOfAwardsMax": 965
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6888,
-  "NumberOfAwardsMax": 960,
+  "NumberOfAwards": 6896,
+  "NumberOfAwardsMax": 965,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9054,7 +9060,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 960
+      "Count": 965
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9072,7 +9078,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 760
+      "Count": 763
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9123,8 +9129,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-01-25T16:03:09.7451904+00:00",
+  "LastChanged": "2024-01-25T17:00:56.9614088+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:37.9714319+00:00",
-  "LastUpdate_Ratings": "2024-01-25T16:03:09.745191+00:00",
-  "LastUpdate_Achievements": "2024-01-25T16:10:29.5781621+00:00"
+  "LastUpdate_Ratings": "2024-01-25T17:00:56.9614095+00:00",
+  "LastUpdate_Achievements": "2024-01-25T17:09:47.7536007+00:00"
 }
