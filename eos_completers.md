@@ -14,8 +14,8 @@
 | 12 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 14 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
-| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.76% |
-| 16 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.49% |
+| 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.45% |
+| 16 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.76% |
 | 17 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.34% |
@@ -199,8 +199,8 @@
 | 196 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.87% |
 | 198 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.86% |
 | 198 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.86% |
-| 200 | [Dungeons 3](games/d/dungeons_3.md) | 0.78% |
-| 200 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
+| 200 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
+| 201 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 202 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
 | 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.77% |
 | 202 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.77% |

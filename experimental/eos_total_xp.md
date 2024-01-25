@@ -797,6 +797,7 @@
 | [The House of Da Vinci 2](../games/4/4a0076f825604014b0540bb5d957d3bb.md) | 24 | 1,000 |
 | [The House of Da Vinci 3](../games/6/6bd33f792d3d4350ab80acb891597df8.md) | 30 | 1,000 |
 | [The Inheritance of Crimson Manor](../games/t/the_inheritance_of_crimson_manor.md) | 12 | 1,000 |
+| [The Inquisitor](../games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 41 | 1,000 |
 | [The Invincible](../games/t/the_invincible.md) | 29 | 1,000 |
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](../games/6/6416a7e47acb440da6f7fc0eff798318.md) | 6 | 1,000 |
 | [The Isle Tide Hotel](../games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 26 | 1,000 |
