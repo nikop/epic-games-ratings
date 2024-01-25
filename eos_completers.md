@@ -4,7 +4,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.09% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.97% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.23% |
 | 8 | [Overloop](games/o/overloop.md) | 40.00% |
@@ -56,7 +56,7 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
 | 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.51% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.39% |
-| 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
+| 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.34% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.26% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
@@ -109,7 +109,7 @@
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.20% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
 | 109 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.12% |
-| 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.11% |
+| 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.10% |
 | 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
 | 113 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -156,8 +156,8 @@
 | 154 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
 | 155 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
 | 156 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.48% |
-| 157 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
 | 157 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.45% |
+| 158 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.44% |
 | 159 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
 | 160 | [Chorus](games/c/chorus.md) | 1.39% |
 | 161 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.37% |
@@ -175,7 +175,7 @@
 | 173 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 174 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.10% |
 | 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
-| 175 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
+| 176 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.06% |
 | 177 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.05% |
 | 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.05% |
 | 177 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
@@ -298,16 +298,16 @@
 | 296 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
 | 296 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
 | 296 | [Going Medieval](games/g/going_medieval.md) | 0.17% |
-| 299 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 299 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 301 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 301 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 301 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
-| 304 | [Blanc](games/b/blanc.md) | 0.14% |
-| 304 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
-| 304 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
-| 304 | [Scathe](games/s/scathe.md) | 0.14% |
-| 304 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
+| 296 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.17% |
+| 300 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 300 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 302 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 302 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 302 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
+| 305 | [Blanc](games/b/blanc.md) | 0.14% |
+| 305 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
+| 305 | [Scathe](games/s/scathe.md) | 0.14% |
+| 305 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
 | 309 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
 | 309 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 309 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
