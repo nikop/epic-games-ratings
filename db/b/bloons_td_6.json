@@ -2,13 +2,13 @@
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -13879,10 +13879,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 52525,
       "NumberOfAwardsMax": 9899
+    },
+    {
+      "Time": "2024-01-25T16:03:27.5636428+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 52550,
+      "NumberOfAwardsMax": 9899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52525,
+  "NumberOfAwards": 52550,
   "NumberOfAwardsMax": 9899,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13920,7 +13926,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 5429
+      "Count": 5443
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13944,7 +13950,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4167
+      "Count": 4178
     },
     {
       "Text": "This game is Relaxing",
@@ -13977,8 +13983,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2024-01-25T14:03:17.5899435+00:00",
+  "LastChanged": "2024-01-25T16:03:27.5636426+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:25.9547434+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:03:04.9955913+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:06:54.0154242+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:03:27.5636432+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:07:17.6294642+00:00"
 }

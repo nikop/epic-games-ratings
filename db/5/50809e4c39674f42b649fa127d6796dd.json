@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -1642,6 +1642,11 @@
       "Time": "2024-01-25T00:08:41.9495831+00:00",
       "NumProgressed": 549,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T16:09:51.1323834+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1654,7 +1659,7 @@
       "Name": "Combo Crackerjack",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
@@ -1670,7 +1675,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -1694,7 +1699,7 @@
       "Name": "Hardened Hedgehog",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1702,15 +1707,15 @@
       "Name": "Easy Prey",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 192
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1718,7 +1723,7 @@
       "Name": "Perfect Run",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1734,7 +1739,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1758,7 +1763,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1790,7 +1795,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -1814,7 +1819,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1822,7 +1827,7 @@
       "Name": "Futile Resistance",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1830,7 +1835,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1862,7 +1867,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1870,7 +1875,7 @@
       "Name": "Ares Island Memories",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -1894,7 +1899,7 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
@@ -1910,7 +1915,7 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1934,7 +1939,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1964,23 +1969,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:09:30.5264584+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:09:51.132383+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:39.5250157+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:59:07.6566448+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:09:30.5264932+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:59:11.0978871+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:09:51.1324189+00:00"
 }

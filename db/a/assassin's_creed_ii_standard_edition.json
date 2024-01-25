@@ -2,13 +2,13 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 152,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -1848,10 +1848,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 479,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-25T15:59:31.6367728+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 480,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 479,
+  "NumberOfAwards": 480,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1865,7 +1871,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1933,8 +1939,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-01-25T07:58:30.0914611+00:00",
+  "LastChanged": "2024-01-25T15:59:31.6367712+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:30.9450985+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:59:27.949882+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:04:24.7815013+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:59:31.6367731+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:04:47.5678636+00:00"
 }

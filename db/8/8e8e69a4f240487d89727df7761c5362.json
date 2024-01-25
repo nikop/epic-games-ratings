@@ -4,8 +4,8 @@
   "ProductSlug": "wavecade-524f65",
   "Ranking_EOS_Progress": 781,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2022-07-10T02:00:00+00:00",
@@ -256,8 +256,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-21T05:04:33.1914543+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:07:02.9912568+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:07:26.4034069+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:26.5156496+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:00:39.1603181+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:07:02.9912748+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:00:42.5334358+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:07:26.4034207+00:00"
 }

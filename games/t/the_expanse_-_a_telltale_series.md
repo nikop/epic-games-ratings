@@ -7,10 +7,10 @@ Rating: 4.54 (Ranked 550)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 19.00% | ~3,664 |
 | Captain Drummer | 17.00% | ~3,278 |
-| Celebrations are in Order | 16.00% | ~3,085 |
-| Martian Music | 15.00% | ~2,892 |
-| Bosmang | 15.00% | ~2,892 |
-| Impossible Objects | 15.00% | ~2,892 |
+| Celebrations are in Order | 16.00% | ~3,086 |
+| Martian Music | 15.00% | ~2,893 |
+| Bosmang | 15.00% | ~2,893 |
+| Impossible Objects | 15.00% | ~2,893 |
 | The Pit and the Pirates | 14.00% | ~2,700 |
 | Drone Dodger | 14.00% | ~2,700 |
 | Spore Taste | 13.00% | ~2,507 |
@@ -19,8 +19,8 @@ Rating: 4.54 (Ranked 550)
 | Zen Master | 11.00% | ~576 |
 | Safe Cracker | 10.00% | ~524 |
 | Madame Undersecretary | 10.00% | ~524 |
-| Heal Thy Medic | 9.00% | ~1,735 |
-| Keep Arjun in Check | 9.00% | ~471 |
+| Heal Thy Medic | 9.00% | ~1,736 |
+| Keep Arjun in Check | 9.00% | ~472 |
 | Data Archivist | 8.00% | ~1,543 |
 | Drug Gifter | 8.00% | ~1,543 |
 | Thorston Mayer | 8.00% | ~1,543 |
@@ -31,7 +31,7 @@ Rating: 4.54 (Ranked 550)
 | Data Logger | 5.00% | ~964 |
 | Miraculous Maya | 5.00% | ~964 |
 | Data Master | 4.00% | ~771 |
-| No Belter Left Behind | 3.00% | ~578 |
+| No Belter Left Behind | 3.00% | ~579 |
 | Brother's Reaper | 2.00% | ~386 |
 | Debris Spree | 2.00% | ~386 |
 | Data Recoverer | 2.00% | ~386 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,283 (Ranked 160)  
+Progressed: 19,285 (Ranked 160)  
 Completed: 67 (0.35%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 67 (0.35%) (Ranked 258)
 | 2024-01-22 | 19,237 | 67 |
 | 2024-01-23 | 19,255 | 67 |
 | 2024-01-24 | 19,270 | 67 |
-| 2024-01-25 | 19,283 | 67 |
+| 2024-01-25 | 19,285 | 67 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -486,9 +486,9 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_FIRST_WIN",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:05:58.228179+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:06:22.3611283+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:57:47.9889233+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:05:58.2282057+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:57:52.077741+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:06:22.3611721+00:00"
 }

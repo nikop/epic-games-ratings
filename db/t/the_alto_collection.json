@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 56131,
+  "EOS_Progressed": 56132,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 842,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32959,6 +32959,11 @@
       "Time": "2024-01-25T15:08:30.0570885+00:00",
       "NumProgressed": 56131,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T16:08:52.3756368+00:00",
+      "NumProgressed": 56132,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -33122,7 +33127,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "playerPaz",
@@ -33194,7 +33199,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6174
+      "UsersEstimate": 6175
     },
     {
       "ID": "ultimate",
@@ -33266,7 +33271,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "windswept",
@@ -33281,15 +33286,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 56131,
+      "Progressed": 56132,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-25T03:59:41.946378+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:08:30.0570882+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:08:52.3756362+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.3868724+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:02:07.471575+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:08:30.0572315+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:02:11.0824229+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:08:52.375802+00:00"
 }

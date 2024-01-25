@@ -14,9 +14,9 @@
 | Reunion | 41.00% | ~44 |
 | Fluke | 36.00% | ~39 |
 | Elimination | 34.00% | ~36 |
+| Excellent Driving Skills | 33.00% | ~35 |
 | Once Bitten, Twice Shy | 33.00% | ~35 |
 | Victor's Prejudice | 33.00% | ~35 |
-| Excellent Driving Skills | 32.00% | ~34 |
 | Memento | 30.00% | ~32 |
 | Fleet-footed | 28.00% | ~30 |
 | Defeat the AI | 27.00% | ~29 |

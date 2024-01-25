@@ -4,7 +4,7 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 24,
   "Ranking_Popularity": 358,
-  "Ranking_PopularitySum": 461,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 249,
@@ -379,7 +379,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 1468,
+  "EOS_Progressed": 1469,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
@@ -4394,6 +4394,11 @@
       "Time": "2024-01-25T12:05:46.4321491+00:00",
       "NumProgressed": 1468,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T16:07:40.7318741+00:00",
+      "NumProgressed": 1469,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4502,7 +4507,7 @@
       "Name": "Discovery",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "EasternWetlands",
@@ -4604,9 +4609,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 338
     },
     {
       "ID": "Mnemosyne",
@@ -4638,7 +4643,7 @@
       "Name": "A New Beginning",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "NewMorality",
@@ -4654,7 +4659,7 @@
       "Name": "Not What It Seems",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Overload",
@@ -4662,7 +4667,7 @@
       "Name": "Overload",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Persistent",
@@ -4694,7 +4699,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "RenaissanceRobot",
@@ -4844,9 +4849,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 338
     },
     {
       "ID": "WesternDelta",
@@ -4877,7 +4882,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1468,
+      "Progressed": 1469,
       "Completed": 3
     }
   ],
@@ -4885,8 +4890,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-25T15:01:28.3159391+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:07:17.327589+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:07:40.7318736+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:01:28.3159395+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:07:17.327648+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:01:31.4392565+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:07:40.7319744+00:00"
 }

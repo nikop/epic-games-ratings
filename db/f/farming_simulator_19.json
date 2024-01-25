@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-07-20T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -13113,11 +13113,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 55765,
       "NumberOfAwardsMax": 8702
+    },
+    {
+      "Time": "2024-01-25T16:01:11.3059677+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55783,
+      "NumberOfAwardsMax": 8707
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55765,
-  "NumberOfAwardsMax": 8702,
+  "NumberOfAwards": 55783,
+  "NumberOfAwardsMax": 8707,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -13130,7 +13136,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 8702
+      "Count": 8707
     },
     {
       "Text": "This game is Educational",
@@ -13148,13 +13154,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 6188
+      "Count": 6193
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5840
+      "Count": 5848
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13198,8 +13204,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2024-01-25T14:00:53.4242143+00:00",
+  "LastChanged": "2024-01-25T16:01:11.3059674+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.1030823+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:01:07.7716067+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:06:23.2454341+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:01:11.3059685+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:06:46.8005847+00:00"
 }

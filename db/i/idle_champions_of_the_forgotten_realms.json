@@ -9829,9 +9829,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255534,
+  "EOS_Progressed": 255545,
   "EOS_Completed": 2643,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41639,6 +41639,11 @@
       "Time": "2024-01-25T15:11:30.8224403+00:00",
       "NumProgressed": 255534,
       "NumCompleted": 2643
+    },
+    {
+      "Time": "2024-01-25T16:11:50.2638709+00:00",
+      "NumProgressed": 255545,
+      "NumCompleted": 2643
     }
   ],
   "TotalAchievements": 546,
@@ -45938,7 +45943,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "objective_completed_1558",
@@ -46017,21 +46022,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221808,
+      "Progressed": 221819,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255534,
+      "Progressed": 255545,
       "Completed": 2643
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-25T09:59:26.1090127+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:11:30.8224399+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:11:50.2638705+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:00:44.6674675+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:11:30.8246471+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:00:48.2693494+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:11:50.2662805+00:00"
 }

@@ -374,9 +374,9 @@
       "ID": "BANK_DAD",
       "SetID": "89ki2f0",
       "Name": "Found dad\u0027s old stuff",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BANK_FIRST",
@@ -390,9 +390,9 @@
       "ID": "BANK_MOTHERLODE",
       "SetID": "89ki2f0",
       "Name": "JACKPOT!!!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BANK_STEAL",
@@ -430,9 +430,9 @@
       "ID": "BOSS_4",
       "SetID": "89ki2f0",
       "Name": "Killed another human...?",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BOSS_FINAL",
@@ -446,9 +446,9 @@
       "ID": "DARKWEB_ALL",
       "SetID": "89ki2f0",
       "Name": "Five star customer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DARKWEB_FIRST",
@@ -494,9 +494,9 @@
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "PHOTOS_ALL",
@@ -510,9 +510,9 @@
       "ID": "RESEARCH_ALL",
       "SetID": "89ki2f0",
       "Name": "Five head",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "RESEARCH_FIRST",
@@ -534,9 +534,9 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "UPGRADES_FIRST",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:05:38.5639438+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:06:02.733812+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:58:40.3616403+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:05:38.5639641+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:58:44.4514381+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:06:02.7338268+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1286,6 +1286,11 @@
       "Time": "2024-01-25T08:09:01.2299631+00:00",
       "NumProgressed": 314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T16:09:37.018407+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1353,7 +1358,7 @@
       "Name": "Conciliator",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1441,7 +1446,7 @@
       "Name": "Tactician",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1463,9 +1468,9 @@
       "ID": "Vanilla_CompanionMaxedOut",
       "SetID": "27kik8p",
       "Name": "Potential Unlocked",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
@@ -1847,9 +1852,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 135
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1913,7 +1918,7 @@
       "Name": "A Second Chance",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -2047,9 +2052,9 @@
       "ID": "Vanilla_UnseenPatterns",
       "SetID": "27kik8p",
       "Name": "Unseen Patterns",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_VagrusMaxedOut",
@@ -2088,7 +2093,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 0
     }
   ],
@@ -2096,8 +2101,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:09:16.1786536+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:09:37.0184063+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.8161865+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:59:23.6982606+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:09:16.1787466+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:59:27.2312175+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:09:37.0185106+00:00"
 }

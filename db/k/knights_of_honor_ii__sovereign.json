@@ -5,10 +5,10 @@
   "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -467,6 +467,11 @@
     {
       "Time": "2024-01-25T15:05:55.2779547+00:00",
       "NumProgressed": 165,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T16:06:19.577373+00:00",
+      "NumProgressed": 167,
       "NumCompleted": 0
     }
   ],
@@ -760,7 +765,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "he_made_it_out",
@@ -774,9 +779,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "his_all_holiness",
@@ -894,9 +899,9 @@
       "ID": "kingslayer",
       "SetID": "41moj9p",
       "Name": "Kingslayer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "learn_me_a_book",
@@ -992,7 +997,7 @@
       "Name": "Path of Glory",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1136,15 +1141,15 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "time_to_find_india",
@@ -1279,7 +1284,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
@@ -1287,8 +1292,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:05:55.2779543+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:06:19.5773723+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:02:01.3943346+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:05:55.2780444+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:02:05.072981+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:06:19.5774993+00:00"
 }

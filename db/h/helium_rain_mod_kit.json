@@ -4,8 +4,8 @@
   "ProductSlug": "helium-rain",
   "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T05:58:53.3569019+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:04:04.6850959+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:09:36.3069862+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:04:27.6192691+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:09:56.6032166+00:00"
 }

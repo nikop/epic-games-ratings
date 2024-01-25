@@ -1,33 +1,33 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.74 (Ranked 170)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,818 |
-| Landlord | 35.00% | ~34,038 |
-| Trained | 30.00% | ~29,175 |
-| Bannerlord | 25.00% | ~24,312 |
-| Lawmaker | 24.00% | ~23,340 |
-| Horde breaker | 22.00% | ~21,395 |
-| The king is pleased | 20.00% | ~19,450 |
-| Apple of my eye | 18.00% | ~17,505 |
-| King Solomon | 18.00% | ~17,505 |
-| This Is Our Land | 17.00% | ~16,532 |
-| Against all odds | 16.00% | ~15,560 |
-| I can do it | 16.00% | ~15,560 |
-| Duelist | 13.00% | ~12,642 |
-| God of the Arena | 12.00% | ~11,670 |
+| Lawbringer | 43.00% | ~41,821 |
+| Landlord | 35.00% | ~34,040 |
+| Trained | 30.00% | ~29,177 |
+| Bannerlord | 25.00% | ~24,314 |
+| Lawmaker | 24.00% | ~23,342 |
+| Horde breaker | 22.00% | ~21,397 |
+| The king is pleased | 20.00% | ~19,452 |
+| Apple of my eye | 18.00% | ~17,506 |
+| King Solomon | 18.00% | ~17,506 |
+| This Is Our Land | 17.00% | ~16,534 |
+| Against all odds | 16.00% | ~15,561 |
+| I can do it | 16.00% | ~15,561 |
+| Duelist | 13.00% | ~12,644 |
+| God of the Arena | 12.00% | ~11,671 |
 | Swordbearer | 11.00% | ~10,698 |
 | What have the Romans ever done for us? | 11.00% | ~10,698 |
-| Butterlord | 10.00% | ~9,725 |
-| Dynasty | 10.00% | ~9,725 |
-| I spit on your grave | 10.00% | ~9,725 |
-| Mastery | 8.00% | ~7,780 |
+| Butterlord | 10.00% | ~9,726 |
+| Dynasty | 10.00% | ~9,726 |
+| I spit on your grave | 10.00% | ~9,726 |
+| Mastery | 8.00% | ~7,781 |
 | Know your enemy | 7.00% | ~6,808 |
-| My way | 5.00% | ~4,862 |
+| My way | 5.00% | ~4,863 |
 | Crowdfunded | 4.00% | ~3,890 |
 | Crush your enemies | 4.00% | ~3,890 |
 | Veni vidi vici | 4.00% | ~3,890 |
@@ -42,10 +42,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Catch | 0.50% | ~486 |
 | Slice 'n dice | 0.40% | ~389 |
 | Ride it like you stole it | 0.30% | ~292 |
-| Explorer | 0.20% | ~194 |
-| Minor Clan | 0.20% | ~194 |
-| Mounted Archery | 0.20% | ~194 |
-| Strike! | 0.20% | ~194 |
+| Explorer | 0.20% | ~195 |
+| Minor Clan | 0.20% | ~195 |
+| Mounted Archery | 0.20% | ~195 |
+| Strike! | 0.20% | ~195 |
 | Best served cold | 0.10% | ~97 |
 | Butcher of Calradia | 0.10% | ~97 |
 | Great Granny | 0.10% | ~97 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,250 (Ranked 105)  
+Progressed: 97,258 (Ranked 105)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 96,846 | 0 |
 | 2024-01-23 | 97,011 | 0 |
 | 2024-01-24 | 97,171 | 0 |
-| 2024-01-25 | 97,250 | 0 |
+| 2024-01-25 | 97,258 | 0 |
 ## Awards
 Max (Character Customization): 8,250  (Ranked 51)  
 Sum: 17,045 (Ranked 67)  

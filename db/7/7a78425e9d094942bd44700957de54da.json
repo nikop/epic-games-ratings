@@ -4,8 +4,8 @@
   "ProductSlug": "luckygoal-201ee6",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-01-01T11:00:00+00:00",
@@ -673,8 +673,8 @@
   ],
   "FirstSeen": "2023-10-08T09:59:30.6826297+00:00",
   "FirstSeenAchievements": "2023-09-24T20:02:24.3206608+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:08:27.7312201+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:08:49.765104+00:00",
   "LastUpdate_AppInfo": "2024-01-22T04:57:12.5102285+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:00:26.7989337+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:08:27.7312433+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:00:30.3163768+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:08:49.7651268+00:00"
 }

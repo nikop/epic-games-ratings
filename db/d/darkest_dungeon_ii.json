@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11262,7 +11262,7 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133664,
+  "EOS_Progressed": 133666,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
@@ -41442,6 +41442,11 @@
       "Time": "2024-01-25T15:11:18.2956514+00:00",
       "NumProgressed": 133664,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T16:11:37.568718+00:00",
+      "NumProgressed": 133666,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41461,7 +41466,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41581,7 +41586,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41613,7 +41618,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41677,7 +41682,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41803,9 +41808,9 @@
       "ID": "hero_skill_mastery_five",
       "SetID": "64l4lke",
       "Name": "Autodidact",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10693
+      "UsersEstimate": 12030
     },
     {
       "ID": "hero_story_complete_all",
@@ -42084,21 +42089,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133664,
+      "Progressed": 133666,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8533,
+      "Progressed": 8535,
       "Completed": 830
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T14:57:32.90618+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:11:18.2956512+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:11:37.5687177+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:57:32.9061806+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:11:18.295806+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:57:36.8710279+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:11:37.5689751+00:00"
 }

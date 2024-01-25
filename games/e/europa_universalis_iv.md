@@ -17,6 +17,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Defender of the Faith | 0.30% | ~1,516 |
 | For the Glory | 0.30% | ~1,516 |
 | It's all about the money | 0.30% | ~1,516 |
+| Respected | 0.30% | ~1,516 |
 | True Catholic | 0.30% | ~1,516 |
 | Aggressive Expander | 0.20% | ~1,011 |
 | Blockader | 0.20% | ~1,011 |
@@ -24,7 +25,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.20% | ~1,011 |
 | It's all about luck | 0.20% | ~1,011 |
 | My armies are invincible! | 0.20% | ~1,011 |
-| Respected | 0.20% | ~1,011 |
 | Royal Authority | 0.20% | ~1,011 |
 | The Princess is in this Castle | 0.20% | ~1,011 |
 | Total Control | 0.20% | ~1,011 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~505 |
 | The Zoro-Austrians | 0.10% | ~505 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 505,274 (Ranked 42)  
+Progressed: 505,295 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -650,7 +650,7 @@ Completed: 2 (0.00%) (Ranked 410)
 | 2024-01-22 | 504,018 | 2 |
 | 2024-01-23 | 504,493 | 2 |
 | 2024-01-24 | 504,991 | 2 |
-| 2024-01-25 | 505,274 | 2 |
+| 2024-01-25 | 505,295 | 2 |
 ## Awards
 Max (Educational): 7,975  (Ranked 53)  
 Sum: 65,766 (Ranked 25)  

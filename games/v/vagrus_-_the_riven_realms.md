@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~182 |
-| Press-ganged | 44.00% | ~138 |
+| A Second Chance | 58.00% | ~183 |
+| Press-ganged | 43.00% | ~135 |
 | The Package | 28.00% | ~88 |
 | Randomized | 19.00% | ~60 |
 | Conquered | 19.00% | ~60 |
 | Scribe | 11.00% | ~35 |
 | Breached | 11.00% | ~35 |
-| Conciliator | 10.00% | ~31 |
-| Tactician | 10.00% | ~31 |
+| Conciliator | 10.00% | ~32 |
+| Tactician | 10.00% | ~32 |
 | Fight Another Day | 9.00% | ~28 |
 | Taskmaster | 9.00% | ~28 |
 | Acquaintance | 8.00% | ~25 |
@@ -26,17 +26,17 @@
 | Merchant | 6.00% | ~19 |
 | Strategist | 5.00% | ~16 |
 | Quartermaster | 4.00% | ~13 |
-| Potential Unlocked | 4.00% | ~13 |
 | Despised | 4.00% | ~13 |
 | Been There | 4.00% | ~13 |
 | Spiritual Journey | 4.00% | ~13 |
 | Trouble at Fort Larius | 4.00% | ~13 |
-| Unseen Patterns | 4.00% | ~13 |
 | Supercargo | 3.00% | ~9 |
+| Potential Unlocked | 3.00% | ~9 |
 | Xevarian Gambit | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
 | A Terrible Will | 3.00% | ~9 |
 | Inquisitions of Discord | 3.00% | ~9 |
+| Unseen Patterns | 3.00% | ~9 |
 | Bounty Hunter | 2.00% | ~6 |
 | Watcher | 2.00% | ~6 |
 | Huntress Unbound | 2.00% | ~6 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314 (Ranked 403)  
+Progressed: 315 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-18 | 310 | 0 |
 | 2024-01-20 | 311 | 0 |
 | 2024-01-22 | 313 | 0 |
-| 2024-01-25 | 314 | 0 |
+| 2024-01-25 | 315 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

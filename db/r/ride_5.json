@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -87,7 +87,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3719,
+  "EOS_Progressed": 3720,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -9367,6 +9367,11 @@
       "Time": "2024-01-25T15:08:36.3047783+00:00",
       "NumProgressed": 3719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T16:08:58.4050075+00:00",
+      "NumProgressed": 3720,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9387,7 +9392,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9395,7 +9400,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -9451,7 +9456,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9483,7 +9488,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9770,7 +9775,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3719,
+      "Progressed": 3720,
       "Completed": 0
     }
   ],
@@ -9778,8 +9783,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:08:36.304778+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:08:58.405007+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:59:40.2599849+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:08:36.3048419+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:59:43.5876898+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:08:58.4050921+00:00"
 }

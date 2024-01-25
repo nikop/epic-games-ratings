@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1248,
+  "EOS_Progressed": 1249,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3661,6 +3661,11 @@
       "Time": "2024-01-24T18:04:54.7182557+00:00",
       "NumProgressed": 1248,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T16:06:13.5226631+00:00",
+      "NumProgressed": 1249,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3672,7 +3677,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH001",
@@ -3728,7 +3733,7 @@
       "Name": "My little farm",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACH008",
@@ -3774,9 +3779,9 @@
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH014",
@@ -3840,7 +3845,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH022",
@@ -3856,7 +3861,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH024",
@@ -3904,7 +3909,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH030",
@@ -3928,7 +3933,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACH033",
@@ -3960,7 +3965,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH037",
@@ -4024,7 +4029,7 @@
       "Name": "Greed for gold",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH045",
@@ -4056,7 +4061,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH049",
@@ -4071,15 +4076,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1248,
+      "Progressed": 1249,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:05:49.3385439+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:06:13.5226628+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:10.9805556+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:59:19.9450604+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:05:49.3385978+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:59:23.5852542+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:06:13.5227074+00:00"
 }

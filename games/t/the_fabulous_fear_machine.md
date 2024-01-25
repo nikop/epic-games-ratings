@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 55.00% | ~51 |
-| You have three wishes left | 49.00% | ~46 |
-| The battle of Great Britain | 41.00% | ~38 |
-| Jung's dream | 40.00% | ~37 |
+| Master trainee | 55.00% | ~52 |
+| You have three wishes left | 50.00% | ~47 |
+| The battle of Great Britain | 40.00% | ~38 |
+| Jung's dream | 39.00% | ~37 |
 | Pulp! Where Monsters Dwell | 32.00% | ~30 |
 | A continent with chemistry | 32.00% | ~30 |
 | The happy farmer girl | 30.00% | ~28 |
@@ -17,10 +17,10 @@
 | The artist | 26.00% | ~24 |
 | Diagnosis: fear | 26.00% | ~24 |
 | Ambition is... blind | 26.00% | ~24 |
-| Pulp! Out of this World | 25.00% | ~23 |
-| You have two wishes left | 25.00% | ~23 |
-| Et in arcadia ego | 23.00% | ~21 |
-| Pulp! Adventures into the Unknown | 23.00% | ~21 |
+| Pulp! Out of this World | 24.00% | ~23 |
+| You have two wishes left | 24.00% | ~23 |
+| Et in arcadia ego | 22.00% | ~21 |
+| Pulp! Adventures into the Unknown | 22.00% | ~21 |
 | The seer | 20.00% | ~19 |
 | Welcome to Hellville | 20.00% | ~19 |
 | You've awakened the beast | 18.00% | ~17 |
@@ -52,8 +52,8 @@
 | Pulp! Mister Mystery | 3.00% | ~3 |
 | Pulp! The Vault of Horror | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 512)  
-Completed: 1 (1.08%) (Ranked 175)  
+Progressed: 94 (Ranked 509)  
+Completed: 1 (1.06%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,3 +105,4 @@ Completed: 1 (1.08%) (Ranked 175)
 | 2024-01-11 | 91 | 0 |
 | 2024-01-12 | 92 | 1 |
 | 2024-01-16 | 93 | 1 |
+| 2024-01-25 | 94 | 1 |

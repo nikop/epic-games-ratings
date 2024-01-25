@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25189,
+  "EOS_Progressed": 25191,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9411,6 +9411,11 @@
       "Time": "2024-01-25T10:09:38.5419641+00:00",
       "NumProgressed": 25189,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-25T16:10:08.2457454+00:00",
+      "NumProgressed": 25191,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9478,7 +9483,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -9486,7 +9491,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -9510,7 +9515,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -9542,7 +9547,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -9558,7 +9563,7 @@
       "Name": "G3 Graduation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -9614,7 +9619,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -9773,13 +9778,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25189,
+      "Progressed": 25191,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2482,
+      "Progressed": 2484,
       "Completed": 1376
     }
   ],
@@ -9787,8 +9792,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:09:48.1322783+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:10:08.245745+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.7752227+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:01:12.6553481+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:09:48.1323496+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:01:16.1843+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:10:08.2458376+00:00"
 }

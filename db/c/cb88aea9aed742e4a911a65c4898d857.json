@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12213,
+  "EOS_Progressed": 12215,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6147,6 +6147,11 @@
       "Time": "2024-01-25T15:11:19.0477049+00:00",
       "NumProgressed": 12213,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T16:11:38.187825+00:00",
+      "NumProgressed": 12215,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6159,7 +6164,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "03_TheStolenStar",
@@ -6167,7 +6172,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6175,7 +6180,7 @@
       "Name": "Trade Empire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -6255,7 +6260,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "15_Pentakill",
@@ -6271,7 +6276,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "17_TheExemplar",
@@ -6287,7 +6292,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6327,7 +6332,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "24_TheHighrise",
@@ -6487,7 +6492,7 @@
       "Name": "No Place Like Home",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6511,7 +6516,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "47_AFlame",
@@ -6678,7 +6683,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12213,
+      "Progressed": 12215,
       "Completed": 1
     }
   ],
@@ -6686,8 +6691,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:11:19.0477046+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:11:38.1878244+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:00:31.2966417+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:11:19.0477669+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:00:34.6873657+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:11:38.1879209+00:00"
 }

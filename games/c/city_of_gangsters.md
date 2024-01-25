@@ -1,11 +1,11 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.29 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,259 |
+| Corner Clout | 46.00% | ~167,260 |
 | Copacetic Coordination | 16.00% | ~58,177 |
 | Fronting the Money | 15.00% | ~54,541 |
 | The Dawn of Automation | 14.00% | ~50,905 |
@@ -18,17 +18,17 @@ Rating: 4.28 (Ranked 904)
 | Booze Baron | 11.00% | ~39,997 |
 | Friends on the Force | 10.00% | ~36,361 |
 | Neighborhood Watch | 10.00% | ~36,361 |
-| Core Corps | 8.00% | ~29,088 |
-| Sizeable Stash | 8.00% | ~29,088 |
-| Street Fighter | 7.00% | ~25,452 |
-| Friendly Gestures | 7.00% | ~25,452 |
-| People Person | 7.00% | ~25,452 |
-| Liquor Lord | 6.00% | ~21,816 |
-| Safety in Numbers | 6.00% | ~21,816 |
-| Moving Experiences | 6.00% | ~21,816 |
-| Wise Head | 6.00% | ~21,816 |
-| Show ‘em the Sugar | 6.00% | ~21,816 |
-| Killing Them Softly | 6.00% | ~21,816 |
+| Core Corps | 8.00% | ~29,089 |
+| Sizeable Stash | 8.00% | ~29,089 |
+| Street Fighter | 7.00% | ~25,453 |
+| Friendly Gestures | 7.00% | ~25,453 |
+| People Person | 7.00% | ~25,453 |
+| Liquor Lord | 6.00% | ~21,817 |
+| Safety in Numbers | 6.00% | ~21,817 |
+| Moving Experiences | 6.00% | ~21,817 |
+| Wise Head | 6.00% | ~21,817 |
+| Show ‘em the Sugar | 6.00% | ~21,817 |
+| Killing Them Softly | 6.00% | ~21,817 |
 | Street Knowledge | 5.00% | ~18,180 |
 | Oh Captain | 5.00% | ~18,180 |
 | Branching Out | 5.00% | ~18,180 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 904)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,606 (Ranked 58)  
+Progressed: 363,609 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 7 (0.00%) (Ranked 410)
 | 2024-01-22 | 363,281 | 7 |
 | 2024-01-23 | 363,415 | 7 |
 | 2024-01-24 | 363,529 | 7 |
-| 2024-01-25 | 363,606 | 7 |
+| 2024-01-25 | 363,609 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 446)  
 Sum: 276 (Ranked 396)  
@@ -525,3 +525,4 @@ Diff (max vs sum): 50
 | 2024-01-20 | 4.28 | 58 | 276 |
 | 2024-01-21 | 4.29 | 58 | 276 |
 | 2024-01-22 | 4.28 | 58 | 276 |
+| 2024-01-25 | 4.29 | 58 | 276 |

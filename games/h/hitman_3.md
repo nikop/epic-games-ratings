@@ -1,41 +1,41 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.77 (Ranked 122)  
+Rating: 4.77 (Ranked 123)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~643,489 |
-| Death From Above | 44.00% | ~615,512 |
-| Master of the Household | 37.00% | ~517,589 |
-| Death of the Party | 35.00% | ~489,611 |
-| NEXUS-47 | 32.00% | ~447,645 |
-| The Last Tango | 31.00% | ~433,656 |
-| Nightmare Fuel | 30.00% | ~419,667 |
-| The Result of Previous Training | 29.00% | ~405,678 |
-| Cleared for Field Duty | 28.00% | ~391,689 |
-| Tools of the Trade | 28.00% | ~391,689 |
-| Seizing the Opportunity | 26.00% | ~363,711 |
-| Bullet Train | 21.00% | ~293,767 |
-| Stylish Assassin | 20.00% | ~279,778 |
-| Silent Assassin | 14.00% | ~195,845 |
-| Rise Up | 12.00% | ~167,867 |
-| Evil Wine Club | 11.00% | ~153,878 |
-| Console Cowboy | 10.00% | ~139,889 |
-| Last Stop | 10.00% | ~139,889 |
-| A New Profile | 9.00% | ~125,900 |
-| Dune Raider | 8.00% | ~111,911 |
-| Full House | 8.00% | ~111,911 |
-| Train Surfing | 8.00% | ~111,911 |
-| No Stone Unturned | 7.00% | ~97,922 |
-| Family Feud | 6.00% | ~83,933 |
-| Icebreaker | 6.00% | ~83,933 |
-| Count Down From 47 | 6.00% | ~83,933 |
-| Shortcut Killer | 5.00% | ~69,944 |
-| Followed the Trails | 5.00% | ~69,944 |
-| Last Call | 5.00% | ~69,944 |
-| Rich Harvest | 5.00% | ~69,944 |
+| Unseen Assassin | 46.00% | ~643,499 |
+| Death From Above | 44.00% | ~615,521 |
+| Master of the Household | 37.00% | ~517,597 |
+| Death of the Party | 35.00% | ~489,619 |
+| NEXUS-47 | 32.00% | ~447,652 |
+| The Last Tango | 31.00% | ~433,662 |
+| Nightmare Fuel | 30.00% | ~419,673 |
+| The Result of Previous Training | 29.00% | ~405,684 |
+| Cleared for Field Duty | 28.00% | ~391,695 |
+| Tools of the Trade | 28.00% | ~391,695 |
+| Seizing the Opportunity | 26.00% | ~363,717 |
+| Bullet Train | 21.00% | ~293,771 |
+| Stylish Assassin | 20.00% | ~279,782 |
+| Silent Assassin | 14.00% | ~195,848 |
+| Rise Up | 12.00% | ~167,869 |
+| Evil Wine Club | 11.00% | ~153,880 |
+| Console Cowboy | 10.00% | ~139,891 |
+| Last Stop | 10.00% | ~139,891 |
+| A New Profile | 9.00% | ~125,902 |
+| Dune Raider | 8.00% | ~111,913 |
+| Full House | 8.00% | ~111,913 |
+| Train Surfing | 8.00% | ~111,913 |
+| No Stone Unturned | 7.00% | ~97,924 |
+| Family Feud | 6.00% | ~83,935 |
+| Icebreaker | 6.00% | ~83,935 |
+| Count Down From 47 | 6.00% | ~83,935 |
+| Shortcut Killer | 5.00% | ~69,946 |
+| Followed the Trails | 5.00% | ~69,946 |
+| Last Call | 5.00% | ~69,946 |
+| Rich Harvest | 5.00% | ~69,946 |
 | Treacherous Architecture | 4.00% | ~55,956 |
 | Stair Master | 4.00% | ~55,956 |
 | Upstairs, Downstairs | 4.00% | ~55,956 |
@@ -54,8 +54,8 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,989 |
 | The Creative Assassin | 0.70% | ~9,792 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,398,890 (Ranked 9)  
-Completed: 2,244 (0.16%) (Ranked 299)  
+Progressed: 1,398,911 (Ranked 9)  
+Completed: 2,244 (0.16%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,16 +334,16 @@ Completed: 2,244 (0.16%) (Ranked 299)
 | 2024-01-22 | 1,398,072 | 2,243 |
 | 2024-01-23 | 1,398,403 | 2,244 |
 | 2024-01-24 | 1,398,714 | 2,244 |
-| 2024-01-25 | 1,398,890 | 2,244 |
+| 2024-01-25 | 1,398,911 | 2,244 |
 ## Awards
 Max (Diverse Characters): 11,569  (Ranked 38)  
-Sum: 77,725 (Ranked 22)  
+Sum: 77,730 (Ranked 22)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 11,569 |
 | This game is Highly Recommended | 10,225 |
-| This game is Extremely Fun | 9,769 |
+| This game is Extremely Fun | 9,774 |
 | This game has Amazing Storytelling | 9,669 |
 | This game has Amazing Characters | 9,533 |
 | This game has a Creative Community | 9,116 |
@@ -746,4 +746,4 @@ Diff (max vs sum): 16
 | 2024-01-22 | 4.77 | - | 11,522 | 77,570 |
 | 2024-01-23 | 4.77 | - | 11,540 | 77,637 |
 | 2024-01-24 | 4.77 | - | 11,551 | 77,694 |
-| 2024-01-25 | 4.77 | - | 11,569 | 77,725 |
+| 2024-01-25 | 4.77 | - | 11,569 | 77,730 |

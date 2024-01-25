@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1671,9 +1671,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18710,
+  "EOS_Progressed": 18712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12876,6 +12876,11 @@
       "Time": "2024-01-25T15:07:34.0642134+00:00",
       "NumProgressed": 18710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T16:07:57.1188132+00:00",
+      "NumProgressed": 18712,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12920,7 +12925,7 @@
       "Name": "Crucial Combo",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "achievement_0006",
@@ -12928,7 +12933,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13097
+      "UsersEstimate": 13098
     },
     {
       "ID": "achievement_0007",
@@ -12936,7 +12941,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17026
+      "UsersEstimate": 17028
     },
     {
       "ID": "achievement_0008",
@@ -12944,7 +12949,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15529
+      "UsersEstimate": 15531
     },
     {
       "ID": "achievement_0009",
@@ -12960,7 +12965,7 @@
       "Name": "Network Success",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "achievement_0011",
@@ -13048,7 +13053,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12723
+      "UsersEstimate": 12724
     },
     {
       "ID": "achievement_0022",
@@ -13064,7 +13069,7 @@
       "Name": "Sharing the Love",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "achievement_0024",
@@ -13112,7 +13117,7 @@
       "Name": "Reduce",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "achievement_0030",
@@ -13120,7 +13125,7 @@
       "Name": "Reuse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "achievement_0031",
@@ -13144,7 +13149,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8607
+      "UsersEstimate": 8608
     },
     {
       "ID": "achievement_0034",
@@ -13152,7 +13157,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "achievement_0035",
@@ -13168,7 +13173,7 @@
       "Name": "Ups and Downs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "achievement_0037",
@@ -13224,7 +13229,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7858
+      "UsersEstimate": 7859
     },
     {
       "ID": "achievement_0044",
@@ -13272,14 +13277,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18710,
+      "Progressed": 18712,
       "Completed": 0
     }
   ],
@@ -13287,8 +13292,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-25T09:57:44.5071744+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:07:34.0642129+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:07:57.1188126+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:58:33.5468917+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:07:34.0643442+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:58:37.7569972+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:07:57.1189123+00:00"
 }

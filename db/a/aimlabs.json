@@ -2,13 +2,13 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2359,10 +2359,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 662,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-01-25T16:03:44.4688457+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 664,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 662,
+  "NumberOfAwards": 664,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2394,7 +2400,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 63
+      "Count": 65
     },
     {
       "Text": "This game is Educational",
@@ -2451,8 +2457,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-01-25T01:54:10.0379098+00:00",
+  "LastChanged": "2024-01-25T16:03:44.4688455+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:51.8096856+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:03:21.6140587+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:04:26.2852596+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:03:44.468846+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:04:49.0348176+00:00"
 }

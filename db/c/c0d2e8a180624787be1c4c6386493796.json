@@ -1744,9 +1744,9 @@
       "ID": "KR4_ACHIEVEMENT_FROGGER",
       "SetID": "caeik3h",
       "Name": "Crossy Froggy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "KR4_ACHIEVEMENT_GLYPTODON",
@@ -2032,9 +2032,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -2207,8 +2207,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:05:31.0523367+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:05:55.3882712+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:02:47.1579428+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:05:31.0524171+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:03:10.0213304+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:05:55.3883422+00:00"
 }

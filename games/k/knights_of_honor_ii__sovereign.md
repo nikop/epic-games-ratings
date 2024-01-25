@@ -5,27 +5,27 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 16.00% | ~26 |
+| Hail to the King, Baby | 16.00% | ~27 |
 | Bring it on! | 15.00% | ~25 |
 | Can’t Touch This | 15.00% | ~25 |
-| Help! Help! I’m being repressed | 15.00% | ~25 |
-| Path of Glory | 10.00% | ~16 |
-| There is no Nobility in Poverty | 10.00% | ~16 |
+| Help! Help! I’m being repressed | 14.00% | ~23 |
+| Path of Glory | 10.00% | ~17 |
+| There is no Nobility in Poverty | 10.00% | ~17 |
 | Full House | 8.00% | ~13 |
+| They Got What They Deserved | 7.00% | ~12 |
 | Playerxander the Great | 6.00% | ~10 |
-| They Got What They Deserved | 6.00% | ~10 |
 | Dinner Time | 5.00% | ~8 |
 | The finest merchandise this side of river Jordan | 5.00% | ~8 |
 | Big Apple | 4.00% | ~7 |
 | Call the Boys | 4.00% | ~7 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~7 |
 | Do you read Sutter Cane? | 4.00% | ~7 |
+| Kingslayer | 4.00% | ~7 |
 | Learn Me a Book | 4.00% | ~7 |
 | Pillars of the Earth | 4.00% | ~7 |
 | What we’ve got here is failure to communicate | 4.00% | ~7 |
 | All the King's Men | 3.00% | ~5 |
 | Black Sheep Wall | 3.00% | ~5 |
-| Kingslayer | 3.00% | ~5 |
 | ‘Tis but a scratch | 3.00% | ~5 |
 | A Quiet Palace | 2.00% | ~3 |
 | Battle of the Four Armies | 2.00% | ~3 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165 (Ranked 458)  
+Progressed: 167 (Ranked 457)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 165 | 0 |
+| 2024-01-25 | 167 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

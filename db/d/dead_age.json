@@ -4,8 +4,8 @@
   "ProductSlug": "dead-age-f46c67",
   "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2016-07-14T12:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.3908125+00:00",
   "LastChanged": "2023-03-31T05:57:20.3908126+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.8812532+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:58:04.9037474+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:04:52.2847005+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:58:08.9647902+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:05:15.0379057+00:00"
 }

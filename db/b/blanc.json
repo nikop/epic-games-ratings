@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4243,
+  "EOS_Progressed": 4244,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -7496,6 +7496,11 @@
       "Time": "2024-01-25T14:08:48.7499007+00:00",
       "NumProgressed": 4243,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T16:08:32.8641143+00:00",
+      "NumProgressed": 4244,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7571,7 +7576,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -7595,7 +7600,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -7610,7 +7615,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4243,
+      "Progressed": 4244,
       "Completed": 6
     }
   ],
@@ -7618,8 +7623,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:08:10.7415109+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:08:32.864114+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:35.0592598+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:02:01.1723099+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:08:10.741551+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:02:04.7260728+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:08:32.8641556+00:00"
 }

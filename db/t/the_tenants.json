@@ -2,13 +2,13 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
     "PcReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -321,9 +321,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9800,
+  "EOS_Progressed": 9801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2024-01-19T14:08:13.0316498+00:00",
       "NumProgressed": 9800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T16:09:26.5930047+00:00",
+      "NumProgressed": 9801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 86,
@@ -1829,21 +1834,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9800,
+      "Progressed": 9801,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-12-26T15:02:37.7996527+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:09:05.408827+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:09:26.5930044+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.6130439+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:03:01.5068232+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:09:05.408921+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:03:24.2066856+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:09:26.5930903+00:00"
 }

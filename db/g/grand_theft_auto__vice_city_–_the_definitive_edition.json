@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1074,7 +1074,7 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16691,
+  "EOS_Progressed": 16692,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 5,
@@ -18994,6 +18994,11 @@
       "Time": "2024-01-25T15:11:06.3489184+00:00",
       "NumProgressed": 16691,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-25T16:11:25.4184886+00:00",
+      "NumProgressed": 16692,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -19109,7 +19114,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7177
+      "UsersEstimate": 7178
     },
     {
       "ID": "ACH15",
@@ -19213,15 +19218,15 @@
       "Name": "Grand Theft Auto",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH28",
       "SetID": "9llo822",
       "Name": "Bloodstained Hands",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH29",
@@ -19276,7 +19281,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16691,
+      "Progressed": 16692,
       "Completed": 109
     }
   ],
@@ -19284,8 +19289,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:11:06.3489182+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:11:25.4184882+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:59:39.2408155+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:11:06.3490157+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:59:42.7897362+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:11:25.4185853+00:00"
 }

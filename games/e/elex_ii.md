@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,15 +18,15 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 23.00% | ~67 |
 | Long-Haul Flyer | 22.00% | ~64 |
 | Family Reunion | 22.00% | ~64 |
+| Banker | 19.00% | ~55 |
 | Pass A38 | 19.00% | ~55 |
 | Eternal Oblivion | 19.00% | ~55 |
-| Banker | 18.00% | ~52 |
 | Globetrotter | 17.00% | ~49 |
 | Storyteller | 16.00% | ~47 |
 | Berserker | 16.00% | ~47 |
+| Perfectionist | 14.00% | ~41 |
 | Hunter | 14.00% | ~41 |
 | Lover | 14.00% | ~41 |
-| Perfectionist | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Alb | 12.00% | ~35 |
 | Free as a Bird | 11.00% | ~32 |

@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.74 (Ranked 170)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 209  (23.09.2022)
 | Don't draw dicks pls | 85.00% | ~2,100 |
 | Mission Unlikely | 85.00% | ~2,100 |
 | Ripped | 84.00% | ~2,075 |
-| Beat the big arena | 82.00% | ~2,025 |
+| Beat the big arena | 83.00% | ~2,050 |
 | Force Cube | 82.00% | ~2,025 |
 | Got Battery | 81.00% | ~2,001 |
 | Guard Distracted | 80.00% | ~1,976 |

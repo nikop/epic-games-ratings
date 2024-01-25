@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253817,
+  "EOS_Progressed": 253818,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24972,6 +24972,11 @@
       "Time": "2024-01-25T14:11:36.1112744+00:00",
       "NumProgressed": 253817,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T16:11:28.1831491+00:00",
+      "NumProgressed": 253818,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -25087,7 +25092,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50763
+      "UsersEstimate": 50764
     },
     {
       "ID": "didYourTime",
@@ -25159,7 +25164,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134523
+      "UsersEstimate": 134524
     },
     {
       "ID": "indegestible",
@@ -25183,7 +25188,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65992
+      "UsersEstimate": 65993
     },
     {
       "ID": "justABit",
@@ -25215,7 +25220,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35534
+      "UsersEstimate": 35535
     },
     {
       "ID": "myFirstRunbow",
@@ -25223,7 +25228,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126908
+      "UsersEstimate": 126909
     },
     {
       "ID": "notScared",
@@ -25350,7 +25355,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253817,
+      "Progressed": 253818,
       "Completed": 6
     }
   ],
@@ -25358,8 +25363,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:11:08.943902+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:11:28.1831486+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:59:23.1934134+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:11:08.9440158+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:59:26.7508084+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:11:28.1833014+00:00"
 }

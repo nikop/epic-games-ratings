@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22735,
+  "EOS_Progressed": 22736,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14941,6 +14941,11 @@
       "Time": "2024-01-25T15:10:59.8746595+00:00",
       "NumProgressed": 22735,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-25T16:11:19.2986803+00:00",
+      "NumProgressed": 22736,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15056,7 +15061,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -15120,7 +15125,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15184,7 +15189,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6138
+      "UsersEstimate": 6139
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15327,13 +15332,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22735,
+      "Progressed": 22736,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10661,
+      "Progressed": 10662,
       "Completed": 29
     }
   ],
@@ -15341,8 +15346,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:10:59.8746592+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:11:19.2986797+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:03:57.3027571+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:10:59.8747271+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:04:19.7974735+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:11:19.2987651+00:00"
 }

@@ -17,7 +17,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.90% | ~2,300 |
 | Friendly Imps | 0.90% | ~2,300 |
 | Pure Energy | 0.80% | ~2,044 |
-| Welcome to Sigil | 0.80% | ~1,774 |
+| Welcome to Sigil | 0.80% | ~1,775 |
 | A Persistent Buzzing | 0.70% | ~1,789 |
 | Fast Food | 0.70% | ~1,553 |
 | Maddening | 0.60% | ~1,533 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,534 (Ranked 71)  
+Progressed: 255,545 (Ranked 71)  
 Completed: 2,643 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -833,7 +833,7 @@ Completed: 2,643 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
-| 2024-01-25 | 255,534 | 2,643 |
+| 2024-01-25 | 255,545 | 2,643 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,633 (Ranked 42)  

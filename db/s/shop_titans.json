@@ -8341,9 +8341,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152770,
+  "EOS_Progressed": 152773,
   "EOS_Completed": 364,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -38136,6 +38136,11 @@
       "Time": "2024-01-25T15:10:17.3569741+00:00",
       "NumProgressed": 152770,
       "NumCompleted": 364
+    },
+    {
+      "Time": "2024-01-25T16:10:37.1656707+00:00",
+      "NumProgressed": 152773,
+      "NumCompleted": 364
     }
   ],
   "TotalAchievements": 112,
@@ -38147,7 +38152,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "advlevel02",
@@ -38283,7 +38288,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "boss02",
@@ -38315,7 +38320,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18332
+      "UsersEstimate": 18333
     },
     {
       "ID": "chest02",
@@ -38451,7 +38456,7 @@
       "Name": "Where it Hurts",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "damage02",
@@ -38699,7 +38704,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "jackslot02",
@@ -38771,7 +38776,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "loot02",
@@ -38803,7 +38808,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "master02",
@@ -38963,7 +38968,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18332
+      "UsersEstimate": 18333
     },
     {
       "ID": "twinenchant01",
@@ -39042,15 +39047,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152770,
+      "Progressed": 152773,
       "Completed": 364
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-25T13:10:21.2699146+00:00",
-  "LastChanged_Achievements": "2024-01-25T15:10:17.3569738+00:00",
+  "LastChanged_Achievements": "2024-01-25T16:10:37.1656703+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-25T15:03:55.9823856+00:00",
-  "LastUpdate_Achievements": "2024-01-25T15:10:17.3571774+00:00"
+  "LastUpdate_Ratings": "2024-01-25T16:04:18.4994243+00:00",
+  "LastUpdate_Achievements": "2024-01-25T16:10:37.1658925+00:00"
 }

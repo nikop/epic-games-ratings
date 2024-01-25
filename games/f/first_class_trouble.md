@@ -4,12 +4,12 @@
 Rating: 4.47 (Ranked 669)  
 ## Awards
 Max (Great for Quick Sessions): 151  (Ranked 336)  
-Sum: 823 (Ranked 294)  
-Diff (max vs sum): 42  
+Sum: 825 (Ranked 293)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 151 |
-| This game is Great for Beginners | 134 |
+| This game is Great for Beginners | 136 |
 | This game is Highly Recommended | 101 |
 | This game is Extremely Fun | 93 |
 | This game has Amazing Storytelling | 93 |
@@ -223,4 +223,4 @@ Diff (max vs sum): 42
 | 2024-01-22 | 4.47 | 149 | 816 |
 | 2024-01-23 | 4.47 | 149 | 818 |
 | 2024-01-24 | 4.47 | 149 | 819 |
-| 2024-01-25 | 4.47 | 151 | 823 |
+| 2024-01-25 | 4.47 | 151 | 825 |
