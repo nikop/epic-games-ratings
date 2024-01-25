@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 84.00% | ~48,319 |
-| Fashion Killa | 81.00% | ~46,594 |
-| Cool Whip | 74.00% | ~42,567 |
-| Drop the Beat | 66.00% | ~37,965 |
-| Hey Lakeshore | 61.00% | ~35,089 |
-| Public Enemy | 60.00% | ~34,514 |
-| 100 Miles and Runnin' | 59.00% | ~33,939 |
-| Rebel Without a Pause | 39.00% | ~22,434 |
-| Hey Speedie! | 38.00% | ~21,859 |
+| Throwing up Tags | 84.00% | ~48,321 |
+| Fashion Killa | 81.00% | ~46,595 |
+| Cool Whip | 74.00% | ~42,568 |
+| Drop the Beat | 66.00% | ~37,966 |
+| Hey Lakeshore | 61.00% | ~35,090 |
+| Public Enemy | 60.00% | ~34,515 |
+| 100 Miles and Runnin' | 59.00% | ~33,940 |
+| Rebel Without a Pause | 39.00% | ~22,435 |
+| Hey Speedie! | 38.00% | ~21,860 |
 | Most Wanted | 34.00% | ~19,558 |
 | New Crew | 33.00% | ~18,983 |
-| Serious Guap | 28.00% | ~16,106 |
-| Style it Out | 27.00% | ~15,531 |
-| Escape Artist | 27.00% | ~15,531 |
+| Serious Guap | 28.00% | ~16,107 |
+| Style it Out | 27.00% | ~15,532 |
+| Escape Artist | 27.00% | ~15,532 |
 | Rydell's Rydes | 26.00% | ~14,956 |
 | Untouchable | 26.00% | ~14,956 |
 | Oh, It's On | 24.00% | ~13,806 |
@@ -33,9 +33,9 @@
 | Teacher's Pet | 8.00% | ~4,602 |
 | Full House | 7.00% | ~4,027 |
 | Superstar | 7.00% | ~4,027 |
-| B for My Name | 6.00% | ~3,451 |
-| Bring Your A Game | 6.00% | ~3,451 |
-| Mixtape | 6.00% | ~3,451 |
+| B for My Name | 6.00% | ~3,452 |
+| Bring Your A Game | 6.00% | ~3,452 |
+| Mixtape | 6.00% | ~3,452 |
 | Flow Master | 5.00% | ~2,876 |
 | Heaven Spot | 2.00% | ~1,150 |
 | The Bear Champ | 1.00% | ~575 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 0.60% | ~345 |
 | Cleaning Up | 0.60% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,523 (Ranked 123)  
+Progressed: 57,525 (Ranked 123)  
 Completed: 63 (0.11%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,4 +178,4 @@ Completed: 63 (0.11%) (Ranked 316)
 | 2024-01-22 | 57,258 | 62 |
 | 2024-01-23 | 57,386 | 63 |
 | 2024-01-24 | 57,508 | 63 |
-| 2024-01-25 | 57,523 | 63 |
+| 2024-01-25 | 57,525 | 63 |

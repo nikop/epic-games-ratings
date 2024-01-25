@@ -5,15 +5,15 @@ Rating: 4.08 (Ranked 1,037)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,440 |
+| Victor | 93.00% | ~4,441 |
 | World Map | 78.00% | ~3,724 |
-| Temple of Eternals | 56.00% | ~2,673 |
-| Prestigious | 52.00% | ~2,482 |
-| Fellowship Power | 42.00% | ~2,005 |
+| Temple of Eternals | 56.00% | ~2,674 |
+| Prestigious | 52.00% | ~2,483 |
+| Fellowship Power | 42.00% | ~2,006 |
 | Full Party | 31.00% | ~1,480 |
 | Guild Power | 22.00% | ~1,050 |
 | Prestigious x10 | 20.00% | ~955 |
-| The game is on | 18.00% | ~859 |
+| The game is on | 18.00% | ~860 |
 | Exotic Merchant | 16.00% | ~764 |
 | Dragon Clicker | 15.00% | ~716 |
 | Miner Clicker | 15.00% | ~716 |
@@ -27,7 +27,7 @@ Rating: 4.08 (Ranked 1,037)
 | Natural Talent | 11.00% | ~525 |
 | Superior | 11.00% | ~525 |
 | The Unstoppable | 11.00% | ~525 |
-| Scientist | 10.00% | ~477 |
+| Scientist | 10.00% | ~478 |
 | Doing My Part | 9.00% | ~430 |
 | The power of Awakening | 9.00% | ~430 |
 | Challenger | 8.00% | ~382 |
@@ -61,12 +61,12 @@ Rating: 4.08 (Ranked 1,037)
 | The Alchemist | 4.00% | ~191 |
 | Arena Challenger | 3.00% | ~143 |
 | Ebony Jungle Liberator | 3.00% | ~143 |
-| Enchanting skill x5 | 2.00% | ~95 |
-| Gear Enchanting | 2.00% | ~95 |
-| Guardian Master | 2.00% | ~95 |
-| Mythic Power | 2.00% | ~95 |
-| Pokerface | 2.00% | ~95 |
-| What lies behind the bush | 2.00% | ~95 |
+| Enchanting skill x5 | 2.00% | ~96 |
+| Gear Enchanting | 2.00% | ~96 |
+| Guardian Master | 2.00% | ~96 |
+| Mythic Power | 2.00% | ~96 |
+| Pokerface | 2.00% | ~96 |
+| What lies behind the bush | 2.00% | ~96 |
 | Cauldron Liberator | 1.00% | ~48 |
 | Conqueror | 1.00% | ~48 |
 | Titan Power | 1.00% | ~48 |
@@ -78,10 +78,10 @@ Rating: 4.08 (Ranked 1,037)
 | Training makes a Pro player | 0.80% | ~38 |
 | Beast War Machines | 0.70% | ~33 |
 | Ultimate War Machines | 0.50% | ~24 |
-| Jewel Enchanting | 0.10% | ~5 |
+| Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,774 (Ranked 211)  
+Progressed: 4,775 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,6 +356,7 @@ Completed: 2 (0.04%) (Ranked 360)
 | 2024-01-22 | 4,742 | 2 |
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
+| 2024-01-25 | 4,775 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 486)  
 Sum: 162 (Ranked 446)  

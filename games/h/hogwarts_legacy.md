@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 152)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,938 |
-| First Class Student | 29.00% | ~112,319 |
-| Troll with the Punches | 27.00% | ~104,573 |
-| A Keen Sense of Spell | 24.00% | ~92,954 |
-| A Talent for Spending | 20.00% | ~77,461 |
-| That's a Keeper | 19.00% | ~73,588 |
-| Loom for Improvement | 16.00% | ~61,969 |
-| Followed the Butterflies | 15.00% | ~58,096 |
-| The Defender of Dragons | 14.00% | ~54,223 |
-| Challenge Accepted | 14.00% | ~54,223 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,940 |
+| First Class Student | 29.00% | ~112,320 |
+| Troll with the Punches | 27.00% | ~104,574 |
+| A Keen Sense of Spell | 24.00% | ~92,955 |
+| A Talent for Spending | 20.00% | ~77,462 |
+| That's a Keeper | 19.00% | ~73,589 |
+| Loom for Improvement | 16.00% | ~61,970 |
+| Followed the Butterflies | 15.00% | ~58,097 |
+| The Defender of Dragons | 14.00% | ~54,224 |
+| Challenge Accepted | 14.00% | ~54,224 |
 | The Hallowed Hero | 13.00% | ~50,350 |
 | Coasting Along | 13.00% | ~50,350 |
 | Grappling with a Graphorn | 12.00% | ~46,477 |
@@ -29,12 +29,12 @@ Rating: 4.75 (Ranked 152)
 | Beast Friends | 8.00% | ~30,985 |
 | The Root of the Problem | 8.00% | ~30,985 |
 | The Gryffindor in the Graveyard | 8.00% | ~30,985 |
-| The Seeker of Knowledge | 7.00% | ~27,111 |
-| The Toast of the Town | 7.00% | ~27,111 |
-| Third Time's a Charm | 7.00% | ~27,111 |
-| Going Through the Potions | 6.00% | ~23,238 |
-| The Ends Petrify the Means | 6.00% | ~23,238 |
-| The Wise Owl | 6.00% | ~23,238 |
+| The Seeker of Knowledge | 7.00% | ~27,112 |
+| The Toast of the Town | 7.00% | ~27,112 |
+| Third Time's a Charm | 7.00% | ~27,112 |
+| Going Through the Potions | 6.00% | ~23,239 |
+| The Ends Petrify the Means | 6.00% | ~23,239 |
+| The Wise Owl | 6.00% | ~23,239 |
 | Put Down Roots | 4.00% | ~15,492 |
 | The Auror's Apprentice | 4.00% | ~15,492 |
 | Room with a View | 4.00% | ~15,492 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 152)
 | The Nature of the Beast | 0.70% | ~2,711 |
 | Collector's Edition | 0.40% | ~1,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,307 (Ranked 56)  
+Progressed: 387,311 (Ranked 56)  
 Completed: 588 (0.15%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,15 +331,15 @@ Completed: 588 (0.15%) (Ranked 301)
 | 2024-01-22 | 386,850 | 583 |
 | 2024-01-23 | 387,074 | 585 |
 | 2024-01-24 | 387,280 | 588 |
-| 2024-01-25 | 387,307 | 588 |
+| 2024-01-25 | 387,311 | 588 |
 ## Awards
 Max (Character Customization): 32,437  (Ranked 16)  
-Sum: 66,781 (Ranked 24)  
+Sum: 66,860 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 32,437 |
-| This game has Great Boss Battles | 17,143 |
+| This game has Great Boss Battles | 17,222 |
 | This game is Great for Beginners | 1,947 |
 | This game has Amazing Storytelling | 1,859 |
 | This game is Extremely Fun | 1,850 |
@@ -660,4 +660,4 @@ Diff (max vs sum): -8
 | 2024-01-22 | 4.75 | 32,228 | 66,082 |
 | 2024-01-23 | 4.75 | 32,342 | 66,428 |
 | 2024-01-24 | 4.75 | 32,437 | 66,757 |
-| 2024-01-25 | 4.75 | 32,437 | 66,781 |
+| 2024-01-25 | 4.75 | 32,437 | 66,860 |

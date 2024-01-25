@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -14071,10 +14071,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 66781,
       "NumberOfAwardsMax": 32437
+    },
+    {
+      "Time": "2024-01-25T03:59:07.8368561+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 66860,
+      "NumberOfAwardsMax": 32437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66781,
+  "NumberOfAwards": 66860,
   "NumberOfAwardsMax": 32437,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14088,7 +14094,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 17143
+      "Count": 17222
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -14151,9 +14157,9 @@
       "Count": 1140
     }
   ],
-  "EOS_Progressed": 387307,
+  "EOS_Progressed": 387311,
   "EOS_Completed": 588,
-  "EOS_NewPlayers": 2052,
+  "EOS_NewPlayers": 2047,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -44586,6 +44592,11 @@
       "Time": "2024-01-25T03:09:30.4812611+00:00",
       "NumProgressed": 387307,
       "NumCompleted": 588
+    },
+    {
+      "Time": "2024-01-25T04:09:30.3219548+00:00",
+      "NumProgressed": 387311,
+      "NumCompleted": 588
     }
   ],
   "TotalAchievements": 45,
@@ -44597,7 +44608,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 123938
+      "UsersEstimate": 123940
     },
     {
       "ID": "PFA_10",
@@ -44637,7 +44648,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 27111
+      "UsersEstimate": 27112
     },
     {
       "ID": "PFA_15",
@@ -44653,7 +44664,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 54223
+      "UsersEstimate": 54224
     },
     {
       "ID": "PFA_17",
@@ -44685,7 +44696,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27111
+      "UsersEstimate": 27112
     },
     {
       "ID": "PFA_20",
@@ -44701,7 +44712,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 54223
+      "UsersEstimate": 54224
     },
     {
       "ID": "PFA_22",
@@ -44717,7 +44728,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 92954
+      "UsersEstimate": 92955
     },
     {
       "ID": "PFA_24",
@@ -44725,7 +44736,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 61969
+      "UsersEstimate": 61970
     },
     {
       "ID": "PFA_25",
@@ -44749,7 +44760,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 23238
+      "UsersEstimate": 23239
     },
     {
       "ID": "PFA_28",
@@ -44765,7 +44776,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 27111
+      "UsersEstimate": 27112
     },
     {
       "ID": "PFA_3",
@@ -44781,7 +44792,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 77461
+      "UsersEstimate": 77462
     },
     {
       "ID": "PFA_31",
@@ -44821,7 +44832,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 58096
+      "UsersEstimate": 58097
     },
     {
       "ID": "PFA_36",
@@ -44877,7 +44888,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 23238
+      "UsersEstimate": 23239
     },
     {
       "ID": "PFA_42",
@@ -44917,7 +44928,7 @@
       "Name": "The Wise Owl",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23238
+      "UsersEstimate": 23239
     },
     {
       "ID": "PFA_6",
@@ -44925,7 +44936,7 @@
       "Name": "First Class Student",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 112319
+      "UsersEstimate": 112320
     },
     {
       "ID": "PFA_7",
@@ -44933,7 +44944,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 104573
+      "UsersEstimate": 104574
     },
     {
       "ID": "PFA_8",
@@ -44941,7 +44952,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 73588
+      "UsersEstimate": 73589
     },
     {
       "ID": "PFA_9",
@@ -44956,16 +44967,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 387307,
+      "Progressed": 387311,
       "Completed": 588
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-01-25T02:59:16.8270545+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:09:30.4812608+00:00",
+  "LastChanged": "2024-01-25T03:59:07.8368559+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:09:30.3219544+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.2606186+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:59:16.8270551+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:09:30.481479+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:59:07.8368565+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:09:30.3220902+00:00"
 }

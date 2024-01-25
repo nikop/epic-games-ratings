@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~107,079 |
-| Struck A Pose | 82.00% | ~105,789 |
-| Look At Him Go | 70.00% | ~90,308 |
-| On Rails Experience | 46.00% | ~59,345 |
-| A Daring Devil | 44.00% | ~56,765 |
-| Break the Bank | 34.00% | ~43,864 |
-| It Took Two | 33.00% | ~42,574 |
-| Bug Sized Relaxation | 15.00% | ~19,352 |
-| Plastic Prison Breakers | 13.00% | ~16,771 |
-| Terror Of The Seven Seas | 11.00% | ~14,191 |
-| Realize Your Art | 8.00% | ~10,321 |
-| Force Triangulated | 8.00% | ~10,321 |
-| Meditation Maestro | 8.00% | ~10,321 |
-| Lost And Found | 7.00% | ~9,031 |
-| Something Fishy | 7.00% | ~9,031 |
-| Snackosaurus | 6.00% | ~7,741 |
-| Platforming Prodigy | 6.00% | ~7,741 |
+| Fried Friendship | 83.00% | ~107,094 |
+| Struck A Pose | 82.00% | ~105,804 |
+| Look At Him Go | 70.00% | ~90,320 |
+| On Rails Experience | 46.00% | ~59,353 |
+| A Daring Devil | 44.00% | ~56,773 |
+| Break the Bank | 34.00% | ~43,870 |
+| It Took Two | 33.00% | ~42,580 |
+| Bug Sized Relaxation | 15.00% | ~19,354 |
+| Plastic Prison Breakers | 13.00% | ~16,774 |
+| Terror Of The Seven Seas | 11.00% | ~14,193 |
+| Realize Your Art | 8.00% | ~10,322 |
+| Force Triangulated | 8.00% | ~10,322 |
+| Meditation Maestro | 8.00% | ~10,322 |
+| Lost And Found | 7.00% | ~9,032 |
+| Something Fishy | 7.00% | ~9,032 |
+| Snackosaurus | 6.00% | ~7,742 |
+| Platforming Prodigy | 6.00% | ~7,742 |
 | Mood Swing | 5.00% | ~6,451 |
-| Faraway Frequencies | 3.00% | ~3,870 |
-| Minigame Megalomania | 2.00% | ~2,580 |
+| Faraway Frequencies | 3.00% | ~3,871 |
+| Minigame Megalomania | 2.00% | ~2,581 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,011 (Ranked 93)  
+Progressed: 129,029 (Ranked 93)  
 Completed: 319 (0.25%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,4 +157,4 @@ Completed: 319 (0.25%) (Ranked 277)
 | 2024-01-22 | 127,069 | 306 |
 | 2024-01-23 | 128,029 | 309 |
 | 2024-01-24 | 128,980 | 318 |
-| 2024-01-25 | 129,011 | 319 |
+| 2024-01-25 | 129,029 | 319 |

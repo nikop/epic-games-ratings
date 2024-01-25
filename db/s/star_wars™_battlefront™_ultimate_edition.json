@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3133,
+  "EOS_Progressed": 3134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8594,6 +8594,11 @@
       "Time": "2024-01-24T21:11:16.3641663+00:00",
       "NumProgressed": 3133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T04:10:20.0953128+00:00",
+      "NumProgressed": 3134,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8830,7 +8835,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "achievement_36",
@@ -8878,7 +8883,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "achievement_41",
@@ -9109,13 +9114,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3133,
+      "Progressed": 3134,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3133,
+      "Progressed": 3134,
       "Completed": 1
     }
   ],
@@ -9123,8 +9128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:10:21.3932436+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:10:20.0953127+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:58:50.851523+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:10:21.3933188+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:58:42.6076532+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:10:20.0953956+00:00"
 }

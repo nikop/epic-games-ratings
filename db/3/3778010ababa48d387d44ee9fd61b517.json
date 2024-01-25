@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "A_AVATAR",
       "SetID": "324h56e",
       "Name": "The Avatar",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "A_CHAINBOLT",
@@ -791,9 +791,9 @@
       "ID": "A_HUNT_2 hunt (0-5)",
       "SetID": "324h56e",
       "Name": "Bigger Game Hunter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "A_ITEM_DROPS",
@@ -967,9 +967,9 @@
       "ID": "A_WASP",
       "SetID": "324h56e",
       "Name": "Splat",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_WORKER",
@@ -998,8 +998,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:08:35.7973206+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:08:36.0870441+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:15.0895709+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:59:34.4431245+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:08:35.797346+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:59:25.2531032+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:08:36.0870681+00:00"
 }

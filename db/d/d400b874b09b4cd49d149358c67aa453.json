@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 760,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2794,6 +2794,11 @@
       "Time": "2024-01-23T17:06:04.9741597+00:00",
       "NumProgressed": 759,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T04:06:06.892399+00:00",
+      "NumProgressed": 760,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2854,7 +2859,7 @@
       "Name": "I love customers",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2870,7 +2875,7 @@
       "Name": "I can fix that",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2884,9 +2889,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -2950,7 +2955,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2974,7 +2979,7 @@
       "Name": "Unpacked",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -3013,14 +3018,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 760,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:05:54.1150451+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:06:06.8923987+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.3210844+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:02:39.7392082+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:05:54.1150853+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:02:56.43872+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:06:06.8924666+00:00"
 }

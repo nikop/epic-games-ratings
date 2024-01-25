@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,344 |
-| I've Had Enough! | 15.00% | ~19,008 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,939 |
-| Seasoned Fighter | 9.00% | ~11,405 |
+| All Grown Up! | 20.00% | ~25,346 |
+| I've Had Enough! | 15.00% | ~19,010 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,940 |
+| Seasoned Fighter | 9.00% | ~11,406 |
 | All For One and One For All | 8.00% | ~10,138 |
-| Home Sweet Home? | 6.00% | ~7,603 |
+| Home Sweet Home? | 6.00% | ~7,604 |
 | A New Age | 5.00% | ~6,336 |
 | Oh Baby, A Triple | 3.00% | ~3,802 |
 | Master of Disguise | 3.00% | ~3,802 |
 | Symbiotic | 3.00% | ~3,802 |
-| Battle Hardened | 2.00% | ~2,534 |
-| Double Punch! | 2.00% | ~2,534 |
-| It's Mayhem! | 2.00% | ~2,534 |
-| Right back at'cha | 2.00% | ~2,534 |
-| Spectacular Finisher | 2.00% | ~2,534 |
+| Battle Hardened | 2.00% | ~2,535 |
+| Double Punch! | 2.00% | ~2,535 |
+| It's Mayhem! | 2.00% | ~2,535 |
+| Right back at'cha | 2.00% | ~2,535 |
+| Spectacular Finisher | 2.00% | ~2,535 |
 | Cautious Veteran | 1.00% | ~1,267 |
 | Katamari | 1.00% | ~1,267 |
 | Martyrdom | 1.00% | ~1,267 |
 | Zero-sum Game | 1.00% | ~1,267 |
-| Ninja Reflex | 0.90% | ~1,140 |
+| Ninja Reflex | 0.90% | ~1,141 |
 | Taste Your Own Medicine | 0.80% | ~1,014 |
 | This is GigaBash! | 0.50% | ~634 |
 | Sidetracked... | 0.50% | ~634 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 601)
 | What's Mine is Yours | 0.10% | ~127 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,722 (Ranked 94)  
+Progressed: 126,730 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 126,105 | 0 |
 | 2024-01-23 | 126,388 | 0 |
 | 2024-01-24 | 126,676 | 0 |
-| 2024-01-25 | 126,722 | 0 |
+| 2024-01-25 | 126,730 | 0 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 441)  
 Sum: 59 (Ranked 508)  

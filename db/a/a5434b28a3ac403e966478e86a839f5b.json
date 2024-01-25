@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -45,7 +45,7 @@
   "Tags": [],
   "EOS_Progressed": 997,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -3586,9 +3586,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 518
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_eou2",
@@ -3691,8 +3691,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-24T21:59:40.9634781+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:05:25.6462087+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:05:39.2355044+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:59:55.0240589+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:05:25.6462375+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:59:44.3687731+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:05:39.2355296+00:00"
 }

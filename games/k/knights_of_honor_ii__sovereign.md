@@ -17,9 +17,9 @@ Rating: 4.35 (Ranked 837)
 | The finest merchandise this side of river Jordan | 6.00% | ~9 |
 | Big Apple | 5.00% | ~7 |
 | Dinner Time | 5.00% | ~7 |
+| Do you read Sutter Cane? | 5.00% | ~7 |
 | What we’ve got here is failure to communicate | 5.00% | ~7 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~6 |
-| Do you read Sutter Cane? | 4.00% | ~6 |
 | Learn Me a Book | 4.00% | ~6 |
 | Pillars of the Earth | 4.00% | ~6 |
 | All the King's Men | 3.00% | ~4 |
@@ -28,6 +28,7 @@ Rating: 4.35 (Ranked 837)
 | Call the Boys | 3.00% | ~4 |
 | Cut-Me-Own-Throat | 3.00% | ~4 |
 | Kingslayer | 3.00% | ~4 |
+| Let Us Pray | 3.00% | ~4 |
 | Naught but a Seamless Victory | 3.00% | ~4 |
 | Scientia potentia es | 3.00% | ~4 |
 | ‘Tis but a scratch | 3.00% | ~4 |
@@ -37,7 +38,6 @@ Rating: 4.35 (Ranked 837)
 | He made it out, but with an arrow in his back | 2.00% | ~3 |
 | I started a joke | 2.00% | ~3 |
 | Fight Another Day | 2.00% | ~3 |
-| Let Us Pray | 2.00% | ~3 |
 | The Magnificent Nine | 2.00% | ~3 |
 | Time to find India | 2.00% | ~3 |
 | Vlad the Impaler | 2.00% | ~3 |

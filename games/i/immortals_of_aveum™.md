@@ -6,13 +6,13 @@ Rating: 4.19 (Ranked 984)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 89.00% | ~3,208 |
-| Battlefields Have Memories | 82.00% | ~2,955 |
-| Enlisted | 76.00% | ~2,739 |
-| Maybe Engage a Little | 71.00% | ~2,559 |
-| No More Names | 55.00% | ~1,982 |
+| Battlefields Have Memories | 82.00% | ~2,956 |
+| Enlisted | 76.00% | ~2,740 |
+| Maybe Engage a Little | 71.00% | ~2,560 |
+| No More Names | 55.00% | ~1,983 |
 | Initiate | 42.00% | ~1,514 |
 | Thrada-Kul | 38.00% | ~1,370 |
-| Gravity-Challenged Rocks | 32.00% | ~1,153 |
+| Gravity-Challenged Rocks | 32.00% | ~1,154 |
 | Soldier | 28.00% | ~1,009 |
 | All the Major Food Groups | 27.00% | ~973 |
 | Socialite | 26.00% | ~937 |
@@ -26,7 +26,7 @@ Rating: 4.19 (Ranked 984)
 | A Perfect Cycle | 17.00% | ~613 |
 | Recruit | 17.00% | ~613 |
 | Armsman | 14.00% | ~505 |
-| Lights Army | 12.00% | ~432 |
+| Lights Army | 12.00% | ~433 |
 | Periapt Cerulean | 10.00% | ~360 |
 | Good Boy | 10.00% | ~360 |
 | Periapt Viridian | 8.00% | ~288 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 984)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,604 (Ranked 230)  
+Progressed: 3,605 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 5 (0.14%) (Ranked 304)
 | 2024-01-22 | 3,582 | 5 |
 | 2024-01-23 | 3,589 | 5 |
 | 2024-01-24 | 3,602 | 5 |
-| 2024-01-25 | 3,604 | 5 |
+| 2024-01-25 | 3,605 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 567)  
 Sum: 46 (Ranked 524)  

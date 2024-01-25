@@ -1,22 +1,22 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.83 (Ranked 58)  
+Rating: 4.83 (Ranked 59)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~244,502 |
-| Private Club | 73.00% | ~196,139 |
+| Forgotten Sorority | 91.00% | ~244,503 |
+| Private Club | 73.00% | ~196,140 |
 | Rogue Guild | 64.00% | ~171,958 |
 | I Watched the Intro | 57.00% | ~153,150 |
-| Covert Consortium | 54.00% | ~145,089 |
+| Covert Consortium | 54.00% | ~145,090 |
 | Goat Queen | 52.00% | ~139,716 |
 | Reach the Stratosphere | 50.00% | ~134,342 |
-| Synchronization Complete | 47.00% | ~126,281 |
+| Synchronization Complete | 47.00% | ~126,282 |
 | Secret Society | 44.00% | ~118,221 |
 | Shadow Syndicate | 37.00% | ~99,413 |
 | What a Waste of Money | 33.00% | ~88,666 |
-| New Goat Order | 30.00% | ~80,605 |
+| New Goat Order | 30.00% | ~80,606 |
 | Don't touch the servers | 28.00% | ~75,232 |
 | Real Buoy | 27.00% | ~72,545 |
 | San Angora: Become Human | 26.00% | ~69,858 |
@@ -45,7 +45,7 @@ Rating: 4.83 (Ranked 58)
 | Move! That! Bus! | 0.60% | ~1,612 |
 | G.O.A.T | 0.40% | ~1,075 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268,684 (Ranked 68)  
+Progressed: 268,685 (Ranked 68)  
 Completed: 963 (0.36%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 963 (0.36%) (Ranked 255)
 | 2024-01-22 | 268,479 | 960 |
 | 2024-01-23 | 268,598 | 961 |
 | 2024-01-24 | 268,677 | 962 |
-| 2024-01-25 | 268,684 | 963 |
+| 2024-01-25 | 268,685 | 963 |
 ## Awards
 Max (Great for Beginners): 558  (Ranked 217)  
 Sum: 4,464 (Ranked 160)  

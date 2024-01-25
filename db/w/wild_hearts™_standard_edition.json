@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1406,
+  "EOS_Progressed": 1407,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4643,6 +4643,11 @@
       "Time": "2024-01-25T02:01:26.6997231+00:00",
       "NumProgressed": 1406,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-25T04:09:56.8238131+00:00",
+      "NumProgressed": 1407,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4655,7 +4660,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "achievement_10",
@@ -4711,7 +4716,7 @@
       "Name": "Distance Devourer",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_17",
@@ -4727,7 +4732,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_19",
@@ -4735,7 +4740,7 @@
       "Name": "Counter Specialist",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_2",
@@ -4743,7 +4748,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_20",
@@ -4815,7 +4820,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_29",
@@ -4829,9 +4834,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_30",
@@ -4895,7 +4900,7 @@
       "Name": "Hidden History",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_38",
@@ -4903,7 +4908,7 @@
       "Name": "Superlative View",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_39",
@@ -4951,7 +4956,7 @@
       "Name": "Team Hunter",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_44",
@@ -4967,7 +4972,7 @@
       "Name": "Helpful Heart",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_46",
@@ -4975,7 +4980,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_47",
@@ -5038,13 +5043,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1406,
+      "Progressed": 1407,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:09:58.0126285+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:09:56.8238129+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:02:35.0927235+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:09:58.0126919+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:02:51.916763+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:09:56.8238591+00:00"
 }

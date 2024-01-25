@@ -9817,9 +9817,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255471,
+  "EOS_Progressed": 255477,
   "EOS_Completed": 2641,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41567,6 +41567,11 @@
       "Time": "2024-01-25T03:10:26.015977+00:00",
       "NumProgressed": 255471,
       "NumCompleted": 2641
+    },
+    {
+      "Time": "2024-01-25T04:10:24.9050302+00:00",
+      "NumProgressed": 255477,
+      "NumCompleted": 2641
     }
   ],
   "TotalAchievements": 546,
@@ -41650,7 +41655,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1051",
@@ -41946,7 +41951,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "objective_completed_110",
@@ -42258,7 +42263,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1164",
@@ -42274,7 +42279,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1168",
@@ -42282,7 +42287,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1169",
@@ -42314,7 +42319,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1174",
@@ -42338,7 +42343,7 @@
       "Name": "Heatwave",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1179",
@@ -42362,7 +42367,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1184",
@@ -42834,7 +42839,7 @@
       "Name": "The Newcomers of Notoriety",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_179",
@@ -43018,7 +43023,7 @@
       "Name": "Thine Bounty is Mine!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_235",
@@ -43250,7 +43255,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "objective_completed_34",
@@ -44282,7 +44287,7 @@
       "Name": "An Illithid Undertaking",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_621",
@@ -44314,7 +44319,7 @@
       "Name": "D\u00E9j\u00E0 Vu",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_626",
@@ -44346,7 +44351,7 @@
       "Name": "Into The Fire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_631",
@@ -44378,7 +44383,7 @@
       "Name": "Dreamscape",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_636",
@@ -44410,7 +44415,7 @@
       "Name": "The Path of Dreams",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_641",
@@ -44442,7 +44447,7 @@
       "Name": "The Lost Hollyphant",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_646",
@@ -44474,7 +44479,7 @@
       "Name": "Alterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_656",
@@ -44506,7 +44511,7 @@
       "Name": "The Wandering Emporium",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_661",
@@ -44658,7 +44663,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_691",
@@ -44722,7 +44727,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "objective_completed_70",
@@ -45802,7 +45807,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1548",
@@ -45834,7 +45839,7 @@
       "Name": "A Wise Approach",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1342",
@@ -45842,7 +45847,7 @@
       "Name": "The Brains of an Illithid\u0027s Desire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1347",
@@ -45945,21 +45950,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221745,
+      "Progressed": 221751,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255471,
+      "Progressed": 255477,
       "Completed": 2641
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T21:58:43.8356184+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:10:26.0159766+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:10:24.90503+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:58:57.2257427+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:10:26.0184636+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:58:48.8541546+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:10:24.9072942+00:00"
 }

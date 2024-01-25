@@ -805,9 +805,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4774,
+  "EOS_Progressed": 4775,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13365,6 +13365,11 @@
       "Time": "2024-01-24T22:06:07.6526143+00:00",
       "NumProgressed": 4774,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T04:08:12.3343253+00:00",
+      "NumProgressed": 4775,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13520,7 +13525,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "engineermastery",
@@ -13560,7 +13565,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "fourleafclover",
@@ -13592,7 +13597,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "guardianmaster",
@@ -13600,7 +13605,7 @@
       "Name": "Guardian Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "guildpower",
@@ -13654,9 +13659,9 @@
       "ID": "jewelenchanting",
       "SetID": "3nl4bcg",
       "Name": "Jewel Enchanting",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "legendary",
@@ -13744,7 +13749,7 @@
       "Name": "Mythic Power",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "naturaltalent",
@@ -13760,7 +13765,7 @@
       "Name": "Pokerface",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "prestigious",
@@ -13768,7 +13773,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "prestigiousx10",
@@ -13800,7 +13805,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "scrollmaster",
@@ -13832,7 +13837,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "thealchemist",
@@ -13864,7 +13869,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "thepowerofawakening",
@@ -13936,7 +13941,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4440
+      "UsersEstimate": 4441
     },
     {
       "ID": "warmachinesarmy",
@@ -13960,7 +13965,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "worldmap",
@@ -13975,7 +13980,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4774,
+      "Progressed": 4775,
       "Completed": 2
     }
   ],
@@ -13983,8 +13988,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-24T14:57:39.9491694+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:06:10.2586998+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:08:12.3343249+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:57:52.8944552+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:06:10.2588549+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:57:47.1801317+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:08:12.3344287+00:00"
 }

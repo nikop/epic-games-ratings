@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 663)  
+Rating: 4.48 (Ranked 662)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -56,6 +56,7 @@ Rating: 4.48 (Ranked 663)
 | Shoot for the Moon | 3.00% | ~130 |
 | Fight Another Day | 3.00% | ~129 |
 | Shipbreaker | 3.00% | ~129 |
+| Sink or Swim | 3.00% | ~129 |
 | Out of Scope | 2.00% | ~87 |
 | Eagle Eyed | 2.00% | ~87 |
 | Up close and personal | 2.00% | ~87 |
@@ -63,7 +64,6 @@ Rating: 4.48 (Ranked 663)
 | Führerious Repetition | 2.00% | ~86 |
 | Reich To The Point | 2.00% | ~86 |
 | Covert Elimination | 2.00% | ~86 |
-| Sink or Swim | 2.00% | ~86 |
 | Best of the Best | 1.00% | ~43 |
 | Sight Beyond Sights | 1.00% | ~43 |
 | From Führer Away | 1.00% | ~43 |

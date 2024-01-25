@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 386)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,854 |
-| First Love | 46.00% | ~1,706 |
-| Clean Race | 45.00% | ~1,669 |
+| Eat My Dust | 50.00% | ~1,855 |
+| First Love | 46.00% | ~1,707 |
+| Clean Race | 45.00% | ~1,670 |
 | Hear That Roar! | 43.00% | ~1,595 |
 | Bitter Rivalry | 31.00% | ~1,150 |
 | Rivals to the End | 31.00% | ~1,150 |
@@ -23,9 +23,9 @@ Rating: 4.62 (Ranked 386)
 | Is It the Right Size? | 10.00% | ~371 |
 | Stamina Star | 9.00% | ~334 |
 | Evangelist | 7.00% | ~260 |
-| Make It Your Own! | 5.00% | ~185 |
-| Cherry Blossom and Temples | 5.00% | ~185 |
-| The Road to Liberty | 5.00% | ~185 |
+| Make It Your Own! | 5.00% | ~186 |
+| Cherry Blossom and Temples | 5.00% | ~186 |
+| The Road to Liberty | 5.00% | ~186 |
 | Romantic Races | 4.00% | ~148 |
 | I Make the Rules! | 4.00% | ~148 |
 | My Work Here Is Done | 4.00% | ~148 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 386)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,709 (Ranked 227)  
+Progressed: 3,710 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 3,676 | 0 |
 | 2024-01-23 | 3,691 | 0 |
 | 2024-01-24 | 3,706 | 0 |
-| 2024-01-25 | 3,709 | 0 |
+| 2024-01-25 | 3,710 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

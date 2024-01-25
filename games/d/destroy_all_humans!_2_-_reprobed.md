@@ -45,10 +45,10 @@ Number of Ratings: 90  (23.09.2022)
 | PK Slam Dunk | 0.60% | ~3 |
 | Albion Bridge Is for Falling Down | 0.60% | ~3 |
 | To Russia With Love | 0.60% | ~3 |
+| Path of the Furon | 0.60% | ~3 |
 | Toilet Break | 0.40% | ~2 |
 | Ouch of Body Experience | 0.40% | ~2 |
 | Steezy Down the Spine | 0.40% | ~2 |
-| Path of the Furon | 0.40% | ~2 |
 | Trans-Siberian Express | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 471 (Ranked 362)  

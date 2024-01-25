@@ -2254,9 +2254,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 699962,
+  "EOS_Progressed": 699964,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1652,
+  "EOS_NewPlayers": 1649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34509,6 +34509,11 @@
       "Time": "2024-01-25T03:10:18.7087726+00:00",
       "NumProgressed": 699962,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-25T04:10:17.5024093+00:00",
+      "NumProgressed": 699964,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -34520,7 +34525,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 552970
+      "UsersEstimate": 552972
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -34608,7 +34613,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 251986
+      "UsersEstimate": 251987
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -34760,7 +34765,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 216988
+      "UsersEstimate": 216989
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -34824,7 +34829,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104994
+      "UsersEstimate": 104995
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -34840,7 +34845,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27998
+      "UsersEstimate": 27999
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -34920,7 +34925,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 125993
+      "UsersEstimate": 125994
     },
     {
       "ID": "RP_TRUSTED",
@@ -34944,22 +34949,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27998
+      "UsersEstimate": 27999
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 699962,
+      "Progressed": 699964,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2024-01-25T01:48:52.7695326+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:10:18.7087723+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:10:17.5024092+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:41.151494+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:57:58.2967897+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:10:18.7089425+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:57:52.3832394+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:10:17.5025684+00:00"
 }

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4654,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9876,9 +9876,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1536
     },
     {
       "ID": "achievement_72",
@@ -10136,8 +10136,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:10:23.5204655+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:10:22.2308529+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:03:13.4852923+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:10:23.5206328+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:03:28.2936177+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:10:22.2310214+00:00"
 }

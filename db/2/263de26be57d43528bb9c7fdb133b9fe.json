@@ -412,9 +412,9 @@
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BOSS_4",
@@ -555,8 +555,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:04:05.9254528+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:04:20.154166+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:57:35.7807795+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:04:05.9254666+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:57:30.8014944+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:04:20.1541781+00:00"
 }

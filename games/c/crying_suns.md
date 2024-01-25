@@ -6,33 +6,33 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~313,107 |
-| Jeef Skeejj | 44.00% | ~208,738 |
-| Careful planning | 39.00% | ~185,018 |
-| Second Coming | 34.00% | ~161,297 |
-| Jeef Skagg | 30.00% | ~142,321 |
-| Mother | 25.00% | ~118,601 |
-| In space, no one can hear you scream | 24.00% | ~113,857 |
-| Chapter I: Echoes | 22.00% | ~104,369 |
-| Excelsior Rule | 22.00% | ~104,369 |
-| Things persisted in not being what they seemed | 20.00% | ~94,881 |
+| The Shutdown | 66.00% | ~313,109 |
+| Jeef Skeejj | 44.00% | ~208,740 |
+| Careful planning | 39.00% | ~185,019 |
+| Second Coming | 34.00% | ~161,299 |
+| Jeef Skagg | 30.00% | ~142,322 |
+| Mother | 25.00% | ~118,602 |
+| In space, no one can hear you scream | 24.00% | ~113,858 |
+| Chapter I: Echoes | 22.00% | ~104,370 |
+| Excelsior Rule | 22.00% | ~104,370 |
+| Things persisted in not being what they seemed | 20.00% | ~94,882 |
 | Knightmare Frames | 15.00% | ~71,161 |
 | May His passing cleanse the world | 15.00% | ~71,161 |
 | Chapter II: Fallible Flesh | 15.00% | ~71,161 |
 | Pope Zenon | 15.00% | ~71,161 |
-| Plan for the worst | 12.00% | ~56,928 |
-| Tetsuo | 11.00% | ~52,184 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,440 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,952 |
-| Through the mirror | 8.00% | ~37,952 |
-| General Vivar | 8.00% | ~37,952 |
-| Back to Ganyma | 8.00% | ~37,952 |
-| Kaos Rule | 8.00% | ~37,952 |
-| Meet your maker | 7.00% | ~33,208 |
-| Admiral Okonkwo | 7.00% | ~33,208 |
-| The Survivalists | 7.00% | ~33,208 |
-| The Tech Specialist | 7.00% | ~33,208 |
-| The Mech Soldier | 7.00% | ~33,208 |
+| Plan for the worst | 12.00% | ~56,929 |
+| Tetsuo | 11.00% | ~52,185 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,441 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,953 |
+| Through the mirror | 8.00% | ~37,953 |
+| General Vivar | 8.00% | ~37,953 |
+| Back to Ganyma | 8.00% | ~37,953 |
+| Kaos Rule | 8.00% | ~37,953 |
+| Meet your maker | 7.00% | ~33,209 |
+| Admiral Okonkwo | 7.00% | ~33,209 |
+| The Survivalists | 7.00% | ~33,209 |
+| The Tech Specialist | 7.00% | ~33,209 |
+| The Mech Soldier | 7.00% | ~33,209 |
 | Chapter V: Memories of None | 6.00% | ~28,464 |
 | The Impersonator | 6.00% | ~28,464 |
 | The Kid | 6.00% | ~28,464 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,404 (Ranked 45)  
+Progressed: 474,408 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 21 (0.00%) (Ranked 410)
 | 2024-01-22 | 474,324 | 21 |
 | 2024-01-23 | 474,358 | 21 |
 | 2024-01-24 | 474,401 | 21 |
-| 2024-01-25 | 474,404 | 21 |
+| 2024-01-25 | 474,408 | 21 |
 ## Awards
 Max (Character Customization): 231  (Ranked 287)  
 Sum: 255 (Ranked 400)  

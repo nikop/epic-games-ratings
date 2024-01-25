@@ -2,13 +2,13 @@
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
-  "Ranking_Rating": 58,
+  "Ranking_Rating": 59,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -6865,9 +6865,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 268684,
+  "EOS_Progressed": 268685,
   "EOS_Completed": 963,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -37675,6 +37675,11 @@
       "Time": "2024-01-25T02:01:44.0325268+00:00",
       "NumProgressed": 268684,
       "NumCompleted": 963
+    },
+    {
+      "Time": "2024-01-25T04:10:12.5606658+00:00",
+      "NumProgressed": 268685,
+      "NumCompleted": 963
     }
   ],
   "TotalAchievements": 39,
@@ -37734,7 +37739,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 80605
+      "UsersEstimate": 80606
     },
     {
       "ID": "AchievementBoulderID",
@@ -37750,7 +37755,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244502
+      "UsersEstimate": 244503
     },
     {
       "ID": "AchievementClownID",
@@ -37918,7 +37923,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 196139
+      "UsersEstimate": 196140
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -37958,7 +37963,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 145089
+      "UsersEstimate": 145090
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -37966,7 +37971,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 126281
+      "UsersEstimate": 126282
     },
     {
       "ID": "AchievementTrinketID",
@@ -37997,7 +38002,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268684,
+      "Progressed": 268685,
       "Completed": 963
     }
   ],
@@ -38005,8 +38010,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-24T21:57:57.5289855+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:10:13.7095685+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:10:12.5606657+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:58:10.1153917+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:10:13.709738+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:58:04.0771099+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:10:12.5608219+00:00"
 }

@@ -551,17 +551,17 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "CloseCall",
       "SetID": "aaidab7",
       "Name": "Close Call",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DedicatedPlayer",
@@ -607,9 +607,9 @@
       "ID": "ImmuneCollapse",
       "SetID": "aaidab7",
       "Name": "Immune Collapse",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "LastResort",
@@ -687,9 +687,9 @@
       "ID": "Opportunist",
       "SetID": "aaidab7",
       "Name": "Opportunist",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PrescriptionFrenzy",
@@ -727,17 +727,17 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "SkeletalCollapse",
@@ -759,9 +759,9 @@
       "ID": "Thrifty",
       "SetID": "aaidab7",
       "Name": "Thrifty",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "WalkInThePark",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:08:28.108912+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:08:28.5363196+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:58:41.2685412+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:08:28.1089351+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:58:34.0821519+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:08:28.536344+00:00"
 }

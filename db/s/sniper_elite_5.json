@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -10536,9 +10536,9 @@
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
       "SetID": "83mdf7p",
       "Name": "Sink or Swim",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -10567,8 +10567,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-25T03:10:02.5875279+00:00",
+  "LastChanged_Achievements": "2024-01-25T04:10:01.7601999+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:58:45.8016904+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:10:02.5876356+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:58:38.4319676+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:10:01.7603015+00:00"
 }

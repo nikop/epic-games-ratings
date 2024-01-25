@@ -4,7 +4,7 @@
   "ProductSlug": "smite-2",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewPlayers": 533,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2099-05-30T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T17:56:56.5724642+00:00",
-  "LastUpdate_Ratings": "2024-01-25T02:59:49.5966565+00:00",
-  "LastUpdate_Achievements": "2024-01-25T03:05:49.9941322+00:00"
+  "LastUpdate_Ratings": "2024-01-25T03:59:39.1081089+00:00",
+  "LastUpdate_Achievements": "2024-01-25T04:06:02.9291305+00:00"
 }
