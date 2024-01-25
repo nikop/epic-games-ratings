@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5358,9 +5358,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1557
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -5911,8 +5911,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-24T01:48:40.9947297+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:05:27.180837+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:05:33.6711542+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:58:28.2622602+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:05:27.1809279+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:58:30.9334629+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:05:33.6712787+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.68 (Ranked 266)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~36,966 |
-| A Long Time Ago | 91.00% | ~33,639 |
-| Sabersmith | 79.00% | ~29,203 |
-| The Obstacle is the Way | 75.00% | ~27,724 |
-| Back At You | 70.00% | ~25,876 |
-| Happy Go Wookiee | 66.00% | ~24,398 |
-| Everything is Connected | 57.00% | ~21,071 |
-| Her Name Was Masana Tide | 52.00% | ~19,222 |
-| Bank Shot | 52.00% | ~19,222 |
-| Perfect Timing | 50.00% | ~18,483 |
-| Gorgara Falls | 48.00% | ~17,744 |
-| The Full Glow-Up | 48.00% | ~17,744 |
-| For A More Civilized Age | 47.00% | ~17,374 |
-| The Holocron Awaits | 45.00% | ~16,635 |
-| I Knew He Was No Good | 45.00% | ~16,635 |
-| Trust Only In The Force | 43.00% | ~15,895 |
-| Look Out Below | 41.00% | ~15,156 |
-| Scum and Villainy | 41.00% | ~15,156 |
-| Don't Mess with BD-1 | 39.00% | ~14,417 |
-| Blade Master | 37.00% | ~13,677 |
-| Full House | 35.00% | ~12,938 |
+| The Mantis | 100.00% | ~36,968 |
+| A Long Time Ago | 91.00% | ~33,641 |
+| Sabersmith | 79.00% | ~29,205 |
+| The Obstacle is the Way | 75.00% | ~27,726 |
+| Back At You | 70.00% | ~25,878 |
+| Happy Go Wookiee | 66.00% | ~24,399 |
+| Everything is Connected | 57.00% | ~21,072 |
+| Her Name Was Masana Tide | 52.00% | ~19,223 |
+| Bank Shot | 52.00% | ~19,223 |
+| Perfect Timing | 50.00% | ~18,484 |
+| Gorgara Falls | 48.00% | ~17,745 |
+| The Full Glow-Up | 48.00% | ~17,745 |
+| For A More Civilized Age | 47.00% | ~17,375 |
+| The Holocron Awaits | 45.00% | ~16,636 |
+| I Knew He Was No Good | 45.00% | ~16,636 |
+| Trust Only In The Force | 43.00% | ~15,896 |
+| Look Out Below | 41.00% | ~15,157 |
+| Scum and Villainy | 41.00% | ~15,157 |
+| Don't Mess with BD-1 | 39.00% | ~14,418 |
+| Blade Master | 37.00% | ~13,678 |
+| Full House | 35.00% | ~12,939 |
 | Legendary Beasts | 21.00% | ~7,763 |
 | Echo Location | 19.00% | ~7,024 |
 | Visiting Alderaan Places | 16.00% | ~5,915 |
@@ -45,7 +45,7 @@ Rating: 4.68 (Ranked 266)
 | Kicking Back | 2.00% | ~739 |
 | Not So Fast | 1.00% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,966 (Ranked 138)  
+Progressed: 36,968 (Ranked 138)  
 Completed: 364 (0.98%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 364 (0.98%) (Ranked 188)
 | 2024-01-22 | 36,679 | 355 |
 | 2024-01-23 | 36,826 | 360 |
 | 2024-01-24 | 36,966 | 364 |
+| 2024-01-25 | 36,968 | 364 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

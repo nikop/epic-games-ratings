@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 997)  
+Rating: 4.17 (Ranked 998)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,9 +43,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
+| Recruit a Dozen Leaders | 0.80% | ~61 |
 | Win as the Krynn | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
-| Recruit a Dozen Leaders | 0.70% | ~53 |
 | Commodity Seller, Level 2 | 0.70% | ~53 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |

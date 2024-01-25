@@ -2,13 +2,13 @@
   "ID": "be13f6c4fb11427fbf3313ce93b97cc0",
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon",
-  "Ranking_Rating": 39,
+  "Ranking_Rating": 48,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 538,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2016-04-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 8617,
   "RatingHistory": [
     {
@@ -7139,10 +7139,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 14781,
       "NumberOfAwardsMax": 8302
+    },
+    {
+      "Time": "2024-01-24T23:57:36.183339+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 14782,
+      "NumberOfAwardsMax": 8302
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14781,
+  "NumberOfAwards": 14782,
   "NumberOfAwardsMax": 8302,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7174,7 +7180,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 871
+      "Count": 872
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7224,8 +7230,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2024-01-24T16:57:34.3607828+00:00",
+  "LastChanged": "2024-01-24T23:57:36.1833388+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:58.6749905+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:57:33.0074659+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:09:32.3659646+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:57:36.1833394+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:09:21.3166344+00:00"
 }

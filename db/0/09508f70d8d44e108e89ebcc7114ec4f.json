@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1685,9 +1685,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 270
     },
     {
       "ID": "circus",
@@ -1701,9 +1701,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 265
+      "UsersEstimate": 270
     },
     {
       "ID": "fish_trade",
@@ -1781,9 +1781,9 @@
       "ID": "mill",
       "SetID": "ap7g2g4",
       "Name": "Mill",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 381
     },
     {
       "ID": "sawmill",
@@ -1852,8 +1852,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:09:37.5051632+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:09:26.7650841+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:07.1835223+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:02:59.6897684+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:09:37.5051853+00:00"
+  "LastUpdate_Ratings": "2024-01-25T00:02:58.9391291+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:09:26.7651026+00:00"
 }

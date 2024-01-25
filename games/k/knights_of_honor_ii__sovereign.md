@@ -1,7 +1,7 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.35 (Ranked 837)  
+Rating: 4.35 (Ranked 836)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,9 +14,9 @@ Rating: 4.35 (Ranked 837)
 | Full House | 9.00% | ~13 |
 | Playerxander the Great | 6.00% | ~9 |
 | They Got What They Deserved | 6.00% | ~9 |
+| Big Apple | 5.00% | ~7 |
 | The finest merchandise this side of river Jordan | 5.00% | ~7 |
 | What we’ve got here is failure to communicate | 5.00% | ~7 |
-| Big Apple | 4.00% | ~6 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~6 |
 | Dinner Time | 4.00% | ~6 |
 | Do you read Sutter Cane? | 4.00% | ~6 |
@@ -106,13 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 473)  
+Progressed: 148 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
+| 2024-01-25 | 148 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

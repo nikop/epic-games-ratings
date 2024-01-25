@@ -5,16 +5,16 @@ Rating: 4.38 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~781,564 |
-| The ABCs | 43.00% | ~685,862 |
-| Home Run | 41.00% | ~653,961 |
-| Keeps Coming Off | 41.00% | ~653,961 |
-| Guts | 19.00% | ~303,055 |
-| Meat Grinder | 19.00% | ~303,055 |
-| Burning Man | 16.00% | ~255,204 |
-| Lived to Tell the Tale | 12.00% | ~191,403 |
-| Highlander | 10.00% | ~159,503 |
-| Unstoppable | 10.00% | ~159,503 |
+| Justice from the Grave | 49.00% | ~781,568 |
+| The ABCs | 43.00% | ~685,865 |
+| Home Run | 41.00% | ~653,965 |
+| Keeps Coming Off | 41.00% | ~653,965 |
+| Guts | 19.00% | ~303,057 |
+| Meat Grinder | 19.00% | ~303,057 |
+| Burning Man | 16.00% | ~255,206 |
+| Lived to Tell the Tale | 12.00% | ~191,404 |
+| Highlander | 10.00% | ~159,504 |
+| Unstoppable | 10.00% | ~159,504 |
 | Just a Scratch | 9.00% | ~143,553 |
 | Tough Nut to Crack | 6.00% | ~95,702 |
 | Yoink | 6.00% | ~95,702 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 799)
 | That’s No Ordinary Cold | 0.10% | ~1,595 |
 | Stairway to Hell | 0.10% | ~1,595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,595,028 (Ranked 7)  
+Progressed: 1,595,036 (Ranked 7)  
 Completed: 81 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,15 +324,16 @@ Completed: 81 (0.01%) (Ranked 384)
 | 2024-01-22 | 1,594,268 | 81 |
 | 2024-01-23 | 1,594,661 | 81 |
 | 2024-01-24 | 1,595,028 | 81 |
+| 2024-01-25 | 1,595,036 | 81 |
 ## Awards
 Max (Diverse Characters): 1,264  (Ranked 149)  
-Sum: 6,523 (Ranked 138)  
+Sum: 6,529 (Ranked 138)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,264 |
 | This game has Challenging Combat | 1,083 |
-| This game is Highly Recommended | 995 |
+| This game is Highly Recommended | 1,001 |
 | This game has Amazing Characters | 840 |
 | This game is Extremely Fun | 836 |
 | This game has Competitive Players | 809 |
@@ -627,3 +628,4 @@ Diff (max vs sum): 11
 | 2024-01-22 | 4.38 | 1,260 | 6,486 |
 | 2024-01-23 | 4.38 | 1,264 | 6,510 |
 | 2024-01-24 | 4.38 | 1,264 | 6,523 |
+| 2024-01-25 | 4.38 | 1,264 | 6,529 |

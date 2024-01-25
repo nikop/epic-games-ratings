@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 601,
-  "Ranking_Popularity": 288,
+  "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -695,18 +695,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-24T23:57:02.9236955+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
-  "NumberOfAwardsMax": 230,
+  "NumberOfAwards": 255,
+  "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -717,7 +723,7 @@
   ],
   "EOS_Progressed": 474401,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30214,9 +30220,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2024-01-19T06:58:34.3477894+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:10:14.0334067+00:00",
+  "LastChanged": "2024-01-24T23:57:02.9236953+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:10:03.7483683+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:55.2971937+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:02:36.6911275+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:10:14.0335653+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:57:02.9236958+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:10:03.7485531+00:00"
 }

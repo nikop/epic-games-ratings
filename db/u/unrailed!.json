@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -3053,9 +3053,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 683508,
+  "EOS_Progressed": 683510,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2075,
+  "EOS_NewPlayers": 2068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35233,6 +35233,11 @@
       "Time": "2024-01-24T23:10:10.4936794+00:00",
       "NumProgressed": 683508,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-25T00:10:00.2395345+00:00",
+      "NumProgressed": 683510,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -35244,7 +35249,7 @@
       "Name": "Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 109361
+      "UsersEstimate": 109362
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -35492,7 +35497,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 123031
+      "UsersEstimate": 123032
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -35500,7 +35505,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 41010
+      "UsersEstimate": 41011
     },
     {
       "ID": "_03_02_NANUK",
@@ -35564,7 +35569,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 116196
+      "UsersEstimate": 116197
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -35652,22 +35657,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 41010
+      "UsersEstimate": 41011
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 683508,
+      "Progressed": 683510,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-24T18:03:38.3873388+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:10:10.4936792+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:10:00.2395341+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.1246588+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:02:47.8239795+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:10:10.4938411+00:00"
+  "LastUpdate_Ratings": "2024-01-25T00:02:47.5677674+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:10:00.2396859+00:00"
 }

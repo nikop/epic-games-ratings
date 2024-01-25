@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~766 |
 | Close Escort | 0.30% | ~766 |
 | Constant Banditry | 0.30% | ~766 |
+| Easily Distracted | 0.30% | ~766 |
 | Overdue Rendezvous | 0.30% | ~766 |
 | Rescue in the Jungle | 0.30% | ~766 |
 | Pros and CONs | 0.20% | ~511 |
@@ -141,7 +142,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.20% | ~443 |
 | The Long Haul | 0.20% | ~511 |
 | Lost in the Deep | 0.20% | ~511 |
-| Easily Distracted | 0.20% | ~511 |
 | Rude Welcome | 0.20% | ~511 |
 | Durable Deep | 0.20% | ~511 |
 | Expert Opinion | 0.20% | ~511 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,441 (Ranked 71)  
+Progressed: 255,449 (Ranked 71)  
 Completed: 2,640 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -833,6 +833,7 @@ Completed: 2,640 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
+| 2024-01-25 | 255,449 | 2,640 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,628 (Ranked 42)  

@@ -9,7 +9,7 @@
 | So far so good... | 52.00% | ~35 |
 | Slay it! | 37.00% | ~25 |
 | Top notch! | 37.00% | ~25 |
-| Bling bling! | 27.00% | ~18 |
+| Bling bling! | 28.00% | ~19 |
 | Lives lost | 19.00% | ~13 |
 | Slaughter | 19.00% | ~13 |
 | Still alive! | 18.00% | ~12 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-04-29T00:00:00+00:00",
@@ -7717,10 +7717,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 6523,
       "NumberOfAwardsMax": 1264
+    },
+    {
+      "Time": "2024-01-25T00:02:35.8857756+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 6529,
+      "NumberOfAwardsMax": 1264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6523,
+  "NumberOfAwards": 6529,
   "NumberOfAwardsMax": 1264,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7728,7 +7734,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 995
+      "Count": 1001
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7779,7 +7785,7 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1595028,
+  "EOS_Progressed": 1595036,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 3278,
   "EOS_NewCompleters": 1,
@@ -40014,6 +40020,11 @@
       "Time": "2024-01-24T23:04:43.3926837+00:00",
       "NumProgressed": 1595028,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-25T00:04:48.1684633+00:00",
+      "NumProgressed": 1595036,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 38,
@@ -40033,7 +40044,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 255204
+      "UsersEstimate": 255206
     },
     {
       "ID": "Chambermaid",
@@ -40105,7 +40116,7 @@
       "Name": "Guts",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 303055
+      "UsersEstimate": 303057
     },
     {
       "ID": "Highlander",
@@ -40113,7 +40124,7 @@
       "Name": "Highlander",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 159503
+      "UsersEstimate": 159504
     },
     {
       "ID": "HomeRun",
@@ -40121,7 +40132,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 653961
+      "UsersEstimate": 653965
     },
     {
       "ID": "JustScratch",
@@ -40137,7 +40148,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 781564
+      "UsersEstimate": 781568
     },
     {
       "ID": "KeepsComingOff",
@@ -40145,7 +40156,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 653961
+      "UsersEstimate": 653965
     },
     {
       "ID": "KungFu",
@@ -40161,7 +40172,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 191403
+      "UsersEstimate": 191404
     },
     {
       "ID": "LivingSculpture",
@@ -40185,7 +40196,7 @@
       "Name": "Meat Grinder",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 303055
+      "UsersEstimate": 303057
     },
     {
       "ID": "NoOrdinaryCold",
@@ -40257,7 +40268,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 685862
+      "UsersEstimate": 685865
     },
     {
       "ID": "ToughNut",
@@ -40281,7 +40292,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 159503
+      "UsersEstimate": 159504
     },
     {
       "ID": "Virtuoso",
@@ -40328,16 +40339,16 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1595028,
+      "Progressed": 1595036,
       "Completed": 81
     }
   ],
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2024-01-24T18:03:26.9696773+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:04:43.3926832+00:00",
+  "LastChanged": "2024-01-25T00:02:35.8857754+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:04:48.1684629+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:21.4639422+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:02:36.9001924+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:04:43.3928198+00:00"
+  "LastUpdate_Ratings": "2024-01-25T00:02:35.885776+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:04:48.1686595+00:00"
 }

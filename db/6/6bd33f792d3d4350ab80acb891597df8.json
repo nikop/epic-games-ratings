@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -840,9 +840,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -1015,8 +1015,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:08:27.356993+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:08:14.3150967+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:21.3786845+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:57:10.5215635+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:08:27.357016+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:57:13.9420122+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:08:14.3151172+00:00"
 }

@@ -8,8 +8,8 @@ Rating: 4.22 (Ranked 960)
 | Flesh Wound | 28.00% | ~6,362 |
 | The Outer Way | 28.00% | ~6,362 |
 | Desperate Times | 27.00% | ~6,135 |
-| Paper Jams | 25.00% | ~5,680 |
-| Get a Grip | 24.00% | ~5,453 |
+| Paper Jams | 25.00% | ~5,681 |
+| Get a Grip | 24.00% | ~5,454 |
 | Chew 'Em Up | 22.00% | ~4,999 |
 | Reforged | 21.00% | ~4,772 |
 | Float Like A Butterfly | 19.00% | ~4,317 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,722 (Ranked 153)  
+Progressed: 22,723 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,16 +325,17 @@ Completed: 82 (0.36%) (Ranked 255)
 | 2024-01-22 | 22,675 | 82 |
 | 2024-01-23 | 22,690 | 82 |
 | 2024-01-24 | 22,722 | 82 |
+| 2024-01-25 | 22,723 | 82 |
 ## Awards
 Max (Amazing Characters): 143  (Ranked 343)  
-Sum: 688 (Ranked 315)  
+Sum: 689 (Ranked 315)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 143 |
 | This game is Highly Recommended | 125 |
 | This game is Extremely Fun | 123 |
-| This game has Amazing Storytelling | 122 |
+| This game has Amazing Storytelling | 123 |
 | This game has Quickly Understood Controls | 117 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 58 |
@@ -553,3 +554,4 @@ Diff (max vs sum): 28
 | 2024-01-22 | 4.22 | 141 | 684 |
 | 2024-01-23 | 4.22 | 143 | 687 |
 | 2024-01-24 | 4.22 | 143 | 688 |
+| 2024-01-25 | 4.22 | 143 | 689 |

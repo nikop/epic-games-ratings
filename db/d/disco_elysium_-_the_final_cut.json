@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1718,7 +1718,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140039,
+  "EOS_Progressed": 140041,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
@@ -29733,6 +29733,11 @@
       "Time": "2024-01-24T22:09:00.9982802+00:00",
       "NumProgressed": 140039,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-25T00:08:49.7394653+00:00",
+      "NumProgressed": 140041,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29848,7 +29853,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22406
+      "UsersEstimate": 22407
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -29888,7 +29893,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15404
+      "UsersEstimate": 15405
     },
     {
       "ID": "ACH_CUNO",
@@ -29960,7 +29965,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19605
+      "UsersEstimate": 19606
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -30024,7 +30029,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19605
+      "UsersEstimate": 19606
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -30063,15 +30068,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140039,
+      "Progressed": 140041,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-23T04:58:42.7043232+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:09:02.3234787+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:08:49.7394651+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:59:19.1421936+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:09:02.3236053+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:59:24.1212725+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:08:49.7395838+00:00"
 }

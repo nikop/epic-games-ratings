@@ -95,9 +95,9 @@
 | Hard Target | 15.00% | ~698 |
 | Saboteur | 15.00% | ~698 |
 | Last Witness | 15.00% | ~698 |
+| Pyromaniac | 14.00% | ~651 |
 | No One Left Behind | 14.00% | ~651 |
 | Well Connected | 14.00% | ~651 |
-| Pyromaniac | 13.00% | ~605 |
 | Executioner | 13.00% | ~605 |
 | Patriot | 13.00% | ~605 |
 | Master and Commander | 13.00% | ~605 |

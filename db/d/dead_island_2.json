@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -9195,10 +9195,10 @@
       "Count": 718
     }
   ],
-  "EOS_Progressed": 809133,
-  "EOS_Completed": 2632,
-  "EOS_NewPlayers": 3734,
-  "EOS_NewCompleters": 36,
+  "EOS_Progressed": 809141,
+  "EOS_Completed": 2633,
+  "EOS_NewPlayers": 3727,
+  "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -41460,6 +41460,11 @@
       "Time": "2024-01-24T23:09:57.3224855+00:00",
       "NumProgressed": 809133,
       "NumCompleted": 2632
+    },
+    {
+      "Time": "2024-01-25T00:09:46.960817+00:00",
+      "NumProgressed": 809141,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 51,
@@ -41479,7 +41484,7 @@
       "Name": "Making Your Mark",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32365
+      "UsersEstimate": 32366
     },
     {
       "ID": "ach_ammo_ran",
@@ -41487,7 +41492,7 @@
       "Name": "Git Gutte!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56639
+      "UsersEstimate": 56640
     },
     {
       "ID": "ach_anger_management",
@@ -41519,7 +41524,7 @@
       "Name": "Perks of the Job",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32365
+      "UsersEstimate": 32366
     },
     {
       "ID": "ach_bookworm",
@@ -41535,7 +41540,7 @@
       "Name": "Break A Leg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72822
+      "UsersEstimate": 72823
     },
     {
       "ID": "ach_contender",
@@ -41567,7 +41572,7 @@
       "Name": "Slayer Squad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32365
+      "UsersEstimate": 32366
     },
     {
       "ID": "ach_explorer",
@@ -41631,7 +41636,7 @@
       "Name": "Hotel California",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80913
+      "UsersEstimate": 80914
     },
     {
       "ID": "ach_impressive_aim",
@@ -41671,7 +41676,7 @@
       "Name": "Apex Predator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56639
+      "UsersEstimate": 56640
     },
     {
       "ID": "ach_knowledgeable",
@@ -41679,7 +41684,7 @@
       "Name": "Zombologist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32365
+      "UsersEstimate": 32366
     },
     {
       "ID": "ach_legendary",
@@ -41687,7 +41692,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32365
+      "UsersEstimate": 32366
     },
     {
       "ID": "ach_magnum_opus",
@@ -41719,7 +41724,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32365
+      "UsersEstimate": 32366
     },
     {
       "ID": "ach_salvation",
@@ -41751,7 +41756,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56639
+      "UsersEstimate": 56640
     },
     {
       "ID": "ach_survival_expert",
@@ -41783,7 +41788,7 @@
       "Name": "Our True Nature",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 32365
+      "UsersEstimate": 32366
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -41807,7 +41812,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89005
+      "UsersEstimate": 89006
     },
     {
       "ID": "ach_well_known_survivor",
@@ -41831,7 +41836,7 @@
       "Name": "One of Us",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "ach_dark_magic",
@@ -41878,13 +41883,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 809133,
-      "Completed": 2632
+      "Progressed": 809141,
+      "Completed": 2633
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 134677,
+      "Progressed": 134685,
       "Completed": 36810
     }
   ],
@@ -41892,8 +41897,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-24T21:58:23.9538307+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:09:57.3224852+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:09:46.9608167+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.3560603+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:58:32.9012037+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:09:57.3226749+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:58:35.697438+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:09:46.9610011+00:00"
 }

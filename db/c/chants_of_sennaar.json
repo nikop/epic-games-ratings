@@ -151,10 +151,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2996,
+  "EOS_Progressed": 2997,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 155,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 156,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 7.81,
   "EosHistory": [
     {
@@ -8056,6 +8056,11 @@
       "Time": "2024-01-24T19:04:13.3262618+00:00",
       "NumProgressed": 2996,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-25T00:04:04.6045263+00:00",
+      "NumProgressed": 2997,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 25,
@@ -8139,7 +8144,7 @@
       "Name": "A great audience",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "META_RESULT_2-4",
@@ -8147,7 +8152,7 @@
       "Name": "For its own good",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "META_RESULT_3-4",
@@ -8187,7 +8192,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -8235,7 +8240,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "PROGRESS_N3",
@@ -8243,7 +8248,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "PROGRESS_N4",
@@ -8266,7 +8271,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2996,
+      "Progressed": 2997,
       "Completed": 234
     }
   ],
@@ -8274,8 +8279,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:04:01.7231847+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:04:04.6045261+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
   "LastUpdate_Ratings": "2024-01-24T23:00:11.3965342+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:04:01.7232298+00:00"
+  "LastUpdate_Achievements": "2024-01-25T00:04:04.604589+00:00"
 }

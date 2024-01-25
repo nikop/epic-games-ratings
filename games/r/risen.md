@@ -23,10 +23,10 @@ Rating: 4.60 (Ranked 431)
 | Death of a legend | 21.00% | ~46 |
 | Archaeologist | 21.00% | ~46 |
 | Family man | 20.00% | ~43 |
+| Sidelined | 19.00% | ~41 |
 | Wise man | 18.00% | ~39 |
 | Little hero | 18.00% | ~39 |
 | The fourth triplet | 18.00% | ~39 |
-| Sidelined | 18.00% | ~39 |
 | Pandora's box | 17.00% | ~37 |
 | Hard worker | 17.00% | ~37 |
 | Fence | 17.00% | ~37 |
@@ -34,8 +34,8 @@ Rating: 4.60 (Ranked 431)
 | Defender | 15.00% | ~33 |
 | Master detective | 15.00% | ~33 |
 | Showdown | 14.00% | ~30 |
+| Workaholic | 14.00% | ~30 |
 | Peacekeeper | 14.00% | ~30 |
-| Workaholic | 13.00% | ~28 |
 | Titan Lord | 12.00% | ~26 |
 | Safecracker | 10.00% | ~22 |
 | Master thief | 10.00% | ~22 |

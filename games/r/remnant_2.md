@@ -1,44 +1,44 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.72 (Ranked 199)  
+Rating: 4.71 (Ranked 206)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,845 |
-| First of Many | 12.00% | ~35,856 |
-| Not Your Average Trait | 10.00% | ~29,880 |
-| Expanding Horizons | 9.00% | ~26,892 |
-| Gleaming the Cube | 8.00% | ~23,904 |
-| Quest for Survival | 8.00% | ~23,904 |
-| Familiar Face | 8.00% | ~23,904 |
-| Boss'n Up | 8.00% | ~23,904 |
-| Trait Chaser | 8.00% | ~23,904 |
-| Not So Special Now | 7.00% | ~20,916 |
-| Not a Janitor | 7.00% | ~20,916 |
-| Duality | 7.00% | ~20,916 |
-| Equal Measures | 6.00% | ~17,928 |
-| Blue Goddess | 6.00% | ~17,928 |
-| Top Performer | 6.00% | ~17,928 |
-| Shhh...It's a Secret | 6.00% | ~17,928 |
-| Almost There | 6.00% | ~17,928 |
-| Make Some Room | 6.00% | ~17,928 |
-| Good, But Could Be Better! | 6.00% | ~17,928 |
-| Am I Seeing This? | 5.00% | ~14,940 |
-| Chaos | 5.00% | ~14,940 |
-| Traitor | 5.00% | ~14,940 |
-| Power Surge | 5.00% | ~14,940 |
-| The God Gambit | 5.00% | ~14,940 |
-| Dark Designs | 5.00% | ~14,940 |
-| Was This Supposed To Happen? | 5.00% | ~14,940 |
-| The Web | 5.00% | ~14,940 |
-| Scrap Collector | 5.00% | ~14,940 |
-| Forever is a Long Time Coming | 4.00% | ~11,952 |
-| Madman's Paradise | 4.00% | ~11,952 |
-| The Agenda | 4.00% | ~11,952 |
-| Bad Moon Rising | 4.00% | ~11,952 |
-| Strapped | 4.00% | ~11,952 |
-| All These Traits� | 4.00% | ~11,952 |
+| The Killing Jar | 13.00% | ~38,846 |
+| First of Many | 12.00% | ~35,858 |
+| Not Your Average Trait | 10.00% | ~29,882 |
+| Expanding Horizons | 9.00% | ~26,893 |
+| Gleaming the Cube | 8.00% | ~23,905 |
+| Quest for Survival | 8.00% | ~23,905 |
+| Familiar Face | 8.00% | ~23,905 |
+| Boss'n Up | 8.00% | ~23,905 |
+| Trait Chaser | 8.00% | ~23,905 |
+| Not So Special Now | 7.00% | ~20,917 |
+| Not a Janitor | 7.00% | ~20,917 |
+| Duality | 7.00% | ~20,917 |
+| Equal Measures | 6.00% | ~17,929 |
+| Blue Goddess | 6.00% | ~17,929 |
+| Top Performer | 6.00% | ~17,929 |
+| Shhh...It's a Secret | 6.00% | ~17,929 |
+| Almost There | 6.00% | ~17,929 |
+| Make Some Room | 6.00% | ~17,929 |
+| Good, But Could Be Better! | 6.00% | ~17,929 |
+| Am I Seeing This? | 5.00% | ~14,941 |
+| Chaos | 5.00% | ~14,941 |
+| Traitor | 5.00% | ~14,941 |
+| Power Surge | 5.00% | ~14,941 |
+| The God Gambit | 5.00% | ~14,941 |
+| Dark Designs | 5.00% | ~14,941 |
+| Was This Supposed To Happen? | 5.00% | ~14,941 |
+| The Web | 5.00% | ~14,941 |
+| Scrap Collector | 5.00% | ~14,941 |
+| Forever is a Long Time Coming | 4.00% | ~11,953 |
+| Madman's Paradise | 4.00% | ~11,953 |
+| The Agenda | 4.00% | ~11,953 |
+| Bad Moon Rising | 4.00% | ~11,953 |
+| Strapped | 4.00% | ~11,953 |
+| All These Traits� | 4.00% | ~11,953 |
 | Tall Tales | 3.00% | ~8,964 |
 | Edgelord | 3.00% | ~8,964 |
 | Scrap Hoarder | 3.00% | ~8,964 |
@@ -61,8 +61,8 @@ Rating: 4.72 (Ranked 199)
 | You Shall Pass | 0.80% | ~624 |
 | A Foul Feast | 0.50% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,804 (Ranked 65)  
-Completed: 1,243 (0.42%) (Ranked 246)  
+Progressed: 298,816 (Ranked 65)  
+Completed: 1,244 (0.42%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,9 +254,10 @@ Completed: 1,243 (0.42%) (Ranked 246)
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
+| 2024-01-25 | 298,816 | 1,244 |
 ## Awards
 Max (Great Boss Battles): 7,540  (Ranked 56)  
-Sum: 17,396 (Ranked 65)  
+Sum: 17,406 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +268,7 @@ Diff (max vs sum): -9
 | This game is Relaxing | 1,026 |
 | This game has Quickly Understood Controls | 1,019 |
 | This game has Challenging Combat | 1,010 |
-| This game has Amazing Storytelling | 1,000 |
+| This game has Amazing Storytelling | 1,010 |
 | This game has Amazing Characters | 970 |
 | This game has Unique Visuals | 884 |
 | This game has a Creative Community | 727 |
@@ -457,3 +458,4 @@ Diff (max vs sum): -9
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
 | 2024-01-23 | 4.72 | 7,507 | 17,292 |
 | 2024-01-24 | 4.72 | 7,540 | 17,396 |
+| 2024-01-25 | 4.71 | 7,540 | 17,406 |

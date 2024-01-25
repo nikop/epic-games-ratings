@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5477,9 +5477,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83243,
+  "EOS_Progressed": 83245,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31402,6 +31402,11 @@
       "Time": "2024-01-24T22:04:51.5953207+00:00",
       "NumProgressed": 83243,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-25T00:04:49.2888963+00:00",
+      "NumProgressed": 83245,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31461,7 +31466,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18313
+      "UsersEstimate": 18314
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -31501,7 +31506,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12486
+      "UsersEstimate": 12487
     },
     {
       "ID": "CHALLENGES_1",
@@ -31525,7 +31530,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14151
+      "UsersEstimate": 14152
     },
     {
       "ID": "CLAYFACE_3",
@@ -31653,7 +31658,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15816
+      "UsersEstimate": 15817
     },
     {
       "ID": "FREEZE_3",
@@ -31725,7 +31730,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19978
+      "UsersEstimate": 19979
     },
     {
       "ID": "HARLEY_3",
@@ -31741,7 +31746,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12486
+      "UsersEstimate": 12487
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31789,7 +31794,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21643
+      "UsersEstimate": 21644
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31805,7 +31810,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27470
+      "UsersEstimate": 27471
     },
     {
       "ID": "MYSTERY_02",
@@ -31813,7 +31818,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19978
+      "UsersEstimate": 19979
     },
     {
       "ID": "MYSTERY_03",
@@ -31821,7 +31826,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18313
+      "UsersEstimate": 18314
     },
     {
       "ID": "MYSTERY_04",
@@ -31837,7 +31842,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14151
+      "UsersEstimate": 14152
     },
     {
       "ID": "MYSTERY_06",
@@ -31877,7 +31882,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6659
+      "UsersEstimate": 6660
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -31900,13 +31905,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83243,
+      "Progressed": 83245,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53523,
+      "Progressed": 53525,
       "Completed": 2682
     }
   ],
@@ -31914,8 +31919,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-24T21:01:54.2975468+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:04:44.4087034+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:04:49.288896+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-24T23:00:09.6109661+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:04:44.4088367+00:00"
+  "LastUpdate_Ratings": "2024-01-25T00:00:19.2827156+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:04:49.2890543+00:00"
 }

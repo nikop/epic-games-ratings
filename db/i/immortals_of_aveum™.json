@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3602,
+  "EOS_Progressed": 3603,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6192,6 +6192,11 @@
       "Time": "2024-01-24T22:10:06.0029727+00:00",
       "NumProgressed": 3602,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T00:09:57.1576087+00:00",
+      "NumProgressed": 3603,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6204,7 +6209,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3207
     },
     {
       "ID": "achievement_10",
@@ -6212,7 +6217,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "achievement_11",
@@ -6220,7 +6225,7 @@
       "Name": "The Means to Save It",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "achievement_12",
@@ -6228,7 +6233,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "achievement_13",
@@ -6236,7 +6241,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "achievement_14",
@@ -6244,7 +6249,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_15",
@@ -6252,7 +6257,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_16",
@@ -6260,7 +6265,7 @@
       "Name": "Recruit",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_17",
@@ -6348,7 +6353,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "achievement_36",
@@ -6380,7 +6385,7 @@
       "Name": "No More Names",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "achievement_41",
@@ -6420,7 +6425,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "achievement_46",
@@ -6572,14 +6577,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3602,
+      "Progressed": 3603,
       "Completed": 5
     }
   ],
@@ -6587,8 +6592,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-23T19:58:05.0105982+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:10:07.4430143+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:09:57.1576079+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:58:38.308101+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:10:07.4430821+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:58:40.6911964+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:09:57.1576663+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~998,043 |
-| I Need a Bigger Garage | 63.00% | ~698,630 |
-| Pump my Ride | 47.00% | ~521,200 |
-| Ghostbuster | 34.00% | ~377,039 |
-| Call Roadside Assistance | 18.00% | ~199,609 |
-| That Was Close | 18.00% | ~199,609 |
-| Quickie | 11.00% | ~121,983 |
+| The First of Many | 90.00% | ~998,054 |
+| I Need a Bigger Garage | 63.00% | ~698,638 |
+| Pump my Ride | 47.00% | ~521,206 |
+| Ghostbuster | 34.00% | ~377,043 |
+| Call Roadside Assistance | 18.00% | ~199,611 |
+| That Was Close | 18.00% | ~199,611 |
+| Quickie | 11.00% | ~121,984 |
 | California Dreamer | 7.00% | ~77,626 |
 | Can't Touch This | 5.00% | ~55,447 |
-| Carménère Taster | 4.00% | ~44,357 |
-| Comeback | 4.00% | ~44,357 |
+| Carménère Taster | 4.00% | ~44,358 |
+| Comeback | 4.00% | ~44,358 |
 | Driver from Ipanema | 3.00% | ~33,268 |
 | Supersonic | 3.00% | ~33,268 |
 | Marathonist | 3.00% | ~33,268 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~11,089 |
 | Golden Passport | 1.00% | ~11,089 |
 | Brave and Bold | 1.00% | ~11,089 |
-| Volcano Surfer | 0.90% | ~9,980 |
-| Otaku | 0.90% | ~9,980 |
+| Volcano Surfer | 0.90% | ~9,981 |
+| Otaku | 0.90% | ~9,981 |
 | Survivor | 0.60% | ~6,654 |
 | King of the World | 0.60% | ~6,654 |
 | Getting Famous | 0.50% | ~5,545 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,218 |
 | Transporter | 0.10% | ~1,109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108,937 (Ranked 15)  
+Progressed: 1,108,949 (Ranked 15)  
 Completed: 540 (0.05%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,11 @@ Completed: 540 (0.05%) (Ranked 349)
 | 2024-01-22 | 1,108,276 | 539 |
 | 2024-01-23 | 1,108,626 | 539 |
 | 2024-01-24 | 1,108,937 | 540 |
+| 2024-01-25 | 1,108,949 | 540 |
 ## Awards
-Max (Great for Beginners): 187  (Ranked 313)  
+Max (Great for Beginners): 187  (Ranked 314)  
 Sum: 1,662 (Ranked 239)  
-Diff (max vs sum): 74  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 187 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12525,
+  "EOS_Progressed": 12526,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16443,6 +16443,11 @@
       "Time": "2024-01-24T23:04:04.1822472+00:00",
       "NumProgressed": 12525,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-25T00:04:07.1168741+00:00",
+      "NumProgressed": 12526,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 29,
@@ -16454,7 +16459,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10396
+      "UsersEstimate": 10397
     },
     {
       "ID": "ACH02",
@@ -16470,7 +16475,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH04",
@@ -16510,7 +16515,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH09",
@@ -16518,7 +16523,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACH10",
@@ -16526,7 +16531,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "ACH11",
@@ -16542,7 +16547,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH13",
@@ -16550,7 +16555,7 @@
       "Name": "Where To?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH14",
@@ -16558,7 +16563,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH15",
@@ -16574,7 +16579,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3256
+      "UsersEstimate": 3257
     },
     {
       "ID": "ACH17",
@@ -16622,7 +16627,7 @@
       "Name": "Playing Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH23",
@@ -16630,7 +16635,7 @@
       "Name": "Going Rogue",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH24",
@@ -16662,7 +16667,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH28",
@@ -16685,7 +16690,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12525,
+      "Progressed": 12526,
       "Completed": 96
     }
   ],
@@ -16693,8 +16698,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-24T23:04:04.1822468+00:00",
+  "LastChanged_Achievements": "2024-01-25T00:04:07.1168734+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-24T22:58:12.7814097+00:00",
-  "LastUpdate_Achievements": "2024-01-24T23:04:04.1823312+00:00"
+  "LastUpdate_Ratings": "2024-01-24T23:58:16.333586+00:00",
+  "LastUpdate_Achievements": "2024-01-25T00:04:07.1169704+00:00"
 }
