@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Vacation Adventures Park Ranger 14 Collectors Edition](games/7/7f64b29c49554ab488c286c8de796571.md) | 2024-01-25 | - |  | - | - |
 | [Red Glare](games/f/fb88fc36cd3b4e0da545c51c4a908474.md) | 2024-01-25 | - |  | - | - |
 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 2024-01-25 | - |  | - | - |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 0 | - | - |
