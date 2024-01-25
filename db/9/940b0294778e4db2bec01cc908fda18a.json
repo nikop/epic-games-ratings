@@ -2,9 +2,9 @@
   "ID": "940b0294778e4db2bec01cc908fda18a",
   "Name": "Perfect Plan",
   "ProductSlug": "perfect-plan-16a52c",
-  "Ranking_EOS_Progress": 851,
+  "Ranking_EOS_Progress": 852,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.2668448+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:57:25.0927421+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:06:36.6237058+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:57:21.2670188+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:06:19.1285516+00:00"
 }

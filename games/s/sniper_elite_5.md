@@ -5,11 +5,11 @@ Rating: 4.48 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,042 |
+| Meeting Resistance | 47.00% | ~2,043 |
 | Confirming Suspicions | 42.00% | ~1,825 |
 | The Kraken Wakes | 38.00% | ~1,651 |
 | It's Starting to Crack | 35.00% | ~1,521 |
-| Change the Channel | 32.00% | ~1,390 |
+| Change the Channel | 32.00% | ~1,391 |
 | Lord of War | 31.00% | ~1,347 |
 | Taking it back | 30.00% | ~1,304 |
 | Resourceful | 28.00% | ~1,217 |
@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 663)
 | Liberté | 24.00% | ~1,043 |
 | Organ Grinder | 24.00% | ~1,043 |
 | As Quiet as a Mouse | 24.00% | ~1,043 |
-| Sharpshooter | 23.00% | ~999 |
+| Sharpshooter | 23.00% | ~1,000 |
 | Gunslinger | 20.00% | ~869 |
 | Explosive Efficiency | 20.00% | ~869 |
 | Climbing the Ladder | 17.00% | ~739 |
@@ -34,8 +34,8 @@ Rating: 4.48 (Ranked 663)
 | Opposing Force | 14.00% | ~608 |
 | Enemy at the Gates | 14.00% | ~608 |
 | Set Europe Ablaze | 14.00% | ~608 |
-| Precision Is Key | 10.00% | ~434 |
-| My Little Friend | 10.00% | ~434 |
+| Precision Is Key | 10.00% | ~435 |
+| My Little Friend | 10.00% | ~435 |
 | Rigged to Blow | 9.00% | ~391 |
 | Herr Today, Gone Tomorrow | 7.00% | ~301 |
 | The Long Game | 6.00% | ~261 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 663)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,345 (Ranked 217)  
+Progressed: 4,346 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 11 (0.25%) (Ranked 277)
 | 2024-01-22 | 4,331 | 11 |
 | 2024-01-23 | 4,337 | 11 |
 | 2024-01-24 | 4,341 | 11 |
-| 2024-01-25 | 4,345 | 11 |
+| 2024-01-25 | 4,346 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 527)  
 Sum: 31 (Ranked 548)  

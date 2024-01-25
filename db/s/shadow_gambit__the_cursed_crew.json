@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1565,
+  "EOS_Progressed": 1566,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -5477,6 +5477,11 @@
       "Time": "2024-01-24T15:05:01.8169142+00:00",
       "NumProgressed": 1565,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2024-01-25T20:06:25.7728398+00:00",
+      "NumProgressed": 1566,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5497,7 +5502,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "_03_FinishAct1",
@@ -5505,7 +5510,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5537,7 +5542,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "_08_Completion_10",
@@ -5577,7 +5582,7 @@
       "Name": "Privateer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_13_Completion_60",
@@ -5609,7 +5614,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5631,9 +5636,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 266
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5657,7 +5662,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5665,7 +5670,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5696,7 +5701,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1565,
+      "Progressed": 1566,
       "Completed": 39
     }
   ],
@@ -5704,8 +5709,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:06:42.8423347+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:06:25.7728395+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.079201+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:00:48.0802777+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:06:42.8423916+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:00:43.6021078+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:06:25.7728818+00:00"
 }

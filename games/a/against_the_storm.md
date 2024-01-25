@@ -20,11 +20,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 7.00% | ~1,471 |
 | Frosts | 6.00% | ~1,261 |
 | Land of Greed | 6.00% | ~1,261 |
-| Homesick | 5.00% | ~1,050 |
-| Fertile Meadows | 5.00% | ~1,050 |
-| Royal Outpost | 5.00% | ~1,050 |
-| Watchtower | 5.00% | ~1,050 |
-| A Real Challenge | 5.00% | ~1,050 |
+| Homesick | 5.00% | ~1,051 |
+| Fertile Meadows | 5.00% | ~1,051 |
+| Royal Outpost | 5.00% | ~1,051 |
+| Watchtower | 5.00% | ~1,051 |
+| A Real Challenge | 5.00% | ~1,051 |
 | Ruined Armory | 4.00% | ~840 |
 | Ancient Battleground | 4.00% | ~840 |
 | Levitating Monument | 4.00% | ~840 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,009 (Ranked 157)  
+Progressed: 21,011 (Ranked 157)  
 Completed: 36 (0.17%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 36 (0.17%) (Ranked 296)
 | 2024-01-22 | 20,975 | 34 |
 | 2024-01-23 | 20,986 | 34 |
 | 2024-01-24 | 20,998 | 34 |
-| 2024-01-25 | 21,009 | 36 |
+| 2024-01-25 | 21,011 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 459  (Ranked 233)  
 Sum: 3,417 (Ranked 180)  

@@ -10,7 +10,7 @@
 | Treasure Hunter | 56.00% | ~40 |
 | Crab Cakes | 51.00% | ~36 |
 | Personally Punched | 27.00% | ~19 |
-| Flight of the Raven | 23.00% | ~16 |
+| Flight of the Raven | 24.00% | ~17 |
 | Drop In | 20.00% | ~14 |
 | The Last Bullet | 13.00% | ~9 |
 | Champion of Light | 11.00% | ~8 |

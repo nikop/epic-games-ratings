@@ -7,11 +7,11 @@ Number of Ratings: 88  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~42,295 |
-| First Steps | 80.00% | ~36,382 |
-| Control the Shadows | 67.00% | ~30,470 |
-| Tools of the Trade | 63.00% | ~28,651 |
+| First Steps | 80.00% | ~36,383 |
+| Control the Shadows | 67.00% | ~30,471 |
+| Tools of the Trade | 63.00% | ~28,652 |
 | Apprentice | 60.00% | ~27,287 |
-| Secret Seeker | 57.00% | ~25,922 |
+| Secret Seeker | 57.00% | ~25,923 |
 | Forge of Assassins | 55.00% | ~25,013 |
 | Revenant | 52.00% | ~23,649 |
 | I don’t Care! | 46.00% | ~20,920 |
@@ -26,7 +26,7 @@ Number of Ratings: 88  (23.09.2022)
 | Clinging to Life | 18.00% | ~8,186 |
 | Burning | 17.00% | ~7,731 |
 | Look Behind You | 17.00% | ~7,731 |
-| Sleeping on the Job | 16.00% | ~7,276 |
+| Sleeping on the Job | 16.00% | ~7,277 |
 | Family | 14.00% | ~6,367 |
 | War Engines | 14.00% | ~6,367 |
 | Signature Move | 14.00% | ~6,367 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~4,093 |
 | Denouement | 8.00% | ~3,638 |
 | A Pleasant Stay | 8.00% | ~3,638 |
-| Pilgrimage | 7.00% | ~3,183 |
+| Pilgrimage | 7.00% | ~3,184 |
 | The Lookout | 5.00% | ~2,274 |
 | The Spirit of Vengeance | 5.00% | ~2,274 |
 | Hollow | 5.00% | ~2,274 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~910 |
 | Legacy | 2.00% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,478 (Ranked 132)  
+Progressed: 45,479 (Ranked 132)  
 Completed: 252 (0.55%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 252 (0.55%) (Ranked 224)
 | 2024-01-22 | 45,353 | 251 |
 | 2024-01-23 | 45,390 | 251 |
 | 2024-01-24 | 45,452 | 251 |
-| 2024-01-25 | 45,478 | 252 |
+| 2024-01-25 | 45,479 | 252 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

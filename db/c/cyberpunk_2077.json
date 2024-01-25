@@ -19100,9 +19100,9 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058686,
+  "EOS_Progressed": 1058710,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4252,
+  "EOS_NewPlayers": 4250,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51240,6 +51240,11 @@
       "Time": "2024-01-25T19:09:41.3607329+00:00",
       "NumProgressed": 1058686,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T20:09:33.0313539+00:00",
+      "NumProgressed": 1058710,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51292,7 +51297,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "Fortuneteller",
@@ -51348,7 +51353,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -51380,7 +51385,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "MustBeTheRats",
@@ -51476,7 +51481,7 @@
       "Name": "The Hermit",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8469
+      "UsersEstimate": 8470
     },
     {
       "ID": "TheHightPriestess",
@@ -51484,7 +51489,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8469
+      "UsersEstimate": 8470
     },
     {
       "ID": "TheLovers",
@@ -51516,7 +51521,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8469
+      "UsersEstimate": 8470
     },
     {
       "ID": "TheWorld",
@@ -51548,7 +51553,7 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8469
+      "UsersEstimate": 8470
     },
     {
       "ID": "TrueWarrior",
@@ -51556,7 +51561,7 @@
       "Name": "True Warrior",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -51787,21 +51792,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058686,
+      "Progressed": 1058710,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187309,
+      "Progressed": 187333,
       "Completed": 10701
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-25T18:03:50.5660563+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:09:41.3607325+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:09:33.0313534+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:03:33.7034795+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:09:41.3609151+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:03:17.5077283+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:09:33.031538+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 4.60 (Ranked 432)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~197 |
+| Beginner | 90.00% | ~198 |
 | Map reader | 66.00% | ~145 |
-| Adventurer | 65.00% | ~142 |
-| Philanthropist | 62.00% | ~136 |
-| The brave little tailor | 43.00% | ~94 |
-| Archer | 43.00% | ~94 |
+| Adventurer | 65.00% | ~143 |
+| Philanthropist | 61.00% | ~134 |
+| The brave little tailor | 43.00% | ~95 |
+| Archer | 43.00% | ~95 |
 | Field hand | 40.00% | ~88 |
-| Well-to-do | 34.00% | ~74 |
-| Samaritan | 31.00% | ~68 |
+| Well-to-do | 34.00% | ~75 |
 | The merciful one | 30.00% | ~66 |
+| Samaritan | 30.00% | ~66 |
 | Ladies' man | 30.00% | ~66 |
 | Ferocious wild boars | 25.00% | ~55 |
 | Idiot | 25.00% | ~55 |
 | Beast slayer | 22.00% | ~48 |
 | Ogre friend | 22.00% | ~48 |
 | Death of a legend | 21.00% | ~46 |
-| Archaeologist | 21.00% | ~46 |
 | Family man | 20.00% | ~44 |
+| Archaeologist | 20.00% | ~44 |
 | Sidelined | 19.00% | ~42 |
-| Little hero | 18.00% | ~39 |
-| The fourth triplet | 18.00% | ~39 |
+| Little hero | 18.00% | ~40 |
+| The fourth triplet | 18.00% | ~40 |
 | Wise man | 17.00% | ~37 |
 | Pandora's box | 16.00% | ~35 |
-| Ghost hunter | 16.00% | ~35 |
 | Hard worker | 16.00% | ~35 |
 | Fence | 16.00% | ~35 |
 | Defender | 15.00% | ~33 |
+| Ghost hunter | 15.00% | ~33 |
 | Master detective | 15.00% | ~33 |
 | Showdown | 14.00% | ~31 |
 | Workaholic | 14.00% | ~31 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 432)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219 (Ranked 432)  
+Progressed: 220 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-21 | 213 | 0 |
 | 2024-01-23 | 216 | 0 |
 | 2024-01-24 | 217 | 0 |
-| 2024-01-25 | 219 | 0 |
+| 2024-01-25 | 220 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

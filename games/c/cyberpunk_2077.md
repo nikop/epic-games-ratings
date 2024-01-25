@@ -8,10 +8,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.90% | ~9,528 |
 | Right Back At Ya | 0.90% | ~9,528 |
-| The Hermit | 0.80% | ~8,469 |
-| The High Priestess | 0.80% | ~8,469 |
-| The Wheel of Fortune | 0.80% | ~8,469 |
-| True Soldier | 0.80% | ~8,469 |
+| The Hermit | 0.80% | ~8,470 |
+| The High Priestess | 0.80% | ~8,470 |
+| The Wheel of Fortune | 0.80% | ~8,470 |
+| True Soldier | 0.80% | ~8,470 |
 | Christmas Tree Attack | 0.70% | ~7,411 |
 | Life of the Road | 0.70% | ~7,411 |
 | Stanislavski's Method | 0.70% | ~7,411 |
@@ -25,10 +25,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.60% | ~6,352 |
 | The World | 0.60% | ~6,352 |
 | Judy vs Night City | 0.60% | ~6,352 |
-| To Protect and Serve | 0.50% | ~5,293 |
-| I Am The Law | 0.50% | ~5,293 |
-| The Quick and the Dead | 0.50% | ~5,293 |
-| True Warrior | 0.50% | ~5,293 |
+| To Protect and Serve | 0.50% | ~5,294 |
+| I Am The Law | 0.50% | ~5,294 |
+| The Quick and the Dead | 0.50% | ~5,294 |
+| True Warrior | 0.50% | ~5,294 |
 | Two Heads, One Bullet | 0.40% | ~4,235 |
 | Spin Doctor | 0.40% | ~749 |
 | To Bad Decisions! | 0.30% | ~3,176 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,686 (Ranked 17)  
+Progressed: 1,058,710 (Ranked 17)  
 Completed: 3,163 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 3,163 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,686 | 3,163 |
+| 2024-01-25 | 1,058,710 | 3,163 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
 Sum: 519,758 (Ranked 8)  

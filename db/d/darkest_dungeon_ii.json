@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11182,18 +11182,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 21860,
       "NumberOfAwardsMax": 8073
+    },
+    {
+      "Time": "2024-01-25T19:57:23.2090325+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21865,
+      "NumberOfAwardsMax": 8078
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21860,
-  "NumberOfAwardsMax": 8073,
+  "NumberOfAwards": 21865,
+  "NumberOfAwardsMax": 8078,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8073
+      "Count": 8078
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11262,9 +11268,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133679,
+  "EOS_Progressed": 133681,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41462,6 +41468,11 @@
       "Time": "2024-01-25T19:10:51.0622198+00:00",
       "NumProgressed": 133679,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T20:10:44.3641556+00:00",
+      "NumProgressed": 133681,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -42033,7 +42044,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -42041,7 +42052,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -42049,7 +42060,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -42057,7 +42068,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -42073,7 +42084,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -42081,7 +42092,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -42089,7 +42100,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -42104,21 +42115,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133679,
+      "Progressed": 133681,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8548,
+      "Progressed": 8550,
       "Completed": 831
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-25T14:57:32.90618+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:10:51.0622195+00:00",
+  "LastChanged": "2024-01-25T19:57:23.2090322+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:10:44.3641553+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:57:26.9759353+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:10:51.0623798+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:57:23.2090329+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:10:44.3643187+00:00"
 }

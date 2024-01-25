@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9835,9 +9835,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255592,
+  "EOS_Progressed": 255606,
   "EOS_Completed": 2644,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41665,6 +41665,11 @@
       "Time": "2024-01-25T19:11:01.8410223+00:00",
       "NumProgressed": 255592,
       "NumCompleted": 2644
+    },
+    {
+      "Time": "2024-01-25T20:10:54.7610964+00:00",
+      "NumProgressed": 255606,
+      "NumCompleted": 2644
     }
   ],
   "TotalAchievements": 546,
@@ -45948,7 +45953,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "objective_completed_1352",
@@ -45956,7 +45961,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "objective_completed_1557",
@@ -45972,7 +45977,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "objective_completed_1562",
@@ -45988,7 +45993,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "objective_completed_598",
@@ -46043,21 +46048,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221866,
+      "Progressed": 221880,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255592,
+      "Progressed": 255606,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-25T16:59:49.7154831+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:11:01.8410219+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:10:54.7610961+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:59:52.7290284+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:11:01.8435175+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:48.1683785+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:10:54.7634281+00:00"
 }

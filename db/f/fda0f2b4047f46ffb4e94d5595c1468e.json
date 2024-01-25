@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5673,9 +5673,9 @@
       "Count": 690
     }
   ],
-  "EOS_Progressed": 24223,
+  "EOS_Progressed": 24224,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17963,6 +17963,11 @@
       "Time": "2024-01-25T18:09:56.2645297+00:00",
       "NumProgressed": 24223,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T20:09:28.1886782+00:00",
+      "NumProgressed": 24224,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17983,7 +17988,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4602
+      "UsersEstimate": 4603
     },
     {
       "ID": "ach03",
@@ -17991,7 +17996,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10900
+      "UsersEstimate": 10901
     },
     {
       "ID": "ach04",
@@ -17999,7 +18004,7 @@
       "Name": "What Just Happened??",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 7751
+      "UsersEstimate": 7752
     },
     {
       "ID": "ach05",
@@ -18031,7 +18036,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7751
+      "UsersEstimate": 7752
     },
     {
       "ID": "ach09",
@@ -18087,7 +18092,7 @@
       "Name": "Give A Koin",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4602
+      "UsersEstimate": 4603
     },
     {
       "ID": "ach16",
@@ -18215,7 +18220,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "ach32",
@@ -18303,7 +18308,7 @@
       "Name": "Quest Master",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7751
+      "UsersEstimate": 7752
     },
     {
       "ID": "ach43",
@@ -18374,7 +18379,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24223,
+      "Progressed": 24224,
       "Completed": 2
     }
   ],
@@ -18382,8 +18387,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-25T19:03:17.4409617+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:09:36.4709759+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:09:28.1886779+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:03:17.4409621+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:09:36.4710466+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:03:01.1410517+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:09:28.1887713+00:00"
 }

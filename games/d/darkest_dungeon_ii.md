@@ -8,13 +8,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,282 |
 | Autodidact | 9.00% | ~12,031 |
-| Lost and Found | 9.00% | ~769 |
+| Lost and Found | 9.00% | ~770 |
 | This guy... again? | 8.00% | ~684 |
 | Serenity Now! | 7.00% | ~9,358 |
 | This Belongs in a Museum | 7.00% | ~9,358 |
 | Creep and Sleep | 7.00% | ~9,358 |
 | Overdue Notice | 7.00% | ~9,358 |
-| Ploughshares to Swords | 7.00% | ~598 |
+| Ploughshares to Swords | 7.00% | ~599 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,021 |
 | It Rings a Bell | 6.00% | ~8,021 |
 | Meat and Greet | 6.00% | ~8,021 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,684 |
 | A Place to Lay Your Head | 5.00% | ~6,684 |
 | Nope | 5.00% | ~6,684 |
-| Friends 'Til the End | 5.00% | ~427 |
+| Friends 'Til the End | 5.00% | ~428 |
 | Resurrection | 4.00% | ~5,347 |
 | Unleash Hell | 4.00% | ~5,347 |
 | Funny Guy | 4.00% | ~5,347 |
@@ -65,10 +65,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 1.00% | ~1,337 |
 | Shrine of Reflection | 1.00% | ~1,337 |
 | Triage | 1.00% | ~1,337 |
-| No Mercy | 1.00% | ~85 |
-| Slap on the Wrist | 1.00% | ~85 |
-| Et Tu, Riposte? | 1.00% | ~85 |
-| For Old Time' Sake | 1.00% | ~85 |
+| No Mercy | 1.00% | ~86 |
+| Slap on the Wrist | 1.00% | ~86 |
+| Et Tu, Riposte? | 1.00% | ~86 |
+| For Old Time' Sake | 1.00% | ~86 |
 | The World As It Was | 0.80% | ~1,069 |
 | A Life Well Lived | 0.70% | ~936 |
 | Bacon Bits | 0.70% | ~936 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,679 (Ranked 92)  
+Progressed: 133,681 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,14 +356,14 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,679 | 5 |
+| 2024-01-25 | 133,681 | 5 |
 ## Awards
-Max (Character Customization): 8,073  (Ranked 52)  
-Sum: 21,860 (Ranked 60)  
+Max (Character Customization): 8,078  (Ranked 52)  
+Sum: 21,865 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,073 |
+| This game has Inclusive Character Customization | 8,078 |
 | This game has Diverse Characters | 1,890 |
 | This game has Challenging Combat | 1,696 |
 | This game is Highly Recommended | 1,618 |
@@ -740,4 +740,4 @@ Diff (max vs sum): -8
 | 2024-01-22 | 4.69 | - | 8,062 | 21,824 |
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
 | 2024-01-24 | 4.69 | - | 8,073 | 21,856 |
-| 2024-01-25 | 4.69 | - | 8,073 | 21,860 |
+| 2024-01-25 | 4.69 | - | 8,078 | 21,865 |

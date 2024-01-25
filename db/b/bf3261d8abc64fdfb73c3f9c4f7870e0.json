@@ -2,9 +2,9 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2024-01-25T19:10:19.2053198+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T20:10:12.0904693+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -711,7 +716,7 @@
       "Name": "Altruist",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_appearance_of_god_gleda",
@@ -791,7 +796,7 @@
       "Name": "Death to the javelin thrower",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_drunk_lucky",
@@ -799,7 +804,7 @@
       "Name": "The luck of drunkards",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_egoist",
@@ -807,7 +812,7 @@
       "Name": "Egomaniac",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_feng_is_my_choise",
@@ -823,7 +828,7 @@
       "Name": "True to the clan",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_fidelity_to_the_word",
@@ -831,7 +836,7 @@
       "Name": "Oath-keeper",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_flit_alive",
@@ -839,7 +844,7 @@
       "Name": "The luck of wiseguys",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_fortune",
@@ -911,15 +916,15 @@
       "Name": "A friend in need",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_madman",
@@ -951,7 +956,7 @@
       "Name": "The monk",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_most_dangerous_man",
@@ -991,7 +996,7 @@
       "Name": "In a rush",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_save_the_king",
@@ -999,7 +1004,7 @@
       "Name": "Save the King",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_save_the_prince",
@@ -1007,7 +1012,7 @@
       "Name": "Save the Prince",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_silly_death",
@@ -1023,7 +1028,7 @@
       "Name": "The Baptism of the Triune",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_the_most_difficult_decision",
@@ -1031,7 +1036,7 @@
       "Name": "The hardest choice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_thorn_alive",
@@ -1047,7 +1052,7 @@
       "Name": "My name is Thorn",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_thrifty",
@@ -1055,7 +1060,7 @@
       "Name": "Parsimonious",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_torn_strands",
@@ -1087,7 +1092,7 @@
       "Name": "We\u0027re saved (Philia)",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_we_are_saved_rit",
@@ -1110,14 +1115,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:10:19.2053194+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:10:12.0904691+00:00",
   "LastUpdate_AppInfo": "2024-01-24T16:57:07.0013453+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:58:07.58291+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:10:19.205354+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:58:03.9839741+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:10:12.0904984+00:00"
 }

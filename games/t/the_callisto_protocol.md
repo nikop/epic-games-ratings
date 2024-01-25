@@ -5,28 +5,28 @@ Rating: 4.22 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,368 |
-| The Outer Way | 28.00% | ~6,368 |
-| Desperate Times | 27.00% | ~6,140 |
+| Flesh Wound | 28.00% | ~6,369 |
+| The Outer Way | 28.00% | ~6,369 |
+| Desperate Times | 27.00% | ~6,141 |
 | Paper Jams | 25.00% | ~5,686 |
-| Get a Grip | 24.00% | ~5,458 |
-| Chew 'Em Up | 22.00% | ~5,003 |
+| Get a Grip | 24.00% | ~5,459 |
+| Chew 'Em Up | 22.00% | ~5,004 |
 | Reforged | 21.00% | ~4,776 |
-| Float Like A Butterfly | 20.00% | ~4,548 |
-| If the SHU Fits... | 19.00% | ~4,321 |
+| Float Like A Butterfly | 19.00% | ~4,322 |
+| If the SHU Fits... | 19.00% | ~4,322 |
 | Workplace Hazard | 18.00% | ~4,094 |
 | Without A Paddle | 16.00% | ~3,639 |
 | In the Pipe, Five by Five | 14.00% | ~3,184 |
 | Crash Site | 14.00% | ~3,184 |
-| Two Heads Are Better Than One | 13.00% | ~2,956 |
-| Power Up | 13.00% | ~2,956 |
+| Two Heads Are Better Than One | 13.00% | ~2,957 |
+| Power Up | 13.00% | ~2,957 |
 | Giving Back | 12.00% | ~2,729 |
 | Terminated | 12.00% | ~2,729 |
 | What Lies Beneath | 12.00% | ~2,729 |
 | Full Circle | 12.00% | ~2,729 |
 | You Need a Gun | 10.00% | ~2,274 |
 | I Do Belong Here | 9.00% | ~2,047 |
-| Keep Fighting | 8.00% | ~853 |
+| Keep Fighting | 8.00% | ~854 |
 | In Striking Distance | 6.00% | ~1,365 |
 | The Commonality | 6.00% | ~1,365 |
 | It's Time | 6.00% | ~640 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 958)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,742 (Ranked 153)  
+Progressed: 22,745 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 82 (0.36%) (Ranked 256)
 | 2024-01-22 | 22,675 | 82 |
 | 2024-01-23 | 22,690 | 82 |
 | 2024-01-24 | 22,722 | 82 |
-| 2024-01-25 | 22,742 | 82 |
+| 2024-01-25 | 22,745 | 82 |
 ## Awards
 Max (Amazing Characters): 143  (Ranked 344)  
 Sum: 691 (Ranked 315)  

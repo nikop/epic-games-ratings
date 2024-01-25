@@ -5,19 +5,19 @@ Rating: 4.16 (Ranked 1,003)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,207 |
+| Attachments | 13.00% | ~6,208 |
 | Unlocked Potential | 12.00% | ~5,730 |
-| Tinkerer | 9.00% | ~4,297 |
+| Tinkerer | 9.00% | ~4,298 |
 | Leapfrogger | 8.00% | ~3,820 |
 | Knock 'Em Dead | 8.00% | ~3,820 |
 | Pilgrimage: Initiate | 8.00% | ~3,820 |
 | Hell of a Run | 8.00% | ~3,820 |
-| Call of the Fount: Baptized | 7.00% | ~3,342 |
+| Call of the Fount: Baptized | 7.00% | ~3,343 |
 | No Mercy | 6.00% | ~2,865 |
 | Explorer: Seeker | 6.00% | ~2,865 |
 | Help Me Out Here | 6.00% | ~2,865 |
-| Through the Eyes of Another: Empath | 5.00% | ~2,387 |
-| Stuck | 5.00% | ~2,387 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,388 |
+| Stuck | 5.00% | ~2,388 |
 | The Interloper | 4.00% | ~1,910 |
 | Outdoorsperson | 3.00% | ~1,432 |
 | Damned If You Do... | 3.00% | ~1,432 |
@@ -30,10 +30,10 @@ Rating: 4.16 (Ranked 1,003)
 | Explorer: Pathfinder | 2.00% | ~955 |
 | Shocker | 2.00% | ~955 |
 | From Every Angle | 2.00% | ~955 |
-| The Truth Will Out | 1.00% | ~477 |
-| None the Wiser | 1.00% | ~477 |
-| Forspoken | 1.00% | ~477 |
-| Pilgrimage: Novice | 1.00% | ~477 |
+| The Truth Will Out | 1.00% | ~478 |
+| None the Wiser | 1.00% | ~478 |
+| Forspoken | 1.00% | ~478 |
+| Pilgrimage: Novice | 1.00% | ~478 |
 | Wildfire | 0.80% | ~382 |
 | Awakening | 0.70% | ~334 |
 | Realized Potential | 0.70% | ~334 |
@@ -45,10 +45,10 @@ Rating: 4.16 (Ranked 1,003)
 | A Roaring Trade | 0.30% | ~143 |
 | Promises | 0.30% | ~143 |
 | Rebirth | 0.30% | ~143 |
-| Paragon | 0.20% | ~95 |
-| Pilgrimage: Adept | 0.20% | ~95 |
-| Call of the Fount: Beatified | 0.20% | ~95 |
-| I Can Fly! | 0.20% | ~95 |
+| Paragon | 0.20% | ~96 |
+| Pilgrimage: Adept | 0.20% | ~96 |
+| Call of the Fount: Beatified | 0.20% | ~96 |
+| I Can Fly! | 0.20% | ~96 |
 | Abominizer | 0.10% | ~48 |
 | Through the Eyes of Another: Visionary | 0.10% | ~48 |
 | Kit and Caboodle | 0.10% | ~48 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,003)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,746 (Ranked 130)  
+Progressed: 47,750 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 4 (0.01%) (Ranked 384)
 | 2024-01-22 | 47,656 | 4 |
 | 2024-01-23 | 47,688 | 4 |
 | 2024-01-24 | 47,712 | 4 |
-| 2024-01-25 | 47,746 | 4 |
+| 2024-01-25 | 47,750 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 457)  
 Sum: 79 (Ranked 491)  

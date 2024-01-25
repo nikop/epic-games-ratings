@@ -8,25 +8,25 @@
 | Strong Silent Type | 91.00% | ~318 |
 | Play Me By The Hour | 69.00% | ~241 |
 | Patient Listener | 46.00% | ~161 |
-| Video Saved The Radio Star | 40.00% | ~140 |
+| Video Saved The Radio Star | 39.00% | ~136 |
 | Hashtag Winning | 36.00% | ~126 |
 | A Woman Scorned | 27.00% | ~94 |
-| Look Mum I'm A Detective | 21.00% | ~73 |
+| Look Mum I'm A Detective | 21.00% | ~74 |
 | Chameleon | 20.00% | ~70 |
-| Highlander | 17.00% | ~59 |
+| Highlander | 17.00% | ~60 |
 | You Had One Job | 14.00% | ~49 |
-| Book 'em Danny | 13.00% | ~45 |
+| Book 'em Danny | 13.00% | ~46 |
 | Poetent | 12.00% | ~42 |
 | Oscar Winning Performance | 11.00% | ~38 |
 | Voyeur | 11.00% | ~38 |
-| Put A Ring On It | 9.00% | ~31 |
+| Put A Ring On It | 9.00% | ~32 |
 | Heavy Rayne | 8.00% | ~28 |
-| Chicken | 7.00% | ~24 |
-| Show Me Some Skin | 5.00% | ~17 |
-| The Big Sleep | 5.00% | ~17 |
+| Chicken | 7.00% | ~25 |
+| Show Me Some Skin | 5.00% | ~18 |
+| The Big Sleep | 5.00% | ~18 |
 | Bullseye | 4.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 388)  
+Progressed: 350 (Ranked 387)  
 Completed: 3 (0.86%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 3 (0.86%) (Ranked 198)
 | 2024-01-21 | 343 | 3 |
 | 2024-01-22 | 346 | 3 |
 | 2024-01-23 | 348 | 3 |
-| 2024-01-25 | 349 | 3 |
+| 2024-01-25 | 350 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

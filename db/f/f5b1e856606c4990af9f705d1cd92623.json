@@ -2,9 +2,9 @@
   "ID": "f5b1e856606c4990af9f705d1cd92623",
   "Name": "Womanizer",
   "ProductSlug": "womanizer-a847b6",
-  "Ranking_EOS_Progress": 851,
+  "Ranking_EOS_Progress": 852,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.3721261+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:00:29.4345684+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:04:18.3175042+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:00:25.5344399+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:04:02.468966+00:00"
 }

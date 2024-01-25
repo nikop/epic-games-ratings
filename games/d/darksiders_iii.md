@@ -37,9 +37,9 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 26.00% | ~182 |
 | Seeing Red | 26.00% | ~182 |
 | Crowd Source | 26.00% | ~182 |
+| Maximum Capacity | 24.00% | ~168 |
 | Demon Meddler | 24.00% | ~168 |
 | Egomaniac | 24.00% | ~168 |
-| Maximum Capacity | 23.00% | ~161 |
 | Protector of Humanity | 23.00% | ~161 |
 | Everybody Wants to Rule the World | 23.00% | ~161 |
 | Path of the Horseman | 16.00% | ~112 |

@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 970,
+  "EOS_Progressed": 971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3074,6 +3074,11 @@
       "Time": "2024-01-25T19:05:43.20206+00:00",
       "NumProgressed": 970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T20:05:26.4933104+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3148,9 +3153,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 689
+      "UsersEstimate": 680
     },
     {
       "ID": "REMAKE_004",
@@ -3158,7 +3163,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Remake_005",
@@ -3198,7 +3203,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Remake_010",
@@ -3309,14 +3314,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 970,
+      "Progressed": 971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:05:43.2020597+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:05:26.4933101+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:00:00.0464448+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:05:43.2020895+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:56.1780501+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:05:26.4933384+00:00"
 }

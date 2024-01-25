@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47746,
+  "EOS_Progressed": 47750,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19904,6 +19904,11 @@
       "Time": "2024-01-25T19:05:24.8639409+00:00",
       "NumProgressed": 47746,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T20:05:08.275714+00:00",
+      "NumProgressed": 47750,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19947,7 +19952,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -19963,7 +19968,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19971,7 +19976,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -20019,7 +20024,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -20035,7 +20040,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -20043,7 +20048,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -20067,7 +20072,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     },
     {
       "ID": "CUFF_ATTACK",
@@ -20147,7 +20152,7 @@
       "Name": "Paragon",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MAGIC_BREAK",
@@ -20195,7 +20200,7 @@
       "Name": "Pilgrimage: Adept",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MONUMENT_FIRST",
@@ -20211,7 +20216,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -20259,7 +20264,7 @@
       "Name": "Call of the Fount: Beatified",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "SPRING_FIRST",
@@ -20267,7 +20272,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "STAYING_AIR",
@@ -20275,7 +20280,7 @@
       "Name": "I Can Fly!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "STEALTH",
@@ -20338,22 +20343,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47746,
+      "Progressed": 47750,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12583,
-      "Completed": 12583
+      "Progressed": 12587,
+      "Completed": 12587
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:05:24.8639405+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:05:08.2757138+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:03:23.2202792+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:05:24.8640795+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:03:06.7622448+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:05:08.2758165+00:00"
 }

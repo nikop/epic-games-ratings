@@ -1929,9 +1929,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90411,
+  "EOS_Progressed": 90415,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1752,
+  "EOS_NewPlayers": 1740,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18179,6 +18179,11 @@
       "Time": "2024-01-25T19:08:37.8139172+00:00",
       "NumProgressed": 90411,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-25T20:08:29.3246234+00:00",
+      "NumProgressed": 90415,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18191,7 +18196,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42493
+      "UsersEstimate": 42495
     },
     {
       "ID": "10",
@@ -18255,7 +18260,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18986
+      "UsersEstimate": 18987
     },
     {
       "ID": "3",
@@ -18295,7 +18300,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24411
+      "UsersEstimate": 24412
     },
     {
       "ID": "8",
@@ -18318,7 +18323,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90411,
+      "Progressed": 90415,
       "Completed": 77
     }
   ],
@@ -18326,8 +18331,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-25T13:06:04.9842638+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:08:37.8139168+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:08:29.3246226+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:59:29.482533+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:08:37.8140049+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:25.139332+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:08:29.3247107+00:00"
 }

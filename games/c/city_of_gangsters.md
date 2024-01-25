@@ -5,15 +5,15 @@ Rating: 4.29 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,268 |
-| Copacetic Coordination | 16.00% | ~58,180 |
-| Fronting the Money | 15.00% | ~54,544 |
+| Corner Clout | 46.00% | ~167,270 |
+| Copacetic Coordination | 16.00% | ~58,181 |
+| Fronting the Money | 15.00% | ~54,545 |
 | The Dawn of Automation | 14.00% | ~50,908 |
 | Extraordinary Logistics | 14.00% | ~50,908 |
-| Dirty Money | 13.00% | ~47,271 |
-| Family First | 13.00% | ~47,271 |
-| Cleaning House | 12.00% | ~43,635 |
-| Room in the Back | 12.00% | ~43,635 |
+| Dirty Money | 13.00% | ~47,272 |
+| Family First | 13.00% | ~47,272 |
+| Cleaning House | 12.00% | ~43,636 |
+| Room in the Back | 12.00% | ~43,636 |
 | Beating the Heat | 11.00% | ~39,999 |
 | Booze Baron | 11.00% | ~39,999 |
 | Friends on the Force | 10.00% | ~36,363 |
@@ -29,13 +29,13 @@ Rating: 4.29 (Ranked 890)
 | Wise Head | 6.00% | ~21,818 |
 | Show ‘em the Sugar | 6.00% | ~21,818 |
 | Killing Them Softly | 6.00% | ~21,818 |
-| Street Knowledge | 5.00% | ~18,181 |
-| Oh Captain | 5.00% | ~18,181 |
-| Branching Out | 5.00% | ~18,181 |
-| Improvement Missions | 5.00% | ~18,181 |
-| Opportunity Knocked | 5.00% | ~18,181 |
-| City of Big Shoulders | 5.00% | ~18,181 |
-| Mission Mastery | 5.00% | ~18,181 |
+| Street Knowledge | 5.00% | ~18,182 |
+| Oh Captain | 5.00% | ~18,182 |
+| Branching Out | 5.00% | ~18,182 |
+| Improvement Missions | 5.00% | ~18,182 |
+| Opportunity Knocked | 5.00% | ~18,182 |
+| City of Big Shoulders | 5.00% | ~18,182 |
+| Mission Mastery | 5.00% | ~18,182 |
 | Considerable Clams | 4.00% | ~14,545 |
 | Gin Joint | 4.00% | ~14,545 |
 | An Affront to the Enemy | 4.00% | ~14,545 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 890)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,626 (Ranked 58)  
+Progressed: 363,631 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 7 (0.00%) (Ranked 410)
 | 2024-01-22 | 363,281 | 7 |
 | 2024-01-23 | 363,415 | 7 |
 | 2024-01-24 | 363,529 | 7 |
-| 2024-01-25 | 363,626 | 7 |
+| 2024-01-25 | 363,631 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 446)  
 Sum: 276 (Ranked 396)  

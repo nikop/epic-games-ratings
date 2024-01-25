@@ -1,24 +1,24 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 695)  
+Rating: 4.45 (Ranked 696)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~22,415 |
-| Mama? | 27.00% | ~7,963 |
-| People's Haven | 18.00% | ~5,309 |
-| Cartographer | 16.00% | ~4,719 |
-| Knowledge for Power | 14.00% | ~4,129 |
-| Antlers of Stone | 14.00% | ~4,129 |
-| Gaze into the abyss | 13.00% | ~3,834 |
-| Mausoleum of Ice | 13.00% | ~3,834 |
-| Wings of Stone | 12.00% | ~3,539 |
-| Equilibrium | 12.00% | ~3,539 |
-| In the belly of the beast | 11.00% | ~3,244 |
-| Condor condo | 10.00% | ~2,949 |
-| Memorial | 9.00% | ~2,654 |
+| Light at the end of the tunnel | 76.00% | ~22,418 |
+| Mama? | 27.00% | ~7,964 |
+| People's Haven | 18.00% | ~5,310 |
+| Cartographer | 16.00% | ~4,720 |
+| Knowledge for Power | 14.00% | ~4,130 |
+| Antlers of Stone | 14.00% | ~4,130 |
+| Gaze into the abyss | 13.00% | ~3,835 |
+| Mausoleum of Ice | 13.00% | ~3,835 |
+| Wings of Stone | 12.00% | ~3,540 |
+| Equilibrium | 12.00% | ~3,540 |
+| In the belly of the beast | 11.00% | ~3,245 |
+| Condor condo | 10.00% | ~2,950 |
+| Memorial | 9.00% | ~2,655 |
 | An uninvited guest | 7.00% | ~2,065 |
 | Tails of Stone | 6.00% | ~1,770 |
 | Baa from the past | 6.00% | ~1,770 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,475 |
 | Hide and Seek | 4.00% | ~1,180 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,493 (Ranked 145)  
+Progressed: 29,498 (Ranked 145)  
 Completed: 544 (1.84%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 544 (1.84%) (Ranked 147)
 | 2024-01-22 | 29,323 | 539 |
 | 2024-01-23 | 29,381 | 541 |
 | 2024-01-24 | 29,437 | 543 |
-| 2024-01-25 | 29,493 | 544 |
+| 2024-01-25 | 29,498 | 544 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

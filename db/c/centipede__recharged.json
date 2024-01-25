@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25615,
+  "EOS_Progressed": 25616,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -24140,6 +24140,11 @@
       "Time": "2024-01-25T19:04:38.5923769+00:00",
       "NumProgressed": 25615,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-25T20:04:22.4556189+00:00",
+      "NumProgressed": 25616,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 16,
@@ -24151,7 +24156,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "Burning_For_You",
@@ -24199,7 +24204,7 @@
       "Name": "Fireworks",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7428
+      "UsersEstimate": 7429
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -24247,7 +24252,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 12039
+      "UsersEstimate": 12040
     },
     {
       "ID": "Sole_Survivor",
@@ -24263,7 +24268,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "The_Reaper",
@@ -24278,15 +24283,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25615,
+      "Progressed": 25616,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:04:38.5923765+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:04:22.4556185+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:59:13.3473404+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:04:38.5925162+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:09.3564317+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:04:22.4557431+00:00"
 }

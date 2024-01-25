@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 129863,
+  "EOS_Progressed": 129864,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 8007,
+  "EOS_NewPlayers": 7991,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -15028,6 +15028,11 @@
       "Time": "2024-01-25T19:10:20.4139616+00:00",
       "NumProgressed": 129863,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2024-01-25T20:10:13.2638109+00:00",
+      "NumProgressed": 129864,
+      "NumCompleted": 320
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -15120,7 +15125,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 19479
+      "UsersEstimate": 19480
     },
     {
       "ID": "achievement_2",
@@ -15144,7 +15149,7 @@
       "Name": "Fried Friendship",
       "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 107786
+      "UsersEstimate": 107787
     },
     {
       "ID": "achievement_4",
@@ -15176,7 +15181,7 @@
       "Name": "Look At Him Go",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 90904
+      "UsersEstimate": 90905
     },
     {
       "ID": "achievement_8",
@@ -15184,7 +15189,7 @@
       "Name": "Break the Bank",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 44153
+      "UsersEstimate": 44154
     },
     {
       "ID": "achievement_9",
@@ -15199,13 +15204,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 129863,
+      "Progressed": 129864,
       "Completed": 320
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:10:20.4139611+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:10:13.2638105+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:28.4130551+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:58:11.9869527+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:10:20.4140491+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:58:08.3824145+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:10:13.2639341+00:00"
 }

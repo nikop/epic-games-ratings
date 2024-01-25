@@ -5,9 +5,9 @@
   "Ranking_Rating": 432,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2024-01-25T07:11:08.7268317+00:00",
       "NumProgressed": 219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T20:10:45.5568261+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1196,9 +1201,9 @@
       "ID": "id_15",
       "SetID": "bk9jib6",
       "Name": "Archaeologist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "id_16",
@@ -1206,7 +1211,7 @@
       "Name": "Little hero",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "id_17",
@@ -1252,9 +1257,9 @@
       "ID": "id_22",
       "SetID": "bk9jib6",
       "Name": "Ghost hunter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "id_23",
@@ -1284,9 +1289,9 @@
       "ID": "id_3",
       "SetID": "bk9jib6",
       "Name": "Philanthropist",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "id_30",
@@ -1294,7 +1299,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "id_32",
@@ -1302,7 +1307,7 @@
       "Name": "The brave little tailor",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "id_33",
@@ -1340,9 +1345,9 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "id_42",
@@ -1430,7 +1435,7 @@
       "Name": "The fourth triplet",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "id_52",
@@ -1478,7 +1483,7 @@
       "Name": "Well-to-do",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "id_58",
@@ -1510,7 +1515,7 @@
       "Name": "Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "id_61",
@@ -1526,7 +1531,7 @@
       "Name": "Archer",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "id_63",
@@ -1565,7 +1570,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
@@ -1573,8 +1578,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-23T07:58:03.0213159+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:10:52.3896052+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:10:45.5568257+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:59:44.3216644+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:10:52.3896421+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:39.822896+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:10:45.5568639+00:00"
 }

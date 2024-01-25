@@ -2,9 +2,9 @@
   "ID": "c29a096e453645309273f04dd3c09bfb",
   "Name": "Loca Deserta: Odesa",
   "ProductSlug": "loca-deserta-odesa-3f480b",
-  "Ranking_EOS_Progress": 851,
+  "Ranking_EOS_Progress": 852,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-21T19:04:42.5973794+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:05:53.5408927+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:05:36.6029733+00:00",
   "LastUpdate_AppInfo": "2024-01-21T18:57:24.9931775+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:59:30.4975345+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:05:53.5408941+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:26.029555+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:05:36.6029855+00:00"
 }

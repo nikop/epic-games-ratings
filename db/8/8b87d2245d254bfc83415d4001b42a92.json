@@ -2,9 +2,9 @@
   "ID": "8b87d2245d254bfc83415d4001b42a92",
   "Name": "My Island",
   "ProductSlug": "my-island-6fc611",
-  "Ranking_EOS_Progress": 851,
+  "Ranking_EOS_Progress": 852,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-02-08T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T15:57:03.4290022+00:00",
-  "LastUpdate_Ratings": "2024-01-25T18:59:27.0137063+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:06:10.6428184+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:22.6497431+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:05:54.105338+00:00"
 }

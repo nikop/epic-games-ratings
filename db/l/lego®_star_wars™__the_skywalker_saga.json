@@ -3,7 +3,7 @@
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
   "Ranking_Rating": 123,
-  "Ranking_Popularity": 111,
+  "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 241,
@@ -4275,18 +4275,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 6892,
       "NumberOfAwardsMax": 2518
+    },
+    {
+      "Time": "2024-01-25T20:02:53.5291662+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 6895,
+      "NumberOfAwardsMax": 2521
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6892,
-  "NumberOfAwardsMax": 2518,
+  "NumberOfAwards": 6895,
+  "NumberOfAwardsMax": 2521,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2518
+      "Count": 2521
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4357,7 +4363,7 @@
   ],
   "EOS_Progressed": 59806,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -20116,9 +20122,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2024-01-24T03:02:54.3716333+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:09:10.9086255+00:00",
+  "LastChanged": "2024-01-25T20:02:53.5291659+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:09:02.5251141+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.6764829+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:03:09.679237+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:09:10.9087546+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:02:53.5291664+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:09:02.5252179+00:00"
 }

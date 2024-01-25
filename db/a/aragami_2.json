@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45478,
+  "EOS_Progressed": 45479,
   "EOS_Completed": 252,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 2,
@@ -21922,6 +21922,11 @@
       "Time": "2024-01-25T19:05:51.9566314+00:00",
       "NumProgressed": 45478,
       "NumCompleted": 252
+    },
+    {
+      "Time": "2024-01-25T20:05:34.9111031+00:00",
+      "NumProgressed": 45479,
+      "NumCompleted": 252
     }
   ],
   "TotalAchievements": 44,
@@ -21933,7 +21938,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25922
+      "UsersEstimate": 25923
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -22053,7 +22058,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36382
+      "UsersEstimate": 36383
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -22117,7 +22122,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7276
+      "UsersEstimate": 7277
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -22173,7 +22178,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28651
+      "UsersEstimate": 28652
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -22205,7 +22210,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30470
+      "UsersEstimate": 30471
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -22253,7 +22258,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -22284,7 +22289,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45478,
+      "Progressed": 45479,
       "Completed": 252
     }
   ],
@@ -22292,8 +22297,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-25T19:05:51.956631+00:00",
+  "LastChanged_Achievements": "2024-01-25T20:05:34.9111027+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.3614153+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:03:34.2611799+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:05:51.9567542+00:00"
+  "LastUpdate_Ratings": "2024-01-25T20:03:18.0548954+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:05:34.9112443+00:00"
 }

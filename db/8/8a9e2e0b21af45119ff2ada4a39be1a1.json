@@ -2,9 +2,9 @@
   "ID": "8a9e2e0b21af45119ff2ada4a39be1a1",
   "Name": "Crowncity",
   "ProductSlug": "crowncity-2cb965",
-  "Ranking_EOS_Progress": 851,
+  "Ranking_EOS_Progress": 852,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T16:57:17.9574371+00:00",
-  "LastUpdate_Ratings": "2024-01-25T19:00:01.0241593+00:00",
-  "LastUpdate_Achievements": "2024-01-25T19:09:01.0850131+00:00"
+  "LastUpdate_Ratings": "2024-01-25T19:59:57.1667023+00:00",
+  "LastUpdate_Achievements": "2024-01-25T20:08:52.8274163+00:00"
 }

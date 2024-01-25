@@ -7,19 +7,19 @@ Rating: 4.62 (Ranked 386)
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,862 |
 | First Love | 46.00% | ~1,713 |
-| Clean Race | 45.00% | ~1,675 |
+| Clean Race | 45.00% | ~1,676 |
 | Hear That Roar! | 43.00% | ~1,601 |
 | Bitter Rivalry | 31.00% | ~1,154 |
 | Rivals to the End | 31.00% | ~1,154 |
 | Champagne Spray | 30.00% | ~1,117 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,042 |
-| Quick Pit Stop | 23.00% | ~856 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,043 |
+| Quick Pit Stop | 23.00% | ~857 |
 | Restored and Ready | 21.00% | ~782 |
 | I Want One Too! | 21.00% | ~782 |
 | Legendary!!! | 20.00% | ~745 |
 | Go-Faster Stripes | 18.00% | ~670 |
-| I'm Here Too! | 15.00% | ~558 |
-| We've Just Begun | 15.00% | ~558 |
+| I'm Here Too! | 15.00% | ~559 |
+| We've Just Begun | 15.00% | ~559 |
 | Is It the Right Size? | 10.00% | ~372 |
 | Stamina Star | 9.00% | ~335 |
 | Evangelist | 7.00% | ~261 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 386)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,723 (Ranked 226)  
+Progressed: 3,724 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 3,676 | 0 |
 | 2024-01-23 | 3,691 | 0 |
 | 2024-01-24 | 3,706 | 0 |
-| 2024-01-25 | 3,723 | 0 |
+| 2024-01-25 | 3,724 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
