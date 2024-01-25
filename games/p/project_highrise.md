@@ -32,8 +32,8 @@
 | Get Electrified | 17.00% | ~92 |
 | Rehab Expert | 15.00% | ~81 |
 | Established Fame | 15.00% | ~81 |
+| Under One Roof | 14.00% | ~76 |
 | Cashflow Chief | 14.00% | ~76 |
-| Under One Roof | 13.00% | ~70 |
 | Starred Dining | 13.00% | ~70 |
 | Smooth Operator | 11.00% | ~60 |
 | Boutique Benefits | 11.00% | ~60 |
@@ -41,18 +41,18 @@
 | 28 Days Later | 10.00% | ~54 |
 | Terrifically Trashed | 10.00% | ~54 |
 | Swimming in Surplus | 9.00% | ~49 |
+| Refined Palates | 9.00% | ~49 |
 | First 100 Days | 8.00% | ~43 |
 | Aestheticly Pleased | 8.00% | ~43 |
-| Refined Palates | 8.00% | ~43 |
 | Plaza Plan | 7.00% | ~38 |
 | Master of Puppets | 7.00% | ~38 |
 | Phoning It In | 7.00% | ~38 |
 | Water Features | 6.00% | ~33 |
+| Meet Me at HQ | 6.00% | ~33 |
 | Maximum Reuse | 6.00% | ~33 |
 | Revenue Royalty | 6.00% | ~33 |
 | Golden Opportunity | 6.00% | ~33 |
 | Careful Constructor | 5.00% | ~27 |
-| Meet Me at HQ | 5.00% | ~27 |
 | Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
 | It's a Gas | 5.00% | ~27 |
@@ -81,14 +81,14 @@
 | Such Great Heights | 1.00% | ~5 |
 | Scenario Success | 1.00% | ~5 |
 | Lofty Landlord | 0.90% | ~5 |
+| Artistic Largesse | 0.70% | ~4 |
 | High Hand | 0.70% | ~4 |
 | Double Down | 0.70% | ~4 |
 | Scenario Master | 0.70% | ~4 |
-| Artistic Largesse | 0.60% | ~3 |
 | Poker Face | 0.40% | ~2 |
 | Infrastructure Info | 0.20% | ~1 |
+| Commercial Campaigns | 0.20% | ~1 |
 | Statue Stature | 0.00% | ~0 |
-| Commercial Campaigns | 0.00% | ~0 |
 | Office Ovation | 0.00% | ~0 |
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |

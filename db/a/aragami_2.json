@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45465,
+  "EOS_Progressed": 45467,
   "EOS_Completed": 252,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 2,
@@ -21887,6 +21887,11 @@
       "Time": "2024-01-25T06:05:08.6069691+00:00",
       "NumProgressed": 45465,
       "NumCompleted": 252
+    },
+    {
+      "Time": "2024-01-25T12:05:18.6101082+00:00",
+      "NumProgressed": 45467,
+      "NumCompleted": 252
     }
   ],
   "TotalAchievements": 44,
@@ -21898,7 +21903,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25915
+      "UsersEstimate": 25916
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21906,7 +21911,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 14094
+      "UsersEstimate": 14095
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -21914,7 +21919,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10002
+      "UsersEstimate": 10003
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -21946,7 +21951,7 @@
       "Name": "Hatching",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -22018,7 +22023,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36372
+      "UsersEstimate": 36374
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -22082,7 +22087,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7274
+      "UsersEstimate": 7275
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -22090,7 +22095,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16822
+      "UsersEstimate": 16823
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -22122,7 +22127,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 25006
+      "UsersEstimate": 25007
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -22138,7 +22143,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28643
+      "UsersEstimate": 28644
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -22162,7 +22167,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27279
+      "UsersEstimate": 27280
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -22170,7 +22175,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30462
+      "UsersEstimate": 30463
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -22202,7 +22207,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 20914
+      "UsersEstimate": 20915
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -22234,7 +22239,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 42282
+      "UsersEstimate": 42284
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -22242,14 +22247,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23642
+      "UsersEstimate": 23643
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45465,
+      "Progressed": 45467,
       "Completed": 252
     }
   ],
@@ -22257,8 +22262,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:06:23.0062776+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:05:18.6101078+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.3614153+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:03:49.4411477+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:06:23.006419+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:03:23.36485+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:05:18.6102177+00:00"
 }

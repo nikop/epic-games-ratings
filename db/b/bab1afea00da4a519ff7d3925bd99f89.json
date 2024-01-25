@@ -4,8 +4,8 @@
   "ProductSlug": "tagline-a80066",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-12T17:03:48.268208+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:07:27.3507436+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:06:05.9311399+00:00",
   "LastUpdate_AppInfo": "2024-01-19T17:56:56.7132864+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:01:36.8271218+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:07:27.3507466+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:00:03.5574219+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:06:05.9311429+00:00"
 }

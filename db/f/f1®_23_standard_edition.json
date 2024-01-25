@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1671,7 +1671,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18705,
+  "EOS_Progressed": 18706,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
@@ -12861,6 +12861,11 @@
       "Time": "2024-01-25T11:07:16.0665175+00:00",
       "NumProgressed": 18705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T12:05:57.669614+00:00",
+      "NumProgressed": 18706,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12929,7 +12934,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15525
+      "UsersEstimate": 15526
     },
     {
       "ID": "achievement_0009",
@@ -12937,7 +12942,7 @@
       "Name": "Eagle Eye",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_0010",
@@ -12953,7 +12958,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_0012",
@@ -12969,7 +12974,7 @@
       "Name": "Oil and Water",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_0014",
@@ -12985,7 +12990,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "achievement_0016",
@@ -12993,7 +12998,7 @@
       "Name": "Hitting a Season",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "achievement_0017",
@@ -13001,7 +13006,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_0018",
@@ -13033,7 +13038,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12719
+      "UsersEstimate": 12720
     },
     {
       "ID": "achievement_0022",
@@ -13041,7 +13046,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4863
+      "UsersEstimate": 4864
     },
     {
       "ID": "achievement_0023",
@@ -13073,7 +13078,7 @@
       "Name": "Friendly Competition",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_0027",
@@ -13089,7 +13094,7 @@
       "Name": "Spinning Around",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "achievement_0029",
@@ -13129,7 +13134,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8604
+      "UsersEstimate": 8605
     },
     {
       "ID": "achievement_0034",
@@ -13209,7 +13214,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7856
+      "UsersEstimate": 7857
     },
     {
       "ID": "achievement_0044",
@@ -13264,7 +13269,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18705,
+      "Progressed": 18706,
       "Completed": 0
     }
   ],
@@ -13272,8 +13277,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-25T09:57:44.5071744+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:07:16.0665172+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:05:57.6696136+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:58:15.7540931+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:07:16.0666031+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:57:44.2366918+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:05:57.6696889+00:00"
 }

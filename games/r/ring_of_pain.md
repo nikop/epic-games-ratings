@@ -32,6 +32,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 1.00% | ~2,435 |
 | Not Touching You | 1.00% | ~50 |
 | Dig Your Own Grave | 0.90% | ~2,191 |
+| Who To Trust? | 0.90% | ~2,191 |
 | Walk It Off | 0.90% | ~2,191 |
 | Cold Hearted | 0.90% | ~2,191 |
 | I Am Overburdened | 0.90% | ~2,191 |
@@ -41,7 +42,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.90% | ~2,191 |
 | Flesh Wound | 0.90% | ~2,191 |
 | Consecutive Curses | 0.80% | ~1,948 |
-| Who To Trust? | 0.80% | ~1,948 |
 | Destroy Your Fears | 0.80% | ~1,948 |
 | Shapeshifting | 0.80% | ~1,948 |
 | Just Chilling | 0.70% | ~1,704 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,482 (Ranked 75)  
+Progressed: 243,485 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 309 (0.13%) (Ranked 309)
 | 2024-01-22 | 243,388 | 309 |
 | 2024-01-23 | 243,428 | 309 |
 | 2024-01-24 | 243,469 | 309 |
-| 2024-01-25 | 243,482 | 309 |
+| 2024-01-25 | 243,485 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,803 (Ranked 92)  

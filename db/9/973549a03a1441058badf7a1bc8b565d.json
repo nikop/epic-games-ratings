@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -186,9 +186,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "4mjb15",
       "Name": "Pollinated",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -290,9 +290,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "4mjb15",
       "Name": "Get a Friend, Get a Sword",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:11:15.4766115+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:10:23.2899306+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:01.495635+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:03:08.1367863+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:11:15.4766245+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:02:54.1845073+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:10:23.2899444+00:00"
 }

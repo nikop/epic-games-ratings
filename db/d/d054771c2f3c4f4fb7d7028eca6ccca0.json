@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4609,
+  "EOS_Progressed": 4610,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
@@ -6024,6 +6024,11 @@
       "Time": "2024-01-25T11:05:39.8769487+00:00",
       "NumProgressed": 4609,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T12:04:46.701065+00:00",
+      "NumProgressed": 4610,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -6060,7 +6065,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -6236,7 +6241,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6411,20 +6416,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4609,
+      "Progressed": 4610,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 387,
-      "Completed": 387
+      "Progressed": 388,
+      "Completed": 388
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:05:39.8769483+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:04:46.7010646+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:08.5926908+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:03:02.5572013+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:05:39.8770079+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:02:50.2987972+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:04:46.701127+00:00"
 }

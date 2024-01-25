@@ -1848,9 +1848,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -2207,8 +2207,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:05:21.0618089+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:04:32.8829483+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:02:47.8041887+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:05:21.0618741+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:00:10.3271634+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:04:32.8830309+00:00"
 }

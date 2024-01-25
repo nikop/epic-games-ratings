@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -811,9 +811,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4779,
+  "EOS_Progressed": 4780,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13391,6 +13391,11 @@
       "Time": "2024-01-25T11:08:36.1655922+00:00",
       "NumProgressed": 4779,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T12:08:23.7532947+00:00",
+      "NumProgressed": 4780,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13586,7 +13591,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "fourleafclover",
@@ -13610,7 +13615,7 @@
       "Name": "Full Party",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "gearenchanting",
@@ -13698,7 +13703,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "lockandload",
@@ -13794,7 +13799,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "prestigiousx10",
@@ -13858,7 +13863,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "thealchemist",
@@ -13962,7 +13967,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4444
+      "UsersEstimate": 4445
     },
     {
       "ID": "warmachinesarmy",
@@ -14001,7 +14006,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4779,
+      "Progressed": 4780,
       "Completed": 2
     }
   ],
@@ -14009,8 +14014,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-25T10:58:47.0029089+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:08:36.165592+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:08:23.7532942+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:58:47.0029107+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:08:36.16571+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:58:06.0279943+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:08:23.7534012+00:00"
 }

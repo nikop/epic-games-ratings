@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8467,
+  "EOS_Progressed": 8469,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1023,
   "EOS_NewCompleters": 1,
@@ -3634,6 +3634,11 @@
       "Time": "2024-01-25T11:09:31.1911087+00:00",
       "NumProgressed": 8467,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-25T12:09:04.4996859+00:00",
+      "NumProgressed": 8469,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -3645,7 +3650,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -3677,7 +3682,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3709,7 +3714,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3733,7 +3738,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3772,7 +3777,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8467,
+      "Progressed": 8469,
       "Completed": 8
     }
   ],
@@ -3780,8 +3785,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:09:31.1911083+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:09:04.4996857+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:59:12.63396+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:09:31.1911378+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:58:23.8919364+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:09:04.4997261+00:00"
 }

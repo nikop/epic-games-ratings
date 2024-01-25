@@ -7,9 +7,9 @@
 | Something important | 88.00% | ~304 |
 | A piece of the story | 67.00% | ~232 |
 | It's covered up for a reason | 61.00% | ~211 |
-| Wanderer | 55.00% | ~190 |
+| Wanderer | 56.00% | ~194 |
 | Scraps of love | 53.00% | ~183 |
-| The artist’s impression | 51.00% | ~176 |
+| The artist’s impression | 52.00% | ~180 |
 | Do what you have to | 46.00% | ~159 |
 | Sign of weakness | 44.00% | ~152 |
 | Refuse to look | 39.00% | ~135 |
@@ -36,7 +36,7 @@
 | Something to think about | 6.00% | ~21 |
 | I remember It Like Was Yesterday | 6.00% | ~21 |
 | We Are Not Alone | 5.00% | ~17 |
-| Dark correspondence | 4.00% | ~14 |
+| Dark correspondence | 5.00% | ~17 |
 | Full Scoop | 4.00% | ~14 |
 | The Perfect Storm | 4.00% | ~14 |
 | Se7en Seas | 4.00% | ~14 |

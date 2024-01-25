@@ -6,23 +6,23 @@ Rating: 4.35 (Ranked 837)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 16.00% | ~25 |
-| Help! Help! I’m being repressed | 15.00% | ~23 |
+| Bring it on! | 15.00% | ~24 |
+| Help! Help! I’m being repressed | 15.00% | ~24 |
 | Can’t Touch This | 14.00% | ~22 |
-| Bring it on! | 13.00% | ~20 |
-| Path of Glory | 10.00% | ~15 |
-| There is no Nobility in Poverty | 10.00% | ~15 |
+| Path of Glory | 10.00% | ~16 |
+| There is no Nobility in Poverty | 10.00% | ~16 |
 | Full House | 9.00% | ~14 |
 | Playerxander the Great | 6.00% | ~9 |
 | The finest merchandise this side of river Jordan | 6.00% | ~9 |
 | They Got What They Deserved | 6.00% | ~9 |
-| Big Apple | 5.00% | ~8 |
 | Dinner Time | 5.00% | ~8 |
-| Do you read Sutter Cane? | 5.00% | ~8 |
-| What we’ve got here is failure to communicate | 5.00% | ~8 |
+| Big Apple | 4.00% | ~6 |
 | Call the Boys | 4.00% | ~6 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~6 |
+| Do you read Sutter Cane? | 4.00% | ~6 |
 | Learn Me a Book | 4.00% | ~6 |
 | Pillars of the Earth | 4.00% | ~6 |
+| What we’ve got here is failure to communicate | 4.00% | ~6 |
 | All the King's Men | 3.00% | ~5 |
 | Battle of the Four Armies | 3.00% | ~5 |
 | Black Sheep Wall | 3.00% | ~5 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 467)  
+Progressed: 157 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 154 | 0 |
+| 2024-01-25 | 157 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

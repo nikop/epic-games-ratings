@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1105,9 +1105,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "f2",
@@ -1464,8 +1464,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:06:33.7323436+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:05:26.6961895+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:24.3827617+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:03:38.2204263+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:06:33.732378+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:03:15.5883239+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:05:26.6962332+00:00"
 }

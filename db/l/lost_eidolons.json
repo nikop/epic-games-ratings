@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 3887,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1117,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -2,
+  "EOS_NewPlayers": -3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3082,6 +3082,11 @@
       "Time": "2024-01-25T01:55:41.5827475+00:00",
       "NumProgressed": 1117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T12:04:44.9840738+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -3117,7 +3122,7 @@
       "Name": "The Unvanquished",
       "Percentage": 3,
       "XP": 150,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "05",
@@ -3125,7 +3130,7 @@
       "Name": "The First Step",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 837
     },
     {
       "ID": "06",
@@ -3141,7 +3146,7 @@
       "Name": "Monster Hunter",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 658
     },
     {
       "ID": "08",
@@ -3221,7 +3226,7 @@
       "Name": "Ready to Learn",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 771
+      "UsersEstimate": 770
     },
     {
       "ID": "18",
@@ -3229,7 +3234,7 @@
       "Name": "Earning Trust",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 626
+      "UsersEstimate": 625
     },
     {
       "ID": "19",
@@ -3245,7 +3250,7 @@
       "Name": "Digging Deep",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 167
     },
     {
       "ID": "21",
@@ -3253,7 +3258,7 @@
       "Name": "Arrow in the Wind",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "22",
@@ -3276,7 +3281,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1117,
+      "Progressed": 1116,
       "Completed": 1
     }
   ],
@@ -3284,8 +3289,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:05:37.692149+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:04:44.984073+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.4589017+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:03:33.5479954+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:05:37.6921803+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:03:12.2835206+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:04:44.9840997+00:00"
 }

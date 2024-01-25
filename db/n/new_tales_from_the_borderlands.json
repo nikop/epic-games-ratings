@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 378,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3837,
+  "EOS_Progressed": 3838,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2437,6 +2437,11 @@
       "Time": "2024-01-24T10:05:49.5799855+00:00",
       "NumProgressed": 3837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T12:06:10.4544123+00:00",
+      "NumProgressed": 3838,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2504,7 +2509,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -2520,7 +2525,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2560,7 +2565,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2584,7 +2589,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2600,7 +2605,7 @@
       "Name": "Bring back the butt!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WATCH_CREDITS_TO_THE_END",
@@ -2608,7 +2613,7 @@
       "Name": "Hey, thanks!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "WIN_BATTLE_OLD_SCHOOL",
@@ -2616,7 +2621,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2655,7 +2660,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3837,
+      "Progressed": 3838,
       "Completed": 0
     }
   ],
@@ -2663,8 +2668,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:07:33.6464252+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:06:10.4544118+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:25.2032274+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:59:32.2919804+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:07:33.6464547+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:58:37.4523689+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:06:10.4544378+00:00"
 }

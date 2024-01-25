@@ -6865,9 +6865,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 268700,
+  "EOS_Progressed": 268701,
   "EOS_Completed": 963,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -37710,6 +37710,11 @@
       "Time": "2024-01-25T11:11:17.4852603+00:00",
       "NumProgressed": 268700,
       "NumCompleted": 963
+    },
+    {
+      "Time": "2024-01-25T12:10:24.8172341+00:00",
+      "NumProgressed": 268701,
+      "NumCompleted": 963
     }
   ],
   "TotalAchievements": 39,
@@ -37785,7 +37790,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244517
+      "UsersEstimate": 244518
     },
     {
       "ID": "AchievementClownID",
@@ -37849,7 +37854,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139724
+      "UsersEstimate": 139725
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -37889,7 +37894,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 153159
+      "UsersEstimate": 153160
     },
     {
       "ID": "AchievementLootBoxID",
@@ -37953,7 +37958,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 196151
+      "UsersEstimate": 196152
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -37993,7 +37998,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 145098
+      "UsersEstimate": 145099
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -38017,7 +38022,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171968
+      "UsersEstimate": 171969
     },
     {
       "ID": "AchievementWhaleID",
@@ -38032,7 +38037,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268700,
+      "Progressed": 268701,
       "Completed": 963
     }
   ],
@@ -38040,8 +38045,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-24T21:57:57.5289855+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:11:17.4852601+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:10:24.8172338+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:59:11.7383048+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:11:17.485403+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:58:23.2840867+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:10:24.8174791+00:00"
 }

@@ -29,11 +29,11 @@
 | Warden Mastery | 5.00% | ~8 |
 | The Plot Thickens | 5.00% | ~8 |
 | Best Pupil | 3.00% | ~5 |
+| Masterpiece | 3.00% | ~5 |
 | First time? | 3.00% | ~5 |
 | ACHOO! | 3.00% | ~5 |
 | FOR JUSTICE! | 2.00% | ~3 |
 | Journey’s End | 2.00% | ~3 |
-| Masterpiece | 2.00% | ~3 |
 | Trinket Enthusiast | 2.00% | ~3 |
 | The False Prophet | 2.00% | ~3 |
 | Sealed Once Again | 2.00% | ~3 |
@@ -45,7 +45,7 @@
 | The New Demon Lord | 0.60% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 467)  
+Progressed: 154 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |

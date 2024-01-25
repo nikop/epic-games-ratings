@@ -3,12 +3,12 @@
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 890,
-  "Ranking_Popularity": 531,
+  "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -725,11 +725,17 @@
       "Rating": 4.29,
       "NumberOfAwards": 219,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-01-25T11:57:36.8520905+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 221,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 219,
-  "NumberOfAwardsMax": 30,
+  "NumberOfAwards": 221,
+  "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -742,7 +748,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",
@@ -754,7 +760,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
@@ -799,8 +805,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-01-25T10:58:05.1046568+00:00",
+  "LastChanged": "2024-01-25T11:57:36.8520903+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.8772802+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:58:05.1046573+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:05:05.2086773+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:57:36.8520909+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:04:20.9430649+00:00"
 }

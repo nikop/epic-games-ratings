@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -151,11 +151,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2999,
+  "EOS_Progressed": 3000,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 7.84,
+  "EOS_Completed_Percentage": 7.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -8076,6 +8076,11 @@
       "Time": "2024-01-25T11:05:33.6442414+00:00",
       "NumProgressed": 2999,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2024-01-25T12:04:42.1237892+00:00",
+      "NumProgressed": 3000,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 25,
@@ -8231,7 +8236,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8247,7 +8252,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "PROGRESS_N2",
@@ -8286,7 +8291,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2999,
+      "Progressed": 3000,
       "Completed": 235
     }
   ],
@@ -8294,8 +8299,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:05:33.6442409+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:04:42.1237888+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:57:36.7211046+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:05:33.6443009+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:57:17.0639367+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:04:42.1238426+00:00"
 }

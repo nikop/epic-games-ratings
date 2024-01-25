@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~611 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,751 (Ranked 87)  
+Progressed: 152,753 (Ranked 87)  
 Completed: 364 (0.24%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,17 +399,17 @@ Completed: 364 (0.24%) (Ranked 281)
 | 2024-01-22 | 152,516 | 360 |
 | 2024-01-23 | 152,616 | 362 |
 | 2024-01-24 | 152,717 | 363 |
-| 2024-01-25 | 152,751 | 364 |
+| 2024-01-25 | 152,753 | 364 |
 ## Awards
 Max (Great for Beginners): 4,980  (Ranked 84)  
-Sum: 28,053 (Ranked 52)  
+Sum: 28,055 (Ranked 52)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,980 |
-| This game is Relaxing | 4,085 |
+| This game is Relaxing | 4,086 |
 | This game has Quickly Understood Controls | 4,080 |
-| This game has Diverse Characters | 4,046 |
+| This game has Diverse Characters | 4,047 |
 | This game is Highly Recommended | 3,828 |
 | This game has Easy Combat | 3,782 |
 | This game has Playful Visuals | 3,252 |
@@ -776,3 +776,4 @@ Diff (max vs sum): 32
 | 2024-01-22 | 4.00 | - | 4,973 | 28,039 |
 | 2024-01-23 | 4.00 | - | 4,975 | 28,045 |
 | 2024-01-24 | 4.00 | - | 4,980 | 28,053 |
+| 2024-01-25 | 4.00 | - | 4,980 | 28,055 |

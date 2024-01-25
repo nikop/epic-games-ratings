@@ -8,31 +8,31 @@ Rating: 4.08 (Ranked 1,038)
 | Who Needs Keys? | 51.00% | ~1,957 |
 | Totally Intentional | 46.00% | ~1,765 |
 | Each Sold Separately | 38.00% | ~1,458 |
-| We're In | 33.00% | ~1,266 |
+| We're In | 33.00% | ~1,267 |
 | You're Not Naked | 30.00% | ~1,151 |
 | Tale in the Toilet | 30.00% | ~1,151 |
 | From Zeroes... | 29.00% | ~1,113 |
 | Don't Get Cocky | 27.00% | ~1,036 |
-| Shard Snatchers | 25.00% | ~959 |
+| Shard Snatchers | 25.00% | ~960 |
 | You Rich Now! | 23.00% | ~883 |
 | Our Lucky Winner | 21.00% | ~806 |
 | You Poor Now! | 21.00% | ~806 |
-| The Shardmenstration | 20.00% | ~767 |
-| You Got the Goods, Kid | 20.00% | ~767 |
-| Those Were the Days... | 20.00% | ~767 |
+| The Shardmenstration | 20.00% | ~768 |
+| You Got the Goods, Kid | 20.00% | ~768 |
+| Those Were the Days... | 20.00% | ~768 |
 | ...To Heroes | 18.00% | ~691 |
 | Mas, Por Favor | 18.00% | ~691 |
 | And Still Champion... | 15.00% | ~576 |
 | Super Trusting Friend! | 9.00% | ~345 |
-| Bring back the butt! | 4.00% | ~153 |
-| Hey, thanks! | 4.00% | ~153 |
+| Bring back the butt! | 4.00% | ~154 |
+| Hey, thanks! | 4.00% | ~154 |
 | Murderous Mascot Mayhem | 3.00% | ~115 |
 | New Business | 0.90% | ~35 |
 | Okay, Vain Much? | 0.50% | ~19 |
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,837 (Ranked 225)  
+Progressed: 3,838 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-21 | 3,835 | 0 |
 | 2024-01-22 | 3,836 | 0 |
 | 2024-01-24 | 3,837 | 0 |
+| 2024-01-25 | 3,838 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1631,9 +1631,9 @@
       "ID": "collect_notes_mother",
       "SetID": "f2im8d",
       "Name": "Dark correspondence",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "covered_up_for_a_reason",
@@ -1735,9 +1735,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "finished_it",
@@ -1959,9 +1959,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 194
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1982,8 +1982,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:10:05.8957683+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:09:30.9752655+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:00:28.0139624+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:10:05.8958226+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:59:16.2023261+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:09:30.9753092+00:00"
 }

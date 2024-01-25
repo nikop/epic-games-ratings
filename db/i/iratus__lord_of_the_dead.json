@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2521,9 +2521,9 @@
       "Count": 105
     }
   ],
-  "EOS_Progressed": 50209,
+  "EOS_Progressed": 50210,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33026,6 +33026,11 @@
       "Time": "2024-01-25T11:05:48.5041276+00:00",
       "NumProgressed": 50209,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-25T12:04:52.9404749+00:00",
+      "NumProgressed": 50210,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -33069,7 +33074,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 28619
+      "UsersEstimate": 28620
     },
     {
       "ID": "achievements_14",
@@ -33077,7 +33082,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8033
+      "UsersEstimate": 8034
     },
     {
       "ID": "achievements_15",
@@ -33085,7 +33090,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 23598
+      "UsersEstimate": 23599
     },
     {
       "ID": "achievements_17",
@@ -33093,7 +33098,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 17573
+      "UsersEstimate": 17574
     },
     {
       "ID": "achievements_19",
@@ -33141,7 +33146,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 30125
+      "UsersEstimate": 30126
     },
     {
       "ID": "achievements_24",
@@ -33181,7 +33186,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7531
+      "UsersEstimate": 7532
     },
     {
       "ID": "achievements_29",
@@ -33277,7 +33282,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8033
+      "UsersEstimate": 8034
     },
     {
       "ID": "achievements_4",
@@ -33325,7 +33330,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7531
+      "UsersEstimate": 7532
     },
     {
       "ID": "achievements_45",
@@ -33373,7 +33378,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 25104
+      "UsersEstimate": 25105
     },
     {
       "ID": "achievements_50",
@@ -33405,7 +33410,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 28619
+      "UsersEstimate": 28620
     },
     {
       "ID": "achievements_54",
@@ -33477,7 +33482,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13054
+      "UsersEstimate": 13055
     },
     {
       "ID": "achievements_63",
@@ -33541,7 +33546,7 @@
       "Name": "Blind Rage",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18577
+      "UsersEstimate": 18578
     },
     {
       "ID": "achievements_70",
@@ -33636,15 +33641,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 50209,
+      "Progressed": 50210,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-24T21:00:07.9250116+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:05:48.5041271+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:04:52.9404745+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.5697098+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:00:30.450243+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:05:48.5043399+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:59:17.9075322+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:04:52.9406599+00:00"
 }

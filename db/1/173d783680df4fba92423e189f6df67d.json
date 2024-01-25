@@ -4,8 +4,8 @@
   "ProductSlug": "kids-learn-e4a163",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
     "PcReleaseDate": "2016-03-30T18:30:00+00:00",
@@ -25,7 +25,7 @@
   "EOS_Progressed": 8,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 37.5,
   "EosHistory": [
     {
@@ -133,8 +133,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-28T18:03:15.3892997+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:07:48.1971007+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:06:21.0432028+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.1051057+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:00:41.3567293+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:07:48.1971066+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:59:25.2424685+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:06:21.0432101+00:00"
 }

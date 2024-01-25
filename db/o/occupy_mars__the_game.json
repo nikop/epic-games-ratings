@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -5407,9 +5407,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 499
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5608,8 +5608,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-24T14:59:45.952397+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:10:52.3658838+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:10:05.6737598+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:00.6724547+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:01:39.5664048+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:10:52.3659387+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:00:05.4625175+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:10:05.6738046+00:00"
 }

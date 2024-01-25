@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-18T00:00:00+00:00",
     "PcReleaseDate": "2023-09-18T00:00:00+00:00",
@@ -1115,10 +1115,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-01-25T11:58:52.7601796+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1132,7 +1138,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1183,8 +1189,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-01-25T01:49:44.4379771+00:00",
+  "LastChanged": "2024-01-25T11:58:52.7601794+00:00",
   "LastUpdate_AppInfo": "2024-01-22T13:04:52.6024004+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:59:54.6193307+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:04:35.8248138+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:58:52.76018+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:03:59.3238935+00:00"
 }

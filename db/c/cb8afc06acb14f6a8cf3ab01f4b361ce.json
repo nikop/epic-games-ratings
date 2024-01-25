@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -515,9 +515,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 349620,
+  "EOS_Progressed": 349632,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2709,
+  "EOS_NewPlayers": 2713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14670,6 +14670,11 @@
       "Time": "2024-01-25T11:10:01.149104+00:00",
       "NumProgressed": 349620,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-25T12:09:27.2825846+00:00",
+      "NumProgressed": 349632,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14682,7 +14687,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17481
+      "UsersEstimate": 17482
     },
     {
       "ID": "S02_BRDA",
@@ -14818,7 +14823,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20977
+      "UsersEstimate": 20978
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14890,7 +14895,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "S28_CTHB",
@@ -14898,7 +14903,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "S29_RECOVER",
@@ -14994,14 +14999,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6992
+      "UsersEstimate": 6993
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 349620,
+      "Progressed": 349632,
       "Completed": 7
     }
   ],
@@ -15009,8 +15014,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-24T02:59:53.121966+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:10:01.1491036+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:09:27.282584+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:57:27.1348455+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:10:01.1491922+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:57:10.2094324+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:09:27.2826748+00:00"
 }

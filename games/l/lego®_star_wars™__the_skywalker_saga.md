@@ -6,14 +6,14 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,407 |
-| ''I don't like you either!'' | 77.00% | ~46,045 |
-| ''Impressive, most impressive'' | 69.00% | ~41,261 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,261 |
-| The Phantom Menace | 56.00% | ~33,487 |
-| ''Aggressive Negotiations'' | 56.00% | ~33,487 |
-| ''I can fly anything'' | 54.00% | ~32,291 |
-| ''And who gave you permission...?'' | 51.00% | ~30,497 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,408 |
+| ''I don't like you either!'' | 77.00% | ~46,046 |
+| ''Impressive, most impressive'' | 69.00% | ~41,262 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,262 |
+| The Phantom Menace | 56.00% | ~33,488 |
+| ''Aggressive Negotiations'' | 56.00% | ~33,488 |
+| ''I can fly anything'' | 54.00% | ~32,292 |
+| ''And who gave you permission...?'' | 51.00% | ~30,498 |
 | A New Hope | 45.00% | ~26,910 |
 | Attack of the Clones | 44.00% | ~26,312 |
 | Revenge of the Sith | 38.00% | ~22,724 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~598 |
 | ''I've never seen a real one!'' | 0.90% | ~538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,799 (Ranked 121)  
+Progressed: 59,800 (Ranked 121)  
 Completed: 265 (0.44%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 265 (0.44%) (Ranked 241)
 | 2024-01-22 | 59,737 | 264 |
 | 2024-01-23 | 59,766 | 265 |
 | 2024-01-24 | 59,794 | 265 |
-| 2024-01-25 | 59,799 | 265 |
+| 2024-01-25 | 59,800 | 265 |
 ## Awards
 Max (Great Boss Battles): 2,518  (Ranked 111)  
 Sum: 6,892 (Ranked 133)  

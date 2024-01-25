@@ -5,24 +5,24 @@ Rating: 4.43 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,808 |
-| Delving Onward | 69.00% | ~268,265 |
-| Miner's Helper | 59.00% | ~229,386 |
-| Suit Up | 54.00% | ~209,947 |
-| To the Mountain's Roots | 50.00% | ~194,395 |
-| Remains To Be Seen | 35.00% | ~136,076 |
-| Covered Head to Toe | 33.00% | ~128,301 |
-| Line of Azog, Ended | 32.00% | ~124,413 |
-| Risk a Little Real Light | 31.00% | ~120,525 |
-| Caradhras The Cruel | 19.00% | ~73,870 |
-| A Memory of this Place | 19.00% | ~73,870 |
+| Speak Friend | 82.00% | ~318,813 |
+| Delving Onward | 69.00% | ~268,269 |
+| Miner's Helper | 59.00% | ~229,390 |
+| Suit Up | 54.00% | ~209,950 |
+| To the Mountain's Roots | 50.00% | ~194,398 |
+| Remains To Be Seen | 35.00% | ~136,079 |
+| Covered Head to Toe | 33.00% | ~128,303 |
+| Line of Azog, Ended | 32.00% | ~124,415 |
+| Risk a Little Real Light | 31.00% | ~120,527 |
+| Caradhras The Cruel | 19.00% | ~73,871 |
+| A Memory of this Place | 19.00% | ~73,871 |
 | Battering Ram | 14.00% | ~54,431 |
 | False King, Deposed | 14.00% | ~54,431 |
 | Baruk Khazâd! | 13.00% | ~50,543 |
-| Shadow's Bane | 10.00% | ~38,879 |
-| Westgate Weaponcraft | 9.00% | ~34,991 |
-| Deeps Weaponcraft | 8.00% | ~31,103 |
-| Darkness Is Passing | 8.00% | ~31,103 |
+| Shadow's Bane | 10.00% | ~38,880 |
+| Westgate Weaponcraft | 9.00% | ~34,992 |
+| Deeps Weaponcraft | 8.00% | ~31,104 |
+| Darkness Is Passing | 8.00% | ~31,104 |
 | Decked Out | 5.00% | ~19,440 |
 | Guarded from Despair | 5.00% | ~19,440 |
 | Master of All Trades | 4.00% | ~15,552 |
@@ -33,8 +33,8 @@ Rating: 4.43 (Ranked 734)
 | Shielded | 1.00% | ~3,888 |
 | We're Gonna Need More Mugs | 0.20% | ~778 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,790 (Ranked 55)  
-Completed: 401 (0.10%) (Ranked 322)  
+Progressed: 388,796 (Ranked 55)  
+Completed: 402 (0.10%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,10 +131,10 @@ Completed: 401 (0.10%) (Ranked 322)
 | 2024-01-22 | 388,142 | 391 |
 | 2024-01-23 | 388,385 | 397 |
 | 2024-01-24 | 388,697 | 400 |
-| 2024-01-25 | 388,790 | 401 |
+| 2024-01-25 | 388,796 | 402 |
 ## Awards
 Max (Great for Beginners): 1,012  (Ranked 163)  
-Sum: 5,773 (Ranked 142)  
+Sum: 5,775 (Ranked 142)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): 21
 | This game is Highly Recommended | 804 |
 | This game is Extremely Fun | 770 |
 | This game has Amazing Storytelling | 737 |
-| This game is Relaxing | 690 |
+| This game is Relaxing | 692 |
 | This game has Amazing Characters | 679 |
 | This game has Quickly Understood Controls | 675 |
 | This game has a Creative Community | 406 |
@@ -242,4 +242,4 @@ Diff (max vs sum): 21
 | 2024-01-22 | 4.43 | 998 | 5,706 |
 | 2024-01-23 | 4.43 | 1,006 | 5,742 |
 | 2024-01-24 | 4.43 | 1,006 | 5,767 |
-| 2024-01-25 | 4.43 | 1,012 | 5,773 |
+| 2024-01-25 | 4.43 | 1,012 | 5,775 |

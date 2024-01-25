@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1495,9 +1495,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 120,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1518,8 +1518,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-25T11:06:41.9170161+00:00",
+  "LastChanged_Achievements": "2024-01-25T12:05:32.6502569+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:44.5427917+00:00",
-  "LastUpdate_Ratings": "2024-01-25T11:03:20.2060651+00:00",
-  "LastUpdate_Achievements": "2024-01-25T11:06:41.9170406+00:00"
+  "LastUpdate_Ratings": "2024-01-25T12:03:02.9568751+00:00",
+  "LastUpdate_Achievements": "2024-01-25T12:05:32.6502869+00:00"
 }

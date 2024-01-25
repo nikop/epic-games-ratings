@@ -6,15 +6,15 @@ Rating: 4.65 (Ranked 327)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 91.00% | ~17,022 |
-| On the Top Step | 83.00% | ~15,525 |
+| On the Top Step | 83.00% | ~15,526 |
 | Setting up for Success | 70.00% | ~13,094 |
-| Team Orders | 68.00% | ~12,719 |
-| Engineer | 46.00% | ~8,604 |
-| Familiar Faces | 42.00% | ~7,856 |
+| Team Orders | 68.00% | ~12,720 |
+| Engineer | 46.00% | ~8,605 |
+| Familiar Faces | 42.00% | ~7,857 |
 | Going the Extra Mile | 36.00% | ~6,734 |
 | Sharing the Love | 34.00% | ~6,360 |
-| Hitting a Season | 29.00% | ~5,424 |
-| A Dozen Pieces | 26.00% | ~4,863 |
+| Hitting a Season | 29.00% | ~5,425 |
+| A Dozen Pieces | 26.00% | ~4,864 |
 | Making History | 25.00% | ~4,676 |
 | Network Success | 24.00% | ~4,489 |
 | Challenge Yourself | 24.00% | ~4,489 |
@@ -28,13 +28,13 @@ Rating: 4.65 (Ranked 327)
 | Gathering Dust | 12.00% | ~2,245 |
 | Switcheroo | 11.00% | ~2,058 |
 | One for the Book | 11.00% | ~2,058 |
-| Eagle Eye | 10.00% | ~1,870 |
-| All in a Weekend's Work | 10.00% | ~1,870 |
-| Oil and Water | 10.00% | ~1,870 |
-| Hitting a Bullseye | 10.00% | ~1,870 |
-| Friendly Competition | 10.00% | ~1,870 |
-| Lightning Round the World | 9.00% | ~1,683 |
-| Spinning Around | 9.00% | ~1,683 |
+| Eagle Eye | 10.00% | ~1,871 |
+| All in a Weekend's Work | 10.00% | ~1,871 |
+| Oil and Water | 10.00% | ~1,871 |
+| Hitting a Bullseye | 10.00% | ~1,871 |
+| Friendly Competition | 10.00% | ~1,871 |
+| Lightning Round the World | 9.00% | ~1,684 |
+| Spinning Around | 9.00% | ~1,684 |
 | Undisputed Winner | 7.00% | ~1,309 |
 | Recycle | 7.00% | ~1,309 |
 | Tinkerer | 6.00% | ~1,122 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 327)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,705 (Ranked 165)  
+Progressed: 18,706 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 18,629 | 0 |
 | 2024-01-23 | 18,659 | 0 |
 | 2024-01-24 | 18,697 | 0 |
-| 2024-01-25 | 18,705 | 0 |
+| 2024-01-25 | 18,706 | 0 |
 ## Awards
 Max (Diverse Characters): 76  (Ranked 411)  
 Sum: 489 (Ranked 342)  
