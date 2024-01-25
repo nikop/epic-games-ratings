@@ -5,20 +5,20 @@ Rating: 4.52 (Ranked 583)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,672 |
-| I will survive! | 91.00% | ~10,556 |
-| All thumbs | 90.00% | ~10,440 |
-| Home, sweet home | 89.00% | ~10,324 |
-| Survivalist | 87.00% | ~10,092 |
-| One way ticket | 81.00% | ~9,396 |
-| Last man standing | 75.00% | ~8,700 |
-| Out of the Bag | 71.00% | ~8,236 |
-| Family guy | 69.00% | ~8,004 |
-| The Dark Side | 65.00% | ~7,540 |
-| Duck and cover! | 60.00% | ~6,960 |
-| Souper! | 58.00% | ~6,728 |
-| 2-1-6 | 52.00% | ~6,032 |
-| Pacifist | 52.00% | ~6,032 |
+| Prepper | 92.00% | ~10,673 |
+| I will survive! | 91.00% | ~10,557 |
+| All thumbs | 90.00% | ~10,441 |
+| Home, sweet home | 89.00% | ~10,325 |
+| Survivalist | 87.00% | ~10,093 |
+| One way ticket | 81.00% | ~9,397 |
+| Last man standing | 75.00% | ~8,701 |
+| Out of the Bag | 71.00% | ~8,237 |
+| Family guy | 69.00% | ~8,005 |
+| The Dark Side | 65.00% | ~7,541 |
+| Duck and cover! | 60.00% | ~6,961 |
+| Souper! | 58.00% | ~6,729 |
+| 2-1-6 | 52.00% | ~6,033 |
+| Pacifist | 52.00% | ~6,033 |
 | A gift | 48.00% | ~5,568 |
 | Girl Power | 41.00% | ~4,756 |
 | What goes around... | 39.00% | ~4,524 |
@@ -37,8 +37,8 @@ Rating: 4.52 (Ranked 583)
 | Men in Black | 11.00% | ~1,276 |
 | Challenger | 10.00% | ~1,160 |
 | No stone unturned | 10.00% | ~1,160 |
-| Unplugged | 7.00% | ~812 |
 | Mad Hatter | 6.00% | ~696 |
+| Unplugged | 6.00% | ~696 |
 | Holidays! | 5.00% | ~580 |
 | Lumbersexual | 5.00% | ~580 |
 | Yes Man | 5.00% | ~580 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 583)
 | Dead Hand | 0.10% | ~12 |
 | Tora! Tora! Tora! | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,600 (Ranked 183)  
+Progressed: 11,601 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 1 (0.01%) (Ranked 384)
 | 2024-01-22 | 11,172 | 1 |
 | 2024-01-23 | 11,490 | 1 |
 | 2024-01-24 | 11,584 | 1 |
-| 2024-01-25 | 11,600 | 1 |
+| 2024-01-25 | 11,601 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

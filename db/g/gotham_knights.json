@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5489,9 +5489,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83249,
+  "EOS_Progressed": 83250,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31434,6 +31434,11 @@
       "Time": "2024-01-25T06:05:17.2384079+00:00",
       "NumProgressed": 83249,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-25T07:06:05.702657+00:00",
+      "NumProgressed": 83250,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31533,7 +31538,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12487
+      "UsersEstimate": 12488
     },
     {
       "ID": "CHALLENGES_1",
@@ -31557,7 +31562,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14152
+      "UsersEstimate": 14153
     },
     {
       "ID": "CLAYFACE_3",
@@ -31589,7 +31594,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -31669,7 +31674,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22477
+      "UsersEstimate": 22478
     },
     {
       "ID": "FREEZE_1_5",
@@ -31685,7 +31690,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15817
+      "UsersEstimate": 15818
     },
     {
       "ID": "FREEZE_3",
@@ -31773,7 +31778,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12487
+      "UsersEstimate": 12488
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31789,7 +31794,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41624
+      "UsersEstimate": 41625
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31805,7 +31810,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -31869,7 +31874,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14152
+      "UsersEstimate": 14153
     },
     {
       "ID": "MYSTERY_06",
@@ -31901,7 +31906,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -31925,20 +31930,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83249,
+      "Progressed": 83250,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53529,
+      "Progressed": 53530,
       "Completed": 2682
     }
   ],
@@ -31946,8 +31951,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-25T04:02:42.7527141+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:05:17.2384075+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:06:05.7026562+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:57:12.4070905+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:05:17.238563+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:57:26.8759516+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:06:05.7027887+00:00"
 }

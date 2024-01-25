@@ -30,10 +30,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.50% | ~5,292 |
 | To Protect and Serve | 0.40% | ~4,233 |
 | Two Heads, One Bullet | 0.40% | ~4,233 |
+| Spin Doctor | 0.40% | ~748 |
 | To Bad Decisions! | 0.30% | ~3,175 |
 | The Wandering Fool | 0.30% | ~3,175 |
 | The Sun | 0.30% | ~3,175 |
-| Spin Doctor | 0.30% | ~561 |
 | King of Wands | 0.30% | ~561 |
 | Easy Come, Easy Go | 0.30% | ~561 |
 | Breathtaking | 0.20% | ~2,117 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,360 (Ranked 17)  
-Completed: 3,160 (0.30%) (Ranked 266)  
+Progressed: 1,058,371 (Ranked 17)  
+Completed: 3,162 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -354,7 +354,7 @@ Completed: 3,160 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,360 | 3,160 |
+| 2024-01-25 | 1,058,371 | 3,162 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
 Sum: 518,990 (Ranked 8)  

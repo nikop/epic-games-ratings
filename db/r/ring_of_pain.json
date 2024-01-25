@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3954,7 +3954,7 @@
   ],
   "EOS_Progressed": 243476,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -33905,9 +33905,9 @@
       "ID": "FINISHGAMELOWCHANCESTATS",
       "SetID": "1peahb6",
       "Name": "Who Needs Luck?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -34040,8 +34040,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-24T11:58:23.7790607+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:52.83402+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:15.7225343+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:58:21.1551839+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:52.8342629+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:58:42.6854049+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:15.7227844+00:00"
 }

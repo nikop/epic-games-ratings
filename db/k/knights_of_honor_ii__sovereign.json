@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -428,6 +428,11 @@
       "Time": "2024-01-25T01:55:45.7483813+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T07:05:25.37697+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -480,7 +485,7 @@
       "Name": "Big Apple",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "black_sheep_wall",
@@ -584,7 +589,7 @@
       "Name": "Crusader \u201Cyou know what\u201D",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "cut_me_own_throat",
@@ -616,7 +621,7 @@
       "Name": "Dinner Time",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "do_you_read",
@@ -624,7 +629,7 @@
       "Name": "Do you read Sutter Cane?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "dust_and_salt",
@@ -680,7 +685,7 @@
       "Name": "Full House",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "game_of_thorns",
@@ -744,7 +749,7 @@
       "Name": "His All-Holiness",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "his_holiness",
@@ -760,7 +765,7 @@
       "Name": "His name is King",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "holy_trinity",
@@ -920,7 +925,7 @@
       "Name": "New Mineland",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "on_the_third_day",
@@ -928,7 +933,7 @@
       "Name": "On the third day at dawn, look east",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "open_your_eyes",
@@ -984,7 +989,7 @@
       "Name": "Prince Ali! Fabulous he!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "prison_break",
@@ -1024,7 +1029,7 @@
       "Name": "Renaissance Man",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "scientia_potentia_es",
@@ -1104,7 +1109,7 @@
       "Name": "They Got What They Deserved",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "time_to_find_india",
@@ -1184,7 +1189,7 @@
       "Name": "What we\u2019ve got here is failure to communicate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "wheres_your_crown",
@@ -1200,7 +1205,7 @@
       "Name": "Why is there no culture victory?!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "you_are_not_the_boss",
@@ -1208,7 +1213,7 @@
       "Name": "You are not the boss of me now",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "you_dare_challenge",
@@ -1224,7 +1229,7 @@
       "Name": "You reap what you sow",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "youre_not_my_real_dad",
@@ -1239,7 +1244,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
@@ -1247,8 +1252,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:04:39.6071391+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:05:25.3769697+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:00:03.090682+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:04:39.6072338+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:00:36.9998812+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:05:25.3770813+00:00"
 }

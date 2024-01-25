@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -379,9 +379,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3374,6 +3374,11 @@
       "Time": "2024-01-24T22:09:08.3420857+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T07:10:03.2645121+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3402,7 +3407,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "CareerChamp2",
@@ -3410,7 +3415,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "CareerChamp3",
@@ -3458,7 +3463,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "CreditsEarnedA",
@@ -3506,7 +3511,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "PlayerRankC",
@@ -3545,7 +3550,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 0
     }
   ],
@@ -3553,8 +3558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-23T14:00:16.8218024+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:09:45.0486756+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:10:03.2645118+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:57:52.0414193+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:09:45.0487303+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:58:10.7073313+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:10:03.2645369+00:00"
 }

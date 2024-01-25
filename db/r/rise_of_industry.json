@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771188,
+  "EOS_Progressed": 771190,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1691,
+  "EOS_NewPlayers": 1688,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32631,6 +32631,11 @@
       "Time": "2024-01-25T06:08:38.3403807+00:00",
       "NumProgressed": 771188,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T07:08:50.5668329+00:00",
+      "NumProgressed": 771190,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -32770,7 +32775,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 370170
+      "UsersEstimate": 370171
     },
     {
       "ID": "ach_produced",
@@ -32778,7 +32783,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 100254
+      "UsersEstimate": 100255
     },
     {
       "ID": "ach_products_moved",
@@ -32810,7 +32815,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 100254
+      "UsersEstimate": 100255
     },
     {
       "ID": "ach_setup_route_boat",
@@ -32857,7 +32862,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 771188,
+      "Progressed": 771190,
       "Completed": 4
     }
   ],
@@ -32865,8 +32870,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2024-01-07T11:01:40.5660673+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:08:38.3403802+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:08:50.5668323+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.8872053+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:58:24.5299688+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:08:38.3405421+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:58:46.2936094+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:08:50.5669891+00:00"
 }

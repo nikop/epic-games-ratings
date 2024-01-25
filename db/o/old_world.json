@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -23718,9 +23718,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSEUM",
       "SetID": "9201eeb",
       "Name": "Colosseum",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COTHON",
@@ -23828,8 +23828,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:53.4371591+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:16.4045534+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:59:44.694633+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:53.4381188+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:00:16.0977569+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:16.4055723+00:00"
 }

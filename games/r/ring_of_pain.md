@@ -66,6 +66,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.50% | ~1,217 |
 | Antivenom | 0.50% | ~1,217 |
 | The Long Run | 0.50% | ~1,217 |
+| Who Needs Luck? | 0.50% | ~25 |
 | New Game+ | 0.40% | ~974 |
 | Barbecue | 0.40% | ~974 |
 | Juggernaut | 0.40% | ~974 |
@@ -75,7 +76,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.40% | ~974 |
 | Obsessed | 0.40% | ~974 |
 | Precious | 0.40% | ~974 |
-| Who Needs Luck? | 0.40% | ~20 |
 | Achievement Hunter | 0.30% | ~730 |
 | Challenge Increases | 0.30% | ~730 |
 | A Long Climb | 0.30% | ~730 |

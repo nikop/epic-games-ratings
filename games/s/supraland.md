@@ -1,39 +1,39 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 403)  
+Rating: 4.61 (Ranked 404)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~734,066 |
-| The Blues | 85.00% | ~630,259 |
-| Fast | 66.00% | ~489,377 |
-| Healthbar | 55.00% | ~407,815 |
-| Force Cube | 53.00% | ~392,985 |
-| Double Jump | 48.00% | ~355,911 |
-| Regeneration | 47.00% | ~348,496 |
-| Triple Jump | 43.00% | ~318,837 |
-| Climb the hill | 42.00% | ~311,422 |
+| Out of bed | 99.00% | ~734,068 |
+| The Blues | 85.00% | ~630,261 |
+| Fast | 66.00% | ~489,379 |
+| Healthbar | 55.00% | ~407,816 |
+| Force Cube | 53.00% | ~392,986 |
+| Double Jump | 48.00% | ~355,912 |
+| Regeneration | 47.00% | ~348,497 |
+| Triple Jump | 43.00% | ~318,838 |
+| Climb the hill | 42.00% | ~311,423 |
 | Through the fire pipe | 39.00% | ~289,178 |
-| MacGuffin | 38.00% | ~281,763 |
-| Just once | 37.00% | ~274,348 |
-| Armor | 30.00% | ~222,444 |
+| MacGuffin | 38.00% | ~281,764 |
+| Just once | 37.00% | ~274,349 |
+| Armor | 30.00% | ~222,445 |
 | True holy spirit | 28.00% | ~207,615 |
 | That's how electronics work obviously | 27.00% | ~200,200 |
-| Force Cube Catapult | 25.00% | ~185,370 |
+| Force Cube Catapult | 25.00% | ~185,371 |
 | Holy Sword | 23.00% | ~170,541 |
 | Telefrag | 23.00% | ~170,541 |
 | Freed from prison | 22.00% | ~163,126 |
 | Stomp | 21.00% | ~155,711 |
-| Double Health | 19.00% | ~140,881 |
+| Double Health | 19.00% | ~140,882 |
 | Buckle | 18.00% | ~133,467 |
 | Green Keycard | 18.00% | ~133,467 |
 | Rattle Hag | 16.00% | ~118,637 |
 | All Shells | 15.00% | ~111,222 |
-| Beam | 14.00% | ~103,807 |
-| 9 | 14.00% | ~103,807 |
-| Supraball Noob | 14.00% | ~103,807 |
+| Beam | 14.00% | ~103,808 |
+| 9 | 14.00% | ~103,808 |
+| Supraball Noob | 14.00% | ~103,808 |
 | Health Drink | 13.00% | ~96,393 |
 | Helped a star | 13.00% | ~96,393 |
 | Purple Cube | 13.00% | ~96,393 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~66,733 |
 | Through the tiny pipe | 9.00% | ~66,733 |
 | Win! | 9.00% | ~66,733 |
-| The real real teleported man | 8.00% | ~59,318 |
+| The real real teleported man | 8.00% | ~59,319 |
 | Well deserved | 6.00% | ~44,489 |
 | Super Sword | 4.00% | ~29,659 |
 | Happiness | 3.00% | ~22,244 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,481 (Ranked 27)  
+Progressed: 741,483 (Ranked 27)  
 Completed: 784 (0.11%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,7 +385,7 @@ Completed: 784 (0.11%) (Ranked 316)
 | 2024-01-22 | 741,258 | 784 |
 | 2024-01-23 | 741,349 | 784 |
 | 2024-01-24 | 741,462 | 784 |
-| 2024-01-25 | 741,481 | 784 |
+| 2024-01-25 | 741,483 | 784 |
 ## Awards
 Max (Challenging Puzzles): 7,785  (Ranked 55)  
 Sum: 10,176 (Ranked 97)  

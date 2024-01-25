@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 904,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1090,9 +1090,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363554,
+  "EOS_Progressed": 363556,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33090,6 +33090,11 @@
       "Time": "2024-01-25T06:05:52.9131373+00:00",
       "NumProgressed": 363554,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-25T07:06:44.5671528+00:00",
+      "NumProgressed": 363556,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33117,7 +33122,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43626
+      "UsersEstimate": 43627
     },
     {
       "ID": "ach004",
@@ -33157,7 +33162,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43626
+      "UsersEstimate": 43627
     },
     {
       "ID": "ach009",
@@ -33309,7 +33314,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167235
+      "UsersEstimate": 167236
     },
     {
       "ID": "ach028",
@@ -33405,7 +33410,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36355
+      "UsersEstimate": 36356
     },
     {
       "ID": "ach040",
@@ -33565,7 +33570,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36355
+      "UsersEstimate": 36356
     },
     {
       "ID": "ach060",
@@ -33740,7 +33745,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363554,
+      "Progressed": 363556,
       "Completed": 7
     }
   ],
@@ -33748,8 +33753,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-22T15:59:56.654219+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:05:52.9131369+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:06:44.5671523+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:57:21.1241723+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:05:52.9133267+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:57:36.5492402+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:06:44.5673474+00:00"
 }

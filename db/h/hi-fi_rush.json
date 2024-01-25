@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -293,7 +293,7 @@
   ],
   "EOS_Progressed": 17691,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13511,9 +13511,9 @@
       "ID": "Ach033",
       "SetID": "12n4k20",
       "Name": "Uh, they were broken when I got here",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4246
     },
     {
       "ID": "Ach034",
@@ -13838,8 +13838,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-23T11:01:11.7898211+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:04:08.9714504+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:04:52.9215275+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:57:36.9808859+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:04:08.9715909+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:57:54.1200552+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:04:52.9216389+00:00"
 }

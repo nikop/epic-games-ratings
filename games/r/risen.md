@@ -1,46 +1,46 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.60 (Ranked 431)  
+Rating: 4.60 (Ranked 432)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~195 |
-| Map reader | 66.00% | ~143 |
-| Adventurer | 65.00% | ~141 |
-| Philanthropist | 62.00% | ~135 |
-| The brave little tailor | 43.00% | ~93 |
-| Archer | 42.00% | ~91 |
-| Field hand | 40.00% | ~87 |
+| Beginner | 90.00% | ~197 |
+| Map reader | 66.00% | ~145 |
+| Adventurer | 65.00% | ~142 |
+| Philanthropist | 62.00% | ~136 |
+| The brave little tailor | 43.00% | ~94 |
+| Archer | 42.00% | ~92 |
+| Field hand | 40.00% | ~88 |
 | Well-to-do | 34.00% | ~74 |
-| Samaritan | 31.00% | ~67 |
-| The merciful one | 30.00% | ~65 |
-| Ladies' man | 30.00% | ~65 |
-| Ferocious wild boars | 25.00% | ~54 |
-| Idiot | 25.00% | ~54 |
-| Beast slayer | 23.00% | ~50 |
+| Samaritan | 31.00% | ~68 |
+| The merciful one | 30.00% | ~66 |
+| Ladies' man | 30.00% | ~66 |
+| Ferocious wild boars | 25.00% | ~55 |
+| Idiot | 25.00% | ~55 |
+| Beast slayer | 22.00% | ~48 |
 | Ogre friend | 22.00% | ~48 |
 | Death of a legend | 21.00% | ~46 |
 | Archaeologist | 21.00% | ~46 |
-| Family man | 20.00% | ~43 |
-| Sidelined | 19.00% | ~41 |
-| Wise man | 18.00% | ~39 |
+| Family man | 20.00% | ~44 |
+| Sidelined | 19.00% | ~42 |
 | Little hero | 18.00% | ~39 |
 | The fourth triplet | 18.00% | ~39 |
-| Pandora's box | 17.00% | ~37 |
-| Hard worker | 17.00% | ~37 |
-| Fence | 17.00% | ~37 |
+| Wise man | 17.00% | ~37 |
+| Pandora's box | 16.00% | ~35 |
 | Ghost hunter | 16.00% | ~35 |
+| Hard worker | 16.00% | ~35 |
+| Fence | 16.00% | ~35 |
 | Defender | 15.00% | ~33 |
 | Master detective | 15.00% | ~33 |
-| Showdown | 14.00% | ~30 |
-| Workaholic | 14.00% | ~30 |
-| Peacekeeper | 14.00% | ~30 |
-| Titan Lord | 12.00% | ~26 |
+| Showdown | 14.00% | ~31 |
+| Workaholic | 14.00% | ~31 |
+| Peacekeeper | 14.00% | ~31 |
+| Titan Lord | 11.00% | ~24 |
 | Safecracker | 10.00% | ~22 |
 | Master thief | 10.00% | ~22 |
 | Freedom fighter | 9.00% | ~20 |
-| Expert | 8.00% | ~17 |
+| Expert | 8.00% | ~18 |
 | Terror of the hens | 7.00% | ~15 |
 | The traveler | 6.00% | ~13 |
 | King of the handymen | 6.00% | ~13 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 431)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 433)  
+Progressed: 219 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-21 | 213 | 0 |
 | 2024-01-23 | 216 | 0 |
 | 2024-01-24 | 217 | 0 |
+| 2024-01-25 | 219 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

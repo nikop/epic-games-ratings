@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553554,
+  "EOS_Progressed": 553556,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33204,6 +33204,11 @@
       "Time": "2024-01-25T06:04:59.6751695+00:00",
       "NumProgressed": 553554,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T07:05:46.8240985+00:00",
+      "NumProgressed": 553556,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -33223,7 +33228,7 @@
       "Name": "Backdoor",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 143924
+      "UsersEstimate": 143925
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -33239,7 +33244,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 55355
+      "UsersEstimate": 55356
     },
     {
       "ID": "BlindmansBluff",
@@ -33367,7 +33372,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232493
+      "UsersEstimate": 232494
     },
     {
       "ID": "HoldingYourOwn",
@@ -33463,7 +33468,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420701
+      "UsersEstimate": 420703
     },
     {
       "ID": "ProPlayer",
@@ -33543,7 +33548,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 105175
+      "UsersEstimate": 105176
     },
     {
       "ID": "TopDog",
@@ -33567,14 +33572,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66426
+      "UsersEstimate": 66427
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553554,
+      "Progressed": 553556,
       "Completed": 2
     }
   ],
@@ -33582,8 +33587,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-23T19:59:33.7584568+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:04:59.6751691+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:05:46.8240978+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:00:20.4076485+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:04:59.6753133+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:03:15.9756333+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:05:46.8242807+00:00"
 }

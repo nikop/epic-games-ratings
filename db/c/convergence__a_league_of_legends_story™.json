@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1358,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4197,6 +4197,11 @@
       "Time": "2024-01-24T22:10:12.0160807+00:00",
       "NumProgressed": 1358,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-25T07:11:12.5238129+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4256,7 +4261,7 @@
       "Name": "Like Clockwork",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ClovemaryGift",
@@ -4264,7 +4269,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CosmeticCompletion1",
@@ -4336,7 +4341,7 @@
       "Name": "The Betrayer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4368,7 +4373,7 @@
       "Name": "Rail Rat",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "HexlockGift",
@@ -4376,7 +4381,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "InxChromaInTheatre",
@@ -4448,7 +4453,7 @@
       "Name": "Time Flies",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ParryBoss",
@@ -4464,7 +4469,7 @@
       "Name": "No, Thanks!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4488,7 +4493,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "RewindDamage1",
@@ -4528,7 +4533,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "SkillProgress1",
@@ -4631,7 +4636,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1358,
+      "Progressed": 1359,
       "Completed": 8
     }
   ],
@@ -4639,8 +4644,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-23T01:49:49.4916603+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:49.8443194+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:12.5238123+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:57:20.5147785+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:49.844377+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:57:35.9431212+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:12.5238676+00:00"
 }

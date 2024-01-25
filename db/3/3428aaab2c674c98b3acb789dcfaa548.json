@@ -10967,9 +10967,9 @@
       "Count": 1726
     }
   ],
-  "EOS_Progressed": 895990,
+  "EOS_Progressed": 896006,
   "EOS_Completed": 254,
-  "EOS_NewPlayers": 4453,
+  "EOS_NewPlayers": 4454,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -39817,6 +39817,11 @@
       "Time": "2024-01-25T06:10:20.4984543+00:00",
       "NumProgressed": 895990,
       "NumCompleted": 254
+    },
+    {
+      "Time": "2024-01-25T07:10:41.4356543+00:00",
+      "NumProgressed": 896006,
+      "NumCompleted": 254
     }
   ],
   "TotalAchievements": 75,
@@ -39828,7 +39833,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 250877
+      "UsersEstimate": 250882
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -39908,7 +39913,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 53759
+      "UsersEstimate": 53760
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -39924,7 +39929,7 @@
       "Name": "Crafty",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 62719
+      "UsersEstimate": 62720
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -40124,7 +40129,7 @@
       "Name": "New Kid",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 62719
+      "UsersEstimate": 62720
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -40164,7 +40169,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53759
+      "UsersEstimate": 53760
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -40236,7 +40241,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 53759
+      "UsersEstimate": 53760
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -40300,7 +40305,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 62719
+      "UsersEstimate": 62720
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -40427,13 +40432,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 895990,
+      "Progressed": 896006,
       "Completed": 300
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 895990,
+      "Progressed": 896006,
       "Completed": 254
     }
   ],
@@ -40441,8 +40446,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2024-01-25T02:25:14.5129154+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:20.4984539+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:10:41.4356537+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:09.9158872+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:58:36.5870009+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:20.4986117+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:58:59.6857216+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:10:41.4358311+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2965,9 +2965,9 @@
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -3013,8 +3013,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:48.5160264+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:11.3025091+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.1220407+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:57:52.6943548+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:48.5160678+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:58:11.42815+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:11.3025512+00:00"
 }

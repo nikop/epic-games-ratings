@@ -2,13 +2,13 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 1361,
   "RatingHistory": [
     {
@@ -3905,10 +3905,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 1059,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-01-25T06:59:11.7187645+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1060,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1059,
+  "NumberOfAwards": 1060,
   "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -3946,7 +3952,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3984,8 +3990,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-01-24T16:58:27.33702+00:00",
+  "LastChanged": "2024-01-25T06:59:11.7187643+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.1331961+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:58:47.3844725+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:09:50.6769621+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:59:11.7187648+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:10:09.3746486+00:00"
 }

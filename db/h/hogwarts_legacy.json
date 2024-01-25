@@ -14157,9 +14157,9 @@
       "Count": 1140
     }
   ],
-  "EOS_Progressed": 387315,
+  "EOS_Progressed": 387318,
   "EOS_Completed": 588,
-  "EOS_NewPlayers": 2031,
+  "EOS_NewPlayers": 2025,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -44607,6 +44607,11 @@
       "Time": "2024-01-25T06:09:59.6584698+00:00",
       "NumProgressed": 387315,
       "NumCompleted": 588
+    },
+    {
+      "Time": "2024-01-25T07:10:19.0412738+00:00",
+      "NumProgressed": 387318,
+      "NumCompleted": 588
     }
   ],
   "TotalAchievements": 45,
@@ -44618,7 +44623,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 123941
+      "UsersEstimate": 123942
     },
     {
       "ID": "PFA_10",
@@ -44666,7 +44671,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 34858
+      "UsersEstimate": 34859
     },
     {
       "ID": "PFA_16",
@@ -44674,7 +44679,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 54224
+      "UsersEstimate": 54225
     },
     {
       "ID": "PFA_17",
@@ -44690,7 +44695,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 34858
+      "UsersEstimate": 34859
     },
     {
       "ID": "PFA_19",
@@ -44698,7 +44703,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 34858
+      "UsersEstimate": 34859
     },
     {
       "ID": "PFA_2",
@@ -44722,7 +44727,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 54224
+      "UsersEstimate": 54225
     },
     {
       "ID": "PFA_22",
@@ -44746,7 +44751,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 61970
+      "UsersEstimate": 61971
     },
     {
       "ID": "PFA_25",
@@ -44802,7 +44807,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 77463
+      "UsersEstimate": 77464
     },
     {
       "ID": "PFA_31",
@@ -44834,7 +44839,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11619
+      "UsersEstimate": 11620
     },
     {
       "ID": "PFA_35",
@@ -44842,7 +44847,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 58097
+      "UsersEstimate": 58098
     },
     {
       "ID": "PFA_36",
@@ -44906,7 +44911,7 @@
       "Name": "Raising Expectations",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 34858
+      "UsersEstimate": 34859
     },
     {
       "ID": "PFA_43",
@@ -44946,7 +44951,7 @@
       "Name": "First Class Student",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 112321
+      "UsersEstimate": 112322
     },
     {
       "ID": "PFA_7",
@@ -44954,7 +44959,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 104575
+      "UsersEstimate": 104576
     },
     {
       "ID": "PFA_8",
@@ -44977,7 +44982,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 387315,
+      "Progressed": 387318,
       "Completed": 588
     }
   ],
@@ -44985,8 +44990,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2024-01-25T03:59:07.8368559+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:09:59.6584695+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:10:19.0412732+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.2606186+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:59:32.1929117+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:09:59.6586009+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:00:02.3127572+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:10:19.0414203+00:00"
 }

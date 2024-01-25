@@ -35,10 +35,10 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 1.00% | ~16 |
 | Plague Doctor | 0.90% | ~15 |
 | Bears are Scary | 0.90% | ~15 |
+| Tempest | 0.90% | ~15 |
 | Storied Past | 0.80% | ~13 |
 | Fight Like a Bird | 0.80% | ~13 |
 | Grillmaster | 0.80% | ~13 |
-| Tempest | 0.80% | ~13 |
 | Worldwalker | 0.70% | ~11 |
 | Bonebreakers | 0.70% | ~11 |
 | A Hunger, Sated | 0.70% | ~11 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-06T16:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -2469,9 +2469,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 53878,
+  "EOS_Progressed": 53879,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2464,
+  "EOS_NewPlayers": 2461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11939,6 +11939,11 @@
       "Time": "2024-01-25T06:10:47.0864448+00:00",
       "NumProgressed": 53878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T07:11:10.0466991+00:00",
+      "NumProgressed": 53879,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T16:07:36.390537+00:00",
@@ -12087,7 +12092,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 26400
+      "UsersEstimate": 26401
     },
     {
       "ID": "achievement_club_world_cup",
@@ -12207,7 +12212,7 @@
       "Name": "What A Goal!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11314
+      "UsersEstimate": 11315
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -12231,7 +12236,7 @@
       "Name": "Irresistible Force",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 8620
+      "UsersEstimate": 8621
     },
     {
       "ID": "achievement_hattrick",
@@ -12239,7 +12244,7 @@
       "Name": "Hat-trick",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 21012
+      "UsersEstimate": 21013
     },
     {
       "ID": "achievement_head_to_head",
@@ -12263,7 +12268,7 @@
       "Name": "Impenetrable",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 11314
+      "UsersEstimate": 11315
     },
     {
       "ID": "achievement_least_goals_conceded_in_league",
@@ -12303,7 +12308,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11314
+      "UsersEstimate": 11315
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -12311,7 +12316,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 31788
+      "UsersEstimate": 31789
     },
     {
       "ID": "achievement_name_on_the_trophy",
@@ -12431,7 +12436,7 @@
       "Name": "Raining Chaos",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 8620
+      "UsersEstimate": 8621
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -12447,7 +12452,7 @@
       "Name": "Record Sale",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11314
+      "UsersEstimate": 11315
     },
     {
       "ID": "achievement_record_signing",
@@ -12479,7 +12484,7 @@
       "Name": "Off the Books",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 25861
+      "UsersEstimate": 25862
     },
     {
       "ID": "achievement_shots_for_days",
@@ -12535,7 +12540,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -12551,7 +12556,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 34482
+      "UsersEstimate": 34483
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -12647,7 +12652,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 26939
+      "UsersEstimate": 26940
     },
     {
       "ID": "achievement_won_international_championship",
@@ -12727,7 +12732,7 @@
       "Name": "Championes",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 11314
+      "UsersEstimate": 11315
     },
     {
       "ID": "placeholder_achievement_signed_a_player",
@@ -12735,7 +12740,7 @@
       "Name": "#DoneDeal",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 25861
+      "UsersEstimate": 25862
     },
     {
       "ID": "placeholder_achievement_we_meet_again",
@@ -12750,7 +12755,7 @@
     {
       "ID": "5240afh",
       "IsBase": true,
-      "Progressed": 53878,
+      "Progressed": 53879,
       "Completed": 0
     }
   ],
@@ -12758,8 +12763,8 @@
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
   "LastChanged": "2024-01-24T21:58:37.9192023+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:47.0864444+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:10.0466985+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:40.7828832+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:59:07.2784557+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:47.0865569+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:59:34.079204+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:10.0468119+00:00"
 }

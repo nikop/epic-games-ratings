@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1833,7 +1833,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249429,
+  "EOS_Progressed": 249431,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 0,
@@ -27478,6 +27478,11 @@
       "Time": "2024-01-25T06:10:50.370308+00:00",
       "NumProgressed": 249429,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-25T07:11:13.1502696+00:00",
+      "NumProgressed": 249431,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27545,7 +27550,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12471
+      "UsersEstimate": 12472
     },
     {
       "ID": "Chapter3",
@@ -27961,7 +27966,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12471
+      "UsersEstimate": 12472
     },
     {
       "ID": "EndGameCursed",
@@ -28185,28 +28190,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12471
+      "UsersEstimate": 12472
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249429,
+      "Progressed": 249431,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249429,
+      "Progressed": 249431,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-25T01:53:33.3656171+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:50.3703075+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:13.150269+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-25T06:00:22.4681163+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:50.3704817+00:00"
+  "LastUpdate_Ratings": "2024-01-25T07:03:18.2751443+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:13.150422+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1122,7 +1122,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 233034,
+  "EOS_Progressed": 233036,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 0,
@@ -31887,6 +31887,11 @@
       "Time": "2024-01-25T06:10:39.4889484+00:00",
       "NumProgressed": 233034,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T07:11:01.8673855+00:00",
+      "NumProgressed": 233036,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31938,7 +31943,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23303
+      "UsersEstimate": 23304
     },
     {
       "ID": "ACH_BASE_16",
@@ -31946,7 +31951,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23303
+      "UsersEstimate": 23304
     },
     {
       "ID": "ACH_BASE_17",
@@ -31962,7 +31967,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23303
+      "UsersEstimate": 23304
     },
     {
       "ID": "ACH_BASE_19",
@@ -32146,7 +32151,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30294
+      "UsersEstimate": 30295
     },
     {
       "ID": "ACH_BASE_8",
@@ -32169,7 +32174,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 233034,
+      "Progressed": 233036,
       "Completed": 5
     }
   ],
@@ -32177,8 +32182,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-22T21:01:37.0351842+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:39.4889481+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:01.8673853+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:58:03.9999827+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:39.4890752+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:58:23.8263427+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:01.8675064+00:00"
 }

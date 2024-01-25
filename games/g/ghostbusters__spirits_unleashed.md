@@ -13,12 +13,12 @@ Rating: 4.51 (Ranked 601)
 | Discovery | 6.00% | ~2,036 |
 | Solo Capture | 6.00% | ~2,036 |
 | Teamwork | 6.00% | ~2,036 |
-| Clutch Capture | 5.00% | ~1,696 |
-| Cultured | 5.00% | ~1,696 |
-| Fully Upgraded | 5.00% | ~1,696 |
-| There you are! | 5.00% | ~1,696 |
-| Vaporous Expansion | 5.00% | ~1,696 |
-| Whoopsie | 5.00% | ~1,696 |
+| Clutch Capture | 5.00% | ~1,697 |
+| Cultured | 5.00% | ~1,697 |
+| Fully Upgraded | 5.00% | ~1,697 |
+| There you are! | 5.00% | ~1,697 |
+| Vaporous Expansion | 5.00% | ~1,697 |
+| Whoopsie | 5.00% | ~1,697 |
 | Daily Dose | 4.00% | ~1,357 |
 | Ghostbuster In Training | 4.00% | ~1,357 |
 | Right back at ya | 4.00% | ~1,357 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 601)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,930 (Ranked 142)  
+Progressed: 33,931 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 71 (0.21%) (Ranked 285)
 | 2024-01-22 | 33,895 | 71 |
 | 2024-01-23 | 33,915 | 71 |
 | 2024-01-24 | 33,926 | 71 |
-| 2024-01-25 | 33,930 | 71 |
+| 2024-01-25 | 33,931 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 330  (Ranked 258)  
 Sum: 2,989 (Ranked 188)  

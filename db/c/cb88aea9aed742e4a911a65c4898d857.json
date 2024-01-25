@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -485,9 +485,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12193,
+  "EOS_Progressed": 12194,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6090,6 +6090,11 @@
       "Time": "2024-01-25T02:01:47.9647057+00:00",
       "NumProgressed": 12193,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T07:11:08.2407806+00:00",
+      "NumProgressed": 12194,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6102,7 +6107,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "03_TheStolenStar",
@@ -6222,7 +6227,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6486,7 +6491,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6621,7 +6626,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12193,
+      "Progressed": 12194,
       "Completed": 1
     }
   ],
@@ -6629,8 +6634,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T02:25:43.581088+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:45.5441168+00:00",
-  "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:59:03.9970075+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:45.5441949+00:00"
+  "LastChanged_Achievements": "2024-01-25T07:11:08.2407799+00:00",
+  "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
+  "LastUpdate_Ratings": "2024-01-25T06:59:30.333475+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:08.2408519+00:00"
 }

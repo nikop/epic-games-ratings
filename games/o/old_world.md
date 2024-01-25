@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.40% | ~69 |
 | Siege Tower | 0.40% | ~69 |
 | Al Khazneh | 0.40% | ~69 |
+| Colosseum | 0.40% | ~69 |
 | Carthage - Riches and Influence | 0.30% | ~51 |
 | Ancient | 0.30% | ~51 |
 | Glorious Difficulty | 0.30% | ~51 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.30% | ~51 |
 | Conquest Victory | 0.30% | ~51 |
 | Beja Archer | 0.30% | ~51 |
-| Colosseum | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
 | Silver Victory (Carthage 1) | 0.20% | ~34 |
 | Cleopatra's Love | 0.20% | ~34 |

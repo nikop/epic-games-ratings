@@ -6,13 +6,13 @@ Rating: 4.67 (Ranked 289)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 48.00% | ~652 |
-| Rail Rat | 37.00% | ~502 |
+| Rail Rat | 37.00% | ~503 |
 | The Mysterious Stranger | 36.00% | ~489 |
 | Immaculate Aim | 31.00% | ~421 |
 | The Brass Boss | 29.00% | ~394 |
-| Time Flies | 28.00% | ~380 |
-| No, Thanks! | 28.00% | ~380 |
-| The Prince in Heels | 28.00% | ~380 |
+| Time Flies | 28.00% | ~381 |
+| No, Thanks! | 28.00% | ~381 |
+| The Prince in Heels | 28.00% | ~381 |
 | Make Up For Lost Time | 27.00% | ~367 |
 | The Harder They Fall | 27.00% | ~367 |
 | Honest Mistake | 27.00% | ~367 |
@@ -23,8 +23,8 @@ Rating: 4.67 (Ranked 289)
 | Right On Time | 24.00% | ~326 |
 | Breaking Down Barriers | 24.00% | ~326 |
 | Golem Chaser | 24.00% | ~326 |
-| Like Clockwork | 23.00% | ~312 |
-| The Betrayer | 23.00% | ~312 |
+| Like Clockwork | 23.00% | ~313 |
+| The Betrayer | 23.00% | ~313 |
 | Check Your Pulse | 22.00% | ~299 |
 | The Loose Cannon | 21.00% | ~285 |
 | Street Style | 20.00% | ~272 |
@@ -47,9 +47,9 @@ Rating: 4.67 (Ranked 289)
 | Entresol Explorer | 9.00% | ~122 |
 | Sartorialist | 8.00% | ~109 |
 | Golem Hunter | 7.00% | ~95 |
-| Clovemary for Remembering | 6.00% | ~81 |
-| Hexlock for Protection | 6.00% | ~81 |
-| Rungs Was Right | 6.00% | ~81 |
+| Clovemary for Remembering | 6.00% | ~82 |
+| Hexlock for Protection | 6.00% | ~82 |
+| Rungs Was Right | 6.00% | ~82 |
 | Wunderkind | 3.00% | ~41 |
 | Thinking Two Steps Ahead | 2.00% | ~27 |
 | Fitting In | 2.00% | ~27 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 289)
 | Raw Talent | 0.70% | ~10 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,358 (Ranked 282)  
+Progressed: 1,359 (Ranked 282)  
 Completed: 8 (0.59%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 8 (0.59%) (Ranked 218)
 | 2024-01-22 | 1,352 | 8 |
 | 2024-01-23 | 1,355 | 8 |
 | 2024-01-24 | 1,358 | 8 |
+| 2024-01-25 | 1,359 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

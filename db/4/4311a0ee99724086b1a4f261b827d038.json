@@ -4,11 +4,11 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 529,
   "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -917,7 +917,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244954,
+  "EOS_Progressed": 244957,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 0,
@@ -22502,6 +22502,11 @@
       "Time": "2024-01-25T06:10:40.073806+00:00",
       "NumProgressed": 244954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T07:11:02.5039275+00:00",
+      "NumProgressed": 244957,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22570,7 +22575,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51440
+      "UsersEstimate": 51441
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22770,7 +22775,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61238
+      "UsersEstimate": 61239
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22785,7 +22790,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244954,
+      "Progressed": 244957,
       "Completed": 0
     }
   ],
@@ -22793,8 +22798,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:40.0738056+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:02.5039266+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:59:23.6331866+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:40.0739176+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:59:52.5890703+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:02.5040766+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 601,
   "Ranking_Popularity": 287,
-  "Ranking_PopularitySum": 400,
+  "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -721,7 +721,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474412,
+  "EOS_Progressed": 474414,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
@@ -29586,6 +29586,11 @@
       "Time": "2024-01-25T06:10:50.1964245+00:00",
       "NumProgressed": 474412,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-25T07:11:13.008891+00:00",
+      "NumProgressed": 474414,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29685,7 +29690,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 313112
+      "UsersEstimate": 313113
     },
     {
       "ID": "achievement_story_landa",
@@ -29717,7 +29722,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118603
+      "UsersEstimate": 118604
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -29749,7 +29754,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52185
+      "UsersEstimate": 52186
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -29773,7 +29778,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94882
+      "UsersEstimate": 94883
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -29781,7 +29786,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161300
+      "UsersEstimate": 161301
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -30021,7 +30026,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208741
+      "UsersEstimate": 208742
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -30045,7 +30050,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56929
+      "UsersEstimate": 56930
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -30228,21 +30233,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18346,
+      "Progressed": 18348,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474412,
+      "Progressed": 474414,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-24T23:57:02.9236953+00:00",
-  "LastChanged_Achievements": "2024-01-25T06:10:50.1964241+00:00",
+  "LastChanged_Achievements": "2024-01-25T07:11:13.0088906+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:55.2971937+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:57:22.8508594+00:00",
-  "LastUpdate_Achievements": "2024-01-25T06:10:50.19658+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:57:38.5447253+00:00",
+  "LastUpdate_Achievements": "2024-01-25T07:11:13.0090762+00:00"
 }
