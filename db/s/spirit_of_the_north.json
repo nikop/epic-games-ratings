@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80941,
+  "EOS_Progressed": 80943,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -31304,6 +31304,11 @@
       "Time": "2024-01-25T10:04:30.0229528+00:00",
       "NumProgressed": 80941,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2024-01-25T11:05:09.4347068+00:00",
+      "NumProgressed": 80943,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 24,
@@ -31331,7 +31336,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55849
+      "UsersEstimate": 55851
     },
     {
       "ID": "BEST_FRIENDS",
@@ -31363,7 +31368,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22663
+      "UsersEstimate": 22664
     },
     {
       "ID": "FOXIN_AROUND",
@@ -31387,7 +31392,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14569
+      "UsersEstimate": 14570
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -31395,7 +31400,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42899
+      "UsersEstimate": 42900
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -31506,7 +31511,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80941,
+      "Progressed": 80943,
       "Completed": 441
     }
   ],
@@ -31514,8 +31519,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:04:30.0229525+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:05:09.4347064+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:57.351198+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:57:55.1344705+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:04:30.0231404+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:58:29.3262156+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:05:09.4348268+00:00"
 }

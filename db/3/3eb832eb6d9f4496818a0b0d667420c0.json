@@ -445,9 +445,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430862,
+  "EOS_Progressed": 430880,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6774,
+  "EOS_NewPlayers": 6766,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4780,6 +4780,11 @@
       "Time": "2024-01-25T10:06:14.7472013+00:00",
       "NumProgressed": 430862,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T11:07:19.1063155+00:00",
+      "NumProgressed": 430880,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4800,7 +4805,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30160
+      "UsersEstimate": 30162
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4824,7 +4829,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99098
+      "UsersEstimate": 99102
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4848,7 +4853,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 112024
+      "UsersEstimate": 112029
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4856,7 +4861,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94790
+      "UsersEstimate": 94794
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4888,7 +4893,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17234
+      "UsersEstimate": 17235
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4936,7 +4941,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -4952,7 +4957,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38778
+      "UsersEstimate": 38779
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4968,7 +4973,7 @@
       "Name": "Performance Examination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -5000,7 +5005,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34469
+      "UsersEstimate": 34470
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -5008,7 +5013,7 @@
       "Name": "A Raging Madness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -5024,7 +5029,7 @@
       "Name": "To Greater Heights",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "ACHIEVEMENT_031",
@@ -5032,7 +5037,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -5040,7 +5045,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -5135,7 +5140,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 430862,
+      "Progressed": 430880,
       "Completed": 4
     }
   ],
@@ -5143,8 +5148,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-24T06:03:55.6643262+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:06:14.747201+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:07:19.1063151+00:00",
   "LastUpdate_AppInfo": "2024-01-23T13:04:44.661281+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:03:21.9775096+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:06:14.7472486+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:03:42.3066753+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:07:19.106371+00:00"
 }

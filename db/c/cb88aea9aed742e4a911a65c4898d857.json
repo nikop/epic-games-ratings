@@ -491,9 +491,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12202,
+  "EOS_Progressed": 12203,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6116,6 +6116,11 @@
       "Time": "2024-01-25T10:10:49.2841751+00:00",
       "NumProgressed": 12202,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T11:11:21.0270275+00:00",
+      "NumProgressed": 12203,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6128,7 +6133,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "03_TheStolenStar",
@@ -6136,7 +6141,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6240,7 +6245,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "17_TheExemplar",
@@ -6256,7 +6261,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6480,7 +6485,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "47_AFlame",
@@ -6558,9 +6563,9 @@
       "ID": "56_ThoroughInvestigation",
       "SetID": "37a94m8",
       "Name": "Thorough Investigation",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 98
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -6647,7 +6652,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12202,
+      "Progressed": 12203,
       "Completed": 1
     }
   ],
@@ -6655,8 +6660,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T09:59:16.2080401+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:10:49.2841746+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:11:21.0270272+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:59:16.2080406+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:10:49.2842439+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:00:05.5937653+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:11:21.0271005+00:00"
 }

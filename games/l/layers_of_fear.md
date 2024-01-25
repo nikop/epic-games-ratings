@@ -22,12 +22,12 @@
 | The art of movement | 14.00% | ~48 |
 | Another perspective | 13.00% | ~45 |
 | Lights! Camera! Action! | 13.00% | ~45 |
+| First steps | 12.00% | ~42 |
 | Playtime | 12.00% | ~42 |
 | Tough conversation | 12.00% | ~42 |
 | A new way | 11.00% | ~38 |
-| First steps | 11.00% | ~38 |
+| Breaking free | 11.00% | ~38 |
 | The tragedy unfolds | 11.00% | ~38 |
-| Breaking free | 10.00% | ~35 |
 | True Reflection | 9.00% | ~31 |
 | Casting Finished | 8.00% | ~28 |
 | Heavy Burden | 8.00% | ~28 |

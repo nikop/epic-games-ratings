@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -523,9 +523,9 @@
       "ID": "ACH_ASSIGN_RUIN_1",
       "SetID": "ajki3eh",
       "Name": "Devout",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_ASSIGN_RUIN_2",
@@ -563,9 +563,9 @@
       "ID": "ACH_ASSIGN_WORK_2",
       "SetID": "ajki3eh",
       "Name": "Frugal",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_FINISH_OBJECTIVE",
@@ -763,8 +763,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:08:56.5635054+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:09:03.7761907+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.6402325+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:00:00.2477403+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:08:56.563523+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:01:00.7797601+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:09:03.7762149+00:00"
 }

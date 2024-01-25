@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22729,
+  "EOS_Progressed": 22731,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14931,6 +14931,11 @@
       "Time": "2024-01-25T10:10:33.8595854+00:00",
       "NumProgressed": 22729,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-25T11:11:02.8622233+00:00",
+      "NumProgressed": 22731,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14958,7 +14963,7 @@
       "Name": "Giving Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14974,7 +14979,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15070,7 +15075,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5000
+      "UsersEstimate": 5001
     },
     {
       "ID": "KILL_ROBOT",
@@ -15078,7 +15083,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -15086,7 +15091,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -15110,7 +15115,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4773
+      "UsersEstimate": 4774
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15118,7 +15123,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15134,7 +15139,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15166,7 +15171,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -15190,7 +15195,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15294,7 +15299,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -15317,13 +15322,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22729,
+      "Progressed": 22731,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10655,
+      "Progressed": 10657,
       "Completed": 29
     }
   ],
@@ -15331,8 +15336,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:10:33.8595849+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:11:02.862223+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:03:34.6782295+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:10:33.8596823+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:03:58.6161413+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:11:02.86231+00:00"
 }

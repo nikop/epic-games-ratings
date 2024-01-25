@@ -21,8 +21,8 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 19.00% | ~55 |
 | Eternal Oblivion | 19.00% | ~55 |
 | Banker | 18.00% | ~52 |
+| Globetrotter | 17.00% | ~49 |
 | Storyteller | 16.00% | ~47 |
-| Globetrotter | 16.00% | ~47 |
 | Berserker | 16.00% | ~47 |
 | Hunter | 14.00% | ~41 |
 | Lover | 14.00% | ~41 |

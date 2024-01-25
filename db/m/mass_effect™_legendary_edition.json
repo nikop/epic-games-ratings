@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4658,
+  "EOS_Progressed": 4659,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -9113,6 +9113,11 @@
       "Time": "2024-01-25T10:10:56.3526899+00:00",
       "NumProgressed": 4658,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-25T11:11:29.2883904+00:00",
+      "NumProgressed": 4659,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -9141,7 +9146,7 @@
       "Name": "A Personal Touch",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_101",
@@ -9213,7 +9218,7 @@
       "Name": "Hijacker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_11",
@@ -9405,7 +9410,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "achievement_17",
@@ -9453,7 +9458,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "achievement_22",
@@ -9485,7 +9490,7 @@
       "Name": "Sentinel Ally",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "achievement_26",
@@ -9509,7 +9514,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "achievement_29",
@@ -9525,7 +9530,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "achievement_30",
@@ -9541,7 +9546,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "achievement_32",
@@ -9589,7 +9594,7 @@
       "Name": "Very Elusive",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "achievement_38",
@@ -9603,9 +9608,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1165
     },
     {
       "ID": "achievement_4",
@@ -9653,7 +9658,7 @@
       "Name": "The Archangel",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "achievement_45",
@@ -9661,7 +9666,7 @@
       "Name": "The Assassin",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "achievement_46",
@@ -9669,7 +9674,7 @@
       "Name": "The Convict",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "achievement_47",
@@ -9693,7 +9698,7 @@
       "Name": "The Professor",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "achievement_5",
@@ -9701,7 +9706,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "achievement_50",
@@ -9725,7 +9730,7 @@
       "Name": "Battlemaster",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_53",
@@ -9741,7 +9746,7 @@
       "Name": "Catharsis",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_55",
@@ -9757,7 +9762,7 @@
       "Name": "Fade Away",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_57",
@@ -9765,7 +9770,7 @@
       "Name": "Ghost of the Father",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_58",
@@ -9773,7 +9778,7 @@
       "Name": "The Cure",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_59",
@@ -9805,7 +9810,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_62",
@@ -9813,7 +9818,7 @@
       "Name": "Head Hunter",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "achievement_63",
@@ -9869,7 +9874,7 @@
       "Name": "Galactic Explorer",
       "Percentage": 23,
       "XP": 75,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_7",
@@ -9891,9 +9896,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1491
     },
     {
       "ID": "achievement_72",
@@ -9917,7 +9922,7 @@
       "Name": "Power Full",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "achievement_75",
@@ -9925,7 +9930,7 @@
       "Name": "Revenge!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_76",
@@ -9949,7 +9954,7 @@
       "Name": "Heart of Darkness",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_79",
@@ -9957,7 +9962,7 @@
       "Name": "Driven",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "achievement_8",
@@ -9973,7 +9978,7 @@
       "Name": "Bringer of War",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_81",
@@ -9997,7 +10002,7 @@
       "Name": "Pathfinder",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "achievement_84",
@@ -10005,7 +10010,7 @@
       "Name": "Tunnel Rat",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "achievement_85",
@@ -10085,7 +10090,7 @@
       "Name": "Liberator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "achievement_94",
@@ -10117,7 +10122,7 @@
       "Name": "Shopaholic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_98",
@@ -10140,19 +10145,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4658,
+      "Progressed": 4659,
       "Completed": 16
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4658,
+      "Progressed": 4659,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:10:56.3526897+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:11:29.28839+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:03:35.3710167+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:10:56.3529039+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:03:59.5186009+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:11:29.2885592+00:00"
 }

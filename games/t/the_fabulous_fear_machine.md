@@ -52,7 +52,7 @@
 | Pulp! The Vault of Horror | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 511)  
+Progressed: 93 (Ranked 512)  
 Completed: 1 (1.08%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |

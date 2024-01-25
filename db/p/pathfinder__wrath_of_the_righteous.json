@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5033,7 +5033,7 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 13350,
+  "EOS_Progressed": 13351,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -20173,6 +20173,11 @@
       "Time": "2024-01-25T10:10:55.5709922+00:00",
       "NumProgressed": 13350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T11:11:28.3349791+00:00",
+      "NumProgressed": 13351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20192,7 +20197,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -20272,7 +20277,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "13_PathOfLich",
@@ -20280,7 +20285,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "14_PathOfSwarm",
@@ -20408,7 +20413,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "31_DivideAndRule",
@@ -20440,7 +20445,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -20456,7 +20461,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -21111,21 +21116,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12132,
+      "Progressed": 12133,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13350,
+      "Progressed": 13351,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-24T21:57:14.7243978+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:10:55.570992+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:11:28.3349786+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:57:39.8407723+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:10:55.5711525+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:58:09.855825+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:11:28.335178+00:00"
 }

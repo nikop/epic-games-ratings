@@ -14,8 +14,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | New Home | 23.00% | ~21,095 |
 | Beagle 2 | 23.00% | ~21,095 |
 | Winner Winner Terraformer | 20.00% | ~18,344 |
-| Project Manager | 19.00% | ~17,426 |
-| Collector | 19.00% | ~17,426 |
+| Project Manager | 19.00% | ~17,427 |
+| Collector | 19.00% | ~17,427 |
 | Curiosity | 18.00% | ~16,509 |
 | Master | 18.00% | ~16,509 |
 | No Longer Red | 17.00% | ~15,592 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~9,172 |
 | Variety Expert | 9.00% | ~8,255 |
 | Ultimate success | 9.00% | ~8,255 |
-| Frequent tester | 8.00% | ~7,337 |
+| Frequent tester | 8.00% | ~7,338 |
 | Determined | 7.00% | ~6,420 |
 | Terraformer | 4.00% | ~3,669 |
 | Opportunity | 3.00% | ~2,752 |
 | Team Effort | 2.00% | ~1,834 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,718 (Ranked 108)  
+Progressed: 91,719 (Ranked 108)  
 Completed: 186 (0.20%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 186 (0.20%) (Ranked 288)
 | 2024-01-22 | 91,529 | 186 |
 | 2024-01-23 | 91,612 | 186 |
 | 2024-01-24 | 91,694 | 186 |
-| 2024-01-25 | 91,718 | 186 |
+| 2024-01-25 | 91,719 | 186 |
 ## Awards
 Max (Relaxing): 546  (Ranked 220)  
 Sum: 3,366 (Ranked 181)  

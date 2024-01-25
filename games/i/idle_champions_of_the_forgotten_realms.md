@@ -44,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~1,022 |
 | Waterdeep Detours | 0.40% | ~1,022 |
 | Underdeep Cartography | 0.40% | ~1,022 |
+| Overdue Rendezvous | 0.40% | ~1,022 |
 | The Templar's Camp | 0.40% | ~1,022 |
 | Arcane Suppression | 0.40% | ~887 |
 | Welcome to the Vrocks | 0.40% | ~887 |
@@ -66,7 +67,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.30% | ~767 |
 | Constant Banditry | 0.30% | ~767 |
 | Easily Distracted | 0.30% | ~767 |
-| Overdue Rendezvous | 0.30% | ~767 |
 | Rescue in the Jungle | 0.30% | ~767 |
 | Pros and CONs | 0.20% | ~511 |
 | Tall Tales | 0.20% | ~444 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,502 (Ranked 71)  
+Progressed: 255,509 (Ranked 71)  
 Completed: 2,642 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -833,7 +833,7 @@ Completed: 2,642 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
-| 2024-01-25 | 255,502 | 2,642 |
+| 2024-01-25 | 255,509 | 2,642 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,633 (Ranked 42)  

@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3780,6 +3780,11 @@
       "Time": "2024-01-25T09:06:07.388101+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T11:07:01.6404543+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3824,7 +3829,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3872,7 +3877,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -4031,14 +4036,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:06:00.9294359+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:07:01.6404539+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.4867882+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:58:59.6998893+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:06:00.9294774+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:59:44.7626484+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:07:01.6404933+00:00"
 }

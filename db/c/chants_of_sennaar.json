@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -152,10 +152,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2999,
-  "EOS_Completed": 234,
-  "EOS_NewPlayers": 149,
-  "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 7.8,
+  "EOS_Completed": 235,
+  "EOS_NewPlayers": 148,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 7.84,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -8071,6 +8071,11 @@
       "Time": "2024-01-25T07:05:17.8809232+00:00",
       "NumProgressed": 2999,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-25T11:05:33.6442414+00:00",
+      "NumProgressed": 2999,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 25,
@@ -8088,9 +8093,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 810
+      "UsersEstimate": 840
     },
     {
       "ID": "META_ALL_LINK",
@@ -8282,15 +8287,15 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 2999,
-      "Completed": 234
+      "Completed": 235
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:04:49.5175373+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:05:33.6442409+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:57:13.9997456+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:04:49.5175983+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:57:36.7211046+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:05:33.6443009+00:00"
 }

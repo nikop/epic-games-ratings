@@ -2,9 +2,9 @@
   "ID": "0f16806f667f49bba9d15a208ebf639c",
   "Name": "Choice Clash: What Would you Rather?",
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.51,
+  "EOS_Completed_Percentage": 21.28,
   "EosHistory": [
     {
       "Time": "2023-12-29T00:03:26.1784855+00:00",
@@ -412,6 +412,11 @@
       "Time": "2024-01-24T21:07:59.5472445+00:00",
       "NumProgressed": 93,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-25T11:04:32.2748281+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-12-28T16:03:50.3768399+00:00",
@@ -430,7 +435,7 @@
       "ID": "DECISIONS_DECISIONS",
       "SetID": "58oggg1",
       "Name": "Decisions, Decisions!",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
       "UsersEstimate": 52
     },
@@ -472,7 +477,7 @@
       "Name": "Ruby Decision-Maker",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "SAPPHIRE_PATHFINDER",
@@ -494,7 +499,7 @@
       "ID": "THE_DECIDER",
       "SetID": "58oggg1",
       "Name": "The Decider",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 23
     },
@@ -518,7 +523,7 @@
       "ID": "WORLD_CHOOSING_CHAMPION",
       "SetID": "58oggg1",
       "Name": "World Choosing Champion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 23
     },
@@ -528,20 +533,20 @@
       "Name": "Curious Explorer",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
     {
       "ID": "58oggg1",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 20
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:03:59.6368987+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:04:32.2748277+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:18.6731629+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:57:26.4088123+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:03:59.6369095+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:57:52.6639869+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:04:32.2748398+00:00"
 }

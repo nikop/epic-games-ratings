@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58937,
+  "EOS_Progressed": 58938,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -16416,6 +16416,11 @@
       "Time": "2024-01-25T01:54:50.8539706+00:00",
       "NumProgressed": 58937,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T11:04:35.6393872+00:00",
+      "NumProgressed": 58938,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16563,7 +16568,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "HFZGoober",
@@ -16603,7 +16608,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "LittleGirl",
@@ -16818,7 +16823,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58937,
+      "Progressed": 58938,
       "Completed": 6
     }
   ],
@@ -16826,8 +16831,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:04:02.5892924+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:04:35.639387+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.1607038+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:00:39.3049028+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:04:02.5893915+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:57:13.1758243+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:04:35.6394871+00:00"
 }

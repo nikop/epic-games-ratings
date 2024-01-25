@@ -5050,9 +5050,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 530279,
+  "EOS_Progressed": 530294,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3851,
+  "EOS_NewPlayers": 3859,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37295,6 +37295,11 @@
       "Time": "2024-01-25T10:05:44.910462+00:00",
       "NumProgressed": 530279,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T11:06:42.1891438+00:00",
+      "NumProgressed": 530294,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -37330,7 +37335,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15908
+      "UsersEstimate": 15909
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -37362,7 +37367,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21211
+      "UsersEstimate": 21212
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -37410,7 +37415,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21211
+      "UsersEstimate": 21212
     },
     {
       "ID": "ACH_JR_50",
@@ -37434,7 +37439,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15908
+      "UsersEstimate": 15909
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -37474,7 +37479,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26514
+      "UsersEstimate": 26515
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -37538,7 +37543,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15908
+      "UsersEstimate": 15909
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -37562,7 +37567,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15908
+      "UsersEstimate": 15909
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -37570,7 +37575,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26514
+      "UsersEstimate": 26515
     },
     {
       "ID": "ACH_WET_FEET",
@@ -37578,22 +37583,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21211
+      "UsersEstimate": 21212
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 530279,
+      "Progressed": 530294,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2024-01-24T18:58:53.059795+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:05:44.9104616+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:06:42.1891435+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:03.317896+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:59:16.1095321+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:05:44.9106235+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:00:05.4078025+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:06:42.1892923+00:00"
 }

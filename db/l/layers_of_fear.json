@@ -1583,9 +1583,9 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "casting_finished",
@@ -1751,9 +1751,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1982,8 +1982,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:09:46.7579705+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:10:05.8957683+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:59:33.9047977+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:09:46.7580114+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:00:28.0139624+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:10:05.8958226+00:00"
 }

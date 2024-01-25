@@ -3,8 +3,8 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 550,
-  "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 426,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 206,
@@ -571,23 +571,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 67,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-01-25T11:00:46.5251273+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 67,
-  "NumberOfAwardsMax": 67,
+  "NumberOfAwards": 69,
+  "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 67
+      "Count": 69
     }
   ],
-  "EOS_Progressed": 6555,
+  "EOS_Progressed": 6556,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10325,6 +10331,11 @@
       "Time": "2024-01-24T22:05:54.982785+00:00",
       "NumProgressed": 6555,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T11:08:24.9705463+00:00",
+      "NumProgressed": 6556,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10376,7 +10387,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10392,7 +10403,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10432,7 +10443,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10456,7 +10467,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3868
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10496,7 +10507,7 @@
       "Name": "Bandage Lover",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -10504,7 +10515,7 @@
       "Name": "Frontliner",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10528,7 +10539,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10544,7 +10555,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10560,7 +10571,7 @@
       "Name": "Where It All Begun",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10576,7 +10587,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10616,7 +10627,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10640,7 +10651,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5048
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10648,7 +10659,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10656,7 +10667,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10695,16 +10706,16 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6555,
+      "Progressed": 6556,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2024-01-23T16:59:17.3064618+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:08:25.0474879+00:00",
+  "LastChanged": "2024-01-25T11:00:46.5251271+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:08:24.9705462+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:59:48.5971633+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:08:25.0475714+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:00:46.5251276+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:08:24.9706157+00:00"
 }

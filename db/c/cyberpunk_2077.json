@@ -19076,10 +19076,10 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058436,
+  "EOS_Progressed": 1058457,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4349,
-  "EOS_NewCompleters": 46,
+  "EOS_NewPlayers": 4337,
+  "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51171,6 +51171,11 @@
       "Time": "2024-01-25T10:09:40.1558314+00:00",
       "NumProgressed": 1058436,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T11:09:57.7659933+00:00",
+      "NumProgressed": 1058457,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51207,7 +51212,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8467
+      "UsersEstimate": 8468
     },
     {
       "ID": "Denied",
@@ -51407,7 +51412,7 @@
       "Name": "The Hermit",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8467
+      "UsersEstimate": 8468
     },
     {
       "ID": "TheHightPriestess",
@@ -51447,7 +51452,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8467
+      "UsersEstimate": 8468
     },
     {
       "ID": "TheWorld",
@@ -51479,7 +51484,7 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8467
+      "UsersEstimate": 8468
     },
     {
       "ID": "TrueWarrior",
@@ -51718,21 +51723,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058436,
+      "Progressed": 1058457,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187059,
+      "Progressed": 187080,
       "Completed": 10699
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-25T06:03:23.8390449+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:09:40.1558309+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:09:57.765993+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:03:26.845308+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:09:40.15599+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:03:48.5777851+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:09:57.7661759+00:00"
 }

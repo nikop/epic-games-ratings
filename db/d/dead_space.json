@@ -1013,9 +1013,9 @@
       "Count": 318
     }
   ],
-  "EOS_Progressed": 19018,
+  "EOS_Progressed": 19019,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 802,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12413,6 +12413,11 @@
       "Time": "2024-01-25T10:05:27.4126887+00:00",
       "NumProgressed": 19018,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2024-01-25T11:06:20.6783292+00:00",
+      "NumProgressed": 19019,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -12425,7 +12430,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15785
+      "UsersEstimate": 15786
     },
     {
       "ID": "achievement_10",
@@ -12465,7 +12470,7 @@
       "Name": "Whole Again",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "achievement_15",
@@ -12473,7 +12478,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "achievement_16",
@@ -12513,7 +12518,7 @@
       "Name": "Lab Rat",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12932
+      "UsersEstimate": 12933
     },
     {
       "ID": "achievement_20",
@@ -12585,7 +12590,7 @@
       "Name": "Story Teller",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8938
+      "UsersEstimate": 8939
     },
     {
       "ID": "achievement_29",
@@ -12601,7 +12606,7 @@
       "Name": "All Systems Go",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 10840
+      "UsersEstimate": 10841
     },
     {
       "ID": "achievement_30",
@@ -12617,7 +12622,7 @@
       "Name": "Marksman",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 18447
+      "UsersEstimate": 18448
     },
     {
       "ID": "achievement_32",
@@ -12625,7 +12630,7 @@
       "Name": "Surgeon",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "achievement_33",
@@ -12641,7 +12646,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 9509
+      "UsersEstimate": 9510
     },
     {
       "ID": "achievement_35",
@@ -12689,7 +12694,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 9889
+      "UsersEstimate": 9890
     },
     {
       "ID": "achievement_40",
@@ -12713,7 +12718,7 @@
       "Name": "Brute Force",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "achievement_43",
@@ -12793,14 +12798,14 @@
       "Name": "Wreckage",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6846
+      "UsersEstimate": 6847
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 19018,
+      "Progressed": 19019,
       "Completed": 56
     }
   ],
@@ -12808,8 +12813,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-24T01:53:19.4002765+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:05:27.4126882+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:06:20.6783288+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:32.8853693+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:03:05.013042+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:05:27.4127579+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:03:21.1461116+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:06:20.6784106+00:00"
 }

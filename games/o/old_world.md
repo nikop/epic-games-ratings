@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 6.00% | ~1,029 |
 | Play a Single Player Game | 6.00% | ~1,029 |
-| Explorer | 5.00% | ~857 |
-| Friendly Family | 5.00% | ~857 |
+| Explorer | 5.00% | ~858 |
+| Friendly Family | 5.00% | ~858 |
 | Able | 4.00% | ~686 |
 | Architect | 4.00% | ~686 |
 | Good | 4.00% | ~686 |
@@ -68,39 +68,39 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 2.00% | ~343 |
 | Zoroastrianism | 2.00% | ~343 |
 | Mythology | 2.00% | ~343 |
-| Beloved | 1.00% | ~171 |
-| Conqueror | 1.00% | ~171 |
-| Mighty | 1.00% | ~171 |
-| Victorious | 1.00% | ~171 |
-| Good Difficulty | 1.00% | ~171 |
-| Champions | 1.00% | ~171 |
-| Landowners | 1.00% | ~171 |
-| Patrons | 1.00% | ~171 |
-| Sages | 1.00% | ~171 |
-| Statesmen | 1.00% | ~171 |
-| Traders | 1.00% | ~171 |
-| Hittite Iron | 1.00% | ~171 |
-| Circus Maximus | 1.00% | ~171 |
-| Hagia Sophia | 1.00% | ~171 |
-| Temple of Solomon | 1.00% | ~171 |
-| Pantheon | 1.00% | ~171 |
-| Via Recta Souk | 1.00% | ~171 |
-| Learn to Play 3 | 1.00% | ~171 |
-| Greece | 1.00% | ~171 |
-| Power to the People | 1.00% | ~171 |
-| Persian Paganism | 1.00% | ~171 |
-| Building Wonders | 1.00% | ~171 |
-| Economic Reform | 1.00% | ~171 |
-| Military Prestige | 1.00% | ~171 |
-| Dualism | 1.00% | ~171 |
-| Legalism | 1.00% | ~171 |
-| Legionary | 1.00% | ~171 |
-| Double Victory | 1.00% | ~171 |
-| Points Victory | 1.00% | ~171 |
-| Win a Single Player Game | 1.00% | ~171 |
-| The Clergy | 1.00% | ~171 |
-| Kushite Paganism | 1.00% | ~171 |
-| Jerwan Aqueduct | 1.00% | ~171 |
+| Beloved | 1.00% | ~172 |
+| Conqueror | 1.00% | ~172 |
+| Mighty | 1.00% | ~172 |
+| Victorious | 1.00% | ~172 |
+| Good Difficulty | 1.00% | ~172 |
+| Champions | 1.00% | ~172 |
+| Landowners | 1.00% | ~172 |
+| Patrons | 1.00% | ~172 |
+| Sages | 1.00% | ~172 |
+| Statesmen | 1.00% | ~172 |
+| Traders | 1.00% | ~172 |
+| Hittite Iron | 1.00% | ~172 |
+| Circus Maximus | 1.00% | ~172 |
+| Hagia Sophia | 1.00% | ~172 |
+| Temple of Solomon | 1.00% | ~172 |
+| Pantheon | 1.00% | ~172 |
+| Via Recta Souk | 1.00% | ~172 |
+| Learn to Play 3 | 1.00% | ~172 |
+| Greece | 1.00% | ~172 |
+| Power to the People | 1.00% | ~172 |
+| Persian Paganism | 1.00% | ~172 |
+| Building Wonders | 1.00% | ~172 |
+| Economic Reform | 1.00% | ~172 |
+| Military Prestige | 1.00% | ~172 |
+| Dualism | 1.00% | ~172 |
+| Legalism | 1.00% | ~172 |
+| Legionary | 1.00% | ~172 |
+| Double Victory | 1.00% | ~172 |
+| Points Victory | 1.00% | ~172 |
+| Win a Single Player Game | 1.00% | ~172 |
+| The Clergy | 1.00% | ~172 |
+| Kushite Paganism | 1.00% | ~172 |
+| Jerwan Aqueduct | 1.00% | ~172 |
 | Capable | 0.90% | ~154 |
 | Invincible | 0.90% | ~154 |
 | Lion | 0.90% | ~154 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,149 (Ranked 170)  
+Progressed: 17,150 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
-| 2024-01-25 | 17,149 | 5 |
+| 2024-01-25 | 17,150 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

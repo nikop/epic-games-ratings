@@ -6,7 +6,7 @@ Rating: 4.08 (Ranked 1,038)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~4,444 |
-| World Map | 78.00% | ~3,727 |
+| World Map | 78.00% | ~3,728 |
 | Temple of Eternals | 56.00% | ~2,676 |
 | Prestigious | 52.00% | ~2,485 |
 | Fellowship Power | 42.00% | ~2,007 |
@@ -14,7 +14,7 @@ Rating: 4.08 (Ranked 1,038)
 | Guild Power | 23.00% | ~1,099 |
 | Prestigious x10 | 20.00% | ~956 |
 | The game is on | 18.00% | ~860 |
-| Exotic Merchant | 16.00% | ~764 |
+| Exotic Merchant | 16.00% | ~765 |
 | Dragon Clicker | 15.00% | ~717 |
 | Miner Clicker | 15.00% | ~717 |
 | Dragon Master | 13.00% | ~621 |
@@ -39,10 +39,10 @@ Rating: 4.08 (Ranked 1,038)
 | Moving Up The Ladder | 8.00% | ~382 |
 | Relic Of The Past | 8.00% | ~382 |
 | Scroll Master | 8.00% | ~382 |
-| Here We Go Again | 7.00% | ~334 |
-| Master Enchanter | 7.00% | ~334 |
-| The father of Dragons | 7.00% | ~334 |
-| Trader | 7.00% | ~334 |
+| Here We Go Again | 7.00% | ~335 |
+| Master Enchanter | 7.00% | ~335 |
+| The father of Dragons | 7.00% | ~335 |
+| Trader | 7.00% | ~335 |
 | Dragon Slayer | 6.00% | ~287 |
 | Enchanting skill | 6.00% | ~287 |
 | How Do You Turn This On? | 6.00% | ~287 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,778 (Ranked 211)  
+Progressed: 4,779 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,16 +356,16 @@ Completed: 2 (0.04%) (Ranked 360)
 | 2024-01-22 | 4,742 | 2 |
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
-| 2024-01-25 | 4,778 | 2 |
+| 2024-01-25 | 4,779 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 486)  
-Sum: 162 (Ranked 446)  
+Sum: 163 (Ranked 446)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |
 | This game is Great for Quick Sessions | 37 |
-| This game has Diverse Characters | 31 |
+| This game has Diverse Characters | 32 |
 | This game has Playful Visuals | 29 |
 | This game has a Kind Community | 23 |
 | This game is Highly Recommended | 21 |
@@ -471,3 +471,4 @@ Diff (max vs sum): 40
 | 2024-01-17 | 4.10 | 42 | 162 |
 | 2024-01-20 | 4.11 | 42 | 162 |
 | 2024-01-24 | 4.08 | 42 | 162 |
+| 2024-01-25 | 4.08 | 42 | 163 |

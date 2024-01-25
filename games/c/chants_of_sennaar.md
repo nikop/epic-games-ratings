@@ -18,9 +18,9 @@ Rating: 4.87 (Ranked 24)
 | Half the way | 30.00% | ~900 |
 | I did it | 29.00% | ~870 |
 | Cable guy | 29.00% | ~870 |
+| In this together | 28.00% | ~840 |
 | Peace walker | 28.00% | ~840 |
 | Champollion | 28.00% | ~840 |
-| In this together | 27.00% | ~810 |
 | Rascal | 27.00% | ~810 |
 | Open door | 23.00% | ~690 |
 | Feels like springtime | 23.00% | ~690 |
@@ -32,7 +32,7 @@ Rating: 4.87 (Ranked 24)
 | Fashion victim | 10.00% | ~300 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,999 (Ranked 236)  
-Completed: 234 (7.80%) (Ranked 51)  
+Completed: 235 (7.84%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,7 +218,7 @@ Completed: 234 (7.80%) (Ranked 51)
 | 2024-01-22 | 2,963 | 232 |
 | 2024-01-23 | 2,982 | 233 |
 | 2024-01-24 | 2,996 | 234 |
-| 2024-01-25 | 2,999 | 234 |
+| 2024-01-25 | 2,999 | 235 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

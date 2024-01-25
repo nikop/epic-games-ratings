@@ -9084,9 +9084,9 @@
       "ID": "ACH_BASE_34",
       "SetID": "92iocjf",
       "Name": "Ready for a New World",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_BASE_35",
@@ -9355,8 +9355,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-23T08:00:18.6037817+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:09:04.4498944+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:09:13.5280849+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:57:34.7117266+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:09:04.4499651+00:00"
+  "LastUpdate_Ratings": "2024-01-25T10:58:03.2625378+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:09:13.5281699+00:00"
 }

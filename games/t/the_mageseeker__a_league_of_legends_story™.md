@@ -28,8 +28,8 @@ Rating: 4.79 (Ranked 100)
 | Ancient power | 29.00% | ~1,019 |
 | Sacred Woods | 27.00% | ~949 |
 | Little light | 25.00% | ~879 |
+| Glyndemere | 25.00% | ~879 |
 | Capelworth | 25.00% | ~879 |
-| Glyndemere | 24.00% | ~844 |
 | Full equipped | 24.00% | ~844 |
 | Iffighain Headquarters | 23.00% | ~808 |
 | Whispers in the Woods II | 20.00% | ~703 |

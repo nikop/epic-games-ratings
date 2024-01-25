@@ -25,12 +25,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,019 |
 | FNG | 6.00% | ~8,019 |
 | Bloody Graduation | 6.00% | ~511 |
-| Not Today! | 5.00% | ~6,682 |
-| Merry Time | 5.00% | ~6,682 |
-| Harvest Festival | 5.00% | ~6,682 |
-| Whale | 5.00% | ~6,682 |
-| A Place to Lay Your Head | 5.00% | ~6,682 |
-| Nope | 5.00% | ~6,682 |
+| Not Today! | 5.00% | ~6,683 |
+| Merry Time | 5.00% | ~6,683 |
+| Harvest Festival | 5.00% | ~6,683 |
+| Whale | 5.00% | ~6,683 |
+| A Place to Lay Your Head | 5.00% | ~6,683 |
+| Nope | 5.00% | ~6,683 |
 | Friends 'Til the End | 5.00% | ~426 |
 | Resurrection | 4.00% | ~5,346 |
 | Unleash Hell | 4.00% | ~5,346 |
@@ -61,10 +61,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 2.00% | ~2,673 |
 | Handled | 2.00% | ~2,673 |
 | Body of Work | 2.00% | ~2,673 |
-| Clearing the Ledger | 1.00% | ~1,336 |
-| Hat Trick | 1.00% | ~1,336 |
-| Shrine of Reflection | 1.00% | ~1,336 |
-| Triage | 1.00% | ~1,336 |
+| Clearing the Ledger | 1.00% | ~1,337 |
+| Hat Trick | 1.00% | ~1,337 |
+| Shrine of Reflection | 1.00% | ~1,337 |
+| Triage | 1.00% | ~1,337 |
 | No Mercy | 1.00% | ~85 |
 | Slap on the Wrist | 1.00% | ~85 |
 | Et Tu, Riposte? | 1.00% | ~85 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,650 (Ranked 92)  
+Progressed: 133,651 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,650 | 5 |
+| 2024-01-25 | 133,651 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
 Sum: 21,856 (Ranked 60)  

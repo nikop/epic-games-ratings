@@ -5,16 +5,16 @@ Rating: 4.51 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,361 |
-| I've Had Enough! | 15.00% | ~19,020 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,948 |
-| Seasoned Fighter | 9.00% | ~11,412 |
-| All For One and One For All | 8.00% | ~10,144 |
-| Home Sweet Home? | 6.00% | ~7,608 |
-| A New Age | 5.00% | ~6,340 |
-| Oh Baby, A Triple | 3.00% | ~3,804 |
-| Master of Disguise | 3.00% | ~3,804 |
-| Symbiotic | 3.00% | ~3,804 |
+| All Grown Up! | 20.00% | ~25,364 |
+| I've Had Enough! | 15.00% | ~19,023 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,950 |
+| Seasoned Fighter | 9.00% | ~11,414 |
+| All For One and One For All | 8.00% | ~10,145 |
+| Home Sweet Home? | 6.00% | ~7,609 |
+| A New Age | 5.00% | ~6,341 |
+| Oh Baby, A Triple | 3.00% | ~3,805 |
+| Master of Disguise | 3.00% | ~3,805 |
+| Symbiotic | 3.00% | ~3,805 |
 | Battle Hardened | 2.00% | ~2,536 |
 | Double Punch! | 2.00% | ~2,536 |
 | It's Mayhem! | 2.00% | ~2,536 |
@@ -25,7 +25,7 @@ Rating: 4.51 (Ranked 601)
 | Martyrdom | 1.00% | ~1,268 |
 | Zero-sum Game | 1.00% | ~1,268 |
 | Ninja Reflex | 0.90% | ~1,141 |
-| Taste Your Own Medicine | 0.80% | ~1,014 |
+| Taste Your Own Medicine | 0.80% | ~1,015 |
 | This is GigaBash! | 0.50% | ~634 |
 | Sidetracked... | 0.50% | ~634 |
 | Eye of the Titan | 0.40% | ~507 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 601)
 | What's Mine is Yours | 0.10% | ~127 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,803 (Ranked 94)  
+Progressed: 126,818 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 126,105 | 0 |
 | 2024-01-23 | 126,388 | 0 |
 | 2024-01-24 | 126,676 | 0 |
-| 2024-01-25 | 126,803 | 0 |
+| 2024-01-25 | 126,818 | 0 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 442)  
 Sum: 59 (Ranked 508)  

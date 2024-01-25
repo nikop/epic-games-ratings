@@ -5,9 +5,9 @@
   "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2024-01-25T10:04:57.4192017+00:00",
       "NumProgressed": 153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T11:05:43.5740933+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -525,7 +530,7 @@
       "ID": "blitz_krieg",
       "SetID": "41moj9p",
       "Name": "Zerg Rush",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -557,9 +562,9 @@
       "ID": "call_the_boys",
       "SetID": "41moj9p",
       "Name": "Call the Boys",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "cant_touch_this",
@@ -567,7 +572,7 @@
       "Name": "Can\u2019t Touch This",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "columbus",
@@ -589,7 +594,7 @@
       "ID": "crusade_invoker",
       "SetID": "41moj9p",
       "Name": "Crusade Invoker, no Regret",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -661,7 +666,7 @@
       "ID": "fighting_with_power_and_steel",
       "SetID": "41moj9p",
       "Name": "Fighting with Power and Steel",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -685,7 +690,7 @@
       "ID": "from_rags_to_riches",
       "SetID": "41moj9p",
       "Name": "From Rags to Riches",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -717,7 +722,7 @@
       "ID": "greed_is_good",
       "SetID": "41moj9p",
       "Name": "Greed is Good",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -735,7 +740,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "he_made_it_out",
@@ -749,9 +754,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "his_all_holiness",
@@ -773,9 +778,9 @@
       "ID": "his_name_is_king",
       "SetID": "41moj9p",
       "Name": "His name is King",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "holy_trinity",
@@ -893,7 +898,7 @@
       "ID": "let_us_trade",
       "SetID": "41moj9p",
       "Name": "Let us trade with these fine people",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -909,7 +914,7 @@
       "ID": "lord_of_the_kings",
       "SetID": "41moj9p",
       "Name": "Lord of the Kings",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1053,7 +1058,7 @@
       "ID": "spartacus",
       "SetID": "41moj9p",
       "Name": "Spartacus",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1117,9 +1122,9 @@
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "time_to_find_india",
@@ -1141,7 +1146,7 @@
       "ID": "together_we_stand",
       "SetID": "41moj9p",
       "Name": "Together We Stand",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1254,7 +1259,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
@@ -1262,8 +1267,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:04:57.4192012+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:05:43.574093+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:00:24.6152339+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:04:57.4193064+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:01:31.8647463+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:05:43.5741817+00:00"
 }

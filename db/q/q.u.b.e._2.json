@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -611,11 +611,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48300,
-  "EOS_Completed": 253,
-  "EOS_NewPlayers": 583,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Progressed": 48303,
+  "EOS_Completed": 254,
+  "EOS_NewPlayers": 585,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -15386,6 +15386,11 @@
       "Time": "2024-01-25T10:10:11.0738099+00:00",
       "NumProgressed": 48300,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2024-01-25T11:10:35.6655206+00:00",
+      "NumProgressed": 48303,
+      "NumCompleted": 254
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15414,7 +15419,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 9660
+      "UsersEstimate": 9661
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -15534,7 +15539,7 @@
       "Name": "Infinity Loop",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "ACH_HUB1",
@@ -15542,7 +15547,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 11109
+      "UsersEstimate": 11110
     },
     {
       "ID": "ACH_HUB2",
@@ -15550,7 +15555,7 @@
       "Name": "Path to Salvation",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "ACH_OASIS",
@@ -15558,7 +15563,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 25116
+      "UsersEstimate": 25118
     },
     {
       "ID": "ACH_PEAK",
@@ -15566,7 +15571,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11109
+      "UsersEstimate": 11110
     },
     {
       "ID": "ACH_PROPELL",
@@ -15590,7 +15595,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32844
+      "UsersEstimate": 32846
     },
     {
       "ID": "ACH_S4",
@@ -15598,7 +15603,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24150
+      "UsersEstimate": 24152
     },
     {
       "ID": "ACH_S5",
@@ -15606,7 +15611,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17871
+      "UsersEstimate": 17872
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -15614,7 +15619,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36225
+      "UsersEstimate": 36227
     },
     {
       "ID": "ACH_STATUE",
@@ -15622,22 +15627,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20769
+      "UsersEstimate": 20770
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48300,
-      "Completed": 253
+      "Progressed": 48303,
+      "Completed": 254
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:10:11.0738096+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:10:35.6655203+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:00:18.0782533+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:10:11.0738822+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:01:23.3766026+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:10:35.6656121+00:00"
 }

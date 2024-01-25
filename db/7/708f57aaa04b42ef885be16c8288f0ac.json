@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15299,
+  "EOS_Progressed": 15300,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11418,6 +11418,11 @@
       "Time": "2024-01-25T10:10:44.8615739+00:00",
       "NumProgressed": 15299,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-25T11:11:16.1492994+00:00",
+      "NumProgressed": 15300,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11502,7 +11507,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11701,7 +11706,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15299,
+      "Progressed": 15300,
       "Completed": 28
     }
   ],
@@ -11709,8 +11714,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:10:44.8615736+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:11:16.1492992+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:02:39.9242506+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:10:44.86164+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:02:49.2956153+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:11:16.1493631+00:00"
 }

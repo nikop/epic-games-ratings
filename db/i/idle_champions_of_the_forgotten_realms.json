@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9829,9 +9829,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255502,
+  "EOS_Progressed": 255509,
   "EOS_Completed": 2642,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 986,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41614,6 +41614,11 @@
       "Time": "2024-01-25T10:10:58.9131922+00:00",
       "NumProgressed": 255502,
       "NumCompleted": 2642
+    },
+    {
+      "Time": "2024-01-25T11:11:32.3318344+00:00",
+      "NumProgressed": 255509,
+      "NumCompleted": 2642
     }
   ],
   "TotalAchievements": 546,
@@ -44847,9 +44852,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 1022
     },
     {
       "ID": "objective_completed_802",
@@ -45992,21 +45997,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221776,
+      "Progressed": 221783,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255502,
+      "Progressed": 255509,
       "Completed": 2642
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-25T09:59:26.1090127+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:10:58.9131919+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:11:32.3318329+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T09:59:26.1090133+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:10:58.9154328+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:00:18.2392809+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:11:32.334171+00:00"
 }

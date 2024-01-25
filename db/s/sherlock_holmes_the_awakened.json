@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1635,
+  "EOS_Progressed": 1636,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 2,
@@ -5764,6 +5764,11 @@
       "Time": "2024-01-25T10:06:24.9200871+00:00",
       "NumProgressed": 1635,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-25T11:07:31.596965+00:00",
+      "NumProgressed": 1636,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5775,7 +5780,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "MQ01_2",
@@ -5783,7 +5788,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "MQ02_1",
@@ -5823,7 +5828,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MQ03_2",
@@ -5839,7 +5844,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "MQ03_4",
@@ -5855,7 +5860,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "MQ04_1",
@@ -5863,7 +5868,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "MQ04_2",
@@ -5879,7 +5884,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "MQ05_1",
@@ -5895,7 +5900,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "MQ05_3",
@@ -5919,7 +5924,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "MQ06_2",
@@ -5935,7 +5940,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "MQ06_4",
@@ -5983,7 +5988,7 @@
       "Name": "Fhtagn!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "PLTN",
@@ -5998,7 +6003,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1635,
+      "Progressed": 1636,
       "Completed": 51
     }
   ],
@@ -6006,8 +6011,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-23T12:03:16.4968274+00:00",
-  "LastChanged_Achievements": "2024-01-25T10:06:24.9200868+00:00",
+  "LastChanged_Achievements": "2024-01-25T11:07:31.5969646+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-25T10:03:28.4893466+00:00",
-  "LastUpdate_Achievements": "2024-01-25T10:06:24.9201368+00:00"
+  "LastUpdate_Ratings": "2024-01-25T11:03:50.6933479+00:00",
+  "LastUpdate_Achievements": "2024-01-25T11:07:31.5970163+00:00"
 }
