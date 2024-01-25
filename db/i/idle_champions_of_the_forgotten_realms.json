@@ -9817,9 +9817,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255460,
+  "EOS_Progressed": 255469,
   "EOS_Completed": 2641,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41557,6 +41557,11 @@
       "Time": "2024-01-25T02:01:57.7143728+00:00",
       "NumProgressed": 255460,
       "NumCompleted": 2641
+    },
+    {
+      "Time": "2024-01-25T02:37:23.264439+00:00",
+      "NumProgressed": 255469,
+      "NumCompleted": 2641
     }
   ],
   "TotalAchievements": 546,
@@ -42262,9 +42267,9 @@
       "ID": "objective_completed_1165",
       "SetID": "415jc5c",
       "Name": "A Demi-god\u0027s Defender",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1168",
@@ -45935,21 +45940,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221734,
+      "Progressed": 221743,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255460,
+      "Progressed": 255469,
       "Completed": 2641
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T21:58:43.8356184+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:01:57.7143725+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:37:23.2644387+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:50:03.3404578+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:01:57.7165838+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:25:52.1201703+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:37:23.2667937+00:00"
 }

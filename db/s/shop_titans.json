@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8329,9 +8329,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152729,
+  "EOS_Progressed": 152730,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -38059,6 +38059,11 @@
       "Time": "2024-01-25T02:00:57.9131431+00:00",
       "NumProgressed": 152729,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2024-01-25T02:36:29.0211244+00:00",
+      "NumProgressed": 152730,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 112,
@@ -38238,7 +38243,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18327
+      "UsersEstimate": 18328
     },
     {
       "ID": "chest02",
@@ -38886,7 +38891,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18327
+      "UsersEstimate": 18328
     },
     {
       "ID": "twinenchant01",
@@ -38965,15 +38970,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152729,
+      "Progressed": 152730,
       "Completed": 363
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-24T22:03:18.9806203+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:00:57.9131427+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:36:29.021124+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:54:38.2849253+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:00:57.9133907+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:30:13.6789166+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:36:29.0213428+00:00"
 }

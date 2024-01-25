@@ -4,7 +4,7 @@
   "ProductSlug": "the-architect-paris",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 536,
+  "Ranking_EOS_NewPlayers": 535,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-05-12T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.2419092+00:00",
   "LastChanged": "2023-03-31T05:58:47.2419093+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:16.0736234+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:50:10.1894935+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:56:32.3788999+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:25:57.8823209+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:32:00.0573085+00:00"
 }

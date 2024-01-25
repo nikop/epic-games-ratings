@@ -2,8 +2,8 @@
   "ID": "263de26be57d43528bb9c7fdb133b9fe",
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
-  "Ranking_EOS_Progress": 506,
-  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 6.19,
+  "EOS_Completed_Percentage": 6.12,
   "EosHistory": [
     {
       "Time": "2024-01-18T17:10:07.9287814+00:00",
@@ -349,6 +349,11 @@
       "Time": "2024-01-24T22:04:03.4140485+00:00",
       "NumProgressed": 97,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T02:31:06.6589683+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-01-18T17:10:07.9287841+00:00",
@@ -361,13 +366,13 @@
       "Name": "Found dad\u0027s old stuff",
       "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BANK_FIRST",
       "SetID": "89ki2f0",
       "Name": "Broke into the Botanical Bank",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 20,
       "UsersEstimate": 90
     },
@@ -377,13 +382,13 @@
       "Name": "JACKPOT!!!",
       "Percentage": 21,
       "XP": 45,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BANK_STEAL",
       "SetID": "89ki2f0",
       "Name": "See you later space turnip\u2026",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 35,
       "UsersEstimate": 21
     },
@@ -391,7 +396,7 @@
       "ID": "BOSS_1",
       "SetID": "89ki2f0",
       "Name": "Down the rabbit hole",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 35,
       "UsersEstimate": 63
     },
@@ -399,9 +404,9 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BOSS_3",
@@ -415,7 +420,7 @@
       "ID": "BOSS_4",
       "SetID": "89ki2f0",
       "Name": "Killed another human...?",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 35,
       "UsersEstimate": 21
     },
@@ -431,9 +436,9 @@
       "ID": "DARKWEB_ALL",
       "SetID": "89ki2f0",
       "Name": "Five star customer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DARKWEB_FIRST",
@@ -455,15 +460,15 @@
       "ID": "MONEY_100K",
       "SetID": "89ki2f0",
       "Name": "Hiding your wealth",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 35,
       "UsersEstimate": 62
     },
@@ -479,7 +484,7 @@
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 23
     },
@@ -497,13 +502,13 @@
       "Name": "Five head",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "RESEARCH_FIRST",
       "SetID": "89ki2f0",
       "Name": "For science!",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
       "UsersEstimate": 71
     },
@@ -527,7 +532,7 @@
       "ID": "UPGRADES_FIRST",
       "SetID": "89ki2f0",
       "Name": "Better, faster, stronger",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 20,
       "UsersEstimate": 73
     },
@@ -544,14 +549,14 @@
     {
       "ID": "89ki2f0",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 6
     }
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T01:55:34.2266277+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:31:06.658968+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:48:25.3350017+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:55:34.2266416+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:24:27.645117+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:31:06.6589826+00:00"
 }

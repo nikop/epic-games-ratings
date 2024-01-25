@@ -5,22 +5,22 @@ Rating: 4.41 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~225,645 |
-| Wind Master | 53.00% | ~181,200 |
-| Davy Jones | 18.00% | ~61,540 |
-| Hook, Line and Stinker | 15.00% | ~51,283 |
-| Gateway Slug | 6.00% | ~20,513 |
-| Baby's First Thingamabob | 5.00% | ~17,094 |
-| Race In Yo Face | 5.00% | ~17,094 |
-| Nice Shootin' Duds | 5.00% | ~17,094 |
-| Boarding Party | 5.00% | ~17,094 |
-| Great Balls Of Fire | 4.00% | ~13,675 |
-| By The Power Of Underskull | 3.00% | ~10,257 |
-| Light Up the Night | 3.00% | ~10,257 |
-| This Is Fine | 3.00% | ~10,257 |
-| I Don't Like The Slugs | 3.00% | ~10,257 |
-| But The Slugs Like Me | 2.00% | ~6,838 |
-| Pengy Fun | 2.00% | ~6,838 |
+| Tootorial | 66.00% | ~225,676 |
+| Wind Master | 53.00% | ~181,224 |
+| Davy Jones | 18.00% | ~61,548 |
+| Hook, Line and Stinker | 15.00% | ~51,290 |
+| Gateway Slug | 6.00% | ~20,516 |
+| Baby's First Thingamabob | 5.00% | ~17,097 |
+| Race In Yo Face | 5.00% | ~17,097 |
+| Nice Shootin' Duds | 5.00% | ~17,097 |
+| Boarding Party | 5.00% | ~17,097 |
+| Great Balls Of Fire | 4.00% | ~13,677 |
+| By The Power Of Underskull | 3.00% | ~10,258 |
+| Light Up the Night | 3.00% | ~10,258 |
+| This Is Fine | 3.00% | ~10,258 |
+| I Don't Like The Slugs | 3.00% | ~10,258 |
+| But The Slugs Like Me | 2.00% | ~6,839 |
+| Pengy Fun | 2.00% | ~6,839 |
 | Polar Pontification | 1.00% | ~3,419 |
 | Aggro Kreb | 1.00% | ~3,419 |
 | No More Splosions | 1.00% | ~3,419 |
@@ -28,7 +28,7 @@ Rating: 4.41 (Ranked 760)
 | Fish Kabob | 1.00% | ~3,419 |
 | Enter The Croakers | 1.00% | ~3,419 |
 | Crovert Ops | 0.90% | ~3,077 |
-| Tekk Savvy | 0.70% | ~2,393 |
+| Tekk Savvy | 0.70% | ~2,394 |
 | Blowfish Me Down | 0.40% | ~1,368 |
 | Getting Hooked | 0.40% | ~1,368 |
 | Fish And Tips | 0.40% | ~1,368 |
@@ -53,7 +53,7 @@ Rating: 4.41 (Ranked 760)
 | For Whom The Bells Toll | 0.10% | ~342 |
 | Don't I Know You? | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,887 (Ranked 63)  
+Progressed: 341,933 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 3 (0.00%) (Ranked 410)
 | 2024-01-22 | 335,398 | 2 |
 | 2024-01-23 | 338,664 | 3 |
 | 2024-01-24 | 341,590 | 3 |
-| 2024-01-25 | 341,887 | 3 |
+| 2024-01-25 | 341,933 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

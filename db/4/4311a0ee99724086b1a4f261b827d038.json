@@ -917,9 +917,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244942,
+  "EOS_Progressed": 244945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22482,6 +22482,11 @@
       "Time": "2024-01-25T02:01:41.4548572+00:00",
       "NumProgressed": 244942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T02:37:08.5960199+00:00",
+      "NumProgressed": 244945,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22718,7 +22723,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -22765,7 +22770,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244942,
+      "Progressed": 244945,
       "Completed": 0
     }
   ],
@@ -22773,8 +22778,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:01:41.454857+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:37:08.5960196+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:50:16.1269362+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:01:41.4549797+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:26:03.1095124+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:37:08.5961469+00:00"
 }

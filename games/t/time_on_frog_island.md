@@ -14,25 +14,25 @@
 | Secure the Sheets | 16.00% | ~8 |
 | Hands on the Helm | 12.00% | ~6 |
 | Replace the Rudder | 12.00% | ~6 |
+| Shrub-Seeing: Townlife | 10.00% | ~5 |
+| Shrub-Seeing: Silly Birbs | 10.00% | ~5 |
 | Couch-surfing | 10.00% | ~5 |
 | Sailor Swift | 10.00% | ~5 |
 | No Evil | 10.00% | ~5 |
 | Bank of Me | 10.00% | ~5 |
 | Who Even Needs Keys | 8.00% | ~4 |
-| Shrub-Seeing: Townlife | 8.00% | ~4 |
-| Shrub-Seeing: Silly Birbs | 8.00% | ~4 |
+| Shrub-Seeing: Ruins of old | 8.00% | ~4 |
 | Safe Investment | 8.00% | ~4 |
+| Fantastic Fungi | 8.00% | ~4 |
 | The Journey Continues | 8.00% | ~4 |
-| Shrub-Seeing: Ruins of old | 6.00% | ~3 |
+| Shrub-Seeing: Lights in the sky | 6.00% | ~3 |
+| Shrub-Seeing: Ancient Extractor | 6.00% | ~3 |
+| Shrub-Seeing: Seen it all! | 6.00% | ~3 |
 | Yeet! | 6.00% | ~3 |
 | Caught Ya! | 6.00% | ~3 |
 | Honey, I'm Home | 6.00% | ~3 |
-| Fantastic Fungi | 6.00% | ~3 |
 | Home Sweet Home | 6.00% | ~3 |
 | One with the frogs | 4.00% | ~2 |
-| Shrub-Seeing: Lights in the sky | 4.00% | ~2 |
-| Shrub-Seeing: Ancient Extractor | 4.00% | ~2 |
-| Shrub-Seeing: Seen it all! | 4.00% | ~2 |
 | Return to sender | 4.00% | ~2 |
 | Vandal | 4.00% | ~2 |
 | Falling with Style | 4.00% | ~2 |

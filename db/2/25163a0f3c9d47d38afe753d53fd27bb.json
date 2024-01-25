@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1840,
+  "EOS_Progressed": 1841,
   "EOS_Completed": 133,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.23,
+  "EOS_Completed_Percentage": 7.22,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4754,6 +4754,11 @@
       "Time": "2024-01-24T19:10:18.8402374+00:00",
       "NumProgressed": 1840,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-25T02:37:08.4119998+00:00",
+      "NumProgressed": 1841,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 30,
@@ -4765,7 +4770,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "LEVEL_002",
@@ -4789,7 +4794,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "LEVEL_005",
@@ -4797,7 +4802,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "LEVEL_006",
@@ -4813,7 +4818,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "LEVEL_008",
@@ -4877,7 +4882,7 @@
       "Name": "Flatland",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "LEVEL_016",
@@ -4963,9 +4968,9 @@
       "ID": "LEVEL_026",
       "SetID": "212bg48",
       "Name": "Hiking, camping, picnics... you choose",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 147
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_027",
@@ -5004,14 +5009,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1840,
+      "Progressed": 1841,
       "Completed": 133
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:01:41.2495194+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:37:08.4119994+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:18.273311+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:51:28.7100986+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:01:41.2495601+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:27:07.1391338+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:37:08.4120433+00:00"
 }

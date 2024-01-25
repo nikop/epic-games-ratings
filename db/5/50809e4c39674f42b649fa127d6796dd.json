@@ -1964,9 +1964,9 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
@@ -1979,8 +1979,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:00:22.4400463+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:35:57.1617022+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:39.5250157+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:48:45.9412055+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:00:22.4400853+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:24:47.4319472+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:35:57.1617588+00:00"
 }

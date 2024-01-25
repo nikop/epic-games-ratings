@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,402 |
-| ''I don't like you either!'' | 77.00% | ~46,041 |
-| ''Impressive, most impressive'' | 69.00% | ~41,258 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,258 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,403 |
+| ''I don't like you either!'' | 77.00% | ~46,042 |
+| ''Impressive, most impressive'' | 69.00% | ~41,259 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,259 |
 | The Phantom Menace | 56.00% | ~33,485 |
 | ''Aggressive Negotiations'' | 56.00% | ~33,485 |
 | ''I can fly anything'' | 54.00% | ~32,289 |
 | ''And who gave you permission...?'' | 51.00% | ~30,495 |
-| A New Hope | 45.00% | ~26,907 |
-| Attack of the Clones | 44.00% | ~26,309 |
+| A New Hope | 45.00% | ~26,908 |
+| Attack of the Clones | 44.00% | ~26,310 |
 | Revenge of the Sith | 38.00% | ~22,722 |
-| ''A fine addition to my collection'' | 36.00% | ~21,526 |
 | The Empire Strikes Back | 35.00% | ~20,928 |
+| ''A fine addition to my collection'' | 35.00% | ~20,928 |
 | Return of the Jedi | 30.00% | ~17,938 |
-| The Force Awakens | 25.00% | ~14,948 |
+| The Force Awakens | 25.00% | ~14,949 |
 | The Last Jedi | 21.00% | ~12,557 |
 | The Rise of Skywalker | 19.00% | ~11,361 |
 | ''It's true... all of it'' | 18.00% | ~10,763 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~598 |
 | ''I've never seen a real one!'' | 0.90% | ~538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,794 (Ranked 121)  
+Progressed: 59,795 (Ranked 121)  
 Completed: 265 (0.44%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,6 +331,7 @@ Completed: 265 (0.44%) (Ranked 241)
 | 2024-01-22 | 59,737 | 264 |
 | 2024-01-23 | 59,766 | 265 |
 | 2024-01-24 | 59,794 | 265 |
+| 2024-01-25 | 59,795 | 265 |
 ## Awards
 Max (Great Boss Battles): 2,518  (Ranked 111)  
 Sum: 6,892 (Ranked 133)  

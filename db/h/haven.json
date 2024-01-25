@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2055,
+  "EOS_Progressed": 2056,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3945,6 +3945,11 @@
       "Time": "2024-01-24T18:04:42.3916296+00:00",
       "NumProgressed": 2055,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-25T02:31:01.3561786+00:00",
+      "NumProgressed": 2056,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3980,7 +3985,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "13",
@@ -4020,7 +4025,7 @@
       "Name": "Balding bloot!",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "18",
@@ -4178,9 +4183,9 @@
       "ID": "8",
       "SetID": "n50no0",
       "Name": "Over my dead body",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 658
     },
     {
       "ID": "9",
@@ -4195,15 +4200,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2055,
+      "Progressed": 2056,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-25T01:55:28.293416+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:31:01.356178+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:50:36.4589158+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:55:28.2934479+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:26:19.9852322+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:31:01.3562162+00:00"
 }

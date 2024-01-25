@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -9195,9 +9195,9 @@
       "Count": 718
     }
   ],
-  "EOS_Progressed": 809159,
+  "EOS_Progressed": 809167,
   "EOS_Completed": 2633,
-  "EOS_NewPlayers": 3710,
+  "EOS_NewPlayers": 3708,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -41470,6 +41470,11 @@
       "Time": "2024-01-25T02:01:34.1670969+00:00",
       "NumProgressed": 809159,
       "NumCompleted": 2633
+    },
+    {
+      "Time": "2024-01-25T02:37:01.7937514+00:00",
+      "NumProgressed": 809167,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 51,
@@ -41489,7 +41494,7 @@
       "Name": "Making Your Mark",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32366
+      "UsersEstimate": 32367
     },
     {
       "ID": "ach_ammo_ran",
@@ -41497,7 +41502,7 @@
       "Name": "Git Gutte!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56641
+      "UsersEstimate": 56642
     },
     {
       "ID": "ach_anger_management",
@@ -41529,7 +41534,7 @@
       "Name": "Perks of the Job",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32366
+      "UsersEstimate": 32367
     },
     {
       "ID": "ach_bookworm",
@@ -41545,7 +41550,7 @@
       "Name": "Break A Leg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72824
+      "UsersEstimate": 72825
     },
     {
       "ID": "ach_contender",
@@ -41577,7 +41582,7 @@
       "Name": "Slayer Squad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32366
+      "UsersEstimate": 32367
     },
     {
       "ID": "ach_explorer",
@@ -41641,7 +41646,7 @@
       "Name": "Hotel California",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80916
+      "UsersEstimate": 80917
     },
     {
       "ID": "ach_impressive_aim",
@@ -41681,7 +41686,7 @@
       "Name": "Apex Predator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56641
+      "UsersEstimate": 56642
     },
     {
       "ID": "ach_knowledgeable",
@@ -41689,7 +41694,7 @@
       "Name": "Zombologist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32366
+      "UsersEstimate": 32367
     },
     {
       "ID": "ach_legendary",
@@ -41697,7 +41702,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32366
+      "UsersEstimate": 32367
     },
     {
       "ID": "ach_magnum_opus",
@@ -41729,7 +41734,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32366
+      "UsersEstimate": 32367
     },
     {
       "ID": "ach_salvation",
@@ -41761,7 +41766,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56641
+      "UsersEstimate": 56642
     },
     {
       "ID": "ach_survival_expert",
@@ -41793,7 +41798,7 @@
       "Name": "Our True Nature",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 32366
+      "UsersEstimate": 32367
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -41817,7 +41822,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89007
+      "UsersEstimate": 89008
     },
     {
       "ID": "ach_well_known_survivor",
@@ -41888,13 +41893,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 809159,
+      "Progressed": 809167,
       "Completed": 2633
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 134703,
+      "Progressed": 134711,
       "Completed": 36810
     }
   ],
@@ -41902,8 +41907,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-24T21:58:23.9538307+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:01:34.1670967+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:37:01.7937512+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.3560603+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:49:41.1596137+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:01:34.167354+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:25:33.311037+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:37:01.7938981+00:00"
 }

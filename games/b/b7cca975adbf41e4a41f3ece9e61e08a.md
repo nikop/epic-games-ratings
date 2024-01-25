@@ -5,9 +5,9 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,751 |
-| I Challenge You To Save More Money! | 81.00% | ~15,418 |
-| I Love How Tough You Are | 66.00% | ~12,563 |
+| Last Night...Did We... | 88.00% | ~16,752 |
+| I Challenge You To Save More Money! | 81.00% | ~15,419 |
+| I Love How Tough You Are | 66.00% | ~12,564 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,231 |
 | What I Want Is You | 54.00% | ~10,279 |
 | To Be Or Not To Be | 51.00% | ~9,708 |
@@ -15,15 +15,15 @@ Rating: 4.69 (Ranked 242)
 | Love Actually | 42.00% | ~7,995 |
 | Drama King | 37.00% | ~7,043 |
 | Go Clean up In Your Own Way | 34.00% | ~6,472 |
-| Drama CP: Reel to Real | 32.00% | ~6,091 |
-| You're Really Something Else | 32.00% | ~6,091 |
+| Drama CP: Reel to Real | 32.00% | ~6,092 |
+| You're Really Something Else | 32.00% | ~6,092 |
 | FIRST LOVE | 31.00% | ~5,901 |
 | Worthless Speech | 31.00% | ~5,901 |
-| Happy Family | 30.00% | ~5,710 |
+| Happy Family | 30.00% | ~5,711 |
 | Absolutely Elegant | 29.00% | ~5,520 |
 | ONE PUNCH | 29.00% | ~5,520 |
 | Still Single | 28.00% | ~5,330 |
-| Days Of Innocence | 27.00% | ~5,139 |
+| Days Of Innocence | 27.00% | ~5,140 |
 | David | 26.00% | ~4,949 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,759 |
 | All I Have Is Money | 22.00% | ~4,188 |
@@ -31,7 +31,7 @@ Rating: 4.69 (Ranked 242)
 | A Slap In The Face! | 22.00% | ~4,188 |
 | That's So You | 22.00% | ~4,188 |
 | SALUTE | 22.00% | ~4,188 |
-| Let Me Be Your Toy Boy | 21.00% | ~3,997 |
+| Let Me Be Your Toy Boy | 21.00% | ~3,998 |
 | Off We Sail Tonight | 15.00% | ~2,855 |
 | Love You Three Thousand | 14.00% | ~2,665 |
 | Can You Do This Or Not? | 14.00% | ~2,665 |
@@ -42,13 +42,13 @@ Rating: 4.69 (Ranked 242)
 | Life Is A Rollercoaster | 8.00% | ~1,523 |
 | Counting Sheep? | 8.00% | ~1,523 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,523 |
-| Boys Need To Protect Themselves | 7.00% | ~1,332 |
-| Stubborn Noob | 7.00% | ~1,332 |
+| Boys Need To Protect Themselves | 7.00% | ~1,333 |
+| Stubborn Noob | 7.00% | ~1,333 |
 | Hurrah! | 2.00% | ~381 |
 | Tall; Grande; Venti | 2.00% | ~381 |
 | Limerence | 2.00% | ~381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,035 (Ranked 162)  
+Progressed: 19,036 (Ranked 162)  
 Completed: 341 (1.79%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 341 (1.79%) (Ranked 149)
 | 2024-01-22 | 18,987 | 338 |
 | 2024-01-23 | 19,011 | 339 |
 | 2024-01-24 | 19,035 | 341 |
+| 2024-01-25 | 19,036 | 341 |
 ## Awards
 Max (Impact the Story): 42  (Ranked 486)  
 Sum: 42 (Ranked 527)  

@@ -1567,7 +1567,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 261032,
+  "EOS_Progressed": 261033,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
@@ -28247,6 +28247,11 @@
       "Time": "2024-01-24T22:06:05.5748316+00:00",
       "NumProgressed": 261032,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T02:33:12.3751081+00:00",
+      "NumProgressed": 261033,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28546,7 +28551,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60037
+      "UsersEstimate": 60038
     },
     {
       "ID": "KillOthers2",
@@ -28705,7 +28710,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 261032,
+      "Progressed": 261033,
       "Completed": 3
     }
   ],
@@ -28713,8 +28718,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-23T04:02:56.023083+00:00",
-  "LastChanged_Achievements": "2024-01-25T01:59:21.1616249+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:33:12.3751076+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:53:57.3766831+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:59:21.1617553+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:29:39.6468143+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:33:12.3753066+00:00"
 }

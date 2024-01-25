@@ -2,9 +2,9 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2024-01-24T22:05:56.458201+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T02:30:20.0523901+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -360,7 +365,7 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -368,7 +373,7 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 65,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -376,7 +381,7 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -464,7 +469,7 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -480,7 +485,7 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -560,7 +565,7 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -593,14 +598,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-25T00:05:56.3975675+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:30:20.0523895+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.3881048+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:50:33.0158119+00:00",
-  "LastUpdate_Achievements": "2024-01-25T00:05:56.3975946+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:26:16.3242864+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:30:20.0524541+00:00"
 }

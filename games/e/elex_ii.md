@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,10 +25,10 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 16.00% | ~46 |
 | Berserker | 16.00% | ~46 |
 | Hunter | 14.00% | ~41 |
+| Perfectionist | 13.00% | ~38 |
 | Lover | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Alb | 12.00% | ~35 |
-| Perfectionist | 12.00% | ~35 |
 | Free as a Bird | 11.00% | ~32 |
 | Treasure Hunter | 9.00% | ~26 |
 | Weaponsmith | 9.00% | ~26 |

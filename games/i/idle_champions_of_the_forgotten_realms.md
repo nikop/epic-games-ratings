@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.20% | ~511 |
 | Heavy Burden | 0.20% | ~511 |
 | Vecna Lives! | 0.20% | ~443 |
+| A Demi-god's Defender | 0.20% | ~443 |
 | Vecna Loots! | 0.20% | ~443 |
 | Friends of the Forest | 0.20% | ~511 |
 | Return to the Tomb | 0.20% | ~443 |
@@ -225,7 +226,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~255 |
 | Best Thay Ever | 0.10% | ~222 |
 | Overwhelmed with Knowledge | 0.10% | ~222 |
-| A Demi-god's Defender | 0.10% | ~222 |
 | Well Equipped | 0.10% | ~222 |
 | More Than Well Equipped | 0.10% | ~222 |
 | Arcane Efforts | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,460 (Ranked 71)  
+Progressed: 255,469 (Ranked 71)  
 Completed: 2,641 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -833,7 +833,7 @@ Completed: 2,641 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
-| 2024-01-25 | 255,460 | 2,641 |
+| 2024-01-25 | 255,469 | 2,641 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,628 (Ranked 42)  

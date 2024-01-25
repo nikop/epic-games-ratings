@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 125,
@@ -447,10 +447,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 245,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-25T02:25:43.5810882+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 247,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 245,
+  "NumberOfAwards": 247,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -476,12 +482,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 26
     }
   ],
   "EOS_Progressed": 12193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6494,9 +6500,9 @@
       "ID": "52_TheGoldenFrog",
       "SetID": "37a94m8",
       "Name": "Frog Trader",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 98
     },
     {
       "ID": "53_GardensOfMadness",
@@ -6622,9 +6628,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-23T23:58:59.2482096+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:01:47.9647054+00:00",
+  "LastChanged": "2024-01-25T02:25:43.581088+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:37:14.0974325+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:49:53.1504671+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:01:47.9647867+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:25:43.5810884+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:37:14.0975085+00:00"
 }

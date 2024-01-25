@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 68786,
+  "EOS_Progressed": 68788,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1176,
+  "EOS_NewPlayers": 1175,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -18111,6 +18111,11 @@
       "Time": "2024-01-25T01:54:49.6783458+00:00",
       "NumProgressed": 68786,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-25T02:30:25.6272691+00:00",
+      "NumProgressed": 68788,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -18195,7 +18200,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7566
+      "UsersEstimate": 7567
     },
     {
       "ID": "DEAD_MAN",
@@ -18219,7 +18224,7 @@
       "Name": "Diplomat",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "EGOR_LOYAL",
@@ -18243,7 +18248,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8255
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -18275,7 +18280,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "GREAT_SORCERER",
@@ -18323,7 +18328,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19948
+      "UsersEstimate": 19949
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -18355,7 +18360,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "NEW_SPIRITS",
@@ -18371,7 +18376,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8255
     },
     {
       "ID": "NORMAL_END",
@@ -18379,7 +18384,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "OLD_SPIRITS",
@@ -18522,15 +18527,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 68786,
+      "Progressed": 68788,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-25T01:54:49.6783454+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:30:25.6272679+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:05.7187732+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:48:43.4533006+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:54:49.6784478+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:24:44.8189288+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:30:25.6273838+00:00"
 }

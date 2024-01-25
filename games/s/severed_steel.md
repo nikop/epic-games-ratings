@@ -5,17 +5,17 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~219,018 |
-| 50 HEADSHOTS | 31.00% | ~199,693 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,252 |
-| FINISHED CHAPTER 1 | 29.00% | ~186,810 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,276 |
-| 200 HEADSHOTS | 19.00% | ~122,393 |
-| FINISHED CHAPTER 3 | 18.00% | ~115,951 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,626 |
+| 100 KILLS | 34.00% | ~219,016 |
+| 50 HEADSHOTS | 31.00% | ~199,691 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,250 |
+| FINISHED CHAPTER 1 | 29.00% | ~186,808 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,275 |
+| 200 HEADSHOTS | 19.00% | ~122,392 |
+| FINISHED CHAPTER 3 | 18.00% | ~115,950 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,625 |
 | FINISH CHAPTER 5 | 13.00% | ~83,742 |
-| FINISH CHAPTER 6 | 11.00% | ~70,859 |
-| CATHARTIC ESCAPISM | 11.00% | ~70,859 |
+| FINISH CHAPTER 6 | 11.00% | ~70,858 |
+| CATHARTIC ESCAPISM | 11.00% | ~70,858 |
 | 1000 KILLS | 10.00% | ~64,417 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~25,767 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,883 |
@@ -24,13 +24,13 @@ Rating: 4.69 (Ranked 242)
 | OUT OF ORDER | 1.00% | ~6,442 |
 | PACEMAKER | 1.00% | ~6,442 |
 | TIME PARADOX | 1.00% | ~6,442 |
-| PARTYHARD | 0.90% | ~5,798 |
+| PARTYHARD | 0.90% | ~5,797 |
 | NEW GAME PLUS | 0.70% | ~4,509 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,865 |
 | CHURCH | 0.40% | ~2,577 |
 | FIREFIGHT LEVEL 50 | 0.40% | ~2,577 |
-| REMEMBER THE ARMORY | 0.30% | ~1,933 |
-| 5 RUNS | 0.30% | ~1,933 |
+| REMEMBER THE ARMORY | 0.30% | ~1,932 |
+| 5 RUNS | 0.30% | ~1,932 |
 | CHALET | 0.20% | ~1,288 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,288 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,288 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~644 |
 | WARRIOR IN A GARDEN | 0.10% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644,172 (Ranked 32)  
+Progressed: 644,166 (Ranked 32)  
 Completed: 57 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

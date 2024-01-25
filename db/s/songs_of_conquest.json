@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1305,
+  "EOS_Progressed": 1306,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -4527,6 +4527,11 @@
       "Time": "2024-01-25T00:09:30.4945411+00:00",
       "NumProgressed": 1305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T02:36:45.2554543+00:00",
+      "NumProgressed": 1306,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4747,7 +4752,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "MultiplayerWins",
@@ -4819,7 +4824,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4867,7 +4872,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "WielderLevel2",
@@ -4899,7 +4904,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4970,15 +4975,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1305,
+      "Progressed": 1306,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:01:15.7674865+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:36:45.2554539+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:50:42.2341244+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:01:15.7675302+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:26:24.5254532+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:36:45.2555053+00:00"
 }

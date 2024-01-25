@@ -2,7 +2,7 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 413,
@@ -2003,9 +2003,9 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "FINDALLIES",
@@ -2155,8 +2155,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-25T01:59:28.1743649+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:33:18.7980913+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:48:02.0706477+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:59:28.1743993+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:24:07.1658256+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:33:18.7981329+00:00"
 }

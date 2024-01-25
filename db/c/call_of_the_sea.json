@@ -326,9 +326,9 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 141182,
-  "EOS_Completed": 1281,
-  "EOS_NewPlayers": 988,
-  "EOS_NewCompleters": 15,
+  "EOS_Completed": 1282,
+  "EOS_NewPlayers": 985,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -32345,6 +32345,11 @@
       "Time": "2024-01-25T01:54:50.9861043+00:00",
       "NumProgressed": 141182,
       "NumCompleted": 1281
+    },
+    {
+      "Time": "2024-01-25T02:30:26.5765915+00:00",
+      "NumProgressed": 141182,
+      "NumCompleted": 1282
     }
   ],
   "TotalAchievements": 34,
@@ -32628,15 +32633,15 @@
       "ID": "agbm7mn",
       "IsBase": true,
       "Progressed": 141182,
-      "Completed": 1281
+      "Completed": 1282
     }
   ],
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-25T01:54:50.9861042+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:30:26.5765912+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.332386+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:50:12.0417516+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:54:50.9862576+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:25:59.6400724+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:30:26.5767649+00:00"
 }

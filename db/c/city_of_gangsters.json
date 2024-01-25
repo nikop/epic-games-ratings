@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 58,
@@ -1090,9 +1090,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363541,
+  "EOS_Progressed": 363542,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 948,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33065,6 +33065,11 @@
       "Time": "2024-01-25T01:57:06.7069168+00:00",
       "NumProgressed": 363541,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-25T02:32:31.407001+00:00",
+      "NumProgressed": 363542,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33484,7 +33489,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21812
+      "UsersEstimate": 21813
     },
     {
       "ID": "ach053",
@@ -33548,7 +33553,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21812
+      "UsersEstimate": 21813
     },
     {
       "ID": "ach061",
@@ -33572,7 +33577,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21812
+      "UsersEstimate": 21813
     },
     {
       "ID": "ach065",
@@ -33636,7 +33641,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21812
+      "UsersEstimate": 21813
     },
     {
       "ID": "ach073",
@@ -33644,7 +33649,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21812
+      "UsersEstimate": 21813
     },
     {
       "ID": "ach074",
@@ -33660,7 +33665,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21812
+      "UsersEstimate": 21813
     },
     {
       "ID": "ach076",
@@ -33715,7 +33720,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363541,
+      "Progressed": 363542,
       "Completed": 7
     }
   ],
@@ -33723,8 +33728,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-22T15:59:56.654219+00:00",
-  "LastChanged_Achievements": "2024-01-25T01:57:06.7069165+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:32:31.4070008+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:47:48.908881+00:00",
-  "LastUpdate_Achievements": "2024-01-25T01:57:06.7070945+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:23:55.0670696+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:32:31.4072259+00:00"
 }

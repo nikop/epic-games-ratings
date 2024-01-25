@@ -1,7 +1,7 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 905)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,12 +23,12 @@ Rating: 4.28 (Ranked 904)
 | Street Fighter | 7.00% | ~25,448 |
 | Friendly Gestures | 7.00% | ~25,448 |
 | People Person | 7.00% | ~25,448 |
-| Liquor Lord | 6.00% | ~21,812 |
-| Safety in Numbers | 6.00% | ~21,812 |
-| Moving Experiences | 6.00% | ~21,812 |
-| Wise Head | 6.00% | ~21,812 |
-| Show ‘em the Sugar | 6.00% | ~21,812 |
-| Killing Them Softly | 6.00% | ~21,812 |
+| Liquor Lord | 6.00% | ~21,813 |
+| Safety in Numbers | 6.00% | ~21,813 |
+| Moving Experiences | 6.00% | ~21,813 |
+| Wise Head | 6.00% | ~21,813 |
+| Show ‘em the Sugar | 6.00% | ~21,813 |
+| Killing Them Softly | 6.00% | ~21,813 |
 | Street Knowledge | 5.00% | ~18,177 |
 | Oh Captain | 5.00% | ~18,177 |
 | Branching Out | 5.00% | ~18,177 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 904)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,541 (Ranked 58)  
+Progressed: 363,542 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 7 (0.00%) (Ranked 410)
 | 2024-01-22 | 363,281 | 7 |
 | 2024-01-23 | 363,415 | 7 |
 | 2024-01-24 | 363,529 | 7 |
-| 2024-01-25 | 363,541 | 7 |
+| 2024-01-25 | 363,542 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 446)  
 Sum: 276 (Ranked 396)  

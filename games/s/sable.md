@@ -6,13 +6,13 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~38,185 |
-| Just The Two of Us | 32.00% | ~35,939 |
+| Simoon | 34.00% | ~38,186 |
+| Just The Two of Us | 32.00% | ~35,940 |
 | Up On High | 25.00% | ~28,078 |
 | Under The Hood | 25.00% | ~28,078 |
-| Got Your Nose | 24.00% | ~26,954 |
-| The Gift of Gab | 24.00% | ~26,954 |
-| Wrapping Up | 22.00% | ~24,708 |
+| Got Your Nose | 24.00% | ~26,955 |
+| The Gift of Gab | 24.00% | ~26,955 |
+| Wrapping Up | 22.00% | ~24,709 |
 | More Than A Box Of Sand | 18.00% | ~20,216 |
 | The Dunboyne | 17.00% | ~19,093 |
 | Badge Hobbyist | 17.00% | ~19,093 |
@@ -20,12 +20,12 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~17,970 |
 | Sticky Paws | 16.00% | ~17,970 |
 | Bubble Up | 16.00% | ~17,970 |
-| Thread The Needle | 15.00% | ~16,846 |
-| Power to the People | 14.00% | ~15,723 |
-| Nesting Giant | 14.00% | ~15,723 |
-| Take That! | 13.00% | ~14,600 |
-| Treasure Tracker | 13.00% | ~14,600 |
-| Big Spender | 13.00% | ~14,600 |
+| Thread The Needle | 15.00% | ~16,847 |
+| Power to the People | 14.00% | ~15,724 |
+| Nesting Giant | 14.00% | ~15,724 |
+| Take That! | 13.00% | ~14,601 |
+| Treasure Tracker | 13.00% | ~14,601 |
+| Big Spender | 13.00% | ~14,601 |
 | Badge Collector | 12.00% | ~13,477 |
 | Quite The Catch | 12.00% | ~13,477 |
 | Rowleys Way | 11.00% | ~12,354 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,369 |
 | Vivacious Vivarium | 2.00% | ~2,246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,310 (Ranked 98)  
+Progressed: 112,312 (Ranked 98)  
 Completed: 1,151 (1.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 1,151 (1.02%) (Ranked 182)
 | 2024-01-22 | 112,031 | 1,146 |
 | 2024-01-23 | 112,152 | 1,146 |
 | 2024-01-24 | 112,294 | 1,150 |
-| 2024-01-25 | 112,310 | 1,151 |
+| 2024-01-25 | 112,312 | 1,151 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 531)  
 Sum: 155 (Ranked 448)  

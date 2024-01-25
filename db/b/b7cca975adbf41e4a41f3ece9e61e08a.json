@@ -349,9 +349,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19035,
+  "EOS_Progressed": 19036,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -10784,6 +10784,11 @@
       "Time": "2024-01-24T21:10:47.2397615+00:00",
       "NumProgressed": 19035,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-25T02:36:55.8098491+00:00",
+      "NumProgressed": 19036,
+      "NumCompleted": 341
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10796,7 +10801,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16751
+      "UsersEstimate": 16752
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10804,7 +10809,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15418
+      "UsersEstimate": 15419
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10860,7 +10865,7 @@
       "Name": "Boys Need To Protect Themselves",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -10876,7 +10881,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -10892,7 +10897,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12563
+      "UsersEstimate": 12564
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10900,7 +10905,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -10908,7 +10913,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -10996,7 +11001,7 @@
       "Name": "Stubborn Noob",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -11068,7 +11073,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6091
+      "UsersEstimate": 6092
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -11092,7 +11097,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6091
+      "UsersEstimate": 6092
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -11131,7 +11136,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 19035,
+      "Progressed": 19036,
       "Completed": 341
     }
   ],
@@ -11139,8 +11144,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-23T08:57:32.6452149+00:00",
-  "LastChanged_Achievements": "2024-01-25T02:01:27.5212976+00:00",
+  "LastChanged_Achievements": "2024-01-25T02:36:55.8098489+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-25T01:48:57.0100423+00:00",
-  "LastUpdate_Achievements": "2024-01-25T02:01:27.5214125+00:00"
+  "LastUpdate_Ratings": "2024-01-25T02:24:56.4998633+00:00",
+  "LastUpdate_Achievements": "2024-01-25T02:36:55.809919+00:00"
 }

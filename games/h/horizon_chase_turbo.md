@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~998,078 |
-| I Need a Bigger Garage | 63.00% | ~698,654 |
-| Pump my Ride | 47.00% | ~521,218 |
-| Ghostbuster | 34.00% | ~377,052 |
-| Call Roadside Assistance | 18.00% | ~199,616 |
-| That Was Close | 18.00% | ~199,616 |
-| Quickie | 11.00% | ~121,987 |
-| California Dreamer | 7.00% | ~77,628 |
+| The First of Many | 90.00% | ~998,086 |
+| I Need a Bigger Garage | 63.00% | ~698,661 |
+| Pump my Ride | 47.00% | ~521,223 |
+| Ghostbuster | 34.00% | ~377,055 |
+| Call Roadside Assistance | 18.00% | ~199,617 |
+| That Was Close | 18.00% | ~199,617 |
+| Quickie | 11.00% | ~121,988 |
+| California Dreamer | 7.00% | ~77,629 |
 | Can't Touch This | 5.00% | ~55,449 |
 | Carménère Taster | 4.00% | ~44,359 |
 | Comeback | 4.00% | ~44,359 |
-| Driver from Ipanema | 3.00% | ~33,269 |
-| Supersonic | 3.00% | ~33,269 |
-| Marathonist | 3.00% | ~33,269 |
-| Living Legend | 3.00% | ~33,269 |
+| Driver from Ipanema | 3.00% | ~33,270 |
+| Supersonic | 3.00% | ~33,270 |
+| Marathonist | 3.00% | ~33,270 |
+| Living Legend | 3.00% | ~33,270 |
 | God of Roads | 2.00% | ~22,180 |
 | Pathfinder | 2.00% | ~22,180 |
 | Go-Kart Champion | 2.00% | ~22,180 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,218 |
 | Transporter | 0.10% | ~1,109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108,975 (Ranked 15)  
+Progressed: 1,108,985 (Ranked 15)  
 Completed: 540 (0.05%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 540 (0.05%) (Ranked 349)
 | 2024-01-22 | 1,108,276 | 539 |
 | 2024-01-23 | 1,108,626 | 539 |
 | 2024-01-24 | 1,108,937 | 540 |
-| 2024-01-25 | 1,108,975 | 540 |
+| 2024-01-25 | 1,108,985 | 540 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 314)  
-Sum: 1,662 (Ranked 239)  
+Sum: 1,663 (Ranked 239)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): 75
 | This game is Highly Recommended | 143 |
 | This game has Competitive Players | 136 |
 | This game has Playful Visuals | 134 |
-| This game is Extremely Fun | 131 |
+| This game is Extremely Fun | 132 |
 | This game has Amazing Storytelling | 113 |
 | This game has Amazing Characters | 108 |
 | This game has a Competitive Community | 94 |
@@ -650,3 +650,4 @@ Diff (max vs sum): 75
 | 2024-01-22 | 4.55 | - | 187 | 1,658 |
 | 2024-01-23 | 4.55 | - | 187 | 1,661 |
 | 2024-01-24 | 4.55 | - | 187 | 1,662 |
+| 2024-01-25 | 4.55 | - | 187 | 1,663 |

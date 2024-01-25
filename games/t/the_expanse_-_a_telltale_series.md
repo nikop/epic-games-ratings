@@ -19,7 +19,7 @@ Rating: 4.54 (Ranked 550)
 | Zen Master | 11.00% | ~575 |
 | Safe Cracker | 10.00% | ~523 |
 | Madame Undersecretary | 10.00% | ~523 |
-| Heal Thy Medic | 9.00% | ~1,734 |
+| Heal Thy Medic | 9.00% | ~1,735 |
 | Keep Arjun in Check | 9.00% | ~470 |
 | Data Archivist | 8.00% | ~1,542 |
 | Drug Gifter | 8.00% | ~1,542 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,272 (Ranked 160)  
+Progressed: 19,273 (Ranked 160)  
 Completed: 67 (0.35%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 67 (0.35%) (Ranked 258)
 | 2024-01-22 | 19,237 | 67 |
 | 2024-01-23 | 19,255 | 67 |
 | 2024-01-24 | 19,270 | 67 |
-| 2024-01-25 | 19,272 | 67 |
+| 2024-01-25 | 19,273 | 67 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
