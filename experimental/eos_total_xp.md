@@ -760,6 +760,7 @@
 | [Tales of the Tiny Planet](../games/f/fcfb5f2cb071465391cc3c4555327790.md) | 34 | 1,000 |
 | [Tangles](../games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 8 | 1,000 |
 | [Tannenberg](../games/t/tannenberg.md) | 67 | 1,000 |
+| [Taxi Life: A City Driving Simulator](../games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 30 | 1,000 |
 | [Tchia](../games/t/tchia.md) | 21 | 1,000 |
 | [Ten Dates](../games/t/ten_dates.md) | 19 | 1,000 |
 | [Tenement](../games/7/78d14ec62d2a41d095ac4facc9278617.md) | 60 | 1,000 |
