@@ -57,7 +57,7 @@ Number of Ratings: 892  (23.09.2022)
 | My Time Mansion | 46.00% | ~413 |
 | Do Your Part | 45.00% | ~404 |
 | It Belongs in a Museum! | 45.00% | ~404 |
-| Pro Gamer | 41.00% | ~368 |
+| Pro Gamer | 42.00% | ~377 |
 | Newton | 41.00% | ~368 |
 | Winner and Still Champeen | 37.00% | ~332 |
 | Cardistry | 32.00% | ~287 |

@@ -5,26 +5,26 @@ Rating: 4.43 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,790 |
-| Delving Onward | 69.00% | ~268,250 |
-| Miner's Helper | 59.00% | ~229,373 |
-| Suit Up | 54.00% | ~209,935 |
-| To the Mountain's Roots | 50.00% | ~194,384 |
-| Remains To Be Seen | 35.00% | ~136,069 |
-| Covered Head to Toe | 33.00% | ~128,293 |
-| Line of Azog, Ended | 32.00% | ~124,406 |
-| Risk a Little Real Light | 31.00% | ~120,518 |
-| Caradhras The Cruel | 19.00% | ~73,866 |
-| A Memory of this Place | 19.00% | ~73,866 |
+| Speak Friend | 82.00% | ~318,794 |
+| Delving Onward | 69.00% | ~268,253 |
+| Miner's Helper | 59.00% | ~229,376 |
+| Suit Up | 54.00% | ~209,937 |
+| To the Mountain's Roots | 50.00% | ~194,386 |
+| Remains To Be Seen | 35.00% | ~136,071 |
+| Covered Head to Toe | 33.00% | ~128,295 |
+| Line of Azog, Ended | 32.00% | ~124,407 |
+| Risk a Little Real Light | 31.00% | ~120,520 |
+| Caradhras The Cruel | 19.00% | ~73,867 |
+| A Memory of this Place | 19.00% | ~73,867 |
 | Battering Ram | 14.00% | ~54,428 |
 | False King, Deposed | 14.00% | ~54,428 |
 | Baruk Khazâd! | 13.00% | ~50,540 |
 | Shadow's Bane | 10.00% | ~38,877 |
-| Westgate Weaponcraft | 9.00% | ~34,989 |
-| Deeps Weaponcraft | 8.00% | ~31,101 |
-| Darkness Is Passing | 8.00% | ~31,101 |
-| Decked Out | 5.00% | ~19,438 |
-| Guarded from Despair | 5.00% | ~19,438 |
+| Westgate Weaponcraft | 9.00% | ~34,990 |
+| Deeps Weaponcraft | 8.00% | ~31,102 |
+| Darkness Is Passing | 8.00% | ~31,102 |
+| Decked Out | 5.00% | ~19,439 |
+| Guarded from Despair | 5.00% | ~19,439 |
 | Master of All Trades | 4.00% | ~15,551 |
 | Eregion Weaponcraft | 3.00% | ~11,663 |
 | True-silver | 3.00% | ~11,663 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 734)
 | Shielded | 1.00% | ~3,888 |
 | We're Gonna Need More Mugs | 0.20% | ~778 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,768 (Ranked 55)  
+Progressed: 388,773 (Ranked 55)  
 Completed: 401 (0.10%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 401 (0.10%) (Ranked 322)
 | 2024-01-22 | 388,142 | 391 |
 | 2024-01-23 | 388,385 | 397 |
 | 2024-01-24 | 388,697 | 400 |
-| 2024-01-25 | 388,768 | 401 |
+| 2024-01-25 | 388,773 | 401 |
 ## Awards
 Max (Great for Beginners): 1,012  (Ranked 163)  
 Sum: 5,773 (Ranked 142)  

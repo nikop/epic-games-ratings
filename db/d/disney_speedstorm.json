@@ -3135,9 +3135,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 406975,
+  "EOS_Progressed": 406988,
   "EOS_Completed": 1741,
-  "EOS_NewPlayers": 5911,
+  "EOS_NewPlayers": 5896,
   "EOS_NewCompleters": 97,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -22485,6 +22485,11 @@
       "Time": "2024-01-25T05:08:51.3293603+00:00",
       "NumProgressed": 406975,
       "NumCompleted": 1741
+    },
+    {
+      "Time": "2024-01-25T06:09:25.002036+00:00",
+      "NumProgressed": 406988,
+      "NumCompleted": 1741
     }
   ],
   "TotalAchievements": 24,
@@ -22504,7 +22509,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24418
+      "UsersEstimate": 24419
     },
     {
       "ID": "11",
@@ -22536,7 +22541,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36628
+      "UsersEstimate": 36629
     },
     {
       "ID": "15",
@@ -22624,7 +22629,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16279
+      "UsersEstimate": 16280
     },
     {
       "ID": "3",
@@ -22640,7 +22645,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 16279
+      "UsersEstimate": 16280
     },
     {
       "ID": "5",
@@ -22648,7 +22653,7 @@
       "Name": "ROOKIE",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 56977
+      "UsersEstimate": 56978
     },
     {
       "ID": "6",
@@ -22687,7 +22692,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 406975,
+      "Progressed": 406988,
       "Completed": 1741
     }
   ],
@@ -22695,8 +22700,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-25T04:58:33.8550405+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:08:51.3293598+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:09:25.0020305+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:58.5530008+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:58:33.855041+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:08:51.3294701+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:58:53.6827843+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:09:25.0021336+00:00"
 }

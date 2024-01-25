@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16908,
+  "EOS_Progressed": 16909,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7363,6 +7363,11 @@
       "Time": "2024-01-25T04:09:50.4544242+00:00",
       "NumProgressed": 16908,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-25T06:10:20.1048875+00:00",
+      "NumProgressed": 16909,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7399,7 +7404,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH_AE_13",
@@ -7407,7 +7412,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12681
+      "UsersEstimate": 12682
     },
     {
       "ID": "ACH_AE_14",
@@ -7654,7 +7659,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16908,
+      "Progressed": 16909,
       "Completed": 17
     }
   ],
@@ -7662,8 +7667,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:09:47.1397165+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:10:20.1048871+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.2339366+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:59:07.6805171+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:09:47.1397612+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:59:27.4989488+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:10:20.1049305+00:00"
 }

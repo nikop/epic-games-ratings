@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~171 |
 | The Clergy | 1.00% | ~171 |
 | Kushite Paganism | 1.00% | ~171 |
+| Jerwan Aqueduct | 1.00% | ~171 |
 | Capable | 0.90% | ~154 |
 | Invincible | 0.90% | ~154 |
 | Lion | 0.90% | ~154 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.90% | ~154 |
 | Industrial Progress | 0.90% | ~154 |
 | Cimmerian Archer | 0.90% | ~154 |
-| Jerwan Aqueduct | 0.90% | ~154 |
 | Royal Library | 0.90% | ~154 |
 | Yazilikaya | 0.90% | ~154 |
 | Strong Difficulty | 0.80% | ~137 |

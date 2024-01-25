@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -543,7 +543,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3605,
+  "EOS_Progressed": 3606,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -6213,6 +6213,11 @@
       "Time": "2024-01-25T04:10:13.8719804+00:00",
       "NumProgressed": 3605,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T06:10:43.8519854+00:00",
+      "NumProgressed": 3606,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6225,7 +6230,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "achievement_10",
@@ -6305,7 +6310,7 @@
       "Name": "Socialite",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "achievement_2",
@@ -6313,7 +6318,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2957
     },
     {
       "ID": "achievement_20",
@@ -6433,7 +6438,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_45",
@@ -6457,7 +6462,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2740
+      "UsersEstimate": 2741
     },
     {
       "ID": "achievement_49",
@@ -6465,7 +6470,7 @@
       "Name": "Soldier",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "achievement_5",
@@ -6473,7 +6478,7 @@
       "Name": "Initiate",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "achievement_50",
@@ -6569,7 +6574,7 @@
       "Name": "Good Boy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_7",
@@ -6585,7 +6590,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "achievement_9",
@@ -6593,14 +6598,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3605,
+      "Progressed": 3606,
       "Completed": 5
     }
   ],
@@ -6608,8 +6613,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-25T01:49:47.6226999+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:10:11.5053575+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:10:43.8519849+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:58:39.1932205+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:10:11.5054058+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:58:59.145427+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:10:43.8520453+00:00"
 }

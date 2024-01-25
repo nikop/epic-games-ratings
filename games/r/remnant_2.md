@@ -5,10 +5,10 @@ Rating: 4.71 (Ranked 206)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,853 |
+| The Killing Jar | 13.00% | ~38,854 |
 | First of Many | 12.00% | ~35,865 |
-| Not Your Average Trait | 10.00% | ~29,887 |
-| Expanding Horizons | 9.00% | ~26,898 |
+| Not Your Average Trait | 10.00% | ~29,888 |
+| Expanding Horizons | 9.00% | ~26,899 |
 | Gleaming the Cube | 8.00% | ~23,910 |
 | Quest for Survival | 8.00% | ~23,910 |
 | Familiar Face | 8.00% | ~23,910 |
@@ -17,13 +17,13 @@ Rating: 4.71 (Ranked 206)
 | Not So Special Now | 7.00% | ~20,921 |
 | Not a Janitor | 7.00% | ~20,921 |
 | Duality | 7.00% | ~20,921 |
-| Equal Measures | 6.00% | ~17,932 |
-| Blue Goddess | 6.00% | ~17,932 |
-| Top Performer | 6.00% | ~17,932 |
-| Shhh...It's a Secret | 6.00% | ~17,932 |
-| Almost There | 6.00% | ~17,932 |
-| Make Some Room | 6.00% | ~17,932 |
-| Good, But Could Be Better! | 6.00% | ~17,932 |
+| Equal Measures | 6.00% | ~17,933 |
+| Blue Goddess | 6.00% | ~17,933 |
+| Top Performer | 6.00% | ~17,933 |
+| Shhh...It's a Secret | 6.00% | ~17,933 |
+| Almost There | 6.00% | ~17,933 |
+| Make Some Room | 6.00% | ~17,933 |
+| Good, But Could Be Better! | 6.00% | ~17,933 |
 | Am I Seeing This? | 5.00% | ~14,944 |
 | Chaos | 5.00% | ~14,944 |
 | Traitor | 5.00% | ~14,944 |
@@ -48,20 +48,20 @@ Rating: 4.71 (Ranked 206)
 | Transmutate | 3.00% | ~8,966 |
 | Regicide | 3.00% | ~2,341 |
 | Master of the Dark Arts | 3.00% | ~2,341 |
-| Crafty | 2.00% | ~5,977 |
-| Ghost in the Machine | 2.00% | ~5,977 |
-| Only Human | 2.00% | ~5,977 |
-| Red Room | 2.00% | ~5,977 |
-| The Trigger | 2.00% | ~5,977 |
-| Cutting Edge | 2.00% | ~5,977 |
-| The Collector | 2.00% | ~5,977 |
-| Maxed Out! | 2.00% | ~5,977 |
+| Crafty | 2.00% | ~5,978 |
+| Ghost in the Machine | 2.00% | ~5,978 |
+| Only Human | 2.00% | ~5,978 |
+| Red Room | 2.00% | ~5,978 |
+| The Trigger | 2.00% | ~5,978 |
+| Cutting Edge | 2.00% | ~5,978 |
+| The Collector | 2.00% | ~5,978 |
+| Maxed Out! | 2.00% | ~5,978 |
 | Proving Grounds | 1.00% | ~2,989 |
 | Succession | 0.90% | ~702 |
 | You Shall Pass | 0.80% | ~624 |
 | A Foul Feast | 0.50% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,871 (Ranked 65)  
+Progressed: 298,878 (Ranked 65)  
 Completed: 1,245 (0.42%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 1,245 (0.42%) (Ranked 246)
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
-| 2024-01-25 | 298,871 | 1,245 |
+| 2024-01-25 | 298,878 | 1,245 |
 ## Awards
 Max (Great Boss Battles): 7,572  (Ranked 56)  
 Sum: 17,456 (Ranked 65)  

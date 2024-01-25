@@ -7623,9 +7623,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 298871,
+  "EOS_Progressed": 298878,
   "EOS_Completed": 1245,
-  "EOS_NewPlayers": 3457,
+  "EOS_NewPlayers": 3444,
   "EOS_NewCompleters": 122,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -29968,6 +29968,11 @@
       "Time": "2024-01-25T05:09:58.1491181+00:00",
       "NumProgressed": 298871,
       "NumCompleted": 1245
+    },
+    {
+      "Time": "2024-01-25T06:10:30.7135229+00:00",
+      "NumProgressed": 298878,
+      "NumCompleted": 1245
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -29980,7 +29985,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26898
+      "UsersEstimate": 26899
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -29988,7 +29993,7 @@
       "Name": "Crafty",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -30004,7 +30009,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -30012,7 +30017,7 @@
       "Name": "Only Human",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -30060,7 +30065,7 @@
       "Name": "The Killing Jar",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38853
+      "UsersEstimate": 38854
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -30108,7 +30113,7 @@
       "Name": "Red Room",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -30140,7 +30145,7 @@
       "Name": "Equal Measures",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Meet_Mudtooth",
@@ -30156,7 +30161,7 @@
       "Name": "Blue Goddess",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Obtain_Archetype",
@@ -30180,7 +30185,7 @@
       "Name": "Top Performer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -30188,7 +30193,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -30228,7 +30233,7 @@
       "Name": "The Trigger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -30244,7 +30249,7 @@
       "Name": "Cutting Edge",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -30260,7 +30265,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -30284,7 +30289,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29887
+      "UsersEstimate": 29888
     },
     {
       "ID": "Obtain_Traits_B",
@@ -30324,7 +30329,7 @@
       "Name": "Almost There",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Upgrade_Relic",
@@ -30332,7 +30337,7 @@
       "Name": "Make Some Room",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -30340,7 +30345,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17932
+      "UsersEstimate": 17933
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -30364,7 +30369,7 @@
       "Name": "Maxed Out!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -30419,13 +30424,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 298871,
+      "Progressed": 298878,
       "Completed": 1245
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 78036,
+      "Progressed": 78043,
       "Completed": 797
     }
   ],
@@ -30433,8 +30438,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2024-01-25T05:03:20.5147079+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:09:58.1491177+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:10:30.7135226+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.5413849+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:03:20.5147085+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:09:58.1492272+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:03:33.7707394+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:10:30.7136316+00:00"
 }

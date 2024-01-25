@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 3888,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2420,7 +2420,7 @@
   ],
   "EOS_Progressed": 898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": -5,
+  "EOS_NewPlayers": -9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11843,9 +11843,9 @@
       "ID": "S_GAMECOIN",
       "SetID": "80dcan0",
       "Name": "Pro Gamer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 377
     },
     {
       "ID": "S_GHOST",
@@ -12011,8 +12011,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-24T14:59:13.5185479+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:09:21.6398809+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:09:54.8688265+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:25.5009332+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:59:17.8161077+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:09:21.6399518+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:59:37.5578585+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:09:54.8688958+00:00"
 }

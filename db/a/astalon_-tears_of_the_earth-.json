@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -336,9 +336,9 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Collect_50000_Orbs",
@@ -360,9 +360,9 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Complete_Bestiary_50",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:05:41.820658+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:05:57.0606762+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:36.9783971+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:59:57.4271821+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:05:41.820676+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:00:13.254207+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:05:57.0606984+00:00"
 }

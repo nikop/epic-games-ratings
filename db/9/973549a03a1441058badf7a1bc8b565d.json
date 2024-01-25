@@ -2,10 +2,10 @@
   "ID": "973549a03a1441058badf7a1bc8b565d",
   "Name": "Knight vs Giant: The Broken Excalibur",
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
-  "Ranking_EOS_Progress": 625,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2024-01-25T03:10:12.2476505+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T06:10:40.9245041+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T15:05:55.5796702+00:00",
@@ -149,7 +154,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "4mjb15",
       "Name": "A Fool to the World",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -157,7 +162,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "4mjb15",
       "Name": "The Chosen One",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -165,7 +170,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "4mjb15",
       "Name": "Definitely Not Diamond",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -173,7 +178,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "4mjb15",
       "Name": "Ugly Massive Sandbag",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -181,7 +186,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "4mjb15",
       "Name": "Pollinated",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -189,7 +194,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "4mjb15",
       "Name": "A Weapon to Grind",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -221,7 +226,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "4mjb15",
       "Name": "Slowly but Surely",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -229,7 +234,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "4mjb15",
       "Name": "Rebuild the Nation",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -245,7 +250,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "4mjb15",
       "Name": "Gone Full Circle",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -253,7 +258,7 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "4mjb15",
       "Name": "Bedivere of the Perfect Sinew",
-      "Percentage": 54,
+      "Percentage": 52,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -261,7 +266,7 @@
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "4mjb15",
       "Name": "Tristan, the Orphaned Blade",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -269,7 +274,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "4mjb15",
       "Name": "Gawain, the Green Gallant",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -277,7 +282,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "4mjb15",
       "Name": "Percival, the Noble Spearhead",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -285,7 +290,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "4mjb15",
       "Name": "Get a Friend, Get a Sword",
-      "Percentage": 54,
+      "Percentage": 52,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -293,7 +298,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "4mjb15",
       "Name": "The Rock Is Indeed Moving",
-      "Percentage": 54,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -301,7 +306,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "4mjb15",
       "Name": "Get To Know the Locals",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -309,7 +314,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "4mjb15",
       "Name": "Barbaric Competitor",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -317,7 +322,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "4mjb15",
       "Name": "Reduced to Rubble",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -325,7 +330,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "4mjb15",
       "Name": "Barking up the Wrong Tree",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -333,7 +338,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "4mjb15",
       "Name": "Fit into the Pocket",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -341,7 +346,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "4mjb15",
       "Name": "Wisdom of the Knights",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 6
     }
@@ -350,14 +355,14 @@
     {
       "ID": "4mjb15",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:10:08.3229095+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:10:40.9245037+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:01.495635+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:02:42.5662172+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:10:08.3229247+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:02:55.593452+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:10:40.9245196+00:00"
 }

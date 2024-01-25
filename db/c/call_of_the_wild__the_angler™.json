@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8426,
+  "EOS_Progressed": 8427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14492,6 +14492,11 @@
       "Time": "2024-01-25T00:08:39.5070413+00:00",
       "NumProgressed": 8426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T06:09:27.0016672+00:00",
+      "NumProgressed": 8427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14503,7 +14508,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -14519,7 +14524,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -14822,13 +14827,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8426,
+      "Progressed": 8427,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7798,
+      "Progressed": 7799,
       "Completed": 113
     }
   ],
@@ -14836,8 +14841,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-23T15:00:04.156309+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:08:53.3003813+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:09:27.0016668+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:59:33.2190992+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:08:53.3004762+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:59:52.8788395+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:09:27.0017438+00:00"
 }

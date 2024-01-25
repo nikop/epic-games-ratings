@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,7 +373,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19277,
+  "EOS_Progressed": 19278,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
@@ -18188,6 +18188,11 @@
       "Time": "2024-01-25T05:06:15.0019478+00:00",
       "NumProgressed": 19277,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-25T06:08:40.602097+00:00",
+      "NumProgressed": 19278,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18344,7 +18349,7 @@
       "Name": "Call it Even",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "27",
@@ -18416,7 +18421,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "8",
@@ -18456,7 +18461,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "34",
@@ -18479,13 +18484,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19277,
+      "Progressed": 19278,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5231,
+      "Progressed": 5232,
       "Completed": 1401
     }
   ],
@@ -18493,8 +18498,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:06:15.0019474+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:08:40.6020966+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:59:38.0921495+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:06:15.0020451+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:59:57.7398577+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:08:40.6021864+00:00"
 }

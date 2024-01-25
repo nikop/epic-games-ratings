@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8056,
+  "EOS_Progressed": 8058,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -9239,6 +9239,11 @@
       "Time": "2024-01-25T05:06:18.2195526+00:00",
       "NumProgressed": 8056,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-25T06:08:43.6902566+00:00",
+      "NumProgressed": 8058,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9251,7 +9256,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -9259,7 +9264,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -9267,7 +9272,7 @@
       "Name": "Collect the mask",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -9275,7 +9280,7 @@
       "Name": "Unlock the gate",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -9299,7 +9304,7 @@
       "Name": "Turn on the TV",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 4672
+      "UsersEstimate": 4674
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -9307,7 +9312,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6366
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -9378,14 +9383,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 8056,
+      "Progressed": 8058,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:06:18.2195523+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:08:43.6902563+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:58:37.8514266+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:06:18.2196051+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:58:57.7998555+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:08:43.6903083+00:00"
 }

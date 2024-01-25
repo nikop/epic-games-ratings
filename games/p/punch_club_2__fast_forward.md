@@ -17,16 +17,16 @@
 | Your own amateur gym | 65.00% | ~395 |
 | First defeat | 63.00% | ~383 |
 | Run K, run! | 63.00% | ~383 |
+| Hello, world! | 62.00% | ~377 |
 | Fighting is cool | 61.00% | ~371 |
 | No bullying more | 61.00% | ~371 |
-| Hello, world! | 61.00% | ~371 |
 | Pal of your father? | 59.00% | ~359 |
 | Spirit of the past | 57.00% | ~347 |
 | Employee of the month | 56.00% | ~340 |
 | Law student | 55.00% | ~334 |
+| Workout professional | 52.00% | ~316 |
 | Little hacker | 52.00% | ~316 |
 | Handyman | 52.00% | ~316 |
-| Workout professional | 51.00% | ~310 |
 | Fight for life | 51.00% | ~310 |
 | Champion – starter pack | 51.00% | ~310 |
 | It's good to be alive | 51.00% | ~310 |

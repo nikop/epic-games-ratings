@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -3053,9 +3053,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 683541,
+  "EOS_Progressed": 683542,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2069,
+  "EOS_NewPlayers": 2067,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35263,6 +35263,11 @@
       "Time": "2024-01-25T05:10:14.4722257+00:00",
       "NumProgressed": 683541,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-25T06:10:46.4660426+00:00",
+      "NumProgressed": 683542,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -35522,7 +35527,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 123037
+      "UsersEstimate": 123038
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -35530,7 +35535,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 41012
+      "UsersEstimate": 41013
     },
     {
       "ID": "_03_02_NANUK",
@@ -35682,22 +35687,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 41012
+      "UsersEstimate": 41013
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 683541,
+      "Progressed": 683542,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-24T18:03:38.3873388+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:10:14.4722254+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:10:46.4660422+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.1246588+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:02:53.3753487+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:10:14.4723723+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:03:06.6349698+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:10:46.4661858+00:00"
 }

@@ -14157,9 +14157,9 @@
       "Count": 1140
     }
   ],
-  "EOS_Progressed": 387313,
+  "EOS_Progressed": 387315,
   "EOS_Completed": 588,
-  "EOS_NewPlayers": 2036,
+  "EOS_NewPlayers": 2031,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -44602,6 +44602,11 @@
       "Time": "2024-01-25T05:09:26.4715979+00:00",
       "NumProgressed": 387313,
       "NumCompleted": 588
+    },
+    {
+      "Time": "2024-01-25T06:09:59.6584698+00:00",
+      "NumProgressed": 387315,
+      "NumCompleted": 588
     }
   ],
   "TotalAchievements": 45,
@@ -44613,7 +44618,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 123940
+      "UsersEstimate": 123941
     },
     {
       "ID": "PFA_10",
@@ -44733,7 +44738,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 92955
+      "UsersEstimate": 92956
     },
     {
       "ID": "PFA_24",
@@ -44917,7 +44922,7 @@
       "Name": "The Spell Master",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 42604
+      "UsersEstimate": 42605
     },
     {
       "ID": "PFA_45",
@@ -44957,7 +44962,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 73589
+      "UsersEstimate": 73590
     },
     {
       "ID": "PFA_9",
@@ -44965,14 +44970,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 42604
+      "UsersEstimate": 42605
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 387313,
+      "Progressed": 387315,
       "Completed": 588
     }
   ],
@@ -44980,8 +44985,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2024-01-25T03:59:07.8368559+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:09:26.4715976+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:09:59.6584695+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.2606186+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:59:12.3826051+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:09:26.4717274+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:59:32.1929117+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:09:59.6586009+00:00"
 }

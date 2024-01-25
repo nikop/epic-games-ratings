@@ -5,18 +5,18 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~219,007 |
-| 50 HEADSHOTS | 31.00% | ~199,682 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,241 |
-| FINISHED CHAPTER 1 | 29.00% | ~186,800 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,269 |
-| 200 HEADSHOTS | 19.00% | ~122,386 |
-| FINISHED CHAPTER 3 | 18.00% | ~115,945 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,621 |
-| FINISH CHAPTER 5 | 13.00% | ~83,738 |
-| FINISH CHAPTER 6 | 11.00% | ~70,855 |
-| CATHARTIC ESCAPISM | 11.00% | ~70,855 |
-| 1000 KILLS | 10.00% | ~64,414 |
+| 100 KILLS | 34.00% | ~219,003 |
+| 50 HEADSHOTS | 31.00% | ~199,679 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,238 |
+| FINISHED CHAPTER 1 | 29.00% | ~186,797 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,266 |
+| 200 HEADSHOTS | 19.00% | ~122,384 |
+| FINISHED CHAPTER 3 | 18.00% | ~115,943 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,619 |
+| FINISH CHAPTER 5 | 13.00% | ~83,736 |
+| FINISH CHAPTER 6 | 11.00% | ~70,854 |
+| CATHARTIC ESCAPISM | 11.00% | ~70,854 |
+| 1000 KILLS | 10.00% | ~64,413 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~25,765 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,883 |
 | FIRST BLOOD | 2.00% | ~12,883 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~644 |
 | WARRIOR IN A GARDEN | 0.10% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644,137 (Ranked 32)  
+Progressed: 644,126 (Ranked 32)  
 Completed: 57 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,12 +340,12 @@ Completed: 57 (0.01%) (Ranked 384)
 | 2024-01-24 | 644,484 | 57 |
 | 2024-01-25 | 644,198 | 57 |
 ## Awards
-Max (Great Boss Battles): 512  (Ranked 224)  
-Sum: 620 (Ranked 324)  
+Max (Great Boss Battles): 515  (Ranked 224)  
+Sum: 623 (Ranked 324)  
 Diff (max vs sum): -100  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 512 |
+| This game has Great Boss Battles | 515 |
 | This game is Great for Quick Sessions | 26 |
 | This game is Great for Beginners | 24 |
 | This game has Competitive Players | 21 |
@@ -522,3 +522,4 @@ Diff (max vs sum): -100
 | 2024-01-19 | 4.69 | 509 | 616 |
 | 2024-01-20 | 4.69 | 510 | 618 |
 | 2024-01-22 | 4.69 | 512 | 620 |
+| 2024-01-25 | 4.69 | 515 | 623 |

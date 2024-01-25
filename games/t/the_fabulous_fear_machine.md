@@ -22,11 +22,11 @@
 | Et in arcadia ego | 23.00% | ~21 |
 | Pulp! Adventures into the Unknown | 23.00% | ~21 |
 | The seer | 20.00% | ~19 |
-| Welcome to Hellville | 19.00% | ~18 |
+| Welcome to Hellville | 20.00% | ~19 |
 | You had one wish left | 18.00% | ~17 |
+| Kirlian's best disciple | 18.00% | ~17 |
 | You've awakened the beast | 17.00% | ~16 |
 | Hate is... addictive | 17.00% | ~16 |
-| Kirlian's best disciple | 17.00% | ~16 |
 | Blessed antennas | 16.00% | ~15 |
 | The bully | 16.00% | ~15 |
 | Pulp! The Beyond | 15.00% | ~14 |
@@ -43,12 +43,12 @@
 | Vaccine fans | 10.00% | ~9 |
 | A new Hindenburg | 9.00% | ~8 |
 | Pulp! Tales from the Crypt | 6.00% | ~6 |
+| Pulp! Skeleton Hand | 4.00% | ~4 |
 | Thirst for Oleum | 4.00% | ~4 |
 | Pulp! The Perfect Crime | 3.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~3 |
 | Pulp! Heart Throbs | 3.00% | ~3 |
 | Pulp! Mister Mystery | 3.00% | ~3 |
-| Pulp! Skeleton Hand | 3.00% | ~3 |
 | Pulp! The Vault of Horror | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

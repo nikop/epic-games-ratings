@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3952,9 +3952,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243474,
+  "EOS_Progressed": 243476,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32907,6 +32907,11 @@
       "Time": "2024-01-25T04:10:22.935446+00:00",
       "NumProgressed": 243474,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-25T06:10:52.8340202+00:00",
+      "NumProgressed": 243476,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32950,7 +32955,7 @@
       "Name": "First Steps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "CURSE1HP",
@@ -33572,9 +33577,9 @@
       "ID": "PETRIFY50",
       "SetID": "5l8oe0h",
       "Name": "Stone Touch",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1948
+      "UsersEstimate": 2191
     },
     {
       "ID": "PLAY10HOURS",
@@ -33662,7 +33667,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "SPECIALROOMS10",
@@ -34021,13 +34026,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243474,
+      "Progressed": 243476,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4954,
+      "Progressed": 4956,
       "Completed": 432
     }
   ],
@@ -34035,8 +34040,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-24T11:58:23.7790607+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:10:20.7894988+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:10:52.83402+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:58:01.2786147+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:10:20.7897557+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:58:21.1551839+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:10:52.8342629+00:00"
 }

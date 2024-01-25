@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,7 +262,7 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44808,
+  "EOS_Progressed": 44809,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
@@ -30602,6 +30602,11 @@
       "Time": "2024-01-25T05:05:12.0442924+00:00",
       "NumProgressed": 44808,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-25T06:05:26.9970903+00:00",
+      "NumProgressed": 44809,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30765,7 +30770,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -30773,7 +30778,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -30844,7 +30849,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44808,
+      "Progressed": 44809,
       "Completed": 30
     }
   ],
@@ -30852,8 +30857,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:05:12.0442921+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:05:26.9970899+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-25T05:02:58.7281928+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:05:12.0444703+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:03:11.9363924+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:05:26.997243+00:00"
 }

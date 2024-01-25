@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 56094,
+  "EOS_Progressed": 56095,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32909,6 +32909,11 @@
       "Time": "2024-01-25T05:08:12.7908481+00:00",
       "NumProgressed": 56094,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T06:08:46.8878144+00:00",
+      "NumProgressed": 56095,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32960,7 +32965,7 @@
       "Name": "Rookie",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15706
+      "UsersEstimate": 15707
     },
     {
       "ID": "goals180",
@@ -32976,7 +32981,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5609
+      "UsersEstimate": 5610
     },
     {
       "ID": "goals75",
@@ -33231,15 +33236,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 56094,
+      "Progressed": 56095,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-25T03:59:41.946378+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:08:12.7908478+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:08:46.8878139+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.3868724+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:59:47.3418226+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:08:12.7909882+00:00"
+  "LastUpdate_Ratings": "2024-01-25T06:00:06.93468+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:08:46.8879778+00:00"
 }

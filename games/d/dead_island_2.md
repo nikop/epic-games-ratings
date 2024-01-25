@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,011 |
-| Hotel California | 10.00% | ~80,919 |
-| Break A Leg | 9.00% | ~72,827 |
-| Coup de Grâce | 8.00% | ~64,735 |
-| Hazardous Materials | 8.00% | ~64,735 |
-| Git Gutte! | 7.00% | ~56,643 |
-| Apex Predator | 7.00% | ~56,643 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,643 |
-| Dr. Reed, I Presume? | 6.00% | ~48,551 |
-| Bookworm | 6.00% | ~48,551 |
-| Friends Like These | 6.00% | ~48,551 |
-| Stacking the Deck | 6.00% | ~48,551 |
-| This is My Weapon | 6.00% | ~48,551 |
+| Welcome To Hell-A | 11.00% | ~89,012 |
+| Hotel California | 10.00% | ~80,920 |
+| Break A Leg | 9.00% | ~72,828 |
+| Coup de Grâce | 8.00% | ~64,736 |
+| Hazardous Materials | 8.00% | ~64,736 |
+| Git Gutte! | 7.00% | ~56,644 |
+| Apex Predator | 7.00% | ~56,644 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,644 |
+| Dr. Reed, I Presume? | 6.00% | ~48,552 |
+| Bookworm | 6.00% | ~48,552 |
+| Friends Like These | 6.00% | ~48,552 |
+| Stacking the Deck | 6.00% | ~48,552 |
+| This is My Weapon | 6.00% | ~48,552 |
 | Anger Management | 5.00% | ~40,460 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,460 |
 | But Doctor, I am Butcho | 5.00% | ~40,460 |
@@ -31,8 +31,8 @@ Rating: 4.54 (Ranked 550)
 | Ooh, Shiny! | 4.00% | ~32,368 |
 | I Am the Resurrection | 4.00% | ~32,368 |
 | Our True Nature | 4.00% | ~32,368 |
-| Whatever It Takes | 4.00% | ~5,389 |
-| Pork Chopped | 4.00% | ~5,389 |
+| Whatever It Takes | 4.00% | ~5,390 |
+| Pork Chopped | 4.00% | ~5,390 |
 | Jumbo Keyring | 3.00% | ~24,276 |
 | Humanity Distilled | 3.00% | ~24,276 |
 | Down with the Sickness | 3.00% | ~24,276 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,190 (Ranked 23)  
+Progressed: 809,201 (Ranked 23)  
 Completed: 2,633 (0.33%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 2,633 (0.33%) (Ranked 262)
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
-| 2024-01-25 | 809,190 | 2,633 |
+| 2024-01-25 | 809,201 | 2,633 |
 ## Awards
 Max (Great Boss Battles): 10,888  (Ranked 40)  
 Sum: 16,780 (Ranked 68)  

@@ -11,12 +11,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.80% | ~8,467 |
 | The Wheel of Fortune | 0.80% | ~8,467 |
 | True Soldier | 0.80% | ~8,467 |
-| Christmas Tree Attack | 0.70% | ~7,408 |
-| Life of the Road | 0.70% | ~7,408 |
-| Stanislavski's Method | 0.70% | ~7,408 |
-| The High Priestess | 0.70% | ~7,408 |
-| The Lovers | 0.70% | ~7,408 |
-| Legend of The Afterlife | 0.70% | ~7,408 |
+| Christmas Tree Attack | 0.70% | ~7,409 |
+| Life of the Road | 0.70% | ~7,409 |
+| Stanislavski's Method | 0.70% | ~7,409 |
+| The High Priestess | 0.70% | ~7,409 |
+| The Lovers | 0.70% | ~7,409 |
+| Legend of The Afterlife | 0.70% | ~7,409 |
 | Bushido and Chill | 0.60% | ~6,350 |
 | Gun Fu | 0.60% | ~6,350 |
 | The Fool | 0.60% | ~6,350 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,340 (Ranked 17)  
-Completed: 3,159 (0.30%) (Ranked 266)  
+Progressed: 1,058,360 (Ranked 17)  
+Completed: 3,160 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -354,17 +354,17 @@ Completed: 3,159 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,340 | 3,159 |
+| 2024-01-25 | 1,058,360 | 3,160 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
-Sum: 518,848 (Ranked 8)  
+Sum: 518,990 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 144,777 |
 | This game has Great Boss Battles | 108,235 |
 | This game is Great for Beginners | 33,391 |
-| This game has Diverse Characters | 32,463 |
+| This game has Diverse Characters | 32,605 |
 | This game is Highly Recommended | 31,050 |
 | This game has Amazing Storytelling | 30,460 |
 | This game is Extremely Fun | 30,343 |
@@ -746,4 +746,4 @@ Diff (max vs sum): 0
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
-| 2024-01-25 | 4.68 | - | 144,777 | 518,848 |
+| 2024-01-25 | 4.68 | - | 144,777 | 518,990 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2671,9 +2671,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 19838,
+  "EOS_Progressed": 19839,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21436,6 +21436,11 @@
       "Time": "2024-01-25T04:10:12.3467347+00:00",
       "NumProgressed": 19838,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2024-01-25T06:10:42.3443763+00:00",
+      "NumProgressed": 19839,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 35,
@@ -21447,7 +21452,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16069
+      "UsersEstimate": 16070
     },
     {
       "ID": "ACH02",
@@ -21503,7 +21508,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10117
+      "UsersEstimate": 10118
     },
     {
       "ID": "ACH09",
@@ -21567,7 +21572,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     },
     {
       "ID": "ACH17",
@@ -21726,7 +21731,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19838,
+      "Progressed": 19839,
       "Completed": 83
     }
   ],
@@ -21734,8 +21739,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-24T17:58:55.0029711+00:00",
-  "LastChanged_Achievements": "2024-01-25T05:10:09.9534517+00:00",
+  "LastChanged_Achievements": "2024-01-25T06:10:42.3443759+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:58:27.0592163+00:00",
-  "LastUpdate_Achievements": "2024-01-25T05:10:09.9535535+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:58:46.8318079+00:00",
+  "LastUpdate_Achievements": "2024-01-25T06:10:42.3444807+00:00"
 }
