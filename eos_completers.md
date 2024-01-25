@@ -132,8 +132,8 @@
 | 129 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.49% |
 | 131 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
 | 132 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
-| 133 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
-| 134 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.26% |
+| 133 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.26% |
+| 134 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
 | 135 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
 | 136 | [Night Book](games/n/night_book.md) | 2.16% |
 | 137 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
@@ -148,7 +148,7 @@
 | 145 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.85% |
 | 147 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 148 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 149 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.79% |
+| 149 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.80% |
 | 150 | [Sifu](games/s/sifu.md) | 1.71% |
 | 151 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.69% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
