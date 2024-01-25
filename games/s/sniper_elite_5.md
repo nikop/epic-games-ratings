@@ -5,20 +5,20 @@ Rating: 4.48 (Ranked 662)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,040 |
-| Confirming Suspicions | 42.00% | ~1,823 |
+| Meeting Resistance | 47.00% | ~2,041 |
+| Confirming Suspicions | 42.00% | ~1,824 |
 | The Kraken Wakes | 38.00% | ~1,650 |
-| It's Starting to Crack | 35.00% | ~1,519 |
+| It's Starting to Crack | 35.00% | ~1,520 |
 | Change the Channel | 32.00% | ~1,389 |
 | Lord of War | 31.00% | ~1,346 |
-| Taking it back | 30.00% | ~1,302 |
-| Resourceful | 28.00% | ~1,215 |
-| Target America | 28.00% | ~1,215 |
+| Taking it back | 30.00% | ~1,303 |
+| Resourceful | 28.00% | ~1,216 |
+| Target America | 28.00% | ~1,216 |
 | The Kraken Sleeps | 26.00% | ~1,129 |
 | Liberté | 24.00% | ~1,042 |
 | Organ Grinder | 24.00% | ~1,042 |
 | As Quiet as a Mouse | 24.00% | ~1,042 |
-| Sharpshooter | 23.00% | ~998 |
+| Sharpshooter | 23.00% | ~999 |
 | Gunslinger | 20.00% | ~868 |
 | Explosive Efficiency | 20.00% | ~868 |
 | Climbing the Ladder | 17.00% | ~738 |
@@ -37,8 +37,8 @@ Rating: 4.48 (Ranked 662)
 | Precision Is Key | 10.00% | ~434 |
 | My Little Friend | 10.00% | ~434 |
 | Rigged to Blow | 9.00% | ~391 |
-| Herr Today, Gone Tomorrow | 7.00% | ~300 |
-| The Long Game | 6.00% | ~260 |
+| Herr Today, Gone Tomorrow | 7.00% | ~301 |
+| The Long Game | 6.00% | ~261 |
 | Operation Foxley | 6.00% | ~258 |
 | Strategist | 5.00% | ~217 |
 | Tinkerer | 5.00% | ~217 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,341 (Ranked 217)  
+Progressed: 4,342 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,6 +355,7 @@ Completed: 11 (0.25%) (Ranked 277)
 | 2024-01-22 | 4,331 | 11 |
 | 2024-01-23 | 4,337 | 11 |
 | 2024-01-24 | 4,341 | 11 |
+| 2024-01-25 | 4,342 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 526)  
 Sum: 31 (Ranked 548)  

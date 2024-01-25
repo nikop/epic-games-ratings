@@ -5,18 +5,18 @@ Rating: 4.71 (Ranked 206)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,852 |
-| First of Many | 12.00% | ~35,863 |
-| Not Your Average Trait | 10.00% | ~29,886 |
-| Expanding Horizons | 9.00% | ~26,897 |
-| Gleaming the Cube | 8.00% | ~23,909 |
-| Quest for Survival | 8.00% | ~23,909 |
-| Familiar Face | 8.00% | ~23,909 |
-| Boss'n Up | 8.00% | ~23,909 |
-| Trait Chaser | 8.00% | ~23,909 |
-| Not So Special Now | 7.00% | ~20,920 |
-| Not a Janitor | 7.00% | ~20,920 |
-| Duality | 7.00% | ~20,920 |
+| The Killing Jar | 13.00% | ~38,853 |
+| First of Many | 12.00% | ~35,865 |
+| Not Your Average Trait | 10.00% | ~29,887 |
+| Expanding Horizons | 9.00% | ~26,898 |
+| Gleaming the Cube | 8.00% | ~23,910 |
+| Quest for Survival | 8.00% | ~23,910 |
+| Familiar Face | 8.00% | ~23,910 |
+| Boss'n Up | 8.00% | ~23,910 |
+| Trait Chaser | 8.00% | ~23,910 |
+| Not So Special Now | 7.00% | ~20,921 |
+| Not a Janitor | 7.00% | ~20,921 |
+| Duality | 7.00% | ~20,921 |
 | Equal Measures | 6.00% | ~17,932 |
 | Blue Goddess | 6.00% | ~17,932 |
 | Top Performer | 6.00% | ~17,932 |
@@ -24,21 +24,21 @@ Rating: 4.71 (Ranked 206)
 | Almost There | 6.00% | ~17,932 |
 | Make Some Room | 6.00% | ~17,932 |
 | Good, But Could Be Better! | 6.00% | ~17,932 |
-| Am I Seeing This? | 5.00% | ~14,943 |
-| Chaos | 5.00% | ~14,943 |
-| Traitor | 5.00% | ~14,943 |
-| Power Surge | 5.00% | ~14,943 |
-| The God Gambit | 5.00% | ~14,943 |
-| Dark Designs | 5.00% | ~14,943 |
-| Was This Supposed To Happen? | 5.00% | ~14,943 |
-| The Web | 5.00% | ~14,943 |
-| Scrap Collector | 5.00% | ~14,943 |
-| Forever is a Long Time Coming | 4.00% | ~11,954 |
-| Madman's Paradise | 4.00% | ~11,954 |
-| The Agenda | 4.00% | ~11,954 |
-| Bad Moon Rising | 4.00% | ~11,954 |
-| Strapped | 4.00% | ~11,954 |
-| All These Traits� | 4.00% | ~11,954 |
+| Am I Seeing This? | 5.00% | ~14,944 |
+| Chaos | 5.00% | ~14,944 |
+| Traitor | 5.00% | ~14,944 |
+| Power Surge | 5.00% | ~14,944 |
+| The God Gambit | 5.00% | ~14,944 |
+| Dark Designs | 5.00% | ~14,944 |
+| Was This Supposed To Happen? | 5.00% | ~14,944 |
+| The Web | 5.00% | ~14,944 |
+| Scrap Collector | 5.00% | ~14,944 |
+| Forever is a Long Time Coming | 4.00% | ~11,955 |
+| Madman's Paradise | 4.00% | ~11,955 |
+| The Agenda | 4.00% | ~11,955 |
+| Bad Moon Rising | 4.00% | ~11,955 |
+| Strapped | 4.00% | ~11,955 |
+| All These Traits� | 4.00% | ~11,955 |
 | Tall Tales | 3.00% | ~8,966 |
 | Edgelord | 3.00% | ~8,966 |
 | Scrap Hoarder | 3.00% | ~8,966 |
@@ -61,7 +61,7 @@ Rating: 4.71 (Ranked 206)
 | You Shall Pass | 0.80% | ~624 |
 | A Foul Feast | 0.50% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,861 (Ranked 65)  
+Progressed: 298,871 (Ranked 65)  
 Completed: 1,245 (0.42%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,19 +254,19 @@ Completed: 1,245 (0.42%) (Ranked 246)
 | 2024-01-22 | 298,163 | 1,214 |
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
-| 2024-01-25 | 298,861 | 1,245 |
+| 2024-01-25 | 298,871 | 1,245 |
 ## Awards
-Max (Great Boss Battles): 7,540  (Ranked 56)  
-Sum: 17,412 (Ranked 65)  
+Max (Great Boss Battles): 7,572  (Ranked 56)  
+Sum: 17,456 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,540 |
+| This game has Great Boss Battles | 7,572 |
 | This game is Highly Recommended | 1,113 |
 | This game has Diverse Characters | 1,071 |
 | This game is Extremely Fun | 1,036 |
+| This game has Quickly Understood Controls | 1,031 |
 | This game is Relaxing | 1,026 |
-| This game has Quickly Understood Controls | 1,019 |
 | This game has Challenging Combat | 1,016 |
 | This game has Amazing Storytelling | 1,010 |
 | This game has Amazing Characters | 970 |
@@ -458,4 +458,4 @@ Diff (max vs sum): -9
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
 | 2024-01-23 | 4.72 | 7,507 | 17,292 |
 | 2024-01-24 | 4.72 | 7,540 | 17,396 |
-| 2024-01-25 | 4.71 | 7,540 | 17,412 |
+| 2024-01-25 | 4.71 | 7,572 | 17,456 |

@@ -4,8 +4,8 @@
   "ProductSlug": "honeycomb-45501f",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 533,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T10:57:08.8030782+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:02:38.8870126+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:06:15.4426163+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:00:07.4698376+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:06:11.1591785+00:00"
 }

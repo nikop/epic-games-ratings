@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406498,
+  "EOS_Progressed": 406501,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 2747,
+  "EOS_NewPlayers": 2741,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14605,6 +14605,11 @@
       "Time": "2024-01-25T04:08:21.3265298+00:00",
       "NumProgressed": 406498,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-25T05:08:16.1003443+00:00",
+      "NumProgressed": 406501,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 28,
@@ -14632,7 +14637,7 @@
       "Name": "CORRUPTIONIST",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "GB_CRIMINAL",
@@ -14664,7 +14669,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 162599
+      "UsersEstimate": 162600
     },
     {
       "ID": "GB_GOURMET",
@@ -14704,7 +14709,7 @@
       "Name": "HIGH TECHNOLOGIES",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "GB_HONORS_STUDENT",
@@ -14744,7 +14749,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 121949
+      "UsersEstimate": 121950
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -14768,7 +14773,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 182924
+      "UsersEstimate": 182925
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -14776,7 +14781,7 @@
       "Name": "MISTER ALL THUMBS",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "GB_PATTY_KILLER",
@@ -14824,7 +14829,7 @@
       "Name": "TRAVELER",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "GB_WITHOUT_BREAKING_A_SWEAT",
@@ -14839,7 +14844,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 406498,
+      "Progressed": 406501,
       "Completed": 63
     }
   ],
@@ -14847,8 +14852,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2024-01-22T22:03:04.087319+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:08:21.3265297+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:08:16.1003439+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.8708888+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:03:23.086839+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:08:21.3266017+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:03:12.9023947+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:08:16.1004743+00:00"
 }

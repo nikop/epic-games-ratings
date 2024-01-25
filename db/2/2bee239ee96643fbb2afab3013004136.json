@@ -4,8 +4,8 @@
   "ProductSlug": "toribash-next-930df6",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 533,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-24T18:00:00+00:00",
     "PcReleaseDate": "2024-01-24T18:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2024-01-25T04:59:17.1370362+00:00",
   "LastUpdate_AppInfo": "2024-01-18T18:57:49.8793585+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:59:12.7763242+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:04:37.047104+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:59:17.1370384+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:04:30.4879622+00:00"
 }

@@ -139,6 +139,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~444 |
 | The Lost Hollyphant | 0.20% | ~444 |
 | Alterdeep | 0.20% | ~444 |
+| The Gargoyle | 0.20% | ~444 |
 | The Wandering Emporium | 0.20% | ~444 |
 | The Giant's Bane Tavern | 0.20% | ~444 |
 | The Long Haul | 0.20% | ~511 |
@@ -406,7 +407,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Friend Search Squad! | 0.10% | ~222 |
 | An Even Worse Time in Avernus | 0.10% | ~222 |
 | Elder Rune Attack | 0.10% | ~222 |
-| The Gargoyle | 0.10% | ~222 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~222 |
 | Madcap Adventures Redux | 0.10% | ~222 |
 | When the Going Gets Tough | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,477 (Ranked 71)  
+Progressed: 255,480 (Ranked 71)  
 Completed: 2,641 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -833,7 +833,7 @@ Completed: 2,641 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
-| 2024-01-25 | 255,477 | 2,641 |
+| 2024-01-25 | 255,480 | 2,641 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,628 (Ranked 42)  

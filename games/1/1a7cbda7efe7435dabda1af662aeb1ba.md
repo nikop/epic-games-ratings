@@ -13,7 +13,7 @@
 | Green Thumb | 12.00% | ~6 |
 | Bye-Bye, Butcher | 8.00% | ~4 |
 | Rejected Parasite | 8.00% | ~4 |
-| Equivalent Exchange | 6.00% | ~3 |
+| Equivalent Exchange | 8.00% | ~4 |
 | Danger | 6.00% | ~3 |
 | Column Crusher | 4.00% | ~2 |
 | Rebellious Servant | 4.00% | ~2 |

@@ -31,8 +31,8 @@ Number of Ratings: 892  (23.09.2022)
 | Chatterbox | 89.00% | ~799 |
 | No Mountain Wide Enough | 88.00% | ~790 |
 | I Do! | 88.00% | ~790 |
+| Can We Keep It? | 86.00% | ~772 |
 | Builder of the Month | 85.00% | ~763 |
-| Can We Keep It? | 85.00% | ~763 |
 | Bridging the Gap | 83.00% | ~745 |
 | Waste Not Want Not | 81.00% | ~727 |
 | Got the Flow Back | 80.00% | ~718 |

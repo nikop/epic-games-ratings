@@ -18,9 +18,9 @@
 | Diagnosis: fear | 26.00% | ~24 |
 | Ambition is... blind | 26.00% | ~24 |
 | Pulp! Out of this World | 25.00% | ~23 |
-| You have two wishes left | 24.00% | ~22 |
+| You have two wishes left | 25.00% | ~23 |
+| Et in arcadia ego | 23.00% | ~21 |
 | Pulp! Adventures into the Unknown | 23.00% | ~21 |
-| Et in arcadia ego | 22.00% | ~20 |
 | The seer | 20.00% | ~19 |
 | Welcome to Hellville | 19.00% | ~18 |
 | You had one wish left | 18.00% | ~17 |

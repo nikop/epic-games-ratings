@@ -18,8 +18,8 @@ Number of Ratings: 85  (23.09.2022)
 | Fly Me to the Moon Base | 53.00% | ~301 |
 | Ducks in a Row, Fish in a Barrel | 49.00% | ~278 |
 | Earthly Pleasures | 48.00% | ~273 |
+| Freshly Squeezed | 38.00% | ~216 |
 | Bodied Sattva | 38.00% | ~216 |
-| Freshly Squeezed | 37.00% | ~210 |
 | Upgreatest | 37.00% | ~210 |
 | Forbidden Donut | 36.00% | ~204 |
 | Deincarnated | 30.00% | ~170 |

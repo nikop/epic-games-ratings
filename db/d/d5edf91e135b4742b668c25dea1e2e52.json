@@ -4,8 +4,8 @@
   "ProductSlug": "astrometica-d3aeed",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 533,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T06:57:11.603338+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:59:49.9113124+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:03:35.0522744+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:00:00.4798075+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:03:26.7103459+00:00"
 }

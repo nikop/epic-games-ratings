@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11256,9 +11256,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133642,
+  "EOS_Progressed": 133644,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41391,6 +41391,11 @@
       "Time": "2024-01-25T04:10:14.6476988+00:00",
       "NumProgressed": 133642,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T05:10:12.3046744+00:00",
+      "NumProgressed": 133644,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41426,7 +41431,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -41658,7 +41663,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -41754,7 +41759,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10691
+      "UsersEstimate": 10692
     },
     {
       "ID": "hero_story_complete_all",
@@ -42033,21 +42038,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133642,
+      "Progressed": 133644,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8511,
+      "Progressed": 8513,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-24T21:59:42.5138492+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:10:14.6476986+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:10:12.304674+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:59:45.7462851+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:10:14.6478588+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:59:52.2485292+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:10:12.3049849+00:00"
 }

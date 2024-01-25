@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -14157,10 +14157,10 @@
       "Count": 1140
     }
   ],
-  "EOS_Progressed": 387311,
+  "EOS_Progressed": 387313,
   "EOS_Completed": 588,
-  "EOS_NewPlayers": 2047,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 2036,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -44597,6 +44597,11 @@
       "Time": "2024-01-25T04:09:30.3219548+00:00",
       "NumProgressed": 387311,
       "NumCompleted": 588
+    },
+    {
+      "Time": "2024-01-25T05:09:26.4715979+00:00",
+      "NumProgressed": 387313,
+      "NumCompleted": 588
     }
   ],
   "TotalAchievements": 45,
@@ -44616,7 +44621,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 46477
+      "UsersEstimate": 46478
     },
     {
       "ID": "PFA_11",
@@ -44624,7 +44629,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 46477
+      "UsersEstimate": 46478
     },
     {
       "ID": "PFA_12",
@@ -44632,7 +44637,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 50350
+      "UsersEstimate": 50351
     },
     {
       "ID": "PFA_13",
@@ -44640,7 +44645,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 46477
+      "UsersEstimate": 46478
     },
     {
       "ID": "PFA_14",
@@ -44768,7 +44773,7 @@
       "Name": "Put Down Roots",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     },
     {
       "ID": "PFA_29",
@@ -44784,7 +44789,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     },
     {
       "ID": "PFA_30",
@@ -44792,7 +44797,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 77462
+      "UsersEstimate": 77463
     },
     {
       "ID": "PFA_31",
@@ -44808,7 +44813,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     },
     {
       "ID": "PFA_33",
@@ -44856,7 +44861,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     },
     {
       "ID": "PFA_39",
@@ -44864,7 +44869,7 @@
       "Name": "Coasting Along",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 50350
+      "UsersEstimate": 50351
     },
     {
       "ID": "PFA_4",
@@ -44936,7 +44941,7 @@
       "Name": "First Class Student",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 112320
+      "UsersEstimate": 112321
     },
     {
       "ID": "PFA_7",
@@ -44944,7 +44949,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 104574
+      "UsersEstimate": 104575
     },
     {
       "ID": "PFA_8",
@@ -44967,7 +44972,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 387311,
+      "Progressed": 387313,
       "Completed": 588
     }
   ],
@@ -44975,8 +44980,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2024-01-25T03:59:07.8368559+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:09:30.3219544+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:09:26.4715976+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.2606186+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:59:07.8368565+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:09:30.3220902+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:59:12.3826051+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:09:26.4717274+00:00"
 }

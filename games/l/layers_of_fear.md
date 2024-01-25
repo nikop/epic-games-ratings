@@ -24,9 +24,9 @@
 | Lights! Camera! Action! | 13.00% | ~45 |
 | Playtime | 12.00% | ~42 |
 | Tough conversation | 12.00% | ~42 |
+| A new way | 11.00% | ~38 |
 | First steps | 11.00% | ~38 |
 | The tragedy unfolds | 11.00% | ~38 |
-| A new way | 10.00% | ~35 |
 | Breaking free | 10.00% | ~35 |
 | True Reflection | 9.00% | ~31 |
 | Casting Finished | 8.00% | ~28 |
@@ -34,7 +34,7 @@
 | Instinct of self-preservation | 8.00% | ~28 |
 | Fisherman | 7.00% | ~24 |
 | Something to think about | 6.00% | ~21 |
-| I remember It Like Was Yesterday | 5.00% | ~17 |
+| I remember It Like Was Yesterday | 6.00% | ~21 |
 | We Are Not Alone | 5.00% | ~17 |
 | Dark correspondence | 4.00% | ~14 |
 | Full Scoop | 4.00% | ~14 |

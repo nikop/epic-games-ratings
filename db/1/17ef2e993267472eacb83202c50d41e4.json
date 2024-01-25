@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -535,7 +535,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 31630,
+  "EOS_Progressed": 31643,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 2796,
   "EOS_NewCompleters": 0,
@@ -13510,6 +13510,11 @@
       "Time": "2024-01-25T04:10:21.5430463+00:00",
       "NumProgressed": 31630,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T05:10:19.5664924+00:00",
+      "NumProgressed": 31643,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -13522,7 +13527,7 @@
       "Name": "Upgraded Amplify Ability Damage to Level 3",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6012
     },
     {
       "ID": "ARUpgraded1",
@@ -13530,7 +13535,7 @@
       "Name": "Upgraded Accelerated Reload to Level 3",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8224
+      "UsersEstimate": 8227
     },
     {
       "ID": "ArachnidKills1",
@@ -13538,7 +13543,7 @@
       "Name": "Eliminated the Arachnid Terror",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5063
     },
     {
       "ID": "BDPurchased1",
@@ -13546,7 +13551,7 @@
       "Name": "Purchased Blink Dash",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5377
+      "UsersEstimate": 5379
     },
     {
       "ID": "BIUpgraded1",
@@ -13554,7 +13559,7 @@
       "Name": "Upgraded Biogenerative Implant to Level 3",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10126
     },
     {
       "ID": "CEUpgraded1",
@@ -13562,7 +13567,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11387
+      "UsersEstimate": 11391
     },
     {
       "ID": "CreditsEarned50000",
@@ -13570,7 +13575,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 16131
+      "UsersEstimate": 16138
     },
     {
       "ID": "CreditsSpent50000",
@@ -13578,7 +13583,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 14866
+      "UsersEstimate": 14872
     },
     {
       "ID": "DHUpgraded1",
@@ -13586,7 +13591,7 @@
       "Name": "Upgraded Deflector Helmet to Level 3",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "EARUpgraded1",
@@ -13594,7 +13599,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9489
+      "UsersEstimate": 9493
     },
     {
       "ID": "EAUpgraded1",
@@ -13610,7 +13615,7 @@
       "Name": "Upgraded Energy Expansion to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3797
     },
     {
       "ID": "FGPurchased1",
@@ -13618,7 +13623,7 @@
       "Name": "Purchased Flameburst Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3481
     },
     {
       "ID": "FRUpgraded1",
@@ -13626,7 +13631,7 @@
       "Name": "Upgraded Fast Recharge to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "GPurchased1",
@@ -13634,7 +13639,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4746
     },
     {
       "ID": "GamesPlayed1",
@@ -13642,7 +13647,7 @@
       "Name": "Played a Match",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 21508
+      "UsersEstimate": 21517
     },
     {
       "ID": "GamesPlayed10",
@@ -13650,7 +13655,7 @@
       "Name": "Played 10 Matches",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 9805
+      "UsersEstimate": 9809
     },
     {
       "ID": "GamesPlayed100",
@@ -13666,7 +13671,7 @@
       "Name": "Won a Match",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 18662
+      "UsersEstimate": 18669
     },
     {
       "ID": "GamesWon10",
@@ -13674,7 +13679,7 @@
       "Name": "Won 10 Matches",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6012
     },
     {
       "ID": "GamesWon100",
@@ -13690,7 +13695,7 @@
       "Name": "Eliminated the Golem",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4114
     },
     {
       "ID": "GrenadeLauncherUpgraded1",
@@ -13698,7 +13703,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9489
+      "UsersEstimate": 9493
     },
     {
       "ID": "HAPurchased1",
@@ -13706,7 +13711,7 @@
       "Name": "Purchased Haste Aura",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "HASPurchased1",
@@ -13722,7 +13727,7 @@
       "Name": "Upgraded Healing Amplifier to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "HGPurchased1",
@@ -13730,7 +13735,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4114
     },
     {
       "ID": "HSPurchased1",
@@ -13738,7 +13743,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6326
+      "UsersEstimate": 6329
     },
     {
       "ID": "HSUPurchased1",
@@ -13746,7 +13751,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 13285
+      "UsersEstimate": 13290
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -13754,7 +13759,7 @@
       "Name": "Upgraded the Hand Cannon to Level 3",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10126
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -13762,7 +13767,7 @@
       "Name": "Upgraded the Healing Gun to Level 3",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "IGPurchased1",
@@ -13770,7 +13775,7 @@
       "Name": "Purchased Ice Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "IHBUpgraded1",
@@ -13786,7 +13791,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7278
     },
     {
       "ID": "InhibitorKills3",
@@ -13794,7 +13799,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11708
     },
     {
       "ID": "InhibitorKills30",
@@ -13802,7 +13807,7 @@
       "Name": "Destroyed 30 Inhibitors",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "LMGUpgraded1",
@@ -13810,7 +13815,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8540
+      "UsersEstimate": 8544
     },
     {
       "ID": "LaserUpgraded1",
@@ -13818,7 +13823,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5377
+      "UsersEstimate": 5379
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -13826,7 +13831,7 @@
       "Name": "Earned 50000 Credits in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "MaxCreditsSpent25000",
@@ -13834,7 +13839,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11387
+      "UsersEstimate": 11391
     },
     {
       "ID": "MaxDamageDone30000",
@@ -13842,7 +13847,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12652
+      "UsersEstimate": 12657
     },
     {
       "ID": "MaxHealingDone30000",
@@ -13858,7 +13863,7 @@
       "Name": "Destroyed 3 Inhibitors in a single match",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6959
+      "UsersEstimate": 6961
     },
     {
       "ID": "MaxMinionKills150",
@@ -13866,7 +13871,7 @@
       "Name": "Eliminated 150 Minions in a single match",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7911
     },
     {
       "ID": "MaxNeutralKills150",
@@ -13882,7 +13887,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 12652
+      "UsersEstimate": 12657
     },
     {
       "ID": "MaxTowersKilled3",
@@ -13890,7 +13895,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12652
+      "UsersEstimate": 12657
     },
     {
       "ID": "MaxTowersKilled6",
@@ -13898,7 +13903,7 @@
       "Name": "Destroyed 6 Towers in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "MinionKills200",
@@ -13906,7 +13911,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 14866
+      "UsersEstimate": 14872
     },
     {
       "ID": "MinionKills2000",
@@ -13914,7 +13919,7 @@
       "Name": "2000 Minion Eliminations",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3797
     },
     {
       "ID": "NIUpgraded1",
@@ -13922,7 +13927,7 @@
       "Name": "Upgraded Nanobot Infusion to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "NUPurchased1",
@@ -13930,7 +13935,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14556
     },
     {
       "ID": "NeutralKills200",
@@ -13938,7 +13943,7 @@
       "Name": "200 Neutral Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "NexusKills1",
@@ -13946,7 +13951,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11708
     },
     {
       "ID": "PlayerKills10",
@@ -13954,7 +13959,7 @@
       "Name": "10 Eliminations",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 15815
+      "UsersEstimate": 15822
     },
     {
       "ID": "PlayerKills100",
@@ -13962,7 +13967,7 @@
       "Name": "100 Eliminations",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7278
     },
     {
       "ID": "PlayerKills1000",
@@ -13978,7 +13983,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4430
     },
     {
       "ID": "QAUpgraded1",
@@ -13986,7 +13991,7 @@
       "Name": "Upgraded Quantum Armor to Level 3",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4430
     },
     {
       "ID": "QTUpgraded1",
@@ -13994,7 +13999,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 13285
+      "UsersEstimate": 13290
     },
     {
       "ID": "RAPurchased1",
@@ -14002,7 +14007,7 @@
       "Name": "Purchased Rally Allies",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6642
+      "UsersEstimate": 6645
     },
     {
       "ID": "RFSPurchased1",
@@ -14010,7 +14015,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4430
     },
     {
       "ID": "RSPurchased1",
@@ -14018,7 +14023,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9489
+      "UsersEstimate": 9493
     },
     {
       "ID": "SEUpgraded1",
@@ -14026,7 +14031,7 @@
       "Name": "Upgraded Shield Enhancements to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "SMGUpgraded1",
@@ -14034,7 +14039,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6012
     },
     {
       "ID": "SOVUpgraded1",
@@ -14042,7 +14047,7 @@
       "Name": "Upgraded Sphere of Vitality to Level 3",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "SPurchased1",
@@ -14050,7 +14055,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8856
+      "UsersEstimate": 8860
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -14058,7 +14063,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6642
+      "UsersEstimate": 6645
     },
     {
       "ID": "SniperUpgraded1",
@@ -14066,7 +14071,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5063
     },
     {
       "ID": "TGPurchased1",
@@ -14074,7 +14079,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7591
+      "UsersEstimate": 7594
     },
     {
       "ID": "TPurchased1",
@@ -14082,7 +14087,7 @@
       "Name": "Purchased Turret",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 16448
+      "UsersEstimate": 16454
     },
     {
       "ID": "TSUPurchased1",
@@ -14090,7 +14095,7 @@
       "Name": "Purchased Team Shield Ultimate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5063
     },
     {
       "ID": "TowerKills11",
@@ -14098,7 +14103,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10126
     },
     {
       "ID": "WCUpgraded1",
@@ -14106,14 +14111,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 15815
+      "UsersEstimate": 15822
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 31630,
+      "Progressed": 31643,
       "Completed": 1
     }
   ],
@@ -14121,8 +14126,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2024-01-24T23:00:02.4588594+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:10:21.5430461+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:10:19.5664921+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.5511858+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:02:37.1728154+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:10:21.5431547+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:00:05.8238635+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:10:19.5665968+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,277 |
 | Lost and Found | 9.00% | ~766 |
-| Autodidact | 8.00% | ~10,691 |
+| Autodidact | 8.00% | ~10,692 |
 | This guy... again? | 8.00% | ~681 |
 | Serenity Now! | 7.00% | ~9,355 |
 | This Belongs in a Museum | 7.00% | ~9,355 |
@@ -70,8 +70,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 1.00% | ~85 |
 | For Old Time' Sake | 1.00% | ~85 |
 | The World As It Was | 0.80% | ~1,069 |
-| A Life Well Lived | 0.70% | ~935 |
-| Bacon Bits | 0.70% | ~935 |
+| A Life Well Lived | 0.70% | ~936 |
+| Bacon Bits | 0.70% | ~936 |
 | On This Long Road, We Found Redemption | 0.70% | ~60 |
 | Eidetic | 0.60% | ~802 |
 | Battle Hardened | 0.50% | ~43 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,642 (Ranked 92)  
+Progressed: 133,644 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,642 | 5 |
+| 2024-01-25 | 133,644 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
 Sum: 21,856 (Ranked 60)  

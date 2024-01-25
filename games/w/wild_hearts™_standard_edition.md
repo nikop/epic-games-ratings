@@ -29,8 +29,8 @@
 | Single Minded | 27.00% | ~380 |
 | Karakuri Trail | 25.00% | ~352 |
 | Snare Specialist | 25.00% | ~352 |
+| Karakuri Isle | 22.00% | ~310 |
 | Team Hunter | 22.00% | ~310 |
-| Karakuri Isle | 21.00% | ~295 |
 | Artful Assister | 21.00% | ~295 |
 | Reincarnation Cycle Stopper | 21.00% | ~295 |
 | Human Believer | 18.00% | ~253 |

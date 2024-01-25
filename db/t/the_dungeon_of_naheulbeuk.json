@@ -4,11 +4,11 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 475,
   "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 330,
+  "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1833,9 +1833,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249423,
+  "EOS_Progressed": 249424,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27468,6 +27468,11 @@
       "Time": "2024-01-25T04:10:20.3822779+00:00",
       "NumProgressed": 249423,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-25T05:10:18.3611278+00:00",
+      "NumProgressed": 249424,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -28182,21 +28187,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249423,
+      "Progressed": 249424,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249423,
+      "Progressed": 249424,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-25T01:53:33.3656171+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:10:20.3822778+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:10:18.3611272+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:02:39.2544499+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:10:20.3824594+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:00:07.8456912+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:10:18.3612884+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,557 |
-| Overkill | 33.00% | ~11,773 |
-| Vaccine Incoming | 31.00% | ~11,060 |
-| A normal day in Gloomhaven | 29.00% | ~10,346 |
-| Spread the plague | 26.00% | ~9,276 |
-| Get over here! | 24.00% | ~8,562 |
+| I'm not dead yet | 38.00% | ~13,559 |
+| Overkill | 33.00% | ~11,775 |
+| Vaccine Incoming | 31.00% | ~11,061 |
+| A normal day in Gloomhaven | 29.00% | ~10,347 |
+| Spread the plague | 26.00% | ~9,277 |
+| Get over here! | 24.00% | ~8,563 |
 | Just when I thought I was out... | 19.00% | ~6,779 |
-| Mine... All Mine... | 16.00% | ~5,708 |
+| Mine... All Mine... | 16.00% | ~5,709 |
 | Precious! | 15.00% | ~5,352 |
 | Grizzled veteran | 14.00% | ~4,995 |
 | Anatomy Lesson | 14.00% | ~4,995 |
-| Who's the Boss? | 12.00% | ~4,281 |
-| You activated my trap card! | 12.00% | ~4,281 |
-| Obstacle race | 12.00% | ~4,281 |
-| Light of my life | 12.00% | ~4,281 |
+| Who's the Boss? | 12.00% | ~4,282 |
+| You activated my trap card! | 12.00% | ~4,282 |
+| Obstacle race | 12.00% | ~4,282 |
+| Light of my life | 12.00% | ~4,282 |
 | Augmented rat | 10.00% | ~3,568 |
 | Doom and gloom | 9.00% | ~3,211 |
 | Dungeon Veteran | 8.00% | ~2,854 |
-| Pack leader | 7.00% | ~2,497 |
-| Pain is your friend | 7.00% | ~2,497 |
-| Black death | 7.00% | ~2,497 |
-| Play it again, Sam | 7.00% | ~2,497 |
+| Pack leader | 7.00% | ~2,498 |
+| Pain is your friend | 7.00% | ~2,498 |
+| Black death | 7.00% | ~2,498 |
+| Play it again, Sam | 7.00% | ~2,498 |
 | Caught off guard | 6.00% | ~2,141 |
 | Quad damage | 6.00% | ~2,141 |
 | Power Up! | 5.00% | ~1,784 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~36 |
 | Murder Death Kill | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,677 (Ranked 140)  
+Progressed: 35,681 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 1 (0.00%) (Ranked 410)
 | 2024-01-22 | 35,356 | 1 |
 | 2024-01-23 | 35,520 | 1 |
 | 2024-01-24 | 35,647 | 1 |
-| 2024-01-25 | 35,677 | 1 |
+| 2024-01-25 | 35,681 | 1 |
 ## Awards
 Max (Character Customization): 3,627  (Ranked 96)  
 Sum: 8,505 (Ranked 111)  

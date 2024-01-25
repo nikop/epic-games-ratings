@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
     "PcReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -267,9 +267,9 @@
       "ID": "MIRANDAS_GARAGE_ACH",
       "SetID": "af7amn3",
       "Name": "Miranda\u0027s Garage",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PARK_PICNIC_ACH",
@@ -347,9 +347,9 @@
       "ID": "THE_MECHANIC_ACH",
       "SetID": "af7amn3",
       "Name": "The Mechanic",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "THE_SINGER_ACH",
@@ -386,8 +386,8 @@
   ],
   "FirstSeen": "2023-12-30T21:03:34.3520753+00:00",
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:05:39.5356027+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:05:34.5251363+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:01.6697636+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:58:10.5432229+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:05:39.5356179+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:58:13.8405218+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:05:34.5251525+00:00"
 }

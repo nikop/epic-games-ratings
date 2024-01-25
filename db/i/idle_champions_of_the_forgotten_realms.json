@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9817,9 +9817,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255477,
+  "EOS_Progressed": 255480,
   "EOS_Completed": 2641,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41572,6 +41572,11 @@
       "Time": "2024-01-25T04:10:24.9050302+00:00",
       "NumProgressed": 255477,
       "NumCompleted": 2641
+    },
+    {
+      "Time": "2024-01-25T05:10:22.682005+00:00",
+      "NumProgressed": 255480,
+      "NumCompleted": 2641
     }
   ],
   "TotalAchievements": 546,
@@ -44493,9 +44498,9 @@
       "ID": "objective_completed_657",
       "SetID": "415jc5c",
       "Name": "The Gargoyle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_658",
@@ -45950,21 +45955,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221751,
+      "Progressed": 221754,
       "Completed": 4160
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255477,
+      "Progressed": 255480,
       "Completed": 2641
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-24T21:58:43.8356184+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:10:24.90503+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:10:22.6820047+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:58:48.8541546+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:10:24.9072942+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:58:52.7717973+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:10:22.6844814+00:00"
 }

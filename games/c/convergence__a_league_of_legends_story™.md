@@ -11,10 +11,10 @@ Rating: 4.67 (Ranked 289)
 | Immaculate Aim | 31.00% | ~421 |
 | The Brass Boss | 29.00% | ~394 |
 | Time Flies | 28.00% | ~380 |
+| No, Thanks! | 28.00% | ~380 |
 | The Prince in Heels | 28.00% | ~380 |
 | Make Up For Lost Time | 27.00% | ~367 |
 | The Harder They Fall | 27.00% | ~367 |
-| No, Thanks! | 27.00% | ~367 |
 | Honest Mistake | 27.00% | ~367 |
 | Fast Learner | 27.00% | ~367 |
 | Immaculate Aim | 27.00% | ~367 |

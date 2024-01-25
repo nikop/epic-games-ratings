@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,423 (Ranked 73)  
+Progressed: 249,424 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,11 +334,11 @@ Completed: 9 (0.00%) (Ranked 410)
 | 2024-01-22 | 249,232 | 9 |
 | 2024-01-23 | 249,318 | 9 |
 | 2024-01-24 | 249,409 | 9 |
-| 2024-01-25 | 249,423 | 9 |
+| 2024-01-25 | 249,424 | 9 |
 ## Awards
 Max (Character Customization): 276  (Ranked 277)  
-Sum: 586 (Ranked 330)  
-Diff (max vs sum): -53  
+Sum: 586 (Ranked 331)  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 276 |

@@ -5,17 +5,17 @@ Rating: 4.38 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~781,596 |
-| The ABCs | 43.00% | ~685,890 |
-| Home Run | 41.00% | ~653,989 |
-| Keeps Coming Off | 41.00% | ~653,989 |
-| Guts | 19.00% | ~303,068 |
-| Meat Grinder | 19.00% | ~303,068 |
-| Burning Man | 16.00% | ~255,215 |
-| Lived to Tell the Tale | 12.00% | ~191,411 |
-| Highlander | 10.00% | ~159,509 |
-| Unstoppable | 10.00% | ~159,509 |
-| Just a Scratch | 9.00% | ~143,558 |
+| Justice from the Grave | 49.00% | ~781,602 |
+| The ABCs | 43.00% | ~685,896 |
+| Home Run | 41.00% | ~653,994 |
+| Keeps Coming Off | 41.00% | ~653,994 |
+| Guts | 19.00% | ~303,070 |
+| Meat Grinder | 19.00% | ~303,070 |
+| Burning Man | 16.00% | ~255,217 |
+| Lived to Tell the Tale | 12.00% | ~191,413 |
+| Highlander | 10.00% | ~159,511 |
+| Unstoppable | 10.00% | ~159,511 |
+| Just a Scratch | 9.00% | ~143,560 |
 | Tough Nut to Crack | 6.00% | ~95,706 |
 | Yoink | 6.00% | ~95,706 |
 | Long List of Names | 4.00% | ~63,804 |
@@ -36,7 +36,7 @@ Rating: 4.38 (Ranked 799)
 | Friend Indeed | 0.70% | ~11,166 |
 | Rock’n’Roll | 0.70% | ~11,166 |
 | Virtuoso | 0.70% | ~11,166 |
-| Vlad the Impaler | 0.50% | ~7,975 |
+| Vlad the Impaler | 0.50% | ~7,976 |
 | Whack-A-Mole | 0.40% | ~6,380 |
 | Clobbered | 0.20% | ~3,190 |
 | Ended Rightly | 0.10% | ~1,595 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 799)
 | That’s No Ordinary Cold | 0.10% | ~1,595 |
 | Stairway to Hell | 0.10% | ~1,595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,595,094 (Ranked 7)  
+Progressed: 1,595,107 (Ranked 7)  
 Completed: 81 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 81 (0.01%) (Ranked 384)
 | 2024-01-22 | 1,594,268 | 81 |
 | 2024-01-23 | 1,594,661 | 81 |
 | 2024-01-24 | 1,595,028 | 81 |
-| 2024-01-25 | 1,595,094 | 81 |
+| 2024-01-25 | 1,595,107 | 81 |
 ## Awards
 Max (Diverse Characters): 1,270  (Ranked 149)  
 Sum: 6,535 (Ranked 138)  

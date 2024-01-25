@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -4674,9 +4674,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_12",
@@ -5048,8 +5048,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:09:56.8238129+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:09:54.2741735+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:02:51.916763+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:09:56.8238591+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:02:40.3727211+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:09:54.2742201+00:00"
 }

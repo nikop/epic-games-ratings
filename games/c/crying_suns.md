@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~313,109 |
+| The Shutdown | 66.00% | ~313,111 |
 | Jeef Skeejj | 44.00% | ~208,740 |
-| Careful planning | 39.00% | ~185,019 |
+| Careful planning | 39.00% | ~185,020 |
 | Second Coming | 34.00% | ~161,299 |
-| Jeef Skagg | 30.00% | ~142,322 |
+| Jeef Skagg | 30.00% | ~142,323 |
 | Mother | 25.00% | ~118,602 |
 | In space, no one can hear you scream | 24.00% | ~113,858 |
 | Chapter I: Echoes | 22.00% | ~104,370 |
 | Excelsior Rule | 22.00% | ~104,370 |
 | Things persisted in not being what they seemed | 20.00% | ~94,882 |
-| Knightmare Frames | 15.00% | ~71,161 |
-| May His passing cleanse the world | 15.00% | ~71,161 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,161 |
-| Pope Zenon | 15.00% | ~71,161 |
+| Knightmare Frames | 15.00% | ~71,162 |
+| May His passing cleanse the world | 15.00% | ~71,162 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,162 |
+| Pope Zenon | 15.00% | ~71,162 |
 | Plan for the worst | 12.00% | ~56,929 |
 | Tetsuo | 11.00% | ~52,185 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,441 |
@@ -33,18 +33,18 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Survivalists | 7.00% | ~33,209 |
 | The Tech Specialist | 7.00% | ~33,209 |
 | The Mech Soldier | 7.00% | ~33,209 |
-| Chapter V: Memories of None | 6.00% | ~28,464 |
-| The Impersonator | 6.00% | ~28,464 |
-| The Kid | 6.00% | ~28,464 |
-| The Evangelist | 6.00% | ~28,464 |
-| The Inquisitor | 6.00% | ~28,464 |
-| The Ace Pilot | 6.00% | ~28,464 |
-| The Tech Med | 6.00% | ~28,464 |
-| The lucky charm | 6.00% | ~28,464 |
-| The Anonymous | 6.00% | ~28,464 |
-| The Smuggler | 6.00% | ~28,464 |
-| The Crazy Repairman | 6.00% | ~28,464 |
-| The Weasel | 6.00% | ~28,464 |
+| Chapter V: Memories of None | 6.00% | ~28,465 |
+| The Impersonator | 6.00% | ~28,465 |
+| The Kid | 6.00% | ~28,465 |
+| The Evangelist | 6.00% | ~28,465 |
+| The Inquisitor | 6.00% | ~28,465 |
+| The Ace Pilot | 6.00% | ~28,465 |
+| The Tech Med | 6.00% | ~28,465 |
+| The lucky charm | 6.00% | ~28,465 |
+| The Anonymous | 6.00% | ~28,465 |
+| The Smuggler | 6.00% | ~28,465 |
+| The Crazy Repairman | 6.00% | ~28,465 |
+| The Weasel | 6.00% | ~28,465 |
 | Kill the Doctor | 5.00% | ~23,720 |
 | Forsaken | 5.00% | ~23,720 |
 | Mercy | 5.00% | ~23,720 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,408 (Ranked 45)  
+Progressed: 474,410 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 21 (0.00%) (Ranked 410)
 | 2024-01-22 | 474,324 | 21 |
 | 2024-01-23 | 474,358 | 21 |
 | 2024-01-24 | 474,401 | 21 |
-| 2024-01-25 | 474,408 | 21 |
+| 2024-01-25 | 474,410 | 21 |
 ## Awards
 Max (Character Customization): 231  (Ranked 287)  
 Sum: 255 (Ranked 400)  

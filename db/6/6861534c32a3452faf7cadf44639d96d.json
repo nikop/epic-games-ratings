@@ -2,13 +2,13 @@
   "ID": "6861534c32a3452faf7cadf44639d96d",
   "Name": "Garten of Banban",
   "ProductSlug": "garten-of-banban-13ddcd",
-  "Ranking_Rating": 1108,
+  "Ranking_Rating": 1109,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 533,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-14T14:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -61,6 +61,6 @@
   "FirstSeenRating": "2024-01-07T15:57:26.3414366+00:00",
   "LastChanged": "2024-01-14T15:57:45.4458279+00:00",
   "LastUpdate_AppInfo": "2024-01-24T16:57:07.7447152+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:59:18.7947022+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:04:01.6966083+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:59:23.5135112+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:03:54.5567553+00:00"
 }

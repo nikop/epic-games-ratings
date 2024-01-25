@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22725,
+  "EOS_Progressed": 22727,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14916,6 +14916,11 @@
       "Time": "2024-01-25T04:10:01.2652674+00:00",
       "NumProgressed": 22725,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-25T05:09:58.5703853+00:00",
+      "NumProgressed": 22727,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14951,7 +14956,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14959,7 +14964,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15047,7 +15052,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -15071,7 +15076,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -15095,7 +15100,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4772
+      "UsersEstimate": 4773
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15103,7 +15108,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15111,7 +15116,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -15119,7 +15124,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15183,7 +15188,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "DISMEMBER_100",
@@ -15302,13 +15307,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22725,
+      "Progressed": 22727,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10651,
+      "Progressed": 10653,
       "Completed": 29
     }
   ],
@@ -15316,8 +15321,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:10:01.2652672+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:09:58.570385+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-25T04:03:27.777022+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:10:01.265357+00:00"
+  "LastUpdate_Ratings": "2024-01-25T05:03:17.5425252+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:09:58.5704744+00:00"
 }

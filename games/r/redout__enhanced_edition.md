@@ -6,7 +6,7 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~98,133 |
+| VANGUARD | 42.00% | ~100,526 |
 | NATURAL BORN WINNER | 33.00% | ~78,985 |
 | CALLING HOUSTON | 28.00% | ~67,017 |
 | SNEAKY SNEAKY | 22.00% | ~52,657 |

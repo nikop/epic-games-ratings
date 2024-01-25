@@ -1917,9 +1917,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90327,
+  "EOS_Progressed": 90328,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1845,
+  "EOS_NewPlayers": 1838,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -18092,6 +18092,11 @@
       "Time": "2024-01-25T04:08:14.1720557+00:00",
       "NumProgressed": 90327,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-25T05:06:18.9428105+00:00",
+      "NumProgressed": 90328,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18184,7 +18189,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8129
+      "UsersEstimate": 8130
     },
     {
       "ID": "5",
@@ -18208,7 +18213,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24388
+      "UsersEstimate": 24389
     },
     {
       "ID": "8",
@@ -18231,7 +18236,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90327,
+      "Progressed": 90328,
       "Completed": 76
     }
   ],
@@ -18239,8 +18244,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-25T01:49:39.7636903+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:08:14.1720554+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:06:18.9428101+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:58:29.1962939+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:08:14.1721225+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:58:33.1041163+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:06:18.9428828+00:00"
 }

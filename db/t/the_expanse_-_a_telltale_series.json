@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19276,
+  "EOS_Progressed": 19277,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18183,6 +18183,11 @@
       "Time": "2024-01-25T04:06:19.232873+00:00",
       "NumProgressed": 19276,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-25T05:06:15.0019478+00:00",
+      "NumProgressed": 19277,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18227,7 +18232,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "14",
@@ -18275,7 +18280,7 @@
       "Name": "Martian Music",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "2",
@@ -18347,7 +18352,7 @@
       "Name": "Bosmang",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "28",
@@ -18427,7 +18432,7 @@
       "Name": "Impossible Objects",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "31",
@@ -18474,13 +18479,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19276,
+      "Progressed": 19277,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5230,
+      "Progressed": 5231,
       "Completed": 1401
     }
   ],
@@ -18488,8 +18493,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-25T04:06:19.2328726+00:00",
+  "LastChanged_Achievements": "2024-01-25T05:06:15.0019474+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-25T03:59:33.0225266+00:00",
-  "LastUpdate_Achievements": "2024-01-25T04:06:19.232974+00:00"
+  "LastUpdate_Ratings": "2024-01-25T04:59:38.0921495+00:00",
+  "LastUpdate_Achievements": "2024-01-25T05:06:15.0020451+00:00"
 }

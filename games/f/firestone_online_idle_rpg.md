@@ -11,7 +11,7 @@ Rating: 4.08 (Ranked 1,037)
 | Prestigious | 52.00% | ~2,483 |
 | Fellowship Power | 42.00% | ~2,006 |
 | Full Party | 31.00% | ~1,480 |
-| Guild Power | 22.00% | ~1,050 |
+| Guild Power | 23.00% | ~1,098 |
 | Prestigious x10 | 20.00% | ~955 |
 | The game is on | 18.00% | ~860 |
 | Exotic Merchant | 16.00% | ~764 |
