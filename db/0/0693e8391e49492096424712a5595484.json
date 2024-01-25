@@ -3477,9 +3477,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 585
     },
     {
       "ID": "DevilRope",
@@ -3525,9 +3525,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 553
     },
     {
       "ID": "HastrmanAcorn",
@@ -3605,9 +3605,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 276
     },
     {
       "ID": "PriestRogue",
@@ -3740,8 +3740,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:05:25.1810373+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:05:19.0544698+00:00",
   "LastUpdate_AppInfo": "2024-01-24T03:57:24.1255449+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:58:05.1197299+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:05:25.1810855+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:58:11.2597673+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:05:19.0545223+00:00"
 }

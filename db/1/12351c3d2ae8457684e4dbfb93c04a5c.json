@@ -2,10 +2,10 @@
   "ID": "12351c3d2ae8457684e4dbfb93c04a5c",
   "Name": "Hombre",
   "ProductSlug": "hombre-c688bb",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-07-31T00:00:00+00:00",
     "PcReleaseDate": "2023-07-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-20T09:56:54.4693765+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:01:40.4622127+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:06:29.5297548+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:01:57.2321139+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:06:26.5458918+00:00"
 }

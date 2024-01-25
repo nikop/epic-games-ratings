@@ -15,7 +15,7 @@
 | Dynamite, Treason and Coconuts | 15.00% | ~21 |
 | Save a Friend | 15.00% | ~21 |
 | In the Name of the Law | 14.00% | ~20 |
-| Au Revoir, Abudin | 13.00% | ~19 |
+| Au Revoir, Abudin | 14.00% | ~20 |
 | Mysterious Bungalow | 13.00% | ~19 |
 | The Eyes! | 11.00% | ~16 |
 | Keep the Doctor Away | 10.00% | ~14 |

@@ -23,6 +23,7 @@
 | Complete the Pack: Earth | 1.00% | ~1 |
 | Complete a Daily Pack | 1.00% | ~1 |
 | Fast 8x8 | 1.00% | ~1 |
+| Fast 9x9 | 1.00% | ~1 |
 | Fast 11x11 | 1.00% | ~1 |
 | Fast 13x13 | 1.00% | ~1 |
 | Complete 25 7x7 levels | 1.00% | ~1 |
@@ -36,7 +37,6 @@
 | Addicted for 3 Days | 0.00% | ~0 |
 | Addicted for 7 Days | 0.00% | ~0 |
 | Addicted for 10 Days | 0.00% | ~0 |
-| Fast 9x9 | 0.00% | ~0 |
 | Fast 12x12 | 0.00% | ~0 |
 | Complete 500 levels | 0.00% | ~0 |
 | Complete 1000 levels | 0.00% | ~0 |

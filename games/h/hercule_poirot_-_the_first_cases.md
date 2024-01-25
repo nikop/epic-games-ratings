@@ -5,33 +5,33 @@ Rating: 4.38 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 88.00% | ~449 |
-| Luc Piette | 74.00% | ~377 |
-| Angeline Van den Bosch | 72.00% | ~367 |
-| Elizabeth Padget | 69.00% | ~352 |
+| It Wasn’t a Burglary | 88.00% | ~450 |
+| Luc Piette | 74.00% | ~378 |
+| Angeline Van den Bosch | 72.00% | ~368 |
+| Elizabeth Padget | 69.00% | ~353 |
 | Little Grey Cells | 68.00% | ~347 |
 | The Bracelet | 65.00% | ~332 |
-| The Blackmail | 54.00% | ~275 |
-| Florette Duval | 54.00% | ~275 |
-| Major Felix Hagen | 54.00% | ~275 |
-| Order and Method | 52.00% | ~265 |
-| Fine-toothed Comb | 52.00% | ~265 |
+| Florette Duval | 54.00% | ~276 |
+| The Blackmail | 53.00% | ~271 |
+| Major Felix Hagen | 53.00% | ~271 |
+| Fine-toothed Comb | 52.00% | ~266 |
+| Order and Method | 51.00% | ~261 |
 | The Altercation | 49.00% | ~250 |
 | Truth from Within | 47.00% | ~240 |
 | The Major | 46.00% | ~235 |
-| Curious and Beautiful | 44.00% | ~224 |
-| Comtesse Margaux de Vos | 44.00% | ~224 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~219 |
-| The Interrogations | 43.00% | ~219 |
-| Well-acquainted | 41.00% | ~209 |
-| Zakariya Demir | 41.00% | ~209 |
+| Comtesse Margaux de Vos | 44.00% | ~225 |
+| Curious and Beautiful | 43.00% | ~220 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~220 |
+| The Interrogations | 43.00% | ~220 |
+| Well-acquainted | 41.00% | ~210 |
+| Zakariya Demir | 41.00% | ~210 |
 | Well-read | 39.00% | ~199 |
 | Cassandra Van den Bosch | 37.00% | ~189 |
 | The Secret | 37.00% | ~189 |
-| Gedeon Demir | 35.00% | ~178 |
-| Rehana Piette | 34.00% | ~173 |
-| Instinct is Marvellous | 33.00% | ~168 |
-| Ernesto da Silva | 33.00% | ~168 |
+| Gedeon Demir | 35.00% | ~179 |
+| Rehana Piette | 34.00% | ~174 |
+| Instinct is Marvellous | 33.00% | ~169 |
+| Ernesto da Silva | 33.00% | ~169 |
 | Inge Frank | 31.00% | ~158 |
 | The Search | 31.00% | ~158 |
 | Hugo Beckers | 30.00% | ~153 |
@@ -52,7 +52,7 @@ Rating: 4.38 (Ranked 801)
 | Room with a View | 8.00% | ~41 |
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 510 (Ranked 360)  
+Progressed: 511 (Ranked 360)  
 Completed: 8 (1.57%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 8 (1.57%) (Ranked 154)
 | 2024-01-21 | 509 | 7 |
 | 2024-01-22 | 510 | 7 |
 | 2024-01-24 | 510 | 8 |
+| 2024-01-25 | 511 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

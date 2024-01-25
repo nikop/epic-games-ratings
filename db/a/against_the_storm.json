@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4085,7 +4085,7 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 21007,
+  "EOS_Progressed": 21008,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -20500,6 +20500,11 @@
       "Time": "2024-01-25T14:09:49.4806333+00:00",
       "NumProgressed": 21007,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-25T15:09:15.8478897+00:00",
+      "NumProgressed": 21008,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20800,7 +20805,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "WinPrestige10",
@@ -20952,7 +20957,7 @@
       "Name": "Ominous Presence",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "WinNearStorms",
@@ -20960,7 +20965,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20983,15 +20988,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 21007,
+      "Progressed": 21008,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-24T20:59:33.5803494+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:09:49.480633+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:09:15.8478895+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:00:11.9395721+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:09:49.4807501+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:24.5448781+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:09:15.8480135+00:00"
 }

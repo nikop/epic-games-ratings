@@ -6,24 +6,24 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,279 |
-| Lost and Found | 9.00% | ~767 |
+| Malpractice Assurance | 15.00% | ~1,280 |
+| Lost and Found | 9.00% | ~768 |
 | Autodidact | 8.00% | ~10,693 |
-| This guy... again? | 8.00% | ~682 |
+| This guy... again? | 8.00% | ~683 |
 | Serenity Now! | 7.00% | ~9,356 |
 | This Belongs in a Museum | 7.00% | ~9,356 |
 | Creep and Sleep | 7.00% | ~9,356 |
 | Overdue Notice | 7.00% | ~9,356 |
 | Ploughshares to Swords | 7.00% | ~597 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,019 |
-| It Rings a Bell | 6.00% | ~8,019 |
-| Meat and Greet | 6.00% | ~8,019 |
-| Catch and Decease | 6.00% | ~8,019 |
-| Escape from the Black Hole | 6.00% | ~8,019 |
-| It Happens | 6.00% | ~8,019 |
-| Rush Hour | 6.00% | ~8,019 |
-| To Grandmother's House | 6.00% | ~8,019 |
-| FNG | 6.00% | ~8,019 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,020 |
+| It Rings a Bell | 6.00% | ~8,020 |
+| Meat and Greet | 6.00% | ~8,020 |
+| Catch and Decease | 6.00% | ~8,020 |
+| Escape from the Black Hole | 6.00% | ~8,020 |
+| It Happens | 6.00% | ~8,020 |
+| Rush Hour | 6.00% | ~8,020 |
+| To Grandmother's House | 6.00% | ~8,020 |
+| FNG | 6.00% | ~8,020 |
 | Bloody Graduation | 6.00% | ~512 |
 | Not Today! | 5.00% | ~6,683 |
 | Merry Time | 5.00% | ~6,683 |
@@ -31,24 +31,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,683 |
 | A Place to Lay Your Head | 5.00% | ~6,683 |
 | Nope | 5.00% | ~6,683 |
-| Friends 'Til the End | 5.00% | ~426 |
-| Resurrection | 4.00% | ~5,346 |
-| Unleash Hell | 4.00% | ~5,346 |
-| Funny Guy | 4.00% | ~5,346 |
-| Long Live the King | 4.00% | ~5,346 |
-| Wyrdly Reconstructed | 4.00% | ~5,346 |
-| Boxcar Kid | 4.00% | ~5,346 |
-| Unfulfilled Desires | 4.00% | ~5,346 |
-| Dissector | 4.00% | ~5,346 |
-| Banishment | 4.00% | ~5,346 |
-| Deprogramming | 4.00% | ~5,346 |
-| Now Stay Dead | 4.00% | ~5,346 |
-| Reverse Banditry | 4.00% | ~5,346 |
-| Spelunker | 4.00% | ~5,346 |
-| Ramble On | 4.00% | ~5,346 |
-| A Clear Conscience | 4.00% | ~5,346 |
-| Unshackled | 4.00% | ~5,346 |
-| Road Trip | 4.00% | ~5,346 |
+| Friends 'Til the End | 5.00% | ~427 |
+| Resurrection | 4.00% | ~5,347 |
+| Unleash Hell | 4.00% | ~5,347 |
+| Funny Guy | 4.00% | ~5,347 |
+| Long Live the King | 4.00% | ~5,347 |
+| Wyrdly Reconstructed | 4.00% | ~5,347 |
+| Boxcar Kid | 4.00% | ~5,347 |
+| Unfulfilled Desires | 4.00% | ~5,347 |
+| Dissector | 4.00% | ~5,347 |
+| Banishment | 4.00% | ~5,347 |
+| Deprogramming | 4.00% | ~5,347 |
+| Now Stay Dead | 4.00% | ~5,347 |
+| Reverse Banditry | 4.00% | ~5,347 |
+| Spelunker | 4.00% | ~5,347 |
+| Ramble On | 4.00% | ~5,347 |
+| A Clear Conscience | 4.00% | ~5,347 |
+| Unshackled | 4.00% | ~5,347 |
+| Road Trip | 4.00% | ~5,347 |
 | Hope Rekindled | 3.00% | ~4,010 |
 | Predator | 3.00% | ~4,010 |
 | When You Want Something Done Right | 3.00% | ~4,010 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,658 (Ranked 92)  
+Progressed: 133,664 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,15 +356,15 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,658 | 5 |
+| 2024-01-25 | 133,664 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
-Sum: 21,856 (Ranked 60)  
+Sum: 21,860 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,073 |
-| This game has Diverse Characters | 1,886 |
+| This game has Diverse Characters | 1,890 |
 | This game has Challenging Combat | 1,696 |
 | This game is Highly Recommended | 1,618 |
 | This game has Amazing Characters | 1,546 |
@@ -740,3 +740,4 @@ Diff (max vs sum): -8
 | 2024-01-22 | 4.69 | - | 8,062 | 21,824 |
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
 | 2024-01-24 | 4.69 | - | 8,073 | 21,856 |
+| 2024-01-25 | 4.69 | - | 8,073 | 21,860 |

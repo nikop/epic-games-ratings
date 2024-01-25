@@ -25,8 +25,8 @@
 | The End | 12.00% | ~15 |
 | Good Deed | 12.00% | ~15 |
 | Music Collector | 10.00% | ~12 |
+| Cooking Maestro | 9.00% | ~11 |
 | Pro Explorers | 9.00% | ~11 |
-| Cooking Maestro | 8.00% | ~10 |
 | Ultimate Team! | 8.00% | ~10 |
 | Gamer | 7.00% | ~8 |
 | Field Researcher | 7.00% | ~8 |

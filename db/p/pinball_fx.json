@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2329,9 +2329,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 298335,
+  "EOS_Progressed": 298347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2003,
+  "EOS_NewPlayers": 2004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34519,6 +34519,11 @@
       "Time": "2024-01-25T14:07:27.8277343+00:00",
       "NumProgressed": 298335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T15:07:27.0311324+00:00",
+      "NumProgressed": 298347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -34770,7 +34775,7 @@
       "Name": "Catomic Bomb",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -34778,7 +34783,7 @@
       "Name": "Terraformer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -34786,7 +34791,7 @@
       "Name": "The Captain",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -34802,7 +34807,7 @@
       "Name": "Battle of Cardassia",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -34810,7 +34815,7 @@
       "Name": "Did It for the Dowry",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -34834,28 +34839,28 @@
       "Name": "End of Gloom",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 298335,
+      "Progressed": 298347,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 16494,
+      "Progressed": 16506,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-25T12:03:35.3730743+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:07:27.827734+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:07:27.0311321+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.8694902+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:04:11.6832127+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:07:27.8278764+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:04:02.2601338+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:07:27.0312687+00:00"
 }

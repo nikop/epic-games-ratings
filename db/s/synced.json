@@ -1929,9 +1929,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90375,
+  "EOS_Progressed": 90378,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1801,
+  "EOS_NewPlayers": 1788,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18154,6 +18154,11 @@
       "Time": "2024-01-25T14:09:03.4192755+00:00",
       "NumProgressed": 90375,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-25T15:08:26.259263+00:00",
+      "NumProgressed": 90378,
+      "NumCompleted": 77
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18166,7 +18171,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42476
+      "UsersEstimate": 42478
     },
     {
       "ID": "10",
@@ -18262,7 +18267,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "7",
@@ -18270,7 +18275,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24401
+      "UsersEstimate": 24402
     },
     {
       "ID": "8",
@@ -18293,7 +18298,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90375,
+      "Progressed": 90378,
       "Completed": 77
     }
   ],
@@ -18301,8 +18306,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-25T13:06:04.9842638+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:09:03.4192751+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:08:26.2592626+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:00:02.0486004+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:09:03.41938+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:14.2497029+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:08:26.2593423+00:00"
 }

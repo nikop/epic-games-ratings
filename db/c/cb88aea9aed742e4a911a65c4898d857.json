@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12210,
+  "EOS_Progressed": 12213,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6142,6 +6142,11 @@
       "Time": "2024-01-25T14:11:45.7571313+00:00",
       "NumProgressed": 12210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T15:11:19.0477049+00:00",
+      "NumProgressed": 12213,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6154,7 +6159,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "03_TheStolenStar",
@@ -6186,7 +6191,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "07_TheGrandFinale",
@@ -6242,7 +6247,7 @@
       "Name": "Doom Trader",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -6258,7 +6263,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "16_TheRise",
@@ -6290,7 +6295,7 @@
       "Name": "Void Wolf",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6298,7 +6303,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "21_PreciseDefense",
@@ -6370,7 +6375,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "30_The GreatestExploration",
@@ -6378,7 +6383,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "31_DontTouchThis",
@@ -6402,7 +6407,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6410,7 +6415,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6466,7 +6471,7 @@
       "Name": "Jungle Heat",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6474,7 +6479,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6673,7 +6678,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12210,
+      "Progressed": 12213,
       "Completed": 1
     }
   ],
@@ -6681,8 +6686,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:11:45.7571311+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:11:19.0477046+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:00:18.3746352+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:11:45.757209+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:31.2966417+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:11:19.0477669+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1b1c2f4fdabf4227b124d45d3e79d33e",
   "Name": "For The Warp",
   "ProductSlug": "for-the-warp-b5c468",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-11T12:00:00+00:00",
     "PcReleaseDate": "2022-03-28T11:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-20T03:00:01.0437669+00:00",
   "LastUpdate_AppInfo": "2024-01-24T23:57:01.5494873+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:57:44.6027061+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:10:05.9023585+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:57:49.852699+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:09:32.8565288+00:00"
 }

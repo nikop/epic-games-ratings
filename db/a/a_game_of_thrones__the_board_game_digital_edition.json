@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34288,
+  "EOS_Progressed": 34290,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31647,6 +31647,11 @@
       "Time": "2024-01-25T14:11:29.8098643+00:00",
       "NumProgressed": 34288,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-25T15:11:02.2826056+00:00",
+      "NumProgressed": 34290,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31786,7 +31791,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4457
+      "UsersEstimate": 4458
     },
     {
       "ID": "1032",
@@ -31794,7 +31799,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13715
+      "UsersEstimate": 13716
     },
     {
       "ID": "1033",
@@ -31833,15 +31838,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34288,
+      "Progressed": 34290,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:11:29.8098641+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:11:02.2826054+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:59:00.5542758+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:11:29.8100188+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:59:09.3700035+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:11:02.2827156+00:00"
 }

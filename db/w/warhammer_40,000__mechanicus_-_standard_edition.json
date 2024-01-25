@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 233045,
+  "EOS_Progressed": 233049,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31912,6 +31912,11 @@
       "Time": "2024-01-25T13:17:25.6194169+00:00",
       "NumProgressed": 233045,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-25T15:11:11.1321471+00:00",
+      "NumProgressed": 233049,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31923,7 +31928,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46609
+      "UsersEstimate": 46610
     },
     {
       "ID": "ACH_BASE_10",
@@ -31931,7 +31936,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60592
+      "UsersEstimate": 60593
     },
     {
       "ID": "ACH_BASE_11",
@@ -31963,7 +31968,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23304
+      "UsersEstimate": 23305
     },
     {
       "ID": "ACH_BASE_16",
@@ -31971,7 +31976,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23304
+      "UsersEstimate": 23305
     },
     {
       "ID": "ACH_BASE_17",
@@ -31987,7 +31992,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23304
+      "UsersEstimate": 23305
     },
     {
       "ID": "ACH_BASE_19",
@@ -32194,7 +32199,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 233045,
+      "Progressed": 233049,
       "Completed": 5
     }
   ],
@@ -32202,8 +32207,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-22T21:01:37.0351842+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:11:38.0960593+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:11:11.1321468+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:58:50.7132271+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:11:38.0962304+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:58:58.8558524+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:11:11.132295+00:00"
 }

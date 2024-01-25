@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4616,
+  "EOS_Progressed": 4618,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -6039,6 +6039,11 @@
       "Time": "2024-01-25T14:05:55.5419803+00:00",
       "NumProgressed": 4616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T15:05:50.918357+00:00",
+      "NumProgressed": 4618,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -6235,7 +6240,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6251,7 +6256,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6426,20 +6431,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4616,
+      "Progressed": 4618,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 394,
-      "Completed": 394
+      "Progressed": 396,
+      "Completed": 396
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:05:55.5419801+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:05:50.9183567+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:08.5926908+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:03:12.5347617+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:05:55.542029+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:02:59.6186063+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:05:50.9184112+00:00"
 }

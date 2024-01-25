@@ -2,10 +2,10 @@
   "ID": "8cb3ec36042f4044aa46e16fb0e60875",
   "Name": "Hysteria in Howlsbend",
   "ProductSlug": "hysteria-in-howlsbend-bfaf38",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-31T16:30:00+00:00",
     "PcReleaseDate": "2023-08-31T16:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-01T01:43:16.9619976+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:18.3895604+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:57:44.7973721+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:11:15.5635393+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:57:50.0369535+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:10:47.0692804+00:00"
 }

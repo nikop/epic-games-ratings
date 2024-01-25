@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,026 |
-| Hotel California | 10.00% | ~80,933 |
-| Break A Leg | 9.00% | ~72,839 |
-| Coup de Grâce | 8.00% | ~64,746 |
-| Hazardous Materials | 8.00% | ~64,746 |
-| Git Gutte! | 7.00% | ~56,653 |
-| Apex Predator | 7.00% | ~56,653 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,653 |
+| Welcome To Hell-A | 11.00% | ~89,027 |
+| Hotel California | 10.00% | ~80,934 |
+| Break A Leg | 9.00% | ~72,841 |
+| Coup de Grâce | 8.00% | ~64,747 |
+| Hazardous Materials | 8.00% | ~64,747 |
+| Git Gutte! | 7.00% | ~56,654 |
+| Apex Predator | 7.00% | ~56,654 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,654 |
 | Dr. Reed, I Presume? | 6.00% | ~48,560 |
 | Bookworm | 6.00% | ~48,560 |
 | Friends Like These | 6.00% | ~48,560 |
 | Stacking the Deck | 6.00% | ~48,560 |
 | This is My Weapon | 6.00% | ~48,560 |
-| Anger Management | 5.00% | ~40,466 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,466 |
-| But Doctor, I am Butcho | 5.00% | ~40,466 |
-| Can't Handle the Truth | 5.00% | ~40,466 |
-| Like Riding a Bike | 5.00% | ~40,466 |
-| A Patton Emerges | 5.00% | ~40,466 |
-| Making Your Mark | 4.00% | ~32,373 |
-| Perks of the Job | 4.00% | ~32,373 |
-| Slayer Squad | 4.00% | ~32,373 |
-| Zombologist | 4.00% | ~32,373 |
-| Ooh, Shiny! | 4.00% | ~32,373 |
-| I Am the Resurrection | 4.00% | ~32,373 |
-| Our True Nature | 4.00% | ~32,373 |
+| Anger Management | 5.00% | ~40,467 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,467 |
+| But Doctor, I am Butcho | 5.00% | ~40,467 |
+| Can't Handle the Truth | 5.00% | ~40,467 |
+| Like Riding a Bike | 5.00% | ~40,467 |
+| A Patton Emerges | 5.00% | ~40,467 |
+| Making Your Mark | 4.00% | ~32,374 |
+| Perks of the Job | 4.00% | ~32,374 |
+| Slayer Squad | 4.00% | ~32,374 |
+| Zombologist | 4.00% | ~32,374 |
+| Ooh, Shiny! | 4.00% | ~32,374 |
+| I Am the Resurrection | 4.00% | ~32,374 |
+| Our True Nature | 4.00% | ~32,374 |
 | Whatever It Takes | 4.00% | ~5,395 |
 | Pork Chopped | 4.00% | ~5,395 |
 | Jumbo Keyring | 3.00% | ~24,280 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,327 (Ranked 23)  
+Progressed: 809,339 (Ranked 23)  
 Completed: 2,633 (0.33%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,14 +337,14 @@ Completed: 2,633 (0.33%) (Ranked 262)
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
-| 2024-01-25 | 809,327 | 2,633 |
+| 2024-01-25 | 809,339 | 2,633 |
 ## Awards
-Max (Great Boss Battles): 10,888  (Ranked 40)  
-Sum: 16,783 (Ranked 68)  
-Diff (max vs sum): -28  
+Max (Great Boss Battles): 10,927  (Ranked 39)  
+Sum: 16,822 (Ranked 68)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 10,888 |
+| This game has Great Boss Battles | 10,927 |
 | This game is Great for Beginners | 859 |
 | This game has Diverse Characters | 810 |
 | This game has Quickly Understood Controls | 763 |
@@ -635,4 +635,4 @@ Diff (max vs sum): -28
 | 2024-01-22 | 4.54 | 10,811 | 16,633 |
 | 2024-01-23 | 4.54 | 10,850 | 16,700 |
 | 2024-01-24 | 4.54 | 10,888 | 16,780 |
-| 2024-01-25 | 4.54 | 10,888 | 16,783 |
+| 2024-01-25 | 4.54 | 10,927 | 16,822 |

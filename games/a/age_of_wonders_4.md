@@ -26,11 +26,11 @@ Rating: 4.63 (Ranked 361)
 | Digging for Treasure | 5.00% | ~365 |
 | Against the Odds | 5.00% | ~365 |
 | Impenetrable Fortress | 5.00% | ~365 |
+| Crimson Caldera | 4.00% | ~292 |
 | Preparation Is Everything | 4.00% | ~292 |
 | Fiery Friend | 4.00% | ~292 |
 | Arch Mage | 3.00% | ~219 |
 | The Creator | 3.00% | ~219 |
-| Crimson Caldera | 3.00% | ~219 |
 | Here be Dragons | 3.00% | ~219 |
 | Tipping the Scales | 3.00% | ~219 |
 | Mighty Hoard | 3.00% | ~219 |

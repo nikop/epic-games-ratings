@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3717,
+  "EOS_Progressed": 3719,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9362,6 +9362,11 @@
       "Time": "2024-01-25T13:15:24.4925019+00:00",
       "NumProgressed": 3717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T15:08:36.3047783+00:00",
+      "NumProgressed": 3719,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9374,7 +9379,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9382,7 +9387,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9582,7 +9587,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9662,7 +9667,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9670,7 +9675,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1860
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9678,7 +9683,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9726,7 +9731,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9765,7 +9770,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3717,
+      "Progressed": 3719,
       "Completed": 0
     }
   ],
@@ -9773,8 +9778,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:09:12.8476364+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:08:36.304778+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:59:29.9096919+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:09:12.8477151+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:59:40.2599849+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:08:36.3048419+00:00"
 }

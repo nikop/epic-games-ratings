@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2024-01-24T22:03:47.6813899+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T15:05:15.55815+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -890,7 +895,7 @@
       "Name": "Practice Makes Postmasters",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "completeFall",
@@ -914,7 +919,7 @@
       "Name": "You\u0027re Hired",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "completeSummer",
@@ -928,9 +933,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 125
     },
     {
       "ID": "findFirstCollectible",
@@ -938,7 +943,7 @@
       "Name": "A Startling Discovery",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "getABonusReward",
@@ -1001,13 +1006,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
@@ -1015,8 +1020,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:05:21.9439812+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:05:15.5581496+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.8229571+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:01:02.6301547+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:05:21.9439972+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:01:17.6897944+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:05:15.5581749+00:00"
 }

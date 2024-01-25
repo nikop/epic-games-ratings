@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1816,9 +1816,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -2040,9 +2040,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "FINDMAP",
@@ -2160,8 +2160,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:09:04.8876028+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:08:27.8126117+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:58:04.1689942+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:09:04.8876429+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:58:10.2546081+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:08:27.8126531+00:00"
 }

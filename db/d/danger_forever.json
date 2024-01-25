@@ -2,10 +2,10 @@
   "ID": "71f7cd0a8925454e839dae8ed68cb840",
   "Name": "Danger Forever",
   "ProductSlug": "danger-forever-a10e7e",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-11-01T04:00:00+00:00",
     "PcReleaseDate": "2022-11-01T04:00:00+00:00",
@@ -52,8 +52,8 @@
   "FirstSeenRating": "2023-03-31T05:57:54.9787391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:27.1450969+00:00",
   "LastChanged": "2023-03-31T05:57:54.9787392+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:10:22.0475832+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:09:50.3032579+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:46.7862262+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:59:51.9314954+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:10:22.0475851+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:03.6021895+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:09:50.3032594+00:00"
 }

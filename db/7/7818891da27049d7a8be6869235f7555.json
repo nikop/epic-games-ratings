@@ -2,10 +2,10 @@
   "ID": "7818891da27049d7a8be6869235f7555",
   "Name": "Daymare: 1994 Sandcastle",
   "ProductSlug": "daymare-1994-sandcastle-eb41d5",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-30T13:00:00+00:00",
     "PcReleaseDate": "2023-08-30T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-01T05:57:24.0685372+00:00",
   "LastUpdate_AppInfo": "2024-01-25T04:56:54.0866351+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:57:23.2825602+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:09:34.3785626+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:57:27.3600518+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:08:59.816703+00:00"
 }

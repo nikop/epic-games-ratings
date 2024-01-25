@@ -2,10 +2,10 @@
   "ID": "385946aba28e445f990b57c8b706a9ba",
   "Name": null,
   "ProductSlug": "replikant-44c22a",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T16:57:06.7282583+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:58:02.4498948+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:04:55.9810844+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:58:08.4036167+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:04:49.4763051+00:00"
 }

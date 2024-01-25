@@ -4,11 +4,11 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 386,
   "Ranking_Popularity": 104,
-  "Ranking_PopularitySum": 71,
-  "Ranking_EOS_Progress": 849,
+  "Ranking_PopularitySum": 70,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -12353,10 +12353,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 16543,
       "NumberOfAwardsMax": 3231
+    },
+    {
+      "Time": "2024-01-25T15:03:34.8749525+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 16558,
+      "NumberOfAwardsMax": 3231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16543,
+  "NumberOfAwards": 16558,
   "NumberOfAwardsMax": 3231,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12394,7 +12400,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1432
+      "Count": 1441
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12412,7 +12418,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1163
+      "Count": 1169
     },
     {
       "Text": "This game is Relaxing",
@@ -12447,9 +12453,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-01-25T14:03:45.8369292+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:09:47.1142279+00:00",
+  "LastChanged": "2024-01-25T15:03:34.8749523+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:09:13.2194655+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.5249412+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:03:45.8369298+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:09:47.1142323+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:03:34.8749529+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:09:13.2194685+00:00"
 }

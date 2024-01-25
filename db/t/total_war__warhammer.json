@@ -3,12 +3,12 @@
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
   "Ranking_Rating": 475,
-  "Ranking_Popularity": 61,
+  "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 74,
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
     "PcReleaseDate": "2016-05-24T11:08:48+00:00",
@@ -8068,6 +8068,6 @@
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
   "LastChanged": "2024-01-25T11:00:32.2589103+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:28.3557155+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:00:45.6655908+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:05:51.8371355+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:59.6400896+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:05:46.873074+00:00"
 }

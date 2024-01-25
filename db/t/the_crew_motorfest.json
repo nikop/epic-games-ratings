@@ -2,13 +2,13 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 327,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 140,
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -4701,10 +4701,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 5918,
       "NumberOfAwardsMax": 828
+    },
+    {
+      "Time": "2024-01-25T15:03:50.0741722+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 5930,
+      "NumberOfAwardsMax": 828
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5918,
+  "NumberOfAwards": 5930,
   "NumberOfAwardsMax": 828,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4712,7 +4718,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 705
+      "Count": 712
     },
     {
       "Text": "This game is Relaxing",
@@ -4760,7 +4766,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 777
+      "Count": 782
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4787,8 +4793,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2024-01-25T00:03:08.1912921+00:00",
+  "LastChanged": "2024-01-25T15:03:50.074172+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.7592738+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:03:59.9884755+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:10:45.9535432+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:03:50.0741726+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:10:15.6304612+00:00"
 }

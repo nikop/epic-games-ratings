@@ -15,9 +15,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 8.00% | ~1,681 |
 | Coral Forest | 8.00% | ~1,681 |
 | The Marshlands | 8.00% | ~1,681 |
-| The Scarlet Orchard | 7.00% | ~1,470 |
-| Ominous Presence | 7.00% | ~1,470 |
-| Gathering Storm | 7.00% | ~1,470 |
+| The Scarlet Orchard | 7.00% | ~1,471 |
+| Ominous Presence | 7.00% | ~1,471 |
+| Gathering Storm | 7.00% | ~1,471 |
 | Frosts | 6.00% | ~1,260 |
 | Land of Greed | 6.00% | ~1,260 |
 | Homesick | 5.00% | ~1,050 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,007 (Ranked 157)  
+Progressed: 21,008 (Ranked 157)  
 Completed: 36 (0.17%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 36 (0.17%) (Ranked 296)
 | 2024-01-22 | 20,975 | 34 |
 | 2024-01-23 | 20,986 | 34 |
 | 2024-01-24 | 20,998 | 34 |
-| 2024-01-25 | 21,007 | 36 |
+| 2024-01-25 | 21,008 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 458  (Ranked 233)  
 Sum: 3,414 (Ranked 180)  

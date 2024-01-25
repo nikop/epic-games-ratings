@@ -2,10 +2,10 @@
   "ID": "151ce8ede0d148f2bf2b868f1c25fac0",
   "Name": "Beyond These Stars",
   "ProductSlug": "beyond-these-stars-a5b977",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.064009+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:00:11.1980648+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:05:08.0576261+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:23.7148482+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:05:02.1161347+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c55698c1101c4c9e9b1448e08bd29be2",
   "Name": "Prospect",
   "ProductSlug": "prospect-a438ca",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.3871677+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:00:21.5734144+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:09:24.519966+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:34.618159+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:08:49.2401174+00:00"
 }

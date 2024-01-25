@@ -31,10 +31,10 @@ Rating: 3.96 (Ranked 1,072)
 | Savvy Seeker | 0.60% | ~562 |
 | Olympus Ascended | 0.60% | ~562 |
 | Ding Dong | 0.60% | ~562 |
+| Cracked the Jack | 0.50% | ~468 |
 | All that Glitters | 0.50% | ~110 |
 | Rockay Raider | 0.40% | ~374 |
 | Groundhog Days | 0.40% | ~374 |
-| Cracked the Jack | 0.40% | ~374 |
 | Classy Joint | 0.40% | ~374 |
 | Rockay Knight | 0.30% | ~281 |
 | Privateer | 0.30% | ~281 |

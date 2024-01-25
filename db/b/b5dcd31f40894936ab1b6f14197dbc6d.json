@@ -2,10 +2,10 @@
   "ID": "b5dcd31f40894936ab1b6f14197dbc6d",
   "Name": "Lucky Tower Ultimate",
   "ProductSlug": "lucky-tower-ultimate-aa04de",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T16:57:14.5682169+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:57:38.7433929+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:04:28.297512+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:57:43.741437+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:04:21.0264404+00:00"
 }

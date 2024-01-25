@@ -2,10 +2,10 @@
   "ID": "36392e8ef45f461a99ef6f3015fa2f66",
   "Name": "StrayShot",
   "ProductSlug": "strayshot-2ad9a8",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T13:03:07.1786848+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:58:10.8125792+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:04:56.9606474+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:58:16.9867398+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:04:50.4181586+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9d14aa079d6247ea83dcbc8879b90380",
   "Name": "Ninja Chowdown: Glaze of Glory",
   "ProductSlug": "ninja-chowdown-48113a",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -32,7 +32,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2024-01-18T14:57:11.8114262+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:57:51.9720455+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:04:22.9082542+00:00"
+  "LastUpdate_AppInfo": "2024-01-25T14:57:17.3763385+00:00",
+  "LastUpdate_Ratings": "2024-01-25T14:57:57.4762492+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:04:15.3301457+00:00"
 }

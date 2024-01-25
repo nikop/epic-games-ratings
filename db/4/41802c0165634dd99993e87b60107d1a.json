@@ -2,10 +2,10 @@
   "ID": "41802c0165634dd99993e87b60107d1a",
   "Name": "The Casting of Frank Stone\u2122",
   "ProductSlug": "the-casting-of-frank-stone-09928b",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T01:51:35.4952936+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:05:18.0361593+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:05:11.2690271+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:11.6891292+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:02:47.5302942+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:05:18.0361619+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:02:03.5352881+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:05:11.2690289+00:00"
 }

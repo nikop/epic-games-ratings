@@ -2,10 +2,10 @@
   "ID": "0e0eba68a67d420394559f82e054dfc1",
   "Name": "Queens Wish: The Conqueror",
   "ProductSlug": "queens-wish-the-conqueror-70494a",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-06-01T13:00:00+00:00",
     "PcReleaseDate": "2019-09-11T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.5030137+00:00",
   "LastChanged": "2023-03-31T05:57:57.5030138+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.4509873+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:01:13.4910486+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:04:27.6728679+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:01:29.0471246+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:04:20.2826685+00:00"
 }

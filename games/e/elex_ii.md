@@ -7,13 +7,13 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~131 |
-| Best Buddy | 38.00% | ~111 |
+| Best Buddy | 39.00% | ~113 |
 | Role Model | 36.00% | ~105 |
 | Civilian | 36.00% | ~105 |
 | Creator | 33.00% | ~96 |
 | Military Leader | 31.00% | ~90 |
 | Festival-goer | 29.00% | ~84 |
-| Peddler | 26.00% | ~76 |
+| Peddler | 27.00% | ~79 |
 | Commander | 26.00% | ~76 |
 | Irissa's Fate | 23.00% | ~67 |
 | Long-Haul Flyer | 22.00% | ~64 |

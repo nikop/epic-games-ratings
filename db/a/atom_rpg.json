@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -4983,9 +4983,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 619
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -5127,8 +5127,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-25T14:11:39.8649901+00:00",
+  "LastChanged_Achievements": "2024-01-25T15:11:12.9469043+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.2672243+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:01:06.7916494+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:11:39.8650338+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:01:22.0764816+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:11:12.9469457+00:00"
 }

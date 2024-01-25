@@ -2,10 +2,10 @@
   "ID": "f8fbf34cb4b64e9ca4e6702f8abcefe1",
   "Name": "Zero Conflict TD",
   "ProductSlug": "zero-conflict-td-3e5c49",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-09T11:00:00+00:00",
     "PcReleaseDate": "2023-10-09T11:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T05:57:18.9063838+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:59:44.0479089+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:10:41.5325142+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:59:55.2083618+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:10:10.8622135+00:00"
 }

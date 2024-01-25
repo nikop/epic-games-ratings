@@ -5,23 +5,23 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,910 |
-| Feeling the beat! | 56.00% | ~9,910 |
-| You can pet the cat! | 51.00% | ~9,025 |
-| Who put gears in there? | 42.00% | ~7,433 |
-| Cream of the Crop | 37.00% | ~6,548 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,371 |
-| You got this, Peppermint? | 32.00% | ~5,663 |
-| Perfect Parry | 30.00% | ~5,309 |
-| Alright, that felt AWESOME! | 29.00% | ~5,132 |
-| I play my own way! | 25.00% | ~4,424 |
-| This will cost you big time | 24.00% | ~4,247 |
-| Uh, they were broken when I got here | 24.00% | ~4,247 |
-| Z-shielding's got nothing on us! | 22.00% | ~3,893 |
-| Kissing the sky! | 21.00% | ~3,716 |
-| Whoa! There's ANOTHER health bar!? | 19.00% | ~3,362 |
-| The Negotiator | 18.00% | ~3,185 |
-| Does that say weakpoint? | 18.00% | ~3,185 |
+| Start with a bang! | 56.00% | ~9,914 |
+| Feeling the beat! | 56.00% | ~9,914 |
+| You can pet the cat! | 51.00% | ~9,029 |
+| Who put gears in there? | 42.00% | ~7,435 |
+| Cream of the Crop | 37.00% | ~6,550 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,373 |
+| You got this, Peppermint? | 32.00% | ~5,665 |
+| Perfect Parry | 30.00% | ~5,311 |
+| Alright, that felt AWESOME! | 29.00% | ~5,134 |
+| I play my own way! | 25.00% | ~4,426 |
+| This will cost you big time | 24.00% | ~4,249 |
+| Uh, they were broken when I got here | 24.00% | ~4,249 |
+| Z-shielding's got nothing on us! | 22.00% | ~3,895 |
+| Kissing the sky! | 21.00% | ~3,718 |
+| Whoa! There's ANOTHER health bar!? | 19.00% | ~3,364 |
+| The Negotiator | 18.00% | ~3,187 |
+| Does that say weakpoint? | 18.00% | ~3,187 |
 | You must like calling me in, Chai | 16.00% | ~2,832 |
 | Headliner | 15.00% | ~2,655 |
 | Out in a puff of smoke | 15.00% | ~2,655 |
@@ -51,8 +51,8 @@ Rating: 4.85 (Ranked 39)
 | Easy Listening | 1.00% | ~177 |
 | OK, well THEY came after ME! | 0.90% | ~159 |
 | New bad guys? No problem! | 0.70% | ~114 |
-| Now this is how you fight like a team! | 0.50% | ~88 |
-| I am a good person who likes to help | 0.50% | ~88 |
+| Now this is how you fight like a team! | 0.50% | ~89 |
+| I am a good person who likes to help | 0.50% | ~89 |
 | Problem solved... wait, what? | 0.40% | ~71 |
 | Fully Powered Up! | 0.40% | ~71 |
 | With our powers combined…and to the rhythm… | 0.40% | ~71 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,697 (Ranked 168)  
+Progressed: 17,703 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 8 (0.05%) (Ranked 349)
 | 2024-01-22 | 17,609 | 8 |
 | 2024-01-23 | 17,642 | 8 |
 | 2024-01-24 | 17,683 | 8 |
-| 2024-01-25 | 17,697 | 8 |
+| 2024-01-25 | 17,703 | 8 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 498)  
 Sum: 38 (Ranked 537)  

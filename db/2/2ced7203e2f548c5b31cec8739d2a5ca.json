@@ -2,10 +2,10 @@
   "ID": "2ced7203e2f548c5b31cec8739d2a5ca",
   "Name": "Crime 1997",
   "ProductSlug": "crime-1997-b1b950",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-22T09:57:01.0060212+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:59:41.1703882+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:06:17.0411614+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:59:51.8146467+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:06:13.7046196+00:00"
 }

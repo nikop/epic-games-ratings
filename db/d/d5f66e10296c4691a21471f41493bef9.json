@@ -2,10 +2,10 @@
   "ID": "d5f66e10296c4691a21471f41493bef9",
   "Name": "Dirt Bicycle Rider Simulator",
   "ProductSlug": "dirt-bicycle-rider-simulator-19bff9",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-02T03:30:00+00:00",
     "PcReleaseDate": "2023-08-08T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T03:57:14.7626814+00:00",
   "LastUpdate_AppInfo": "2024-01-24T16:57:07.4634196+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:00:31.6621874+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:08:24.622619+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:00:45.0416903+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:07:44.6281875+00:00"
 }

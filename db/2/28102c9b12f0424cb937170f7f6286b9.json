@@ -2,10 +2,10 @@
   "ID": "28102c9b12f0424cb937170f7f6286b9",
   "Name": "Forgotten Runiverse",
   "ProductSlug": "forgotten-runiverse-bc8269",
-  "Ranking_EOS_Progress": 849,
+  "Ranking_EOS_Progress": 850,
   "Ranking_EOS_Completed": 410,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T21:57:15.0841715+00:00",
-  "LastUpdate_Ratings": "2024-01-25T14:03:33.2618435+00:00",
-  "LastUpdate_Achievements": "2024-01-25T14:04:24.2461073+00:00"
+  "LastUpdate_Ratings": "2024-01-25T15:03:21.4628032+00:00",
+  "LastUpdate_Achievements": "2024-01-25T15:04:16.6156625+00:00"
 }

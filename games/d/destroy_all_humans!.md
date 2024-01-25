@@ -20,10 +20,10 @@ Number of Ratings: 85  (23.09.2022)
 | Earthly Pleasures | 48.00% | ~276 |
 | Freshly Squeezed | 38.00% | ~218 |
 | Bodied Sattva | 38.00% | ~218 |
+| Forbidden Donut | 37.00% | ~212 |
 | Upgreatest | 37.00% | ~212 |
-| Forbidden Donut | 36.00% | ~207 |
+| Furon Fashion | 31.00% | ~178 |
 | Deincarnated | 30.00% | ~172 |
-| Furon Fashion | 30.00% | ~172 |
 | Rock of the Bay | 29.00% | ~166 |
 | Trans-Siberian Express | 26.00% | ~149 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~121 |
