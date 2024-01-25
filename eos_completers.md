@@ -27,7 +27,7 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.24% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.91% |
+| 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.56% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [The Riflemen](games/t/the_riflemen.md) | 15.12% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -40,7 +40,7 @@
 | 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.05% |
+| 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.04% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.75% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
@@ -137,8 +137,8 @@
 | 135 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
 | 136 | [Night Book](games/n/night_book.md) | 2.16% |
 | 137 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
-| 138 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.03% |
-| 139 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
+| 138 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
+| 138 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.01% |
 | 140 | [Strange House](games/s/strange_house.md) | 2.00% |
 | 141 | [Time on Frog Island](games/t/time_on_frog_island.md) | 1.96% |
 | 142 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
@@ -176,10 +176,10 @@
 | 174 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.09% |
 | 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 176 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.06% |
-| 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.05% |
 | 177 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
-| 180 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.04% |
+| 179 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.04% |
+| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.04% |
 | 181 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 181 | [Sable](games/s/sable.md) | 1.03% |
 | 183 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
@@ -789,6 +789,7 @@
 | 410 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
 | 410 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 0.00% |
 | 410 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
+| 410 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 0.00% |
 | 410 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
 | 410 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
 | 410 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 0.00% |
