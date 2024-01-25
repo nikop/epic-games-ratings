@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19290,
+  "EOS_Progressed": 19291,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18238,6 +18238,11 @@
       "Time": "2024-01-25T21:03:45.9244259+00:00",
       "NumProgressed": 19290,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-25T22:03:33.6169845+00:00",
+      "NumProgressed": 19291,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18338,7 +18343,7 @@
       "Name": "Data Logger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "20",
@@ -18378,7 +18383,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "25",
@@ -18458,7 +18463,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "7",
@@ -18529,13 +18534,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19290,
+      "Progressed": 19291,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5244,
+      "Progressed": 5245,
       "Completed": 1403
     }
   ],
@@ -18543,8 +18548,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:03:45.924425+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:03:33.616984+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:00:36.7858476+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:03:45.924511+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:00:16.1102119+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:03:33.6171179+00:00"
 }

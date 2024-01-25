@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -878,9 +878,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6466,
+  "EOS_Progressed": 6467,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13693,6 +13693,11 @@
       "Time": "2024-01-25T19:04:15.0766661+00:00",
       "NumProgressed": 6466,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T22:03:52.6530184+00:00",
+      "NumProgressed": 6467,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13737,7 +13742,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13888,15 +13893,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6466,
+      "Progressed": 6467,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:04:05.7499766+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:03:52.6530178+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:58:47.2557184+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:04:05.7500442+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:58:30.0386918+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:03:52.6530804+00:00"
 }

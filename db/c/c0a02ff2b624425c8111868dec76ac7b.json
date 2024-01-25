@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -824,6 +824,11 @@
       "Time": "2024-01-24T15:08:25.6632711+00:00",
       "NumProgressed": 185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T22:08:57.7898092+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -836,7 +841,7 @@
       "Name": "Adaptation",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ALL_COMBAT_SKILLS",
@@ -876,7 +881,7 @@
       "Name": "Angel",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_AVEN_UNLOCKED",
@@ -948,7 +953,7 @@
       "Name": "Absorption",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -1027,14 +1032,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:08:51.2150677+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:08:57.7898088+00:00",
   "LastUpdate_AppInfo": "2024-01-19T17:56:56.9144894+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:57:43.6107532+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:08:51.2150902+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:57:29.0340836+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:08:57.7898307+00:00"
 }

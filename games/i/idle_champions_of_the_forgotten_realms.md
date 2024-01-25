@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,781 |
-| Beast Intentions | 2.00% | ~5,112 |
-| The Cursed Farmer | 2.00% | ~5,112 |
-| The Mad Wizard | 2.00% | ~5,112 |
+| A Brief Tour of the Realms | 5.00% | ~12,782 |
+| Beast Intentions | 2.00% | ~5,113 |
+| The Cursed Farmer | 2.00% | ~5,113 |
+| The Mad Wizard | 2.00% | ~5,113 |
 | The Ring of Regeneration | 1.00% | ~2,556 |
 | Are Ya Chicken? | 1.00% | ~2,556 |
 | Were-verpowered | 0.90% | ~2,301 |
@@ -31,21 +31,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.50% | ~1,278 |
 | Exploring Port Nyanzaru | 0.50% | ~1,278 |
 | Escort to Waterdeep | 0.50% | ~1,278 |
-| The Overgrown Grove | 0.50% | ~1,109 |
-| When Tentacles Attack | 0.50% | ~1,109 |
-| Flames of Avernus | 0.50% | ~1,109 |
-| Mental Gymnastics | 0.50% | ~1,109 |
-| Don't Lose Your Head | 0.50% | ~1,109 |
-| Mind Spike | 0.50% | ~1,109 |
-| Low Initiative | 0.40% | ~1,022 |
-| March of the Undead | 0.40% | ~1,022 |
-| No Time To Rest | 0.40% | ~1,022 |
-| The Dinner Party | 0.40% | ~1,022 |
-| Running of the Saurs | 0.40% | ~1,022 |
-| Waterdeep Detours | 0.40% | ~1,022 |
-| Underdeep Cartography | 0.40% | ~1,022 |
-| Overdue Rendezvous | 0.40% | ~1,022 |
-| The Templar's Camp | 0.40% | ~1,022 |
+| The Overgrown Grove | 0.50% | ~1,110 |
+| When Tentacles Attack | 0.50% | ~1,110 |
+| Flames of Avernus | 0.50% | ~1,110 |
+| Mental Gymnastics | 0.50% | ~1,110 |
+| Don't Lose Your Head | 0.50% | ~1,110 |
+| Mind Spike | 0.50% | ~1,110 |
+| Low Initiative | 0.40% | ~1,023 |
+| March of the Undead | 0.40% | ~1,023 |
+| No Time To Rest | 0.40% | ~1,023 |
+| The Dinner Party | 0.40% | ~1,023 |
+| Running of the Saurs | 0.40% | ~1,023 |
+| Waterdeep Detours | 0.40% | ~1,023 |
+| Underdeep Cartography | 0.40% | ~1,023 |
+| Overdue Rendezvous | 0.40% | ~1,023 |
+| The Templar's Camp | 0.40% | ~1,023 |
 | Arcane Suppression | 0.40% | ~888 |
 | Welcome to the Vrocks | 0.40% | ~888 |
 | Misaligned in Sigil | 0.40% | ~888 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,619 (Ranked 71)  
+Progressed: 255,630 (Ranked 71)  
 Completed: 2,644 (1.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -833,10 +833,10 @@ Completed: 2,644 (1.03%) (Ranked 181)
 | 2024-01-22 | 255,224 | 2,633 |
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
-| 2024-01-25 | 255,619 | 2,644 |
+| 2024-01-25 | 255,630 | 2,644 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
-Sum: 33,640 (Ranked 42)  
+Sum: 33,643 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -844,7 +844,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,750 |
 | This game has Quickly Understood Controls | 4,923 |
 | This game is Relaxing | 4,799 |
-| This game is Highly Recommended | 4,347 |
+| This game is Highly Recommended | 4,350 |
 | This game has Amazing Characters | 4,347 |
 | This game has Playful Visuals | 3,658 |
 ## Ratings History
@@ -1214,4 +1214,4 @@ Diff (max vs sum): 33
 | 2024-01-22 | 4.07 | - | 5,813 | 33,612 |
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
 | 2024-01-24 | 4.07 | - | 5,813 | 33,628 |
-| 2024-01-25 | 4.07 | - | 5,816 | 33,640 |
+| 2024-01-25 | 4.07 | - | 5,816 | 33,643 |

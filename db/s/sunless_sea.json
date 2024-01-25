@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44923,
+  "EOS_Progressed": 44929,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29586,6 +29586,11 @@
       "Time": "2024-01-25T21:04:25.0849399+00:00",
       "NumProgressed": 44923,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T22:04:10.8793963+00:00",
+      "NumProgressed": 44929,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29613,7 +29618,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7637
+      "UsersEstimate": 7638
     },
     {
       "ID": "ach_antiquarian10",
@@ -29637,7 +29642,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ach_contdrownie",
@@ -29669,7 +29674,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ach_cursestorm",
@@ -29717,7 +29722,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16172
+      "UsersEstimate": 16174
     },
     {
       "ID": "ach_die10",
@@ -29757,7 +29762,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ach_hunterskeep",
@@ -29773,7 +29778,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ach_ladylilac",
@@ -29797,7 +29802,7 @@
       "Name": "Pupil",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ach_legacyrival",
@@ -29805,7 +29810,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6290
     },
     {
       "ID": "ach_legacysalvager",
@@ -29813,7 +29818,7 @@
       "Name": "Salvager",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ach_legacyshipmate",
@@ -29829,7 +29834,7 @@
       "Name": "Open Your Ears",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ach_portbell",
@@ -29949,7 +29954,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8086
+      "UsersEstimate": 8087
     },
     {
       "ID": "ach_terror100",
@@ -29965,7 +29970,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "ach_undercurrent",
@@ -30028,15 +30033,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44923,
+      "Progressed": 44929,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:04:25.0849395+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:04:10.8793957+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:59:53.185166+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:04:25.0850976+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:33.3915097+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:04:10.8795267+00:00"
 }

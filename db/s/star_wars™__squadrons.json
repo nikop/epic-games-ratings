@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44214,
+  "EOS_Progressed": 44215,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1957,
+  "EOS_NewPlayers": 1947,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15174,6 +15174,11 @@
       "Time": "2024-01-25T19:10:50.2288633+00:00",
       "NumProgressed": 44214,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-25T22:10:16.939862+00:00",
+      "NumProgressed": 44215,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -15386,7 +15391,7 @@
       "Name": "Denied",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_33",
@@ -15410,7 +15415,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 42003
+      "UsersEstimate": 42004
     },
     {
       "ID": "achievement_36",
@@ -15561,7 +15566,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 44214,
+      "Progressed": 44215,
       "Completed": 3
     }
   ],
@@ -15569,8 +15574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:10:12.8715453+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:10:16.9398617+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.6990258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:03:31.2697624+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:10:12.8716277+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:03:18.6352046+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:10:16.9399563+00:00"
 }

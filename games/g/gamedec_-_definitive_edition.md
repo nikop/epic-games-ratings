@@ -1,22 +1,22 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~75,061 |
-| Powergamer | 27.00% | ~69,884 |
-| Write that down | 25.00% | ~64,708 |
-| Barely scratched the surface | 25.00% | ~64,708 |
-| Guns, lots of guns | 13.00% | ~33,648 |
+| I will finish what you started | 29.00% | ~75,062 |
+| Powergamer | 27.00% | ~69,886 |
+| Write that down | 25.00% | ~64,709 |
+| Barely scratched the surface | 25.00% | ~64,709 |
+| Guns, lots of guns | 13.00% | ~33,649 |
 | Collector | 12.00% | ~31,060 |
 | Elementary! | 9.00% | ~23,295 |
-| Griever | 8.00% | ~20,706 |
-| Pumpkin Jack | 8.00% | ~20,706 |
-| Wake up! | 8.00% | ~20,706 |
-| It's honest work | 7.00% | ~18,118 |
+| Griever | 8.00% | ~20,707 |
+| Pumpkin Jack | 8.00% | ~20,707 |
+| Wake up! | 8.00% | ~20,707 |
+| It's honest work | 7.00% | ~18,119 |
 | Me smart | 6.00% | ~15,530 |
 | Trash compactor | 6.00% | ~15,530 |
 | Valedictorian | 6.00% | ~15,530 |
@@ -43,7 +43,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,588 |
 | Take the blue pill | 1.00% | ~2,588 |
 | The power of three | 1.00% | ~2,588 |
-| Let's try another | 0.90% | ~2,329 |
+| Let's try another | 0.90% | ~2,330 |
 | It's blue, always blue | 0.80% | ~2,071 |
 | Home run | 0.80% | ~2,071 |
 | I have the high ground | 0.70% | ~1,812 |
@@ -52,14 +52,14 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~1,035 |
 | LET ME OUT! | 0.40% | ~1,035 |
 | Un-bear-able | 0.40% | ~1,035 |
-| Well-deserved reunion | 0.30% | ~776 |
+| Well-deserved reunion | 0.30% | ~777 |
 | Breaking the chains | 0.20% | ~518 |
 | Aren't you overthinking? | 0.20% | ~518 |
 | Take the red pill | 0.20% | ~518 |
 | This is the way | 0.20% | ~518 |
 | Memory 5 | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,830 (Ranked 70)  
+Progressed: 258,836 (Ranked 70)  
 Completed: 8 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 8 (0.00%) (Ranked 410)
 | 2024-01-22 | 258,615 | 8 |
 | 2024-01-23 | 258,690 | 8 |
 | 2024-01-24 | 258,769 | 8 |
-| 2024-01-25 | 258,830 | 8 |
+| 2024-01-25 | 258,836 | 8 |
 ## Awards
 Max (Character Customization): 99  (Ranked 387)  
 Sum: 99 (Ranked 477)  

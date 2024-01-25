@@ -4,7 +4,7 @@
   "ProductSlug": "party-monsterzz-f42535",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2024-01-25T18:06:02.1289359+00:00",
       "NumProgressed": 183,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T22:04:45.4359386+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-24T09:04:07.3513415+00:00",
@@ -883,9 +888,9 @@
       "ID": "Achievement_3",
       "SetID": "8556mdl",
       "Name": "Welcome to the party!",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 200,
-      "UsersEstimate": 170
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_4",
@@ -900,14 +905,14 @@
     {
       "ID": "8556mdl",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:05:02.5407477+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:04:45.4359383+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:11.4619056+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:59:14.608291+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:05:02.5407579+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:58:56.3250898+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:04:45.4359477+00:00"
 }

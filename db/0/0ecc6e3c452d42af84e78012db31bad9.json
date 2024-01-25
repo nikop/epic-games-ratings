@@ -2,7 +2,7 @@
   "ID": "0ecc6e3c452d42af84e78012db31bad9",
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
-  "Ranking_Rating": 1081,
+  "Ranking_Rating": 1082,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 209,
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5141,
+  "EOS_Progressed": 5142,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -13850,6 +13850,11 @@
       "Time": "2024-01-25T20:05:58.4672438+00:00",
       "NumProgressed": 5141,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-25T22:05:36.4773254+00:00",
+      "NumProgressed": 5142,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13965,7 +13970,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ach_no_boosters",
@@ -13981,14 +13986,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5141,
+      "Progressed": 5142,
       "Completed": 44
     }
   ],
@@ -13996,8 +14001,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:05:55.8778352+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:05:36.4773247+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:02.1944043+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:00:18.7608674+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:05:55.8778979+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:58.1500911+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:05:36.477407+00:00"
 }

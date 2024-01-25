@@ -917,9 +917,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 245028,
+  "EOS_Progressed": 245035,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22577,6 +22577,11 @@
       "Time": "2024-01-25T21:10:08.7018017+00:00",
       "NumProgressed": 245028,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T22:10:12.4111452+00:00",
+      "NumProgressed": 245035,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22645,7 +22650,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51456
+      "UsersEstimate": 51457
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22661,7 +22666,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12251
+      "UsersEstimate": 12252
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -22773,7 +22778,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34304
+      "UsersEstimate": 34305
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -22845,7 +22850,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61257
+      "UsersEstimate": 61259
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22860,7 +22865,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 245028,
+      "Progressed": 245035,
       "Completed": 0
     }
   ],
@@ -22868,8 +22873,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:10:08.7018011+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:10:12.4111449+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:00:01.3994123+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:10:08.7019747+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:41.2127398+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:10:12.4112491+00:00"
 }

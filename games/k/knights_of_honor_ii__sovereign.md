@@ -5,18 +5,18 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 16.00% | ~28 |
-| Hail to the King, Baby | 16.00% | ~28 |
-| Bring it on! | 14.00% | ~24 |
-| Help! Help! I’m being repressed | 14.00% | ~24 |
-| Path of Glory | 10.00% | ~17 |
+| Can’t Touch This | 15.00% | ~27 |
+| Hail to the King, Baby | 15.00% | ~27 |
+| Bring it on! | 14.00% | ~25 |
+| Help! Help! I’m being repressed | 14.00% | ~25 |
+| Path of Glory | 9.00% | ~16 |
 | There is no Nobility in Poverty | 9.00% | ~16 |
 | Full House | 8.00% | ~14 |
-| The finest merchandise this side of river Jordan | 7.00% | ~12 |
-| Playerxander the Great | 6.00% | ~10 |
-| They Got What They Deserved | 6.00% | ~10 |
-| Dinner Time | 5.00% | ~9 |
+| The finest merchandise this side of river Jordan | 7.00% | ~13 |
+| Playerxander the Great | 6.00% | ~11 |
+| They Got What They Deserved | 6.00% | ~11 |
 | Big Apple | 4.00% | ~7 |
+| Dinner Time | 4.00% | ~7 |
 | Do you read Sutter Cane? | 4.00% | ~7 |
 | What we’ve got here is failure to communicate | 4.00% | ~7 |
 | All the King's Men | 3.00% | ~5 |
@@ -28,21 +28,21 @@ Rating: 4.35 (Ranked 837)
 | Learn Me a Book | 3.00% | ~5 |
 | Pillars of the Earth | 3.00% | ~5 |
 | ‘Tis but a scratch | 3.00% | ~5 |
-| A Quiet Palace | 2.00% | ~3 |
-| Battle of the Four Armies | 2.00% | ~3 |
-| Blinded by Science | 2.00% | ~3 |
-| Cut-Me-Own-Throat | 2.00% | ~3 |
-| Forth, Eorlingas! | 2.00% | ~3 |
-| He made it out, but with an arrow in his back | 2.00% | ~3 |
-| I started a joke | 2.00% | ~3 |
-| Fight Another Day | 2.00% | ~3 |
-| Let Us Pray | 2.00% | ~3 |
-| Naught but a Seamless Victory | 2.00% | ~3 |
-| On the third day at dawn, look east | 2.00% | ~3 |
-| Scientia potentia es | 2.00% | ~3 |
-| The Magnificent Nine | 2.00% | ~3 |
-| Time to find India | 2.00% | ~3 |
-| Vlad the Impaler | 2.00% | ~3 |
+| A Quiet Palace | 2.00% | ~4 |
+| Battle of the Four Armies | 2.00% | ~4 |
+| Blinded by Science | 2.00% | ~4 |
+| Cut-Me-Own-Throat | 2.00% | ~4 |
+| Forth, Eorlingas! | 2.00% | ~4 |
+| He made it out, but with an arrow in his back | 2.00% | ~4 |
+| I started a joke | 2.00% | ~4 |
+| Fight Another Day | 2.00% | ~4 |
+| Let Us Pray | 2.00% | ~4 |
+| Naught but a Seamless Victory | 2.00% | ~4 |
+| On the third day at dawn, look east | 2.00% | ~4 |
+| Scientia potentia es | 2.00% | ~4 |
+| The Magnificent Nine | 2.00% | ~4 |
+| Time to find India | 2.00% | ~4 |
+| Vlad the Impaler | 2.00% | ~4 |
 | Crusader “you know what” | 1.00% | ~2 |
 | Fighting with Power and Steel | 1.00% | ~2 |
 | His All-Holiness | 1.00% | ~2 |
@@ -106,14 +106,14 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 453)  
+Progressed: 181 (Ranked 448)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
-| 2024-01-25 | 174 | 0 |
+| 2024-01-25 | 181 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

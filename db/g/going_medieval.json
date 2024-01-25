@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1721,9 +1721,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8085,
+  "EOS_Progressed": 8086,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17341,6 +17341,11 @@
       "Time": "2024-01-25T18:08:26.2839913+00:00",
       "NumProgressed": 8085,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-25T22:06:20.9024834+00:00",
+      "NumProgressed": 8086,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17360,7 +17365,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4285
+      "UsersEstimate": 4286
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -17392,7 +17397,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17400,7 +17405,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5902
+      "UsersEstimate": 5903
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17496,7 +17501,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17568,7 +17573,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3638
+      "UsersEstimate": 3639
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -17584,7 +17589,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4689
+      "UsersEstimate": 4690
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17592,22 +17597,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4285
+      "UsersEstimate": 4286
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8085,
+      "Progressed": 8086,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-24T18:59:09.0330203+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:06:41.742728+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:06:20.9024829+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.945305+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:59:55.5880777+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:06:41.7427976+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:35.6042376+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:06:20.9025714+00:00"
 }

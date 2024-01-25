@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126958,
+  "EOS_Progressed": 126969,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2462,
+  "EOS_NewPlayers": 2459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5940,6 +5940,11 @@
       "Time": "2024-01-25T21:06:11.58585+00:00",
       "NumProgressed": 126958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T22:05:51.5186222+00:00",
+      "NumProgressed": 126969,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -6016,7 +6021,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13965
+      "UsersEstimate": 13967
     },
     {
       "ID": "ACH_GROWNUP",
@@ -6024,7 +6029,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25392
+      "UsersEstimate": 25394
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -6048,7 +6053,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19044
+      "UsersEstimate": 19045
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -6104,7 +6109,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10157
+      "UsersEstimate": 10158
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -6120,7 +6125,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11426
+      "UsersEstimate": 11427
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -6216,7 +6221,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7617
+      "UsersEstimate": 7618
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -6231,7 +6236,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126958,
+      "Progressed": 126969,
       "Completed": 0
     }
   ],
@@ -6239,8 +6244,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:06:11.5858496+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:05:51.5186217+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:00:27.334106+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:06:11.5858993+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:00:06.4744125+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:05:51.5186705+00:00"
 }

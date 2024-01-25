@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2922,
+  "EOS_Progressed": 2923,
   "EOS_Completed": 272,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
@@ -8601,6 +8601,11 @@
       "Time": "2024-01-24T22:09:19.0059787+00:00",
       "NumProgressed": 2922,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2024-01-25T22:09:28.0209395+00:00",
+      "NumProgressed": 2923,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 12,
@@ -8636,7 +8641,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Jacques a Dit",
@@ -8644,7 +8649,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "Jakob",
@@ -8676,7 +8681,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8707,7 +8712,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2922,
+      "Progressed": 2923,
       "Completed": 272
     }
   ],
@@ -8715,8 +8720,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:09:22.9154293+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:09:28.020939+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:45.8788305+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:59:33.269055+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:09:22.9154797+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:13.868648+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:09:28.0209921+00:00"
 }

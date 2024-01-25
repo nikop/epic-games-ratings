@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37072,
+  "EOS_Progressed": 37073,
   "EOS_Completed": 366,
-  "EOS_NewPlayers": 1262,
+  "EOS_NewPlayers": 1253,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -17424,6 +17424,11 @@
       "Time": "2024-01-25T18:09:07.4401199+00:00",
       "NumProgressed": 37072,
       "NumCompleted": 366
+    },
+    {
+      "Time": "2024-01-25T22:08:38.4643563+00:00",
+      "NumProgressed": 37073,
+      "NumCompleted": 366
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -17444,7 +17449,7 @@
       "Name": "Everything is Connected",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 21131
+      "UsersEstimate": 21132
     },
     {
       "ID": "achievement_11",
@@ -17452,7 +17457,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 16682
+      "UsersEstimate": 16683
     },
     {
       "ID": "achievement_12",
@@ -17468,7 +17473,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 19277
+      "UsersEstimate": 19278
     },
     {
       "ID": "achievement_14",
@@ -17500,7 +17505,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 16682
+      "UsersEstimate": 16683
     },
     {
       "ID": "achievement_18",
@@ -17508,7 +17513,7 @@
       "Name": "Back At You",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 25950
+      "UsersEstimate": 25951
     },
     {
       "ID": "achievement_19",
@@ -17596,7 +17601,7 @@
       "Name": "Bank Shot",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 19277
+      "UsersEstimate": 19278
     },
     {
       "ID": "achievement_29",
@@ -17644,7 +17649,7 @@
       "Name": "Full House",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 12975
+      "UsersEstimate": 12976
     },
     {
       "ID": "achievement_34",
@@ -17660,7 +17665,7 @@
       "Name": "Sabersmith",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 29287
+      "UsersEstimate": 29288
     },
     {
       "ID": "achievement_36",
@@ -17700,7 +17705,7 @@
       "Name": "Feel the Force",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "achievement_5",
@@ -17724,7 +17729,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 37072
+      "UsersEstimate": 37073
     },
     {
       "ID": "achievement_8",
@@ -17740,14 +17745,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 27804
+      "UsersEstimate": 27805
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 37072,
+      "Progressed": 37073,
       "Completed": 366
     }
   ],
@@ -17755,8 +17760,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2024-01-25T14:01:12.9101586+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:07:10.2777556+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:08:38.4643557+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.8127417+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:00:19.2625278+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:07:10.2778763+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:58.6437686+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:08:38.4644667+00:00"
 }

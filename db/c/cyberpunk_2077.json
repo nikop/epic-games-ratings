@@ -19026,10 +19026,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 520107,
       "NumberOfAwardsMax": 145126
+    },
+    {
+      "Time": "2024-01-25T22:03:13.3511757+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 520256,
+      "NumberOfAwardsMax": 145126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 520107,
+  "NumberOfAwards": 520256,
   "NumberOfAwardsMax": 145126,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19079,7 +19085,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33391
+      "Count": 33540
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -19106,9 +19112,9 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058724,
+  "EOS_Progressed": 1058739,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4243,
+  "EOS_NewPlayers": 4234,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51256,6 +51262,11 @@
       "Time": "2024-01-25T21:09:08.9072845+00:00",
       "NumProgressed": 1058724,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T22:09:15.3632058+00:00",
+      "NumProgressed": 1058739,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51724,7 +51735,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "HydraIsDead",
@@ -51740,7 +51751,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "KingOfTheCups",
@@ -51803,21 +51814,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058724,
+      "Progressed": 1058739,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187347,
+      "Progressed": 187362,
       "Completed": 10701
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-25T21:03:25.9757638+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:09:08.9072841+00:00",
+  "LastChanged": "2024-01-25T22:03:13.3511755+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:09:15.3632053+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:03:25.9757646+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:09:08.9075165+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:03:13.3511762+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:09:15.3633895+00:00"
 }

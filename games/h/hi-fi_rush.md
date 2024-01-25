@@ -5,23 +5,23 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,916 |
-| Feeling the beat! | 56.00% | ~9,916 |
-| You can pet the cat! | 51.00% | ~9,031 |
-| Who put gears in there? | 42.00% | ~7,437 |
+| Start with a bang! | 56.00% | ~9,917 |
+| Feeling the beat! | 56.00% | ~9,917 |
+| You can pet the cat! | 51.00% | ~9,032 |
+| Who put gears in there? | 42.00% | ~7,438 |
 | Cream of the Crop | 37.00% | ~6,552 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,375 |
 | You got this, Peppermint? | 32.00% | ~5,667 |
-| Perfect Parry | 30.00% | ~5,312 |
-| Alright, that felt AWESOME! | 29.00% | ~5,135 |
+| Perfect Parry | 30.00% | ~5,313 |
+| Alright, that felt AWESOME! | 29.00% | ~5,136 |
 | I play my own way! | 25.00% | ~4,427 |
 | This will cost you big time | 24.00% | ~4,250 |
 | Uh, they were broken when I got here | 24.00% | ~4,250 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,896 |
 | Kissing the sky! | 22.00% | ~3,896 |
 | Whoa! There's ANOTHER health bar!? | 19.00% | ~3,365 |
-| The Negotiator | 18.00% | ~3,187 |
-| Does that say weakpoint? | 18.00% | ~3,187 |
+| The Negotiator | 18.00% | ~3,188 |
+| Does that say weakpoint? | 18.00% | ~3,188 |
 | You must like calling me in, Chai | 16.00% | ~2,833 |
 | Headliner | 15.00% | ~2,656 |
 | Out in a puff of smoke | 15.00% | ~2,656 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,708 (Ranked 167)  
+Progressed: 17,709 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 8 (0.05%) (Ranked 349)
 | 2024-01-22 | 17,609 | 8 |
 | 2024-01-23 | 17,642 | 8 |
 | 2024-01-24 | 17,683 | 8 |
-| 2024-01-25 | 17,708 | 8 |
+| 2024-01-25 | 17,709 | 8 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 498)  
 Sum: 38 (Ranked 537)  

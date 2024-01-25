@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4245,
+  "EOS_Progressed": 4247,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7506,6 +7506,11 @@
       "Time": "2024-01-25T20:08:16.847311+00:00",
       "NumProgressed": 4245,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-25T22:06:17.9498686+00:00",
+      "NumProgressed": 4247,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7525,7 +7530,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "FALLEN_TREE",
@@ -7613,14 +7618,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4245,
+      "Progressed": 4247,
       "Completed": 6
     }
   ],
@@ -7628,8 +7633,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:06:39.0747274+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:06:17.9498679+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:35.0592598+00:00",
-  "LastUpdate_Ratings": "2024-01-25T21:00:41.1527431+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:06:39.0747779+00:00"
+  "LastUpdate_Ratings": "2024-01-25T22:00:20.4419852+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:06:17.9499238+00:00"
 }

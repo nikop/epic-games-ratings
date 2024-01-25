@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
@@ -1012,10 +1012,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 598,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2024-01-25T21:59:26.9009088+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 599,
+      "NumberOfAwardsMax": 170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 598,
+  "NumberOfAwards": 599,
   "NumberOfAwardsMax": 170,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1041,7 +1047,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1109,8 +1115,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-01-25T20:59:46.6591328+00:00",
+  "LastChanged": "2024-01-25T21:59:26.9009086+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:24.9533971+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:59:46.6591332+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:07:10.8026616+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:26.900909+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:08:38.9293937+00:00"
 }

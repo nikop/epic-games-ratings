@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.60 (Ranked 432)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,676 (Ranked 85)  
+Progressed: 169,688 (Ranked 85)  
 Completed: 470 (0.28%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 470 (0.28%) (Ranked 271)
 | 2024-01-22 | 169,324 | 467 |
 | 2024-01-23 | 169,450 | 468 |
 | 2024-01-24 | 169,567 | 470 |
-| 2024-01-25 | 169,676 | 470 |
+| 2024-01-25 | 169,688 | 470 |
 ## Awards
 Max (Highly Recommended): 64  (Ranked 434)  
 Sum: 471 (Ranked 345)  
@@ -521,4 +521,4 @@ Diff (max vs sum): 89
 | 2024-01-22 | 4.60 | - | 64 | 468 |
 | 2024-01-23 | 4.60 | - | 64 | 469 |
 | 2024-01-24 | 4.59 | - | 64 | 470 |
-| 2024-01-25 | 4.59 | - | 64 | 471 |
+| 2024-01-25 | 4.60 | - | 64 | 471 |

@@ -5,27 +5,27 @@ Rating: 3.99 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~650,251 |
-| Health Junkie | 38.00% | ~348,022 |
-| You Complete Me | 37.00% | ~338,863 |
-| Guardian Angel | 32.00% | ~293,071 |
+| Blood on My Hands | 71.00% | ~650,254 |
+| Health Junkie | 38.00% | ~348,023 |
+| You Complete Me | 37.00% | ~338,864 |
+| Guardian Angel | 32.00% | ~293,072 |
 | Devil Inside Me | 25.00% | ~228,962 |
-| Fantastic Four | 19.00% | ~174,011 |
-| Killing Spree | 18.00% | ~164,852 |
+| Fantastic Four | 19.00% | ~174,012 |
+| Killing Spree | 18.00% | ~164,853 |
 | Marksman Novice | 16.00% | ~146,536 |
 | First Blood | 12.00% | ~109,902 |
 | Top 10 | 12.00% | ~109,902 |
 | Now You See Me, Now You Don't | 10.00% | ~91,585 |
 | Marksman Expert | 8.00% | ~73,268 |
-| CQB Novice | 7.00% | ~64,109 |
+| CQB Novice | 7.00% | ~64,110 |
 | Collateral Damage | 6.00% | ~54,951 |
 | Airborne | 5.00% | ~45,792 |
 | Pacifist | 5.00% | ~45,792 |
 | Last Survivor | 4.00% | ~36,634 |
 | Marksman Master | 4.00% | ~36,634 |
 | First Come, First Served | 4.00% | ~36,634 |
-| Trigonometry Novice | 3.00% | ~27,475 |
-| Dynamic Duo | 3.00% | ~27,475 |
+| Trigonometry Novice | 3.00% | ~27,476 |
+| Dynamic Duo | 3.00% | ~27,476 |
 | Winner Winner Chicken Dinner! | 2.00% | ~18,317 |
 | Okay, Now I'm Ready | 2.00% | ~18,317 |
 | Agent 48 | 2.00% | ~18,317 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 1,063)
 | Nade King Master | 0.10% | ~916 |
 | Shoot the Knee | 0.10% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,847 (Ranked 18)  
+Progressed: 915,850 (Ranked 18)  
 Completed: 18 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 18 (0.00%) (Ranked 410)
 | 2024-01-22 | 908,776 | 16 |
 | 2024-01-23 | 911,382 | 18 |
 | 2024-01-24 | 913,875 | 18 |
-| 2024-01-25 | 915,847 | 18 |
+| 2024-01-25 | 915,850 | 18 |
 ## Awards
 Max (Competitive Players): 6,732  (Ranked 61)  
 Sum: 22,014 (Ranked 59)  

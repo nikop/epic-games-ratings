@@ -9791,10 +9791,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33640,
       "NumberOfAwardsMax": 5816
+    },
+    {
+      "Time": "2024-01-25T21:59:30.3370049+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33643,
+      "NumberOfAwardsMax": 5816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33640,
+  "NumberOfAwards": 33643,
   "NumberOfAwardsMax": 5816,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9826,7 +9832,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4347
+      "Count": 4350
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9841,9 +9847,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255619,
+  "EOS_Progressed": 255630,
   "EOS_Completed": 2644,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1042,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41681,6 +41687,11 @@
       "Time": "2024-01-25T21:10:24.0809439+00:00",
       "NumProgressed": 255619,
       "NumCompleted": 2644
+    },
+    {
+      "Time": "2024-01-25T22:10:27.6397545+00:00",
+      "NumProgressed": 255630,
+      "NumCompleted": 2644
     }
   ],
   "TotalAchievements": 546,
@@ -41692,7 +41703,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12781
+      "UsersEstimate": 12782
     },
     {
       "ID": "objective_completed_10",
@@ -42060,7 +42071,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "objective_completed_110",
@@ -42876,7 +42887,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_164",
@@ -42924,7 +42935,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_170",
@@ -43028,7 +43039,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_208",
@@ -43108,7 +43119,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_231",
@@ -43364,7 +43375,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "objective_completed_34",
@@ -44180,7 +44191,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_590",
@@ -44836,7 +44847,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "objective_completed_70",
@@ -44868,7 +44879,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_75",
@@ -44900,7 +44911,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_8",
@@ -44916,7 +44927,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_802",
@@ -45564,7 +45575,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_95",
@@ -46012,7 +46023,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_673",
@@ -46020,7 +46031,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_678",
@@ -46028,7 +46039,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_683",
@@ -46036,7 +46047,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_860",
@@ -46044,7 +46055,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_865",
@@ -46052,28 +46063,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221893,
+      "Progressed": 221904,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255619,
+      "Progressed": 255630,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-25T20:59:49.9010356+00:00",
-  "LastChanged_Achievements": "2024-01-25T21:10:24.0809436+00:00",
+  "LastChanged": "2024-01-25T21:59:30.3370048+00:00",
+  "LastChanged_Achievements": "2024-01-25T22:10:27.639754+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T20:59:49.9010361+00:00",
-  "LastUpdate_Achievements": "2024-01-25T21:10:24.0833331+00:00"
+  "LastUpdate_Ratings": "2024-01-25T21:59:30.3370053+00:00",
+  "LastUpdate_Achievements": "2024-01-25T22:10:27.6420267+00:00"
 }

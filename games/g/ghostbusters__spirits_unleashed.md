@@ -6,7 +6,7 @@ Rating: 4.51 (Ranked 601)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 12.00% | ~4,073 |
-| Meticulously Efficient | 9.00% | ~3,054 |
+| Meticulously Efficient | 9.00% | ~3,055 |
 | Advancement | 8.00% | ~2,715 |
 | Swift Rift Removers | 7.00% | ~2,376 |
 | I collect Spores, Molds, and Fungi | 6.00% | ~2,036 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 601)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,938 (Ranked 142)  
+Progressed: 33,940 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,17 +337,17 @@ Completed: 71 (0.21%) (Ranked 285)
 | 2024-01-22 | 33,895 | 71 |
 | 2024-01-23 | 33,915 | 71 |
 | 2024-01-24 | 33,926 | 71 |
-| 2024-01-25 | 33,938 | 71 |
+| 2024-01-25 | 33,940 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 331  (Ranked 258)  
-Sum: 2,992 (Ranked 188)  
+Sum: 2,993 (Ranked 188)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 331 |
 | This game is Great for Beginners | 329 |
 | This game has Diverse Characters | 315 |
-| This game has Amazing Storytelling | 298 |
+| This game has Amazing Storytelling | 299 |
 | This game is Highly Recommended | 298 |
 | This game is Extremely Fun | 292 |
 | This game has Competitive Players | 292 |
@@ -631,4 +631,4 @@ Diff (max vs sum): 70
 | 2024-01-22 | 4.51 | 329 | 2,987 |
 | 2024-01-23 | 4.51 | 330 | 2,988 |
 | 2024-01-24 | 4.51 | 330 | 2,989 |
-| 2024-01-25 | 4.51 | 331 | 2,992 |
+| 2024-01-25 | 4.51 | 331 | 2,993 |

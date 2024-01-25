@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,044 |
-| Hotel California | 10.00% | ~80,950 |
-| Break A Leg | 9.00% | ~72,855 |
-| Coup de Grâce | 8.00% | ~64,760 |
-| Hazardous Materials | 8.00% | ~64,760 |
-| Git Gutte! | 7.00% | ~56,665 |
-| Friends Like These | 7.00% | ~56,665 |
-| Apex Predator | 7.00% | ~56,665 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,665 |
+| Welcome To Hell-A | 11.00% | ~89,046 |
+| Hotel California | 10.00% | ~80,951 |
+| Break A Leg | 9.00% | ~72,856 |
+| Coup de Grâce | 8.00% | ~64,761 |
+| Hazardous Materials | 8.00% | ~64,761 |
+| Git Gutte! | 7.00% | ~56,666 |
+| Friends Like These | 7.00% | ~56,666 |
+| Apex Predator | 7.00% | ~56,666 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,666 |
 | Dr. Reed, I Presume? | 6.00% | ~48,570 |
 | Bookworm | 6.00% | ~48,570 |
 | Stacking the Deck | 6.00% | ~48,570 |
@@ -39,7 +39,7 @@ Rating: 4.54 (Ranked 550)
 | Max Headroom | 3.00% | ~24,285 |
 | Go, Bobcats! | 3.00% | ~24,285 |
 | Rising Star | 3.00% | ~24,285 |
-| One of Us | 3.00% | ~4,051 |
+| One of Us | 3.00% | ~4,052 |
 | Make it So | 2.00% | ~16,190 |
 | On Safari | 2.00% | ~16,190 |
 | Smorgasbord | 2.00% | ~16,190 |
@@ -54,10 +54,10 @@ Rating: 4.54 (Ranked 550)
 | Top That, Tisha! | 0.60% | ~810 |
 | Donk! | 0.40% | ~3,238 |
 | Lawn and Order | 0.30% | ~405 |
-| Bucket List | 0.10% | ~809 |
+| Bucket List | 0.10% | ~810 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,495 (Ranked 23)  
+Progressed: 809,508 (Ranked 23)  
 Completed: 2,634 (0.33%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,10 +337,10 @@ Completed: 2,634 (0.33%) (Ranked 262)
 | 2024-01-22 | 808,345 | 2,624 |
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
-| 2024-01-25 | 809,495 | 2,634 |
+| 2024-01-25 | 809,508 | 2,634 |
 ## Awards
 Max (Great Boss Battles): 10,927  (Ranked 39)  
-Sum: 16,845 (Ranked 68)  
+Sum: 16,849 (Ranked 68)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): -29
 | This game has Diverse Characters | 810 |
 | This game has Quickly Understood Controls | 763 |
 | This game is Relaxing | 725 |
-| This game has Amazing Storytelling | 718 |
+| This game has Amazing Storytelling | 722 |
 | This game is Highly Recommended | 711 |
 | This game is Extremely Fun | 682 |
 | This game has Amazing Characters | 643 |
@@ -635,4 +635,4 @@ Diff (max vs sum): -29
 | 2024-01-22 | 4.54 | 10,811 | 16,633 |
 | 2024-01-23 | 4.54 | 10,850 | 16,700 |
 | 2024-01-24 | 4.54 | 10,888 | 16,780 |
-| 2024-01-25 | 4.54 | 10,927 | 16,845 |
+| 2024-01-25 | 4.54 | 10,927 | 16,849 |
