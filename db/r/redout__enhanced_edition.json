@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239350,
+  "EOS_Progressed": 239349,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": -117,
+  "EOS_NewPlayers": -114,
   "EOS_NewCompleters": -6,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29603,6 +29603,11 @@
       "Time": "2024-01-25T10:09:13.6742449+00:00",
       "NumProgressed": 239350,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-25T14:09:48.6055292+00:00",
+      "NumProgressed": 239349,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -29718,7 +29723,7 @@
       "Name": "HARDCORE",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2393
     },
     {
       "ID": "HIDDENPOWER",
@@ -29750,7 +29755,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78986
+      "UsersEstimate": 78985
     },
     {
       "ID": "NOBUNAGA",
@@ -29806,7 +29811,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11967
     },
     {
       "ID": "RESPWND",
@@ -29854,7 +29859,7 @@
       "Name": "TAKATORA",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11967
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -29885,15 +29890,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239350,
+      "Progressed": 239349,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:15:54.2142772+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:09:48.605529+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:06:29.4115108+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:15:54.2144411+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:00:33.4031984+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:09:48.6056726+00:00"
 }

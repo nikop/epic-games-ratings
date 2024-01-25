@@ -6085,10 +6085,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8477,
       "NumberOfAwardsMax": 1202
+    },
+    {
+      "Time": "2024-01-25T14:02:56.040916+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8478,
+      "NumberOfAwardsMax": 1202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8477,
+  "NumberOfAwards": 8478,
   "NumberOfAwardsMax": 1202,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6120,7 +6126,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 785
+      "Count": 786
     },
     {
       "Text": "This game has Amazing Characters",
@@ -26214,9 +26220,9 @@
       "ID": "Bestest_Friend",
       "SetID": "chapdi4",
       "Name": "Bestest Friend",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6444
     },
     {
       "ID": "Chef_Cook",
@@ -26326,9 +26332,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-25T09:00:43.3185941+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:16:34.3569455+00:00",
+  "LastChanged": "2024-01-25T14:02:56.0409158+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:10:37.2054835+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:07:34.9401347+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:16:34.3570502+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:02:56.0409164+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:10:37.2055848+00:00"
 }

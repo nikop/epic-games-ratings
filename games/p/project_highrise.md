@@ -52,6 +52,7 @@
 | Maximum Reuse | 6.00% | ~33 |
 | Revenue Royalty | 6.00% | ~33 |
 | Golden Opportunity | 6.00% | ~33 |
+| I'm Busy Ruling | 5.00% | ~27 |
 | Careful Constructor | 5.00% | ~27 |
 | Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
@@ -60,7 +61,6 @@
 | Meet ADA/360 | 4.00% | ~22 |
 | Penthouse in the Sky | 4.00% | ~22 |
 | Baron of Business | 4.00% | ~22 |
-| I'm Busy Ruling | 4.00% | ~22 |
 | Sandbagger | 4.00% | ~22 |
 | Tuned In | 4.00% | ~22 |
 | Decorator's Touch | 3.00% | ~16 |
@@ -86,9 +86,9 @@
 | Double Down | 0.70% | ~4 |
 | Scenario Master | 0.70% | ~4 |
 | Poker Face | 0.40% | ~2 |
+| Statue Stature | 0.20% | ~1 |
 | Infrastructure Info | 0.20% | ~1 |
 | Commercial Campaigns | 0.20% | ~1 |
-| Statue Stature | 0.00% | ~0 |
 | Office Ovation | 0.00% | ~0 |
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |

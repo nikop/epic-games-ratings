@@ -161,6 +161,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.30% | ~51 |
 | Ancient | 0.30% | ~51 |
 | Glorious Difficulty | 0.30% | ~51 |
+| Run, Pheidippides, Run! | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~51 |
@@ -176,7 +177,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.20% | ~34 |
 | Event Level High | 0.20% | ~34 |
 | Five Routs | 0.20% | ~34 |
-| Run, Pheidippides, Run! | 0.20% | ~34 |
 | Nenikekamen | 0.20% | ~34 |
 | The Turning Point | 0.20% | ~34 |
 | A Good Start | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,151 (Ranked 170)  
+Progressed: 17,153 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 5 (0.03%) (Ranked 365)
 | 2024-01-22 | 17,114 | 5 |
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
-| 2024-01-25 | 17,151 | 5 |
+| 2024-01-25 | 17,153 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

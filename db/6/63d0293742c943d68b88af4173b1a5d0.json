@@ -3178,9 +3178,9 @@
       "ID": "Remake_008",
       "SetID": "5pi96jj",
       "Name": "Plumber\u0027s Apprentice",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "Remake_009",
@@ -3305,8 +3305,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:12:14.4830805+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:06:29.3582863+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:06:35.0495303+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:12:14.4831085+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:00:40.8143621+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:06:29.3583166+00:00"
 }

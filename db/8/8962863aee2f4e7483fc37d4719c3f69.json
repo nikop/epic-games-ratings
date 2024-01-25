@@ -3,11 +3,11 @@
   "Name": "PAYDAY 3",
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1068,
-  "Ranking_Popularity": 526,
+  "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 849,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 526,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -835,11 +835,17 @@
       "Rating": 3.97,
       "NumberOfAwards": 158,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-01-25T14:02:49.3249661+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 158,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 160,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -852,7 +858,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Characters",
@@ -876,7 +882,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -897,8 +903,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-01-23T18:59:30.8031604+00:00",
+  "LastChanged": "2024-01-25T14:02:49.3249659+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:09.437199+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:07:29.8909303+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:10:44.6492789+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:02:49.3249664+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:04:37.3977459+00:00"
 }

@@ -17,7 +17,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The One-Huge-Army-Building Evil | 40.00% | ~19,146 |
 | The last burger | 37.00% | ~17,710 |
 | Braiiiiins! | 37.00% | ~17,710 |
-| Hands off the Dungeonheart! | 36.00% | ~17,231 |
+| Hands off the Dungeonheart! | 36.00% | ~17,232 |
 | A trip on sea, what fun it can be | 34.00% | ~16,274 |
 | Damned good | 32.00% | ~15,317 |
 | Factory farming | 31.00% | ~14,838 |
@@ -34,19 +34,19 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~11,488 |
 | Angel of Fire | 24.00% | ~11,488 |
 | Where there is Light, there is Shadow | 23.00% | ~11,009 |
-| At the foot of Mount Destiny | 22.00% | ~10,530 |
+| At the foot of Mount Destiny | 22.00% | ~10,531 |
 | The Force disturbed | 21.00% | ~10,052 |
-| Chorus of damnation | 19.00% | ~9,094 |
-| The Victorious Evil | 19.00% | ~9,094 |
-| We don’t have time! | 19.00% | ~9,094 |
+| Chorus of damnation | 19.00% | ~9,095 |
+| The Victorious Evil | 19.00% | ~9,095 |
+| We don’t have time! | 19.00% | ~9,095 |
 | The Stones’ Power | 18.00% | ~8,616 |
 | Flat as a pancake | 17.00% | ~8,137 |
 | Lifeguard | 17.00% | ~8,137 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~7,180 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,744 |
 | Then let them eat cake! | 12.00% | ~5,744 |
-| The White Knight | 10.00% | ~4,786 |
-| Please, no interruptions! | 10.00% | ~4,786 |
+| The White Knight | 10.00% | ~4,787 |
+| Please, no interruptions! | 10.00% | ~4,787 |
 | Use the terrain | 9.00% | ~4,308 |
 | Prison Break | 9.00% | ~4,308 |
 | Master of Traps | 8.00% | ~3,829 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~957 |
 | Sacrifices! | 2.00% | ~957 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,865 (Ranked 129)  
+Progressed: 47,866 (Ranked 129)  
 Completed: 376 (0.79%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 376 (0.79%) (Ranked 200)
 | 2024-01-22 | 47,686 | 375 |
 | 2024-01-23 | 47,757 | 375 |
 | 2024-01-24 | 47,835 | 375 |
-| 2024-01-25 | 47,865 | 376 |
+| 2024-01-25 | 47,866 | 376 |
 ## Awards
 Max (Great for Beginners): 402  (Ranked 242)  
 Sum: 2,860 (Ranked 192)  

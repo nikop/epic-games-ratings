@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,279 |
 | Lost and Found | 9.00% | ~767 |
-| Autodidact | 8.00% | ~10,692 |
+| Autodidact | 8.00% | ~10,693 |
 | This guy... again? | 8.00% | ~682 |
 | Serenity Now! | 7.00% | ~9,356 |
 | This Belongs in a Museum | 7.00% | ~9,356 |
@@ -24,7 +24,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 6.00% | ~8,019 |
 | To Grandmother's House | 6.00% | ~8,019 |
 | FNG | 6.00% | ~8,019 |
-| Bloody Graduation | 6.00% | ~511 |
+| Bloody Graduation | 6.00% | ~512 |
 | Not Today! | 5.00% | ~6,683 |
 | Merry Time | 5.00% | ~6,683 |
 | Harvest Festival | 5.00% | ~6,683 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,655 (Ranked 92)  
+Progressed: 133,658 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 5 (0.00%) (Ranked 410)
 | 2024-01-22 | 133,516 | 5 |
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
-| 2024-01-25 | 133,655 | 5 |
+| 2024-01-25 | 133,658 | 5 |
 ## Awards
 Max (Character Customization): 8,073  (Ranked 52)  
 Sum: 21,856 (Ranked 60)  

@@ -24,18 +24,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.60% | ~6,351 |
 | All the President's Men | 0.60% | ~1,123 |
 | Arachnophobia | 0.60% | ~1,123 |
+| To Protect and Serve | 0.50% | ~5,293 |
 | I Am The Law | 0.50% | ~5,293 |
 | The Quick and the Dead | 0.50% | ~5,293 |
 | True Warrior | 0.50% | ~5,293 |
 | Judy vs Night City | 0.50% | ~5,293 |
-| To Protect and Serve | 0.40% | ~4,234 |
 | Two Heads, One Bullet | 0.40% | ~4,234 |
 | Spin Doctor | 0.40% | ~749 |
 | To Bad Decisions! | 0.30% | ~3,176 |
 | The Wandering Fool | 0.30% | ~3,176 |
 | The Sun | 0.30% | ~3,176 |
-| King of Wands | 0.30% | ~561 |
-| Easy Come, Easy Go | 0.30% | ~561 |
+| King of Wands | 0.30% | ~562 |
+| Easy Come, Easy Go | 0.30% | ~562 |
 | Breathtaking | 0.20% | ~2,117 |
 | Ten out of Ten | 0.20% | ~2,117 |
 | Temperance | 0.20% | ~2,117 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,523 (Ranked 17)  
+Progressed: 1,058,557 (Ranked 17)  
 Completed: 3,163 (0.30%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 3,163 (0.30%) (Ranked 266)
 | 2024-01-22 | 1,057,324 | 3,150 |
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
-| 2024-01-25 | 1,058,523 | 3,163 |
+| 2024-01-25 | 1,058,557 | 3,163 |
 ## Awards
 Max (Character Customization): 144,777  (Ranked 8)  
 Sum: 519,308 (Ranked 8)  

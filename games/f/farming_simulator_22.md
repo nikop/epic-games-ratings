@@ -1,29 +1,29 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.67 (Ranked 289)  
+Rating: 4.67 (Ranked 288)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~45,271 |
-| I read Shakespeare and stuff | 59.00% | ~37,620 |
-| Just a sprinkle | 58.00% | ~36,982 |
-| I'm stumped | 56.00% | ~35,707 |
-| Plant get enough | 56.00% | ~35,707 |
-| This is just my weekend vehicle | 54.00% | ~34,431 |
-| It's just the beginning | 54.00% | ~34,431 |
-| Hard work pays off | 49.00% | ~31,243 |
-| It's never too late to farm | 45.00% | ~28,693 |
-| All out of Land | 41.00% | ~26,142 |
-| Field Trip | 40.00% | ~25,505 |
-| I like to switch it up | 37.00% | ~23,592 |
+| Own use | 71.00% | ~45,272 |
+| I read Shakespeare and stuff | 59.00% | ~37,621 |
+| Just a sprinkle | 58.00% | ~36,983 |
+| I'm stumped | 56.00% | ~35,708 |
+| Plant get enough | 56.00% | ~35,708 |
+| This is just my weekend vehicle | 54.00% | ~34,433 |
+| It's just the beginning | 54.00% | ~34,433 |
+| Hard work pays off | 49.00% | ~31,244 |
+| It's never too late to farm | 45.00% | ~28,694 |
+| All out of Land | 41.00% | ~26,143 |
+| Field Trip | 40.00% | ~25,506 |
+| I like to switch it up | 37.00% | ~23,593 |
 | Help me to help you | 35.00% | ~22,317 |
-| Ultimutt Pawesomeness | 25.00% | ~15,940 |
-| Van Gogh | 23.00% | ~14,665 |
-| You wood not believe it | 20.00% | ~12,752 |
-| Vehicle fleet | 20.00% | ~12,752 |
-| Well-Oiled Machine | 15.00% | ~9,564 |
+| Ultimutt Pawesomeness | 25.00% | ~15,941 |
+| Van Gogh | 23.00% | ~14,666 |
+| You wood not believe it | 20.00% | ~12,753 |
+| Vehicle fleet | 20.00% | ~12,753 |
+| Well-Oiled Machine | 15.00% | ~9,565 |
 | Clucky Streak | 14.00% | ~8,927 |
 | The plot thickens | 14.00% | ~8,927 |
 | Large-scale supplier | 14.00% | ~8,927 |
@@ -39,7 +39,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Road Trip | 5.00% | ~3,188 |
 | Helper A does not stop … ever | 5.00% | ~3,188 |
 | Bringing in the Honey | 5.00% | ~3,188 |
-| Three little piggies… | 4.00% | ~2,550 |
+| Three little piggies… | 4.00% | ~2,551 |
 | Game on | 3.00% | ~1,913 |
 | Pretty colourful | 0.70% | ~446 |
 | Original grain | 0.70% | ~446 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~255 |
 | Raisin the stakes | 0.30% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,762 (Ranked 120)  
+Progressed: 63,764 (Ranked 120)  
 Completed: 6 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 6 (0.01%) (Ranked 384)
 | 2024-01-22 | 63,564 | 6 |
 | 2024-01-23 | 63,645 | 6 |
 | 2024-01-24 | 63,734 | 6 |
-| 2024-01-25 | 63,762 | 6 |
+| 2024-01-25 | 63,764 | 6 |
 ## Awards
 Max (Great for Beginners): 6,197  (Ranked 67)  
 Sum: 46,164 (Ranked 33)  

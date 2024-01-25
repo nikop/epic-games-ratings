@@ -19082,9 +19082,9 @@
       "Count": 20172
     }
   ],
-  "EOS_Progressed": 1058523,
+  "EOS_Progressed": 1058557,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4318,
+  "EOS_NewPlayers": 4322,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51192,6 +51192,11 @@
       "Time": "2024-01-25T13:16:21.7215871+00:00",
       "NumProgressed": 1058523,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-25T14:10:21.9961742+00:00",
+      "NumProgressed": 1058557,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51242,9 +51247,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4234
+      "UsersEstimate": 5293
     },
     {
       "ID": "Fortuneteller",
@@ -51708,7 +51713,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "TheTower",
@@ -51732,28 +51737,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058523,
+      "Progressed": 1058557,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187146,
+      "Progressed": 187180,
       "Completed": 10699
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-25T13:10:14.3640444+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:16:21.7215868+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:10:21.9961739+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:10:14.364045+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:16:21.7217939+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:03:56.9479046+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:10:21.9963396+00:00"
 }

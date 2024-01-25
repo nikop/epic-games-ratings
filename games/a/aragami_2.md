@@ -6,24 +6,24 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,286 |
-| First Steps | 80.00% | ~36,375 |
-| Control the Shadows | 67.00% | ~30,464 |
-| Tools of the Trade | 63.00% | ~28,645 |
-| Apprentice | 60.00% | ~27,281 |
-| Secret Seeker | 57.00% | ~25,917 |
-| Forge of Assassins | 55.00% | ~25,008 |
+| Awakening | 93.00% | ~42,287 |
+| First Steps | 80.00% | ~36,376 |
+| Control the Shadows | 67.00% | ~30,465 |
+| Tools of the Trade | 63.00% | ~28,646 |
+| Apprentice | 60.00% | ~27,282 |
+| Secret Seeker | 57.00% | ~25,918 |
+| Forge of Assassins | 55.00% | ~25,009 |
 | Revenant | 52.00% | ~23,644 |
 | I don’t Care! | 46.00% | ~20,916 |
 | Bird of Prey | 37.00% | ~16,824 |
 | Engraved with Power | 32.00% | ~14,550 |
-| Lady | 31.00% | ~14,095 |
+| Lady | 31.00% | ~14,096 |
 | Fashionable Assassin | 27.00% | ~12,277 |
 | Apex Predator | 24.00% | ~10,913 |
 | Soul Reaver | 23.00% | ~10,458 |
 | Embers | 22.00% | ~10,003 |
 | Wall Lizard | 20.00% | ~9,094 |
-| Clinging to Life | 18.00% | ~8,184 |
+| Clinging to Life | 18.00% | ~8,185 |
 | Burning | 17.00% | ~7,730 |
 | Look Behind You | 17.00% | ~7,730 |
 | Sleeping on the Job | 16.00% | ~7,275 |
@@ -39,9 +39,9 @@ Number of Ratings: 88  (23.09.2022)
 | Denouement | 8.00% | ~3,638 |
 | A Pleasant Stay | 8.00% | ~3,638 |
 | Pilgrimage | 7.00% | ~3,183 |
-| The Lookout | 5.00% | ~2,273 |
-| The Spirit of Vengeance | 5.00% | ~2,273 |
-| Hollow | 5.00% | ~2,273 |
+| The Lookout | 5.00% | ~2,274 |
+| The Spirit of Vengeance | 5.00% | ~2,274 |
+| Hollow | 5.00% | ~2,274 |
 | Left Behind | 4.00% | ~1,819 |
 | Secrets of the Earth | 4.00% | ~1,819 |
 | Heart of Fire | 4.00% | ~1,819 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~909 |
 | Legacy | 2.00% | ~909 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,469 (Ranked 132)  
+Progressed: 45,470 (Ranked 132)  
 Completed: 252 (0.55%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 252 (0.55%) (Ranked 224)
 | 2024-01-22 | 45,353 | 251 |
 | 2024-01-23 | 45,390 | 251 |
 | 2024-01-24 | 45,452 | 251 |
-| 2024-01-25 | 45,469 | 252 |
+| 2024-01-25 | 45,470 | 252 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

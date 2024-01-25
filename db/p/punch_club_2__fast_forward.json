@@ -2855,9 +2855,9 @@
       "ID": "nero_extrime",
       "SetID": "69co12a",
       "Name": "Extreme neuropower!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 286
     },
     {
       "ID": "not_ok",
@@ -3054,8 +3054,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:17:33.4222122+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:11:47.014227+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:31.5299896+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:04:08.8274743+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:17:33.4222858+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:57:33.6274618+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:11:47.0142945+00:00"
 }

@@ -3667,7 +3667,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47865,
+  "EOS_Progressed": 47866,
   "EOS_Completed": 376,
   "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 3,
@@ -34857,6 +34857,11 @@
       "Time": "2024-01-25T13:10:58.9537919+00:00",
       "NumProgressed": 47865,
       "NumCompleted": 376
+    },
+    {
+      "Time": "2024-01-25T14:04:55.2078209+00:00",
+      "NumProgressed": 47866,
+      "NumCompleted": 376
     }
   ],
   "TotalAchievements": 60,
@@ -34908,7 +34913,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10530
+      "UsersEstimate": 10531
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -34972,7 +34977,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -35092,7 +35097,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 17231
+      "UsersEstimate": 17232
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -35140,7 +35145,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9094
+      "UsersEstimate": 9095
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -35292,7 +35297,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9094
+      "UsersEstimate": 9095
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -35300,7 +35305,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9094
+      "UsersEstimate": 9095
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -35332,7 +35337,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -35347,15 +35352,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47865,
+      "Progressed": 47866,
       "Completed": 376
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-23T08:57:48.8794969+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:10:58.9537916+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:04:55.2078206+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.3456906+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:05:37.8392774+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:10:58.95398+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:59:27.5300466+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:04:55.2080152+00:00"
 }

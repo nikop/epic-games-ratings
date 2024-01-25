@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44901,
+  "EOS_Progressed": 44903,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29546,6 +29546,11 @@
       "Time": "2024-01-25T13:11:09.8877556+00:00",
       "NumProgressed": 44901,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-25T14:05:08.5976805+00:00",
+      "NumProgressed": 44903,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29573,7 +29578,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7633
+      "UsersEstimate": 7634
     },
     {
       "ID": "ach_antiquarian10",
@@ -29677,7 +29682,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16164
+      "UsersEstimate": 16165
     },
     {
       "ID": "ach_die10",
@@ -29909,7 +29914,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8082
+      "UsersEstimate": 8083
     },
     {
       "ID": "ach_terror100",
@@ -29988,15 +29993,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44901,
+      "Progressed": 44903,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:11:09.8877553+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:05:08.5976803+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:06:31.3405838+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:11:09.8879375+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:00:35.9604213+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:05:08.5978259+00:00"
 }

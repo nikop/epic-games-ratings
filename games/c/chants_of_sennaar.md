@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,800 |
-| Welcome to the Tower | 54.00% | ~1,620 |
+| That's the spirit | 60.00% | ~1,801 |
+| Welcome to the Tower | 54.00% | ~1,621 |
 | The great escape | 46.00% | ~1,380 |
 | The Preacher's fate | 44.00% | ~1,320 |
 | A new dawn | 39.00% | ~1,170 |
@@ -15,9 +15,9 @@ Rating: 4.87 (Ranked 24)
 | The darkness | 33.00% | ~990 |
 | A good beginning | 32.00% | ~960 |
 | One last step | 31.00% | ~930 |
-| Half the way | 30.00% | ~900 |
 | I did it | 29.00% | ~870 |
 | Cable guy | 29.00% | ~870 |
+| Half the way | 29.00% | ~870 |
 | In this together | 28.00% | ~840 |
 | Peace walker | 28.00% | ~840 |
 | Champollion | 28.00% | ~840 |
@@ -28,10 +28,10 @@ Rating: 4.87 (Ranked 24)
 | Free at last | 21.00% | ~630 |
 | A Link to the Past | 18.00% | ~540 |
 | A great audience | 16.00% | ~480 |
-| For its own good | 16.00% | ~480 |
+| For its own good | 15.00% | ~450 |
 | Fashion victim | 10.00% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,000 (Ranked 236)  
+Progressed: 3,001 (Ranked 236)  
 Completed: 235 (7.83%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 235 (7.83%) (Ranked 51)
 | 2024-01-22 | 2,963 | 232 |
 | 2024-01-23 | 2,982 | 233 |
 | 2024-01-24 | 2,996 | 234 |
-| 2024-01-25 | 3,000 | 235 |
+| 2024-01-25 | 3,001 | 235 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

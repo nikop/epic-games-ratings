@@ -1,35 +1,35 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 360)  
+Rating: 4.63 (Ranked 361)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 78.00% | ~447 |
-| Kaijuiced | 73.00% | ~418 |
-| Lie Back and Think of Albion | 67.00% | ~384 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~372 |
-| I Look Up As I Walk to Takoshima | 63.00% | ~361 |
+| Shop Til They Drop | 78.00% | ~448 |
+| Kaijuiced | 72.00% | ~413 |
+| Lie Back and Think of Albion | 67.00% | ~385 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~373 |
+| I Look Up As I Walk to Takoshima | 63.00% | ~362 |
 | Yettisoned | 61.00% | ~350 |
-| Pimp My Raid | 59.00% | ~338 |
-| Perfect Probulator | 59.00% | ~338 |
-| Lobster Blisque | 54.00% | ~309 |
+| Pimp My Raid | 59.00% | ~339 |
+| Perfect Probulator | 59.00% | ~339 |
+| Lobster Blisque | 54.00% | ~310 |
 | Fly Me to the Moon Base | 53.00% | ~304 |
 | Ducks in a Row, Fish in a Barrel | 49.00% | ~281 |
-| Earthly Pleasures | 48.00% | ~275 |
+| Earthly Pleasures | 48.00% | ~276 |
 | Freshly Squeezed | 38.00% | ~218 |
 | Bodied Sattva | 38.00% | ~218 |
 | Upgreatest | 37.00% | ~212 |
-| Forbidden Donut | 36.00% | ~206 |
-| Furon Fashion | 31.00% | ~178 |
+| Forbidden Donut | 36.00% | ~207 |
 | Deincarnated | 30.00% | ~172 |
+| Furon Fashion | 30.00% | ~172 |
 | Rock of the Bay | 29.00% | ~166 |
 | Trans-Siberian Express | 26.00% | ~149 |
-| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~120 |
+| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~121 |
 | Arkvoodle Doodle | 19.00% | ~109 |
 | Die Nasty | 18.00% | ~103 |
-| If You Know What I Mean | 17.00% | ~97 |
+| If You Know What I Mean | 17.00% | ~98 |
 | Ouch of Body Experience | 16.00% | ~92 |
 | Hidden Human Hive Harvest | 16.00% | ~92 |
 | Mash Machine | 16.00% | ~92 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~11 |
 | Against All Odds | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 573 (Ranked 349)  
+Progressed: 574 (Ranked 349)  
 Completed: 6 (1.05%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 6 (1.05%) (Ranked 177)
 | 2024-01-22 | 555 | 6 |
 | 2024-01-23 | 558 | 6 |
 | 2024-01-24 | 565 | 6 |
-| 2024-01-25 | 573 | 6 |
+| 2024-01-25 | 574 | 6 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 511)  
 Sum: 35 (Ranked 542)  

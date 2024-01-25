@@ -1625,9 +1625,9 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 14993,
+  "EOS_Progressed": 14994,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10830,6 +10830,11 @@
       "Time": "2024-01-25T13:16:46.6969001+00:00",
       "NumProgressed": 14993,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-25T14:10:52.0333457+00:00",
+      "NumProgressed": 14994,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 24,
@@ -10889,7 +10894,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -10945,7 +10950,7 @@
       "Name": "The Levitator",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "Manners",
@@ -10953,7 +10958,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5697
+      "UsersEstimate": 5698
     },
     {
       "ID": "RookieWelcome",
@@ -11001,7 +11006,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13943
+      "UsersEstimate": 13944
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -11025,22 +11030,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11994
+      "UsersEstimate": 11995
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14993,
+      "Progressed": 14994,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-24T03:00:19.7270261+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:16:46.6968998+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:10:52.0333453+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:04:28.6015936+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:16:46.6969459+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:57:58.4657366+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:10:52.0334104+00:00"
 }

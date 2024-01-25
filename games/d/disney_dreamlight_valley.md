@@ -11,7 +11,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Valley's Helper | 59.00% | ~8,449 |
 | Constructor | 50.00% | ~7,160 |
 | Renovator | 50.00% | ~7,160 |
-| Bestest Friend | 44.00% | ~6,301 |
+| Bestest Friend | 45.00% | ~6,444 |
 | Banker | 38.00% | ~5,442 |
 | Gardener | 31.00% | ~4,439 |
 | Generous | 25.00% | ~3,580 |
@@ -256,7 +256,7 @@ Completed: 358 (2.50%) (Ranked 125)
 | 2024-01-25 | 14,320 | 358 |
 ## Awards
 Max (Great for Beginners): 1,202  (Ranked 151)  
-Sum: 8,477 (Ranked 113)  
+Sum: 8,478 (Ranked 113)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): 38
 | This game is Relaxing | 835 |
 | This game has Amazing Storytelling | 809 |
 | This game is Extremely Fun | 796 |
-| This game has Quickly Understood Controls | 785 |
+| This game has Quickly Understood Controls | 786 |
 | This game has a Creative Community | 743 |
 | This game has Easy Combat | 564 |
 | This game has Obsessive Gameplay | 415 |
@@ -590,4 +590,4 @@ Diff (max vs sum): 38
 | 2024-01-22 | 4.76 | - | 1,199 | 8,457 |
 | 2024-01-23 | 4.76 | - | 1,200 | 8,469 |
 | 2024-01-24 | 4.76 | - | 1,202 | 8,476 |
-| 2024-01-25 | 4.76 | - | 1,202 | 8,477 |
+| 2024-01-25 | 4.76 | - | 1,202 | 8,478 |

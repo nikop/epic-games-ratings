@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 410,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2024-01-25T01:55:29.7853762+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-25T14:05:38.547765+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -783,7 +788,7 @@
       "Name": "Treasure Hunting",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -815,7 +820,7 @@
       "Name": "The Steed",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MGR_complete",
@@ -831,7 +836,7 @@
       "Name": "Riddlesolver",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -879,7 +884,7 @@
       "Name": "Setting Off",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -927,7 +932,7 @@
       "Name": "A Strange Proposition",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "StrangerQuestlineLast",
@@ -957,9 +962,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "bad_ending",
@@ -973,9 +978,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "cards_discovered_complete",
@@ -983,7 +988,7 @@
       "Name": "Card Completionist",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "cards_discovered_half",
@@ -991,7 +996,7 @@
       "Name": "Card Collector",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "demiurge_defeated",
@@ -1005,9 +1010,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "git_gud?",
@@ -1086,7 +1091,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
@@ -1094,8 +1099,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:11:33.4199516+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:05:38.5477645+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.2740072+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:06:14.5150365+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:11:33.419985+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:00:13.921126+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:05:38.5477933+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 436,
-  "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -480,6 +480,11 @@
       "Time": "2024-01-23T17:09:31.8797992+00:00",
       "NumProgressed": 203,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T14:10:24.9045935+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -491,7 +496,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "LC-02",
@@ -499,7 +504,7 @@
       "Name": "Bakery Startup",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LC-03",
@@ -531,7 +536,7 @@
       "Name": "Adept Baker",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "LC-07",
@@ -619,14 +624,14 @@
       "Name": "Perfect Server",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 2
     }
   ],
@@ -634,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:16:24.0620561+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:10:24.9045932+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.8157757+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:05:52.0297511+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:16:24.0620778+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:59:45.6103526+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:10:24.9046101+00:00"
 }

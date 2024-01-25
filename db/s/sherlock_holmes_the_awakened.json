@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1636,
+  "EOS_Progressed": 1637,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
@@ -5769,6 +5769,11 @@
       "Time": "2024-01-25T11:07:31.596965+00:00",
       "NumProgressed": 1636,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-25T14:08:29.6849365+00:00",
+      "NumProgressed": 1637,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5780,7 +5785,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "MQ01_2",
@@ -5796,7 +5801,7 @@
       "Name": "High Profile",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "MQ02_2",
@@ -5812,7 +5817,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "MQ02_4",
@@ -5820,7 +5825,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "MQ03_1",
@@ -5836,7 +5841,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "MQ03_3",
@@ -5852,7 +5857,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "MQ03_5",
@@ -5876,7 +5881,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "MQ04_3",
@@ -5892,7 +5897,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "MQ05_2",
@@ -5908,7 +5913,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "MQ05_4",
@@ -5916,7 +5921,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "MQ06_1",
@@ -5932,7 +5937,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ06_3",
@@ -5948,7 +5953,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "MQ07_1",
@@ -5980,7 +5985,7 @@
       "Name": "Up In Flames",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ08_3",
@@ -6003,7 +6008,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1636,
+      "Progressed": 1637,
       "Completed": 51
     }
   ],
@@ -6011,8 +6016,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-23T12:03:16.4968274+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:13:18.522811+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:08:29.6849362+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:10:15.9117464+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:13:18.5228474+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:03:58.9219444+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:08:29.6849885+00:00"
 }

@@ -497,9 +497,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12209,
+  "EOS_Progressed": 12210,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6137,6 +6137,11 @@
       "Time": "2024-01-25T13:17:32.3563888+00:00",
       "NumProgressed": 12209,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-25T14:11:45.7571313+00:00",
+      "NumProgressed": 12210,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6179,9 +6184,9 @@
       "ID": "06_TheExpanseCalamity",
       "SetID": "37a94m8",
       "Name": "Expanse Calamity",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 610
     },
     {
       "ID": "07_TheGrandFinale",
@@ -6309,7 +6314,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "23_DynastyRestored",
@@ -6357,7 +6362,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6668,7 +6673,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12209,
+      "Progressed": 12210,
       "Completed": 1
     }
   ],
@@ -6676,8 +6681,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:17:32.3563882+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:11:45.7571311+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:06:17.9283138+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:17:32.3564707+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:00:18.3746352+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:11:45.757209+00:00"
 }

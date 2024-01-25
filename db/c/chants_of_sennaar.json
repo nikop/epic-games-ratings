@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3000,
+  "EOS_Progressed": 3001,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 7.83,
   "EosHistory": [
@@ -8081,6 +8081,11 @@
       "Time": "2024-01-25T12:04:42.1237892+00:00",
       "NumProgressed": 3000,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2024-01-25T14:05:49.0708008+00:00",
+      "NumProgressed": 3001,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 25,
@@ -8130,9 +8135,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 900
+      "UsersEstimate": 870
     },
     {
       "ID": "META_RESULT_1-2",
@@ -8170,9 +8175,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 450
     },
     {
       "ID": "META_RESULT_3-4",
@@ -8236,7 +8241,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8252,7 +8257,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "PROGRESS_N2",
@@ -8291,7 +8296,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 3000,
+      "Progressed": 3001,
       "Completed": 235
     }
   ],
@@ -8299,8 +8304,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:11:41.8502914+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:05:49.0708004+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:04:19.5377644+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:11:41.850367+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:57:46.9312519+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:05:49.0708618+00:00"
 }

@@ -9255,10 +9255,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762785,
+  "EOS_Progressed": 762796,
   "EOS_Completed": 13008,
   "EOS_NewPlayers": 1191,
-  "EOS_NewCompleters": 17,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -35305,6 +35305,11 @@
       "Time": "2024-01-25T13:17:07.0650658+00:00",
       "NumProgressed": 762785,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-25T14:11:16.6693053+00:00",
+      "NumProgressed": 762796,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35316,7 +35321,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45767
+      "UsersEstimate": 45768
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35324,7 +35329,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38139
+      "UsersEstimate": 38140
     },
     {
       "ID": "03_Vengeance_H2",
@@ -35372,7 +35377,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     },
     {
       "ID": "09_Wude_H3",
@@ -35380,7 +35385,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     },
     {
       "ID": "10_Wude_H4",
@@ -35388,7 +35393,7 @@
       "Name": "Iron Money",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     },
     {
       "ID": "11_Wude_H5",
@@ -35492,7 +35497,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38139
+      "UsersEstimate": 38140
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -35580,7 +35585,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38139
+      "UsersEstimate": 38140
     },
     {
       "ID": "35_WideStrike",
@@ -35795,21 +35800,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72086,
+      "Progressed": 72097,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762785,
+      "Progressed": 762796,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-25T13:10:10.2468767+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:17:07.0650654+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:11:16.6693049+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:10:10.2468774+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:17:07.0652383+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:03:51.8696089+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:11:16.6695571+00:00"
 }

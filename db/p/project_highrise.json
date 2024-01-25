@@ -1906,9 +1906,9 @@
       "ID": "ach_art_outside",
       "SetID": "b8gh1fi",
       "Name": "Statue Stature",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_art_small",
@@ -1994,9 +1994,9 @@
       "ID": "ach_consultants_b",
       "SetID": "b8gh1fi",
       "Name": "I\u0027m Busy Ruling",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_consultants_c",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:12:33.4946655+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:06:53.4101747+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:05:34.2685767+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:12:33.494754+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:59:23.0209916+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:06:53.410246+00:00"
 }

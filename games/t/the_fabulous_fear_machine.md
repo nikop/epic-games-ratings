@@ -23,10 +23,10 @@
 | Pulp! Adventures into the Unknown | 23.00% | ~21 |
 | The seer | 20.00% | ~19 |
 | Welcome to Hellville | 20.00% | ~19 |
+| You've awakened the beast | 18.00% | ~17 |
+| Hate is... addictive | 18.00% | ~17 |
 | You had one wish left | 18.00% | ~17 |
 | Kirlian's best disciple | 18.00% | ~17 |
-| You've awakened the beast | 17.00% | ~16 |
-| Hate is... addictive | 17.00% | ~16 |
 | The bully | 17.00% | ~16 |
 | Blessed antennas | 16.00% | ~15 |
 | Pulp! The Beyond | 15.00% | ~14 |
@@ -45,12 +45,12 @@
 | Pulp! Tales from the Crypt | 6.00% | ~6 |
 | Pulp! Skeleton Hand | 4.00% | ~4 |
 | Thirst for Oleum | 4.00% | ~4 |
+| Troy is burning! | 4.00% | ~4 |
 | Pulp! The Perfect Crime | 3.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~3 |
 | Pulp! Heart Throbs | 3.00% | ~3 |
 | Pulp! Mister Mystery | 3.00% | ~3 |
 | Pulp! The Vault of Horror | 3.00% | ~3 |
-| Troy is burning! | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93 (Ranked 512)  
 Completed: 1 (1.08%) (Ranked 175)  

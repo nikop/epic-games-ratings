@@ -446,9 +446,9 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ASSISTS_DELIVERY",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:11:52.9493145+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:06:02.4214702+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:04:16.2737342+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:11:52.9493421+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:57:42.8457135+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:06:02.4214916+00:00"
 }

@@ -5649,9 +5649,9 @@
       "Count": 690
     }
   ],
-  "EOS_Progressed": 24217,
+  "EOS_Progressed": 24218,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17914,6 +17914,11 @@
       "Time": "2024-01-25T13:16:16.2835167+00:00",
       "NumProgressed": 24217,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-25T14:10:15.6832842+00:00",
+      "NumProgressed": 24218,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17950,7 +17955,7 @@
       "Name": "What Just Happened??",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 7749
+      "UsersEstimate": 7750
     },
     {
       "ID": "ach05",
@@ -17982,7 +17987,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7749
+      "UsersEstimate": 7750
     },
     {
       "ID": "ach09",
@@ -18094,7 +18099,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4843
+      "UsersEstimate": 4844
     },
     {
       "ID": "ach23",
@@ -18174,7 +18179,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4843
+      "UsersEstimate": 4844
     },
     {
       "ID": "ach33",
@@ -18254,7 +18259,7 @@
       "Name": "Quest Master",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7749
+      "UsersEstimate": 7750
     },
     {
       "ID": "ach43",
@@ -18294,7 +18299,7 @@
       "Name": "Big Spender",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "ach48",
@@ -18318,14 +18323,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7507
+      "UsersEstimate": 7508
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24217,
+      "Progressed": 24218,
       "Completed": 2
     }
   ],
@@ -18333,8 +18338,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-25T13:09:57.5738208+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:16:16.2835162+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:10:15.6832839+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:09:57.5738215+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:16:16.2835982+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:03:36.0274364+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:10:15.6833613+00:00"
 }

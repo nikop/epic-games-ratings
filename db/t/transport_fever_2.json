@@ -2,7 +2,7 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 244,
@@ -7221,9 +7221,9 @@
       "ID": "achAccumulate1M",
       "SetID": "dgl390n",
       "Name": "Transport millionaire",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1309
     },
     {
       "ID": "achAircraftEarnings",
@@ -7677,8 +7677,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:16:54.7656633+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:11:02.1420518+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.5683931+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:10:04.1276125+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:16:54.7657407+00:00"
+  "LastUpdate_Ratings": "2024-01-25T14:03:44.244333+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:11:02.1421099+00:00"
 }

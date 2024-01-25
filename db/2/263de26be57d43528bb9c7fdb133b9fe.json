@@ -470,9 +470,9 @@
       "ID": "MONEY_100K",
       "SetID": "89ki2f0",
       "Name": "Hiding your wealth",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "MONEY_10K",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T13:11:37.8905192+00:00",
+  "LastChanged_Achievements": "2024-01-25T14:05:44.1350836+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-25T13:04:55.8237917+00:00",
-  "LastUpdate_Achievements": "2024-01-25T13:11:37.8905432+00:00"
+  "LastUpdate_Ratings": "2024-01-25T13:58:33.3542534+00:00",
+  "LastUpdate_Achievements": "2024-01-25T14:05:44.1350937+00:00"
 }

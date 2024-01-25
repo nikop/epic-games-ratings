@@ -6,45 +6,45 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 74.00% | ~321,997 |
-| Full garage | 61.00% | ~265,430 |
-| To the eyeballs! | 51.00% | ~221,917 |
-| Individual delivery | 47.00% | ~204,512 |
-| Non-Stop | 45.00% | ~195,809 |
-| Juggler | 36.00% | ~156,647 |
-| Forgot something | 35.00% | ~152,296 |
-| Close call! | 31.00% | ~134,891 |
-| Get out my way | 28.00% | ~121,837 |
-| Common cause | 26.00% | ~113,134 |
-| Critical care | 26.00% | ~113,134 |
-| Mega-railroad | 23.00% | ~100,080 |
-| Upgrade complete | 23.00% | ~100,080 |
-| Just in time! | 18.00% | ~78,324 |
-| Builder | 17.00% | ~73,972 |
-| Long Haul | 17.00% | ~73,860 |
-| Steam Age | 16.00% | ~69,621 |
-| Multilevel road | 15.00% | ~65,270 |
-| Need to think | 15.00% | ~65,270 |
-| Bridgemania | 14.00% | ~60,918 |
-| The Tortoise | 12.00% | ~52,216 |
-| Beginner | 11.00% | ~47,864 |
-| Without a lunch break | 11.00% | ~47,864 |
-| One way | 10.00% | ~43,513 |
-| Relocation | 10.00% | ~43,513 |
-| Industrial Age | 9.00% | ~39,162 |
-| Prick of conscience | 9.00% | ~39,162 |
-| Just One More Valley | 9.00% | ~39,102 |
-| Missed it! | 7.00% | ~30,459 |
-| At the last moment! | 6.00% | ~26,108 |
-| Overseer | 6.00% | ~26,108 |
+| Dealmaker | 74.00% | ~322,005 |
+| Full garage | 61.00% | ~265,437 |
+| To the eyeballs! | 51.00% | ~221,922 |
+| Individual delivery | 47.00% | ~204,517 |
+| Non-Stop | 45.00% | ~195,814 |
+| Juggler | 36.00% | ~156,651 |
+| Forgot something | 35.00% | ~152,300 |
+| Close call! | 31.00% | ~134,894 |
+| Get out my way | 28.00% | ~121,840 |
+| Common cause | 26.00% | ~113,137 |
+| Critical care | 26.00% | ~113,137 |
+| Mega-railroad | 23.00% | ~100,083 |
+| Upgrade complete | 23.00% | ~100,083 |
+| Just in time! | 18.00% | ~78,326 |
+| Builder | 17.00% | ~73,974 |
+| Long Haul | 17.00% | ~73,862 |
+| Steam Age | 16.00% | ~69,623 |
+| Multilevel road | 15.00% | ~65,271 |
+| Need to think | 15.00% | ~65,271 |
+| Bridgemania | 14.00% | ~60,920 |
+| The Tortoise | 12.00% | ~52,217 |
+| Beginner | 11.00% | ~47,866 |
+| Without a lunch break | 11.00% | ~47,866 |
+| One way | 10.00% | ~43,514 |
+| Relocation | 10.00% | ~43,514 |
+| Industrial Age | 9.00% | ~39,163 |
+| Prick of conscience | 9.00% | ~39,163 |
+| Just One More Valley | 9.00% | ~39,103 |
+| Missed it! | 7.00% | ~30,460 |
+| At the last moment! | 6.00% | ~26,109 |
+| Overseer | 6.00% | ~26,109 |
 | Electrical Age | 5.00% | ~21,757 |
 | Highlander | 5.00% | ~21,757 |
 | Jewelry accuracy | 5.00% | ~21,757 |
 | Stargazer | 5.00% | ~21,757 |
-| Bridge builder | 4.00% | ~17,405 |
-| Engineer | 4.00% | ~17,405 |
-| Large construction | 4.00% | ~17,405 |
-| Squander | 4.00% | ~17,405 |
+| Bridge builder | 4.00% | ~17,406 |
+| Engineer | 4.00% | ~17,406 |
+| Large construction | 4.00% | ~17,406 |
+| Squander | 4.00% | ~17,406 |
 | Globalisation Age | 3.00% | ~13,054 |
 | Living it large | 3.00% | ~13,054 |
 | Sabotage | 3.00% | ~13,054 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | The Hare | 2.00% | ~8,703 |
 | Will work | 2.00% | ~8,703 |
 | Woodcutter | 2.00% | ~8,703 |
-| Occupied! | 2.00% | ~8,689 |
+| Occupied! | 2.00% | ~8,690 |
 | Achiever | 1.00% | ~4,351 |
 | Environmental activist | 1.00% | ~4,351 |
 | Metro builder | 1.00% | ~4,351 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~434 |
 | World Zapper | 0.10% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435,131 (Ranked 46)  
+Progressed: 435,142 (Ranked 47)  
 Completed: 24 (0.01%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,10 +338,10 @@ Completed: 24 (0.01%) (Ranked 384)
 | 2024-01-22 | 434,702 | 24 |
 | 2024-01-23 | 434,889 | 24 |
 | 2024-01-24 | 435,052 | 24 |
-| 2024-01-25 | 435,131 | 24 |
+| 2024-01-25 | 435,142 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,067  (Ranked 160)  
-Sum: 2,216 (Ranked 215)  
+Sum: 2,217 (Ranked 215)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): -55
 | This game is Relaxing | 117 |
 | This game has Quickly Understood Controls | 114 |
 | This game is Highly Recommended | 111 |
-| This game has Challenging Combat | 94 |
+| This game has Challenging Combat | 95 |
 | This game has a Creative Community | 89 |
 | This game has Amazing Storytelling | 82 |
 | This game has Amazing Characters | 63 |
@@ -605,4 +605,4 @@ Diff (max vs sum): -55
 | 2024-01-22 | 4.45 | - | 1,063 | 2,208 |
 | 2024-01-23 | 4.45 | - | 1,063 | 2,209 |
 | 2024-01-24 | 4.46 | - | 1,067 | 2,214 |
-| 2024-01-25 | 4.46 | - | 1,067 | 2,216 |
+| 2024-01-25 | 4.46 | - | 1,067 | 2,217 |

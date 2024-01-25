@@ -10,9 +10,9 @@ Rating: 3.67 (Ranked 1,107)
 | Home Is Where the Heart Is | 17.00% | ~411 |
 | Wounded Whispers | 17.00% | ~411 |
 | ICU | 16.00% | ~387 |
-| Blood Will Have Blood | 14.00% | ~338 |
-| Ne Plus Ultra | 14.00% | ~338 |
-| Peek-a-boo | 14.00% | ~338 |
+| Blood Will Have Blood | 14.00% | ~339 |
+| Ne Plus Ultra | 14.00% | ~339 |
+| Peek-a-boo | 14.00% | ~339 |
 | Fly Fisher | 13.00% | ~314 |
 | Sucks To Be You | 13.00% | ~314 |
 | Enter of Your Own Free Will | 11.00% | ~266 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,107)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,417 (Ranked 248)  
+Progressed: 2,418 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 0 (0.00%) (Ranked 410)
 | 2024-01-22 | 2,413 | 0 |
 | 2024-01-23 | 2,415 | 0 |
 | 2024-01-24 | 2,417 | 0 |
+| 2024-01-25 | 2,418 | 0 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 532)  
 Sum: 30 (Ranked 552)  

@@ -24,8 +24,8 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Madison | 1.00% | ~74 |
 | The Crush | 0.90% | ~67 |
 | Casanova | 0.80% | ~59 |
-| Deck the Balls | 0.80% | ~35 |
-| It Smells Like Roses | 0.80% | ~35 |
+| Deck the Balls | 0.80% | ~36 |
+| It Smells Like Roses | 0.80% | ~36 |
 | Smooth Operator: Ashley | 0.80% | ~59 |
 | Stephanie | 0.80% | ~59 |
 | The Magic Number | 0.80% | ~59 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,398 (Ranked 201)  
+Progressed: 7,399 (Ranked 201)  
 Completed: 3 (0.04%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 3 (0.04%) (Ranked 360)
 | 2024-01-22 | 7,387 | 3 |
 | 2024-01-23 | 7,391 | 3 |
 | 2024-01-24 | 7,395 | 3 |
-| 2024-01-25 | 7,398 | 3 |
+| 2024-01-25 | 7,399 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
