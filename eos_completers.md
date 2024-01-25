@@ -103,7 +103,7 @@
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 103 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
-| 104 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.44% |
+| 104 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.43% |
 | 105 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.20% |
@@ -185,9 +185,9 @@
 | 183 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
 | 184 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.00% |
 | 185 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
-| 185 | [Lemon Cake](games/l/lemon_cake.md) | 0.99% |
 | 185 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.99% |
 | 185 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
+| 188 | [Lemon Cake](games/l/lemon_cake.md) | 0.98% |
 | 189 | [Trifox](games/t/trifox.md) | 0.94% |
 | 190 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
 | 190 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
@@ -312,15 +312,15 @@
 | 309 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 309 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 309 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
+| 313 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.12% |
 | 313 | [RAILGRADE](games/r/railgrade.md) | 0.12% |
 | 313 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
-| 315 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 315 | [Black Book](games/b/black_book.md) | 0.11% |
-| 315 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
-| 315 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.11% |
-| 315 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
-| 315 | [Supraland](games/s/supraland.md) | 0.11% |
-| 315 | [The Invincible](games/t/the_invincible.md) | 0.11% |
+| 316 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 316 | [Black Book](games/b/black_book.md) | 0.11% |
+| 316 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
+| 316 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
+| 316 | [Supraland](games/s/supraland.md) | 0.11% |
+| 316 | [The Invincible](games/t/the_invincible.md) | 0.11% |
 | 322 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 322 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 322 | [Isonzo](games/i/isonzo.md) | 0.10% |
