@@ -25,11 +25,11 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.39% |
-| 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.24% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.76% |
-| 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
+| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 27 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.09% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.08% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -50,7 +50,7 @@
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.88% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.87% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
@@ -115,12 +115,12 @@
 | 113 | [HordeCore](games/h/hordecore.md) | 3.02% |
 | 114 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2.94% |
 | 115 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 116 | [Yars: Recharged](games/y/yars__recharged.md) | 2.91% |
-| 117 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
-| 118 | [Lamentum](games/l/lamentum.md) | 2.86% |
-| 118 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
-| 120 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.78% |
-| 120 | [Without Escape](games/w/without_escape.md) | 2.78% |
+| 116 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
+| 117 | [Lamentum](games/l/lamentum.md) | 2.86% |
+| 117 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
+| 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.78% |
+| 119 | [Without Escape](games/w/without_escape.md) | 2.78% |
+| 121 | [Yars: Recharged](games/y/yars__recharged.md) | 2.76% |
 | 122 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 123 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 124 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.58% |
