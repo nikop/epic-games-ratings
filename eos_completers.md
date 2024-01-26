@@ -54,7 +54,7 @@
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
-| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.47% |
+| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.46% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.39% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.34% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
@@ -70,7 +70,7 @@
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
 | 69 | [Time Loader](games/t/time_loader.md) | 6.12% |
 | 70 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
-| 71 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.00% |
+| 71 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 5.94% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.84% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
@@ -110,12 +110,12 @@
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
 | 110 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.11% |
-| 111 | [Yars: Recharged](games/y/yars__recharged.md) | 3.07% |
-| 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
-| 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
-| 114 | [HordeCore](games/h/hordecore.md) | 3.02% |
-| 115 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2.94% |
-| 116 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
+| 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
+| 113 | [HordeCore](games/h/hordecore.md) | 3.02% |
+| 114 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2.94% |
+| 115 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 116 | [Yars: Recharged](games/y/yars__recharged.md) | 2.91% |
 | 117 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
 | 118 | [Lamentum](games/l/lamentum.md) | 2.86% |
 | 118 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
@@ -310,14 +310,14 @@
 | 306 | [Scathe](games/s/scathe.md) | 0.14% |
 | 306 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
 | 310 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.13% |
-| 310 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.13% |
 | 310 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
 | 310 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 310 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 310 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
-| 316 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 316 | [RAILGRADE](games/r/railgrade.md) | 0.12% |
-| 316 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
+| 315 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 315 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.12% |
+| 315 | [RAILGRADE](games/r/railgrade.md) | 0.12% |
+| 315 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
 | 319 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 319 | [Black Book](games/b/black_book.md) | 0.11% |
 | 319 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
@@ -341,15 +341,15 @@
 | 338 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
 | 338 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
 | 341 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 341 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 0.07% |
-| 343 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.06% |
-| 343 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
-| 343 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 343 | [DEATH STRANDING](games/d/death_stranding.md) | 0.06% |
-| 343 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.06% |
-| 343 | [High On Life](games/h/high_on_life.md) | 0.06% |
-| 343 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.06% |
-| 343 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 342 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.06% |
+| 342 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
+| 342 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 342 | [DEATH STRANDING](games/d/death_stranding.md) | 0.06% |
+| 342 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.06% |
+| 342 | [High On Life](games/h/high_on_life.md) | 0.06% |
+| 342 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.06% |
+| 342 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 0.06% |
+| 342 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 351 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 351 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
 | 351 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
