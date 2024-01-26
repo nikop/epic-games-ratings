@@ -97,16 +97,16 @@
 | 95 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.84% |
 | 97 | [The Bunker](games/t/the_bunker.md) | 3.74% |
-| 98 | [Yars: Recharged](games/y/yars__recharged.md) | 3.68% |
-| 99 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
-| 100 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.62% |
-| 101 | [Doodle God](games/d/doodle_god.md) | 3.57% |
-| 101 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
-| 101 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
-| 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.49% |
-| 105 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
-| 106 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.43% |
-| 107 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
+| 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
+| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.62% |
+| 100 | [Doodle God](games/d/doodle_god.md) | 3.57% |
+| 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
+| 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
+| 103 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.49% |
+| 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
+| 105 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.43% |
+| 106 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
+| 107 | [Yars: Recharged](games/y/yars__recharged.md) | 3.40% |
 | 108 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 109 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 110 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
