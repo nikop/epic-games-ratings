@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -19136,10 +19136,10 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1058893,
-  "EOS_Completed": 3164,
-  "EOS_NewPlayers": 4191,
-  "EOS_NewCompleters": 40,
+  "EOS_Progressed": 1058915,
+  "EOS_Completed": 3165,
+  "EOS_NewPlayers": 4180,
+  "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51341,6 +51341,11 @@
       "Time": "2024-01-26T08:09:44.9731106+00:00",
       "NumProgressed": 1058893,
       "NumCompleted": 3164
+    },
+    {
+      "Time": "2024-01-26T09:09:31.2213915+00:00",
+      "NumProgressed": 1058915,
+      "NumCompleted": 3165
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51393,7 +51398,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "Fortuneteller",
@@ -51449,7 +51454,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -51481,7 +51486,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "MustBeTheRats",
@@ -51657,7 +51662,7 @@
       "Name": "True Warrior",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -51888,21 +51893,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058893,
-      "Completed": 3164
+      "Progressed": 1058915,
+      "Completed": 3165
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187516,
-      "Completed": 10702
+      "Progressed": 187538,
+      "Completed": 10703
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T07:03:36.0384729+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:09:44.9731101+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:09:31.2213912+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:03:35.7706468+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:09:44.9732959+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:03:31.8596687+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:09:31.2216131+00:00"
 }

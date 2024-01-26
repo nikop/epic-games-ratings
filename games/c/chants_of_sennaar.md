@@ -15,9 +15,9 @@ Rating: 4.87 (Ranked 24)
 | The darkness | 33.00% | ~994 |
 | A good beginning | 32.00% | ~964 |
 | One last step | 31.00% | ~934 |
+| Half the way | 30.00% | ~904 |
 | I did it | 29.00% | ~873 |
 | Cable guy | 29.00% | ~873 |
-| Half the way | 29.00% | ~873 |
 | In this together | 28.00% | ~843 |
 | Peace walker | 28.00% | ~843 |
 | Champollion | 28.00% | ~843 |
@@ -32,7 +32,7 @@ Rating: 4.87 (Ranked 24)
 | Fashion victim | 10.00% | ~301 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,012 (Ranked 236)  
-Completed: 237 (7.87%) (Ranked 51)  
+Completed: 238 (7.90%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,7 +219,7 @@ Completed: 237 (7.87%) (Ranked 51)
 | 2024-01-23 | 2,982 | 233 |
 | 2024-01-24 | 2,996 | 234 |
 | 2024-01-25 | 3,005 | 236 |
-| 2024-01-26 | 3,012 | 237 |
+| 2024-01-26 | 3,012 | 238 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

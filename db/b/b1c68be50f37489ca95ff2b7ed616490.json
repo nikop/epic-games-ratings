@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2024-01-24T19:03:37.4104782+00:00",
       "NumProgressed": 354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T09:04:37.9760071+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1536,7 +1541,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "10",
@@ -1622,9 +1627,9 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "20",
@@ -1648,7 +1653,7 @@
       "Name": "I know kung fu",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "23",
@@ -1680,7 +1685,7 @@
       "Name": "The only useful pigeon is a stool pigeon",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "27",
@@ -1688,7 +1693,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "3",
@@ -1712,7 +1717,7 @@
       "Name": "The power of observation",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "6",
@@ -1720,7 +1725,7 @@
       "Name": "A true detective",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "7",
@@ -1736,7 +1741,7 @@
       "Name": "You\u0027re probably wondering how I got here...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "9",
@@ -1751,14 +1756,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:04:40.2149864+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:04:37.9760069+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:24.0691623+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:03:33.8777454+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:04:40.2150195+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:03:29.9261921+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:04:37.9760266+00:00"
 }

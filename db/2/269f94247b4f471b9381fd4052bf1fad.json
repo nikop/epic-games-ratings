@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -319,9 +319,9 @@
       "ID": "ACH_ARCHEOLOGIST",
       "SetID": "6lg1p1e",
       "Name": "Archeologist",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ATLAS",
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:09:54.1006723+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:09:41.6489012+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:48.0822274+00:00",
   "LastUpdate_Ratings": "2024-01-26T08:02:56.0353815+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:09:54.1006918+00:00"
+  "LastUpdate_Achievements": "2024-01-26T09:09:41.648924+00:00"
 }

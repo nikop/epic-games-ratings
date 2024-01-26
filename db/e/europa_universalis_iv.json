@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -14797,10 +14797,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65835,
       "NumberOfAwardsMax": 7975
+    },
+    {
+      "Time": "2024-01-26T08:58:47.4566864+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65858,
+      "NumberOfAwardsMax": 7975
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65835,
+  "NumberOfAwards": 65858,
   "NumberOfAwardsMax": 7975,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14844,13 +14850,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 7138
+      "Count": 7150
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7303
+      "Count": 7314
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14871,9 +14877,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 505630,
+  "EOS_Progressed": 505655,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4171,
+  "EOS_NewPlayers": 4181,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47331,6 +47337,11 @@
       "Time": "2024-01-26T08:10:56.7824577+00:00",
       "NumProgressed": 505630,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T09:10:42.7153815+00:00",
+      "NumProgressed": 505655,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -50006,7 +50017,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -50245,21 +50256,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 505630,
+      "Progressed": 505655,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 505630,
+      "Progressed": 505655,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-26T07:58:50.8294737+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:10:56.7824573+00:00",
+  "LastChanged": "2024-01-26T08:58:47.4566862+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:10:42.7153812+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:58:50.8294745+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:10:56.7834992+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:58:47.4566871+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:10:42.7163832+00:00"
 }

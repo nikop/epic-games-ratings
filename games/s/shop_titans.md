@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,347 |
-| Titan's First Steps | 12.00% | ~18,347 |
-| Basic in Bulk | 11.00% | ~16,818 |
+| Sponsored by Argon | 12.00% | ~18,348 |
+| Titan's First Steps | 12.00% | ~18,348 |
+| Basic in Bulk | 11.00% | ~16,819 |
 | Tinkle of Coins | 10.00% | ~15,290 |
 | Disintermediation | 8.00% | ~12,232 |
 | It's Free Real Estate | 8.00% | ~12,232 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~612 |
 | Capitalist Camaraderie | 0.30% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,895 (Ranked 87)  
+Progressed: 152,897 (Ranked 87)  
 Completed: 364 (0.24%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,14 +400,14 @@ Completed: 364 (0.24%) (Ranked 282)
 | 2024-01-23 | 152,616 | 362 |
 | 2024-01-24 | 152,717 | 363 |
 | 2024-01-25 | 152,844 | 364 |
-| 2024-01-26 | 152,895 | 364 |
+| 2024-01-26 | 152,897 | 364 |
 ## Awards
-Max (Great for Beginners): 4,980  (Ranked 84)  
-Sum: 28,060 (Ranked 52)  
+Max (Great for Beginners): 4,982  (Ranked 84)  
+Sum: 28,062 (Ranked 52)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,980 |
+| This game is Great for Beginners | 4,982 |
 | This game is Relaxing | 4,086 |
 | This game has Quickly Understood Controls | 4,080 |
 | This game has Diverse Characters | 4,047 |
@@ -778,3 +778,4 @@ Diff (max vs sum): 32
 | 2024-01-23 | 4.00 | - | 4,975 | 28,045 |
 | 2024-01-24 | 4.00 | - | 4,980 | 28,053 |
 | 2024-01-25 | 4.00 | - | 4,980 | 28,060 |
+| 2024-01-26 | 4.00 | - | 4,982 | 28,062 |

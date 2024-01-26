@@ -1,29 +1,29 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.71 (Ranked 205)  
+Rating: 4.71 (Ranked 206)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,900 |
-| First of Many | 12.00% | ~35,908 |
-| Not Your Average Trait | 10.00% | ~29,923 |
-| Expanding Horizons | 9.00% | ~26,931 |
-| Gleaming the Cube | 8.00% | ~23,939 |
-| Quest for Survival | 8.00% | ~23,939 |
-| Familiar Face | 8.00% | ~23,939 |
-| Boss'n Up | 8.00% | ~23,939 |
-| Trait Chaser | 8.00% | ~23,939 |
-| Not So Special Now | 7.00% | ~20,946 |
-| Not a Janitor | 7.00% | ~20,946 |
-| Duality | 7.00% | ~20,946 |
-| Equal Measures | 6.00% | ~17,954 |
-| Blue Goddess | 6.00% | ~17,954 |
-| Top Performer | 6.00% | ~17,954 |
-| Shhh...It's a Secret | 6.00% | ~17,954 |
-| Almost There | 6.00% | ~17,954 |
-| Make Some Room | 6.00% | ~17,954 |
-| Good, But Could Be Better! | 6.00% | ~17,954 |
+| The Killing Jar | 13.00% | ~38,902 |
+| First of Many | 12.00% | ~35,909 |
+| Not Your Average Trait | 10.00% | ~29,924 |
+| Expanding Horizons | 9.00% | ~26,932 |
+| Gleaming the Cube | 8.00% | ~23,940 |
+| Quest for Survival | 8.00% | ~23,940 |
+| Familiar Face | 8.00% | ~23,940 |
+| Boss'n Up | 8.00% | ~23,940 |
+| Trait Chaser | 8.00% | ~23,940 |
+| Not So Special Now | 7.00% | ~20,947 |
+| Not a Janitor | 7.00% | ~20,947 |
+| Duality | 7.00% | ~20,947 |
+| Equal Measures | 6.00% | ~17,955 |
+| Blue Goddess | 6.00% | ~17,955 |
+| Top Performer | 6.00% | ~17,955 |
+| Shhh...It's a Secret | 6.00% | ~17,955 |
+| Almost There | 6.00% | ~17,955 |
+| Make Some Room | 6.00% | ~17,955 |
+| Good, But Could Be Better! | 6.00% | ~17,955 |
 | Am I Seeing This? | 5.00% | ~14,962 |
 | Chaos | 5.00% | ~14,962 |
 | Traitor | 5.00% | ~14,962 |
@@ -34,11 +34,11 @@ Rating: 4.71 (Ranked 205)
 | Was This Supposed To Happen? | 5.00% | ~14,962 |
 | The Web | 5.00% | ~14,962 |
 | Scrap Collector | 5.00% | ~14,962 |
-| Madman's Paradise | 4.00% | ~11,969 |
-| The Agenda | 4.00% | ~11,969 |
-| Bad Moon Rising | 4.00% | ~11,969 |
-| Strapped | 4.00% | ~11,969 |
-| All These Traits� | 4.00% | ~11,969 |
+| Madman's Paradise | 4.00% | ~11,970 |
+| The Agenda | 4.00% | ~11,970 |
+| Bad Moon Rising | 4.00% | ~11,970 |
+| Strapped | 4.00% | ~11,970 |
+| All These Traits� | 4.00% | ~11,970 |
 | Red Room | 3.00% | ~8,977 |
 | Tall Tales | 3.00% | ~8,977 |
 | Edgelord | 3.00% | ~8,977 |
@@ -61,8 +61,8 @@ Rating: 4.71 (Ranked 205)
 | You Shall Pass | 0.80% | ~627 |
 | A Foul Feast | 0.50% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,233 (Ranked 65)  
-Completed: 1,258 (0.42%) (Ranked 247)  
+Progressed: 299,245 (Ranked 65)  
+Completed: 1,259 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 1,258 (0.42%) (Ranked 247)
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
 | 2024-01-25 | 299,157 | 1,254 |
-| 2024-01-26 | 299,233 | 1,258 |
+| 2024-01-26 | 299,245 | 1,259 |
 ## Awards
 Max (Great Boss Battles): 7,624  (Ranked 56)  
 Sum: 17,588 (Ranked 64)  

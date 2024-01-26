@@ -6,22 +6,22 @@ Rating: 4.62 (Ranked 387)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,864 |
-| First Love | 46.00% | ~1,714 |
-| Clean Race | 45.00% | ~1,677 |
+| First Love | 46.00% | ~1,715 |
+| Clean Race | 45.00% | ~1,678 |
 | Hear That Roar! | 43.00% | ~1,603 |
-| Bitter Rivalry | 31.00% | ~1,155 |
-| Rivals to the End | 31.00% | ~1,155 |
+| Bitter Rivalry | 31.00% | ~1,156 |
+| Rivals to the End | 31.00% | ~1,156 |
 | Champagne Spray | 30.00% | ~1,118 |
 | We're Going to Need a Bigger Garage | 28.00% | ~1,044 |
 | Quick Pit Stop | 23.00% | ~857 |
 | Restored and Ready | 21.00% | ~783 |
 | I Want One Too! | 21.00% | ~783 |
-| Legendary!!! | 20.00% | ~745 |
+| Legendary!!! | 20.00% | ~746 |
 | Go-Faster Stripes | 18.00% | ~671 |
 | I'm Here Too! | 15.00% | ~559 |
 | We've Just Begun | 15.00% | ~559 |
 | Is It the Right Size? | 10.00% | ~373 |
-| Stamina Star | 9.00% | ~335 |
+| Stamina Star | 9.00% | ~336 |
 | Evangelist | 7.00% | ~261 |
 | Make It Your Own! | 5.00% | ~186 |
 | Cherry Blossom and Temples | 5.00% | ~186 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 387)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,727 (Ranked 226)  
+Progressed: 3,728 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 3,691 | 0 |
 | 2024-01-24 | 3,706 | 0 |
 | 2024-01-25 | 3,725 | 0 |
-| 2024-01-26 | 3,727 | 0 |
+| 2024-01-26 | 3,728 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

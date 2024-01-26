@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 544,
+  "EOS_Progressed": 545,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2134,6 +2134,11 @@
       "Time": "2024-01-24T09:04:21.8627044+00:00",
       "NumProgressed": 544,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T09:05:03.3680615+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2226,7 +2231,7 @@
       "Name": "Misery",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "AC_BOSS_02",
@@ -2234,7 +2239,7 @@
       "Name": "Downfall",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AC_BOSS_03",
@@ -2242,7 +2247,7 @@
       "Name": "Sacrilege",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "AC_BOSS_04",
@@ -2258,7 +2263,7 @@
       "Name": "Pack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "AC_COMBO_2",
@@ -2290,7 +2295,7 @@
       "Name": "Corpse",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "AC_DEATH_2",
@@ -2314,7 +2319,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2322,7 +2327,7 @@
       "Name": "Psycopath",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2338,7 +2343,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2386,7 +2391,7 @@
       "Name": "Schooling",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2481,14 +2486,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 544,
+      "Progressed": 545,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:05:05.2045724+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:05:03.3680612+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.4116417+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:00:29.9329474+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:05:05.2046051+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:00:28.3204876+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:05:03.3681178+00:00"
 }

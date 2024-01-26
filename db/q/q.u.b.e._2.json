@@ -3,8 +3,8 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 733,
-  "Ranking_Popularity": 591,
-  "Ranking_PopularitySum": 591,
+  "Ranking_Popularity": 592,
+  "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 115,
@@ -617,9 +617,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48370,
+  "EOS_Progressed": 48371,
   "EOS_Completed": 255,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -15497,6 +15497,11 @@
       "Time": "2024-01-26T08:10:13.2342672+00:00",
       "NumProgressed": 48370,
       "NumCompleted": 255
+    },
+    {
+      "Time": "2024-01-26T09:09:59.9621614+00:00",
+      "NumProgressed": 48371,
+      "NumCompleted": 255
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15669,7 +15674,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 25152
+      "UsersEstimate": 25153
     },
     {
       "ID": "ACH_PEAK",
@@ -15693,7 +15698,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "ACH_S1",
@@ -15709,7 +15714,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24185
+      "UsersEstimate": 24186
     },
     {
       "ID": "ACH_S5",
@@ -15725,7 +15730,7 @@
       "Name": "Lost in Space",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 35794
+      "UsersEstimate": 35795
     },
     {
       "ID": "ACH_STATUE",
@@ -15733,22 +15738,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20799
+      "UsersEstimate": 20800
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48370,
+      "Progressed": 48371,
       "Completed": 255
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-25T19:00:45.1944783+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:10:13.2342668+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:09:59.9621609+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:02:57.4951166+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:10:13.2343413+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:02:54.4750736+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:09:59.9622258+00:00"
 }

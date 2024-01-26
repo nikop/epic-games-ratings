@@ -6,49 +6,49 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 85.00% | ~434,607 |
-| Leader | 49.00% | ~250,538 |
-| Healer | 39.00% | ~199,408 |
-| Explorer | 37.00% | ~189,182 |
-| Aspiring Inventor | 29.00% | ~148,278 |
-| Adventurer | 28.00% | ~143,165 |
-| Famous Healer | 25.00% | ~127,826 |
-| Local Leader | 22.00% | ~112,486 |
-| Famous Explorer | 21.00% | ~107,373 |
-| New Opportunities | 21.00% | ~107,373 |
-| Energized | 21.00% | ~107,373 |
-| Survivor | 21.00% | ~107,373 |
-| The Great Healer | 20.00% | ~102,260 |
-| Catastrofan | 19.00% | ~97,147 |
-| The Long Haul | 19.00% | ~97,147 |
-| Legendary Explorer | 17.00% | ~86,921 |
-| Cleaner | 17.00% | ~86,921 |
-| Finders, Keepers | 16.00% | ~81,808 |
-| Top Notch | 15.00% | ~76,695 |
-| Great Leader | 14.00% | ~71,582 |
-| Ice Lakes | 14.00% | ~71,582 |
-| Mentor | 14.00% | ~71,582 |
-| Real Survivor | 14.00% | ~71,582 |
-| Merchant | 12.00% | ~61,356 |
-| Rocket Surgeon | 12.00% | ~61,356 |
-| Around the World | 11.00% | ~56,243 |
-| Spreading Influence | 11.00% | ~56,243 |
-| Big Game Hunter | 10.00% | ~51,130 |
-| War Never Changes | 10.00% | ~51,130 |
-| Sky Burial | 10.00% | ~51,130 |
-| Friendly | 9.00% | ~46,017 |
-| Famous Adventurer | 9.00% | ~46,017 |
-| Bookworm | 9.00% | ~46,017 |
-| Prepared for Anything | 8.00% | ~40,904 |
-| Big Catastrofan | 8.00% | ~40,904 |
-| It's a Finnish Thing | 6.00% | ~30,678 |
-| Bread and Circuses | 6.00% | ~30,678 |
-| Trader | 5.00% | ~25,565 |
-| New Eden | 4.00% | ~20,452 |
-| Amped Up | 4.00% | ~20,452 |
-| Really Friendly | 3.00% | ~15,339 |
-| Luxurious Living | 3.00% | ~15,339 |
-| Look, no Hands! | 3.00% | ~15,339 |
+| First Step | 85.00% | ~434,622 |
+| Leader | 49.00% | ~250,547 |
+| Healer | 39.00% | ~199,415 |
+| Explorer | 37.00% | ~189,188 |
+| Aspiring Inventor | 29.00% | ~148,283 |
+| Adventurer | 28.00% | ~143,170 |
+| Famous Healer | 25.00% | ~127,830 |
+| Local Leader | 22.00% | ~112,490 |
+| Famous Explorer | 21.00% | ~107,377 |
+| New Opportunities | 21.00% | ~107,377 |
+| Energized | 21.00% | ~107,377 |
+| Survivor | 21.00% | ~107,377 |
+| The Great Healer | 20.00% | ~102,264 |
+| Catastrofan | 19.00% | ~97,151 |
+| The Long Haul | 19.00% | ~97,151 |
+| Legendary Explorer | 17.00% | ~86,924 |
+| Cleaner | 17.00% | ~86,924 |
+| Finders, Keepers | 16.00% | ~81,811 |
+| Top Notch | 15.00% | ~76,698 |
+| Great Leader | 14.00% | ~71,585 |
+| Ice Lakes | 14.00% | ~71,585 |
+| Mentor | 14.00% | ~71,585 |
+| Real Survivor | 14.00% | ~71,585 |
+| Merchant | 12.00% | ~61,358 |
+| Rocket Surgeon | 12.00% | ~61,358 |
+| Around the World | 11.00% | ~56,245 |
+| Spreading Influence | 11.00% | ~56,245 |
+| Big Game Hunter | 10.00% | ~51,132 |
+| War Never Changes | 10.00% | ~51,132 |
+| Sky Burial | 10.00% | ~51,132 |
+| Friendly | 9.00% | ~46,019 |
+| Famous Adventurer | 9.00% | ~46,019 |
+| Bookworm | 9.00% | ~46,019 |
+| Prepared for Anything | 8.00% | ~40,906 |
+| Big Catastrofan | 8.00% | ~40,906 |
+| It's a Finnish Thing | 6.00% | ~30,679 |
+| Bread and Circuses | 6.00% | ~30,679 |
+| Trader | 5.00% | ~25,566 |
+| New Eden | 4.00% | ~20,453 |
+| Amped Up | 4.00% | ~20,453 |
+| Really Friendly | 3.00% | ~15,340 |
+| Luxurious Living | 3.00% | ~15,340 |
+| Look, no Hands! | 3.00% | ~15,340 |
 | Ranch Hand | 2.00% | ~10,226 |
 | Doomsday is canceled | 2.00% | ~10,226 |
 | Tailored to fit | 2.00% | ~10,226 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.10% | ~511 |
 | Customized calamities | 0.10% | ~511 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511,302 (Ranked 41)  
+Progressed: 511,320 (Ranked 41)  
 Completed: 65 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 65 (0.01%) (Ranked 387)
 | 2024-01-23 | 510,000 | 64 |
 | 2024-01-24 | 510,583 | 64 |
 | 2024-01-25 | 511,136 | 65 |
-| 2024-01-26 | 511,302 | 65 |
+| 2024-01-26 | 511,320 | 65 |
 ## Awards
 Max (Great for Beginners): 282  (Ranked 273)  
 Sum: 1,703 (Ranked 235)  

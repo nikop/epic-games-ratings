@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 591,
-  "Ranking_PopularitySum": 591,
+  "Ranking_Popularity": 592,
+  "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 175,
@@ -152,10 +152,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3012,
-  "EOS_Completed": 237,
+  "EOS_Completed": 238,
   "EOS_NewPlayers": 142,
-  "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 7.87,
+  "EOS_NewCompleters": 17,
+  "EOS_Completed_Percentage": 7.9,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -8136,6 +8136,11 @@
       "Time": "2024-01-26T08:05:14.0225285+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2024-01-26T09:05:12.4817734+00:00",
+      "NumProgressed": 3012,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 25,
@@ -8185,9 +8190,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 873
+      "UsersEstimate": 904
     },
     {
       "ID": "META_RESULT_1-2",
@@ -8347,15 +8352,15 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 3012,
-      "Completed": 237
+      "Completed": 238
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:05:14.0225281+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:05:12.481773+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:57:57.5737447+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:05:14.0225914+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:57:59.499043+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:05:12.4818292+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -721,9 +721,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474459,
+  "EOS_Progressed": 474460,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29691,6 +29691,11 @@
       "Time": "2024-01-26T08:10:52.6224666+00:00",
       "NumProgressed": 474459,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-26T09:10:38.6514595+00:00",
+      "NumProgressed": 474460,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29790,7 +29795,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 313143
+      "UsersEstimate": 313144
     },
     {
       "ID": "achievement_story_landa",
@@ -29854,7 +29859,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52190
+      "UsersEstimate": 52191
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -30333,21 +30338,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18393,
+      "Progressed": 18394,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474459,
+      "Progressed": 474460,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-24T23:57:02.9236953+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:10:52.6224663+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:10:38.6514592+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:55.2971937+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:57:59.3377122+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:10:52.6226202+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:58:01.3183157+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:10:38.6516944+00:00"
 }

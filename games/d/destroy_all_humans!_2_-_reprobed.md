@@ -6,36 +6,36 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~398 |
+| Rock of the Bay | 84.00% | ~399 |
 | Mash Machine | 75.00% | ~356 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~256 |
-| Furon Fashion | 49.00% | ~232 |
+| Furon Fashion | 49.00% | ~233 |
 | Shop Til They Drop | 40.00% | ~190 |
 | Bodied Sattva | 38.00% | ~180 |
 | Cult Following | 35.00% | ~166 |
 | Earthly Pleasures | 35.00% | ~166 |
 | Lie Back and Think of Albion | 28.00% | ~133 |
 | Upgreatest | 28.00% | ~133 |
-| Pimp My Raid | 26.00% | ~123 |
+| Pimp My Raid | 26.00% | ~124 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~104 |
 | Freshly Squeezed | 22.00% | ~104 |
 | Die Nasty | 19.00% | ~90 |
-| Perfect Probulator | 18.00% | ~85 |
+| Perfect Probulator | 18.00% | ~86 |
 | Transmitting From Sol-3 | 17.00% | ~81 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~66 |
 | Fly Me to the Moon Base | 12.00% | ~57 |
 | Kaijuiced | 12.00% | ~57 |
 | Dusted | 12.00% | ~57 |
-| Scuttled | 10.00% | ~47 |
+| Scuttled | 10.00% | ~48 |
 | Lobster Blisque | 8.00% | ~38 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~33 |
 | Yettisoned | 6.00% | ~28 |
 | Ultimate Smoothie | 5.00% | ~24 |
 | Arkvoodle Doodle | 5.00% | ~24 |
 | Deincarnated | 4.00% | ~19 |
-| Against All Odds | 2.00% | ~9 |
-| Forbidden Donut | 2.00% | ~9 |
-| The Optional Mandate | 2.00% | ~9 |
+| Against All Odds | 2.00% | ~10 |
+| Forbidden Donut | 2.00% | ~10 |
+| The Optional Mandate | 2.00% | ~10 |
 | Arty Facts | 1.00% | ~5 |
 | Hidden Human Hive Harvest | 1.00% | ~5 |
 | Higher Than the Futen Zoku | 1.00% | ~5 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~3 |
 | Trans-Siberian Express | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 362)  
+Progressed: 475 (Ranked 362)  
 Completed: 2 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.42%) (Ranked 247)
 | 2024-01-22 | 468 | 2 |
 | 2024-01-24 | 471 | 2 |
 | 2024-01-25 | 472 | 2 |
-| 2024-01-26 | 474 | 2 |
+| 2024-01-26 | 475 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 506)  
 Sum: 36 (Ranked 539)  

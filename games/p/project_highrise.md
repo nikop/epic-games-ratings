@@ -66,6 +66,7 @@
 | Decorator's Touch | 3.00% | ~16 |
 | Office Bigwigs | 3.00% | ~16 |
 | Three of a Kind | 3.00% | ~16 |
+| Curated Class | 2.00% | ~11 |
 | Apartment Awareness | 2.00% | ~11 |
 | Loft Life | 2.00% | ~11 |
 | Glut of Gastronomy | 2.00% | ~11 |
@@ -73,14 +74,13 @@
 | Four of a Kind | 2.00% | ~11 |
 | In the Money | 2.00% | ~11 |
 | It is Payday | 2.00% | ~11 |
-| Curated Class | 1.00% | ~5 |
 | Plebs Are Needed | 1.00% | ~5 |
 | Full House | 1.00% | ~5 |
 | Royal Flush | 1.00% | ~5 |
 | The King of Cool | 1.00% | ~5 |
 | Such Great Heights | 1.00% | ~5 |
+| Lofty Landlord | 1.00% | ~5 |
 | Scenario Success | 1.00% | ~5 |
-| Lofty Landlord | 0.90% | ~5 |
 | Artistic Largesse | 0.70% | ~4 |
 | High Hand | 0.70% | ~4 |
 | Double Down | 0.70% | ~4 |

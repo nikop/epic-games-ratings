@@ -6,7 +6,7 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~313,143 |
+| The Shutdown | 66.00% | ~313,144 |
 | Jeef Skeejj | 44.00% | ~208,762 |
 | Careful planning | 39.00% | ~185,039 |
 | Second Coming | 34.00% | ~161,316 |
@@ -21,7 +21,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter II: Fallible Flesh | 15.00% | ~71,169 |
 | Pope Zenon | 15.00% | ~71,169 |
 | Plan for the worst | 12.00% | ~56,935 |
-| Tetsuo | 11.00% | ~52,190 |
+| Tetsuo | 11.00% | ~52,191 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,446 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,957 |
 | Through the mirror | 8.00% | ~37,957 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,459 (Ranked 45)  
+Progressed: 474,460 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 21 (0.00%) (Ranked 413)
 | 2024-01-23 | 474,358 | 21 |
 | 2024-01-24 | 474,401 | 21 |
 | 2024-01-25 | 474,448 | 21 |
-| 2024-01-26 | 474,459 | 21 |
+| 2024-01-26 | 474,460 | 21 |
 ## Awards
 Max (Character Customization): 231  (Ranked 287)  
 Sum: 255 (Ranked 401)  

@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2189,
+  "EOS_Progressed": 2191,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.84,
+  "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -5349,6 +5349,11 @@
       "Time": "2024-01-25T06:10:33.8656009+00:00",
       "NumProgressed": 2189,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-26T09:10:22.3132819+00:00",
+      "NumProgressed": 2191,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 16,
@@ -5360,7 +5365,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -5368,7 +5373,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -5376,7 +5381,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -5408,7 +5413,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -5416,7 +5421,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5424,7 +5429,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5448,7 +5453,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -5464,7 +5469,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACH_THEEND",
@@ -5487,7 +5492,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2189,
+      "Progressed": 2191,
       "Completed": 84
     }
   ],
@@ -5495,8 +5500,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:10:35.9924508+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:10:22.3132816+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:58:04.2731737+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:10:35.9924896+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:58:06.2902453+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:10:22.3133287+00:00"
 }

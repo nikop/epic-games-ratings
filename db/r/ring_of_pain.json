@@ -3964,9 +3964,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243525,
+  "EOS_Progressed": 243526,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -33024,6 +33024,11 @@
       "Time": "2024-01-26T07:11:33.5795348+00:00",
       "NumProgressed": 243525,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-26T09:10:41.4865405+00:00",
+      "NumProgressed": 243526,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33067,7 +33072,7 @@
       "Name": "First Steps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "CURSE1HP",
@@ -33779,7 +33784,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "SPECIALROOMS10",
@@ -34138,13 +34143,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243525,
+      "Progressed": 243526,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 5005,
+      "Progressed": 5006,
       "Completed": 433
     }
   ],
@@ -34152,8 +34157,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-25T23:58:38.3213561+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:10:55.5125347+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:10:41.4865402+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:59:03.5293109+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:10:55.5130012+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:59:00.0252021+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:10:41.486783+00:00"
 }

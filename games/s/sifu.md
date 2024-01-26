@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,771 |
+| The Old Grandmaster | 6.00% | ~45,772 |
 | The Assault | 5.00% | ~38,143 |
 | Life is your teacher | 5.00% | ~38,143 |
 | Lightning Hands | 5.00% | ~38,143 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,855 (Ranked 26)  
+Progressed: 762,862 (Ranked 26)  
 Completed: 13,008 (1.71%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,10 +348,10 @@ Completed: 13,008 (1.71%) (Ranked 151)
 | 2024-01-23 | 762,568 | 13,006 |
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
-| 2024-01-26 | 762,855 | 13,008 |
+| 2024-01-26 | 762,862 | 13,008 |
 ## Awards
 Max (Great Boss Battles): 7,286  (Ranked 59)  
-Sum: 12,893 (Ranked 88)  
+Sum: 12,894 (Ranked 88)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): -29
 | This game is Highly Recommended | 617 |
 | This game has Quickly Understood Controls | 605 |
 | This game is Extremely Fun | 598 |
-| This game has Unique Visuals | 596 |
+| This game has Unique Visuals | 597 |
 | This game is Relaxing | 568 |
 | This game has a Creative Community | 436 |
 | This game has Obsessive Gameplay | 293 |
@@ -743,3 +743,4 @@ Diff (max vs sum): -29
 | 2024-01-23 | 4.82 | - | 7,269 | 12,868 |
 | 2024-01-24 | 4.82 | - | 7,276 | 12,879 |
 | 2024-01-25 | 4.82 | - | 7,286 | 12,893 |
+| 2024-01-26 | 4.82 | - | 7,286 | 12,894 |

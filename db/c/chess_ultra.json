@@ -3,8 +3,8 @@
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
   "Ranking_Rating": 886,
-  "Ranking_Popularity": 591,
-  "Ranking_PopularitySum": 591,
+  "Ranking_Popularity": 592,
+  "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 86,
@@ -497,9 +497,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229441,
+  "EOS_Progressed": 229442,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32707,6 +32707,11 @@
       "Time": "2024-01-26T08:08:59.214256+00:00",
       "NumProgressed": 229441,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T09:08:45.8153885+00:00",
+      "NumProgressed": 229442,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -32718,7 +32723,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 107837
+      "UsersEstimate": 107838
     },
     {
       "ID": "AlekhinesGun",
@@ -32766,7 +32771,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 128487
+      "UsersEstimate": 128488
     },
     {
       "ID": "Checkmate",
@@ -32774,7 +32779,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68832
+      "UsersEstimate": 68833
     },
     {
       "ID": "ChessChampion",
@@ -32790,7 +32795,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 162903
+      "UsersEstimate": 162904
     },
     {
       "ID": "DoubleCheck",
@@ -32806,7 +32811,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 130781
+      "UsersEstimate": 130782
     },
     {
       "ID": "Elo",
@@ -32854,7 +32859,7 @@
       "Name": "Family Fork",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13766
+      "UsersEstimate": 13767
     },
     {
       "ID": "FoolsMate",
@@ -32910,7 +32915,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13766
+      "UsersEstimate": 13767
     },
     {
       "ID": "ProblemSolved",
@@ -32966,7 +32971,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 41299
+      "UsersEstimate": 41300
     },
     {
       "ID": "StrangerDanger",
@@ -33021,7 +33026,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 229441,
+      "Progressed": 229442,
       "Completed": 2
     }
   ],
@@ -33029,8 +33034,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-26T01:41:17.5849022+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:08:59.2142558+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:08:45.8153883+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:03.3233579+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:58:53.7507076+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:08:59.2143989+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:58:50.5953851+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:08:45.8155646+00:00"
 }

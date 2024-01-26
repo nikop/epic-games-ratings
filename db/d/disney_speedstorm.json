@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 762,
+  "Ranking_Rating": 761,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 50,
@@ -3165,9 +3165,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 407792,
+  "EOS_Progressed": 407807,
   "EOS_Completed": 1747,
-  "EOS_NewPlayers": 5850,
+  "EOS_NewPlayers": 5848,
   "EOS_NewCompleters": 91,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -22650,6 +22650,11 @@
       "Time": "2024-01-26T08:09:26.482305+00:00",
       "NumProgressed": 407792,
       "NumCompleted": 1747
+    },
+    {
+      "Time": "2024-01-26T09:09:12.5799181+00:00",
+      "NumProgressed": 407807,
+      "NumCompleted": 1747
     }
   ],
   "TotalAchievements": 24,
@@ -22701,7 +22706,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36701
+      "UsersEstimate": 36703
     },
     {
       "ID": "15",
@@ -22813,7 +22818,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 53013
+      "UsersEstimate": 53015
     },
     {
       "ID": "6",
@@ -22852,7 +22857,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 407792,
+      "Progressed": 407807,
       "Completed": 1747
     }
   ],
@@ -22860,8 +22865,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-26T05:59:48.7053481+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:09:26.4823047+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:09:12.5799178+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:58.5530008+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:59:36.7649576+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:09:26.4823821+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:59:34.0075584+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:09:12.580018+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,475 |
-| World Map | 78.00% | ~3,753 |
+| Victor | 93.00% | ~4,476 |
+| World Map | 78.00% | ~3,754 |
 | Temple of Eternals | 56.00% | ~2,695 |
-| Prestigious | 52.00% | ~2,502 |
+| Prestigious | 52.00% | ~2,503 |
 | Fellowship Power | 42.00% | ~2,021 |
 | Full Party | 31.00% | ~1,492 |
-| Guild Power | 22.00% | ~1,059 |
-| Prestigious x10 | 20.00% | ~962 |
+| Guild Power | 23.00% | ~1,107 |
+| Prestigious x10 | 20.00% | ~963 |
 | The game is on | 18.00% | ~866 |
 | Exotic Merchant | 16.00% | ~770 |
 | Dragon Clicker | 15.00% | ~722 |
@@ -21,7 +21,7 @@ Rating: 4.08 (Ranked 1,038)
 | Enlightenment | 13.00% | ~626 |
 | Hero inspection | 13.00% | ~626 |
 | Inspection | 13.00% | ~626 |
-| Lieutenant | 12.00% | ~577 |
+| Lieutenant | 12.00% | ~578 |
 | Milestone collector | 11.00% | ~529 |
 | Mysterious Rock | 11.00% | ~529 |
 | Natural Talent | 11.00% | ~529 |
@@ -54,11 +54,11 @@ Rating: 4.08 (Ranked 1,038)
 | Lock And Load | 5.00% | ~241 |
 | Missions Dedication | 5.00% | ~241 |
 | Sailor | 5.00% | ~241 |
-| Active Member | 4.00% | ~192 |
-| Ancient Knowledge | 4.00% | ~192 |
-| Background Story | 4.00% | ~192 |
-| Legendary | 4.00% | ~192 |
-| The Alchemist | 4.00% | ~192 |
+| Active Member | 4.00% | ~193 |
+| Ancient Knowledge | 4.00% | ~193 |
+| Background Story | 4.00% | ~193 |
+| Legendary | 4.00% | ~193 |
+| The Alchemist | 4.00% | ~193 |
 | Arena Challenger | 3.00% | ~144 |
 | Ebony Jungle Liberator | 3.00% | ~144 |
 | Enchanting skill x5 | 2.00% | ~96 |
@@ -74,14 +74,14 @@ Rating: 4.08 (Ranked 1,038)
 | Tree of Life | 1.00% | ~48 |
 | Angel Power | 0.90% | ~43 |
 | Enhanced War Machines | 0.90% | ~43 |
-| Silverwood liberator | 0.80% | ~38 |
-| Training makes a Pro player | 0.80% | ~38 |
+| Silverwood liberator | 0.80% | ~39 |
+| Training makes a Pro player | 0.80% | ~39 |
 | Beast War Machines | 0.70% | ~34 |
 | Ultimate War Machines | 0.50% | ~24 |
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,812 (Ranked 211)  
+Progressed: 4,813 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 2 (0.04%) (Ranked 362)
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
-| 2024-01-26 | 4,812 | 2 |
+| 2024-01-26 | 4,813 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 488)  
 Sum: 126 (Ranked 463)  

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1898,9 +1898,9 @@
       "ID": "ach_art_medium",
       "SetID": "b8gh1fi",
       "Name": "Curated Class",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_art_outside",
@@ -2330,7 +2330,7 @@
       "ID": "ach_renters",
       "SetID": "b8gh1fi",
       "Name": "Lofty Landlord",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:06:01.5902259+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:06:00.0702407+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:59:08.710398+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:06:01.5903067+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:59:05.3429509+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:06:00.0703325+00:00"
 }

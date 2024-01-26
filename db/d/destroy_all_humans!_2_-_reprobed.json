@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2156,6 +2156,11 @@
       "Time": "2024-01-26T08:10:17.0427085+00:00",
       "NumProgressed": 474,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T09:10:03.7915298+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2184,7 +2189,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2200,7 +2205,7 @@
       "Name": "Furon Fashion",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2232,7 +2237,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_COMPLETE_ARK01",
@@ -2256,7 +2261,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DESTROY_HIVES",
@@ -2304,7 +2309,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2392,7 +2397,7 @@
       "Name": "Scuttled",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -2408,7 +2413,7 @@
       "Name": "The Optional Mandate",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_OPEN_FLUFF_MENU",
@@ -2512,14 +2517,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 2
     }
   ],
@@ -2527,8 +2532,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:10:17.0427081+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:10:03.7915293+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:59:55.5282219+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:10:17.0427479+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:59:53.4055501+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:10:03.7915656+00:00"
 }

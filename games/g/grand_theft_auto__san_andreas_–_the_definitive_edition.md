@@ -5,8 +5,8 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~16,081 |
-| Pay 'n' Spray | 51.00% | ~10,125 |
+| Getting Started | 81.00% | ~16,082 |
+| Pay 'n' Spray | 51.00% | ~10,126 |
 | All Dressed Up for San Fierro | 26.00% | ~5,162 |
 | The American Dream | 19.00% | ~3,772 |
 | School's Out | 19.00% | ~3,772 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.60% | ~119 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,853 (Ranked 158)  
+Progressed: 19,854 (Ranked 158)  
 Completed: 83 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 83 (0.42%) (Ranked 247)
 | 2024-01-23 | 19,815 | 82 |
 | 2024-01-24 | 19,836 | 83 |
 | 2024-01-25 | 19,850 | 83 |
-| 2024-01-26 | 19,853 | 83 |
+| 2024-01-26 | 19,854 | 83 |
 ## Awards
 Max (Great Boss Battles): 728  (Ranked 196)  
-Sum: 1,129 (Ranked 270)  
+Sum: 1,131 (Ranked 270)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): -74
 | This game has Amazing Characters | 62 |
 | This game is Great for Beginners | 58 |
 | This game has Diverse Characters | 58 |
-| This game has Quickly Understood Controls | 47 |
+| This game has Quickly Understood Controls | 49 |
 | This game is Extremely Fun | 46 |
 | This game has a Creative Community | 29 |
 ## Ratings History
@@ -584,3 +584,4 @@ Diff (max vs sum): -74
 | 2024-01-23 | 4.55 | 712 | 1,102 |
 | 2024-01-24 | 4.55 | 720 | 1,116 |
 | 2024-01-25 | 4.55 | 728 | 1,129 |
+| 2024-01-26 | 4.55 | 728 | 1,131 |

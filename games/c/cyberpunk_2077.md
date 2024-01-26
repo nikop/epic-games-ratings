@@ -25,10 +25,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.60% | ~6,353 |
 | The World | 0.60% | ~6,353 |
 | Judy vs Night City | 0.60% | ~6,353 |
-| To Protect and Serve | 0.50% | ~5,294 |
-| I Am The Law | 0.50% | ~5,294 |
-| The Quick and the Dead | 0.50% | ~5,294 |
-| True Warrior | 0.50% | ~5,294 |
+| To Protect and Serve | 0.50% | ~5,295 |
+| I Am The Law | 0.50% | ~5,295 |
+| The Quick and the Dead | 0.50% | ~5,295 |
+| True Warrior | 0.50% | ~5,295 |
 | Two Heads, One Bullet | 0.40% | ~4,236 |
 | Spin Doctor | 0.40% | ~750 |
 | To Bad Decisions! | 0.30% | ~3,177 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,893 (Ranked 17)  
-Completed: 3,164 (0.30%) (Ranked 267)  
+Progressed: 1,058,915 (Ranked 17)  
+Completed: 3,165 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -355,7 +355,7 @@ Completed: 3,164 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,058,893 | 3,164 |
+| 2024-01-26 | 1,058,915 | 3,165 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
 Sum: 520,894 (Ranked 8)  

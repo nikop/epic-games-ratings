@@ -576,9 +576,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18096,
+  "EOS_Progressed": 18097,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -19131,6 +19131,11 @@
       "Time": "2024-01-26T08:03:59.8769053+00:00",
       "NumProgressed": 18096,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-26T09:03:57.722429+00:00",
+      "NumProgressed": 18097,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19198,7 +19203,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "tpote_achievement_17",
@@ -19206,7 +19211,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2895
+      "UsersEstimate": 2896
     },
     {
       "ID": "tpote_achievement_18",
@@ -19286,7 +19291,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "tpote_achievement_27",
@@ -19342,7 +19347,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "tpote_achievement_33",
@@ -19406,7 +19411,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "tpote_achievement_40",
@@ -19469,15 +19474,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18096,
+      "Progressed": 18097,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2024-01-25T16:03:51.8791748+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:03:59.8769049+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:03:57.7224289+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:03:24.3262377+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:03:59.8770532+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:03:20.3432827+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:03:57.722517+00:00"
 }

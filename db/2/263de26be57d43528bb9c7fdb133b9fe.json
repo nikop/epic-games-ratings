@@ -3,9 +3,9 @@
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 505,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 101,
-  "EOS_Completed": 6,
-  "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.94,
+  "EOS_Completed": 7,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 6.93,
   "EosHistory": [
     {
       "Time": "2024-01-18T17:10:07.9287814+00:00",
@@ -369,6 +369,11 @@
       "Time": "2024-01-26T05:05:54.313744+00:00",
       "NumProgressed": 101,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T09:05:08.8045592+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2024-01-18T17:10:07.9287841+00:00",
@@ -467,9 +472,9 @@
       "ID": "HATS_ALL",
       "SetID": "89ki2f0",
       "Name": "High fashion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MONEY_100K",
@@ -531,9 +536,9 @@
       "ID": "TASKS_ALL",
       "SetID": "89ki2f0",
       "Name": "Completionist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 150,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UPGRADES_ALL",
@@ -565,13 +570,13 @@
       "ID": "89ki2f0",
       "IsBase": true,
       "Progressed": 101,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:05:10.1525425+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:05:08.8045589+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:58:34.5093623+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:05:10.1525639+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:58:30.8538136+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:05:08.8045776+00:00"
 }

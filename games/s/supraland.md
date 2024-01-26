@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~734,169 |
-| The Blues | 85.00% | ~630,347 |
-| Fast | 66.00% | ~489,446 |
+| Out of bed | 99.00% | ~734,170 |
+| The Blues | 85.00% | ~630,348 |
+| Fast | 66.00% | ~489,447 |
 | Healthbar | 55.00% | ~407,872 |
-| Force Cube | 53.00% | ~393,040 |
+| Force Cube | 53.00% | ~393,041 |
 | Double Jump | 48.00% | ~355,961 |
 | Regeneration | 47.00% | ~348,545 |
 | Triple Jump | 43.00% | ~318,882 |
 | Climb the hill | 42.00% | ~311,466 |
-| Through the fire pipe | 39.00% | ~289,218 |
-| MacGuffin | 38.00% | ~281,802 |
-| Just once | 37.00% | ~274,386 |
+| Through the fire pipe | 39.00% | ~289,219 |
+| MacGuffin | 38.00% | ~281,803 |
+| Just once | 37.00% | ~274,387 |
 | Armor | 30.00% | ~222,476 |
 | True holy spirit | 28.00% | ~207,644 |
 | That's how electronics work obviously | 27.00% | ~200,228 |
@@ -44,13 +44,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~81,574 |
 | Infiltrated | 11.00% | ~81,574 |
 | Robbed | 11.00% | ~81,574 |
-| Fire Flies | 10.00% | ~74,158 |
-| Cave Flies | 10.00% | ~74,158 |
-| Gold Scam | 10.00% | ~74,158 |
-| Gold Scam Uncovered | 10.00% | ~74,158 |
-| Panic Lights | 10.00% | ~74,158 |
-| Translocator | 10.00% | ~74,158 |
-| Yellow Shot Button | 10.00% | ~74,158 |
+| Fire Flies | 10.00% | ~74,159 |
+| Cave Flies | 10.00% | ~74,159 |
+| Gold Scam | 10.00% | ~74,159 |
+| Gold Scam Uncovered | 10.00% | ~74,159 |
+| Panic Lights | 10.00% | ~74,159 |
+| Translocator | 10.00% | ~74,159 |
+| Yellow Shot Button | 10.00% | ~74,159 |
 | Moon Door | 9.00% | ~66,743 |
 | Momentum | 9.00% | ~66,743 |
 | Through the tiny pipe | 9.00% | ~66,743 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~742 |
 | DLC: Top of the world | 0.10% | ~742 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,585 (Ranked 27)  
+Progressed: 741,586 (Ranked 27)  
 Completed: 785 (0.11%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 785 (0.11%) (Ranked 319)
 | 2024-01-23 | 741,349 | 784 |
 | 2024-01-24 | 741,462 | 784 |
 | 2024-01-25 | 741,555 | 785 |
-| 2024-01-26 | 741,585 | 785 |
+| 2024-01-26 | 741,586 | 785 |
 ## Awards
 Max (Challenging Puzzles): 7,787  (Ranked 55)  
 Sum: 10,179 (Ranked 97)  

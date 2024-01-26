@@ -11142,9 +11142,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 97323,
+  "EOS_Progressed": 97326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1235,
+  "EOS_NewPlayers": 1229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41347,6 +41347,11 @@
       "Time": "2024-01-26T08:10:50.891006+00:00",
       "NumProgressed": 97323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T09:10:36.8685583+00:00",
+      "NumProgressed": 97326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -41366,7 +41371,7 @@
       "Name": "Apple of my eye",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17518
+      "UsersEstimate": 17519
     },
     {
       "ID": "Bannerlord",
@@ -41374,7 +41379,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24331
+      "UsersEstimate": 24332
     },
     {
       "ID": "Best served cold",
@@ -41398,7 +41403,7 @@
       "Name": "Butterlord",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "Catch",
@@ -41446,7 +41451,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "Entrepreneur",
@@ -41518,7 +41523,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 21411
+      "UsersEstimate": 21412
     },
     {
       "ID": "I can do it",
@@ -41534,7 +41539,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "Jack of All Trades",
@@ -41550,7 +41555,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17518
+      "UsersEstimate": 17519
     },
     {
       "ID": "Kingslayer",
@@ -41582,7 +41587,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 34063
+      "UsersEstimate": 34064
     },
     {
       "ID": "Lawbringer",
@@ -41590,7 +41595,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41849
+      "UsersEstimate": 41850
     },
     {
       "ID": "Lawmaker",
@@ -41694,7 +41699,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "Swordbearer",
@@ -41734,7 +41739,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29197
+      "UsersEstimate": 29198
     },
     {
       "ID": "Undercover",
@@ -41765,15 +41770,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 97323,
+      "Progressed": 97326,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-26T07:01:29.7464148+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:10:50.8910058+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:10:36.8685581+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:00:13.7786944+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:10:50.8911719+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:00:11.4181508+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:10:36.8686865+00:00"
 }

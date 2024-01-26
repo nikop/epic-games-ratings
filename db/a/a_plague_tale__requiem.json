@@ -875,9 +875,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18815,
+  "EOS_Progressed": 18816,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17145,6 +17145,11 @@
       "Time": "2024-01-26T05:04:06.5225896+00:00",
       "NumProgressed": 18815,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-26T09:03:49.632186+00:00",
+      "NumProgressed": 18816,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 35,
@@ -17156,7 +17161,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17122
+      "UsersEstimate": 17123
     },
     {
       "ID": "ACH_02",
@@ -17164,7 +17169,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14299
+      "UsersEstimate": 14300
     },
     {
       "ID": "ACH_03",
@@ -17180,7 +17185,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12606
+      "UsersEstimate": 12607
     },
     {
       "ID": "ACH_05",
@@ -17196,7 +17201,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 11665
+      "UsersEstimate": 11666
     },
     {
       "ID": "ACH_07",
@@ -17220,7 +17225,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 10160
+      "UsersEstimate": 10161
     },
     {
       "ID": "ACH_10",
@@ -17244,7 +17249,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 8090
+      "UsersEstimate": 8091
     },
     {
       "ID": "ACH_13",
@@ -17260,7 +17265,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 6585
+      "UsersEstimate": 6586
     },
     {
       "ID": "ACH_15",
@@ -17364,7 +17369,7 @@
       "Name": "Night guard",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 7714
+      "UsersEstimate": 7715
     },
     {
       "ID": "ACH_28",
@@ -17404,7 +17409,7 @@
       "Name": "Perfect shot",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "ACH_33",
@@ -17428,14 +17433,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18815,
+      "Progressed": 18816,
       "Completed": 71
     }
   ],
@@ -17443,8 +17448,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-24T21:58:09.3389593+00:00",
-  "LastChanged_Achievements": "2024-01-26T08:03:51.6760119+00:00",
+  "LastChanged_Achievements": "2024-01-26T09:03:49.6321857+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:59:22.1984928+00:00",
-  "LastUpdate_Achievements": "2024-01-26T08:03:51.6761192+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:59:19.3141476+00:00",
+  "LastUpdate_Achievements": "2024-01-26T09:03:49.6322899+00:00"
 }
