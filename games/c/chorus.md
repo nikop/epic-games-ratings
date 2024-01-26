@@ -6,40 +6,40 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,212 |
+| Another Life | 83.00% | ~1,199 |
 | Voices from the Past | 76.00% | ~1,097 |
 | Space Traveler | 76.00% | ~1,097 |
-| Demigod | 73.00% | ~1,053 |
-| The Great Destroyer | 72.00% | ~1,039 |
+| Demigod | 73.00% | ~1,054 |
+| The Great Destroyer | 72.00% | ~1,040 |
 | Shields Down | 69.00% | ~996 |
-| Helping Hand | 65.00% | ~938 |
+| Helping Hand | 65.00% | ~939 |
 | Safe Home | 64.00% | ~924 |
 | Paragon | 60.00% | ~866 |
-| Old Days Born Anew | 59.00% | ~851 |
-| Full Arsenal | 54.00% | ~779 |
+| Old Days Born Anew | 59.00% | ~852 |
+| Full Arsenal | 54.00% | ~780 |
 | Controlled Demolition | 53.00% | ~765 |
 | Huntress | 51.00% | ~736 |
 | Payback | 50.00% | ~722 |
-| Born to Drift | 49.00% | ~707 |
-| Relentless | 47.00% | ~678 |
-| The Path Forward | 43.00% | ~620 |
+| Born to Drift | 49.00% | ~708 |
+| Relentless | 47.00% | ~679 |
+| The Path Forward | 43.00% | ~621 |
 | Disruption | 42.00% | ~606 |
 | Phoenix | 42.00% | ~606 |
 | Cult Slayer | 39.00% | ~563 |
-| Origin | 38.00% | ~548 |
-| It Was An Accident | 38.00% | ~548 |
-| Set in Motion | 36.00% | ~519 |
-| In the Eye of the Storm | 36.00% | ~519 |
-| The Crimson Void | 33.00% | ~476 |
-| The Nameless Dread | 33.00% | ~476 |
+| Origin | 38.00% | ~549 |
+| It Was An Accident | 38.00% | ~549 |
+| Set in Motion | 36.00% | ~520 |
+| In the Eye of the Storm | 36.00% | ~520 |
+| The Crimson Void | 33.00% | ~477 |
+| The Nameless Dread | 33.00% | ~477 |
 | Time to Spear | 30.00% | ~433 |
-| Mastery of Weapons | 29.00% | ~418 |
-| Disciple | 29.00% | ~418 |
+| Mastery of Weapons | 29.00% | ~419 |
+| Disciple | 29.00% | ~419 |
 | Ghosts | 25.00% | ~361 |
 | Two Birds | 25.00% | ~361 |
-| Uneasy Alliance | 24.00% | ~346 |
+| Uneasy Alliance | 24.00% | ~347 |
 | Mastery of Combat | 23.00% | ~332 |
-| Retaliate | 22.00% | ~317 |
+| Retaliate | 22.00% | ~318 |
 | Mastery of Rites | 21.00% | ~303 |
 | Power Chord | 21.00% | ~303 |
 | Crash Test | 21.00% | ~303 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~144 |
 | At Least You Tried | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,443 (Ranked 278)  
+Progressed: 1,444 (Ranked 278)  
 Completed: 20 (1.39%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 20 (1.39%) (Ranked 161)
 | 2024-01-23 | 1,438 | 19 |
 | 2024-01-24 | 1,440 | 19 |
 | 2024-01-25 | 1,443 | 20 |
+| 2024-01-26 | 1,444 | 20 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 511)  
 Sum: 35 (Ranked 542)  

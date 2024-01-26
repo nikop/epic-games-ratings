@@ -5,11 +5,11 @@ Rating: 4.29 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,306 |
-| Copacetic Coordination | 16.00% | ~58,193 |
-| Fronting the Money | 15.00% | ~54,556 |
-| The Dawn of Automation | 14.00% | ~50,919 |
-| Extraordinary Logistics | 14.00% | ~50,919 |
+| Corner Clout | 46.00% | ~167,307 |
+| Copacetic Coordination | 16.00% | ~58,194 |
+| Fronting the Money | 15.00% | ~54,557 |
+| The Dawn of Automation | 14.00% | ~50,920 |
+| Extraordinary Logistics | 14.00% | ~50,920 |
 | Dirty Money | 13.00% | ~47,282 |
 | Family First | 13.00% | ~47,282 |
 | Cleaning House | 12.00% | ~43,645 |
@@ -23,19 +23,19 @@ Rating: 4.29 (Ranked 890)
 | Street Fighter | 7.00% | ~25,460 |
 | Friendly Gestures | 7.00% | ~25,460 |
 | People Person | 7.00% | ~25,460 |
-| Liquor Lord | 6.00% | ~21,822 |
-| Safety in Numbers | 6.00% | ~21,822 |
-| Moving Experiences | 6.00% | ~21,822 |
-| Wise Head | 6.00% | ~21,822 |
-| Show ‘em the Sugar | 6.00% | ~21,822 |
-| Killing Them Softly | 6.00% | ~21,822 |
-| Street Knowledge | 5.00% | ~18,185 |
-| Oh Captain | 5.00% | ~18,185 |
-| Branching Out | 5.00% | ~18,185 |
-| Improvement Missions | 5.00% | ~18,185 |
-| Opportunity Knocked | 5.00% | ~18,185 |
-| City of Big Shoulders | 5.00% | ~18,185 |
-| Mission Mastery | 5.00% | ~18,185 |
+| Liquor Lord | 6.00% | ~21,823 |
+| Safety in Numbers | 6.00% | ~21,823 |
+| Moving Experiences | 6.00% | ~21,823 |
+| Wise Head | 6.00% | ~21,823 |
+| Show ‘em the Sugar | 6.00% | ~21,823 |
+| Killing Them Softly | 6.00% | ~21,823 |
+| Street Knowledge | 5.00% | ~18,186 |
+| Oh Captain | 5.00% | ~18,186 |
+| Branching Out | 5.00% | ~18,186 |
+| Improvement Missions | 5.00% | ~18,186 |
+| Opportunity Knocked | 5.00% | ~18,186 |
+| City of Big Shoulders | 5.00% | ~18,186 |
+| Mission Mastery | 5.00% | ~18,186 |
 | Considerable Clams | 4.00% | ~14,548 |
 | Gin Joint | 4.00% | ~14,548 |
 | An Affront to the Enemy | 4.00% | ~14,548 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 890)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,708 (Ranked 58)  
+Progressed: 363,711 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 7 (0.00%) (Ranked 413)
 | 2024-01-23 | 363,415 | 7 |
 | 2024-01-24 | 363,529 | 7 |
 | 2024-01-25 | 363,653 | 7 |
-| 2024-01-26 | 363,708 | 7 |
+| 2024-01-26 | 363,711 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 446)  
 Sum: 276 (Ranked 397)  

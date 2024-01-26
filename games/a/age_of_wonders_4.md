@@ -46,6 +46,7 @@ Rating: 4.63 (Ranked 360)
 | Blood of the Dragon | 2.00% | ~146 |
 | Sehiran Oasis | 2.00% | ~146 |
 | Chaos Surge | 2.00% | ~146 |
+| Seal the Deal | 2.00% | ~146 |
 | Spoils of War | 2.00% | ~146 |
 | Dawn of the Dread | 2.00% | ~146 |
 | Manufactured War | 1.00% | ~73 |
@@ -53,7 +54,6 @@ Rating: 4.63 (Ranked 360)
 | Betrayal Most Foul | 1.00% | ~73 |
 | Duality | 1.00% | ~73 |
 | Prometheus Avenged | 1.00% | ~73 |
-| Seal the Deal | 1.00% | ~73 |
 | A Conqueror's Cohort | 1.00% | ~73 |
 | The Magic That Empowers Me! | 0.80% | ~58 |
 | Snap Out of It! | 0.70% | ~51 |

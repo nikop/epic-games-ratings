@@ -2,7 +2,7 @@
   "ID": "cb47b6d16fc54e418e11560bee52ad89",
   "Name": "Mars Horizon",
   "ProductSlug": "mars-horizon",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 854,
@@ -154,6 +154,6 @@
   "FirstSeenRating": "2022-09-07T14:30:49.2420338+00:00",
   "LastChanged": "2023-12-19T16:01:05.6907037+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:47.517545+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:58:21.8085181+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:04:29.8602225+00:00"
+  "LastUpdate_Ratings": "2024-01-26T11:59:07.3108983+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:05:53.919484+00:00"
 }

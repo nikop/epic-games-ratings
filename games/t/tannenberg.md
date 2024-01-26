@@ -6,18 +6,18 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~130,506 |
+| Immovable Object | 89.00% | ~130,507 |
 | Comeback | 82.00% | ~120,242 |
-| Information is Key | 80.00% | ~117,309 |
-| Unlucky | 70.00% | ~102,645 |
-| Anarchist | 68.00% | ~99,712 |
-| Wallhack | 65.00% | ~95,313 |
+| Information is Key | 80.00% | ~117,310 |
+| Unlucky | 70.00% | ~102,646 |
+| Anarchist | 68.00% | ~99,713 |
+| Wallhack | 65.00% | ~95,314 |
 | Steady Supply | 60.00% | ~87,982 |
-| Lucky Shot | 53.00% | ~77,717 |
+| Lucky Shot | 53.00% | ~77,718 |
 | Ring Ring! | 52.00% | ~76,251 |
-| Forward Observer | 51.00% | ~74,784 |
-| Bossing Around | 45.00% | ~65,986 |
-| Frostbite | 45.00% | ~65,986 |
+| Forward Observer | 51.00% | ~74,785 |
+| Bossing Around | 45.00% | ~65,987 |
+| Frostbite | 45.00% | ~65,987 |
 | Night Owl | 44.00% | ~64,520 |
 | Strength in Numbers | 44.00% | ~64,520 |
 | Fog of War | 41.00% | ~60,121 |
@@ -33,12 +33,12 @@ Number of Ratings: 13,393  (23.09.2022)
 | Together As One | 31.00% | ~45,457 |
 | Gavrilo Princip | 27.00% | ~39,592 |
 | Lead Harvest | 25.00% | ~36,659 |
-| Skynet Confirmed | 23.00% | ~33,726 |
+| Skynet Confirmed | 23.00% | ~33,727 |
 | Kesselschlacht | 22.00% | ~32,260 |
 | Democracy Works! | 20.00% | ~29,327 |
 | Switch, Please! | 19.00% | ~27,861 |
-| At Least This Way I Can Win... | 18.00% | ~26,394 |
-| Tourist | 18.00% | ~26,394 |
+| At Least This Way I Can Win... | 18.00% | ~26,395 |
+| Tourist | 18.00% | ~26,395 |
 | I've Seen It All | 17.00% | ~24,928 |
 | Oops! | 17.00% | ~24,928 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~23,462 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,320 |
 | Road to Berlin | 0.60% | ~880 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,636 (Ranked 89)  
+Progressed: 146,637 (Ranked 89)  
 Completed: 35 (0.02%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 35 (0.02%) (Ranked 377)
 | 2024-01-23 | 146,415 | 35 |
 | 2024-01-24 | 146,515 | 35 |
 | 2024-01-25 | 146,601 | 35 |
-| 2024-01-26 | 146,636 | 35 |
+| 2024-01-26 | 146,637 | 35 |
 ## Awards
 Max (Competitive Players): 336  (Ranked 255)  
 Sum: 3,311 (Ranked 182)  

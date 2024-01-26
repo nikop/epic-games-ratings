@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 57.00% | ~403 |
 | Just the start | 50.00% | ~354 |
 | Perfect Storm | 47.00% | ~332 |
-| All That Glitters | 46.00% | ~325 |
+| All That Glitters | 47.00% | ~332 |
 | Enhance! | 43.00% | ~304 |
 | One Of the Chosen | 42.00% | ~297 |
 | Devil's in the Details | 40.00% | ~283 |
@@ -22,8 +22,8 @@ Number of Ratings: 116  (23.09.2022)
 | Five's a Crowd | 40.00% | ~283 |
 | 25 to Life | 40.00% | ~283 |
 | Salvation | 39.00% | ~276 |
+| Soul Harvester | 37.00% | ~262 |
 | Unshakable Fortitude | 36.00% | ~255 |
-| Soul Harvester | 36.00% | ~255 |
 | I Wanna Rock | 35.00% | ~247 |
 | Delusions of Grandeur | 35.00% | ~247 |
 | Love Tap | 34.00% | ~240 |

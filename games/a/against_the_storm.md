@@ -41,6 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 3.00% | ~631 |
 | Haunted Forest | 3.00% | ~631 |
 | Flooded Mines | 3.00% | ~631 |
+| Defying the Crown | 3.00% | ~631 |
 | Serving Ale | 2.00% | ~420 |
 | Efficient Explorer | 2.00% | ~420 |
 | Refinery | 2.00% | ~420 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 2.00% | ~420 |
 | Forsaken Gods Temple | 2.00% | ~420 |
 | Victory Through Prosperity | 2.00% | ~420 |
-| Defying the Crown | 2.00% | ~420 |
 | Into the Forest | 2.00% | ~420 |
 | Feeding The People | 1.00% | ~210 |
 | Like a Machine | 1.00% | ~210 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,019 (Ranked 157)  
+Progressed: 21,020 (Ranked 157)  
 Completed: 36 (0.17%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 36 (0.17%) (Ranked 297)
 | 2024-01-23 | 20,986 | 34 |
 | 2024-01-24 | 20,998 | 34 |
 | 2024-01-25 | 21,012 | 36 |
-| 2024-01-26 | 21,019 | 36 |
+| 2024-01-26 | 21,020 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 459  (Ranked 233)  
 Sum: 3,418 (Ranked 180)  

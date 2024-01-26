@@ -5,19 +5,19 @@ Rating: 3.99 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~650,273 |
+| Blood on My Hands | 71.00% | ~650,275 |
 | Health Junkie | 38.00% | ~348,034 |
-| You Complete Me | 37.00% | ~338,875 |
-| Guardian Angel | 32.00% | ~293,081 |
+| You Complete Me | 37.00% | ~338,876 |
+| Guardian Angel | 32.00% | ~293,082 |
 | Devil Inside Me | 25.00% | ~228,970 |
 | Fantastic Four | 19.00% | ~174,017 |
 | Killing Spree | 18.00% | ~164,858 |
-| Marksman Novice | 16.00% | ~146,540 |
-| First Blood | 12.00% | ~109,905 |
-| Top 10 | 12.00% | ~109,905 |
+| Marksman Novice | 16.00% | ~146,541 |
+| First Blood | 12.00% | ~109,906 |
+| Top 10 | 12.00% | ~109,906 |
 | Now You See Me, Now You Don't | 10.00% | ~91,588 |
 | Marksman Expert | 8.00% | ~73,270 |
-| CQB Novice | 7.00% | ~64,111 |
+| CQB Novice | 7.00% | ~64,112 |
 | Collateral Damage | 6.00% | ~54,953 |
 | Airborne | 5.00% | ~45,794 |
 | Pacifist | 5.00% | ~45,794 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 1,063)
 | Nade King Master | 0.10% | ~916 |
 | Shoot the Knee | 0.10% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,878 (Ranked 18)  
+Progressed: 915,880 (Ranked 18)  
 Completed: 18 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,17 +324,17 @@ Completed: 18 (0.00%) (Ranked 413)
 | 2024-01-23 | 911,382 | 18 |
 | 2024-01-24 | 913,875 | 18 |
 | 2024-01-25 | 915,850 | 18 |
-| 2024-01-26 | 915,878 | 18 |
+| 2024-01-26 | 915,880 | 18 |
 ## Awards
 Max (Competitive Players): 6,732  (Ranked 61)  
-Sum: 22,038 (Ranked 59)  
-Diff (max vs sum): 2  
+Sum: 22,064 (Ranked 58)  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 6,732 |
 | This game has Challenging Combat | 5,918 |
 | This game is Highly Recommended | 5,468 |
-| This game has a Competitive Community | 3,920 |
+| This game has a Competitive Community | 3,946 |
 | This game has Quickly Understood Controls | 3,335 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -675,4 +675,4 @@ Diff (max vs sum): 2
 | 2024-01-23 | 3.99 | 6,668 | 21,775 |
 | 2024-01-24 | 3.99 | 6,699 | 21,893 |
 | 2024-01-25 | 3.99 | 6,732 | 22,014 |
-| 2024-01-26 | 3.99 | 6,732 | 22,038 |
+| 2024-01-26 | 3.99 | 6,732 | 22,064 |

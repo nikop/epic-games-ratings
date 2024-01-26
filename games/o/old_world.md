@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 6.00% | ~1,030 |
-| Play a Single Player Game | 6.00% | ~1,030 |
+| Settler | 6.00% | ~1,031 |
+| Play a Single Player Game | 6.00% | ~1,031 |
 | Explorer | 5.00% | ~859 |
 | Friendly Family | 5.00% | ~859 |
 | Able | 4.00% | ~687 |
@@ -140,6 +140,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
+| Cothon | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |
 | Old | 0.50% | ~86 |
 | Noble Difficulty | 0.50% | ~86 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.50% | ~86 |
 | Poetic Leader | 0.50% | ~86 |
 | Al Khazneh | 0.50% | ~86 |
-| Cothon | 0.50% | ~86 |
 | Carthage - Ox Hide | 0.40% | ~69 |
 | The Eternal Treaty | 0.40% | ~69 |
 | Pantheon of Gods | 0.40% | ~69 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,175 (Ranked 170)  
+Progressed: 17,176 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 5 (0.03%) (Ranked 368)
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
-| 2024-01-26 | 17,175 | 5 |
+| 2024-01-26 | 17,176 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

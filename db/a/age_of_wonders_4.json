@@ -11960,9 +11960,9 @@
       "ID": "55",
       "SetID": "7132754",
       "Name": "Seal the Deal",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 146
     },
     {
       "ID": "56",
@@ -12023,8 +12023,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-24T20:57:34.42247+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:04:46.0869658+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:06:13.9643894+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:58:20.9651005+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:04:46.0870461+00:00"
+  "LastUpdate_Ratings": "2024-01-26T11:59:06.3069+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:06:13.9644722+00:00"
 }

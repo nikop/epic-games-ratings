@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2061,
+  "EOS_Progressed": 2062,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3970,6 +3970,11 @@
       "Time": "2024-01-25T23:04:35.0758953+00:00",
       "NumProgressed": 2061,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-26T12:06:33.6597862+00:00",
+      "NumProgressed": 2062,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 30,
@@ -4005,7 +4010,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "13",
@@ -4045,7 +4050,7 @@
       "Name": "Balding bloot!",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "18",
@@ -4139,9 +4144,9 @@
       "ID": "3",
       "SetID": "n50no0",
       "Name": "Hug therapy",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 722
     },
     {
       "ID": "30",
@@ -4220,15 +4225,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2061,
+      "Progressed": 2062,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:05:01.2066295+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:06:33.6597857+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:00:39.4572783+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:05:01.2066707+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:02:11.9976927+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:06:33.6598216+00:00"
 }

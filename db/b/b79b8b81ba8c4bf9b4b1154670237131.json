@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -203,7 +203,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16935,
+  "EOS_Progressed": 16937,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 1,
@@ -7453,6 +7453,11 @@
       "Time": "2024-01-26T08:10:22.9142802+00:00",
       "NumProgressed": 16935,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-26T12:11:10.5345606+00:00",
+      "NumProgressed": 16937,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7465,7 +7470,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6435
+      "UsersEstimate": 6436
     },
     {
       "ID": "ACH_AE_10",
@@ -7497,7 +7502,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12701
+      "UsersEstimate": 12703
     },
     {
       "ID": "ACH_AE_14",
@@ -7545,7 +7550,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "ACH_AE_2",
@@ -7553,7 +7558,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "ACH_AE_20",
@@ -7577,7 +7582,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "ACH_AE_23",
@@ -7665,7 +7670,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACH_AE_33",
@@ -7744,7 +7749,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16935,
+      "Progressed": 16937,
       "Completed": 17
     }
   ],
@@ -7752,8 +7757,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:09:57.5554373+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:11:10.5345602+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.2339366+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:00:24.7487762+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:09:57.5554932+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:01:52.7553791+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:11:10.5346117+00:00"
 }

@@ -16,21 +16,21 @@
 | The Milk Canal | 63.00% | ~19 |
 | Skilled Hands | 60.00% | ~18 |
 | Fledgling Smithy | 60.00% | ~18 |
+| Close Encounter | 57.00% | ~17 |
+| Master Smithy | 57.00% | ~17 |
 | At One With Nature | 57.00% | ~17 |
-| Close Encounter | 53.00% | ~16 |
-| Master Smithy | 53.00% | ~16 |
+| The Depths Of Darkness | 53.00% | ~16 |
 | Prison Break | 50.00% | ~15 |
 | I Pick You | 50.00% | ~15 |
 | Accomplished Smithy | 50.00% | ~15 |
-| The Depths Of Darkness | 50.00% | ~15 |
 | One With The Blades | 50.00% | ~15 |
 | Heart of Oblivion | 50.00% | ~15 |
 | Anahita's Greatest Mistake | 50.00% | ~15 |
 | Heart's Desire | 50.00% | ~15 |
 | Shoo! Shoo! | 50.00% | ~15 |
+| The Blight's Blight | 47.00% | ~14 |
 | Nature's Savior | 47.00% | ~14 |
 | Hammer It Home | 47.00% | ~14 |
-| The Blight's Blight | 43.00% | ~13 |
 | The Ultimate Sacrifice | 43.00% | ~13 |
 | For Whom the Bell Tolls | 37.00% | ~11 |
 | Here I Am | 37.00% | ~11 |

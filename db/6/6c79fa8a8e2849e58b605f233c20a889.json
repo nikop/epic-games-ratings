@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3283,
+  "EOS_Progressed": 3284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9099,6 +9099,11 @@
       "Time": "2024-01-26T10:10:12.4573079+00:00",
       "NumProgressed": 3283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T12:11:31.4453459+00:00",
+      "NumProgressed": 3284,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -9142,7 +9147,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -9190,7 +9195,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "GLOVE_SLAP",
@@ -9198,7 +9203,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -9246,7 +9251,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -9285,14 +9290,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3283,
+      "Progressed": 3284,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:10:14.3474856+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:11:31.4453455+00:00",
   "LastUpdate_AppInfo": "2024-01-24T11:57:15.9867737+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:02:50.7441208+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:10:14.34754+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:03:41.5119387+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:11:31.4453904+00:00"
 }

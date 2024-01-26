@@ -4,7 +4,7 @@
   "ProductSlug": "lil-guardsman-3cf46c",
   "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -186,9 +186,9 @@
       "ID": "CompleteLevel8",
       "SetID": "8j3le2g",
       "Name": "Wartime Lil",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteLevel9",
@@ -338,9 +338,9 @@
       "ID": "PerfectLevel8",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 8",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PerfectLevel9",
@@ -465,8 +465,8 @@
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:05:21.0694679+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:06:59.2299403+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:59:32.8564293+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:05:21.0694999+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:00:43.700733+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:06:59.2300157+00:00"
 }

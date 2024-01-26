@@ -4,11 +4,11 @@
   "ProductSlug": "pubg-59c1d9",
   "Ranking_Rating": 1063,
   "Ranking_Popularity": 61,
-  "Ranking_PopularitySum": 59,
+  "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 7,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2022-12-06T05:00:00+00:00",
@@ -7385,10 +7385,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 22038,
       "NumberOfAwardsMax": 6732
+    },
+    {
+      "Time": "2024-01-26T11:57:54.1785449+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 22064,
+      "NumberOfAwardsMax": 6732
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22038,
+  "NumberOfAwards": 22064,
   "NumberOfAwardsMax": 6732,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -7432,7 +7438,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3920
+      "Count": 3946
     },
     {
       "Text": "This game is Relaxing",
@@ -7447,9 +7453,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 915878,
+  "EOS_Progressed": 915880,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 19579,
+  "EOS_NewPlayers": 19443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39822,6 +39828,11 @@
       "Time": "2024-01-26T11:04:49.2183047+00:00",
       "NumProgressed": 915878,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-26T12:06:18.1212431+00:00",
+      "NumProgressed": 915880,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 37,
@@ -39857,7 +39868,7 @@
       "Name": "Marksman Novice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 146540
+      "UsersEstimate": 146541
     },
     {
       "ID": "13",
@@ -39913,7 +39924,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 650273
+      "UsersEstimate": 650275
     },
     {
       "ID": "2",
@@ -39961,7 +39972,7 @@
       "Name": "First Blood",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 109905
+      "UsersEstimate": 109906
     },
     {
       "ID": "25",
@@ -40025,7 +40036,7 @@
       "Name": "Guardian Angel",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 293081
+      "UsersEstimate": 293082
     },
     {
       "ID": "32",
@@ -40057,7 +40068,7 @@
       "Name": "You Complete Me",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 338875
+      "UsersEstimate": 338876
     },
     {
       "ID": "36",
@@ -40089,7 +40100,7 @@
       "Name": "Top 10",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 109905
+      "UsersEstimate": 109906
     },
     {
       "ID": "6",
@@ -40121,23 +40132,23 @@
       "Name": "CQB Novice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 64111
+      "UsersEstimate": 64112
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 915878,
+      "Progressed": 915880,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2024-01-26T09:57:21.5504528+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:04:49.2183045+00:00",
+  "LastChanged": "2024-01-26T11:57:54.1785448+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:06:18.1212426+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.061199+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:57:26.7706291+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:04:49.2184822+00:00"
+  "LastUpdate_Ratings": "2024-01-26T11:57:54.1785453+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:06:18.1214921+00:00"
 }

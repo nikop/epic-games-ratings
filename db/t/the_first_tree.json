@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41028,
+  "EOS_Progressed": 41029,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -25143,6 +25143,11 @@
       "Time": "2024-01-26T10:08:55.7476577+00:00",
       "NumProgressed": 41028,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2024-01-26T12:09:52.2889365+00:00",
+      "NumProgressed": 41029,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 14,
@@ -25170,7 +25175,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10667
+      "UsersEstimate": 10668
     },
     {
       "ID": "allItems",
@@ -25242,7 +25247,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 31181
+      "UsersEstimate": 31182
     },
     {
       "ID": "roots",
@@ -25265,15 +25270,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 41028,
+      "Progressed": 41029,
       "Completed": 127
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:08:56.4746973+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:09:52.2889361+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.6207969+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:58:51.7478935+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:08:56.4747965+00:00"
+  "LastUpdate_Ratings": "2024-01-26T11:59:48.0711629+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:09:52.2890647+00:00"
 }

@@ -8,10 +8,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.90% | ~9,531 |
 | Right Back At Ya | 0.90% | ~9,531 |
+| True Soldier | 0.90% | ~9,531 |
 | The Hermit | 0.80% | ~8,472 |
 | The High Priestess | 0.80% | ~8,472 |
 | The Wheel of Fortune | 0.80% | ~8,472 |
-| True Soldier | 0.80% | ~8,472 |
 | Legend of The Afterlife | 0.80% | ~8,472 |
 | Christmas Tree Attack | 0.70% | ~7,413 |
 | Life of the Road | 0.70% | ~7,413 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,963 (Ranked 17)  
+Progressed: 1,058,989 (Ranked 17)  
 Completed: 3,166 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,15 +355,15 @@ Completed: 3,166 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,058,963 | 3,166 |
+| 2024-01-26 | 1,058,989 | 3,166 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
-Sum: 520,894 (Ranked 8)  
+Sum: 521,223 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 145,126 |
-| This game has Great Boss Battles | 108,553 |
+| This game has Great Boss Battles | 108,882 |
 | This game is Great for Beginners | 33,540 |
 | This game has Diverse Characters | 32,756 |
 | This game is Highly Recommended | 31,219 |
@@ -748,4 +748,4 @@ Diff (max vs sum): 0
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
 | 2024-01-25 | 4.68 | - | 145,126 | 520,256 |
-| 2024-01-26 | 4.68 | - | 145,126 | 520,894 |
+| 2024-01-26 | 4.68 | - | 145,126 | 521,223 |

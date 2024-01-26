@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4097,9 +4097,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 21019,
+  "EOS_Progressed": 21020,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20557,6 +20557,11 @@
       "Time": "2024-01-26T11:08:49.6505054+00:00",
       "NumProgressed": 21019,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-26T12:09:43.8769962+00:00",
+      "NumProgressed": 21020,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20951,9 +20956,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 631
     },
     {
       "ID": "Year1Dangerous",
@@ -21040,15 +21045,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 21019,
+      "Progressed": 21020,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-26T05:00:30.7649065+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:08:49.6505052+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:09:43.8769956+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:59:51.9266344+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:08:49.6506381+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:01:09.0574476+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:09:43.8771229+00:00"
 }

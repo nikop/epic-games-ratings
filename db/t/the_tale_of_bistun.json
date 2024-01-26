@@ -212,33 +212,33 @@
       "ID": "BISTUN_ACHIEVEMENT_14",
       "SetID": "1kdk24p",
       "Name": "The Blight\u0027s Blight",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_15",
       "SetID": "1kdk24p",
       "Name": "Close Encounter",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_16",
       "SetID": "1kdk24p",
       "Name": "The Depths Of Darkness",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_17",
       "SetID": "1kdk24p",
       "Name": "Master Smithy",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_18",
@@ -477,8 +477,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:05:14.2068638+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:06:50.3760167+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8982595+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:02:52.7504591+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:05:14.2068855+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:03:44.1903995+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:06:50.3760458+00:00"
 }

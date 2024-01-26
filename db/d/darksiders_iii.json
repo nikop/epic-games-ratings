@@ -2846,9 +2846,9 @@
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 262
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -3062,9 +3062,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 332
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -3246,8 +3246,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-24T13:04:26.9223833+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:06:22.2635448+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:08:18.2294123+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:59:12.8050663+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:06:22.2635976+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:00:16.2543396+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:08:18.229468+00:00"
 }

@@ -9181,10 +9181,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12894,
       "NumberOfAwardsMax": 7286
+    },
+    {
+      "Time": "2024-01-26T12:04:06.4388884+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12895,
+      "NumberOfAwardsMax": 7286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12894,
+  "NumberOfAwards": 12895,
   "NumberOfAwardsMax": 7286,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9204,7 +9210,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 605
+      "Count": 606
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9261,9 +9267,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762875,
+  "EOS_Progressed": 762880,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1115,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35406,6 +35412,11 @@
       "Time": "2024-01-26T11:10:01.654612+00:00",
       "NumProgressed": 762875,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-26T12:11:15.9783225+00:00",
+      "NumProgressed": 762880,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35417,7 +35428,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45772
+      "UsersEstimate": 45773
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35896,21 +35907,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72176,
+      "Progressed": 72181,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762875,
+      "Progressed": 762880,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-26T09:03:28.0406762+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:10:01.6546118+00:00",
+  "LastChanged": "2024-01-26T12:04:06.4388882+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:11:15.978322+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:03:09.5317368+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:10:01.65476+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:04:06.4388898+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:11:15.9784898+00:00"
 }

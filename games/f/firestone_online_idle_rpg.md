@@ -5,18 +5,18 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,479 |
-| World Map | 78.00% | ~3,756 |
-| Temple of Eternals | 56.00% | ~2,697 |
-| Prestigious | 52.00% | ~2,504 |
+| Victor | 93.00% | ~4,480 |
+| World Map | 78.00% | ~3,757 |
+| Temple of Eternals | 56.00% | ~2,698 |
+| Prestigious | 52.00% | ~2,505 |
 | Fellowship Power | 42.00% | ~2,023 |
 | Full Party | 31.00% | ~1,493 |
 | Guild Power | 22.00% | ~1,060 |
 | Prestigious x10 | 20.00% | ~963 |
 | The game is on | 18.00% | ~867 |
 | Exotic Merchant | 16.00% | ~771 |
-| Dragon Clicker | 15.00% | ~722 |
-| Miner Clicker | 15.00% | ~722 |
+| Dragon Clicker | 15.00% | ~723 |
+| Miner Clicker | 15.00% | ~723 |
 | Dragon Master | 13.00% | ~626 |
 | Enlightenment | 13.00% | ~626 |
 | Hero inspection | 13.00% | ~626 |
@@ -28,9 +28,9 @@ Rating: 4.08 (Ranked 1,038)
 | Superior | 11.00% | ~530 |
 | The Unstoppable | 11.00% | ~530 |
 | Scientist | 10.00% | ~482 |
-| Doing My Part | 9.00% | ~433 |
-| Hunter | 9.00% | ~433 |
-| The power of Awakening | 9.00% | ~433 |
+| Doing My Part | 9.00% | ~434 |
+| Hunter | 9.00% | ~434 |
+| The power of Awakening | 9.00% | ~434 |
 | Challenger | 8.00% | ~385 |
 | Daily Quest Completionist | 8.00% | ~385 |
 | Four Leaf Clover | 8.00% | ~385 |
@@ -59,8 +59,8 @@ Rating: 4.08 (Ranked 1,038)
 | Background Story | 4.00% | ~193 |
 | Legendary | 4.00% | ~193 |
 | The Alchemist | 4.00% | ~193 |
-| Arena Challenger | 3.00% | ~144 |
-| Ebony Jungle Liberator | 3.00% | ~144 |
+| Arena Challenger | 3.00% | ~145 |
+| Ebony Jungle Liberator | 3.00% | ~145 |
 | Enchanting skill x5 | 2.00% | ~96 |
 | Gear Enchanting | 2.00% | ~96 |
 | Guardian Master | 2.00% | ~96 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,816 (Ranked 211)  
+Progressed: 4,817 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 2 (0.04%) (Ranked 362)
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
-| 2024-01-26 | 4,816 | 2 |
+| 2024-01-26 | 4,817 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 488)  
 Sum: 126 (Ranked 463)  

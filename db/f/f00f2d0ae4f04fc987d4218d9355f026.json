@@ -2,7 +2,7 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 163,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2024-01-26T11:08:25.9388745+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T12:09:13.4233677+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -588,17 +593,17 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "CloseCall",
@@ -686,7 +691,7 @@
       "Name": "Loser",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Lupus",
@@ -710,7 +715,7 @@
       "Name": "Medical Student",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MuscularCollapse",
@@ -724,9 +729,9 @@
       "ID": "NervousCollapse",
       "SetID": "aaidab7",
       "Name": "Nervous Collapse",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "Opportunist",
@@ -742,7 +747,7 @@
       "Name": "Prescription Frenzy",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Reaper",
@@ -780,9 +785,9 @@
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "SkeletalCollapse",
@@ -812,23 +817,23 @@
       "ID": "WalkInThePark",
       "SetID": "aaidab7",
       "Name": "Walk In The Park",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-26T11:08:25.9388743+00:00",
+  "LastChanged_Achievements": "2024-01-26T12:09:13.4233672+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:59:49.3616373+00:00",
-  "LastUpdate_Achievements": "2024-01-26T11:08:25.9388937+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:01:05.6231302+00:00",
+  "LastUpdate_Achievements": "2024-01-26T12:09:13.4233914+00:00"
 }
