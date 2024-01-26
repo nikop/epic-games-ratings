@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~17,063 |
-| On the Top Step | 83.00% | ~15,563 |
-| Setting up for Success | 70.00% | ~13,126 |
-| Team Orders | 68.00% | ~12,751 |
-| Engineer | 46.00% | ~8,625 |
-| Familiar Faces | 42.00% | ~7,875 |
-| Going the Extra Mile | 36.00% | ~6,750 |
-| Sharing the Love | 34.00% | ~6,375 |
-| Hitting a Season | 29.00% | ~5,438 |
-| A Dozen Pieces | 26.00% | ~4,875 |
+| Getting on the Step | 91.00% | ~17,066 |
+| On the Top Step | 83.00% | ~15,566 |
+| Setting up for Success | 70.00% | ~13,128 |
+| Team Orders | 68.00% | ~12,753 |
+| Engineer | 46.00% | ~8,627 |
+| Familiar Faces | 42.00% | ~7,877 |
+| Going the Extra Mile | 36.00% | ~6,751 |
+| Sharing the Love | 34.00% | ~6,376 |
+| Hitting a Season | 29.00% | ~5,439 |
+| A Dozen Pieces | 26.00% | ~4,876 |
 | Making History | 25.00% | ~4,688 |
-| Network Success | 24.00% | ~4,500 |
-| Challenge Yourself | 24.00% | ~4,500 |
-| Writing a new Chapter | 20.00% | ~3,750 |
+| Network Success | 24.00% | ~4,501 |
+| Challenge Yourself | 24.00% | ~4,501 |
+| Writing a new Chapter | 20.00% | ~3,751 |
 | Spring Cleaning | 19.00% | ~3,563 |
 | Reduce | 15.00% | ~2,813 |
 | Ups and Downs | 15.00% | ~2,813 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 327)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,751 (Ranked 165)  
+Progressed: 18,754 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,15 +190,15 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 18,659 | 0 |
 | 2024-01-24 | 18,697 | 0 |
 | 2024-01-25 | 18,722 | 0 |
-| 2024-01-26 | 18,751 | 0 |
+| 2024-01-26 | 18,754 | 0 |
 ## Awards
 Max (Diverse Characters): 77  (Ranked 412)  
-Sum: 492 (Ranked 342)  
+Sum: 493 (Ranked 342)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 77 |
-| This game has a Competitive Community | 58 |
+| This game has a Competitive Community | 59 |
 | This game is Highly Recommended | 53 |
 | This game is Extremely Fun | 51 |
 | This game has Amazing Characters | 51 |
@@ -347,4 +347,4 @@ Diff (max vs sum): 70
 | 2024-01-23 | 4.65 | 74 | 484 |
 | 2024-01-24 | 4.64 | 74 | 484 |
 | 2024-01-25 | 4.65 | 76 | 490 |
-| 2024-01-26 | 4.65 | 77 | 492 |
+| 2024-01-26 | 4.65 | 77 | 493 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19301,
+  "EOS_Progressed": 19303,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18283,6 +18283,11 @@
       "Time": "2024-01-26T19:05:08.0392017+00:00",
       "NumProgressed": 19301,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-26T20:03:48.1584015+00:00",
+      "NumProgressed": 19303,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18309,9 +18314,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2895
     },
     {
       "ID": "12",
@@ -18327,7 +18332,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3860
+      "UsersEstimate": 3861
     },
     {
       "ID": "14",
@@ -18471,7 +18476,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3282
     },
     {
       "ID": "30",
@@ -18574,22 +18579,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19301,
+      "Progressed": 19303,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5255,
-      "Completed": 1406
+      "Progressed": 5257,
+      "Completed": 1407
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:05:08.0392014+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:03:48.1584011+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:57:44.9949629+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:05:08.0392998+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:23.496942+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:03:48.1585123+00:00"
 }

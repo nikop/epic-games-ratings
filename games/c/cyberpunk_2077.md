@@ -10,11 +10,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.90% | ~9,533 |
 | The Hermit | 0.90% | ~9,533 |
 | True Soldier | 0.90% | ~9,533 |
-| Christmas Tree Attack | 0.80% | ~8,473 |
-| Life of the Road | 0.80% | ~8,473 |
-| The High Priestess | 0.80% | ~8,473 |
-| The Wheel of Fortune | 0.80% | ~8,473 |
-| Legend of The Afterlife | 0.80% | ~8,473 |
+| Christmas Tree Attack | 0.80% | ~8,474 |
+| Life of the Road | 0.80% | ~8,474 |
+| The High Priestess | 0.80% | ~8,474 |
+| The Wheel of Fortune | 0.80% | ~8,474 |
+| Legend of The Afterlife | 0.80% | ~8,474 |
 | Stanislavski's Method | 0.70% | ~7,414 |
 | The Fool | 0.70% | ~7,414 |
 | The Lovers | 0.70% | ~7,414 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,183 (Ranked 17)  
+Progressed: 1,059,200 (Ranked 17)  
 Completed: 3,167 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 3,167 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,059,183 | 3,167 |
+| 2024-01-26 | 1,059,200 | 3,167 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
 Sum: 521,669 (Ranked 8)  

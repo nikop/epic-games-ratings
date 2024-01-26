@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17555,
+  "EOS_Progressed": 17556,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8603,6 +8603,11 @@
       "Time": "2024-01-26T11:09:06.0760192+00:00",
       "NumProgressed": 17555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T20:08:31.8915964+00:00",
+      "NumProgressed": 17556,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8614,7 +8619,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16677
+      "UsersEstimate": 16678
     },
     {
       "ID": "ACH001",
@@ -8622,7 +8627,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 15097
+      "UsersEstimate": 15098
     },
     {
       "ID": "ACH0010",
@@ -8734,7 +8739,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6144
+      "UsersEstimate": 6145
     },
     {
       "ID": "ACH0023",
@@ -8774,7 +8779,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15273
+      "UsersEstimate": 15274
     },
     {
       "ID": "ACH005",
@@ -8821,7 +8826,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17555,
+      "Progressed": 17556,
       "Completed": 1
     }
   ],
@@ -8829,8 +8834,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-11T23:59:56.1760647+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:09:50.4362518+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:08:31.8915958+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.6374967+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:01:58.6055574+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:09:50.4363068+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:00:07.8510146+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:08:31.8916555+00:00"
 }

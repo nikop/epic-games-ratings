@@ -20,29 +20,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~687 |
 | Oracle | 4.00% | ~687 |
 | Judaism | 4.00% | ~687 |
-| Ambitious | 3.00% | ~515 |
-| Enlightened | 3.00% | ~515 |
-| Fountainhead | 3.00% | ~515 |
-| Glorious | 3.00% | ~515 |
-| Just | 3.00% | ~515 |
-| Keystone | 3.00% | ~515 |
-| Learned | 3.00% | ~515 |
-| Magnificent | 3.00% | ~515 |
-| Pioneer | 3.00% | ~515 |
-| Warrior | 3.00% | ~515 |
-| Developing Cities | 3.00% | ~515 |
-| Strong Cities | 3.00% | ~515 |
-| Great Ziggurat | 3.00% | ~515 |
-| Ishtar Gate | 3.00% | ~515 |
-| Lighthouse | 3.00% | ~515 |
-| Pyramids | 3.00% | ~515 |
-| Learn to Play 1 | 3.00% | ~515 |
-| Christianity | 3.00% | ~515 |
-| Babylonian Paganism | 3.00% | ~515 |
-| Greek Paganism | 3.00% | ~515 |
-| Zoroastrianism | 3.00% | ~515 |
-| Naming Landmarks | 3.00% | ~515 |
-| Trade Caravan | 3.00% | ~515 |
+| Ambitious | 3.00% | ~516 |
+| Enlightened | 3.00% | ~516 |
+| Fountainhead | 3.00% | ~516 |
+| Glorious | 3.00% | ~516 |
+| Just | 3.00% | ~516 |
+| Keystone | 3.00% | ~516 |
+| Learned | 3.00% | ~516 |
+| Magnificent | 3.00% | ~516 |
+| Pioneer | 3.00% | ~516 |
+| Warrior | 3.00% | ~516 |
+| Developing Cities | 3.00% | ~516 |
+| Strong Cities | 3.00% | ~516 |
+| Great Ziggurat | 3.00% | ~516 |
+| Ishtar Gate | 3.00% | ~516 |
+| Lighthouse | 3.00% | ~516 |
+| Pyramids | 3.00% | ~516 |
+| Learn to Play 1 | 3.00% | ~516 |
+| Christianity | 3.00% | ~516 |
+| Babylonian Paganism | 3.00% | ~516 |
+| Greek Paganism | 3.00% | ~516 |
+| Zoroastrianism | 3.00% | ~516 |
+| Naming Landmarks | 3.00% | ~516 |
+| Trade Caravan | 3.00% | ~516 |
 | Regicide | 2.00% | ~344 |
 | Hanging Gardens in Babylon | 2.00% | ~344 |
 | Drillmaster | 2.00% | ~344 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 1.00% | ~172 |
 | Mighty | 1.00% | ~172 |
 | Ready | 1.00% | ~172 |
+| Subjugator | 1.00% | ~172 |
 | Victorious | 1.00% | ~172 |
 | Good Difficulty | 1.00% | ~172 |
 | Champions | 1.00% | ~172 |
@@ -89,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 1.00% | ~172 |
 | Via Recta Souk | 1.00% | ~172 |
 | Learn to Play 3 | 1.00% | ~172 |
+| Learn to Play 4 | 1.00% | ~172 |
 | Greece | 1.00% | ~172 |
 | Power to the People | 1.00% | ~172 |
 | Persian Paganism | 1.00% | ~172 |
@@ -105,9 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 1.00% | ~172 |
 | Invincible | 0.90% | ~155 |
 | Lion | 0.90% | ~155 |
-| Subjugator | 0.90% | ~155 |
 | Riders | 0.90% | ~155 |
-| Learn to Play 4 | 0.90% | ~155 |
 | Assyrian Paganism | 0.90% | ~155 |
 | Industrial Progress | 0.90% | ~155 |
 | Cimmerian Archer | 0.90% | ~155 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,182 (Ranked 170)  
+Progressed: 17,185 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 5 (0.03%) (Ranked 369)
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
-| 2024-01-26 | 17,182 | 5 |
+| 2024-01-26 | 17,185 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 288)  
 Sum: 1,947 (Ranked 224)  

@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 180,
@@ -5039,9 +5039,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 13363,
+  "EOS_Progressed": 13364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20219,6 +20219,11 @@
       "Time": "2024-01-26T19:11:38.8438723+00:00",
       "NumProgressed": 13363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T20:09:47.317002+00:00",
+      "NumProgressed": 13364,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -21157,21 +21162,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12145,
+      "Progressed": 12146,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13363,
+      "Progressed": 13364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-25T16:58:07.6224024+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:11:38.843872+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:47.3170015+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:59:12.9514093+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:11:38.8440376+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:58:20.4361633+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:09:47.3171975+00:00"
 }

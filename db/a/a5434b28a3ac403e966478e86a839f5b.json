@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -45,7 +45,7 @@
   "Tags": [],
   "EOS_Progressed": 1004,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -3621,9 +3621,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 522
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_eou2",
@@ -3637,9 +3637,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_eou4",
@@ -3669,9 +3669,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_eou8",
@@ -3726,8 +3726,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-24T21:59:40.9634781+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:08:28.7872104+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:06:06.9434034+00:00",
   "LastUpdate_AppInfo": "2024-01-26T07:57:12.7602396+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:58:12.6227428+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:08:28.7872418+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:41.0199733+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:06:06.943429+00:00"
 }

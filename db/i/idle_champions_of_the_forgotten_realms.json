@@ -9865,9 +9865,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255755,
+  "EOS_Progressed": 255764,
   "EOS_Completed": 2651,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1012,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41815,6 +41815,11 @@
       "Time": "2024-01-26T19:11:42.6913185+00:00",
       "NumProgressed": 255755,
       "NumCompleted": 2651
+    },
+    {
+      "Time": "2024-01-26T20:09:50.3727709+00:00",
+      "NumProgressed": 255764,
+      "NumCompleted": 2651
     }
   ],
   "TotalAchievements": 546,
@@ -43488,9 +43493,9 @@
       "ID": "objective_completed_286",
       "SetID": "415jc5c",
       "Name": "Review by the Blackstaff",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_3",
@@ -44824,9 +44829,9 @@
       "ID": "objective_completed_675",
       "SetID": "415jc5c",
       "Name": "Bel\u0027s Forge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_676",
@@ -46193,21 +46198,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222029,
+      "Progressed": 222038,
       "Completed": 4162
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255755,
+      "Progressed": 255764,
       "Completed": 2651
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T19:01:29.7865544+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:11:42.6913182+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:50.3727705+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:01:29.786555+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:11:42.6935169+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:59:49.8938684+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:09:50.3750022+00:00"
 }

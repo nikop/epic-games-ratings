@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4819,9 +4819,9 @@
       "ID": "Achievement_013",
       "SetID": "6b34g18",
       "Name": "Scream Team",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_014",
@@ -5235,9 +5235,9 @@
       "ID": "Achievement_069",
       "SetID": "6b34g18",
       "Name": "Friends \u0027Til The End",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_070",
@@ -5268,8 +5268,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-26T14:58:39.501364+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:05:19.3782538+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:03:55.8281389+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:59:16.3854531+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:05:19.378334+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:58:22.6192327+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:03:55.8282062+00:00"
 }

@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239351,
+  "EOS_Progressed": 239349,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": -80,
+  "EOS_NewPlayers": -79,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29733,6 +29733,11 @@
       "Time": "2024-01-26T19:09:28.0919523+00:00",
       "NumProgressed": 239351,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-26T20:08:06.7221076+00:00",
+      "NumProgressed": 239349,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -29776,7 +29781,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26329
+      "UsersEstimate": 26328
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -29784,7 +29789,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16755
+      "UsersEstimate": 16754
     },
     {
       "ID": "DRAGOON",
@@ -29824,7 +29829,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7181
+      "UsersEstimate": 7180
     },
     {
       "ID": "GT9STRADALE",
@@ -29848,7 +29853,7 @@
       "Name": "HARDCORE",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2393
     },
     {
       "ID": "HIDDENPOWER",
@@ -29880,7 +29885,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78986
+      "UsersEstimate": 78985
     },
     {
       "ID": "NOBUNAGA",
@@ -29912,7 +29917,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16755
+      "UsersEstimate": 16754
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -29936,7 +29941,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11967
     },
     {
       "ID": "RESPWND",
@@ -29984,7 +29989,7 @@
       "Name": "TAKATORA",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11967
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -30015,15 +30020,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239351,
+      "Progressed": 239349,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:09:28.091952+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:08:06.7221073+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:01:32.2420689+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:09:28.0920879+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:59:51.4654608+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:08:06.7222302+00:00"
 }

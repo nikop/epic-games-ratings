@@ -6,18 +6,18 @@ Rating: 4.31 (Ranked 880)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 56.00% | ~2,560 |
-| MVP | 54.00% | ~2,468 |
+| MVP | 53.00% | ~2,423 |
 | Big Spender | 52.00% | ~2,377 |
-| Stud Finder | 40.00% | ~1,828 |
+| Stud Finder | 40.00% | ~1,829 |
 | Dealmaker | 38.00% | ~1,737 |
 | ROTY | 32.00% | ~1,463 |
 | Roster Reshuffle | 31.00% | ~1,417 |
-| Future of the Franchise | 19.00% | ~868 |
+| Future of the Franchise | 19.00% | ~869 |
 | Throwin’ Dots | 18.00% | ~823 |
 | Already in Progress | 17.00% | ~777 |
-| Primetime | 16.00% | ~731 |
-| Change of Scenery | 16.00% | ~731 |
-| Pro Bowler | 16.00% | ~731 |
+| Primetime | 16.00% | ~732 |
+| Change of Scenery | 16.00% | ~732 |
+| Pro Bowler | 16.00% | ~732 |
 | Unblockable | 9.00% | ~411 |
 | Pocket Ace | 5.00% | ~229 |
 | Lockdown Corner | 5.00% | ~229 |
@@ -25,9 +25,9 @@ Rating: 4.31 (Ranked 880)
 | Gain Train | 0.90% | ~41 |
 | Ol' Reliable | 0.70% | ~32 |
 | Lockdown Leader | 0.50% | ~23 |
-| The Fortress | 0.40% | ~18 |
+| The Fortress | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,571 (Ranked 215)  
+Progressed: 4,572 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,14 +160,14 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 4,548 | 0 |
 | 2024-01-24 | 4,558 | 0 |
 | 2024-01-25 | 4,568 | 0 |
-| 2024-01-26 | 4,571 | 0 |
+| 2024-01-26 | 4,572 | 0 |
 ## Awards
-Max (Diverse Characters): 49  (Ranked 469)  
-Sum: 180 (Ranked 434)  
-Diff (max vs sum): 35  
+Max (Diverse Characters): 50  (Ranked 466)  
+Sum: 181 (Ranked 434)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 49 |
+| This game has Diverse Characters | 50 |
 | This game has a Competitive Community | 34 |
 | This game is Highly Recommended | 29 |
 | This game is Extremely Fun | 25 |
@@ -334,4 +334,4 @@ Diff (max vs sum): 35
 | 2024-01-16 | 4.29 | 48 | 179 |
 | 2024-01-18 | 4.30 | 48 | 179 |
 | 2024-01-21 | 4.30 | 49 | 180 |
-| 2024-01-26 | 4.31 | 49 | 180 |
+| 2024-01-26 | 4.31 | 50 | 181 |

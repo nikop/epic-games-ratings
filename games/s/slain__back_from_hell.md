@@ -1,7 +1,7 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 891)  
+Rating: 4.29 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 891)
 | Heart Of Steel | 0.10% | ~45 |
 | Death or Glory | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,872 (Ranked 134)  
+Progressed: 44,873 (Ranked 134)  
 Completed: 30 (0.07%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,11 +316,11 @@ Completed: 30 (0.07%) (Ranked 341)
 | 2024-01-23 | 44,747 | 30 |
 | 2024-01-24 | 44,793 | 30 |
 | 2024-01-25 | 44,841 | 30 |
-| 2024-01-26 | 44,872 | 30 |
+| 2024-01-26 | 44,873 | 30 |
 ## Awards
 Max (Great Boss Battles): 129  (Ranked 355)  
-Sum: 129 (Ranked 460)  
-Diff (max vs sum): -105  
+Sum: 129 (Ranked 461)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 129 |

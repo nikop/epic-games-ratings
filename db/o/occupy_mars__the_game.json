@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1921,
+  "EOS_Progressed": 1922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5227,6 +5227,11 @@
       "Time": "2024-01-26T17:10:42.7449261+00:00",
       "NumProgressed": 1921,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T20:09:20.567925+00:00",
+      "NumProgressed": 1922,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5318,7 +5323,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5430,7 +5435,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5486,7 +5491,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5621,7 +5626,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1921,
+      "Progressed": 1922,
       "Completed": 0
     }
   ],
@@ -5629,8 +5634,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-25T15:02:09.5796431+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:11:01.6736539+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:20.5679246+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:00.6724547+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:57:13.5060001+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:11:01.6736959+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:02.7370597+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:09:20.567988+00:00"
 }

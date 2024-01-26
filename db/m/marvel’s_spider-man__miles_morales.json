@@ -2,7 +2,7 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 854,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -4187,6 +4187,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 3209,
       "NumberOfAwardsMax": 2224
+    },
+    {
+      "Time": "2024-01-26T19:58:49.5841437+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 3209,
+      "NumberOfAwardsMax": 2224
     }
   ],
   "ReviewsDisabled": false,
@@ -4285,8 +4291,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2024-01-26T01:41:19.7976071+00:00",
+  "LastChanged": "2024-01-26T19:58:49.5841436+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:04.2222262+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:59:58.097605+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:06:27.0207135+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:58:49.584144+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:04:42.1145377+00:00"
 }

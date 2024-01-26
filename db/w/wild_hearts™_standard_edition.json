@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -4742,9 +4742,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 480
     },
     {
       "ID": "achievement_18",
@@ -5068,8 +5068,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:11:07.1995068+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:24.374572+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:02:56.8646178+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:11:07.1995575+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:02:35.0229544+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:09:24.3746184+00:00"
 }

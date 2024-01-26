@@ -80,9 +80,9 @@
       "ID": "ANY_LEVEL_3_UNLOCK",
       "SetID": "6pjfh93",
       "Name": "Skilled",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BURN_3_EXPLOSIVE_SHOT",
@@ -190,8 +190,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:08:25.6440981+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:11:11.9655076+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:27.9322115+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:53.2526338+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:03:55.3892358+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:11:11.9655171+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:03:12.1239071+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:09:27.9322232+00:00"
 }

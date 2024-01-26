@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -435,7 +435,7 @@
   ],
   "EOS_Progressed": 1771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5108,9 +5108,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 407
     },
     {
       "ID": "VVE",
@@ -5148,8 +5148,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-26T17:02:10.3632842+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:11:25.0005276+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:37.346162+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.2672243+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:02:07.669164+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:11:25.0005654+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:00:13.5004686+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:09:37.3462017+00:00"
 }

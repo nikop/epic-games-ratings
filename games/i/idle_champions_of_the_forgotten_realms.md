@@ -115,6 +115,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Not So Alone | 0.20% | ~444 |
 | The Trepidatious Trio | 0.20% | ~512 |
 | Our Time To Shine | 0.20% | ~512 |
+| Review by the Blackstaff | 0.20% | ~444 |
 | Treasure Hunters | 0.20% | ~512 |
 | The Guardian of Orolunga | 0.20% | ~512 |
 | The Lost Love | 0.20% | ~512 |
@@ -154,6 +155,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~444 |
 | Tiamat's Army | 0.20% | ~444 |
 | Questlines | 0.20% | ~444 |
+| Bel's Forge | 0.20% | ~444 |
 | The Giant's Bane Tavern | 0.20% | ~444 |
 | The Long Haul | 0.20% | ~512 |
 | Lost in the Deep | 0.20% | ~512 |
@@ -306,7 +308,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~256 |
 | Seeds of Corruption | 0.10% | ~256 |
 | The Strahd Squad | 0.10% | ~222 |
-| Review by the Blackstaff | 0.10% | ~222 |
 | Think Your Way Out Of It | 0.10% | ~256 |
 | Air's Getting Pretty Thin | 0.10% | ~256 |
 | Red Wizard 'Escort' | 0.10% | ~222 |
@@ -417,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fight Dragons with Dragons | 0.10% | ~222 |
 | Raggadragga's Crew | 0.10% | ~222 |
 | Just The Worst | 0.10% | ~222 |
-| Bel's Forge | 0.10% | ~222 |
 | Extreme Heat | 0.10% | ~222 |
 | Fire and Brimstone | 0.10% | ~222 |
 | Into the Unknown | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,755 (Ranked 71)  
+Progressed: 255,764 (Ranked 71)  
 Completed: 2,651 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -834,7 +834,7 @@ Completed: 2,651 (1.04%) (Ranked 179)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,755 | 2,651 |
+| 2024-01-26 | 255,764 | 2,651 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
 Sum: 33,653 (Ranked 42)  

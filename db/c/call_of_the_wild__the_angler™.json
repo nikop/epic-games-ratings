@@ -1063,7 +1063,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 8440,
+  "EOS_Progressed": 8441,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -14558,6 +14558,11 @@
       "Time": "2024-01-26T18:09:10.0781038+00:00",
       "NumProgressed": 8440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T20:08:14.5942755+00:00",
+      "NumProgressed": 8441,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14569,7 +14574,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -14577,7 +14582,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -14888,13 +14893,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8440,
+      "Progressed": 8441,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7812,
+      "Progressed": 7813,
       "Completed": 113
     }
   ],
@@ -14902,8 +14907,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-26T01:43:13.4745273+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:09:39.6428126+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:08:14.5942751+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:57:41.6937002+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:09:39.6429094+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:21.1672373+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:08:14.5943504+00:00"
 }

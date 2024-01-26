@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Overpower | 133.00% | ~4 |
 | Tactician | 100.00% | ~3 |
-| Skilled | 33.00% | ~1 |
+| Skilled | 67.00% | ~2 |
 | Complete Chapter 1 | 33.00% | ~1 |
 | Sparks and Smoke | 33.00% | ~1 |
 | The Perfect Prophecy | 0.00% | ~0 |

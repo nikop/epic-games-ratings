@@ -3,7 +3,7 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 880,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 414,
@@ -1013,18 +1013,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-01-26T19:57:25.1145092+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 181,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 180,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 181,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1057,9 +1063,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4571,
+  "EOS_Progressed": 4572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9217,6 +9223,11 @@
       "Time": "2024-01-26T17:09:16.8225915+00:00",
       "NumProgressed": 4571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T20:08:11.1983941+00:00",
+      "NumProgressed": 4572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -9229,7 +9240,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "achievement_10",
@@ -9245,7 +9256,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "achievement_12",
@@ -9253,7 +9264,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "achievement_13",
@@ -9275,9 +9286,9 @@
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2423
     },
     {
       "ID": "achievement_16",
@@ -9331,9 +9342,9 @@
       "ID": "achievement_21",
       "SetID": "c8fif6p",
       "Name": "The Fortress",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_3",
@@ -9365,7 +9376,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "achievement_7",
@@ -9381,7 +9392,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "achievement_9",
@@ -9396,16 +9407,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4571,
+      "Progressed": 4572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2024-01-26T03:57:05.8641+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:09:34.6647909+00:00",
+  "LastChanged": "2024-01-26T19:57:25.114509+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:08:11.1983937+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.6554152+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:57:47.532051+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:09:34.6648393+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:25.1145094+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:08:11.1984441+00:00"
 }

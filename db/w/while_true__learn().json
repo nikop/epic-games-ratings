@@ -2,7 +2,7 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 33,
@@ -529,9 +529,9 @@
       "Count": 141
     }
   ],
-  "EOS_Progressed": 619874,
+  "EOS_Progressed": 619877,
   "EOS_Completed": 571,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -32374,6 +32374,11 @@
       "Time": "2024-01-26T19:10:24.0078661+00:00",
       "NumProgressed": 619874,
       "NumCompleted": 571
+    },
+    {
+      "Time": "2024-01-26T20:08:54.3264818+00:00",
+      "NumProgressed": 619877,
+      "NumCompleted": 571
     }
   ],
   "TotalAchievements": 28,
@@ -32393,7 +32398,7 @@
       "Name": "Gold rush",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -32401,7 +32406,7 @@
       "Name": "Cat-o-holic",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -32409,7 +32414,7 @@
       "Name": "To see it all, to learn it all",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -32417,7 +32422,7 @@
       "Name": "Evolution complete",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -32449,7 +32454,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 378123
+      "UsersEstimate": 378125
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -32457,7 +32462,7 @@
       "Name": "Best deal on the market",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -32465,7 +32470,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 272745
+      "UsersEstimate": 272746
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -32473,7 +32478,7 @@
       "Name": "Elements will destroy you!",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -32481,7 +32486,7 @@
       "Name": "Cosplay",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 86782
+      "UsersEstimate": 86783
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -32497,7 +32502,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 297540
+      "UsersEstimate": 297541
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -32505,7 +32510,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 309937
+      "UsersEstimate": 309938
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -32513,7 +32518,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 576483
+      "UsersEstimate": 576486
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -32545,7 +32550,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 409117
+      "UsersEstimate": 409119
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -32553,7 +32558,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 111577
+      "UsersEstimate": 111578
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -32561,7 +32566,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 334732
+      "UsersEstimate": 334734
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -32585,7 +32590,7 @@
       "Name": "Is this Skynet?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -32593,7 +32598,7 @@
       "Name": "Cybergeek 2047",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12397
+      "UsersEstimate": 12398
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -32608,15 +32613,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 619874,
+      "Progressed": 619877,
       "Completed": 571
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2024-01-26T01:39:52.6714267+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:10:24.0078658+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:08:54.3264814+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:37.7136463+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:58:00.456281+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:10:24.0080158+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:33.3891272+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:08:54.326648+00:00"
 }

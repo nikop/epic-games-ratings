@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7592,
+  "EOS_Progressed": 7593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9997,6 +9997,11 @@
       "Time": "2024-01-26T15:10:26.6017005+00:00",
       "NumProgressed": 7592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T20:09:42.2616957+00:00",
+      "NumProgressed": 7593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10048,7 +10053,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4555
+      "UsersEstimate": 4556
     },
     {
       "ID": "Control_All_Relics",
@@ -10112,7 +10117,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "First_Race_Met",
@@ -10120,7 +10125,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5466
+      "UsersEstimate": 5467
     },
     {
       "ID": "First_Ship_Designed",
@@ -10144,7 +10149,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5770
+      "UsersEstimate": 5771
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10224,7 +10229,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "Play_1000_Hours",
@@ -10328,7 +10333,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4555
+      "UsersEstimate": 4556
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10462,9 +10467,9 @@
       "ID": "Win_As_Terran",
       "SetID": "4h07amh",
       "Name": "Win as Terrans",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 532
     },
     {
       "ID": "Win_As_Torian",
@@ -10583,15 +10588,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7592,
+      "Progressed": 7593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:11:31.7003359+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:42.2616952+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
   "LastUpdate_Ratings": "2024-01-26T19:02:15.7699506+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:11:31.7004169+00:00"
+  "LastUpdate_Achievements": "2024-01-26T20:09:42.2617858+00:00"
 }

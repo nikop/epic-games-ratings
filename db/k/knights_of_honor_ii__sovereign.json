@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2024-01-26T19:06:57.6919622+00:00",
       "NumProgressed": 227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T20:05:02.919861+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -666,7 +671,7 @@
       "Name": "Bring it on!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "brutus",
@@ -688,17 +693,17 @@
       "ID": "call_the_boys",
       "SetID": "41moj9p",
       "Name": "Call the Boys",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "columbus",
@@ -736,9 +741,9 @@
       "ID": "cut_me_own_throat",
       "SetID": "41moj9p",
       "Name": "Cut-Me-Own-Throat",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "desperate_times",
@@ -760,9 +765,9 @@
       "ID": "dinner_time",
       "SetID": "41moj9p",
       "Name": "Dinner Time",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "do_you_read",
@@ -776,9 +781,9 @@
       "ID": "dust_and_salt",
       "SetID": "41moj9p",
       "Name": "Dust and Salt",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "everything_the_light_touches",
@@ -824,9 +829,9 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 32
     },
     {
       "ID": "game_of_thorns",
@@ -864,9 +869,9 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "he_made_it_out",
@@ -880,17 +885,17 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "his_all_holiness",
       "SetID": "41moj9p",
       "Name": "His All-Holiness",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "his_holiness",
@@ -952,9 +957,9 @@
       "ID": "ibn_battuta",
       "SetID": "41moj9p",
       "Name": "Ibn Battuta",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ill_be_back",
@@ -1016,9 +1021,9 @@
       "ID": "let_us_pray",
       "SetID": "41moj9p",
       "Name": "Let Us Pray",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "let_us_trade",
@@ -1048,9 +1053,9 @@
       "ID": "master_of_puppets",
       "SetID": "41moj9p",
       "Name": "Master of Puppets",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "naught_but_a_seamless_victory",
@@ -1096,9 +1101,9 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1168,9 +1173,9 @@
       "ID": "renaissance_man",
       "SetID": "41moj9p",
       "Name": "Renaissance Man",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "scientia_potentia_es",
@@ -1208,17 +1213,17 @@
       "ID": "the_finest_merchandise",
       "SetID": "41moj9p",
       "Name": "The finest merchandise this side of river Jordan",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "the_magnificent_nine",
       "SetID": "41moj9p",
       "Name": "The Magnificent Nine",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "the_merchant_of_venice",
@@ -1240,9 +1245,9 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -1264,17 +1269,17 @@
       "ID": "tis_but_a_scratch",
       "SetID": "41moj9p",
       "Name": "\u2018Tis but a scratch",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "together_we_stand",
       "SetID": "41moj9p",
       "Name": "Together We Stand",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "two_sides_to_every_story",
@@ -1328,9 +1333,9 @@
       "ID": "what_weve_got",
       "SetID": "41moj9p",
       "Name": "What we\u2019ve got here is failure to communicate",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "wheres_your_crown",
@@ -1385,7 +1390,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 229,
       "Completed": 0
     }
   ],
@@ -1393,8 +1398,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:06:57.6919617+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:05:02.9198605+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:57:13.1277256+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:06:57.6920651+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:02.4761738+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:05:02.9199622+00:00"
 }

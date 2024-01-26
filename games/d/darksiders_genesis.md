@@ -8,13 +8,13 @@ Number of Ratings: 67  (23.09.2022)
 | ---- | ---------- | ----- |
 | Mint I | 6.00% | ~46 |
 | Soul Cache | 6.00% | ~46 |
-| Astarte | 2.00% | ~15 |
-| Close the Rift | 2.00% | ~15 |
-| Mammon | 2.00% | ~15 |
-| Master of Strife | 2.00% | ~15 |
-| Master of War | 2.00% | ~15 |
-| Mint II | 2.00% | ~15 |
-| The Dead Court | 2.00% | ~15 |
+| Astarte | 2.00% | ~16 |
+| Close the Rift | 2.00% | ~16 |
+| Mammon | 2.00% | ~16 |
+| Master of Strife | 2.00% | ~16 |
+| Master of War | 2.00% | ~16 |
+| Mint II | 2.00% | ~16 |
+| The Dead Court | 2.00% | ~16 |
 | Demolition Derby | 1.00% | ~8 |
 | Good Deeds | 1.00% | ~8 |
 | Hell's Forge | 1.00% | ~8 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774 (Ranked 325)  
+Progressed: 775 (Ranked 325)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,11 +81,11 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 755 | 0 |
 | 2024-01-24 | 762 | 0 |
 | 2024-01-25 | 769 | 0 |
-| 2024-01-26 | 774 | 0 |
+| 2024-01-26 | 775 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 479)  
+Max (Great Boss Battles): 45  (Ranked 480)  
 Sum: 45 (Ranked 526)  
-Diff (max vs sum): -47  
+Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 45 |

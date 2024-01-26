@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -151,11 +151,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3020,
+  "EOS_Progressed": 3021,
   "EOS_Completed": 240,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 7.95,
+  "EOS_Completed_Percentage": 7.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -8176,6 +8176,11 @@
       "Time": "2024-01-26T19:06:42.5732285+00:00",
       "NumProgressed": 3020,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2024-01-26T20:04:52.6712997+00:00",
+      "NumProgressed": 3021,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 25,
@@ -8219,15 +8224,15 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 906
+      "UsersEstimate": 876
     },
     {
       "ID": "META_RESULT_1-2",
@@ -8291,7 +8296,7 @@
       "Name": "Rascal",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -8331,7 +8336,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8355,7 +8360,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "PROGRESS_N3",
@@ -8379,14 +8384,14 @@
       "Name": "One last step",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 3020,
+      "Progressed": 3021,
       "Completed": 240
     }
   ],
@@ -8394,8 +8399,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:06:42.5732279+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:04:52.6712992+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:58:37.5049159+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:06:42.5733102+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:57:56.8439023+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:04:52.671363+00:00"
 }

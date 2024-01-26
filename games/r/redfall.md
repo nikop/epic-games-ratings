@@ -49,22 +49,22 @@ Rating: 3.67 (Ranked 1,107)
 | Empty Nest Syndrome | 1.00% | ~24 |
 | Bloody Initiate | 1.00% | ~24 |
 | Good Samaritan | 1.00% | ~24 |
+| Scream Team | 0.90% | ~22 |
 | Dexterity Save | 0.90% | ~22 |
 | Monster Hunters Club | 0.80% | ~19 |
 | Friendgineering | 0.80% | ~19 |
-| Scream Team | 0.70% | ~17 |
 | Under a Bushel | 0.70% | ~17 |
 | So Anyway I Started Blasting | 0.50% | ~12 |
 | Enemy of My Enemy | 0.50% | ~12 |
 | Bob’s Final Hour | 0.40% | ~10 |
 | Someplace to Be | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~5 |
+| Friends 'Til The End | 0.20% | ~5 |
 | A Cry in the Dark | 0.10% | ~2 |
 | Ask Not For Whom The Horns Blow | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Rum Runner | 0.10% | ~2 |
 | Eagle Eyes | 0.10% | ~2 |
-| Friends 'Til The End | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |

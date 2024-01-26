@@ -9,28 +9,28 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 2.00% | ~4,871 |
 | Uncharted Territory | 2.00% | ~4,871 |
 | Matching | 2.00% | ~101 |
-| Ambitious Intent | 1.00% | ~2,435 |
-| Nothing To Lose | 1.00% | ~2,435 |
-| Heavy Hitter | 1.00% | ~2,435 |
-| Delving Deeper | 1.00% | ~2,435 |
-| Getting A Glimpse | 1.00% | ~2,435 |
-| R.I.P | 1.00% | ~2,435 |
-| That Was Quick | 1.00% | ~2,435 |
-| Colorful Corpse | 1.00% | ~2,435 |
-| Cold Hearted | 1.00% | ~2,435 |
-| Defeat The Dark | 1.00% | ~2,435 |
-| The Bestiary | 1.00% | ~2,435 |
-| Goodbye, Frog Friend | 1.00% | ~2,435 |
-| Heartless | 1.00% | ~2,435 |
-| What's Yours Is Mine | 1.00% | ~2,435 |
-| Spine Breaker | 1.00% | ~2,435 |
-| A Donation | 1.00% | ~2,435 |
-| C-C-Combo | 1.00% | ~2,435 |
-| Deflection | 1.00% | ~2,435 |
-| A Quick Escape | 1.00% | ~2,435 |
-| Explorer | 1.00% | ~2,435 |
-| Sneaky | 1.00% | ~2,435 |
-| An Offering | 1.00% | ~2,435 |
+| Ambitious Intent | 1.00% | ~2,436 |
+| Nothing To Lose | 1.00% | ~2,436 |
+| Heavy Hitter | 1.00% | ~2,436 |
+| Delving Deeper | 1.00% | ~2,436 |
+| Getting A Glimpse | 1.00% | ~2,436 |
+| R.I.P | 1.00% | ~2,436 |
+| That Was Quick | 1.00% | ~2,436 |
+| Colorful Corpse | 1.00% | ~2,436 |
+| Cold Hearted | 1.00% | ~2,436 |
+| Defeat The Dark | 1.00% | ~2,436 |
+| The Bestiary | 1.00% | ~2,436 |
+| Goodbye, Frog Friend | 1.00% | ~2,436 |
+| Heartless | 1.00% | ~2,436 |
+| What's Yours Is Mine | 1.00% | ~2,436 |
+| Spine Breaker | 1.00% | ~2,436 |
+| A Donation | 1.00% | ~2,436 |
+| C-C-Combo | 1.00% | ~2,436 |
+| Deflection | 1.00% | ~2,436 |
+| A Quick Escape | 1.00% | ~2,436 |
+| Explorer | 1.00% | ~2,436 |
+| Sneaky | 1.00% | ~2,436 |
+| An Offering | 1.00% | ~2,436 |
 | Not Touching You | 1.00% | ~50 |
 | Dig Your Own Grave | 0.90% | ~2,192 |
 | Who To Trust? | 0.90% | ~2,192 |
@@ -67,6 +67,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.50% | ~1,218 |
 | The Long Run | 0.50% | ~1,218 |
 | Who Needs Luck? | 0.50% | ~25 |
+| Achievement Hunter | 0.40% | ~974 |
 | New Game+ | 0.40% | ~974 |
 | Barbecue | 0.40% | ~974 |
 | Juggernaut | 0.40% | ~974 |
@@ -76,7 +77,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.40% | ~974 |
 | Obsessed | 0.40% | ~974 |
 | Precious | 0.40% | ~974 |
-| Achievement Hunter | 0.30% | ~731 |
 | Challenge Increases | 0.30% | ~731 |
 | A Long Climb | 0.30% | ~731 |
 | Grave Digger | 0.30% | ~731 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,548 (Ranked 75)  
+Progressed: 243,551 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 309 (0.13%) (Ranked 310)
 | 2024-01-23 | 243,428 | 309 |
 | 2024-01-24 | 243,469 | 309 |
 | 2024-01-25 | 243,514 | 309 |
-| 2024-01-26 | 243,548 | 309 |
+| 2024-01-26 | 243,551 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,806 (Ranked 92)  

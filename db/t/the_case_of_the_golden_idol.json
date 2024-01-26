@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.47,
+  "EOS_Completed_Percentage": 3.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -1101,6 +1101,11 @@
       "Time": "2024-01-26T17:05:19.8110562+00:00",
       "NumProgressed": 259,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-26T20:04:07.7515728+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 17,
@@ -1216,7 +1221,7 @@
       "Name": "Solved The Spider of Lanka 3rd Case",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "14",
@@ -1224,7 +1229,7 @@
       "Name": "Solved the Lemurian Vampire 1st Case",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "15",
@@ -1247,13 +1252,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 9
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 109
     }
   ],
@@ -1261,8 +1266,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:05:36.7793744+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:04:07.7515723+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.7715628+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:00:46.0521915+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:05:36.7794051+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:59:21.0558741+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:04:07.7515943+00:00"
 }

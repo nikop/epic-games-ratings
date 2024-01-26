@@ -5,13 +5,13 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,486 |
-| World Map | 78.00% | ~3,763 |
-| Temple of Eternals | 56.00% | ~2,701 |
-| Prestigious | 52.00% | ~2,508 |
-| Fellowship Power | 42.00% | ~2,026 |
-| Full Party | 31.00% | ~1,495 |
-| Guild Power | 22.00% | ~1,061 |
+| Victor | 93.00% | ~4,487 |
+| World Map | 78.00% | ~3,764 |
+| Temple of Eternals | 56.00% | ~2,702 |
+| Prestigious | 52.00% | ~2,509 |
+| Fellowship Power | 41.00% | ~1,978 |
+| Full Party | 31.00% | ~1,496 |
+| Guild Power | 22.00% | ~1,062 |
 | Prestigious x10 | 20.00% | ~965 |
 | The game is on | 18.00% | ~868 |
 | Exotic Merchant | 16.00% | ~772 |
@@ -43,10 +43,10 @@ Rating: 4.08 (Ranked 1,038)
 | Master Enchanter | 7.00% | ~338 |
 | The father of Dragons | 7.00% | ~338 |
 | Trader | 7.00% | ~338 |
-| Dragon Slayer | 6.00% | ~289 |
-| Enchanting skill | 6.00% | ~289 |
-| The Expeditioner | 6.00% | ~289 |
-| Weekly Quest Completionist | 6.00% | ~289 |
+| Dragon Slayer | 6.00% | ~290 |
+| Enchanting skill | 6.00% | ~290 |
+| The Expeditioner | 6.00% | ~290 |
+| Weekly Quest Completionist | 6.00% | ~290 |
 | Blueprint Upgrades | 5.00% | ~241 |
 | Crystal Mining | 5.00% | ~241 |
 | Engineer Mastery | 5.00% | ~241 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,824 (Ranked 211)  
+Progressed: 4,825 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,17 +357,17 @@ Completed: 2 (0.04%) (Ranked 363)
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
-| 2024-01-26 | 4,824 | 2 |
+| 2024-01-26 | 4,825 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 488)  
-Sum: 126 (Ranked 463)  
-Diff (max vs sum): 25  
+Sum: 127 (Ranked 462)  
+Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |
 | This game is Great for Quick Sessions | 37 |
 | This game has Diverse Characters | 32 |
-| This game has Playful Visuals | 29 |
+| This game has Playful Visuals | 30 |
 | This game has a Kind Community | 23 |
 | This game is Highly Recommended | 21 |
 ## Ratings History
@@ -473,3 +473,4 @@ Diff (max vs sum): 25
 | 2024-01-20 | 4.11 | 42 | 162 |
 | 2024-01-24 | 4.08 | 42 | 162 |
 | 2024-01-25 | 4.08 | 42 | 163 |
+| 2024-01-26 | 4.08 | 42 | 127 |

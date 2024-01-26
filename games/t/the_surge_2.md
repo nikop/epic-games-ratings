@@ -1,11 +1,11 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 915)  
+Rating: 4.27 (Ranked 914)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,048 |
+| Rigged And Ready | 78.00% | ~2,049 |
 | Don't I Know You...? | 75.00% | ~1,970 |
 | Jailbreak | 64.00% | ~1,681 |
 | HEADSHOT! | 37.00% | ~972 |
@@ -13,25 +13,25 @@ Rating: 4.27 (Ranked 915)
 | Sleeping With The Fishes | 34.00% | ~893 |
 | High Performance | 30.00% | ~788 |
 | Overheated | 29.00% | ~762 |
-| Powered Up | 28.00% | ~735 |
+| Powered Up | 28.00% | ~736 |
 | Studied The Blade | 24.00% | ~630 |
 | Home Invasion | 23.00% | ~604 |
 | Luminary | 22.00% | ~578 |
 | It's a Trap | 22.00% | ~578 |
-| True Survivor | 21.00% | ~551 |
+| True Survivor | 21.00% | ~552 |
 | Offensive Defense | 20.00% | ~525 |
 | Shocking | 20.00% | ~525 |
 | Court Martial | 19.00% | ~499 |
 | Unforeseeable Consequences | 19.00% | ~499 |
 | Dead Again | 18.00% | ~473 |
 | Clean Cut | 18.00% | ~473 |
-| Full Arsenal | 17.00% | ~446 |
+| Full Arsenal | 17.00% | ~447 |
 | Can't Trust Banks | 15.00% | ~394 |
 | Mommy Dearest | 14.00% | ~368 |
-| Bad Dog | 13.00% | ~341 |
-| Where It All Began | 13.00% | ~341 |
-| Risk Tolerant | 13.00% | ~341 |
-| What A Catchy Song | 13.00% | ~341 |
+| Bad Dog | 13.00% | ~342 |
+| Where It All Began | 13.00% | ~342 |
+| Risk Tolerant | 13.00% | ~342 |
+| What A Catchy Song | 13.00% | ~342 |
 | Corrupted Beauty | 12.00% | ~315 |
 | Sorry, Didn't See You There | 12.00% | ~315 |
 | Marked For Success | 11.00% | ~289 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 915)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,626 (Ranked 243)  
+Progressed: 2,627 (Ranked 243)  
 Completed: 14 (0.53%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 14 (0.53%) (Ranked 231)
 | 2024-01-22 | 2,617 | 13 |
 | 2024-01-23 | 2,623 | 13 |
 | 2024-01-25 | 2,626 | 13 |
-| 2024-01-26 | 2,626 | 14 |
+| 2024-01-26 | 2,627 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

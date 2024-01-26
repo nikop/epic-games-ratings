@@ -5,34 +5,34 @@ Rating: 4.53 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,760 |
-| I will survive! | 91.00% | ~10,643 |
-| All thumbs | 90.00% | ~10,526 |
-| Home, sweet home | 89.00% | ~10,409 |
-| Survivalist | 87.00% | ~10,176 |
-| One way ticket | 81.00% | ~9,474 |
-| Last man standing | 75.00% | ~8,772 |
-| Out of the Bag | 72.00% | ~8,421 |
-| Family guy | 69.00% | ~8,070 |
-| The Dark Side | 65.00% | ~7,602 |
-| Duck and cover! | 60.00% | ~7,018 |
-| Souper! | 59.00% | ~6,901 |
-| Pacifist | 53.00% | ~6,199 |
-| 2-1-6 | 52.00% | ~6,082 |
-| A gift | 48.00% | ~5,614 |
-| Girl Power | 41.00% | ~4,795 |
-| What goes around... | 39.00% | ~4,561 |
-| Be Prepared | 34.00% | ~3,977 |
-| Unbreakable | 32.00% | ~3,743 |
-| Atomic drill | 29.00% | ~3,392 |
-| Gotta get 'em all | 28.00% | ~3,275 |
-| This is the end | 28.00% | ~3,275 |
-| Disco Roach | 24.00% | ~2,807 |
-| Dawkins Residence | 18.00% | ~2,105 |
-| Rescue time! | 15.00% | ~1,754 |
-| New order | 14.00% | ~1,637 |
-| New species | 14.00% | ~1,637 |
-| Enigma | 13.00% | ~1,520 |
+| Prepper | 92.00% | ~10,763 |
+| I will survive! | 91.00% | ~10,646 |
+| All thumbs | 90.00% | ~10,529 |
+| Home, sweet home | 89.00% | ~10,412 |
+| Survivalist | 87.00% | ~10,178 |
+| One way ticket | 81.00% | ~9,476 |
+| Last man standing | 75.00% | ~8,774 |
+| Out of the Bag | 72.00% | ~8,423 |
+| Family guy | 69.00% | ~8,072 |
+| The Dark Side | 65.00% | ~7,604 |
+| Duck and cover! | 60.00% | ~7,019 |
+| Souper! | 59.00% | ~6,902 |
+| Pacifist | 53.00% | ~6,200 |
+| 2-1-6 | 52.00% | ~6,083 |
+| A gift | 48.00% | ~5,616 |
+| Girl Power | 41.00% | ~4,797 |
+| What goes around... | 39.00% | ~4,563 |
+| Be Prepared | 34.00% | ~3,978 |
+| Unbreakable | 32.00% | ~3,744 |
+| Atomic drill | 29.00% | ~3,393 |
+| Gotta get 'em all | 28.00% | ~3,276 |
+| This is the end | 28.00% | ~3,276 |
+| Disco Roach | 24.00% | ~2,808 |
+| Dawkins Residence | 18.00% | ~2,106 |
+| Rescue time! | 15.00% | ~1,755 |
+| New order | 14.00% | ~1,638 |
+| New species | 14.00% | ~1,638 |
+| Enigma | 13.00% | ~1,521 |
 | A New Hope | 12.00% | ~1,404 |
 | Men in Black | 11.00% | ~1,287 |
 | Challenger | 10.00% | ~1,170 |
@@ -66,7 +66,7 @@ Rating: 4.53 (Ranked 574)
 | Dead Hand | 0.10% | ~12 |
 | Tora! Tora! Tora! | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,696 (Ranked 183)  
+Progressed: 11,699 (Ranked 183)  
 Completed: 3 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 3 (0.03%) (Ranked 369)
 | 2024-01-23 | 11,490 | 1 |
 | 2024-01-24 | 11,584 | 1 |
 | 2024-01-25 | 11,646 | 3 |
-| 2024-01-26 | 11,696 | 3 |
+| 2024-01-26 | 11,699 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

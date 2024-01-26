@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 713,
+  "Ranking_Rating": 714,
   "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 207,
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5500,
+  "EOS_Progressed": 5501,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -5605,6 +5605,11 @@
       "Time": "2024-01-26T19:08:18.2031414+00:00",
       "NumProgressed": 5500,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-26T20:05:59.7292145+00:00",
+      "NumProgressed": 5501,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5664,7 +5669,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5672,7 +5677,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5170
+      "UsersEstimate": 5171
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5680,7 +5685,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5832,7 +5837,7 @@
       "Name": "First Day on the Job",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5864,7 +5869,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5976,7 +5981,7 @@
       "Name": "Sniffing Around",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -6080,7 +6085,7 @@
       "Name": "Modus Operandi",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ID_ACHIEV_61",
@@ -6096,7 +6101,7 @@
       "Name": "Suited and Booted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ID_ACHIEV_63",
@@ -6104,7 +6109,7 @@
       "Name": "Tools of War",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ID_ACHIEV_64",
@@ -6151,15 +6156,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5500,
+      "Progressed": 5501,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:08:18.2031411+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:05:59.729214+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:53.2151346+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:00:56.3379296+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:08:18.2032229+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:59:27.916254+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:05:59.7293103+00:00"
 }

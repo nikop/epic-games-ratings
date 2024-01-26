@@ -1,18 +1,18 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 998)  
+Rating: 4.17 (Ranked 997)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,846 |
-| Worker Specialization | 76.00% | ~5,770 |
-| First Contact | 72.00% | ~5,466 |
+| Colonize a Planet | 77.00% | ~5,847 |
+| Worker Specialization | 76.00% | ~5,771 |
+| First Contact | 72.00% | ~5,467 |
 | Win a Battle | 65.00% | ~4,935 |
-| Anomaly Researcher | 60.00% | ~4,555 |
-| Unleash My Power | 60.00% | ~4,555 |
-| Own 30 Planets | 32.00% | ~2,429 |
+| Anomaly Researcher | 60.00% | ~4,556 |
+| Unleash My Power | 60.00% | ~4,556 |
+| Own 30 Planets | 32.00% | ~2,430 |
 | Xenocide | 31.00% | ~2,354 |
 | Design a Civilization | 31.00% | ~2,354 |
 | Commodity Trader | 29.00% | ~2,202 |
@@ -22,8 +22,8 @@ Number of Ratings: 429  (23.09.2022)
 | Galactic War | 10.00% | ~759 |
 | Trading Partner | 9.00% | ~683 |
 | Fleet Victory | 8.00% | ~607 |
+| Win as Terrans | 7.00% | ~532 |
 | Gain an Ally | 6.00% | ~456 |
-| Win as Terrans | 6.00% | ~456 |
 | Win with a Custom Faction | 6.00% | ~456 |
 | War with the Unknown | 5.00% | ~380 |
 | Conquest Victory! | 4.00% | ~304 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,592 (Ranked 200)  
+Progressed: 7,593 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -359,7 +359,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 7,582 | 0 |
 | 2024-01-24 | 7,585 | 0 |
 | 2024-01-25 | 7,588 | 0 |
-| 2024-01-26 | 7,592 | 0 |
+| 2024-01-26 | 7,593 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 387)  
 Sum: 702 (Ranked 314)  

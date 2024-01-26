@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16942,
+  "EOS_Progressed": 16943,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7478,6 +7478,11 @@
       "Time": "2024-01-26T18:10:02.6103709+00:00",
       "NumProgressed": 16942,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-26T20:09:17.0690665+00:00",
+      "NumProgressed": 16943,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7522,7 +7527,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12706
+      "UsersEstimate": 12707
     },
     {
       "ID": "ACH_AE_14",
@@ -7530,7 +7535,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "ACH_AE_15",
@@ -7546,7 +7551,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "ACH_AE_17",
@@ -7769,7 +7774,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16942,
+      "Progressed": 16943,
       "Completed": 17
     }
   ],
@@ -7777,8 +7782,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-26T19:10:56.7426967+00:00",
+  "LastChanged_Achievements": "2024-01-26T20:09:17.0690659+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.2339366+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:01:53.1978892+00:00",
-  "LastUpdate_Achievements": "2024-01-26T19:10:56.7427404+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:00:04.3182727+00:00",
+  "LastUpdate_Achievements": "2024-01-26T20:09:17.0691341+00:00"
 }
