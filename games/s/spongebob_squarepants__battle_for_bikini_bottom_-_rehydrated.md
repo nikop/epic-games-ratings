@@ -21,12 +21,12 @@ Number of Ratings: 76  (23.09.2022)
 | Life's as extreme as you wanna make it! | 9.00% | ~111 |
 | Shrimp Catcher | 9.00% | ~111 |
 | Toxic Terror | 9.00% | ~111 |
-| Hit Rock Bottom | 9.00% | ~111 |
 | Are you ready now? | 8.00% | ~99 |
 | Keep it Rolling | 8.00% | ~99 |
+| Hit Rock Bottom | 8.00% | ~99 |
 | Ultra Spatula Seeker | 8.00% | ~99 |
-| Robot encyclopedia | 7.00% | ~86 |
-| Hello, Bikini Bottom | 7.00% | ~86 |
+| Robot encyclopedia | 7.00% | ~87 |
+| Hello, Bikini Bottom | 7.00% | ~87 |
 | The Small Does Not Rule | 5.00% | ~62 |
 | Ship Shape | 5.00% | ~62 |
 | Shanghaied | 5.00% | ~62 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~12 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,235 (Ranked 291)  
+Progressed: 1,237 (Ranked 291)  
 Completed: 12 (0.97%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 12 (0.97%) (Ranked 189)
 | 2024-01-23 | 1,194 | 10 |
 | 2024-01-24 | 1,205 | 12 |
 | 2024-01-25 | 1,223 | 12 |
-| 2024-01-26 | 1,235 | 12 |
+| 2024-01-26 | 1,237 | 12 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 506)  
 Sum: 36 (Ranked 539)  

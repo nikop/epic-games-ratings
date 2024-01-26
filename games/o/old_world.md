@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 2.00% | ~344 |
 | Just Difficulty | 2.00% | ~344 |
 | Artisans | 2.00% | ~344 |
+| Sages | 2.00% | ~344 |
 | Furious Family | 2.00% | ~344 |
 | Acropolis | 2.00% | ~344 |
 | Apadana | 2.00% | ~344 |
@@ -70,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 2.00% | ~344 |
 | Mythology | 2.00% | ~344 |
 | Beloved | 1.00% | ~172 |
+| Capable | 1.00% | ~172 |
 | Conqueror | 1.00% | ~172 |
 | Mighty | 1.00% | ~172 |
 | Ready | 1.00% | ~172 |
@@ -78,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 1.00% | ~172 |
 | Landowners | 1.00% | ~172 |
 | Patrons | 1.00% | ~172 |
-| Sages | 1.00% | ~172 |
 | Statesmen | 1.00% | ~172 |
 | Traders | 1.00% | ~172 |
 | Hittite Iron | 1.00% | ~172 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 1.00% | ~172 |
 | Kushite Paganism | 1.00% | ~172 |
 | Jerwan Aqueduct | 1.00% | ~172 |
-| Capable | 0.90% | ~155 |
 | Invincible | 0.90% | ~155 |
 | Lion | 0.90% | ~155 |
 | Subjugator | 0.90% | ~155 |
@@ -648,9 +648,9 @@ Completed: 5 (0.03%) (Ranked 368)
 | 2024-01-25 | 17,167 | 5 |
 | 2024-01-26 | 17,176 | 5 |
 ## Awards
-Max (Relaxing): 231  (Ranked 287)  
+Max (Relaxing): 231  (Ranked 288)  
 Sum: 1,947 (Ranked 224)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 231 |

@@ -33,8 +33,8 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 9.00% | ~26 |
 | Weaponsmith | 9.00% | ~26 |
 | Hotshot | 9.00% | ~26 |
+| Detective | 9.00% | ~26 |
 | Cleric | 8.00% | ~23 |
-| Detective | 8.00% | ~23 |
 | Self-Sufficient | 6.00% | ~18 |
 | Alchemist | 5.00% | ~15 |
 | Unbreakable | 5.00% | ~15 |

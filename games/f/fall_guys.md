@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 16.00% | ~6,055,540 |
-| Snowflake | 15.00% | ~5,677,069 |
-| Fall Throttle | 14.00% | ~5,298,598 |
-| Big Bully | 12.00% | ~4,541,655 |
-| Face First | 11.00% | ~4,163,184 |
-| Style Points | 11.00% | ~4,163,184 |
-| One to Watch | 10.00% | ~3,784,712 |
-| Troublemaker | 10.00% | ~3,784,712 |
-| Flawless Victory | 9.00% | ~3,406,241 |
-| Fall Bae | 9.00% | ~3,406,241 |
-| Stumble Chums | 9.00% | ~3,406,241 |
-| Ahead of the Pack | 8.00% | ~3,027,770 |
-| Victory! | 8.00% | ~3,027,770 |
-| Bargain Bucket | 5.00% | ~1,892,356 |
-| Household Name | 4.00% | ~1,513,885 |
-| One giant leap | 4.00% | ~1,513,885 |
-| Big Air | 3.00% | ~1,135,414 |
-| Catwalk Model | 3.00% | ~1,135,414 |
-| Down to the Wire | 3.00% | ~1,135,414 |
-| Head Turner | 3.00% | ~1,135,414 |
-| Quite Dashing | 3.00% | ~1,135,414 |
-| Squad Goals | 3.00% | ~1,135,414 |
-| Low Baller | 2.00% | ~756,942 |
-| Star of the Show | 2.00% | ~756,942 |
-| Shopping Spree | 2.00% | ~756,942 |
-| Top Tier | 2.00% | ~756,942 |
-| Mad Trendy | 1.00% | ~378,471 |
-| Veteran Status | 1.00% | ~378,471 |
-| Show Off | 1.00% | ~378,471 |
-| Golden Guy | 0.90% | ~340,624 |
-| Track Star | 0.80% | ~302,777 |
-| Big Tease | 0.50% | ~189,236 |
-| Fall Guy Fashionista | 0.50% | ~189,236 |
-| Infallible | 0.30% | ~113,541 |
+| One small trip | 16.00% | ~6,055,678 |
+| Snowflake | 15.00% | ~5,677,198 |
+| Fall Throttle | 14.00% | ~5,298,718 |
+| Big Bully | 12.00% | ~4,541,758 |
+| Face First | 11.00% | ~4,163,278 |
+| Style Points | 11.00% | ~4,163,278 |
+| One to Watch | 10.00% | ~3,784,798 |
+| Troublemaker | 10.00% | ~3,784,798 |
+| Flawless Victory | 9.00% | ~3,406,319 |
+| Fall Bae | 9.00% | ~3,406,319 |
+| Stumble Chums | 9.00% | ~3,406,319 |
+| Ahead of the Pack | 8.00% | ~3,027,839 |
+| Victory! | 8.00% | ~3,027,839 |
+| Bargain Bucket | 5.00% | ~1,892,399 |
+| Household Name | 4.00% | ~1,513,919 |
+| One giant leap | 4.00% | ~1,513,919 |
+| Big Air | 3.00% | ~1,135,440 |
+| Catwalk Model | 3.00% | ~1,135,440 |
+| Down to the Wire | 3.00% | ~1,135,440 |
+| Head Turner | 3.00% | ~1,135,440 |
+| Quite Dashing | 3.00% | ~1,135,440 |
+| Squad Goals | 3.00% | ~1,135,440 |
+| Low Baller | 2.00% | ~756,960 |
+| Star of the Show | 2.00% | ~756,960 |
+| Shopping Spree | 2.00% | ~756,960 |
+| Top Tier | 2.00% | ~756,960 |
+| Mad Trendy | 1.00% | ~378,480 |
+| Veteran Status | 1.00% | ~378,480 |
+| Show Off | 1.00% | ~378,480 |
+| Golden Guy | 0.90% | ~340,632 |
+| Track Star | 0.80% | ~302,784 |
+| Big Tease | 0.50% | ~189,240 |
+| Fall Guy Fashionista | 0.50% | ~189,240 |
+| Infallible | 0.30% | ~113,544 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,847,125 (Ranked 1)  
-Completed: 50,858 (0.13%) (Ranked 310)  
+Progressed: 37,847,985 (Ranked 1)  
+Completed: 50,859 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,22 +322,22 @@ Completed: 50,858 (0.13%) (Ranked 310)
 | 2024-01-23 | 37,807,000 | 50,701 |
 | 2024-01-24 | 37,822,393 | 50,740 |
 | 2024-01-25 | 37,838,182 | 50,833 |
-| 2024-01-26 | 37,847,125 | 50,858 |
+| 2024-01-26 | 37,847,985 | 50,859 |
 ## Awards
 Max (Great for Beginners): 155,417  (Ranked 7)  
-Sum: 1,406,699 (Ranked 5)  
+Sum: 1,406,738 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 155,417 |
-| This game is Relaxing | 138,237 |
+| This game is Relaxing | 138,256 |
 | This game is Great for Quick Sessions | 137,045 |
 | This game has Competitive Players | 135,700 |
 | This game has Quickly Understood Controls | 135,375 |
 | This game has Diverse Characters | 132,833 |
 | This game is Extremely Fun | 124,062 |
 | This game is Highly Recommended | 118,273 |
-| This game has Amazing Characters | 114,875 |
+| This game has Amazing Characters | 114,895 |
 | This game has Amazing Storytelling | 109,087 |
 | This game has Playful Visuals | 105,795 |
 ## Ratings History
@@ -709,4 +709,4 @@ Diff (max vs sum): 2
 | 2024-01-23 | 4.51 | - | 155,312 | 1,405,965 |
 | 2024-01-24 | 4.51 | - | 155,378 | 1,406,321 |
 | 2024-01-25 | 4.51 | - | 155,417 | 1,406,574 |
-| 2024-01-26 | 4.51 | - | 155,417 | 1,406,699 |
+| 2024-01-26 | 4.51 | - | 155,417 | 1,406,738 |

@@ -20,18 +20,18 @@
 | Master Smithy | 57.00% | ~17 |
 | At One With Nature | 57.00% | ~17 |
 | The Depths Of Darkness | 53.00% | ~16 |
+| One With The Blades | 53.00% | ~16 |
+| Heart of Oblivion | 53.00% | ~16 |
+| Anahita's Greatest Mistake | 53.00% | ~16 |
+| Heart's Desire | 53.00% | ~16 |
+| Shoo! Shoo! | 53.00% | ~16 |
 | Prison Break | 50.00% | ~15 |
 | I Pick You | 50.00% | ~15 |
 | Accomplished Smithy | 50.00% | ~15 |
-| One With The Blades | 50.00% | ~15 |
-| Heart of Oblivion | 50.00% | ~15 |
-| Anahita's Greatest Mistake | 50.00% | ~15 |
-| Heart's Desire | 50.00% | ~15 |
-| Shoo! Shoo! | 50.00% | ~15 |
 | The Blight's Blight | 47.00% | ~14 |
+| The Ultimate Sacrifice | 47.00% | ~14 |
 | Nature's Savior | 47.00% | ~14 |
 | Hammer It Home | 47.00% | ~14 |
-| The Ultimate Sacrifice | 43.00% | ~13 |
 | For Whom the Bell Tolls | 37.00% | ~11 |
 | Here I Am | 37.00% | ~11 |
 | Break The Cycle | 33.00% | ~10 |

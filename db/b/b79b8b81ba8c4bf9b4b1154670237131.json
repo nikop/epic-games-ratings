@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16939,
+  "EOS_Progressed": 16940,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7463,6 +7463,11 @@
       "Time": "2024-01-26T13:12:02.6754672+00:00",
       "NumProgressed": 16939,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-26T14:09:16.4193748+00:00",
+      "NumProgressed": 16940,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7507,7 +7512,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12704
+      "UsersEstimate": 12705
     },
     {
       "ID": "ACH_AE_14",
@@ -7563,7 +7568,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "ACH_AE_20",
@@ -7587,7 +7592,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "ACH_AE_23",
@@ -7754,7 +7759,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16939,
+      "Progressed": 16940,
       "Completed": 17
     }
   ],
@@ -7762,8 +7767,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:12:02.6754671+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:09:16.4193743+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.2339366+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:02:00.3207907+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:12:02.6755115+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:59:56.6818595+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:09:16.4194423+00:00"
 }

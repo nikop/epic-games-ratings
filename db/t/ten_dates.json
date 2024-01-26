@@ -2,9 +2,9 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -1656,6 +1656,11 @@
       "Time": "2024-01-25T13:17:12.4164953+00:00",
       "NumProgressed": 541,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T14:09:23.3045186+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1707,7 +1712,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ryan_date2_all",
@@ -1715,7 +1720,7 @@
       "Name": "More than browsing",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ryan_date3_all",
@@ -1779,7 +1784,7 @@
       "Name": "The intellectual",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "success_lucas",
@@ -1795,7 +1800,7 @@
       "Name": "The athlete",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "success_ty",
@@ -1803,7 +1808,7 @@
       "Name": "The bad boy",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "vinny_number",
@@ -1818,7 +1823,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 7
     }
   ],
@@ -1826,8 +1831,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:12:09.6624193+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:09:23.3045181+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.3077577+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:59:07.9356614+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:12:09.6624386+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:57:11.2562963+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:09:23.3045444+00:00"
 }

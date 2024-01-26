@@ -244,17 +244,17 @@
       "ID": "BISTUN_ACHIEVEMENT_18",
       "SetID": "1kdk24p",
       "Name": "One With The Blades",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_19",
       "SetID": "1kdk24p",
       "Name": "Heart of Oblivion",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_2",
@@ -268,25 +268,25 @@
       "ID": "BISTUN_ACHIEVEMENT_20",
       "SetID": "1kdk24p",
       "Name": "Anahita\u0027s Greatest Mistake",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_21",
       "SetID": "1kdk24p",
       "Name": "Heart\u0027s Desire",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_22",
       "SetID": "1kdk24p",
       "Name": "The Ultimate Sacrifice",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_23",
@@ -412,9 +412,9 @@
       "ID": "BISTUN_ACHIEVEMENT_37",
       "SetID": "1kdk24p",
       "Name": "Shoo! Shoo!",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_4",
@@ -477,8 +477,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:07:09.1448889+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:04:50.6743045+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8982595+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:05:00.3618433+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:07:09.1449183+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:02:44.1271267+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:04:50.6743398+00:00"
 }

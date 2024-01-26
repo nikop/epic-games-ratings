@@ -1,28 +1,28 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.43 (Ranked 733)  
+Rating: 4.43 (Ranked 732)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~319,055 |
-| Delving Onward | 69.00% | ~268,473 |
-| Miner's Helper | 59.00% | ~229,564 |
-| Suit Up | 54.00% | ~210,109 |
-| To the Mountain's Roots | 50.00% | ~194,546 |
-| Remains To Be Seen | 35.00% | ~136,182 |
-| Covered Head to Toe | 33.00% | ~128,400 |
-| Line of Azog, Ended | 32.00% | ~124,509 |
-| Risk a Little Real Light | 31.00% | ~120,618 |
-| Caradhras The Cruel | 19.00% | ~73,927 |
-| A Memory of this Place | 19.00% | ~73,927 |
-| Battering Ram | 14.00% | ~54,473 |
-| False King, Deposed | 14.00% | ~54,473 |
-| Baruk Khazâd! | 13.00% | ~50,582 |
-| Shadow's Bane | 10.00% | ~38,909 |
-| Westgate Weaponcraft | 9.00% | ~35,018 |
-| Deeps Weaponcraft | 8.00% | ~31,127 |
-| Darkness Is Passing | 8.00% | ~31,127 |
+| Speak Friend | 82.00% | ~319,060 |
+| Delving Onward | 69.00% | ~268,478 |
+| Miner's Helper | 59.00% | ~229,568 |
+| Suit Up | 54.00% | ~210,113 |
+| To the Mountain's Roots | 50.00% | ~194,549 |
+| Remains To Be Seen | 35.00% | ~136,184 |
+| Covered Head to Toe | 33.00% | ~128,402 |
+| Line of Azog, Ended | 32.00% | ~124,511 |
+| Risk a Little Real Light | 31.00% | ~120,620 |
+| Caradhras The Cruel | 19.00% | ~73,929 |
+| A Memory of this Place | 19.00% | ~73,929 |
+| Battering Ram | 14.00% | ~54,474 |
+| False King, Deposed | 14.00% | ~54,474 |
+| Baruk Khazâd! | 13.00% | ~50,583 |
+| Shadow's Bane | 10.00% | ~38,910 |
+| Westgate Weaponcraft | 9.00% | ~35,019 |
+| Deeps Weaponcraft | 8.00% | ~31,128 |
+| Darkness Is Passing | 8.00% | ~31,128 |
 | Decked Out | 5.00% | ~19,455 |
 | Guarded from Despair | 5.00% | ~19,455 |
 | Master of All Trades | 4.00% | ~15,564 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 733)
 | Shielded | 1.00% | ~3,891 |
 | We're Gonna Need More Mugs | 0.20% | ~778 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389,091 (Ranked 55)  
+Progressed: 389,098 (Ranked 55)  
 Completed: 404 (0.10%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 404 (0.10%) (Ranked 325)
 | 2024-01-23 | 388,385 | 397 |
 | 2024-01-24 | 388,697 | 400 |
 | 2024-01-25 | 388,980 | 404 |
-| 2024-01-26 | 389,091 | 404 |
+| 2024-01-26 | 389,098 | 404 |
 ## Awards
 Max (Great for Beginners): 1,018  (Ranked 163)  
 Sum: 5,789 (Ranked 142)  

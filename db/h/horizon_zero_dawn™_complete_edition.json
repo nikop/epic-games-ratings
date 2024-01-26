@@ -3,7 +3,7 @@
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 134,
-  "Ranking_Popularity": 68,
+  "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
@@ -9980,10 +9980,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 13437,
       "NumberOfAwardsMax": 6106
+    },
+    {
+      "Time": "2024-01-26T14:00:04.6230969+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 13438,
+      "NumberOfAwardsMax": 6106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13437,
+  "NumberOfAwards": 13438,
   "NumberOfAwardsMax": 6106,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10027,7 +10033,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 372
+      "Count": 373
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10071,8 +10077,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2024-01-26T01:42:53.1068722+00:00",
+  "LastChanged": "2024-01-26T14:00:04.6230967+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:30.3149236+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:02:08.3200119+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:05:48.4266257+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:00:04.6230974+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:03:32.2392892+00:00"
 }

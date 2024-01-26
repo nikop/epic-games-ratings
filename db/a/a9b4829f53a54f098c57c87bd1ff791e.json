@@ -2,9 +2,9 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2024-01-26T13:08:01.4680962+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T14:05:40.6297286+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
@@ -257,7 +262,7 @@
       "ID": "END_IS_NEVER",
       "SetID": "39bcm6",
       "Name": "Playtest Report",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -377,7 +382,7 @@
       "ID": "VENT_ENDING",
       "SetID": "39bcm6",
       "Name": "Take a Break",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -402,14 +407,14 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-22T01:57:38.178275+00:00",
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:08:01.4680959+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:05:40.6297282+00:00",
   "LastUpdate_AppInfo": "2024-01-21T18:57:26.2490589+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:01:13.6953472+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:08:01.4681086+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:59:12.2968097+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:05:40.6297505+00:00"
 }

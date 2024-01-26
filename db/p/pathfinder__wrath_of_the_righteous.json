@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5039,9 +5039,9 @@
       "Count": 411
     }
   ],
-  "EOS_Progressed": 13359,
+  "EOS_Progressed": 13361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20209,6 +20209,11 @@
       "Time": "2024-01-26T11:10:31.6822163+00:00",
       "NumProgressed": 13359,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T14:09:46.9228951+00:00",
+      "NumProgressed": 13361,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20228,7 +20233,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -20236,7 +20241,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "04_FithCrusade",
@@ -20356,7 +20361,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "19_EqualToAroden",
@@ -20530,9 +20535,9 @@
       "ID": "41_PlayfulMood",
       "SetID": "989of5o",
       "Name": "Playful Mood",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "42_JustPathetic",
@@ -21147,21 +21152,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12141,
+      "Progressed": 12143,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13359,
+      "Progressed": 13361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-25T16:58:07.6224024+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:12:34.1542969+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:09:46.9228946+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:00:13.0247328+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:12:34.1544665+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:58:14.6081354+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:09:46.9231001+00:00"
 }

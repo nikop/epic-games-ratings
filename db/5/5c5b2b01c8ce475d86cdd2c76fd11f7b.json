@@ -779,9 +779,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -1200,8 +1200,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:05:42.3777406+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:03:26.6907952+00:00",
   "LastUpdate_AppInfo": "2024-01-24T18:57:12.0797341+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:00:00.5738327+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:05:42.3778062+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:58:01.8457052+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:03:26.6908888+00:00"
 }

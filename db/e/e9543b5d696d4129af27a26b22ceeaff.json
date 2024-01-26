@@ -563,9 +563,9 @@
       "ID": "ACH_LOST_BY_40",
       "SetID": "1lnhagg",
       "Name": "If Only I Had Known",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_MANAGERS_FAN",
@@ -619,9 +619,9 @@
       "ID": "ACH_TRIPLE_DOUBLE",
       "SetID": "1lnhagg",
       "Name": "Triple-Double",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WELCOME",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:07:17.5090336+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:04:58.3653449+00:00",
   "LastUpdate_AppInfo": "2024-01-26T05:57:14.0364188+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:59:46.835791+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:07:17.5090521+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:57:48.4756067+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:04:58.3653714+00:00"
 }

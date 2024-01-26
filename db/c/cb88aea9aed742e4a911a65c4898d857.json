@@ -497,7 +497,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12249,
+  "EOS_Progressed": 12251,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
@@ -6222,6 +6222,11 @@
       "Time": "2024-01-26T13:12:28.5903873+00:00",
       "NumProgressed": 12249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T14:09:41.6257562+00:00",
+      "NumProgressed": 12251,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6242,7 +6247,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6250,7 +6255,7 @@
       "Name": "Trade Empire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -6258,7 +6263,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6266,7 +6271,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "07_TheGrandFinale",
@@ -6274,7 +6279,7 @@
       "Name": "Grand Finale",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "08_TheEmperorsHand",
@@ -6306,7 +6311,7 @@
       "Name": "Overcome and Overpower",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "12_TooFastToDie",
@@ -6322,7 +6327,7 @@
       "Name": "Doom Trader",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -6346,7 +6351,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "17_TheExemplar",
@@ -6362,7 +6367,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6370,7 +6375,7 @@
       "Name": "Void Wolf",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6394,7 +6399,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "23_DynastyRestored",
@@ -6402,7 +6407,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "24_TheHighrise",
@@ -6434,7 +6439,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -6442,7 +6447,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6466,7 +6471,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "32_AviationSaviour",
@@ -6482,7 +6487,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6490,7 +6495,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6514,7 +6519,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -6530,7 +6535,7 @@
       "Name": "Fully Prepared",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "40_PreserveTheArchitecture",
@@ -6578,7 +6583,7 @@
       "Name": "Polyglot",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "46_ASpark",
@@ -6586,7 +6591,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "47_AFlame",
@@ -6594,7 +6599,7 @@
       "Name": "A Flame",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -6610,7 +6615,7 @@
       "Name": "How Did It All End?",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "50_Whodunit",
@@ -6650,7 +6655,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -6658,7 +6663,7 @@
       "Name": "Returning the Boots",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -6682,7 +6687,7 @@
       "Name": "Knee-Deep in Chaos",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "59_ThePossessedShip",
@@ -6698,7 +6703,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "61_TheScourge",
@@ -6706,7 +6711,7 @@
       "Name": "Sweet Perdition",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "62_TheInvisibleBureaucracy",
@@ -6753,7 +6758,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12249,
+      "Progressed": 12251,
       "Completed": 1
     }
   ],
@@ -6761,8 +6766,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:12:28.5903871+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:09:41.6257558+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:01:35.9724927+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:12:28.590443+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:59:33.5674783+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:09:41.6258349+00:00"
 }

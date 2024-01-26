@@ -3,11 +3,11 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 326,
-  "Ranking_Popularity": 287,
+  "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -21427,9 +21427,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -21923,9 +21923,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
       "SetID": "7l38kb8",
       "Name": "Sages",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -23913,8 +23913,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:12:36.4422166+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:09:49.2557136+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:58:58.00962+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:12:36.4431223+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:57:02.4421294+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:09:49.2566497+00:00"
 }

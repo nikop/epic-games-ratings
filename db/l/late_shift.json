@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -3420,6 +3420,11 @@
       "Time": "2024-01-26T06:10:25.4530813+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-26T14:09:19.8515072+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -3431,7 +3436,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3479,7 +3484,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ENDING_6",
@@ -3503,7 +3508,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3535,7 +3540,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3575,22 +3580,22 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 553
+      "UsersEstimate": 541
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 14
     }
   ],
@@ -3598,8 +3603,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:12:06.1387444+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:09:19.8515068+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.6031874+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:00:05.386148+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:12:06.1387692+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:58:06.7314359+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:09:19.8515395+00:00"
 }

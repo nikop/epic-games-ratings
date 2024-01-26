@@ -5,30 +5,30 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~218,834 |
-| 50 HEADSHOTS | 31.00% | ~199,525 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,089 |
-| FINISHED CHAPTER 1 | 29.00% | ~186,653 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,162 |
-| 200 HEADSHOTS | 19.00% | ~122,290 |
-| FINISHED CHAPTER 3 | 18.00% | ~115,853 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,544 |
-| FINISH CHAPTER 5 | 13.00% | ~83,672 |
-| FINISH CHAPTER 6 | 11.00% | ~70,799 |
-| CATHARTIC ESCAPISM | 11.00% | ~70,799 |
-| 1000 KILLS | 10.00% | ~64,363 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,745 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,873 |
-| FIRST BLOOD | 2.00% | ~12,873 |
+| 100 KILLS | 34.00% | ~218,827 |
+| 50 HEADSHOTS | 31.00% | ~199,519 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,083 |
+| FINISHED CHAPTER 1 | 29.00% | ~186,647 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,158 |
+| 200 HEADSHOTS | 19.00% | ~122,286 |
+| FINISHED CHAPTER 3 | 18.00% | ~115,850 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,541 |
+| FINISH CHAPTER 5 | 13.00% | ~83,669 |
+| FINISH CHAPTER 6 | 11.00% | ~70,797 |
+| CATHARTIC ESCAPISM | 11.00% | ~70,797 |
+| 1000 KILLS | 10.00% | ~64,361 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,744 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,872 |
+| FIRST BLOOD | 2.00% | ~12,872 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,436 |
 | OUT OF ORDER | 1.00% | ~6,436 |
 | PACEMAKER | 1.00% | ~6,436 |
 | TIME PARADOX | 1.00% | ~6,436 |
-| PARTYHARD | 0.90% | ~5,793 |
+| PARTYHARD | 0.90% | ~5,792 |
 | NEW GAME PLUS | 0.70% | ~4,505 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,862 |
-| CHURCH | 0.40% | ~2,575 |
-| FIREFIGHT LEVEL 50 | 0.40% | ~2,575 |
+| CHURCH | 0.40% | ~2,574 |
+| FIREFIGHT LEVEL 50 | 0.40% | ~2,574 |
 | REMEMBER THE ARMORY | 0.30% | ~1,931 |
 | 5 RUNS | 0.30% | ~1,931 |
 | CHALET | 0.20% | ~1,287 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~644 |
 | WARRIOR IN A GARDEN | 0.10% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643,630 (Ranked 32)  
+Progressed: 643,609 (Ranked 32)  
 Completed: 57 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |

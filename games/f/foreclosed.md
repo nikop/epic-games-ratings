@@ -30,7 +30,7 @@
 | No Place to Hide | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 161 (Ranked 463)  
-Completed: 4 (2.48%) (Ranked 131)  
+Completed: 4 (2.48%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

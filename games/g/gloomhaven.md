@@ -6,30 +6,30 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,631 |
-| Overkill | 33.00% | ~11,838 |
-| Vaccine Incoming | 31.00% | ~11,120 |
-| A normal day in Gloomhaven | 28.00% | ~10,044 |
-| Spread the plague | 26.00% | ~9,327 |
-| Get over here! | 24.00% | ~8,609 |
-| Just when I thought I was out... | 19.00% | ~6,816 |
-| Mine... All Mine... | 16.00% | ~5,740 |
-| Precious! | 15.00% | ~5,381 |
-| Grizzled veteran | 14.00% | ~5,022 |
-| Anatomy Lesson | 14.00% | ~5,022 |
-| Who's the Boss? | 13.00% | ~4,663 |
-| You activated my trap card! | 12.00% | ~4,305 |
-| Obstacle race | 12.00% | ~4,305 |
-| Light of my life | 12.00% | ~4,305 |
-| Augmented rat | 10.00% | ~3,587 |
-| Doom and gloom | 9.00% | ~3,228 |
+| I'm not dead yet | 38.00% | ~13,634 |
+| Overkill | 33.00% | ~11,840 |
+| Vaccine Incoming | 31.00% | ~11,123 |
+| A normal day in Gloomhaven | 28.00% | ~10,046 |
+| Spread the plague | 26.00% | ~9,329 |
+| Get over here! | 24.00% | ~8,611 |
+| Just when I thought I was out... | 19.00% | ~6,817 |
+| Mine... All Mine... | 16.00% | ~5,741 |
+| Precious! | 15.00% | ~5,382 |
+| Grizzled veteran | 14.00% | ~5,023 |
+| Anatomy Lesson | 14.00% | ~5,023 |
+| Who's the Boss? | 13.00% | ~4,664 |
+| You activated my trap card! | 12.00% | ~4,306 |
+| Obstacle race | 12.00% | ~4,306 |
+| Light of my life | 12.00% | ~4,306 |
+| Augmented rat | 10.00% | ~3,588 |
+| Doom and gloom | 9.00% | ~3,229 |
 | Dungeon Veteran | 8.00% | ~2,870 |
-| Pack leader | 7.00% | ~2,511 |
-| Pain is your friend | 7.00% | ~2,511 |
-| Black death | 7.00% | ~2,511 |
-| Play it again, Sam | 7.00% | ~2,511 |
-| Caught off guard | 6.00% | ~2,152 |
-| Quad damage | 6.00% | ~2,152 |
+| Pack leader | 7.00% | ~2,512 |
+| Pain is your friend | 7.00% | ~2,512 |
+| Black death | 7.00% | ~2,512 |
+| Play it again, Sam | 7.00% | ~2,512 |
+| Caught off guard | 6.00% | ~2,153 |
+| Quad damage | 6.00% | ~2,153 |
 | Power Up! | 5.00% | ~1,794 |
 | Merchant of doom | 5.00% | ~1,794 |
 | Now you see me... | 5.00% | ~1,794 |
@@ -39,13 +39,13 @@ Number of Ratings: 68  (23.09.2022)
 | Down the hatch | 3.00% | ~1,076 |
 | An eye for an eye | 3.00% | ~1,076 |
 | The Cephalophore | 3.00% | ~1,076 |
-| From Gloom, only greed and death emerges | 2.00% | ~717 |
-| The Rat King | 2.00% | ~717 |
-| How to train your Drake | 2.00% | ~717 |
-| Master Assassin | 2.00% | ~717 |
-| The Sniper | 2.00% | ~717 |
-| Grin and bear it | 2.00% | ~717 |
-| An axe to grind | 2.00% | ~717 |
+| From Gloom, only greed and death emerges | 2.00% | ~718 |
+| The Rat King | 2.00% | ~718 |
+| How to train your Drake | 2.00% | ~718 |
+| Master Assassin | 2.00% | ~718 |
+| The Sniper | 2.00% | ~718 |
+| Grin and bear it | 2.00% | ~718 |
+| An axe to grind | 2.00% | ~718 |
 | Betray this | 1.00% | ~359 |
 | Add a bit of colour | 1.00% | ~359 |
 | Captain hooked | 1.00% | ~359 |
@@ -54,7 +54,7 @@ Number of Ratings: 68  (23.09.2022)
 | The Pacifist | 0.50% | ~179 |
 | The evil that men do | 0.50% | ~179 |
 | Born Support | 0.50% | ~179 |
-| MacReady Steady.. Go! | 0.40% | ~143 |
+| MacReady Steady.. Go! | 0.40% | ~144 |
 | A tough job | 0.30% | ~108 |
 | The Jaws of victory! | 0.30% | ~108 |
 | Pull out the big guns | 0.30% | ~108 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~36 |
 | Murder Death Kill | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,872 (Ranked 140)  
+Progressed: 35,880 (Ranked 140)  
 Completed: 2 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,11 +203,11 @@ Completed: 2 (0.01%) (Ranked 387)
 | 2024-01-23 | 35,520 | 1 |
 | 2024-01-24 | 35,647 | 1 |
 | 2024-01-25 | 35,801 | 2 |
-| 2024-01-26 | 35,872 | 2 |
+| 2024-01-26 | 35,880 | 2 |
 ## Awards
 Max (Character Customization): 3,627  (Ranked 96)  
-Sum: 8,505 (Ranked 111)  
-Diff (max vs sum): -15  
+Sum: 8,505 (Ranked 112)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,627 |

@@ -62,13 +62,13 @@
 | Balanced | 6.00% | ~10 |
 | Friend of Grey Dusk Vale | 6.00% | ~10 |
 | Defeat Yria | 5.00% | ~8 |
+| Lytra's Tale | 5.00% | ~8 |
 | Misty Coast Dragonbones | 5.00% | ~8 |
 | Master Alchemist | 5.00% | ~8 |
 | Breaking the circle | 5.00% | ~8 |
 | Master Necromancer | 5.00% | ~8 |
 | Defeat Isgrimm | 4.00% | ~6 |
 | Defeat Rohen | 4.00% | ~6 |
-| Lytra's Tale | 4.00% | ~6 |
 | Hard Life | 2.00% | ~3 |
 | Impossible Mission | 1.00% | ~2 |
 | Potion Master | 0.00% | ~0 |

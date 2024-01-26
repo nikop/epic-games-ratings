@@ -151,11 +151,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3015,
+  "EOS_Progressed": 3016,
   "EOS_Completed": 239,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 7.93,
+  "EOS_Completed_Percentage": 7.92,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -8156,6 +8156,11 @@
       "Time": "2024-01-26T13:07:06.2683801+00:00",
       "NumProgressed": 3015,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2024-01-26T14:04:47.6534077+00:00",
+      "NumProgressed": 3016,
+      "NumCompleted": 239
     }
   ],
   "TotalAchievements": 25,
@@ -8167,7 +8172,7 @@
       "Name": "I did it",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "END_GOOD",
@@ -8191,7 +8196,7 @@
       "Name": "Cable guy",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "META_FIRST_LINK",
@@ -8207,7 +8212,7 @@
       "Name": "Half the way",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "META_RESULT_1-2",
@@ -8215,7 +8220,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "META_RESULT_1-3",
@@ -8231,7 +8236,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "META_RESULT_2-3",
@@ -8239,7 +8244,7 @@
       "Name": "A great audience",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "META_RESULT_2-4",
@@ -8247,7 +8252,7 @@
       "Name": "For its own good",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "META_RESULT_3-4",
@@ -8263,7 +8268,7 @@
       "Name": "Alchemists Express",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -8311,7 +8316,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8319,7 +8324,7 @@
       "Name": "Scholar",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "PROGRESS_N1",
@@ -8327,7 +8332,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "PROGRESS_N2",
@@ -8366,7 +8371,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 3015,
+      "Progressed": 3016,
       "Completed": 239
     }
   ],
@@ -8374,8 +8379,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:07:06.2683798+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:04:47.6534074+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:59:49.6080132+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:07:06.2684356+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:57:51.3207838+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:04:47.6535146+00:00"
 }

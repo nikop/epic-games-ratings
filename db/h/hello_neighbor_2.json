@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -525,11 +525,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4177,
+  "EOS_Progressed": 4178,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 65,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.62,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -7800,6 +7800,11 @@
       "Time": "2024-01-26T13:07:30.7234015+00:00",
       "NumProgressed": 4177,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-01-26T14:05:10.740108+00:00",
+      "NumProgressed": 4178,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 14,
@@ -7851,7 +7856,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7867,7 +7872,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -7907,7 +7912,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7915,14 +7920,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4177,
+      "Progressed": 4178,
       "Completed": 151
     }
   ],
@@ -7930,8 +7935,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-22T13:58:58.9675729+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:07:30.7234012+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:05:10.7401077+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:59:18.8909021+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:07:30.7234405+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:57:21.5490503+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:05:10.7401554+00:00"
 }

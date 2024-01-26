@@ -4065,9 +4065,9 @@
       "Count": 1656
     }
   ],
-  "EOS_Progressed": 407710,
+  "EOS_Progressed": 407711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6738,
+  "EOS_NewPlayers": 6678,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18865,6 +18865,11 @@
       "Time": "2024-01-26T02:27:37.0779304+00:00",
       "NumProgressed": 407710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T14:08:35.1371073+00:00",
+      "NumProgressed": 407711,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -18909,7 +18914,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 138621
+      "UsersEstimate": 138622
     },
     {
       "ID": "achievement_14",
@@ -18917,7 +18922,7 @@
       "Name": "The Alchemist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 130467
+      "UsersEstimate": 130468
     },
     {
       "ID": "achievement_15",
@@ -18925,7 +18930,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 130467
+      "UsersEstimate": 130468
     },
     {
       "ID": "achievement_16",
@@ -18981,7 +18986,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 248703
+      "UsersEstimate": 248704
     },
     {
       "ID": "achievement_22",
@@ -19165,7 +19170,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 175315
+      "UsersEstimate": 175316
     },
     {
       "ID": "achievement_7",
@@ -19189,14 +19194,14 @@
       "Name": "Bring it on",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 57079
+      "UsersEstimate": 57080
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 407710,
+      "Progressed": 407711,
       "Completed": 0
     }
   ],
@@ -19204,8 +19209,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2024-01-26T13:04:43.1937875+00:00",
-  "LastChanged_Achievements": "2024-01-26T13:11:19.6347712+00:00",
+  "LastChanged_Achievements": "2024-01-26T14:08:35.137107+00:00",
   "LastUpdate_AppInfo": "2024-01-26T11:57:16.9294765+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:04:43.1937881+00:00",
-  "LastUpdate_Achievements": "2024-01-26T13:11:19.6348532+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:02:27.1584311+00:00",
+  "LastUpdate_Achievements": "2024-01-26T14:08:35.1372219+00:00"
 }
