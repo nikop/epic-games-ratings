@@ -11274,9 +11274,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133700,
+  "EOS_Progressed": 133702,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41504,6 +41504,11 @@
       "Time": "2024-01-26T01:53:17.9446817+00:00",
       "NumProgressed": 133700,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T03:10:18.0445195+00:00",
+      "NumProgressed": 133702,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41905,9 +41910,9 @@
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6685
+      "UsersEstimate": 8022
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -42051,7 +42056,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "combat_kill_collector",
@@ -42123,7 +42128,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -42146,21 +42151,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133700,
+      "Progressed": 133702,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8569,
+      "Progressed": 8571,
       "Completed": 832
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T20:57:38.4952846+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:29:11.906535+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:10:18.0445187+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:15:16.1132328+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:29:11.9067213+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:57:41.6068719+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:10:18.0446797+00:00"
 }

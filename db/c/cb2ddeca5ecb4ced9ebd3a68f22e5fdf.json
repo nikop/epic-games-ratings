@@ -4,7 +4,7 @@
   "ProductSlug": "curseforge",
   "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": null,
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-03T14:59:56.4623162+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:42.6297393+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:16:18.6206828+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:25:03.3041357+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:58:22.1560533+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:05:59.408951+00:00"
 }

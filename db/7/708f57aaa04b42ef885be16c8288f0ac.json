@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15327,
+  "EOS_Progressed": 15328,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11483,6 +11483,11 @@
       "Time": "2024-01-26T02:29:06.9233006+00:00",
       "NumProgressed": 15327,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-26T03:10:14.1747262+00:00",
+      "NumProgressed": 15328,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11519,7 +11524,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "ChewingTheScenery",
@@ -11535,7 +11540,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "Eavesdropper",
@@ -11766,7 +11771,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15327,
+      "Progressed": 15328,
       "Completed": 28
     }
   ],
@@ -11774,8 +11779,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:29:06.9233003+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:10:14.1747259+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:15:06.3768988+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:29:06.9233593+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:57:34.5915126+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:10:14.1748055+00:00"
 }

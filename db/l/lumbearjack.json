@@ -4,7 +4,7 @@
   "ProductSlug": "lumbearjack-b5bedf",
   "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-06-11T16:30:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.3825819+00:00",
   "LastChanged": "2023-03-31T05:58:43.382582+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.8284102+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:18:29.5370017+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:25:15.2834554+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:59:53.658306+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:06:07.6475481+00:00"
 }

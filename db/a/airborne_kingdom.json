@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -7338,9 +7338,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3213
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -7426,8 +7426,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:26:20.7304289+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:06:39.1614671+00:00",
   "LastUpdate_AppInfo": "2024-01-21T02:57:10.9974251+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:21:41.9946664+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:26:20.7304875+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:03:39.5228472+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:06:39.1615138+00:00"
 }

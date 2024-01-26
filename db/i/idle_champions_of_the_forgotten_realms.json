@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9853,9 +9853,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255662,
+  "EOS_Progressed": 255668,
   "EOS_Completed": 2648,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41718,6 +41718,11 @@
       "Time": "2024-01-26T02:29:23.1390257+00:00",
       "NumProgressed": 255662,
       "NumCompleted": 2648
+    },
+    {
+      "Time": "2024-01-26T03:10:27.7472297+00:00",
+      "NumProgressed": 255668,
+      "NumCompleted": 2648
     }
   ],
   "TotalAchievements": 546,
@@ -42591,9 +42596,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2557
     },
     {
       "ID": "objective_completed_1203",
@@ -43575,9 +43580,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 767
     },
     {
       "ID": "objective_completed_399",
@@ -46017,7 +46022,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "objective_completed_1558",
@@ -46096,21 +46101,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221936,
+      "Progressed": 221942,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255662,
+      "Progressed": 255668,
       "Completed": 2648
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T01:42:27.3481206+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:29:23.1390255+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:10:27.7472293+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:18:22.0796589+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:29:23.1412251+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:59:48.742286+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:10:27.7494387+00:00"
 }

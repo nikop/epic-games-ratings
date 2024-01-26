@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 747)  
+Rating: 4.41 (Ranked 761)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,992 |
-| IT MAKES BOOM! | 9.00% | ~36,687 |
-| EXTRA BOOST | 6.00% | ~24,458 |
-| PROTECTED | 5.00% | ~20,382 |
-| PRO | 5.00% | ~20,382 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,305 |
-| AGGRESSIVE RACER | 4.00% | ~16,305 |
+| ROOKIE | 13.00% | ~52,996 |
+| IT MAKES BOOM! | 9.00% | ~36,690 |
+| EXTRA BOOST | 6.00% | ~24,460 |
+| PROTECTED | 5.00% | ~20,383 |
+| PRO | 5.00% | ~20,383 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,307 |
+| AGGRESSIVE RACER | 4.00% | ~16,307 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~8,153 |
 | TRAINING HARD | 2.00% | ~8,153 |
 | BE OUR GUEST | 2.00% | ~8,153 |
 | ACE SPEEDSTER | 2.00% | ~8,153 |
 | A TIGER'S FEAR | 2.00% | ~8,153 |
-| RELEASE THE KRAKEN | 1.00% | ~4,076 |
-| ACE BRAWLER | 1.00% | ~4,076 |
-| DEFEAT OUR CHAMPION | 1.00% | ~4,076 |
-| ACE DEFENDER | 1.00% | ~4,076 |
-| THE EYE OF THE HUNTER | 1.00% | ~4,076 |
-| FRIENDLY | 1.00% | ~4,076 |
-| MASTER | 1.00% | ~4,076 |
-| LEGENDARY HERO | 1.00% | ~4,076 |
+| RELEASE THE KRAKEN | 1.00% | ~4,077 |
+| ACE BRAWLER | 1.00% | ~4,077 |
+| DEFEAT OUR CHAMPION | 1.00% | ~4,077 |
+| ACE DEFENDER | 1.00% | ~4,077 |
+| THE EYE OF THE HUNTER | 1.00% | ~4,077 |
+| FRIENDLY | 1.00% | ~4,077 |
+| MASTER | 1.00% | ~4,077 |
+| LEGENDARY HERO | 1.00% | ~4,077 |
 | EXPERIENCED CREW | 0.90% | ~3,669 |
-| PERFECTLY POISED | 0.70% | ~2,853 |
-| FRAMED! | 0.70% | ~2,853 |
-| ACE TRICKSTER | 0.70% | ~2,853 |
+| PERFECTLY POISED | 0.70% | ~2,854 |
+| FRAMED! | 0.70% | ~2,854 |
+| ACE TRICKSTER | 0.70% | ~2,854 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,634 (Ranked 51)  
+Progressed: 407,664 (Ranked 51)  
 Completed: 1,747 (0.43%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,10 @@ Completed: 1,747 (0.43%) (Ranked 244)
 | 2024-01-23 | 406,231 | 1,727 |
 | 2024-01-24 | 406,826 | 1,740 |
 | 2024-01-25 | 407,508 | 1,747 |
-| 2024-01-26 | 407,634 | 1,747 |
+| 2024-01-26 | 407,664 | 1,747 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 306)  
-Sum: 1,291 (Ranked 262)  
+Sum: 1,293 (Ranked 262)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +319,7 @@ Diff (max vs sum): 44
 | This game has Diverse Characters | 147 |
 | This game has a Competitive Community | 109 |
 | This game has Playful Visuals | 106 |
-| This game has Amazing Characters | 97 |
+| This game has Amazing Characters | 99 |
 | This game is Highly Recommended | 96 |
 | This game is Extremely Fun | 85 |
 | This game has Competitive Players | 81 |
@@ -446,3 +446,4 @@ Diff (max vs sum): 44
 | 2024-01-23 | 4.41 | 197 | 1,272 |
 | 2024-01-24 | 4.42 | 198 | 1,282 |
 | 2024-01-25 | 4.42 | 198 | 1,291 |
+| 2024-01-26 | 4.41 | 198 | 1,293 |

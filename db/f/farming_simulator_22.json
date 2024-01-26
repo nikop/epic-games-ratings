@@ -14034,9 +14034,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63832,
+  "EOS_Progressed": 63833,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40934,6 +40934,11 @@
       "Time": "2024-01-26T01:51:32.5670537+00:00",
       "NumProgressed": 63832,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T03:08:46.4055963+00:00",
+      "NumProgressed": 63833,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 43,
@@ -40945,7 +40950,7 @@
       "Name": "Clucky Streak",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "BreedCows",
@@ -41033,7 +41038,7 @@
       "Name": "You wood not believe it",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 12766
+      "UsersEstimate": 12767
     },
     {
       "ID": "CutTreeFirst",
@@ -41073,7 +41078,7 @@
       "Name": "The plot thickens",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "FertilizeFirst",
@@ -41089,7 +41094,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "HarvestedFirst",
@@ -41129,7 +41134,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 28724
+      "UsersEstimate": 28725
     },
     {
       "ID": "Mission",
@@ -41145,7 +41150,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22341
+      "UsersEstimate": 22342
     },
     {
       "ID": "Money",
@@ -41177,7 +41182,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 26171
+      "UsersEstimate": 26172
     },
     {
       "ID": "NumProductionPoints",
@@ -41193,7 +41198,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 12766
+      "UsersEstimate": 12767
     },
     {
       "ID": "NumVehiclesSmall",
@@ -41201,7 +41206,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34469
+      "UsersEstimate": 34470
     },
     {
       "ID": "PetDog",
@@ -41217,7 +41222,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34469
+      "UsersEstimate": 34470
     },
     {
       "ID": "Sow",
@@ -41257,7 +41262,7 @@
       "Name": "Long haul",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "VehicleRepaint",
@@ -41265,7 +41270,7 @@
       "Name": "Van Gogh",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14681
+      "UsersEstimate": 14682
     },
     {
       "ID": "VehicleRepair",
@@ -41288,15 +41293,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63832,
+      "Progressed": 63833,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-25T22:58:44.6434894+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:27:00.2873744+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:08:46.4055958+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:17:04.016347+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:27:00.2875186+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:58:57.3520626+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:08:46.4057462+00:00"
 }

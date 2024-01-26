@@ -4,7 +4,7 @@
   "ProductSlug": "polygod-1dde08",
   "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-07-01T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-03T15:00:25.7620106+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.4573341+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:18:09.4458566+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:22:47.5915932+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:59:40.6158319+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:04:25.0076921+00:00"
 }

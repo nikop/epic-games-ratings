@@ -6,7 +6,7 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,912 |
+| Advanced Stroller | 19.00% | ~129,913 |
 | Incurious | 18.00% | ~123,075 |
 | Climate Change | 17.00% | ~116,238 |
 | Stroller | 16.00% | ~109,400 |
@@ -19,8 +19,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Advanced Voyager | 4.00% | ~27,350 |
 | Expert Stroller | 4.00% | ~27,350 |
 | Orient Express | 4.00% | ~27,350 |
-| Marathon | 3.00% | ~20,512 |
-| Destructionist | 3.00% | ~20,512 |
+| Marathon | 3.00% | ~20,513 |
+| Destructionist | 3.00% | ~20,513 |
 | Expert Hiker | 2.00% | ~13,675 |
 | Lost | 2.00% | ~13,675 |
 | Rocketman | 0.80% | ~5,470 |
@@ -28,7 +28,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Expert Voyager | 0.70% | ~4,786 |
 | Nanuk | 0.70% | ~4,786 |
 | Dynamite Fishing | 0.70% | ~4,786 |
-| Terminal Station | 0.60% | ~4,102 |
+| Terminal Station | 0.60% | ~4,103 |
 | Scrooge | 0.50% | ~3,419 |
 | Wayfarer | 0.40% | ~2,735 |
 | Advanced Wayfarer | 0.40% | ~2,735 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~684 |
 | 20 Miles under the Sea | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,750 (Ranked 30)  
+Progressed: 683,752 (Ranked 30)  
 Completed: 15 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,11 +340,11 @@ Completed: 15 (0.00%) (Ranked 413)
 | 2024-01-23 | 683,300 | 15 |
 | 2024-01-24 | 683,508 | 15 |
 | 2024-01-25 | 683,738 | 15 |
-| 2024-01-26 | 683,750 | 15 |
+| 2024-01-26 | 683,752 | 15 |
 ## Awards
-Max (Great for Beginners): 214  (Ranked 296)  
+Max (Great for Beginners): 214  (Ranked 297)  
 Sum: 1,645 (Ranked 241)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 214 |

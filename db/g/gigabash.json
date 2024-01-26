@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 127013,
+  "EOS_Progressed": 127024,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2450,
+  "EOS_NewPlayers": 2456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5965,6 +5965,11 @@
       "Time": "2024-01-26T02:25:23.9586922+00:00",
       "NumProgressed": 127013,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T03:06:13.6362789+00:00",
+      "NumProgressed": 127024,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5977,7 +5982,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -6041,7 +6046,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13971
+      "UsersEstimate": 13973
     },
     {
       "ID": "ACH_GROWNUP",
@@ -6049,7 +6054,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25403
+      "UsersEstimate": 25405
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -6073,7 +6078,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19052
+      "UsersEstimate": 19054
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -6097,7 +6102,7 @@
       "Name": "Master of Disguise",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "ACH_MAYHEM",
@@ -6129,7 +6134,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10161
+      "UsersEstimate": 10162
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -6145,7 +6150,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11431
+      "UsersEstimate": 11432
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -6185,7 +6190,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -6256,7 +6261,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 127013,
+      "Progressed": 127024,
       "Completed": 0
     }
   ],
@@ -6264,8 +6269,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:25:23.9586918+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:06:13.6362785+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:19:16.2871525+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:25:23.958755+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:00:24.2792227+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:06:13.6363351+00:00"
 }

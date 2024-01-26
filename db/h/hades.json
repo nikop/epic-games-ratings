@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6706,10 +6706,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 726168,
-  "EOS_Completed": 6632,
-  "EOS_NewPlayers": 911,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 726169,
+  "EOS_Completed": 6633,
+  "EOS_NewPlayers": 910,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -37611,6 +37611,11 @@
       "Time": "2024-01-26T02:29:10.1372451+00:00",
       "NumProgressed": 726168,
       "NumCompleted": 6632
+    },
+    {
+      "Time": "2024-01-26T03:10:16.6392967+00:00",
+      "NumProgressed": 726169,
+      "NumCompleted": 6633
     }
   ],
   "TotalAchievements": 49,
@@ -37662,7 +37667,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 79878
+      "UsersEstimate": 79879
     },
     {
       "ID": "AchCerberusPets",
@@ -37678,7 +37683,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 377607
+      "UsersEstimate": 377608
     },
     {
       "ID": "AchClearAsphodel",
@@ -37686,7 +37691,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 573673
+      "UsersEstimate": 573674
     },
     {
       "ID": "AchClearElysium",
@@ -37694,7 +37699,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 472009
+      "UsersEstimate": 472010
     },
     {
       "ID": "AchClearElysiumEM",
@@ -37726,7 +37731,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 639028
+      "UsersEstimate": 639029
     },
     {
       "ID": "AchCrushedThanatos",
@@ -37814,7 +37819,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 268682
+      "UsersEstimate": 268683
     },
     {
       "ID": "AchManyCosmetics",
@@ -37822,7 +37827,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 196065
+      "UsersEstimate": 196066
     },
     {
       "ID": "AchManyQuests",
@@ -37846,7 +37851,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 450224
+      "UsersEstimate": 450225
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -37870,7 +37875,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 58093
+      "UsersEstimate": 58094
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -37894,7 +37899,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 261420
+      "UsersEstimate": 261421
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -37910,7 +37915,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 268682
+      "UsersEstimate": 268683
     },
     {
       "ID": "AchPickedManyHammers",
@@ -37998,7 +38003,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 290467
+      "UsersEstimate": 290468
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -38013,15 +38018,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 726168,
-      "Completed": 6632
+      "Progressed": 726169,
+      "Completed": 6633
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2024-01-25T18:58:45.4888808+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:29:10.1372448+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:10:16.6392962+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.5057206+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:16:56.055374+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:29:10.1373867+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:58:52.1444689+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:10:16.6394732+00:00"
 }

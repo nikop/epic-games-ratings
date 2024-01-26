@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,840 |
+| Lawbringer | 43.00% | ~41,841 |
 | Landlord | 35.00% | ~34,056 |
 | Trained | 30.00% | ~29,191 |
 | Bannerlord | 25.00% | ~24,326 |
@@ -16,9 +16,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Apple of my eye | 18.00% | ~17,515 |
 | King Solomon | 18.00% | ~17,515 |
 | This Is Our Land | 17.00% | ~16,542 |
-| Against all odds | 16.00% | ~15,568 |
-| I can do it | 16.00% | ~15,568 |
-| Duelist | 13.00% | ~12,649 |
+| Against all odds | 16.00% | ~15,569 |
+| I can do it | 16.00% | ~15,569 |
+| Duelist | 13.00% | ~12,650 |
 | God of the Arena | 12.00% | ~11,676 |
 | Swordbearer | 11.00% | ~10,703 |
 | What have the Romans ever done for us? | 11.00% | ~10,703 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,303 (Ranked 105)  
+Progressed: 97,304 (Ranked 105)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 97,011 | 0 |
 | 2024-01-24 | 97,171 | 0 |
 | 2024-01-25 | 97,299 | 0 |
-| 2024-01-26 | 97,303 | 0 |
+| 2024-01-26 | 97,304 | 0 |
 ## Awards
 Max (Character Customization): 8,250  (Ranked 51)  
-Sum: 17,052 (Ranked 67)  
+Sum: 17,053 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -16
 | This game has Amazing Storytelling | 944 |
 | This game has Amazing Characters | 944 |
 | This game is Relaxing | 921 |
-| This game has Quickly Understood Controls | 904 |
+| This game has Quickly Understood Controls | 905 |
 | This game has a Creative Community | 711 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -737,3 +737,4 @@ Diff (max vs sum): -16
 | 2024-01-23 | 4.74 | - | 8,223 | 17,008 |
 | 2024-01-24 | 4.74 | - | 8,238 | 17,033 |
 | 2024-01-25 | 4.74 | - | 8,250 | 17,052 |
+| 2024-01-26 | 4.74 | - | 8,250 | 17,053 |

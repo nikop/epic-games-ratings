@@ -6,9 +6,9 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~33,531 |
-| The Evilest Evil | 58.00% | ~27,783 |
-| Twistram is devastated | 57.00% | ~27,304 |
+| The Shadow strikes | 70.00% | ~33,532 |
+| The Evilest Evil | 58.00% | ~27,784 |
+| Twistram is devastated | 57.00% | ~27,305 |
 | The Gehenna Stones | 49.00% | ~23,472 |
 | No one has to die today! | 46.00% | ~22,035 |
 | Death and destruction! | 46.00% | ~22,035 |
@@ -30,18 +30,18 @@ Number of Ratings: 1,635  (23.09.2022)
 | Tide Master | 26.00% | ~12,455 |
 | Difficult family relationships | 25.00% | ~11,976 |
 | Destroy the thing | 25.00% | ~11,976 |
-| MASS-O-BOT | 24.00% | ~11,496 |
-| Prepare the grave | 24.00% | ~11,496 |
-| Angel of Fire | 24.00% | ~11,496 |
-| Where there is Light, there is Shadow | 23.00% | ~11,017 |
-| At the foot of Mount Destiny | 22.00% | ~10,538 |
-| The Force disturbed | 21.00% | ~10,059 |
-| Chorus of damnation | 19.00% | ~9,101 |
-| The Victorious Evil | 19.00% | ~9,101 |
-| We don’t have time! | 19.00% | ~9,101 |
-| The Stones’ Power | 18.00% | ~8,622 |
-| Flat as a pancake | 17.00% | ~8,143 |
-| Lifeguard | 17.00% | ~8,143 |
+| MASS-O-BOT | 24.00% | ~11,497 |
+| Prepare the grave | 24.00% | ~11,497 |
+| Angel of Fire | 24.00% | ~11,497 |
+| Where there is Light, there is Shadow | 23.00% | ~11,018 |
+| At the foot of Mount Destiny | 22.00% | ~10,539 |
+| The Force disturbed | 21.00% | ~10,060 |
+| Chorus of damnation | 19.00% | ~9,102 |
+| The Victorious Evil | 19.00% | ~9,102 |
+| We don’t have time! | 19.00% | ~9,102 |
+| The Stones’ Power | 18.00% | ~8,623 |
+| Flat as a pancake | 17.00% | ~8,144 |
+| Lifeguard | 17.00% | ~8,144 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~7,185 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,748 |
 | Then let them eat cake! | 12.00% | ~5,748 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Hearts are trump | 7.00% | ~3,353 |
 | Spawner Killer | 6.00% | ~2,874 |
 | A little something extra | 6.00% | ~2,874 |
-| The Benevolent Evil | 5.00% | ~2,395 |
+| The Benevolent Evil | 6.00% | ~2,874 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,916 |
 | I need a hero! | 4.00% | ~1,916 |
 | Band of Brothers | 4.00% | ~1,916 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~958 |
 | Sacrifices! | 2.00% | ~958 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,902 (Ranked 129)  
-Completed: 376 (0.78%) (Ranked 201)  
+Progressed: 47,903 (Ranked 129)  
+Completed: 377 (0.79%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -348,7 +348,7 @@ Completed: 376 (0.78%) (Ranked 201)
 | 2024-01-23 | 47,757 | 375 |
 | 2024-01-24 | 47,835 | 375 |
 | 2024-01-25 | 47,894 | 376 |
-| 2024-01-26 | 47,902 | 376 |
+| 2024-01-26 | 47,903 | 377 |
 ## Awards
 Max (Great for Beginners): 402  (Ranked 242)  
 Sum: 2,860 (Ranked 192)  

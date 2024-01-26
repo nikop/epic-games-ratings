@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 387,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12234,
+  "EOS_Progressed": 12235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6192,6 +6192,11 @@
       "Time": "2024-01-26T01:53:18.5309947+00:00",
       "NumProgressed": 12234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T03:10:18.596113+00:00",
+      "NumProgressed": 12235,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6300,7 +6305,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "15_Pentakill",
@@ -6340,7 +6345,7 @@
       "Name": "Void Wolf",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6452,7 +6457,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6723,7 +6728,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12234,
+      "Progressed": 12235,
       "Completed": 1
     }
   ],
@@ -6731,8 +6736,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-26T02:29:12.5212439+00:00",
+  "LastChanged_Achievements": "2024-01-26T03:10:18.5961127+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:18:08.7163153+00:00",
-  "LastUpdate_Achievements": "2024-01-26T02:29:12.5213192+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:59:40.1362797+00:00",
+  "LastUpdate_Achievements": "2024-01-26T03:10:18.5961804+00:00"
 }

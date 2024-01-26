@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,285 |
+| Malpractice Assurance | 15.00% | ~1,286 |
 | Autodidact | 9.00% | ~12,033 |
 | Lost and Found | 9.00% | ~771 |
 | This guy... again? | 8.00% | ~686 |
@@ -23,15 +23,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 6.00% | ~8,022 |
 | Rush Hour | 6.00% | ~8,022 |
 | To Grandmother's House | 6.00% | ~8,022 |
+| A Place to Lay Your Head | 6.00% | ~8,022 |
 | FNG | 6.00% | ~8,022 |
 | Bloody Graduation | 6.00% | ~514 |
 | Not Today! | 5.00% | ~6,685 |
 | Merry Time | 5.00% | ~6,685 |
 | Harvest Festival | 5.00% | ~6,685 |
 | Whale | 5.00% | ~6,685 |
-| A Place to Lay Your Head | 5.00% | ~6,685 |
 | Nope | 5.00% | ~6,685 |
-| Friends 'Til the End | 5.00% | ~428 |
+| Friends 'Til the End | 5.00% | ~429 |
 | Resurrection | 4.00% | ~5,348 |
 | Unleash Hell | 4.00% | ~5,348 |
 | Funny Guy | 4.00% | ~5,348 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,700 (Ranked 92)  
+Progressed: 133,702 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 5 (0.00%) (Ranked 413)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,700 | 5 |
+| 2024-01-26 | 133,702 | 5 |
 ## Awards
 Max (Character Customization): 8,078  (Ranked 52)  
 Sum: 21,867 (Ranked 60)  

@@ -5,13 +5,13 @@ Rating: 3.99 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~650,255 |
+| Blood on My Hands | 71.00% | ~650,256 |
 | Health Junkie | 38.00% | ~348,024 |
-| You Complete Me | 37.00% | ~338,865 |
+| You Complete Me | 37.00% | ~338,866 |
 | Guardian Angel | 32.00% | ~293,073 |
 | Devil Inside Me | 25.00% | ~228,963 |
 | Fantastic Four | 19.00% | ~174,012 |
-| Killing Spree | 18.00% | ~164,853 |
+| Killing Spree | 18.00% | ~164,854 |
 | Marksman Novice | 16.00% | ~146,536 |
 | First Blood | 12.00% | ~109,902 |
 | Top 10 | 12.00% | ~109,902 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 1,063)
 | Nade King Master | 0.10% | ~916 |
 | Shoot the Knee | 0.10% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,852 (Ranked 18)  
+Progressed: 915,853 (Ranked 18)  
 Completed: 18 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 18 (0.00%) (Ranked 413)
 | 2024-01-23 | 911,382 | 18 |
 | 2024-01-24 | 913,875 | 18 |
 | 2024-01-25 | 915,850 | 18 |
-| 2024-01-26 | 915,852 | 18 |
+| 2024-01-26 | 915,853 | 18 |
 ## Awards
 Max (Competitive Players): 6,732  (Ranked 61)  
 Sum: 22,014 (Ranked 59)  
