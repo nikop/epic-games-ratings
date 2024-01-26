@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,061 |
-| Hotel California | 10.00% | ~80,964 |
-| Break A Leg | 9.00% | ~72,868 |
-| Coup de Grâce | 8.00% | ~64,771 |
-| Hazardous Materials | 8.00% | ~64,771 |
-| Git Gutte! | 7.00% | ~56,675 |
-| Friends Like These | 7.00% | ~56,675 |
-| Apex Predator | 7.00% | ~56,675 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,675 |
+| Welcome To Hell-A | 11.00% | ~89,062 |
+| Hotel California | 10.00% | ~80,966 |
+| Break A Leg | 9.00% | ~72,869 |
+| Coup de Grâce | 8.00% | ~64,772 |
+| Hazardous Materials | 8.00% | ~64,772 |
+| Git Gutte! | 7.00% | ~56,676 |
+| Friends Like These | 7.00% | ~56,676 |
+| Apex Predator | 7.00% | ~56,676 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,676 |
 | Dr. Reed, I Presume? | 6.00% | ~48,579 |
 | Bookworm | 6.00% | ~48,579 |
 | Stacking the Deck | 6.00% | ~48,579 |
 | This is My Weapon | 6.00% | ~48,579 |
-| Anger Management | 5.00% | ~40,482 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,482 |
-| But Doctor, I am Butcho | 5.00% | ~40,482 |
-| Can't Handle the Truth | 5.00% | ~40,482 |
-| Like Riding a Bike | 5.00% | ~40,482 |
-| A Patton Emerges | 5.00% | ~40,482 |
+| Anger Management | 5.00% | ~40,483 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,483 |
+| But Doctor, I am Butcho | 5.00% | ~40,483 |
+| Can't Handle the Truth | 5.00% | ~40,483 |
+| Like Riding a Bike | 5.00% | ~40,483 |
+| A Patton Emerges | 5.00% | ~40,483 |
 | Making Your Mark | 4.00% | ~32,386 |
 | Perks of the Job | 4.00% | ~32,386 |
 | Slayer Squad | 4.00% | ~32,386 |
@@ -31,14 +31,14 @@ Rating: 4.54 (Ranked 552)
 | Ooh, Shiny! | 4.00% | ~32,386 |
 | I Am the Resurrection | 4.00% | ~32,386 |
 | Our True Nature | 4.00% | ~32,386 |
-| Whatever It Takes | 4.00% | ~5,407 |
-| Pork Chopped | 4.00% | ~5,407 |
-| Jumbo Keyring | 3.00% | ~24,289 |
-| Humanity Distilled | 3.00% | ~24,289 |
-| Down with the Sickness | 3.00% | ~24,289 |
-| Max Headroom | 3.00% | ~24,289 |
-| Go, Bobcats! | 3.00% | ~24,289 |
-| Rising Star | 3.00% | ~24,289 |
+| Whatever It Takes | 4.00% | ~5,408 |
+| Pork Chopped | 4.00% | ~5,408 |
+| Jumbo Keyring | 3.00% | ~24,290 |
+| Humanity Distilled | 3.00% | ~24,290 |
+| Down with the Sickness | 3.00% | ~24,290 |
+| Max Headroom | 3.00% | ~24,290 |
+| Go, Bobcats! | 3.00% | ~24,290 |
+| Rising Star | 3.00% | ~24,290 |
 | One of Us | 3.00% | ~4,056 |
 | Make it So | 2.00% | ~16,193 |
 | On Safari | 2.00% | ~16,193 |
@@ -46,10 +46,10 @@ Rating: 4.54 (Ranked 552)
 | Not Even My Final Form | 2.00% | ~16,193 |
 | Internet Famous | 2.00% | ~16,193 |
 | Variety is the Spice of Death | 2.00% | ~16,193 |
-| LA Influential | 1.00% | ~8,096 |
-| Sole Survivor | 1.00% | ~8,096 |
-| Gore Horse | 1.00% | ~8,096 |
-| Sharpest Tool in the Box | 1.00% | ~8,096 |
+| LA Influential | 1.00% | ~8,097 |
+| Sole Survivor | 1.00% | ~8,097 |
+| Gore Horse | 1.00% | ~8,097 |
+| Sharpest Tool in the Box | 1.00% | ~8,097 |
 | Survival Skills | 0.60% | ~4,858 |
 | Top That, Tisha! | 0.60% | ~811 |
 | Donk! | 0.40% | ~3,239 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 552)
 | Bucket List | 0.10% | ~810 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,643 (Ranked 23)  
-Completed: 2,643 (0.33%) (Ranked 263)  
+Progressed: 809,656 (Ranked 23)  
+Completed: 2,644 (0.33%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,7 +338,7 @@ Completed: 2,643 (0.33%) (Ranked 263)
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
 | 2024-01-25 | 809,531 | 2,643 |
-| 2024-01-26 | 809,643 | 2,643 |
+| 2024-01-26 | 809,656 | 2,644 |
 ## Awards
 Max (Great Boss Battles): 10,927  (Ranked 39)  
 Sum: 16,855 (Ranked 68)  

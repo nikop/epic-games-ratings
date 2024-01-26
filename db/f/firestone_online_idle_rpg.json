@@ -817,9 +817,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4814,
+  "EOS_Progressed": 4816,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13477,6 +13477,11 @@
       "Time": "2024-01-26T10:03:47.8850934+00:00",
       "NumProgressed": 4814,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T11:03:46.3956407+00:00",
+      "NumProgressed": 4816,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13664,7 +13669,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "fellowshippower",
@@ -13672,7 +13677,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "fourleafclover",
@@ -13696,7 +13701,7 @@
       "Name": "Full Party",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "gearenchanting",
@@ -13720,7 +13725,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "herewegoagain",
@@ -13880,7 +13885,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "prestigiousx10",
@@ -13912,7 +13917,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "scrollmaster",
@@ -13944,7 +13949,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "thealchemist",
@@ -14048,7 +14053,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4479
     },
     {
       "ID": "warmachinesarmy",
@@ -14080,14 +14085,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3755
+      "UsersEstimate": 3756
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4814,
+      "Progressed": 4816,
       "Completed": 2
     }
   ],
@@ -14095,8 +14100,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-25T19:58:35.2116206+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:03:47.8850931+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:03:46.3956405+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:58:46.6346427+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:03:47.8852166+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:58:53.5785996+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:03:46.3957667+00:00"
 }

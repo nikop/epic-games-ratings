@@ -43,32 +43,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 3.00% | ~515 |
 | Naming Landmarks | 3.00% | ~515 |
 | Trade Caravan | 3.00% | ~515 |
-| Regicide | 2.00% | ~343 |
-| Hanging Gardens in Babylon | 2.00% | ~343 |
-| Drillmaster | 2.00% | ~343 |
-| Brilliant | 2.00% | ~343 |
-| Great | 2.00% | ~343 |
-| Intercessor | 2.00% | ~343 |
-| Valiant | 2.00% | ~343 |
-| Wise | 2.00% | ~343 |
-| Legendary Cities | 2.00% | ~343 |
-| Able Difficulty | 2.00% | ~343 |
-| Just Difficulty | 2.00% | ~343 |
-| Artisans | 2.00% | ~343 |
-| Furious Family | 2.00% | ~343 |
-| Acropolis | 2.00% | ~343 |
-| Apadana | 2.00% | ~343 |
-| Colossus | 2.00% | ~343 |
-| Mausoleum | 2.00% | ~343 |
-| Musaeum | 2.00% | ~343 |
-| Necropolis | 2.00% | ~343 |
-| Learn to Play 2 | 2.00% | ~343 |
-| Manichaeism | 2.00% | ~343 |
-| Carthaginian Paganism | 2.00% | ~343 |
-| Egyptian Paganism | 2.00% | ~343 |
-| Roman Paganism | 2.00% | ~343 |
-| Building Wonders | 2.00% | ~343 |
-| Mythology | 2.00% | ~343 |
+| Regicide | 2.00% | ~344 |
+| Hanging Gardens in Babylon | 2.00% | ~344 |
+| Drillmaster | 2.00% | ~344 |
+| Brilliant | 2.00% | ~344 |
+| Great | 2.00% | ~344 |
+| Intercessor | 2.00% | ~344 |
+| Valiant | 2.00% | ~344 |
+| Wise | 2.00% | ~344 |
+| Legendary Cities | 2.00% | ~344 |
+| Able Difficulty | 2.00% | ~344 |
+| Just Difficulty | 2.00% | ~344 |
+| Artisans | 2.00% | ~344 |
+| Furious Family | 2.00% | ~344 |
+| Acropolis | 2.00% | ~344 |
+| Apadana | 2.00% | ~344 |
+| Colossus | 2.00% | ~344 |
+| Mausoleum | 2.00% | ~344 |
+| Musaeum | 2.00% | ~344 |
+| Necropolis | 2.00% | ~344 |
+| Learn to Play 2 | 2.00% | ~344 |
+| Manichaeism | 2.00% | ~344 |
+| Carthaginian Paganism | 2.00% | ~344 |
+| Egyptian Paganism | 2.00% | ~344 |
+| Roman Paganism | 2.00% | ~344 |
+| Building Wonders | 2.00% | ~344 |
+| Mythology | 2.00% | ~344 |
 | Beloved | 1.00% | ~172 |
 | Conqueror | 1.00% | ~172 |
 | Mighty | 1.00% | ~172 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,174 (Ranked 170)  
+Progressed: 17,175 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 5 (0.03%) (Ranked 368)
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
-| 2024-01-26 | 17,174 | 5 |
+| 2024-01-26 | 17,175 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

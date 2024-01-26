@@ -1,16 +1,16 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 529)  
+Rating: 4.55 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting Started | 81.00% | ~16,083 |
-| Pay 'n' Spray | 51.00% | ~10,126 |
-| All Dressed Up for San Fierro | 26.00% | ~5,162 |
-| The American Dream | 19.00% | ~3,772 |
-| School's Out | 19.00% | ~3,772 |
-| Smooth Moves | 17.00% | ~3,375 |
+| Pay 'n' Spray | 51.00% | ~10,127 |
+| All Dressed Up for San Fierro | 26.00% | ~5,163 |
+| The American Dream | 19.00% | ~3,773 |
+| School's Out | 19.00% | ~3,773 |
+| Smooth Moves | 17.00% | ~3,376 |
 | What happens in Las Venturas... | 15.00% | ~2,978 |
 | Today Was a Good Day | 15.00% | ~2,978 |
 | Horror of the Santa Maria | 11.00% | ~2,184 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.60% | ~119 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,855 (Ranked 158)  
+Progressed: 19,856 (Ranked 158)  
 Completed: 83 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,22 +322,22 @@ Completed: 83 (0.42%) (Ranked 247)
 | 2024-01-23 | 19,815 | 82 |
 | 2024-01-24 | 19,836 | 83 |
 | 2024-01-25 | 19,850 | 83 |
-| 2024-01-26 | 19,855 | 83 |
+| 2024-01-26 | 19,856 | 83 |
 ## Awards
 Max (Great Boss Battles): 728  (Ranked 196)  
-Sum: 1,131 (Ranked 270)  
-Diff (max vs sum): -74  
+Sum: 1,134 (Ranked 269)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 728 |
-| This game has Amazing Storytelling | 63 |
+| This game has Amazing Storytelling | 65 |
 | This game is Highly Recommended | 63 |
 | This game is Relaxing | 62 |
 | This game has Amazing Characters | 62 |
 | This game is Great for Beginners | 58 |
 | This game has Diverse Characters | 58 |
 | This game has Quickly Understood Controls | 49 |
-| This game is Extremely Fun | 46 |
+| This game is Extremely Fun | 47 |
 | This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -584,4 +584,4 @@ Diff (max vs sum): -74
 | 2024-01-23 | 4.55 | 712 | 1,102 |
 | 2024-01-24 | 4.55 | 720 | 1,116 |
 | 2024-01-25 | 4.55 | 728 | 1,129 |
-| 2024-01-26 | 4.55 | 728 | 1,131 |
+| 2024-01-26 | 4.55 | 728 | 1,134 |

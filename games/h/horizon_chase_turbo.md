@@ -1,18 +1,18 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 529)  
+Rating: 4.55 (Ranked 530)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~998,546 |
-| I Need a Bigger Garage | 63.00% | ~698,982 |
-| Pump my Ride | 47.00% | ~521,463 |
-| Ghostbuster | 34.00% | ~377,228 |
-| Call Roadside Assistance | 18.00% | ~199,709 |
-| That Was Close | 18.00% | ~199,709 |
-| Quickie | 11.00% | ~122,044 |
+| The First of Many | 90.00% | ~998,556 |
+| I Need a Bigger Garage | 63.00% | ~698,989 |
+| Pump my Ride | 47.00% | ~521,468 |
+| Ghostbuster | 34.00% | ~377,232 |
+| Call Roadside Assistance | 18.00% | ~199,711 |
+| That Was Close | 18.00% | ~199,711 |
+| Quickie | 11.00% | ~122,046 |
 | California Dreamer | 7.00% | ~77,665 |
 | Can't Touch This | 5.00% | ~55,475 |
 | Carménère Taster | 4.00% | ~44,380 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~11,095 |
 | Golden Passport | 1.00% | ~11,095 |
 | Brave and Bold | 1.00% | ~11,095 |
-| Volcano Surfer | 0.90% | ~9,985 |
-| Otaku | 0.90% | ~9,985 |
+| Volcano Surfer | 0.90% | ~9,986 |
+| Otaku | 0.90% | ~9,986 |
 | Survivor | 0.60% | ~6,657 |
 | King of the World | 0.60% | ~6,657 |
-| Getting Famous | 0.50% | ~5,547 |
-| Now Go Play Outside | 0.30% | ~3,328 |
+| Getting Famous | 0.50% | ~5,548 |
+| Now Go Play Outside | 0.30% | ~3,329 |
 | Master of the Racetrack | 0.20% | ~2,219 |
 | Look Mom, No Hands! | 0.20% | ~2,219 |
-| Transporter | 0.10% | ~1,109 |
+| Transporter | 0.10% | ~1,110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,109,495 (Ranked 15)  
+Progressed: 1,109,507 (Ranked 15)  
 Completed: 540 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 540 (0.05%) (Ranked 351)
 | 2024-01-23 | 1,108,626 | 539 |
 | 2024-01-24 | 1,108,937 | 540 |
 | 2024-01-25 | 1,109,339 | 540 |
-| 2024-01-26 | 1,109,495 | 540 |
+| 2024-01-26 | 1,109,507 | 540 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 316)  
 Sum: 1,663 (Ranked 239)  

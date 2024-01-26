@@ -2015,9 +2015,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 70474,
+  "EOS_Progressed": 70475,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33030,6 +33030,11 @@
       "Time": "2024-01-26T10:04:10.3211584+00:00",
       "NumProgressed": 70474,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T11:04:08.5232645+00:00",
+      "NumProgressed": 70475,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -33105,7 +33110,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -33233,7 +33238,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -33273,7 +33278,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18323
+      "UsersEstimate": 18324
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -33505,22 +33510,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 70474,
+      "Progressed": 70475,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-23T20:00:00.0597539+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:04:10.321158+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:04:08.5232644+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:26.9198992+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:57:45.6894723+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:04:10.3213291+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:57:51.4063654+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:04:08.5234149+00:00"
 }

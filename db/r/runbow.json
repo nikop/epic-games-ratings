@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253844,
+  "EOS_Progressed": 253846,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25042,6 +25042,11 @@
       "Time": "2024-01-26T10:10:14.6787161+00:00",
       "NumProgressed": 253844,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T11:10:16.6095888+00:00",
+      "NumProgressed": 253846,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -25077,7 +25082,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53307
+      "UsersEstimate": 53308
     },
     {
       "ID": "blotbuster",
@@ -25109,7 +25114,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43153
+      "UsersEstimate": 43154
     },
     {
       "ID": "cantBeKeptDown",
@@ -25229,7 +25234,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134537
+      "UsersEstimate": 134538
     },
     {
       "ID": "indegestible",
@@ -25253,7 +25258,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65999
+      "UsersEstimate": 66000
     },
     {
       "ID": "justABit",
@@ -25293,7 +25298,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126922
+      "UsersEstimate": 126923
     },
     {
       "ID": "notScared",
@@ -25357,7 +25362,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58384
+      "UsersEstimate": 58385
     },
     {
       "ID": "thunderstruck",
@@ -25420,7 +25425,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253844,
+      "Progressed": 253846,
       "Completed": 6
     }
   ],
@@ -25428,8 +25433,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:10:14.6787159+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:10:16.6095886+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:58:58.035871+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:10:14.6788385+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:59:05.304624+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:10:16.6097341+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.90% | ~9,530 |
-| Right Back At Ya | 0.90% | ~9,530 |
-| The Hermit | 0.80% | ~8,471 |
-| The High Priestess | 0.80% | ~8,471 |
-| The Wheel of Fortune | 0.80% | ~8,471 |
-| True Soldier | 0.80% | ~8,471 |
-| Legend of The Afterlife | 0.80% | ~8,471 |
+| Full Body Conversion | 0.90% | ~9,531 |
+| Right Back At Ya | 0.90% | ~9,531 |
+| The Hermit | 0.80% | ~8,472 |
+| The High Priestess | 0.80% | ~8,472 |
+| The Wheel of Fortune | 0.80% | ~8,472 |
+| True Soldier | 0.80% | ~8,472 |
+| Legend of The Afterlife | 0.80% | ~8,472 |
 | Christmas Tree Attack | 0.70% | ~7,413 |
 | Life of the Road | 0.70% | ~7,413 |
 | Stanislavski's Method | 0.70% | ~7,413 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,937 (Ranked 17)  
+Progressed: 1,058,963 (Ranked 17)  
 Completed: 3,166 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 3,166 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,058,937 | 3,166 |
+| 2024-01-26 | 1,058,963 | 3,166 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
 Sum: 520,894 (Ranked 8)  

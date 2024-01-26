@@ -8,16 +8,16 @@ Rating: 4.29 (Ranked 890)
 | We made it | 43.00% | ~580 |
 | Manipulating Fate | 11.00% | ~148 |
 | The City | 11.00% | ~148 |
-| Full house | 7.00% | ~94 |
-| Burn and Pillage | 7.00% | ~94 |
-| Hear me out | 7.00% | ~94 |
-| Listening to the crowd | 7.00% | ~94 |
-| Ascended | 5.00% | ~67 |
-| The Penitent Ones | 5.00% | ~67 |
-| Greedy | 5.00% | ~67 |
-| Hidden Secrets | 5.00% | ~67 |
-| The Stranded King | 5.00% | ~67 |
-| Accepting the Prophecy | 5.00% | ~67 |
+| Full house | 7.00% | ~95 |
+| Burn and Pillage | 7.00% | ~95 |
+| Hear me out | 7.00% | ~95 |
+| Listening to the crowd | 7.00% | ~95 |
+| Ascended | 5.00% | ~68 |
+| The Penitent Ones | 5.00% | ~68 |
+| Greedy | 5.00% | ~68 |
+| Hidden Secrets | 5.00% | ~68 |
+| The Stranded King | 5.00% | ~68 |
+| Accepting the Prophecy | 5.00% | ~68 |
 | Incredible Strength | 4.00% | ~54 |
 | Prophecy Fulfilled | 4.00% | ~54 |
 | Just Chilling | 3.00% | ~40 |
@@ -25,9 +25,9 @@ Rating: 4.29 (Ranked 890)
 | The First King | 2.00% | ~27 |
 | The great fire | 2.00% | ~27 |
 | The Unruly Ones | 2.00% | ~27 |
-| The Council | 1.00% | ~13 |
-| The Mad | 1.00% | ~13 |
-| Like the dream | 1.00% | ~13 |
+| The Council | 1.00% | ~14 |
+| The Mad | 1.00% | ~14 |
+| Like the dream | 1.00% | ~14 |
 | Metropolis | 0.80% | ~11 |
 | Red Tape | 0.70% | ~9 |
 | Charismatic Leader | 0.70% | ~9 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 890)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349 (Ranked 284)  
+Progressed: 1,350 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-20 | 1,347 | 0 |
 | 2024-01-23 | 1,348 | 0 |
 | 2024-01-25 | 1,349 | 0 |
+| 2024-01-26 | 1,350 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

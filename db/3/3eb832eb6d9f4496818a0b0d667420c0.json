@@ -451,9 +451,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 431664,
+  "EOS_Progressed": 431682,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6530,
+  "EOS_NewPlayers": 6527,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4901,6 +4901,11 @@
       "Time": "2024-01-26T10:03:35.5478376+00:00",
       "NumProgressed": 431664,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T11:03:33.8133431+00:00",
+      "NumProgressed": 431682,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4921,7 +4926,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30216
+      "UsersEstimate": 30218
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4945,7 +4950,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99283
+      "UsersEstimate": 99287
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4969,7 +4974,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 112233
+      "UsersEstimate": 112237
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4977,7 +4982,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94966
+      "UsersEstimate": 94970
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -5057,7 +5062,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -5073,7 +5078,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38850
+      "UsersEstimate": 38851
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -5121,7 +5126,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34533
+      "UsersEstimate": 34535
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -5129,7 +5134,7 @@
       "Name": "A Raging Madness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -5145,7 +5150,7 @@
       "Name": "To Greater Heights",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_031",
@@ -5153,7 +5158,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -5161,7 +5166,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -5256,7 +5261,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 431664,
+      "Progressed": 431682,
       "Completed": 5
     }
   ],
@@ -5264,8 +5269,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-26T04:03:01.7564354+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:03:35.5478371+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:03:33.8133429+00:00",
   "LastUpdate_AppInfo": "2024-01-23T13:04:44.661281+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:03:12.1055315+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:03:35.5479021+00:00"
+  "LastUpdate_Ratings": "2024-01-26T11:03:08.6720216+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:03:33.8133858+00:00"
 }

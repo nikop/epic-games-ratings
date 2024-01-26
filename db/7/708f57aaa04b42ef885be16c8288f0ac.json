@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15341,
+  "EOS_Progressed": 15343,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11518,6 +11518,11 @@
       "Time": "2024-01-26T10:10:18.6467005+00:00",
       "NumProgressed": 15341,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-26T11:10:20.6487709+00:00",
+      "NumProgressed": 15343,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11538,7 +11543,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6290
+      "UsersEstimate": 6291
     },
     {
       "ID": "BeLikeWater",
@@ -11602,7 +11607,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8438
+      "UsersEstimate": 8439
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11642,7 +11647,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "JackOfAllTrades",
@@ -11674,7 +11679,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4602
+      "UsersEstimate": 4603
     },
     {
       "ID": "NoMoreTotems",
@@ -11801,7 +11806,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15341,
+      "Progressed": 15343,
       "Completed": 28
     }
   ],
@@ -11809,8 +11814,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:10:18.6467002+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:10:20.6487707+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:57:28.0025146+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:10:18.6467752+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:57:33.629186+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:10:20.6488416+00:00"
 }

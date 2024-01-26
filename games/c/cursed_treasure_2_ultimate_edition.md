@@ -55,7 +55,7 @@
 | Brilliant: The Deep | 24.00% | ~45 |
 | Starry: Free Coast | 24.00% | ~45 |
 | Starry: The Deep | 23.00% | ~43 |
-| Hostile Waters | 18.00% | ~33 |
+| Hostile Waters | 19.00% | ~35 |
 | Loveless | 18.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 186 (Ranked 446)  

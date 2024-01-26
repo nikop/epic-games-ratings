@@ -19136,9 +19136,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1058937,
+  "EOS_Progressed": 1058963,
   "EOS_Completed": 3166,
-  "EOS_NewPlayers": 4173,
+  "EOS_NewPlayers": 4156,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51351,6 +51351,11 @@
       "Time": "2024-01-26T10:09:14.7376389+00:00",
       "NumProgressed": 1058937,
       "NumCompleted": 3166
+    },
+    {
+      "Time": "2024-01-26T11:09:16.1691754+00:00",
+      "NumProgressed": 1058963,
+      "NumCompleted": 3166
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51387,7 +51392,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9530
+      "UsersEstimate": 9531
     },
     {
       "ID": "Denied",
@@ -51395,7 +51400,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9530
+      "UsersEstimate": 9531
     },
     {
       "ID": "FollowingTheRiver",
@@ -51587,7 +51592,7 @@
       "Name": "The Hermit",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "TheHightPriestess",
@@ -51595,7 +51600,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "TheLovers",
@@ -51627,7 +51632,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "TheWorld",
@@ -51659,7 +51664,7 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "TrueWarrior",
@@ -51707,7 +51712,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51898,21 +51903,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058937,
+      "Progressed": 1058963,
       "Completed": 3166
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187560,
+      "Progressed": 187586,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T07:03:36.0384729+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:09:14.7376388+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:09:16.1691751+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:03:17.4091719+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:09:14.737785+00:00"
+  "LastUpdate_Ratings": "2024-01-26T11:03:13.8107031+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:09:16.169369+00:00"
 }

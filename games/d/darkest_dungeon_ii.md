@@ -58,12 +58,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 3.00% | ~4,012 |
 | Ichthyophobic | 2.00% | ~2,674 |
 | No More Mouths to Feed | 2.00% | ~2,674 |
+| Shrine of Reflection | 2.00% | ~2,674 |
 | Worldly Traveller | 2.00% | ~2,674 |
 | Handled | 2.00% | ~2,674 |
 | Body of Work | 2.00% | ~2,674 |
 | Clearing the Ledger | 1.00% | ~1,337 |
 | Hat Trick | 1.00% | ~1,337 |
-| Shrine of Reflection | 1.00% | ~1,337 |
 | Triage | 1.00% | ~1,337 |
 | No Mercy | 1.00% | ~86 |
 | Slap on the Wrist | 1.00% | ~86 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,717 (Ranked 92)  
+Progressed: 133,719 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 5 (0.00%) (Ranked 413)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,717 | 5 |
+| 2024-01-26 | 133,719 | 5 |
 ## Awards
 Max (Character Customization): 8,078  (Ranked 52)  
 Sum: 21,867 (Ranked 60)  

@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chaos Theory | 0.40% | ~888 |
 | Supply Run | 0.30% | ~767 |
 | Homecoming | 0.30% | ~767 |
+| The Lost Heir of Omu | 0.30% | ~767 |
 | Street War | 0.30% | ~767 |
 | Wisdom Check | 0.30% | ~767 |
 | Invisible Shadows | 0.30% | ~767 |
@@ -84,7 +85,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~444 |
 | Heatwave | 0.20% | ~444 |
 | The Dread Domain of Tovag | 0.20% | ~444 |
-| The Lost Heir of Omu | 0.20% | ~511 |
 | Lobsterfolk Assault | 0.20% | ~511 |
 | The Forbidden City | 0.20% | ~511 |
 | Captured! | 0.20% | ~511 |
@@ -120,6 +120,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.20% | ~511 |
 | Backtracking Through Barovia | 0.20% | ~511 |
 | Nimblest Escape | 0.20% | ~511 |
+| Stumbling Escape | 0.20% | ~511 |
 | Fugitives | 0.20% | ~511 |
 | From The Shadows | 0.20% | ~511 |
 | Spined Nuisances | 0.20% | ~511 |
@@ -317,7 +318,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~256 |
 | Late Game | 0.10% | ~256 |
 | Shadowfell Stalwarts | 0.10% | ~222 |
-| Stumbling Escape | 0.10% | ~256 |
 | Distracted Escape | 0.10% | ~222 |
 | Twilight Twist | 0.10% | ~222 |
 | Screams of the Dead | 0.10% | ~256 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,694 (Ranked 71)  
-Completed: 2,649 (1.04%) (Ranked 180)  
+Progressed: 255,699 (Ranked 71)  
+Completed: 2,649 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -834,7 +834,7 @@ Completed: 2,649 (1.04%) (Ranked 180)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,694 | 2,649 |
+| 2024-01-26 | 255,699 | 2,649 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,650 (Ranked 42)  

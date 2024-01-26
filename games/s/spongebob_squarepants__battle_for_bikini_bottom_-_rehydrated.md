@@ -6,25 +6,25 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponge Smasher | 23.00% | ~283 |
 | Jellyfish Jam | 22.00% | ~271 |
 | Spatula Seeker | 22.00% | ~271 |
-| Jellyfishing | 17.00% | ~209 |
-| Sock Getter | 14.00% | ~172 |
+| Sponge Smasher | 22.00% | ~271 |
+| Jellyfishing | 17.00% | ~210 |
+| Sock Getter | 14.00% | ~173 |
 | Sweet Victory | 13.00% | ~160 |
-| Super Spatula Seeker | 13.00% | ~160 |
 | Star Smasher | 13.00% | ~160 |
 | Time For Tutorial | 13.00% | ~160 |
-| Uptown and Downtown | 11.00% | ~135 |
-| Squirrel Smasher | 11.00% | ~135 |
-| Surf's Up! | 11.00% | ~135 |
+| Super Spatula Seeker | 12.00% | ~148 |
+| Uptown and Downtown | 11.00% | ~136 |
+| Squirrel Smasher | 11.00% | ~136 |
+| Surf's Up! | 11.00% | ~136 |
 | Life's as extreme as you wanna make it! | 9.00% | ~111 |
 | Shrimp Catcher | 9.00% | ~111 |
 | Toxic Terror | 9.00% | ~111 |
 | Hit Rock Bottom | 9.00% | ~111 |
-| Are you ready now? | 8.00% | ~98 |
-| Keep it Rolling | 8.00% | ~98 |
-| Ultra Spatula Seeker | 8.00% | ~98 |
+| Are you ready now? | 8.00% | ~99 |
+| Keep it Rolling | 8.00% | ~99 |
+| Ultra Spatula Seeker | 8.00% | ~99 |
 | Robot encyclopedia | 7.00% | ~86 |
 | Hello, Bikini Bottom | 7.00% | ~86 |
 | The Small Does Not Rule | 5.00% | ~62 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~12 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,230 (Ranked 291)  
-Completed: 12 (0.98%) (Ranked 188)  
+Progressed: 1,233 (Ranked 291)  
+Completed: 12 (0.97%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 12 (0.98%) (Ranked 188)
 | 2024-01-23 | 1,194 | 10 |
 | 2024-01-24 | 1,205 | 12 |
 | 2024-01-25 | 1,223 | 12 |
-| 2024-01-26 | 1,230 | 12 |
+| 2024-01-26 | 1,233 | 12 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 506)  
 Sum: 36 (Ranked 539)  

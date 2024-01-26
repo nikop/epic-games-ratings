@@ -20,14 +20,14 @@
 | Close Encounter | 53.00% | ~16 |
 | Master Smithy | 53.00% | ~16 |
 | Prison Break | 50.00% | ~15 |
+| I Pick You | 50.00% | ~15 |
+| Accomplished Smithy | 50.00% | ~15 |
 | The Depths Of Darkness | 50.00% | ~15 |
 | One With The Blades | 50.00% | ~15 |
 | Heart of Oblivion | 50.00% | ~15 |
 | Anahita's Greatest Mistake | 50.00% | ~15 |
 | Heart's Desire | 50.00% | ~15 |
 | Shoo! Shoo! | 50.00% | ~15 |
-| I Pick You | 47.00% | ~14 |
-| Accomplished Smithy | 47.00% | ~14 |
 | Nature's Savior | 47.00% | ~14 |
 | Hammer It Home | 47.00% | ~14 |
 | The Blight's Blight | 43.00% | ~13 |

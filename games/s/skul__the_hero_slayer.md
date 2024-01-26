@@ -1,37 +1,37 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.75 (Ranked 152)  
+Rating: 4.74 (Ranked 169)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,955 |
-| What should I buy? | 80.00% | ~12,004 |
-| Rescued Elder Ent | 61.00% | ~9,153 |
-| Focus! | 60.00% | ~9,003 |
-| The End of the Gold Mane Knights | 48.00% | ~7,202 |
-| False Goddess, Disappear | 40.00% | ~6,002 |
-| Rules of Etiquette | 38.00% | ~5,702 |
+| The Legend Begins | 93.00% | ~13,957 |
+| What should I buy? | 80.00% | ~12,006 |
+| Rescued Elder Ent | 61.00% | ~9,154 |
+| Focus! | 60.00% | ~9,004 |
+| The End of the Gold Mane Knights | 48.00% | ~7,203 |
+| False Goddess, Disappear | 40.00% | ~6,003 |
+| Rules of Etiquette | 38.00% | ~5,703 |
 | Inventory Management | 33.00% | ~4,952 |
 | The Fall of the Leonia Order | 31.00% | ~4,652 |
 | Quick Movements | 30.00% | ~4,502 |
-| Go Home... | 29.00% | ~4,351 |
-| The Final Battle of the First Hero | 28.00% | ~4,201 |
-| The Hero Killer | 26.00% | ~3,901 |
+| Go Home... | 29.00% | ~4,352 |
+| The Final Battle of the First Hero | 28.00% | ~4,202 |
+| The Hero Killer | 26.00% | ~3,902 |
 | Brain at Full Throttle | 20.00% | ~3,001 |
 | Rookies Welcome | 18.00% | ~2,701 |
 | Deadly Power | 17.00% | ~2,551 |
 | Castle Restoration Plans | 13.00% | ~1,951 |
 | The Dwarven Chandelier | 11.00% | ~1,651 |
-| Master of Speed | 10.00% | ~1,500 |
-| The Levitator | 8.00% | ~1,200 |
+| Master of Speed | 10.00% | ~1,501 |
+| The Levitator | 8.00% | ~1,201 |
 | The God of Battle | 4.00% | ~600 |
 | Too Much of a Talker | 1.00% | ~150 |
 | The Skeleton King | 1.00% | ~150 |
 | Cold-Blooded | 0.60% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,005 (Ranked 176)  
+Progressed: 15,007 (Ranked 176)  
 Completed: 23 (0.15%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 23 (0.15%) (Ranked 303)
 | 2024-01-23 | 14,966 | 23 |
 | 2024-01-24 | 14,983 | 23 |
 | 2024-01-25 | 15,000 | 23 |
-| 2024-01-26 | 15,005 | 23 |
+| 2024-01-26 | 15,007 | 23 |
 ## Awards
 Max (Diverse Characters): 157  (Ranked 334)  
 Sum: 1,043 (Ranked 276)  
@@ -497,3 +497,4 @@ Diff (max vs sum): 58
 | 2024-01-22 | 4.74 | - | 156 | 1,040 |
 | 2024-01-23 | 4.75 | - | 156 | 1,042 |
 | 2024-01-24 | 4.75 | - | 157 | 1,043 |
+| 2024-01-26 | 4.74 | - | 157 | 1,043 |

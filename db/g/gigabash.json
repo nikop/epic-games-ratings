@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 127090,
+  "EOS_Progressed": 127103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2406,
+  "EOS_NewPlayers": 2399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6005,6 +6005,11 @@
       "Time": "2024-01-26T10:07:50.3326258+00:00",
       "NumProgressed": 127090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T11:06:30.9389355+00:00",
+      "NumProgressed": 127103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -6081,7 +6086,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13980
+      "UsersEstimate": 13981
     },
     {
       "ID": "ACH_GROWNUP",
@@ -6089,7 +6094,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25418
+      "UsersEstimate": 25421
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -6113,7 +6118,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19064
+      "UsersEstimate": 19065
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -6161,7 +6166,7 @@
       "Name": "This is GigaBash!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_PIPIJURAS_STORY",
@@ -6169,7 +6174,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10167
+      "UsersEstimate": 10168
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -6185,7 +6190,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11438
+      "UsersEstimate": 11439
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -6201,7 +6206,7 @@
       "Name": "Sidetracked...",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_STORY_APEX",
@@ -6241,7 +6246,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -6281,7 +6286,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7626
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -6296,7 +6301,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 127090,
+      "Progressed": 127103,
       "Completed": 0
     }
   ],
@@ -6304,8 +6309,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:07:50.3326253+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:06:30.9389353+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:57:02.607588+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:07:50.3326686+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:57:07.8322209+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:06:30.9389738+00:00"
 }

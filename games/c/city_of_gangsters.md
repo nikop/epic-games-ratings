@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,303 |
-| Copacetic Coordination | 16.00% | ~58,192 |
-| Fronting the Money | 15.00% | ~54,555 |
-| The Dawn of Automation | 14.00% | ~50,918 |
-| Extraordinary Logistics | 14.00% | ~50,918 |
-| Dirty Money | 13.00% | ~47,281 |
-| Family First | 13.00% | ~47,281 |
-| Cleaning House | 12.00% | ~43,644 |
-| Room in the Back | 12.00% | ~43,644 |
-| Beating the Heat | 11.00% | ~40,007 |
-| Booze Baron | 11.00% | ~40,007 |
-| Friends on the Force | 10.00% | ~36,370 |
-| Neighborhood Watch | 10.00% | ~36,370 |
-| Core Corps | 8.00% | ~29,096 |
-| Sizeable Stash | 8.00% | ~29,096 |
-| Street Fighter | 7.00% | ~25,459 |
-| Friendly Gestures | 7.00% | ~25,459 |
-| People Person | 7.00% | ~25,459 |
+| Corner Clout | 46.00% | ~167,306 |
+| Copacetic Coordination | 16.00% | ~58,193 |
+| Fronting the Money | 15.00% | ~54,556 |
+| The Dawn of Automation | 14.00% | ~50,919 |
+| Extraordinary Logistics | 14.00% | ~50,919 |
+| Dirty Money | 13.00% | ~47,282 |
+| Family First | 13.00% | ~47,282 |
+| Cleaning House | 12.00% | ~43,645 |
+| Room in the Back | 12.00% | ~43,645 |
+| Beating the Heat | 11.00% | ~40,008 |
+| Booze Baron | 11.00% | ~40,008 |
+| Friends on the Force | 10.00% | ~36,371 |
+| Neighborhood Watch | 10.00% | ~36,371 |
+| Core Corps | 8.00% | ~29,097 |
+| Sizeable Stash | 8.00% | ~29,097 |
+| Street Fighter | 7.00% | ~25,460 |
+| Friendly Gestures | 7.00% | ~25,460 |
+| People Person | 7.00% | ~25,460 |
 | Liquor Lord | 6.00% | ~21,822 |
 | Safety in Numbers | 6.00% | ~21,822 |
 | Moving Experiences | 6.00% | ~21,822 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 890)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,703 (Ranked 58)  
+Progressed: 363,708 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 7 (0.00%) (Ranked 413)
 | 2024-01-23 | 363,415 | 7 |
 | 2024-01-24 | 363,529 | 7 |
 | 2024-01-25 | 363,653 | 7 |
-| 2024-01-26 | 363,703 | 7 |
+| 2024-01-26 | 363,708 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 446)  
 Sum: 276 (Ranked 397)  

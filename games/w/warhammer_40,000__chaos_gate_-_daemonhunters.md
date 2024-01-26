@@ -19,8 +19,8 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 6.00% | ~236 |
 | Honoured Battle-Brother | 5.00% | ~197 |
 | The Emperor Protects | 5.00% | ~197 |
+| Nemesis Master | 5.00% | ~197 |
 | Gunmaster | 5.00% | ~197 |
-| Nemesis Master | 4.00% | ~157 |
 | Just a Scratch | 4.00% | ~157 |
 | Hold Your Ground | 3.00% | ~118 |
 | Hive Exterminator | 3.00% | ~118 |
@@ -326,8 +326,8 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-25 | 3,934 | 0 |
 ## Awards
 Max (Character Customization): 238  (Ranked 284)  
-Sum: 483 (Ranked 343)  
-Diff (max vs sum): -59  
+Sum: 483 (Ranked 344)  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 238 |

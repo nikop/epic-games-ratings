@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11274,9 +11274,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133717,
+  "EOS_Progressed": 133719,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41544,6 +41544,11 @@
       "Time": "2024-01-26T10:10:22.9770914+00:00",
       "NumProgressed": 133717,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T11:10:25.1796424+00:00",
+      "NumProgressed": 133719,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41913,9 +41918,9 @@
       "ID": "hero_story_complete_all",
       "SetID": "64l4lke",
       "Name": "Shrine of Reflection",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1337
+      "UsersEstimate": 2674
     },
     {
       "ID": "hero_story_complete_any",
@@ -42186,21 +42191,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133717,
+      "Progressed": 133719,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8586,
+      "Progressed": 8588,
       "Completed": 832
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T20:57:38.4952846+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:10:22.9770911+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:10:25.1796421+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:57:36.0573865+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:10:22.9773079+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:57:41.6413753+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:10:25.1798555+00:00"
 }

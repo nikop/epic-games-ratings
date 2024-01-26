@@ -4,10 +4,10 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 475,
   "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -6489,9 +6489,9 @@
       "ID": "MasterCraftLevel3_Melee",
       "SetID": "3jha1np",
       "Name": "Nemesis Master",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 197
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -6775,8 +6775,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-24T02:29:22.6319201+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:04:03.7029196+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:04:01.9186744+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-26T10:03:20.0223444+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:04:03.7029897+00:00"
+  "LastUpdate_Ratings": "2024-01-26T11:03:16.183186+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:04:01.9187536+00:00"
 }

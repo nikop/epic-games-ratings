@@ -6,13 +6,13 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,324 |
+| Sowwy! | 37.00% | ~92,325 |
 | Alt+F4 | 11.00% | ~27,448 |
-| Where's that freaking Dwarf? | 10.00% | ~24,952 |
+| Where's that freaking Dwarf? | 10.00% | ~24,953 |
 | Déjà vu | 8.00% | ~19,962 |
-| Sock! SOCK! | 6.00% | ~14,971 |
-| GG EZ | 6.00% | ~14,971 |
-| Speedrun | 6.00% | ~14,971 |
+| Sock! SOCK! | 6.00% | ~14,972 |
+| GG EZ | 6.00% | ~14,972 |
+| Speedrun | 6.00% | ~14,972 |
 | A beer, two curses, three companions | 5.00% | ~12,476 |
 | DM intervention | 5.00% | ~12,476 |
 | Fireproof Wizardess | 5.00% | ~12,476 |
@@ -29,17 +29,17 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 3.00% | ~7,486 |
 | Team Building Exercise | 3.00% | ~7,486 |
 | Oh, when I'll be level 10... | 3.00% | ~7,486 |
-| Shiny and Crôm | 2.00% | ~4,990 |
-| Res Judicata | 2.00% | ~4,990 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,990 |
-| Dwarf Fortress | 2.00% | ~4,990 |
-| Look but don't touch | 2.00% | ~4,990 |
-| The beards of change | 2.00% | ~4,990 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,990 |
-| Lust and Debauchery | 2.00% | ~4,990 |
-| The Ranger of Chaos | 2.00% | ~4,990 |
-| I am the night | 2.00% | ~4,990 |
-| Thieves' Guild Accreditation | 2.00% | ~4,990 |
+| Shiny and Crôm | 2.00% | ~4,991 |
+| Res Judicata | 2.00% | ~4,991 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,991 |
+| Dwarf Fortress | 2.00% | ~4,991 |
+| Look but don't touch | 2.00% | ~4,991 |
+| The beards of change | 2.00% | ~4,991 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,991 |
+| Lust and Debauchery | 2.00% | ~4,991 |
+| The Ranger of Chaos | 2.00% | ~4,991 |
+| I am the night | 2.00% | ~4,991 |
+| Thieves' Guild Accreditation | 2.00% | ~4,991 |
 | %#*!$*! | 1.00% | ~2,495 |
 | Dead for good | 1.00% | ~2,495 |
 | Gargantua | 1.00% | ~2,495 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~250 |
 | Dwarf Candy | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,523 (Ranked 73)  
+Progressed: 249,528 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,14 +335,14 @@ Completed: 9 (0.00%) (Ranked 413)
 | 2024-01-23 | 249,318 | 9 |
 | 2024-01-24 | 249,409 | 9 |
 | 2024-01-25 | 249,500 | 9 |
-| 2024-01-26 | 249,523 | 9 |
+| 2024-01-26 | 249,528 | 9 |
 ## Awards
-Max (Character Customization): 276  (Ranked 277)  
-Sum: 586 (Ranked 331)  
+Max (Character Customization): 277  (Ranked 277)  
+Sum: 587 (Ranked 331)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 276 |
+| This game has Inclusive Character Customization | 277 |
 | This game is Relaxing | 42 |
 | This game is Highly Recommended | 40 |
 | This game is Great for Beginners | 38 |
@@ -581,3 +581,4 @@ Diff (max vs sum): -54
 | 2024-01-23 | 4.58 | - | 273 | 579 |
 | 2024-01-24 | 4.58 | - | 276 | 585 |
 | 2024-01-25 | 4.58 | - | 276 | 586 |
+| 2024-01-26 | 4.58 | - | 277 | 587 |

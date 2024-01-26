@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19295,
+  "EOS_Progressed": 19296,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18263,6 +18263,11 @@
       "Time": "2024-01-26T08:04:09.3017305+00:00",
       "NumProgressed": 19295,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-26T11:03:56.896862+00:00",
+      "NumProgressed": 19296,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18323,7 +18328,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     },
     {
       "ID": "16",
@@ -18419,7 +18424,7 @@
       "Name": "Call it Even",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "27",
@@ -18531,7 +18536,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "34",
@@ -18539,7 +18544,7 @@
       "Name": "Master Negotiator",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "35",
@@ -18554,13 +18559,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19295,
+      "Progressed": 19296,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5249,
+      "Progressed": 5250,
       "Completed": 1403
     }
   ],
@@ -18568,8 +18573,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:03:58.330418+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:03:56.8968618+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:57:11.8620148+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:03:58.3305387+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:57:16.9956725+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:03:56.8969565+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 470,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -646,17 +646,17 @@
       "ID": "27",
       "SetID": "d37idgg",
       "Name": "Pulp! The Perfect Crime",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "28",
       "SetID": "d37idgg",
       "Name": "Pulp! Weird Science",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "29",
@@ -877,8 +877,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-26T10:03:46.7529361+00:00",
+  "LastChanged_Achievements": "2024-01-26T11:03:45.1764339+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.9721736+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:57:01.9602523+00:00",
-  "LastUpdate_Achievements": "2024-01-26T10:03:46.7529636+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:57:07.1456631+00:00",
+  "LastUpdate_Achievements": "2024-01-26T11:03:45.1764635+00:00"
 }

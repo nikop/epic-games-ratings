@@ -1,21 +1,21 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 403)  
+Rating: 4.61 (Ranked 404)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 24.00% | ~53,148 |
-| Get Busy Living | 15.00% | ~33,217 |
-| Samuel Norton | 9.00% | ~19,930 |
-| Spare The Rod | 4.00% | ~8,858 |
-| Don't Put Me In The Dark | 3.00% | ~6,643 |
-| Wait and Hope | 3.00% | ~6,643 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,643 |
+| Stone Walls | 24.00% | ~53,151 |
+| Get Busy Living | 15.00% | ~33,219 |
+| Samuel Norton | 9.00% | ~19,932 |
+| Spare The Rod | 4.00% | ~8,859 |
+| Don't Put Me In The Dark | 3.00% | ~6,644 |
+| Wait and Hope | 3.00% | ~6,644 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,644 |
 | Throw The Book At Them | 2.00% | ~4,429 |
 | Iron Bars | 2.00% | ~4,429 |
-| D.B. Cooper | 1.00% | ~2,214 |
+| D.B. Cooper | 1.00% | ~2,215 |
 | Reformation | 0.60% | ~1,329 |
 | Crowd Control | 0.50% | ~1,107 |
 | Freedom | 0.40% | ~886 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~221 |
 | ... It's What You Can Prove | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,449 (Ranked 81)  
+Progressed: 221,463 (Ranked 81)  
 Completed: 13 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 13 (0.01%) (Ranked 387)
 | 2024-01-23 | 220,615 | 13 |
 | 2024-01-24 | 220,977 | 13 |
 | 2024-01-25 | 221,352 | 13 |
-| 2024-01-26 | 221,449 | 13 |
+| 2024-01-26 | 221,463 | 13 |
 ## Awards
 Max (Great for Beginners): 657  (Ranked 203)  
-Sum: 5,017 (Ranked 154)  
+Sum: 5,018 (Ranked 154)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -320,7 +320,7 @@ Diff (max vs sum): 49
 | This game has Amazing Storytelling | 528 |
 | This game has Amazing Characters | 483 |
 | This game is Educational | 459 |
-| This game has a Creative Community | 386 |
+| This game has a Creative Community | 387 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -693,3 +693,4 @@ Diff (max vs sum): 49
 | 2024-01-23 | 4.61 | - | 650 | 4,989 |
 | 2024-01-24 | 4.61 | - | 652 | 5,002 |
 | 2024-01-25 | 4.61 | - | 657 | 5,017 |
+| 2024-01-26 | 4.61 | - | 657 | 5,018 |

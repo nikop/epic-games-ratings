@@ -5,20 +5,20 @@ Rating: 3.99 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~650,269 |
-| Health Junkie | 38.00% | ~348,031 |
-| You Complete Me | 37.00% | ~338,873 |
-| Guardian Angel | 32.00% | ~293,079 |
-| Devil Inside Me | 25.00% | ~228,968 |
-| Fantastic Four | 19.00% | ~174,016 |
-| Killing Spree | 18.00% | ~164,857 |
+| Blood on My Hands | 71.00% | ~650,273 |
+| Health Junkie | 38.00% | ~348,034 |
+| You Complete Me | 37.00% | ~338,875 |
+| Guardian Angel | 32.00% | ~293,081 |
+| Devil Inside Me | 25.00% | ~228,970 |
+| Fantastic Four | 19.00% | ~174,017 |
+| Killing Spree | 18.00% | ~164,858 |
 | Marksman Novice | 16.00% | ~146,540 |
 | First Blood | 12.00% | ~109,905 |
 | Top 10 | 12.00% | ~109,905 |
-| Now You See Me, Now You Don't | 10.00% | ~91,587 |
+| Now You See Me, Now You Don't | 10.00% | ~91,588 |
 | Marksman Expert | 8.00% | ~73,270 |
 | CQB Novice | 7.00% | ~64,111 |
-| Collateral Damage | 6.00% | ~54,952 |
+| Collateral Damage | 6.00% | ~54,953 |
 | Airborne | 5.00% | ~45,794 |
 | Pacifist | 5.00% | ~45,794 |
 | Last Survivor | 4.00% | ~36,635 |
@@ -26,12 +26,12 @@ Rating: 3.99 (Ranked 1,063)
 | First Come, First Served | 4.00% | ~36,635 |
 | Trigonometry Novice | 3.00% | ~27,476 |
 | Dynamic Duo | 3.00% | ~27,476 |
-| Winner Winner Chicken Dinner! | 2.00% | ~18,317 |
-| Okay, Now I'm Ready | 2.00% | ~18,317 |
-| Agent 48 | 2.00% | ~18,317 |
-| Don't Pan Me Bro! | 2.00% | ~18,317 |
-| Fast and Furious | 2.00% | ~18,317 |
-| CQB Expert | 2.00% | ~18,317 |
+| Winner Winner Chicken Dinner! | 2.00% | ~18,318 |
+| Okay, Now I'm Ready | 2.00% | ~18,318 |
+| Agent 48 | 2.00% | ~18,318 |
+| Don't Pan Me Bro! | 2.00% | ~18,318 |
+| Fast and Furious | 2.00% | ~18,318 |
+| CQB Expert | 2.00% | ~18,318 |
 | Fury Road | 1.00% | ~9,159 |
 | Ghost | 1.00% | ~9,159 |
 | Cruising with the Enemy | 1.00% | ~9,159 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 1,063)
 | Nade King Master | 0.10% | ~916 |
 | Shoot the Knee | 0.10% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,872 (Ranked 18)  
+Progressed: 915,878 (Ranked 18)  
 Completed: 18 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 18 (0.00%) (Ranked 413)
 | 2024-01-23 | 911,382 | 18 |
 | 2024-01-24 | 913,875 | 18 |
 | 2024-01-25 | 915,850 | 18 |
-| 2024-01-26 | 915,872 | 18 |
+| 2024-01-26 | 915,878 | 18 |
 ## Awards
 Max (Competitive Players): 6,732  (Ranked 61)  
 Sum: 22,038 (Ranked 59)  
