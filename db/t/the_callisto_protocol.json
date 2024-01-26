@@ -2387,9 +2387,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22757,
+  "EOS_Progressed": 22758,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -15012,6 +15012,11 @@
       "Time": "2024-01-26T22:10:06.247078+00:00",
       "NumProgressed": 22757,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-26T23:09:58.4345135+00:00",
+      "NumProgressed": 22758,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15183,7 +15188,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -15199,7 +15204,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15255,7 +15260,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6144
+      "UsersEstimate": 6145
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15279,7 +15284,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2959
     },
     {
       "ID": "DISMEMBER_100",
@@ -15367,7 +15372,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "KILL_BIOBOT",
@@ -15398,13 +15403,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22757,
+      "Progressed": 22758,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10683,
+      "Progressed": 10684,
       "Completed": 29
     }
   ],
@@ -15412,8 +15417,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-26T21:03:19.1534048+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:10:06.2470773+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:09:58.4345131+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:03:28.9872789+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:10:06.2472649+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:03:25.1663892+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:09:58.4345998+00:00"
 }

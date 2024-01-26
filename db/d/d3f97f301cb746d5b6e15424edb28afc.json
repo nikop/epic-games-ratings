@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -187,7 +187,7 @@
   "Tags": [],
   "EOS_Progressed": 1781,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5617,9 +5617,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1229
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -5633,9 +5633,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 801
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -5962,8 +5962,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-26T01:42:00.4398099+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:06:30.2093043+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:06:31.7227436+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:59:39.5496005+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:06:30.2094827+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:59:36.549387+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:06:31.722832+00:00"
 }

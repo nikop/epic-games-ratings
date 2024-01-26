@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2926,
+  "EOS_Progressed": 2927,
   "EOS_Completed": 272,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.3,
+  "EOS_Completed_Percentage": 9.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8621,6 +8621,11 @@
       "Time": "2024-01-26T17:10:02.0054497+00:00",
       "NumProgressed": 2926,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2024-01-26T23:09:20.937195+00:00",
+      "NumProgressed": 2927,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 12,
@@ -8640,7 +8645,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Building the Fox",
@@ -8720,14 +8725,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2926,
+      "Progressed": 2927,
       "Completed": 272
     }
   ],
@@ -8735,8 +8740,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:09:29.4930894+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:09:20.9371948+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:45.8788305+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:59:46.9180864+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:09:29.4931901+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:59:44.0375285+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:09:20.9372534+00:00"
 }

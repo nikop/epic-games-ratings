@@ -13,14 +13,14 @@
 | Do what you have to | 46.00% | ~159 |
 | Sign of weakness | 44.00% | ~152 |
 | Refuse to look | 39.00% | ~135 |
-| Face your fears | 33.00% | ~114 |
+| Face your fears | 34.00% | ~118 |
 | Finished it | 28.00% | ~97 |
 | Whispers long forgotten | 20.00% | ~69 |
 | Sound Bite | 16.00% | ~55 |
+| Debut | 15.00% | ~52 |
 | The art of movement | 15.00% | ~52 |
 | Another perspective | 14.00% | ~48 |
 | A Slice of Life | 14.00% | ~48 |
-| Debut | 14.00% | ~48 |
 | Lights! Camera! Action! | 14.00% | ~48 |
 | First steps | 12.00% | ~42 |
 | Playtime | 12.00% | ~42 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346 (Ranked 390)  
+Progressed: 346 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |

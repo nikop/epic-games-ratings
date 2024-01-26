@@ -4,7 +4,7 @@
   "ProductSlug": "not-another-weekend-580d95",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 534,
+  "Ranking_EOS_NewPlayers": 532,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2024-01-23T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-22T16:03:42.5263557+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:05:30.1859527+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:05:30.2040334+00:00",
   "LastUpdate_AppInfo": "2024-01-22T15:56:59.5690902+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:59:22.3929873+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:05:30.1859573+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:59:18.8765215+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:05:30.204035+00:00"
 }

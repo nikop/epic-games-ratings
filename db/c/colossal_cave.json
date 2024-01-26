@@ -4,7 +4,7 @@
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 534,
+  "Ranking_EOS_NewPlayers": 532,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -215,33 +215,33 @@
       "ID": "01-OnlyJustBegun",
       "SetID": "5iij4gg",
       "Name": "We\u0027ve only just begun",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "04-CharminTheSnake",
       "SetID": "5iij4gg",
       "Name": "Charmin\u0027 the Snake",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "05-DrumsInTheDeep",
@@ -287,9 +287,9 @@
       "ID": "10-BridgeBuilder",
       "SetID": "5iij4gg",
       "Name": "Bridge Builder",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "11-StGeorgesGauntlet",
@@ -416,8 +416,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:06:00.6337857+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:06:01.506576+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:20.0799563+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:03:10.4482125+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:06:00.6338092+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:03:06.7592942+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:06:01.5065921+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.12 (Ranked 1,029)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 47.00% | ~42,587 |
-| More Power to You | 27.00% | ~24,465 |
-| As Far Away As Possible | 21.00% | ~19,028 |
-| A Most Unstable Organism | 14.00% | ~12,685 |
-| No Time to Follow Protocol | 9.00% | ~8,155 |
-| Nano Connoisseur | 8.00% | ~7,249 |
-| Float Like a Butterfly... | 7.00% | ~6,343 |
-| In Two Places At Once | 6.00% | ~5,437 |
-| Pulling Your Weight | 3.00% | ~2,718 |
-| Reaping Rivals | 3.00% | ~2,718 |
+| Your Lucky Day | 47.00% | ~42,594 |
+| More Power to You | 27.00% | ~24,469 |
+| As Far Away As Possible | 21.00% | ~19,031 |
+| A Most Unstable Organism | 14.00% | ~12,688 |
+| No Time to Follow Protocol | 9.00% | ~8,156 |
+| Nano Connoisseur | 8.00% | ~7,250 |
+| Float Like a Butterfly... | 7.00% | ~6,344 |
+| In Two Places At Once | 6.00% | ~5,438 |
+| Pulling Your Weight | 3.00% | ~2,719 |
+| Reaping Rivals | 3.00% | ~2,719 |
 | fifteenth Time's the Charm | 1.00% | ~906 |
 | Gone Rogue | 1.00% | ~906 |
 | Completely Customizable | 0.50% | ~453 |
-| Memory Keeper | 0.40% | ~362 |
+| Memory Keeper | 0.40% | ~363 |
 | Runs for Your Money | 0.30% | ~272 |
 | Past Master | 0.30% | ~272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,610 (Ranked 109)  
+Progressed: 90,626 (Ranked 109)  
 Completed: 79 (0.09%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,10 +174,10 @@ Completed: 79 (0.09%) (Ranked 331)
 | 2024-01-23 | 90,151 | 76 |
 | 2024-01-24 | 90,305 | 76 |
 | 2024-01-25 | 90,456 | 78 |
-| 2024-01-26 | 90,610 | 79 |
+| 2024-01-26 | 90,626 | 79 |
 ## Awards
 Max (Great for Beginners): 142  (Ranked 344)  
-Sum: 547 (Ranked 334)  
+Sum: 548 (Ranked 334)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
@@ -186,7 +186,7 @@ Diff (max vs sum): 10
 | This game is Highly Recommended | 70 |
 | This game has Amazing Characters | 68 |
 | This game is Extremely Fun | 67 |
-| This game has Quickly Understood Controls | 60 |
+| This game has Quickly Understood Controls | 61 |
 | This game has Amazing Storytelling | 58 |
 | This game has a Competitive Community | 54 |
 | This game is Relaxing | 49 |
@@ -322,4 +322,4 @@ Diff (max vs sum): 10
 | 2024-01-23 | 4.13 | 141 | 543 |
 | 2024-01-24 | 4.12 | 141 | 543 |
 | 2024-01-25 | 4.12 | 142 | 546 |
-| 2024-01-26 | 4.12 | 142 | 547 |
+| 2024-01-26 | 4.12 | 142 | 548 |

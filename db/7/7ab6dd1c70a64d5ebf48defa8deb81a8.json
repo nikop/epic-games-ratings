@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2462,
+  "EOS_Progressed": 2463,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5138,6 +5138,11 @@
       "Time": "2024-01-26T20:09:39.7829175+00:00",
       "NumProgressed": 2462,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T23:10:09.4976199+00:00",
+      "NumProgressed": 2463,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5149,7 +5154,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ACH_02",
@@ -5157,7 +5162,7 @@
       "Name": "Find Allies",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_03",
@@ -5173,7 +5178,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_05",
@@ -5203,9 +5208,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_09",
@@ -5293,7 +5298,7 @@
       "Name": "Slayer",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_20",
@@ -5421,7 +5426,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_38",
@@ -5436,7 +5441,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2462,
+      "Progressed": 2463,
       "Completed": 5
     }
   ],
@@ -5444,8 +5449,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:10:17.1951299+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:10:09.4976197+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:02:52.7730592+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:10:17.1952075+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:02:48.7609093+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:10:09.4976567+00:00"
 }

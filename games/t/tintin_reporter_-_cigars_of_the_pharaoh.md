@@ -26,8 +26,8 @@
 | Eyes Shut | 10.00% | ~14 |
 | Barking Dog | 9.00% | ~13 |
 | Tintin, Reporter | 8.00% | ~11 |
+| Mountain Runner | 8.00% | ~11 |
 | Mummy Nightmare | 7.00% | ~10 |
-| Mountain Runner | 7.00% | ~10 |
 | Subtlety | 7.00% | ~10 |
 | Jungle Runner | 3.00% | ~4 |
 | A Yummy Detour | 3.00% | ~4 |

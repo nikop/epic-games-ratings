@@ -1,11 +1,11 @@
 # Diabotical
 [Store](https://store.epicgames.com/en-US/p/diabotical)  
 [View Rawdata](../../db/d/diabotical.json)  
-Rating: 4.73 (Ranked 186)  
+Rating: 4.73 (Ranked 185)  
 Number of Ratings: 572  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 301  (Ranked 264)  
-Sum: 2,484 (Ranked 204)  
+Sum: 2,485 (Ranked 204)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 60
 | This game is Relaxing | 245 |
 | This game has a Competitive Community | 234 |
 | This game has Amazing Characters | 233 |
-| This game has Playful Visuals | 222 |
+| This game has Playful Visuals | 223 |
 | This game has Obsessive Gameplay | 196 |
 | This game has Amazing Storytelling | 195 |
 ## Ratings History
@@ -221,4 +221,4 @@ Diff (max vs sum): 60
 | 2024-01-20 | 4.72 | - | 301 | 2,724 |
 | 2024-01-21 | 4.73 | - | 301 | 2,726 |
 | 2024-01-25 | 4.73 | - | 301 | 2,483 |
-| 2024-01-26 | 4.73 | - | 301 | 2,484 |
+| 2024-01-26 | 4.73 | - | 301 | 2,485 |

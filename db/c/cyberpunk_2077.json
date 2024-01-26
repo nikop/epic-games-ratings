@@ -19086,10 +19086,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 522027,
       "NumberOfAwardsMax": 145484
+    },
+    {
+      "Time": "2024-01-26T23:03:18.2782594+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 522195,
+      "NumberOfAwardsMax": 145484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 522027,
+  "NumberOfAwards": 522195,
   "NumberOfAwardsMax": 145484,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19139,7 +19145,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33540
+      "Count": 33708
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -19166,9 +19172,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1059238,
+  "EOS_Progressed": 1059253,
   "EOS_Completed": 3167,
-  "EOS_NewPlayers": 4060,
+  "EOS_NewPlayers": 4054,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51441,6 +51447,11 @@
       "Time": "2024-01-26T22:09:18.1979768+00:00",
       "NumProgressed": 1059238,
       "NumCompleted": 3167
+    },
+    {
+      "Time": "2024-01-26T23:09:09.2410557+00:00",
+      "NumProgressed": 1059253,
+      "NumCompleted": 3167
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51525,7 +51536,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "Gunslinger",
@@ -51541,7 +51552,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "IAmMaxTac",
@@ -51597,7 +51608,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "NoMansLand",
@@ -51635,9 +51646,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2118
+      "UsersEstimate": 3178
     },
     {
       "ID": "Temperance",
@@ -51645,7 +51656,7 @@
       "Name": "Temperance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -51773,7 +51784,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "VForVendetta",
@@ -51853,7 +51864,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "Kingofcups",
@@ -51963,17 +51974,17 @@
       "ID": "TheTower",
       "SetID": "23nboa5",
       "Name": "The Tower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 188
+      "UsersEstimate": 376
     },
     {
       "ID": "DirtyWork",
       "SetID": "23nboa5",
       "Name": "Dirty Deeds",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 564
     },
     {
       "ID": "EasyComeEasyGo",
@@ -51988,21 +51999,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059238,
+      "Progressed": 1059253,
       "Completed": 3167
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187861,
+      "Progressed": 187876,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-26T21:03:11.0467709+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:09:18.1979764+00:00",
+  "LastChanged": "2024-01-26T23:03:18.2782593+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:09:09.2410555+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:03:22.062604+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:09:18.1983208+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:03:18.2782598+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:09:09.2412211+00:00"
 }

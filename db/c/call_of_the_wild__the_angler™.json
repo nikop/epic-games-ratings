@@ -1065,7 +1065,7 @@
   ],
   "EOS_Progressed": 8446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14638,9 +14638,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1351
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -14917,8 +14917,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-26T01:43:13.4745273+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:09:01.9289646+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:08:52.989888+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:57:38.4007573+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:09:01.9291217+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:57:32.0496619+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:08:52.9899643+00:00"
 }

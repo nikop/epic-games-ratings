@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2713,9 +2713,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 19868,
+  "EOS_Progressed": 19869,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21588,6 +21588,11 @@
       "Time": "2024-01-26T19:11:26.670814+00:00",
       "NumProgressed": 19868,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-26T23:10:08.7335573+00:00",
+      "NumProgressed": 19869,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 35,
@@ -21599,7 +21604,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16093
+      "UsersEstimate": 16094
     },
     {
       "ID": "ACH02",
@@ -21615,7 +21620,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ACH04",
@@ -21703,7 +21708,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "ACH15",
@@ -21815,7 +21820,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ACH29",
@@ -21878,7 +21883,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19868,
+      "Progressed": 19869,
       "Completed": 84
     }
   ],
@@ -21886,8 +21891,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-26T20:59:50.8505759+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:10:16.4807996+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:10:08.7335571+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:59:37.2099964+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:10:16.4809307+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:59:34.0724303+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:10:08.7336466+00:00"
 }

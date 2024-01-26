@@ -5,7 +5,7 @@ Rating: 4.82 (Ranked 70)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 69.00% | ~1,081 |
+| A New Journey | 69.00% | ~1,082 |
 | The Adventure Begins | 50.00% | ~784 |
 | Swabbie | 37.00% | ~580 |
 | With Great Power… | 37.00% | ~580 |
@@ -18,7 +18,7 @@ Rating: 4.82 (Ranked 70)
 | Buccaneer | 21.00% | ~329 |
 | Fishy Fish | 21.00% | ~329 |
 | All Good Things | 19.00% | ~298 |
-| Persistent Parasite | 17.00% | ~266 |
+| Persistent Parasite | 17.00% | ~267 |
 | Seadog | 15.00% | ~235 |
 | Jaded Judge | 12.00% | ~188 |
 | Tobacco Travesty | 11.00% | ~172 |
@@ -32,7 +32,7 @@ Rating: 4.82 (Ranked 70)
 | Marauder | 3.00% | ~47 |
 | Welcome Back Jester | 3.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,567 (Ranked 274)  
+Progressed: 1,568 (Ranked 274)  
 Completed: 39 (2.49%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 39 (2.49%) (Ranked 129)
 | 2024-01-23 | 1,563 | 39 |
 | 2024-01-24 | 1,565 | 39 |
 | 2024-01-25 | 1,566 | 39 |
-| 2024-01-26 | 1,567 | 39 |
+| 2024-01-26 | 1,568 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

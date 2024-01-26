@@ -11224,10 +11224,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21886,
       "NumberOfAwardsMax": 8087
+    },
+    {
+      "Time": "2024-01-26T22:57:55.854799+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21887,
+      "NumberOfAwardsMax": 8087
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21886,
+  "NumberOfAwards": 21887,
   "NumberOfAwardsMax": 8087,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11247,7 +11253,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1618
+      "Count": 1619
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11304,9 +11310,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133753,
+  "EOS_Progressed": 133757,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41629,6 +41635,11 @@
       "Time": "2024-01-26T22:10:19.4593058+00:00",
       "NumProgressed": 133753,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T23:10:11.666989+00:00",
+      "NumProgressed": 133757,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -42168,7 +42179,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -42176,7 +42187,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "combat_kill_collector",
@@ -42232,7 +42243,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "quest_complete_crusader",
@@ -42271,21 +42282,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133753,
+      "Progressed": 133757,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8622,
+      "Progressed": 8626,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-26T20:57:58.2119741+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:10:19.4593054+00:00",
+  "LastChanged": "2024-01-26T22:57:55.8547988+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:10:11.6669887+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:58:00.8126903+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:10:19.4596166+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:57:55.8547994+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:10:11.667168+00:00"
 }

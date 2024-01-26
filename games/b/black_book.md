@@ -6,23 +6,23 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~20,030 |
-| Student | 23.00% | ~15,886 |
-| Knower | 16.00% | ~11,051 |
-| Listener | 15.00% | ~10,360 |
-| Aspen Tree | 14.00% | ~9,670 |
-| Healer | 14.00% | ~9,670 |
-| Scientist | 12.00% | ~8,288 |
-| Soldier | 12.00% | ~8,288 |
+| Initiation | 29.00% | ~20,032 |
+| Student | 23.00% | ~15,887 |
+| Knower | 16.00% | ~11,052 |
+| Listener | 15.00% | ~10,361 |
+| Aspen Tree | 14.00% | ~9,671 |
+| Healer | 14.00% | ~9,671 |
+| Scientist | 12.00% | ~8,289 |
+| Soldier | 12.00% | ~8,289 |
 | Cow Level | 11.00% | ~7,598 |
-| Old Friend | 10.00% | ~6,907 |
-| Herbalist | 10.00% | ~6,907 |
-| Water | 10.00% | ~6,907 |
-| New Spirits | 9.00% | ~6,216 |
-| Voipel | 9.00% | ~6,216 |
-| Collector | 9.00% | ~6,216 |
-| Wolf | 9.00% | ~6,216 |
-| Black Mage | 9.00% | ~6,216 |
+| Old Friend | 10.00% | ~6,908 |
+| Herbalist | 10.00% | ~6,908 |
+| Water | 10.00% | ~6,908 |
+| New Spirits | 9.00% | ~6,217 |
+| Voipel | 9.00% | ~6,217 |
+| Collector | 9.00% | ~6,217 |
+| Wolf | 9.00% | ~6,217 |
+| Black Mage | 9.00% | ~6,217 |
 | Card Player | 8.00% | ~5,526 |
 | Dead Friend | 8.00% | ~5,526 |
 | Pine Tree | 8.00% | ~5,526 |
@@ -50,14 +50,14 @@ Number of Ratings: 96  (23.09.2022)
 | Cheater | 3.00% | ~2,072 |
 | Diplomat | 3.00% | ~2,072 |
 | White Head | 3.00% | ~2,072 |
-| Revelation | 2.00% | ~1,381 |
-| Mistress of Hell | 2.00% | ~1,381 |
-| Detective | 2.00% | ~1,381 |
-| Great Sorceress | 2.00% | ~1,381 |
-| Own Way | 2.00% | ~1,381 |
+| Revelation | 2.00% | ~1,382 |
+| Mistress of Hell | 2.00% | ~1,382 |
+| Detective | 2.00% | ~1,382 |
+| Great Sorceress | 2.00% | ~1,382 |
+| Own Way | 2.00% | ~1,382 |
 | Word Master | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,070 (Ranked 118)  
+Progressed: 69,075 (Ranked 118)  
 Completed: 79 (0.11%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 79 (0.11%) (Ranked 318)
 | 2024-01-23 | 68,629 | 77 |
 | 2024-01-24 | 68,775 | 77 |
 | 2024-01-25 | 68,921 | 78 |
-| 2024-01-26 | 69,070 | 79 |
+| 2024-01-26 | 69,075 | 79 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

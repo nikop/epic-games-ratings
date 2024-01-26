@@ -1,24 +1,24 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,061)  
+Rating: 4.00 (Ranked 1,062)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,357 |
-| Titan's First Steps | 12.00% | ~18,357 |
-| Basic in Bulk | 11.00% | ~16,827 |
+| Sponsored by Argon | 12.00% | ~18,358 |
+| Titan's First Steps | 12.00% | ~18,358 |
+| Basic in Bulk | 11.00% | ~16,828 |
 | Tinkle of Coins | 10.00% | ~15,298 |
 | Disintermediation | 8.00% | ~12,238 |
 | It's Free Real Estate | 8.00% | ~12,238 |
 | Capitalism Ho! | 8.00% | ~12,238 |
-| Budding Merchant | 7.00% | ~10,708 |
-| One Easy Payment | 6.00% | ~9,178 |
-| Some Assembly Required | 6.00% | ~9,178 |
-| Another Satisfied Customer | 6.00% | ~9,178 |
-| Pretty Penny | 6.00% | ~9,178 |
-| Own the Means of Production | 6.00% | ~9,178 |
+| Budding Merchant | 7.00% | ~10,709 |
+| One Easy Payment | 6.00% | ~9,179 |
+| Some Assembly Required | 6.00% | ~9,179 |
+| Another Satisfied Customer | 6.00% | ~9,179 |
+| Pretty Penny | 6.00% | ~9,179 |
+| Own the Means of Production | 6.00% | ~9,179 |
 | The Daily Grind | 5.00% | ~7,649 |
 | Bounty Hunters | 5.00% | ~7,649 |
 | Where it Hurts | 5.00% | ~7,649 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~612 |
 | Capitalist Camaraderie | 0.30% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,975 (Ranked 87)  
+Progressed: 152,981 (Ranked 87)  
 Completed: 365 (0.24%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 365 (0.24%) (Ranked 282)
 | 2024-01-23 | 152,616 | 362 |
 | 2024-01-24 | 152,717 | 363 |
 | 2024-01-25 | 152,844 | 364 |
-| 2024-01-26 | 152,975 | 365 |
+| 2024-01-26 | 152,981 | 365 |
 ## Awards
 Max (Great for Beginners): 4,982  (Ranked 84)  
 Sum: 28,062 (Ranked 52)  

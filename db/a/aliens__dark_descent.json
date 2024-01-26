@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -597,7 +597,7 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 6566,
+  "EOS_Progressed": 6567,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -10382,6 +10382,11 @@
       "Time": "2024-01-26T22:03:42.4101579+00:00",
       "NumProgressed": 6566,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T23:03:40.168196+00:00",
+      "NumProgressed": 6567,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10425,7 +10430,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10505,7 +10510,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 3611
+      "UsersEstimate": 3612
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10513,7 +10518,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10585,7 +10590,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10593,7 +10598,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10601,7 +10606,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10689,7 +10694,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10697,7 +10702,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10711,9 +10716,9 @@
       "ID": "ACH_SAVE_SURVIVORS",
       "SetID": "816efe",
       "Name": "People Person",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3218
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10735,9 +10740,9 @@
       "ID": "ACH_UNLOCK_APC",
       "SetID": "816efe",
       "Name": "The More The Merrier",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1970
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10745,14 +10750,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6566,
+      "Progressed": 6567,
       "Completed": 3
     }
   ],
@@ -10760,8 +10765,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-25T22:59:55.7712708+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:03:42.4101575+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:03:40.1681958+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:00:21.220688+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:03:42.4102969+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:00:18.993071+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:03:40.1682581+00:00"
 }

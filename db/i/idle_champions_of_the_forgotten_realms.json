@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9815,10 +9815,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33653,
       "NumberOfAwardsMax": 5819
+    },
+    {
+      "Time": "2024-01-26T22:59:59.7762543+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33658,
+      "NumberOfAwardsMax": 5819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33653,
+  "NumberOfAwards": 33658,
   "NumberOfAwardsMax": 5819,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9850,7 +9856,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4350
+      "Count": 4355
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9865,10 +9871,10 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255777,
-  "EOS_Completed": 2652,
-  "EOS_NewPlayers": 999,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 255788,
+  "EOS_Completed": 2654,
+  "EOS_NewPlayers": 1003,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -41830,6 +41836,11 @@
       "Time": "2024-01-26T22:10:28.4335424+00:00",
       "NumProgressed": 255777,
       "NumCompleted": 2652
+    },
+    {
+      "Time": "2024-01-26T23:10:20.8205993+00:00",
+      "NumProgressed": 255788,
+      "NumCompleted": 2654
     }
   ],
   "TotalAchievements": 546,
@@ -42817,7 +42828,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "objective_completed_130",
@@ -46208,21 +46219,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222051,
+      "Progressed": 222062,
       "Completed": 4162
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255777,
-      "Completed": 2652
+      "Progressed": 255788,
+      "Completed": 2654
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-26T19:01:29.7865544+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:10:28.4335419+00:00",
+  "LastChanged": "2024-01-26T22:59:59.7762542+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:10:20.8205989+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:00:02.6345282+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:10:28.4372725+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:59:59.7762547+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:10:20.822871+00:00"
 }

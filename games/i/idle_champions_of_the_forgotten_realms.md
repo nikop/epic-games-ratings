@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.90% | ~2,302 |
 | Pure Energy | 0.80% | ~2,046 |
 | Welcome to Sigil | 0.80% | ~1,776 |
-| A Persistent Buzzing | 0.70% | ~1,790 |
+| A Persistent Buzzing | 0.70% | ~1,791 |
 | Fast Food | 0.70% | ~1,554 |
 | Maddening | 0.60% | ~1,535 |
 | Terror in the Dark | 0.60% | ~1,535 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,777 (Ranked 71)  
-Completed: 2,652 (1.04%) (Ranked 179)  
+Progressed: 255,788 (Ranked 71)  
+Completed: 2,654 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -834,10 +834,10 @@ Completed: 2,652 (1.04%) (Ranked 179)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,777 | 2,652 |
+| 2024-01-26 | 255,788 | 2,654 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
-Sum: 33,653 (Ranked 42)  
+Sum: 33,658 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -845,7 +845,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,756 |
 | This game has Quickly Understood Controls | 4,923 |
 | This game is Relaxing | 4,799 |
-| This game is Highly Recommended | 4,350 |
+| This game is Highly Recommended | 4,355 |
 | This game has Amazing Characters | 4,348 |
 | This game has Playful Visuals | 3,658 |
 ## Ratings History
@@ -1216,4 +1216,4 @@ Diff (max vs sum): 33
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
 | 2024-01-24 | 4.07 | - | 5,813 | 33,628 |
 | 2024-01-25 | 4.07 | - | 5,816 | 33,643 |
-| 2024-01-26 | 4.07 | - | 5,819 | 33,653 |
+| 2024-01-26 | 4.07 | - | 5,819 | 33,658 |

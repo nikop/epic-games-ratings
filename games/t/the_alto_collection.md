@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,766 |
-| Finding Your Footing | 25.00% | ~14,077 |
-| Nomad | 16.00% | ~9,009 |
-| Picking Up Speed | 15.00% | ~8,446 |
-| Welcome Maya | 14.00% | ~7,883 |
-| Scout | 12.00% | ~6,757 |
-| Sightseer | 11.00% | ~6,194 |
-| Amateur | 10.00% | ~5,631 |
+| Rookie | 28.00% | ~15,768 |
+| Finding Your Footing | 25.00% | ~14,079 |
+| Nomad | 16.00% | ~9,011 |
+| Picking Up Speed | 15.00% | ~8,447 |
+| Welcome Maya | 14.00% | ~7,884 |
+| Scout | 12.00% | ~6,758 |
+| Sightseer | 11.00% | ~6,195 |
+| Amateur | 10.00% | ~5,632 |
 | Unlock Maya | 8.00% | ~4,505 |
 | Wanderer | 8.00% | ~4,505 |
-| Enter Paz | 7.00% | ~3,941 |
-| Aviator | 5.00% | ~2,815 |
-| My Little Friend | 5.00% | ~2,815 |
-| One With The Board | 5.00% | ~2,815 |
-| Voyager | 4.00% | ~2,252 |
+| Enter Paz | 7.00% | ~3,942 |
+| Aviator | 5.00% | ~2,816 |
+| My Little Friend | 5.00% | ~2,816 |
+| One With The Board | 5.00% | ~2,816 |
+| Voyager | 4.00% | ~2,253 |
 | Junkie | 3.00% | ~1,689 |
 | Traveler | 3.00% | ~1,689 |
 | Unlock Paz | 3.00% | ~1,689 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~563 |
 | Vandal | 1.00% | ~563 |
 | Unlock Felipe | 0.90% | ~507 |
-| Adventurer | 0.80% | ~450 |
+| Adventurer | 0.80% | ~451 |
 | Unlock Tupa | 0.50% | ~282 |
 | Master Of The Sands | 0.30% | ~169 |
 | Master | 0.20% | ~113 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~56 |
 | Windswept | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,307 (Ranked 124)  
+Progressed: 56,316 (Ranked 124)  
 Completed: 5 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 5 (0.01%) (Ranked 388)
 | 2024-01-23 | 55,984 | 5 |
 | 2024-01-24 | 56,069 | 5 |
 | 2024-01-25 | 56,184 | 5 |
-| 2024-01-26 | 56,307 | 5 |
+| 2024-01-26 | 56,316 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 458)  
 Sum: 424 (Ranked 355)  

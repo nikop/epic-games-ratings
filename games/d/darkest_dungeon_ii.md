@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,293 |
+| Malpractice Assurance | 15.00% | ~1,294 |
 | Autodidact | 9.00% | ~12,038 |
 | Lost and Found | 9.00% | ~776 |
 | This guy... again? | 8.00% | ~690 |
@@ -25,7 +25,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,025 |
 | A Place to Lay Your Head | 6.00% | ~8,025 |
 | FNG | 6.00% | ~8,025 |
-| Bloody Graduation | 6.00% | ~517 |
+| Bloody Graduation | 6.00% | ~518 |
 | Not Today! | 5.00% | ~6,688 |
 | Merry Time | 5.00% | ~6,688 |
 | Harvest Festival | 5.00% | ~6,688 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eidetic | 0.60% | ~803 |
 | Battle Hardened | 0.50% | ~43 |
 | Tears in the Rain | 0.40% | ~535 |
-| Maître De La Lame | 0.40% | ~34 |
+| Maître De La Lame | 0.40% | ~35 |
 | Circle of Life | 0.30% | ~401 |
 | Grand Slam | 0.30% | ~401 |
 | 20,000 Leagues Above the Sea | 0.20% | ~268 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,753 (Ranked 92)  
+Progressed: 133,757 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,17 +357,17 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,753 | 5 |
+| 2024-01-26 | 133,757 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
-Sum: 21,886 (Ranked 60)  
+Sum: 21,887 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,087 |
 | This game has Diverse Characters | 1,894 |
 | This game has Challenging Combat | 1,696 |
-| This game is Highly Recommended | 1,618 |
+| This game is Highly Recommended | 1,619 |
 | This game has Amazing Characters | 1,548 |
 | This game is Extremely Fun | 1,538 |
 | This game has Unique Visuals | 1,490 |
@@ -742,4 +742,4 @@ Diff (max vs sum): -8
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
 | 2024-01-24 | 4.69 | - | 8,073 | 21,856 |
 | 2024-01-25 | 4.69 | - | 8,078 | 21,867 |
-| 2024-01-26 | 4.69 | - | 8,087 | 21,886 |
+| 2024-01-26 | 4.69 | - | 8,087 | 21,887 |

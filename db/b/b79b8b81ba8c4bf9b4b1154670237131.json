@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16944,
+  "EOS_Progressed": 16946,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7488,6 +7488,11 @@
       "Time": "2024-01-26T21:09:52.1527398+00:00",
       "NumProgressed": 16944,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-26T23:09:46.3934576+00:00",
+      "NumProgressed": 16946,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7532,7 +7537,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12708
+      "UsersEstimate": 12710
     },
     {
       "ID": "ACH_AE_14",
@@ -7596,7 +7601,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_AE_21",
@@ -7636,7 +7641,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_AE_26",
@@ -7732,7 +7737,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "ACH_AE_5",
@@ -7740,7 +7745,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "ACH_AE_6",
@@ -7756,7 +7761,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_AE_8",
@@ -7764,7 +7769,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_AE_9",
@@ -7779,7 +7784,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16944,
+      "Progressed": 16946,
       "Completed": 17
     }
   ],
@@ -7787,8 +7792,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:09:54.483758+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:09:46.3934574+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.2339366+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:00:16.8111543+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:09:54.4838491+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:00:14.5257364+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:09:46.3935017+00:00"
 }

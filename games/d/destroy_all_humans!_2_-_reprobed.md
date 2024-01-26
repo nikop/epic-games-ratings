@@ -10,8 +10,8 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 75.00% | ~358 |
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~262 |
 | Furon Fashion | 49.00% | ~234 |
-| Shop Til They Drop | 40.00% | ~191 |
-| Bodied Sattva | 38.00% | ~181 |
+| Shop Til They Drop | 41.00% | ~196 |
+| Bodied Sattva | 39.00% | ~186 |
 | Cult Following | 35.00% | ~167 |
 | Earthly Pleasures | 35.00% | ~167 |
 | Lie Back and Think of Albion | 29.00% | ~138 |

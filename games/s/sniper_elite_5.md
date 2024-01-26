@@ -5,12 +5,12 @@ Rating: 4.48 (Ranked 662)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,044 |
+| Meeting Resistance | 47.00% | ~2,045 |
 | Confirming Suspicions | 42.00% | ~1,827 |
 | The Kraken Wakes | 38.00% | ~1,653 |
-| It's Starting to Crack | 35.00% | ~1,522 |
+| It's Starting to Crack | 35.00% | ~1,523 |
 | Change the Channel | 32.00% | ~1,392 |
-| Lord of War | 31.00% | ~1,348 |
+| Lord of War | 31.00% | ~1,349 |
 | Taking it back | 30.00% | ~1,305 |
 | Resourceful | 28.00% | ~1,218 |
 | Target America | 28.00% | ~1,218 |
@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 662)
 | Liberté | 24.00% | ~1,044 |
 | Organ Grinder | 24.00% | ~1,044 |
 | As Quiet as a Mouse | 24.00% | ~1,044 |
-| Sharpshooter | 23.00% | ~1,000 |
+| Sharpshooter | 23.00% | ~1,001 |
 | Gunslinger | 20.00% | ~870 |
 | Explosive Efficiency | 20.00% | ~870 |
 | Climbing the Ladder | 17.00% | ~740 |
@@ -28,13 +28,13 @@ Rating: 4.48 (Ranked 662)
 | Close Quarters | 16.00% | ~696 |
 | Snake in the Grass | 16.00% | ~696 |
 | Brains of the Operation | 16.00% | ~696 |
-| No Stone Unturned | 15.00% | ~652 |
-| Fields of Glory | 15.00% | ~652 |
-| Die Nussknacker Sweet! | 15.00% | ~652 |
+| No Stone Unturned | 15.00% | ~653 |
+| Fields of Glory | 15.00% | ~653 |
+| Die Nussknacker Sweet! | 15.00% | ~653 |
 | Opposing Force | 14.00% | ~609 |
 | Enemy at the Gates | 14.00% | ~609 |
 | Set Europe Ablaze | 14.00% | ~609 |
-| My Little Friend | 11.00% | ~478 |
+| My Little Friend | 11.00% | ~479 |
 | Precision Is Key | 10.00% | ~435 |
 | Rigged to Blow | 9.00% | ~392 |
 | Herr Today, Gone Tomorrow | 7.00% | ~301 |
@@ -51,9 +51,9 @@ Rating: 4.48 (Ranked 662)
 | Burn after reading | 4.00% | ~174 |
 | Locomotion Commotion | 4.00% | ~174 |
 | If You Go Down To The Woods Today | 4.00% | ~172 |
-| From Paris with Love | 3.00% | ~130 |
-| Souvenir hunter | 3.00% | ~130 |
-| Shoot for the Moon | 3.00% | ~130 |
+| From Paris with Love | 3.00% | ~131 |
+| Souvenir hunter | 3.00% | ~131 |
+| Shoot for the Moon | 3.00% | ~131 |
 | Fight Another Day | 3.00% | ~129 |
 | Shipbreaker | 3.00% | ~129 |
 | Sink or Swim | 3.00% | ~129 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,350 (Ranked 217)  
+Progressed: 4,351 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 11 (0.25%) (Ranked 278)
 | 2024-01-23 | 4,337 | 11 |
 | 2024-01-24 | 4,341 | 11 |
 | 2024-01-25 | 4,346 | 11 |
-| 2024-01-26 | 4,350 | 11 |
+| 2024-01-26 | 4,351 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 527)  
 Sum: 31 (Ranked 548)  

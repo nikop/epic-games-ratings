@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -789,9 +789,9 @@
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -1020,8 +1020,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:08:37.93845+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:08:28.561719+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:21.3786845+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:58:26.4721437+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:08:37.938505+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:58:21.9082875+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:08:28.5617393+00:00"
 }

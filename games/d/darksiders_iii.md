@@ -20,8 +20,8 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 41.00% | ~292 |
 | Throne Potato | 41.00% | ~292 |
 | Five's a Crowd | 41.00% | ~292 |
+| Salvation | 40.00% | ~284 |
 | 25 to Life | 40.00% | ~284 |
-| Salvation | 39.00% | ~277 |
 | Unshakable Fortitude | 37.00% | ~263 |
 | Soul Harvester | 37.00% | ~263 |
 | I Wanna Rock | 35.00% | ~249 |

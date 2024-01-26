@@ -28,10 +28,10 @@ Rating: 4.08 (Ranked 1,038)
 | Superior | 11.00% | ~531 |
 | The Unstoppable | 11.00% | ~531 |
 | Scientist | 10.00% | ~483 |
+| Challenger | 9.00% | ~435 |
 | Doing My Part | 9.00% | ~435 |
 | Hunter | 9.00% | ~435 |
 | The power of Awakening | 9.00% | ~435 |
-| Challenger | 8.00% | ~386 |
 | Daily Quest Completionist | 8.00% | ~386 |
 | Four Leaf Clover | 8.00% | ~386 |
 | Frostfire Liberator | 8.00% | ~386 |

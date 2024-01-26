@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1671,7 +1671,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7274,
+  "EOS_Progressed": 7275,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -17376,6 +17376,11 @@
       "Time": "2024-01-26T22:04:50.8186579+00:00",
       "NumProgressed": 7274,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T23:04:49.384621+00:00",
+      "NumProgressed": 7275,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17411,7 +17416,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -17547,7 +17552,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5310
+      "UsersEstimate": 5311
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17563,7 +17568,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -17571,7 +17576,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -17603,7 +17608,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -17611,7 +17616,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -17627,7 +17632,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -17635,7 +17640,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -17699,22 +17704,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7274,
+      "Progressed": 7275,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-26T16:57:21.9405791+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:04:50.8186573+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:04:49.3846207+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:57:22.9237965+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:04:50.8188264+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:57:16.4028339+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:04:49.3846996+00:00"
 }

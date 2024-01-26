@@ -6,28 +6,28 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~36,319 |
-| Quick Understanding of Block Extrusion | 68.00% | ~32,929 |
-| Nature or Nurture | 52.00% | ~25,181 |
-| Power Glove | 50.00% | ~24,212 |
-| Forgotten Memories | 43.00% | ~20,823 |
-| Cogs in the Machine | 37.00% | ~17,917 |
+| Lost in Space | 75.00% | ~36,320 |
+| Quick Understanding of Block Extrusion | 68.00% | ~32,930 |
+| Nature or Nurture | 52.00% | ~25,182 |
+| Power Glove | 50.00% | ~24,214 |
+| Forgotten Memories | 43.00% | ~20,824 |
+| Cogs in the Machine | 37.00% | ~17,918 |
 | Mission Success | 24.00% | ~11,622 |
 | There's No Place Like Home | 23.00% | ~11,138 |
 | Green Cube Killer | 20.00% | ~9,685 |
-| Infinity Loop | 18.00% | ~8,716 |
-| Path to Salvation | 18.00% | ~8,716 |
+| Infinity Loop | 18.00% | ~8,717 |
+| Path to Salvation | 18.00% | ~8,717 |
 | Descendants | 16.00% | ~7,748 |
-| The Flawed Teacher | 13.00% | ~6,295 |
+| The Flawed Teacher | 13.00% | ~6,296 |
 | To Infinity and Beyond | 6.00% | ~2,906 |
 | The Truthful Enemy | 5.00% | ~2,421 |
 | Laser Sharp | 3.00% | ~1,453 |
-| True collector | 2.00% | ~968 |
-| Bronze collector | 2.00% | ~968 |
-| Home Stretch | 2.00% | ~968 |
-| Gold collector | 2.00% | ~968 |
-| Silver collector | 2.00% | ~968 |
-| Get me out of here | 2.00% | ~968 |
+| True collector | 2.00% | ~969 |
+| Bronze collector | 2.00% | ~969 |
+| Home Stretch | 2.00% | ~969 |
+| Gold collector | 2.00% | ~969 |
+| Silver collector | 2.00% | ~969 |
+| Get me out of here | 2.00% | ~969 |
 | King of the Collectables | 1.00% | ~484 |
 | Competent Collector | 1.00% | ~484 |
 | Puzzle Master | 1.00% | ~484 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~484 |
 | Expert Collector | 1.00% | ~484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,425 (Ranked 128)  
+Progressed: 48,427 (Ranked 128)  
 Completed: 257 (0.53%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 257 (0.53%) (Ranked 231)
 | 2024-01-23 | 48,212 | 250 |
 | 2024-01-24 | 48,276 | 252 |
 | 2024-01-25 | 48,348 | 255 |
-| 2024-01-26 | 48,425 | 257 |
+| 2024-01-26 | 48,427 | 257 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

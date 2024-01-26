@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1687,9 +1687,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1727,9 +1727,9 @@
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1982,8 +1982,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:09:24.6979206+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:09:16.1316713+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:00:09.1800584+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:09:24.6979966+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:00:06.6596607+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:09:16.1317406+00:00"
 }

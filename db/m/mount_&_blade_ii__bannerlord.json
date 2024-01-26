@@ -11080,10 +11080,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 17083,
       "NumberOfAwardsMax": 8271
+    },
+    {
+      "Time": "2024-01-26T23:00:17.5416677+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 17085,
+      "NumberOfAwardsMax": 8271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17083,
+  "NumberOfAwards": 17085,
   "NumberOfAwardsMax": 8271,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11103,7 +11109,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 957
+      "Count": 959
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11160,9 +11166,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 97454,
+  "EOS_Progressed": 97459,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1231,
+  "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41435,6 +41441,11 @@
       "Time": "2024-01-26T22:10:22.0109767+00:00",
       "NumProgressed": 97454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T23:10:14.3047817+00:00",
+      "NumProgressed": 97459,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -41454,7 +41465,7 @@
       "Name": "Apple of my eye",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17542
+      "UsersEstimate": 17543
     },
     {
       "ID": "Bannerlord",
@@ -41462,7 +41473,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24364
+      "UsersEstimate": 24365
     },
     {
       "ID": "Best served cold",
@@ -41486,7 +41497,7 @@
       "Name": "Butterlord",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9745
+      "UsersEstimate": 9746
     },
     {
       "ID": "Catch",
@@ -41526,7 +41537,7 @@
       "Name": "Duelist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12669
+      "UsersEstimate": 12670
     },
     {
       "ID": "Dynasty",
@@ -41534,7 +41545,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9745
+      "UsersEstimate": 9746
     },
     {
       "ID": "Entrepreneur",
@@ -41574,7 +41585,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11694
+      "UsersEstimate": 11695
     },
     {
       "ID": "Great Granny",
@@ -41606,7 +41617,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 21440
+      "UsersEstimate": 21441
     },
     {
       "ID": "I can do it",
@@ -41622,7 +41633,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9745
+      "UsersEstimate": 9746
     },
     {
       "ID": "Jack of All Trades",
@@ -41638,7 +41649,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17542
+      "UsersEstimate": 17543
     },
     {
       "ID": "Kingslayer",
@@ -41670,7 +41681,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 34109
+      "UsersEstimate": 34111
     },
     {
       "ID": "Lawbringer",
@@ -41678,7 +41689,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41905
+      "UsersEstimate": 41907
     },
     {
       "ID": "Lawmaker",
@@ -41686,7 +41697,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23389
+      "UsersEstimate": 23390
     },
     {
       "ID": "Long live the Empire",
@@ -41702,7 +41713,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7796
+      "UsersEstimate": 7797
     },
     {
       "ID": "Minor Clan",
@@ -41798,7 +41809,7 @@
       "Name": "The king is pleased",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "This Is Our Land",
@@ -41806,7 +41817,7 @@
       "Name": "This Is Our Land",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16567
+      "UsersEstimate": 16568
     },
     {
       "ID": "This is Sparta",
@@ -41822,7 +41833,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29236
+      "UsersEstimate": 29238
     },
     {
       "ID": "Undercover",
@@ -41853,15 +41864,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 97454,
+      "Progressed": 97459,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-26T22:00:19.8041134+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:10:22.0109762+00:00",
+  "LastChanged": "2024-01-26T23:00:17.5416676+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:10:14.3047815+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:00:19.8041147+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:10:22.0112121+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:00:17.5416683+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:10:14.3049711+00:00"
 }

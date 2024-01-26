@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -744,9 +744,9 @@
       "ID": "NervousCollapse",
       "SetID": "aaidab7",
       "Name": "Nervous Collapse",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Opportunist",
@@ -792,9 +792,9 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "SilentKiller",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:08:34.5330558+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:06:45.3754439+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:59:47.6398133+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:08:34.533089+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:59:44.7714933+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:06:45.3754656+00:00"
 }

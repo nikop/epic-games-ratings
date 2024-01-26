@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,310 |
+| Just One...More...Term... | 73.00% | ~5,311 |
 | Un-Lonely Island | 44.00% | ~3,201 |
 | The Beginning of a Servantship | 43.00% | ~3,128 |
 | Trade Is My Trait | 35.00% | ~2,546 |
 | Number 18 | 23.00% | ~1,673 |
-| We Don't Have Time For That | 18.00% | ~1,309 |
+| We Don't Have Time For That | 18.00% | ~1,310 |
 | The Legend of Langostino | 16.00% | ~1,164 |
 | The Governator | 16.00% | ~1,164 |
 | Caribbean Comrade | 15.00% | ~1,091 |
 | The Dreamer of Dreams | 15.00% | ~1,091 |
 | Go Sovereigns! | 11.00% | ~800 |
 | For Science! | 11.00% | ~800 |
-| Happy Ending? | 10.00% | ~727 |
+| Happy Ending? | 10.00% | ~728 |
 | Of Seals And Men | 9.00% | ~655 |
 | Shackadelic | 9.00% | ~655 |
 | Double Trouble | 7.00% | ~509 |
@@ -36,18 +36,18 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 3.00% | ~218 |
 | Narcissist | 3.00% | ~218 |
 | The Time For Wonders | 3.00% | ~218 |
-| One Does Not Simply Stage A Coup | 2.00% | ~145 |
-| Promising Endeavors | 2.00% | ~145 |
-| Sublime Subliminal Supreme | 2.00% | ~145 |
-| Teamplayer | 2.00% | ~145 |
-| Terraformer | 2.00% | ~145 |
-| Curse of the Mummy | 2.00% | ~145 |
+| One Does Not Simply Stage A Coup | 2.00% | ~146 |
+| Promising Endeavors | 2.00% | ~146 |
+| Sublime Subliminal Supreme | 2.00% | ~146 |
+| Teamplayer | 2.00% | ~146 |
+| Terraformer | 2.00% | ~146 |
+| Curse of the Mummy | 2.00% | ~146 |
 | Chain Gang | 1.00% | ~73 |
 | From Knight to Little Duck | 1.00% | ~73 |
 | Survivor | 0.80% | ~58 |
 | My Ways | 0.20% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,274 (Ranked 203)  
+Progressed: 7,275 (Ranked 203)  
 Completed: 2 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 2 (0.03%) (Ranked 369)
 | 2024-01-23 | 7,253 | 2 |
 | 2024-01-24 | 7,262 | 2 |
 | 2024-01-25 | 7,267 | 2 |
-| 2024-01-26 | 7,274 | 2 |
+| 2024-01-26 | 7,275 | 2 |
 ## Awards
 Max (Relaxing): 108  (Ranked 373)  
 Sum: 782 (Ranked 301)  

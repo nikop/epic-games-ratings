@@ -825,7 +825,7 @@
   ],
   "EOS_Progressed": 4829,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13611,9 +13611,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 435
     },
     {
       "ID": "conqueror",
@@ -14156,8 +14156,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-26T19:58:45.8717898+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:04:01.4980835+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:03:59.5110219+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:59:00.8088873+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:04:01.498203+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:58:57.1882782+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:03:59.5111212+00:00"
 }

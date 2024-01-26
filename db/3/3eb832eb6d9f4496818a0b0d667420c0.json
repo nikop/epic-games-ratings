@@ -457,9 +457,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 432121,
+  "EOS_Progressed": 432168,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6421,
+  "EOS_NewPlayers": 6412,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4967,6 +4967,11 @@
       "Time": "2024-01-26T22:03:51.6222409+00:00",
       "NumProgressed": 432121,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T23:03:49.5061062+00:00",
+      "NumProgressed": 432168,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4987,7 +4992,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30248
+      "UsersEstimate": 30252
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -5011,7 +5016,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99388
+      "UsersEstimate": 99399
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -5019,7 +5024,7 @@
       "Name": "Thorough Preparation",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -5035,7 +5040,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 112351
+      "UsersEstimate": 112364
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -5043,7 +5048,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 95067
+      "UsersEstimate": 95077
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -5075,7 +5080,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17285
+      "UsersEstimate": 17287
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -5123,7 +5128,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8643
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -5131,7 +5136,7 @@
       "Name": "Victorious over Hardships",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -5139,7 +5144,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38891
+      "UsersEstimate": 38895
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -5147,7 +5152,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12964
+      "UsersEstimate": 12965
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -5155,7 +5160,7 @@
       "Name": "Performance Examination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -5171,7 +5176,7 @@
       "Name": "My Best Battle",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -5179,7 +5184,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12964
+      "UsersEstimate": 12965
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -5187,7 +5192,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34570
+      "UsersEstimate": 34573
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -5195,7 +5200,7 @@
       "Name": "A Raging Madness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8643
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -5203,7 +5208,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12964
+      "UsersEstimate": 12965
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -5211,7 +5216,7 @@
       "Name": "To Greater Heights",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8643
     },
     {
       "ID": "ACHIEVEMENT_031",
@@ -5219,7 +5224,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8643
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -5227,7 +5232,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8643
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -5235,7 +5240,7 @@
       "Name": "Here We Go, Astra!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "ACHIEVEMENT_034",
@@ -5243,7 +5248,7 @@
       "Name": "No Regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -5251,7 +5256,7 @@
       "Name": "Behold My Ninja Arts!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "ACHIEVEMENT_036",
@@ -5267,7 +5272,7 @@
       "Name": "Unrelenting Spear",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "ACHIEVEMENT_038",
@@ -5283,7 +5288,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12964
+      "UsersEstimate": 12965
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -5299,7 +5304,7 @@
       "Name": "Path of Benevolence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "ACHIEVEMENT_042",
@@ -5307,7 +5312,7 @@
       "Name": "Duty Calls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "ACHIEVEMENT_043",
@@ -5315,14 +5320,14 @@
       "Name": "At the End of Wandering",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     }
   ],
   "AchievementSets": [
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 432121,
+      "Progressed": 432168,
       "Completed": 5
     }
   ],
@@ -5330,8 +5335,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-26T18:03:32.5575955+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:03:51.6222405+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:03:49.5061058+00:00",
   "LastUpdate_AppInfo": "2024-01-23T13:04:44.661281+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:03:17.6152912+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:03:51.6223196+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:03:13.8076026+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:03:49.5061561+00:00"
 }

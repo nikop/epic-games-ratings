@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -515,9 +515,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 350145,
+  "EOS_Progressed": 350157,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2697,
+  "EOS_NewPlayers": 2686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14845,6 +14845,11 @@
       "Time": "2024-01-26T22:09:20.7445251+00:00",
       "NumProgressed": 350145,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T23:09:11.9821718+00:00",
+      "NumProgressed": 350157,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14857,7 +14862,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17507
+      "UsersEstimate": 17508
     },
     {
       "ID": "S02_BRDA",
@@ -14873,7 +14878,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "S04_BRDC",
@@ -14881,7 +14886,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "S05_SWRA",
@@ -15049,7 +15054,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "S26_CRTA",
@@ -15081,7 +15086,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "S30_DIAMOND",
@@ -15176,7 +15181,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 350145,
+      "Progressed": 350157,
       "Completed": 7
     }
   ],
@@ -15184,8 +15189,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-24T02:59:53.121966+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:09:20.7445245+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:09:11.9821714+00:00",
   "LastUpdate_AppInfo": "2024-01-26T02:14:39.0818977+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:58:06.2885968+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:09:20.7446429+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:58:01.6144386+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:09:11.9822542+00:00"
 }

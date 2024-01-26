@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2343,9 +2343,9 @@
       "Count": 226
     }
   ],
-  "EOS_Progressed": 22250,
+  "EOS_Progressed": 22251,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13843,6 +13843,11 @@
       "Time": "2024-01-26T21:05:54.770985+00:00",
       "NumProgressed": 22250,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-26T23:05:47.1164631+00:00",
+      "NumProgressed": 22251,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13854,7 +13859,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "CarMechanic",
@@ -13942,7 +13947,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "KnockKnock",
@@ -13950,7 +13955,7 @@
       "Name": "Knock, knock",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Millionaire",
@@ -13958,7 +13963,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "MrAndMrsJantart",
@@ -13982,7 +13987,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "RafaelErko",
@@ -14030,22 +14035,22 @@
       "Name": "You do it wrong",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22250,
+      "Progressed": 22251,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-26T17:00:58.2905632+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:05:46.3819125+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:05:47.1164626+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:59.629962+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:59:39.9640224+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:05:46.3820307+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:59:36.9368835+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:05:47.1165353+00:00"
 }

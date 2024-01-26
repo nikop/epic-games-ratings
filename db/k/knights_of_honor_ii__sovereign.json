@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2024-01-26T21:05:30.7007006+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T23:05:25.7066412+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -666,7 +671,7 @@
       "ID": "blitz_krieg",
       "SetID": "41moj9p",
       "Name": "Zerg Rush",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -676,15 +681,15 @@
       "Name": "Bring it on!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "brutus",
       "SetID": "41moj9p",
       "Name": "Brutus",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "buyin_the_dip",
@@ -706,9 +711,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "columbus",
@@ -786,9 +791,9 @@
       "ID": "dust_and_salt",
       "SetID": "41moj9p",
       "Name": "Dust and Salt",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "everything_the_light_touches",
@@ -836,7 +841,7 @@
       "Name": "Full House",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "game_of_thorns",
@@ -876,23 +881,23 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "he_made_it_out",
       "SetID": "41moj9p",
       "Name": "He made it out, but with an arrow in his back",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "his_all_holiness",
@@ -962,7 +967,7 @@
       "ID": "ibn_battuta",
       "SetID": "41moj9p",
       "Name": "Ibn Battuta",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1018,9 +1023,9 @@
       "ID": "learn_me_a_book",
       "SetID": "41moj9p",
       "Name": "Learn Me a Book",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "let_us_pray",
@@ -1058,7 +1063,7 @@
       "ID": "master_of_puppets",
       "SetID": "41moj9p",
       "Name": "Master of Puppets",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1106,17 +1111,17 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "pillars_of_the_earth",
       "SetID": "41moj9p",
       "Name": "Pillars of the Earth",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "playersander_the_great",
@@ -1124,7 +1129,7 @@
       "Name": "Playerxander the Great",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "power_overwhelming",
@@ -1146,9 +1151,9 @@
       "ID": "prison_break",
       "SetID": "41moj9p",
       "Name": "Prison Break",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "probably_just_the_wind",
@@ -1194,7 +1199,7 @@
       "ID": "spartacus",
       "SetID": "41moj9p",
       "Name": "Spartacus",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1234,7 +1239,7 @@
       "ID": "the_merchant_of_venice",
       "SetID": "41moj9p",
       "Name": "The Merchant of Venice",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1260,7 +1265,7 @@
       "Name": "They Got What They Deserved",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "time_to_find_india",
@@ -1338,9 +1343,9 @@
       "ID": "what_weve_got",
       "SetID": "41moj9p",
       "Name": "What we\u2019ve got here is failure to communicate",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "wheres_your_crown",
@@ -1354,7 +1359,7 @@
       "ID": "why_is_there_no_culture",
       "SetID": "41moj9p",
       "Name": "Why is there no culture victory?!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1362,9 +1367,9 @@
       "ID": "you_are_not_the_boss",
       "SetID": "41moj9p",
       "Name": "You are not the boss of me now",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "you_dare_challenge",
@@ -1395,7 +1400,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
@@ -1403,8 +1408,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:05:25.7189192+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:05:25.7066408+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:57:20.2382197+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:05:25.7190867+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:57:13.6867712+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:05:25.7067295+00:00"
 }

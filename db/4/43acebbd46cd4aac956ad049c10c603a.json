@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4632,9 +4632,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "MuseumExplorer",
@@ -4760,9 +4760,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 191
     },
     {
       "ID": "TeamSpirit",
@@ -4832,9 +4832,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 619
     },
     {
       "ID": "TouchGrass",
@@ -4905,8 +4905,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-25T15:01:28.3159391+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:03:46.4678017+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:03:44.4098393+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:57:24.7046713+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:03:46.4679065+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:57:18.137393+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:03:44.4098905+00:00"
 }

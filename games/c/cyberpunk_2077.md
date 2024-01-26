@@ -22,27 +22,28 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.70% | ~7,415 |
 | All the President's Men | 0.70% | ~1,315 |
 | Arachnophobia | 0.70% | ~1,315 |
-| Gun Fu | 0.60% | ~6,355 |
-| Master Crafter | 0.60% | ~6,355 |
-| Judy vs Night City | 0.60% | ~6,355 |
+| Gun Fu | 0.60% | ~6,356 |
+| Master Crafter | 0.60% | ~6,356 |
+| Judy vs Night City | 0.60% | ~6,356 |
 | To Protect and Serve | 0.50% | ~5,296 |
 | I Am The Law | 0.50% | ~5,296 |
 | The Quick and the Dead | 0.50% | ~5,296 |
 | True Warrior | 0.50% | ~5,296 |
 | The Wandering Fool | 0.40% | ~4,237 |
 | Two Heads, One Bullet | 0.40% | ~4,237 |
-| Spin Doctor | 0.40% | ~751 |
+| Spin Doctor | 0.40% | ~752 |
 | To Bad Decisions! | 0.30% | ~3,178 |
+| Ten out of Ten | 0.30% | ~3,178 |
 | The Star | 0.30% | ~3,178 |
 | The Sun | 0.30% | ~3,178 |
 | King of Wands | 0.30% | ~564 |
+| Dirty Deeds | 0.30% | ~564 |
 | Easy Come, Easy Go | 0.30% | ~564 |
-| Breathtaking | 0.20% | ~2,118 |
-| Ten out of Ten | 0.20% | ~2,118 |
-| Temperance | 0.20% | ~2,118 |
+| Breathtaking | 0.20% | ~2,119 |
+| Temperance | 0.20% | ~2,119 |
 | The APB is Not Enough | 0.20% | ~376 |
 | Judgement Day | 0.20% | ~376 |
-| Dirty Deeds | 0.20% | ~376 |
+| The Tower | 0.20% | ~376 |
 | City Lights | 0.10% | ~1,059 |
 | Autojock | 0.10% | ~1,059 |
 | Frequent Flyer | 0.10% | ~1,059 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Cups | 0.10% | ~188 |
 | King of Pentacles | 0.10% | ~188 |
 | King of Swords | 0.10% | ~188 |
-| The Tower | 0.10% | ~188 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,238 (Ranked 17)  
+Progressed: 1,059,253 (Ranked 17)  
 Completed: 3,167 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,16 +355,16 @@ Completed: 3,167 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,059,238 | 3,167 |
+| 2024-01-26 | 1,059,253 | 3,167 |
 ## Awards
 Max (Character Customization): 145,484  (Ranked 8)  
-Sum: 522,027 (Ranked 8)  
+Sum: 522,195 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 145,484 |
 | This game has Great Boss Battles | 108,882 |
-| This game is Great for Beginners | 33,540 |
+| This game is Great for Beginners | 33,708 |
 | This game has Diverse Characters | 32,756 |
 | This game is Highly Recommended | 31,363 |
 | This game has Amazing Storytelling | 30,755 |
@@ -748,4 +748,4 @@ Diff (max vs sum): 0
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
 | 2024-01-25 | 4.68 | - | 145,126 | 520,256 |
-| 2024-01-26 | 4.68 | - | 145,484 | 522,027 |
+| 2024-01-26 | 4.68 | - | 145,484 | 522,195 |

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4686,
+  "EOS_Progressed": 4687,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9178,6 +9178,11 @@
       "Time": "2024-01-26T21:10:26.9389393+00:00",
       "NumProgressed": 4686,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-26T23:10:18.1735602+00:00",
+      "NumProgressed": 4687,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -9406,7 +9411,7 @@
       "Name": "Long Service Medal",
       "Percentage": 11,
       "XP": 125,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_124",
@@ -9430,7 +9435,7 @@
       "Name": "Veteran",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "achievement_127",
@@ -9462,7 +9467,7 @@
       "Name": "Sabotage Specialist",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_16",
@@ -9470,7 +9475,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "achievement_17",
@@ -9518,7 +9523,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "achievement_22",
@@ -9566,7 +9571,7 @@
       "Name": "Turian Ally",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "achievement_28",
@@ -9574,7 +9579,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "achievement_29",
@@ -9582,7 +9587,7 @@
       "Name": "Asari Ally",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "achievement_3",
@@ -9590,7 +9595,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "achievement_30",
@@ -9942,7 +9947,7 @@
       "Name": "Throw Mastery",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_70",
@@ -9958,7 +9963,7 @@
       "Name": "Scientist",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "achievement_72",
@@ -9998,7 +10003,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "achievement_77",
@@ -10062,7 +10067,7 @@
       "Name": "Pathfinder",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "achievement_84",
@@ -10070,7 +10075,7 @@
       "Name": "Tunnel Rat",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "achievement_85",
@@ -10102,7 +10107,7 @@
       "Name": "Arbiter",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "achievement_89",
@@ -10150,7 +10155,7 @@
       "Name": "Liberator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "achievement_94",
@@ -10205,19 +10210,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4686,
+      "Progressed": 4687,
       "Completed": 17
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4686,
+      "Progressed": 4687,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-26T22:10:25.8472417+00:00",
+  "LastChanged_Achievements": "2024-01-26T23:10:18.1735601+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:03:29.4052071+00:00",
-  "LastUpdate_Achievements": "2024-01-26T22:10:25.8475859+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:03:25.550638+00:00",
+  "LastUpdate_Achievements": "2024-01-26T23:10:18.1737452+00:00"
 }
