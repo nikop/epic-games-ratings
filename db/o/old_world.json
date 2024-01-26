@@ -2,11 +2,11 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 327,
   "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -2378,7 +2378,7 @@
   ],
   "EOS_Progressed": 17179,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22621,9 +22621,9 @@
       "ID": "ACHIEVEMENT_MEMPHIS_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids in Menefer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_MERCHANTS_LEVANT",
@@ -23923,8 +23923,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:23.2359296+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:23.7042654+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:04.7876652+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:23.2368668+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:26.113221+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:23.7053181+00:00"
 }

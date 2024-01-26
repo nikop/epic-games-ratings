@@ -17,7 +17,7 @@ Rating: 4.59 (Ranked 456)
 | Ain't Nobody Got Time for That | 16.00% | ~681 |
 | The Ship of Theseus | 16.00% | ~681 |
 | Guy de Borderlands | 15.00% | ~639 |
-| Hope Seeker | 14.00% | ~596 |
+| Hope Seeker | 15.00% | ~639 |
 | A Hunk of Junk | 13.00% | ~554 |
 | Exceeding Capacity | 13.00% | ~554 |
 | Breaking Protocol | 13.00% | ~554 |
@@ -64,7 +64,7 @@ Rating: 4.59 (Ranked 456)
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,259 (Ranked 218)  
-Completed: 0 (0.00%) (Ranked 413)  
+Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

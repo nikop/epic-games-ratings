@@ -35,8 +35,8 @@ Rating: 4.16 (Ranked 1,003)
 | Forspoken | 1.00% | ~478 |
 | Pilgrimage: Novice | 1.00% | ~478 |
 | Wildfire | 0.80% | ~382 |
-| Awakening | 0.70% | ~334 |
-| Realized Potential | 0.70% | ~334 |
+| Awakening | 0.70% | ~335 |
+| Realized Potential | 0.70% | ~335 |
 | Explorer: Trailblazer | 0.60% | ~287 |
 | Through the Eyes of Another: Seer | 0.50% | ~239 |
 | Archivist | 0.40% | ~191 |
@@ -59,8 +59,8 @@ Rating: 4.16 (Ranked 1,003)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,784 (Ranked 130)  
-Completed: 4 (0.01%) (Ranked 387)  
+Progressed: 47,787 (Ranked 130)  
+Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,11 +340,11 @@ Completed: 4 (0.01%) (Ranked 387)
 | 2024-01-23 | 47,688 | 4 |
 | 2024-01-24 | 47,712 | 4 |
 | 2024-01-25 | 47,759 | 4 |
-| 2024-01-26 | 47,784 | 4 |
+| 2024-01-26 | 47,787 | 4 |
 ## Awards
-Max (Character Customization): 52  (Ranked 457)  
+Max (Character Customization): 52  (Ranked 458)  
 Sum: 79 (Ranked 491)  
-Diff (max vs sum): -34  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 52 |

@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 778,
+  "EOS_Progressed": 779,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -2897,6 +2897,11 @@
       "Time": "2024-01-25T19:10:41.8776242+00:00",
       "NumProgressed": 778,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T17:11:00.5706021+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2908,7 +2913,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "completeact2",
@@ -2956,7 +2961,7 @@
       "Name": "Freedom",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "scoreminrankrf1",
@@ -2980,7 +2985,7 @@
       "Name": "Souvenirs",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "scoreminrankrp1",
@@ -3027,7 +3032,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 778,
+      "Progressed": 779,
       "Completed": 3
     }
   ],
@@ -3035,8 +3040,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:06.1271674+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:00.5706019+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:13.0525974+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:06.1271936+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:00:37.9074927+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:00.5706198+00:00"
 }

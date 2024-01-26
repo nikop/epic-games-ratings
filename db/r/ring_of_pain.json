@@ -3964,9 +3964,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243541,
+  "EOS_Progressed": 243543,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -33064,6 +33064,11 @@
       "Time": "2024-01-26T16:10:22.3387363+00:00",
       "NumProgressed": 243541,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-26T17:11:22.2550396+00:00",
+      "NumProgressed": 243543,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33281,9 +33286,9 @@
       "ID": "ENDHEALTHY",
       "SetID": "5l8oe0h",
       "Name": "Well Prepared",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1705
     },
     {
       "ID": "ENDINGCHOICE",
@@ -34178,13 +34183,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243541,
+      "Progressed": 243543,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 5021,
+      "Progressed": 5023,
       "Completed": 433
     }
   ],
@@ -34192,8 +34197,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-25T23:58:38.3213561+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:22.3387361+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:22.2550392+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:58:56.6574226+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:22.3390088+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:00:13.5525897+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:22.2553044+00:00"
 }

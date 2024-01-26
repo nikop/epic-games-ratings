@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9273,10 +9273,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762914,
+  "EOS_Progressed": 762925,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1090,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 1092,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -35443,6 +35443,11 @@
       "Time": "2024-01-26T16:09:53.9165008+00:00",
       "NumProgressed": 762914,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-26T17:10:43.823152+00:00",
+      "NumProgressed": 762925,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35454,7 +35459,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45775
+      "UsersEstimate": 45776
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35470,7 +35475,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "04_Vengeance_H3",
@@ -35534,7 +35539,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "12_MidAge",
@@ -35550,7 +35555,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -35606,7 +35611,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -35622,7 +35627,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -35638,7 +35643,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "25_ShrineMind",
@@ -35662,7 +35667,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -35670,7 +35675,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -35702,7 +35707,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "33_BladeOneShot",
@@ -35710,7 +35715,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "34_TimedTakedown",
@@ -35798,7 +35803,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -35933,21 +35938,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72215,
+      "Progressed": 72226,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762914,
+      "Progressed": 762925,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-26T15:03:35.7751934+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:09:53.9165005+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:10:43.8231516+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:03:05.2193354+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:09:53.9166242+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:03:08.0391571+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:10:43.8232938+00:00"
 }

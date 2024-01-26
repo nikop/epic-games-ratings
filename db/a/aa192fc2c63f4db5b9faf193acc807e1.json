@@ -1422,9 +1422,9 @@
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "creepytaleach11",
@@ -1525,8 +1525,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:03.8378967+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:10:57.4553389+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:23.4632211+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:53.84668+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:03.8379136+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:58:40.3883741+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:10:57.4553546+00:00"
 }

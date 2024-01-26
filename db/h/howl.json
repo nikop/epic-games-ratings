@@ -2,9 +2,9 @@
   "ID": "045461d8f98f474da9bd32cd727548e0",
   "Name": "Howl",
   "ProductSlug": "the-howl-ee6924",
-  "Ranking_EOS_Progress": 782,
-  "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 3890,
+  "Ranking_EOS_Progress": 756,
+  "Ranking_EOS_Completed": 414,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2024-01-23T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": -1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35,6 +35,11 @@
     {
       "Time": "2024-01-25T20:10:28.7968603+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T17:10:53.2300102+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -70,9 +75,9 @@
       "ID": "ANY_LEVEL_3_UNLOCK",
       "SetID": "6pjfh93",
       "Name": "Skilled",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BURN_3_EXPLOSIVE_SHOT",
@@ -118,9 +123,9 @@
       "ID": "KILL_2_FORCE",
       "SetID": "6pjfh93",
       "Name": "Overpower",
-      "Percentage": 200,
+      "Percentage": 150,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_2_SMOKEBOMB",
@@ -160,7 +165,7 @@
       "Name": "Tactician",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "USE_3_SKILLS_1_ROUND",
@@ -175,13 +180,13 @@
     {
       "ID": "6pjfh93",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:08:25.6440981+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:00.9244699+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:10:53.2300098+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:53.2526338+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:03:20.1388578+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:00.9244861+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:03:30.5764261+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:10:53.2300206+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -1134,9 +1134,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 233123,
+  "EOS_Progressed": 233127,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32054,6 +32054,11 @@
       "Time": "2024-01-26T16:10:09.0188355+00:00",
       "NumProgressed": 233123,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T17:11:04.46279+00:00",
+      "NumProgressed": 233127,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -32073,7 +32078,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60612
+      "UsersEstimate": 60613
     },
     {
       "ID": "ACH_BASE_11",
@@ -32105,7 +32110,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23312
+      "UsersEstimate": 23313
     },
     {
       "ID": "ACH_BASE_16",
@@ -32113,7 +32118,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23312
+      "UsersEstimate": 23313
     },
     {
       "ID": "ACH_BASE_17",
@@ -32129,7 +32134,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23312
+      "UsersEstimate": 23313
     },
     {
       "ID": "ACH_BASE_19",
@@ -32137,7 +32142,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ACH_BASE_2",
@@ -32145,7 +32150,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13987
+      "UsersEstimate": 13988
     },
     {
       "ID": "ACH_BASE_20",
@@ -32161,7 +32166,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ACH_BASE_22",
@@ -32169,7 +32174,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ACH_BASE_23",
@@ -32185,7 +32190,7 @@
       "Name": "Mother of Xenarites",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_BASE_25",
@@ -32297,7 +32302,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ACH_BASE_6",
@@ -32305,7 +32310,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ACH_BASE_7",
@@ -32313,7 +32318,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30306
+      "UsersEstimate": 30307
     },
     {
       "ID": "ACH_BASE_8",
@@ -32336,7 +32341,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 233123,
+      "Progressed": 233127,
       "Completed": 5
     }
   ],
@@ -32344,8 +32349,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-26T15:58:38.7606672+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:09.0188353+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:04.4627897+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:58:38.7606677+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:09.0190191+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:59:47.5432061+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:04.4629353+00:00"
 }

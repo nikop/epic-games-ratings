@@ -3,7 +3,7 @@
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -1216,17 +1216,17 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "jg3",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:05:45.4568494+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:07:29.3589988+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:24.3827617+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:03:01.4386643+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:05:45.4568859+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:03:02.7462002+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:07:29.3590435+00:00"
 }

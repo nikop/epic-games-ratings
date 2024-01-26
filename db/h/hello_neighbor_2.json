@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -525,9 +525,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4183,
+  "EOS_Progressed": 4184,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
@@ -7815,6 +7815,11 @@
       "Time": "2024-01-26T16:05:22.8014608+00:00",
       "NumProgressed": 4183,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-01-26T17:06:57.6136054+00:00",
+      "NumProgressed": 4184,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 14,
@@ -7826,7 +7831,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7866,7 +7871,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7937,7 +7942,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4183,
+      "Progressed": 4184,
       "Completed": 151
     }
   ],
@@ -7945,8 +7950,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-22T13:58:58.9675729+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:05:22.8014605+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:57.613605+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:24.01138+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:05:22.801506+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:54.9944806+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:57.6136477+00:00"
 }

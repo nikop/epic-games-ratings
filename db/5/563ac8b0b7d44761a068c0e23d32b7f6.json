@@ -4,7 +4,7 @@
   "ProductSlug": "party-monsterzz-f42535",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -888,9 +888,9 @@
       "ID": "Achievement_3",
       "SetID": "8556mdl",
       "Name": "Welcome to the party!",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 200,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "Achievement_4",
@@ -911,8 +911,8 @@
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:05:05.3952872+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:32.7504756+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:11.4619056+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:16.0706696+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:05:05.3952959+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:00:42.4149966+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:32.7504857+00:00"
 }

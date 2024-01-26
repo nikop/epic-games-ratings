@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~643,656 |
-| Death From Above | 44.00% | ~615,671 |
-| Master of the Household | 37.00% | ~517,723 |
-| Death of the Party | 35.00% | ~489,738 |
-| NEXUS-47 | 32.00% | ~447,761 |
-| The Last Tango | 31.00% | ~433,768 |
-| Nightmare Fuel | 30.00% | ~419,776 |
-| The Result of Previous Training | 29.00% | ~405,783 |
-| Cleared for Field Duty | 28.00% | ~391,791 |
-| Tools of the Trade | 28.00% | ~391,791 |
-| Seizing the Opportunity | 26.00% | ~363,806 |
-| Bullet Train | 21.00% | ~293,843 |
-| Stylish Assassin | 20.00% | ~279,850 |
-| Silent Assassin | 14.00% | ~195,895 |
-| Rise Up | 12.00% | ~167,910 |
-| Evil Wine Club | 11.00% | ~153,918 |
-| Console Cowboy | 10.00% | ~139,925 |
-| Last Stop | 10.00% | ~139,925 |
-| A New Profile | 9.00% | ~125,933 |
-| Dune Raider | 8.00% | ~111,940 |
-| Full House | 8.00% | ~111,940 |
-| Train Surfing | 8.00% | ~111,940 |
-| No Stone Unturned | 7.00% | ~97,948 |
-| Family Feud | 6.00% | ~83,955 |
-| Icebreaker | 6.00% | ~83,955 |
-| Count Down From 47 | 6.00% | ~83,955 |
-| Shortcut Killer | 5.00% | ~69,963 |
-| Followed the Trails | 5.00% | ~69,963 |
-| Last Call | 5.00% | ~69,963 |
-| Rich Harvest | 5.00% | ~69,963 |
-| Treacherous Architecture | 4.00% | ~55,970 |
-| Stair Master | 4.00% | ~55,970 |
-| Upstairs, Downstairs | 4.00% | ~55,970 |
-| The Great Outdoors | 4.00% | ~55,970 |
-| Partied Out | 4.00% | ~55,970 |
-| Surveillance Master | 4.00% | ~55,970 |
+| Unseen Assassin | 46.00% | ~643,668 |
+| Death From Above | 44.00% | ~615,682 |
+| Master of the Household | 37.00% | ~517,733 |
+| Death of the Party | 35.00% | ~489,747 |
+| NEXUS-47 | 32.00% | ~447,769 |
+| The Last Tango | 31.00% | ~433,776 |
+| Nightmare Fuel | 30.00% | ~419,783 |
+| The Result of Previous Training | 29.00% | ~405,791 |
+| Cleared for Field Duty | 28.00% | ~391,798 |
+| Tools of the Trade | 28.00% | ~391,798 |
+| Seizing the Opportunity | 26.00% | ~363,812 |
+| Bullet Train | 21.00% | ~293,848 |
+| Stylish Assassin | 20.00% | ~279,856 |
+| Silent Assassin | 14.00% | ~195,899 |
+| Rise Up | 12.00% | ~167,913 |
+| Evil Wine Club | 11.00% | ~153,921 |
+| Console Cowboy | 10.00% | ~139,928 |
+| Last Stop | 10.00% | ~139,928 |
+| A New Profile | 9.00% | ~125,935 |
+| Dune Raider | 8.00% | ~111,942 |
+| Full House | 8.00% | ~111,942 |
+| Train Surfing | 8.00% | ~111,942 |
+| No Stone Unturned | 7.00% | ~97,949 |
+| Family Feud | 6.00% | ~83,957 |
+| Icebreaker | 6.00% | ~83,957 |
+| Count Down From 47 | 6.00% | ~83,957 |
+| Shortcut Killer | 5.00% | ~69,964 |
+| Followed the Trails | 5.00% | ~69,964 |
+| Last Call | 5.00% | ~69,964 |
+| Rich Harvest | 5.00% | ~69,964 |
+| Treacherous Architecture | 4.00% | ~55,971 |
+| Stair Master | 4.00% | ~55,971 |
+| Upstairs, Downstairs | 4.00% | ~55,971 |
+| The Great Outdoors | 4.00% | ~55,971 |
+| Partied Out | 4.00% | ~55,971 |
+| Surveillance Master | 4.00% | ~55,971 |
 | Training Escalated | 3.00% | ~41,978 |
 | Warehouse Veteran | 3.00% | ~41,978 |
 | Future Shock | 3.00% | ~41,978 |
 | Hack the Planet | 3.00% | ~41,978 |
 | Master the Terroir | 3.00% | ~41,978 |
 | Vineyard Virtuoso | 3.00% | ~41,978 |
-| Keep Your Eyes Peeled | 2.00% | ~27,985 |
-| Bird Art | 2.00% | ~27,985 |
+| Keep Your Eyes Peeled | 2.00% | ~27,986 |
+| Bird Art | 2.00% | ~27,986 |
 | Top of the Class | 1.00% | ~13,993 |
 | Ripe for the Picking | 1.00% | ~13,993 |
 | The Creative Assassin | 0.70% | ~9,795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399,252 (Ranked 9)  
+Progressed: 1,399,278 (Ranked 9)  
 Completed: 2,244 (0.16%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2,244 (0.16%) (Ranked 301)
 | 2024-01-23 | 1,398,403 | 2,244 |
 | 2024-01-24 | 1,398,714 | 2,244 |
 | 2024-01-25 | 1,399,026 | 2,244 |
-| 2024-01-26 | 1,399,252 | 2,244 |
+| 2024-01-26 | 1,399,278 | 2,244 |
 ## Awards
 Max (Diverse Characters): 11,582  (Ranked 38)  
 Sum: 77,778 (Ranked 22)  

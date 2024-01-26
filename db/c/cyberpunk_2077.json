@@ -19068,10 +19068,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 521391,
       "NumberOfAwardsMax": 145126
+    },
+    {
+      "Time": "2024-01-26T17:03:13.6895375+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 521525,
+      "NumberOfAwardsMax": 145126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 521391,
+  "NumberOfAwards": 521525,
   "NumberOfAwardsMax": 145126,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19127,7 +19133,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28996
+      "Count": 29130
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19148,9 +19154,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1059114,
+  "EOS_Progressed": 1059139,
   "EOS_Completed": 3166,
-  "EOS_NewPlayers": 4104,
+  "EOS_NewPlayers": 4094,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51393,6 +51399,11 @@
       "Time": "2024-01-26T16:09:12.3507148+00:00",
       "NumProgressed": 1059114,
       "NumCompleted": 3166
+    },
+    {
+      "Time": "2024-01-26T17:09:45.7718129+00:00",
+      "NumProgressed": 1059139,
+      "NumCompleted": 3166
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51675,9 +51686,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 6355
+      "UsersEstimate": 7414
     },
     {
       "ID": "ThisIsPacifica",
@@ -51717,7 +51728,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "UnderPressure",
@@ -51781,7 +51792,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "Easycomeeasygo",
@@ -51925,7 +51936,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "EasyComeEasyGo",
@@ -51940,21 +51951,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059114,
+      "Progressed": 1059139,
       "Completed": 3166
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187737,
+      "Progressed": 187762,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-26T16:03:09.0270222+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:09:12.3507145+00:00",
+  "LastChanged": "2024-01-26T17:03:13.6895373+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:09:45.7718125+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:03:09.0270227+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:09:12.350959+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:03:13.6895379+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:09:45.7719929+00:00"
 }

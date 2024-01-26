@@ -6,41 +6,41 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~907,563 |
-| Green Energy | 59.00% | ~754,172 |
-| Foggy Weather | 58.00% | ~741,390 |
-| Singing In The- | 58.00% | ~741,390 |
-| Unpopular Mayor | 40.00% | ~511,303 |
-| Power at Your Fingertips | 33.00% | ~421,825 |
-| City Planner | 22.00% | ~281,217 |
-| Rolling in Dough | 20.00% | ~255,652 |
-| Does My Bum Look Big In This? | 17.00% | ~217,304 |
-| Climbing the Social Ladder | 16.00% | ~204,521 |
-| Safe City | 13.00% | ~166,174 |
-| Quay-King | 11.00% | ~140,608 |
-| With Canals You Can! | 10.00% | ~127,826 |
-| Lawmaker | 9.00% | ~115,043 |
-| Nomen Est Omen | 7.00% | ~89,478 |
-| Well Informed | 6.00% | ~76,695 |
-| Fire Watch | 5.00% | ~63,913 |
-| Greenest City | 4.00% | ~51,130 |
-| Heavenly City | 3.00% | ~38,348 |
-| Reporting! | 3.00% | ~38,348 |
-| SIMulated City | 3.00% | ~38,348 |
-| The Safest Town | 3.00% | ~38,348 |
-| Professional Dumper | 2.00% | ~25,565 |
+| Pioneer | 71.00% | ~907,598 |
+| Green Energy | 59.00% | ~754,201 |
+| Foggy Weather | 58.00% | ~741,418 |
+| Singing In The- | 58.00% | ~741,418 |
+| Unpopular Mayor | 40.00% | ~511,323 |
+| Power at Your Fingertips | 33.00% | ~421,841 |
+| City Planner | 22.00% | ~281,228 |
+| Rolling in Dough | 20.00% | ~255,661 |
+| Does My Bum Look Big In This? | 17.00% | ~217,312 |
+| Climbing the Social Ladder | 16.00% | ~204,529 |
+| Safe City | 13.00% | ~166,180 |
+| Quay-King | 11.00% | ~140,614 |
+| With Canals You Can! | 10.00% | ~127,831 |
+| Lawmaker | 9.00% | ~115,048 |
+| Nomen Est Omen | 7.00% | ~89,481 |
+| Well Informed | 6.00% | ~76,698 |
+| Fire Watch | 5.00% | ~63,915 |
+| Greenest City | 4.00% | ~51,132 |
+| Heavenly City | 3.00% | ~38,349 |
+| Reporting! | 3.00% | ~38,349 |
+| SIMulated City | 3.00% | ~38,349 |
+| The Safest Town | 3.00% | ~38,349 |
+| Professional Dumper | 2.00% | ~25,566 |
 | City in Motion | 1.00% | ~12,783 |
 | Earthloving City | 1.00% | ~12,783 |
 | Metropolis | 1.00% | ~12,783 |
 | Higher Education | 0.80% | ~10,226 |
 | Beam Me Up | 0.70% | ~8,948 |
 | Terraformer | 0.60% | ~7,670 |
-| Decorator | 0.50% | ~6,391 |
-| Full Capacity | 0.50% | ~6,391 |
-| It's heading right for us! | 0.50% | ~6,391 |
-| Shake It Up! | 0.50% | ~6,391 |
-| The Waters of Our Lives | 0.50% | ~6,391 |
-| Twist and shout | 0.50% | ~6,391 |
+| Decorator | 0.50% | ~6,392 |
+| Full Capacity | 0.50% | ~6,392 |
+| It's heading right for us! | 0.50% | ~6,392 |
+| Shake It Up! | 0.50% | ~6,392 |
+| The Waters of Our Lives | 0.50% | ~6,392 |
+| Twist and shout | 0.50% | ~6,392 |
 | Airfield Expertise | 0.40% | ~5,113 |
 | Drop the Base | 0.40% | ~5,113 |
 | Get Your Snowshoes Ready! | 0.40% | ~5,113 |
@@ -126,8 +126,8 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,278 |
 | Z00 | 0.10% | ~1,278 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,278,258 (Ranked 12)  
-Completed: 11 (0.00%) (Ranked 413)  
+Progressed: 1,278,307 (Ranked 12)  
+Completed: 11 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -407,15 +407,15 @@ Completed: 11 (0.00%) (Ranked 413)
 | 2024-01-23 | 1,275,719 | 11 |
 | 2024-01-24 | 1,276,707 | 11 |
 | 2024-01-25 | 1,277,628 | 11 |
-| 2024-01-26 | 1,278,258 | 11 |
+| 2024-01-26 | 1,278,307 | 11 |
 ## Awards
 Max (Great for Beginners): 6,795  (Ranked 60)  
-Sum: 49,941 (Ranked 32)  
+Sum: 49,948 (Ranked 32)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,795 |
-| This game is Relaxing | 6,600 |
+| This game is Relaxing | 6,607 |
 | This game is Educational | 6,294 |
 | This game has Quickly Understood Controls | 6,126 |
 | This game is Extremely Fun | 5,713 |
@@ -792,4 +792,4 @@ Diff (max vs sum): 28
 | 2024-01-23 | 4.66 | - | 6,780 | 49,808 |
 | 2024-01-24 | 4.66 | - | 6,788 | 49,867 |
 | 2024-01-25 | 4.66 | - | 6,795 | 49,920 |
-| 2024-01-26 | 4.66 | - | 6,795 | 49,941 |
+| 2024-01-26 | 4.66 | - | 6,795 | 49,948 |

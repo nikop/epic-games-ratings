@@ -2,7 +2,7 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 164,
@@ -922,8 +922,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:09:25.0921119+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:10:03.2308101+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:10.7209123+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:03:05.1097483+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:09:25.0921274+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:03:07.8391841+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:10:03.2308265+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4651,9 +4651,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 132
     },
     {
       "ID": "NewMorality",
@@ -4723,9 +4723,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 206
     },
     {
       "ID": "Signatory",
@@ -4827,9 +4827,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 618
     },
     {
       "ID": "TouchGrass",
@@ -4900,8 +4900,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-25T15:01:28.3159391+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:03:27.270211+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:03:43.36293+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:03.6789963+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:03:27.2702865+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:24.3922398+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:03:43.3629934+00:00"
 }

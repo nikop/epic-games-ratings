@@ -6,7 +6,7 @@
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 387,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -515,9 +515,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12265,
+  "EOS_Progressed": 12267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6255,6 +6255,11 @@
       "Time": "2024-01-26T16:10:15.447642+00:00",
       "NumProgressed": 12265,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T17:11:12.7606901+00:00",
+      "NumProgressed": 12267,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6363,7 +6368,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "15_Pentakill",
@@ -6403,7 +6408,7 @@
       "Name": "Void Wolf",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6515,7 +6520,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6523,7 +6528,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6665,9 +6670,9 @@
       "ID": "52_TheGoldenFrog",
       "SetID": "37a94m8",
       "Name": "Frog Trader",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 86
     },
     {
       "ID": "53_GardensOfMadness",
@@ -6786,7 +6791,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12265,
+      "Progressed": 12267,
       "Completed": 1
     }
   ],
@@ -6794,8 +6799,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-26T15:59:41.1776328+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:15.4476418+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:12.7606899+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:41.1776333+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:15.4477205+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:19.8816684+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:12.7607482+00:00"
 }

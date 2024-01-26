@@ -2,13 +2,13 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 48,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -321,11 +321,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 2638,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 2639,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 57,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2023-08-22T09:04:44.7912038+00:00",
@@ -6531,6 +6531,11 @@
       "Time": "2024-01-26T09:05:08.2581781+00:00",
       "NumProgressed": 2638,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T17:06:18.3168522+00:00",
+      "NumProgressed": 2639,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6551,7 +6556,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "AC02",
@@ -6559,7 +6564,7 @@
       "Name": "Blood and Dust",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "AC03",
@@ -6575,7 +6580,7 @@
       "Name": "Blood and Iron",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "AC05",
@@ -6591,7 +6596,7 @@
       "Name": "The Last Ascension",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "AC07",
@@ -6599,7 +6604,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "AC08",
@@ -6607,7 +6612,7 @@
       "Name": "Forged in Fire",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "AC09",
@@ -6615,7 +6620,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "AC10",
@@ -6671,7 +6676,7 @@
       "Name": "Weight of Penance",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "AC17",
@@ -6687,7 +6692,7 @@
       "Name": "Acquired Taste",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "AC19",
@@ -6695,7 +6700,7 @@
       "Name": "Soledad",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "AC20",
@@ -6727,7 +6732,7 @@
       "Name": "Hide and Seek",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "AC24",
@@ -6765,9 +6770,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1108
     },
     {
       "ID": "AC29",
@@ -6783,7 +6788,7 @@
       "Name": "The Anointed One",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "AC31",
@@ -6807,7 +6812,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "AC34",
@@ -6831,7 +6836,7 @@
       "Name": "Blessed Incense",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "AC37",
@@ -6855,7 +6860,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "AC40",
@@ -6879,15 +6884,15 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1188
     },
     {
       "ID": "AC44",
@@ -6910,16 +6915,16 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2638,
-      "Completed": 0
+      "Progressed": 2639,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:55.3497389+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:18.3168518+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:20.0636425+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:00:21.1592823+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:55.3498131+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:02:18.838865+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:18.3169451+00:00"
 }

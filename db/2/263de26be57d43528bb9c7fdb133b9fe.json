@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 104,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 6.73,
   "EosHistory": [
@@ -527,17 +527,17 @@
       "ID": "PHOTOS_ALL",
       "SetID": "89ki2f0",
       "Name": "Photography student",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "RESEARCH_ALL",
       "SetID": "89ki2f0",
       "Name": "Five head",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "RESEARCH_FIRST",
@@ -590,8 +590,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:55.8290378+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:18.9067221+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:58:26.6786914+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:55.8290742+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:59:29.5763429+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:18.9067423+00:00"
 }

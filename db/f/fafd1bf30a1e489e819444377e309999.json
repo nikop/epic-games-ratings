@@ -3,7 +3,7 @@
   "Name": "Contraption Maker",
   "ProductSlug": "contraption-maker-66e1ec",
   "Ranking_EOS_Progress": 659,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -152,17 +152,17 @@
       "ID": "PUZZLE_EXPERT",
       "SetID": "ad3jn51",
       "Name": "Puzzle Expert",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PUZZLE_GUY",
       "SetID": "ad3jn51",
       "Name": "Puzzle Solver",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PUZZLE_NINJA",
@@ -287,8 +287,8 @@
   ],
   "FirstSeen": "2024-01-25T04:02:54.323921+00:00",
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:05.7621733+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:00.2672405+00:00",
   "LastUpdate_AppInfo": "2024-01-22T04:57:13.5976666+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:34.3570019+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:05.7621848+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:58:10.6711545+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:00.2672518+00:00"
 }

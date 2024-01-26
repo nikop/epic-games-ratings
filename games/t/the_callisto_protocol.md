@@ -12,13 +12,13 @@ Rating: 4.22 (Ranked 958)
 | Get a Grip | 24.00% | ~5,461 |
 | Chew 'Em Up | 22.00% | ~5,006 |
 | Reforged | 21.00% | ~4,778 |
-| Float Like A Butterfly | 19.00% | ~4,323 |
+| Float Like A Butterfly | 20.00% | ~4,551 |
 | If the SHU Fits... | 19.00% | ~4,323 |
 | Workplace Hazard | 18.00% | ~4,096 |
 | Without A Paddle | 16.00% | ~3,640 |
+| Two Heads Are Better Than One | 14.00% | ~3,185 |
 | In the Pipe, Five by Five | 14.00% | ~3,185 |
 | Crash Site | 14.00% | ~3,185 |
-| Two Heads Are Better Than One | 13.00% | ~2,958 |
 | Power Up | 13.00% | ~2,958 |
 | Giving Back | 12.00% | ~2,730 |
 | Terminated | 12.00% | ~2,730 |

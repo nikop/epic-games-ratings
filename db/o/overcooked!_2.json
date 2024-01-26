@@ -6,7 +6,7 @@
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 854,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -3996,10 +3996,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 2444,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2024-01-26T17:00:54.5103519+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 2446,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2444,
+  "NumberOfAwards": 2446,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4079,7 +4085,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 239
+      "Count": 241
     }
   ],
   "EOS_Progressed": 0,
@@ -4093,8 +4099,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-01-26T13:59:17.0626932+00:00",
+  "LastChanged": "2024-01-26T17:00:54.5103517+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.2172591+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:24.0888537+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:36.030369+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:00:54.5103524+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:05:51.1967343+00:00"
 }

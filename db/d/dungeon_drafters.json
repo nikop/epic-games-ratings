@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 467,
-  "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Completed": 414,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -766,6 +766,11 @@
       "Time": "2024-01-25T20:04:44.0669519+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T17:06:12.9281427+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -777,7 +782,7 @@
       "Name": "The Bodyguard",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "GL_complete",
@@ -793,7 +798,7 @@
       "Name": "Treasure Hunting",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -839,9 +844,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -865,7 +870,7 @@
       "Name": "Friend!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -1001,7 +1006,7 @@
       "Name": "Card Collector",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "demiurge_defeated",
@@ -1096,7 +1101,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
@@ -1104,8 +1109,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:51.4934198+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:12.9281423+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.2740072+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:38.3407599+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:51.493445+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:15.5115573+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:12.9282005+00:00"
 }

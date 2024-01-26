@@ -3,9 +3,9 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8108,
+  "EOS_Progressed": 8109,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-10-29T23:05:30.6543669+00:00",
@@ -9364,6 +9364,11 @@
       "Time": "2024-01-26T16:03:43.645964+00:00",
       "NumProgressed": 8108,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-26T17:04:37.0663587+00:00",
+      "NumProgressed": 8109,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9432,7 +9437,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6405
+      "UsersEstimate": 6406
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -9494,23 +9499,23 @@
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV in Speedrun",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 486
+      "UsersEstimate": 568
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 8108,
+      "Progressed": 8109,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:03:43.6459638+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:04:37.0663583+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:34.6904927+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:03:43.6460266+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:10.2214564+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:04:37.0664038+00:00"
 }

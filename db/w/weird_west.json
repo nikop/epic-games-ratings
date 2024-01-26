@@ -6,8 +6,8 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 469,
+  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -388,9 +388,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2070,
+  "EOS_Progressed": 2071,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3098,6 +3098,11 @@
       "Time": "2024-01-24T18:04:18.4519429+00:00",
       "NumProgressed": 2070,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T17:05:40.7062407+00:00",
+      "NumProgressed": 2071,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3117,7 +3122,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -3157,7 +3162,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_EXPLORER",
@@ -3261,7 +3266,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3373,7 +3378,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -3413,7 +3418,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -3429,7 +3434,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -3485,7 +3490,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3493,7 +3498,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3532,15 +3537,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2070,
+      "Progressed": 2071,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-22T15:58:08.2768312+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:28.4656916+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:05:40.7062403+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.9299774+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:55.5625775+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:28.4657458+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:40.6177648+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:05:40.7062884+00:00"
 }

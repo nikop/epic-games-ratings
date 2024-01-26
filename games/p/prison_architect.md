@@ -6,13 +6,13 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 24.00% | ~53,172 |
-| Get Busy Living | 15.00% | ~33,232 |
-| Samuel Norton | 9.00% | ~19,940 |
-| Spare The Rod | 4.00% | ~8,862 |
-| Don't Put Me In The Dark | 3.00% | ~6,646 |
-| Wait and Hope | 3.00% | ~6,646 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,646 |
+| Stone Walls | 24.00% | ~53,177 |
+| Get Busy Living | 15.00% | ~33,236 |
+| Samuel Norton | 9.00% | ~19,941 |
+| Spare The Rod | 4.00% | ~8,863 |
+| Don't Put Me In The Dark | 3.00% | ~6,647 |
+| Wait and Hope | 3.00% | ~6,647 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,647 |
 | Throw The Book At Them | 2.00% | ~4,431 |
 | Iron Bars | 2.00% | ~4,431 |
 | D.B. Cooper | 1.00% | ~2,216 |
@@ -23,8 +23,8 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~222 |
 | ... It's What You Can Prove | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,550 (Ranked 81)  
-Completed: 13 (0.01%) (Ranked 387)  
+Progressed: 221,572 (Ranked 81)  
+Completed: 13 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,10 +304,10 @@ Completed: 13 (0.01%) (Ranked 387)
 | 2024-01-23 | 220,615 | 13 |
 | 2024-01-24 | 220,977 | 13 |
 | 2024-01-25 | 221,352 | 13 |
-| 2024-01-26 | 221,550 | 13 |
+| 2024-01-26 | 221,572 | 13 |
 ## Awards
 Max (Great for Beginners): 657  (Ranked 203)  
-Sum: 5,018 (Ranked 154)  
+Sum: 5,019 (Ranked 154)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 582 |
 | This game has Diverse Characters | 560 |
 | This game has Amazing Storytelling | 528 |
-| This game has Amazing Characters | 483 |
+| This game has Amazing Characters | 484 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 387 |
 | This game has Obsessive Gameplay | 234 |
@@ -693,4 +693,4 @@ Diff (max vs sum): 49
 | 2024-01-23 | 4.61 | - | 650 | 4,989 |
 | 2024-01-24 | 4.61 | - | 652 | 5,002 |
 | 2024-01-25 | 4.61 | - | 657 | 5,017 |
-| 2024-01-26 | 4.61 | - | 657 | 5,018 |
+| 2024-01-26 | 4.61 | - | 657 | 5,019 |

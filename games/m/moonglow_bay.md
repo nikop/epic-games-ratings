@@ -43,7 +43,7 @@
 | A Tonne of Fun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 398 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 413)  
+Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

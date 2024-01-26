@@ -1616,9 +1616,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
       "SetID": "caeik3h",
       "Name": "Blackburn Returns",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
@@ -1760,9 +1760,9 @@
       "ID": "KR4_ACHIEVEMENT_GOBLIRANGS",
       "SetID": "caeik3h",
       "Name": "Not The Bees!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
@@ -2207,8 +2207,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:51.7800027+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:13.2680655+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.8390305+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:23.8887263+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:51.7800843+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:54.8079759+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:13.2681317+00:00"
 }

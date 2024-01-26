@@ -5,26 +5,27 @@ Rating: 4.36 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 22.00% | ~45 |
-| Help! Help! I’m being repressed | 21.00% | ~43 |
-| Hail to the King, Baby | 20.00% | ~41 |
-| Path of Glory | 18.00% | ~37 |
-| Bring it on! | 17.00% | ~35 |
-| There is no Nobility in Poverty | 15.00% | ~31 |
-| They Got What They Deserved | 14.00% | ~29 |
+| Can’t Touch This | 21.00% | ~44 |
+| Hail to the King, Baby | 20.00% | ~42 |
+| Help! Help! I’m being repressed | 20.00% | ~42 |
+| Path of Glory | 18.00% | ~38 |
+| Bring it on! | 17.00% | ~36 |
+| There is no Nobility in Poverty | 15.00% | ~32 |
+| They Got What They Deserved | 14.00% | ~30 |
 | Full House | 11.00% | ~23 |
 | Playerxander the Great | 11.00% | ~23 |
-| The finest merchandise this side of river Jordan | 10.00% | ~21 |
-| Dinner Time | 8.00% | ~16 |
-| Big Apple | 7.00% | ~14 |
-| All the King's Men | 6.00% | ~12 |
-| Cut-Me-Own-Throat | 6.00% | ~12 |
-| Learn Me a Book | 6.00% | ~12 |
-| What we’ve got here is failure to communicate | 6.00% | ~12 |
-| Black Sheep Wall | 5.00% | ~10 |
-| Do you read Sutter Cane? | 5.00% | ~10 |
+| The finest merchandise this side of river Jordan | 9.00% | ~19 |
+| Dinner Time | 8.00% | ~17 |
+| Big Apple | 7.00% | ~15 |
+| All the King's Men | 6.00% | ~13 |
+| Cut-Me-Own-Throat | 6.00% | ~13 |
+| Learn Me a Book | 6.00% | ~13 |
+| What we’ve got here is failure to communicate | 6.00% | ~13 |
+| Black Sheep Wall | 5.00% | ~11 |
+| Blinded by Science | 5.00% | ~11 |
+| Do you read Sutter Cane? | 5.00% | ~11 |
+| ‘Tis but a scratch | 5.00% | ~11 |
 | Blessed Be His Name | 4.00% | ~8 |
-| Blinded by Science | 4.00% | ~8 |
 | His name is King | 4.00% | ~8 |
 | Kingslayer | 4.00% | ~8 |
 | Let Us Pray | 4.00% | ~8 |
@@ -32,13 +33,13 @@ Rating: 4.36 (Ranked 824)
 | Pillars of the Earth | 4.00% | ~8 |
 | Scientia potentia es | 4.00% | ~8 |
 | The Magnificent Nine | 4.00% | ~8 |
-| ‘Tis but a scratch | 4.00% | ~8 |
 | Call the Boys | 3.00% | ~6 |
 | Desperate Times Call for Desperate Measures | 3.00% | ~6 |
 | Forth, Eorlingas! | 3.00% | ~6 |
 | Greed is Good | 3.00% | ~6 |
 | Fight Another Day | 3.00% | ~6 |
 | Let us trade with these fine people | 3.00% | ~6 |
+| Vlad the Impaler | 3.00% | ~6 |
 | A Quiet Palace | 2.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~4 |
 | Fighting with Power and Steel | 2.00% | ~4 |
@@ -48,20 +49,19 @@ Rating: 4.36 (Ranked 824)
 | Naught but a Seamless Victory | 2.00% | ~4 |
 | Renaissance Man | 2.00% | ~4 |
 | Time to find India | 2.00% | ~4 |
-| Vlad the Impaler | 2.00% | ~4 |
-| Zerg Rush | 1.00% | ~2 |
 | Crusader “you know what” | 1.00% | ~2 |
 | From Rags to Riches | 1.00% | ~2 |
-| Lord of the Kings | 1.00% | ~2 |
 | New Mineland | 1.00% | ~2 |
 | Power Overwhelming | 1.00% | ~2 |
-| Prince Ali! Fabulous he! | 1.00% | ~2 |
-| Spartacus | 1.00% | ~2 |
-| The Merchant of Venice | 1.00% | ~2 |
 | Together We Stand | 1.00% | ~2 |
-| Why is there no culture victory?! | 1.00% | ~2 |
 | You are not the boss of me now | 1.00% | ~2 |
-| You reap what you sow | 1.00% | ~2 |
+| Zerg Rush | 0.90% | ~2 |
+| Lord of the Kings | 0.90% | ~2 |
+| Prince Ali! Fabulous he! | 0.90% | ~2 |
+| Spartacus | 0.90% | ~2 |
+| The Merchant of Venice | 0.90% | ~2 |
+| Why is there no culture victory?! | 0.90% | ~2 |
+| You reap what you sow | 0.90% | ~2 |
 | Crusade Invoker, no Regret | 0.50% | ~1 |
 | Dust and Salt | 0.50% | ~1 |
 | Everything the light touches is our kingdom | 0.50% | ~1 |
@@ -106,15 +106,15 @@ Rating: 4.36 (Ranked 824)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 437)  
-Completed: 0 (0.00%) (Ranked 413)  
+Progressed: 211 (Ranked 436)  
+Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 206 | 0 |
+| 2024-01-26 | 211 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

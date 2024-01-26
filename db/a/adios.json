@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -153,7 +153,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84479,
+  "EOS_Progressed": 84481,
   "EOS_Completed": 952,
   "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 6,
@@ -31563,6 +31563,11 @@
       "Time": "2024-01-26T16:08:20.0499176+00:00",
       "NumProgressed": 84479,
       "NumCompleted": 952
+    },
+    {
+      "Time": "2024-01-26T17:08:30.9846294+00:00",
+      "NumProgressed": 84481,
+      "NumCompleted": 952
     }
   ],
   "TotalAchievements": 25,
@@ -31606,7 +31611,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18585
+      "UsersEstimate": 18586
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -31614,7 +31619,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15206
+      "UsersEstimate": 15207
     },
     {
       "ID": "Butcher",
@@ -31702,7 +31707,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14361
+      "UsersEstimate": 14362
     },
     {
       "ID": "Nothing Left to Say",
@@ -31773,7 +31778,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84479,
+      "Progressed": 84481,
       "Completed": 952
     }
   ],
@@ -31781,8 +31786,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-25T04:58:57.692419+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:08:20.0499173+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:08:30.9846289+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:55.8391489+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:08:20.05008+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:40.9919646+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:08:30.9847653+00:00"
 }

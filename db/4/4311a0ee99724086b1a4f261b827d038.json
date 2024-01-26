@@ -4,9 +4,9 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 530,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 74,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -843,10 +843,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 235,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-01-26T17:01:50.0683018+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 237,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 235,
+  "NumberOfAwards": 237,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -902,7 +908,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -917,9 +923,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 245107,
+  "EOS_Progressed": 245109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22672,6 +22678,11 @@
       "Time": "2024-01-26T16:10:09.2830238+00:00",
       "NumProgressed": 245107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T17:11:04.9372514+00:00",
+      "NumProgressed": 245109,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22740,7 +22751,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51472
+      "UsersEstimate": 51473
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22876,7 +22887,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 17157
+      "UsersEstimate": 17158
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -22955,16 +22966,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 245107,
+      "Progressed": 245109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:09.2830235+00:00",
+  "LastChanged": "2024-01-26T17:01:50.0683016+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:04.937251+00:00",
   "LastUpdate_AppInfo": "2024-01-26T07:57:14.0725563+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:00:01.9383439+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:09.2831718+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:50.0683021+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:04.9373568+00:00"
 }

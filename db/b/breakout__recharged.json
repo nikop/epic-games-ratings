@@ -4,7 +4,7 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -514,9 +514,9 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
@@ -587,8 +587,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:09:59.0123494+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:10:50.5967421+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:16.7310364+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:02:36.1221981+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:09:59.0123591+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:02:24.4193894+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:10:50.5967528+00:00"
 }

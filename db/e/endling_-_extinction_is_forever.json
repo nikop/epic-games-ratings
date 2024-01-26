@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1383,9 +1383,9 @@
       "ID": "TROP015",
       "SetID": "9n0dl35",
       "Name": "For a Better Tomorrow",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 25
     },
     {
       "ID": "TROP016",
@@ -1496,8 +1496,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:10:12.5532186+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:11:09.2137675+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.7647568+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:58:00.308648+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:10:12.5532404+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:58:49.7142905+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:11:09.2137878+00:00"
 }

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 326)  
+Rating: 4.65 (Ranked 327)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh | 0.50% | ~86 |
 | Carthage - Ox Hide | 0.40% | ~69 |
 | The Eternal Treaty | 0.40% | ~69 |
+| Pyramids in Menefer | 0.40% | ~69 |
 | Pantheon of Gods | 0.40% | ~69 |
 | Play a Network Game | 0.40% | ~69 |
 | Ten Crowns | 0.40% | ~69 |
@@ -162,7 +163,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~52 |
 | Glorious Difficulty | 0.30% | ~52 |
 | Run, Pheidippides, Run! | 0.30% | ~52 |
-| Pyramids in Menefer | 0.30% | ~52 |
 | Persia | 0.30% | ~52 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~52 |
 | Capturing Cities | 0.30% | ~52 |
@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,179 (Ranked 170)  
-Completed: 5 (0.03%) (Ranked 368)  
+Completed: 5 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

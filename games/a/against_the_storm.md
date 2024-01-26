@@ -15,9 +15,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 8.00% | ~1,682 |
 | Coral Forest | 8.00% | ~1,682 |
 | The Marshlands | 8.00% | ~1,682 |
-| The Scarlet Orchard | 7.00% | ~1,471 |
-| Ominous Presence | 7.00% | ~1,471 |
-| Gathering Storm | 7.00% | ~1,471 |
+| The Scarlet Orchard | 7.00% | ~1,472 |
+| Ominous Presence | 7.00% | ~1,472 |
+| Gathering Storm | 7.00% | ~1,472 |
 | Frosts | 6.00% | ~1,261 |
 | Land of Greed | 6.00% | ~1,261 |
 | Homesick | 5.00% | ~1,051 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,021 (Ranked 157)  
+Progressed: 21,022 (Ranked 157)  
 Completed: 36 (0.17%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,17 +347,17 @@ Completed: 36 (0.17%) (Ranked 297)
 | 2024-01-23 | 20,986 | 34 |
 | 2024-01-24 | 20,998 | 34 |
 | 2024-01-25 | 21,012 | 36 |
-| 2024-01-26 | 21,021 | 36 |
+| 2024-01-26 | 21,022 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 459  (Ranked 233)  
-Sum: 3,418 (Ranked 180)  
+Sum: 3,419 (Ranked 180)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 459 |
 | This game is Great for Beginners | 456 |
 | This game is Relaxing | 453 |
-| This game is Extremely Fun | 424 |
+| This game is Extremely Fun | 425 |
 | This game is Highly Recommended | 411 |
 | This game has Unique Visuals | 355 |
 | This game has Amazing Storytelling | 339 |
@@ -662,4 +662,4 @@ Diff (max vs sum): 53
 | 2024-01-23 | 4.82 | - | 458 | 3,412 |
 | 2024-01-24 | 4.82 | - | 458 | 3,414 |
 | 2024-01-25 | 4.82 | - | 459 | 3,417 |
-| 2024-01-26 | 4.82 | - | 459 | 3,418 |
+| 2024-01-26 | 4.82 | - | 459 | 3,419 |

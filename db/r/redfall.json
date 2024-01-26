@@ -6,8 +6,8 @@
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_Completed": 414,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -447,9 +447,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 2420,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4717,6 +4717,11 @@
       "Time": "2024-01-25T21:03:53.0565443+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T17:05:01.9832578+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4744,7 +4749,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "Achievement_004",
@@ -4944,7 +4949,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Achievement_030",
@@ -4976,7 +4981,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "Achievement_034",
@@ -5255,7 +5260,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 0
     }
   ],
@@ -5263,8 +5268,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-26T14:58:39.501364+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:01.1982533+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:05:01.9832574+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:58:20.4638208+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:01.1983276+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:59:19.8375414+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:05:01.9833674+00:00"
 }

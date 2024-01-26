@@ -6,46 +6,46 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,900 |
-| He's Signed! | 50.00% | ~239,900 |
-| First Victory | 50.00% | ~239,900 |
-| He's Sold! | 48.00% | ~230,304 |
-| I'm The Boss! | 42.00% | ~201,516 |
-| Hat-trick | 41.00% | ~196,718 |
-| Scoring Streak | 38.00% | ~182,324 |
-| Unbeatable! | 37.00% | ~177,526 |
-| Thumping | 37.00% | ~177,526 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,930 |
-| Total Support | 32.00% | ~153,536 |
-| Record Signing | 32.00% | ~153,536 |
-| He's a Natural | 31.00% | ~148,738 |
-| Millionaire's Club | 31.00% | ~148,738 |
-| Parked The Bus | 30.00% | ~143,940 |
-| Team Performance | 30.00% | ~143,940 |
-| Shrewd Spender | 29.00% | ~139,142 |
-| Star Man | 29.00% | ~139,142 |
-| Attack! | 28.00% | ~134,344 |
-| You're On Fire | 27.00% | ~129,546 |
-| Tremendous Trio | 27.00% | ~129,546 |
-| Record Sale | 27.00% | ~129,546 |
-| On A Roll | 26.00% | ~124,748 |
-| Unstoppable Force | 26.00% | ~124,748 |
-| Armchair Expert | 25.00% | ~119,950 |
-| Fantastic Five | 24.00% | ~115,152 |
-| Full Faith | 24.00% | ~115,152 |
-| Iron Curtain | 24.00% | ~115,152 |
-| The Boss | 24.00% | ~115,152 |
-| Top Of The Class | 23.00% | ~110,354 |
-| Goal Machine | 23.00% | ~110,354 |
-| Splashing The Cash | 22.00% | ~105,556 |
-| Clean Bill of Health | 22.00% | ~105,556 |
-| What A Goal! | 22.00% | ~105,556 |
-| Cup Glory! | 22.00% | ~105,556 |
-| Irresistible Force | 20.00% | ~95,960 |
-| Excellent Match Cohesion | 20.00% | ~95,960 |
-| Do The Double | 19.00% | ~91,162 |
-| Top Form | 17.00% | ~81,566 |
-| Cash To Burn | 17.00% | ~81,566 |
+| Clean Sheet | 50.00% | ~239,902 |
+| He's Signed! | 50.00% | ~239,902 |
+| First Victory | 50.00% | ~239,902 |
+| He's Sold! | 48.00% | ~230,305 |
+| I'm The Boss! | 42.00% | ~201,517 |
+| Hat-trick | 41.00% | ~196,719 |
+| Scoring Streak | 38.00% | ~182,325 |
+| Unbeatable! | 37.00% | ~177,527 |
+| Thumping | 37.00% | ~177,527 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,931 |
+| Total Support | 32.00% | ~153,537 |
+| Record Signing | 32.00% | ~153,537 |
+| He's a Natural | 31.00% | ~148,739 |
+| Millionaire's Club | 31.00% | ~148,739 |
+| Parked The Bus | 30.00% | ~143,941 |
+| Team Performance | 30.00% | ~143,941 |
+| Shrewd Spender | 29.00% | ~139,143 |
+| Star Man | 29.00% | ~139,143 |
+| Attack! | 28.00% | ~134,345 |
+| You're On Fire | 27.00% | ~129,547 |
+| Tremendous Trio | 27.00% | ~129,547 |
+| Record Sale | 27.00% | ~129,547 |
+| On A Roll | 26.00% | ~124,749 |
+| Unstoppable Force | 26.00% | ~124,749 |
+| Armchair Expert | 25.00% | ~119,951 |
+| Fantastic Five | 24.00% | ~115,153 |
+| Full Faith | 24.00% | ~115,153 |
+| Iron Curtain | 24.00% | ~115,153 |
+| The Boss | 24.00% | ~115,153 |
+| Top Of The Class | 23.00% | ~110,355 |
+| Goal Machine | 23.00% | ~110,355 |
+| Splashing The Cash | 22.00% | ~105,557 |
+| Clean Bill of Health | 22.00% | ~105,557 |
+| What A Goal! | 22.00% | ~105,557 |
+| Cup Glory! | 22.00% | ~105,557 |
+| Irresistible Force | 20.00% | ~95,961 |
+| Excellent Match Cohesion | 20.00% | ~95,961 |
+| Do The Double | 19.00% | ~91,163 |
+| Top Form | 17.00% | ~81,567 |
+| Cash To Burn | 17.00% | ~81,567 |
 | Beating Expectations | 16.00% | ~76,768 |
 | Overachiever! | 16.00% | ~76,768 |
 | Rushed signing | 16.00% | ~76,768 |
@@ -105,8 +105,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~480 |
 | Shoestring Budget | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,799 (Ranked 44)  
-Completed: 22 (0.00%) (Ranked 413)  
+Progressed: 479,803 (Ranked 44)  
+Completed: 22 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -386,7 +386,7 @@ Completed: 22 (0.00%) (Ranked 413)
 | 2024-01-23 | 479,690 | 22 |
 | 2024-01-24 | 479,734 | 22 |
 | 2024-01-25 | 479,771 | 22 |
-| 2024-01-26 | 479,799 | 22 |
+| 2024-01-26 | 479,803 | 22 |
 ## Awards
 Max (Relaxing): 6,501  (Ranked 64)  
 Sum: 51,298 (Ranked 31)  

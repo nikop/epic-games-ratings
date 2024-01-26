@@ -5,8 +5,8 @@
   "Ranking_Rating": 824,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
-  "Ranking_EOS_Progress": 437,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Progress": 436,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2024-01-26T16:05:09.6779497+00:00",
       "NumProgressed": 206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T17:06:38.7631733+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -587,7 +592,7 @@
       "Name": "All the King\u0027s Men",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ashes_to_ashes",
@@ -611,7 +616,7 @@
       "Name": "Big Apple",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "black_sheep_wall",
@@ -619,7 +624,7 @@
       "Name": "Black Sheep Wall",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "blessed_be_his_name",
@@ -633,15 +638,15 @@
       "ID": "blinded_by_science",
       "SetID": "41moj9p",
       "Name": "Blinded by Science",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "blitz_krieg",
       "SetID": "41moj9p",
       "Name": "Zerg Rush",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -651,7 +656,7 @@
       "Name": "Bring it on!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "brutus",
@@ -681,9 +686,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "columbus",
@@ -723,7 +728,7 @@
       "Name": "Cut-Me-Own-Throat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "desperate_times",
@@ -747,7 +752,7 @@
       "Name": "Dinner Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "do_you_read",
@@ -755,7 +760,7 @@
       "Name": "Do you read Sutter Cane?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "dust_and_salt",
@@ -851,7 +856,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "he_made_it_out",
@@ -865,9 +870,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "his_all_holiness",
@@ -995,7 +1000,7 @@
       "Name": "Learn Me a Book",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "let_us_pray",
@@ -1025,7 +1030,7 @@
       "ID": "lord_of_the_kings",
       "SetID": "41moj9p",
       "Name": "Lord of the Kings",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1083,7 +1088,7 @@
       "Name": "Path of Glory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1113,7 +1118,7 @@
       "ID": "prince_ali",
       "SetID": "41moj9p",
       "Name": "Prince Ali! Fabulous he!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1169,7 +1174,7 @@
       "ID": "spartacus",
       "SetID": "41moj9p",
       "Name": "Spartacus",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1193,9 +1198,9 @@
       "ID": "the_finest_merchandise",
       "SetID": "41moj9p",
       "Name": "The finest merchandise this side of river Jordan",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "the_magnificent_nine",
@@ -1209,7 +1214,7 @@
       "ID": "the_merchant_of_venice",
       "SetID": "41moj9p",
       "Name": "The Merchant of Venice",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1227,7 +1232,7 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -1235,7 +1240,7 @@
       "Name": "They Got What They Deserved",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "time_to_find_india",
@@ -1249,9 +1254,9 @@
       "ID": "tis_but_a_scratch",
       "SetID": "41moj9p",
       "Name": "\u2018Tis but a scratch",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "together_we_stand",
@@ -1289,9 +1294,9 @@
       "ID": "vlad_the_impaler",
       "SetID": "41moj9p",
       "Name": "Vlad the Impaler",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "we_are_the_champions",
@@ -1315,7 +1320,7 @@
       "Name": "What we\u2019ve got here is failure to communicate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "wheres_your_crown",
@@ -1329,7 +1334,7 @@
       "ID": "why_is_there_no_culture",
       "SetID": "41moj9p",
       "Name": "Why is there no culture victory?!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1353,7 +1358,7 @@
       "ID": "you_reap_what_you_sow",
       "SetID": "41moj9p",
       "Name": "You reap what you sow",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1370,7 +1375,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 211,
       "Completed": 0
     }
   ],
@@ -1378,8 +1383,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:05:09.6779494+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:38.7631729+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:56:59.1566351+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:05:09.6780774+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:17.7539184+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:38.7632636+00:00"
 }

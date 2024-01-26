@@ -6,7 +6,7 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 83.00% | ~1,199 |
+| Another Life | 84.00% | ~1,213 |
 | Voices from the Past | 76.00% | ~1,097 |
 | Space Traveler | 76.00% | ~1,097 |
 | Demigod | 73.00% | ~1,054 |

@@ -3,7 +3,7 @@
   "Name": "The Gap",
   "ProductSlug": "the-gap-e8d40c",
   "Ranking_EOS_Progress": 756,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 469,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -71,17 +71,17 @@
       "ID": "ACH_FIRST_DEJAVU",
       "SetID": "86ojj8m",
       "Name": "First D\u00E9j\u00E0 Vu",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRST_MEMORY",
       "SetID": "86ojj8m",
       "Name": "First Memory",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LEAVE",
@@ -197,8 +197,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-14T13:10:04.1106533+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:09.1826893+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:05:13.4730946+00:00",
   "LastUpdate_AppInfo": "2024-01-25T17:57:06.3987207+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:35.3856707+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:09.1827046+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:11.1594227+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:05:13.4731057+00:00"
 }

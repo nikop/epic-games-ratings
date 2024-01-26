@@ -6,7 +6,7 @@
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 854,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -20687,18 +20687,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 689815,
       "NumberOfAwardsMax": 262521
+    },
+    {
+      "Time": "2024-01-26T16:57:15.7474035+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 691059,
+      "NumberOfAwardsMax": 263450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 689815,
-  "NumberOfAwardsMax": 262521,
+  "NumberOfAwards": 691059,
+  "NumberOfAwardsMax": 263450,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 262521
+      "Count": 263450
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -20722,7 +20728,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28463
+      "Count": 28614
     },
     {
       "Text": "This game is Educational",
@@ -20752,7 +20758,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 30762
+      "Count": 30926
     },
     {
       "Text": "This game is Relaxing",
@@ -20790,8 +20796,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-01-26T14:02:24.9323446+00:00",
+  "LastChanged": "2024-01-26T16:57:15.7474034+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:34.4515014+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:00:41.4399431+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:08:35.737775+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:15.7474039+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:08:53.2756835+00:00"
 }

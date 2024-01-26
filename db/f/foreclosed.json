@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.48,
+  "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -499,6 +499,11 @@
       "Time": "2024-01-26T11:08:31.7460374+00:00",
       "NumProgressed": 161,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T17:08:48.2962842+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -548,9 +553,9 @@
       "ID": "EnemyDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Cyborg",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "ExpertChoice",
@@ -564,9 +569,9 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "FirstSkillBuy",
@@ -574,7 +579,7 @@
       "Name": "A.I. Training",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GunUnlock",
@@ -598,7 +603,7 @@
       "Name": "Veteran Sniper",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KyklosPlan",
@@ -606,7 +611,7 @@
       "Name": "The Red Herring",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LiftEnemies_0",
@@ -630,7 +635,7 @@
       "Name": "The Neuro-connector",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -638,7 +643,7 @@
       "Name": "Silent Overload",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "SecretEnding",
@@ -701,7 +706,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 4
     }
   ],
@@ -709,8 +714,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:08:32.1178923+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:08:48.2962838+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1319416+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:00:01.6932769+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:08:32.1179284+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:49.7200937+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:08:48.2963015+00:00"
 }

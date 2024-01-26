@@ -3,7 +3,7 @@
   "Name": "CounterAttack: Uprising",
   "ProductSlug": "counterattackuprising-06aed8",
   "Ranking_EOS_Progress": 631,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -142,9 +142,9 @@
       "ID": "1Up",
       "SetID": "c18da06",
       "Name": "Get a free life!",
-      "Percentage": 77,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "1kAutomatons",
@@ -333,8 +333,8 @@
   ],
   "FirstSeen": "2024-01-12T22:00:00.0081569+00:00",
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:09:25.5651917+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:10:03.8783563+00:00",
   "LastUpdate_AppInfo": "2024-01-22T02:57:03.4602201+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:00:02.9590818+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:09:25.5652043+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:01:51.4186438+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:10:03.8783715+00:00"
 }

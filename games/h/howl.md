@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overpower | 200.00% | ~2 |
-| Tactician | 100.00% | ~1 |
+| Overpower | 150.00% | ~3 |
+| Tactician | 100.00% | ~2 |
+| Skilled | 50.00% | ~1 |
 | The Perfect Prophecy | 0.00% | ~0 |
 | Master | 0.00% | ~0 |
 | Ruthless | 0.00% | ~0 |
-| Skilled | 0.00% | ~0 |
 | Burn the Wolf | 0.00% | ~0 |
 | Complete Chapter 1 | 0.00% | ~0 |
 | Complete Chapter 2 | 0.00% | ~0 |
@@ -21,9 +21,10 @@
 | From the Shadows | 0.00% | ~0 |
 | Combat Prophet | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 782)  
-Completed: 0 (0.00%) (Ranked 413)  
+Progressed: 2 (Ranked 756)  
+Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-25 | 2 | 0 |
+| 2024-01-26 | 2 | 0 |

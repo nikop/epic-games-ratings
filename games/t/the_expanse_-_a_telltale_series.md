@@ -36,13 +36,13 @@ Rating: 4.54 (Ranked 552)
 | Debris Spree | 2.00% | ~386 |
 | Data Recoverer | 2.00% | ~386 |
 | Urshanabi Hoarder | 1.00% | ~193 |
-| Grave Robber | 0.80% | ~154 |
+| Grave Robber | 0.90% | ~174 |
 | Data Miner | 0.70% | ~135 |
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,297 (Ranked 160)  
-Completed: 67 (0.35%) (Ranked 260)  
+Completed: 67 (0.35%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,7 +2,7 @@
   "ID": "82e71075613847afbc510c2b84022d17",
   "Name": "jinonboarddemo Production",
   "Ranking_EOS_Progress": 854,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:16.328346+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:18.1979381+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:03:58.8228532+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:00:45.6847876+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:04:58.7096786+00:00"
 }

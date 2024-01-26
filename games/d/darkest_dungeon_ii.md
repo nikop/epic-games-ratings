@@ -8,12 +8,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,291 |
 | Autodidact | 9.00% | ~12,036 |
-| Lost and Found | 9.00% | ~774 |
-| This guy... again? | 8.00% | ~688 |
-| Serenity Now! | 7.00% | ~9,361 |
-| This Belongs in a Museum | 7.00% | ~9,361 |
-| Creep and Sleep | 7.00% | ~9,361 |
-| Overdue Notice | 7.00% | ~9,361 |
+| Lost and Found | 9.00% | ~775 |
+| This guy... again? | 8.00% | ~689 |
+| Serenity Now! | 7.00% | ~9,362 |
+| This Belongs in a Museum | 7.00% | ~9,362 |
+| Creep and Sleep | 7.00% | ~9,362 |
+| Overdue Notice | 7.00% | ~9,362 |
 | Ploughshares to Swords | 7.00% | ~602 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,024 |
 | It Rings a Bell | 6.00% | ~8,024 |
@@ -32,24 +32,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,687 |
 | Nope | 5.00% | ~6,687 |
 | Friends 'Til the End | 5.00% | ~430 |
-| Resurrection | 4.00% | ~5,349 |
-| Unleash Hell | 4.00% | ~5,349 |
-| Funny Guy | 4.00% | ~5,349 |
-| Long Live the King | 4.00% | ~5,349 |
-| Wyrdly Reconstructed | 4.00% | ~5,349 |
-| Boxcar Kid | 4.00% | ~5,349 |
-| Unfulfilled Desires | 4.00% | ~5,349 |
-| Predator | 4.00% | ~5,349 |
-| Dissector | 4.00% | ~5,349 |
-| Banishment | 4.00% | ~5,349 |
-| Deprogramming | 4.00% | ~5,349 |
-| Now Stay Dead | 4.00% | ~5,349 |
-| Reverse Banditry | 4.00% | ~5,349 |
-| Spelunker | 4.00% | ~5,349 |
-| Ramble On | 4.00% | ~5,349 |
-| A Clear Conscience | 4.00% | ~5,349 |
-| Unshackled | 4.00% | ~5,349 |
-| Road Trip | 4.00% | ~5,349 |
+| Resurrection | 4.00% | ~5,350 |
+| Unleash Hell | 4.00% | ~5,350 |
+| Funny Guy | 4.00% | ~5,350 |
+| Long Live the King | 4.00% | ~5,350 |
+| Wyrdly Reconstructed | 4.00% | ~5,350 |
+| Boxcar Kid | 4.00% | ~5,350 |
+| Unfulfilled Desires | 4.00% | ~5,350 |
+| Predator | 4.00% | ~5,350 |
+| Dissector | 4.00% | ~5,350 |
+| Banishment | 4.00% | ~5,350 |
+| Deprogramming | 4.00% | ~5,350 |
+| Now Stay Dead | 4.00% | ~5,350 |
+| Reverse Banditry | 4.00% | ~5,350 |
+| Spelunker | 4.00% | ~5,350 |
+| Ramble On | 4.00% | ~5,350 |
+| A Clear Conscience | 4.00% | ~5,350 |
+| Unshackled | 4.00% | ~5,350 |
+| Road Trip | 4.00% | ~5,350 |
 | This Looks Familiar | 3.00% | ~4,012 |
 | Hope Rekindled | 3.00% | ~4,012 |
 | When You Want Something Done Right | 3.00% | ~4,012 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,735 (Ranked 92)  
-Completed: 5 (0.00%) (Ranked 413)  
+Progressed: 133,738 (Ranked 92)  
+Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -357,7 +357,7 @@ Completed: 5 (0.00%) (Ranked 413)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,735 | 5 |
+| 2024-01-26 | 133,738 | 5 |
 ## Awards
 Max (Character Customization): 8,078  (Ranked 52)  
 Sum: 21,874 (Ranked 60)  

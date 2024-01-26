@@ -6,8 +6,8 @@
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 387,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5629,10 +5629,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9451,
       "NumberOfAwardsMax": 3111
+    },
+    {
+      "Time": "2024-01-26T17:02:51.9382708+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9460,
+      "NumberOfAwardsMax": 3111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9451,
+  "NumberOfAwards": 9460,
   "NumberOfAwardsMax": 3111,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5676,7 +5682,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 614
+      "Count": 623
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5709,9 +5715,9 @@
       "Count": 699
     }
   ],
-  "EOS_Progressed": 24243,
+  "EOS_Progressed": 24244,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18074,6 +18080,11 @@
       "Time": "2024-01-26T16:09:08.282628+00:00",
       "NumProgressed": 24243,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T17:09:39.894769+00:00",
+      "NumProgressed": 24244,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -18102,7 +18113,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10909
+      "UsersEstimate": 10910
     },
     {
       "ID": "ach04",
@@ -18126,7 +18137,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16485
+      "UsersEstimate": 16486
     },
     {
       "ID": "ach07",
@@ -18166,7 +18177,7 @@
       "Name": "Karnage",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ach12",
@@ -18222,7 +18233,7 @@
       "Name": "Adventure Time",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7030
+      "UsersEstimate": 7031
     },
     {
       "ID": "ach19",
@@ -18270,7 +18281,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7030
+      "UsersEstimate": 7031
     },
     {
       "ID": "ach25",
@@ -18286,7 +18297,7 @@
       "Name": "Running On Empty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ach27",
@@ -18374,7 +18385,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11394
+      "UsersEstimate": 11395
     },
     {
       "ID": "ach38",
@@ -18390,7 +18401,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 8000
+      "UsersEstimate": 8001
     },
     {
       "ID": "ach40",
@@ -18406,7 +18417,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5818
+      "UsersEstimate": 5819
     },
     {
       "ID": "ach42",
@@ -18422,7 +18433,7 @@
       "Name": "Working Overtime",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 8000
+      "UsersEstimate": 8001
     },
     {
       "ID": "ach44",
@@ -18478,23 +18489,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7515
+      "UsersEstimate": 7516
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24243,
+      "Progressed": 24244,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-26T15:03:24.6012517+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:09:08.2826277+00:00",
+  "LastChanged": "2024-01-26T17:02:51.9382706+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:09:39.8947686+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:02:53.9870537+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:09:08.2827191+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:02:51.9382713+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:09:39.8948474+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2311,
+  "EOS_Progressed": 2313,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8951,6 +8951,11 @@
       "Time": "2024-01-25T12:06:24.6897528+00:00",
       "NumProgressed": 2311,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T17:08:23.8415428+00:00",
+      "NumProgressed": 2313,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8976,9 +8981,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 208
     },
     {
       "ID": "ach_defeat_players_100",
@@ -8994,7 +8999,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -9066,7 +9071,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -9082,7 +9087,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -9138,7 +9143,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -9146,7 +9151,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -9178,7 +9183,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -9250,7 +9255,7 @@
       "Name": "Jet Troops",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -9265,7 +9270,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2311,
+      "Progressed": 2313,
       "Completed": 1
     }
   ],
@@ -9273,8 +9278,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:08:15.0359778+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:08:23.8415423+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.1428113+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:33.8390955+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:08:15.0360436+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:58:09.9185657+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:08:23.8415987+00:00"
 }

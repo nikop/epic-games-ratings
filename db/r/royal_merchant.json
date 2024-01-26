@@ -3,7 +3,7 @@
   "Name": "Royal Merchant",
   "ProductSlug": "royal-merchant-f4d6fc",
   "Ranking_EOS_Progress": 854,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T23:00:47.9408127+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.2839457+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:59:23.8460195+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:05:43.3790725+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:00:54.1204235+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:07:26.4744373+00:00"
 }

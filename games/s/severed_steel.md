@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~218,811 |
-| 50 HEADSHOTS | 31.00% | ~199,505 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,069 |
-| FINISHED CHAPTER 1 | 29.00% | ~186,633 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,148 |
-| 200 HEADSHOTS | 19.00% | ~122,277 |
-| FINISHED CHAPTER 3 | 18.00% | ~115,841 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,534 |
-| FINISH CHAPTER 5 | 13.00% | ~83,663 |
-| FINISH CHAPTER 6 | 11.00% | ~70,792 |
-| CATHARTIC ESCAPISM | 11.00% | ~70,792 |
-| 1000 KILLS | 10.00% | ~64,356 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,743 |
+| 100 KILLS | 34.00% | ~218,804 |
+| 50 HEADSHOTS | 31.00% | ~199,498 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,063 |
+| FINISHED CHAPTER 1 | 29.00% | ~186,627 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,144 |
+| 200 HEADSHOTS | 19.00% | ~122,273 |
+| FINISHED CHAPTER 3 | 18.00% | ~115,838 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,531 |
+| FINISH CHAPTER 5 | 13.00% | ~83,660 |
+| FINISH CHAPTER 6 | 11.00% | ~70,790 |
+| CATHARTIC ESCAPISM | 11.00% | ~70,790 |
+| 1000 KILLS | 10.00% | ~64,354 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,742 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,871 |
 | FIRST BLOOD | 2.00% | ~12,871 |
-| FIREFIGHT LEVEL 30 | 1.00% | ~6,436 |
-| OUT OF ORDER | 1.00% | ~6,436 |
-| PACEMAKER | 1.00% | ~6,436 |
-| TIME PARADOX | 1.00% | ~6,436 |
+| FIREFIGHT LEVEL 30 | 1.00% | ~6,435 |
+| OUT OF ORDER | 1.00% | ~6,435 |
+| PACEMAKER | 1.00% | ~6,435 |
+| TIME PARADOX | 1.00% | ~6,435 |
 | PARTYHARD | 0.90% | ~5,792 |
 | NEW GAME PLUS | 0.70% | ~4,505 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,861 |
@@ -58,8 +58,8 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~644 |
 | WARRIOR IN A GARDEN | 0.10% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643,563 (Ranked 32)  
-Completed: 57 (0.01%) (Ranked 387)  
+Progressed: 643,542 (Ranked 32)  
+Completed: 57 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

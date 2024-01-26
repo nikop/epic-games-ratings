@@ -18,18 +18,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.70% | ~7,414 |
 | The Fool | 0.70% | ~7,414 |
 | The Lovers | 0.70% | ~7,414 |
+| The World | 0.70% | ~7,414 |
 | All the President's Men | 0.70% | ~1,314 |
 | Arachnophobia | 0.70% | ~1,314 |
 | Bushido and Chill | 0.60% | ~6,355 |
 | Gun Fu | 0.60% | ~6,355 |
 | Master Crafter | 0.60% | ~6,355 |
-| The World | 0.60% | ~6,355 |
 | Judy vs Night City | 0.60% | ~6,355 |
 | To Protect and Serve | 0.50% | ~5,296 |
 | I Am The Law | 0.50% | ~5,296 |
 | The Quick and the Dead | 0.50% | ~5,296 |
 | True Warrior | 0.50% | ~5,296 |
-| Two Heads, One Bullet | 0.40% | ~4,236 |
+| Two Heads, One Bullet | 0.40% | ~4,237 |
 | Spin Doctor | 0.40% | ~751 |
 | To Bad Decisions! | 0.30% | ~3,177 |
 | The Wandering Fool | 0.30% | ~3,177 |
@@ -40,8 +40,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.20% | ~2,118 |
 | Ten out of Ten | 0.20% | ~2,118 |
 | Temperance | 0.20% | ~2,118 |
-| The APB is Not Enough | 0.20% | ~375 |
-| Dirty Deeds | 0.20% | ~375 |
+| The APB is Not Enough | 0.20% | ~376 |
+| Dirty Deeds | 0.20% | ~376 |
 | City Lights | 0.10% | ~1,059 |
 | Autojock | 0.10% | ~1,059 |
 | Frequent Flyer | 0.10% | ~1,059 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,114 (Ranked 17)  
+Progressed: 1,059,139 (Ranked 17)  
 Completed: 3,166 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,10 +355,10 @@ Completed: 3,166 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,059,114 | 3,166 |
+| 2024-01-26 | 1,059,139 | 3,166 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
-Sum: 521,391 (Ranked 8)  
+Sum: 521,525 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -371,7 +371,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 30,474 |
 | This game has Amazing Characters | 30,172 |
 | This game is Relaxing | 29,209 |
-| This game has Quickly Understood Controls | 28,996 |
+| This game has Quickly Understood Controls | 29,130 |
 | This game has a Creative Community | 20,262 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -748,4 +748,4 @@ Diff (max vs sum): 0
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
 | 2024-01-25 | 4.68 | - | 145,126 | 520,256 |
-| 2024-01-26 | 4.68 | - | 145,126 | 521,391 |
+| 2024-01-26 | 4.68 | - | 145,126 | 521,525 |

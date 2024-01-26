@@ -6,8 +6,8 @@
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_Completed": 414,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -903,9 +903,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3934,
+  "EOS_Progressed": 3935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6208,6 +6208,11 @@
       "Time": "2024-01-25T05:06:03.9825218+00:00",
       "NumProgressed": 3934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T17:04:57.8957575+00:00",
+      "NumProgressed": 3935,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6235,7 +6240,7 @@
       "Name": "Look Over There!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "BloodAndIron",
@@ -6387,7 +6392,7 @@
       "Name": "Not So Fast...",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "Kills_Bleed",
@@ -6395,7 +6400,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -6411,7 +6416,7 @@
       "Name": "Executioner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "Kills_Exterminator",
@@ -6443,15 +6448,15 @@
       "Name": "Watch Where You Step...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 472
     },
     {
       "ID": "Kills_Vakir",
@@ -6467,7 +6472,7 @@
       "Name": "An Ill Omen",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6762,21 +6767,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3934,
+      "Progressed": 3935,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3934,
+      "Progressed": 3935,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-24T02:29:22.6319201+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:03:58.2404096+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:04:57.8957572+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:03:11.0977456+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:03:58.2404937+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:03:16.8017553+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:04:57.8958282+00:00"
 }

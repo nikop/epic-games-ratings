@@ -6,7 +6,7 @@
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -1591,12 +1591,18 @@
       "Rating": 4.64,
       "NumberOfAwards": 780,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-01-26T16:57:21.9405793+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 782,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 780,
+  "NumberOfAwards": 782,
   "NumberOfAwardsMax": 108,
-  "MaxAwardTitle": "Highly Recommended",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1608,7 +1614,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 106
+      "Count": 108
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1665,9 +1671,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7270,
+  "EOS_Progressed": 7272,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17355,6 +17361,11 @@
       "Time": "2024-01-26T10:04:43.2039003+00:00",
       "NumProgressed": 7270,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T17:05:48.5411182+00:00",
+      "NumProgressed": 7272,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17422,7 +17433,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -17438,7 +17449,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -17462,7 +17473,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17470,7 +17481,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17486,7 +17497,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -17518,7 +17529,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17526,7 +17537,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5309
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17622,7 +17633,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17638,7 +17649,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17685,15 +17696,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7270,
+      "Progressed": 7272,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-26T14:57:20.3342928+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:34.087914+00:00",
+  "LastChanged": "2024-01-26T16:57:21.9405791+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:05:48.5411177+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:01.9349749+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:34.0880303+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:21.9405798+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:05:48.5412267+00:00"
 }

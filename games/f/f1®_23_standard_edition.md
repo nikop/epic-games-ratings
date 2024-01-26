@@ -1,33 +1,33 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.65 (Ranked 326)  
+Rating: 4.65 (Ranked 327)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~17,037 |
-| On the Top Step | 83.00% | ~15,539 |
-| Setting up for Success | 70.00% | ~13,105 |
-| Team Orders | 68.00% | ~12,731 |
-| Engineer | 46.00% | ~8,612 |
-| Familiar Faces | 42.00% | ~7,863 |
-| Going the Extra Mile | 36.00% | ~6,740 |
-| Sharing the Love | 34.00% | ~6,365 |
-| Hitting a Season | 29.00% | ~5,429 |
+| Getting on the Step | 91.00% | ~17,040 |
+| On the Top Step | 83.00% | ~15,542 |
+| Setting up for Success | 70.00% | ~13,108 |
+| Team Orders | 68.00% | ~12,733 |
+| Engineer | 46.00% | ~8,614 |
+| Familiar Faces | 42.00% | ~7,864 |
+| Going the Extra Mile | 36.00% | ~6,741 |
+| Sharing the Love | 34.00% | ~6,367 |
+| Hitting a Season | 29.00% | ~5,430 |
 | A Dozen Pieces | 26.00% | ~4,868 |
-| Making History | 25.00% | ~4,680 |
-| Network Success | 24.00% | ~4,493 |
-| Challenge Yourself | 24.00% | ~4,493 |
-| Writing a new Chapter | 20.00% | ~3,744 |
-| Spring Cleaning | 19.00% | ~3,557 |
-| Reduce | 15.00% | ~2,808 |
-| Ups and Downs | 15.00% | ~2,808 |
+| Making History | 25.00% | ~4,681 |
+| Network Success | 24.00% | ~4,494 |
+| Challenge Yourself | 24.00% | ~4,494 |
+| Writing a new Chapter | 20.00% | ~3,745 |
+| Spring Cleaning | 19.00% | ~3,558 |
+| Reduce | 15.00% | ~2,809 |
+| Ups and Downs | 15.00% | ~2,809 |
 | Crucial Combo | 13.00% | ~2,434 |
 | Reuse | 13.00% | ~2,434 |
 | Proving Them Wrong | 13.00% | ~2,434 |
 | Gathering Dust | 12.00% | ~2,247 |
-| Switcheroo | 11.00% | ~2,059 |
-| One for the Book | 11.00% | ~2,059 |
+| Switcheroo | 11.00% | ~2,060 |
+| One for the Book | 11.00% | ~2,060 |
 | Eagle Eye | 10.00% | ~1,872 |
 | All in a Weekend's Work | 10.00% | ~1,872 |
 | Oil and Water | 10.00% | ~1,872 |
@@ -37,7 +37,7 @@ Rating: 4.65 (Ranked 326)
 | Spinning Around | 9.00% | ~1,685 |
 | Undisputed Winner | 7.00% | ~1,311 |
 | Recycle | 7.00% | ~1,311 |
-| Tinkerer | 6.00% | ~1,123 |
+| Tinkerer | 6.00% | ~1,124 |
 | For all Those Back at the Factory | 5.00% | ~936 |
 | Living up to Expectations | 4.00% | ~749 |
 | Smooth Operator | 4.00% | ~749 |
@@ -55,8 +55,8 @@ Rating: 4.65 (Ranked 326)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,722 (Ranked 165)  
-Completed: 0 (0.00%) (Ranked 413)  
+Progressed: 18,725 (Ranked 165)  
+Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,6 +190,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 18,659 | 0 |
 | 2024-01-24 | 18,697 | 0 |
 | 2024-01-25 | 18,722 | 0 |
+| 2024-01-26 | 18,725 | 0 |
 ## Awards
 Max (Diverse Characters): 77  (Ranked 412)  
 Sum: 492 (Ranked 342)  

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3492,6 +3492,11 @@
       "Time": "2024-01-26T15:05:24.1717641+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T17:06:16.7487583+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3536,7 +3541,7 @@
       "Name": "Liberator",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -3672,7 +3677,7 @@
       "Name": "Breathing Easy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "CompleteChapter6",
@@ -3704,7 +3709,7 @@
       "Name": "Ingredients List",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3752,7 +3757,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3799,14 +3804,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:04:54.2509855+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:06:16.7487578+00:00",
   "LastUpdate_AppInfo": "2024-01-26T11:57:12.326378+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:57:08.1104414+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:04:54.2510339+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:57:31.1321901+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:06:16.7488005+00:00"
 }

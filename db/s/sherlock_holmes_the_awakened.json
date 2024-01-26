@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -207,7 +207,7 @@
   "Tags": [],
   "EOS_Progressed": 1644,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
@@ -5936,9 +5936,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 707
     },
     {
       "ID": "MQ05_2",
@@ -5976,9 +5976,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 608
     },
     {
       "ID": "MQ06_3",
@@ -6057,8 +6057,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-26T12:04:14.5432364+00:00",
-  "LastChanged_Achievements": "2024-01-26T16:06:16.182928+00:00",
+  "LastChanged_Achievements": "2024-01-26T17:08:12.8690522+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:03:10.526351+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:06:16.1829815+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:03:15.8555887+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:08:12.8690977+00:00"
 }

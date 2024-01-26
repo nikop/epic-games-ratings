@@ -2,11 +2,11 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 327,
   "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 854,
-  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 164,
   "Store": {
@@ -3252,10 +3252,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1678,
       "NumberOfAwardsMax": 217
+    },
+    {
+      "Time": "2024-01-26T16:59:39.2747305+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1680,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1678,
+  "NumberOfAwards": 1680,
   "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3269,7 +3275,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3281,7 +3287,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 155
+      "Count": 156
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3337,8 +3343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2024-01-26T13:00:27.9522529+00:00",
+  "LastChanged": "2024-01-26T16:59:39.2747303+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:58.487837+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:58:33.2265541+00:00",
-  "LastUpdate_Achievements": "2024-01-26T16:09:16.2261947+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:59:39.2747309+00:00",
+  "LastUpdate_Achievements": "2024-01-26T17:09:51.1404312+00:00"
 }

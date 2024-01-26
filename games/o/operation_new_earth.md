@@ -5,20 +5,20 @@ Rating: 3.33 (Ranked 1,112)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~647 |
+| It's Good to have Allies | 28.00% | ~648 |
 | Defenses Online | 25.00% | ~578 |
-| Facility Online | 21.00% | ~485 |
+| Facility Online | 21.00% | ~486 |
 | Corporal | 15.00% | ~347 |
-| Sergeant | 12.00% | ~277 |
-| Covert Operative | 12.00% | ~277 |
+| Sergeant | 12.00% | ~278 |
+| Covert Operative | 12.00% | ~278 |
 | Lieutenant | 10.00% | ~231 |
 | Getting Deployment | 10.00% | ~231 |
 | Stocking Up | 10.00% | ~231 |
 | On Target | 10.00% | ~231 |
+| Fighting for Survival | 9.00% | ~208 |
 | Keeping Busy | 9.00% | ~208 |
 | Infantry Reporting | 9.00% | ~208 |
 | Exterminator | 8.00% | ~185 |
-| Fighting for Survival | 8.00% | ~185 |
 | Silver Competitor | 8.00% | ~185 |
 | Captain | 8.00% | ~185 |
 | Factory Expansion | 8.00% | ~185 |
@@ -28,8 +28,8 @@ Rating: 3.33 (Ranked 1,112)
 | Brothers in Arms | 6.00% | ~139 |
 | Player Betrayer | 5.00% | ~116 |
 | Major | 5.00% | ~116 |
-| Gold Achiever | 4.00% | ~92 |
-| Resourceful | 4.00% | ~92 |
+| Gold Achiever | 4.00% | ~93 |
+| Resourceful | 4.00% | ~93 |
 | Advanced Warfare | 3.00% | ~69 |
 | Colonel | 3.00% | ~69 |
 | Battle Ready | 3.00% | ~69 |
@@ -39,13 +39,13 @@ Rating: 3.33 (Ranked 1,112)
 | Advanced Interceptors | 1.00% | ~23 |
 | Titan Tanks | 1.00% | ~23 |
 | Shock Troops | 1.00% | ~23 |
-| Jet Troops | 0.80% | ~18 |
+| Jet Troops | 0.80% | ~19 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,311 (Ranked 251)  
-Completed: 1 (0.04%) (Ranked 362)  
+Progressed: 2,313 (Ranked 251)  
+Completed: 1 (0.04%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,6 +276,7 @@ Completed: 1 (0.04%) (Ranked 362)
 | 2024-01-23 | 2,308 | 1 |
 | 2024-01-24 | 2,310 | 1 |
 | 2024-01-25 | 2,311 | 1 |
+| 2024-01-26 | 2,313 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
