@@ -50,7 +50,7 @@
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.87% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.90% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
@@ -61,16 +61,16 @@
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.02% |
-| 62 | [Scorn](games/s/scorn.md) | 6.86% |
-| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
-| 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
-| 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
-| 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
-| 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
-| 69 | [Time Loader](games/t/time_loader.md) | 6.12% |
-| 70 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
-| 71 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 5.94% |
+| 62 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.93% |
+| 63 | [Scorn](games/s/scorn.md) | 6.86% |
+| 64 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
+| 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
+| 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
+| 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
+| 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
+| 70 | [Time Loader](games/t/time_loader.md) | 6.12% |
+| 71 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.84% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
@@ -95,7 +95,7 @@
 | 92 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 94 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.05% |
 | 95 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
-| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.84% |
+| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
 | 97 | [The Bunker](games/t/the_bunker.md) | 3.74% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
 | 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.62% |
@@ -123,9 +123,9 @@
 | 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 123 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.58% |
-| 123 | [Yars: Recharged](games/y/yars__recharged.md) | 2.58% |
-| 125 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.55% |
-| 126 | [The Complex](games/t/the_complex.md) | 2.51% |
+| 124 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.55% |
+| 125 | [The Complex](games/t/the_complex.md) | 2.51% |
+| 125 | [Yars: Recharged](games/y/yars__recharged.md) | 2.51% |
 | 127 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
 | 127 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
