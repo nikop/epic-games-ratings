@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4924,6 +4924,11 @@
       "Time": "2024-01-26T04:10:13.072174+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T15:10:28.3296528+00:00",
+      "NumProgressed": 1362,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4935,7 +4940,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "adventurous_2",
@@ -4959,7 +4964,7 @@
       "Name": "Archmage 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "archmage_2",
@@ -5103,7 +5108,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "elemental_stones_2",
@@ -5341,9 +5346,9 @@
       "ID": "sophisticated_alchemist_1",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 1",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 136
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -5462,14 +5467,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1362,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:09:43.7733269+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:10:28.3296525+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:58.8758212+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:58:59.0759901+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:09:43.7734041+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:59:23.8853808+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:10:28.3297283+00:00"
 }

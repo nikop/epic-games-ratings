@@ -37,9 +37,9 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 0.90% | ~15 |
 | Tempest | 0.90% | ~15 |
 | Storied Past | 0.80% | ~13 |
+| Worldwalker | 0.80% | ~13 |
 | Fight Like a Bird | 0.80% | ~13 |
 | Grillmaster | 0.80% | ~13 |
-| Worldwalker | 0.70% | ~11 |
 | Bonebreakers | 0.70% | ~11 |
 | A Hunger, Sated | 0.70% | ~11 |
 | Wingknight's Prowess | 0.70% | ~11 |
@@ -286,8 +286,8 @@ Completed: 7 (0.43%) (Ranked 244)
 | 2024-01-25 | 1,619 | 7 |
 | 2024-01-26 | 1,622 | 7 |
 ## Awards
-Max (Character Customization): 30  (Ranked 532)  
-Sum: 30 (Ranked 552)  
+Max (Character Customization): 30  (Ranked 533)  
+Sum: 30 (Ranked 553)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |

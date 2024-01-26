@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -604,33 +604,33 @@
       "ID": "big_apple",
       "SetID": "41moj9p",
       "Name": "Big Apple",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "black_sheep_wall",
       "SetID": "41moj9p",
       "Name": "Black Sheep Wall",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "blessed_be_his_name",
       "SetID": "41moj9p",
       "Name": "Blessed Be His Name",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "blinded_by_science",
       "SetID": "41moj9p",
       "Name": "Blinded by Science",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "blitz_krieg",
@@ -644,9 +644,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "brutus",
@@ -676,9 +676,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "columbus",
@@ -716,9 +716,9 @@
       "ID": "cut_me_own_throat",
       "SetID": "41moj9p",
       "Name": "Cut-Me-Own-Throat",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "desperate_times",
@@ -828,9 +828,9 @@
       "ID": "greed_is_good",
       "SetID": "41moj9p",
       "Name": "Greed is Good",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "hail_and_kill",
@@ -860,9 +860,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "his_all_holiness",
@@ -988,17 +988,17 @@
       "ID": "learn_me_a_book",
       "SetID": "41moj9p",
       "Name": "Learn Me a Book",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "let_us_pray",
       "SetID": "41moj9p",
       "Name": "Let Us Pray",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "let_us_trade",
@@ -1076,9 +1076,9 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1373,8 +1373,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:57.7185574+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:39.7794843+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
   "LastUpdate_Ratings": "2024-01-26T14:02:26.3391781+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:57.7186666+00:00"
+  "LastUpdate_Achievements": "2024-01-26T15:05:39.7795644+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1768,9 +1768,9 @@
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
       "SetID": "caeik3h",
       "Name": "My Precious!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOOD_DINOSAUR",
@@ -2207,8 +2207,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:39.8497314+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:21.7766896+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.8390305+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:57:21.4359959+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:39.8498234+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:57:43.0827591+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:21.7767541+00:00"
 }

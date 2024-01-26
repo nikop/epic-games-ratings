@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -6201,7 +6201,7 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 14337,
+  "EOS_Progressed": 14338,
   "EOS_Completed": 358,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 6,
@@ -26296,6 +26296,11 @@
       "Time": "2024-01-26T14:08:50.5812119+00:00",
       "NumProgressed": 14337,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2024-01-26T15:09:33.8100512+00:00",
+      "NumProgressed": 14338,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 15,
@@ -26323,7 +26328,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "Chef_Cook",
@@ -26347,7 +26352,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "Duty_Bound",
@@ -26379,7 +26384,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9749
+      "UsersEstimate": 9750
     },
     {
       "ID": "Miner",
@@ -26403,7 +26408,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "Thorn_Cleaner",
@@ -26426,7 +26431,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14337,
+      "Progressed": 14338,
       "Completed": 358
     }
   ],
@@ -26434,8 +26439,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-26T13:04:43.9801066+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:08:50.5812114+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:09:33.8100511+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:02:27.9845839+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:08:50.5813767+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:03:04.2421703+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:09:33.8101375+00:00"
 }

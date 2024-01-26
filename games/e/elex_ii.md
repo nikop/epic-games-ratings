@@ -1,23 +1,23 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~129 |
-| Best Buddy | 39.00% | ~114 |
-| Role Model | 36.00% | ~105 |
-| Civilian | 36.00% | ~105 |
+| Best Buddy | 39.00% | ~115 |
+| Role Model | 36.00% | ~106 |
+| Civilian | 36.00% | ~106 |
 | Creator | 33.00% | ~97 |
 | Military Leader | 31.00% | ~91 |
 | Festival-goer | 29.00% | ~85 |
 | Peddler | 27.00% | ~79 |
 | Commander | 26.00% | ~76 |
-| Family Reunion | 23.00% | ~67 |
-| Irissa's Fate | 23.00% | ~67 |
-| Long-Haul Flyer | 22.00% | ~64 |
+| Irissa's Fate | 23.00% | ~68 |
+| Family Reunion | 22.00% | ~65 |
+| Long-Haul Flyer | 21.00% | ~62 |
 | Pass A38 | 19.00% | ~56 |
 | Eternal Oblivion | 19.00% | ~56 |
 | Banker | 18.00% | ~53 |
@@ -34,7 +34,7 @@ Number of Ratings: 124  (23.09.2022)
 | Weaponsmith | 9.00% | ~26 |
 | Hotshot | 9.00% | ~26 |
 | Detective | 9.00% | ~26 |
-| Cleric | 8.00% | ~23 |
+| Cleric | 8.00% | ~24 |
 | Self-Sufficient | 6.00% | ~18 |
 | Alchemist | 5.00% | ~15 |
 | Unbreakable | 5.00% | ~15 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 293 (Ranked 413)  
+Progressed: 294 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 286 | 0 |
 | 2024-01-24 | 290 | 0 |
 | 2024-01-25 | 292 | 0 |
-| 2024-01-26 | 293 | 0 |
+| 2024-01-26 | 294 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

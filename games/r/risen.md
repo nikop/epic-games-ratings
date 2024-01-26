@@ -52,8 +52,8 @@ Rating: 4.60 (Ranked 432)
 | Big game hunter | 2.00% | ~4 |
 | Mage | 2.00% | ~4 |
 | Sharpshooter | 1.00% | ~2 |
+| Master of the classes | 0.90% | ~2 |
 | Gladiator | 0.50% | ~1 |
-| Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 221 (Ranked 431)  

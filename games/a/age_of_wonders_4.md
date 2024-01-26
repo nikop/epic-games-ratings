@@ -58,7 +58,7 @@ Rating: 4.63 (Ranked 360)
 | The Magic That Empowers Me! | 0.80% | ~58 |
 | Snap Out of It! | 0.70% | ~51 |
 | Jack of All Tomes | 0.60% | ~44 |
-| A Very Special Ring | 0.50% | ~36 |
+| A Very Special Ring | 0.50% | ~37 |
 | Returning Circle | 0.30% | ~22 |
 | I'll Fight You All | 0.20% | ~15 |
 | I Want to Break Free | 0.10% | ~7 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 360)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,299 (Ranked 202)  
+Progressed: 7,301 (Ranked 202)  
 Completed: 9 (0.12%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,11 +314,11 @@ Completed: 9 (0.12%) (Ranked 315)
 | 2024-01-23 | 7,293 | 8 |
 | 2024-01-24 | 7,296 | 8 |
 | 2024-01-25 | 7,298 | 9 |
-| 2024-01-26 | 7,299 | 9 |
+| 2024-01-26 | 7,301 | 9 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 484)  
-Sum: 246 (Ranked 408)  
-Diff (max vs sum): 76  
+Sum: 246 (Ranked 407)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |

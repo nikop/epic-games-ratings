@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22751,
+  "EOS_Progressed": 22753,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14986,6 +14986,11 @@
       "Time": "2024-01-26T07:11:06.6127436+00:00",
       "NumProgressed": 22751,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-26T15:10:12.4966126+00:00",
+      "NumProgressed": 22753,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15029,7 +15034,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15101,7 +15106,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5460
+      "UsersEstimate": 5461
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -15125,7 +15130,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "KILL_ROBOT",
@@ -15141,7 +15146,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -15189,7 +15194,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15372,13 +15377,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22751,
+      "Progressed": 22753,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10677,
+      "Progressed": 10679,
       "Completed": 29
     }
   ],
@@ -15386,8 +15391,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:09:28.0136433+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:10:12.4966122+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:03:09.6446193+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:09:28.01376+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:03:46.7386193+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:10:12.4967246+00:00"
 }

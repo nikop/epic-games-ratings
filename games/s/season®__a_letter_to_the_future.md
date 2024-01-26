@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Journal Beautifier | 79.00% | ~1,732 |
+| Journal Beautifier | 79.00% | ~1,733 |
 | Home Leaver | 78.00% | ~1,711 |
 | Outside World Seer | 59.00% | ~1,294 |
 | Stranger Encounterer | 35.00% | ~768 |
@@ -19,9 +19,9 @@
 | Goodbye Tieng Valley | 11.00% | ~241 |
 | The End | 11.00% | ~241 |
 | Love Uncoverer | 9.00% | ~197 |
-| Graffiti Artist | 8.00% | ~175 |
+| Graffiti Artist | 8.00% | ~176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,193 (Ranked 253)  
+Progressed: 2,194 (Ranked 253)  
 Completed: 84 (3.83%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 84 (3.83%) (Ranked 96)
 | 2024-01-23 | 2,181 | 84 |
 | 2024-01-24 | 2,186 | 84 |
 | 2024-01-25 | 2,189 | 84 |
-| 2024-01-26 | 2,193 | 84 |
+| 2024-01-26 | 2,194 | 84 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

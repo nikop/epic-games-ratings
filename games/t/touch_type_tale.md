@@ -5,17 +5,17 @@ Rating: 4.74 (Ranked 169)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,533 |
-| Flanked! | 75.00% | ~3,046 |
-| Economics 101 | 58.00% | ~2,355 |
-| Get Rich Quick | 41.00% | ~1,665 |
+| You and what Army? | 87.00% | ~3,535 |
+| Flanked! | 75.00% | ~3,047 |
+| Economics 101 | 58.00% | ~2,357 |
+| Get Rich Quick | 41.00% | ~1,666 |
 | Do the Splits | 37.00% | ~1,503 |
-| Maestro | 25.00% | ~1,015 |
+| Maestro | 25.00% | ~1,016 |
 | Full Employment | 18.00% | ~731 |
 | Clay Fighter | 16.00% | ~650 |
 | Nowhere left to Hide | 13.00% | ~528 |
-| All Ovens Blazing | 12.00% | ~487 |
-| Boulder Clash | 12.00% | ~487 |
+| All Ovens Blazing | 12.00% | ~488 |
+| Boulder Clash | 12.00% | ~488 |
 | Held Back by the Roots | 11.00% | ~447 |
 | Well Supplied | 10.00% | ~406 |
 | Sniped | 7.00% | ~284 |
@@ -28,18 +28,18 @@ Rating: 4.74 (Ranked 169)
 | An Ally in Need | 5.00% | ~203 |
 | For the Queen | 5.00% | ~203 |
 | Not a Drop Wasted | 5.00% | ~203 |
-| Reinforcements | 4.00% | ~162 |
-| Sweet Revenge | 4.00% | ~162 |
-| We Have the Technology | 4.00% | ~162 |
-| Figure of Breach | 4.00% | ~162 |
+| Reinforcements | 4.00% | ~163 |
+| Sweet Revenge | 4.00% | ~163 |
+| We Have the Technology | 4.00% | ~163 |
+| Figure of Breach | 4.00% | ~163 |
 | Work It | 3.00% | ~122 |
 | The Handyman Can! | 3.00% | ~122 |
 | A Brief Moment of Respite | 3.00% | ~122 |
 | Almost Like Winning | 2.00% | ~81 |
 | Untouchable | 1.00% | ~41 |
-| All Geared Up | 0.80% | ~32 |
+| All Geared Up | 0.80% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,061 (Ranked 221)  
+Progressed: 4,063 (Ranked 221)  
 Completed: 11 (0.27%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,6 +289,7 @@ Completed: 11 (0.27%) (Ranked 275)
 | 2024-01-22 | 4,058 | 11 |
 | 2024-01-23 | 4,059 | 11 |
 | 2024-01-25 | 4,061 | 11 |
+| 2024-01-26 | 4,063 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

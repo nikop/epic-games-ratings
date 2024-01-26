@@ -2376,9 +2376,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17176,
+  "EOS_Progressed": 17178,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21026,6 +21026,11 @@
       "Time": "2024-01-26T12:11:55.4428322+00:00",
       "NumProgressed": 17176,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T15:10:34.0650795+00:00",
+      "NumProgressed": 17178,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -23059,9 +23064,9 @@
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
       "SetID": "9201eeb",
       "Name": "Word of God",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
@@ -23900,21 +23905,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17176,
+      "Progressed": 17178,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17176,
+      "Progressed": 17178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:09:49.2557136+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:10:34.0650791+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:57:02.4421294+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:09:49.2566497+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:57:23.2512735+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:10:34.0659976+00:00"
 }

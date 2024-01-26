@@ -1,31 +1,31 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.62 (Ranked 387)  
+Rating: 4.63 (Ranked 360)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,865 |
-| First Love | 46.00% | ~1,716 |
-| Clean Race | 45.00% | ~1,678 |
-| Hear That Roar! | 43.00% | ~1,604 |
-| Bitter Rivalry | 31.00% | ~1,156 |
-| Rivals to the End | 31.00% | ~1,156 |
-| Champagne Spray | 30.00% | ~1,119 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,044 |
+| Eat My Dust | 50.00% | ~1,866 |
+| First Love | 46.00% | ~1,717 |
+| Clean Race | 45.00% | ~1,679 |
+| Hear That Roar! | 43.00% | ~1,605 |
+| Bitter Rivalry | 31.00% | ~1,157 |
+| Rivals to the End | 31.00% | ~1,157 |
+| Champagne Spray | 30.00% | ~1,120 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,045 |
 | Quick Pit Stop | 23.00% | ~858 |
-| Restored and Ready | 21.00% | ~783 |
-| I Want One Too! | 21.00% | ~783 |
+| Restored and Ready | 21.00% | ~784 |
+| I Want One Too! | 21.00% | ~784 |
 | Legendary!!! | 20.00% | ~746 |
-| Go-Faster Stripes | 18.00% | ~671 |
+| Go-Faster Stripes | 18.00% | ~672 |
 | I'm Here Too! | 15.00% | ~560 |
 | We've Just Begun | 15.00% | ~560 |
 | Is It the Right Size? | 10.00% | ~373 |
 | Stamina Star | 9.00% | ~336 |
 | Evangelist | 7.00% | ~261 |
-| Make It Your Own! | 5.00% | ~186 |
-| Cherry Blossom and Temples | 5.00% | ~186 |
-| The Road to Liberty | 5.00% | ~186 |
+| Make It Your Own! | 5.00% | ~187 |
+| Cherry Blossom and Temples | 5.00% | ~187 |
+| The Road to Liberty | 5.00% | ~187 |
 | Romantic Races | 4.00% | ~149 |
 | I Make the Rules! | 4.00% | ~149 |
 | My Work Here Is Done | 4.00% | ~149 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 387)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,730 (Ranked 226)  
+Progressed: 3,732 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 3,691 | 0 |
 | 2024-01-24 | 3,706 | 0 |
 | 2024-01-25 | 3,725 | 0 |
-| 2024-01-26 | 3,730 | 0 |
+| 2024-01-26 | 3,732 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -216,3 +216,4 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-15 | 4.59 | 0 | 0 |
 | 2024-01-23 | 4.61 | 0 | 0 |
 | 2024-01-24 | 4.62 | 0 | 0 |
+| 2024-01-26 | 4.63 | 0 | 0 |

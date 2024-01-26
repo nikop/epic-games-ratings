@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -1647,6 +1647,11 @@
       "Time": "2024-01-25T16:09:51.1323834+00:00",
       "NumProgressed": 550,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T15:09:10.4465217+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1683,7 +1688,7 @@
       "Name": "Chaos Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND4",
@@ -1691,7 +1696,7 @@
       "Name": "Ouranos Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DEFENCE_LEVEL_REACH_NUM",
@@ -1715,7 +1720,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1745,9 +1750,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 209
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1779,7 +1784,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1787,7 +1792,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1803,7 +1808,7 @@
       "Name": "Koco Leader",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1811,7 +1816,7 @@
       "Name": "The Beginning",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1851,7 +1856,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1859,7 +1864,7 @@
       "Name": "Threats Identified",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD1",
@@ -1883,7 +1888,7 @@
       "Name": "Chaos Island Memories",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD4",
@@ -1971,21 +1976,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:08:27.5968285+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:09:10.4465213+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:39.5250157+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:58:40.3494999+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:08:27.5968627+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:59:04.2704048+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:09:10.4465585+00:00"
 }

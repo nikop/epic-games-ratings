@@ -5,10 +5,10 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,481 |
-| World Map | 78.00% | ~3,758 |
-| Temple of Eternals | 56.00% | ~2,698 |
-| Prestigious | 52.00% | ~2,505 |
+| Victor | 93.00% | ~4,482 |
+| World Map | 78.00% | ~3,759 |
+| Temple of Eternals | 56.00% | ~2,699 |
+| Prestigious | 52.00% | ~2,506 |
 | Fellowship Power | 42.00% | ~2,024 |
 | Full Party | 31.00% | ~1,494 |
 | Guild Power | 22.00% | ~1,060 |
@@ -31,14 +31,14 @@ Rating: 4.08 (Ranked 1,038)
 | Doing My Part | 9.00% | ~434 |
 | Hunter | 9.00% | ~434 |
 | The power of Awakening | 9.00% | ~434 |
-| Challenger | 8.00% | ~385 |
-| Daily Quest Completionist | 8.00% | ~385 |
-| Four Leaf Clover | 8.00% | ~385 |
-| Frostfire Liberator | 8.00% | ~385 |
-| Mastery | 8.00% | ~385 |
-| Moving Up The Ladder | 8.00% | ~385 |
-| Relic Of The Past | 8.00% | ~385 |
-| Scroll Master | 8.00% | ~385 |
+| Challenger | 8.00% | ~386 |
+| Daily Quest Completionist | 8.00% | ~386 |
+| Four Leaf Clover | 8.00% | ~386 |
+| Frostfire Liberator | 8.00% | ~386 |
+| Mastery | 8.00% | ~386 |
+| Moving Up The Ladder | 8.00% | ~386 |
+| Relic Of The Past | 8.00% | ~386 |
+| Scroll Master | 8.00% | ~386 |
 | Here We Go Again | 7.00% | ~337 |
 | Master Enchanter | 7.00% | ~337 |
 | The father of Dragons | 7.00% | ~337 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,818 (Ranked 211)  
+Progressed: 4,819 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 2 (0.04%) (Ranked 362)
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
-| 2024-01-26 | 4,818 | 2 |
+| 2024-01-26 | 4,819 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 488)  
 Sum: 126 (Ranked 463)  

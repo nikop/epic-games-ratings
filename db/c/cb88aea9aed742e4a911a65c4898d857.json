@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
   "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 404,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 387,
   "Ranking_EOS_NewPlayers": 128,
@@ -465,10 +465,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 250,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-01-26T14:59:59.3157512+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 250,
+  "NumberOfAwards": 271,
   "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -495,11 +501,17 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 26
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 12251,
+  "EOS_Progressed": 12256,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6227,6 +6239,11 @@
       "Time": "2024-01-26T14:09:41.6257562+00:00",
       "NumProgressed": 12251,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T15:10:26.1272105+00:00",
+      "NumProgressed": 12256,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6239,7 +6256,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "03_TheStolenStar",
@@ -6247,7 +6264,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6335,7 +6352,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "15_Pentakill",
@@ -6343,7 +6360,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "16_TheRise",
@@ -6351,7 +6368,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "17_TheExemplar",
@@ -6367,7 +6384,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6551,7 +6568,7 @@
       "Name": "Jungle Heat",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6559,7 +6576,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6567,7 +6584,7 @@
       "Name": "No Place Like Home",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6591,7 +6608,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "47_AFlame",
@@ -6758,16 +6775,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12251,
+      "Progressed": 12256,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:09:41.6257558+00:00",
+  "LastChanged": "2024-01-26T14:59:59.315751+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:10:26.1272103+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:59:33.5674783+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:09:41.6258349+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:59:59.3157514+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:10:26.127272+00:00"
 }

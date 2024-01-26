@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1089,6 +1089,11 @@
       "Time": "2024-01-24T00:06:42.4182754+00:00",
       "NumProgressed": 454,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T15:04:37.6238696+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1164,7 +1169,7 @@
       "Name": "Janken The Great",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_04",
@@ -1196,7 +1201,7 @@
       "Name": "Wild Ox",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1227,7 +1232,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 4
     }
   ],
@@ -1235,8 +1240,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:03:57.0149181+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:04:37.623869+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.9530266+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:00:10.3672916+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:03:57.0149347+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:00:38.0326372+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:04:37.6238827+00:00"
 }

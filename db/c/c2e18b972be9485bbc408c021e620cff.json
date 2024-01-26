@@ -2,7 +2,7 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 824,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 854,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-09-28T19:59:46.8251256+00:00",
@@ -1537,10 +1537,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 501,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-26T15:00:08.4140817+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 504,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 501,
+  "NumberOfAwards": 504,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1572,13 +1578,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1625,9 +1631,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-01-26T12:01:29.6460043+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:26.9360974+00:00",
+  "LastChanged": "2024-01-26T15:00:08.4140815+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:08.1015832+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:19.64058+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:59:42.2988514+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:26.9361005+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:00:08.4140821+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:08.1015854+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1320,
+  "EOS_Progressed": 1321,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3487,6 +3487,11 @@
       "Time": "2024-01-25T22:04:33.2312376+00:00",
       "NumProgressed": 1320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T15:05:24.1717641+00:00",
+      "NumProgressed": 1321,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3555,7 +3560,7 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "CompleteChapter10",
@@ -3587,7 +3592,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "CompleteChapter14",
@@ -3641,9 +3646,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 806
     },
     {
       "ID": "CompleteChapter3",
@@ -3659,7 +3664,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "CompleteChapter5",
@@ -3675,7 +3680,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "CompleteChapter7",
@@ -3794,14 +3799,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1320,
+      "Progressed": 1321,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:42.255998+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:24.1717636+00:00",
   "LastUpdate_AppInfo": "2024-01-26T11:57:12.326378+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:57:05.7898071+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:42.256033+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:57:26.809907+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:24.1717955+00:00"
 }

@@ -10,16 +10,16 @@ Rating: 4.33 (Ranked 863)
 | Thrill Seeker | 7.00% | ~4,126 |
 | Flying Present Catcher | 6.00% | ~3,537 |
 | HFZ Goober | 6.00% | ~3,537 |
-| Sunflower Master | 5.00% | ~2,947 |
+| Sunflower Master | 5.00% | ~2,948 |
 | Hi Fiver | 3.00% | ~1,768 |
 | A Timely Splash | 3.00% | ~1,768 |
 | Backer Visitor | 2.00% | ~1,179 |
 | Hate That Randomizer | 2.00% | ~1,179 |
 | Feet on Funkotron | 2.00% | ~1,179 |
-| Elf Chaser | 1.00% | ~589 |
-| Fool Me Twice | 1.00% | ~589 |
-| Old School Jammin' | 1.00% | ~589 |
-| Wakey Wakey | 1.00% | ~589 |
+| Elf Chaser | 1.00% | ~590 |
+| Fool Me Twice | 1.00% | ~590 |
+| Old School Jammin' | 1.00% | ~590 |
+| Wakey Wakey | 1.00% | ~590 |
 | Gimme My Presents Back! | 0.80% | ~472 |
 | Level Diver | 0.80% | ~472 |
 | Cleaning Out Santa's Sack | 0.70% | ~413 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 863)
 | Why Do I Keep Doing That? | 0.10% | ~59 |
 | Hey, You Did It! | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,949 (Ranked 122)  
+Progressed: 58,950 (Ranked 122)  
 Completed: 6 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 6 (0.01%) (Ranked 387)
 | 2024-01-23 | 58,925 | 6 |
 | 2024-01-24 | 58,934 | 6 |
 | 2024-01-25 | 58,941 | 6 |
-| 2024-01-26 | 58,949 | 6 |
+| 2024-01-26 | 58,950 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

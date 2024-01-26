@@ -72,13 +72,13 @@
 | Glut of Gastronomy | 2.00% | ~11 |
 | Luxury Boutiques | 2.00% | ~11 |
 | Royal Flush | 2.00% | ~11 |
+| The King of Cool | 2.00% | ~11 |
 | Four of a Kind | 2.00% | ~11 |
 | In the Money | 2.00% | ~11 |
 | Such Great Heights | 2.00% | ~11 |
 | It is Payday | 2.00% | ~11 |
 | Plebs Are Needed | 1.00% | ~5 |
 | Full House | 1.00% | ~5 |
-| The King of Cool | 1.00% | ~5 |
 | Lofty Landlord | 1.00% | ~5 |
 | Scenario Success | 1.00% | ~5 |
 | Artistic Largesse | 0.70% | ~4 |

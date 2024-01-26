@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1064,
+  "EOS_Progressed": 1065,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3849,6 +3849,11 @@
       "Time": "2024-01-25T14:06:12.1560588+00:00",
       "NumProgressed": 1064,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T15:05:47.6679011+00:00",
+      "NumProgressed": 1065,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3908,7 +3913,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "kill-lieutenants",
@@ -3932,7 +3937,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "product-profit",
@@ -3940,7 +3945,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "rage-quit",
@@ -3988,7 +3993,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "upgrade-building",
@@ -3996,7 +4001,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "use-submarine",
@@ -4011,15 +4016,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1064,
+      "Progressed": 1065,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-21T00:03:54.481116+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:05:05.2786095+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:47.6679008+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.1776026+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:02:51.9616649+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:05:05.2786459+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:03:28.265082+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:47.6679297+00:00"
 }

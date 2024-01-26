@@ -7391,11 +7391,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 22064,
       "NumberOfAwardsMax": 6732
+    },
+    {
+      "Time": "2024-01-26T14:57:47.6363389+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 22090,
+      "NumberOfAwardsMax": 6758
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22064,
-  "NumberOfAwardsMax": 6732,
+  "NumberOfAwards": 22090,
+  "NumberOfAwardsMax": 6758,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -7426,7 +7432,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6732
+      "Count": 6758
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7453,9 +7459,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 915886,
+  "EOS_Progressed": 915889,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 19096,
+  "EOS_NewPlayers": 18904,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39843,6 +39849,11 @@
       "Time": "2024-01-26T14:04:28.780069+00:00",
       "NumProgressed": 915886,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-26T15:05:10.1131655+00:00",
+      "NumProgressed": 915889,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 37,
@@ -39854,7 +39865,7 @@
       "Name": "Last Survivor",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 36635
+      "UsersEstimate": 36636
     },
     {
       "ID": "10",
@@ -39862,7 +39873,7 @@
       "Name": "Marksman Master",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 36635
+      "UsersEstimate": 36636
     },
     {
       "ID": "11",
@@ -39934,7 +39945,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 650279
+      "UsersEstimate": 650281
     },
     {
       "ID": "2",
@@ -39958,7 +39969,7 @@
       "Name": "Killing Spree",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 164859
+      "UsersEstimate": 164860
     },
     {
       "ID": "22",
@@ -39982,7 +39993,7 @@
       "Name": "First Blood",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 109906
+      "UsersEstimate": 109907
     },
     {
       "ID": "25",
@@ -39998,7 +40009,7 @@
       "Name": "First Come, First Served",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 36635
+      "UsersEstimate": 36636
     },
     {
       "ID": "27",
@@ -40078,7 +40089,7 @@
       "Name": "You Complete Me",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 338878
+      "UsersEstimate": 338879
     },
     {
       "ID": "36",
@@ -40094,7 +40105,7 @@
       "Name": "Health Junkie",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 348037
+      "UsersEstimate": 348038
     },
     {
       "ID": "4",
@@ -40102,7 +40113,7 @@
       "Name": "Fantastic Four",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 174018
+      "UsersEstimate": 174019
     },
     {
       "ID": "5",
@@ -40110,7 +40121,7 @@
       "Name": "Top 10",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 109906
+      "UsersEstimate": 109907
     },
     {
       "ID": "6",
@@ -40149,16 +40160,16 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 915886,
+      "Progressed": 915889,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2024-01-26T11:57:54.1785448+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:28.7800686+00:00",
+  "LastChanged": "2024-01-26T14:57:47.6363385+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:10.113165+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.061199+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:57:25.8451523+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:28.7803125+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:57:47.6363392+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:10.1133622+00:00"
 }

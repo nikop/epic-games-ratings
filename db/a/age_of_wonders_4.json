@@ -4,10 +4,10 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 360,
   "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7299,
+  "EOS_Progressed": 7301,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -11519,6 +11519,11 @@
       "Time": "2024-01-26T05:05:29.623561+00:00",
       "NumProgressed": 7299,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-26T15:05:07.2369103+00:00",
+      "NumProgressed": 7301,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 60,
@@ -12002,20 +12007,20 @@
       "Name": "A Very Special Ring",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7299,
+      "Progressed": 7301,
       "Completed": 4770
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7299,
+      "Progressed": 7301,
       "Completed": 9
     }
   ],
@@ -12023,8 +12028,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-24T20:57:34.42247+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:25.9241824+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:07.2369095+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:58:12.4967129+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:25.9243207+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:58:34.9976571+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:07.2369953+00:00"
 }

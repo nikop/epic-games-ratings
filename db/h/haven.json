@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2062,
+  "EOS_Progressed": 2064,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3975,6 +3975,11 @@
       "Time": "2024-01-26T12:06:33.6597862+00:00",
       "NumProgressed": 2062,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-26T15:05:21.1250393+00:00",
+      "NumProgressed": 2064,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 30,
@@ -3986,7 +3991,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "10",
@@ -4002,7 +4007,7 @@
       "Name": "Strike!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "12",
@@ -4050,7 +4055,7 @@
       "Name": "Balding bloot!",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "18",
@@ -4058,7 +4063,7 @@
       "Name": "Like new!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "19",
@@ -4098,7 +4103,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "23",
@@ -4138,7 +4143,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "3",
@@ -4170,7 +4175,7 @@
       "Name": "Spring cleaning",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "4",
@@ -4178,7 +4183,7 @@
       "Name": "Head in the clouds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "5",
@@ -4186,7 +4191,7 @@
       "Name": "An eye for an eye",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "6",
@@ -4194,7 +4199,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "7",
@@ -4225,15 +4230,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2062,
+      "Progressed": 2064,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:39.0774991+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:21.1250389+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:57:00.4429173+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:39.0775456+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:57:21.3309011+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:21.1250679+00:00"
 }

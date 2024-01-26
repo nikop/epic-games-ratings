@@ -6,21 +6,21 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~284 |
-| Cartographer | 58.00% | ~253 |
-| A Strange Artefact | 54.00% | ~236 |
-| Insomnia | 49.00% | ~214 |
+| The Adventure Begins | 65.00% | ~285 |
+| Cartographer | 58.00% | ~254 |
+| A Strange Artefact | 53.00% | ~232 |
+| Insomnia | 49.00% | ~215 |
 | Lost & Found & Lost Again | 43.00% | ~188 |
 | From Whence we Came | 43.00% | ~188 |
 | Fire and Flood | 42.00% | ~184 |
 | Spooky! | 38.00% | ~166 |
-| Shennong Herbalist | 35.00% | ~153 |
 | Treasure Hunt | 35.00% | ~153 |
-| Good Mama | 33.00% | ~144 |
+| Shennong Herbalist | 34.00% | ~149 |
+| Good Mama | 33.00% | ~145 |
 | O Captain My Captain | 32.00% | ~140 |
-| Plunderer | 30.00% | ~131 |
+| Plunderer | 29.00% | ~127 |
 | Taxonomist | 27.00% | ~118 |
-| Traveller | 25.00% | ~109 |
+| Traveller | 25.00% | ~110 |
 | Nahua Seeker | 24.00% | ~105 |
 | Uncertain Loyalties | 24.00% | ~105 |
 | Roll to Save | 23.00% | ~101 |
@@ -38,7 +38,7 @@ Number of Ratings: 20  (23.09.2022)
 | And Here Is Your Statue | 13.00% | ~57 |
 | Discovery | 13.00% | ~57 |
 | Plays Well With Others | 13.00% | ~57 |
-| Very Classy | 12.00% | ~52 |
+| Very Classy | 12.00% | ~53 |
 | Under the Table | 11.00% | ~48 |
 | It's Complicated | 10.00% | ~44 |
 | SCHMETTERLING | 8.00% | ~35 |
@@ -53,9 +53,9 @@ Number of Ratings: 20  (23.09.2022)
 | A Paris Sunset | 5.00% | ~22 |
 | The Director Perseveres | 5.00% | ~22 |
 | The Round Table | 5.00% | ~22 |
-| X Marks the Spot | 4.00% | ~17 |
-| Frugal | 4.00% | ~17 |
-| I Set Forth Again... and Again... and Again... | 4.00% | ~17 |
+| X Marks the Spot | 4.00% | ~18 |
+| Frugal | 4.00% | ~18 |
+| I Set Forth Again... and Again... and Again... | 4.00% | ~18 |
 | A Familiar Figure | 3.00% | ~13 |
 | Lunatic | 3.00% | ~13 |
 | A Perfect Map | 3.00% | ~13 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 371)  
+Progressed: 438 (Ranked 371)  
 Completed: 1 (0.23%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 1 (0.23%) (Ranked 283)
 | 2024-01-21 | 433 | 1 |
 | 2024-01-23 | 434 | 1 |
 | 2024-01-24 | 437 | 1 |
+| 2024-01-26 | 438 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

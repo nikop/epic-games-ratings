@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 530,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 89,
@@ -917,9 +917,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 245093,
+  "EOS_Progressed": 245100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 962,
+  "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22662,6 +22662,11 @@
       "Time": "2024-01-26T14:09:35.5908257+00:00",
       "NumProgressed": 245093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T15:10:19.9433937+00:00",
+      "NumProgressed": 245100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22730,7 +22735,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51470
+      "UsersEstimate": 51471
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22738,7 +22743,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 22058
+      "UsersEstimate": 22059
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -22826,7 +22831,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -22842,7 +22847,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -22850,7 +22855,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -22858,7 +22863,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34313
+      "UsersEstimate": 34314
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -22922,7 +22927,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -22930,7 +22935,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61273
+      "UsersEstimate": 61275
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22945,7 +22950,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 245093,
+      "Progressed": 245100,
       "Completed": 0
     }
   ],
@@ -22953,8 +22958,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:09:35.5908254+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:10:19.9433934+00:00",
   "LastUpdate_AppInfo": "2024-01-26T07:57:14.0725563+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:59:52.9886708+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:09:35.5909742+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:00:19.8245694+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:10:19.9434892+00:00"
 }

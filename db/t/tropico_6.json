@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 348,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 201,
@@ -1585,10 +1585,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 778,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-01-26T14:57:20.3342929+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 780,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 778,
+  "NumberOfAwards": 780,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1620,7 +1626,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 98
+      "Count": 100
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1661,7 +1667,7 @@
   ],
   "EOS_Progressed": 7270,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17685,9 +17691,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-24T20:01:13.2201747+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:22.8620303+00:00",
+  "LastChanged": "2024-01-26T14:57:20.3342928+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:04.0889322+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:04:39.1728702+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:22.8621754+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:57:20.3342932+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:04.0890444+00:00"
 }

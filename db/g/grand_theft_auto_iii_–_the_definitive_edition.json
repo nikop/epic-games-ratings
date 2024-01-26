@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12543,
+  "EOS_Progressed": 12547,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16518,6 +16518,11 @@
       "Time": "2024-01-26T14:04:51.1225228+00:00",
       "NumProgressed": 12543,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-26T15:05:33.0251935+00:00",
+      "NumProgressed": 12547,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16529,7 +16534,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10411
+      "UsersEstimate": 10414
     },
     {
       "ID": "ACH02",
@@ -16537,7 +16542,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "ACH03",
@@ -16553,7 +16558,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4893
     },
     {
       "ID": "ACH05",
@@ -16593,7 +16598,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH10",
@@ -16601,7 +16606,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3639
     },
     {
       "ID": "ACH11",
@@ -16649,7 +16654,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "ACH17",
@@ -16657,7 +16662,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "ACH18",
@@ -16673,7 +16678,7 @@
       "Name": "A Gift from the King",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH20",
@@ -16760,7 +16765,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12543,
+      "Progressed": 12547,
       "Completed": 97
     }
   ],
@@ -16768,8 +16773,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:51.1225224+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:33.025193+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:59:04.6867135+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:51.1226252+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:59:29.689913+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:33.0252912+00:00"
 }

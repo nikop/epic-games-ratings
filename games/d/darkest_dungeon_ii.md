@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,289 |
-| Autodidact | 9.00% | ~12,035 |
-| Lost and Found | 9.00% | ~773 |
+| Malpractice Assurance | 15.00% | ~1,290 |
+| Autodidact | 9.00% | ~12,036 |
+| Lost and Found | 9.00% | ~774 |
 | This guy... again? | 8.00% | ~688 |
 | Serenity Now! | 7.00% | ~9,361 |
 | This Belongs in a Museum | 7.00% | ~9,361 |
@@ -26,11 +26,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 6.00% | ~8,024 |
 | FNG | 6.00% | ~8,024 |
 | Bloody Graduation | 6.00% | ~516 |
-| Not Today! | 5.00% | ~6,686 |
-| Merry Time | 5.00% | ~6,686 |
-| Harvest Festival | 5.00% | ~6,686 |
-| Whale | 5.00% | ~6,686 |
-| Nope | 5.00% | ~6,686 |
+| Not Today! | 5.00% | ~6,687 |
+| Merry Time | 5.00% | ~6,687 |
+| Harvest Festival | 5.00% | ~6,687 |
+| Whale | 5.00% | ~6,687 |
+| Nope | 5.00% | ~6,687 |
 | Friends 'Til the End | 5.00% | ~430 |
 | Resurrection | 4.00% | ~5,349 |
 | Unleash Hell | 4.00% | ~5,349 |
@@ -56,12 +56,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~4,012 |
 | Hot Air | 3.00% | ~4,012 |
 | Eyes Up | 3.00% | ~4,012 |
-| Ichthyophobic | 2.00% | ~2,674 |
-| No More Mouths to Feed | 2.00% | ~2,674 |
-| Shrine of Reflection | 2.00% | ~2,674 |
-| Worldly Traveller | 2.00% | ~2,674 |
-| Handled | 2.00% | ~2,674 |
-| Body of Work | 2.00% | ~2,674 |
+| Ichthyophobic | 2.00% | ~2,675 |
+| No More Mouths to Feed | 2.00% | ~2,675 |
+| Shrine of Reflection | 2.00% | ~2,675 |
+| Worldly Traveller | 2.00% | ~2,675 |
+| Handled | 2.00% | ~2,675 |
+| Body of Work | 2.00% | ~2,675 |
 | Clearing the Ledger | 1.00% | ~1,337 |
 | Hat Trick | 1.00% | ~1,337 |
 | Triage | 1.00% | ~1,337 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,725 (Ranked 92)  
+Progressed: 133,732 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 5 (0.00%) (Ranked 413)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,725 | 5 |
+| 2024-01-26 | 133,732 | 5 |
 ## Awards
 Max (Character Customization): 8,078  (Ranked 52)  
 Sum: 21,870 (Ranked 60)  

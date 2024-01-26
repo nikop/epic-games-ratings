@@ -28,20 +28,20 @@
 | Prison Break | 50.00% | ~15 |
 | I Pick You | 50.00% | ~15 |
 | Accomplished Smithy | 50.00% | ~15 |
+| Nature's Savior | 50.00% | ~15 |
+| Hammer It Home | 50.00% | ~15 |
 | The Blight's Blight | 47.00% | ~14 |
 | The Ultimate Sacrifice | 47.00% | ~14 |
-| Nature's Savior | 47.00% | ~14 |
-| Hammer It Home | 47.00% | ~14 |
-| For Whom the Bell Tolls | 37.00% | ~11 |
-| Here I Am | 37.00% | ~11 |
-| Break The Cycle | 33.00% | ~10 |
+| For Whom the Bell Tolls | 40.00% | ~12 |
+| Here I Am | 40.00% | ~12 |
+| Break The Cycle | 37.00% | ~11 |
 | Continue The Cycle | 27.00% | ~8 |
-| Talent And Dedication | 20.00% | ~6 |
-| Read, Read, Read | 17.00% | ~5 |
-| Ledge-walker | 17.00% | ~5 |
-| Prolific Artist | 17.00% | ~5 |
+| Talent And Dedication | 23.00% | ~7 |
+| Read, Read, Read | 20.00% | ~6 |
+| Ledge-walker | 20.00% | ~6 |
+| Prolific Artist | 20.00% | ~6 |
+| Merely Inquisitive | 20.00% | ~6 |
 | Slip and Slide | 17.00% | ~5 |
-| Merely Inquisitive | 17.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 614)  
 Completed: 5 (16.67%) (Ranked 27)  

@@ -187,6 +187,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Hotseat Game | 0.20% | ~34 |
 | Punic Wars | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
+| Word of God | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
 | The Great Mage | 0.20% | ~34 |
 | Kmt Unified | 0.20% | ~34 |
@@ -282,7 +283,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.10% | ~17 |
 | Roman Papacy | 0.10% | ~17 |
 | Pantheon in Roma | 0.10% | ~17 |
-| Word of God | 0.10% | ~17 |
 | Great Ziggurat in Ur | 0.10% | ~17 |
 | No Characters | 0.10% | ~17 |
 | One City Challenge | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,176 (Ranked 170)  
+Progressed: 17,178 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 5 (0.03%) (Ranked 368)
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
-| 2024-01-26 | 17,176 | 5 |
+| 2024-01-26 | 17,178 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 288)  
 Sum: 1,947 (Ranked 224)  

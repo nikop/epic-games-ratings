@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4061,
+  "EOS_Progressed": 4063,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5810,6 +5810,11 @@
       "Time": "2024-01-25T12:04:22.4136768+00:00",
       "NumProgressed": 4061,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-26T15:05:10.3181684+00:00",
+      "NumProgressed": 4063,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5821,7 +5826,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "bonus2",
@@ -5861,7 +5866,7 @@
       "Name": "All Geared Up",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "campaign1",
@@ -5869,7 +5874,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3535
     },
     {
       "ID": "campaign10",
@@ -5885,7 +5890,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "campaign12",
@@ -5941,7 +5946,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "campaign19",
@@ -5957,7 +5962,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "campaign20",
@@ -5973,7 +5978,7 @@
       "Name": "Economics 101",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2357
     },
     {
       "ID": "campaign4",
@@ -5981,7 +5986,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "campaign5",
@@ -6005,7 +6010,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "campaign8",
@@ -6021,7 +6026,7 @@
       "Name": "Boulder Clash",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "scenario1",
@@ -6061,7 +6066,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "scenario6",
@@ -6069,7 +6074,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "scenario7",
@@ -6084,7 +6089,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4061,
+      "Progressed": 4063,
       "Completed": 11
     }
   ],
@@ -6092,8 +6097,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-21T14:59:54.3587878+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:29.0366825+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:10.3181679+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:44.1211002+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:57:55.580858+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:29.0367426+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:58:17.8225334+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:10.3182159+00:00"
 }

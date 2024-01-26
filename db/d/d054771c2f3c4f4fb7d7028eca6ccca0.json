@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4650,
+  "EOS_Progressed": 4653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6129,6 +6129,11 @@
       "Time": "2024-01-26T14:04:53.2411285+00:00",
       "NumProgressed": 4650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T15:05:35.2199075+00:00",
+      "NumProgressed": 4653,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -6149,7 +6154,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -6165,7 +6170,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -6173,7 +6178,7 @@
       "Name": "Gruesome Ball Handler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -6229,7 +6234,7 @@
       "Name": "Grim Challenger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -6301,7 +6306,7 @@
       "Name": "Your Own Nightmare",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -6325,7 +6330,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6339,9 +6344,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2187
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6516,20 +6521,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4650,
+      "Progressed": 4653,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 428,
-      "Completed": 428
+      "Progressed": 431,
+      "Completed": 431
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:04:53.2411282+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:05:35.219907+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:08.5926908+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:02:32.8253493+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:04:53.2411965+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:03:09.7028667+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:05:35.2199755+00:00"
 }

@@ -385,7 +385,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1285,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -3420,6 +3420,11 @@
       "Time": "2024-01-26T14:08:42.1181487+00:00",
       "NumProgressed": 1285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T15:09:25.1696726+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3432,7 +3437,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "CareerAllChallenges",
@@ -3440,7 +3445,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "CareerChamp1",
@@ -3488,7 +3493,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "CollectVehiclesA",
@@ -3591,7 +3596,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1285,
+      "Progressed": 1286,
       "Completed": 0
     }
   ],
@@ -3599,8 +3604,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-25T13:58:32.8923112+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:08:42.1181483+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:09:25.169672+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:58:22.3673074+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:08:42.1181927+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:58:45.1814258+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:09:25.169702+00:00"
 }

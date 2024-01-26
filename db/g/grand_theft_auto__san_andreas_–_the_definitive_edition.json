@@ -2707,9 +2707,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 19861,
+  "EOS_Progressed": 19862,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21557,6 +21557,11 @@
       "Time": "2024-01-26T14:09:38.0792239+00:00",
       "NumProgressed": 19861,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-26T15:10:22.5304199+00:00",
+      "NumProgressed": 19862,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 35,
@@ -21568,7 +21573,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "ACH02",
@@ -21624,7 +21629,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10129
+      "UsersEstimate": 10130
     },
     {
       "ID": "ACH09",
@@ -21688,7 +21693,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "ACH17",
@@ -21847,7 +21852,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19861,
+      "Progressed": 19862,
       "Completed": 84
     }
   ],
@@ -21855,8 +21860,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-26T10:59:36.5739253+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:09:38.0792235+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:10:22.5304196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:59:16.5165109+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:09:38.0793751+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:59:41.8276065+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:10:22.5305246+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2193,
+  "EOS_Progressed": 2194,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
@@ -5364,6 +5364,11 @@
       "Time": "2024-01-26T12:11:28.8994359+00:00",
       "NumProgressed": 2193,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-26T15:10:13.8871337+00:00",
+      "NumProgressed": 2194,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 16,
@@ -5415,7 +5420,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -5439,7 +5444,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5502,7 +5507,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2193,
+      "Progressed": 2194,
       "Completed": 84
     }
   ],
@@ -5510,8 +5515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:09:29.6057976+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:10:13.8871334+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:57:58.097582+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:09:29.6058365+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:58:20.4210191+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:10:13.8871709+00:00"
 }

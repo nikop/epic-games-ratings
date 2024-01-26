@@ -6,27 +6,27 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 77.00% | ~6,232 |
-| Get A Room | 76.00% | ~6,151 |
+| Having A Field Day | 77.00% | ~6,233 |
+| Get A Room | 76.00% | ~6,152 |
 | Reap What You Sow | 73.00% | ~5,909 |
 | The First Day | 70.00% | ~5,666 |
-| Novice Researcher | 69.00% | ~5,585 |
-| Green Thumb | 68.00% | ~5,504 |
-| Home Cooked Meal | 63.00% | ~5,099 |
+| Novice Researcher | 69.00% | ~5,586 |
+| Green Thumb | 68.00% | ~5,505 |
+| Home Cooked Meal | 63.00% | ~5,100 |
 | Onward | 58.00% | ~4,695 |
 | The First Week | 56.00% | ~4,533 |
 | Beam Me Up | 53.00% | ~4,290 |
 | Studious Researcher | 53.00% | ~4,290 |
-| Adept Researcher | 45.00% | ~3,642 |
-| Putting Food on the Table | 44.00% | ~3,561 |
-| Retribution | 43.00% | ~3,480 |
-| ...And Don’t Come Back! | 43.00% | ~3,480 |
+| Adept Researcher | 45.00% | ~3,643 |
+| Putting Food on the Table | 44.00% | ~3,562 |
+| Retribution | 43.00% | ~3,481 |
+| ...And Don’t Come Back! | 43.00% | ~3,481 |
 | Feast or Famine | 35.00% | ~2,833 |
 | Heating Up | 33.00% | ~2,671 |
 | Winter Is Coming | 30.00% | ~2,428 |
 | Luminary Researcher | 30.00% | ~2,428 |
-| Fit For A King | 27.00% | ~2,185 |
-| Winter Is Here | 26.00% | ~2,104 |
+| Fit For A King | 27.00% | ~2,186 |
+| Winter Is Here | 26.00% | ~2,105 |
 | Disassembled | 23.00% | ~1,862 |
 | Oh Deer! | 23.00% | ~1,862 |
 | All Year Round | 23.00% | ~1,862 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~162 |
 | Wabbit Season | 0.50% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,094 (Ranked 198)  
+Progressed: 8,095 (Ranked 198)  
 Completed: 14 (0.17%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 14 (0.17%) (Ranked 297)
 | 2024-01-23 | 8,071 | 14 |
 | 2024-01-24 | 8,078 | 14 |
 | 2024-01-25 | 8,088 | 14 |
-| 2024-01-26 | 8,094 | 14 |
+| 2024-01-26 | 8,095 | 14 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 348)  
 Sum: 1,066 (Ranked 272)  

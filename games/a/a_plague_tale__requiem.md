@@ -1,31 +1,31 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 185)  
+Rating: 4.73 (Ranked 186)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~17,129 |
-| Newcomers | 76.00% | ~14,305 |
-| A Burden of Blood | 71.00% | ~13,364 |
-| Protector's Duty | 67.00% | ~12,611 |
-| Alchemist | 66.00% | ~12,423 |
-| In our Wake | 65.00% | ~12,235 |
-| Leaving all Behind | 62.00% | ~11,670 |
+| Under a New Sun | 91.00% | ~17,130 |
+| Newcomers | 76.00% | ~14,306 |
+| A Burden of Blood | 71.00% | ~13,365 |
+| Protector's Duty | 67.00% | ~12,612 |
+| Alchemist | 66.00% | ~12,424 |
+| In our Wake | 65.00% | ~12,236 |
+| Leaving all Behind | 62.00% | ~11,671 |
 | Felons | 59.00% | ~11,106 |
-| A Sea of Promises | 58.00% | ~10,917 |
+| A Sea of Promises | 58.00% | ~10,918 |
 | Tales and Revelations | 55.00% | ~10,353 |
 | Bloodline | 50.00% | ~9,412 |
 | The Cradle of Centuries | 46.00% | ~8,659 |
 | The Life We Deserve | 43.00% | ~8,094 |
-| Night guard | 41.00% | ~7,717 |
+| Night guard | 41.00% | ~7,718 |
 | Nothing Left | 37.00% | ~6,965 |
 | Healing our Wounds | 35.00% | ~6,588 |
 | Dying Sun | 31.00% | ~5,835 |
 | Improved crossbow | 25.00% | ~4,706 |
 | King Hugo | 24.00% | ~4,518 |
-| Perfect shot | 23.00% | ~4,329 |
-| Mercy | 23.00% | ~4,329 |
+| Perfect shot | 23.00% | ~4,330 |
+| Mercy | 23.00% | ~4,330 |
 | Effective instruments | 21.00% | ~3,953 |
 | Knights! | 20.00% | ~3,765 |
 | Perfect throw | 20.00% | ~3,765 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 185)
 | Explorer | 1.00% | ~188 |
 | Malignant | 1.00% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,823 (Ranked 164)  
+Progressed: 18,824 (Ranked 164)  
 Completed: 71 (0.38%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 71 (0.38%) (Ranked 254)
 | 2024-01-23 | 18,733 | 70 |
 | 2024-01-24 | 18,774 | 70 |
 | 2024-01-25 | 18,805 | 71 |
-| 2024-01-26 | 18,823 | 71 |
+| 2024-01-26 | 18,824 | 71 |
 ## Awards
 Max (Great Boss Battles): 473  (Ranked 229)  
 Sum: 740 (Ranked 309)  

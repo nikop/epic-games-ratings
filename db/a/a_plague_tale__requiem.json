@@ -2,13 +2,13 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 185,
+  "Ranking_Rating": 186,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -875,7 +875,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18823,
+  "EOS_Progressed": 18824,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 4,
@@ -17165,6 +17165,11 @@
       "Time": "2024-01-26T14:03:25.8920424+00:00",
       "NumProgressed": 18823,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-26T15:04:04.898106+00:00",
+      "NumProgressed": 18824,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 35,
@@ -17176,7 +17181,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17129
+      "UsersEstimate": 17130
     },
     {
       "ID": "ACH_02",
@@ -17184,7 +17189,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14305
+      "UsersEstimate": 14306
     },
     {
       "ID": "ACH_03",
@@ -17192,7 +17197,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 13364
+      "UsersEstimate": 13365
     },
     {
       "ID": "ACH_04",
@@ -17200,7 +17205,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12611
+      "UsersEstimate": 12612
     },
     {
       "ID": "ACH_05",
@@ -17208,7 +17213,7 @@
       "Name": "In our Wake",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "ACH_06",
@@ -17216,7 +17221,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 11670
+      "UsersEstimate": 11671
     },
     {
       "ID": "ACH_07",
@@ -17232,7 +17237,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 10917
+      "UsersEstimate": 10918
     },
     {
       "ID": "ACH_09",
@@ -17384,7 +17389,7 @@
       "Name": "Night guard",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 7717
+      "UsersEstimate": 7718
     },
     {
       "ID": "ACH_28",
@@ -17392,7 +17397,7 @@
       "Name": "Alchemist",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "ACH_29",
@@ -17424,7 +17429,7 @@
       "Name": "Perfect shot",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "ACH_33",
@@ -17448,14 +17453,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18823,
+      "Progressed": 18824,
       "Completed": 71
     }
   ],
@@ -17463,8 +17468,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-24T21:58:09.3389593+00:00",
-  "LastChanged_Achievements": "2024-01-26T14:03:25.892042+00:00",
+  "LastChanged_Achievements": "2024-01-26T15:04:04.8981054+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-26T13:59:09.407109+00:00",
-  "LastUpdate_Achievements": "2024-01-26T14:03:25.8921534+00:00"
+  "LastUpdate_Ratings": "2024-01-26T14:59:34.5046347+00:00",
+  "LastUpdate_Achievements": "2024-01-26T15:04:04.8982001+00:00"
 }
