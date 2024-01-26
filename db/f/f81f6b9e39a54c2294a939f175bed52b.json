@@ -4,8 +4,8 @@
   "ProductSlug": "castaway-station-e8dd5f",
   "Ranking_EOS_Progress": 782,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-07-01T06:00:00+00:00",
@@ -264,8 +264,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-24T15:03:07.7168783+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:04:54.2073786+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:04:24.2078209+00:00",
   "LastUpdate_AppInfo": "2024-01-24T14:57:03.2420078+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:58:27.3982785+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:04:54.2073944+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:58:08.6247685+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:04:24.207856+00:00"
 }

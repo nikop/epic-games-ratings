@@ -4,11 +4,11 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 326,
   "Ranking_Popularity": 261,
-  "Ranking_PopularitySum": 233,
+  "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -4567,10 +4567,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1735,
       "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2024-01-26T15:57:48.0560209+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1741,
+      "NumberOfAwardsMax": 321
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1735,
+  "NumberOfAwards": 1741,
   "NumberOfAwardsMax": 321,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4584,13 +4590,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 230
+      "Count": 234
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 234
+      "Count": 236
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4655,9 +4661,9 @@
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "FirstSeenAchievements": "2024-01-11T18:08:26.6528361+00:00",
-  "LastChanged": "2024-01-26T09:57:43.6716864+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:04:21.5709671+00:00",
+  "LastChanged": "2024-01-26T15:57:48.0560207+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:03:51.1849462+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:01.2434038+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:58:07.2583851+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:04:21.5709703+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:57:48.0560212+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:03:51.184948+00:00"
 }

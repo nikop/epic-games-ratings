@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2376,9 +2376,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17178,
+  "EOS_Progressed": 17179,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21031,6 +21031,11 @@
       "Time": "2024-01-26T15:10:34.0650795+00:00",
       "NumProgressed": 17178,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T16:10:23.2359302+00:00",
+      "NumProgressed": 17179,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21888,9 +21893,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
       "SetID": "7l38kb8",
       "Name": "Clerics",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -22608,9 +22613,9 @@
       "ID": "ACHIEVEMENT_MEDOBABYLONIAN_CONQUEST",
       "SetID": "9201eeb",
       "Name": "Medo-Babylonian Conquest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_MEMPHIS_PYRAMIDS",
@@ -23905,21 +23910,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17178,
+      "Progressed": 17179,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17178,
+      "Progressed": 17179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:10:34.0650791+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:10:23.2359296+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:57:23.2512735+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:10:34.0659976+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:57:04.7876652+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:10:23.2368668+00:00"
 }

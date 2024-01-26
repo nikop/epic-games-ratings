@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 387,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -826,7 +826,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44964,
+  "EOS_Progressed": 44966,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
@@ -29666,6 +29666,11 @@
       "Time": "2024-01-26T15:05:01.0748963+00:00",
       "NumProgressed": 44964,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T16:04:30.9328278+00:00",
+      "NumProgressed": 44966,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29797,7 +29802,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16187
+      "UsersEstimate": 16188
     },
     {
       "ID": "ach_die10",
@@ -30021,7 +30026,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "ach_sweetheart",
@@ -30108,15 +30113,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44964,
+      "Progressed": 44966,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:05:01.0748954+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:04:30.9328275+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:00:11.7073748+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:05:01.0750654+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:59:53.9438586+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:04:30.9330265+00:00"
 }

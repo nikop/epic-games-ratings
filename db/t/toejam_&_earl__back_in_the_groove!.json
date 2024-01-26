@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 387,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58950,
+  "EOS_Progressed": 58951,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -16471,6 +16471,11 @@
       "Time": "2024-01-26T15:04:46.9257655+00:00",
       "NumProgressed": 58950,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T16:04:17.0480174+00:00",
+      "NumProgressed": 58951,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16642,7 +16647,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "IsThisPossible",
@@ -16818,7 +16823,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "TimelySplash",
@@ -16826,7 +16831,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "TotalBummer",
@@ -16873,7 +16878,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58950,
+      "Progressed": 58951,
       "Completed": 6
     }
   ],
@@ -16881,8 +16886,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:04:46.9257649+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:04:17.0480172+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.1607038+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:57:56.2940008+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:04:46.9258467+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:57:37.3935365+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:04:17.0481105+00:00"
 }

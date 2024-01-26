@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -87,7 +87,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1359,
+  "EOS_Progressed": 1360,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -4202,6 +4202,11 @@
       "Time": "2024-01-25T07:11:12.5238129+00:00",
       "NumProgressed": 1359,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-26T16:10:19.124098+00:00",
+      "NumProgressed": 1360,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4221,7 +4226,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -4317,7 +4322,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "FairgroundsChests1",
@@ -4333,7 +4338,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4365,7 +4370,7 @@
       "Name": "Whiz Kid",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "GrindingTime1",
@@ -4397,7 +4402,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "LacunaCompleted",
@@ -4501,7 +4506,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "RewindParry",
@@ -4581,7 +4586,7 @@
       "Name": "Theater Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -4589,7 +4594,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "WarwickDefeated",
@@ -4613,7 +4618,7 @@
       "Name": "Good Neighbor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4636,7 +4641,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1359,
+      "Progressed": 1360,
       "Completed": 8
     }
   ],
@@ -4644,8 +4649,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-23T01:49:49.4916603+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:10:29.8035101+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:10:19.1240977+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:58:12.899471+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:10:29.8035538+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:57:53.7910083+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:10:19.1241672+00:00"
 }

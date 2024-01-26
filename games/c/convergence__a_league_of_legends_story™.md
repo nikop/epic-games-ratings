@@ -5,10 +5,10 @@ Rating: 4.67 (Ranked 288)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 48.00% | ~652 |
+| Time Heals All Wounds | 48.00% | ~653 |
 | Rail Rat | 37.00% | ~503 |
-| The Mysterious Stranger | 36.00% | ~489 |
-| Immaculate Aim | 31.00% | ~421 |
+| The Mysterious Stranger | 36.00% | ~490 |
+| Immaculate Aim | 31.00% | ~422 |
 | The Brass Boss | 29.00% | ~394 |
 | Time Flies | 28.00% | ~381 |
 | No, Thanks! | 28.00% | ~381 |
@@ -18,7 +18,7 @@ Rating: 4.67 (Ranked 288)
 | Honest Mistake | 27.00% | ~367 |
 | Fast Learner | 27.00% | ~367 |
 | Immaculate Aim | 27.00% | ~367 |
-| The Steel Shadow | 26.00% | ~353 |
+| The Steel Shadow | 26.00% | ~354 |
 | The Wicked Twins | 25.00% | ~340 |
 | Right On Time | 24.00% | ~326 |
 | Breaking Down Barriers | 24.00% | ~326 |
@@ -26,12 +26,12 @@ Rating: 4.67 (Ranked 288)
 | Like Clockwork | 23.00% | ~313 |
 | The Betrayer | 23.00% | ~313 |
 | Check Your Pulse | 22.00% | ~299 |
-| The Loose Cannon | 21.00% | ~285 |
+| The Loose Cannon | 21.00% | ~286 |
 | Street Style | 20.00% | ~272 |
 | The Man Who Shattered Time | 20.00% | ~272 |
 | The Family Fortune | 20.00% | ~272 |
-| Whiz Kid | 16.00% | ~217 |
-| Good Neighbor | 16.00% | ~217 |
+| Whiz Kid | 16.00% | ~218 |
+| Good Neighbor | 16.00% | ~218 |
 | Family Memories | 15.00% | ~204 |
 | Chaincrawler Explorer | 14.00% | ~190 |
 | Syron for Hope | 14.00% | ~190 |
@@ -39,8 +39,8 @@ Rating: 4.67 (Ranked 288)
 | Treasure Trove | 13.00% | ~177 |
 | Cartographer | 13.00% | ~177 |
 | Sump Explorer | 13.00% | ~177 |
-| Factorywood Explorer | 11.00% | ~149 |
-| Theater Explorer | 11.00% | ~149 |
+| Factorywood Explorer | 11.00% | ~150 |
+| Theater Explorer | 11.00% | ~150 |
 | Cultivair Explorer | 10.00% | ~136 |
 | Fairgrounds Explorer | 10.00% | ~136 |
 | Corin Goes Home | 9.00% | ~122 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 288)
 | Raw Talent | 0.70% | ~10 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,359 (Ranked 283)  
+Progressed: 1,360 (Ranked 283)  
 Completed: 8 (0.59%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 8 (0.59%) (Ranked 220)
 | 2024-01-23 | 1,355 | 8 |
 | 2024-01-24 | 1,358 | 8 |
 | 2024-01-25 | 1,359 | 8 |
+| 2024-01-26 | 1,360 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

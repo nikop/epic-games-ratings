@@ -5,29 +5,31 @@ Rating: 4.36 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 21.00% | ~42 |
-| Help! Help! I’m being repressed | 20.00% | ~40 |
-| Hail to the King, Baby | 19.00% | ~38 |
-| Bring it on! | 18.00% | ~36 |
-| Path of Glory | 16.00% | ~32 |
-| There is no Nobility in Poverty | 14.00% | ~28 |
-| They Got What They Deserved | 12.00% | ~24 |
-| Full House | 10.00% | ~20 |
-| Playerxander the Great | 10.00% | ~20 |
-| The finest merchandise this side of river Jordan | 10.00% | ~20 |
+| Can’t Touch This | 22.00% | ~45 |
+| Help! Help! I’m being repressed | 21.00% | ~43 |
+| Hail to the King, Baby | 20.00% | ~41 |
+| Path of Glory | 18.00% | ~37 |
+| Bring it on! | 17.00% | ~35 |
+| There is no Nobility in Poverty | 15.00% | ~31 |
+| They Got What They Deserved | 14.00% | ~29 |
+| Full House | 11.00% | ~23 |
+| Playerxander the Great | 11.00% | ~23 |
+| The finest merchandise this side of river Jordan | 10.00% | ~21 |
+| Dinner Time | 8.00% | ~16 |
 | Big Apple | 7.00% | ~14 |
-| Dinner Time | 7.00% | ~14 |
+| All the King's Men | 6.00% | ~12 |
 | Cut-Me-Own-Throat | 6.00% | ~12 |
 | Learn Me a Book | 6.00% | ~12 |
-| All the King's Men | 5.00% | ~10 |
+| What we’ve got here is failure to communicate | 6.00% | ~12 |
 | Black Sheep Wall | 5.00% | ~10 |
 | Do you read Sutter Cane? | 5.00% | ~10 |
-| What we’ve got here is failure to communicate | 5.00% | ~10 |
 | Blessed Be His Name | 4.00% | ~8 |
 | Blinded by Science | 4.00% | ~8 |
 | His name is King | 4.00% | ~8 |
 | Kingslayer | 4.00% | ~8 |
 | Let Us Pray | 4.00% | ~8 |
+| On the third day at dawn, look east | 4.00% | ~8 |
+| Pillars of the Earth | 4.00% | ~8 |
 | Scientia potentia es | 4.00% | ~8 |
 | The Magnificent Nine | 4.00% | ~8 |
 | ‘Tis but a scratch | 4.00% | ~8 |
@@ -35,15 +37,14 @@ Rating: 4.36 (Ranked 824)
 | Desperate Times Call for Desperate Measures | 3.00% | ~6 |
 | Forth, Eorlingas! | 3.00% | ~6 |
 | Greed is Good | 3.00% | ~6 |
-| On the third day at dawn, look east | 3.00% | ~6 |
-| Pillars of the Earth | 3.00% | ~6 |
+| Fight Another Day | 3.00% | ~6 |
+| Let us trade with these fine people | 3.00% | ~6 |
 | A Quiet Palace | 2.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~4 |
 | Fighting with Power and Steel | 2.00% | ~4 |
 | He made it out, but with an arrow in his back | 2.00% | ~4 |
+| His All-Holiness | 2.00% | ~4 |
 | I started a joke | 2.00% | ~4 |
-| Fight Another Day | 2.00% | ~4 |
-| Let us trade with these fine people | 2.00% | ~4 |
 | Naught but a Seamless Victory | 2.00% | ~4 |
 | Renaissance Man | 2.00% | ~4 |
 | Time to find India | 2.00% | ~4 |
@@ -51,7 +52,6 @@ Rating: 4.36 (Ranked 824)
 | Zerg Rush | 1.00% | ~2 |
 | Crusader “you know what” | 1.00% | ~2 |
 | From Rags to Riches | 1.00% | ~2 |
-| His All-Holiness | 1.00% | ~2 |
 | Lord of the Kings | 1.00% | ~2 |
 | New Mineland | 1.00% | ~2 |
 | Power Overwhelming | 1.00% | ~2 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 824)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 438)  
+Progressed: 206 (Ranked 437)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 202 | 0 |
+| 2024-01-26 | 206 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

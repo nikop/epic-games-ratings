@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -443,10 +443,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29540,
-  "EOS_Completed": 546,
-  "EOS_NewPlayers": 523,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 29543,
+  "EOS_Completed": 547,
+  "EOS_NewPlayers": 524,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
@@ -30738,6 +30738,11 @@
       "Time": "2024-01-26T15:05:31.2320322+00:00",
       "NumProgressed": 29540,
       "NumCompleted": 546
+    },
+    {
+      "Time": "2024-01-26T16:05:00.9497279+00:00",
+      "NumProgressed": 29543,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 20,
@@ -30749,7 +30754,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -30781,7 +30786,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -30829,7 +30834,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "FOUND_MAMBA",
@@ -30837,7 +30842,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -30845,7 +30850,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -30853,7 +30858,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "GAME_FINISHED",
@@ -30869,7 +30874,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22450
+      "UsersEstimate": 22453
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30877,7 +30882,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7976
+      "UsersEstimate": 7977
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30885,7 +30890,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -30893,7 +30898,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "WEST_FINISHED",
@@ -30901,22 +30906,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5317
+      "UsersEstimate": 5318
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29540,
-      "Completed": 546
+      "Progressed": 29543,
+      "Completed": 547
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-25T02:24:21.066454+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:05:31.2320316+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:05:00.9497276+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:58:39.264232+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:05:31.2321715+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:58:20.2210103+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:05:00.9498853+00:00"
 }

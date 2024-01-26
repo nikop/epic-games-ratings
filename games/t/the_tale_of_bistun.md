@@ -35,16 +35,16 @@
 | For Whom the Bell Tolls | 40.00% | ~12 |
 | Here I Am | 40.00% | ~12 |
 | Break The Cycle | 37.00% | ~11 |
-| Continue The Cycle | 27.00% | ~8 |
+| Continue The Cycle | 30.00% | ~9 |
 | Talent And Dedication | 23.00% | ~7 |
 | Read, Read, Read | 20.00% | ~6 |
 | Ledge-walker | 20.00% | ~6 |
 | Prolific Artist | 20.00% | ~6 |
+| Slip and Slide | 20.00% | ~6 |
 | Merely Inquisitive | 20.00% | ~6 |
-| Slip and Slide | 17.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 614)  
-Completed: 5 (16.67%) (Ranked 27)  
+Completed: 6 (20.00%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 5 (16.67%) (Ranked 27)
 | 2024-01-04 | 27 | 5 |
 | 2024-01-14 | 28 | 5 |
 | 2024-01-20 | 29 | 5 |
-| 2024-01-26 | 30 | 5 |
+| 2024-01-26 | 30 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

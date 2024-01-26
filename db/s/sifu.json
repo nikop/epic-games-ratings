@@ -9273,9 +9273,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762910,
+  "EOS_Progressed": 762914,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35438,6 +35438,11 @@
       "Time": "2024-01-26T15:10:04.5482377+00:00",
       "NumProgressed": 762910,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-26T16:09:53.9165008+00:00",
+      "NumProgressed": 762914,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35801,7 +35806,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -35809,7 +35814,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -35928,21 +35933,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72211,
+      "Progressed": 72215,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762910,
+      "Progressed": 762914,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-26T15:03:35.7751934+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:10:04.5482372+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:09:53.9165005+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:03:35.7751939+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:10:04.5483791+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:03:05.2193354+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:09:53.9166242+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8353,9 +8353,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152932,
+  "EOS_Progressed": 152938,
   "EOS_Completed": 365,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 936,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -38268,6 +38268,11 @@
       "Time": "2024-01-26T15:09:43.3328332+00:00",
       "NumProgressed": 152932,
       "NumCompleted": 365
+    },
+    {
+      "Time": "2024-01-26T16:09:32.8360611+00:00",
+      "NumProgressed": 152938,
+      "NumCompleted": 365
     }
   ],
   "TotalAchievements": 112,
@@ -38287,7 +38292,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "advlevel03",
@@ -38447,7 +38452,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18352
+      "UsersEstimate": 18353
     },
     {
       "ID": "chest02",
@@ -38519,7 +38524,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "commonres03",
@@ -38551,7 +38556,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "craft03",
@@ -38743,7 +38748,7 @@
       "Name": "Gem Expert",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "gold01",
@@ -38751,7 +38756,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15293
+      "UsersEstimate": 15294
     },
     {
       "ID": "gold02",
@@ -38767,7 +38772,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "gold04",
@@ -38863,7 +38868,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10705
+      "UsersEstimate": 10706
     },
     {
       "ID": "level02",
@@ -38871,7 +38876,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "level03",
@@ -38991,7 +38996,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "quest02",
@@ -39095,7 +39100,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18352
+      "UsersEstimate": 18353
     },
     {
       "ID": "twinenchant01",
@@ -39151,7 +39156,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     },
     {
       "ID": "workers03",
@@ -39174,15 +39179,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152932,
+      "Progressed": 152938,
       "Completed": 365
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-26T09:03:38.3080446+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:09:43.3328327+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:09:32.8360608+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:03:45.7533131+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:09:43.333058+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:03:15.0554236+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:09:32.83628+00:00"
 }

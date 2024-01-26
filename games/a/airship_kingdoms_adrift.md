@@ -12,8 +12,11 @@
 | The Red Flower | 67.00% | ~4 |
 | The Trial Begins | 67.00% | ~4 |
 | Wise Decision | 67.00% | ~4 |
+| An Old Hero | 50.00% | ~3 |
 | Damsel in Distress? | 50.00% | ~3 |
 | Flight Check | 50.00% | ~3 |
+| Gentlemen Pirates | 50.00% | ~3 |
+| Let’s get Rich | 50.00% | ~3 |
 | Not a Good Decoy | 50.00% | ~3 |
 | The Pink Flower | 50.00% | ~3 |
 | Safe Delivery | 50.00% | ~3 |
@@ -23,15 +26,15 @@
 | The Mother Ocean | 50.00% | ~3 |
 | Tuck the Tail | 50.00% | ~3 |
 | Whoops | 50.00% | ~3 |
-| An Old Hero | 33.00% | ~2 |
 | Dream of Flight | 33.00% | ~2 |
-| Gentlemen Pirates | 33.00% | ~2 |
 | Home Made | 33.00% | ~2 |
 | In His Majesty's Service! | 33.00% | ~2 |
-| Let’s get Rich | 33.00% | ~2 |
+| It is Unsafe Out Here | 33.00% | ~2 |
 | Not Again | 33.00% | ~2 |
+| Our Own Path | 33.00% | ~2 |
 | Our Tiny Little Fleet | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
+| The Impossible Dream | 33.00% | ~2 |
 | For the Republic! | 17.00% | ~1 |
 | Friendly Neighborhood Commander | 17.00% | ~1 |
 | Good Butcher | 17.00% | ~1 |
@@ -43,11 +46,9 @@
 | Good Founder | 17.00% | ~1 |
 | Good Grinder | 17.00% | ~1 |
 | Good Mason | 17.00% | ~1 |
-| It is Unsafe Out Here | 17.00% | ~1 |
 | It’s Commandeering | 17.00% | ~1 |
 | It’s Smarter to Pay the Toll | 17.00% | ~1 |
 | Living off the Land | 17.00% | ~1 |
-| Our Own Path | 17.00% | ~1 |
 | Shady Business | 17.00% | ~1 |
 | Small Business | 17.00% | ~1 |
 | There She Blows! | 17.00% | ~1 |
@@ -57,7 +58,6 @@
 | The First Princess | 17.00% | ~1 |
 | The Green Flower | 17.00% | ~1 |
 | The Himmelhaart far from Home | 17.00% | ~1 |
-| The Impossible Dream | 17.00% | ~1 |
 | The Tree Fanatic | 17.00% | ~1 |
 | Torpedoes! | 17.00% | ~1 |
 | United We Stand! | 17.00% | ~1 |

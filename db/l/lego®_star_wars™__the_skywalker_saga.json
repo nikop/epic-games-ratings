@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4361,9 +4361,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59829,
+  "EOS_Progressed": 59830,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19811,6 +19811,11 @@
       "Time": "2024-01-26T15:08:56.2246748+00:00",
       "NumProgressed": 59829,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2024-01-26T16:08:44.5858895+00:00",
+      "NumProgressed": 59830,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 45,
@@ -19846,7 +19851,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 46068
+      "UsersEstimate": 46069
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19934,7 +19939,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33504
+      "UsersEstimate": 33505
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -19958,7 +19963,7 @@
       "Name": "A New Hope",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 26923
+      "UsersEstimate": 26924
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -19982,7 +19987,7 @@
       "Name": "The Force Awakens",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 14957
+      "UsersEstimate": 14958
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -20062,7 +20067,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33504
+      "UsersEstimate": 33505
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -20086,7 +20091,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57436
+      "UsersEstimate": 57437
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -20126,7 +20131,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41282
+      "UsersEstimate": 41283
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -20142,7 +20147,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21538
+      "UsersEstimate": 21539
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -20174,22 +20179,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41282
+      "UsersEstimate": 41283
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59829,
+      "Progressed": 59830,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-25T20:02:53.5291659+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:08:56.2246746+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:08:44.5858892+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.6764829+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:03:17.6894234+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:08:56.224773+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:02:47.3466564+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:08:44.5859948+00:00"
 }

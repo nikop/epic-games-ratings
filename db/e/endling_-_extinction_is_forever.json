@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1249,6 +1249,11 @@
       "Time": "2024-01-25T19:10:49.0439411+00:00",
       "NumProgressed": 613,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T16:10:12.5532188+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1324,7 +1329,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "TROP009",
@@ -1420,7 +1425,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "TROP021",
@@ -1444,15 +1449,15 @@
       "Name": "Detox diet",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 178
     },
     {
       "ID": "TROP025",
@@ -1483,7 +1488,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 3
     }
   ],
@@ -1491,8 +1496,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:10:23.2823321+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:10:12.5532186+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.7647568+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:58:19.2937109+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:10:23.2823515+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:58:00.308648+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:10:12.5532404+00:00"
 }

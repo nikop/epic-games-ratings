@@ -3,9 +3,9 @@
   "Name": "The Tale of Bistun",
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 614,
-  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 469,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
     "PcReleaseDate": "2022-07-13T14:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 30,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 20,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:55.121207+00:00",
@@ -155,6 +155,11 @@
       "Time": "2024-01-26T06:05:23.7015346+00:00",
       "NumProgressed": 30,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T16:05:02.3953907+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 38,
@@ -332,9 +337,9 @@
       "ID": "BISTUN_ACHIEVEMENT_28",
       "SetID": "1kdk24p",
       "Name": "Continue The Cycle",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_29",
@@ -388,9 +393,9 @@
       "ID": "BISTUN_ACHIEVEMENT_34",
       "SetID": "1kdk24p",
       "Name": "Slip and Slide",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_35",
@@ -470,15 +475,15 @@
       "ID": "1kdk24p",
       "IsBase": true,
       "Progressed": 30,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:05:32.5701475+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:05:02.3953902+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8982595+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:03:20.541412+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:05:32.5701736+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:02:50.0191841+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:05:02.3954168+00:00"
 }

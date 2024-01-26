@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -2624,10 +2624,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 2897,
       "NumberOfAwardsMax": 387
+    },
+    {
+      "Time": "2024-01-26T15:59:13.552324+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2898,
+      "NumberOfAwardsMax": 387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2897,
+  "NumberOfAwards": 2898,
   "NumberOfAwardsMax": 387,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2641,7 +2647,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 315
+      "Count": 316
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2703,8 +2709,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-01-26T08:59:16.9904004+00:00",
+  "LastChanged": "2024-01-26T15:59:13.5523239+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.2854895+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:59:32.0895514+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:09:02.4339932+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:59:13.5523243+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:08:50.9480806+00:00"
 }

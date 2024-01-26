@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11200,10 +11200,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21870,
       "NumberOfAwardsMax": 8078
+    },
+    {
+      "Time": "2024-01-26T15:57:41.6788691+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21874,
+      "NumberOfAwardsMax": 8078
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21870,
+  "NumberOfAwards": 21874,
   "NumberOfAwardsMax": 8078,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11253,7 +11259,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1890
+      "Count": 1894
     },
     {
       "Text": "This game is Relaxing",
@@ -11280,9 +11286,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133732,
+  "EOS_Progressed": 133735,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41570,6 +41576,11 @@
       "Time": "2024-01-26T15:10:26.0077859+00:00",
       "NumProgressed": 133732,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T16:10:15.3410836+00:00",
+      "NumProgressed": 133735,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -42117,7 +42128,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "combat_kill_collector",
@@ -42212,21 +42223,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133732,
+      "Progressed": 133735,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8601,
+      "Progressed": 8604,
       "Completed": 833
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-26T12:59:36.9654132+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:10:26.0077856+00:00",
+  "LastChanged": "2024-01-26T15:57:41.6788689+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:10:15.3410833+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:58:00.6708701+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:10:26.0079451+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:57:41.6788695+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:10:15.3412414+00:00"
 }

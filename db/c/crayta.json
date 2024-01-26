@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 110011,
+  "EOS_Progressed": 110013,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4117,6 +4117,11 @@
       "Time": "2024-01-25T04:08:19.655718+00:00",
       "NumProgressed": 110011,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T16:03:49.3835492+00:00",
+      "NumProgressed": 110013,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -4200,7 +4205,7 @@
       "Name": "Building Block - Bronze",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "19",
@@ -4256,7 +4261,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14301
+      "UsersEstimate": 14302
     },
     {
       "ID": "25",
@@ -4264,7 +4269,7 @@
       "Name": "Variety Player - Silver",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "26",
@@ -4399,15 +4404,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 110011,
+      "Progressed": 110013,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:04:19.5098799+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:03:49.3835489+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:21.0097241+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:00:21.192716+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:04:19.5099123+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:00:03.3305577+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:03:49.3835973+00:00"
 }

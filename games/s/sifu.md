@@ -37,8 +37,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.70% | ~5,340 |
 | Source of Flying Daggers | 0.70% | ~5,340 |
 | Iron Money | 0.70% | ~5,340 |
-| Bloody Sport | 0.70% | ~505 |
-| Martial Hub | 0.70% | ~505 |
+| Bloody Sport | 0.70% | ~506 |
+| Martial Hub | 0.70% | ~506 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,577 |
 | Prodigal Child | 0.60% | ~4,577 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,577 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,910 (Ranked 26)  
+Progressed: 762,914 (Ranked 26)  
 Completed: 13,008 (1.71%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 13,008 (1.71%) (Ranked 151)
 | 2024-01-23 | 762,568 | 13,006 |
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
-| 2024-01-26 | 762,910 | 13,008 |
+| 2024-01-26 | 762,914 | 13,008 |
 ## Awards
 Max (Great Boss Battles): 7,295  (Ranked 59)  
 Sum: 12,904 (Ranked 88)  

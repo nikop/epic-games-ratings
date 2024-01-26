@@ -2,10 +2,10 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:06:15.8578779+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:05:45.4568494+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:24.3827617+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:03:31.886046+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:06:15.8579094+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:03:01.4386643+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:05:45.4568859+00:00"
 }

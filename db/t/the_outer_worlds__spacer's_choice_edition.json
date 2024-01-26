@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -1893,10 +1893,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 7364,
       "NumberOfAwardsMax": 5657
+    },
+    {
+      "Time": "2024-01-26T15:57:15.7127209+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7376,
+      "NumberOfAwardsMax": 5657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7364,
+  "NumberOfAwards": 7376,
   "NumberOfAwardsMax": 5657,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1910,7 +1916,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 167
+      "Count": 173
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1946,7 +1952,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 197
+      "Count": 203
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1981,9 +1987,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-26T04:57:13.7844982+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:05:26.0379115+00:00",
+  "LastChanged": "2024-01-26T15:57:15.7127208+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:04:55.9825436+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.551855+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:57:34.6333614+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:05:26.0379154+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:57:15.7127212+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:04:55.9825471+00:00"
 }

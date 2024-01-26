@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 890,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 103,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "NumberOfRatings": 368,
   "RatingHistory": [
     {
@@ -512,15 +512,21 @@
       "Rating": 4.28,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-26T16:03:10.4718421+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100304,
+  "EOS_Progressed": 100308,
   "EOS_Completed": 465,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -31943,6 +31949,11 @@
       "Time": "2024-01-26T15:09:33.6903759+00:00",
       "NumProgressed": 100304,
       "NumCompleted": 465
+    },
+    {
+      "Time": "2024-01-26T16:09:22.7700126+00:00",
+      "NumProgressed": 100308,
+      "NumCompleted": 465
     }
   ],
   "TotalAchievements": 10,
@@ -32010,7 +32021,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 10030
+      "UsersEstimate": 10031
     },
     {
       "ID": "Level00BowlingStrike",
@@ -32018,7 +32029,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 35106
+      "UsersEstimate": 35108
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -32026,22 +32037,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 11033
+      "UsersEstimate": 11034
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 100304,
+      "Progressed": 100308,
       "Completed": 465
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
-  "LastChanged": "2024-01-22T16:03:26.431751+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:09:33.6903756+00:00",
+  "LastChanged": "2024-01-26T16:03:10.4718419+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:09:22.7700124+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.554239+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:03:41.2023572+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:09:33.690552+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:03:10.4718425+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:09:22.7701799+00:00"
 }

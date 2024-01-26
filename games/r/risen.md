@@ -23,9 +23,9 @@ Rating: 4.60 (Ranked 432)
 | Death of a legend | 21.00% | ~46 |
 | Family man | 20.00% | ~44 |
 | Archaeologist | 20.00% | ~44 |
+| Little hero | 19.00% | ~42 |
 | Sidelined | 19.00% | ~42 |
 | Wise man | 18.00% | ~40 |
-| Little hero | 18.00% | ~40 |
 | The fourth triplet | 18.00% | ~40 |
 | Pandora's box | 16.00% | ~35 |
 | Hard worker | 16.00% | ~35 |

@@ -5,22 +5,22 @@ Rating: 3.99 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~650,281 |
-| Health Junkie | 38.00% | ~348,038 |
-| You Complete Me | 37.00% | ~338,879 |
-| Guardian Angel | 32.00% | ~293,084 |
-| Devil Inside Me | 25.00% | ~228,972 |
-| Fantastic Four | 19.00% | ~174,019 |
-| Killing Spree | 18.00% | ~164,860 |
-| Marksman Novice | 16.00% | ~146,542 |
-| First Blood | 12.00% | ~109,907 |
-| Top 10 | 12.00% | ~109,907 |
-| Now You See Me, Now You Don't | 10.00% | ~91,589 |
-| Marksman Expert | 8.00% | ~73,271 |
-| CQB Novice | 7.00% | ~64,112 |
-| Collateral Damage | 6.00% | ~54,953 |
-| Airborne | 5.00% | ~45,794 |
-| Pacifist | 5.00% | ~45,794 |
+| Blood on My Hands | 71.00% | ~650,288 |
+| Health Junkie | 38.00% | ~348,041 |
+| You Complete Me | 37.00% | ~338,882 |
+| Guardian Angel | 32.00% | ~293,087 |
+| Devil Inside Me | 25.00% | ~228,974 |
+| Fantastic Four | 19.00% | ~174,021 |
+| Killing Spree | 18.00% | ~164,862 |
+| Marksman Novice | 16.00% | ~146,544 |
+| First Blood | 12.00% | ~109,908 |
+| Top 10 | 12.00% | ~109,908 |
+| Now You See Me, Now You Don't | 10.00% | ~91,590 |
+| Marksman Expert | 8.00% | ~73,272 |
+| CQB Novice | 7.00% | ~64,113 |
+| Collateral Damage | 6.00% | ~54,954 |
+| Airborne | 5.00% | ~45,795 |
+| Pacifist | 5.00% | ~45,795 |
 | Last Survivor | 4.00% | ~36,636 |
 | Marksman Master | 4.00% | ~36,636 |
 | First Come, First Served | 4.00% | ~36,636 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 1,063)
 | Nade King Master | 0.10% | ~916 |
 | Shoot the Knee | 0.10% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,889 (Ranked 18)  
+Progressed: 915,898 (Ranked 18)  
 Completed: 18 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 18 (0.00%) (Ranked 413)
 | 2024-01-23 | 911,382 | 18 |
 | 2024-01-24 | 913,875 | 18 |
 | 2024-01-25 | 915,850 | 18 |
-| 2024-01-26 | 915,889 | 18 |
+| 2024-01-26 | 915,898 | 18 |
 ## Awards
 Max (Competitive Players): 6,758  (Ranked 61)  
 Sum: 22,090 (Ranked 58)  

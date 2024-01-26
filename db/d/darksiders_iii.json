@@ -2,13 +2,13 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 163,
+  "Ranking_EOS_NewCompleters": 164,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -3153,9 +3153,9 @@
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 191
     },
     {
       "ID": "Save_Humans_15",
@@ -3257,8 +3257,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-26T13:00:56.5257344+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:06:33.8208056+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:06:03.6371935+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:59:21.0659918+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:06:33.8208527+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:59:02.0316313+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:06:03.6372819+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 152,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 175,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -459,6 +459,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-26T15:57:34.6328135+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 54,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
@@ -473,9 +479,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15351,
+  "EOS_Progressed": 15352,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11538,6 +11544,11 @@
       "Time": "2024-01-26T15:10:21.4837688+00:00",
       "NumProgressed": 15351,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-26T16:10:10.8732818+00:00",
+      "NumProgressed": 15352,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11622,7 +11633,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8443
+      "UsersEstimate": 8444
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11694,7 +11705,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4605
+      "UsersEstimate": 4606
     },
     {
       "ID": "NoMoreTotems",
@@ -11742,7 +11753,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3991
+      "UsersEstimate": 3992
     },
     {
       "ID": "TheQuarterback",
@@ -11821,16 +11832,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15351,
+      "Progressed": 15352,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:10:21.4837685+00:00",
+  "LastChanged": "2024-01-26T15:57:34.6328133+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:10:10.8732816+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:57:53.5241645+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:10:21.4838403+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:57:34.6328137+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:10:10.8733507+00:00"
 }

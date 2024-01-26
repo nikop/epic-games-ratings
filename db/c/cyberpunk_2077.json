@@ -19062,10 +19062,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 521223,
       "NumberOfAwardsMax": 145126
+    },
+    {
+      "Time": "2024-01-26T16:03:09.0270223+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 521391,
+      "NumberOfAwardsMax": 145126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 521223,
+  "NumberOfAwards": 521391,
   "NumberOfAwardsMax": 145126,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19097,7 +19103,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30587
+      "Count": 30755
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -19142,9 +19148,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1059085,
+  "EOS_Progressed": 1059114,
   "EOS_Completed": 3166,
-  "EOS_NewPlayers": 4110,
+  "EOS_NewPlayers": 4104,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51382,6 +51388,11 @@
       "Time": "2024-01-26T15:09:23.4016635+00:00",
       "NumProgressed": 1059085,
       "NumCompleted": 3166
+    },
+    {
+      "Time": "2024-01-26T16:09:12.3507148+00:00",
+      "NumProgressed": 1059114,
+      "NumCompleted": 3166
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51434,7 +51445,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "Fortuneteller",
@@ -51490,7 +51501,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -51522,7 +51533,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "MustBeTheRats",
@@ -51640,9 +51651,9 @@
       "ID": "TheStar",
       "SetID": "47clieb",
       "Name": "The Star",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2118
+      "UsersEstimate": 3177
     },
     {
       "ID": "TheSun",
@@ -51698,7 +51709,7 @@
       "Name": "True Warrior",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -51929,21 +51940,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059085,
+      "Progressed": 1059114,
       "Completed": 3166
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187708,
+      "Progressed": 187737,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-26T12:04:12.3068728+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:09:23.4016633+00:00",
+  "LastChanged": "2024-01-26T16:03:09.0270222+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:09:12.3507145+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:03:39.7362441+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:09:23.401811+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:03:09.0270227+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:09:12.350959+00:00"
 }

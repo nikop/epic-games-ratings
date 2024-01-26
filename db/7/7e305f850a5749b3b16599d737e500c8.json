@@ -2,10 +2,10 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -1515,17 +1515,17 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 177
     },
     {
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "Fixer",
@@ -1634,8 +1634,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:04:45.6067974+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:04:15.4168515+00:00",
   "LastUpdate_AppInfo": "2024-01-23T10:56:58.4114323+00:00",
-  "LastUpdate_Ratings": "2024-01-26T15:00:24.5293924+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:04:45.6068133+00:00"
+  "LastUpdate_Ratings": "2024-01-26T16:00:06.6988373+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:04:15.4168695+00:00"
 }

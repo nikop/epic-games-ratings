@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -807,18 +807,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 740,
       "NumberOfAwardsMax": 473
+    },
+    {
+      "Time": "2024-01-26T15:59:16.0751294+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 742,
+      "NumberOfAwardsMax": 475
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 740,
-  "NumberOfAwardsMax": 473,
+  "NumberOfAwards": 742,
+  "NumberOfAwardsMax": 475,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 473
+      "Count": 475
     },
     {
       "Text": "This game is Great for Beginners",
@@ -875,9 +881,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18824,
+  "EOS_Progressed": 18825,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17170,6 +17176,11 @@
       "Time": "2024-01-26T15:04:04.898106+00:00",
       "NumProgressed": 18824,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-26T16:03:35.5634182+00:00",
+      "NumProgressed": 18825,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 35,
@@ -17181,7 +17192,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17130
+      "UsersEstimate": 17131
     },
     {
       "ID": "ACH_02",
@@ -17189,7 +17200,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14306
+      "UsersEstimate": 14307
     },
     {
       "ID": "ACH_03",
@@ -17197,7 +17208,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 13365
+      "UsersEstimate": 13366
     },
     {
       "ID": "ACH_04",
@@ -17205,7 +17216,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12612
+      "UsersEstimate": 12613
     },
     {
       "ID": "ACH_05",
@@ -17221,7 +17232,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 11671
+      "UsersEstimate": 11672
     },
     {
       "ID": "ACH_07",
@@ -17229,7 +17240,7 @@
       "Name": "Felons",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 11106
+      "UsersEstimate": 11107
     },
     {
       "ID": "ACH_08",
@@ -17245,7 +17256,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 10353
+      "UsersEstimate": 10354
     },
     {
       "ID": "ACH_10",
@@ -17261,7 +17272,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 8659
+      "UsersEstimate": 8660
     },
     {
       "ID": "ACH_12",
@@ -17269,7 +17280,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 8094
+      "UsersEstimate": 8095
     },
     {
       "ID": "ACH_13",
@@ -17285,7 +17296,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "ACH_15",
@@ -17293,7 +17304,7 @@
       "Name": "Dying Sun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 5835
+      "UsersEstimate": 5836
     },
     {
       "ID": "ACH_16",
@@ -17460,16 +17471,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18824,
+      "Progressed": 18825,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2024-01-24T21:58:09.3389593+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:04:04.8981054+00:00",
+  "LastChanged": "2024-01-26T15:59:16.0751292+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:03:35.5634181+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:59:34.5046347+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:04:04.8982001+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:59:16.07513+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:03:35.5635312+00:00"
 }

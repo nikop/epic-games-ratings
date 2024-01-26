@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23621,
+  "EOS_Progressed": 23623,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -9447,6 +9447,11 @@
       "Time": "2024-01-26T15:06:32.2685745+00:00",
       "NumProgressed": 23621,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-26T16:06:02.0090147+00:00",
+      "NumProgressed": 23623,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9467,7 +9472,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -9515,7 +9520,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -9538,7 +9543,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 23621,
+      "Progressed": 23623,
       "Completed": 128
     }
   ],
@@ -9546,8 +9551,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-26T15:06:32.2685742+00:00",
+  "LastChanged_Achievements": "2024-01-26T16:06:02.0090142+00:00",
   "LastUpdate_AppInfo": "2024-01-25T22:57:12.0471446+00:00",
-  "LastUpdate_Ratings": "2024-01-26T14:59:52.4690713+00:00",
-  "LastUpdate_Achievements": "2024-01-26T15:06:32.2686257+00:00"
+  "LastUpdate_Ratings": "2024-01-26T15:59:34.2953509+00:00",
+  "LastUpdate_Achievements": "2024-01-26T16:06:02.0090819+00:00"
 }

@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.80% | ~137 |
 | Devout | 0.70% | ~120 |
 | Peacemaker | 0.70% | ~120 |
+| Clerics | 0.70% | ~120 |
 | Church of the Holy Sepulchre | 0.70% | ~120 |
 | Adur Burzen-Mihr | 0.70% | ~120 |
 | Carthage | 0.70% | ~120 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.70% | ~120 |
 | Deposed Tribe | 0.70% | ~120 |
 | Jebel Barkal | 0.70% | ~120 |
-| Clerics | 0.60% | ~103 |
 | Egypt | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
@@ -181,6 +181,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Turning Point | 0.20% | ~34 |
 | A Good Start | 0.20% | ~34 |
 | Tell the Spartans | 0.20% | ~34 |
+| Medo-Babylonian Conquest | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
 | Hatti | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
@@ -273,7 +274,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 3 - Good | 0.10% | ~17 |
 | Learn By Playing 4 - Strong | 0.10% | ~17 |
 | Macedonian Wars | 0.10% | ~17 |
-| Medo-Babylonian Conquest | 0.10% | ~17 |
 | Merchants of the Levant | 0.10% | ~17 |
 | Realistic Mortality | 0.10% | ~17 |
 | Play a 1-v-1 Game | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,178 (Ranked 170)  
+Progressed: 17,179 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 5 (0.03%) (Ranked 368)
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
-| 2024-01-26 | 17,178 | 5 |
+| 2024-01-26 | 17,179 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 288)  
 Sum: 1,947 (Ranked 224)  
