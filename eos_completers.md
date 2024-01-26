@@ -30,7 +30,7 @@
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 31 | [The Riflemen](games/t/the_riflemen.md) | 15.02% |
+| 31 | [The Riflemen](games/t/the_riflemen.md) | 15.01% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 12.90% |
@@ -73,8 +73,8 @@
 | 71 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.84% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.72% |
-| 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
-| 75 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
+| 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.56% |
+| 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.06% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.01% |
@@ -98,7 +98,7 @@
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
 | 97 | [The Bunker](games/t/the_bunker.md) | 3.72% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
-| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
+| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.57% |
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
@@ -118,8 +118,8 @@
 | 116 | [Lamentum](games/l/lamentum.md) | 2.86% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
 | 116 | [Monster Harvest](games/m/monster_harvest.md) | 2.86% |
-| 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.78% |
 | 119 | [Without Escape](games/w/without_escape.md) | 2.78% |
+| 120 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.77% |
 | 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 123 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.58% |
@@ -153,9 +153,9 @@
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
 | 152 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.67% |
 | 153 | [Frogun](games/f/frogun.md) | 1.66% |
-| 154 | [Yars: Recharged](games/y/yars__recharged.md) | 1.59% |
-| 155 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
-| 156 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
+| 154 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
+| 155 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
+| 156 | [Yars: Recharged](games/y/yars__recharged.md) | 1.53% |
 | 157 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.48% |
 | 158 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.45% |
 | 159 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.44% |
@@ -188,7 +188,7 @@
 | 186 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 0.99% |
 | 186 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
 | 188 | [Lemon Cake](games/l/lemon_cake.md) | 0.98% |
-| 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.97% |
+| 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.96% |
 | 190 | [Trifox](games/t/trifox.md) | 0.94% |
 | 191 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
 | 192 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
@@ -315,15 +315,15 @@
 | 310 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 310 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
 | 315 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 315 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.12% |
 | 315 | [RAILGRADE](games/r/railgrade.md) | 0.12% |
 | 315 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
-| 319 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 319 | [Black Book](games/b/black_book.md) | 0.11% |
-| 319 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
-| 319 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
-| 319 | [Supraland](games/s/supraland.md) | 0.11% |
-| 319 | [The Invincible](games/t/the_invincible.md) | 0.11% |
+| 318 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 318 | [Black Book](games/b/black_book.md) | 0.11% |
+| 318 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
+| 318 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.11% |
+| 318 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
+| 318 | [Supraland](games/s/supraland.md) | 0.11% |
+| 318 | [The Invincible](games/t/the_invincible.md) | 0.11% |
 | 325 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 325 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 325 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
@@ -646,6 +646,7 @@
 | 414 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 0.00% |
 | 414 | [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 0.00% |
 | 414 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 0.00% |
+| 414 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 0.00% |
 | 414 | [Model Builder](games/m/model_builder.md) | 0.00% |
 | 414 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 0.00% |
 | 414 | [Monorail Stories](games/m/monorail_stories.md) | 0.00% |
