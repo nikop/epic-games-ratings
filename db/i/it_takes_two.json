@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 129867,
+  "EOS_Progressed": 129868,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 7928,
+  "EOS_NewPlayers": 7919,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -15043,6 +15043,11 @@
       "Time": "2024-01-26T01:52:47.3341223+00:00",
       "NumProgressed": 129867,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2024-01-26T02:28:32.8871674+00:00",
+      "NumProgressed": 129868,
+      "NumCompleted": 320
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -15167,7 +15172,7 @@
       "Name": "Struck A Pose",
       "Percentage": 82,
       "XP": 50,
-      "UsersEstimate": 106491
+      "UsersEstimate": 106492
     },
     {
       "ID": "achievement_5",
@@ -15191,7 +15196,7 @@
       "Name": "Look At Him Go",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 90907
+      "UsersEstimate": 90908
     },
     {
       "ID": "achievement_8",
@@ -15207,20 +15212,20 @@
       "Name": "A Daring Devil",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 57141
+      "UsersEstimate": 57142
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 129867,
+      "Progressed": 129868,
       "Completed": 320
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:52:47.3341218+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:28:32.887167+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:28.4130551+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:40:49.1009392+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:52:47.334218+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:16:14.0411473+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:28:32.8872498+00:00"
 }

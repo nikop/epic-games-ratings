@@ -2614,9 +2614,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 228326,
+  "EOS_Progressed": 228330,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1579,
+  "EOS_NewPlayers": 1582,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34959,6 +34959,11 @@
       "Time": "2024-01-26T01:51:13.502184+00:00",
       "NumProgressed": 228326,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-26T02:26:36.5412294+00:00",
+      "NumProgressed": 228330,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -35010,7 +35015,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20549
+      "UsersEstimate": 20550
     },
     {
       "ID": "FiveShadows",
@@ -35042,7 +35047,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27399
+      "UsersEstimate": 27400
     },
     {
       "ID": "HappyLittleAccidents",
@@ -35186,7 +35191,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20549
+      "UsersEstimate": 20550
     },
     {
       "ID": "Rollin",
@@ -35194,7 +35199,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20549
+      "UsersEstimate": 20550
     },
     {
       "ID": "StillRollin",
@@ -35226,7 +35231,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20549
+      "UsersEstimate": 20550
     },
     {
       "ID": "TheCave",
@@ -35321,15 +35326,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 228326,
+      "Progressed": 228330,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-25T05:58:31.2026477+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:51:13.5021837+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:26:36.5412289+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:41:39.7071865+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:51:13.5023822+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:17:19.6962016+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:26:36.5413956+00:00"
 }

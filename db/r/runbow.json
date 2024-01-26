@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253835,
+  "EOS_Progressed": 253836,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25012,6 +25012,11 @@
       "Time": "2024-01-26T01:53:09.8129362+00:00",
       "NumProgressed": 253835,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T02:29:02.3110803+00:00",
+      "NumProgressed": 253836,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -25023,7 +25028,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17769
     },
     {
       "ID": "aWinnerIsYou",
@@ -25047,7 +25052,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53305
+      "UsersEstimate": 53306
     },
     {
       "ID": "blotbuster",
@@ -25215,7 +25220,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17769
     },
     {
       "ID": "itsTheFall",
@@ -25390,7 +25395,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253835,
+      "Progressed": 253836,
       "Completed": 6
     }
   ],
@@ -25398,8 +25403,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:53:09.8129358+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:29:02.3110798+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:41:27.1172867+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:53:09.813064+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:17:03.1590611+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:29:02.3112165+00:00"
 }

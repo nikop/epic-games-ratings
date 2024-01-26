@@ -17,7 +17,7 @@
 | Defender | 0.70% | ~1 |
 | Rep3 | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 484)  
+Progressed: 138 (Ranked 485)  
 Completed: 1 (0.72%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |

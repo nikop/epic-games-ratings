@@ -9,7 +9,7 @@ Rating: 4.55 (Ranked 529)
 | Keep 'Em Coming | 66.00% | ~4,330 |
 | Snatched Out | 65.00% | ~4,264 |
 | Cleaning Lethe, One Nest At A Time | 59.00% | ~3,870 |
-| Call Me Snake | 54.00% | ~3,542 |
+| Call Me Snake | 55.00% | ~3,608 |
 | Something Lurks Under The Hills | 53.00% | ~3,477 |
 | This Was No Papercut | 51.00% | ~3,346 |
 | The Shrink Hates Me | 49.00% | ~3,214 |

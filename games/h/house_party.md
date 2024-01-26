@@ -43,6 +43,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.40% | ~30 |
 | The Elder Brahs | 0.40% | ~30 |
 | Good Ol' Days | 0.40% | ~30 |
+| Beyond the Call of Dude-y | 0.30% | ~22 |
 | Drunk and Disorderly: Madison | 0.30% | ~22 |
 | Do Not Burn | 0.30% | ~22 |
 | First Impressions | 0.30% | ~22 |
@@ -51,7 +52,6 @@ Number of Ratings: 177  (23.09.2022)
 | A Striking Resemblance | 0.30% | ~22 |
 | Howz It Goin Dood | 0.30% | ~22 |
 | Derezzed | 0.30% | ~22 |
-| Beyond the Call of Dude-y | 0.20% | ~15 |
 | Congrats, A Celebrity Hates You | 0.20% | ~9 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~9 |
 | Duck n' Weave | 0.20% | ~15 |

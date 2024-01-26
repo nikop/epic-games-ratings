@@ -6,24 +6,24 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~643,563 |
-| Death From Above | 44.00% | ~615,582 |
-| Master of the Household | 37.00% | ~517,649 |
-| Death of the Party | 35.00% | ~489,668 |
-| NEXUS-47 | 32.00% | ~447,696 |
-| The Last Tango | 31.00% | ~433,706 |
-| Nightmare Fuel | 30.00% | ~419,715 |
-| The Result of Previous Training | 29.00% | ~405,725 |
-| Cleared for Field Duty | 28.00% | ~391,734 |
-| Tools of the Trade | 28.00% | ~391,734 |
-| Seizing the Opportunity | 26.00% | ~363,753 |
-| Bullet Train | 21.00% | ~293,801 |
-| Stylish Assassin | 20.00% | ~279,810 |
-| Silent Assassin | 14.00% | ~195,867 |
-| Rise Up | 12.00% | ~167,886 |
+| Unseen Assassin | 46.00% | ~643,566 |
+| Death From Above | 44.00% | ~615,585 |
+| Master of the Household | 37.00% | ~517,651 |
+| Death of the Party | 35.00% | ~489,670 |
+| NEXUS-47 | 32.00% | ~447,698 |
+| The Last Tango | 31.00% | ~433,707 |
+| Nightmare Fuel | 30.00% | ~419,717 |
+| The Result of Previous Training | 29.00% | ~405,726 |
+| Cleared for Field Duty | 28.00% | ~391,736 |
+| Tools of the Trade | 28.00% | ~391,736 |
+| Seizing the Opportunity | 26.00% | ~363,755 |
+| Bullet Train | 21.00% | ~293,802 |
+| Stylish Assassin | 20.00% | ~279,811 |
+| Silent Assassin | 14.00% | ~195,868 |
+| Rise Up | 12.00% | ~167,887 |
 | Evil Wine Club | 11.00% | ~153,896 |
-| Console Cowboy | 10.00% | ~139,905 |
-| Last Stop | 10.00% | ~139,905 |
+| Console Cowboy | 10.00% | ~139,906 |
+| Last Stop | 10.00% | ~139,906 |
 | A New Profile | 9.00% | ~125,915 |
 | Dune Raider | 8.00% | ~111,924 |
 | Full House | 8.00% | ~111,924 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,991 |
 | The Creative Assassin | 0.70% | ~9,793 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399,051 (Ranked 9)  
+Progressed: 1,399,056 (Ranked 9)  
 Completed: 2,244 (0.16%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2,244 (0.16%) (Ranked 301)
 | 2024-01-23 | 1,398,403 | 2,244 |
 | 2024-01-24 | 1,398,714 | 2,244 |
 | 2024-01-25 | 1,399,026 | 2,244 |
-| 2024-01-26 | 1,399,051 | 2,244 |
+| 2024-01-26 | 1,399,056 | 2,244 |
 ## Awards
 Max (Diverse Characters): 11,569  (Ranked 38)  
 Sum: 77,741 (Ranked 22)  

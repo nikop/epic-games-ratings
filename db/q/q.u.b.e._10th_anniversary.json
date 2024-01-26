@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30585,
+  "EOS_Progressed": 30587,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -11876,6 +11876,11 @@
       "Time": "2024-01-26T01:53:07.1006164+00:00",
       "NumProgressed": 30585,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-26T02:28:59.110141+00:00",
+      "NumProgressed": 30587,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 24,
@@ -11919,7 +11924,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 7646
+      "UsersEstimate": 7647
     },
     {
       "ID": "ACH_Finale",
@@ -12015,7 +12020,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10399
+      "UsersEstimate": 10400
     },
     {
       "ID": "ACH_Sector2",
@@ -12031,7 +12036,7 @@
       "Name": "Sector 3",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 7646
+      "UsersEstimate": 7647
     },
     {
       "ID": "ACH_Sector4",
@@ -12055,7 +12060,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ACH_Sector7",
@@ -12078,7 +12083,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30585,
+      "Progressed": 30587,
       "Completed": 234
     }
   ],
@@ -12086,8 +12091,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:53:07.1006159+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:28:59.1101406+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:45:36.7087332+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:53:07.100689+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:20:52.1295259+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:28:59.1102282+00:00"
 }

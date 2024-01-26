@@ -4053,9 +4053,9 @@
       "Count": 1656
     }
   ],
-  "EOS_Progressed": 407709,
+  "EOS_Progressed": 407710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7083,
+  "EOS_NewPlayers": 7063,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18848,6 +18848,11 @@
       "Time": "2024-01-26T00:09:30.4207705+00:00",
       "NumProgressed": 407709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T02:27:37.0779304+00:00",
+      "NumProgressed": 407710,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -18884,7 +18889,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 236471
+      "UsersEstimate": 236472
     },
     {
       "ID": "achievement_13",
@@ -18964,7 +18969,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 248702
+      "UsersEstimate": 248703
     },
     {
       "ID": "achievement_22",
@@ -19020,7 +19025,7 @@
       "Name": "First of Many",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 65233
+      "UsersEstimate": 65234
     },
     {
       "ID": "achievement_29",
@@ -19052,7 +19057,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 183469
+      "UsersEstimate": 183470
     },
     {
       "ID": "achievement_32",
@@ -19100,7 +19105,7 @@
       "Name": "Do Your Homework",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20385
+      "UsersEstimate": 20386
     },
     {
       "ID": "achievement_38",
@@ -19164,7 +19169,7 @@
       "Name": "Power Shot",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 232394
+      "UsersEstimate": 232395
     },
     {
       "ID": "achievement_9",
@@ -19179,7 +19184,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 407709,
+      "Progressed": 407710,
       "Completed": 0
     }
   ],
@@ -19187,8 +19192,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2024-01-25T22:00:24.9459793+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:52:02.1190796+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:27:37.07793+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:09.6164584+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:45:24.7375063+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:52:02.1191672+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:20:36.0525269+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:27:37.0780233+00:00"
 }

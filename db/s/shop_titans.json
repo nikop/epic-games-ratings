@@ -8347,9 +8347,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152863,
+  "EOS_Progressed": 152868,
   "EOS_Completed": 364,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -38192,6 +38192,11 @@
       "Time": "2024-01-26T01:52:30.5089392+00:00",
       "NumProgressed": 152863,
       "NumCompleted": 364
+    },
+    {
+      "Time": "2024-01-26T02:28:11.9594011+00:00",
+      "NumProgressed": 152868,
+      "NumCompleted": 364
     }
   ],
   "TotalAchievements": 112,
@@ -38675,7 +38680,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15286
+      "UsersEstimate": 15287
     },
     {
       "ID": "gold02",
@@ -38787,7 +38792,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10700
+      "UsersEstimate": 10701
     },
     {
       "ID": "level02",
@@ -39098,15 +39103,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152863,
+      "Progressed": 152868,
       "Completed": 364
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-25T20:03:24.4303856+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:52:30.5089385+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:28:11.9594006+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:46:13.3411635+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:52:30.5092058+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:21:40.0877616+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:28:11.9596107+00:00"
 }

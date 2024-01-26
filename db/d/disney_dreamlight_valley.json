@@ -2,7 +2,7 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 134,
   "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 177,
@@ -6195,9 +6195,9 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 14331,
+  "EOS_Progressed": 14332,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -26260,6 +26260,11 @@
       "Time": "2024-01-26T00:09:46.8930954+00:00",
       "NumProgressed": 14331,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2024-01-26T02:27:59.8162015+00:00",
+      "NumProgressed": 14332,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 15,
@@ -26319,15 +26324,15 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "Gardener",
       "SetID": "chapdi4",
       "Name": "Gardener",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4300
     },
     {
       "ID": "Generous",
@@ -26343,7 +26348,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9745
+      "UsersEstimate": 9746
     },
     {
       "ID": "Miner",
@@ -26351,7 +26356,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "Photographer",
@@ -26383,14 +26388,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8455
+      "UsersEstimate": 8456
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14331,
+      "Progressed": 14332,
       "Completed": 358
     }
   ],
@@ -26398,8 +26403,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-26T00:02:46.1522249+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:52:20.6915097+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:27:59.816201+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:45:25.5509366+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:52:20.6916007+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:20:37.1655198+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:27:59.8162966+00:00"
 }

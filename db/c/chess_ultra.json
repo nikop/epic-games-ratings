@@ -497,7 +497,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229418,
+  "EOS_Progressed": 229424,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 0,
@@ -32672,6 +32672,11 @@
       "Time": "2024-01-26T01:51:16.3512618+00:00",
       "NumProgressed": 229418,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T02:26:39.9792438+00:00",
+      "NumProgressed": 229424,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -32683,7 +32688,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 107826
+      "UsersEstimate": 107829
     },
     {
       "ID": "AlekhinesGun",
@@ -32731,7 +32736,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 128474
+      "UsersEstimate": 128477
     },
     {
       "ID": "Checkmate",
@@ -32739,7 +32744,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68825
+      "UsersEstimate": 68827
     },
     {
       "ID": "ChessChampion",
@@ -32755,7 +32760,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 162887
+      "UsersEstimate": 162891
     },
     {
       "ID": "DoubleCheck",
@@ -32763,7 +32768,7 @@
       "Name": "Double Check",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16059
+      "UsersEstimate": 16060
     },
     {
       "ID": "DoubledPawn",
@@ -32771,7 +32776,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 130768
+      "UsersEstimate": 130772
     },
     {
       "ID": "Elo",
@@ -32851,7 +32856,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 55060
+      "UsersEstimate": 55062
     },
     {
       "ID": "O-O-O",
@@ -32859,7 +32864,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29824
+      "UsersEstimate": 29825
     },
     {
       "ID": "Octopus",
@@ -32867,7 +32872,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29824
+      "UsersEstimate": 29825
     },
     {
       "ID": "PieceCollector",
@@ -32899,7 +32904,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 71120
+      "UsersEstimate": 71121
     },
     {
       "ID": "QueenSacrifice",
@@ -32907,7 +32912,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 45884
+      "UsersEstimate": 45885
     },
     {
       "ID": "ScholarsMate",
@@ -32923,7 +32928,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 48178
+      "UsersEstimate": 48179
     },
     {
       "ID": "Stalemate",
@@ -32931,7 +32936,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 41295
+      "UsersEstimate": 41296
     },
     {
       "ID": "StrangerDanger",
@@ -32939,7 +32944,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 27530
+      "UsersEstimate": 27531
     },
     {
       "ID": "TournamentAmateur",
@@ -32986,7 +32991,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 229418,
+      "Progressed": 229424,
       "Completed": 2
     }
   ],
@@ -32994,8 +32999,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-26T01:41:17.5849022+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:51:16.3512615+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:26:39.9792433+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:03.3233579+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:41:17.5849028+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:51:16.3514552+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:16:50.4343442+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:26:39.9794162+00:00"
 }

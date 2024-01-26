@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22748,
+  "EOS_Progressed": 22749,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14971,6 +14971,11 @@
       "Time": "2024-01-26T01:53:03.1610912+00:00",
       "NumProgressed": 22748,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-26T02:28:54.4007118+00:00",
+      "NumProgressed": 22749,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14990,7 +14995,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -15014,7 +15019,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6369
+      "UsersEstimate": 6370
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15174,7 +15179,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6369
+      "UsersEstimate": 6370
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15294,7 +15299,7 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -15318,7 +15323,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "FINISH_DLC4",
@@ -15357,13 +15362,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22748,
+      "Progressed": 22749,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10674,
+      "Progressed": 10675,
       "Completed": 29
     }
   ],
@@ -15371,8 +15376,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:53:03.1610907+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:28:54.4007113+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:46:14.1713918+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:53:03.1611842+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:21:41.2432583+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:28:54.4007821+00:00"
 }

@@ -1,11 +1,11 @@
 # Anno 1404 History Edition
 [Store](https://store.epicgames.com/en-US/p/anno-1404)  
 [View Rawdata](../../db/a/anno_1404_history_edition.json)  
-Rating: 4.76 (Ranked 133)  
+Rating: 4.76 (Ranked 134)  
 Number of Ratings: 69  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 23  (Ranked 568)  
-Sum: 43 (Ranked 527)  
+Max (Diverse Characters): 23  (Ranked 569)  
+Sum: 43 (Ranked 528)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |

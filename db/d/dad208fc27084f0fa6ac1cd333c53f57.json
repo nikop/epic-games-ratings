@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8093,
+  "EOS_Progressed": 8094,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -9324,6 +9324,11 @@
       "Time": "2024-01-26T01:46:24.8685463+00:00",
       "NumProgressed": 8093,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-26T02:21:56.8603915+00:00",
+      "NumProgressed": 8094,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9336,7 +9341,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -9344,7 +9349,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -9368,7 +9373,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -9384,7 +9389,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 4613
+      "UsersEstimate": 4614
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -9392,7 +9397,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6393
+      "UsersEstimate": 6394
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -9463,14 +9468,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 8093,
+      "Progressed": 8094,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:46:24.8685458+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:21:56.860391+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:42:10.4676214+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:46:24.8686215+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:17:59.3549275+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:21:56.8604628+00:00"
 }

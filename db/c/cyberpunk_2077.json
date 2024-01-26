@@ -19118,9 +19118,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1058781,
+  "EOS_Progressed": 1058792,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4232,
+  "EOS_NewPlayers": 4233,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51288,6 +51288,11 @@
       "Time": "2024-01-26T01:52:07.9843506+00:00",
       "NumProgressed": 1058781,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-26T02:27:44.4309953+00:00",
+      "NumProgressed": 1058792,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51420,7 +51425,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7411
+      "UsersEstimate": 7412
     },
     {
       "ID": "MaxPain",
@@ -51468,7 +51473,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7411
+      "UsersEstimate": 7412
     },
     {
       "ID": "Roleplayer",
@@ -51476,7 +51481,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7411
+      "UsersEstimate": 7412
     },
     {
       "ID": "Specialist",
@@ -51540,7 +51545,7 @@
       "Name": "The Lovers",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7411
+      "UsersEstimate": 7412
     },
     {
       "ID": "TheStar",
@@ -51644,7 +51649,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7411
+      "UsersEstimate": 7412
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51835,21 +51840,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058781,
+      "Progressed": 1058792,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187404,
+      "Progressed": 187415,
       "Completed": 10701
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T01:46:06.5519287+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:52:07.9843502+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:27:44.4309949+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:46:06.5519296+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:52:07.984509+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:21:30.6239239+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:27:44.4311964+00:00"
 }

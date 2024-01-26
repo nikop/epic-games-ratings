@@ -8,7 +8,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | ---- | ---------- | ----- |
 | Advanced Stroller | 19.00% | ~129,912 |
 | Incurious | 18.00% | ~123,075 |
-| Climate Change | 17.00% | ~116,237 |
+| Climate Change | 17.00% | ~116,238 |
 | Stroller | 16.00% | ~109,400 |
 | Advanced Hiker | 14.00% | ~95,725 |
 | Toy Train | 14.00% | ~95,725 |
@@ -37,7 +37,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Snowman's Land | 0.40% | ~2,735 |
 | Tough Nut! | 0.40% | ~2,735 |
 | Engineer | 0.30% | ~2,051 |
-| Expert Wayfarer | 0.20% | ~1,367 |
+| Expert Wayfarer | 0.20% | ~1,368 |
 | Explorer | 0.10% | ~684 |
 | Advanced Explorer | 0.10% | ~684 |
 | Expert Explorer | 0.10% | ~684 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~684 |
 | 20 Miles under the Sea | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,748 (Ranked 30)  
+Progressed: 683,750 (Ranked 30)  
 Completed: 15 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 15 (0.00%) (Ranked 413)
 | 2024-01-23 | 683,300 | 15 |
 | 2024-01-24 | 683,508 | 15 |
 | 2024-01-25 | 683,738 | 15 |
-| 2024-01-26 | 683,748 | 15 |
+| 2024-01-26 | 683,750 | 15 |
 ## Awards
 Max (Great for Beginners): 214  (Ranked 296)  
 Sum: 1,645 (Ranked 241)  

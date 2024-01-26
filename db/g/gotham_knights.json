@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5507,9 +5507,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83278,
+  "EOS_Progressed": 83279,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31517,6 +31517,11 @@
       "Time": "2024-01-26T01:48:39.737085+00:00",
       "NumProgressed": 83278,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-26T02:24:46.4149045+00:00",
+      "NumProgressed": 83279,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31624,7 +31629,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13324
+      "UsersEstimate": 13325
     },
     {
       "ID": "CLAYFACE_1",
@@ -31672,7 +31677,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5829
+      "UsersEstimate": 5830
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -31872,7 +31877,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41639
+      "UsersEstimate": 41640
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31904,7 +31909,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21652
+      "UsersEstimate": 21653
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -32015,13 +32020,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83278,
+      "Progressed": 83279,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53558,
+      "Progressed": 53559,
       "Completed": 2682
     }
   ],
@@ -32029,8 +32034,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-26T01:40:10.2716151+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:48:39.7370845+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:24:46.4149042+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:40:10.2716157+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:48:39.7372873+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:15:22.4074914+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:24:46.4150369+00:00"
 }

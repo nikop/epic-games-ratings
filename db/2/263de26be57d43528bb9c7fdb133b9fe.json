@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 100,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6,
   "EosHistory": [
@@ -414,9 +414,9 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "BOSS_3",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-26T01:47:43.763806+00:00",
+  "LastChanged_Achievements": "2024-01-26T02:23:36.757519+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-26T01:40:55.8739706+00:00",
-  "LastUpdate_Achievements": "2024-01-26T01:47:43.7638211+00:00"
+  "LastUpdate_Ratings": "2024-01-26T02:16:22.1768441+00:00",
+  "LastUpdate_Achievements": "2024-01-26T02:23:36.7575332+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~33,529 |
-| The Evilest Evil | 58.00% | ~27,781 |
-| Twistram is devastated | 57.00% | ~27,302 |
-| The Gehenna Stones | 49.00% | ~23,471 |
-| No one has to die today! | 46.00% | ~22,034 |
-| Death and destruction! | 46.00% | ~22,034 |
-| The Swamplanders from the swamplands | 43.00% | ~20,597 |
-| Rusty Steel | 41.00% | ~19,639 |
-| The One-Huge-Army-Building Evil | 40.00% | ~19,160 |
-| The last burger | 37.00% | ~17,723 |
-| Braiiiiins! | 37.00% | ~17,723 |
-| Hands off the Dungeonheart! | 36.00% | ~17,244 |
-| A trip on sea, what fun it can be | 34.00% | ~16,286 |
-| Damned good | 32.00% | ~15,328 |
-| Factory farming | 31.00% | ~14,849 |
-| Stock Market Crash | 30.00% | ~14,370 |
-| Shadow hunter | 29.00% | ~13,891 |
-| Not-So-Overproud | 29.00% | ~13,891 |
-| For a handfull of Catapults | 28.00% | ~13,412 |
-| Thirst quencher | 27.00% | ~12,933 |
-| Ogre Solo! | 27.00% | ~12,933 |
-| Tide Master | 26.00% | ~12,454 |
-| Difficult family relationships | 25.00% | ~11,975 |
-| Destroy the thing | 25.00% | ~11,975 |
+| The Shadow strikes | 70.00% | ~33,531 |
+| The Evilest Evil | 58.00% | ~27,783 |
+| Twistram is devastated | 57.00% | ~27,304 |
+| The Gehenna Stones | 49.00% | ~23,472 |
+| No one has to die today! | 46.00% | ~22,035 |
+| Death and destruction! | 46.00% | ~22,035 |
+| The Swamplanders from the swamplands | 43.00% | ~20,598 |
+| Rusty Steel | 41.00% | ~19,640 |
+| The One-Huge-Army-Building Evil | 40.00% | ~19,161 |
+| The last burger | 37.00% | ~17,724 |
+| Braiiiiins! | 37.00% | ~17,724 |
+| Hands off the Dungeonheart! | 36.00% | ~17,245 |
+| A trip on sea, what fun it can be | 34.00% | ~16,287 |
+| Damned good | 32.00% | ~15,329 |
+| Factory farming | 31.00% | ~14,850 |
+| Stock Market Crash | 30.00% | ~14,371 |
+| Shadow hunter | 29.00% | ~13,892 |
+| Not-So-Overproud | 29.00% | ~13,892 |
+| For a handfull of Catapults | 28.00% | ~13,413 |
+| Thirst quencher | 27.00% | ~12,934 |
+| Ogre Solo! | 27.00% | ~12,934 |
+| Tide Master | 26.00% | ~12,455 |
+| Difficult family relationships | 25.00% | ~11,976 |
+| Destroy the thing | 25.00% | ~11,976 |
 | MASS-O-BOT | 24.00% | ~11,496 |
 | Prepare the grave | 24.00% | ~11,496 |
 | Angel of Fire | 24.00% | ~11,496 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~958 |
 | Sacrifices! | 2.00% | ~958 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,899 (Ranked 129)  
+Progressed: 47,902 (Ranked 129)  
 Completed: 376 (0.78%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 376 (0.78%) (Ranked 201)
 | 2024-01-23 | 47,757 | 375 |
 | 2024-01-24 | 47,835 | 375 |
 | 2024-01-25 | 47,894 | 376 |
-| 2024-01-26 | 47,899 | 376 |
+| 2024-01-26 | 47,902 | 376 |
 ## Awards
 Max (Great for Beginners): 402  (Ranked 242)  
 Sum: 2,860 (Ranked 192)  

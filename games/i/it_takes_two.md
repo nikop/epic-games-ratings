@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fried Friendship | 83.00% | ~107,790 |
-| Struck A Pose | 82.00% | ~106,491 |
-| Look At Him Go | 70.00% | ~90,907 |
+| Struck A Pose | 82.00% | ~106,492 |
+| Look At Him Go | 70.00% | ~90,908 |
 | On Rails Experience | 46.00% | ~59,739 |
-| A Daring Devil | 44.00% | ~57,141 |
+| A Daring Devil | 44.00% | ~57,142 |
 | Break the Bank | 34.00% | ~44,155 |
 | It Took Two | 33.00% | ~42,856 |
 | Bug Sized Relaxation | 15.00% | ~19,480 |
@@ -25,7 +25,7 @@
 | Faraway Frequencies | 3.00% | ~3,896 |
 | Minigame Megalomania | 2.00% | ~2,597 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,867 (Ranked 93)  
+Progressed: 129,868 (Ranked 93)  
 Completed: 320 (0.25%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,4 +158,4 @@ Completed: 320 (0.25%) (Ranked 278)
 | 2024-01-23 | 128,029 | 309 |
 | 2024-01-24 | 128,980 | 318 |
 | 2024-01-25 | 129,866 | 320 |
-| 2024-01-26 | 129,867 | 320 |
+| 2024-01-26 | 129,868 | 320 |
