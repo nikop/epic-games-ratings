@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -521,9 +521,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12281,
+  "EOS_Progressed": 12283,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6286,6 +6286,11 @@
       "Time": "2024-01-26T21:10:20.2328239+00:00",
       "NumProgressed": 12281,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T22:10:19.6158111+00:00",
+      "NumProgressed": 12283,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6298,15 +6303,15 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2211
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6418,7 +6423,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6474,7 +6479,7 @@
       "Name": "Highrise",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "25_DynastyProspers",
@@ -6584,9 +6589,9 @@
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
       "SetID": "37a94m8",
       "Name": "Those Who Are About to Die Salute You",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 25
     },
     {
       "ID": "39_FullyPrepared",
@@ -6610,7 +6615,7 @@
       "Name": "Jungle Heat",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6682,7 +6687,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6817,7 +6822,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12281,
+      "Progressed": 12283,
       "Completed": 1
     }
   ],
@@ -6825,8 +6830,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-26T17:59:53.5809851+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:20.2328235+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:19.6158106+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:00:10.4202241+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:20.2329115+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:54.0750591+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:19.6159382+00:00"
 }

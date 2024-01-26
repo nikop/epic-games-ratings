@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 475)  
+Rating: 4.58 (Ranked 474)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,194 |
+| Sink Beneath the Waves | 36.00% | ~16,195 |
 | Sweet Sorrow | 18.00% | ~8,097 |
-| Rules the Waves | 17.00% | ~7,647 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,747 |
-| Rival | 14.00% | ~6,297 |
+| Rules the Waves | 17.00% | ~7,648 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,748 |
+| Rival | 14.00% | ~6,298 |
 | Correspondent | 12.00% | ~5,398 |
 | Lose Your Mind | 12.00% | ~5,398 |
 | Sound Mind? | 12.00% | ~5,398 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~2,249 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,799 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,799 |
-| Storm's Curse | 3.00% | ~1,349 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,349 |
-| Come Closer | 3.00% | ~1,349 |
+| Storm's Curse | 3.00% | ~1,350 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,350 |
+| Come Closer | 3.00% | ~1,350 |
 | Roaring Rise | 2.00% | ~900 |
 | I am the Captain of my Soul | 2.00% | ~900 |
 | A buoyant escape | 1.00% | ~450 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,982 (Ranked 133)  
+Progressed: 44,986 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-23 | 44,825 | 4 |
 | 2024-01-24 | 44,874 | 4 |
 | 2024-01-25 | 44,932 | 4 |
-| 2024-01-26 | 44,982 | 4 |
+| 2024-01-26 | 44,986 | 4 |
 ## Awards
 Max (Character Customization): 222  (Ranked 291)  
 Sum: 337 (Ranked 373)  

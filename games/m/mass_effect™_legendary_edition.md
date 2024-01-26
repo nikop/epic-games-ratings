@@ -17,8 +17,8 @@
 | Council Legion of Merit | 39.00% | ~1,828 |
 | Missing in Action | 38.00% | ~1,781 |
 | Medal of Honor | 37.00% | ~1,734 |
+| Meritorious Service Medal | 37.00% | ~1,734 |
 | Soldier | 36.00% | ~1,687 |
-| Meritorious Service Medal | 36.00% | ~1,687 |
 | Soldier Ally | 36.00% | ~1,687 |
 | Charismatic | 36.00% | ~1,687 |
 | Very Elusive | 35.00% | ~1,640 |
@@ -78,11 +78,11 @@
 | Giant Killer | 20.00% | ~937 |
 | A House Divided | 20.00% | ~937 |
 | World Shaker | 20.00% | ~937 |
+| Liberator | 19.00% | ~890 |
 | First Aid Specialist | 18.00% | ~843 |
 | Pathfinder | 18.00% | ~843 |
 | Tunnel Rat | 18.00% | ~843 |
 | Arbiter | 18.00% | ~843 |
-| Liberator | 18.00% | ~843 |
 | Savior | 17.00% | ~797 |
 | Weapon Specialist | 17.00% | ~797 |
 | Paramour II | 16.00% | ~750 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14895,10 +14895,10 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 506036,
+  "EOS_Progressed": 506067,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4145,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 4146,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -47420,6 +47420,11 @@
       "Time": "2024-01-26T21:10:28.6226162+00:00",
       "NumProgressed": 506036,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T22:10:27.3458836+00:00",
+      "NumProgressed": 506067,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -49853,9 +49858,9 @@
       "ID": "achievement_the_princess_is_in_this_castle",
       "SetID": "8p2n7he",
       "Name": "The Princess is in this Castle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1518
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -50095,7 +50100,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -50334,21 +50339,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 506036,
+      "Progressed": 506067,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 506036,
+      "Progressed": 506067,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-26T20:59:06.5549379+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:28.6226159+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:27.3458831+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:06.5549385+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:28.6236435+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:58:59.6219566+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:27.3472308+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -903,9 +903,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3935,
+  "EOS_Progressed": 3936,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6213,6 +6213,11 @@
       "Time": "2024-01-26T17:04:57.8957575+00:00",
       "NumProgressed": 3935,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T22:04:15.874033+00:00",
+      "NumProgressed": 3936,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6432,7 +6437,7 @@
       "Name": "Friendly Fire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Kills_Interactable",
@@ -6767,21 +6772,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3935,
+      "Progressed": 3936,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3935,
+      "Progressed": 3936,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-24T02:29:22.6319201+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:04:11.2856532+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:04:15.8740325+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:03:13.70493+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:04:11.2857177+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:03:23.9972334+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:04:15.8741109+00:00"
 }

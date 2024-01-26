@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -515,9 +515,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 350131,
+  "EOS_Progressed": 350145,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2701,
+  "EOS_NewPlayers": 2697,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14840,6 +14840,11 @@
       "Time": "2024-01-26T21:09:14.4635049+00:00",
       "NumProgressed": 350131,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T22:09:20.7445251+00:00",
+      "NumProgressed": 350145,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14860,7 +14865,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14005
+      "UsersEstimate": 14006
     },
     {
       "ID": "S03_OTWA",
@@ -14988,7 +14993,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21008
+      "UsersEstimate": 21009
     },
     {
       "ID": "S19_CHALLENGES",
@@ -15171,7 +15176,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 350131,
+      "Progressed": 350145,
       "Completed": 7
     }
   ],
@@ -15179,8 +15184,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-24T02:59:53.121966+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:09:14.4635046+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:09:20.7445245+00:00",
   "LastUpdate_AppInfo": "2024-01-26T02:14:39.0818977+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:58:04.712189+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:09:14.4635845+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:58:06.2885968+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:09:20.7446429+00:00"
 }

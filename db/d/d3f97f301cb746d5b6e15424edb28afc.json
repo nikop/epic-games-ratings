@@ -3,12 +3,12 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_Rating": 530,
-  "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 592,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5417,9 +5417,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1318
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -5537,9 +5537,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1514
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -5962,8 +5962,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-26T01:42:00.4398099+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:08:05.0983561+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:06:30.2093043+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:53.6506902+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:08:05.0984433+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:39.5496005+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:06:30.2094827+00:00"
 }

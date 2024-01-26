@@ -9,14 +9,14 @@ Number of Ratings: 495  (23.09.2022)
 | Genin | 12.00% | ~27,418 |
 | A thief's beginning | 11.00% | ~25,133 |
 | Thorough | 11.00% | ~25,133 |
-| Disguised | 9.00% | ~20,563 |
-| Rescue Takuma | 9.00% | ~20,563 |
-| Rollin' | 9.00% | ~20,563 |
-| Tanuki Time | 9.00% | ~20,563 |
-| Ice Ice Yuki | 8.00% | ~18,278 |
-| Jonin | 8.00% | ~18,278 |
-| Stoned Ox | 8.00% | ~18,278 |
-| Yabu | 8.00% | ~18,278 |
+| Disguised | 9.00% | ~20,564 |
+| Rescue Takuma | 9.00% | ~20,564 |
+| Rollin' | 9.00% | ~20,564 |
+| Tanuki Time | 9.00% | ~20,564 |
+| Ice Ice Yuki | 8.00% | ~18,279 |
+| Jonin | 8.00% | ~18,279 |
+| Stoned Ox | 8.00% | ~18,279 |
+| Yabu | 8.00% | ~18,279 |
 | Happy Planning | 7.00% | ~15,994 |
 | Mugen Unchained | 7.00% | ~15,994 |
 | Chunin | 6.00% | ~13,709 |
@@ -30,8 +30,8 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 4.00% | ~9,139 |
 | Still Rollin' | 4.00% | ~9,139 |
 | Stoned | 4.00% | ~9,139 |
-| It's raining men | 3.00% | ~6,854 |
-| The Old Way | 3.00% | ~6,854 |
+| It's raining men | 3.00% | ~6,855 |
+| The Old Way | 3.00% | ~6,855 |
 | Atheist Ox | 2.00% | ~4,570 |
 | No Gimmicks | 2.00% | ~4,570 |
 | Old Man | 2.00% | ~4,570 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~228 |
 | Release the Kraken | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,480 (Ranked 80)  
+Progressed: 228,485 (Ranked 80)  
 Completed: 110 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 110 (0.05%) (Ranked 351)
 | 2024-01-23 | 227,929 | 110 |
 | 2024-01-24 | 228,117 | 110 |
 | 2024-01-25 | 228,308 | 110 |
-| 2024-01-26 | 228,480 | 110 |
+| 2024-01-26 | 228,485 | 110 |
 ## Awards
 Max (Great for Beginners): 596  (Ranked 212)  
 Sum: 4,973 (Ranked 155)  

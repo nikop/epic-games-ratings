@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34379,
+  "EOS_Progressed": 34383,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31787,6 +31787,11 @@
       "Time": "2024-01-26T21:10:05.8246791+00:00",
       "NumProgressed": 34379,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-26T22:10:06.6026844+00:00",
+      "NumProgressed": 34383,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 22,
@@ -31894,7 +31899,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "1028",
@@ -31902,7 +31907,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "1029",
@@ -31910,7 +31915,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "1030",
@@ -31918,7 +31923,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6532
+      "UsersEstimate": 6533
     },
     {
       "ID": "1031",
@@ -31926,7 +31931,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "1032",
@@ -31934,7 +31939,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13752
+      "UsersEstimate": 13753
     },
     {
       "ID": "1033",
@@ -31958,7 +31963,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "1036",
@@ -31973,15 +31978,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34379,
+      "Progressed": 34383,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:05.8246787+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:06.602684+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:09.3365156+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:05.8248352+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:01.848887+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:06.6029865+00:00"
 }

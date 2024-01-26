@@ -9,6 +9,7 @@ Rating: 4.57 (Ranked 498)
 | Become King | 3.00% | ~71 |
 | Collect Monster Parts | 3.00% | ~71 |
 | Ranged Weapon | 3.00% | ~71 |
+| Two Handed Weapon | 3.00% | ~71 |
 | Defeat 25 Frogs | 3.00% | ~71 |
 | The Bright Fir | 3.00% | ~30 |
 | Collect Gold | 2.00% | ~47 |
@@ -17,7 +18,6 @@ Rating: 4.57 (Ranked 498)
 | End of the Mozis | 2.00% | ~47 |
 | Defeat Ratnor Rodentson | 2.00% | ~47 |
 | Fix the Travellers Wagon | 2.00% | ~47 |
-| Two Handed Weapon | 2.00% | ~47 |
 | Defeat 25 Grubs | 2.00% | ~47 |
 | Defeat 25 Mozis | 2.00% | ~47 |
 | Meet the Creatures from the Deep | 2.00% | ~47 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 498)
 | Complete Arena Faction | 0.80% | ~19 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,353 (Ranked 249)  
+Progressed: 2,354 (Ranked 249)  
 Completed: 12 (0.51%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,6 +275,7 @@ Completed: 12 (0.51%) (Ranked 234)
 | 2024-01-22 | 2,347 | 12 |
 | 2024-01-23 | 2,352 | 12 |
 | 2024-01-24 | 2,353 | 12 |
+| 2024-01-26 | 2,354 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

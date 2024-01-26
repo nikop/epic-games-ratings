@@ -3,12 +3,12 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 662,
-  "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 549,
+  "Ranking_Popularity": 527,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 4349,
+  "EOS_Progressed": 4350,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -10020,6 +10020,11 @@
       "Time": "2024-01-26T21:10:06.6345833+00:00",
       "NumProgressed": 4349,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-26T22:10:07.3601292+00:00",
+      "NumProgressed": 4350,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -10031,7 +10036,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -10047,7 +10052,7 @@
       "Name": "Best of the Best",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "REWARD_13_OPTIONAL_TASK",
@@ -10087,7 +10092,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -10103,7 +10108,7 @@
       "Name": "Strategist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -10127,7 +10132,7 @@
       "Name": "Master of Secondaries",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -10215,7 +10220,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -10263,7 +10268,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -10335,7 +10340,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -10351,7 +10356,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -10383,7 +10388,7 @@
       "Name": "Road Rage",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -10391,7 +10396,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -10415,7 +10420,7 @@
       "Name": "Sight Beyond Sights",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -10598,13 +10603,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4300,
+      "Progressed": 4301,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4349,
+      "Progressed": 4350,
       "Completed": 11
     }
   ],
@@ -10612,8 +10617,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:06.6345829+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:07.3601288+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:00:08.0452548+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:06.6346648+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:51.9905196+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:07.3603355+00:00"
 }

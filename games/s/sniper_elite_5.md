@@ -21,9 +21,9 @@ Rating: 4.48 (Ranked 662)
 | Sharpshooter | 23.00% | ~1,000 |
 | Gunslinger | 20.00% | ~870 |
 | Explosive Efficiency | 20.00% | ~870 |
-| Climbing the Ladder | 17.00% | ~739 |
-| Just a Flesh Wound | 17.00% | ~739 |
-| Der Geist | 17.00% | ~739 |
+| Climbing the Ladder | 17.00% | ~740 |
+| Just a Flesh Wound | 17.00% | ~740 |
+| Der Geist | 17.00% | ~740 |
 | Skirmisher | 16.00% | ~696 |
 | Close Quarters | 16.00% | ~696 |
 | Snake in the Grass | 16.00% | ~696 |
@@ -36,15 +36,15 @@ Rating: 4.48 (Ranked 662)
 | Set Europe Ablaze | 14.00% | ~609 |
 | My Little Friend | 11.00% | ~478 |
 | Precision Is Key | 10.00% | ~435 |
-| Rigged to Blow | 9.00% | ~391 |
+| Rigged to Blow | 9.00% | ~392 |
 | Herr Today, Gone Tomorrow | 7.00% | ~301 |
 | The Long Game | 6.00% | ~261 |
 | Operation Foxley | 6.00% | ~258 |
-| Strategist | 5.00% | ~217 |
-| Tinkerer | 5.00% | ~217 |
-| It'll Buff Right Out | 5.00% | ~217 |
-| Road Rage | 5.00% | ~217 |
-| Don't hold your breath | 5.00% | ~217 |
+| Strategist | 5.00% | ~218 |
+| Tinkerer | 5.00% | ~218 |
+| It'll Buff Right Out | 5.00% | ~218 |
+| Road Rage | 5.00% | ~218 |
+| Don't hold your breath | 5.00% | ~218 |
 | Last Resort | 5.00% | ~215 |
 | Siegebreaker | 5.00% | ~215 |
 | Ghost of Falaise | 5.00% | ~215 |
@@ -64,9 +64,9 @@ Rating: 4.48 (Ranked 662)
 | Führerious Repetition | 2.00% | ~86 |
 | Reich To The Point | 2.00% | ~86 |
 | Covert Elimination | 2.00% | ~86 |
-| Best of the Best | 1.00% | ~43 |
-| Master of Secondaries | 1.00% | ~43 |
-| Sight Beyond Sights | 1.00% | ~43 |
+| Best of the Best | 1.00% | ~44 |
+| Master of Secondaries | 1.00% | ~44 |
+| Sight Beyond Sights | 1.00% | ~44 |
 | From Führer Away | 1.00% | ~43 |
 | Alpha | 1.00% | ~43 |
 | Das Familienjuwel | 1.00% | ~43 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,349 (Ranked 217)  
+Progressed: 4,350 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,10 +356,10 @@ Completed: 11 (0.25%) (Ranked 278)
 | 2024-01-23 | 4,337 | 11 |
 | 2024-01-24 | 4,341 | 11 |
 | 2024-01-25 | 4,346 | 11 |
-| 2024-01-26 | 4,349 | 11 |
+| 2024-01-26 | 4,350 | 11 |
 ## Awards
-Max (Great for Beginners): 31  (Ranked 528)  
-Sum: 31 (Ranked 549)  
+Max (Great for Beginners): 31  (Ranked 527)  
+Sum: 31 (Ranked 548)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |

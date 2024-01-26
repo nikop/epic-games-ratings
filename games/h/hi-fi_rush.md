@@ -5,18 +5,18 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 57.00% | ~10,109 |
+| Feeling the beat! | 57.00% | ~10,110 |
 | Start with a bang! | 56.00% | ~9,932 |
 | You can pet the cat! | 51.00% | ~9,045 |
 | Who put gears in there? | 42.00% | ~7,449 |
 | Cream of the Crop | 37.00% | ~6,562 |
 | Thanks for the free chip, Peppermint! | 37.00% | ~6,562 |
-| You got this, Peppermint? | 32.00% | ~5,675 |
-| Perfect Parry | 30.00% | ~5,320 |
+| You got this, Peppermint? | 32.00% | ~5,676 |
+| Perfect Parry | 30.00% | ~5,321 |
 | Alright, that felt AWESOME! | 29.00% | ~5,143 |
 | I play my own way! | 25.00% | ~4,434 |
-| This will cost you big time | 24.00% | ~4,256 |
-| Uh, they were broken when I got here | 24.00% | ~4,256 |
+| This will cost you big time | 24.00% | ~4,257 |
+| Uh, they were broken when I got here | 24.00% | ~4,257 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,902 |
 | Kissing the sky! | 22.00% | ~3,902 |
 | Whoa! There's ANOTHER health bar!? | 19.00% | ~3,370 |
@@ -34,7 +34,7 @@ Rating: 4.85 (Ranked 39)
 | There's such a thing as TOO helpful | 9.00% | ~1,596 |
 | Well that was a rush! | 8.00% | ~1,419 |
 | That's a lot of junk metal… | 8.00% | ~1,419 |
-| Beat-hit mania | 7.00% | ~1,241 |
+| Beat-hit mania | 7.00% | ~1,242 |
 | Chip-tuned | 5.00% | ~887 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~887 |
 | Wanna hear my playlist? | 4.00% | ~709 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,735 (Ranked 167)  
+Progressed: 17,736 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,10 +348,10 @@ Completed: 8 (0.05%) (Ranked 351)
 | 2024-01-23 | 17,642 | 8 |
 | 2024-01-24 | 17,683 | 8 |
 | 2024-01-25 | 17,709 | 8 |
-| 2024-01-26 | 17,735 | 8 |
+| 2024-01-26 | 17,736 | 8 |
 ## Awards
-Max (Great Boss Battles): 38  (Ranked 498)  
-Sum: 38 (Ranked 537)  
+Max (Great Boss Battles): 38  (Ranked 497)  
+Sum: 38 (Ranked 536)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |

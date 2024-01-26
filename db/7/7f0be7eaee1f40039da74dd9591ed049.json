@@ -2,10 +2,10 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 439,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.41,
+  "EOS_Completed_Percentage": 3.37,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -409,6 +409,11 @@
       "Time": "2024-01-21T16:08:24.6146659+00:00",
       "NumProgressed": 88,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T22:05:27.1754441+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -435,7 +440,7 @@
       "ID": "15_RACES",
       "SetID": "2g288ag",
       "Name": "Turbocharged Odyssey",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -445,7 +450,7 @@
       "Name": "Rookie Racer",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "20_RACES",
@@ -469,7 +474,7 @@
       "Name": "Dynamic Duo",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "2_MAPS",
@@ -477,7 +482,7 @@
       "Name": "Twice on the Track, Twice to win",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "2_RACES",
@@ -485,7 +490,7 @@
       "Name": "Double Trouble",
       "Percentage": 85,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "30_RACES",
@@ -499,9 +504,9 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "5_MAPS",
@@ -517,7 +522,7 @@
       "Name": "Quintessential Quest",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NO_CRASH",
@@ -540,14 +545,14 @@
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-01-16T20:58:00.8579865+00:00",
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:05:32.7294911+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:05:27.1754436+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.0843674+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:35.8900762+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:05:32.7295012+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:24.7857743+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:05:27.1754626+00:00"
 }

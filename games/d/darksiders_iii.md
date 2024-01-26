@@ -18,8 +18,8 @@ Number of Ratings: 116  (23.09.2022)
 | Enhance! | 43.00% | ~306 |
 | One Of the Chosen | 42.00% | ~299 |
 | Devil's in the Details | 41.00% | ~292 |
+| Throne Potato | 41.00% | ~292 |
 | Five's a Crowd | 41.00% | ~292 |
-| Throne Potato | 40.00% | ~284 |
 | 25 to Life | 40.00% | ~284 |
 | Salvation | 39.00% | ~277 |
 | Unshakable Fortitude | 37.00% | ~263 |

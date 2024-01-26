@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 2001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5376,9 +5376,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 240
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5488,9 +5488,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 220
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5568,9 +5568,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 260
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -5613,8 +5613,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:08:08.7225285+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:06:33.4407308+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:19.8144856+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:14.6928487+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:08:08.7225751+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:06.4672345+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:06:33.4408255+00:00"
 }

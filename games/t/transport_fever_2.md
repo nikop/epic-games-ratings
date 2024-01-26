@@ -36,8 +36,8 @@ Number of Ratings: 180  (23.09.2022)
 | Not in my backyard | 27.00% | ~681 |
 | City | 26.00% | ~655 |
 | The king of the sea | 26.00% | ~655 |
+| Old timer | 22.00% | ~555 |
 | Transport tycoon | 21.00% | ~529 |
-| Old timer | 21.00% | ~529 |
 | Climate change | 20.00% | ~504 |
 | The ugly smell of success | 20.00% | ~504 |
 | Heavily loaded | 19.00% | ~479 |
@@ -336,9 +336,9 @@ Completed: 1 (0.04%) (Ranked 363)
 | 2024-01-25 | 2,520 | 1 |
 | 2024-01-26 | 2,521 | 1 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 466)  
+Max (Great for Beginners): 50  (Ranked 465)  
 Sum: 333 (Ranked 376)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

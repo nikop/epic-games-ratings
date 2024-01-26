@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 475)  
+Rating: 4.58 (Ranked 474)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 12.00% | ~472 |
 | Blood for the Blood God! | 10.00% | ~394 |
 | Bloodless | 8.00% | ~315 |
-| Friendly Fire | 7.00% | ~275 |
+| Friendly Fire | 7.00% | ~276 |
 | Surgical Excision | 6.00% | ~236 |
 | A Foul Creche | 6.00% | ~236 |
 | Honoured Battle-Brother | 5.00% | ~197 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,935 (Ranked 224)  
+Progressed: 3,936 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-22 | 3,931 | 0 |
 | 2024-01-24 | 3,932 | 0 |
 | 2024-01-25 | 3,934 | 0 |
-| 2024-01-26 | 3,935 | 0 |
+| 2024-01-26 | 3,936 | 0 |
 ## Awards
 Max (Character Customization): 238  (Ranked 283)  
 Sum: 483 (Ranked 343)  

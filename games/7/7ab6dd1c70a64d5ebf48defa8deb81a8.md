@@ -15,10 +15,10 @@ Rating: 4.20 (Ranked 974)
 | Geared Up | 26.00% | ~640 |
 | Scholar | 26.00% | ~640 |
 | I Found It | 26.00% | ~640 |
+| Tributes of Caladrias | 24.00% | ~591 |
 | Fashion Victim | 24.00% | ~591 |
 | Stone Collection | 24.00% | ~591 |
 | Powerful Allies | 23.00% | ~566 |
-| Tributes of Caladrias | 23.00% | ~566 |
 | Big Bazar | 17.00% | ~419 |
 | Alchemist | 16.00% | ~394 |
 | Essence Blow | 15.00% | ~369 |

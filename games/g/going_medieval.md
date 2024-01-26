@@ -1,22 +1,22 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 432)  
+Rating: 4.60 (Ranked 431)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 77.00% | ~6,237 |
-| Get A Room | 76.00% | ~6,156 |
-| Reap What You Sow | 73.00% | ~5,913 |
-| The First Day | 70.00% | ~5,670 |
-| Novice Researcher | 69.00% | ~5,589 |
-| Green Thumb | 68.00% | ~5,508 |
-| Home Cooked Meal | 63.00% | ~5,103 |
-| Onward | 58.00% | ~4,698 |
-| The First Week | 56.00% | ~4,536 |
-| Beam Me Up | 53.00% | ~4,293 |
-| Studious Researcher | 53.00% | ~4,293 |
+| Having A Field Day | 77.00% | ~6,238 |
+| Get A Room | 76.00% | ~6,157 |
+| Reap What You Sow | 73.00% | ~5,914 |
+| The First Day | 70.00% | ~5,671 |
+| Novice Researcher | 69.00% | ~5,590 |
+| Green Thumb | 68.00% | ~5,509 |
+| Home Cooked Meal | 63.00% | ~5,104 |
+| Onward | 58.00% | ~4,699 |
+| The First Week | 56.00% | ~4,537 |
+| Beam Me Up | 53.00% | ~4,294 |
+| Studious Researcher | 53.00% | ~4,294 |
 | Adept Researcher | 45.00% | ~3,645 |
 | Putting Food on the Table | 44.00% | ~3,564 |
 | Retribution | 43.00% | ~3,483 |
@@ -36,9 +36,9 @@ Number of Ratings: 706  (23.09.2022)
 | Deerly Departed | 8.00% | ~648 |
 | Where Wolf? | 5.00% | ~405 |
 | Food Chain | 2.00% | ~162 |
-| Wabbit Season | 0.50% | ~40 |
+| Wabbit Season | 0.50% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,100 (Ranked 198)  
+Progressed: 8,101 (Ranked 198)  
 Completed: 14 (0.17%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 14 (0.17%) (Ranked 297)
 | 2024-01-23 | 8,071 | 14 |
 | 2024-01-24 | 8,078 | 14 |
 | 2024-01-25 | 8,088 | 14 |
-| 2024-01-26 | 8,100 | 14 |
+| 2024-01-26 | 8,101 | 14 |
 ## Awards
 Max (Great for Beginners): 136  (Ranked 348)  
 Sum: 1,067 (Ranked 271)  

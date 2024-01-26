@@ -41,6 +41,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.20% | ~2,118 |
 | Temperance | 0.20% | ~2,118 |
 | The APB is Not Enough | 0.20% | ~376 |
+| Judgement Day | 0.20% | ~376 |
 | Dirty Deeds | 0.20% | ~376 |
 | City Lights | 0.10% | ~1,059 |
 | Autojock | 0.10% | ~1,059 |
@@ -58,7 +59,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 0.10% | ~1,059 |
 | It's Elementary | 0.10% | ~1,059 |
 | Relic Ruler | 0.10% | ~188 |
-| Judgement Day | 0.10% | ~188 |
 | King of Cups | 0.10% | ~188 |
 | King of Pentacles | 0.10% | ~188 |
 | King of Swords | 0.10% | ~188 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,219 (Ranked 17)  
+Progressed: 1,059,238 (Ranked 17)  
 Completed: 3,167 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 3,167 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,059,219 | 3,167 |
+| 2024-01-26 | 1,059,238 | 3,167 |
 ## Awards
 Max (Character Customization): 145,484  (Ranked 8)  
 Sum: 522,027 (Ranked 8)  

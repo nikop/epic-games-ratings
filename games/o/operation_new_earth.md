@@ -13,10 +13,10 @@ Rating: 3.33 (Ranked 1,112)
 | Sergeant | 11.00% | ~255 |
 | Lieutenant | 10.00% | ~232 |
 | Getting Deployment | 10.00% | ~232 |
-| Stocking Up | 10.00% | ~232 |
 | On Target | 10.00% | ~232 |
 | Fighting for Survival | 9.00% | ~208 |
 | Keeping Busy | 9.00% | ~208 |
+| Stocking Up | 9.00% | ~208 |
 | Infantry Reporting | 9.00% | ~208 |
 | Exterminator | 8.00% | ~185 |
 | Silver Competitor | 8.00% | ~185 |
@@ -36,15 +36,15 @@ Rating: 3.33 (Ranked 1,112)
 | Control the Skies | 3.00% | ~69 |
 | General | 2.00% | ~46 |
 | Seek & Destroy | 2.00% | ~46 |
-| Advanced Interceptors | 1.00% | ~23 |
 | Titan Tanks | 1.00% | ~23 |
 | Shock Troops | 1.00% | ~23 |
+| Advanced Interceptors | 0.90% | ~21 |
 | Jet Troops | 0.80% | ~19 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,315 (Ranked 251)  
+Progressed: 2,316 (Ranked 251)  
 Completed: 1 (0.04%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 1 (0.04%) (Ranked 363)
 | 2024-01-23 | 2,308 | 1 |
 | 2024-01-24 | 2,310 | 1 |
 | 2024-01-25 | 2,311 | 1 |
-| 2024-01-26 | 2,315 | 1 |
+| 2024-01-26 | 2,316 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

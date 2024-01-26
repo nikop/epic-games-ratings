@@ -5,41 +5,42 @@ Rating: 4.36 (Ranked 823)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 24.00% | ~56 |
+| Hail to the King, Baby | 25.00% | ~58 |
 | Can’t Touch This | 22.00% | ~51 |
 | Help! Help! I’m being repressed | 22.00% | ~51 |
 | Path of Glory | 21.00% | ~49 |
 | Bring it on! | 19.00% | ~44 |
-| There is no Nobility in Poverty | 16.00% | ~37 |
+| There is no Nobility in Poverty | 17.00% | ~40 |
+| Full House | 16.00% | ~37 |
 | They Got What They Deserved | 16.00% | ~37 |
-| Full House | 15.00% | ~35 |
-| Playerxander the Great | 12.00% | ~28 |
+| Playerxander the Great | 13.00% | ~30 |
 | The finest merchandise this side of river Jordan | 12.00% | ~28 |
 | Big Apple | 9.00% | ~21 |
 | Dinner Time | 9.00% | ~21 |
-| All the King's Men | 7.00% | ~16 |
-| Cut-Me-Own-Throat | 7.00% | ~16 |
+| All the King's Men | 8.00% | ~19 |
+| Cut-Me-Own-Throat | 8.00% | ~19 |
 | Learn Me a Book | 7.00% | ~16 |
 | What we’ve got here is failure to communicate | 7.00% | ~16 |
 | Black Sheep Wall | 6.00% | ~14 |
+| Blinded by Science | 6.00% | ~14 |
 | Do you read Sutter Cane? | 6.00% | ~14 |
+| The Magnificent Nine | 6.00% | ~14 |
 | Blessed Be His Name | 5.00% | ~12 |
-| Blinded by Science | 5.00% | ~12 |
+| His All-Holiness | 5.00% | ~12 |
 | Let Us Pray | 5.00% | ~12 |
 | On the third day at dawn, look east | 5.00% | ~12 |
 | Scientia potentia es | 5.00% | ~12 |
-| The Magnificent Nine | 5.00% | ~12 |
 | ‘Tis but a scratch | 5.00% | ~12 |
 | Call the Boys | 4.00% | ~9 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~9 |
 | Forth, Eorlingas! | 4.00% | ~9 |
-| His All-Holiness | 4.00% | ~9 |
 | His name is King | 4.00% | ~9 |
 | Kingslayer | 4.00% | ~9 |
 | Naught but a Seamless Victory | 4.00% | ~9 |
 | Pillars of the Earth | 4.00% | ~9 |
 | A Quiet Palace | 3.00% | ~7 |
 | Battle of the Four Armies | 3.00% | ~7 |
+| Fighting with Power and Steel | 3.00% | ~7 |
 | Greed is Good | 3.00% | ~7 |
 | He made it out, but with an arrow in his back | 3.00% | ~7 |
 | I started a joke | 3.00% | ~7 |
@@ -48,17 +49,16 @@ Rating: 4.36 (Ranked 823)
 | Renaissance Man | 3.00% | ~7 |
 | Time to find India | 3.00% | ~7 |
 | Vlad the Impaler | 3.00% | ~7 |
-| Fighting with Power and Steel | 2.00% | ~5 |
+| Dust and Salt | 2.00% | ~5 |
 | New Mineland | 2.00% | ~5 |
 | Power Overwhelming | 2.00% | ~5 |
 | Together We Stand | 2.00% | ~5 |
+| You reap what you sow | 2.00% | ~5 |
 | Crusader “you know what” | 1.00% | ~2 |
-| Dust and Salt | 1.00% | ~2 |
 | From Rags to Riches | 1.00% | ~2 |
 | Lord of the Kings | 1.00% | ~2 |
 | Prince Ali! Fabulous he! | 1.00% | ~2 |
 | You are not the boss of me now | 1.00% | ~2 |
-| You reap what you sow | 1.00% | ~2 |
 | Zerg Rush | 0.90% | ~2 |
 | Ibn Battuta | 0.90% | ~2 |
 | Master of Puppets | 0.90% | ~2 |

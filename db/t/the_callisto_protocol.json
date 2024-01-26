@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2387,7 +2387,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22756,
+  "EOS_Progressed": 22757,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -15007,6 +15007,11 @@
       "Time": "2024-01-26T19:11:13.212658+00:00",
       "NumProgressed": 22756,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-26T22:10:06.247078+00:00",
+      "NumProgressed": 22757,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15122,7 +15127,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5461
+      "UsersEstimate": 5462
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -15146,7 +15151,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5006
+      "UsersEstimate": 5007
     },
     {
       "ID": "KILL_ROBOT",
@@ -15234,7 +15239,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "STORY_MINETOWN",
@@ -15393,13 +15398,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22756,
+      "Progressed": 22757,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10682,
+      "Progressed": 10683,
       "Completed": 29
     }
   ],
@@ -15407,8 +15412,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-26T21:03:19.1534048+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:05.283764+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:06.2470773+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:03:19.1534053+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:05.2838513+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:03:28.9872789+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:06.2472649+00:00"
 }

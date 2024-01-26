@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 974,
-  "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 592,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,10 +733,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12551,
+  "EOS_Progressed": 12553,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 108,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 109,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
@@ -16538,6 +16538,11 @@
       "Time": "2024-01-26T21:05:22.8621593+00:00",
       "NumProgressed": 12551,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-26T22:05:18.5821683+00:00",
+      "NumProgressed": 12553,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16549,7 +16554,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10417
+      "UsersEstimate": 10419
     },
     {
       "ID": "ACH02",
@@ -16557,7 +16562,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "ACH03",
@@ -16573,7 +16578,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4895
+      "UsersEstimate": 4896
     },
     {
       "ID": "ACH05",
@@ -16589,7 +16594,7 @@
       "Name": "Street Sweeper",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACH07",
@@ -16653,7 +16658,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "ACH15",
@@ -16669,7 +16674,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3263
+      "UsersEstimate": 3264
     },
     {
       "ID": "ACH17",
@@ -16780,7 +16785,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12551,
+      "Progressed": 12553,
       "Completed": 97
     }
   ],
@@ -16788,8 +16793,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:05:22.862159+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:05:18.5821673+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:36.5924722+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:05:22.8622567+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:25.4024338+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:05:18.5823666+00:00"
 }

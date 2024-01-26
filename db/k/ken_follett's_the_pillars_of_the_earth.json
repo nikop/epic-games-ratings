@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -576,7 +576,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18121,
+  "EOS_Progressed": 18122,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -19186,6 +19186,11 @@
       "Time": "2024-01-26T21:03:55.3416817+00:00",
       "NumProgressed": 18121,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-26T22:04:01.9444902+00:00",
+      "NumProgressed": 18122,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19261,7 +19266,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2900
     },
     {
       "ID": "tpote_achievement_18",
@@ -19413,7 +19418,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "tpote_achievement_35",
@@ -19461,7 +19466,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7067
+      "UsersEstimate": 7068
     },
     {
       "ID": "tpote_achievement_40",
@@ -19501,7 +19506,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "tpote_achievement_8",
@@ -19509,7 +19514,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3806
     },
     {
       "ID": "tpote_achievement_9",
@@ -19524,15 +19529,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18121,
+      "Progressed": 18122,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2024-01-25T16:03:51.8791748+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:03:55.3416814+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:04:01.9444894+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:02:58.0403481+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:03:55.3417726+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:03:10.3372444+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:04:01.9446872+00:00"
 }

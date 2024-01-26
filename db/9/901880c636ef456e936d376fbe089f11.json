@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -983,9 +983,9 @@
       "ID": "ACH_10_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Trainee",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
@@ -1031,9 +1031,9 @@
       "ID": "ACH_BAD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Bad Review",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BLOODISH_RED",
@@ -1079,17 +1079,17 @@
       "ID": "ACH_COLD_SHOULDERS",
       "SetID": "8h8m55b",
       "Name": "Cold Shoulders",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_COMFORTABLE_WITH_YOU",
       "SetID": "8h8m55b",
       "Name": "Comfortable With You",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FAILED_MESSENGER",
@@ -1295,9 +1295,9 @@
       "ID": "ACH_TIME_SPENT_LATTEART",
       "SetID": "8h8m55b",
       "Name": "Art takes time",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_TRASH_25_DRINKS",
@@ -1383,9 +1383,9 @@
       "ID": "ACH_WISTFUL_NIGHT",
       "SetID": "8h8m55b",
       "Name": "Wistful Nights",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_WORK_WOES",
@@ -1414,8 +1414,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:08:39.3114543+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:08:49.5470472+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.0319324+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:00:31.6121329+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:08:39.3114915+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:00:11.8872124+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:08:49.5471161+00:00"
 }

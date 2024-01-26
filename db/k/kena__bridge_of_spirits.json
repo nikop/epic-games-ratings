@@ -2,7 +2,7 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 225,
+  "Ranking_Rating": 224,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 49,
@@ -1565,7 +1565,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430621,
+  "EOS_Progressed": 430622,
   "EOS_Completed": 559,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 2,
@@ -20230,6 +20230,11 @@
       "Time": "2024-01-26T21:08:32.3253744+00:00",
       "NumProgressed": 430621,
       "NumCompleted": 559
+    },
+    {
+      "Time": "2024-01-26T22:08:43.467185+00:00",
+      "NumProgressed": 430622,
+      "NumCompleted": 559
     }
   ],
   "TotalAchievements": 41,
@@ -20249,7 +20254,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167942
+      "UsersEstimate": 167943
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -20273,7 +20278,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107655
+      "UsersEstimate": 107656
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -20289,7 +20294,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111961
+      "UsersEstimate": 111962
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -20297,7 +20302,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 129186
+      "UsersEstimate": 129187
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -20329,7 +20334,7 @@
       "Name": "Quick Draw",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 129186
+      "UsersEstimate": 129187
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -20361,7 +20366,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111961
+      "UsersEstimate": 111962
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -20409,7 +20414,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 409090
+      "UsersEstimate": 409091
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -20425,7 +20430,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 310047
+      "UsersEstimate": 310048
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -20449,7 +20454,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111961
+      "UsersEstimate": 111962
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -20457,7 +20462,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 344497
+      "UsersEstimate": 344498
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -20465,7 +20470,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 30143
+      "UsersEstimate": 30144
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -20481,7 +20486,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68899
+      "UsersEstimate": 68900
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -20529,7 +20534,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189473
+      "UsersEstimate": 189474
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -20568,15 +20573,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430621,
+      "Progressed": 430622,
       "Completed": 559
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-25T19:59:28.7862934+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:08:32.3253741+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:08:43.4671847+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:27.3802595+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:00:00.9912966+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:08:32.3254613+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:45.9616516+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:08:43.4673549+00:00"
 }

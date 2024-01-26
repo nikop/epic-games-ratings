@@ -1,20 +1,20 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.22 (Ranked 958)  
+Rating: 4.22 (Ranked 959)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 21.00% | ~1,773 |
+| Fish Just Got Reel | 21.00% | ~1,774 |
 | More Fish in the Sea | 18.00% | ~1,520 |
-| Hey Good Hookin | 17.00% | ~1,435 |
+| Hey Good Hookin | 17.00% | ~1,436 |
 | Can you smell what the Rod is Hooking | 16.00% | ~1,351 |
-| Scaling up | 16.00% | ~1,351 |
+| Scaling up | 15.00% | ~1,267 |
 | I'm on a Boat! | 14.00% | ~1,182 |
-| Ready to Rod and Roll | 12.00% | ~1,013 |
-| Fish Out of Water | 8.00% | ~675 |
-| Things that go Splash in the Night | 8.00% | ~675 |
+| Ready to Rod and Roll | 12.00% | ~1,014 |
+| Fish Out of Water | 8.00% | ~676 |
+| Things that go Splash in the Night | 8.00% | ~676 |
 | Goldfish? | 6.00% | ~507 |
 | Going for Gold | 6.00% | ~507 |
 | License to Gill | 5.00% | ~422 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,443 (Ranked 196)  
+Progressed: 8,446 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,11 +328,11 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 8,413 | 0 |
 | 2024-01-24 | 8,424 | 0 |
 | 2024-01-25 | 8,435 | 0 |
-| 2024-01-26 | 8,443 | 0 |
+| 2024-01-26 | 8,446 | 0 |
 ## Awards
-Max (Great for Beginners): 43  (Ranked 484)  
+Max (Great for Beginners): 43  (Ranked 483)  
 Sum: 219 (Ranked 418)  
-Diff (max vs sum): 66  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |

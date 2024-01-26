@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -479,9 +479,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15362,
+  "EOS_Progressed": 15365,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11574,6 +11574,11 @@
       "Time": "2024-01-26T21:10:15.0406994+00:00",
       "NumProgressed": 15362,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-26T22:10:15.0127685+00:00",
+      "NumProgressed": 15365,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11594,7 +11599,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6300
     },
     {
       "ID": "BeLikeWater",
@@ -11626,7 +11631,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "Eavesdropper",
@@ -11658,7 +11663,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8451
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11730,7 +11735,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "NoMoreTotems",
@@ -11770,7 +11775,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "TheOldSchoolWay",
@@ -11778,7 +11783,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "TheQuarterback",
@@ -11786,7 +11791,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6606
+      "UsersEstimate": 6607
     },
     {
       "ID": "ThisIsDharma",
@@ -11857,7 +11862,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15362,
+      "Progressed": 15365,
       "Completed": 28
     }
   ],
@@ -11865,8 +11870,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-26T15:57:34.6328133+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:15.040699+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:15.0127681+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:57:50.3915714+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:15.0407712+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:57:54.1703131+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:15.0128962+00:00"
 }

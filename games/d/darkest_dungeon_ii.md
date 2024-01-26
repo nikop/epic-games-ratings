@@ -14,7 +14,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 7.00% | ~9,363 |
 | Creep and Sleep | 7.00% | ~9,363 |
 | Overdue Notice | 7.00% | ~9,363 |
-| Ploughshares to Swords | 7.00% | ~603 |
+| Ploughshares to Swords | 7.00% | ~604 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,025 |
 | It Rings a Bell | 6.00% | ~8,025 |
 | Meat and Greet | 6.00% | ~8,025 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,752 (Ranked 92)  
+Progressed: 133,753 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,752 | 5 |
+| 2024-01-26 | 133,753 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
 Sum: 21,886 (Ranked 60)  

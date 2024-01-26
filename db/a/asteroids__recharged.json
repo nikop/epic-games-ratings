@@ -4,7 +4,7 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8663,
+  "EOS_Progressed": 8675,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3804,6 +3804,11 @@
       "Time": "2024-01-26T21:08:48.6814668+00:00",
       "NumProgressed": 8663,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-26T22:08:57.7223254+00:00",
+      "NumProgressed": 8675,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -3815,15 +3820,15 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1475
     },
     {
       "ID": "ACH_COOL_CAT",
       "SetID": "ca3jj1k",
       "Name": "Cool Cat",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_FRIENDS",
@@ -3831,15 +3836,15 @@
       "Name": "Friends Will Be Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_GOOD_COMPANY",
       "SetID": "ca3jj1k",
       "Name": "Good Company",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
@@ -3847,7 +3852,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2342
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3871,7 +3876,7 @@
       "Name": "Misfire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -3879,15 +3884,15 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3904
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
       "SetID": "ca3jj1k",
       "Name": "Put Out the Fire",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 173
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_ROCK_IT",
@@ -3903,7 +3908,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4424
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3911,7 +3916,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2342
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3919,7 +3924,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -3927,7 +3932,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 866
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -3935,14 +3940,14 @@
       "Name": "We Will Rock You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8663,
+      "Progressed": 8675,
       "Completed": 11
     }
   ],
@@ -3950,8 +3955,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:08:48.6814664+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:08:57.7223249+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:27.9945532+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:08:48.6814948+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:18.22941+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:08:57.7223816+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 288,
-  "Ranking_Popularity": 466,
+  "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -7332,9 +7332,9 @@
       "ID": "achCompleteCampaignA",
       "SetID": "dgl390n",
       "Name": "Old timer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 555
     },
     {
       "ID": "achCompleteCampaignB",
@@ -7692,8 +7692,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:09:44.9336135+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:09:48.2267005+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.5683931+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:03:00.8427679+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:09:44.933675+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:03:13.1647939+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:09:48.2268256+00:00"
 }

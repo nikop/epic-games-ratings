@@ -3,12 +3,12 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1112,
-  "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 592,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2315,
+  "EOS_Progressed": 2316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8961,6 +8961,11 @@
       "Time": "2024-01-26T20:06:15.4273371+00:00",
       "NumProgressed": 2315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T22:06:34.607552+00:00",
+      "NumProgressed": 2316,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -9178,9 +9183,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 208
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -9234,9 +9239,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -9275,7 +9280,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2315,
+      "Progressed": 2316,
       "Completed": 1
     }
   ],
@@ -9283,8 +9288,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:08:10.1528711+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:06:34.6075515+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.1428113+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:57:49.3776886+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:08:10.1529362+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:57:53.3500103+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:06:34.6076861+00:00"
 }

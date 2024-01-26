@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -4726,9 +4726,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 706
     },
     {
       "ID": "achievement_16",
@@ -5068,8 +5068,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:00.5195442+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:01.9461114+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:02:40.2945194+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:00.5196044+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:02:55.0100614+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:01.9462042+00:00"
 }

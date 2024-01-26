@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 59.00% | ~199 |
-| Inventory ✔ | 55.00% | ~185 |
-| Chest ✔ | 55.00% | ~185 |
-| Police officers ✔ | 28.00% | ~94 |
-| Mutation ✔ | 26.00% | ~88 |
+| Inventory ✔ | 55.00% | ~186 |
+| Chest ✔ | 54.00% | ~183 |
+| Police officers ✔ | 28.00% | ~95 |
+| Mutation ✔ | 25.00% | ~84 |
 | Doberman ✔ | 15.00% | ~51 |
-| Weapon ✔ | 12.00% | ~40 |
+| Weapon ✔ | 12.00% | ~41 |
 | Chess ✔ | 10.00% | ~34 |
 | Survival ✔ | 9.00% | ~30 |
 | Master of Unlocking ✔ | 9.00% | ~30 |
@@ -28,15 +28,15 @@
 | All secrets revealed ✔ | 6.00% | ~20 |
 | Boss 1 ✔ | 5.00% | ~17 |
 | Eva ✔ | 5.00% | ~17 |
-| Secret ✔ | 4.00% | ~13 |
-| Group Alpha ✔ | 4.00% | ~13 |
-| Mutant fight ✔ | 4.00% | ~13 |
-| Mutant run ✔ | 4.00% | ~13 |
-| Sheriff ✔ | 4.00% | ~13 |
-| City on fire ✔ | 4.00% | ~13 |
-| Infected ✔ | 4.00% | ~13 |
-| Priest ✔ | 4.00% | ~13 |
-| Broadcasting ✔ | 4.00% | ~13 |
+| Secret ✔ | 4.00% | ~14 |
+| Group Alpha ✔ | 4.00% | ~14 |
+| Mutant fight ✔ | 4.00% | ~14 |
+| Mutant run ✔ | 4.00% | ~14 |
+| Sheriff ✔ | 4.00% | ~14 |
+| City on fire ✔ | 4.00% | ~14 |
+| Infected ✔ | 4.00% | ~14 |
+| Priest ✔ | 4.00% | ~14 |
+| Broadcasting ✔ | 4.00% | ~14 |
 | Car ✔ | 3.00% | ~10 |
 | Crocodile Attack ✔ | 3.00% | ~10 |
 | Boss 2 ✔ | 3.00% | ~10 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337 (Ranked 394)  
+Progressed: 338 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-14 | 335 | 0 |
 | 2024-01-17 | 336 | 0 |
 | 2024-01-21 | 337 | 0 |
+| 2024-01-26 | 338 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

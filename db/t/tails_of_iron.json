@@ -3,12 +3,12 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 498,
-  "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 592,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2353,
+  "EOS_Progressed": 2354,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2024-01-24T23:05:11.9261051+00:00",
       "NumProgressed": 2353,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-26T22:03:45.6382593+00:00",
+      "NumProgressed": 2354,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4673,9 +4678,9 @@
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 71
     },
     {
       "ID": "Kill25Bugs",
@@ -4810,13 +4815,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2353,
+      "Progressed": 2354,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 927
     }
   ],
@@ -4824,8 +4829,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:03:36.7984386+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:03:45.6382587+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.8451703+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:57:37.1846365+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:03:36.7984791+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:57:43.1463405+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:03:45.6386474+00:00"
 }

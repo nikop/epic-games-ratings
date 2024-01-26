@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -3800,9 +3800,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_3",
@@ -3870,8 +3870,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:05:09.039094+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:05:06.4433891+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:37.1636766+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:59:11.8180445+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:05:09.0391187+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:59:03.9364801+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:05:06.4434367+00:00"
 }

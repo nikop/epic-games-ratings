@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 267,
-  "Ranking_Popularity": 533,
+  "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1317,
+  "EOS_Progressed": 1318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4577,6 +4577,11 @@
       "Time": "2024-01-26T21:09:50.8911066+00:00",
       "NumProgressed": 1317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T22:09:53.4139263+00:00",
+      "NumProgressed": 1318,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -5020,15 +5025,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1317,
+      "Progressed": 1318,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:09:50.8911062+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:09:53.4139254+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:02:30.4695347+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:09:50.8911542+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:00:27.1928338+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:09:53.4140085+00:00"
 }

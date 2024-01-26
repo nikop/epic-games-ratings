@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 6565,
+  "EOS_Progressed": 6566,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10377,6 +10377,11 @@
       "Time": "2024-01-26T20:03:18.8543031+00:00",
       "NumProgressed": 6565,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T22:03:42.4101579+00:00",
+      "NumProgressed": 6566,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10444,7 +10449,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10468,7 +10473,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -10484,7 +10489,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10508,7 +10513,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10556,7 +10561,7 @@
       "Name": "Frontliner",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10580,7 +10585,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10636,7 +10641,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10644,7 +10649,7 @@
       "Name": "The Passenger",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10668,7 +10673,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10684,7 +10689,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10692,7 +10697,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10700,7 +10705,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10708,7 +10713,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10716,7 +10721,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10724,7 +10729,7 @@
       "Name": "Recouped Investment",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10747,7 +10752,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6565,
+      "Progressed": 6566,
       "Completed": 3
     }
   ],
@@ -10755,8 +10760,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-25T22:59:55.7712708+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:03:33.215517+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:03:42.4101575+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:00:42.5022968+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:03:33.215599+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:00:21.220688+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:03:42.4102969+00:00"
 }

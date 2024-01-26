@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,770,676 |
-| Easy to forget | 46.00% | ~1,662,268 |
-| Back in the black | 39.00% | ~1,409,314 |
-| That's what I'm talking about | 29.00% | ~1,047,951 |
-| The Best of Both Worlds | 25.00% | ~903,406 |
-| Get your wings | 20.00% | ~722,725 |
-| Double trouble | 16.00% | ~578,180 |
-| Smashing it | 11.00% | ~397,499 |
-| But can it run Crysis? | 9.00% | ~325,226 |
-| My favourite feature... | 9.00% | ~325,226 |
-| Customer satisfaction | 8.00% | ~289,090 |
-| From humble beginnings... | 7.00% | ~252,954 |
-| Keeping things neat | 4.00% | ~144,545 |
-| Seems you're pretty good at this | 4.00% | ~144,545 |
-| Bending over backwards | 4.00% | ~144,545 |
+| You need to plug it in... | 49.00% | ~1,770,683 |
+| Easy to forget | 46.00% | ~1,662,273 |
+| Back in the black | 39.00% | ~1,409,319 |
+| That's what I'm talking about | 29.00% | ~1,047,955 |
+| The Best of Both Worlds | 25.00% | ~903,410 |
+| Get your wings | 20.00% | ~722,728 |
+| Double trouble | 16.00% | ~578,182 |
+| Smashing it | 11.00% | ~397,500 |
+| But can it run Crysis? | 9.00% | ~325,227 |
+| My favourite feature... | 9.00% | ~325,227 |
+| Customer satisfaction | 8.00% | ~289,091 |
+| From humble beginnings... | 7.00% | ~252,955 |
+| Keeping things neat | 4.00% | ~144,546 |
+| Seems you're pretty good at this | 4.00% | ~144,546 |
+| Bending over backwards | 4.00% | ~144,546 |
 | I'm broke, Uncle! | 3.00% | ~108,409 |
 | Triple threat | 3.00% | ~108,409 |
 | You rock at this! | 3.00% | ~108,409 |
 | Perfection | 3.00% | ~108,409 |
 | Your music sucks | 3.00% | ~108,409 |
-| Maybe you should try something else? | 2.00% | ~72,272 |
-| Taking care of business | 2.00% | ~72,272 |
-| Things are under control | 2.00% | ~72,272 |
-| Calling in Sick | 2.00% | ~72,272 |
+| Maybe you should try something else? | 2.00% | ~72,273 |
+| Taking care of business | 2.00% | ~72,273 |
+| Things are under control | 2.00% | ~72,273 |
+| Calling in Sick | 2.00% | ~72,273 |
 | Overvolted | 1.00% | ~36,136 |
 | If you fail the first time... | 1.00% | ~36,136 |
 | Amazonian | 1.00% | ~36,136 |
@@ -42,7 +42,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building momentum | 0.60% | ~21,682 |
 | Lead by example | 0.60% | ~21,682 |
 | Treat yourself - RAM | 0.50% | ~18,068 |
-| Mr big business | 0.40% | ~14,454 |
+| Mr big business | 0.40% | ~14,455 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,841 |
 | Mister Big | 0.30% | ~10,841 |
 | Getting your feet wet | 0.30% | ~10,841 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,614 |
 | Treat yourself - GPU | 0.10% | ~3,614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,613,625 (Ranked 5)  
+Progressed: 3,613,638 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 41 (0.00%) (Ranked 414)
 | 2024-01-23 | 3,612,675 | 41 |
 | 2024-01-24 | 3,612,981 | 41 |
 | 2024-01-25 | 3,613,321 | 41 |
-| 2024-01-26 | 3,613,625 | 41 |
+| 2024-01-26 | 3,613,638 | 41 |
 ## Awards
 Max (Great for Beginners): 1,149  (Ranked 154)  
 Sum: 8,336 (Ranked 116)  

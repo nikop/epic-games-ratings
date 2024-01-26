@@ -6,23 +6,23 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~262,174 |
-| Cavalier | 26.00% | ~213,017 |
-| Fatso | 23.00% | ~188,438 |
-| Awakening | 21.00% | ~172,052 |
-| Ranger | 20.00% | ~163,859 |
-| Scrooge | 20.00% | ~163,859 |
-| Anorectic | 16.00% | ~131,087 |
-| Firestarter | 16.00% | ~131,087 |
-| Bookworm | 15.00% | ~122,894 |
-| Insomniac | 13.00% | ~106,508 |
-| Buddy | 12.00% | ~98,315 |
-| Thief | 12.00% | ~98,315 |
-| Sinner | 11.00% | ~90,122 |
-| Traveller | 11.00% | ~90,122 |
-| Convict | 10.00% | ~81,930 |
-| Haggler | 10.00% | ~81,930 |
-| Runt | 8.00% | ~65,544 |
+| Blacksmith's Son | 32.00% | ~262,178 |
+| Cavalier | 26.00% | ~213,020 |
+| Fatso | 23.00% | ~188,441 |
+| Awakening | 21.00% | ~172,054 |
+| Ranger | 20.00% | ~163,861 |
+| Scrooge | 20.00% | ~163,861 |
+| Anorectic | 16.00% | ~131,089 |
+| Firestarter | 16.00% | ~131,089 |
+| Bookworm | 15.00% | ~122,896 |
+| Insomniac | 13.00% | ~106,510 |
+| Buddy | 12.00% | ~98,317 |
+| Thief | 12.00% | ~98,317 |
+| Sinner | 11.00% | ~90,124 |
+| Traveller | 11.00% | ~90,124 |
+| Convict | 10.00% | ~81,931 |
+| Haggler | 10.00% | ~81,931 |
+| Runt | 8.00% | ~65,545 |
 | McLovin | 7.00% | ~57,351 |
 | Casanova | 6.00% | ~49,158 |
 | Bad Trip | 5.00% | ~40,965 |
@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,735 |
 | Saviour | 0.70% | ~5,735 |
 | Edward Kelly | 0.60% | ~4,916 |
-| I Can Quit Anytime | 0.50% | ~4,096 |
-| Perfectionist | 0.50% | ~4,096 |
+| I Can Quit Anytime | 0.50% | ~4,097 |
+| Perfectionist | 0.50% | ~4,097 |
 | Alcoholic | 0.30% | ~2,458 |
 | Sniper | 0.30% | ~2,458 |
 | Angel of Mercy | 0.20% | ~1,639 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~819 |
 | Wingman | 0.10% | ~819 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 819,295 (Ranked 22)  
+Progressed: 819,307 (Ranked 22)  
 Completed: 54 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 54 (0.01%) (Ranked 388)
 | 2024-01-23 | 818,885 | 54 |
 | 2024-01-24 | 819,027 | 54 |
 | 2024-01-25 | 819,164 | 54 |
-| 2024-01-26 | 819,295 | 54 |
+| 2024-01-26 | 819,307 | 54 |
 ## Awards
 Max (Character Customization): 7,817  (Ranked 54)  
 Sum: 28,940 (Ranked 50)  

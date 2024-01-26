@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2249,6 +2249,11 @@
       "Time": "2024-01-26T19:08:12.8261131+00:00",
       "NumProgressed": 568,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T22:06:15.5548438+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2285,7 +2290,7 @@
       "Name": "Full load",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "Island",
@@ -2301,7 +2306,7 @@
       "Name": "In the last second",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Master",
@@ -2349,7 +2354,7 @@
       "Name": "Tangentially",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "USSR",
@@ -2372,14 +2377,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:07:48.5085154+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:06:15.5548432+00:00",
   "LastUpdate_AppInfo": "2024-01-23T06:57:13.9877703+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:58:26.4779844+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:07:48.5085343+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:58:25.6621191+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:06:15.5548828+00:00"
 }

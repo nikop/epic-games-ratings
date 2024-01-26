@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4686,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9484,9 +9484,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1734
     },
     {
       "ID": "achievement_19",
@@ -10148,9 +10148,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 890
     },
     {
       "ID": "achievement_94",
@@ -10216,8 +10216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-26T21:10:26.9389389+00:00",
+  "LastChanged_Achievements": "2024-01-26T22:10:25.8472417+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-26T21:03:19.6616394+00:00",
-  "LastUpdate_Achievements": "2024-01-26T21:10:26.9391109+00:00"
+  "LastUpdate_Ratings": "2024-01-26T22:03:29.4052071+00:00",
+  "LastUpdate_Achievements": "2024-01-26T22:10:25.8475859+00:00"
 }
