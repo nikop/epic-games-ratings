@@ -40,8 +40,8 @@
 | 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.04% |
-| 42 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.03% |
+| 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.03% |
+| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.02% |
 | 43 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.30% |
@@ -127,13 +127,13 @@
 | 125 | [The Complex](games/t/the_complex.md) | 2.51% |
 | 126 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2.50% |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
-| 126 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 130 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
-| 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.49% |
-| 132 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
-| 132 | [Yars: Recharged](games/y/yars__recharged.md) | 2.48% |
-| 134 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
+| 129 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
+| 129 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.49% |
+| 131 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
+| 131 | [FORECLOSED](games/f/foreclosed.md) | 2.48% |
+| 133 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
+| 134 | [Yars: Recharged](games/y/yars__recharged.md) | 2.36% |
 | 135 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
 | 136 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
 | 137 | [Night Book](games/n/night_book.md) | 2.15% |
@@ -177,10 +177,10 @@
 | 175 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.09% |
 | 176 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 177 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.06% |
-| 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
-| 180 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.04% |
-| 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.04% |
+| 179 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 179 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.04% |
 | 182 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.03% |
 | 182 | [Sable](games/s/sable.md) | 1.03% |
 | 184 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
@@ -188,7 +188,7 @@
 | 185 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
 | 185 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
 | 188 | [Lemon Cake](games/l/lemon_cake.md) | 0.98% |
-| 188 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.98% |
+| 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.97% |
 | 190 | [Trifox](games/t/trifox.md) | 0.94% |
 | 191 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
 | 191 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
@@ -198,8 +198,8 @@
 | 195 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.88% |
 | 197 | [A Musical Story](games/a/a_musical_story.md) | 0.87% |
 | 197 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.87% |
-| 199 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.86% |
-| 200 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.85% |
+| 199 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.85% |
+| 199 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.85% |
 | 201 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 202 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 203 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
