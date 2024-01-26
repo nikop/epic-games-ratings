@@ -173,9 +173,9 @@
       "ID": "11",
       "SetID": "7095412",
       "Name": "3 in 1",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "12",
@@ -333,9 +333,9 @@
       "ID": "3",
       "SetID": "7095412",
       "Name": "First Time User",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "30",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-08-25T14:00:23.6094208+00:00",
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:08:02.9351454+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:08:00.5671722+00:00",
   "LastUpdate_AppInfo": "2024-01-20T02:56:56.9676388+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:58:15.3453409+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:08:02.935188+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:59:37.8505981+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:08:00.5672029+00:00"
 }

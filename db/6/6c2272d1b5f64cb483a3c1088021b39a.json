@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4997,9 +4997,9 @@
       "ID": "call_of_mana_3",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 3",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "catacombs_raid_1",
@@ -5468,8 +5468,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:48.3612377+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:30.8363855+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:58.8758212+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:00:20.6703037+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:48.3612987+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:00:59.4221361+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:30.8364394+00:00"
 }

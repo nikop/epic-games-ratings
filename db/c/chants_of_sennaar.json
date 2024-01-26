@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3013,
+  "EOS_Progressed": 3015,
   "EOS_Completed": 239,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 7.93,
   "EosHistory": [
@@ -8151,6 +8151,11 @@
       "Time": "2024-01-26T12:06:46.3113911+00:00",
       "NumProgressed": 3013,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2024-01-26T13:07:06.2683801+00:00",
+      "NumProgressed": 3015,
+      "NumCompleted": 239
     }
   ],
   "TotalAchievements": 25,
@@ -8194,15 +8199,15 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 904
+      "UsersEstimate": 874
     },
     {
       "ID": "META_RESULT_1-2",
@@ -8250,7 +8255,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -8274,7 +8279,7 @@
       "Name": "True G3M4R",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -8282,7 +8287,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -8290,7 +8295,7 @@
       "Name": "Fashion victim",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -8306,7 +8311,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8322,7 +8327,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "PROGRESS_N2",
@@ -8330,7 +8335,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "PROGRESS_N3",
@@ -8338,7 +8343,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "PROGRESS_N4",
@@ -8346,7 +8351,7 @@
       "Name": "The darkness",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "PROGRESS_N5",
@@ -8354,14 +8359,14 @@
       "Name": "One last step",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 3013,
+      "Progressed": 3015,
       "Completed": 239
     }
   ],
@@ -8369,8 +8374,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:06:46.3113904+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:07:06.2683798+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:58:33.5516193+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:06:46.3114452+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:59:49.6080132+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:07:06.2684356+00:00"
 }

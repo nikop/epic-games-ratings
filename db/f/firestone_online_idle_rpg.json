@@ -817,9 +817,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4817,
+  "EOS_Progressed": 4818,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13487,6 +13487,11 @@
       "Time": "2024-01-26T12:04:57.190114+00:00",
       "NumProgressed": 4817,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T13:05:50.1362227+00:00",
+      "NumProgressed": 4818,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13682,7 +13687,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "fourleafclover",
@@ -13706,7 +13711,7 @@
       "Name": "Full Party",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "gearenchanting",
@@ -13898,7 +13903,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "relicofthepast",
@@ -14058,7 +14063,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "warmachinesarmy",
@@ -14090,14 +14095,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4817,
+      "Progressed": 4818,
       "Completed": 2
     }
   ],
@@ -14105,8 +14110,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-25T19:58:35.2116206+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:04:57.1901133+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:05:50.1362225+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:59:50.54192+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:04:57.1902767+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:00:39.6906416+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:05:50.1363338+00:00"
 }

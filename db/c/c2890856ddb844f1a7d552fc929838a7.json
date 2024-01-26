@@ -6757,9 +6757,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 396
     },
     {
       "ID": "AC28",
@@ -6918,8 +6918,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:06:39.9249597+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:07:01.8704265+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:20.0636425+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:02:18.6689209+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:06:39.9250262+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:04:36.8923047+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:07:01.8704784+00:00"
 }

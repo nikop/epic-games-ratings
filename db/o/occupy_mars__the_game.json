@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1919,
+  "EOS_Progressed": 1920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5217,6 +5217,11 @@
       "Time": "2024-01-26T05:11:01.7750574+00:00",
       "NumProgressed": 1919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T13:12:05.812943+00:00",
+      "NumProgressed": 1920,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5300,7 +5305,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -5404,7 +5409,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5452,7 +5457,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5611,7 +5616,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1919,
+      "Progressed": 1920,
       "Completed": 0
     }
   ],
@@ -5619,8 +5624,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-25T15:02:09.5796431+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:15.0480894+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:05.8129426+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:00.6724547+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:03:18.0433028+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:15.0481342+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:04:42.6189533+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:05.8129956+00:00"
 }

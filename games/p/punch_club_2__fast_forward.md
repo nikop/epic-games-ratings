@@ -35,7 +35,7 @@
 | Employee of the year | 50.00% | ~304 |
 | Legal courier | 46.00% | ~280 |
 | Extreme neuropower! | 46.00% | ~280 |
-| Escaped from a big trouble | 43.00% | ~262 |
+| Escaped from a big trouble | 44.00% | ~268 |
 | Fight is life | 40.00% | ~244 |
 | Now you are worthy | 39.00% | ~238 |
 | Guiding on the right path | 39.00% | ~238 |

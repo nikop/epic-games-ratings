@@ -4,11 +4,11 @@
   "ProductSlug": "star-wars-jedi-survivor",
   "Ranking_Rating": 623,
   "Ranking_Popularity": 47,
-  "Ranking_PopularitySum": 79,
+  "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -7861,18 +7861,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 14780,
       "NumberOfAwardsMax": 8897
+    },
+    {
+      "Time": "2024-01-26T13:00:41.3078916+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 14866,
+      "NumberOfAwardsMax": 8983
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14780,
-  "NumberOfAwardsMax": 8897,
+  "NumberOfAwards": 14866,
+  "NumberOfAwardsMax": 8983,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8897
+      "Count": 8983
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7929,9 +7935,9 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 46216,
+  "EOS_Progressed": 46217,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 1514,
+  "EOS_NewPlayers": 1506,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -22234,6 +22240,11 @@
       "Time": "2024-01-26T09:10:33.0082788+00:00",
       "NumProgressed": 46216,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2024-01-26T13:12:26.9233187+00:00",
+      "NumProgressed": 46217,
+      "NumCompleted": 170
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -22246,7 +22257,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 45754
+      "UsersEstimate": 45755
     },
     {
       "ID": "achievement_a10",
@@ -22262,7 +22273,7 @@
       "Name": "At the Precipice",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 18024
+      "UsersEstimate": 18025
     },
     {
       "ID": "achievement_a12",
@@ -22310,7 +22321,7 @@
       "Name": "Catch!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 15713
+      "UsersEstimate": 15714
     },
     {
       "ID": "achievement_a18",
@@ -22318,7 +22329,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 31427
+      "UsersEstimate": 31428
     },
     {
       "ID": "achievement_a19",
@@ -22326,7 +22337,7 @@
       "Name": "This Is Canon",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 9705
+      "UsersEstimate": 9706
     },
     {
       "ID": "achievement_a2",
@@ -22350,7 +22361,7 @@
       "Name": "Get Down From There",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_a22",
@@ -22382,7 +22393,7 @@
       "Name": "Slam Dunk",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "achievement_a26",
@@ -22446,7 +22457,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 15713
+      "UsersEstimate": 15714
     },
     {
       "ID": "achievement_a33",
@@ -22454,7 +22465,7 @@
       "Name": "Skywalker",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 24032
+      "UsersEstimate": 24033
     },
     {
       "ID": "achievement_a34",
@@ -22462,7 +22473,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 9705
+      "UsersEstimate": 9706
     },
     {
       "ID": "achievement_a35",
@@ -22478,7 +22489,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 37435
+      "UsersEstimate": 37436
     },
     {
       "ID": "achievement_a37",
@@ -22494,7 +22505,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 29116
+      "UsersEstimate": 29117
     },
     {
       "ID": "achievement_a39",
@@ -22510,7 +22521,7 @@
       "Name": "The Past Made Present",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 34200
+      "UsersEstimate": 34201
     },
     {
       "ID": "achievement_a40",
@@ -22518,7 +22529,7 @@
       "Name": "Greezy Money",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 18024
+      "UsersEstimate": 18025
     },
     {
       "ID": "achievement_a41",
@@ -22590,7 +22601,7 @@
       "Name": "Intergalactic Geographic",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_a5",
@@ -22598,7 +22609,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 31889
+      "UsersEstimate": 31890
     },
     {
       "ID": "achievement_a50",
@@ -22644,9 +22655,9 @@
       "ID": "achievement_a7",
       "SetID": "3m4b0pk",
       "Name": "For the Path",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 25881
+      "UsersEstimate": 25419
     },
     {
       "ID": "achievement_a8",
@@ -22654,7 +22665,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 23570
+      "UsersEstimate": 23571
     },
     {
       "ID": "achievement_a9",
@@ -22669,16 +22680,16 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 46216,
+      "Progressed": 46217,
       "Completed": 170
     }
   ],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2024-01-26T10:58:55.4413406+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:43.43649+00:00",
+  "LastChanged": "2024-01-26T13:00:41.3078915+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:26.9233184+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:03.3992242+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:59:53.0552034+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:43.4366211+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:00:41.307892+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:26.9234217+00:00"
 }

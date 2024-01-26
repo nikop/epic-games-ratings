@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -205,11 +205,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1642,
+  "EOS_Progressed": 1643,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.11,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5805,6 +5805,11 @@
       "Time": "2024-01-26T10:07:59.1217351+00:00",
       "NumProgressed": 1642,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-26T13:10:15.1989588+00:00",
+      "NumProgressed": 1643,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5824,7 +5829,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "MQ02_1",
@@ -5832,7 +5837,7 @@
       "Name": "High Profile",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "MQ02_2",
@@ -5856,7 +5861,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "MQ03_1",
@@ -5880,7 +5885,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "MQ03_4",
@@ -5912,7 +5917,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "MQ04_3",
@@ -5920,15 +5925,15 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 706
+      "UsersEstimate": 690
     },
     {
       "ID": "MQ05_2",
@@ -5936,7 +5941,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "MQ05_3",
@@ -5976,7 +5981,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "MQ06_4",
@@ -5992,7 +5997,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "MQ07_2",
@@ -6000,7 +6005,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "MQ08_1",
@@ -6039,7 +6044,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1642,
+      "Progressed": 1643,
       "Completed": 51
     }
   ],
@@ -6047,8 +6052,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-26T12:04:14.5432364+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:08:39.0377329+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:10:15.1989585+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:04:14.5432371+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:08:39.0377786+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:05:20.6307369+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:10:15.1989945+00:00"
 }

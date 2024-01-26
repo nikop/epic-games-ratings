@@ -2,12 +2,12 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 116,
   "RatingHistory": [
     {
@@ -500,6 +500,12 @@
     {
       "Time": "2024-01-24T13:04:26.9223835+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 101,
+      "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-01-26T13:00:56.5257346+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 101,
       "NumberOfAwardsMax": 101
     }
@@ -3182,9 +3188,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 488
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -3222,9 +3228,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 361
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -3245,9 +3251,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
-  "LastChanged": "2024-01-24T13:04:26.9223833+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:08:18.2294123+00:00",
+  "LastChanged": "2024-01-26T13:00:56.5257344+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:08:11.3074213+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:00:16.2543396+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:08:18.229468+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:00:56.5257348+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:08:11.3074775+00:00"
 }

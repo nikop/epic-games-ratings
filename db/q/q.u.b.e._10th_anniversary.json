@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30616,
+  "EOS_Progressed": 30617,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -11926,6 +11926,11 @@
       "Time": "2024-01-26T12:11:30.9427338+00:00",
       "NumProgressed": 30616,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-26T13:12:17.6743909+00:00",
+      "NumProgressed": 30617,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 24,
@@ -11937,7 +11942,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ACH_CollectAll",
@@ -12025,7 +12030,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -12065,7 +12070,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10409
+      "UsersEstimate": 10410
     },
     {
       "ID": "ACH_Sector2",
@@ -12089,7 +12094,7 @@
       "Name": "Sector 4",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 6429
+      "UsersEstimate": 6430
     },
     {
       "ID": "ACH_Sector5",
@@ -12128,7 +12133,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30616,
+      "Progressed": 30617,
       "Completed": 234
     }
   ],
@@ -12136,8 +12141,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:30.9427334+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:17.6743907+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:03:32.8333649+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:30.9428174+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:04:52.8245628+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:17.6744618+00:00"
 }

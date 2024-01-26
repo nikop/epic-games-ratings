@@ -35,6 +35,7 @@
 | Xevarian Gambit | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
 | A Terrible Will | 3.00% | ~9 |
+| Delayed | 3.00% | ~9 |
 | Life... Finds a Way | 3.00% | ~9 |
 | Inquisitions of Discord | 3.00% | ~9 |
 | Unseen Patterns | 3.00% | ~9 |
@@ -44,7 +45,6 @@
 | Business As Usual | 2.00% | ~6 |
 | Legacy of a Mercenary | 2.00% | ~6 |
 | Moving At Odd Angles | 2.00% | ~6 |
-| Delayed | 2.00% | ~6 |
 | A Real Battle | 2.00% | ~6 |
 | Merchant Lord | 2.00% | ~6 |
 | Glorious leader | 2.00% | ~6 |

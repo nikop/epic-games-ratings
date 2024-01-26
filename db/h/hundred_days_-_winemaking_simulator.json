@@ -1129,9 +1129,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 22131,
+  "EOS_Progressed": 22133,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18689,6 +18689,11 @@
       "Time": "2024-01-26T12:11:19.7509386+00:00",
       "NumProgressed": 22131,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-26T13:12:09.0388773+00:00",
+      "NumProgressed": 22133,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18749,7 +18754,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9738
+      "UsersEstimate": 9739
     },
     {
       "ID": "a_19",
@@ -18757,7 +18762,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "a_2",
@@ -18797,7 +18802,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "a_25",
@@ -18948,7 +18953,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 22131,
+      "Progressed": 22133,
       "Completed": 13
     }
   ],
@@ -18956,8 +18961,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-23T23:00:01.9387495+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:19.7509383+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:09.0388771+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:58:11.7142785+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:19.7510321+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:59:35.4274787+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:09.038953+00:00"
 }

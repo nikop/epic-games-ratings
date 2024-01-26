@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11194,10 +11194,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21867,
       "NumberOfAwardsMax": 8078
+    },
+    {
+      "Time": "2024-01-26T12:59:36.9654134+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21870,
+      "NumberOfAwardsMax": 8078
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21867,
+  "NumberOfAwards": 21870,
   "NumberOfAwardsMax": 8078,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11235,7 +11241,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1435
+      "Count": 1438
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11274,7 +11280,7 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133719,
+  "EOS_Progressed": 133724,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 0,
@@ -41549,6 +41555,11 @@
       "Time": "2024-01-26T11:10:25.1796424+00:00",
       "NumProgressed": 133719,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T13:12:28.3416613+00:00",
+      "NumProgressed": 133724,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41568,7 +41579,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9360
+      "UsersEstimate": 9361
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41688,7 +41699,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9360
+      "UsersEstimate": 9361
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41720,7 +41731,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9360
+      "UsersEstimate": 9361
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41784,7 +41795,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9360
+      "UsersEstimate": 9361
     },
     {
       "ID": "combat_kill_pillagers",
@@ -42096,7 +42107,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "combat_kill_collector",
@@ -42144,7 +42155,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -42152,7 +42163,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "quest_complete_crusader",
@@ -42168,7 +42179,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -42191,21 +42202,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133719,
+      "Progressed": 133724,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8588,
+      "Progressed": 8593,
       "Completed": 833
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-25T20:57:38.4952846+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:45.109582+00:00",
+  "LastChanged": "2024-01-26T12:59:36.9654132+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:28.341661+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:58:14.007435+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:45.109794+00:00"
+  "LastUpdate_Ratings": "2024-01-26T12:59:36.9654139+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:28.3418147+00:00"
 }

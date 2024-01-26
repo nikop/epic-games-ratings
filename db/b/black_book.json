@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 68988,
+  "EOS_Progressed": 68991,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1155,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -18286,6 +18286,11 @@
       "Time": "2024-01-26T12:05:43.9074181+00:00",
       "NumProgressed": 68988,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-26T13:06:22.7139759+00:00",
+      "NumProgressed": 68991,
+      "NumCompleted": 78
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -18322,7 +18327,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9658
+      "UsersEstimate": 9659
     },
     {
       "ID": "BAD_END",
@@ -18410,7 +18415,7 @@
       "Name": "Student",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 15867
+      "UsersEstimate": 15868
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -18474,7 +18479,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9658
+      "UsersEstimate": 9659
     },
     {
       "ID": "HERBS_2",
@@ -18610,7 +18615,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "TALES_1",
@@ -18618,7 +18623,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "TALES_2",
@@ -18642,7 +18647,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "WATER",
@@ -18674,7 +18679,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 11038
+      "UsersEstimate": 11039
     },
     {
       "ID": "ZNATKOST_2",
@@ -18697,15 +18702,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 68988,
+      "Progressed": 68991,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:05:43.9074176+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:06:22.7139757+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:05.7187732+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:59:47.1288216+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:05:43.9075375+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:00:37.3275535+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:06:22.714077+00:00"
 }

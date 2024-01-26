@@ -5,45 +5,43 @@ Rating: 4.36 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 20.00% | ~39 |
-| Hail to the King, Baby | 19.00% | ~37 |
-| Help! Help! I’m being repressed | 19.00% | ~37 |
-| Bring it on! | 17.00% | ~33 |
-| Path of Glory | 15.00% | ~29 |
-| There is no Nobility in Poverty | 13.00% | ~25 |
-| They Got What They Deserved | 11.00% | ~22 |
-| Full House | 10.00% | ~20 |
-| The finest merchandise this side of river Jordan | 10.00% | ~20 |
+| Can’t Touch This | 20.00% | ~40 |
+| Hail to the King, Baby | 19.00% | ~38 |
+| Help! Help! I’m being repressed | 19.00% | ~38 |
+| Bring it on! | 17.00% | ~34 |
+| Path of Glory | 15.00% | ~30 |
+| There is no Nobility in Poverty | 14.00% | ~28 |
+| They Got What They Deserved | 12.00% | ~24 |
+| Full House | 9.00% | ~18 |
 | Playerxander the Great | 9.00% | ~18 |
+| The finest merchandise this side of river Jordan | 9.00% | ~18 |
 | Dinner Time | 7.00% | ~14 |
 | Big Apple | 6.00% | ~12 |
 | All the King's Men | 5.00% | ~10 |
 | Cut-Me-Own-Throat | 5.00% | ~10 |
-| Do you read Sutter Cane? | 5.00% | ~10 |
 | Learn Me a Book | 5.00% | ~10 |
 | What we’ve got here is failure to communicate | 5.00% | ~10 |
+| Do you read Sutter Cane? | 4.00% | ~8 |
 | His name is King | 4.00% | ~8 |
-| Pillars of the Earth | 4.00% | ~8 |
-| Scientia potentia es | 4.00% | ~8 |
 | The Magnificent Nine | 4.00% | ~8 |
-| A Quiet Palace | 3.00% | ~6 |
 | Black Sheep Wall | 3.00% | ~6 |
-| Blinded by Science | 3.00% | ~6 |
 | Call the Boys | 3.00% | ~6 |
 | Desperate Times Call for Desperate Measures | 3.00% | ~6 |
-| Forth, Eorlingas! | 3.00% | ~6 |
-| Fight Another Day | 3.00% | ~6 |
 | Kingslayer | 3.00% | ~6 |
 | Let Us Pray | 3.00% | ~6 |
 | On the third day at dawn, look east | 3.00% | ~6 |
+| Pillars of the Earth | 3.00% | ~6 |
+| Scientia potentia es | 3.00% | ~6 |
 | ‘Tis but a scratch | 3.00% | ~6 |
+| A Quiet Palace | 2.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~4 |
 | Blessed Be His Name | 2.00% | ~4 |
-| Fighting with Power and Steel | 2.00% | ~4 |
-| From Rags to Riches | 2.00% | ~4 |
+| Blinded by Science | 2.00% | ~4 |
+| Forth, Eorlingas! | 2.00% | ~4 |
 | Greed is Good | 2.00% | ~4 |
 | He made it out, but with an arrow in his back | 2.00% | ~4 |
 | I started a joke | 2.00% | ~4 |
+| Fight Another Day | 2.00% | ~4 |
 | Let us trade with these fine people | 2.00% | ~4 |
 | Naught but a Seamless Victory | 2.00% | ~4 |
 | Renaissance Man | 2.00% | ~4 |
@@ -51,6 +49,8 @@ Rating: 4.36 (Ranked 824)
 | Vlad the Impaler | 2.00% | ~4 |
 | Zerg Rush | 1.00% | ~2 |
 | Crusader “you know what” | 1.00% | ~2 |
+| Fighting with Power and Steel | 1.00% | ~2 |
+| From Rags to Riches | 1.00% | ~2 |
 | His All-Holiness | 1.00% | ~2 |
 | Lord of the Kings | 1.00% | ~2 |
 | New Mineland | 1.00% | ~2 |
@@ -63,7 +63,9 @@ Rating: 4.36 (Ranked 824)
 | You reap what you sow | 1.00% | ~2 |
 | Crusade Invoker, no Regret | 0.50% | ~1 |
 | Dust and Salt | 0.50% | ~1 |
+| Everything the light touches is our kingdom | 0.50% | ~1 |
 | I am the senate | 0.50% | ~1 |
+| Master of Puppets | 0.50% | ~1 |
 | Power Overwhelming | 0.50% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
@@ -72,7 +74,6 @@ Rating: 4.36 (Ranked 824)
 | Edge of the World | 0.00% | ~0 |
 | Crom, I have never prayed to you before | 0.00% | ~0 |
 | Die By My Hand | 0.00% | ~0 |
-| Everything the light touches is our kingdom | 0.00% | ~0 |
 | Freeeedom! | 0.00% | ~0 |
 | Game of Thorns | 0.00% | ~0 |
 | Genghis Khan | 0.00% | ~0 |
@@ -87,7 +88,6 @@ Rating: 4.36 (Ranked 824)
 | Join the Dark Side | 0.00% | ~0 |
 | Kingdom Fall: Disappearance | 0.00% | ~0 |
 | Liberty or Death! | 0.00% | ~0 |
-| Master of Puppets | 0.00% | ~0 |
 | Open Your Eyes | 0.00% | ~0 |
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
 | Prison Break | 0.00% | ~0 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 824)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196 (Ranked 441)  
+Progressed: 201 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 196 | 0 |
+| 2024-01-26 | 201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

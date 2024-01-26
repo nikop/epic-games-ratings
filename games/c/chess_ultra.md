@@ -5,31 +5,31 @@ Rating: 4.30 (Ranked 886)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~162,909 |
-| Doubled Pawn | 57.00% | ~130,786 |
-| Check | 56.00% | ~128,491 |
-| Absolute pin | 47.00% | ~107,841 |
-| Promotion | 31.00% | ~71,129 |
-| Checkmate | 30.00% | ~68,835 |
-| O-O | 24.00% | ~55,068 |
-| Spanish Bishop | 21.00% | ~48,184 |
-| Queen Sacrifice | 20.00% | ~45,890 |
-| Stalemate | 18.00% | ~41,301 |
-| O-O-O | 13.00% | ~29,828 |
-| Octopus | 13.00% | ~29,828 |
-| Stranger Danger | 12.00% | ~27,534 |
-| En Passant | 9.00% | ~20,650 |
-| Double Check | 7.00% | ~16,061 |
+| Chop Wood | 71.00% | ~162,915 |
+| Doubled Pawn | 57.00% | ~130,791 |
+| Check | 56.00% | ~128,496 |
+| Absolute pin | 47.00% | ~107,845 |
+| Promotion | 31.00% | ~71,132 |
+| Checkmate | 30.00% | ~68,837 |
+| O-O | 24.00% | ~55,070 |
+| Spanish Bishop | 21.00% | ~48,186 |
+| Queen Sacrifice | 20.00% | ~45,892 |
+| Stalemate | 18.00% | ~41,302 |
+| O-O-O | 13.00% | ~29,830 |
+| Octopus | 13.00% | ~29,830 |
+| Stranger Danger | 12.00% | ~27,535 |
+| En Passant | 9.00% | ~20,651 |
+| Double Check | 7.00% | ~16,062 |
 | Family Fork | 6.00% | ~13,767 |
 | Piece Collector | 6.00% | ~13,767 |
-| ELO | 5.00% | ~11,472 |
+| ELO | 5.00% | ~11,473 |
 | Friendly Fire | 4.00% | ~9,178 |
 | Underpromote | 4.00% | ~9,178 |
-| ELO ELO | 3.00% | ~6,883 |
-| Learner | 3.00% | ~6,883 |
+| ELO ELO | 3.00% | ~6,884 |
+| Learner | 3.00% | ~6,884 |
 | Blind Pigs | 2.00% | ~4,589 |
 | ELO ELO ELO | 2.00% | ~4,589 |
-| Bobby Time | 1.00% | ~2,294 |
+| Bobby Time | 1.00% | ~2,295 |
 | Back-rank Mate | 0.90% | ~2,065 |
 | Chess Champion | 0.30% | ~688 |
 | Alekhine’s gun | 0.20% | ~459 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 886)
 | Tournament Master | 0.10% | ~229 |
 | Tournament Pro | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,449 (Ranked 79)  
+Progressed: 229,458 (Ranked 79)  
 Completed: 2 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 2 (0.00%) (Ranked 413)
 | 2024-01-23 | 229,179 | 2 |
 | 2024-01-24 | 229,294 | 2 |
 | 2024-01-25 | 229,402 | 2 |
-| 2024-01-26 | 229,449 | 2 |
+| 2024-01-26 | 229,458 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

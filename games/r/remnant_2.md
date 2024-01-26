@@ -5,15 +5,15 @@ Rating: 4.71 (Ranked 206)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,907 |
-| First of Many | 12.00% | ~35,914 |
-| Not Your Average Trait | 10.00% | ~29,928 |
-| Expanding Horizons | 9.00% | ~26,935 |
-| Gleaming the Cube | 8.00% | ~23,942 |
-| Quest for Survival | 8.00% | ~23,942 |
-| Familiar Face | 8.00% | ~23,942 |
-| Boss'n Up | 8.00% | ~23,942 |
-| Trait Chaser | 8.00% | ~23,942 |
+| The Killing Jar | 13.00% | ~38,908 |
+| First of Many | 12.00% | ~35,915 |
+| Not Your Average Trait | 10.00% | ~29,929 |
+| Expanding Horizons | 9.00% | ~26,936 |
+| Gleaming the Cube | 8.00% | ~23,943 |
+| Quest for Survival | 8.00% | ~23,943 |
+| Familiar Face | 8.00% | ~23,943 |
+| Boss'n Up | 8.00% | ~23,943 |
+| Trait Chaser | 8.00% | ~23,943 |
 | Not So Special Now | 7.00% | ~20,950 |
 | Not a Janitor | 7.00% | ~20,950 |
 | Duality | 7.00% | ~20,950 |
@@ -34,21 +34,21 @@ Rating: 4.71 (Ranked 206)
 | Was This Supposed To Happen? | 5.00% | ~14,964 |
 | The Web | 5.00% | ~14,964 |
 | Scrap Collector | 5.00% | ~14,964 |
-| Madman's Paradise | 4.00% | ~11,971 |
-| The Agenda | 4.00% | ~11,971 |
-| Bad Moon Rising | 4.00% | ~11,971 |
-| Strapped | 4.00% | ~11,971 |
-| All These Traits� | 4.00% | ~11,971 |
-| Red Room | 3.00% | ~8,978 |
-| Tall Tales | 3.00% | ~8,978 |
-| Edgelord | 3.00% | ~8,978 |
-| Scrap Hoarder | 3.00% | ~8,978 |
-| Carnage in C-Minor | 3.00% | ~8,978 |
-| The Ultimate Weapon | 3.00% | ~8,978 |
-| No One Should Have All That Power | 3.00% | ~8,978 |
-| Transmutate | 3.00% | ~8,978 |
-| Regicide | 3.00% | ~2,353 |
-| Master of the Dark Arts | 3.00% | ~2,353 |
+| Madman's Paradise | 4.00% | ~11,972 |
+| The Agenda | 4.00% | ~11,972 |
+| Bad Moon Rising | 4.00% | ~11,972 |
+| Strapped | 4.00% | ~11,972 |
+| All These Traits� | 4.00% | ~11,972 |
+| Red Room | 3.00% | ~8,979 |
+| Tall Tales | 3.00% | ~8,979 |
+| Edgelord | 3.00% | ~8,979 |
+| Scrap Hoarder | 3.00% | ~8,979 |
+| Carnage in C-Minor | 3.00% | ~8,979 |
+| The Ultimate Weapon | 3.00% | ~8,979 |
+| No One Should Have All That Power | 3.00% | ~8,979 |
+| Transmutate | 3.00% | ~8,979 |
+| Regicide | 3.00% | ~2,354 |
+| Master of the Dark Arts | 3.00% | ~2,354 |
 | Crafty | 2.00% | ~5,986 |
 | Ghost in the Machine | 2.00% | ~5,986 |
 | Only Human | 2.00% | ~5,986 |
@@ -61,7 +61,7 @@ Rating: 4.71 (Ranked 206)
 | You Shall Pass | 0.80% | ~628 |
 | A Foul Feast | 0.50% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,281 (Ranked 65)  
+Progressed: 299,290 (Ranked 65)  
 Completed: 1,261 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1,261 (0.42%) (Ranked 247)
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
 | 2024-01-25 | 299,157 | 1,254 |
-| 2024-01-26 | 299,281 | 1,261 |
+| 2024-01-26 | 299,290 | 1,261 |
 ## Awards
 Max (Great Boss Battles): 7,624  (Ranked 56)  
 Sum: 17,609 (Ranked 64)  

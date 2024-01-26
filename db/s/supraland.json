@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3541,9 +3541,9 @@
       "Count": 199
     }
   ],
-  "EOS_Progressed": 741600,
+  "EOS_Progressed": 741601,
   "EOS_Completed": 785,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -35371,6 +35371,11 @@
       "Time": "2024-01-26T12:11:52.4048163+00:00",
       "NumProgressed": 741600,
       "NumCompleted": 785
+    },
+    {
+      "Time": "2024-01-26T13:12:33.8208891+00:00",
+      "NumProgressed": 741601,
+      "NumCompleted": 785
     }
   ],
   "TotalAchievements": 98,
@@ -35630,7 +35635,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 393048
+      "UsersEstimate": 393049
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -35742,7 +35747,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 407880
+      "UsersEstimate": 407881
     },
     {
       "ID": "Healthregen",
@@ -35894,7 +35899,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 734184
+      "UsersEstimate": 734185
     },
     {
       "ID": "PanicLights",
@@ -36014,7 +36019,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 489456
+      "UsersEstimate": 489457
     },
     {
       "ID": "Strong",
@@ -36054,7 +36059,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 630360
+      "UsersEstimate": 630361
     },
     {
       "ID": "ThroughPipe",
@@ -36165,15 +36170,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 741600,
+      "Progressed": 741601,
       "Completed": 785
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-26T05:01:19.5392752+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:52.4048158+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:33.8208889+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.8310257+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:02:01.5093882+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:52.4051265+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:02:06.1008901+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:33.8210682+00:00"
 }

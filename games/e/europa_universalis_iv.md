@@ -7,9 +7,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.70% | ~3,540 |
-| That's a Grand Army | 0.60% | ~3,034 |
-| That is mine! | 0.60% | ~3,034 |
-| Victorious! | 0.60% | ~3,034 |
+| That's a Grand Army | 0.60% | ~3,035 |
+| That is mine! | 0.60% | ~3,035 |
+| Victorious! | 0.60% | ~3,035 |
 | Brothers in Arms | 0.50% | ~2,529 |
 | That's a Grand Navy | 0.50% | ~2,529 |
 | Seriously?! | 0.50% | ~2,529 |
@@ -19,16 +19,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 0.30% | ~1,517 |
 | Respected | 0.30% | ~1,517 |
 | True Catholic | 0.30% | ~1,517 |
-| Aggressive Expander | 0.20% | ~1,011 |
-| Blockader | 0.20% | ~1,011 |
-| Combined Arms | 0.20% | ~1,011 |
-| Double the Love | 0.20% | ~1,011 |
-| It's all about luck | 0.20% | ~1,011 |
-| My armies are invincible! | 0.20% | ~1,011 |
-| Royal Authority | 0.20% | ~1,011 |
-| The Princess is in this Castle | 0.20% | ~1,011 |
-| Total Control | 0.20% | ~1,011 |
-| Truly Divine Ruler | 0.20% | ~1,011 |
+| Aggressive Expander | 0.20% | ~1,012 |
+| Blockader | 0.20% | ~1,012 |
+| Combined Arms | 0.20% | ~1,012 |
+| Double the Love | 0.20% | ~1,012 |
+| It's all about luck | 0.20% | ~1,012 |
+| My armies are invincible! | 0.20% | ~1,012 |
+| Royal Authority | 0.20% | ~1,012 |
+| The Princess is in this Castle | 0.20% | ~1,012 |
+| Total Control | 0.20% | ~1,012 |
+| Truly Divine Ruler | 0.20% | ~1,012 |
 | The 52 Garhs | 0.10% | ~506 |
 | I don't like sand | 0.10% | ~506 |
 | A Blessed Nation | 0.10% | ~506 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~506 |
 | The Zoro-Austrians | 0.10% | ~506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 505,724 (Ranked 42)  
+Progressed: 505,754 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,7 +651,7 @@ Completed: 2 (0.00%) (Ranked 413)
 | 2024-01-23 | 504,493 | 2 |
 | 2024-01-24 | 504,991 | 2 |
 | 2024-01-25 | 505,518 | 2 |
-| 2024-01-26 | 505,724 | 2 |
+| 2024-01-26 | 505,754 | 2 |
 ## Awards
 Max (Educational): 7,975  (Ranked 53)  
 Sum: 65,858 (Ranked 25)  

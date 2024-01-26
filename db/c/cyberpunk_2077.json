@@ -19142,10 +19142,10 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1058989,
+  "EOS_Progressed": 1059015,
   "EOS_Completed": 3166,
-  "EOS_NewPlayers": 4150,
-  "EOS_NewCompleters": 41,
+  "EOS_NewPlayers": 4130,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51367,6 +51367,11 @@
       "Time": "2024-01-26T12:10:17.2094981+00:00",
       "NumProgressed": 1058989,
       "NumCompleted": 3166
+    },
+    {
+      "Time": "2024-01-26T13:11:25.2796666+00:00",
+      "NumProgressed": 1059015,
+      "NumCompleted": 3166
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51497,9 +51502,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7413
+      "UsersEstimate": 8472
     },
     {
       "ID": "MaxPain",
@@ -51779,7 +51784,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "Kingofcups",
@@ -51914,21 +51919,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058989,
+      "Progressed": 1059015,
       "Completed": 3166
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187612,
+      "Progressed": 187638,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T12:04:12.3068728+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:10:17.2094978+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:11:25.2796664+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:04:12.3068733+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:10:17.2096972+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:05:19.2448454+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:11:25.2798136+00:00"
 }

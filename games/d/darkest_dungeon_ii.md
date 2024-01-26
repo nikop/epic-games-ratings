@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,288 |
+| Malpractice Assurance | 15.00% | ~1,289 |
 | Autodidact | 9.00% | ~12,035 |
 | Lost and Found | 9.00% | ~773 |
 | This guy... again? | 8.00% | ~687 |
-| Serenity Now! | 7.00% | ~9,360 |
-| This Belongs in a Museum | 7.00% | ~9,360 |
-| Creep and Sleep | 7.00% | ~9,360 |
-| Overdue Notice | 7.00% | ~9,360 |
-| Ploughshares to Swords | 7.00% | ~601 |
+| Serenity Now! | 7.00% | ~9,361 |
+| This Belongs in a Museum | 7.00% | ~9,361 |
+| Creep and Sleep | 7.00% | ~9,361 |
+| Overdue Notice | 7.00% | ~9,361 |
+| Ploughshares to Swords | 7.00% | ~602 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,023 |
 | It Rings a Bell | 6.00% | ~8,023 |
 | Meat and Greet | 6.00% | ~8,023 |
@@ -25,13 +25,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,023 |
 | A Place to Lay Your Head | 6.00% | ~8,023 |
 | FNG | 6.00% | ~8,023 |
-| Bloody Graduation | 6.00% | ~515 |
+| Bloody Graduation | 6.00% | ~516 |
 | Not Today! | 5.00% | ~6,686 |
 | Merry Time | 5.00% | ~6,686 |
 | Harvest Festival | 5.00% | ~6,686 |
 | Whale | 5.00% | ~6,686 |
 | Nope | 5.00% | ~6,686 |
-| Friends 'Til the End | 5.00% | ~429 |
+| Friends 'Til the End | 5.00% | ~430 |
 | Resurrection | 4.00% | ~5,349 |
 | Unleash Hell | 4.00% | ~5,349 |
 | Funny Guy | 4.00% | ~5,349 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,719 (Ranked 92)  
+Progressed: 133,724 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,10 +357,10 @@ Completed: 5 (0.00%) (Ranked 413)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,719 | 5 |
+| 2024-01-26 | 133,724 | 5 |
 ## Awards
 Max (Character Customization): 8,078  (Ranked 52)  
-Sum: 21,867 (Ranked 60)  
+Sum: 21,870 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -372,7 +372,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,538 |
 | This game has Unique Visuals | 1,490 |
 | This game has Amazing Storytelling | 1,461 |
-| This game has Quickly Understood Controls | 1,435 |
+| This game has Quickly Understood Controls | 1,438 |
 | This game has a Creative Community | 1,115 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -742,3 +742,4 @@ Diff (max vs sum): -8
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
 | 2024-01-24 | 4.69 | - | 8,073 | 21,856 |
 | 2024-01-25 | 4.69 | - | 8,078 | 21,867 |
+| 2024-01-26 | 4.69 | - | 8,078 | 21,870 |

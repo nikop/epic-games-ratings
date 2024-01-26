@@ -1,18 +1,18 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 662)  
+Rating: 4.49 (Ranked 646)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~544 |
-| First of many… | 68.00% | ~481 |
+| First of many… | 69.00% | ~488 |
 | Helping Hand | 65.00% | ~460 |
 | Increased Vigor | 61.00% | ~431 |
 | Fight Fire with Fire | 59.00% | ~417 |
 | Increased Capacity | 57.00% | ~403 |
-| Just the start | 50.00% | ~354 |
+| Just the start | 51.00% | ~361 |
 | Perfect Storm | 47.00% | ~332 |
 | All That Glitters | 47.00% | ~332 |
 | Enhance! | 43.00% | ~304 |
@@ -214,3 +214,4 @@ Diff (max vs sum): -94
 | 2024-01-19 | 4.49 | - | 100 | 100 |
 | 2024-01-22 | 4.48 | - | 100 | 100 |
 | 2024-01-24 | 4.48 | - | 101 | 101 |
+| 2024-01-26 | 4.49 | - | 101 | 101 |

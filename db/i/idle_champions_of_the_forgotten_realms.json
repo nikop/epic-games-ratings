@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9859,9 +9859,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255700,
+  "EOS_Progressed": 255706,
   "EOS_Completed": 2649,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41774,6 +41774,11 @@
       "Time": "2024-01-26T12:11:56.6118583+00:00",
       "NumProgressed": 255700,
       "NumCompleted": 2649
+    },
+    {
+      "Time": "2024-01-26T13:12:37.6265792+00:00",
+      "NumProgressed": 255706,
+      "NumCompleted": 2649
     }
   ],
   "TotalAchievements": 546,
@@ -42889,7 +42894,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_149",
@@ -42977,7 +42982,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_165",
@@ -43009,7 +43014,7 @@
       "Name": "Building Trust",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_17",
@@ -43657,7 +43662,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_400",
@@ -43929,7 +43934,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_540",
@@ -44857,7 +44862,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_690",
@@ -44961,7 +44966,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_75",
@@ -46152,21 +46157,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221974,
+      "Progressed": 221980,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255700,
+      "Progressed": 255706,
       "Completed": 2649
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T03:59:33.9204457+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:56.6118579+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:37.626579+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:01:29.5353906+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:56.6140884+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:01:44.9745685+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:37.6287613+00:00"
 }

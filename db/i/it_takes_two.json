@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 129880,
+  "EOS_Progressed": 129881,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 7406,
+  "EOS_NewPlayers": 7281,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -15078,6 +15078,11 @@
       "Time": "2024-01-26T12:11:06.2854098+00:00",
       "NumProgressed": 129880,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2024-01-26T13:11:59.5080527+00:00",
+      "NumProgressed": 129881,
+      "NumCompleted": 320
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -15090,7 +15095,7 @@
       "Name": "It Took Two",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 42860
+      "UsersEstimate": 42861
     },
     {
       "ID": "achievement_10",
@@ -15194,7 +15199,7 @@
       "Name": "Fried Friendship",
       "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 107800
+      "UsersEstimate": 107801
     },
     {
       "ID": "achievement_4",
@@ -15210,7 +15215,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 16884
+      "UsersEstimate": 16885
     },
     {
       "ID": "achievement_6",
@@ -15226,7 +15231,7 @@
       "Name": "Look At Him Go",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 90916
+      "UsersEstimate": 90917
     },
     {
       "ID": "achievement_8",
@@ -15234,7 +15239,7 @@
       "Name": "Break the Bank",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 44159
+      "UsersEstimate": 44160
     },
     {
       "ID": "achievement_9",
@@ -15242,20 +15247,20 @@
       "Name": "A Daring Devil",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 57147
+      "UsersEstimate": 57148
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 129880,
+      "Progressed": 129881,
       "Completed": 320
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:06.2854093+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:11:59.5080524+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:28.4130551+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:59:14.0143011+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:06.2855054+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:00:15.8459033+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:11:59.5081267+00:00"
 }

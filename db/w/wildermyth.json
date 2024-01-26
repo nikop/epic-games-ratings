@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -178,9 +178,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2563,6 +2563,11 @@
       "Time": "2024-01-26T06:10:51.4339857+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T13:12:30.9105198+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2646,7 +2651,7 @@
       "Name": "Passing Shadow",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2734,7 +2739,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2766,7 +2771,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2846,7 +2851,7 @@
       "Name": "Daybreak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "completedStory_vultureLord",
@@ -3021,15 +3026,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:11:48.4479398+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:12:30.9105196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.1220407+00:00",
-  "LastUpdate_Ratings": "2024-01-26T11:59:23.790817+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:11:48.4479851+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:00:22.077843+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:12:30.9105558+00:00"
 }

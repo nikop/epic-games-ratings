@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 982,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -3104,6 +3104,11 @@
       "Time": "2024-01-26T12:07:28.3934765+00:00",
       "NumProgressed": 981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T13:07:36.616252+00:00",
+      "NumProgressed": 982,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3212,7 +3217,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Remake_008",
@@ -3228,7 +3233,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "Remake_010",
@@ -3339,14 +3344,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 982,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-26T12:07:28.393476+00:00",
+  "LastChanged_Achievements": "2024-01-26T13:07:36.6162517+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-26T12:01:39.3512868+00:00",
-  "LastUpdate_Achievements": "2024-01-26T12:07:28.3935168+00:00"
+  "LastUpdate_Ratings": "2024-01-26T13:01:51.6737166+00:00",
+  "LastUpdate_Achievements": "2024-01-26T13:07:36.6162849+00:00"
 }

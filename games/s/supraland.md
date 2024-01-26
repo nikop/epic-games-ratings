@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~734,184 |
-| The Blues | 85.00% | ~630,360 |
-| Fast | 66.00% | ~489,456 |
-| Healthbar | 55.00% | ~407,880 |
-| Force Cube | 53.00% | ~393,048 |
+| Out of bed | 99.00% | ~734,185 |
+| The Blues | 85.00% | ~630,361 |
+| Fast | 66.00% | ~489,457 |
+| Healthbar | 55.00% | ~407,881 |
+| Force Cube | 53.00% | ~393,049 |
 | Double Jump | 48.00% | ~355,968 |
 | Regeneration | 47.00% | ~348,552 |
 | Triple Jump | 43.00% | ~318,888 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~742 |
 | DLC: Top of the world | 0.10% | ~742 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,600 (Ranked 27)  
+Progressed: 741,601 (Ranked 27)  
 Completed: 785 (0.11%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 785 (0.11%) (Ranked 319)
 | 2024-01-23 | 741,349 | 784 |
 | 2024-01-24 | 741,462 | 784 |
 | 2024-01-25 | 741,555 | 785 |
-| 2024-01-26 | 741,600 | 785 |
+| 2024-01-26 | 741,601 | 785 |
 ## Awards
 Max (Challenging Puzzles): 7,787  (Ranked 55)  
 Sum: 10,179 (Ranked 97)  
