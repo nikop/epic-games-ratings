@@ -10,7 +10,7 @@
 | 8 | [Overloop](games/o/overloop.md) | 40.00% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
-| 11 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.18% |
+| 11 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.02% |
 | 12 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 14 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.07% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.06% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -48,11 +48,11 @@
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 8.82% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.78% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
-| 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.92% |
-| 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
-| 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.92% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
+| 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 52 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
 | 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.45% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.38% |
@@ -60,7 +60,7 @@
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.21% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
-| 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.02% |
+| 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 6.98% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
 | 64 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.73% |
@@ -135,9 +135,9 @@
 | 133 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
 | 134 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
 | 135 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
-| 136 | [Yars: Recharged](games/y/yars__recharged.md) | 2.16% |
-| 137 | [Night Book](games/n/night_book.md) | 2.15% |
-| 138 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
+| 136 | [Night Book](games/n/night_book.md) | 2.15% |
+| 137 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
+| 138 | [Yars: Recharged](games/y/yars__recharged.md) | 2.04% |
 | 139 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
 | 140 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.00% |
 | 140 | [Strange House](games/s/strange_house.md) | 2.00% |
@@ -852,4 +852,4 @@
 | 413 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 413 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 413 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,894 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,895 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |

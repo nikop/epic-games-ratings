@@ -183,6 +183,7 @@
 | [Mars Tactics](games/m/mars_tactics.md) | 2024-12-31 | - |  | - | - |
 | [MENACE](games/d/d21aef9c18434bd89ee67023baba05fe.md) | 2024-12-31 | - |  | - | - |
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
+| [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-12-31 | - |  | - | - |
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
 | [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-12-31 | - |  | - | - |
@@ -200,6 +201,7 @@
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
+| [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-12-31 | - |  | - | - |
 | [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2024-12-31 | - |  | - | - |
 | [The Sophisticated Art of Friendship: Tales of a Lost Friend](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2024-12-31 | - |  | - | - |
 | [The Spirit of the Samurai](games/7/7e23872d64c54cb08e988a697bd03839.md) | 2024-12-31 | - |  | - | - |
@@ -404,7 +406,6 @@
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |
 | [Munlay Online](games/c/c1c4ebf44f4e46c0be20c5741ddccade.md) | 2099-01-01 | - |  | - | - |
-| [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2099-01-01 | - |  | - | - |
 | [Mushrooms: Forest Walker](games/m/mushrooms__forest_walker.md) | 2099-01-01 | - |  | - | - |
 | [Mutus Meteora](games/0/06a3d76750a1495d853e3067de19c377.md) | 2099-01-01 | - |  | - | - |
 | [Necrosmith 2](games/e/e153609a322d42e18ee587bb862022fc.md) | 2099-01-01 | - |  | - | - |
