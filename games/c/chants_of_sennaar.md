@@ -10,7 +10,7 @@ Rating: 4.87 (Ranked 24)
 | The great escape | 46.00% | ~1,389 |
 | The Preacher's fate | 44.00% | ~1,329 |
 | A new dawn | 39.00% | ~1,178 |
-| Scholar | 34.00% | ~1,027 |
+| Scholar | 35.00% | ~1,057 |
 | True G3M4R | 33.00% | ~997 |
 | The darkness | 33.00% | ~997 |
 | A good beginning | 32.00% | ~966 |
@@ -32,7 +32,7 @@ Rating: 4.87 (Ranked 24)
 | Fashion victim | 10.00% | ~302 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,020 (Ranked 236)  
-Completed: 239 (7.91%) (Ranked 50)  
+Completed: 240 (7.95%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,7 +219,7 @@ Completed: 239 (7.91%) (Ranked 50)
 | 2024-01-23 | 2,982 | 233 |
 | 2024-01-24 | 2,996 | 234 |
 | 2024-01-25 | 3,005 | 236 |
-| 2024-01-26 | 3,020 | 239 |
+| 2024-01-26 | 3,020 | 240 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5635,10 +5635,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9460,
       "NumberOfAwardsMax": 3111
+    },
+    {
+      "Time": "2024-01-26T19:03:16.4380569+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9465,
+      "NumberOfAwardsMax": 3111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9460,
+  "NumberOfAwards": 9465,
   "NumberOfAwardsMax": 3111,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5652,7 +5658,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 574
+      "Count": 579
     },
     {
       "Text": "This game has Competitive Players",
@@ -5715,9 +5721,9 @@
       "Count": 699
     }
   ],
-  "EOS_Progressed": 24245,
+  "EOS_Progressed": 24246,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18090,6 +18096,11 @@
       "Time": "2024-01-26T18:09:22.3887088+00:00",
       "NumProgressed": 24245,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T19:09:58.0149142+00:00",
+      "NumProgressed": 24246,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -18102,7 +18113,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8243
+      "UsersEstimate": 8244
     },
     {
       "ID": "ach02",
@@ -18118,7 +18129,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10910
+      "UsersEstimate": 10911
     },
     {
       "ID": "ach04",
@@ -18126,7 +18137,7 @@
       "Name": "What Just Happened??",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "ach05",
@@ -18158,7 +18169,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "ach09",
@@ -18278,7 +18289,7 @@
       "Name": "Take And Deny",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     },
     {
       "ID": "ach24",
@@ -18310,7 +18321,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "ach28",
@@ -18318,7 +18329,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "ach29",
@@ -18334,7 +18345,7 @@
       "Name": "Juggernaut",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "ach31",
@@ -18342,7 +18353,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "ach32",
@@ -18366,7 +18377,7 @@
       "Name": "Always Accessorize",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "ach35",
@@ -18390,7 +18401,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11395
+      "UsersEstimate": 11396
     },
     {
       "ID": "ach38",
@@ -18398,7 +18409,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8243
+      "UsersEstimate": 8244
     },
     {
       "ID": "ach39",
@@ -18430,7 +18441,7 @@
       "Name": "Quest Master",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "ach43",
@@ -18454,7 +18465,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "ach46",
@@ -18501,16 +18512,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24245,
+      "Progressed": 24246,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-26T17:02:51.9382706+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:09:22.3887086+00:00",
+  "LastChanged": "2024-01-26T19:03:16.4380567+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:09:58.014914+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:03:22.5089811+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:09:22.3888076+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:03:16.4380573+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:09:58.0150037+00:00"
 }

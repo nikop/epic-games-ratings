@@ -4,11 +4,11 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 530,
   "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667901,
+  "EOS_Progressed": 667902,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27787,6 +27787,11 @@
       "Time": "2024-01-26T17:10:40.6882232+00:00",
       "NumProgressed": 667901,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-26T19:10:59.6292883+00:00",
+      "NumProgressed": 667902,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -28062,7 +28067,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166975
+      "UsersEstimate": 166976
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -28181,15 +28186,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667901,
+      "Progressed": 667902,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:04.5041046+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:10:59.6292879+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:57:30.6683894+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:04.5042562+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:57:35.7057305+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:10:59.6294337+00:00"
 }

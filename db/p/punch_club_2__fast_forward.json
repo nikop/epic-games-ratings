@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2844,9 +2844,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "nero_basic",
@@ -3059,8 +3059,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:28.2217857+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:32.6333293+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:31.5299896+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:01.5179892+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:28.221837+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:58:23.5516525+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:32.6333785+00:00"
 }

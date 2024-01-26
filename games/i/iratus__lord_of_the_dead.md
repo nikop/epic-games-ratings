@@ -1,18 +1,18 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 816)  
+Rating: 4.37 (Ranked 815)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~42,754 |
-| Blood Moon | 73.00% | ~36,718 |
-| Path of the Necromancer | 65.00% | ~32,694 |
-| Chainbreaker - I | 60.00% | ~30,179 |
-| Cursed Creature | 57.00% | ~28,670 |
-| Extraction | 57.00% | ~28,670 |
-| Chainbreaker - II | 54.00% | ~27,161 |
+| Improvement | 85.00% | ~42,756 |
+| Blood Moon | 73.00% | ~36,720 |
+| Path of the Necromancer | 65.00% | ~32,696 |
+| Chainbreaker - I | 60.00% | ~30,181 |
+| Cursed Creature | 57.00% | ~28,672 |
+| Extraction | 57.00% | ~28,672 |
+| Chainbreaker - II | 54.00% | ~27,163 |
 | Necromancer's Apprentice | 50.00% | ~25,150 |
 | Keeper of Keys | 47.00% | ~23,641 |
 | Distillation | 43.00% | ~21,629 |
@@ -79,10 +79,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Graveyard Call - III | 0.90% | ~453 |
 | I'll Be Back! | 0.80% | ~402 |
 | Doctorate in Potion Brewing | 0.70% | ~352 |
-| Unrivaled | 0.50% | ~251 |
+| Unrivaled | 0.50% | ~252 |
 | Renowned Researcher | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,299 (Ranked 126)  
+Progressed: 50,301 (Ranked 126)  
 Completed: 26 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 26 (0.05%) (Ranked 351)
 | 2024-01-23 | 50,133 | 26 |
 | 2024-01-24 | 50,184 | 26 |
 | 2024-01-25 | 50,247 | 26 |
-| 2024-01-26 | 50,299 | 26 |
+| 2024-01-26 | 50,301 | 26 |
 ## Awards
 Max (Character Customization): 2,168  (Ranked 118)  
 Sum: 4,236 (Ranked 163)  

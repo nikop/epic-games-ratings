@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 680,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 38,
@@ -515,9 +515,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 536427,
+  "EOS_Progressed": 536428,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -30505,6 +30505,11 @@
       "Time": "2024-01-26T18:09:10.7281892+00:00",
       "NumProgressed": 536427,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2024-01-26T19:09:40.5982631+00:00",
+      "NumProgressed": 536428,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 57,
@@ -30524,7 +30529,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 241392
+      "UsersEstimate": 241393
     },
     {
       "ID": "11",
@@ -30532,7 +30537,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 375499
+      "UsersEstimate": 375500
     },
     {
       "ID": "12",
@@ -30572,7 +30577,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48278
+      "UsersEstimate": 48279
     },
     {
       "ID": "17",
@@ -30612,7 +30617,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128742
+      "UsersEstimate": 128743
     },
     {
       "ID": "21",
@@ -30628,7 +30633,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48278
+      "UsersEstimate": 48279
     },
     {
       "ID": "23",
@@ -30772,7 +30777,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 182385
+      "UsersEstimate": 182386
     },
     {
       "ID": "4",
@@ -30852,7 +30857,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 107285
+      "UsersEstimate": 107286
     },
     {
       "ID": "49",
@@ -30860,7 +30865,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 182385
+      "UsersEstimate": 182386
     },
     {
       "ID": "5",
@@ -30892,7 +30897,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246756
+      "UsersEstimate": 246757
     },
     {
       "ID": "53",
@@ -30971,15 +30976,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 536427,
+      "Progressed": 536428,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-20T03:59:27.4592532+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:09:10.7281889+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:09:40.5982628+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:23.3858975+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:59:17.0492085+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:09:10.7283569+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:00:21.8480844+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:09:40.5984616+00:00"
 }

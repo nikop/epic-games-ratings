@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -385,7 +385,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1288,
+  "EOS_Progressed": 1289,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -3430,6 +3430,11 @@
       "Time": "2024-01-26T18:09:28.007853+00:00",
       "NumProgressed": 1288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T19:10:06.2758335+00:00",
+      "NumProgressed": 1289,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3498,7 +3503,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "CollectVehiclesA",
@@ -3601,7 +3606,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1288,
+      "Progressed": 1289,
       "Completed": 0
     }
   ],
@@ -3609,8 +3614,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-25T13:58:32.8923112+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:09:28.0078526+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:10:06.2758331+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:40.6852365+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:09:28.0078764+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:59:24.8059065+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:10:06.2758606+00:00"
 }

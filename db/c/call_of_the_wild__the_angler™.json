@@ -4,11 +4,11 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 958,
   "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -14902,8 +14902,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-26T01:43:13.4745273+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:09:10.0781035+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:09:39.6428126+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:57:34.6858556+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:09:10.0781761+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:57:41.6937002+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:09:39.6429094+00:00"
 }

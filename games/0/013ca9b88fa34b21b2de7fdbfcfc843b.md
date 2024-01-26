@@ -14,10 +14,10 @@ Rating: 4.66 (Ranked 310)
 | Bramble Breaker | 4.00% | ~368 |
 | Calm Sailing | 3.00% | ~276 |
 | Open the Gate! | 3.00% | ~276 |
+| Lumberjack | 3.00% | ~276 |
 | Mist Walker | 3.00% | ~276 |
 | Clear the Air | 2.00% | ~184 |
 | Search for the Hairy Grell | 2.00% | ~184 |
-| Lumberjack | 2.00% | ~184 |
 | Higher Tax Bracket | 2.00% | ~184 |
 | Oui, Chef! | 2.00% | ~184 |
 | Botanical Breakthrough | 2.00% | ~184 |

@@ -1,21 +1,21 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 714)  
+Rating: 4.44 (Ranked 713)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,168 |
-| I'll Be Back | 84.00% | ~4,618 |
-| Sorry, I Dropped This | 76.00% | ~4,178 |
-| First Day on the Job | 75.00% | ~4,124 |
-| Butcher's Bill | 54.00% | ~2,969 |
-| P.A.X | 36.00% | ~1,979 |
-| Hey Listen | 36.00% | ~1,979 |
-| OPERATOR | 35.00% | ~1,924 |
-| It's Blue Light | 33.00% | ~1,814 |
-| Most Wanted | 26.00% | ~1,429 |
+| On My Own Two Feet | 94.00% | ~5,170 |
+| I'll Be Back | 84.00% | ~4,620 |
+| Sorry, I Dropped This | 76.00% | ~4,180 |
+| First Day on the Job | 75.00% | ~4,125 |
+| Butcher's Bill | 54.00% | ~2,970 |
+| P.A.X | 36.00% | ~1,980 |
+| Hey Listen | 36.00% | ~1,980 |
+| OPERATOR | 35.00% | ~1,925 |
+| It's Blue Light | 33.00% | ~1,815 |
+| Most Wanted | 26.00% | ~1,430 |
 | Infidel | 23.00% | ~1,265 |
 | Firebug | 20.00% | ~1,100 |
 | GOLIATH | 20.00% | ~1,100 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,498 (Ranked 207)  
+Progressed: 5,500 (Ranked 207)  
 Completed: 18 (0.33%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 18 (0.33%) (Ranked 263)
 | 2024-01-23 | 5,490 | 18 |
 | 2024-01-24 | 5,493 | 18 |
 | 2024-01-25 | 5,496 | 18 |
-| 2024-01-26 | 5,498 | 18 |
+| 2024-01-26 | 5,500 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 533)  
 Sum: 30 (Ranked 553)  

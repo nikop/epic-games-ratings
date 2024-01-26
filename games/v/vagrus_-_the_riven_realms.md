@@ -24,8 +24,8 @@
 | Courier | 6.00% | ~19 |
 | Pilgrimage's End | 6.00% | ~19 |
 | Merchant | 6.00% | ~19 |
+| Quartermaster | 5.00% | ~16 |
 | Strategist | 5.00% | ~16 |
-| Quartermaster | 4.00% | ~13 |
 | Despised | 4.00% | ~13 |
 | Been There | 4.00% | ~13 |
 | Spiritual Journey | 4.00% | ~13 |

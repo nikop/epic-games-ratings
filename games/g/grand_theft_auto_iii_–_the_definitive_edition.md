@@ -13,7 +13,7 @@ Rating: 4.20 (Ranked 974)
 | Street Sweeper | 20.00% | ~2,510 |
 | Liberty City Minute | 18.00% | ~2,259 |
 | Offshore Delivery | 15.00% | ~1,882 |
-| Dirty Money | 13.00% | ~1,631 |
+| Dirty Money | 13.00% | ~1,632 |
 | Not So Fast | 11.00% | ~1,380 |
 | Right-hand Man | 11.00% | ~1,380 |
 | By a Mile | 10.00% | ~1,255 |
@@ -28,14 +28,14 @@ Rating: 4.20 (Ranked 974)
 | Playing Doctor | 2.00% | ~251 |
 | Going Rogue | 2.00% | ~251 |
 | Liberty City Secrets | 2.00% | ~251 |
-| Planned Ahead | 1.00% | ~125 |
-| Wheels Up | 1.00% | ~125 |
-| Man Toyz | 1.00% | ~125 |
-| Furious First Responder | 1.00% | ~125 |
-| Is That All You've Got? | 1.00% | ~125 |
+| Planned Ahead | 1.00% | ~126 |
+| Wheels Up | 1.00% | ~126 |
+| Man Toyz | 1.00% | ~126 |
+| Furious First Responder | 1.00% | ~126 |
+| Is That All You've Got? | 1.00% | ~126 |
 | King of Liberty City | 0.80% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,549 (Ranked 181)  
+Progressed: 12,550 (Ranked 181)  
 Completed: 97 (0.77%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 97 (0.77%) (Ranked 203)
 | 2024-01-23 | 12,510 | 96 |
 | 2024-01-24 | 12,525 | 96 |
 | 2024-01-25 | 12,537 | 97 |
-| 2024-01-26 | 12,549 | 97 |
+| 2024-01-26 | 12,550 | 97 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

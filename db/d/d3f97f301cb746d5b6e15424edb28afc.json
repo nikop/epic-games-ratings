@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -187,7 +187,7 @@
   "Tags": [],
   "EOS_Progressed": 1780,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5428,9 +5428,9 @@
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
       "SetID": "5fn8ia4",
       "Name": "Trash Collection",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1620
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -5957,8 +5957,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-26T01:42:00.4398099+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:06:45.1079247+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:08:34.9408921+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:59:37.5823127+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:06:45.1080233+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:00:53.4470597+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:08:34.9409841+00:00"
 }

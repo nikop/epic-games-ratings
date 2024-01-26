@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19300,
+  "EOS_Progressed": 19301,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18278,6 +18278,11 @@
       "Time": "2024-01-26T18:04:22.5934996+00:00",
       "NumProgressed": 19300,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-26T19:05:08.0392017+00:00",
+      "NumProgressed": 19301,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18562,29 +18567,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19300,
+      "Progressed": 19301,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5254,
-      "Completed": 1405
+      "Progressed": 5255,
+      "Completed": 1406
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:04:22.5934993+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:05:08.0392014+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:57:36.8231338+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:04:22.5936261+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:57:44.9949629+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:05:08.0392998+00:00"
 }

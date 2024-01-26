@@ -19,8 +19,8 @@
 | Mysterious Bungalow | 13.00% | ~19 |
 | The Eyes! | 12.00% | ~17 |
 | Keep the Doctor Away | 11.00% | ~16 |
+| Just a Palm Tree | 11.00% | ~16 |
 | Punctual | 11.00% | ~16 |
-| Just a Palm Tree | 10.00% | ~14 |
 | Under the Hood | 10.00% | ~14 |
 | Long Live Gaipajama! | 10.00% | ~14 |
 | Eyes Shut | 10.00% | ~14 |

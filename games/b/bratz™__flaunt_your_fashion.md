@@ -17,7 +17,7 @@
 | Best Gala Ever | 27.00% | ~47 |
 | Scooter Race | 26.00% | ~45 |
 | Barcelona Hidden Style | 20.00% | ~35 |
-| Seoul Hidden Style | 15.00% | ~26 |
+| Seoul Hidden Style | 16.00% | ~28 |
 | Hoverboard Race | 8.00% | ~14 |
 | Trendy Selfies | 2.00% | ~3 |
 | Xtremely Cool Pictures | 1.00% | ~2 |

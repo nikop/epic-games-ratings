@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1727,9 +1727,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8098,
+  "EOS_Progressed": 8099,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17397,6 +17397,11 @@
       "Time": "2024-01-26T18:08:31.5850616+00:00",
       "NumProgressed": 8098,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-26T19:08:42.7048359+00:00",
+      "NumProgressed": 8099,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17408,7 +17413,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -17448,7 +17453,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6235
+      "UsersEstimate": 6236
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17520,7 +17525,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -17536,7 +17541,7 @@
       "Name": "Feast or Famine",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -17544,7 +17549,7 @@
       "Name": "Fit For A King",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -17552,7 +17557,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17560,7 +17565,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -17576,7 +17581,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -17584,7 +17589,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -17592,7 +17597,7 @@
       "Name": "Winter Is Here",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -17624,7 +17629,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -17632,7 +17637,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -17655,15 +17660,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8098,
+      "Progressed": 8099,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-26T17:01:41.1904004+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:08:31.5850613+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:08:42.7048356+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.945305+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:00:07.848379+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:08:31.5851403+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:01:37.5812585+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:08:42.7049357+00:00"
 }

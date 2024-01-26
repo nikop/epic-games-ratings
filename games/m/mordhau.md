@@ -1,42 +1,42 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 803)  
+Rating: 4.38 (Ranked 802)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~781,893 |
-| The ABCs | 43.00% | ~686,151 |
-| Home Run | 41.00% | ~654,237 |
-| Keeps Coming Off | 41.00% | ~654,237 |
-| Guts | 19.00% | ~303,183 |
-| Meat Grinder | 19.00% | ~303,183 |
-| Burning Man | 16.00% | ~255,312 |
-| Lived to Tell the Tale | 12.00% | ~191,484 |
-| Highlander | 10.00% | ~159,570 |
-| Unstoppable | 10.00% | ~159,570 |
-| Just a Scratch | 9.00% | ~143,613 |
-| Tough Nut to Crack | 6.00% | ~95,742 |
-| Yoink | 6.00% | ~95,742 |
-| Long List of Names | 4.00% | ~63,828 |
-| Pyromaniac | 4.00% | ~63,828 |
-| The Queen of Weapons | 4.00% | ~63,828 |
-| This isn’t Sparta | 3.00% | ~47,871 |
-| Put That Away | 3.00% | ~47,871 |
-| Crybaby | 2.00% | ~31,914 |
-| Eagle Eye | 2.00% | ~31,914 |
-| I Know Kung Fu | 2.00% | ~31,914 |
-| Poacher | 2.00% | ~31,914 |
-| You’re Welcome | 2.00% | ~31,914 |
+| Justice from the Grave | 49.00% | ~781,910 |
+| The ABCs | 43.00% | ~686,166 |
+| Home Run | 41.00% | ~654,251 |
+| Keeps Coming Off | 41.00% | ~654,251 |
+| Guts | 19.00% | ~303,189 |
+| Meat Grinder | 19.00% | ~303,189 |
+| Burning Man | 16.00% | ~255,317 |
+| Lived to Tell the Tale | 12.00% | ~191,488 |
+| Highlander | 10.00% | ~159,573 |
+| Unstoppable | 10.00% | ~159,573 |
+| Just a Scratch | 9.00% | ~143,616 |
+| Tough Nut to Crack | 6.00% | ~95,744 |
+| Yoink | 6.00% | ~95,744 |
+| Long List of Names | 4.00% | ~63,829 |
+| Pyromaniac | 4.00% | ~63,829 |
+| The Queen of Weapons | 4.00% | ~63,829 |
+| This isn’t Sparta | 3.00% | ~47,872 |
+| Put That Away | 3.00% | ~47,872 |
+| Crybaby | 2.00% | ~31,915 |
+| Eagle Eye | 2.00% | ~31,915 |
+| I Know Kung Fu | 2.00% | ~31,915 |
+| Poacher | 2.00% | ~31,915 |
+| You’re Welcome | 2.00% | ~31,915 |
 | Chambermaid | 1.00% | ~15,957 |
 | Coming Through | 1.00% | ~15,957 |
-| Boxer | 0.90% | ~14,361 |
-| Flyswatter | 0.90% | ~14,361 |
-| Training Accident | 0.90% | ~14,361 |
+| Boxer | 0.90% | ~14,362 |
+| Flyswatter | 0.90% | ~14,362 |
+| Training Accident | 0.90% | ~14,362 |
 | Friend Indeed | 0.70% | ~11,170 |
 | Rock’n’Roll | 0.70% | ~11,170 |
 | Virtuoso | 0.70% | ~11,170 |
-| Vlad the Impaler | 0.50% | ~7,978 |
+| Vlad the Impaler | 0.50% | ~7,979 |
 | Whack-A-Mole | 0.40% | ~6,383 |
 | Clobbered | 0.20% | ~3,191 |
 | Ended Rightly | 0.10% | ~1,596 |
@@ -44,8 +44,8 @@ Rating: 4.38 (Ranked 803)
 | That’s No Ordinary Cold | 0.10% | ~1,596 |
 | Stairway to Hell | 0.10% | ~1,596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,595,699 (Ranked 7)  
-Completed: 81 (0.01%) (Ranked 388)  
+Progressed: 1,595,734 (Ranked 7)  
+Completed: 82 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,10 +325,10 @@ Completed: 81 (0.01%) (Ranked 388)
 | 2024-01-23 | 1,594,661 | 81 |
 | 2024-01-24 | 1,595,028 | 81 |
 | 2024-01-25 | 1,595,402 | 81 |
-| 2024-01-26 | 1,595,699 | 81 |
+| 2024-01-26 | 1,595,734 | 82 |
 ## Awards
 Max (Diverse Characters): 1,275  (Ranked 149)  
-Sum: 6,562 (Ranked 137)  
+Sum: 6,574 (Ranked 137)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
@@ -336,9 +336,9 @@ Diff (max vs sum): 12
 | This game has Challenging Combat | 1,088 |
 | This game is Highly Recommended | 1,007 |
 | This game has Amazing Characters | 844 |
-| This game is Extremely Fun | 839 |
-| This game has Competitive Players | 810 |
-| This game has Amazing Storytelling | 699 |
+| This game is Extremely Fun | 843 |
+| This game has Competitive Players | 815 |
+| This game has Amazing Storytelling | 702 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
@@ -630,4 +630,4 @@ Diff (max vs sum): 12
 | 2024-01-23 | 4.38 | 1,264 | 6,510 |
 | 2024-01-24 | 4.38 | 1,264 | 6,523 |
 | 2024-01-25 | 4.38 | 1,270 | 6,555 |
-| 2024-01-26 | 4.38 | 1,275 | 6,562 |
+| 2024-01-26 | 4.38 | 1,275 | 6,574 |

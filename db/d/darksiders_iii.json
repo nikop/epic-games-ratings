@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -524,7 +524,7 @@
   ],
   "EOS_Progressed": 709,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3054,9 +3054,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 248
     },
     {
       "ID": "Kill_Enemies_666",
@@ -3262,8 +3262,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-26T13:00:56.5257344+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:06:31.3996396+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:08:14.8209663+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:59:14.5084732+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:06:31.3997052+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:00:17.7929088+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:08:14.8210199+00:00"
 }

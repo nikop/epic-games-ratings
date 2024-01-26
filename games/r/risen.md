@@ -21,14 +21,14 @@ Rating: 4.60 (Ranked 432)
 | Beast slayer | 23.00% | ~51 |
 | Ogre friend | 22.00% | ~49 |
 | Death of a legend | 21.00% | ~46 |
+| Archaeologist | 21.00% | ~46 |
 | Family man | 20.00% | ~44 |
-| Archaeologist | 20.00% | ~44 |
 | Little hero | 19.00% | ~42 |
 | Sidelined | 19.00% | ~42 |
 | Wise man | 18.00% | ~40 |
 | The fourth triplet | 18.00% | ~40 |
+| Hard worker | 17.00% | ~38 |
 | Pandora's box | 16.00% | ~35 |
-| Hard worker | 16.00% | ~35 |
 | Fence | 16.00% | ~35 |
 | Master detective | 16.00% | ~35 |
 | Defender | 15.00% | ~33 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 432)
 | Gladiator | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 431)  
+Progressed: 221 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |

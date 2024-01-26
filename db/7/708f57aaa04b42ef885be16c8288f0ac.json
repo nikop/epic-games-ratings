@@ -479,9 +479,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15357,
+  "EOS_Progressed": 15359,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11559,6 +11559,11 @@
       "Time": "2024-01-26T18:10:22.7990412+00:00",
       "NumProgressed": 15357,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-26T19:11:25.4668937+00:00",
+      "NumProgressed": 15359,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11579,7 +11584,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6296
+      "UsersEstimate": 6297
     },
     {
       "ID": "BeLikeWater",
@@ -11643,7 +11648,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8446
+      "UsersEstimate": 8447
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11683,7 +11688,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "JackOfAllTrades",
@@ -11707,7 +11712,7 @@
       "Name": "Master Manipulator",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Nasty",
@@ -11715,7 +11720,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4607
+      "UsersEstimate": 4608
     },
     {
       "ID": "NoMoreTotems",
@@ -11842,7 +11847,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15357,
+      "Progressed": 15359,
       "Completed": 28
     }
   ],
@@ -11850,8 +11855,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-26T15:57:34.6328133+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:22.7990409+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:25.4668933+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:57:51.1730387+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:22.7991136+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:58:07.3743572+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:25.4669679+00:00"
 }

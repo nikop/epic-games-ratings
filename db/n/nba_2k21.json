@@ -2,13 +2,13 @@
   "ID": "6b3b9698082c43cd9dcd7f68e3365e79",
   "Name": "NBA 2K21",
   "ProductSlug": "nba-2k21",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 532,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8884,6 +8884,6 @@
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
   "LastChanged": "2024-01-26T11:00:24.3312605+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.1868222+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:00:17.0972992+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:04:52.9755897+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:01:52.8668265+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:05:51.7283654+00:00"
 }

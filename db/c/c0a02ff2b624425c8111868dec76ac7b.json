@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -919,9 +919,9 @@
       "ID": "ACH_DEMON_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Demon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DETERMINATION",
@@ -943,9 +943,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -1038,8 +1038,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:09:09.6707453+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:09:39.0884516+00:00",
   "LastUpdate_AppInfo": "2024-01-26T17:57:13.0054772+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:02.6445551+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:09:09.6707747+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:58:25.2316264+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:09:39.0884725+00:00"
 }

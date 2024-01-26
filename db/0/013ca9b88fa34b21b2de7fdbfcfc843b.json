@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -10818,9 +10818,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 276
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -11089,8 +11089,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-23T14:03:14.5919033+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:26.0748152+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:29.8282488+00:00",
   "LastUpdate_AppInfo": "2024-01-26T14:57:18.7777058+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:03:43.8315403+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:26.0748965+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:03:47.8985497+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:29.8283108+00:00"
 }

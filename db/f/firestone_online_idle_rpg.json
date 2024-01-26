@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -817,7 +817,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4823,
+  "EOS_Progressed": 4824,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -13512,6 +13512,11 @@
       "Time": "2024-01-26T18:04:13.2081483+00:00",
       "NumProgressed": 4823,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T19:04:53.8717132+00:00",
+      "NumProgressed": 4824,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13627,7 +13632,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "dragonmaster",
@@ -13859,7 +13864,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "missionsdedication",
@@ -14083,7 +14088,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4485
+      "UsersEstimate": 4486
     },
     {
       "ID": "warmachinesarmy",
@@ -14115,14 +14120,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4823,
+      "Progressed": 4824,
       "Completed": 2
     }
   ],
@@ -14130,8 +14135,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-25T19:58:35.2116206+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:04:13.208148+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:04:53.8717127+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:58.363179+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:04:13.2083216+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:59:52.2593675+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:04:53.871811+00:00"
 }

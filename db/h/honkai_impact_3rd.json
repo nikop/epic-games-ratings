@@ -3,12 +3,12 @@
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
   "Ranking_Rating": 645,
-  "Ranking_Popularity": 101,
+  "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 532,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -11003,10 +11003,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 12786,
       "NumberOfAwardsMax": 3385
+    },
+    {
+      "Time": "2024-01-26T18:58:55.8590206+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 12790,
+      "NumberOfAwardsMax": 3385
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12786,
+  "NumberOfAwards": 12790,
   "NumberOfAwardsMax": 3385,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11032,7 +11038,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 678
+      "Count": 681
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11062,7 +11068,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 797
+      "Count": 798
     },
     {
       "Text": "This game is Relaxing",
@@ -11107,8 +11113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2024-01-26T17:58:22.3830977+00:00",
+  "LastChanged": "2024-01-26T18:58:55.8590204+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:46.8074207+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:22.3830987+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:05:12.6732118+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:58:55.859021+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:06:20.9645102+00:00"
 }

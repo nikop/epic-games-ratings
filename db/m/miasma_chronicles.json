@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 802,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4763,9 +4763,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1210
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4948,8 +4948,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-19T05:03:25.8789879+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:28.8903666+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:33.5418758+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:42.9692583+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:03:35.7379679+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:28.8904092+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:03:36.4253476+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:33.541932+00:00"
 }

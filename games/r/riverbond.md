@@ -1,24 +1,24 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.46 (Ranked 681)  
+Rating: 4.46 (Ranked 680)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~375,499 |
+| First Step | 70.00% | ~375,500 |
 | Now You're Talking | 62.00% | ~332,585 |
 | Steel Yourself | 62.00% | ~332,585 |
 | Window Dressing | 50.00% | ~268,214 |
-| Trigger Happy | 46.00% | ~246,756 |
-| Riverborn | 45.00% | ~241,392 |
-| Starry Eyed | 34.00% | ~182,385 |
-| Poking Around | 34.00% | ~182,385 |
-| Talk of the Town | 24.00% | ~128,742 |
+| Trigger Happy | 46.00% | ~246,757 |
+| Riverborn | 45.00% | ~241,393 |
+| Starry Eyed | 34.00% | ~182,386 |
+| Poking Around | 34.00% | ~182,386 |
+| Talk of the Town | 24.00% | ~128,743 |
 | AAARR! | 23.00% | ~123,378 |
 | Hello Darkness | 23.00% | ~123,378 |
 | Wind At Our Backs | 22.00% | ~118,014 |
-| To the Beat | 20.00% | ~107,285 |
+| To the Beat | 20.00% | ~107,286 |
 | Sunny Shores | 17.00% | ~91,193 |
 | Sunday Best | 16.00% | ~85,828 |
 | To Victory! | 15.00% | ~80,464 |
@@ -28,8 +28,8 @@ Number of Ratings: 617  (23.09.2022)
 | Make Peace, Not War | 11.00% | ~59,007 |
 | Walking The Line | 10.00% | ~53,643 |
 | Not So Cute Anymore | 10.00% | ~53,643 |
-| Road Less Travelled | 9.00% | ~48,278 |
-| Lost and Found | 9.00% | ~48,278 |
+| Road Less Travelled | 9.00% | ~48,279 |
+| Lost and Found | 9.00% | ~48,279 |
 | Under the Radar | 8.00% | ~42,914 |
 | Partner in Crime | 7.00% | ~37,550 |
 | Hard to Hear | 7.00% | ~37,550 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,609 |
 | Point Taken | 0.20% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,427 (Ranked 38)  
+Progressed: 536,428 (Ranked 38)  
 Completed: 530 (0.10%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 530 (0.10%) (Ranked 325)
 | 2024-01-23 | 536,258 | 530 |
 | 2024-01-24 | 536,320 | 530 |
 | 2024-01-25 | 536,389 | 530 |
-| 2024-01-26 | 536,427 | 530 |
+| 2024-01-26 | 536,428 | 530 |
 ## Awards
 Max (Relaxing): 22  (Ranked 574)  
 Sum: 22 (Ranked 577)  

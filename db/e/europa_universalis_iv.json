@@ -14809,10 +14809,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65873,
       "NumberOfAwardsMax": 7990
+    },
+    {
+      "Time": "2024-01-26T18:59:50.314975+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65884,
+      "NumberOfAwardsMax": 7990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65873,
+  "NumberOfAwards": 65884,
   "NumberOfAwardsMax": 7990,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14874,7 +14880,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6158
+      "Count": 6169
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14883,9 +14889,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 505920,
+  "EOS_Progressed": 505957,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4155,
+  "EOS_NewPlayers": 4145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47393,6 +47399,11 @@
       "Time": "2024-01-26T18:10:34.6891624+00:00",
       "NumProgressed": 505920,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T19:11:41.5043441+00:00",
+      "NumProgressed": 505957,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -48404,7 +48415,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "achievement_grand_coalition",
@@ -49826,9 +49837,9 @@
       "ID": "achievement_the_princess_is_in_this_castle",
       "SetID": "8p2n7he",
       "Name": "The Princess is in this Castle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1518
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -50068,7 +50079,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -50307,21 +50318,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 505920,
+      "Progressed": 505957,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 505920,
+      "Progressed": 505957,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-26T13:58:39.002936+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:34.6891623+00:00",
+  "LastChanged": "2024-01-26T18:59:50.3149749+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:41.5043434+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:56.8575419+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:34.6901654+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:59:50.3149754+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:41.5053983+00:00"
 }

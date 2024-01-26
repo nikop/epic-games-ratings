@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4614,6 +4614,11 @@
       "Time": "2024-01-26T17:11:12.148588+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T19:11:30.7191651+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4649,7 +4654,7 @@
       "Name": "Expensive Plane",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "BudgetFlight",
@@ -4777,7 +4782,7 @@
       "Name": "Legendary transporter",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LinearNetwork",
@@ -4841,7 +4846,7 @@
       "Name": "No Way Back",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "NotPlanned",
@@ -4873,7 +4878,7 @@
       "Name": "Race Against Time",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Reaction",
@@ -4953,21 +4958,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:26.71194+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:30.7191646+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:42.331903+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:14.6412588+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:26.7119866+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:58:43.5886032+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:30.7192142+00:00"
 }

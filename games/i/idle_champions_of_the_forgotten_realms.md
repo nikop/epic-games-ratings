@@ -85,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~444 |
 | Heatwave | 0.20% | ~444 |
 | The Dread Domain of Tovag | 0.20% | ~444 |
+| The Castle of a Thousand Vecnas | 0.20% | ~444 |
 | Lobsterfolk Assault | 0.20% | ~512 |
 | The Forbidden City | 0.20% | ~512 |
 | Captured! | 0.20% | ~512 |
@@ -247,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.10% | ~222 |
 | Weak Doesn't Mean Feeble | 0.10% | ~222 |
 | Frail Doesn't Mean Broken | 0.10% | ~222 |
-| The Castle of a Thousand Vecnas | 0.10% | ~222 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~222 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~222 |
 | The Sanctum of the Sword | 0.10% | ~222 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,751 (Ranked 71)  
-Completed: 2,650 (1.04%) (Ranked 179)  
+Progressed: 255,755 (Ranked 71)  
+Completed: 2,651 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -834,14 +834,14 @@ Completed: 2,650 (1.04%) (Ranked 179)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,751 | 2,650 |
+| 2024-01-26 | 255,755 | 2,651 |
 ## Awards
-Max (Great for Beginners): 5,816  (Ranked 75)  
-Sum: 33,650 (Ranked 42)  
+Max (Great for Beginners): 5,819  (Ranked 75)  
+Sum: 33,653 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,816 |
+| This game is Great for Beginners | 5,819 |
 | This game has Diverse Characters | 5,756 |
 | This game has Quickly Understood Controls | 4,923 |
 | This game is Relaxing | 4,799 |
@@ -1216,4 +1216,4 @@ Diff (max vs sum): 33
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
 | 2024-01-24 | 4.07 | - | 5,813 | 33,628 |
 | 2024-01-25 | 4.07 | - | 5,816 | 33,643 |
-| 2024-01-26 | 4.07 | - | 5,816 | 33,650 |
+| 2024-01-26 | 4.07 | - | 5,819 | 33,653 |

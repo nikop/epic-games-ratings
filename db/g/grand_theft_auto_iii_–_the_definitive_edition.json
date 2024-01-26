@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12549,
+  "EOS_Progressed": 12550,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16528,6 +16528,11 @@
       "Time": "2024-01-26T17:06:28.9803438+00:00",
       "NumProgressed": 12549,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-26T19:06:47.5407352+00:00",
+      "NumProgressed": 12550,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16587,7 +16592,7 @@
       "Name": "Planned Ahead",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH08",
@@ -16619,7 +16624,7 @@
       "Name": "Wheels Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH12",
@@ -16691,7 +16696,7 @@
       "Name": "Man Toyz",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH21",
@@ -16723,7 +16728,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH25",
@@ -16739,7 +16744,7 @@
       "Name": "Furious First Responder",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH27",
@@ -16755,7 +16760,7 @@
       "Name": "Is That All You\u0027ve Got?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH29",
@@ -16770,7 +16775,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12549,
+      "Progressed": 12550,
       "Completed": 97
     }
   ],
@@ -16778,8 +16783,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:05:30.9837764+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:06:47.5407349+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:59:22.9445571+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:05:30.9838529+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:00:30.775996+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:06:47.5408159+00:00"
 }

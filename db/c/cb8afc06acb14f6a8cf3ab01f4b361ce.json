@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -515,9 +515,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 350077,
+  "EOS_Progressed": 350095,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2713,
+  "EOS_NewPlayers": 2708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14825,6 +14825,11 @@
       "Time": "2024-01-26T18:09:28.9849061+00:00",
       "NumProgressed": 350077,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T19:10:07.8077829+00:00",
+      "NumProgressed": 350095,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14837,7 +14842,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17504
+      "UsersEstimate": 17505
     },
     {
       "ID": "S02_BRDA",
@@ -14845,7 +14850,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14003
+      "UsersEstimate": 14004
     },
     {
       "ID": "S03_OTWA",
@@ -14901,7 +14906,7 @@
       "Name": "Here to stay",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "S10_GRSB",
@@ -14909,7 +14914,7 @@
       "Name": "Counting on you",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "S11_MMR6",
@@ -14917,7 +14922,7 @@
       "Name": "This is the end",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "S12_ALL",
@@ -14925,7 +14930,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "S13_ALL_HARD",
@@ -14973,7 +14978,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21005
+      "UsersEstimate": 21006
     },
     {
       "ID": "S19_CHALLENGES",
@@ -15156,7 +15161,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 350077,
+      "Progressed": 350095,
       "Completed": 7
     }
   ],
@@ -15164,8 +15169,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-24T02:59:53.121966+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:09:28.9849058+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:10:07.8077825+00:00",
   "LastUpdate_AppInfo": "2024-01-26T02:14:39.0818977+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:03.846063+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:09:28.9849787+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:58:26.9283687+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:10:07.8078801+00:00"
 }

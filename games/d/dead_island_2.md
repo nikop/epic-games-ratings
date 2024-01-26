@@ -5,59 +5,59 @@ Rating: 4.54 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,084 |
-| Hotel California | 10.00% | ~80,985 |
-| Break A Leg | 9.00% | ~72,887 |
-| Coup de Grâce | 8.00% | ~64,788 |
-| Hazardous Materials | 8.00% | ~64,788 |
-| Git Gutte! | 7.00% | ~56,690 |
-| Friends Like These | 7.00% | ~56,690 |
-| Apex Predator | 7.00% | ~56,690 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,690 |
-| Dr. Reed, I Presume? | 6.00% | ~48,591 |
-| Bookworm | 6.00% | ~48,591 |
-| Stacking the Deck | 6.00% | ~48,591 |
-| This is My Weapon | 6.00% | ~48,591 |
-| Anger Management | 5.00% | ~40,493 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,493 |
-| But Doctor, I am Butcho | 5.00% | ~40,493 |
-| Can't Handle the Truth | 5.00% | ~40,493 |
-| Like Riding a Bike | 5.00% | ~40,493 |
-| A Patton Emerges | 5.00% | ~40,493 |
-| Making Your Mark | 4.00% | ~32,394 |
-| Perks of the Job | 4.00% | ~32,394 |
-| Slayer Squad | 4.00% | ~32,394 |
-| Zombologist | 4.00% | ~32,394 |
-| Ooh, Shiny! | 4.00% | ~32,394 |
-| I Am the Resurrection | 4.00% | ~32,394 |
-| Our True Nature | 4.00% | ~32,394 |
-| Whatever It Takes | 4.00% | ~5,416 |
-| Pork Chopped | 4.00% | ~5,416 |
+| Welcome To Hell-A | 11.00% | ~89,087 |
+| Hotel California | 10.00% | ~80,988 |
+| Break A Leg | 9.00% | ~72,889 |
+| Coup de Grâce | 8.00% | ~64,790 |
+| Hazardous Materials | 8.00% | ~64,790 |
+| Git Gutte! | 7.00% | ~56,692 |
+| Friends Like These | 7.00% | ~56,692 |
+| Apex Predator | 7.00% | ~56,692 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,692 |
+| Dr. Reed, I Presume? | 6.00% | ~48,593 |
+| Bookworm | 6.00% | ~48,593 |
+| Stacking the Deck | 6.00% | ~48,593 |
+| This is My Weapon | 6.00% | ~48,593 |
+| Anger Management | 5.00% | ~40,494 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,494 |
+| But Doctor, I am Butcho | 5.00% | ~40,494 |
+| Can't Handle the Truth | 5.00% | ~40,494 |
+| Like Riding a Bike | 5.00% | ~40,494 |
+| A Patton Emerges | 5.00% | ~40,494 |
+| Making Your Mark | 4.00% | ~32,395 |
+| Perks of the Job | 4.00% | ~32,395 |
+| Slayer Squad | 4.00% | ~32,395 |
+| Zombologist | 4.00% | ~32,395 |
+| Ooh, Shiny! | 4.00% | ~32,395 |
+| I Am the Resurrection | 4.00% | ~32,395 |
+| Our True Nature | 4.00% | ~32,395 |
+| Whatever It Takes | 4.00% | ~5,417 |
+| Pork Chopped | 4.00% | ~5,417 |
 | Jumbo Keyring | 3.00% | ~24,296 |
 | Humanity Distilled | 3.00% | ~24,296 |
 | Down with the Sickness | 3.00% | ~24,296 |
 | Max Headroom | 3.00% | ~24,296 |
 | Go, Bobcats! | 3.00% | ~24,296 |
 | Rising Star | 3.00% | ~24,296 |
-| One of Us | 3.00% | ~4,062 |
-| Make it So | 2.00% | ~16,197 |
-| On Safari | 2.00% | ~16,197 |
-| Smorgasbord | 2.00% | ~16,197 |
-| Not Even My Final Form | 2.00% | ~16,197 |
-| Internet Famous | 2.00% | ~16,197 |
-| Variety is the Spice of Death | 2.00% | ~16,197 |
+| One of Us | 3.00% | ~4,063 |
+| Make it So | 2.00% | ~16,198 |
+| On Safari | 2.00% | ~16,198 |
+| Smorgasbord | 2.00% | ~16,198 |
+| Not Even My Final Form | 2.00% | ~16,198 |
+| Internet Famous | 2.00% | ~16,198 |
+| Variety is the Spice of Death | 2.00% | ~16,198 |
 | LA Influential | 1.00% | ~8,099 |
 | Sole Survivor | 1.00% | ~8,099 |
 | Gore Horse | 1.00% | ~8,099 |
 | Sharpest Tool in the Box | 1.00% | ~8,099 |
 | Survival Skills | 0.60% | ~4,859 |
-| Top That, Tisha! | 0.60% | ~812 |
-| Donk! | 0.40% | ~3,239 |
+| Top That, Tisha! | 0.60% | ~813 |
+| Donk! | 0.40% | ~3,240 |
 | Lawn and Order | 0.30% | ~406 |
 | Bucket List | 0.10% | ~810 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,853 (Ranked 23)  
+Progressed: 809,881 (Ranked 23)  
 Completed: 2,644 (0.33%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 2,644 (0.33%) (Ranked 263)
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
 | 2024-01-25 | 809,531 | 2,643 |
-| 2024-01-26 | 809,853 | 2,644 |
+| 2024-01-26 | 809,881 | 2,644 |
 ## Awards
 Max (Great Boss Battles): 10,970  (Ranked 39)  
 Sum: 16,908 (Ranked 68)  

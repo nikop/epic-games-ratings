@@ -2620,9 +2620,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 228462,
+  "EOS_Progressed": 228464,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1546,
+  "EOS_NewPlayers": 1539,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -35050,6 +35050,11 @@
       "Time": "2024-01-26T18:08:39.150313+00:00",
       "NumProgressed": 228462,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-26T19:08:53.4975505+00:00",
+      "NumProgressed": 228464,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -35125,7 +35130,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9138
+      "UsersEstimate": 9139
     },
     {
       "ID": "Genin",
@@ -35133,7 +35138,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27415
+      "UsersEstimate": 27416
     },
     {
       "ID": "HappyLittleAccidents",
@@ -35229,7 +35234,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9138
+      "UsersEstimate": 9139
     },
     {
       "ID": "Okkoto",
@@ -35293,7 +35298,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9138
+      "UsersEstimate": 9139
     },
     {
       "ID": "Stoned",
@@ -35301,7 +35306,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9138
+      "UsersEstimate": 9139
     },
     {
       "ID": "StonedOx",
@@ -35412,15 +35417,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 228462,
+      "Progressed": 228464,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-26T03:58:52.1963107+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:08:39.1503126+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:08:53.4975504+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:59:19.1047305+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:08:39.150509+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:00:24.9091813+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:08:53.4977097+00:00"
 }

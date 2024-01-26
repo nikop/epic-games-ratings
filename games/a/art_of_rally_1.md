@@ -6,35 +6,35 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~349,424 |
-| good drivers have dead flies on the side windows | 32.00% | ~139,770 |
-| keep it tidy | 26.00% | ~113,563 |
-| brail | 26.00% | ~113,563 |
-| car wash | 23.00% | ~100,459 |
-| the artist | 23.00% | ~100,459 |
-| podium | 20.00% | ~87,356 |
-| medium attack | 17.00% | ~74,253 |
-| bicycle race | 6.00% | ~26,207 |
-| grocery-getter | 5.00% | ~21,839 |
-| autopilot | 4.00% | ~17,471 |
-| night ride | 4.00% | ~17,471 |
-| snorkel | 4.00% | ~17,471 |
-| rwd only | 3.00% | ~13,103 |
-| where is the stage? | 3.00% | ~13,103 |
-| food tour: pasta | 3.00% | ~13,103 |
-| to finish first, first you must finish | 2.00% | ~8,736 |
-| perkele | 2.00% | ~8,736 |
-| turbo | 2.00% | ~8,736 |
-| if in doubt, flat out! | 2.00% | ~8,736 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,736 |
-| mittens | 2.00% | ~8,736 |
-| food tour: pretzel | 2.00% | ~8,736 |
-| espresso | 1.00% | ~4,368 |
-| monster | 1.00% | ~4,368 |
-| in like a lamb, out like a lion | 1.00% | ~4,368 |
-| eurobeat | 0.70% | ~3,057 |
-| viking | 0.70% | ~3,057 |
-| parallel universe | 0.70% | ~3,057 |
+| light attack | 80.00% | ~349,482 |
+| good drivers have dead flies on the side windows | 32.00% | ~139,793 |
+| keep it tidy | 26.00% | ~113,582 |
+| brail | 26.00% | ~113,582 |
+| car wash | 23.00% | ~100,476 |
+| the artist | 23.00% | ~100,476 |
+| podium | 20.00% | ~87,371 |
+| medium attack | 17.00% | ~74,265 |
+| bicycle race | 6.00% | ~26,211 |
+| grocery-getter | 5.00% | ~21,843 |
+| autopilot | 4.00% | ~17,474 |
+| night ride | 4.00% | ~17,474 |
+| snorkel | 4.00% | ~17,474 |
+| rwd only | 3.00% | ~13,106 |
+| where is the stage? | 3.00% | ~13,106 |
+| food tour: pasta | 3.00% | ~13,106 |
+| to finish first, first you must finish | 2.00% | ~8,737 |
+| perkele | 2.00% | ~8,737 |
+| turbo | 2.00% | ~8,737 |
+| if in doubt, flat out! | 2.00% | ~8,737 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,737 |
+| mittens | 2.00% | ~8,737 |
+| food tour: pretzel | 2.00% | ~8,737 |
+| espresso | 1.00% | ~4,369 |
+| monster | 1.00% | ~4,369 |
+| in like a lamb, out like a lion | 1.00% | ~4,369 |
+| eurobeat | 0.70% | ~3,058 |
+| viking | 0.70% | ~3,058 |
+| parallel universe | 0.70% | ~3,058 |
 | oktoberfest | 0.60% | ~2,621 |
 | group b | 0.50% | ~2,184 |
 | maximum attack | 0.50% | ~2,184 |
@@ -43,14 +43,14 @@ Number of Ratings: 56  (23.09.2022)
 | master of rally | 0.40% | ~1,747 |
 | antilag | 0.40% | ~1,747 |
 | real roads, real fast | 0.40% | ~1,747 |
-| comfy seats | 0.30% | ~1,310 |
+| comfy seats | 0.30% | ~1,311 |
 | simulator | 0.20% | ~874 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~437 |
 | absolute drift | 0.10% | ~437 |
 | barely keeping it together | 0.10% | ~437 |
 | you're here for a good time, not a long time | 0.10% | ~437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 436,780 (Ranked 46)  
+Progressed: 436,853 (Ranked 46)  
 Completed: 29 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,21 +261,21 @@ Completed: 29 (0.01%) (Ranked 388)
 | 2024-01-23 | 433,315 | 27 |
 | 2024-01-24 | 434,560 | 27 |
 | 2024-01-25 | 435,796 | 29 |
-| 2024-01-26 | 436,780 | 29 |
+| 2024-01-26 | 436,853 | 29 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
-Sum: 321 (Ranked 381)  
+Sum: 323 (Ranked 381)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 46 |
 | This game is Highly Recommended | 45 |
 | This game is Great for Quick Sessions | 42 |
-| This game is Relaxing | 38 |
+| This game is Relaxing | 39 |
 | This game is Extremely Fun | 37 |
 | This game has Amazing Storytelling | 36 |
+| This game has Amazing Characters | 29 |
 | This game is Great for Beginners | 28 |
-| This game has Amazing Characters | 28 |
 | This game has Competitive Players | 25 |
 | This game has a Competitive Community | 24 |
 ## Ratings History
@@ -352,4 +352,4 @@ Diff (max vs sum): 94
 | 2024-01-23 | 4.64 | - | 46 | 313 |
 | 2024-01-24 | 4.64 | - | 46 | 317 |
 | 2024-01-25 | 4.63 | - | 46 | 318 |
-| 2024-01-26 | 4.63 | - | 46 | 321 |
+| 2024-01-26 | 4.63 | - | 46 | 323 |

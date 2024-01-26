@@ -6,8 +6,8 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.70% | ~3,541 |
-| Until death do us apart | 0.70% | ~3,541 |
+| That's a Grand Army | 0.70% | ~3,542 |
+| Until death do us apart | 0.70% | ~3,542 |
 | That is mine! | 0.60% | ~3,036 |
 | Victorious! | 0.60% | ~3,036 |
 | Brothers in Arms | 0.50% | ~2,530 |
@@ -18,6 +18,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,518 |
 | It's all about the money | 0.30% | ~1,518 |
 | Respected | 0.30% | ~1,518 |
+| The Princess is in this Castle | 0.30% | ~1,518 |
 | True Catholic | 0.30% | ~1,518 |
 | Aggressive Expander | 0.20% | ~1,012 |
 | Blockader | 0.20% | ~1,012 |
@@ -26,7 +27,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.20% | ~1,012 |
 | My armies are invincible! | 0.20% | ~1,012 |
 | Royal Authority | 0.20% | ~1,012 |
-| The Princess is in this Castle | 0.20% | ~1,012 |
 | Total Control | 0.20% | ~1,012 |
 | Truly Divine Ruler | 0.20% | ~1,012 |
 | The 52 Garhs | 0.10% | ~506 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~506 |
 | The Zoro-Austrians | 0.10% | ~506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 505,920 (Ranked 42)  
+Progressed: 505,957 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,10 +651,10 @@ Completed: 2 (0.00%) (Ranked 414)
 | 2024-01-23 | 504,493 | 2 |
 | 2024-01-24 | 504,991 | 2 |
 | 2024-01-25 | 505,518 | 2 |
-| 2024-01-26 | 505,920 | 2 |
+| 2024-01-26 | 505,957 | 2 |
 ## Awards
 Max (Educational): 7,990  (Ranked 53)  
-Sum: 65,873 (Ranked 25)  
+Sum: 65,884 (Ranked 25)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -666,7 +666,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 7,314 |
 | This game has Competitive Players | 7,150 |
 | This game has Amazing Storytelling | 6,671 |
-| This game has Amazing Characters | 6,158 |
+| This game has Amazing Characters | 6,169 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -1045,4 +1045,4 @@ Diff (max vs sum): 28
 | 2024-01-23 | 4.69 | - | 7,951 | 65,598 |
 | 2024-01-24 | 4.69 | - | 7,962 | 65,697 |
 | 2024-01-25 | 4.69 | - | 7,975 | 65,813 |
-| 2024-01-26 | 4.69 | - | 7,990 | 65,873 |
+| 2024-01-26 | 4.69 | - | 7,990 | 65,884 |

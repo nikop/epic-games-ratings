@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,758 |
-| Finding Your Footing | 25.00% | ~14,070 |
-| Nomad | 16.00% | ~9,005 |
-| Picking Up Speed | 15.00% | ~8,442 |
-| Welcome Maya | 14.00% | ~7,879 |
-| Scout | 12.00% | ~6,753 |
-| Sightseer | 11.00% | ~6,191 |
-| Amateur | 10.00% | ~5,628 |
-| Unlock Maya | 8.00% | ~4,502 |
-| Wanderer | 8.00% | ~4,502 |
+| Rookie | 28.00% | ~15,761 |
+| Finding Your Footing | 25.00% | ~14,072 |
+| Nomad | 16.00% | ~9,006 |
+| Picking Up Speed | 15.00% | ~8,443 |
+| Welcome Maya | 14.00% | ~7,880 |
+| Scout | 12.00% | ~6,755 |
+| Sightseer | 11.00% | ~6,192 |
+| Amateur | 10.00% | ~5,629 |
+| Unlock Maya | 8.00% | ~4,503 |
+| Wanderer | 8.00% | ~4,503 |
 | Enter Paz | 7.00% | ~3,940 |
 | Aviator | 5.00% | ~2,814 |
 | My Little Friend | 5.00% | ~2,814 |
 | One With The Board | 5.00% | ~2,814 |
-| Voyager | 4.00% | ~2,251 |
-| Junkie | 3.00% | ~1,688 |
-| Traveler | 3.00% | ~1,688 |
-| Unlock Paz | 3.00% | ~1,688 |
-| Human Flight | 3.00% | ~1,688 |
-| Sandboarder | 3.00% | ~1,688 |
-| Izel Has Arrived | 3.00% | ~1,688 |
+| Voyager | 4.00% | ~2,252 |
+| Junkie | 3.00% | ~1,689 |
+| Traveler | 3.00% | ~1,689 |
+| Unlock Paz | 3.00% | ~1,689 |
+| Human Flight | 3.00% | ~1,689 |
+| Sandboarder | 3.00% | ~1,689 |
+| Izel Has Arrived | 3.00% | ~1,689 |
 | Explorer | 2.00% | ~1,126 |
 | Pro | 2.00% | ~1,126 |
 | Journeyer | 2.00% | ~1,126 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~56 |
 | Windswept | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,279 (Ranked 124)  
+Progressed: 56,288 (Ranked 124)  
 Completed: 5 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 5 (0.01%) (Ranked 388)
 | 2024-01-23 | 55,984 | 5 |
 | 2024-01-24 | 56,069 | 5 |
 | 2024-01-25 | 56,184 | 5 |
-| 2024-01-26 | 56,279 | 5 |
+| 2024-01-26 | 56,288 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 458)  
 Sum: 424 (Ranked 356)  

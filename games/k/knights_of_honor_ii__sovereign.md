@@ -1,75 +1,75 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.36 (Ranked 824)  
+Rating: 4.36 (Ranked 823)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 21.00% | ~46 |
-| Hail to the King, Baby | 21.00% | ~46 |
-| Help! Help! I’m being repressed | 20.00% | ~44 |
-| Bring it on! | 19.00% | ~42 |
-| Path of Glory | 17.00% | ~37 |
-| There is no Nobility in Poverty | 15.00% | ~33 |
-| They Got What They Deserved | 14.00% | ~31 |
-| Full House | 11.00% | ~24 |
-| Playerxander the Great | 11.00% | ~24 |
-| The finest merchandise this side of river Jordan | 9.00% | ~20 |
+| Can’t Touch This | 22.00% | ~50 |
+| Hail to the King, Baby | 22.00% | ~50 |
+| Help! Help! I’m being repressed | 21.00% | ~48 |
+| Bring it on! | 19.00% | ~43 |
+| Path of Glory | 19.00% | ~43 |
+| There is no Nobility in Poverty | 15.00% | ~34 |
+| They Got What They Deserved | 15.00% | ~34 |
+| Playerxander the Great | 12.00% | ~27 |
+| Full House | 11.00% | ~25 |
+| The finest merchandise this side of river Jordan | 10.00% | ~23 |
+| Big Apple | 8.00% | ~18 |
 | Dinner Time | 8.00% | ~18 |
-| Big Apple | 7.00% | ~15 |
-| All the King's Men | 6.00% | ~13 |
-| Black Sheep Wall | 6.00% | ~13 |
-| Cut-Me-Own-Throat | 6.00% | ~13 |
-| Learn Me a Book | 6.00% | ~13 |
-| What we’ve got here is failure to communicate | 6.00% | ~13 |
+| All the King's Men | 7.00% | ~16 |
+| Learn Me a Book | 7.00% | ~16 |
+| Black Sheep Wall | 6.00% | ~14 |
+| Cut-Me-Own-Throat | 6.00% | ~14 |
+| What we’ve got here is failure to communicate | 6.00% | ~14 |
 | Blinded by Science | 5.00% | ~11 |
 | Do you read Sutter Cane? | 5.00% | ~11 |
-| The Magnificent Nine | 5.00% | ~11 |
-| ‘Tis but a scratch | 5.00% | ~11 |
 | Blessed Be His Name | 4.00% | ~9 |
+| Call the Boys | 4.00% | ~9 |
+| Desperate Times Call for Desperate Measures | 4.00% | ~9 |
+| Forth, Eorlingas! | 4.00% | ~9 |
 | His name is King | 4.00% | ~9 |
 | Kingslayer | 4.00% | ~9 |
 | Let Us Pray | 4.00% | ~9 |
 | On the third day at dawn, look east | 4.00% | ~9 |
 | Pillars of the Earth | 4.00% | ~9 |
 | Scientia potentia es | 4.00% | ~9 |
+| The Magnificent Nine | 4.00% | ~9 |
+| ‘Tis but a scratch | 4.00% | ~9 |
 | A Quiet Palace | 3.00% | ~7 |
 | Battle of the Four Armies | 3.00% | ~7 |
-| Call the Boys | 3.00% | ~7 |
-| Desperate Times Call for Desperate Measures | 3.00% | ~7 |
-| Forth, Eorlingas! | 3.00% | ~7 |
 | Greed is Good | 3.00% | ~7 |
+| His All-Holiness | 3.00% | ~7 |
+| I started a joke | 3.00% | ~7 |
 | Fight Another Day | 3.00% | ~7 |
 | Let us trade with these fine people | 3.00% | ~7 |
+| Naught but a Seamless Victory | 3.00% | ~7 |
+| Time to find India | 3.00% | ~7 |
 | Vlad the Impaler | 3.00% | ~7 |
-| Fighting with Power and Steel | 2.00% | ~4 |
-| He made it out, but with an arrow in his back | 2.00% | ~4 |
-| His All-Holiness | 2.00% | ~4 |
-| I started a joke | 2.00% | ~4 |
-| Naught but a Seamless Victory | 2.00% | ~4 |
-| New Mineland | 2.00% | ~4 |
-| Renaissance Man | 2.00% | ~4 |
-| Time to find India | 2.00% | ~4 |
+| Fighting with Power and Steel | 2.00% | ~5 |
+| He made it out, but with an arrow in his back | 2.00% | ~5 |
+| New Mineland | 2.00% | ~5 |
+| Renaissance Man | 2.00% | ~5 |
 | Crusader “you know what” | 1.00% | ~2 |
 | From Rags to Riches | 1.00% | ~2 |
+| Lord of the Kings | 1.00% | ~2 |
 | Power Overwhelming | 1.00% | ~2 |
+| Prince Ali! Fabulous he! | 1.00% | ~2 |
 | Together We Stand | 1.00% | ~2 |
 | You are not the boss of me now | 1.00% | ~2 |
+| You reap what you sow | 1.00% | ~2 |
 | Zerg Rush | 0.90% | ~2 |
-| Lord of the Kings | 0.90% | ~2 |
-| Prince Ali! Fabulous he! | 0.90% | ~2 |
 | Spartacus | 0.90% | ~2 |
 | The Merchant of Venice | 0.90% | ~2 |
 | Why is there no culture victory?! | 0.90% | ~2 |
-| You reap what you sow | 0.90% | ~2 |
-| Brutus | 0.50% | ~1 |
-| Crusade Invoker, no Regret | 0.50% | ~1 |
-| Dust and Salt | 0.50% | ~1 |
-| Everything the light touches is our kingdom | 0.50% | ~1 |
-| I am the senate | 0.50% | ~1 |
-| Ibn Battuta | 0.50% | ~1 |
-| Master of Puppets | 0.50% | ~1 |
-| Prison Break | 0.50% | ~1 |
+| Brutus | 0.40% | ~1 |
+| Crusade Invoker, no Regret | 0.40% | ~1 |
+| Dust and Salt | 0.40% | ~1 |
+| Everything the light touches is our kingdom | 0.40% | ~1 |
+| I am the senate | 0.40% | ~1 |
+| Ibn Battuta | 0.40% | ~1 |
+| Master of Puppets | 0.40% | ~1 |
+| Prison Break | 0.40% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Buyin' the Dip | 0.00% | ~0 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 824)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219 (Ranked 434)  
+Progressed: 227 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 219 | 0 |
+| 2024-01-26 | 227 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

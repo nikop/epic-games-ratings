@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 732,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -366,10 +366,10 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30646,
+  "EOS_Progressed": 30651,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 624,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 622,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
@@ -11956,6 +11956,11 @@
       "Time": "2024-01-26T18:10:16.6300706+00:00",
       "NumProgressed": 30646,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-26T19:11:17.0244757+00:00",
+      "NumProgressed": 30651,
+      "NumCompleted": 234
     }
   ],
   "TotalAchievements": 24,
@@ -11967,7 +11972,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2759
     },
     {
       "ID": "ACH_CollectAll",
@@ -11991,7 +11996,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 6129
+      "UsersEstimate": 6130
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -11999,7 +12004,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     },
     {
       "ID": "ACH_Finale",
@@ -12055,7 +12060,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -12079,7 +12084,7 @@
       "Name": "Master Room",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -12095,7 +12100,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10420
+      "UsersEstimate": 10421
     },
     {
       "ID": "ACH_Sector2",
@@ -12103,7 +12108,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9194
+      "UsersEstimate": 9195
     },
     {
       "ID": "ACH_Sector3",
@@ -12111,7 +12116,7 @@
       "Name": "Sector 3",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     },
     {
       "ID": "ACH_Sector4",
@@ -12119,7 +12124,7 @@
       "Name": "Sector 4",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 6436
+      "UsersEstimate": 6437
     },
     {
       "ID": "ACH_Sector5",
@@ -12127,7 +12132,7 @@
       "Name": "Sector 5",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4291
     },
     {
       "ID": "ACH_Sector6",
@@ -12135,7 +12140,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ACH_Sector7",
@@ -12151,14 +12156,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30646,
+      "Progressed": 30651,
       "Completed": 234
     }
   ],
@@ -12166,8 +12171,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:16.6300704+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:17.0244753+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:03:11.386585+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:16.6301358+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:02:58.9087111+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:17.0245307+00:00"
 }

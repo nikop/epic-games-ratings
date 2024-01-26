@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22754,
+  "EOS_Progressed": 22756,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14996,6 +14996,11 @@
       "Time": "2024-01-26T18:10:13.9405566+00:00",
       "NumProgressed": 22754,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-26T19:11:13.212658+00:00",
+      "NumProgressed": 22756,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15023,7 +15028,7 @@
       "Name": "Giving Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -15031,7 +15036,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "DISARM_ENEMY",
@@ -15039,7 +15044,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15143,7 +15148,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -15175,7 +15180,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4778
+      "UsersEstimate": 4779
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15183,7 +15188,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15199,7 +15204,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15207,7 +15212,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "STORY_HABITAT",
@@ -15231,7 +15236,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -15255,7 +15260,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15359,7 +15364,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -15382,13 +15387,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22754,
+      "Progressed": 22756,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10680,
+      "Progressed": 10682,
       "Completed": 29
     }
   ],
@@ -15396,8 +15401,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:10:13.9405563+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:11:13.2126576+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:03:44.458163+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:10:13.9406316+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:03:48.8556582+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:11:13.2127452+00:00"
 }

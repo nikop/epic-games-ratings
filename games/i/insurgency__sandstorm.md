@@ -6,43 +6,43 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,557 |
-| Wallbanger | 5.00% | ~26,557 |
-| Exploitative | 4.00% | ~21,246 |
-| High Speed Low Drag | 4.00% | ~21,246 |
-| Wet Feet | 4.00% | ~21,246 |
-| Checkpoint Victory | 3.00% | ~15,934 |
-| Lucky | 3.00% | ~15,934 |
-| Stylin' | 3.00% | ~15,934 |
-| Turf War | 3.00% | ~15,934 |
-| Banged | 2.00% | ~10,623 |
-| First Blood | 2.00% | ~10,623 |
-| Flaccid Paralysis | 2.00% | ~10,623 |
-| Push Victory | 2.00% | ~10,623 |
-| Self-destructive | 2.00% | ~10,623 |
-| Blindfire | 1.00% | ~5,311 |
-| Ruthless | 1.00% | ~5,311 |
-| Semper Paratus | 1.00% | ~5,311 |
-| Carrying | 0.90% | ~4,780 |
-| Efficient | 0.90% | ~4,780 |
-| Mount & Gun | 0.90% | ~4,780 |
-| Personal | 0.90% | ~4,780 |
-| Grounded | 0.80% | ~4,249 |
-| Play to Win | 0.80% | ~4,249 |
+| Point Shooting | 5.00% | ~26,560 |
+| Wallbanger | 5.00% | ~26,560 |
+| Exploitative | 4.00% | ~21,248 |
+| High Speed Low Drag | 4.00% | ~21,248 |
+| Wet Feet | 4.00% | ~21,248 |
+| Checkpoint Victory | 3.00% | ~15,936 |
+| Lucky | 3.00% | ~15,936 |
+| Stylin' | 3.00% | ~15,936 |
+| Turf War | 3.00% | ~15,936 |
+| Banged | 2.00% | ~10,624 |
+| First Blood | 2.00% | ~10,624 |
+| Flaccid Paralysis | 2.00% | ~10,624 |
+| Push Victory | 2.00% | ~10,624 |
+| Self-destructive | 2.00% | ~10,624 |
+| Blindfire | 1.00% | ~5,312 |
+| Ruthless | 1.00% | ~5,312 |
+| Semper Paratus | 1.00% | ~5,312 |
+| Carrying | 0.90% | ~4,781 |
+| Efficient | 0.90% | ~4,781 |
+| Mount & Gun | 0.90% | ~4,781 |
+| Personal | 0.90% | ~4,781 |
+| Grounded | 0.80% | ~4,250 |
+| Play to Win | 0.80% | ~4,250 |
 | Special Delivery | 0.70% | ~3,718 |
 | Firefight Victory | 0.60% | ~3,187 |
 | #1 | 0.60% | ~3,187 |
 | Cinematic | 0.50% | ~2,656 |
 | Thanks Station! | 0.40% | ~2,125 |
-| Knock Knock | 0.30% | ~1,593 |
-| There For You | 0.30% | ~1,593 |
+| Knock Knock | 0.30% | ~1,594 |
+| There For You | 0.30% | ~1,594 |
 | Hit and Run | 0.20% | ~1,062 |
 | Designated Driver | 0.10% | ~531 |
 | J.R. .50 | 0.10% | ~531 |
 | It's All in the Reflexes | 0.10% | ~531 |
 | Road Hazard | 0.10% | ~531 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,148 (Ranked 40)  
+Progressed: 531,191 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,11 +323,11 @@ Completed: 2 (0.00%) (Ranked 414)
 | 2024-01-23 | 529,253 | 2 |
 | 2024-01-24 | 529,990 | 2 |
 | 2024-01-25 | 530,633 | 2 |
-| 2024-01-26 | 531,148 | 2 |
+| 2024-01-26 | 531,191 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 427  (Ranked 239)  
+Max (Quickly Understood Controls): 427  (Ranked 240)  
 Sum: 3,450 (Ranked 178)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 427 |

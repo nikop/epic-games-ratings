@@ -25,8 +25,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unshakable Fortitude | 37.00% | ~262 |
 | Soul Harvester | 37.00% | ~262 |
 | I Wanna Rock | 35.00% | ~248 |
+| Love Tap | 35.00% | ~248 |
 | Delusions of Grandeur | 35.00% | ~248 |
-| Love Tap | 34.00% | ~241 |
 | Maximum Vigor | 33.00% | ~234 |
 | Freeze Frame | 31.00% | ~220 |
 | Eat Your Heart Out | 31.00% | ~220 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19386,
+  "EOS_Progressed": 19387,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14935,6 +14935,11 @@
       "Time": "2024-01-26T13:10:41.588105+00:00",
       "NumProgressed": 19386,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T19:09:01.233694+00:00",
+      "NumProgressed": 19387,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -15002,7 +15007,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "0009",
@@ -15074,7 +15079,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "0018",
@@ -15138,7 +15143,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "0026",
@@ -15154,7 +15159,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "0028",
@@ -15178,7 +15183,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "0031",
@@ -15186,7 +15191,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "0032",
@@ -15194,7 +15199,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "0033",
@@ -15202,7 +15207,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "0034",
@@ -15233,7 +15238,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19386,
+      "Progressed": 19387,
       "Completed": 4
     }
   ],
@@ -15241,8 +15246,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:08:44.4357161+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:09:01.2336936+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:58:16.1048067+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:08:44.4358377+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:58:45.9866426+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:09:01.2337808+00:00"
 }

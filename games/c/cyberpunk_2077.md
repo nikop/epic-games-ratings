@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.90% | ~9,532 |
-| Right Back At Ya | 0.90% | ~9,532 |
-| The Hermit | 0.90% | ~9,532 |
-| True Soldier | 0.90% | ~9,532 |
+| Full Body Conversion | 0.90% | ~9,533 |
+| Right Back At Ya | 0.90% | ~9,533 |
+| The Hermit | 0.90% | ~9,533 |
+| True Soldier | 0.90% | ~9,533 |
 | Christmas Tree Attack | 0.80% | ~8,473 |
 | Life of the Road | 0.80% | ~8,473 |
 | The High Priestess | 0.80% | ~8,473 |
@@ -29,12 +29,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.50% | ~5,296 |
 | The Quick and the Dead | 0.50% | ~5,296 |
 | True Warrior | 0.50% | ~5,296 |
+| The Wandering Fool | 0.40% | ~4,237 |
 | Two Heads, One Bullet | 0.40% | ~4,237 |
 | Spin Doctor | 0.40% | ~751 |
-| To Bad Decisions! | 0.30% | ~3,177 |
-| The Wandering Fool | 0.30% | ~3,177 |
-| The Star | 0.30% | ~3,177 |
-| The Sun | 0.30% | ~3,177 |
+| To Bad Decisions! | 0.30% | ~3,178 |
+| The Star | 0.30% | ~3,178 |
+| The Sun | 0.30% | ~3,178 |
 | King of Wands | 0.30% | ~563 |
 | Easy Come, Easy Go | 0.30% | ~563 |
 | Breathtaking | 0.20% | ~2,118 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,163 (Ranked 17)  
+Progressed: 1,059,183 (Ranked 17)  
 Completed: 3,167 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 3,167 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,059,163 | 3,167 |
+| 2024-01-26 | 1,059,183 | 3,167 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
 Sum: 521,669 (Ranked 8)  

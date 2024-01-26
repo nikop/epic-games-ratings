@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 167,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
     "PcReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "GameOver",
       "SetID": "8j3le2g",
       "Name": "Oh my god, you killed Lil! You...",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GhostFinder",
@@ -470,8 +470,8 @@
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:05:36.5534603+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:06:55.6523388+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:59:31.5617426+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:05:36.5534916+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:00:44.3424087+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:06:55.6523681+00:00"
 }

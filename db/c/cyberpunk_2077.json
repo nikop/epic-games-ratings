@@ -19160,9 +19160,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1059163,
+  "EOS_Progressed": 1059183,
   "EOS_Completed": 3167,
-  "EOS_NewPlayers": 4087,
+  "EOS_NewPlayers": 4080,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51415,6 +51415,11 @@
       "Time": "2024-01-26T18:09:26.382471+00:00",
       "NumProgressed": 1059163,
       "NumCompleted": 3167
+    },
+    {
+      "Time": "2024-01-26T19:10:03.9425152+00:00",
+      "NumProgressed": 1059183,
+      "NumCompleted": 3167
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51435,7 +51440,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "BushidoAndChill",
@@ -51451,7 +51456,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9532
+      "UsersEstimate": 9533
     },
     {
       "ID": "Denied",
@@ -51459,7 +51464,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9532
+      "UsersEstimate": 9533
     },
     {
       "ID": "FollowingTheRiver",
@@ -51473,9 +51478,9 @@
       "ID": "Fortuneteller",
       "SetID": "47clieb",
       "Name": "The Wandering Fool",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3177
+      "UsersEstimate": 4237
     },
     {
       "ID": "Gearhead",
@@ -51651,7 +51656,7 @@
       "Name": "The Hermit",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9532
+      "UsersEstimate": 9533
     },
     {
       "ID": "TheHightPriestess",
@@ -51675,7 +51680,7 @@
       "Name": "The Star",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "TheSun",
@@ -51683,7 +51688,7 @@
       "Name": "The Sun",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "TheWheelOfFortune",
@@ -51723,7 +51728,7 @@
       "Name": "True Soldier",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 9532
+      "UsersEstimate": 9533
     },
     {
       "ID": "TrueWarrior",
@@ -51962,21 +51967,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059163,
+      "Progressed": 1059183,
       "Completed": 3167
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187786,
+      "Progressed": 187806,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T18:03:36.8814778+00:00",
-  "LastChanged_Achievements": "2024-01-26T18:09:26.3824707+00:00",
+  "LastChanged_Achievements": "2024-01-26T19:10:03.942515+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T18:03:36.8814787+00:00",
-  "LastUpdate_Achievements": "2024-01-26T18:09:26.382617+00:00"
+  "LastUpdate_Ratings": "2024-01-26T19:03:38.3227081+00:00",
+  "LastUpdate_Achievements": "2024-01-26T19:10:03.9426804+00:00"
 }

@@ -13,8 +13,8 @@
 | Craftsmen | 5.00% | ~8 |
 | Freezing Cold | 5.00% | ~8 |
 | Locked and Loaded | 5.00% | ~8 |
+| Can't touch this | 5.00% | ~8 |
 | Defeat Tezuth | 4.00% | ~7 |
-| Can't touch this | 4.00% | ~7 |
 | Expert | 4.00% | ~7 |
 | The Golden Flash | 4.00% | ~7 |
 | Searing Heat | 3.00% | ~5 |

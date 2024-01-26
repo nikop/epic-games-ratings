@@ -32,12 +32,12 @@ Number of Ratings: 429  (23.09.2022)
 | Recruit a Leader | 3.00% | ~228 |
 | Win an Immense Game | 3.00% | ~228 |
 | Ask Not What Your Empire Can Do For You | 2.00% | ~152 |
+| Hyperspace! | 2.00% | ~152 |
 | Veteran Crew | 2.00% | ~152 |
 | Artifact Mastery | 2.00% | ~152 |
 | Win as Altarians | 2.00% | ~152 |
 | Win as the Yor | 2.00% | ~152 |
 | Influence Victory! | 2.00% | ~152 |
-| Hyperspace! | 1.00% | ~76 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
 | Win as Arceans | 0.90% | ~68 |
