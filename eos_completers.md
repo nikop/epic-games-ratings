@@ -15,7 +15,7 @@
 | 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 14 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
 | 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.45% |
-| 16 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.57% |
+| 16 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.21% |
 | 17 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.67% |
@@ -30,7 +30,7 @@
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.05% |
+| 31 | [The Riflemen](games/t/the_riflemen.md) | 15.03% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 12.90% |
@@ -96,7 +96,7 @@
 | 94 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.05% |
 | 95 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
-| 97 | [The Bunker](games/t/the_bunker.md) | 3.74% |
+| 97 | [The Bunker](games/t/the_bunker.md) | 3.72% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
 | 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.57% |
@@ -149,10 +149,10 @@
 | 146 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.85% |
 | 148 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 149 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.80% |
-| 150 | [Yars: Recharged](games/y/yars__recharged.md) | 1.79% |
-| 151 | [Sifu](games/s/sifu.md) | 1.71% |
-| 152 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.69% |
+| 150 | [Sifu](games/s/sifu.md) | 1.71% |
+| 150 | [Yars: Recharged](games/y/yars__recharged.md) | 1.71% |
 | 152 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
+| 153 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.67% |
 | 154 | [Frogun](games/f/frogun.md) | 1.66% |
 | 155 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
 | 156 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
@@ -184,9 +184,9 @@
 | 182 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.03% |
 | 182 | [Sable](games/s/sable.md) | 1.03% |
 | 184 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
-| 185 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 0.99% |
-| 185 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
-| 185 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
+| 185 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.00% |
+| 186 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 0.99% |
+| 186 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
 | 188 | [Lemon Cake](games/l/lemon_cake.md) | 0.98% |
 | 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.97% |
 | 190 | [Trifox](games/t/trifox.md) | 0.94% |
@@ -203,12 +203,12 @@
 | 201 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 202 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 203 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
-| 203 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.77% |
-| 205 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.76% |
+| 204 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.76% |
+| 204 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.76% |
 | 206 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 207 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.73% |
-| 207 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
-| 209 | [Infindustry](games/i/infindustry.md) | 0.72% |
+| 208 | [Infindustry](games/i/infindustry.md) | 0.72% |
+| 208 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.72% |
 | 210 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 210 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.69% |
 | 212 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.67% |
