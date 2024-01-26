@@ -1019,9 +1019,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 19052,
+  "EOS_Progressed": 19053,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -12459,6 +12459,11 @@
       "Time": "2024-01-25T18:06:45.1552724+00:00",
       "NumProgressed": 19052,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2024-01-26T05:06:48.247411+00:00",
+      "NumProgressed": 19053,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -12471,7 +12476,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15813
+      "UsersEstimate": 15814
     },
     {
       "ID": "achievement_10",
@@ -12511,7 +12516,7 @@
       "Name": "Whole Again",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4573
     },
     {
       "ID": "achievement_15",
@@ -12543,7 +12548,7 @@
       "Name": "Full Arsenal",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "achievement_19",
@@ -12559,7 +12564,7 @@
       "Name": "Lab Rat",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12955
+      "UsersEstimate": 12956
     },
     {
       "ID": "achievement_20",
@@ -12575,7 +12580,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "achievement_22",
@@ -12631,7 +12636,7 @@
       "Name": "Story Teller",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8954
+      "UsersEstimate": 8955
     },
     {
       "ID": "achievement_29",
@@ -12663,7 +12668,7 @@
       "Name": "Marksman",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 18480
+      "UsersEstimate": 18481
     },
     {
       "ID": "achievement_32",
@@ -12671,7 +12676,7 @@
       "Name": "Surgeon",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "achievement_33",
@@ -12727,7 +12732,7 @@
       "Name": "Z-Baller",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "achievement_4",
@@ -12735,7 +12740,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     },
     {
       "ID": "achievement_40",
@@ -12751,7 +12756,7 @@
       "Name": "Full Clearance",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "achievement_42",
@@ -12759,7 +12764,7 @@
       "Name": "Brute Force",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 10669
+      "UsersEstimate": 10670
     },
     {
       "ID": "achievement_43",
@@ -12775,7 +12780,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "achievement_45",
@@ -12823,7 +12828,7 @@
       "Name": "S.O.S.",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     },
     {
       "ID": "achievement_8",
@@ -12831,7 +12836,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "achievement_9",
@@ -12846,7 +12851,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 19052,
+      "Progressed": 19053,
       "Completed": 56
     }
   ],
@@ -12854,8 +12859,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-25T15:03:17.3298106+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:05:12.1419712+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:06:48.2474108+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:32.8853693+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:02:47.4814271+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:05:12.1420702+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:03:20.470674+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:06:48.2474905+00:00"
 }

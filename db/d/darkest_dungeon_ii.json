@@ -11274,9 +11274,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133705,
+  "EOS_Progressed": 133708,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41514,6 +41514,11 @@
       "Time": "2024-01-26T04:10:10.2554851+00:00",
       "NumProgressed": 133705,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T05:11:30.1681501+00:00",
+      "NumProgressed": 133708,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41533,7 +41538,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41653,7 +41658,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41685,7 +41690,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41749,7 +41754,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41877,7 +41882,7 @@
       "Name": "Autodidact",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12033
+      "UsersEstimate": 12034
     },
     {
       "ID": "hero_story_complete_all",
@@ -42061,7 +42066,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "combat_kill_collector",
@@ -42117,7 +42122,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "quest_complete_crusader",
@@ -42156,21 +42161,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133705,
+      "Progressed": 133708,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8574,
+      "Progressed": 8577,
       "Completed": 832
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T20:57:38.4952846+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:10:10.2554847+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:11:30.1681498+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:57:25.4361471+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:10:10.2557133+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:57:50.42108+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:11:30.1683263+00:00"
 }

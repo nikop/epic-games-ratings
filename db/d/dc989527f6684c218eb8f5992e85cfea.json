@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15928,
+  "EOS_Progressed": 15930,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19941,6 +19941,11 @@
       "Time": "2024-01-26T03:04:25.3727204+00:00",
       "NumProgressed": 15928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T05:05:07.6850728+00:00",
+      "NumProgressed": 15930,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19952,7 +19957,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -19992,7 +19997,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -20024,7 +20029,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 7008
+      "UsersEstimate": 7009
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -20151,7 +20156,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15928,
+      "Progressed": 15930,
       "Completed": 0
     }
   ],
@@ -20159,8 +20164,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:04:00.236374+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:05:07.6850724+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8491193+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:59:31.291498+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:04:00.2364748+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:00:46.843195+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:05:07.6851679+00:00"
 }

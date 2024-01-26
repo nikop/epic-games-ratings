@@ -2,12 +2,12 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -878,9 +878,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6469,
+  "EOS_Progressed": 6471,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13708,6 +13708,11 @@
       "Time": "2024-01-26T04:03:52.3307057+00:00",
       "NumProgressed": 6469,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T05:04:56.4174869+00:00",
+      "NumProgressed": 6471,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13736,7 +13741,7 @@
       "Name": "Deadication",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13752,7 +13757,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13760,7 +13765,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13776,7 +13781,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13816,7 +13821,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13840,7 +13845,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13878,9 +13883,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 971
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13903,15 +13908,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6469,
+      "Progressed": 6471,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:03:52.3307054+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:04:56.4174824+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:58:32.9220185+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:03:52.3307853+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:59:22.9428314+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:04:56.4175484+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.36 (Ranked 824)
 | Full House | 7.00% | ~13 |
 | The finest merchandise this side of river Jordan | 7.00% | ~13 |
 | They Got What They Deserved | 7.00% | ~13 |
+| Playerxander the Great | 6.00% | ~11 |
 | Dinner Time | 5.00% | ~9 |
-| Playerxander the Great | 5.00% | ~9 |
 | What we’ve got here is failure to communicate | 5.00% | ~9 |
 | All the King's Men | 4.00% | ~7 |
 | Big Apple | 4.00% | ~7 |
@@ -33,16 +33,17 @@ Rating: 4.36 (Ranked 824)
 | On the third day at dawn, look east | 3.00% | ~6 |
 | Pillars of the Earth | 3.00% | ~6 |
 | Scientia potentia es | 3.00% | ~6 |
+| The Magnificent Nine | 3.00% | ~6 |
 | ‘Tis but a scratch | 3.00% | ~6 |
 | A Quiet Palace | 2.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~4 |
+| Blessed Be His Name | 2.00% | ~4 |
 | Forth, Eorlingas! | 2.00% | ~4 |
 | From Rags to Riches | 2.00% | ~4 |
 | He made it out, but with an arrow in his back | 2.00% | ~4 |
 | I started a joke | 2.00% | ~4 |
 | Naught but a Seamless Victory | 2.00% | ~4 |
 | Renaissance Man | 2.00% | ~4 |
-| The Magnificent Nine | 2.00% | ~4 |
 | Time to find India | 2.00% | ~4 |
 | Vlad the Impaler | 2.00% | ~4 |
 | Zerg Rush | 1.00% | ~2 |
@@ -58,7 +59,6 @@ Rating: 4.36 (Ranked 824)
 | Why is there no culture victory?! | 1.00% | ~2 |
 | You are not the boss of me now | 1.00% | ~2 |
 | You reap what you sow | 1.00% | ~2 |
-| Blessed Be His Name | 0.50% | ~1 |
 | Crusade Invoker, no Regret | 0.50% | ~1 |
 | I am the senate | 0.50% | ~1 |
 | The Merchant of Venice | 0.50% | ~1 |

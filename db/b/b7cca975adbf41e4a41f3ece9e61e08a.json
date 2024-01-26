@@ -349,7 +349,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19078,
+  "EOS_Progressed": 19079,
   "EOS_Completed": 343,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 7,
@@ -10869,6 +10869,11 @@
       "Time": "2024-01-26T04:09:53.0609022+00:00",
       "NumProgressed": 19078,
       "NumCompleted": 343
+    },
+    {
+      "Time": "2024-01-26T05:11:08.1338874+00:00",
+      "NumProgressed": 19079,
+      "NumCompleted": 343
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10881,7 +10886,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16789
+      "UsersEstimate": 16790
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10889,7 +10894,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15453
+      "UsersEstimate": 15454
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10945,7 +10950,7 @@
       "Name": "Boys Need To Protect Themselves",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -10977,7 +10982,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12591
+      "UsersEstimate": 12592
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10985,7 +10990,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5723
+      "UsersEstimate": 5724
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -10993,7 +10998,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -11065,7 +11070,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 11256
+      "UsersEstimate": 11257
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -11081,7 +11086,7 @@
       "Name": "Stubborn Noob",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -11089,7 +11094,7 @@
       "Name": "What I Want Is You",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 10302
+      "UsersEstimate": 10303
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -11137,7 +11142,7 @@
       "Name": "Are You Alright?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -11161,7 +11166,7 @@
       "Name": "David",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4960
+      "UsersEstimate": 4961
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -11216,7 +11221,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 19078,
+      "Progressed": 19079,
       "Completed": 343
     }
   ],
@@ -11224,8 +11229,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-23T08:57:32.6452149+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:09:53.0609018+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:11:08.1338871+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:58:39.8701006+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:09:53.0609828+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:59:31.8079839+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:11:08.1339642+00:00"
 }

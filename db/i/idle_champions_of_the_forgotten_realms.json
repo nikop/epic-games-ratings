@@ -9859,9 +9859,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255672,
+  "EOS_Progressed": 255675,
   "EOS_Completed": 2648,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41734,6 +41734,11 @@
       "Time": "2024-01-26T04:10:19.8319332+00:00",
       "NumProgressed": 255672,
       "NumCompleted": 2648
+    },
+    {
+      "Time": "2024-01-26T05:11:41.8968301+00:00",
+      "NumProgressed": 255675,
+      "NumCompleted": 2648
     }
   ],
   "TotalAchievements": 546,
@@ -42113,7 +42118,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5113
+      "UsersEstimate": 5114
     },
     {
       "ID": "objective_completed_110",
@@ -43215,9 +43220,9 @@
       "ID": "objective_completed_238",
       "SetID": "415jc5c",
       "Name": "This Quest Stinks!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_246",
@@ -43417,7 +43422,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5113
+      "UsersEstimate": 5114
     },
     {
       "ID": "objective_completed_34",
@@ -43647,9 +43652,9 @@
       "ID": "objective_completed_404",
       "SetID": "cc37lbc",
       "Name": "From The Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_405",
@@ -44695,9 +44700,9 @@
       "ID": "objective_completed_665",
       "SetID": "415jc5c",
       "Name": "Tiamat\u0027s Army",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_666",
@@ -44889,7 +44894,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5113
+      "UsersEstimate": 5114
     },
     {
       "ID": "objective_completed_70",
@@ -46112,21 +46117,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221946,
+      "Progressed": 221949,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255672,
+      "Progressed": 255675,
       "Completed": 2648
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T03:59:33.9204457+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:10:19.8319327+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:11:41.8968297+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:59:33.9204463+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:10:19.8341961+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:00:49.892769+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:11:41.8991596+00:00"
 }

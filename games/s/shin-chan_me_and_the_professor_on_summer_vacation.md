@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Greengrocer | 29.00% | ~12 |
+| Greengrocer | 28.00% | ~12 |
 | Cabbage in the Baggage | 26.00% | ~11 |
 | Seven Days of Endless Adventure | 21.00% | ~9 |
-| Masu-ter Angler | 17.00% | ~7 |
-| Go-Getter | 17.00% | ~7 |
-| River Cleaner | 17.00% | ~7 |
+| Masu-ter Angler | 16.00% | ~7 |
+| Go-Getter | 16.00% | ~7 |
+| River Cleaner | 16.00% | ~7 |
 | Handyman Extraordinaire | 14.00% | ~6 |
 | Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~5 |
 | Just Hoverin' Along | 12.00% | ~5 |
 | What's That Smell? | 12.00% | ~5 |
 | It's Alive! | 12.00% | ~5 |
-| A New Time | 10.00% | ~4 |
-| My Fair Ladybug | 10.00% | ~4 |
-| Farm Life! | 10.00% | ~4 |
-| Did Someone Order Ramen? | 10.00% | ~4 |
-| Top-Notch Journalist | 10.00% | ~4 |
-| Ptera Pal | 10.00% | ~4 |
-| Stego Stooge | 10.00% | ~4 |
-| DJ Superstar | 10.00% | ~4 |
+| A New Time | 9.00% | ~4 |
+| My Fair Ladybug | 9.00% | ~4 |
+| Farm Life! | 9.00% | ~4 |
+| Did Someone Order Ramen? | 9.00% | ~4 |
+| Top-Notch Journalist | 9.00% | ~4 |
+| Ptera Pal | 9.00% | ~4 |
+| Stego Stooge | 9.00% | ~4 |
+| DJ Superstar | 9.00% | ~4 |
 | Dragonfly Whiz | 7.00% | ~3 |
 | The Holly Grail | 7.00% | ~3 |
 | Love Is in the Air! | 7.00% | ~3 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 587)  
+Progressed: 43 (Ranked 586)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2023-12-01 | 40 | 0 |
 | 2023-12-27 | 41 | 0 |
 | 2024-01-03 | 42 | 0 |
+| 2024-01-26 | 43 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

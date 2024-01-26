@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.59 (Ranked 455)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,12 +25,12 @@ Rating: 4.59 (Ranked 454)
 | Hostile Takeover | 11.00% | ~2,132 |
 | Keycards Royale | 10.00% | ~1,938 |
 | Dr. No Kill | 10.00% | ~1,938 |
-| In It to Win It | 9.00% | ~1,744 |
+| In It to Win It | 9.00% | ~1,745 |
 | Security Supervisor | 6.00% | ~1,163 |
 | License to Thrill | 5.00% | ~969 |
 | Social of Solace | 4.00% | ~775 |
-| Live and let lie | 3.00% | ~581 |
-| Safe Withdrawal | 3.00% | ~581 |
+| Live and let lie | 3.00% | ~582 |
+| Safe Withdrawal | 3.00% | ~582 |
 | Branch Manager | 2.00% | ~388 |
 | Call Me Maybe | 2.00% | ~388 |
 | PHD in VIP | 2.00% | ~388 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 454)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,383 (Ranked 159)  
+Progressed: 19,384 (Ranked 159)  
 Completed: 4 (0.02%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 4 (0.02%) (Ranked 377)
 | 2024-01-23 | 19,377 | 4 |
 | 2024-01-24 | 19,380 | 4 |
 | 2024-01-25 | 19,381 | 4 |
-| 2024-01-26 | 19,383 | 4 |
+| 2024-01-26 | 19,384 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

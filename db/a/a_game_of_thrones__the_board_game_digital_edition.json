@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34324,
+  "EOS_Progressed": 34325,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31707,6 +31707,11 @@
       "Time": "2024-01-26T04:09:57.8662662+00:00",
       "NumProgressed": 34324,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-26T05:11:15.0218316+00:00",
+      "NumProgressed": 34325,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 22,
@@ -31726,7 +31731,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "1017",
@@ -31734,7 +31739,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "1018",
@@ -31750,7 +31755,7 @@
       "Name": "Winter is Coming",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "1020",
@@ -31774,7 +31779,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "1023",
@@ -31893,15 +31898,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34324,
+      "Progressed": 34325,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:09:57.8662659+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:11:15.0218314+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:58:28.9378634+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:09:57.8664702+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:59:19.8835095+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:11:15.0220256+00:00"
 }

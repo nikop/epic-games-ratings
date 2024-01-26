@@ -4,7 +4,7 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 552,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 232,
+  "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 529,
@@ -1779,10 +1779,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 1737,
       "NumberOfAwardsMax": 215
+    },
+    {
+      "Time": "2024-01-26T04:59:00.8270291+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1741,
+      "NumberOfAwardsMax": 215
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1737,
+  "NumberOfAwards": 1741,
   "NumberOfAwardsMax": 215,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1844,7 +1850,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 188
+      "Count": 192
     },
     {
       "Text": "This game has a Creative Community",
@@ -1865,8 +1871,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-01-26T02:58:29.8736905+00:00",
+  "LastChanged": "2024-01-26T04:59:00.8270289+00:00",
   "LastUpdate_AppInfo": "2024-01-22T09:57:01.2389824+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:58:13.95659+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:08:21.1311145+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:59:00.8270294+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:09:01.8838445+00:00"
 }

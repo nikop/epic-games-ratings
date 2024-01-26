@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29519,
+  "EOS_Progressed": 29520,
   "EOS_Completed": 545,
   "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 13,
@@ -30693,6 +30693,11 @@
       "Time": "2024-01-26T03:05:04.4201749+00:00",
       "NumProgressed": 29519,
       "NumCompleted": 545
+    },
+    {
+      "Time": "2024-01-26T05:06:01.4469089+00:00",
+      "NumProgressed": 29520,
+      "NumCompleted": 545
     }
   ],
   "TotalAchievements": 20,
@@ -30800,7 +30805,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -30824,7 +30829,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22434
+      "UsersEstimate": 22435
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30840,7 +30845,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -30856,22 +30861,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5313
+      "UsersEstimate": 5314
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29519,
+      "Progressed": 29520,
       "Completed": 545
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-25T02:24:21.066454+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:04:38.6268604+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:06:01.4469086+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:58:02.8627254+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:04:38.627034+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:58:44.4516476+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:06:01.4470579+00:00"
 }

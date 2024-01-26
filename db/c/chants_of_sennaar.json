@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3008,
+  "EOS_Progressed": 3009,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 7.88,
   "EosHistory": [
@@ -8116,6 +8116,11 @@
       "Time": "2024-01-26T01:47:48.047556+00:00",
       "NumProgressed": 3008,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2024-01-26T05:05:59.5044653+00:00",
+      "NumProgressed": 3009,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 25,
@@ -8127,7 +8132,7 @@
       "Name": "I did it",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "END_GOOD",
@@ -8135,7 +8140,7 @@
       "Name": "In this together",
       "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "META_ALL_LINK",
@@ -8143,7 +8148,7 @@
       "Name": "Peace walker",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -8151,7 +8156,7 @@
       "Name": "Cable guy",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "META_FIRST_LINK",
@@ -8167,7 +8172,7 @@
       "Name": "Half the way",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "META_RESULT_1-2",
@@ -8215,7 +8220,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -8263,7 +8268,7 @@
       "Name": "Champollion",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -8287,7 +8292,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "PROGRESS_N2",
@@ -8303,7 +8308,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "PROGRESS_N4",
@@ -8319,14 +8324,14 @@
       "Name": "One last step",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 3008,
+      "Progressed": 3009,
       "Completed": 237
     }
   ],
@@ -8334,8 +8339,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:04:37.277315+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:05:59.5044649+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:57:37.6568884+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:04:37.2773916+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:58:08.6158893+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:05:59.5045163+00:00"
 }

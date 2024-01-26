@@ -1,7 +1,7 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.59 (Ranked 455)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,6 +13,7 @@ Rating: 4.59 (Ranked 454)
 | Tenderhoof | 3.00% | ~7,074 |
 | Champ'een of The Praire | 1.00% | ~2,358 |
 | Come At Me! | 1.00% | ~2,358 |
+| Kickin' 'n Stompin' | 0.20% | ~472 |
 | Sin'er Man | 0.20% | ~472 |
 | Well-Done | 0.10% | ~236 |
 | Valedictorian | 0.10% | ~236 |
@@ -22,7 +23,6 @@ Rating: 4.59 (Ranked 454)
 | School of Hard Knocks | 0.10% | ~236 |
 | Way of the Dragon | 0.10% | ~236 |
 | Iced Out | 0.10% | ~236 |
-| Kickin' 'n Stompin' | 0.10% | ~236 |
 | Dark Magic | 0.10% | ~236 |
 | I Love You This Much | 0.10% | ~236 |
 | Who Let The Dogs Out? | 0.10% | ~236 |

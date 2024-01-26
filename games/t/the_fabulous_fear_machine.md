@@ -27,8 +27,8 @@
 | You've awakened the beast | 18.00% | ~17 |
 | Hate is... addictive | 18.00% | ~17 |
 | Kirlian's best disciple | 18.00% | ~17 |
+| Blessed antennas | 17.00% | ~16 |
 | The bully | 17.00% | ~16 |
-| Blessed antennas | 16.00% | ~15 |
 | Pulp! The Beyond | 15.00% | ~14 |
 | Bread and bocaua | 14.00% | ~13 |
 | Fanatacism is... poisonous | 14.00% | ~13 |

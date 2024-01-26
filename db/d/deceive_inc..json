@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19383,
+  "EOS_Progressed": 19384,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14920,6 +14920,11 @@
       "Time": "2024-01-26T01:51:19.7696372+00:00",
       "NumProgressed": 19383,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T05:09:10.3584251+00:00",
+      "NumProgressed": 19384,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -15051,7 +15056,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "0017",
@@ -15067,7 +15072,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "0019",
@@ -15107,7 +15112,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "0024",
@@ -15218,7 +15223,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19383,
+      "Progressed": 19384,
       "Completed": 4
     }
   ],
@@ -15226,8 +15231,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:08:27.251241+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:09:10.3584248+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:57:43.1059632+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:08:27.2513648+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:58:16.5495267+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:09:10.3584999+00:00"
 }

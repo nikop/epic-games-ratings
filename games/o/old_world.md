@@ -71,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 1.00% | ~172 |
 | Conqueror | 1.00% | ~172 |
 | Mighty | 1.00% | ~172 |
+| Ready | 1.00% | ~172 |
 | Victorious | 1.00% | ~172 |
 | Good Difficulty | 1.00% | ~172 |
 | Champions | 1.00% | ~172 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.90% | ~155 |
 | Invincible | 0.90% | ~155 |
 | Lion | 0.90% | ~155 |
-| Ready | 0.90% | ~155 |
 | Subjugator | 0.90% | ~155 |
 | Riders | 0.90% | ~155 |
 | Learn to Play 4 | 0.90% | ~155 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,169 (Ranked 170)  
+Progressed: 17,170 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 5 (0.03%) (Ranked 368)
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
-| 2024-01-26 | 17,169 | 5 |
+| 2024-01-26 | 17,170 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

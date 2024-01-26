@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4023,10 +4023,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3417,
       "NumberOfAwardsMax": 459
+    },
+    {
+      "Time": "2024-01-26T05:00:30.7649067+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3418,
+      "NumberOfAwardsMax": 459
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3417,
+  "NumberOfAwards": 3418,
   "NumberOfAwardsMax": 459,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4088,12 +4094,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 354
+      "Count": 355
     }
   ],
-  "EOS_Progressed": 21016,
+  "EOS_Progressed": 21017,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20536,6 +20542,11 @@
       "Time": "2024-01-26T04:08:46.1165347+00:00",
       "NumProgressed": 21016,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-26T05:09:36.2743748+00:00",
+      "NumProgressed": 21017,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20636,7 +20647,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "WinHard",
@@ -20652,7 +20663,7 @@
       "Name": "Against All Odds",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "WinNearArmory",
@@ -20668,7 +20679,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "WinNearBarren",
@@ -20676,7 +20687,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "WinNearBattleground",
@@ -20692,7 +20703,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "WinNearDangerous",
@@ -20732,7 +20743,7 @@
       "Name": "Haunted Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "WinNearLevitating",
@@ -20748,7 +20759,7 @@
       "Name": "Flooded Mines",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "WinNearMonastery",
@@ -20924,7 +20935,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "WinWithoutOrders",
@@ -20980,7 +20991,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "WinNearPresence",
@@ -21019,15 +21030,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 21016,
+      "Progressed": 21017,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-25T16:59:34.7928312+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:08:46.1165343+00:00",
+  "LastChanged": "2024-01-26T05:00:30.7649065+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:09:36.2743746+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:59:20.2638088+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:08:46.1166464+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:00:30.7649071+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:09:36.2744746+00:00"
 }

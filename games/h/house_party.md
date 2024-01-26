@@ -30,9 +30,9 @@ Number of Ratings: 177  (23.09.2022)
 | Stephanie | 0.80% | ~59 |
 | The Magic Number | 0.80% | ~59 |
 | Vickie | 0.80% | ~59 |
+| Te Amo Lety | 0.80% | ~59 |
 | Amy: Scavenger Hunt | 0.70% | ~52 |
 | Now It's a Party! | 0.70% | ~52 |
-| Te Amo Lety | 0.70% | ~52 |
 | Ashley | 0.60% | ~44 |
 | Benedict Brahrnold | 0.60% | ~44 |
 | I'll Be Back | 0.60% | ~44 |

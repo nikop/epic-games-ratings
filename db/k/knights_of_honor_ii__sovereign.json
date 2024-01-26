@@ -590,9 +590,9 @@
       "ID": "blessed_be_his_name",
       "SetID": "41moj9p",
       "Name": "Blessed Be His Name",
-      "Percentage": 0.5,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "blinded_by_science",
@@ -1062,9 +1062,9 @@
       "ID": "playersander_the_great",
       "SetID": "41moj9p",
       "Name": "Playerxander the Great",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "power_overwhelming",
@@ -1166,9 +1166,9 @@
       "ID": "the_magnificent_nine",
       "SetID": "41moj9p",
       "Name": "The Magnificent Nine",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "the_merchant_of_venice",
@@ -1343,8 +1343,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:04:46.1941625+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:06:12.5895502+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:00:19.4027614+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:04:46.1942581+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:02:56.2456402+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:06:12.5896507+00:00"
 }

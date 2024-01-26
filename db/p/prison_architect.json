@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 81,
@@ -8613,9 +8613,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 221395,
+  "EOS_Progressed": 221404,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 2928,
+  "EOS_NewPlayers": 2927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40928,6 +40928,11 @@
       "Time": "2024-01-26T04:09:46.1908339+00:00",
       "NumProgressed": 221395,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-26T05:10:58.7551783+00:00",
+      "NumProgressed": 221404,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -40971,7 +40976,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 33209
+      "UsersEstimate": 33211
     },
     {
       "ID": "Achievement_13",
@@ -41019,7 +41024,7 @@
       "Name": "Stone Walls",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 53135
+      "UsersEstimate": 53137
     },
     {
       "ID": "Achievement_5",
@@ -41066,15 +41071,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 221395,
+      "Progressed": 221404,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-25T20:59:51.860365+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:09:46.1908334+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:10:58.7551779+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.4348703+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:59:35.8481782+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:09:46.191059+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:00:52.5723703+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:10:58.7553505+00:00"
 }

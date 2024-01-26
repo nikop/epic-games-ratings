@@ -5,29 +5,29 @@ Rating: 4.38 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~781,782 |
-| The ABCs | 43.00% | ~686,054 |
-| Home Run | 41.00% | ~654,144 |
-| Keeps Coming Off | 41.00% | ~654,144 |
-| Guts | 19.00% | ~303,140 |
-| Meat Grinder | 19.00% | ~303,140 |
-| Burning Man | 16.00% | ~255,276 |
-| Lived to Tell the Tale | 12.00% | ~191,457 |
-| Highlander | 10.00% | ~159,547 |
-| Unstoppable | 10.00% | ~159,547 |
+| Justice from the Grave | 49.00% | ~781,786 |
+| The ABCs | 43.00% | ~686,057 |
+| Home Run | 41.00% | ~654,148 |
+| Keeps Coming Off | 41.00% | ~654,148 |
+| Guts | 19.00% | ~303,142 |
+| Meat Grinder | 19.00% | ~303,142 |
+| Burning Man | 16.00% | ~255,277 |
+| Lived to Tell the Tale | 12.00% | ~191,458 |
+| Highlander | 10.00% | ~159,548 |
+| Unstoppable | 10.00% | ~159,548 |
 | Just a Scratch | 9.00% | ~143,593 |
-| Tough Nut to Crack | 6.00% | ~95,728 |
-| Yoink | 6.00% | ~95,728 |
+| Tough Nut to Crack | 6.00% | ~95,729 |
+| Yoink | 6.00% | ~95,729 |
 | Long List of Names | 4.00% | ~63,819 |
 | Pyromaniac | 4.00% | ~63,819 |
 | The Queen of Weapons | 4.00% | ~63,819 |
 | This isn’t Sparta | 3.00% | ~47,864 |
 | Put That Away | 3.00% | ~47,864 |
-| Crybaby | 2.00% | ~31,909 |
-| Eagle Eye | 2.00% | ~31,909 |
-| I Know Kung Fu | 2.00% | ~31,909 |
-| Poacher | 2.00% | ~31,909 |
-| You’re Welcome | 2.00% | ~31,909 |
+| Crybaby | 2.00% | ~31,910 |
+| Eagle Eye | 2.00% | ~31,910 |
+| I Know Kung Fu | 2.00% | ~31,910 |
+| Poacher | 2.00% | ~31,910 |
+| You’re Welcome | 2.00% | ~31,910 |
 | Chambermaid | 1.00% | ~15,955 |
 | Coming Through | 1.00% | ~15,955 |
 | Boxer | 0.90% | ~14,359 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 803)
 | That’s No Ordinary Cold | 0.10% | ~1,595 |
 | Stairway to Hell | 0.10% | ~1,595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,595,474 (Ranked 7)  
+Progressed: 1,595,482 (Ranked 7)  
 Completed: 81 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 81 (0.01%) (Ranked 387)
 | 2024-01-23 | 1,594,661 | 81 |
 | 2024-01-24 | 1,595,028 | 81 |
 | 2024-01-25 | 1,595,402 | 81 |
-| 2024-01-26 | 1,595,474 | 81 |
+| 2024-01-26 | 1,595,482 | 81 |
 ## Awards
 Max (Diverse Characters): 1,275  (Ranked 149)  
 Sum: 6,560 (Ranked 137)  

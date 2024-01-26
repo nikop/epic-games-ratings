@@ -9,9 +9,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 10.00% | ~2,102 |
 | Abandoned Settlement | 10.00% | ~2,102 |
 | Overgrown Library | 10.00% | ~2,102 |
-| First Real Expedition | 9.00% | ~1,891 |
-| No Deaths | 9.00% | ~1,891 |
-| Petrified Necropolis | 9.00% | ~1,891 |
+| First Real Expedition | 9.00% | ~1,892 |
+| No Deaths | 9.00% | ~1,892 |
+| Petrified Necropolis | 9.00% | ~1,892 |
 | Overcoming Difficulty | 8.00% | ~1,681 |
 | Coral Forest | 8.00% | ~1,681 |
 | The Marshlands | 8.00% | ~1,681 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 4.00% | ~841 |
 | Trade Baron | 4.00% | ~841 |
 | Untamed Wilds | 4.00% | ~841 |
-| Against All Odds | 3.00% | ~630 |
-| Bandit Camp | 3.00% | ~630 |
-| Barren Lands | 3.00% | ~630 |
-| Sparkdew Crystals | 3.00% | ~630 |
-| Haunted Forest | 3.00% | ~630 |
-| Flooded Mines | 3.00% | ~630 |
+| Against All Odds | 3.00% | ~631 |
+| Bandit Camp | 3.00% | ~631 |
+| Barren Lands | 3.00% | ~631 |
+| Sparkdew Crystals | 3.00% | ~631 |
+| Haunted Forest | 3.00% | ~631 |
+| Flooded Mines | 3.00% | ~631 |
 | Serving Ale | 2.00% | ~420 |
 | Efficient Explorer | 2.00% | ~420 |
 | Refinery | 2.00% | ~420 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,016 (Ranked 157)  
+Progressed: 21,017 (Ranked 157)  
 Completed: 36 (0.17%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,10 +347,10 @@ Completed: 36 (0.17%) (Ranked 297)
 | 2024-01-23 | 20,986 | 34 |
 | 2024-01-24 | 20,998 | 34 |
 | 2024-01-25 | 21,012 | 36 |
-| 2024-01-26 | 21,016 | 36 |
+| 2024-01-26 | 21,017 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 459  (Ranked 233)  
-Sum: 3,417 (Ranked 180)  
+Sum: 3,418 (Ranked 180)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -359,7 +359,7 @@ Diff (max vs sum): 53
 | This game is Relaxing | 453 |
 | This game is Extremely Fun | 424 |
 | This game is Highly Recommended | 411 |
-| This game has Unique Visuals | 354 |
+| This game has Unique Visuals | 355 |
 | This game has Amazing Storytelling | 339 |
 | This game has Amazing Characters | 299 |
 | This game has Obsessive Gameplay | 254 |
@@ -662,3 +662,4 @@ Diff (max vs sum): 53
 | 2024-01-23 | 4.82 | - | 458 | 3,412 |
 | 2024-01-24 | 4.82 | - | 458 | 3,414 |
 | 2024-01-25 | 4.82 | - | 459 | 3,417 |
+| 2024-01-26 | 4.82 | - | 459 | 3,418 |

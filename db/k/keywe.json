@@ -866,9 +866,9 @@
       "ID": "allCoursesCleared",
       "SetID": "cfj6lld",
       "Name": "Off to the Races",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "allCoursesGold",
@@ -1025,8 +1025,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:04:18.6515067+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:05:33.2542825+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.8229571+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:59:55.2546976+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:04:18.651526+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:01:20.572974+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:05:33.2542982+00:00"
 }

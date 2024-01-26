@@ -29,11 +29,11 @@ Rating: 3.86 (Ranked 1,089)
 | The Butterfly Effect | 2.00% | ~14 |
 | Echoes of the Past | 2.00% | ~14 |
 | Casual Gamer | 2.00% | ~14 |
+| Marvellous Toys | 2.00% | ~14 |
 | Paparazzi | 2.00% | ~14 |
 | Life of the Party | 2.00% | ~14 |
 | Hardcore Gamer | 1.00% | ~7 |
 | Urban Scrawl | 1.00% | ~7 |
-| Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 687 (Ranked 339)  
 Completed: 6 (0.87%) (Ranked 197)  

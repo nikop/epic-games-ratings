@@ -16,10 +16,10 @@
 | Fight Another Day | 9.00% | ~28 |
 | Taskmaster | 9.00% | ~28 |
 | Acquaintance | 8.00% | ~25 |
+| Scholar | 7.00% | ~22 |
 | The More the Merrier | 7.00% | ~22 |
 | Harbinger | 7.00% | ~22 |
 | Tail-wind | 7.00% | ~22 |
-| Scholar | 6.00% | ~19 |
 | Deputized | 6.00% | ~19 |
 | Courier | 6.00% | ~19 |
 | Pilgrimage's End | 6.00% | ~19 |

@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 333,
@@ -518,7 +518,7 @@
   ],
   "EOS_Progressed": 705,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2828,9 +2828,9 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 331
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -3236,8 +3236,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-24T13:04:26.9223833+00:00",
-  "LastChanged_Achievements": "2024-01-26T04:05:38.4967409+00:00",
+  "LastChanged_Achievements": "2024-01-26T05:07:25.0477102+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:58:47.1049752+00:00",
-  "LastUpdate_Achievements": "2024-01-26T04:05:38.4968006+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:59:41.7087499+00:00",
+  "LastUpdate_Achievements": "2024-01-26T05:07:25.0477911+00:00"
 }
