@@ -37,12 +37,12 @@
 | 35 | [Remains](games/r/remains.md) | 12.70% |
 | 36 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 12.50% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.24% |
-| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
+| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.03% |
-| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.02% |
-| 43 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
+| 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
+| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.30% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
@@ -50,7 +50,7 @@
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.90% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.93% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
@@ -133,7 +133,7 @@
 | 131 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
 | 131 | [FORECLOSED](games/f/foreclosed.md) | 2.48% |
 | 133 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
-| 134 | [Yars: Recharged](games/y/yars__recharged.md) | 2.36% |
+| 134 | [Yars: Recharged](games/y/yars__recharged.md) | 2.28% |
 | 135 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
 | 136 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
 | 137 | [Night Book](games/n/night_book.md) | 2.15% |
@@ -273,9 +273,9 @@
 | 271 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 271 | [Darksiders III](games/d/darksiders_iii.md) | 0.28% |
 | 271 | [GRIME](games/g/grime.md) | 0.28% |
-| 274 | [Filament](games/f/filament.md) | 0.27% |
-| 274 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.27% |
-| 274 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
+| 271 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.28% |
+| 275 | [Filament](games/f/filament.md) | 0.27% |
+| 275 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
 | 277 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 278 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 278 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |
