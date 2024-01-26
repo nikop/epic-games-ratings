@@ -4,7 +4,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.84% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.72% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.91% |
 | 8 | [Overloop](games/o/overloop.md) | 40.00% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.08% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.07% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -58,12 +58,12 @@
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.38% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.34% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.21% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.02% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
-| 62 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.86% |
-| 64 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
+| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
+| 64 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.80% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
@@ -85,8 +85,8 @@
 | 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.69% |
 | 84 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.65% |
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
-| 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.44% |
-| 87 | [JARS](games/j/jars.md) | 4.42% |
+| 86 | [JARS](games/j/jars.md) | 4.42% |
+| 86 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.42% |
 | 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.37% |
 | 89 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.35% |
 | 90 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
@@ -109,7 +109,7 @@
 | 107 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
-| 110 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.11% |
+| 110 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.10% |
 | 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
 | 113 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -133,8 +133,8 @@
 | 131 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
 | 131 | [FORECLOSED](games/f/foreclosed.md) | 2.48% |
 | 133 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
-| 134 | [Yars: Recharged](games/y/yars__recharged.md) | 2.28% |
-| 135 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
+| 134 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
+| 134 | [Yars: Recharged](games/y/yars__recharged.md) | 2.25% |
 | 136 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
 | 137 | [Night Book](games/n/night_book.md) | 2.15% |
 | 138 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
@@ -144,7 +144,7 @@
 | 142 | [Time on Frog Island](games/t/time_on_frog_island.md) | 1.96% |
 | 143 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.94% |
 | 143 | [Somerville](games/s/somerville.md) | 1.94% |
-| 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
+| 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.90% |
 | 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.86% |
 | 147 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.85% |
 | 147 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.85% |
