@@ -11,7 +11,7 @@
 | Pulp! Where Monsters Dwell | 32.00% | ~30 |
 | A continent with chemistry | 32.00% | ~30 |
 | The happy farmer girl | 30.00% | ~28 |
-| Giant | 28.00% | ~26 |
+| Giant | 29.00% | ~27 |
 | Pulp! Terror Tales in the Night | 28.00% | ~26 |
 | A rival with no options | 27.00% | ~25 |
 | The artist | 26.00% | ~24 |
@@ -30,21 +30,21 @@
 | The bully | 17.00% | ~16 |
 | Blessed antennas | 16.00% | ~15 |
 | Pulp! The Beyond | 15.00% | ~14 |
+| Bread and bocaua | 14.00% | ~13 |
+| Fanatacism is... poisonous | 14.00% | ~13 |
 | The beast in the Oval Office | 13.00% | ~12 |
 | Blood Red Island | 13.00% | ~12 |
-| Bread and bocaua | 13.00% | ~12 |
-| Fanatacism is... poisonous | 13.00% | ~12 |
 | The adventurer | 13.00% | ~12 |
 | Pulp! True Adventures | 13.00% | ~12 |
+| The scholar | 11.00% | ~10 |
 | The barbarian invasions | 11.00% | ~10 |
 | ECO mode | 11.00% | ~10 |
 | America had no Faith | 11.00% | ~10 |
-| The scholar | 10.00% | ~9 |
 | Vaccine fans | 10.00% | ~9 |
-| A new Hindenburg | 9.00% | ~8 |
+| A new Hindenburg | 10.00% | ~9 |
 | Pulp! Tales from the Crypt | 6.00% | ~6 |
+| Thirst for Oleum | 5.00% | ~5 |
 | Pulp! Skeleton Hand | 4.00% | ~4 |
-| Thirst for Oleum | 4.00% | ~4 |
 | Troy is burning! | 4.00% | ~4 |
 | Pulp! The Perfect Crime | 3.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~3 |

@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 3.00% | ~515 |
 | Pyramids | 3.00% | ~515 |
 | Learn to Play 1 | 3.00% | ~515 |
+| Christianity | 3.00% | ~515 |
 | Babylonian Paganism | 3.00% | ~515 |
 | Greek Paganism | 3.00% | ~515 |
 | Naming Landmarks | 3.00% | ~515 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 2.00% | ~343 |
 | Necropolis | 2.00% | ~343 |
 | Learn to Play 2 | 2.00% | ~343 |
-| Christianity | 2.00% | ~343 |
 | Manichaeism | 2.00% | ~343 |
 | Carthaginian Paganism | 2.00% | ~343 |
 | Egyptian Paganism | 2.00% | ~343 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,167 (Ranked 170)  
+Progressed: 17,168 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,6 +646,7 @@ Completed: 5 (0.03%) (Ranked 368)
 | 2024-01-23 | 17,124 | 5 |
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
+| 2024-01-26 | 17,168 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

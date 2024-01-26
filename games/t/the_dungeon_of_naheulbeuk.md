@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,315 |
-| Alt+F4 | 11.00% | ~27,445 |
+| Sowwy! | 37.00% | ~92,317 |
+| Alt+F4 | 11.00% | ~27,446 |
 | Where's that freaking Dwarf? | 10.00% | ~24,950 |
 | Déjà vu | 8.00% | ~19,960 |
 | Sock! SOCK! | 6.00% | ~14,970 |
@@ -48,16 +48,16 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,495 |
 | We come in peace | 0.90% | ~2,246 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,996 |
-| Holistic Adventuring Party | 0.70% | ~1,746 |
-| Law and Order | 0.70% | ~1,746 |
+| Holistic Adventuring Party | 0.70% | ~1,747 |
+| Law and Order | 0.70% | ~1,747 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,497 |
 | I'd rather... Just... Sing! | 0.50% | ~1,248 |
 | It's been a hard day's night | 0.50% | ~1,248 |
 | Friendly fire | 0.40% | ~998 |
 | The number of the counting shalt be 7 | 0.40% | ~998 |
 | Inception | 0.40% | ~998 |
-| 100% satisfaction guarantee | 0.30% | ~748 |
-| Death is for wimps | 0.30% | ~748 |
+| 100% satisfaction guarantee | 0.30% | ~749 |
+| Death is for wimps | 0.30% | ~749 |
 | Cursed die | 0.20% | ~499 |
 | The Blood Countess | 0.20% | ~499 |
 | He’s alive! Aliiiive! | 0.20% | ~499 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~250 |
 | Dwarf Candy | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,500 (Ranked 73)  
+Progressed: 249,505 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,6 +335,7 @@ Completed: 9 (0.00%) (Ranked 413)
 | 2024-01-23 | 249,318 | 9 |
 | 2024-01-24 | 249,409 | 9 |
 | 2024-01-25 | 249,500 | 9 |
+| 2024-01-26 | 249,505 | 9 |
 ## Awards
 Max (Character Customization): 276  (Ranked 277)  
 Sum: 586 (Ranked 331)  

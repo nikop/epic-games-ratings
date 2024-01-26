@@ -5,9 +5,9 @@
   "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 185,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -503,6 +503,11 @@
       "Time": "2024-01-25T23:04:53.2618168+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T00:05:01.5729003+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -529,9 +534,9 @@
       "ID": "all_the_kings_men",
       "SetID": "41moj9p",
       "Name": "All the King\u0027s Men",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ashes_to_ashes",
@@ -563,7 +568,7 @@
       "Name": "Black Sheep Wall",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "blessed_be_his_name",
@@ -595,7 +600,7 @@
       "Name": "Bring it on!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "brutus",
@@ -619,15 +624,15 @@
       "Name": "Call the Boys",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "columbus",
@@ -667,7 +672,7 @@
       "Name": "Cut-Me-Own-Throat",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "desperate_times",
@@ -675,7 +680,7 @@
       "Name": "Desperate Times Call for Desperate Measures",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "die_by_my_hand",
@@ -795,7 +800,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "he_made_it_out",
@@ -809,9 +814,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "his_all_holiness",
@@ -907,7 +912,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "join_the_dark_side",
@@ -931,15 +936,15 @@
       "Name": "Kingslayer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "learn_me_a_book",
       "SetID": "41moj9p",
       "Name": "Learn Me a Book",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "let_us_pray",
@@ -969,9 +974,9 @@
       "ID": "lord_of_the_kings",
       "SetID": "41moj9p",
       "Name": "Lord of the Kings",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "master_of_puppets",
@@ -1003,7 +1008,7 @@
       "Name": "On the third day at dawn, look east",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "open_your_eyes",
@@ -1035,7 +1040,7 @@
       "Name": "Pillars of the Earth",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "playersander_the_great",
@@ -1107,7 +1112,7 @@
       "Name": "Scientia potentia es",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "spartacus",
@@ -1171,15 +1176,15 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "time_to_find_india",
@@ -1195,7 +1200,7 @@
       "Name": "\u2018Tis but a scratch",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "together_we_stand",
@@ -1257,9 +1262,9 @@
       "ID": "what_weve_got",
       "SetID": "41moj9p",
       "Name": "What we\u2019ve got here is failure to communicate",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "wheres_your_crown",
@@ -1314,7 +1319,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 185,
       "Completed": 0
     }
   ],
@@ -1322,8 +1327,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:04:53.2618164+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:05:01.5728998+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:00:26.9896011+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:04:53.2619088+00:00"
+  "LastUpdate_Ratings": "2024-01-26T00:02:42.7906653+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:05:01.5731103+00:00"
 }

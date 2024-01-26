@@ -19,8 +19,8 @@ Rating: 4.55 (Ranked 529)
 | Original Gangster | 8.00% | ~1,588 |
 | With Extra Dip | 7.00% | ~1,390 |
 | Saviour | 6.00% | ~1,191 |
-| They Can’t Stop All of Us | 5.00% | ~992 |
-| Rescue a Kitten Too? | 5.00% | ~992 |
+| They Can’t Stop All of Us | 5.00% | ~993 |
+| Rescue a Kitten Too? | 5.00% | ~993 |
 | What are the Odds | 4.00% | ~794 |
 | I’ll Have Two Number 9s | 3.00% | ~596 |
 | Bike or Biker | 3.00% | ~596 |
@@ -33,15 +33,15 @@ Rating: 4.55 (Ranked 529)
 | Assassin | 2.00% | ~397 |
 | Public Enemy No. 1 | 2.00% | ~397 |
 | Ain’t Nothing But a G Thing | 2.00% | ~397 |
-| Hoopin' it Up | 1.00% | ~198 |
-| Lucky Spinner | 1.00% | ~198 |
-| Not a Player | 1.00% | ~198 |
-| Chick Magnet | 1.00% | ~198 |
+| Hoopin' it Up | 1.00% | ~199 |
+| Lucky Spinner | 1.00% | ~199 |
+| Not a Player | 1.00% | ~199 |
+| Chick Magnet | 1.00% | ~199 |
 | Remastered | 0.80% | ~159 |
 | ...Here we go again | 0.60% | ~119 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,850 (Ranked 158)  
+Progressed: 19,851 (Ranked 158)  
 Completed: 83 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,6 +322,7 @@ Completed: 83 (0.42%) (Ranked 247)
 | 2024-01-23 | 19,815 | 82 |
 | 2024-01-24 | 19,836 | 83 |
 | 2024-01-25 | 19,850 | 83 |
+| 2024-01-26 | 19,851 | 83 |
 ## Awards
 Max (Great Boss Battles): 728  (Ranked 196)  
 Sum: 1,129 (Ranked 270)  

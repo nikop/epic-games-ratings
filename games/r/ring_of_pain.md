@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,514 (Ranked 75)  
+Progressed: 243,516 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,9 +426,10 @@ Completed: 309 (0.13%) (Ranked 310)
 | 2024-01-23 | 243,428 | 309 |
 | 2024-01-24 | 243,469 | 309 |
 | 2024-01-25 | 243,514 | 309 |
+| 2024-01-26 | 243,516 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
-Sum: 11,804 (Ranked 92)  
+Sum: 11,806 (Ranked 92)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -438,7 +439,7 @@ Diff (max vs sum): 48
 | This game has Challenging Combat | 1,450 |
 | This game is Extremely Fun | 1,427 |
 | This game is Highly Recommended | 1,398 |
-| This game has Amazing Storytelling | 1,335 |
+| This game has Amazing Storytelling | 1,337 |
 | This game has Amazing Characters | 1,239 |
 | This game has Unique Visuals | 1,239 |
 | This game has Obsessive Gameplay | 1,088 |
@@ -706,4 +707,4 @@ Diff (max vs sum): 48
 | 2024-01-16 | 4.58 | - | 1,516 | 11,799 |
 | 2024-01-21 | 4.58 | - | 1,516 | 11,802 |
 | 2024-01-24 | 4.58 | - | 1,516 | 11,803 |
-| 2024-01-25 | 4.58 | - | 1,516 | 11,804 |
+| 2024-01-25 | 4.58 | - | 1,516 | 11,806 |

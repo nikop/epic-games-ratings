@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -2174,6 +2174,11 @@
       "Time": "2024-01-25T20:08:52.1932593+00:00",
       "NumProgressed": 644,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-26T00:03:37.5883789+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -2186,7 +2191,7 @@
       "Name": "Good Morning",
       "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach2",
@@ -2232,23 +2237,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 145,
-      "UsersEstimate": 90
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:03:30.4786127+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:03:37.5883784+00:00",
   "LastUpdate_AppInfo": "2024-01-24T23:57:01.1262459+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:59:41.5023729+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:03:30.4786389+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:59:36.8892094+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:03:37.5884225+00:00"
 }

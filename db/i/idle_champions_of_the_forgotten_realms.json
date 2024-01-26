@@ -9847,9 +9847,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255638,
+  "EOS_Progressed": 255646,
   "EOS_Completed": 2648,
-  "EOS_NewPlayers": 1045,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41697,6 +41697,11 @@
       "Time": "2024-01-25T23:10:37.8521868+00:00",
       "NumProgressed": 255638,
       "NumCompleted": 2648
+    },
+    {
+      "Time": "2024-01-26T00:10:48.8894005+00:00",
+      "NumProgressed": 255646,
+      "NumCompleted": 2648
     }
   ],
   "TotalAchievements": 546,
@@ -42684,7 +42689,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "objective_completed_130",
@@ -43058,9 +43063,9 @@
       "ID": "objective_completed_209",
       "SetID": "cc37lbc",
       "Name": "The Hunt for Owl-y",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_21",
@@ -43898,9 +43903,9 @@
       "ID": "objective_completed_546",
       "SetID": "cc37lbc",
       "Name": "Slow and Steady",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_547",
@@ -46075,21 +46080,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221912,
+      "Progressed": 221920,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255638,
+      "Progressed": 255646,
       "Completed": 2648
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-25T21:59:30.3370048+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:10:37.8521865+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:10:48.8894001+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:59:36.474193+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:10:37.8544845+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:59:31.8255387+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:10:48.8938467+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.71 (Ranked 205)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,890 |
-| First of Many | 12.00% | ~35,899 |
+| The Killing Jar | 13.00% | ~38,891 |
+| First of Many | 12.00% | ~35,900 |
 | Not Your Average Trait | 10.00% | ~29,916 |
-| Expanding Horizons | 9.00% | ~26,924 |
+| Expanding Horizons | 9.00% | ~26,925 |
 | Gleaming the Cube | 8.00% | ~23,933 |
 | Quest for Survival | 8.00% | ~23,933 |
 | Familiar Face | 8.00% | ~23,933 |
@@ -17,13 +17,13 @@ Rating: 4.71 (Ranked 205)
 | Not So Special Now | 7.00% | ~20,941 |
 | Not a Janitor | 7.00% | ~20,941 |
 | Duality | 7.00% | ~20,941 |
-| Equal Measures | 6.00% | ~17,949 |
-| Blue Goddess | 6.00% | ~17,949 |
-| Top Performer | 6.00% | ~17,949 |
-| Shhh...It's a Secret | 6.00% | ~17,949 |
-| Almost There | 6.00% | ~17,949 |
-| Make Some Room | 6.00% | ~17,949 |
-| Good, But Could Be Better! | 6.00% | ~17,949 |
+| Equal Measures | 6.00% | ~17,950 |
+| Blue Goddess | 6.00% | ~17,950 |
+| Top Performer | 6.00% | ~17,950 |
+| Shhh...It's a Secret | 6.00% | ~17,950 |
+| Almost There | 6.00% | ~17,950 |
+| Make Some Room | 6.00% | ~17,950 |
+| Good, But Could Be Better! | 6.00% | ~17,950 |
 | Am I Seeing This? | 5.00% | ~14,958 |
 | Chaos | 5.00% | ~14,958 |
 | Traitor | 5.00% | ~14,958 |
@@ -34,11 +34,11 @@ Rating: 4.71 (Ranked 205)
 | Was This Supposed To Happen? | 5.00% | ~14,958 |
 | The Web | 5.00% | ~14,958 |
 | Scrap Collector | 5.00% | ~14,958 |
-| Madman's Paradise | 4.00% | ~11,966 |
-| The Agenda | 4.00% | ~11,966 |
-| Bad Moon Rising | 4.00% | ~11,966 |
-| Strapped | 4.00% | ~11,966 |
-| All These Traits� | 4.00% | ~11,966 |
+| Madman's Paradise | 4.00% | ~11,967 |
+| The Agenda | 4.00% | ~11,967 |
+| Bad Moon Rising | 4.00% | ~11,967 |
+| Strapped | 4.00% | ~11,967 |
+| All These Traits� | 4.00% | ~11,967 |
 | Red Room | 3.00% | ~8,975 |
 | Tall Tales | 3.00% | ~8,975 |
 | Edgelord | 3.00% | ~8,975 |
@@ -61,7 +61,7 @@ Rating: 4.71 (Ranked 205)
 | You Shall Pass | 0.80% | ~627 |
 | A Foul Feast | 0.50% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,157 (Ranked 65)  
+Progressed: 299,164 (Ranked 65)  
 Completed: 1,254 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,16 +255,17 @@ Completed: 1,254 (0.42%) (Ranked 247)
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
 | 2024-01-25 | 299,157 | 1,254 |
+| 2024-01-26 | 299,164 | 1,254 |
 ## Awards
 Max (Great Boss Battles): 7,572  (Ranked 56)  
-Sum: 17,491 (Ranked 64)  
+Sum: 17,509 (Ranked 64)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,572 |
-| This game is Highly Recommended | 1,113 |
+| This game is Highly Recommended | 1,123 |
 | This game has Diverse Characters | 1,085 |
-| This game is Extremely Fun | 1,036 |
+| This game is Extremely Fun | 1,044 |
 | This game has Quickly Understood Controls | 1,031 |
 | This game is Relaxing | 1,026 |
 | This game has Challenging Combat | 1,016 |
@@ -459,3 +460,4 @@ Diff (max vs sum): -8
 | 2024-01-23 | 4.72 | 7,507 | 17,292 |
 | 2024-01-24 | 4.72 | 7,540 | 17,396 |
 | 2024-01-25 | 4.71 | 7,572 | 17,491 |
+| 2024-01-26 | 4.71 | 7,572 | 17,509 |

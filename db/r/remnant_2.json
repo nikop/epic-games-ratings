@@ -7573,10 +7573,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 17491,
       "NumberOfAwardsMax": 7572
+    },
+    {
+      "Time": "2024-01-26T00:03:31.8262162+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 17509,
+      "NumberOfAwardsMax": 7572
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17491,
+  "NumberOfAwards": 17509,
   "NumberOfAwardsMax": 7572,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7590,13 +7596,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1113
+      "Count": 1123
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1036
+      "Count": 1044
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7647,10 +7653,10 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 299157,
+  "EOS_Progressed": 299164,
   "EOS_Completed": 1254,
-  "EOS_NewPlayers": 3370,
-  "EOS_NewCompleters": 116,
+  "EOS_NewPlayers": 3358,
+  "EOS_NewCompleters": 115,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
@@ -30082,6 +30088,11 @@
       "Time": "2024-01-25T23:10:13.8044006+00:00",
       "NumProgressed": 299157,
       "NumCompleted": 1254
+    },
+    {
+      "Time": "2024-01-26T00:10:24.6039631+00:00",
+      "NumProgressed": 299164,
+      "NumCompleted": 1254
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -30094,7 +30105,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26924
+      "UsersEstimate": 26925
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -30174,7 +30185,7 @@
       "Name": "The Killing Jar",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38890
+      "UsersEstimate": 38891
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -30206,7 +30217,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11966
+      "UsersEstimate": 11967
     },
     {
       "ID": "Defeat_World_Boss",
@@ -30230,7 +30241,7 @@
       "Name": "The Agenda",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11966
+      "UsersEstimate": 11967
     },
     {
       "ID": "Meet_Custodian",
@@ -30254,7 +30265,7 @@
       "Name": "Equal Measures",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17949
+      "UsersEstimate": 17950
     },
     {
       "ID": "Meet_Mudtooth",
@@ -30270,7 +30281,7 @@
       "Name": "Blue Goddess",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17949
+      "UsersEstimate": 17950
     },
     {
       "ID": "Obtain_Archetype",
@@ -30278,7 +30289,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35899
+      "UsersEstimate": 35900
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -30294,7 +30305,7 @@
       "Name": "Top Performer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17949
+      "UsersEstimate": 17950
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -30302,7 +30313,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17949
+      "UsersEstimate": 17950
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -30310,7 +30321,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11966
+      "UsersEstimate": 11967
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -30334,7 +30345,7 @@
       "Name": "Strapped",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11966
+      "UsersEstimate": 11967
     },
     {
       "ID": "Obtain_Guns_B",
@@ -30406,7 +30417,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11966
+      "UsersEstimate": 11967
     },
     {
       "ID": "Obtain_Traits_C",
@@ -30438,7 +30449,7 @@
       "Name": "Almost There",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17949
+      "UsersEstimate": 17950
     },
     {
       "ID": "Upgrade_Relic",
@@ -30446,7 +30457,7 @@
       "Name": "Make Some Room",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17949
+      "UsersEstimate": 17950
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -30454,7 +30465,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17949
+      "UsersEstimate": 17950
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -30533,22 +30544,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 299157,
+      "Progressed": 299164,
       "Completed": 1254
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 78322,
+      "Progressed": 78329,
       "Completed": 811
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-01-25T19:03:45.1849367+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:10:13.8044003+00:00",
+  "LastChanged": "2024-01-26T00:03:31.8262159+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:10:24.6039627+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.5413849+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:03:26.5114333+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:10:13.80453+00:00"
+  "LastUpdate_Ratings": "2024-01-26T00:03:31.8262165+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:10:24.6042595+00:00"
 }

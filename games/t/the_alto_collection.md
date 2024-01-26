@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,732 |
-| Finding Your Footing | 25.00% | ~14,046 |
-| Nomad | 16.00% | ~8,989 |
+| Rookie | 28.00% | ~15,733 |
+| Finding Your Footing | 25.00% | ~14,047 |
+| Nomad | 16.00% | ~8,990 |
 | Picking Up Speed | 15.00% | ~8,428 |
 | Welcome Maya | 14.00% | ~7,866 |
-| Scout | 12.00% | ~6,742 |
-| Sightseer | 11.00% | ~6,180 |
-| Amateur | 10.00% | ~5,618 |
+| Scout | 12.00% | ~6,743 |
+| Sightseer | 11.00% | ~6,181 |
+| Amateur | 10.00% | ~5,619 |
 | Unlock Maya | 8.00% | ~4,495 |
 | Wanderer | 8.00% | ~4,495 |
 | Enter Paz | 7.00% | ~3,933 |
 | Aviator | 5.00% | ~2,809 |
 | My Little Friend | 5.00% | ~2,809 |
 | One With The Board | 5.00% | ~2,809 |
-| Voyager | 4.00% | ~2,247 |
+| Voyager | 4.00% | ~2,248 |
 | Junkie | 3.00% | ~1,686 |
 | Traveler | 3.00% | ~1,686 |
 | Unlock Paz | 3.00% | ~1,686 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~562 |
 | Vandal | 1.00% | ~562 |
 | Unlock Felipe | 0.90% | ~506 |
-| Adventurer | 0.80% | ~449 |
+| Adventurer | 0.80% | ~450 |
 | Unlock Tupa | 0.50% | ~281 |
 | Master Of The Sands | 0.30% | ~169 |
 | Master | 0.20% | ~112 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~56 |
 | Windswept | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,184 (Ranked 124)  
+Progressed: 56,188 (Ranked 124)  
 Completed: 5 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,6 +327,7 @@ Completed: 5 (0.01%) (Ranked 387)
 | 2024-01-23 | 55,984 | 5 |
 | 2024-01-24 | 56,069 | 5 |
 | 2024-01-25 | 56,184 | 5 |
+| 2024-01-26 | 56,188 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 457)  
 Sum: 424 (Ranked 356)  

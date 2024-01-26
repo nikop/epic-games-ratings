@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 387,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5679,9 +5679,9 @@
       "Count": 690
     }
   ],
-  "EOS_Progressed": 24229,
+  "EOS_Progressed": 24230,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17989,6 +17989,11 @@
       "Time": "2024-01-25T23:09:21.6360197+00:00",
       "NumProgressed": 24229,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T00:09:31.409099+00:00",
+      "NumProgressed": 24230,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -18017,7 +18022,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10903
+      "UsersEstimate": 10904
     },
     {
       "ID": "ach04",
@@ -18025,7 +18030,7 @@
       "Name": "What Just Happened??",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "ach05",
@@ -18049,7 +18054,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11145
+      "UsersEstimate": 11146
     },
     {
       "ID": "ach08",
@@ -18057,7 +18062,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "ach09",
@@ -18137,7 +18142,7 @@
       "Name": "Adventure Time",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7026
+      "UsersEstimate": 7027
     },
     {
       "ID": "ach19",
@@ -18185,7 +18190,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7026
+      "UsersEstimate": 7027
     },
     {
       "ID": "ach25",
@@ -18209,7 +18214,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6057
+      "UsersEstimate": 6058
     },
     {
       "ID": "ach28",
@@ -18217,7 +18222,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6057
+      "UsersEstimate": 6058
     },
     {
       "ID": "ach29",
@@ -18257,7 +18262,7 @@
       "Name": "Vanquished",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ach34",
@@ -18265,7 +18270,7 @@
       "Name": "Always Accessorize",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6057
+      "UsersEstimate": 6058
     },
     {
       "ID": "ach35",
@@ -18329,7 +18334,7 @@
       "Name": "Quest Master",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "ach43",
@@ -18385,7 +18390,7 @@
       "Name": "Thank You For Being A Fan!!!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ach50",
@@ -18400,7 +18405,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24229,
+      "Progressed": 24230,
       "Completed": 2
     }
   ],
@@ -18408,8 +18413,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-25T23:03:02.6848015+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:09:21.6360193+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:09:31.4090985+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:03:02.684802+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:09:21.6360968+00:00"
+  "LastUpdate_Ratings": "2024-01-26T00:03:07.7338451+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:09:31.4092916+00:00"
 }

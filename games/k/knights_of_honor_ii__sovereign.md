@@ -5,33 +5,33 @@ Rating: 4.35 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bring it on! | 16.00% | ~29 |
-| Hail to the King, Baby | 16.00% | ~29 |
-| Can’t Touch This | 15.00% | ~27 |
-| Help! Help! I’m being repressed | 14.00% | ~26 |
+| Bring it on! | 16.00% | ~30 |
+| Can’t Touch This | 16.00% | ~30 |
+| Hail to the King, Baby | 16.00% | ~30 |
+| Help! Help! I’m being repressed | 15.00% | ~28 |
 | Path of Glory | 10.00% | ~18 |
-| There is no Nobility in Poverty | 9.00% | ~16 |
+| There is no Nobility in Poverty | 9.00% | ~17 |
 | Full House | 8.00% | ~15 |
 | The finest merchandise this side of river Jordan | 8.00% | ~15 |
-| They Got What They Deserved | 7.00% | ~13 |
+| They Got What They Deserved | 8.00% | ~15 |
 | Dinner Time | 5.00% | ~9 |
 | Playerxander the Great | 5.00% | ~9 |
+| What we’ve got here is failure to communicate | 5.00% | ~9 |
+| All the King's Men | 4.00% | ~7 |
 | Big Apple | 4.00% | ~7 |
 | Do you read Sutter Cane? | 4.00% | ~7 |
 | His name is King | 4.00% | ~7 |
-| What we’ve got here is failure to communicate | 4.00% | ~7 |
-| All the King's Men | 3.00% | ~5 |
-| Black Sheep Wall | 3.00% | ~5 |
-| Call the Boys | 3.00% | ~5 |
-| Cut-Me-Own-Throat | 3.00% | ~5 |
-| Desperate Times Call for Desperate Measures | 3.00% | ~5 |
-| Fight Another Day | 3.00% | ~5 |
-| Kingslayer | 3.00% | ~5 |
-| Learn Me a Book | 3.00% | ~5 |
-| On the third day at dawn, look east | 3.00% | ~5 |
-| Pillars of the Earth | 3.00% | ~5 |
-| Scientia potentia es | 3.00% | ~5 |
-| ‘Tis but a scratch | 3.00% | ~5 |
+| Learn Me a Book | 4.00% | ~7 |
+| Black Sheep Wall | 3.00% | ~6 |
+| Call the Boys | 3.00% | ~6 |
+| Cut-Me-Own-Throat | 3.00% | ~6 |
+| Desperate Times Call for Desperate Measures | 3.00% | ~6 |
+| Fight Another Day | 3.00% | ~6 |
+| Kingslayer | 3.00% | ~6 |
+| On the third day at dawn, look east | 3.00% | ~6 |
+| Pillars of the Earth | 3.00% | ~6 |
+| Scientia potentia es | 3.00% | ~6 |
+| ‘Tis but a scratch | 3.00% | ~6 |
 | A Quiet Palace | 2.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~4 |
 | Blinded by Science | 2.00% | ~4 |
@@ -51,6 +51,7 @@ Rating: 4.35 (Ranked 837)
 | Greed is Good | 1.00% | ~2 |
 | His All-Holiness | 1.00% | ~2 |
 | Let us trade with these fine people | 1.00% | ~2 |
+| Lord of the Kings | 1.00% | ~2 |
 | New Mineland | 1.00% | ~2 |
 | Prince Ali! Fabulous he! | 1.00% | ~2 |
 | Spartacus | 1.00% | ~2 |
@@ -59,7 +60,6 @@ Rating: 4.35 (Ranked 837)
 | You reap what you sow | 1.00% | ~2 |
 | Blessed Be His Name | 0.50% | ~1 |
 | Crusade Invoker, no Regret | 0.50% | ~1 |
-| Lord of the Kings | 0.50% | ~1 |
 | Together We Stand | 0.50% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
@@ -106,7 +106,7 @@ Rating: 4.35 (Ranked 837)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 448)  
+Progressed: 185 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
+| 2024-01-26 | 185 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

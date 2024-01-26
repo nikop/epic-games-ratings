@@ -30,7 +30,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.50% | ~5,294 |
 | True Warrior | 0.50% | ~5,294 |
 | Two Heads, One Bullet | 0.40% | ~4,235 |
-| Spin Doctor | 0.40% | ~749 |
+| Spin Doctor | 0.40% | ~750 |
 | To Bad Decisions! | 0.30% | ~3,176 |
 | The Wandering Fool | 0.30% | ~3,176 |
 | The Sun | 0.30% | ~3,176 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,751 (Ranked 17)  
+Progressed: 1,058,760 (Ranked 17)  
 Completed: 3,163 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,6 +355,7 @@ Completed: 3,163 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
+| 2024-01-26 | 1,058,760 | 3,163 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
 Sum: 520,256 (Ranked 8)  

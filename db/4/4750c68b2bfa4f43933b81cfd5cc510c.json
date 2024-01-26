@@ -4053,9 +4053,9 @@
       "Count": 1656
     }
   ],
-  "EOS_Progressed": 407708,
+  "EOS_Progressed": 407709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7194,
+  "EOS_NewPlayers": 7145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18843,6 +18843,11 @@
       "Time": "2024-01-25T23:09:20.6253759+00:00",
       "NumProgressed": 407708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T00:09:30.4207705+00:00",
+      "NumProgressed": 407709,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -18919,7 +18924,7 @@
       "Name": "One Moment Please!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 122312
+      "UsersEstimate": 122313
     },
     {
       "ID": "achievement_18",
@@ -18927,7 +18932,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 163083
+      "UsersEstimate": 163084
     },
     {
       "ID": "achievement_19",
@@ -18935,7 +18940,7 @@
       "Name": "Seasoned Veteran",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24462
+      "UsersEstimate": 24463
     },
     {
       "ID": "achievement_2",
@@ -18943,7 +18948,7 @@
       "Name": "Teamwork works",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 24462
+      "UsersEstimate": 24463
     },
     {
       "ID": "achievement_20",
@@ -18975,7 +18980,7 @@
       "Name": "Graduation Day",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 73387
+      "UsersEstimate": 73388
     },
     {
       "ID": "achievement_24",
@@ -19079,7 +19084,7 @@
       "Name": "Golden Generation",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 69310
+      "UsersEstimate": 69311
     },
     {
       "ID": "achievement_36",
@@ -19143,7 +19148,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 175314
+      "UsersEstimate": 175315
     },
     {
       "ID": "achievement_7",
@@ -19174,7 +19179,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 407708,
+      "Progressed": 407709,
       "Completed": 0
     }
   ],
@@ -19182,8 +19187,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2024-01-25T22:00:24.9459793+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:09:20.6253755+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:09:30.42077+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:09.6164584+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:02:40.815814+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:09:20.6254556+00:00"
+  "LastUpdate_Ratings": "2024-01-26T00:02:45.3212338+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:09:30.4209923+00:00"
 }

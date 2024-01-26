@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 100,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6,
   "EosHistory": [
@@ -478,9 +478,9 @@
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MONEY_1K",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:04:40.1700362+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:04:48.6488949+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:58:16.1692039+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:04:40.17005+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:58:09.2945085+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:04:48.6489253+00:00"
 }

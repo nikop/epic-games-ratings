@@ -1929,9 +1929,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90456,
+  "EOS_Progressed": 90462,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 1736,
+  "EOS_NewPlayers": 1722,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18194,6 +18194,11 @@
       "Time": "2024-01-25T23:03:30.1334704+00:00",
       "NumProgressed": 90456,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-26T00:03:37.2550205+00:00",
+      "NumProgressed": 90462,
+      "NumCompleted": 78
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18206,7 +18211,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42514
+      "UsersEstimate": 42517
     },
     {
       "ID": "10",
@@ -18246,7 +18251,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 7236
+      "UsersEstimate": 7237
     },
     {
       "ID": "15",
@@ -18270,7 +18275,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18996
+      "UsersEstimate": 18997
     },
     {
       "ID": "3",
@@ -18278,7 +18283,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12664
+      "UsersEstimate": 12665
     },
     {
       "ID": "4",
@@ -18286,7 +18291,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8141
+      "UsersEstimate": 8142
     },
     {
       "ID": "5",
@@ -18302,7 +18307,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "7",
@@ -18310,7 +18315,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24423
+      "UsersEstimate": 24425
     },
     {
       "ID": "8",
@@ -18333,7 +18338,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90456,
+      "Progressed": 90462,
       "Completed": 78
     }
   ],
@@ -18341,8 +18346,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-25T13:06:04.9842638+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:03:30.13347+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:03:37.2550199+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:59:16.6074113+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:03:30.1335654+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:59:11.539015+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:03:37.2552148+00:00"
 }

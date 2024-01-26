@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,7 +305,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 577,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -2340,6 +2340,11 @@
       "Time": "2024-01-25T22:04:53.1546481+00:00",
       "NumProgressed": 576,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T00:05:07.1155809+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2352,7 +2357,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2360,7 +2365,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -2392,7 +2397,7 @@
       "Name": "Yettisoned",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2416,7 +2421,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2438,9 +2443,9 @@
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -2504,15 +2509,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2536,7 +2541,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -2552,7 +2557,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2600,7 +2605,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2656,30 +2661,30 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
       "SetID": "cefn62b",
       "Name": "Trans-Siberian Express",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 577,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:04:58.4869326+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:05:07.1155805+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:24.5329483+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:59:34.1320673+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:04:58.4869648+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:59:29.3295848+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:05:07.1156526+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2695,7 +2695,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 19850,
+  "EOS_Progressed": 19851,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 2,
@@ -21500,6 +21500,11 @@
       "Time": "2024-01-25T23:10:25.2264138+00:00",
       "NumProgressed": 19850,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2024-01-26T00:10:36.3880901+00:00",
+      "NumProgressed": 19851,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 35,
@@ -21535,7 +21540,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH05",
@@ -21623,7 +21628,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH16",
@@ -21655,7 +21660,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH20",
@@ -21671,7 +21676,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH22",
@@ -21695,7 +21700,7 @@
       "Name": "Not a Player",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH25",
@@ -21751,7 +21756,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH32",
@@ -21790,7 +21795,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19850,
+      "Progressed": 19851,
       "Completed": 83
     }
   ],
@@ -21798,8 +21803,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-25T20:59:22.7953416+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:10:25.2264136+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:10:36.3880893+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:59:10.5842739+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:10:25.2265427+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:59:04.7724895+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:10:36.3883531+00:00"
 }

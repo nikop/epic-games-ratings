@@ -633,9 +633,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 17695,
+  "EOS_Progressed": 17694,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": -45,
+  "EOS_NewPlayers": -46,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12643,6 +12643,11 @@
       "Time": "2024-01-25T23:09:25.440208+00:00",
       "NumProgressed": 17695,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-26T00:09:35.4444058+00:00",
+      "NumProgressed": 17694,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 37,
@@ -12662,7 +12667,7 @@
       "Name": "Helper of the People",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 7609
+      "UsersEstimate": 7608
     },
     {
       "ID": "ach.030.deertastic",
@@ -12694,7 +12699,7 @@
       "Name": "Going the Distance",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 10617
+      "UsersEstimate": 10616
     },
     {
       "ID": "ach.070.8kenough",
@@ -12710,7 +12715,7 @@
       "Name": "Eraser",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 13625
+      "UsersEstimate": 13624
     },
     {
       "ID": "ach.090.perfectionist",
@@ -12718,7 +12723,7 @@
       "Name": "Perfectionist",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4601
+      "UsersEstimate": 4600
     },
     {
       "ID": "ach.100.indecisive",
@@ -12750,7 +12755,7 @@
       "Name": "Minimalist",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 17518
+      "UsersEstimate": 17517
     },
     {
       "ID": "ach.140.legacy",
@@ -12758,7 +12763,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 108,
       "XP": 60,
-      "UsersEstimate": 19111
+      "UsersEstimate": 19110
     },
     {
       "ID": "ach.150.pocket",
@@ -12790,7 +12795,7 @@
       "Name": "Inspector",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 11502
+      "UsersEstimate": 11501
     },
     {
       "ID": "ach.190.scenic",
@@ -12814,7 +12819,7 @@
       "Name": "Oil Baron",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8316
     },
     {
       "ID": "ach.220.hot",
@@ -12838,7 +12843,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8316
     },
     {
       "ID": "ach.250.downfall",
@@ -12846,7 +12851,7 @@
       "Name": "Before the Downfall",
       "Percentage": 103,
       "XP": 60,
-      "UsersEstimate": 18226
+      "UsersEstimate": 18225
     },
     {
       "ID": "ach.260.investor",
@@ -12902,7 +12907,7 @@
       "Name": "Industrialist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4954
     },
     {
       "ID": "ach.330.water",
@@ -12910,7 +12915,7 @@
       "Name": "Money like Water",
       "Percentage": 101,
       "XP": 10,
-      "UsersEstimate": 17872
+      "UsersEstimate": 17871
     },
     {
       "ID": "ach.340.steel",
@@ -12949,7 +12954,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 17695,
+      "Progressed": 17694,
       "Completed": 22
     }
   ],
@@ -12957,8 +12962,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2024-01-07T17:58:05.1810592+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:09:25.4402076+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:09:35.4444053+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.543023+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:00:27.1090296+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:09:25.4402708+00:00"
+  "LastUpdate_Ratings": "2024-01-26T00:02:42.928321+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:09:35.4446742+00:00"
 }

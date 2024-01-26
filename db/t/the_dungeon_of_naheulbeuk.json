@@ -1833,9 +1833,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249500,
+  "EOS_Progressed": 249505,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27563,6 +27563,11 @@
       "Time": "2024-01-25T23:10:33.408489+00:00",
       "NumProgressed": 249500,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-26T00:10:44.5853235+00:00",
+      "NumProgressed": 249505,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27590,7 +27595,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "BarbarianEpic",
@@ -28022,7 +28027,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92315
+      "UsersEstimate": 92317
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -28054,7 +28059,7 @@
       "Name": "100% satisfaction guarantee",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "EndGameNoDeath",
@@ -28062,7 +28067,7 @@
       "Name": "Death is for wimps",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "FastKill",
@@ -28070,7 +28075,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27445
+      "UsersEstimate": 27446
     },
     {
       "ID": "FollowBraztok",
@@ -28142,7 +28147,7 @@
       "Name": "Law and Order",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "Poster",
@@ -28277,21 +28282,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249500,
+      "Progressed": 249505,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249500,
+      "Progressed": 249505,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-25T01:53:33.3656171+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:10:33.4084888+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:10:44.5853232+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:57:29.5837819+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:10:33.4086419+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:57:21.0650251+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:10:44.5857081+00:00"
 }

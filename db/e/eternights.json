@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3547,6 +3547,11 @@
       "Time": "2024-01-25T22:09:31.0953741+00:00",
       "NumProgressed": 938,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T00:09:51.5464985+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3559,7 +3564,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3591,7 +3596,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3623,7 +3628,7 @@
       "Name": "Find myself",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3671,7 +3676,7 @@
       "Name": "Truebro",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -3679,7 +3684,7 @@
       "Name": "TentacleMAN",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -3703,7 +3708,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3719,7 +3724,7 @@
       "Name": "First wall",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3743,7 +3748,7 @@
       "Name": "Stone Retriever",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3758,7 +3763,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 2
     }
   ],
@@ -3766,8 +3771,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:09:41.6655695+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:09:51.5464981+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:57:57.5060892+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:09:41.6656063+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:57:49.9469394+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:09:51.5465332+00:00"
 }

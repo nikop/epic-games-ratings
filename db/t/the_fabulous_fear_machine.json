@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -550,17 +550,17 @@
       "ID": "16",
       "SetID": "d37idgg",
       "Name": "Bread and bocaua",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "17",
       "SetID": "d37idgg",
       "Name": "Fanatacism is... poisonous",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "18",
@@ -574,9 +574,9 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "2",
@@ -630,9 +630,9 @@
       "ID": "25",
       "SetID": "d37idgg",
       "Name": "The scholar",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "26",
@@ -774,9 +774,9 @@
       "ID": "41",
       "SetID": "d37idgg",
       "Name": "Thirst for Oleum",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "42",
@@ -822,9 +822,9 @@
       "ID": "47",
       "SetID": "d37idgg",
       "Name": "A new Hindenburg",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "5",
@@ -877,8 +877,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-25T22:06:13.9610181+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:03:35.1131865+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.9721736+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:00:18.0303158+00:00",
-  "LastUpdate_Achievements": "2024-01-25T22:06:13.9610458+00:00"
+  "LastUpdate_Ratings": "2024-01-26T00:00:13.3534062+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:03:35.1134146+00:00"
 }

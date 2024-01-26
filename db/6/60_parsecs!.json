@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1676,
+  "EOS_Progressed": 1677,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2196,6 +2196,11 @@
       "Time": "2024-01-25T22:09:01.5651311+00:00",
       "NumProgressed": 1676,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T00:09:22.2376404+00:00",
+      "NumProgressed": 1677,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -2215,7 +2220,7 @@
       "Name": "Across The Stars",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -2279,7 +2284,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "Achievement_DustToDust",
@@ -2383,7 +2388,7 @@
       "Name": "Hello World",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "Achievement_Improvinator",
@@ -2405,9 +2410,9 @@
       "ID": "Achievement_KIA",
       "SetID": "c01p6e5",
       "Name": "KIA",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 436
     },
     {
       "ID": "Achievement_LastSupper",
@@ -2495,7 +2500,7 @@
       "Name": "Space Colonization",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -2558,7 +2563,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 1676,
+      "Progressed": 1677,
       "Completed": 1
     }
   ],
@@ -2566,8 +2571,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:09:12.7993411+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:09:22.2376399+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:01.9198203+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:57:36.3011762+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:09:12.7993849+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:57:27.7924117+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:09:22.2376986+00:00"
 }

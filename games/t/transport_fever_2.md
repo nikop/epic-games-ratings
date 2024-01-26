@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,520 (Ranked 244)  
-Completed: 1 (0.04%) (Ranked 362)  
+Completed: 1 (0.04%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

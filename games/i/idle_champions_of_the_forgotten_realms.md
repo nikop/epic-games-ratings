@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.90% | ~2,301 |
 | Pure Energy | 0.80% | ~2,045 |
 | Welcome to Sigil | 0.80% | ~1,775 |
-| A Persistent Buzzing | 0.70% | ~1,789 |
+| A Persistent Buzzing | 0.70% | ~1,790 |
 | Fast Food | 0.70% | ~1,553 |
 | Maddening | 0.60% | ~1,534 |
 | Terror in the Dark | 0.60% | ~1,534 |
@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.20% | ~511 |
 | Tomb of the Nine Gods | 0.20% | ~511 |
 | The Mists of Ravenloft | 0.20% | ~511 |
+| The Hunt for Owl-y | 0.20% | ~511 |
 | Family Entanglements | 0.20% | ~511 |
 | Chatty Nobles | 0.20% | ~511 |
 | Modron Assistance | 0.20% | ~511 |
@@ -121,6 +122,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.20% | ~511 |
 | Hopelessly Lost | 0.20% | ~511 |
 | Enter the Sargauth | 0.20% | ~511 |
+| Slow and Steady | 0.20% | ~511 |
 | Lair of the Xanathar | 0.20% | ~511 |
 | Waterdeep Under Siege | 0.20% | ~511 |
 | Crowded Streets | 0.20% | ~511 |
@@ -281,7 +283,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~256 |
 | Azaka's Procession - Part 2 | 0.10% | ~256 |
 | Acererak's Puzzle | 0.10% | ~222 |
-| The Hunt for Owl-y | 0.10% | ~256 |
 | Werewolves in the Mist | 0.10% | ~256 |
 | We're not in Faerûn Anymore | 0.10% | ~256 |
 | Haunted Fortunes | 0.10% | ~256 |
@@ -341,7 +342,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~256 |
 | A Tale of Two Champions | 0.10% | ~256 |
 | A Tale of Two Years | 0.10% | ~222 |
-| Slow and Steady | 0.10% | ~256 |
 | A Hero's Entourage | 0.10% | ~256 |
 | Sneak Attack | 0.10% | ~222 |
 | Dreams of Beholders | 0.10% | ~256 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,638 (Ranked 71)  
+Progressed: 255,646 (Ranked 71)  
 Completed: 2,648 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -834,6 +834,7 @@ Completed: 2,648 (1.04%) (Ranked 180)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
+| 2024-01-26 | 255,646 | 2,648 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,643 (Ranked 42)  

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253833,
+  "EOS_Progressed": 253834,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25002,6 +25002,11 @@
       "Time": "2024-01-25T23:10:20.7538544+00:00",
       "NumProgressed": 253833,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T00:10:31.6876182+00:00",
+      "NumProgressed": 253834,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -25189,7 +25194,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134531
+      "UsersEstimate": 134532
     },
     {
       "ID": "indegestible",
@@ -25253,7 +25258,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126916
+      "UsersEstimate": 126917
     },
     {
       "ID": "notScared",
@@ -25277,7 +25282,7 @@
       "Name": "Please The King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "readyFight",
@@ -25380,7 +25385,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253833,
+      "Progressed": 253834,
       "Completed": 6
     }
   ],
@@ -25388,8 +25393,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-25T23:10:20.7538541+00:00",
+  "LastChanged_Achievements": "2024-01-26T00:10:31.687618+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-25T22:58:44.0574384+00:00",
-  "LastUpdate_Achievements": "2024-01-25T23:10:20.754007+00:00"
+  "LastUpdate_Ratings": "2024-01-25T23:58:37.2881139+00:00",
+  "LastUpdate_Achievements": "2024-01-26T00:10:31.6879189+00:00"
 }
