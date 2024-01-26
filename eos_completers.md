@@ -42,7 +42,7 @@
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.04% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.75% |
+| 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.72% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.30% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
@@ -106,11 +106,11 @@
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.43% |
 | 106 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
-| 107 | [Yars: Recharged](games/y/yars__recharged.md) | 3.33% |
-| 108 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
-| 109 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
-| 110 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
-| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.11% |
+| 107 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
+| 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
+| 109 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
+| 110 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.11% |
+| 111 | [Yars: Recharged](games/y/yars__recharged.md) | 3.07% |
 | 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
 | 114 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -273,9 +273,9 @@
 | 271 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 271 | [Darksiders III](games/d/darksiders_iii.md) | 0.28% |
 | 271 | [GRIME](games/g/grime.md) | 0.28% |
-| 271 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.28% |
-| 275 | [Filament](games/f/filament.md) | 0.27% |
-| 275 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
+| 274 | [Filament](games/f/filament.md) | 0.27% |
+| 274 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.27% |
+| 274 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
 | 277 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 278 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 278 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |
