@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253834,
+  "EOS_Progressed": 253835,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25007,6 +25007,11 @@
       "Time": "2024-01-26T00:10:31.6876182+00:00",
       "NumProgressed": 253834,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T01:53:09.8129362+00:00",
+      "NumProgressed": 253835,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -25194,7 +25199,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134532
+      "UsersEstimate": 134533
     },
     {
       "ID": "indegestible",
@@ -25258,7 +25263,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126917
+      "UsersEstimate": 126918
     },
     {
       "ID": "notScared",
@@ -25338,7 +25343,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32998
+      "UsersEstimate": 32999
     },
     {
       "ID": "treeMedalist",
@@ -25378,14 +25383,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40613
+      "UsersEstimate": 40614
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253834,
+      "Progressed": 253835,
       "Completed": 6
     }
   ],
@@ -25393,8 +25398,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:10:31.687618+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:53:09.8129358+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:58:37.2881139+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:10:31.6879189+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:41:27.1172867+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:53:09.813064+00:00"
 }

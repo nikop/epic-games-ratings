@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 10.00% | ~2,101 |
-| Abandoned Settlement | 10.00% | ~2,101 |
-| Overgrown Library | 10.00% | ~2,101 |
+| Taking Action | 10.00% | ~2,102 |
+| Abandoned Settlement | 10.00% | ~2,102 |
+| Overgrown Library | 10.00% | ~2,102 |
 | First Real Expedition | 9.00% | ~1,891 |
 | No Deaths | 9.00% | ~1,891 |
 | Petrified Necropolis | 9.00% | ~1,891 |
@@ -26,15 +26,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 5.00% | ~1,051 |
 | Watchtower | 5.00% | ~1,051 |
 | A Real Challenge | 5.00% | ~1,051 |
-| Ruined Armory | 4.00% | ~840 |
-| Ancient Battleground | 4.00% | ~840 |
-| Levitating Monument | 4.00% | ~840 |
-| Lost Colonies | 4.00% | ~840 |
-| Statue of the Forefathers | 4.00% | ~840 |
-| Corrosive Torrent | 4.00% | ~840 |
-| Cursed Lands | 4.00% | ~840 |
-| Trade Baron | 4.00% | ~840 |
-| Untamed Wilds | 4.00% | ~840 |
+| Ruined Armory | 4.00% | ~841 |
+| Ancient Battleground | 4.00% | ~841 |
+| Levitating Monument | 4.00% | ~841 |
+| Lost Colonies | 4.00% | ~841 |
+| Statue of the Forefathers | 4.00% | ~841 |
+| Corrosive Torrent | 4.00% | ~841 |
+| Cursed Lands | 4.00% | ~841 |
+| Trade Baron | 4.00% | ~841 |
+| Untamed Wilds | 4.00% | ~841 |
 | Against All Odds | 3.00% | ~630 |
 | Bandit Camp | 3.00% | ~630 |
 | Barren Lands | 3.00% | ~630 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,012 (Ranked 157)  
+Progressed: 21,015 (Ranked 157)  
 Completed: 36 (0.17%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,6 +347,7 @@ Completed: 36 (0.17%) (Ranked 297)
 | 2024-01-23 | 20,986 | 34 |
 | 2024-01-24 | 20,998 | 34 |
 | 2024-01-25 | 21,012 | 36 |
+| 2024-01-26 | 21,015 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 459  (Ranked 233)  
 Sum: 3,417 (Ranked 180)  

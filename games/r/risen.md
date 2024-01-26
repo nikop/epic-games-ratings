@@ -12,7 +12,7 @@ Rating: 4.60 (Ranked 432)
 | The brave little tailor | 43.00% | ~95 |
 | Archer | 43.00% | ~95 |
 | Field hand | 40.00% | ~88 |
-| Well-to-do | 34.00% | ~75 |
+| Well-to-do | 35.00% | ~77 |
 | The merciful one | 30.00% | ~66 |
 | Samaritan | 30.00% | ~66 |
 | Ladies' man | 30.00% | ~66 |
@@ -43,8 +43,8 @@ Rating: 4.60 (Ranked 432)
 | Expert | 8.00% | ~18 |
 | Terror of the hens | 7.00% | ~15 |
 | The traveler | 6.00% | ~13 |
+| Moneybags | 6.00% | ~13 |
 | King of the handymen | 6.00% | ~13 |
-| Moneybags | 5.00% | ~11 |
 | King Midas | 4.00% | ~9 |
 | Rune master | 3.00% | ~7 |
 | Fervent swimmer | 3.00% | ~7 |

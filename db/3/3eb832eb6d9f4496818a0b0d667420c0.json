@@ -445,9 +445,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 431351,
+  "EOS_Progressed": 431423,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6614,
+  "EOS_NewPlayers": 6591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4850,6 +4850,11 @@
       "Time": "2024-01-26T00:06:12.2880595+00:00",
       "NumProgressed": 431351,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T01:49:16.4856274+00:00",
+      "NumProgressed": 431423,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4870,7 +4875,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30195
+      "UsersEstimate": 30200
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4894,7 +4899,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99211
+      "UsersEstimate": 99227
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4918,7 +4923,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 112151
+      "UsersEstimate": 112170
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4926,7 +4931,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94897
+      "UsersEstimate": 94913
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4958,7 +4963,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17254
+      "UsersEstimate": 17257
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -5006,7 +5011,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -5022,7 +5027,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38822
+      "UsersEstimate": 38828
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -5030,7 +5035,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12941
+      "UsersEstimate": 12943
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -5038,7 +5043,7 @@
       "Name": "Performance Examination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -5054,7 +5059,7 @@
       "Name": "My Best Battle",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -5062,7 +5067,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12941
+      "UsersEstimate": 12943
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -5070,7 +5075,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34508
+      "UsersEstimate": 34514
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -5078,7 +5083,7 @@
       "Name": "A Raging Madness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -5086,7 +5091,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12941
+      "UsersEstimate": 12943
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -5094,7 +5099,7 @@
       "Name": "To Greater Heights",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "ACHIEVEMENT_031",
@@ -5102,7 +5107,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -5110,7 +5115,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -5126,7 +5131,7 @@
       "Name": "No Regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -5142,7 +5147,7 @@
       "Name": "Looking for Friends",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ACHIEVEMENT_037",
@@ -5150,7 +5155,7 @@
       "Name": "Unrelenting Spear",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "ACHIEVEMENT_038",
@@ -5158,7 +5163,7 @@
       "Name": "Storm Watch",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -5166,7 +5171,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12941
+      "UsersEstimate": 12943
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -5174,7 +5179,7 @@
       "Name": "Mercenary Business",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -5205,7 +5210,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 431351,
+      "Progressed": 431423,
       "Completed": 4
     }
   ],
@@ -5213,8 +5218,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-24T06:03:55.6643262+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:06:12.2880591+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:49:16.4856269+00:00",
   "LastUpdate_AppInfo": "2024-01-23T13:04:44.661281+00:00",
-  "LastUpdate_Ratings": "2024-01-26T00:03:17.7118663+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:06:12.2881594+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:46:01.1468127+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:49:16.4856913+00:00"
 }

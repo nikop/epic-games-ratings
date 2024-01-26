@@ -153,7 +153,7 @@
 | Trouble in Aberdonia | 0.00% | ~0 |
 | We need Space! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 708)  
+Progressed: 6 (Ranked 709)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -22,11 +22,11 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 1.00% | ~74 |
 | Social Butterfly | 1.00% | ~74 |
 | The Muse: Madison | 1.00% | ~74 |
+| Smooth Operator: Ashley | 0.90% | ~67 |
 | The Crush | 0.90% | ~67 |
 | Casanova | 0.80% | ~59 |
 | Deck the Balls | 0.80% | ~36 |
 | It Smells Like Roses | 0.80% | ~36 |
-| Smooth Operator: Ashley | 0.80% | ~59 |
 | Stephanie | 0.80% | ~59 |
 | The Magic Number | 0.80% | ~59 |
 | Vickie | 0.80% | ~59 |

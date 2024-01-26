@@ -12,7 +12,7 @@ Rating: 4.43 (Ranked 733)
 | Wolf King Killer | 55.00% | ~422 |
 | Fashion Connoisseur | 52.00% | ~399 |
 | Arms Mechanic | 49.00% | ~376 |
-| Flower Thief | 44.00% | ~338 |
+| Flower Thief | 45.00% | ~346 |
 | Apostle of Flame | 40.00% | ~307 |
 | Beginner Artificer | 38.00% | ~292 |
 | Beginner Cook | 37.00% | ~284 |
@@ -30,7 +30,7 @@ Rating: 4.43 (Ranked 733)
 | Squeaky Clean | 17.00% | ~131 |
 | Master Artificer | 17.00% | ~131 |
 | Kind Adventurer | 16.00% | ~123 |
-| Mermaid Killer | 15.00% | ~115 |
+| Mermaid Killer | 16.00% | ~123 |
 | Cave Master | 15.00% | ~115 |
 | Face Slapper | 15.00% | ~115 |
 | Berserker Slayer | 12.00% | ~92 |

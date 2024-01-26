@@ -385,7 +385,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1282,
+  "EOS_Progressed": 1283,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -3405,6 +3405,11 @@
       "Time": "2024-01-25T23:09:27.9051166+00:00",
       "NumProgressed": 1282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T01:52:10.1255485+00:00",
+      "NumProgressed": 1283,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3417,7 +3422,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "CareerAllChallenges",
@@ -3425,7 +3430,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "CareerChamp1",
@@ -3433,7 +3438,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "CareerChamp2",
@@ -3473,7 +3478,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "CollectVehiclesA",
@@ -3481,7 +3486,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "CollectVehiclesB",
@@ -3576,7 +3581,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1282,
+      "Progressed": 1283,
       "Completed": 0
     }
   ],
@@ -3584,8 +3589,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-25T13:58:32.8923112+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:09:37.7258868+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:52:10.1255479+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:58:09.0509917+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:09:37.7259277+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:40:55.3022722+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:52:10.125581+00:00"
 }

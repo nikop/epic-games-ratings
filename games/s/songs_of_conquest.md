@@ -23,12 +23,12 @@ Number of Ratings: 292  (23.09.2022)
 | Trojan Horse | 5.00% | ~66 |
 | Expert Essence Employment | 4.00% | ~53 |
 | This Spot's Taken | 3.00% | ~39 |
+| Deepstrike | 2.00% | ~26 |
 | Infernal Influence | 2.00% | ~26 |
 | From the Ashes | 2.00% | ~26 |
 | Ultra Kill | 2.00% | ~26 |
 | Pyrrhic Victory | 2.00% | ~26 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~26 |
-| Deepstrike | 1.00% | ~13 |
 | In The Thick of It | 1.00% | ~13 |
 | Such A Fungi | 1.00% | ~13 |
 | Grand Master | 1.00% | ~13 |

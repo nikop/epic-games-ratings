@@ -420,9 +420,9 @@
       "ID": "_07",
       "SetID": "670ak8f",
       "Name": "Mastermind",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_08",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:09:39.9099629+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:52:12.741393+00:00",
   "LastUpdate_AppInfo": "2024-01-24T03:57:23.9368864+00:00",
-  "LastUpdate_Ratings": "2024-01-26T00:02:54.0163827+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:09:39.9099759+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:45:34.3905095+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:52:12.7414046+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 663,
   "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 475,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -2767,9 +2767,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 401
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -3167,9 +3167,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 485
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -3231,8 +3231,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-24T13:04:26.9223833+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:05:56.3888571+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:48:58.929776+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:58:43.6440017+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:05:56.3889684+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:41:34.0272866+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:48:58.9298344+00:00"
 }

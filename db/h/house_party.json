@@ -9609,9 +9609,9 @@
       "ID": "SO_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Ashley",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 67
     },
     {
       "ID": "SO_Madison",
@@ -9815,8 +9815,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2024-01-17T20:58:21.7127925+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:09:51.6529471+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:52:26.2294412+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:04.9311422+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:58:58.2927956+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:09:51.6531285+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:41:50.2649178+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:52:26.2295399+00:00"
 }

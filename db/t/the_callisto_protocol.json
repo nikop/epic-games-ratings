@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22746,
+  "EOS_Progressed": 22748,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14966,6 +14966,11 @@
       "Time": "2024-01-25T23:10:14.5922894+00:00",
       "NumProgressed": 22746,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-26T01:53:03.1610912+00:00",
+      "NumProgressed": 22748,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15081,7 +15086,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5459
+      "UsersEstimate": 5460
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -15105,7 +15110,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5004
+      "UsersEstimate": 5005
     },
     {
       "ID": "KILL_ROBOT",
@@ -15121,7 +15126,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4095
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -15153,7 +15158,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15185,7 +15190,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "STORY_HANGAR",
@@ -15193,7 +15198,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "STORY_MINETOWN",
@@ -15209,7 +15214,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15217,7 +15222,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "STORY_TOWER",
@@ -15352,13 +15357,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22746,
+      "Progressed": 22748,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10672,
+      "Progressed": 10674,
       "Completed": 29
     }
   ],
@@ -15366,8 +15371,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:10:25.4165378+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:53:03.1610907+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T00:03:28.8372058+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:10:25.4167443+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:46:14.1713918+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:53:03.1611842+00:00"
 }

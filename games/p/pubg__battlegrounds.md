@@ -5,11 +5,11 @@ Rating: 3.99 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~650,254 |
-| Health Junkie | 38.00% | ~348,023 |
-| You Complete Me | 37.00% | ~338,864 |
-| Guardian Angel | 32.00% | ~293,072 |
-| Devil Inside Me | 25.00% | ~228,962 |
+| Blood on My Hands | 71.00% | ~650,255 |
+| Health Junkie | 38.00% | ~348,024 |
+| You Complete Me | 37.00% | ~338,865 |
+| Guardian Angel | 32.00% | ~293,073 |
+| Devil Inside Me | 25.00% | ~228,963 |
 | Fantastic Four | 19.00% | ~174,012 |
 | Killing Spree | 18.00% | ~164,853 |
 | Marksman Novice | 16.00% | ~146,536 |
@@ -19,8 +19,8 @@ Rating: 3.99 (Ranked 1,063)
 | Marksman Expert | 8.00% | ~73,268 |
 | CQB Novice | 7.00% | ~64,110 |
 | Collateral Damage | 6.00% | ~54,951 |
-| Airborne | 5.00% | ~45,792 |
-| Pacifist | 5.00% | ~45,792 |
+| Airborne | 5.00% | ~45,793 |
+| Pacifist | 5.00% | ~45,793 |
 | Last Survivor | 4.00% | ~36,634 |
 | Marksman Master | 4.00% | ~36,634 |
 | First Come, First Served | 4.00% | ~36,634 |
@@ -32,9 +32,9 @@ Rating: 3.99 (Ranked 1,063)
 | Don't Pan Me Bro! | 2.00% | ~18,317 |
 | Fast and Furious | 2.00% | ~18,317 |
 | CQB Expert | 2.00% | ~18,317 |
-| Fury Road | 1.00% | ~9,158 |
-| Ghost | 1.00% | ~9,158 |
-| Cruising with the Enemy | 1.00% | ~9,158 |
+| Fury Road | 1.00% | ~9,159 |
+| Ghost | 1.00% | ~9,159 |
+| Cruising with the Enemy | 1.00% | ~9,159 |
 | Nade King Novice | 0.80% | ~7,327 |
 | Master Assassin | 0.80% | ~7,327 |
 | CQB Master | 0.50% | ~4,579 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 1,063)
 | Nade King Master | 0.10% | ~916 |
 | Shoot the Knee | 0.10% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,850 (Ranked 18)  
+Progressed: 915,852 (Ranked 18)  
 Completed: 18 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,6 +324,7 @@ Completed: 18 (0.00%) (Ranked 413)
 | 2024-01-23 | 911,382 | 18 |
 | 2024-01-24 | 913,875 | 18 |
 | 2024-01-25 | 915,850 | 18 |
+| 2024-01-26 | 915,852 | 18 |
 ## Awards
 Max (Competitive Players): 6,732  (Ranked 61)  
 Sum: 22,014 (Ranked 59)  

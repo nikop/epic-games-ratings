@@ -7,11 +7,11 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~541 |
-| First of many… | 68.00% | ~478 |
+| First of many… | 69.00% | ~485 |
 | Helping Hand | 65.00% | ~457 |
 | Increased Vigor | 61.00% | ~429 |
 | Fight Fire with Fire | 59.00% | ~415 |
-| Increased Capacity | 56.00% | ~394 |
+| Increased Capacity | 57.00% | ~401 |
 | Just the start | 50.00% | ~352 |
 | Perfect Storm | 46.00% | ~323 |
 | All That Glitters | 46.00% | ~323 |
@@ -116,8 +116,8 @@ Completed: 2 (0.28%) (Ranked 271)
 | 2024-01-26 | 703 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 382)  
-Sum: 101 (Ranked 475)  
-Diff (max vs sum): -93  
+Sum: 101 (Ranked 476)  
+Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 101 |

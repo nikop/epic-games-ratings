@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oracle | 28.00% | ~34 |
-| The Weapon | 28.00% | ~34 |
-| Apollo | 23.00% | ~28 |
-| Soliloquy | 18.00% | ~22 |
-| Dionysus | 12.00% | ~14 |
-| Analog Kid | 8.00% | ~10 |
-| 2112 | 5.00% | ~6 |
+| Oracle | 32.00% | ~44 |
+| The Weapon | 32.00% | ~44 |
+| Apollo | 27.00% | ~37 |
+| Soliloquy | 21.00% | ~29 |
+| Dionysus | 15.00% | ~20 |
+| Analog Kid | 8.00% | ~11 |
+| 2112 | 6.00% | ~8 |
+| A Farewell to Kings | 5.00% | ~7 |
 | Armageddon | 4.00% | ~5 |
-| A Farewell to Kings | 4.00% | ~5 |
+| Xanadu | 4.00% | ~5 |
 | Rush | 3.00% | ~4 |
-| Xanadu | 3.00% | ~4 |
-| Temple of Syrinx | 0.80% | ~1 |
+| Temple of Syrinx | 0.70% | ~1 |
 | Grand Finale | 0.00% | ~0 |
 | Hymn of Triumph | 0.00% | ~0 |
 | Subdivisions | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 492)  
-Completed: 5 (4.17%) (Ranked 92)  
+Progressed: 136 (Ranked 488)  
+Completed: 5 (3.68%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-15 | 1 | 0 |
 | 2024-01-20 | 2 | 0 |
 | 2024-01-25 | 108 | 5 |
-| 2024-01-26 | 120 | 5 |
+| 2024-01-26 | 136 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

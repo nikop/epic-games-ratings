@@ -2,10 +2,10 @@
   "ID": "22516e1b4eea447e8f027e34d3a05e87",
   "Name": "Knights of Honor II: Sovereign",
   "ProductSlug": "knights-of-honor-ii-sovereign",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 162,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[KR]"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-02-23T23:57:47.5434783+00:00",
@@ -247,15 +247,21 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-26T01:43:22.1316376+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -508,6 +514,11 @@
       "Time": "2024-01-26T00:05:01.5729003+00:00",
       "NumProgressed": 185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T01:47:57.919283+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -582,9 +593,9 @@
       "ID": "blinded_by_science",
       "SetID": "41moj9p",
       "Name": "Blinded by Science",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "blitz_krieg",
@@ -670,9 +681,9 @@
       "ID": "cut_me_own_throat",
       "SetID": "41moj9p",
       "Name": "Cut-Me-Own-Throat",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "desperate_times",
@@ -862,9 +873,9 @@
       "ID": "i_am_the_senate",
       "SetID": "41moj9p",
       "Name": "I am the senate",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "i_got_a_knight_in_paris",
@@ -950,9 +961,9 @@
       "ID": "let_us_pray",
       "SetID": "41moj9p",
       "Name": "Let Us Pray",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "let_us_trade",
@@ -1032,7 +1043,7 @@
       "Name": "Path of Glory",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1158,9 +1169,9 @@
       "ID": "the_merchant_of_venice",
       "SetID": "41moj9p",
       "Name": "The Merchant of Venice",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "the_new_world_order",
@@ -1319,16 +1330,16 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-12-07T15:57:38.7138742+00:00",
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
-  "LastChanged": "2024-01-24T00:00:00.2758871+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:05:01.5728998+00:00",
+  "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:47:57.9192826+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-26T00:02:42.7906653+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:05:01.5731103+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:43:22.1316386+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:47:57.9194083+00:00"
 }

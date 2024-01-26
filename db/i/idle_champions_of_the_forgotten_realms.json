@@ -9797,10 +9797,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33643,
       "NumberOfAwardsMax": 5816
+    },
+    {
+      "Time": "2024-01-26T01:42:27.3481216+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33644,
+      "NumberOfAwardsMax": 5816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33643,
+  "NumberOfAwards": 33644,
   "NumberOfAwardsMax": 5816,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9838,7 +9844,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4347
+      "Count": 4348
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9847,9 +9853,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255646,
+  "EOS_Progressed": 255656,
   "EOS_Completed": 2648,
-  "EOS_NewPlayers": 1048,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41702,6 +41708,11 @@
       "Time": "2024-01-26T00:10:48.8894005+00:00",
       "NumProgressed": 255646,
       "NumCompleted": 2648
+    },
+    {
+      "Time": "2024-01-26T01:53:28.0665365+00:00",
+      "NumProgressed": 255656,
+      "NumCompleted": 2648
     }
   ],
   "TotalAchievements": 546,
@@ -41713,7 +41724,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12782
+      "UsersEstimate": 12783
     },
     {
       "ID": "objective_completed_10",
@@ -43393,7 +43404,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "objective_completed_35",
@@ -43577,7 +43588,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "objective_completed_40",
@@ -44263,9 +44274,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 767
     },
     {
       "ID": "objective_completed_600",
@@ -46017,7 +46028,7 @@
       "Name": "Fast Food",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "objective_completed_1563",
@@ -46080,21 +46091,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221920,
+      "Progressed": 221930,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255646,
+      "Progressed": 255656,
       "Completed": 2648
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-25T21:59:30.3370048+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:10:48.8894001+00:00",
+  "LastChanged": "2024-01-26T01:42:27.3481206+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:53:28.0665361+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:59:31.8255387+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:10:48.8938467+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:42:27.3481221+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:53:28.0698992+00:00"
 }

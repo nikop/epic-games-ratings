@@ -563,9 +563,9 @@
       "ID": "ACH_LOST_BY_40",
       "SetID": "1lnhagg",
       "Name": "If Only I Had Known",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_MANAGERS_FAN",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:05:03.0604593+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:47:59.4209243+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:57:34.3516112+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:05:03.0604998+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:40:16.5640799+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:47:59.4209515+00:00"
 }

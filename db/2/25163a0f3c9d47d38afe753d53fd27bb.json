@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1842,
+  "EOS_Progressed": 1843,
   "EOS_Completed": 133,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 3,
@@ -4764,6 +4764,11 @@
       "Time": "2024-01-25T18:11:24.9883984+00:00",
       "NumProgressed": 1842,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-26T01:53:12.129248+00:00",
+      "NumProgressed": 1843,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 30,
@@ -4775,7 +4780,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "LEVEL_002",
@@ -4783,7 +4788,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "LEVEL_003",
@@ -4791,7 +4796,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "LEVEL_004",
@@ -4799,7 +4804,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "LEVEL_005",
@@ -4839,7 +4844,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "LEVEL_010",
@@ -4911,7 +4916,7 @@
       "Name": "Isle rock city",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "LEVEL_019",
@@ -5014,14 +5019,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1842,
+      "Progressed": 1843,
       "Completed": 133
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:10:33.809512+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:53:12.1292474+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:18.273311+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:57:17.0406721+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:10:33.8095751+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:39:58.0605632+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:53:12.1292932+00:00"
 }

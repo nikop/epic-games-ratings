@@ -1,13 +1,13 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 837)  
+Rating: 4.35 (Ranked 838)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 44.00% | ~9,721 |
-| It's a good start | 10.00% | ~2,209 |
+| Bye Bye | 44.00% | ~9,723 |
+| It's a good start | 10.00% | ~2,210 |
 | Bonjour! | 8.00% | ~1,768 |
 | Quack | 8.00% | ~1,768 |
 | The Assistant | 6.00% | ~1,326 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~22 |
 | Unsuitable Terroir | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,094 (Ranked 155)  
+Progressed: 22,098 (Ranked 155)  
 Completed: 13 (0.06%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 13 (0.06%) (Ranked 343)
 | 2024-01-23 | 21,909 | 13 |
 | 2024-01-24 | 22,001 | 13 |
 | 2024-01-25 | 22,090 | 13 |
-| 2024-01-26 | 22,094 | 13 |
+| 2024-01-26 | 22,098 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 300)  
 Sum: 1,740 (Ranked 231)  

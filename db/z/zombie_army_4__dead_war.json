@@ -2784,9 +2784,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44584,
+  "EOS_Progressed": 44585,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11709,6 +11709,11 @@
       "Time": "2024-01-25T09:08:36.9418736+00:00",
       "NumProgressed": 44584,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-26T01:51:03.1919787+00:00",
+      "NumProgressed": 44585,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11720,7 +11725,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27642
+      "UsersEstimate": 27643
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11792,7 +11797,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18725
+      "UsersEstimate": 18726
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11912,7 +11917,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28088
+      "UsersEstimate": 28089
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11968,7 +11973,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21846
+      "UsersEstimate": 21847
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11976,7 +11981,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -11992,7 +11997,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10254
+      "UsersEstimate": 10255
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -12016,7 +12021,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18725
+      "UsersEstimate": 18726
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -12072,7 +12077,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20954
+      "UsersEstimate": 20955
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -12088,7 +12093,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20954
+      "UsersEstimate": 20955
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -12096,7 +12101,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -12120,7 +12125,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29871
+      "UsersEstimate": 29872
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -12176,7 +12181,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29425
+      "UsersEstimate": 29426
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -12216,7 +12221,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10254
+      "UsersEstimate": 10255
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -12240,22 +12245,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44584,
+      "Progressed": 44585,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-25T19:03:08.9695575+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:08:37.2489023+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:51:03.1919783+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:50.2969677+00:00",
-  "LastUpdate_Ratings": "2024-01-26T00:02:59.8943536+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:08:37.2490943+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:45:41.0924838+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:51:03.1920764+00:00"
 }

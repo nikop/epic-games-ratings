@@ -3,11 +3,11 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 326,
-  "Ranking_Popularity": 411,
+  "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -1597,10 +1597,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 490,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2024-01-26T01:40:50.5045218+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 491,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 490,
+  "NumberOfAwards": 491,
   "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1638,7 +1644,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1679,7 +1685,7 @@
   ],
   "EOS_Progressed": 18722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13312,9 +13318,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-01-25T21:58:04.9254926+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:06:10.5045009+00:00",
+  "LastChanged": "2024-01-26T01:40:50.5045216+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:49:14.4819892+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:58:04.9739504+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:06:10.5046655+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:40:50.5045223+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:49:14.4820845+00:00"
 }

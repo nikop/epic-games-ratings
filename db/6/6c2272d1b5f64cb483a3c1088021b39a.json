@@ -5432,9 +5432,9 @@
       "ID": "tomb_raider_1",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "tomb_raider_2",
@@ -5463,8 +5463,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:10:42.2757161+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:53:20.9399161+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:58.8758212+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:58:46.5123489+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:10:42.2758335+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:41:37.2329237+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:53:20.9399843+00:00"
 }

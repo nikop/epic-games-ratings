@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,782 |
+| A Brief Tour of the Realms | 5.00% | ~12,783 |
 | Beast Intentions | 2.00% | ~5,113 |
 | The Cursed Farmer | 2.00% | ~5,113 |
 | The Mad Wizard | 2.00% | ~5,113 |
-| The Ring of Regeneration | 1.00% | ~2,556 |
-| Are Ya Chicken? | 1.00% | ~2,556 |
+| The Ring of Regeneration | 1.00% | ~2,557 |
+| Are Ya Chicken? | 1.00% | ~2,557 |
 | Were-verpowered | 0.90% | ~2,301 |
 | Seeking Allies | 0.90% | ~2,301 |
 | Mad Cow Disease | 0.90% | ~2,301 |
@@ -19,7 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.80% | ~2,045 |
 | Welcome to Sigil | 0.80% | ~1,775 |
 | A Persistent Buzzing | 0.70% | ~1,790 |
-| Fast Food | 0.70% | ~1,553 |
+| Fast Food | 0.70% | ~1,554 |
 | Maddening | 0.60% | ~1,534 |
 | Terror in the Dark | 0.60% | ~1,534 |
 | Unearthed Evil | 0.60% | ~1,534 |
@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.30% | ~767 |
 | The Dead Three | 0.30% | ~767 |
 | Flying Monkey Skulls of Doom | 0.30% | ~767 |
+| Dinosaur Racing | 0.30% | ~767 |
 | Close Escort | 0.30% | ~767 |
 | Constant Banditry | 0.30% | ~767 |
 | Easily Distracted | 0.30% | ~767 |
@@ -130,7 +131,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~511 |
 | Vault of Dragons | 0.20% | ~511 |
 | Champions of Waterdeep | 0.20% | ~511 |
-| Dinosaur Racing | 0.20% | ~511 |
 | Elturel Has Fallen | 0.20% | ~511 |
 | Resolve Amongst Chaos | 0.20% | ~511 |
 | Market Fluctuations | 0.20% | ~511 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,646 (Ranked 71)  
+Progressed: 255,656 (Ranked 71)  
 Completed: 2,648 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -834,10 +834,10 @@ Completed: 2,648 (1.04%) (Ranked 180)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,646 | 2,648 |
+| 2024-01-26 | 255,656 | 2,648 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
-Sum: 33,643 (Ranked 42)  
+Sum: 33,644 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -846,7 +846,7 @@ Diff (max vs sum): 33
 | This game has Quickly Understood Controls | 4,923 |
 | This game is Relaxing | 4,799 |
 | This game is Highly Recommended | 4,350 |
-| This game has Amazing Characters | 4,347 |
+| This game has Amazing Characters | 4,348 |
 | This game has Playful Visuals | 3,658 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1216,3 +1216,4 @@ Diff (max vs sum): 33
 | 2024-01-23 | 4.07 | - | 5,813 | 33,618 |
 | 2024-01-24 | 4.07 | - | 5,813 | 33,628 |
 | 2024-01-25 | 4.07 | - | 5,816 | 33,643 |
+| 2024-01-26 | 4.07 | - | 5,816 | 33,644 |

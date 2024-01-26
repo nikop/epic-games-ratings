@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9255,7 +9255,7 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762833,
+  "EOS_Progressed": 762838,
   "EOS_Completed": 13008,
   "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 16,
@@ -35355,6 +35355,11 @@
       "Time": "2024-01-26T00:10:17.0151288+00:00",
       "NumProgressed": 762833,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-26T01:52:54.0078194+00:00",
+      "NumProgressed": 762838,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35510,7 +35515,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -35590,7 +35595,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "30_ComboMid",
@@ -35606,7 +35611,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "32_ReachMaxAge",
@@ -35670,7 +35675,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -35845,21 +35850,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72134,
+      "Progressed": 72139,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762833,
+      "Progressed": 762838,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-25T13:10:10.2468767+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:10:17.0151285+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:52:54.0078189+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-26T00:03:18.3212857+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:10:17.0154482+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:46:01.8383145+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:52:54.0080123+00:00"
 }

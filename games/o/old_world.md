@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 4.00% | ~687 |
 | Intrepid | 4.00% | ~687 |
 | Mason | 4.00% | ~687 |
+| Noble | 4.00% | ~687 |
 | Strong | 4.00% | ~687 |
 | Hanging Gardens | 4.00% | ~687 |
 | Oracle | 4.00% | ~687 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 3.00% | ~515 |
 | Learned | 3.00% | ~515 |
 | Magnificent | 3.00% | ~515 |
-| Noble | 3.00% | ~515 |
 | Pioneer | 3.00% | ~515 |
 | Warrior | 3.00% | ~515 |
 | Developing Cities | 3.00% | ~515 |

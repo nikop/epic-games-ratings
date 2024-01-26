@@ -1,12 +1,12 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 552)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 19.00% | ~3,665 |
-| Captain Drummer | 17.00% | ~3,279 |
+| Captain Drummer | 17.00% | ~3,280 |
 | Celebrations are in Order | 16.00% | ~3,087 |
 | Martian Music | 15.00% | ~2,894 |
 | Bosmang | 15.00% | ~2,894 |
@@ -17,8 +17,8 @@ Rating: 4.54 (Ranked 551)
 | Stogie for Fogey | 12.00% | ~2,315 |
 | Call it Even | 11.00% | ~2,122 |
 | Zen Master | 11.00% | ~577 |
-| Safe Cracker | 10.00% | ~524 |
-| Madame Undersecretary | 10.00% | ~524 |
+| Safe Cracker | 10.00% | ~525 |
+| Madame Undersecretary | 10.00% | ~525 |
 | Heal Thy Medic | 9.00% | ~1,736 |
 | Keep Arjun in Check | 9.00% | ~472 |
 | Data Archivist | 8.00% | ~1,543 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 551)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,291 (Ranked 160)  
+Progressed: 19,292 (Ranked 160)  
 Completed: 67 (0.35%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 67 (0.35%) (Ranked 260)
 | 2024-01-23 | 19,255 | 67 |
 | 2024-01-24 | 19,270 | 67 |
 | 2024-01-25 | 19,291 | 67 |
+| 2024-01-26 | 19,292 | 67 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

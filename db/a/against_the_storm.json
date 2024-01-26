@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4091,9 +4091,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 21012,
+  "EOS_Progressed": 21015,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20526,6 +20526,11 @@
       "Time": "2024-01-25T23:09:02.7786094+00:00",
       "NumProgressed": 21012,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-26T01:51:41.0927897+00:00",
+      "NumProgressed": 21015,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20650,7 +20655,7 @@
       "Name": "Ruined Armory",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinNearBandit",
@@ -20674,7 +20679,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinNearCrystals",
@@ -20730,7 +20735,7 @@
       "Name": "Levitating Monument",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinNearMines",
@@ -20762,7 +20767,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinNearStatue",
@@ -20770,7 +20775,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinNearTemple",
@@ -20786,7 +20791,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinNearWatchtower",
@@ -20810,7 +20815,7 @@
       "Name": "Cursed Lands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinOnMarshlands",
@@ -20874,7 +20879,7 @@
       "Name": "Taking Action",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "WinWithResolve",
@@ -20906,7 +20911,7 @@
       "Name": "Trade Baron",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinWithoutDeath",
@@ -20938,7 +20943,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "WinNearFrosts",
@@ -20962,7 +20967,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "WinNearPetrified",
@@ -20994,7 +20999,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "WinWithFoxes",
@@ -21009,15 +21014,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 21012,
+      "Progressed": 21015,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-25T16:59:34.7928312+00:00",
-  "LastChanged_Achievements": "2024-01-26T00:09:11.6580194+00:00",
+  "LastChanged_Achievements": "2024-01-26T01:51:41.0927889+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-25T23:59:18.3100997+00:00",
-  "LastUpdate_Achievements": "2024-01-26T00:09:11.6581899+00:00"
+  "LastUpdate_Ratings": "2024-01-26T01:42:12.5818864+00:00",
+  "LastUpdate_Achievements": "2024-01-26T01:51:41.0928871+00:00"
 }
