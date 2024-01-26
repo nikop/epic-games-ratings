@@ -51,8 +51,8 @@ Rating: 3.67 (Ranked 1,107)
 | Good Samaritan | 1.00% | ~24 |
 | Dexterity Save | 0.90% | ~22 |
 | Monster Hunters Club | 0.80% | ~19 |
+| Friendgineering | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
-| Friendgineering | 0.70% | ~17 |
 | Under a Bushel | 0.70% | ~17 |
 | So Anyway I Started Blasting | 0.50% | ~12 |
 | Enemy of My Enemy | 0.50% | ~12 |

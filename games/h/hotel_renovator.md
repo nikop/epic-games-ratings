@@ -14,17 +14,17 @@ Rating: 4.38 (Ranked 803)
 | Soulmate? | 51.00% | ~755 |
 | Excellent service | 47.00% | ~696 |
 | Roll with it | 44.00% | ~651 |
-| Humble beginnings | 42.00% | ~622 |
+| Humble beginnings | 43.00% | ~636 |
 | Love is in the air | 41.00% | ~607 |
 | Fine, I'll do it myself | 40.00% | ~592 |
 | Moving up | 40.00% | ~592 |
 | No need to call anyone | 38.00% | ~562 |
 | Big fortune | 31.00% | ~459 |
 | Still more work ahead | 29.00% | ~429 |
+| Kaboom | 27.00% | ~400 |
 | Aesop's fable | 27.00% | ~400 |
 | Hotel sleuthing | 27.00% | ~400 |
-| Kaboom | 26.00% | ~385 |
-| Nearly there | 24.00% | ~355 |
+| Nearly there | 25.00% | ~370 |
 | Broken heart | 22.00% | ~326 |
 | Island boy | 21.00% | ~311 |
 | You're a star | 20.00% | ~296 |

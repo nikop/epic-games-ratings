@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1102,9 +1102,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363744,
+  "EOS_Progressed": 363746,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33272,6 +33272,11 @@
       "Time": "2024-01-26T17:03:49.8559969+00:00",
       "NumProgressed": 363744,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T18:04:01.5640399+00:00",
+      "NumProgressed": 363746,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33299,7 +33304,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43649
+      "UsersEstimate": 43650
     },
     {
       "ID": "ach004",
@@ -33339,7 +33344,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43649
+      "UsersEstimate": 43650
     },
     {
       "ID": "ach009",
@@ -33491,7 +33496,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167322
+      "UsersEstimate": 167323
     },
     {
       "ID": "ach028",
@@ -33587,7 +33592,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36374
+      "UsersEstimate": 36375
     },
     {
       "ID": "ach040",
@@ -33747,7 +33752,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36374
+      "UsersEstimate": 36375
     },
     {
       "ID": "ach060",
@@ -33922,7 +33927,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363744,
+      "Progressed": 363746,
       "Completed": 7
     }
   ],
@@ -33930,8 +33935,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-26T15:57:54.5996048+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:03:49.8559965+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:04:01.5640396+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:58:41.5271843+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:03:49.8563684+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:58:10.9376197+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:04:01.5643008+00:00"
 }

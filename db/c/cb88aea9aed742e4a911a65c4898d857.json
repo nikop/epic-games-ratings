@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
-  "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 399,
+  "Ranking_Popularity": 319,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -477,18 +477,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-01-26T17:59:53.5809853+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
-  "NumberOfAwardsMax": 174,
+  "NumberOfAwards": 276,
+  "NumberOfAwardsMax": 178,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 174
+      "Count": 178
     },
     {
       "Text": "This game has Diverse Characters",
@@ -515,7 +521,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12267,
+  "EOS_Progressed": 12269,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
@@ -6260,6 +6266,11 @@
       "Time": "2024-01-26T17:11:12.7606901+00:00",
       "NumProgressed": 12267,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T18:10:27.1952786+00:00",
+      "NumProgressed": 12269,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6272,7 +6283,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "03_TheStolenStar",
@@ -6280,7 +6291,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6288,7 +6299,7 @@
       "Name": "Trade Empire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -6384,7 +6395,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "17_TheExemplar",
@@ -6392,7 +6403,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6400,7 +6411,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6440,7 +6451,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "24_TheHighrise",
@@ -6448,7 +6459,7 @@
       "Name": "Highrise",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "25_DynastyProspers",
@@ -6584,7 +6595,7 @@
       "Name": "Jungle Heat",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6624,7 +6635,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "47_AFlame",
@@ -6656,7 +6667,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6791,16 +6802,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12267,
+      "Progressed": 12269,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-26T15:59:41.1776328+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:11:12.7606899+00:00",
+  "LastChanged": "2024-01-26T17:59:53.5809851+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:27.1952782+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:19.8816684+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:11:12.7607482+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:53.5809856+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:27.1953588+00:00"
 }

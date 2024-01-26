@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8353,9 +8353,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152942,
+  "EOS_Progressed": 152948,
   "EOS_Completed": 365,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -38278,6 +38278,11 @@
       "Time": "2024-01-26T17:10:14.3831743+00:00",
       "NumProgressed": 152942,
       "NumCompleted": 365
+    },
+    {
+      "Time": "2024-01-26T18:09:46.4215165+00:00",
+      "NumProgressed": 152948,
+      "NumCompleted": 365
     }
   ],
   "TotalAchievements": 112,
@@ -38441,7 +38446,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "champions01",
@@ -38457,7 +38462,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18353
+      "UsersEstimate": 18354
     },
     {
       "ID": "chest02",
@@ -38553,7 +38558,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "craft02",
@@ -38665,7 +38670,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "expansion02",
@@ -38761,7 +38766,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15294
+      "UsersEstimate": 15295
     },
     {
       "ID": "gold02",
@@ -38937,7 +38942,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "master01",
@@ -39049,7 +39054,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "rudo_a",
@@ -39065,7 +39070,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "sell02",
@@ -39105,7 +39110,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18353
+      "UsersEstimate": 18354
     },
     {
       "ID": "twinenchant01",
@@ -39184,15 +39189,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152942,
+      "Progressed": 152948,
       "Completed": 365
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-26T09:03:38.3080446+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:10:14.3831739+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:09:46.4215162+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:03:22.9597885+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:10:14.3833743+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:43.4937719+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:09:46.4217336+00:00"
 }

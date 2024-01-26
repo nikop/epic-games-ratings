@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5364,9 +5364,9 @@
       "ID": "GSS_ACH_09_THROW_01",
       "SetID": "5fn8ia4",
       "Name": "Score!",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1727
     },
     {
       "ID": "GSS_ACH_10_THROW_02",
@@ -5396,9 +5396,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1655
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -5452,9 +5452,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1584
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -5564,9 +5564,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1638
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -5652,9 +5652,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1371
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -5668,9 +5668,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1299
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -5748,17 +5748,17 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 854
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 516
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
@@ -5772,17 +5772,17 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1477
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1442
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -5908,9 +5908,9 @@
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
       "SetID": "5fn8ia4",
       "Name": "Expert in the Field",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 570
     },
     {
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
@@ -5957,8 +5957,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-26T01:42:00.4398099+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:08:14.6869167+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:06:45.1079247+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:00:57.7168136+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:08:14.6870551+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:37.5823127+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:06:45.1080233+00:00"
 }

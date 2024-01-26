@@ -2,13 +2,13 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 853,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23629,
+  "EOS_Progressed": 23636,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -9457,6 +9457,11 @@
       "Time": "2024-01-26T17:07:52.4341485+00:00",
       "NumProgressed": 23629,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-26T18:06:29.7455562+00:00",
+      "NumProgressed": 23636,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9477,7 +9482,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -9517,7 +9522,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -9525,7 +9530,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -9548,7 +9553,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 23629,
+      "Progressed": 23636,
       "Completed": 128
     }
   ],
@@ -9556,8 +9561,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:07:52.4341481+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:06:29.7455559+00:00",
   "LastUpdate_AppInfo": "2024-01-25T22:57:12.0471446+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:09.6452306+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:07:52.4342017+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:45.3675779+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:06:29.7456086+00:00"
 }

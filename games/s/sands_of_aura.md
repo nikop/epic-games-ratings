@@ -14,13 +14,13 @@
 | Bladesmith | 10.00% | ~14 |
 | Leisis Bless You | 10.00% | ~14 |
 | The Guardian of Fire | 9.00% | ~13 |
+| Explorer | 8.00% | ~12 |
 | Twin Thorns | 8.00% | ~12 |
-| Explorer | 7.00% | ~10 |
 | The River Styx | 7.00% | ~10 |
+| Sommelier | 6.00% | ~9 |
 | Let Me Solo Them | 6.00% | ~9 |
 | Sovereignty of Irons | 6.00% | ~9 |
 | A Sandwyrm's Hoard | 6.00% | ~9 |
-| Sommelier | 5.00% | ~7 |
 | Frigid Winds | 5.00% | ~7 |
 | Missing Melodies | 2.00% | ~3 |
 | Transformative Nature | 2.00% | ~3 |

@@ -15,8 +15,8 @@
 | Old movies enjoyer | 70.00% | ~426 |
 | Employee of the week | 69.00% | ~420 |
 | Your own amateur gym | 65.00% | ~396 |
+| Run K, run! | 64.00% | ~390 |
 | First defeat | 63.00% | ~384 |
-| Run K, run! | 63.00% | ~384 |
 | Hello, world! | 62.00% | ~378 |
 | Fighting is cool | 61.00% | ~371 |
 | No bullying more | 61.00% | ~371 |
@@ -28,8 +28,8 @@
 | Little hacker | 52.00% | ~317 |
 | Handyman | 52.00% | ~317 |
 | Champion – starter pack | 52.00% | ~317 |
+| It's good to be alive | 52.00% | ~317 |
 | Fight for life | 51.00% | ~311 |
-| It's good to be alive | 51.00% | ~311 |
 | Intriguing candies | 51.00% | ~311 |
 | Own four walls | 50.00% | ~304 |
 | Employee of the year | 50.00% | ~304 |

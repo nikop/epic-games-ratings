@@ -19,7 +19,7 @@ Rating: 3.89 (Ranked 1,086)
 | Lumber Specialist | 31.00% | ~614 |
 | Kind-hearted | 25.00% | ~495 |
 | Catch of the Day | 25.00% | ~495 |
-| Amateur Chef | 22.00% | ~436 |
+| Amateur Chef | 23.00% | ~456 |
 | Fishing Guru | 20.00% | ~396 |
 | Spark of Love | 18.00% | ~357 |
 | Community Helper | 17.00% | ~337 |
@@ -42,7 +42,7 @@ Rating: 3.89 (Ranked 1,086)
 | Rock Exterminator | 2.00% | ~40 |
 | Tree Exterminator | 2.00% | ~40 |
 | Moonbury Navigator | 1.00% | ~20 |
-| Being a donut... | 0.70% | ~14 |
+| Being a donut... | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,981 (Ranked 257)  
 Completed: 12 (0.61%) (Ranked 217)  

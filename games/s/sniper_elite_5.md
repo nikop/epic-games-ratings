@@ -34,8 +34,8 @@ Rating: 4.48 (Ranked 663)
 | Opposing Force | 14.00% | ~609 |
 | Enemy at the Gates | 14.00% | ~609 |
 | Set Europe Ablaze | 14.00% | ~609 |
+| My Little Friend | 11.00% | ~478 |
 | Precision Is Key | 10.00% | ~435 |
-| My Little Friend | 10.00% | ~435 |
 | Rigged to Blow | 9.00% | ~391 |
 | Herr Today, Gone Tomorrow | 7.00% | ~301 |
 | The Long Game | 6.00% | ~261 |
@@ -65,11 +65,11 @@ Rating: 4.48 (Ranked 663)
 | Reich To The Point | 2.00% | ~86 |
 | Covert Elimination | 2.00% | ~86 |
 | Best of the Best | 1.00% | ~43 |
+| Master of Secondaries | 1.00% | ~43 |
 | Sight Beyond Sights | 1.00% | ~43 |
 | From Führer Away | 1.00% | ~43 |
 | Alpha | 1.00% | ~43 |
 | Das Familienjuwel | 1.00% | ~43 |
-| Master of Secondaries | 0.90% | ~39 |
 | Master of Rifles | 0.90% | ~39 |
 | Master of Pistols | 0.80% | ~35 |
 | Operation Overlord | 0.70% | ~30 |

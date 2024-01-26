@@ -4,8 +4,8 @@
   "ProductSlug": "hero-battle-fantasy-arena-f15594",
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
     "PcReleaseDate": "2024-01-18T23:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -256,8 +256,8 @@
   ],
   "FirstSeen": "2024-01-21T14:57:04.324913+00:00",
   "FirstSeenAchievements": "2023-12-16T08:05:18.2860146+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:08:47.1309879+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:08:46.6656557+00:00",
   "LastUpdate_AppInfo": "2024-01-21T15:57:03.2813635+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:14.0011742+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:08:47.1309987+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:48.5951611+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:08:46.6656718+00:00"
 }

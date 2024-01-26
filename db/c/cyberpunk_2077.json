@@ -19074,10 +19074,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 521525,
       "NumberOfAwardsMax": 145126
+    },
+    {
+      "Time": "2024-01-26T18:03:36.8814783+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 521669,
+      "NumberOfAwardsMax": 145126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 521525,
+  "NumberOfAwards": 521669,
   "NumberOfAwardsMax": 145126,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19121,7 +19127,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31219
+      "Count": 31363
     },
     {
       "Text": "This game is Great for Beginners",
@@ -19154,10 +19160,10 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1059139,
-  "EOS_Completed": 3166,
-  "EOS_NewPlayers": 4094,
-  "EOS_NewCompleters": 37,
+  "EOS_Progressed": 1059163,
+  "EOS_Completed": 3167,
+  "EOS_NewPlayers": 4087,
+  "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51404,6 +51410,11 @@
       "Time": "2024-01-26T17:09:45.7718129+00:00",
       "NumProgressed": 1059139,
       "NumCompleted": 3166
+    },
+    {
+      "Time": "2024-01-26T18:09:26.382471+00:00",
+      "NumProgressed": 1059163,
+      "NumCompleted": 3167
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51638,9 +51649,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8473
+      "UsersEstimate": 9532
     },
     {
       "ID": "TheHightPriestess",
@@ -51872,7 +51883,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "HydraIsDead",
@@ -51888,7 +51899,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "KingOfTheCups",
@@ -51951,21 +51962,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059139,
-      "Completed": 3166
+      "Progressed": 1059163,
+      "Completed": 3167
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187762,
+      "Progressed": 187786,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-26T17:03:13.6895373+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:09:45.7718125+00:00",
+  "LastChanged": "2024-01-26T18:03:36.8814778+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:09:26.3824707+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:03:13.6895379+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:09:45.7719929+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:36.8814787+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:09:26.382617+00:00"
 }

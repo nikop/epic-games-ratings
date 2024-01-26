@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2974,9 +2974,9 @@
       "ID": "Game_Complete",
       "SetID": "7a5k76n",
       "Name": "Protector of Humanity",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 163
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -3086,9 +3086,9 @@
       "ID": "Kill_Sin_BigBad",
       "SetID": "7a5k76n",
       "Name": "Everybody Wants to Rule the World",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 163
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -3262,8 +3262,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-26T13:00:56.5257344+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:07:55.0643958+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:06:31.3996396+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:00:21.8728853+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:07:55.0644772+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:14.5084732+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:06:31.3997052+00:00"
 }

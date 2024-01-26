@@ -7,11 +7,11 @@
 | Overpower | 150.00% | ~3 |
 | Tactician | 100.00% | ~2 |
 | Skilled | 50.00% | ~1 |
+| Complete Chapter 1 | 50.00% | ~1 |
 | The Perfect Prophecy | 0.00% | ~0 |
 | Master | 0.00% | ~0 |
 | Ruthless | 0.00% | ~0 |
 | Burn the Wolf | 0.00% | ~0 |
-| Complete Chapter 1 | 0.00% | ~0 |
 | Complete Chapter 2 | 0.00% | ~0 |
 | Complete Chapter 3 | 0.00% | ~0 |
 | Complete Chapter 4 | 0.00% | ~0 |

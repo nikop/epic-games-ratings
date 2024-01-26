@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2024-01-23T08:00:00+00:00",
     "PcReleaseDate": "2024-01-23T08:00:00+00:00",
@@ -91,9 +91,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "6pjfh93",
       "Name": "Complete Chapter 1",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -185,8 +185,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:08:25.6440981+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:10:53.2300098+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:13.1098021+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:53.2526338+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:03:30.5764261+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:10:53.2300206+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:48.3903498+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:13.1098106+00:00"
 }

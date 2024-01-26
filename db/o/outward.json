@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 266,
   "RatingHistory": [
     {
@@ -483,6 +483,12 @@
     {
       "Time": "2024-01-10T17:03:00.5825604+00:00",
       "Rating": 4.54,
+      "NumberOfAwards": 246,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-01-26T18:03:30.9980634+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 35
     }
@@ -9076,9 +9082,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
-  "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:06:41.2450393+00:00",
+  "LastChanged": "2024-01-26T18:03:30.9980632+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:05:39.9121986+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:03:04.4239066+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:06:41.2450975+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:30.9980637+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:05:39.9122902+00:00"
 }

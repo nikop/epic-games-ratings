@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -385,9 +385,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3425,6 +3425,11 @@
       "Time": "2024-01-26T15:09:25.1696726+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T18:09:28.007853+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3445,15 +3450,15 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 412
     },
     {
       "ID": "CareerChamp2",
@@ -3461,7 +3466,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "CareerChamp3",
@@ -3469,7 +3474,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "CareerChamp4",
@@ -3493,7 +3498,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "CollectVehiclesA",
@@ -3501,7 +3506,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "CollectVehiclesB",
@@ -3549,7 +3554,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "PlayerRankB",
@@ -3596,7 +3601,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1288,
       "Completed": 0
     }
   ],
@@ -3604,8 +3609,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-25T13:58:32.8923112+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:09:47.9826816+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:09:28.0078526+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:59:28.6674216+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:09:47.9827469+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:58:40.6852365+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:09:28.0078764+00:00"
 }

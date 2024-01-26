@@ -4,8 +4,8 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -457,9 +457,9 @@
       "ID": "exContractor",
       "SetID": "d4692al",
       "Name": "Experienced Contractor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "expanded",
@@ -561,9 +561,9 @@
       "ID": "toomany",
       "SetID": "d4692al",
       "Name": "Too many too count",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "upgrades",
@@ -624,8 +624,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:05:15.4153829+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:04:39.379714+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:56.0033725+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:02:10.5517915+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:05:15.4154078+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:00:26.6330884+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:04:39.3797319+00:00"
 }

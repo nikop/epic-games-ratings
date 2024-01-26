@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,353 |
-| Titan's First Steps | 12.00% | ~18,353 |
+| Sponsored by Argon | 12.00% | ~18,354 |
+| Titan's First Steps | 12.00% | ~18,354 |
 | Basic in Bulk | 11.00% | ~16,824 |
-| Tinkle of Coins | 10.00% | ~15,294 |
-| Disintermediation | 8.00% | ~12,235 |
-| It's Free Real Estate | 8.00% | ~12,235 |
-| Capitalism Ho! | 8.00% | ~12,235 |
+| Tinkle of Coins | 10.00% | ~15,295 |
+| Disintermediation | 8.00% | ~12,236 |
+| It's Free Real Estate | 8.00% | ~12,236 |
+| Capitalism Ho! | 8.00% | ~12,236 |
 | Budding Merchant | 7.00% | ~10,706 |
 | One Easy Payment | 6.00% | ~9,177 |
 | Some Assembly Required | 6.00% | ~9,177 |
@@ -107,9 +107,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 1.00% | ~1,529 |
 | All or Nothing! | 1.00% | ~1,529 |
 | Eternal Crusade | 1.00% | ~1,529 |
-| Bane of Legends | 0.90% | ~1,376 |
-| Anything not Nailed Down | 0.90% | ~1,376 |
-| Marvels from the World Over | 0.90% | ~1,376 |
+| Bane of Legends | 0.90% | ~1,377 |
+| Anything not Nailed Down | 0.90% | ~1,377 |
+| Marvels from the World Over | 0.90% | ~1,377 |
 | Ultimate Collector | 0.70% | ~1,071 |
 | Unleashed Potential | 0.70% | ~1,071 |
 | JACKPOT!!! | 0.70% | ~1,071 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~612 |
 | Capitalist Camaraderie | 0.30% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,942 (Ranked 87)  
+Progressed: 152,948 (Ranked 87)  
 Completed: 365 (0.24%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 365 (0.24%) (Ranked 282)
 | 2024-01-23 | 152,616 | 362 |
 | 2024-01-24 | 152,717 | 363 |
 | 2024-01-25 | 152,844 | 364 |
-| 2024-01-26 | 152,942 | 365 |
+| 2024-01-26 | 152,948 | 365 |
 ## Awards
 Max (Great for Beginners): 4,982  (Ranked 84)  
 Sum: 28,062 (Ranked 52)  

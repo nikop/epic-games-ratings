@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2139,6 +2139,11 @@
       "Time": "2024-01-26T09:05:03.3680615+00:00",
       "NumProgressed": 545,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T18:05:18.5846831+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2159,7 +2164,7 @@
       "Name": "Empire",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -2223,7 +2228,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "AC_BOSS_01",
@@ -2237,9 +2242,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 98
     },
     {
       "ID": "AC_BOSS_03",
@@ -2255,7 +2260,7 @@
       "Name": "Heresy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "AC_COMBO_1",
@@ -2303,7 +2308,7 @@
       "Name": "Carcass",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "AC_DEATH_3",
@@ -2335,15 +2340,15 @@
       "Name": "Genocide",
       "Percentage": 21,
       "XP": 45,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 442
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2351,7 +2356,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2407,7 +2412,7 @@
       "Name": "Winner",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2455,7 +2460,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2463,7 +2468,7 @@
       "Name": "Shot",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2486,14 +2491,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:06:11.7329603+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:05:18.5846827+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.4116417+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:02:18.6582735+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:06:11.7330046+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:01.5659053+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:05:18.584717+00:00"
 }

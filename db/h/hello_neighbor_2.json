@@ -2,12 +2,12 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -527,7 +527,7 @@
   "Tags": [],
   "EOS_Progressed": 4184,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
@@ -7853,9 +7853,9 @@
       "ID": "ACH_CLIMBER",
       "SetID": "4kfb9pd",
       "Name": "Climber",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 962
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -7877,9 +7877,9 @@
       "ID": "ACH_FAMILY_LOST",
       "SetID": "4kfb9pd",
       "Name": "Family Lost",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1339
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7950,8 +7950,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-22T13:58:58.9675729+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:06:57.613605+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:05:51.086777+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:57:54.9944806+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:06:57.6136477+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:57:40.8764845+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:05:51.0868247+00:00"
 }

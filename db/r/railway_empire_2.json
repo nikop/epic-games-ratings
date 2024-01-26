@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2773,
+  "EOS_Progressed": 2774,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8253,6 +8253,11 @@
       "Time": "2024-01-26T13:07:26.3643697+00:00",
       "NumProgressed": 2773,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T18:05:47.6910942+00:00",
+      "NumProgressed": 2774,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -8278,9 +8283,9 @@
       "ID": "A02",
       "SetID": "9b7p7eo",
       "Name": "Trailblazer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 610
     },
     {
       "ID": "A03",
@@ -8344,7 +8349,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "A11",
@@ -8368,7 +8373,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "A14",
@@ -8376,7 +8381,7 @@
       "Name": "A new Journey",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "A15",
@@ -8392,7 +8397,7 @@
       "Name": "Traffic Jam",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "A17",
@@ -8400,7 +8405,7 @@
       "Name": "Facility Manager",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "A18",
@@ -8424,7 +8429,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "A21",
@@ -8440,7 +8445,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "A23",
@@ -8488,7 +8493,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "A29",
@@ -8504,7 +8509,7 @@
       "Name": "All mine",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "A31",
@@ -8568,7 +8573,7 @@
       "Name": "Poor Devil",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "A39",
@@ -8576,7 +8581,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "A40",
@@ -8584,7 +8589,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "A41",
@@ -8592,7 +8597,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "A42",
@@ -8600,7 +8605,7 @@
       "Name": "Bridge Builder",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "A43",
@@ -8608,7 +8613,7 @@
       "Name": "Mole",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "A44",
@@ -8624,7 +8629,7 @@
       "Name": "Settler",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "A46",
@@ -8632,7 +8637,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "A47",
@@ -8640,7 +8645,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "A48",
@@ -8648,7 +8653,7 @@
       "Name": "Bull and bear",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "A49",
@@ -8656,7 +8661,7 @@
       "Name": "Financial Shark",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "A50",
@@ -8680,7 +8685,7 @@
       "Name": "Socializer",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "A53",
@@ -8688,7 +8693,7 @@
       "Name": "Networker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "A54",
@@ -8703,7 +8708,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2773,
+      "Progressed": 2774,
       "Completed": 0
     }
   ],
@@ -8711,8 +8716,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-22T22:57:59.5617372+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:06:52.3010206+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:05:47.691094+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:46.2531385+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:24.7371451+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:06:52.3010858+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:56.8677865+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:05:47.6911742+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3141,
+  "EOS_Progressed": 3148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8614,6 +8614,11 @@
       "Time": "2024-01-26T17:11:18.444713+00:00",
       "NumProgressed": 3141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T18:10:30.9280027+00:00",
+      "NumProgressed": 3148,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8648,9 +8653,9 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_13",
@@ -8696,9 +8701,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_19",
@@ -8730,7 +8735,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_22",
@@ -8770,7 +8775,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_27",
@@ -8818,7 +8823,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_32",
@@ -8826,7 +8831,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_33",
@@ -8842,7 +8847,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_35",
@@ -8850,7 +8855,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2707
     },
     {
       "ID": "achievement_36",
@@ -8866,7 +8871,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1889
     },
     {
       "ID": "achievement_38",
@@ -8890,7 +8895,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_40",
@@ -8898,7 +8903,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1637
     },
     {
       "ID": "achievement_41",
@@ -8930,7 +8935,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 754
+      "UsersEstimate": 756
     },
     {
       "ID": "achievement_45",
@@ -8978,7 +8983,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_50",
@@ -9066,7 +9071,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_60",
@@ -9106,7 +9111,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_8",
@@ -9129,13 +9134,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3141,
+      "Progressed": 3148,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3141,
+      "Progressed": 3148,
       "Completed": 1
     }
   ],
@@ -9143,8 +9148,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:11:18.4447126+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:30.9280025+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:23.6452561+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:11:18.4448132+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:56.1820708+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:30.9280826+00:00"
 }

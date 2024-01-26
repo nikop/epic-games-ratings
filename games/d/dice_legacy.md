@@ -32,7 +32,7 @@ Rating: 4.29 (Ranked 890)
 | Red Tape | 0.70% | ~9 |
 | Charismatic Leader | 0.70% | ~9 |
 | Knowledge is Power | 0.70% | ~9 |
-| Six Faces | 0.50% | ~7 |
+| Six Faces | 0.60% | ~8 |
 | The Great Winter | 0.50% | ~7 |
 | Ice and Fire | 0.30% | ~4 |
 | It's spreading | 0.30% | ~4 |

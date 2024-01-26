@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11206,10 +11206,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21874,
       "NumberOfAwardsMax": 8078
+    },
+    {
+      "Time": "2024-01-26T17:57:58.0650722+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21875,
+      "NumberOfAwardsMax": 8078
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21874,
+  "NumberOfAwards": 21875,
   "NumberOfAwardsMax": 8078,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11277,7 +11283,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1461
+      "Count": 1462
     },
     {
       "Text": "This game has a Creative Community",
@@ -11286,9 +11292,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133738,
+  "EOS_Progressed": 133742,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41586,6 +41592,11 @@
       "Time": "2024-01-26T17:11:12.7465772+00:00",
       "NumProgressed": 133738,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T18:10:27.0083605+00:00",
+      "NumProgressed": 133742,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41597,7 +41608,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41613,7 +41624,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41797,7 +41808,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41813,7 +41824,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "combat_kill_librarian",
@@ -41837,7 +41848,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41869,7 +41880,7 @@
       "Name": "It Happens",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41893,7 +41904,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41917,7 +41928,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "driving_distance_easy",
@@ -41949,7 +41960,7 @@
       "Name": "Autodidact",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12036
+      "UsersEstimate": 12037
     },
     {
       "ID": "hero_story_complete_all",
@@ -41989,7 +42000,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -42005,7 +42016,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "inn_visit_all_variants",
@@ -42133,7 +42144,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "combat_kill_collector",
@@ -42181,7 +42192,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -42189,7 +42200,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "quest_complete_crusader",
@@ -42205,7 +42216,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -42228,21 +42239,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133738,
+      "Progressed": 133742,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8607,
+      "Progressed": 8611,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-26T15:57:41.6788689+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:11:12.7465767+00:00",
+  "LastChanged": "2024-01-26T17:57:58.065072+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:27.0083602+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:58:21.5809759+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:11:12.7467345+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:57:58.0650726+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:27.0085349+00:00"
 }

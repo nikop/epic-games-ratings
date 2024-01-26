@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Home Leaver | 79.00% | ~1,733 |
 | Journal Beautifier | 79.00% | ~1,733 |
-| Home Leaver | 78.00% | ~1,711 |
 | Outside World Seer | 59.00% | ~1,294 |
 | Stranger Encounterer | 35.00% | ~768 |
 | Grey Hands Praxis 101 | 27.00% | ~592 |
@@ -18,8 +18,8 @@
 | Shrine Arriver | 12.00% | ~263 |
 | Goodbye Tieng Valley | 11.00% | ~241 |
 | The End | 11.00% | ~241 |
+| Graffiti Artist | 9.00% | ~197 |
 | Love Uncoverer | 9.00% | ~197 |
-| Graffiti Artist | 8.00% | ~176 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,194 (Ranked 253)  
 Completed: 84 (3.83%) (Ranked 96)  

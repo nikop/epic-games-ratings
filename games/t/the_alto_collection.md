@@ -6,17 +6,17 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,756 |
-| Finding Your Footing | 25.00% | ~14,068 |
-| Nomad | 16.00% | ~9,003 |
-| Picking Up Speed | 15.00% | ~8,441 |
-| Welcome Maya | 14.00% | ~7,878 |
+| Rookie | 28.00% | ~15,758 |
+| Finding Your Footing | 25.00% | ~14,070 |
+| Nomad | 16.00% | ~9,005 |
+| Picking Up Speed | 15.00% | ~8,442 |
+| Welcome Maya | 14.00% | ~7,879 |
 | Scout | 12.00% | ~6,753 |
-| Sightseer | 11.00% | ~6,190 |
-| Amateur | 10.00% | ~5,627 |
+| Sightseer | 11.00% | ~6,191 |
+| Amateur | 10.00% | ~5,628 |
 | Unlock Maya | 8.00% | ~4,502 |
 | Wanderer | 8.00% | ~4,502 |
-| Enter Paz | 7.00% | ~3,939 |
+| Enter Paz | 7.00% | ~3,940 |
 | Aviator | 5.00% | ~2,814 |
 | My Little Friend | 5.00% | ~2,814 |
 | One With The Board | 5.00% | ~2,814 |
@@ -27,16 +27,16 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,688 |
 | Sandboarder | 3.00% | ~1,688 |
 | Izel Has Arrived | 3.00% | ~1,688 |
-| Explorer | 2.00% | ~1,125 |
-| Pro | 2.00% | ~1,125 |
-| Journeyer | 2.00% | ~1,125 |
-| Unlock Izel | 2.00% | ~1,125 |
-| Here Comes Felipe | 2.00% | ~1,125 |
+| Explorer | 2.00% | ~1,126 |
+| Pro | 2.00% | ~1,126 |
+| Journeyer | 2.00% | ~1,126 |
+| Unlock Izel | 2.00% | ~1,126 |
+| Here Comes Felipe | 2.00% | ~1,126 |
 | Hoist the Mainsail | 1.00% | ~563 |
 | Daredevil | 1.00% | ~563 |
 | Introducing Sumara | 1.00% | ~563 |
 | Vandal | 1.00% | ~563 |
-| Unlock Felipe | 0.90% | ~506 |
+| Unlock Felipe | 0.90% | ~507 |
 | Adventurer | 0.80% | ~450 |
 | Unlock Tupa | 0.50% | ~281 |
 | Master Of The Sands | 0.30% | ~169 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~56 |
 | Windswept | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,271 (Ranked 124)  
+Progressed: 56,279 (Ranked 124)  
 Completed: 5 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 5 (0.01%) (Ranked 388)
 | 2024-01-23 | 55,984 | 5 |
 | 2024-01-24 | 56,069 | 5 |
 | 2024-01-25 | 56,184 | 5 |
-| 2024-01-26 | 56,271 | 5 |
+| 2024-01-26 | 56,279 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 458)  
 Sum: 424 (Ranked 356)  

@@ -1,7 +1,7 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.53 (Ranked 573)  
+Rating: 4.55 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,11 +12,11 @@ Rating: 4.53 (Ranked 573)
 | The Alliance | 46.00% | ~838 |
 | Survivors | 43.00% | ~783 |
 | The Condor | 41.00% | ~747 |
-| The End | 40.00% | ~728 |
+| The End | 41.00% | ~747 |
 | The Necroevolution | 32.00% | ~583 |
 | Krauta is alive | 30.00% | ~546 |
+| Peacemaker | 25.00% | ~455 |
 | Fierce fight | 24.00% | ~437 |
-| Peacemaker | 24.00% | ~437 |
 | On her own | 23.00% | ~419 |
 | Volcanologist | 23.00% | ~419 |
 | Evacuation | 22.00% | ~401 |
@@ -140,3 +140,4 @@ Completed: 2 (0.11%) (Ranked 319)
 | 2024-01-21 | 4.54 | 0 | 0 |
 | 2024-01-23 | 4.52 | 0 | 0 |
 | 2024-01-25 | 4.53 | 0 | 0 |
+| 2024-01-26 | 4.55 | 0 | 0 |

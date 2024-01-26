@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -687,7 +687,7 @@
   ],
   "EOS_Progressed": 4348,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -10120,9 +10120,9 @@
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
       "SetID": "bm6el81",
       "Name": "Master of Secondaries",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -10216,9 +10216,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 478
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -10607,8 +10607,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:10:56.3004201+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:15.105514+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:16.7732521+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:10:56.3004987+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:51.3054314+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:15.1056226+00:00"
 }

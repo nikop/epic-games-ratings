@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -3768,9 +3768,9 @@
       "ID": "ACH_BOOK_5",
       "SetID": "7k95e4n",
       "Name": "Humble beginnings",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3800,9 +3800,9 @@
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -3944,9 +3944,9 @@
       "ID": "ACH_STAR_4",
       "SetID": "7k95e4n",
       "Name": "Nearly there",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_STAR_5",
@@ -3993,8 +3993,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-22T05:00:40.8775564+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:09:45.7866298+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:09:26.4452167+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:19.5337676+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:58:43.1626265+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:09:45.7866578+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:58:11.9898464+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:09:26.4452461+00:00"
 }

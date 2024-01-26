@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -861,9 +861,9 @@
       "ID": "8",
       "SetID": "41h3j82",
       "Name": "Hoverboard Race",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "9",
@@ -886,8 +886,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:06:49.0537609+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:05:45.4713916+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:35.6207829+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:57:55.9395573+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:06:49.0538076+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:57:41.337461+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:05:45.4714039+00:00"
 }

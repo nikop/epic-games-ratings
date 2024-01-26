@@ -6,27 +6,27 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~998,658 |
-| I Need a Bigger Garage | 63.00% | ~699,061 |
-| Pump my Ride | 47.00% | ~521,521 |
-| Ghostbuster | 34.00% | ~377,271 |
-| Call Roadside Assistance | 18.00% | ~199,732 |
-| That Was Close | 18.00% | ~199,732 |
-| Quickie | 11.00% | ~122,058 |
-| California Dreamer | 7.00% | ~77,673 |
-| Can't Touch This | 5.00% | ~55,481 |
-| Carménère Taster | 4.00% | ~44,385 |
-| Comeback | 4.00% | ~44,385 |
+| The First of Many | 90.00% | ~998,675 |
+| I Need a Bigger Garage | 63.00% | ~699,073 |
+| Pump my Ride | 47.00% | ~521,530 |
+| Ghostbuster | 34.00% | ~377,277 |
+| Call Roadside Assistance | 18.00% | ~199,735 |
+| That Was Close | 18.00% | ~199,735 |
+| Quickie | 11.00% | ~122,060 |
+| California Dreamer | 7.00% | ~77,675 |
+| Can't Touch This | 5.00% | ~55,482 |
+| Carménère Taster | 4.00% | ~44,386 |
+| Comeback | 4.00% | ~44,386 |
 | Driver from Ipanema | 3.00% | ~33,289 |
 | Supersonic | 3.00% | ~33,289 |
 | Marathonist | 3.00% | ~33,289 |
 | Living Legend | 3.00% | ~33,289 |
-| God of Roads | 2.00% | ~22,192 |
-| Pathfinder | 2.00% | ~22,192 |
-| Go-Kart Champion | 2.00% | ~22,192 |
-| Round the Globe | 2.00% | ~22,192 |
-| Completionist | 2.00% | ~22,192 |
-| Harder, Better, Faster, Stronger | 2.00% | ~22,192 |
+| God of Roads | 2.00% | ~22,193 |
+| Pathfinder | 2.00% | ~22,193 |
+| Go-Kart Champion | 2.00% | ~22,193 |
+| Round the Globe | 2.00% | ~22,193 |
+| Completionist | 2.00% | ~22,193 |
+| Harder, Better, Faster, Stronger | 2.00% | ~22,193 |
 | Crocodile Hunter | 1.00% | ~11,096 |
 | Old Master | 1.00% | ~11,096 |
 | The Iceman | 1.00% | ~11,096 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,219 |
 | Transporter | 0.10% | ~1,110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,109,620 (Ranked 15)  
+Progressed: 1,109,639 (Ranked 15)  
 Completed: 540 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 540 (0.05%) (Ranked 351)
 | 2024-01-23 | 1,108,626 | 539 |
 | 2024-01-24 | 1,108,937 | 540 |
 | 2024-01-25 | 1,109,339 | 540 |
-| 2024-01-26 | 1,109,620 | 540 |
+| 2024-01-26 | 1,109,639 | 540 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 316)  
 Sum: 1,663 (Ranked 239)  

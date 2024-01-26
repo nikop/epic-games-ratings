@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -5418,9 +5418,9 @@
       "ID": "ACH_GRAFFITIARTIST",
       "SetID": "7pam6gn",
       "Name": "Graffiti Artist",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 176
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -5434,9 +5434,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1733
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5515,8 +5515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:10:56.5253474+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:15.2832579+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:58:51.6095305+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:10:56.525381+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:58:17.2114703+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:15.2832891+00:00"
 }

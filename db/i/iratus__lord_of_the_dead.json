@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2527,9 +2527,9 @@
       "Count": 105
     }
   ],
-  "EOS_Progressed": 50298,
+  "EOS_Progressed": 50299,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33162,6 +33162,11 @@
       "Time": "2024-01-26T17:06:41.591593+00:00",
       "NumProgressed": 50298,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-26T18:05:40.1760709+00:00",
+      "NumProgressed": 50299,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -33221,7 +33226,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 23640
+      "UsersEstimate": 23641
     },
     {
       "ID": "achievements_17",
@@ -33229,7 +33234,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 17604
+      "UsersEstimate": 17605
     },
     {
       "ID": "achievements_19",
@@ -33237,7 +33242,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "achievements_2",
@@ -33293,7 +33298,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "achievements_26",
@@ -33301,7 +33306,7 @@
       "Name": "Mountain King - I",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 20622
+      "UsersEstimate": 20623
     },
     {
       "ID": "achievements_27",
@@ -33309,7 +33314,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 19616
+      "UsersEstimate": 19617
     },
     {
       "ID": "achievements_28",
@@ -33325,7 +33330,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 16095
+      "UsersEstimate": 16096
     },
     {
       "ID": "achievements_3",
@@ -33341,7 +33346,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 15592
+      "UsersEstimate": 15593
     },
     {
       "ID": "achievements_31",
@@ -33357,7 +33362,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 17101
+      "UsersEstimate": 17102
     },
     {
       "ID": "achievements_33",
@@ -33365,7 +33370,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14586
+      "UsersEstimate": 14587
     },
     {
       "ID": "achievements_34",
@@ -33477,7 +33482,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 42753
+      "UsersEstimate": 42754
     },
     {
       "ID": "achievements_47",
@@ -33509,7 +33514,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 25149
+      "UsersEstimate": 25150
     },
     {
       "ID": "achievements_50",
@@ -33525,7 +33530,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 20119
+      "UsersEstimate": 20120
     },
     {
       "ID": "achievements_52",
@@ -33533,7 +33538,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 21125
+      "UsersEstimate": 21126
     },
     {
       "ID": "achievements_53",
@@ -33549,7 +33554,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 21628
+      "UsersEstimate": 21629
     },
     {
       "ID": "achievements_55",
@@ -33597,7 +33602,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 17101
+      "UsersEstimate": 17102
     },
     {
       "ID": "achievements_61",
@@ -33613,7 +33618,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13077
+      "UsersEstimate": 13078
     },
     {
       "ID": "achievements_63",
@@ -33621,7 +33626,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 12574
+      "UsersEstimate": 12575
     },
     {
       "ID": "achievements_64",
@@ -33677,7 +33682,7 @@
       "Name": "Blind Rage",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18610
+      "UsersEstimate": 18611
     },
     {
       "ID": "achievements_70",
@@ -33757,7 +33762,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14586
+      "UsersEstimate": 14587
     },
     {
       "ID": "achievements_9",
@@ -33772,15 +33777,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 50298,
+      "Progressed": 50299,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-26T13:01:53.8875484+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:06:41.5915927+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:05:40.1760705+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.5697098+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:46.2894548+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:06:41.5917544+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:00:11.1174071+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:05:40.1762845+00:00"
 }

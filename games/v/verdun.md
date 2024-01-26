@@ -1,22 +1,22 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 573)  
+Rating: 4.53 (Ranked 574)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,987 |
-| Worth it | 63.00% | ~44,412 |
-| Eagle Eye | 54.00% | ~38,068 |
-| Corpseman I | 39.00% | ~27,493 |
-| Blast fishing | 37.00% | ~26,084 |
-| Not alone | 32.00% | ~22,559 |
-| Headhunter I | 26.00% | ~18,329 |
-| Developers, Developers, Developers | 24.00% | ~16,919 |
-| Manual Labour I | 24.00% | ~16,919 |
-| Basic Training | 23.00% | ~16,214 |
-| Furchtlos und Treu | 13.00% | ~9,164 |
+| Setting an example | 78.00% | ~54,992 |
+| Worth it | 63.00% | ~44,417 |
+| Eagle Eye | 54.00% | ~38,072 |
+| Corpseman I | 39.00% | ~27,496 |
+| Blast fishing | 37.00% | ~26,086 |
+| Not alone | 32.00% | ~22,561 |
+| Headhunter I | 26.00% | ~18,331 |
+| Developers, Developers, Developers | 24.00% | ~16,921 |
+| Manual Labour I | 24.00% | ~16,921 |
+| Basic Training | 23.00% | ~16,216 |
+| Furchtlos und Treu | 13.00% | ~9,165 |
 | Gott Mit Uns | 12.00% | ~8,460 |
 | This We'll Defend! | 9.00% | ~6,345 |
 | For King and Country | 9.00% | ~6,345 |
@@ -52,21 +52,21 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~705 |
 | Corpseman III | 1.00% | ~705 |
 | Elite Player | 0.80% | ~564 |
-| Manual Labour III | 0.30% | ~211 |
+| Manual Labour III | 0.30% | ~212 |
 | War is better with friends II | 0.20% | ~141 |
 | Buddy | 0.20% | ~141 |
-| Gold Collector | 0.10% | ~70 |
-| Gold Hoarder | 0.10% | ~70 |
-| Silver Collector | 0.10% | ~70 |
-| Silver Hoarder | 0.10% | ~70 |
-| War is better with friends III | 0.10% | ~70 |
-| War is better with friends IV | 0.10% | ~70 |
-| Aimbot | 0.10% | ~70 |
-| Headhunter III | 0.10% | ~70 |
-| Comrade | 0.10% | ~70 |
-| Blood Brother | 0.10% | ~70 |
+| Gold Collector | 0.10% | ~71 |
+| Gold Hoarder | 0.10% | ~71 |
+| Silver Collector | 0.10% | ~71 |
+| Silver Hoarder | 0.10% | ~71 |
+| War is better with friends III | 0.10% | ~71 |
+| War is better with friends IV | 0.10% | ~71 |
+| Aimbot | 0.10% | ~71 |
+| Headhunter III | 0.10% | ~71 |
+| Comrade | 0.10% | ~71 |
+| Blood Brother | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,496 (Ranked 117)  
+Progressed: 70,503 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-23 | 70,281 | 4 |
 | 2024-01-24 | 70,351 | 4 |
 | 2024-01-25 | 70,436 | 4 |
-| 2024-01-26 | 70,496 | 4 |
+| 2024-01-26 | 70,503 | 4 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 378)  
 Sum: 844 (Ranked 291)  

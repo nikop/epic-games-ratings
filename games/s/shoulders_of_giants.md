@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 837)
 | A Ribbiting Performance | 76.00% | ~1,778 |
 | At Least We Have Each Other... | 74.00% | ~1,732 |
 | Frogbot | 72.00% | ~1,685 |
-| Ouch | 54.00% | ~1,264 |
+| Ouch | 55.00% | ~1,287 |
 | Fun in the Stun | 53.00% | ~1,240 |
 | The Interdimensional Power of Friendship | 44.00% | ~1,030 |
 | Do you feel like a tough guy? | 43.00% | ~1,006 |

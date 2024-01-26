@@ -2,10 +2,10 @@
   "ID": "1903efa2b18040089ecbd796f9ec3a16",
   "Name": "Extreme Formula Championship",
   "ProductSlug": "extreme-formula-championship-a8271d",
-  "Ranking_EOS_Progress": 690,
+  "Ranking_EOS_Progress": 691,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
     "PcReleaseDate": "2015-05-03T18:30:00+00:00",
@@ -121,8 +121,8 @@
   ],
   "FirstSeen": "2023-12-22T19:57:40.0065945+00:00",
   "FirstSeenAchievements": "2023-11-30T19:03:25.6411727+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:08:36.4585199+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:08:39.7952655+00:00",
   "LastUpdate_AppInfo": "2024-01-25T23:57:02.5528755+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:02:22.7482136+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:08:36.4585337+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:03.9835305+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:08:39.7952695+00:00"
 }

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~93,352 |
-| Enemy Attrition | 67.00% | ~68,732 |
-| Grim Reaper | 66.00% | ~67,706 |
-| Heads Down | 63.00% | ~64,629 |
-| Not On My Watch | 60.00% | ~61,551 |
-| Combat Engineer | 41.00% | ~42,060 |
-| Eager Beaver | 32.00% | ~32,827 |
-| Call ’em in! | 30.00% | ~30,776 |
-| Lovely | 28.00% | ~28,724 |
-| Store fuglar fanga ingi flugor | 17.00% | ~17,439 |
-| Ou La Mort | 15.00% | ~15,388 |
-| Elite | 14.00% | ~14,362 |
-| Fender Bender | 8.00% | ~8,207 |
-| Globetrotter | 7.00% | ~7,181 |
-| Storyteller | 5.00% | ~5,129 |
-| Jack of All Trades | 5.00% | ~5,129 |
-| Off-hand | 3.00% | ~3,078 |
-| Death from Above | 2.00% | ~2,052 |
-| Veteran | 0.90% | ~923 |
-| Hoist the Flag | 0.30% | ~308 |
-| Sins of the Fathers | 0.20% | ~205 |
+| Last Man Standing | 91.00% | ~93,591 |
+| Enemy Attrition | 67.00% | ~68,907 |
+| Grim Reaper | 66.00% | ~67,879 |
+| Heads Down | 63.00% | ~64,794 |
+| Not On My Watch | 60.00% | ~61,708 |
+| Combat Engineer | 41.00% | ~42,167 |
+| Eager Beaver | 32.00% | ~32,911 |
+| Call ’em in! | 30.00% | ~30,854 |
+| Lovely | 28.00% | ~28,797 |
+| Store fuglar fanga ingi flugor | 17.00% | ~17,484 |
+| Ou La Mort | 15.00% | ~15,427 |
+| Elite | 14.00% | ~14,399 |
+| Fender Bender | 8.00% | ~8,228 |
+| Globetrotter | 7.00% | ~7,199 |
+| Storyteller | 5.00% | ~5,142 |
+| Jack of All Trades | 5.00% | ~5,142 |
+| Off-hand | 3.00% | ~3,085 |
+| Death from Above | 2.00% | ~2,057 |
+| Veteran | 0.90% | ~926 |
+| Hoist the Flag | 0.30% | ~309 |
+| Sins of the Fathers | 0.20% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,585 (Ranked 102)  
+Progressed: 102,847 (Ranked 102)  
 Completed: 1 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,4 +158,4 @@ Completed: 1 (0.00%) (Ranked 414)
 | 2024-01-23 | 101,973 | 1 |
 | 2024-01-24 | 102,278 | 1 |
 | 2024-01-25 | 102,552 | 1 |
-| 2024-01-26 | 102,585 | 1 |
+| 2024-01-26 | 102,847 | 1 |

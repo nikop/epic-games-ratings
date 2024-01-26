@@ -33,13 +33,13 @@ Rating: 4.57 (Ranked 498)
 | Complete the Chefs Book | 1.00% | ~24 |
 | Defeat Avor Warden of the Northern Wastes | 1.00% | ~24 |
 | Defeat Rattus Augustail | 1.00% | ~24 |
+| Discover the mystery of the Kings Chambers | 1.00% | ~24 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | Complete Ranger Faction | 0.90% | ~21 |
-| Discover the mystery of the Kings Chambers | 0.90% | ~21 |
 | Complete Redgi's Armory | 0.80% | ~19 |
+| King of Kings | 0.80% | ~19 |
 | Complete Arena Faction | 0.80% | ~19 |
-| King of Kings | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,353 (Ranked 249)  

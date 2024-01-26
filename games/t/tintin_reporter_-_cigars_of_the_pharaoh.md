@@ -17,13 +17,13 @@
 | In the Name of the Law | 14.00% | ~20 |
 | Au Revoir, Abudin | 14.00% | ~20 |
 | Mysterious Bungalow | 13.00% | ~19 |
-| The Eyes! | 11.00% | ~16 |
-| Keep the Doctor Away | 10.00% | ~14 |
+| The Eyes! | 12.00% | ~17 |
+| Keep the Doctor Away | 11.00% | ~16 |
+| Punctual | 11.00% | ~16 |
 | Just a Palm Tree | 10.00% | ~14 |
 | Under the Hood | 10.00% | ~14 |
 | Long Live Gaipajama! | 10.00% | ~14 |
 | Eyes Shut | 10.00% | ~14 |
-| Punctual | 10.00% | ~14 |
 | Barking Dog | 9.00% | ~13 |
 | Tintin, Reporter | 8.00% | ~11 |
 | Mummy Nightmare | 7.00% | ~10 |
@@ -31,9 +31,9 @@
 | Subtlety | 7.00% | ~10 |
 | Jungle Runner | 3.00% | ~4 |
 | A Yummy Detour | 3.00% | ~4 |
+| Threat | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | Guilt | 2.00% | ~3 |
-| Threat | 2.00% | ~3 |
 | A Diagnosis | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
 | Trials of Kih-Oskh | 0.70% | ~1 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143 (Ranked 481)  
+Progressed: 143 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |

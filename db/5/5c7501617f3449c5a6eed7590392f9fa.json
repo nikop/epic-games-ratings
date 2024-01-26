@@ -4,8 +4,8 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1565,9 +1565,9 @@
       "ID": "Ach-05-burak",
       "SetID": "2pjo9pi",
       "Name": "Burak",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach-05-chameleon",
@@ -1717,9 +1717,9 @@
       "ID": "Ach-level-6",
       "SetID": "2pjo9pi",
       "Name": "Level 6",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach-mytologie",
@@ -1740,8 +1740,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:10:12.1527127+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:09:44.8193843+00:00",
   "LastUpdate_AppInfo": "2024-01-24T23:57:00.6054559+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:59:17.3490881+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:10:12.1527552+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:58:33.4426057+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:09:44.8194276+00:00"
 }

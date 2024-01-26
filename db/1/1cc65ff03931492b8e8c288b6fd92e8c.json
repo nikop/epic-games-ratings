@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-20T20:00:00+00:00",
     "PcReleaseDate": "2023-06-20T20:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "NEW_ACHIEVEMENT_6",
       "SetID": "ab695d",
       "Name": "GIMME",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_7",
@@ -270,8 +270,8 @@
   ],
   "FirstSeen": "2023-06-22T13:57:49.6515967+00:00",
   "FirstSeenAchievements": "2023-06-14T11:02:04.2165239+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:11:00.8038661+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:18.2667292+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:23.9625877+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:02:03.3344676+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:11:00.8038777+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:00:22.1214214+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:18.2667384+00:00"
 }

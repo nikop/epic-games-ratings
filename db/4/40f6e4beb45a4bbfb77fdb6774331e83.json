@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-23T18:00:00+00:00",
@@ -156,9 +156,9 @@
       "ID": "Turkey",
       "SetID": "8ohdpka",
       "Name": "Turkey",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -170,8 +170,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:07:03.1038046+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:05:54.9845578+00:00",
   "LastUpdate_AppInfo": "2024-01-25T14:57:17.4899058+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:59:27.1844506+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:07:03.1038129+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:58:39.7015202+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:05:54.9845705+00:00"
 }

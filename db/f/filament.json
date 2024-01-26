@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -468,9 +468,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 209805,
+  "EOS_Progressed": 209811,
   "EOS_Completed": 571,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30498,6 +30498,11 @@
       "Time": "2024-01-26T17:04:29.9047976+00:00",
       "NumProgressed": 209805,
       "NumCompleted": 571
+    },
+    {
+      "Time": "2024-01-26T18:04:08.3080981+00:00",
+      "NumProgressed": 209811,
+      "NumCompleted": 571
     }
   ],
   "TotalAchievements": 29,
@@ -30533,7 +30538,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 197217
+      "UsersEstimate": 197222
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30589,7 +30594,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10490
+      "UsersEstimate": 10491
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -30645,7 +30650,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12588
+      "UsersEstimate": 12589
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -30669,7 +30674,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10490
+      "UsersEstimate": 10491
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -30693,7 +30698,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20980
+      "UsersEstimate": 20981
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -30709,7 +30714,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16784
+      "UsersEstimate": 16785
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -30740,7 +30745,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209805,
+      "Progressed": 209811,
       "Completed": 571
     }
   ],
@@ -30748,8 +30753,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-26T07:59:27.0570371+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:04:29.9047968+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:04:08.3080977+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:00:49.991407+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:04:29.90494+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:32.5095817+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:04:08.3083008+00:00"
 }

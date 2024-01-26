@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -6203,7 +6203,7 @@
   ],
   "EOS_Progressed": 14338,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -26331,9 +26331,9 @@
       "ID": "Bestest_Friend",
       "SetID": "chapdi4",
       "Name": "Bestest Friend",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 6309
+      "UsersEstimate": 6452
     },
     {
       "ID": "Chef_Cook",
@@ -26371,9 +26371,9 @@
       "ID": "Gardener",
       "SetID": "chapdi4",
       "Name": "Gardener",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4445
     },
     {
       "ID": "Generous",
@@ -26444,8 +26444,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-26T13:04:43.9801066+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:10:00.1621449+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:09:36.706824+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:02:21.6932014+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:10:00.1622514+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:03.3827897+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:09:36.7069265+00:00"
 }

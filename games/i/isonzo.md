@@ -6,16 +6,16 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,129 |
-| Tutti Eroi! | 50.00% | ~5,028 |
-| Peak Performance | 45.00% | ~4,525 |
-| Avanti Savoia! | 44.00% | ~4,425 |
+| You Shall Not Pass | 51.00% | ~5,130 |
+| Tutti Eroi! | 50.00% | ~5,029 |
+| Peak Performance | 45.00% | ~4,526 |
+| Avanti Savoia! | 44.00% | ~4,426 |
 | Mamma Mia! | 35.00% | ~3,520 |
-| Conrad von Hotzensocks | 32.00% | ~3,218 |
-| Gabriele D'Annunzio | 32.00% | ~3,218 |
-| Silver Lining | 27.00% | ~2,715 |
-| Aurelio Baruzzi | 20.00% | ~2,011 |
-| Decimation | 20.00% | ~2,011 |
+| Conrad von Hotzensocks | 32.00% | ~3,219 |
+| Gabriele D'Annunzio | 32.00% | ~3,219 |
+| Silver Lining | 27.00% | ~2,716 |
+| Aurelio Baruzzi | 20.00% | ~2,012 |
+| Decimation | 20.00% | ~2,012 |
 | Donatello | 19.00% | ~1,911 |
 | Insubordination | 19.00% | ~1,911 |
 | The Italian Job | 19.00% | ~1,911 |
@@ -23,8 +23,8 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 18.00% | ~1,810 |
 | Luigi Cadorna | 16.00% | ~1,609 |
 | The Lion of the Isonzo | 14.00% | ~1,408 |
-| Shaken, Not Stirred | 13.00% | ~1,307 |
-| Uomo Universale | 13.00% | ~1,307 |
+| Shaken, Not Stirred | 13.00% | ~1,308 |
+| Uomo Universale | 13.00% | ~1,308 |
 | Die Bosniaken Kommen! | 12.00% | ~1,207 |
 | Dirty Dozen | 12.00% | ~1,207 |
 | Machiavelli | 11.00% | ~1,106 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~905 |
 | I Have the High Ground | 9.00% | ~905 |
 | Millenial | 9.00% | ~905 |
-| The Show Must Go On | 8.00% | ~804 |
-| Tosca | 8.00% | ~804 |
+| The Show Must Go On | 8.00% | ~805 |
+| Tosca | 8.00% | ~805 |
 | 12th Bottle of the Isonzo | 6.00% | ~603 |
 | Cercatore d'Oro | 6.00% | ~603 |
 | The Enlightment | 6.00% | ~603 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,056 (Ranked 189)  
+Progressed: 10,058 (Ranked 189)  
 Completed: 10 (0.10%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 10 (0.10%) (Ranked 325)
 | 2024-01-23 | 10,037 | 10 |
 | 2024-01-24 | 10,044 | 10 |
 | 2024-01-25 | 10,051 | 10 |
-| 2024-01-26 | 10,056 | 10 |
+| 2024-01-26 | 10,058 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 482)  
 Sum: 345 (Ranked 371)  

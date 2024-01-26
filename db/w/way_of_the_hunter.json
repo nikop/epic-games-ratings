@@ -2,13 +2,13 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 762,
   "Ranking_Popularity": 431,
-  "Ranking_PopularitySum": 363,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -1697,10 +1697,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 395,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-01-26T18:03:24.8261903+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 395,
+  "NumberOfAwards": 396,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1774,7 +1780,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has a Creative Community",
@@ -1785,7 +1791,7 @@
   ],
   "EOS_Progressed": 2762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6297,9 +6303,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2024-01-26T06:03:20.2155874+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:11:05.9795074+00:00",
+  "LastChanged": "2024-01-26T18:03:24.8261902+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:22.0313876+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:35.6590224+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:02:55.1476157+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:11:05.9795495+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:24.8261906+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:22.031424+00:00"
 }

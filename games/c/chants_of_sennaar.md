@@ -15,9 +15,9 @@ Rating: 4.87 (Ranked 24)
 | The darkness | 33.00% | ~997 |
 | A good beginning | 32.00% | ~966 |
 | One last step | 31.00% | ~936 |
+| Half the way | 30.00% | ~906 |
 | I did it | 29.00% | ~876 |
 | Cable guy | 29.00% | ~876 |
-| Half the way | 29.00% | ~876 |
 | In this together | 28.00% | ~846 |
 | Peace walker | 28.00% | ~846 |
 | Champollion | 28.00% | ~846 |
@@ -28,7 +28,7 @@ Rating: 4.87 (Ranked 24)
 | Free at last | 21.00% | ~634 |
 | A Link to the Past | 18.00% | ~544 |
 | A great audience | 16.00% | ~483 |
-| For its own good | 15.00% | ~453 |
+| For its own good | 16.00% | ~483 |
 | Fashion victim | 10.00% | ~302 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,020 (Ranked 236)  

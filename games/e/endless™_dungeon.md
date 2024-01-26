@@ -14,16 +14,16 @@
 | Team Builder | 20.00% | ~326 |
 | Long Live Rock | 17.00% | ~277 |
 | Aggressive Antivirus | 15.00% | ~244 |
+| Effective Efficiency | 13.00% | ~212 |
 | Unblurred Lines | 12.00% | ~195 |
 | Obsessively Thorough | 12.00% | ~195 |
-| Effective Efficiency | 12.00% | ~195 |
 | Endlessly Effective | 11.00% | ~179 |
 | What's Behind Every Door? | 6.00% | ~98 |
 | No Stone Unturned | 5.00% | ~81 |
 | Turret Syndrome | 2.00% | ~33 |
 | Endless Biographer | 1.00% | ~16 |
 | All Your Secrets Are Belong to Us | 1.00% | ~16 |
-| Grab 'Em All | 0.20% | ~3 |
+| Grab 'Em All | 0.30% | ~5 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |
 | Finishing an Endless Story | 0.00% | ~0 |

@@ -5,18 +5,18 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,817 |
-| I Challenge You To Save More Money! | 81.00% | ~15,479 |
+| Last Night...Did We... | 88.00% | ~16,818 |
+| I Challenge You To Save More Money! | 81.00% | ~15,480 |
 | I Love How Tough You Are | 66.00% | ~12,613 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,275 |
-| What I Want Is You | 54.00% | ~10,319 |
-| To Be Or Not To Be | 51.00% | ~9,746 |
+| What I Want Is You | 54.00% | ~10,320 |
+| To Be Or Not To Be | 51.00% | ~9,747 |
 | Are You Alright? | 48.00% | ~9,173 |
-| Love Actually | 42.00% | ~8,026 |
+| Love Actually | 42.00% | ~8,027 |
 | Drama King | 37.00% | ~7,071 |
-| Go Clean up In Your Own Way | 34.00% | ~6,497 |
-| You're Really Something Else | 33.00% | ~6,306 |
-| Drama CP: Reel to Real | 32.00% | ~6,115 |
+| Go Clean up In Your Own Way | 34.00% | ~6,498 |
+| You're Really Something Else | 33.00% | ~6,307 |
+| Drama CP: Reel to Real | 32.00% | ~6,116 |
 | FIRST LOVE | 31.00% | ~5,924 |
 | Worthless Speech | 31.00% | ~5,924 |
 | Happy Family | 30.00% | ~5,733 |
@@ -32,9 +32,9 @@ Rating: 4.69 (Ranked 242)
 | That's So You | 22.00% | ~4,204 |
 | SALUTE | 22.00% | ~4,204 |
 | Let Me Be Your Toy Boy | 21.00% | ~4,013 |
-| Off We Sail Tonight | 15.00% | ~2,866 |
-| Love You Three Thousand | 14.00% | ~2,675 |
-| Can You Do This Or Not? | 14.00% | ~2,675 |
+| Off We Sail Tonight | 15.00% | ~2,867 |
+| Love You Three Thousand | 14.00% | ~2,676 |
+| Can You Do This Or Not? | 14.00% | ~2,676 |
 | Doesn't Matter I'll Handle It | 12.00% | ~2,293 |
 | The Flash | 11.00% | ~2,102 |
 | New Yoga Pose Unlocked | 10.00% | ~1,911 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 242)
 | Tall; Grande; Venti | 2.00% | ~382 |
 | Limerence | 2.00% | ~382 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,110 (Ranked 162)  
+Progressed: 19,111 (Ranked 163)  
 Completed: 344 (1.80%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 344 (1.80%) (Ranked 149)
 | 2024-01-23 | 19,011 | 339 |
 | 2024-01-24 | 19,035 | 341 |
 | 2024-01-25 | 19,076 | 343 |
-| 2024-01-26 | 19,110 | 344 |
+| 2024-01-26 | 19,111 | 344 |
 ## Awards
 Max (Impact the Story): 42  (Ranked 488)  
 Sum: 42 (Ranked 531)  

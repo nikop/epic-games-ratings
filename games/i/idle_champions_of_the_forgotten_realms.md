@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,787 |
+| A Brief Tour of the Realms | 5.00% | ~12,788 |
 | Beast Intentions | 2.00% | ~5,115 |
 | The Cursed Farmer | 2.00% | ~5,115 |
 | The Mad Wizard | 2.00% | ~5,115 |
-| Were-verpowered | 1.00% | ~2,557 |
-| The Ring of Regeneration | 1.00% | ~2,557 |
-| Are Ya Chicken? | 1.00% | ~2,557 |
+| Were-verpowered | 1.00% | ~2,558 |
+| The Ring of Regeneration | 1.00% | ~2,558 |
+| Are Ya Chicken? | 1.00% | ~2,558 |
 | Seeking Allies | 0.90% | ~2,302 |
 | Mad Cow Disease | 0.90% | ~2,302 |
 | Friendly Imps | 0.90% | ~2,302 |
@@ -20,11 +20,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,776 |
 | A Persistent Buzzing | 0.70% | ~1,790 |
 | Fast Food | 0.70% | ~1,554 |
-| Maddening | 0.60% | ~1,534 |
-| Terror in the Dark | 0.60% | ~1,534 |
-| Unearthed Evil | 0.60% | ~1,534 |
-| The Crumbling Temple | 0.60% | ~1,534 |
-| The Contagious Curse | 0.60% | ~1,534 |
+| Maddening | 0.60% | ~1,535 |
+| Terror in the Dark | 0.60% | ~1,535 |
+| Unearthed Evil | 0.60% | ~1,535 |
+| The Crumbling Temple | 0.60% | ~1,535 |
+| The Contagious Curse | 0.60% | ~1,535 |
 | Beast Mode | 0.50% | ~1,279 |
 | A Mysterious Summons | 0.50% | ~1,279 |
 | Building Trust | 0.50% | ~1,279 |
@@ -71,77 +71,77 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.30% | ~767 |
 | Easily Distracted | 0.30% | ~767 |
 | Rescue in the Jungle | 0.30% | ~767 |
-| Pros and CONs | 0.20% | ~511 |
-| Upholding the Law | 0.20% | ~511 |
+| Pros and CONs | 0.20% | ~512 |
+| Upholding the Law | 0.20% | ~512 |
 | Tall Tales | 0.20% | ~444 |
-| Wet Feet | 0.20% | ~511 |
-| Hatchlings Underfoot | 0.20% | ~511 |
-| Don't Look Up! | 0.20% | ~511 |
-| Heavy Burden | 0.20% | ~511 |
+| Wet Feet | 0.20% | ~512 |
+| Hatchlings Underfoot | 0.20% | ~512 |
+| Don't Look Up! | 0.20% | ~512 |
+| Heavy Burden | 0.20% | ~512 |
 | Vecna Lives! | 0.20% | ~444 |
 | A Demi-god's Defender | 0.20% | ~444 |
 | Vecna Loots! | 0.20% | ~444 |
-| Friends of the Forest | 0.20% | ~511 |
+| Friends of the Forest | 0.20% | ~512 |
 | Return to the Tomb | 0.20% | ~444 |
 | Heatwave | 0.20% | ~444 |
 | The Dread Domain of Tovag | 0.20% | ~444 |
-| Lobsterfolk Assault | 0.20% | ~511 |
-| The Forbidden City | 0.20% | ~511 |
-| Captured! | 0.20% | ~511 |
-| Home Field Advantage | 0.20% | ~511 |
-| Force Grey Unleashed | 0.20% | ~511 |
-| Vajra's Guards | 0.20% | ~511 |
-| Sleuth It Out | 0.20% | ~511 |
+| Lobsterfolk Assault | 0.20% | ~512 |
+| The Forbidden City | 0.20% | ~512 |
+| Captured! | 0.20% | ~512 |
+| Home Field Advantage | 0.20% | ~512 |
+| Force Grey Unleashed | 0.20% | ~512 |
+| Vajra's Guards | 0.20% | ~512 |
+| Sleuth It Out | 0.20% | ~512 |
 | The Newcomers of Notoriety | 0.20% | ~444 |
-| A Grand Puzzle | 0.20% | ~511 |
-| Tomb of the Nine Gods | 0.20% | ~511 |
-| The Mists of Ravenloft | 0.20% | ~511 |
-| The Hunt for Owl-y | 0.20% | ~511 |
-| Werewolves in the Mist | 0.20% | ~511 |
-| Family Entanglements | 0.20% | ~511 |
-| Chatty Nobles | 0.20% | ~511 |
-| Modron Assistance | 0.20% | ~511 |
+| A Grand Puzzle | 0.20% | ~512 |
+| Tomb of the Nine Gods | 0.20% | ~512 |
+| The Mists of Ravenloft | 0.20% | ~512 |
+| The Hunt for Owl-y | 0.20% | ~512 |
+| Werewolves in the Mist | 0.20% | ~512 |
+| Family Entanglements | 0.20% | ~512 |
+| Chatty Nobles | 0.20% | ~512 |
+| Modron Assistance | 0.20% | ~512 |
 | Thine Bounty is Mine! | 0.20% | ~444 |
-| Haaave You Met Asmodeus? | 0.20% | ~511 |
-| Domesticated Owlbears | 0.20% | ~511 |
+| Haaave You Met Asmodeus? | 0.20% | ~512 |
+| Domesticated Owlbears | 0.20% | ~512 |
 | This Quest Stinks! | 0.20% | ~444 |
-| The Immortal Warrior | 0.20% | ~511 |
-| The Wyrmheart Mine | 0.20% | ~511 |
-| Tower on the Lake | 0.20% | ~511 |
-| Seeds of Deceit | 0.20% | ~511 |
-| The Gargoyle's Apprentice | 0.20% | ~511 |
-| House of Darkness | 0.20% | ~511 |
+| The Immortal Warrior | 0.20% | ~512 |
+| The Wyrmheart Mine | 0.20% | ~512 |
+| Tower on the Lake | 0.20% | ~512 |
+| Seeds of Deceit | 0.20% | ~512 |
+| The Gargoyle's Apprentice | 0.20% | ~512 |
+| House of Darkness | 0.20% | ~512 |
 | Home Not So Alone | 0.20% | ~444 |
-| The Trepidatious Trio | 0.20% | ~511 |
-| Our Time To Shine | 0.20% | ~511 |
-| Treasure Hunters | 0.20% | ~511 |
-| The Guardian of Orolunga | 0.20% | ~511 |
-| The Lost Love | 0.20% | ~511 |
-| A Saurial's Resolve | 0.20% | ~511 |
-| Flies on the Wall | 0.20% | ~511 |
-| Backtracking Through Barovia | 0.20% | ~511 |
-| Nimblest Escape | 0.20% | ~511 |
-| Stumbling Escape | 0.20% | ~511 |
-| Fugitives | 0.20% | ~511 |
-| From The Shadows | 0.20% | ~511 |
-| Spined Nuisances | 0.20% | ~511 |
-| Excavating History | 0.20% | ~511 |
-| Towering Expectations | 0.20% | ~511 |
-| Hopelessly Lost | 0.20% | ~511 |
-| Enter the Sargauth | 0.20% | ~511 |
-| Slow and Steady | 0.20% | ~511 |
-| Lair of the Xanathar | 0.20% | ~511 |
-| Waterdeep Under Siege | 0.20% | ~511 |
-| Crowded Streets | 0.20% | ~511 |
-| The Darkness Runs Deeper | 0.20% | ~511 |
-| Difficult Terrain | 0.20% | ~511 |
-| Vault of Dragons | 0.20% | ~511 |
-| Champions of Waterdeep | 0.20% | ~511 |
-| Elturel Has Fallen | 0.20% | ~511 |
-| Resolve Amongst Chaos | 0.20% | ~511 |
-| Market Fluctuations | 0.20% | ~511 |
-| Once More Into The Breach | 0.20% | ~511 |
-| Wyllowwood | 0.20% | ~511 |
+| The Trepidatious Trio | 0.20% | ~512 |
+| Our Time To Shine | 0.20% | ~512 |
+| Treasure Hunters | 0.20% | ~512 |
+| The Guardian of Orolunga | 0.20% | ~512 |
+| The Lost Love | 0.20% | ~512 |
+| A Saurial's Resolve | 0.20% | ~512 |
+| Flies on the Wall | 0.20% | ~512 |
+| Backtracking Through Barovia | 0.20% | ~512 |
+| Nimblest Escape | 0.20% | ~512 |
+| Stumbling Escape | 0.20% | ~512 |
+| Fugitives | 0.20% | ~512 |
+| From The Shadows | 0.20% | ~512 |
+| Spined Nuisances | 0.20% | ~512 |
+| Excavating History | 0.20% | ~512 |
+| Towering Expectations | 0.20% | ~512 |
+| Hopelessly Lost | 0.20% | ~512 |
+| Enter the Sargauth | 0.20% | ~512 |
+| Slow and Steady | 0.20% | ~512 |
+| Lair of the Xanathar | 0.20% | ~512 |
+| Waterdeep Under Siege | 0.20% | ~512 |
+| Crowded Streets | 0.20% | ~512 |
+| The Darkness Runs Deeper | 0.20% | ~512 |
+| Difficult Terrain | 0.20% | ~512 |
+| Vault of Dragons | 0.20% | ~512 |
+| Champions of Waterdeep | 0.20% | ~512 |
+| Elturel Has Fallen | 0.20% | ~512 |
+| Resolve Amongst Chaos | 0.20% | ~512 |
+| Market Fluctuations | 0.20% | ~512 |
+| Once More Into The Breach | 0.20% | ~512 |
+| Wyllowwood | 0.20% | ~512 |
 | An Illithid Undertaking | 0.20% | ~444 |
 | Déjà Vu | 0.20% | ~444 |
 | Into The Fire | 0.20% | ~444 |
@@ -154,14 +154,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.20% | ~444 |
 | Questlines | 0.20% | ~444 |
 | The Giant's Bane Tavern | 0.20% | ~444 |
-| The Long Haul | 0.20% | ~511 |
-| Lost in the Deep | 0.20% | ~511 |
-| Rude Welcome | 0.20% | ~511 |
-| Durable Deep | 0.20% | ~511 |
+| The Long Haul | 0.20% | ~512 |
+| Lost in the Deep | 0.20% | ~512 |
+| Rude Welcome | 0.20% | ~512 |
+| Durable Deep | 0.20% | ~512 |
 | The Sibriex | 0.20% | ~444 |
-| Expert Opinion | 0.20% | ~511 |
-| The Haunted Jungle | 0.20% | ~511 |
-| Poor Guidance | 0.20% | ~511 |
+| Expert Opinion | 0.20% | ~512 |
+| The Haunted Jungle | 0.20% | ~512 |
+| Poor Guidance | 0.20% | ~512 |
 | The Beginning is the End | 0.20% | ~444 |
 | A Wise Approach | 0.20% | ~444 |
 | The Brains of an Illithid's Desire | 0.20% | ~444 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,740 (Ranked 71)  
+Progressed: 255,751 (Ranked 71)  
 Completed: 2,650 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -834,7 +834,7 @@ Completed: 2,650 (1.04%) (Ranked 179)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,740 | 2,650 |
+| 2024-01-26 | 255,751 | 2,650 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,650 (Ranked 42)  

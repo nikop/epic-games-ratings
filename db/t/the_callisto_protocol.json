@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2381,9 +2381,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22753,
+  "EOS_Progressed": 22754,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14991,6 +14991,11 @@
       "Time": "2024-01-26T15:10:12.4966126+00:00",
       "NumProgressed": 22753,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-26T18:10:13.9405566+00:00",
+      "NumProgressed": 22754,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15122,7 +15127,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -15210,15 +15215,15 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3640
+      "UsersEstimate": 3641
     },
     {
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3413
     },
     {
       "ID": "STORY_MINETOWN",
@@ -15234,7 +15239,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6143
+      "UsersEstimate": 6144
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15242,7 +15247,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "STORY_TOWER",
@@ -15377,13 +15382,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22753,
+      "Progressed": 22754,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10679,
+      "Progressed": 10680,
       "Completed": 29
     }
   ],
@@ -15391,8 +15396,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:10:54.5831159+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:10:13.9405563+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:03:24.3091999+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:10:54.5832026+00:00"
+  "LastUpdate_Ratings": "2024-01-26T18:03:44.458163+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:10:13.9406316+00:00"
 }

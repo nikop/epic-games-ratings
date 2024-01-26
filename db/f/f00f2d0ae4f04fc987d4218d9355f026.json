@@ -4,8 +4,8 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "DiagnosticMaster",
       "SetID": "aaidab7",
       "Name": "Diagnostic Master",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DiagnosticPro",
@@ -683,9 +683,9 @@
       "ID": "LethalWalkInThePark",
       "SetID": "aaidab7",
       "Name": "Lethal Walk In The Park",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Loaded",
@@ -779,9 +779,9 @@
       "ID": "RespiratoryCollapse",
       "SetID": "aaidab7",
       "Name": "Respiratory Collapse",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "RichieRich",
@@ -842,8 +842,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:08:40.4559534+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:08:42.644893+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-26T17:01:10.0361072+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:08:40.4559786+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:59:45.5971103+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:08:42.6449173+00:00"
 }

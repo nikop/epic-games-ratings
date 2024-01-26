@@ -4,8 +4,8 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 164,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -383,9 +383,9 @@
       "ID": "ACH_DEEP-POCKETED",
       "SetID": "6lg1p1e",
       "Name": "Deep Pockets",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_EXOTIC-ARSENAL",
@@ -431,9 +431,9 @@
       "ID": "ACH_HELPFUL-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Helpful Bread",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HOUSE-ARREST",
@@ -463,9 +463,9 @@
       "ID": "ACH_LOREMASTER",
       "SetID": "6lg1p1e",
       "Name": "Lore Master",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_MISCHIEVOUS-BREAD",
@@ -495,9 +495,9 @@
       "ID": "ACH_PACK-RAT",
       "SetID": "6lg1p1e",
       "Name": "Pack Rat",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_PARTNER",
@@ -543,17 +543,17 @@
       "ID": "ACH_PROPERTY-DAMAGE",
       "SetID": "6lg1p1e",
       "Name": "Property Damage",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_RACER-CHAMPION",
       "SetID": "6lg1p1e",
       "Name": "Break a Sweat",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_RATATOUIED",
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-26T17:09:58.0324632+00:00",
+  "LastChanged_Achievements": "2024-01-26T18:09:35.1758049+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:48.0822274+00:00",
-  "LastUpdate_Ratings": "2024-01-26T16:57:31.6908609+00:00",
-  "LastUpdate_Achievements": "2024-01-26T17:09:58.0324875+00:00"
+  "LastUpdate_Ratings": "2024-01-26T17:57:25.5778795+00:00",
+  "LastUpdate_Achievements": "2024-01-26T18:09:35.1758293+00:00"
 }

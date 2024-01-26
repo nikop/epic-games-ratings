@@ -40,8 +40,8 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Capacity | 24.00% | ~170 |
 | Demon Meddler | 24.00% | ~170 |
 | Egomaniac | 24.00% | ~170 |
-| Protector of Humanity | 22.00% | ~156 |
-| Everybody Wants to Rule the World | 22.00% | ~156 |
+| Protector of Humanity | 23.00% | ~163 |
+| Everybody Wants to Rule the World | 23.00% | ~163 |
 | Community Outreach | 17.00% | ~121 |
 | Path of the Horseman | 16.00% | ~113 |
 | A Parting Gift | 15.00% | ~106 |

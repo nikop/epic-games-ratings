@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,16 +16,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,888 |
 | Qi Gong: Essence | 3.00% | ~22,888 |
 | Old Child | 3.00% | ~22,888 |
-| A Lady's Blood in the Snow | 2.00% | ~15,258 |
-| Lady Wing Chun | 2.00% | ~15,258 |
-| Furious Fists | 2.00% | ~15,258 |
-| Kill Nil | 2.00% | ~15,258 |
-| Qi Gong: Mind | 2.00% | ~15,258 |
-| Qi Gong: Breath | 2.00% | ~15,258 |
-| I know Kung-Fu | 2.00% | ~15,258 |
-| Path of the Prospect | 2.00% | ~15,258 |
-| Rumble in the Hangar | 2.00% | ~15,258 |
-| Take damage to save time | 2.00% | ~15,258 |
+| Rumble in the Hangar | 3.00% | ~22,888 |
+| A Lady's Blood in the Snow | 2.00% | ~15,259 |
+| Lady Wing Chun | 2.00% | ~15,259 |
+| Furious Fists | 2.00% | ~15,259 |
+| Kill Nil | 2.00% | ~15,259 |
+| Qi Gong: Mind | 2.00% | ~15,259 |
+| Qi Gong: Breath | 2.00% | ~15,259 |
+| I know Kung-Fu | 2.00% | ~15,259 |
+| Path of the Prospect | 2.00% | ~15,259 |
+| Take damage to save time | 2.00% | ~15,259 |
 | Diligence as a goal | 2.00% | ~1,445 |
 | Scareless | 1.00% | ~7,629 |
 | Dance of the Praying Mantis | 1.00% | ~7,629 |
@@ -37,12 +37,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.70% | ~5,340 |
 | Source of Flying Daggers | 0.70% | ~5,340 |
 | Iron Money | 0.70% | ~5,340 |
+| Sword Stained With Blood | 0.70% | ~5,340 |
 | Bloody Sport | 0.70% | ~506 |
 | Martial Hub | 0.70% | ~506 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,578 |
 | Prodigal Child | 0.60% | ~4,578 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,578 |
-| Sword Stained With Blood | 0.60% | ~4,578 |
 | The best strikes are the ones we avoid | 0.50% | ~361 |
 | Drunken Fighter | 0.40% | ~3,052 |
 | Martial Artist | 0.40% | ~3,052 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,925 (Ranked 26)  
-Completed: 13,008 (1.71%) (Ranked 151)  
+Progressed: 762,927 (Ranked 26)  
+Completed: 13,009 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -348,7 +348,7 @@ Completed: 13,008 (1.71%) (Ranked 151)
 | 2024-01-23 | 762,568 | 13,006 |
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
-| 2024-01-26 | 762,925 | 13,008 |
+| 2024-01-26 | 762,927 | 13,009 |
 ## Awards
 Max (Great Boss Battles): 7,295  (Ranked 59)  
 Sum: 12,904 (Ranked 88)  
