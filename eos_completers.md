@@ -54,7 +54,7 @@
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
-| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.46% |
+| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.45% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.39% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.34% |
 | 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
@@ -120,9 +120,9 @@
 | 117 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
 | 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.78% |
 | 119 | [Without Escape](games/w/without_escape.md) | 2.78% |
-| 121 | [Yars: Recharged](games/y/yars__recharged.md) | 2.76% |
-| 122 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
-| 123 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
+| 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
+| 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
+| 123 | [Yars: Recharged](games/y/yars__recharged.md) | 2.65% |
 | 124 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.58% |
 | 125 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.55% |
 | 126 | [The Complex](games/t/the_complex.md) | 2.51% |
@@ -199,7 +199,7 @@
 | 197 | [A Musical Story](games/a/a_musical_story.md) | 0.87% |
 | 197 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.87% |
 | 199 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.86% |
-| 199 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.86% |
+| 200 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.85% |
 | 201 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 202 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 203 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
@@ -357,16 +357,16 @@
 | 351 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
 | 351 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.05% |
 | 351 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
-| 351 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.05% |
 | 351 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.05% |
 | 351 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.05% |
 | 351 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
 | 351 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.05% |
-| 363 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.04% |
-| 363 | [House Party](games/h/house_party.md) | 0.04% |
-| 363 | [Operation New Earth](games/o/operation_new_earth.md) | 0.04% |
-| 363 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 363 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.04% |
+| 362 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.04% |
+| 362 | [House Party](games/h/house_party.md) | 0.04% |
+| 362 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.04% |
+| 362 | [Operation New Earth](games/o/operation_new_earth.md) | 0.04% |
+| 362 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 362 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.04% |
 | 368 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.03% |
 | 368 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.03% |
 | 368 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
