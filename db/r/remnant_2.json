@@ -7591,10 +7591,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 17580,
       "NumberOfAwardsMax": 7624
+    },
+    {
+      "Time": "2024-01-26T08:03:46.054659+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 17588,
+      "NumberOfAwardsMax": 7624
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17580,
+  "NumberOfAwards": 17588,
   "NumberOfAwardsMax": 7624,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7620,7 +7626,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1016
+      "Count": 1024
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7665,10 +7671,10 @@
       "Count": 1038
     }
   ],
-  "EOS_Progressed": 299226,
+  "EOS_Progressed": 299233,
   "EOS_Completed": 1258,
-  "EOS_NewPlayers": 3256,
-  "EOS_NewCompleters": 118,
+  "EOS_NewPlayers": 3251,
+  "EOS_NewCompleters": 117,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
@@ -30140,6 +30146,11 @@
       "Time": "2024-01-26T07:11:05.483112+00:00",
       "NumProgressed": 299226,
       "NumCompleted": 1258
+    },
+    {
+      "Time": "2024-01-26T08:10:33.5898555+00:00",
+      "NumProgressed": 299233,
+      "NumCompleted": 1258
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -30152,7 +30163,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26930
+      "UsersEstimate": 26931
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -30168,7 +30179,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -30192,7 +30203,7 @@
       "Name": "Chaos",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Defeat_Cube",
@@ -30200,7 +30211,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23938
+      "UsersEstimate": 23939
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -30208,7 +30219,7 @@
       "Name": "Traitor",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -30216,7 +30227,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Defeat_Guardian",
@@ -30224,7 +30235,7 @@
       "Name": "Power Surge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Defeat_Mantis",
@@ -30232,7 +30243,7 @@
       "Name": "The Killing Jar",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38899
+      "UsersEstimate": 38900
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -30240,7 +30251,7 @@
       "Name": "The God Gambit",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -30248,7 +30259,7 @@
       "Name": "Dark Designs",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -30272,7 +30283,7 @@
       "Name": "Quest for Survival",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23938
+      "UsersEstimate": 23939
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -30304,7 +30315,7 @@
       "Name": "Familiar Face",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23938
+      "UsersEstimate": 23939
     },
     {
       "ID": "Meet_Meidra",
@@ -30336,7 +30347,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35907
+      "UsersEstimate": 35908
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -30376,7 +30387,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -30384,7 +30395,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23938
+      "UsersEstimate": 23939
     },
     {
       "ID": "Obtain_Guns_A",
@@ -30424,7 +30435,7 @@
       "Name": "The Web",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Obtain_Relics",
@@ -30440,7 +30451,7 @@
       "Name": "Scrap Collector",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -30528,7 +30539,7 @@
       "Name": "Trait Chaser",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23938
+      "UsersEstimate": 23939
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -30591,22 +30602,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 299226,
+      "Progressed": 299233,
       "Completed": 1258
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 78391,
-      "Completed": 812
+      "Progressed": 78398,
+      "Completed": 814
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-01-26T05:04:02.022577+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:11:05.4831116+00:00",
+  "LastChanged": "2024-01-26T08:03:46.0546588+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:33.5898552+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.5413849+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:03:50.9737366+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:11:05.4832242+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:03:46.0546598+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:33.5899793+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 586,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 162,
+  "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Trophy_29",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:09:25.2238475+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:09:21.1571824+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:28.6563345+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:01:56.2183348+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:09:25.2238767+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:00:30.7374362+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:09:21.1572176+00:00"
 }

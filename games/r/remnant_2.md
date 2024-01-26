@@ -5,15 +5,15 @@ Rating: 4.71 (Ranked 205)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,899 |
-| First of Many | 12.00% | ~35,907 |
+| The Killing Jar | 13.00% | ~38,900 |
+| First of Many | 12.00% | ~35,908 |
 | Not Your Average Trait | 10.00% | ~29,923 |
-| Expanding Horizons | 9.00% | ~26,930 |
-| Gleaming the Cube | 8.00% | ~23,938 |
-| Quest for Survival | 8.00% | ~23,938 |
-| Familiar Face | 8.00% | ~23,938 |
-| Boss'n Up | 8.00% | ~23,938 |
-| Trait Chaser | 8.00% | ~23,938 |
+| Expanding Horizons | 9.00% | ~26,931 |
+| Gleaming the Cube | 8.00% | ~23,939 |
+| Quest for Survival | 8.00% | ~23,939 |
+| Familiar Face | 8.00% | ~23,939 |
+| Boss'n Up | 8.00% | ~23,939 |
+| Trait Chaser | 8.00% | ~23,939 |
 | Not So Special Now | 7.00% | ~20,946 |
 | Not a Janitor | 7.00% | ~20,946 |
 | Duality | 7.00% | ~20,946 |
@@ -24,16 +24,16 @@ Rating: 4.71 (Ranked 205)
 | Almost There | 6.00% | ~17,954 |
 | Make Some Room | 6.00% | ~17,954 |
 | Good, But Could Be Better! | 6.00% | ~17,954 |
-| Am I Seeing This? | 5.00% | ~14,961 |
-| Chaos | 5.00% | ~14,961 |
-| Traitor | 5.00% | ~14,961 |
-| Forever is a Long Time Coming | 5.00% | ~14,961 |
-| Power Surge | 5.00% | ~14,961 |
-| The God Gambit | 5.00% | ~14,961 |
-| Dark Designs | 5.00% | ~14,961 |
-| Was This Supposed To Happen? | 5.00% | ~14,961 |
-| The Web | 5.00% | ~14,961 |
-| Scrap Collector | 5.00% | ~14,961 |
+| Am I Seeing This? | 5.00% | ~14,962 |
+| Chaos | 5.00% | ~14,962 |
+| Traitor | 5.00% | ~14,962 |
+| Forever is a Long Time Coming | 5.00% | ~14,962 |
+| Power Surge | 5.00% | ~14,962 |
+| The God Gambit | 5.00% | ~14,962 |
+| Dark Designs | 5.00% | ~14,962 |
+| Was This Supposed To Happen? | 5.00% | ~14,962 |
+| The Web | 5.00% | ~14,962 |
+| Scrap Collector | 5.00% | ~14,962 |
 | Madman's Paradise | 4.00% | ~11,969 |
 | The Agenda | 4.00% | ~11,969 |
 | Bad Moon Rising | 4.00% | ~11,969 |
@@ -61,7 +61,7 @@ Rating: 4.71 (Ranked 205)
 | You Shall Pass | 0.80% | ~627 |
 | A Foul Feast | 0.50% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,226 (Ranked 65)  
+Progressed: 299,233 (Ranked 65)  
 Completed: 1,258 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,10 +255,10 @@ Completed: 1,258 (0.42%) (Ranked 247)
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
 | 2024-01-25 | 299,157 | 1,254 |
-| 2024-01-26 | 299,226 | 1,258 |
+| 2024-01-26 | 299,233 | 1,258 |
 ## Awards
 Max (Great Boss Battles): 7,624  (Ranked 56)  
-Sum: 17,580 (Ranked 64)  
+Sum: 17,588 (Ranked 64)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,044 |
 | This game has Quickly Understood Controls | 1,038 |
 | This game is Relaxing | 1,038 |
-| This game has Challenging Combat | 1,016 |
+| This game has Challenging Combat | 1,024 |
 | This game has Amazing Storytelling | 1,010 |
 | This game has Amazing Characters | 977 |
 | This game has Unique Visuals | 893 |
@@ -460,4 +460,4 @@ Diff (max vs sum): -8
 | 2024-01-23 | 4.72 | 7,507 | 17,292 |
 | 2024-01-24 | 4.72 | 7,540 | 17,396 |
 | 2024-01-25 | 4.71 | 7,572 | 17,491 |
-| 2024-01-26 | 4.71 | 7,624 | 17,580 |
+| 2024-01-26 | 4.71 | 7,624 | 17,588 |

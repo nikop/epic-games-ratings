@@ -20682,9 +20682,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 841
     },
     {
       "ID": "WinNearBarren",
@@ -21042,8 +21042,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-26T05:00:30.7649065+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:09:25.9503488+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:09:21.6120619+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:00:41.1727478+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:09:25.9504474+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:59:42.5455134+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:09:21.6121972+00:00"
 }

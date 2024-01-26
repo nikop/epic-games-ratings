@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 162,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2151,6 +2151,11 @@
       "Time": "2024-01-26T03:09:47.4680536+00:00",
       "NumProgressed": 473,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T08:10:17.0427085+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2163,7 +2168,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2243,7 +2248,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -2273,9 +2278,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2291,7 +2296,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2299,7 +2304,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2419,7 +2424,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2499,7 +2504,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2514,7 +2519,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 2
     }
   ],
@@ -2522,8 +2527,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:10:42.6128559+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:17.0427081+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:01:01.3947592+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:10:42.6128861+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:59:55.5282219+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:17.0427479+00:00"
 }

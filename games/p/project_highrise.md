@@ -47,6 +47,7 @@
 | Plaza Plan | 8.00% | ~43 |
 | Master of Puppets | 8.00% | ~43 |
 | Phoning It In | 7.00% | ~38 |
+| Careful Constructor | 6.00% | ~33 |
 | Water Features | 6.00% | ~33 |
 | Meet Me at HQ | 6.00% | ~33 |
 | Maximum Reuse | 6.00% | ~33 |
@@ -54,7 +55,6 @@
 | Golden Opportunity | 6.00% | ~33 |
 | Meet ADA/360 | 5.00% | ~27 |
 | I'm Busy Ruling | 5.00% | ~27 |
-| Careful Constructor | 5.00% | ~27 |
 | Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
 | It's a Gas | 5.00% | ~27 |

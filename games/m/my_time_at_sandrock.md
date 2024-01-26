@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 226.00% | ~2,025 |
 | Super Spelunker | 170.00% | ~1,523 |
 | Iron Chef | 159.00% | ~1,425 |
-| The Little Wood that Could | 139.00% | ~1,245 |
+| The Little Wood that Could | 140.00% | ~1,254 |
 | Officially Official | 134.00% | ~1,201 |
 | On that Grindset | 127.00% | ~1,138 |
 | Greeno-B-Gone | 125.00% | ~1,120 |
@@ -22,7 +22,7 @@ Number of Ratings: 892  (23.09.2022)
 | Knowledge is Power | 103.00% | ~923 |
 | Financially Secure | 101.00% | ~905 |
 | Mole Masher | 101.00% | ~905 |
-| Big Game Hunter | 98.00% | ~878 |
+| Big Game Hunter | 99.00% | ~887 |
 | Unboxing | 97.00% | ~869 |
 | What Plants Crave | 94.00% | ~842 |
 | Yakmel Whisperer | 93.00% | ~833 |
@@ -34,12 +34,12 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 86.00% | ~771 |
 | Can We Keep It? | 86.00% | ~771 |
 | Bridging the Gap | 84.00% | ~753 |
+| Got the Flow Back | 81.00% | ~726 |
 | Waste Not Want Not | 81.00% | ~726 |
-| Got the Flow Back | 80.00% | ~717 |
 | Commissions, commissions...! | 79.00% | ~708 |
 | Elementary, My Dear | 78.00% | ~699 |
 | Lifeline Pipeline | 73.00% | ~654 |
-| Sepia Toned Memories | 71.00% | ~636 |
+| Sepia Toned Memories | 72.00% | ~645 |
 | Anti-Santa | 69.00% | ~618 |
 | Martle's Dream | 68.00% | ~609 |
 | You Don't Win Friends With Salad | 68.00% | ~609 |

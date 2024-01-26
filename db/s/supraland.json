@@ -3541,9 +3541,9 @@
       "Count": 199
     }
   ],
-  "EOS_Progressed": 741584,
+  "EOS_Progressed": 741585,
   "EOS_Completed": 785,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -35346,6 +35346,11 @@
       "Time": "2024-01-26T07:11:31.5051818+00:00",
       "NumProgressed": 741584,
       "NumCompleted": 785
+    },
+    {
+      "Time": "2024-01-26T08:10:53.7405618+00:00",
+      "NumProgressed": 741585,
+      "NumCompleted": 785
     }
   ],
   "TotalAchievements": 98,
@@ -35389,7 +35394,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 222475
+      "UsersEstimate": 222476
     },
     {
       "ID": "BallShooter",
@@ -35421,7 +35426,7 @@
       "Name": "Rattle Hag",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 118653
+      "UsersEstimate": 118654
     },
     {
       "ID": "BirdsongCourier",
@@ -35573,7 +35578,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 355960
+      "UsersEstimate": 355961
     },
     {
       "ID": "FireFlies",
@@ -35621,7 +35626,7 @@
       "Name": "Freed from prison",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 163148
+      "UsersEstimate": 163149
     },
     {
       "ID": "GiantWorkshop",
@@ -35717,7 +35722,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 407871
+      "UsersEstimate": 407872
     },
     {
       "ID": "Healthregen",
@@ -35725,7 +35730,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 348544
+      "UsersEstimate": 348545
     },
     {
       "ID": "HelpedAStar",
@@ -35741,7 +35746,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 311465
+      "UsersEstimate": 311466
     },
     {
       "ID": "Holy_Sword",
@@ -35749,7 +35754,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170564
+      "UsersEstimate": 170565
     },
     {
       "ID": "Horticultural",
@@ -35869,7 +35874,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 734168
+      "UsersEstimate": 734169
     },
     {
       "ID": "PanicLights",
@@ -35989,7 +35994,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 489445
+      "UsersEstimate": 489446
     },
     {
       "ID": "Strong",
@@ -36021,7 +36026,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170564
+      "UsersEstimate": 170565
     },
     {
       "ID": "The_Blues",
@@ -36029,7 +36034,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 630346
+      "UsersEstimate": 630347
     },
     {
       "ID": "ThroughPipe",
@@ -36069,7 +36074,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 318881
+      "UsersEstimate": 318882
     },
     {
       "ID": "True_Holy_Spirit",
@@ -36140,15 +36145,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 741584,
+      "Progressed": 741585,
       "Completed": 785
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-26T05:01:19.5392752+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:11:31.5051815+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:53.7405613+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.8310257+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:01:34.138919+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:11:31.5053708+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:00:16.4172652+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:53.7407708+00:00"
 }

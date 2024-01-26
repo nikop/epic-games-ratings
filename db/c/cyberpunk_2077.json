@@ -19136,10 +19136,10 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1058870,
-  "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4197,
-  "EOS_NewCompleters": 39,
+  "EOS_Progressed": 1058893,
+  "EOS_Completed": 3164,
+  "EOS_NewPlayers": 4191,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51336,6 +51336,11 @@
       "Time": "2024-01-26T07:09:59.0909632+00:00",
       "NumProgressed": 1058870,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-26T08:09:44.9731106+00:00",
+      "NumProgressed": 1058893,
+      "NumCompleted": 3164
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51660,7 +51665,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4235
+      "UsersEstimate": 4236
     },
     {
       "ID": "UnderPressure",
@@ -51690,9 +51695,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7412
+      "UsersEstimate": 8471
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51788,7 +51793,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "UltimateSurvivor",
@@ -51804,7 +51809,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "HydraIsDead",
@@ -51812,7 +51817,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "IHateSpider",
@@ -51820,7 +51825,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "KingOfTheCups",
@@ -51828,7 +51833,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "KingOfThePentacles",
@@ -51836,7 +51841,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "KingOfTheSwords",
@@ -51844,7 +51849,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "KingOfTheWands",
@@ -51852,7 +51857,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "TheTower",
@@ -51860,7 +51865,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "DirtyWork",
@@ -51876,28 +51881,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058870,
-      "Completed": 3163
+      "Progressed": 1058893,
+      "Completed": 3164
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187493,
-      "Completed": 10701
+      "Progressed": 187516,
+      "Completed": 10702
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T07:03:36.0384729+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:09:59.0909629+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:09:44.9731101+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:03:36.0384735+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:09:59.0911607+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:03:35.7706468+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:09:44.9732959+00:00"
 }

@@ -7441,9 +7441,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 915864,
+  "EOS_Progressed": 915866,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 19959,
+  "EOS_NewPlayers": 19889,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39796,6 +39796,11 @@
       "Time": "2024-01-26T07:05:29.0246014+00:00",
       "NumProgressed": 915864,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-26T08:04:54.9816149+00:00",
+      "NumProgressed": 915866,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 37,
@@ -39831,7 +39836,7 @@
       "Name": "Marksman Novice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 146538
+      "UsersEstimate": 146539
     },
     {
       "ID": "13",
@@ -39887,7 +39892,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 650263
+      "UsersEstimate": 650265
     },
     {
       "ID": "2",
@@ -39967,7 +39972,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 91586
+      "UsersEstimate": 91587
     },
     {
       "ID": "29",
@@ -39999,7 +40004,7 @@
       "Name": "Guardian Angel",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 293076
+      "UsersEstimate": 293077
     },
     {
       "ID": "32",
@@ -40047,7 +40052,7 @@
       "Name": "Health Junkie",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 348028
+      "UsersEstimate": 348029
     },
     {
       "ID": "4",
@@ -40055,7 +40060,7 @@
       "Name": "Fantastic Four",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 174014
+      "UsersEstimate": 174015
     },
     {
       "ID": "5",
@@ -40095,14 +40100,14 @@
       "Name": "CQB Novice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 64110
+      "UsersEstimate": 64111
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 915864,
+      "Progressed": 915866,
       "Completed": 18
     }
   ],
@@ -40110,8 +40115,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2024-01-25T18:01:51.8246206+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:05:29.024601+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:04:54.9816142+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.061199+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:57:30.0851735+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:05:29.0248851+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:57:31.5249723+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:04:54.9817962+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 129872,
+  "EOS_Progressed": 129874,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 7777,
+  "EOS_NewPlayers": 7697,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -15058,6 +15058,11 @@
       "Time": "2024-01-26T06:10:18.2099084+00:00",
       "NumProgressed": 129872,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2024-01-26T08:10:19.9357201+00:00",
+      "NumProgressed": 129874,
+      "NumCompleted": 320
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -15094,7 +15099,7 @@
       "Name": "On Rails Experience",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 59741
+      "UsersEstimate": 59742
     },
     {
       "ID": "achievement_13",
@@ -15174,7 +15179,7 @@
       "Name": "Fried Friendship",
       "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 107794
+      "UsersEstimate": 107795
     },
     {
       "ID": "achievement_4",
@@ -15182,7 +15187,7 @@
       "Name": "Struck A Pose",
       "Percentage": 82,
       "XP": 50,
-      "UsersEstimate": 106495
+      "UsersEstimate": 106497
     },
     {
       "ID": "achievement_5",
@@ -15190,7 +15195,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 16883
+      "UsersEstimate": 16884
     },
     {
       "ID": "achievement_6",
@@ -15206,7 +15211,7 @@
       "Name": "Look At Him Go",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 90910
+      "UsersEstimate": 90912
     },
     {
       "ID": "achievement_8",
@@ -15214,7 +15219,7 @@
       "Name": "Break the Bank",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 44156
+      "UsersEstimate": 44157
     },
     {
       "ID": "achievement_9",
@@ -15222,20 +15227,20 @@
       "Name": "A Daring Devil",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 57144
+      "UsersEstimate": 57145
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 129872,
+      "Progressed": 129874,
       "Completed": 320
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:10:46.5570697+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:19.9357196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:28.4130551+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:58:48.5151567+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:10:46.5571479+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:58:29.0515626+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:19.9358024+00:00"
 }

@@ -6,34 +6,34 @@
 | ---- | ---------- | ----- |
 | Mathematic | 86.00% | ~236 |
 | Digging a Hole | 78.00% | ~214 |
-| It's Yours, My Friend | 74.00% | ~203 |
-| Conducted Trade | 69.00% | ~189 |
-| Going Places | 66.00% | ~181 |
-| Aristocratic | 64.00% | ~175 |
+| It's Yours, My Friend | 73.00% | ~201 |
+| Conducted Trade | 68.00% | ~187 |
+| Going Places | 66.00% | ~182 |
+| Aristocratic | 64.00% | ~176 |
 | Tutti Frutti | 59.00% | ~162 |
 | Slotting Machine | 48.00% | ~132 |
 | Systematic | 47.00% | ~129 |
-| Gotta Go Fast | 45.00% | ~123 |
-| Mine Sweeper | 45.00% | ~123 |
+| Gotta Go Fast | 45.00% | ~124 |
+| Mine Sweeper | 44.00% | ~121 |
 | Roll Out | 38.00% | ~104 |
 | Up, Up And Away! | 36.00% | ~99 |
-| Dopa-Miner | 34.00% | ~93 |
+| Dopa-Miner | 33.00% | ~91 |
 | Whoa! | 31.00% | ~85 |
-| Botropolis | 29.00% | ~79 |
+| Botropolis | 29.00% | ~80 |
 | Steam Powered | 22.00% | ~60 |
-| Steaming Rich | 22.00% | ~60 |
 | Manic Mechanic | 21.00% | ~58 |
+| Steaming Rich | 21.00% | ~58 |
 | Room To Spare | 16.00% | ~44 |
 | Click 'Em All | 7.00% | ~19 |
 | Accustomed Customer | 5.00% | ~14 |
 | Real Purdy | 4.00% | ~11 |
 | Stack Overflow | 4.00% | ~11 |
-| Interstellar Performance | 2.00% | ~5 |
+| Interstellar Performance | 2.00% | ~6 |
 | I'm A Lumberbot | 1.00% | ~3 |
 | Yup. | 0.40% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 420)  
+Progressed: 275 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,3 +85,4 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-20 | 272 | 0 |
 | 2024-01-21 | 273 | 0 |
 | 2024-01-22 | 274 | 0 |
+| 2024-01-26 | 275 | 0 |

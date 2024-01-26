@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34330,
+  "EOS_Progressed": 34332,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31722,6 +31722,11 @@
       "Time": "2024-01-26T07:11:08.2871751+00:00",
       "NumProgressed": 34330,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-26T08:10:35.6273822+00:00",
+      "NumProgressed": 34332,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 22,
@@ -31757,7 +31762,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "1019",
@@ -31773,7 +31778,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "1021",
@@ -31781,7 +31786,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "1022",
@@ -31829,7 +31834,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "1028",
@@ -31845,7 +31850,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "1030",
@@ -31869,7 +31874,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13732
+      "UsersEstimate": 13733
     },
     {
       "ID": "1033",
@@ -31908,15 +31913,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34330,
+      "Progressed": 34332,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:11:08.2871747+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:35.627382+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:59:25.6001983+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:11:08.2873184+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:58:53.2499307+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:35.6275223+00:00"
 }

@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29520,
+  "EOS_Progressed": 29521,
   "EOS_Completed": 545,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
@@ -30698,6 +30698,11 @@
       "Time": "2024-01-26T05:06:01.4469089+00:00",
       "NumProgressed": 29520,
       "NumCompleted": 545
+    },
+    {
+      "Time": "2024-01-26T08:05:15.6730966+00:00",
+      "NumProgressed": 29521,
+      "NumCompleted": 545
     }
   ],
   "TotalAchievements": 20,
@@ -30765,7 +30770,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -30821,7 +30826,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "INTRO_FINISHED",
@@ -30829,7 +30834,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22435
+      "UsersEstimate": 22436
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30837,7 +30842,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7970
+      "UsersEstimate": 7971
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30868,15 +30873,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29520,
+      "Progressed": 29521,
       "Completed": 545
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-25T02:24:21.066454+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:05:57.9493629+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:05:15.6730962+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:58:47.3593836+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:05:57.9495107+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:58:28.335193+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:05:15.6732433+00:00"
 }

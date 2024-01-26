@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 3890,
-  "Ranking_EOS_NewCompleters": 162,
+  "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2426,7 +2426,7 @@
   ],
   "EOS_Progressed": 896,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": -10,
+  "EOS_NewPlayers": -8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11705,9 +11705,9 @@
       "ID": "F_MONSTER_ELITE",
       "SetID": "80dcan0",
       "Name": "Big Game Hunter",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 887
     },
     {
       "ID": "F_RUIN_S_ALL",
@@ -11825,9 +11825,9 @@
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 139,
+      "Percentage": 140,
       "XP": 20,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1254
     },
     {
       "ID": "P_HYDROGEL",
@@ -11849,9 +11849,9 @@
       "ID": "P_MORTPHOTO",
       "SetID": "80dcan0",
       "Name": "Sepia Toned Memories",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 636
+      "UsersEstimate": 645
     },
     {
       "ID": "P_OFFICIAL",
@@ -11921,9 +11921,9 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 717
+      "UsersEstimate": 726
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -12137,8 +12137,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-26T07:01:41.4474516+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:10:15.6486028+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:09:56.927462+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:25.5009332+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:01:41.4474522+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:10:15.6486775+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:00:20.9597982+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:09:56.9275423+00:00"
 }

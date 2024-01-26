@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 162,
+  "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258855,
+  "EOS_Progressed": 258857,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32037,6 +32037,11 @@
       "Time": "2024-01-26T07:05:27.8717143+00:00",
       "NumProgressed": 258855,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-26T08:04:54.2124488+00:00",
+      "NumProgressed": 258857,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -32192,7 +32197,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 75068
+      "UsersEstimate": 75069
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -32352,7 +32357,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20708
+      "UsersEstimate": 20709
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -32360,7 +32365,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20708
+      "UsersEstimate": 20709
     },
     {
       "ID": "ACH_SCRATCH",
@@ -32440,7 +32445,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20708
+      "UsersEstimate": 20709
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -32463,7 +32468,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258855,
+      "Progressed": 258857,
       "Completed": 8
     }
   ],
@@ -32471,8 +32476,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:05:27.8717139+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:04:54.2124484+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:03:03.9419369+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:05:27.8719064+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:03:14.6676109+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:04:54.2126852+00:00"
 }

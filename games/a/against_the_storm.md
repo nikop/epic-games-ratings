@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~1,051 |
 | A Real Challenge | 5.00% | ~1,051 |
 | Ruined Armory | 4.00% | ~841 |
+| Bandit Camp | 4.00% | ~841 |
 | Ancient Battleground | 4.00% | ~841 |
 | Levitating Monument | 4.00% | ~841 |
 | Lost Colonies | 4.00% | ~841 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 4.00% | ~841 |
 | Untamed Wilds | 4.00% | ~841 |
 | Against All Odds | 3.00% | ~631 |
-| Bandit Camp | 3.00% | ~631 |
 | Barren Lands | 3.00% | ~631 |
 | Sparkdew Crystals | 3.00% | ~631 |
 | Haunted Forest | 3.00% | ~631 |

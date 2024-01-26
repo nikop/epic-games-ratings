@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 162,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -5177,9 +5177,9 @@
       "ID": "ACHV_30",
       "SetID": "8p5mlmc",
       "Name": "Powered Up",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 735
     },
     {
       "ID": "ACHV_31",
@@ -5410,8 +5410,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:06:37.8522157+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:05:43.8008833+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:03:13.7630205+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:06:37.8522865+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:03:21.1619492+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:05:43.8009628+00:00"
 }

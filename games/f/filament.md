@@ -36,7 +36,7 @@ Rating: 4.33 (Ranked 863)
 | Corrupted + | 0.40% | ~839 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 209,783 (Ranked 83)  
-Completed: 570 (0.27%) (Ranked 274)  
+Completed: 571 (0.27%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,18 +316,18 @@ Completed: 570 (0.27%) (Ranked 274)
 | 2024-01-23 | 209,669 | 567 |
 | 2024-01-24 | 209,723 | 568 |
 | 2024-01-25 | 209,769 | 570 |
-| 2024-01-26 | 209,783 | 570 |
+| 2024-01-26 | 209,783 | 571 |
 ## Awards
 Max (Challenging Puzzles): 587  (Ranked 216)  
-Sum: 731 (Ranked 311)  
-Diff (max vs sum): -95  
+Sum: 732 (Ranked 310)  
+Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 587 |
 | This game is Highly Recommended | 27 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Amazing Characters | 26 |
-| This game has Amazing Storytelling | 22 |
+| This game has Amazing Storytelling | 23 |
 | This game has Playful Visuals | 22 |
 | This game is Educational | 21 |
 | This game is Extremely Fun | 21 |
@@ -393,4 +393,4 @@ Diff (max vs sum): -95
 | 2024-01-21 | 4.33 | 586 | 727 |
 | 2024-01-22 | 4.33 | 587 | 728 |
 | 2024-01-24 | 4.33 | 587 | 730 |
-| 2024-01-26 | 4.33 | 587 | 731 |
+| 2024-01-26 | 4.33 | 587 | 732 |

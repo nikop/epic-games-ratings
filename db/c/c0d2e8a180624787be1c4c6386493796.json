@@ -1928,9 +1928,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 207
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -2104,9 +2104,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -2207,8 +2207,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:05:44.9021098+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:05:06.2823343+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.8390305+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:57:22.8698363+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:05:44.9021751+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:57:26.7890383+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:05:06.2824268+00:00"
 }

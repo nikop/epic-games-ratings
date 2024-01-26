@@ -617,9 +617,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48369,
+  "EOS_Progressed": 48370,
   "EOS_Completed": 255,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -15492,6 +15492,11 @@
       "Time": "2024-01-26T07:10:37.4757131+00:00",
       "NumProgressed": 48369,
       "NumCompleted": 255
+    },
+    {
+      "Time": "2024-01-26T08:10:13.2342672+00:00",
+      "NumProgressed": 48370,
+      "NumCompleted": 255
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15640,7 +15645,7 @@
       "Name": "Infinity Loop",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 8706
+      "UsersEstimate": 8707
     },
     {
       "ID": "ACH_HUB1",
@@ -15656,7 +15661,7 @@
       "Name": "Path to Salvation",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8706
+      "UsersEstimate": 8707
     },
     {
       "ID": "ACH_OASIS",
@@ -15696,7 +15701,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32891
+      "UsersEstimate": 32892
     },
     {
       "ID": "ACH_S4",
@@ -15704,7 +15709,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24184
+      "UsersEstimate": 24185
     },
     {
       "ID": "ACH_S5",
@@ -15720,7 +15725,7 @@
       "Name": "Lost in Space",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 35793
+      "UsersEstimate": 35794
     },
     {
       "ID": "ACH_STATUE",
@@ -15735,15 +15740,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48369,
+      "Progressed": 48370,
       "Completed": 255
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-25T19:00:45.1944783+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:10:37.4757126+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:13.2342668+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:02:37.6080046+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:10:37.4757947+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:02:57.4951166+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:13.2343413+00:00"
 }

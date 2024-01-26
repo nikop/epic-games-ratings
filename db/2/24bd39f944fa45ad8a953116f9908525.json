@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 162,
+  "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -832,9 +832,9 @@
       "ID": "ach_54_chainEcho",
       "SetID": "16n29hg",
       "Name": "Echoes of Iron Chains",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_55_loveNPain",
@@ -877,8 +877,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:11:00.94204+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:30.309498+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:47.9187645+00:00",
-  "LastUpdate_Ratings": "2024-01-26T07:01:44.4757417+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:11:00.9420839+00:00"
+  "LastUpdate_Ratings": "2024-01-26T08:00:22.9434497+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:30.3095422+00:00"
 }

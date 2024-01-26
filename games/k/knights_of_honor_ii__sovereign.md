@@ -6,14 +6,14 @@ Rating: 4.36 (Ranked 824)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Can’t Touch This | 16.00% | ~30 |
+| Hail to the King, Baby | 16.00% | ~30 |
 | Bring it on! | 15.00% | ~28 |
-| Hail to the King, Baby | 15.00% | ~28 |
-| Help! Help! I’m being repressed | 14.00% | ~26 |
-| Path of Glory | 10.00% | ~19 |
-| There is no Nobility in Poverty | 9.00% | ~17 |
-| Full House | 7.00% | ~13 |
-| The finest merchandise this side of river Jordan | 7.00% | ~13 |
-| They Got What They Deserved | 7.00% | ~13 |
+| Help! Help! I’m being repressed | 15.00% | ~28 |
+| Path of Glory | 11.00% | ~21 |
+| There is no Nobility in Poverty | 10.00% | ~19 |
+| They Got What They Deserved | 9.00% | ~17 |
+| Full House | 8.00% | ~15 |
+| The finest merchandise this side of river Jordan | 8.00% | ~15 |
 | Playerxander the Great | 6.00% | ~11 |
 | Dinner Time | 5.00% | ~9 |
 | What we’ve got here is failure to communicate | 5.00% | ~9 |

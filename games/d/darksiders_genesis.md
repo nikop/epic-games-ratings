@@ -23,7 +23,7 @@ Number of Ratings: 67  (23.09.2022)
 | Why'd It Have to Be Snakes? | 1.00% | ~8 |
 | A Bullet for All Seasons | 0.90% | ~7 |
 | Mint III | 0.90% | ~7 |
-| Gatekeeper | 0.70% | ~5 |
+| Gatekeeper | 0.60% | ~5 |
 | Wicked Killington | 0.50% | ~4 |
 | Are You Not Entertained? | 0.40% | ~3 |
 | Collector | 0.40% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 325)  
+Progressed: 770 (Ranked 325)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 755 | 0 |
 | 2024-01-24 | 762 | 0 |
 | 2024-01-25 | 769 | 0 |
+| 2024-01-26 | 770 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 479)  
 Sum: 45 (Ranked 526)  

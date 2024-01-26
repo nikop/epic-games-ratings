@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.50% | ~1,278 |
 | Exploring Port Nyanzaru | 0.50% | ~1,278 |
 | Escort to Waterdeep | 0.50% | ~1,278 |
+| Waterdeep Detours | 0.50% | ~1,278 |
 | The Overgrown Grove | 0.50% | ~1,110 |
 | When Tentacles Attack | 0.50% | ~1,110 |
 | Flames of Avernus | 0.50% | ~1,110 |
@@ -42,7 +43,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.40% | ~1,023 |
 | The Dinner Party | 0.40% | ~1,023 |
 | Running of the Saurs | 0.40% | ~1,023 |
-| Waterdeep Detours | 0.40% | ~1,023 |
 | Underdeep Cartography | 0.40% | ~1,023 |
 | Overdue Rendezvous | 0.40% | ~1,023 |
 | The Templar's Camp | 0.40% | ~1,023 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,680 (Ranked 71)  
+Progressed: 255,685 (Ranked 71)  
 Completed: 2,649 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -834,7 +834,7 @@ Completed: 2,649 (1.04%) (Ranked 180)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,680 | 2,649 |
+| 2024-01-26 | 255,685 | 2,649 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,650 (Ranked 42)  

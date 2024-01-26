@@ -1,16 +1,16 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 601)  
+Rating: 4.51 (Ranked 602)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 39.00% | ~7,057 |
-| Man of politics | 34.00% | ~6,152 |
-| Friends of sorts | 32.00% | ~5,790 |
-| Yet another secret | 32.00% | ~5,790 |
-| Let there be darkness | 31.00% | ~5,609 |
+| Man of politics | 34.00% | ~6,153 |
+| Friends of sorts | 32.00% | ~5,791 |
+| Yet another secret | 32.00% | ~5,791 |
+| Let there be darkness | 31.00% | ~5,610 |
 | End of Book One | 29.00% | ~5,248 |
 | Wannabe knight | 23.00% | ~4,162 |
 | Garden of Eden | 23.00% | ~4,162 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,533 |
 | Jack was here! | 14.00% | ~2,533 |
 | Exterminator | 13.00% | ~2,352 |
-| Whodunnit | 12.00% | ~2,171 |
+| Whodunnit | 12.00% | ~2,172 |
 | Good midwife | 10.00% | ~1,810 |
 | Friar Tuck | 10.00% | ~1,810 |
 | First profit | 10.00% | ~1,810 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~543 |
 | Boy of mystery | 2.00% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,095 (Ranked 166)  
+Progressed: 18,096 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,6 +329,7 @@ Completed: 125 (0.69%) (Ranked 210)
 | 2024-01-23 | 18,062 | 125 |
 | 2024-01-24 | 18,082 | 125 |
 | 2024-01-25 | 18,095 | 125 |
+| 2024-01-26 | 18,096 | 125 |
 ## Awards
 Max (Easy Puzzles): 157  (Ranked 334)  
 Sum: 201 (Ranked 422)  

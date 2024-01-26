@@ -5,40 +5,40 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,057 |
-| Hotel California | 10.00% | ~80,961 |
-| Break A Leg | 9.00% | ~72,865 |
+| Welcome To Hell-A | 11.00% | ~89,058 |
+| Hotel California | 10.00% | ~80,962 |
+| Break A Leg | 9.00% | ~72,866 |
 | Coup de Grâce | 8.00% | ~64,769 |
 | Hazardous Materials | 8.00% | ~64,769 |
-| Git Gutte! | 7.00% | ~56,672 |
-| Friends Like These | 7.00% | ~56,672 |
-| Apex Predator | 7.00% | ~56,672 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,672 |
-| Dr. Reed, I Presume? | 6.00% | ~48,576 |
-| Bookworm | 6.00% | ~48,576 |
-| Stacking the Deck | 6.00% | ~48,576 |
-| This is My Weapon | 6.00% | ~48,576 |
-| Anger Management | 5.00% | ~40,480 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,480 |
-| But Doctor, I am Butcho | 5.00% | ~40,480 |
-| Can't Handle the Truth | 5.00% | ~40,480 |
-| Like Riding a Bike | 5.00% | ~40,480 |
-| A Patton Emerges | 5.00% | ~40,480 |
-| Making Your Mark | 4.00% | ~32,384 |
-| Perks of the Job | 4.00% | ~32,384 |
-| Slayer Squad | 4.00% | ~32,384 |
-| Zombologist | 4.00% | ~32,384 |
-| Ooh, Shiny! | 4.00% | ~32,384 |
-| I Am the Resurrection | 4.00% | ~32,384 |
-| Our True Nature | 4.00% | ~32,384 |
+| Git Gutte! | 7.00% | ~56,673 |
+| Friends Like These | 7.00% | ~56,673 |
+| Apex Predator | 7.00% | ~56,673 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,673 |
+| Dr. Reed, I Presume? | 6.00% | ~48,577 |
+| Bookworm | 6.00% | ~48,577 |
+| Stacking the Deck | 6.00% | ~48,577 |
+| This is My Weapon | 6.00% | ~48,577 |
+| Anger Management | 5.00% | ~40,481 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,481 |
+| But Doctor, I am Butcho | 5.00% | ~40,481 |
+| Can't Handle the Truth | 5.00% | ~40,481 |
+| Like Riding a Bike | 5.00% | ~40,481 |
+| A Patton Emerges | 5.00% | ~40,481 |
+| Making Your Mark | 4.00% | ~32,385 |
+| Perks of the Job | 4.00% | ~32,385 |
+| Slayer Squad | 4.00% | ~32,385 |
+| Zombologist | 4.00% | ~32,385 |
+| Ooh, Shiny! | 4.00% | ~32,385 |
+| I Am the Resurrection | 4.00% | ~32,385 |
+| Our True Nature | 4.00% | ~32,385 |
 | Whatever It Takes | 4.00% | ~5,406 |
 | Pork Chopped | 4.00% | ~5,406 |
-| Jumbo Keyring | 3.00% | ~24,288 |
-| Humanity Distilled | 3.00% | ~24,288 |
-| Down with the Sickness | 3.00% | ~24,288 |
-| Max Headroom | 3.00% | ~24,288 |
-| Go, Bobcats! | 3.00% | ~24,288 |
-| Rising Star | 3.00% | ~24,288 |
+| Jumbo Keyring | 3.00% | ~24,289 |
+| Humanity Distilled | 3.00% | ~24,289 |
+| Down with the Sickness | 3.00% | ~24,289 |
+| Max Headroom | 3.00% | ~24,289 |
+| Go, Bobcats! | 3.00% | ~24,289 |
+| Rising Star | 3.00% | ~24,289 |
 | One of Us | 3.00% | ~4,055 |
 | Make it So | 2.00% | ~16,192 |
 | On Safari | 2.00% | ~16,192 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 552)
 | Bucket List | 0.10% | ~810 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,607 (Ranked 23)  
+Progressed: 809,618 (Ranked 23)  
 Completed: 2,643 (0.33%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 2,643 (0.33%) (Ranked 263)
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
 | 2024-01-25 | 809,531 | 2,643 |
-| 2024-01-26 | 809,607 | 2,643 |
+| 2024-01-26 | 809,618 | 2,643 |
 ## Awards
 Max (Great Boss Battles): 10,927  (Ranked 39)  
 Sum: 16,855 (Ranked 68)  

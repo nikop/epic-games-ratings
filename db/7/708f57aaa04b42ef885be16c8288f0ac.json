@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15334,
+  "EOS_Progressed": 15335,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11503,6 +11503,11 @@
       "Time": "2024-01-26T07:11:19.2975448+00:00",
       "NumProgressed": 15334,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-26T08:10:44.0143974+00:00",
+      "NumProgressed": 15335,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11571,7 +11576,7 @@
       "Name": "Explosive Personality",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "FasterThanLight",
@@ -11595,7 +11600,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "GarbageMan",
@@ -11619,7 +11624,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -11731,7 +11736,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "UnResurrected",
@@ -11747,7 +11752,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -11771,7 +11776,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "k01101110",
@@ -11779,14 +11784,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15334,
+      "Progressed": 15335,
       "Completed": 28
     }
   ],
@@ -11794,8 +11799,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-26T07:11:19.2975441+00:00",
+  "LastChanged_Achievements": "2024-01-26T08:10:44.0143972+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:57:38.8916574+00:00",
-  "LastUpdate_Achievements": "2024-01-26T07:11:19.2976199+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:57:37.3544852+00:00",
+  "LastUpdate_Achievements": "2024-01-26T08:10:44.0144532+00:00"
 }
