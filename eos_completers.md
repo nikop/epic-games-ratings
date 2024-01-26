@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.72% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.91% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.75% |
 | 8 | [Overloop](games/o/overloop.md) | 40.00% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
@@ -23,11 +23,11 @@
 | 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.28% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
-| 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 25 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.39% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
-| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 27 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
+| 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
+| 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.39% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.76% |
+| 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [The Riflemen](games/t/the_riflemen.md) | 15.06% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.78% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.92% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.91% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 7.69% |
@@ -57,8 +57,8 @@
 | 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.45% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.38% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.34% |
-| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.21% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.27% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 6.98% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
@@ -137,11 +137,11 @@
 | 135 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
 | 136 | [Night Book](games/n/night_book.md) | 2.15% |
 | 137 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
-| 138 | [Yars: Recharged](games/y/yars__recharged.md) | 2.04% |
-| 139 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
-| 140 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.00% |
-| 140 | [Strange House](games/s/strange_house.md) | 2.00% |
-| 142 | [Time on Frog Island](games/t/time_on_frog_island.md) | 1.96% |
+| 138 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
+| 139 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.00% |
+| 139 | [Strange House](games/s/strange_house.md) | 2.00% |
+| 141 | [Time on Frog Island](games/t/time_on_frog_island.md) | 1.96% |
+| 142 | [Yars: Recharged](games/y/yars__recharged.md) | 1.95% |
 | 143 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.94% |
 | 143 | [Somerville](games/s/somerville.md) | 1.94% |
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.90% |
@@ -852,4 +852,4 @@
 | 413 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 413 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 413 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,895 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,895 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.76% |
