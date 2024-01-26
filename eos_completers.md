@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.84% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.07% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.91% |
 | 8 | [Overloop](games/o/overloop.md) | 40.00% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
@@ -61,8 +61,8 @@
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.02% |
-| 62 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.93% |
-| 63 | [Scorn](games/s/scorn.md) | 6.86% |
+| 62 | [Scorn](games/s/scorn.md) | 6.86% |
+| 62 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.86% |
 | 64 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
@@ -115,9 +115,9 @@
 | 113 | [HordeCore](games/h/hordecore.md) | 3.02% |
 | 114 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2.94% |
 | 115 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 116 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
-| 117 | [Lamentum](games/l/lamentum.md) | 2.86% |
-| 117 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
+| 116 | [Lamentum](games/l/lamentum.md) | 2.86% |
+| 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
+| 116 | [Monster Harvest](games/m/monster_harvest.md) | 2.86% |
 | 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.78% |
 | 119 | [Without Escape](games/w/without_escape.md) | 2.78% |
 | 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
@@ -125,18 +125,18 @@
 | 123 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.58% |
 | 124 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.55% |
 | 125 | [The Complex](games/t/the_complex.md) | 2.51% |
-| 125 | [Yars: Recharged](games/y/yars__recharged.md) | 2.51% |
-| 127 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2.50% |
-| 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
-| 127 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
-| 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 131 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
-| 131 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.49% |
-| 133 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
+| 126 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2.50% |
+| 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 126 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
+| 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 130 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
+| 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.49% |
+| 132 | [Destiny 2](games/d/destiny_2.md) | 2.48% |
+| 132 | [Yars: Recharged](games/y/yars__recharged.md) | 2.48% |
 | 134 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
 | 135 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
 | 136 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.22% |
-| 137 | [Night Book](games/n/night_book.md) | 2.16% |
+| 137 | [Night Book](games/n/night_book.md) | 2.15% |
 | 138 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
 | 139 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
 | 139 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.01% |
@@ -179,10 +179,10 @@
 | 177 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.06% |
 | 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
-| 180 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.04% |
 | 180 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.04% |
 | 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
-| 183 | [Sable](games/s/sable.md) | 1.03% |
+| 182 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.03% |
+| 182 | [Sable](games/s/sable.md) | 1.03% |
 | 184 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.01% |
 | 185 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 0.99% |
 | 185 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 0.99% |
@@ -474,6 +474,7 @@
 | 413 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 0.00% |
 | 413 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
 | 413 | [Candle Knight](games/9/909c6e888c164c78a1811afccedbc3a7.md) | 0.00% |
+| 413 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 0.00% |
 | 413 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 0.00% |
 | 413 | [Cepheus Protocol](games/c/cepheus_protocol.md) | 0.00% |
 | 413 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 0.00% |
@@ -851,4 +852,4 @@
 | 413 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 413 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 413 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,893 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,894 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
