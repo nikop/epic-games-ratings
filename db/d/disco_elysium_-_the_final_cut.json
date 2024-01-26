@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1724,9 +1724,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140129,
+  "EOS_Progressed": 140132,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29869,6 +29869,11 @@
       "Time": "2024-01-26T05:09:59.8978497+00:00",
       "NumProgressed": 140129,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-26T07:09:50.8334267+00:00",
+      "NumProgressed": 140132,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29912,7 +29917,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25223
+      "UsersEstimate": 25224
     },
     {
       "ID": "ACH_COP_BAD",
@@ -29944,7 +29949,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "ACH_COP_DORK",
@@ -29960,7 +29965,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39236
+      "UsersEstimate": 39237
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -30016,7 +30021,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21019
+      "UsersEstimate": 21020
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -30024,7 +30029,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15414
+      "UsersEstimate": 15415
     },
     {
       "ID": "ACH_CUNO",
@@ -30199,15 +30204,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140129,
+      "Progressed": 140132,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-25T13:06:58.6481989+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:09:33.1853004+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:09:50.8334264+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:00:43.1228899+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:09:33.1854247+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:01:44.4616771+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:09:50.8335884+00:00"
 }

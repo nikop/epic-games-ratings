@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,711 (Ranked 92)  
+Progressed: 133,712 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 5 (0.00%) (Ranked 413)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,711 | 5 |
+| 2024-01-26 | 133,712 | 5 |
 ## Awards
 Max (Character Customization): 8,078  (Ranked 52)  
 Sum: 21,867 (Ranked 60)  

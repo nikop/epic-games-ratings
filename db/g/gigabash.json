@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 127058,
+  "EOS_Progressed": 127067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2444,
+  "EOS_NewPlayers": 2437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5985,6 +5985,11 @@
       "Time": "2024-01-26T06:06:39.7563173+00:00",
       "NumProgressed": 127058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T07:07:37.7939772+00:00",
+      "NumProgressed": 127067,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -6061,7 +6066,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13976
+      "UsersEstimate": 13977
     },
     {
       "ID": "ACH_GROWNUP",
@@ -6069,7 +6074,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25412
+      "UsersEstimate": 25413
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -6093,7 +6098,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19059
+      "UsersEstimate": 19060
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -6165,7 +6170,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11435
+      "UsersEstimate": 11436
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -6213,7 +6218,7 @@
       "Name": "Taste Your Own Medicine",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_THUNDATROSS_STORY",
@@ -6261,7 +6266,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7623
+      "UsersEstimate": 7624
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -6276,7 +6281,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 127058,
+      "Progressed": 127067,
       "Completed": 0
     }
   ],
@@ -6284,8 +6289,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:06:39.7563169+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:07:37.7939768+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:02:42.1580958+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:06:39.7563651+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:57:04.6737503+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:07:37.7940259+00:00"
 }

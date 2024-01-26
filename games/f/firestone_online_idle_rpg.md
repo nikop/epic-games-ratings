@@ -5,22 +5,22 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,473 |
-| World Map | 78.00% | ~3,752 |
-| Temple of Eternals | 56.00% | ~2,694 |
-| Prestigious | 52.00% | ~2,501 |
-| Fellowship Power | 42.00% | ~2,020 |
-| Full Party | 31.00% | ~1,491 |
-| Guild Power | 22.00% | ~1,058 |
+| Victor | 93.00% | ~4,475 |
+| World Map | 78.00% | ~3,753 |
+| Temple of Eternals | 56.00% | ~2,695 |
+| Prestigious | 52.00% | ~2,502 |
+| Fellowship Power | 42.00% | ~2,021 |
+| Full Party | 31.00% | ~1,492 |
+| Guild Power | 22.00% | ~1,059 |
 | Prestigious x10 | 20.00% | ~962 |
 | The game is on | 18.00% | ~866 |
 | Exotic Merchant | 16.00% | ~770 |
 | Dragon Clicker | 15.00% | ~722 |
 | Miner Clicker | 15.00% | ~722 |
-| Dragon Master | 13.00% | ~625 |
-| Enlightenment | 13.00% | ~625 |
-| Hero inspection | 13.00% | ~625 |
-| Inspection | 13.00% | ~625 |
+| Dragon Master | 13.00% | ~626 |
+| Enlightenment | 13.00% | ~626 |
+| Hero inspection | 13.00% | ~626 |
+| Inspection | 13.00% | ~626 |
 | Lieutenant | 12.00% | ~577 |
 | Milestone collector | 11.00% | ~529 |
 | Mysterious Rock | 11.00% | ~529 |
@@ -47,13 +47,13 @@ Rating: 4.08 (Ranked 1,038)
 | Enchanting skill | 6.00% | ~289 |
 | The Expeditioner | 6.00% | ~289 |
 | Weekly Quest Completionist | 6.00% | ~289 |
-| Blueprint Upgrades | 5.00% | ~240 |
-| Crystal Mining | 5.00% | ~240 |
-| Engineer Mastery | 5.00% | ~240 |
-| How Do You Turn This On? | 5.00% | ~240 |
-| Lock And Load | 5.00% | ~240 |
-| Missions Dedication | 5.00% | ~240 |
-| Sailor | 5.00% | ~240 |
+| Blueprint Upgrades | 5.00% | ~241 |
+| Crystal Mining | 5.00% | ~241 |
+| Engineer Mastery | 5.00% | ~241 |
+| How Do You Turn This On? | 5.00% | ~241 |
+| Lock And Load | 5.00% | ~241 |
+| Missions Dedication | 5.00% | ~241 |
+| Sailor | 5.00% | ~241 |
 | Active Member | 4.00% | ~192 |
 | Ancient Knowledge | 4.00% | ~192 |
 | Background Story | 4.00% | ~192 |
@@ -81,8 +81,8 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,810 (Ranked 211)  
-Completed: 2 (0.04%) (Ranked 363)  
+Progressed: 4,812 (Ranked 211)  
+Completed: 2 (0.04%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -357,7 +357,7 @@ Completed: 2 (0.04%) (Ranked 363)
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
-| 2024-01-26 | 4,810 | 2 |
+| 2024-01-26 | 4,812 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 488)  
 Sum: 126 (Ranked 463)  

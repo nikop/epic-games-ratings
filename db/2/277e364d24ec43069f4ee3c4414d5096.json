@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120922,
+  "EOS_Progressed": 120923,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26147,6 +26147,11 @@
       "Time": "2024-01-26T06:10:46.6026099+00:00",
       "NumProgressed": 120922,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-26T07:11:22.3738638+00:00",
+      "NumProgressed": 120923,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 49,
@@ -26166,7 +26171,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 93110
+      "UsersEstimate": 93111
     },
     {
       "ID": "EAwards_10",
@@ -26214,7 +26219,7 @@
       "Name": "He Looks Portable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "EAwards_16",
@@ -26230,7 +26235,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44741
+      "UsersEstimate": 44742
     },
     {
       "ID": "EAwards_18",
@@ -26262,7 +26267,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "EAwards_21",
@@ -26302,7 +26307,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 24184
+      "UsersEstimate": 24185
     },
     {
       "ID": "EAwards_26",
@@ -26342,7 +26347,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 24184
+      "UsersEstimate": 24185
     },
     {
       "ID": "EAwards_30",
@@ -26358,7 +26363,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "EAwards_32",
@@ -26542,14 +26547,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120922,
+      "Progressed": 120923,
       "Completed": 62
     }
   ],
@@ -26557,8 +26562,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:10:46.6026097+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:11:22.3738634+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.1684277+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:59:44.4100798+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:10:46.6027299+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:00:26.1064968+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:11:22.373997+00:00"
 }

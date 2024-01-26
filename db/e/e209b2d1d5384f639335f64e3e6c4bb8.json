@@ -359,9 +359,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 344458,
+  "EOS_Progressed": 344466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1645,
+  "EOS_NewPlayers": 1648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18849,6 +18849,11 @@
       "Time": "2024-01-26T06:05:35.1754677+00:00",
       "NumProgressed": 344458,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T07:06:14.4484017+00:00",
+      "NumProgressed": 344466,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -18885,7 +18890,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 151562
+      "UsersEstimate": 151565
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -18893,7 +18898,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 110227
+      "UsersEstimate": 110229
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -18901,7 +18906,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 72336
+      "UsersEstimate": 72338
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -18909,7 +18914,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 51669
+      "UsersEstimate": 51670
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -18917,7 +18922,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 41335
+      "UsersEstimate": 41336
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -18925,7 +18930,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37890
+      "UsersEstimate": 37891
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -18933,7 +18938,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 31001
+      "UsersEstimate": 31002
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -18941,7 +18946,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 31001
+      "UsersEstimate": 31002
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -18965,7 +18970,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24112
+      "UsersEstimate": 24113
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -18973,7 +18978,7 @@
       "Name": "Torin Crater",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24112
+      "UsersEstimate": 24113
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -18981,7 +18986,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 20667
+      "UsersEstimate": 20668
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -19237,20 +19242,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 175674
+      "UsersEstimate": 175678
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 344458,
+      "Progressed": 344466,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 344447,
+      "Progressed": 344455,
       "Completed": 1
     }
   ],
@@ -19258,8 +19263,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-25T17:03:19.6304067+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:05:35.1754672+00:00",
-  "LastUpdate_AppInfo": "2024-01-19T05:57:14.2029782+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:03:23.6878607+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:05:35.1755892+00:00"
+  "LastChanged_Achievements": "2024-01-26T07:06:14.4484013+00:00",
+  "LastUpdate_AppInfo": "2024-01-26T06:57:04.1223126+00:00",
+  "LastUpdate_Ratings": "2024-01-26T07:03:22.1471069+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:06:14.4485489+00:00"
 }

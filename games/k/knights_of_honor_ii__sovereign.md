@@ -5,9 +5,9 @@ Rating: 4.36 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bring it on! | 16.00% | ~30 |
 | Can’t Touch This | 16.00% | ~30 |
-| Hail to the King, Baby | 16.00% | ~30 |
+| Bring it on! | 15.00% | ~28 |
+| Hail to the King, Baby | 15.00% | ~28 |
 | Help! Help! I’m being repressed | 14.00% | ~26 |
 | Path of Glory | 10.00% | ~19 |
 | There is no Nobility in Poverty | 9.00% | ~17 |
@@ -17,12 +17,12 @@ Rating: 4.36 (Ranked 824)
 | Playerxander the Great | 6.00% | ~11 |
 | Dinner Time | 5.00% | ~9 |
 | What we’ve got here is failure to communicate | 5.00% | ~9 |
-| All the King's Men | 4.00% | ~7 |
-| Big Apple | 4.00% | ~7 |
-| Cut-Me-Own-Throat | 4.00% | ~7 |
-| Do you read Sutter Cane? | 4.00% | ~7 |
-| His name is King | 4.00% | ~7 |
-| Learn Me a Book | 4.00% | ~7 |
+| All the King's Men | 4.00% | ~8 |
+| Big Apple | 4.00% | ~8 |
+| Cut-Me-Own-Throat | 4.00% | ~8 |
+| Do you read Sutter Cane? | 4.00% | ~8 |
+| His name is King | 4.00% | ~8 |
+| Learn Me a Book | 4.00% | ~8 |
 | Black Sheep Wall | 3.00% | ~6 |
 | Blinded by Science | 3.00% | ~6 |
 | Call the Boys | 3.00% | ~6 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 824)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 443)  
+Progressed: 188 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 187 | 0 |
+| 2024-01-26 | 188 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

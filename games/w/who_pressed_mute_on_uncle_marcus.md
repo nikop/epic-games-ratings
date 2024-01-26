@@ -15,8 +15,8 @@
 | Just like me | 33.00% | ~105 |
 | I bless the rain down in London | 30.00% | ~96 |
 | Cheat | 29.00% | ~93 |
+| Brown nosing | 27.00% | ~86 |
 | Delusions | 27.00% | ~86 |
-| Brown nosing | 26.00% | ~83 |
 | Prove it | 25.00% | ~80 |
 | The truth | 25.00% | ~80 |
 | Making a murderer | 18.00% | ~57 |

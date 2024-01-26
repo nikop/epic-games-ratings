@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -297,9 +297,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 17716,
+  "EOS_Progressed": 17717,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13317,6 +13317,11 @@
       "Time": "2024-01-26T05:05:29.768388+00:00",
       "NumProgressed": 17716,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-26T07:05:25.1674143+00:00",
+      "NumProgressed": 17717,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13328,7 +13333,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9921
+      "UsersEstimate": 9922
     },
     {
       "ID": "Ach002",
@@ -13360,7 +13365,7 @@
       "Name": "Headliner",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "Ach006",
@@ -13504,7 +13509,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9921
+      "UsersEstimate": 9922
     },
     {
       "ID": "Ach024",
@@ -13552,7 +13557,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "Ach030",
@@ -13616,7 +13621,7 @@
       "Name": "We\u0027re Jammin\u0027",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Ach038",
@@ -13680,7 +13685,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "Ach046",
@@ -13728,7 +13733,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9035
+      "UsersEstimate": 9036
     },
     {
       "ID": "Ach052",
@@ -13760,7 +13765,7 @@
       "Name": "You ever parry a volcano?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Ach056",
@@ -13895,13 +13900,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17716,
+      "Progressed": 17717,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16237,
+      "Progressed": 16238,
       "Completed": 1931
     }
   ],
@@ -13909,8 +13914,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-25T07:57:37.7523595+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:04:56.722766+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:05:25.167414+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:58:20.6450346+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:04:56.7228707+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:58:33.5291294+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:05:25.1675236+00:00"
 }

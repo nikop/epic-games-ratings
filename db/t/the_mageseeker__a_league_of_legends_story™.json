@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3516,
+  "EOS_Progressed": 3517,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -6848,6 +6848,11 @@
       "Time": "2024-01-26T00:04:12.8985254+00:00",
       "NumProgressed": 3516,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-26T07:05:01.8591053+00:00",
+      "NumProgressed": 3517,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 53,
@@ -6875,7 +6880,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -6923,7 +6928,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6939,7 +6944,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6995,7 +7000,7 @@
       "Name": "Old friend",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -7019,7 +7024,7 @@
       "Name": "Silverwing nest",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "STB_HOOK_CHALLENGE",
@@ -7035,7 +7040,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -7043,7 +7048,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -7059,7 +7064,7 @@
       "Name": "The end of the experiments",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -7075,7 +7080,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -7099,7 +7104,7 @@
       "Name": "Devineur",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -7107,7 +7112,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -7147,7 +7152,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -7155,7 +7160,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "STB_PET_DOG",
@@ -7195,7 +7200,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -7259,7 +7264,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -7275,14 +7280,14 @@
       "Name": "Petricite Burst",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3516,
+      "Progressed": 3517,
       "Completed": 37
     }
   ],
@@ -7290,8 +7295,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-23T22:57:45.4378853+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:04:38.465347+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:05:01.8591049+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.6014461+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:59:26.7890767+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:04:38.4654208+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:00:02.2602888+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:05:01.8591927+00:00"
 }

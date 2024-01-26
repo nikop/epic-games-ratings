@@ -1195,9 +1195,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553734,
+  "EOS_Progressed": 553735,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1374,
+  "EOS_NewPlayers": 1370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33330,6 +33330,11 @@
       "Time": "2024-01-26T06:05:51.3285314+00:00",
       "NumProgressed": 553734,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T07:06:35.3927693+00:00",
+      "NumProgressed": 553735,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -33365,7 +33370,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 55373
+      "UsersEstimate": 55374
     },
     {
       "ID": "BlindmansBluff",
@@ -33445,7 +33450,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 88597
+      "UsersEstimate": 88598
     },
     {
       "ID": "DogEatDog",
@@ -33493,7 +33498,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232568
+      "UsersEstimate": 232569
     },
     {
       "ID": "HoldingYourOwn",
@@ -33589,7 +33594,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420838
+      "UsersEstimate": 420839
     },
     {
       "ID": "ProPlayer",
@@ -33613,7 +33618,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 121821
+      "UsersEstimate": 121822
     },
     {
       "ID": "RegularPunter",
@@ -33653,7 +33658,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71985
+      "UsersEstimate": 71986
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -33669,7 +33674,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 105209
+      "UsersEstimate": 105210
     },
     {
       "ID": "TopDog",
@@ -33700,7 +33705,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553734,
+      "Progressed": 553735,
       "Completed": 2
     }
   ],
@@ -33708,8 +33713,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-25T13:03:57.7787699+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:05:51.3285306+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:06:35.3927689+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:57:40.83299+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:05:51.3287228+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:57:40.271928+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:06:35.3929167+00:00"
 }

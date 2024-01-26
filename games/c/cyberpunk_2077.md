@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.68 (Ranked 266)  
+Rating: 4.68 (Ranked 267)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,844 (Ranked 17)  
+Progressed: 1,058,870 (Ranked 17)  
 Completed: 3,163 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,17 +355,17 @@ Completed: 3,163 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,058,844 | 3,163 |
+| 2024-01-26 | 1,058,870 | 3,163 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
-Sum: 520,743 (Ranked 8)  
+Sum: 520,894 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 145,126 |
 | This game has Great Boss Battles | 108,553 |
 | This game is Great for Beginners | 33,540 |
-| This game has Diverse Characters | 32,605 |
+| This game has Diverse Characters | 32,756 |
 | This game is Highly Recommended | 31,219 |
 | This game has Amazing Storytelling | 30,587 |
 | This game is Extremely Fun | 30,474 |
@@ -748,4 +748,4 @@ Diff (max vs sum): 0
 | 2024-01-23 | 4.68 | - | 144,402 | 516,233 |
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
 | 2024-01-25 | 4.68 | - | 145,126 | 520,256 |
-| 2024-01-26 | 4.68 | - | 145,126 | 520,743 |
+| 2024-01-26 | 4.68 | - | 145,126 | 520,894 |

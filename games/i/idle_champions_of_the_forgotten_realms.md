@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.20% | ~511 |
 | The Mists of Ravenloft | 0.20% | ~511 |
 | The Hunt for Owl-y | 0.20% | ~511 |
+| Werewolves in the Mist | 0.20% | ~511 |
 | Family Entanglements | 0.20% | ~511 |
 | Chatty Nobles | 0.20% | ~511 |
 | Modron Assistance | 0.20% | ~511 |
@@ -287,7 +288,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~256 |
 | Azaka's Procession - Part 2 | 0.10% | ~256 |
 | Acererak's Puzzle | 0.10% | ~222 |
-| Werewolves in the Mist | 0.10% | ~256 |
 | We're not in Faerûn Anymore | 0.10% | ~256 |
 | Haunted Fortunes | 0.10% | ~256 |
 | Poor Fortune | 0.10% | ~256 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,675 (Ranked 71)  
+Progressed: 255,680 (Ranked 71)  
 Completed: 2,649 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -834,7 +834,7 @@ Completed: 2,649 (1.04%) (Ranked 180)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,675 | 2,649 |
+| 2024-01-26 | 255,680 | 2,649 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,650 (Ranked 42)  

@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15333,
+  "EOS_Progressed": 15334,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11498,6 +11498,11 @@
       "Time": "2024-01-26T06:10:44.1223946+00:00",
       "NumProgressed": 15333,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-26T07:11:19.2975448+00:00",
+      "NumProgressed": 15334,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11582,7 +11587,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8433
+      "UsersEstimate": 8434
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11710,7 +11715,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "ThisIsDharma",
@@ -11781,7 +11786,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15333,
+      "Progressed": 15334,
       "Completed": 28
     }
   ],
@@ -11789,8 +11794,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:10:44.1223944+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:11:19.2975441+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:57:39.8639235+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:10:44.1224598+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:57:38.8916574+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:11:19.2976199+00:00"
 }

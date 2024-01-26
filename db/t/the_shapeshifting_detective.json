@@ -3,8 +3,8 @@
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 387,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -970,6 +970,11 @@
       "Time": "2024-01-25T20:08:46.4592026+00:00",
       "NumProgressed": 350,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-26T07:09:02.8256826+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -981,7 +986,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "book_em_danny",
@@ -1053,7 +1058,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "patient_listener",
@@ -1069,7 +1074,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "play_me_by_the_hour",
@@ -1077,7 +1082,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "poetent",
@@ -1109,7 +1114,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "the_big_sleep",
@@ -1125,7 +1130,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "voyeur",
@@ -1133,7 +1138,7 @@
       "Name": "Voyeur",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "you_had_one_job",
@@ -1148,7 +1153,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 3
     }
   ],
@@ -1156,8 +1161,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:08:54.9490131+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:09:02.8256823+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:41.8700165+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:03:30.9732638+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:08:54.9490459+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:03:32.0767129+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:09:02.8256976+00:00"
 }

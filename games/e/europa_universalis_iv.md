@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~506 |
 | The Zoro-Austrians | 0.10% | ~506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 505,599 (Ranked 42)  
+Progressed: 505,617 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,10 +651,10 @@ Completed: 2 (0.00%) (Ranked 413)
 | 2024-01-23 | 504,493 | 2 |
 | 2024-01-24 | 504,991 | 2 |
 | 2024-01-25 | 505,518 | 2 |
-| 2024-01-26 | 505,599 | 2 |
+| 2024-01-26 | 505,617 | 2 |
 ## Awards
 Max (Educational): 7,975  (Ranked 53)  
-Sum: 65,813 (Ranked 25)  
+Sum: 65,823 (Ranked 25)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -665,7 +665,7 @@ Diff (max vs sum): 28
 | This game is Extremely Fun | 7,476 |
 | This game is Relaxing | 7,303 |
 | This game has Competitive Players | 7,138 |
-| This game has Amazing Storytelling | 6,661 |
+| This game has Amazing Storytelling | 6,671 |
 | This game has Amazing Characters | 6,158 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -1045,3 +1045,4 @@ Diff (max vs sum): 28
 | 2024-01-23 | 4.69 | - | 7,951 | 65,598 |
 | 2024-01-24 | 4.69 | - | 7,962 | 65,697 |
 | 2024-01-25 | 4.69 | - | 7,975 | 65,813 |
+| 2024-01-26 | 4.69 | - | 7,975 | 65,823 |

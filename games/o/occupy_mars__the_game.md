@@ -35,9 +35,9 @@ Rating: 4.02 (Ranked 1,059)
 | Thunderstruck | 1.00% | ~19 |
 | 5G Network | 0.90% | ~17 |
 | Rover Mechanic | 0.50% | ~10 |
+| Hot Repairs | 0.40% | ~8 |
 | Bull’s eye | 0.40% | ~8 |
 | Korolev crater | 0.40% | ~8 |
-| Hot Repairs | 0.30% | ~6 |
 | Never Ending Story? | 0.30% | ~6 |
 | Roadster | 0.20% | ~4 |
 | Cooking Vegetables | 0.10% | ~2 |

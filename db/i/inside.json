@@ -2,7 +2,7 @@
   "ID": "13bb5776b9e1424d84ce42d9ba61c0ca",
   "Name": "INSIDE",
   "ProductSlug": "inside",
-  "Ranking_Rating": 266,
+  "Ranking_Rating": 267,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 853,
@@ -503,6 +503,6 @@
   "FirstSeen": "2022-07-22T20:27:08.8041774+00:00",
   "LastChanged": "2023-08-08T22:00:12.0045141+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:12.078832+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:03:33.7915616+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:05:36.6809949+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:03:35.8504446+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:06:16.419521+00:00"
 }

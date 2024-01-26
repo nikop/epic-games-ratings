@@ -5,9 +5,9 @@
   "Ranking_Rating": 824,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -524,6 +524,11 @@
       "Time": "2024-01-26T04:04:46.1941628+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T07:06:09.1685245+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -552,7 +557,7 @@
       "Name": "All the King\u0027s Men",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ashes_to_ashes",
@@ -576,7 +581,7 @@
       "Name": "Big Apple",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "black_sheep_wall",
@@ -614,9 +619,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "brutus",
@@ -688,7 +693,7 @@
       "Name": "Cut-Me-Own-Throat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "desperate_times",
@@ -720,7 +725,7 @@
       "Name": "Do you read Sutter Cane?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "dust_and_salt",
@@ -814,9 +819,9 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "he_made_it_out",
@@ -856,7 +861,7 @@
       "Name": "His name is King",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "holy_trinity",
@@ -960,7 +965,7 @@
       "Name": "Learn Me a Book",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "let_us_pray",
@@ -1335,7 +1340,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
@@ -1343,8 +1348,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-26T06:05:31.0071313+00:00",
+  "LastChanged_Achievements": "2024-01-26T07:06:09.168524+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-26T06:02:53.327786+00:00",
-  "LastUpdate_Achievements": "2024-01-26T06:05:31.0072331+00:00"
+  "LastUpdate_Ratings": "2024-01-26T07:02:39.9215541+00:00",
+  "LastUpdate_Achievements": "2024-01-26T07:06:09.1686269+00:00"
 }
