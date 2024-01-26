@@ -11050,10 +11050,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 17053,
       "NumberOfAwardsMax": 8250
+    },
+    {
+      "Time": "2024-01-26T03:59:51.8110237+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 17056,
+      "NumberOfAwardsMax": 8250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17053,
+  "NumberOfAwards": 17056,
   "NumberOfAwardsMax": 8250,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11109,7 +11115,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1136
+      "Count": 1139
     },
     {
       "Text": "This game is Relaxing",
@@ -11130,7 +11136,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 97304,
+  "EOS_Progressed": 97306,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1231,
   "EOS_NewCompleters": 0,
@@ -41310,6 +41316,11 @@
       "Time": "2024-01-26T03:10:21.1577631+00:00",
       "NumProgressed": 97304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T04:10:13.3132894+00:00",
+      "NumProgressed": 97306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -41361,7 +41372,7 @@
       "Name": "Butterlord",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9730
+      "UsersEstimate": 9731
     },
     {
       "ID": "Catch",
@@ -41409,7 +41420,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9730
+      "UsersEstimate": 9731
     },
     {
       "ID": "Entrepreneur",
@@ -41449,7 +41460,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11676
+      "UsersEstimate": 11677
     },
     {
       "ID": "Great Granny",
@@ -41497,7 +41508,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9730
+      "UsersEstimate": 9731
     },
     {
       "ID": "Jack of All Trades",
@@ -41545,7 +41556,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 34056
+      "UsersEstimate": 34057
     },
     {
       "ID": "Lawbringer",
@@ -41553,7 +41564,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41841
+      "UsersEstimate": 41842
     },
     {
       "ID": "Lawmaker",
@@ -41665,7 +41676,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "The king is pleased",
@@ -41697,7 +41708,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "Undercover",
@@ -41721,22 +41732,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 97304,
+      "Progressed": 97306,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-26T03:00:06.3926571+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:10:21.1577627+00:00",
+  "LastChanged": "2024-01-26T03:59:51.8110235+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:10:13.313289+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:00:06.3926576+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:10:21.1579396+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:59:51.8110241+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:10:13.3134595+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -3066,9 +3066,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 545332,
+  "EOS_Progressed": 545333,
   "EOS_Completed": 1696,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -34251,6 +34251,11 @@
       "Time": "2024-01-26T02:24:32.3720885+00:00",
       "NumProgressed": 545332,
       "NumCompleted": 1696
+    },
+    {
+      "Time": "2024-01-26T04:05:12.4908156+00:00",
+      "NumProgressed": 545333,
+      "NumCompleted": 1696
     }
   ],
   "TotalAchievements": 37,
@@ -34262,7 +34267,7 @@
       "Name": "Branded",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76346
+      "UsersEstimate": 76347
     },
     {
       "ID": "COASTROCK",
@@ -34430,7 +34435,7 @@
       "Name": "The Imposter",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76346
+      "UsersEstimate": 76347
     },
     {
       "ID": "THE_IRON_ONES",
@@ -34446,7 +34451,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76346
+      "UsersEstimate": 76347
     },
     {
       "ID": "THE_LAKE",
@@ -34518,7 +34523,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 349012
+      "UsersEstimate": 349013
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -34534,7 +34539,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92706
+      "UsersEstimate": 92707
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -34557,15 +34562,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 545332,
+      "Progressed": 545333,
       "Completed": 1696
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-25T17:00:27.4387294+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:05:37.9644806+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:05:12.4908153+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:28.055367+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:00:21.5003891+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:05:37.9646081+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:00:07.1321559+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:05:12.4910007+00:00"
 }

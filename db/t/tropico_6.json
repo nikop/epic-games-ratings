@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1659,9 +1659,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7268,
+  "EOS_Progressed": 7269,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17339,6 +17339,11 @@
       "Time": "2024-01-26T01:47:19.9315082+00:00",
       "NumProgressed": 7268,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T04:04:12.7159239+00:00",
+      "NumProgressed": 7269,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17446,7 +17451,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17669,15 +17674,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7268,
+      "Progressed": 7269,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-24T20:01:13.2201747+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:04:37.8951921+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:04:12.7159232+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:00:26.4073967+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:04:37.8952769+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:00:12.0973852+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:04:12.7160572+00:00"
 }

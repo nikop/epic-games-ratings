@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-03-30T14:30:00+00:00",
     "PcReleaseDate": "2022-03-30T14:30:00+00:00",
@@ -10483,10 +10483,10 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 566122,
-  "EOS_Completed": 2302,
-  "EOS_NewPlayers": 1295,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 566123,
+  "EOS_Completed": 2303,
+  "EOS_NewPlayers": 1286,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -42828,6 +42828,11 @@
       "Time": "2024-01-26T03:10:22.5864+00:00",
       "NumProgressed": 566122,
       "NumCompleted": 2302
+    },
+    {
+      "Time": "2024-01-26T04:10:14.7944162+00:00",
+      "NumProgressed": 566123,
+      "NumCompleted": 2303
     }
   ],
   "TotalAchievements": 63,
@@ -42847,7 +42852,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 520832
+      "UsersEstimate": 520833
     },
     {
       "ID": "10",
@@ -42895,7 +42900,7 @@
       "Name": "Thanks for Everything",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 113224
+      "UsersEstimate": 113225
     },
     {
       "ID": "16",
@@ -42903,7 +42908,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 294383
+      "UsersEstimate": 294384
     },
     {
       "ID": "17",
@@ -42911,7 +42916,7 @@
       "Name": "Deliveries Done",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 141530
+      "UsersEstimate": 141531
     },
     {
       "ID": "18",
@@ -42951,7 +42956,7 @@
       "Name": "The Automation Revolution",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 209465
+      "UsersEstimate": 209466
     },
     {
       "ID": "22",
@@ -42959,7 +42964,7 @@
       "Name": "Apprentice Builder",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 407608
+      "UsersEstimate": 407609
     },
     {
       "ID": "23",
@@ -43007,7 +43012,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 435914
+      "UsersEstimate": 435915
     },
     {
       "ID": "29",
@@ -43039,7 +43044,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 509510
+      "UsersEstimate": 509511
     },
     {
       "ID": "32",
@@ -43055,7 +43060,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 339673
+      "UsersEstimate": 339674
     },
     {
       "ID": "34",
@@ -43079,7 +43084,7 @@
       "Name": "The Custom Kid",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 345334
+      "UsersEstimate": 345335
     },
     {
       "ID": "37",
@@ -43087,7 +43092,7 @@
       "Name": "Soak and Sigh",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 141530
+      "UsersEstimate": 141531
     },
     {
       "ID": "38",
@@ -43111,7 +43116,7 @@
       "Name": "I Won\u0027t Break",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 186820
+      "UsersEstimate": 186821
     },
     {
       "ID": "40",
@@ -43135,7 +43140,7 @@
       "Name": "A Baby Blessing",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 367979
+      "UsersEstimate": 367980
     },
     {
       "ID": "43",
@@ -43143,7 +43148,7 @@
       "Name": "Prominent Porter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 367979
+      "UsersEstimate": 367980
     },
     {
       "ID": "44",
@@ -43159,7 +43164,7 @@
       "Name": "Catcher Crusher",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 260416
+      "UsersEstimate": 260417
     },
     {
       "ID": "46",
@@ -43175,7 +43180,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 334012
+      "UsersEstimate": 334013
     },
     {
       "ID": "48",
@@ -43199,7 +43204,7 @@
       "Name": "BB...",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 186820
+      "UsersEstimate": 186821
     },
     {
       "ID": "50",
@@ -43207,7 +43212,7 @@
       "Name": "Well-Traveled",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 209465
+      "UsersEstimate": 209466
     },
     {
       "ID": "51",
@@ -43247,7 +43252,7 @@
       "Name": "A Shout in the Dark",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 288722
+      "UsersEstimate": 288723
     },
     {
       "ID": "56",
@@ -43271,7 +43276,7 @@
       "Name": "I Couldn\u0027t Hold it In!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 317028
+      "UsersEstimate": 317029
     },
     {
       "ID": "59",
@@ -43287,7 +43292,7 @@
       "Name": "We\u0027re Whole Again",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 164175
+      "UsersEstimate": 164176
     },
     {
       "ID": "60",
@@ -43295,7 +43300,7 @@
       "Name": "Soothing Sounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 260416
+      "UsersEstimate": 260417
     },
     {
       "ID": "61",
@@ -43303,7 +43308,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 362318
+      "UsersEstimate": 362319
     },
     {
       "ID": "62",
@@ -43342,15 +43347,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 566122,
-      "Completed": 2302
+      "Progressed": 566123,
+      "Completed": 2303
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2024-01-25T14:59:15.5168625+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:10:22.5863997+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:10:14.7944159+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:04.7811796+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:58:51.8702528+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:10:22.5865493+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:58:35.7296336+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:10:14.794639+00:00"
 }

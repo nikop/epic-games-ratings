@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1817,
+  "EOS_Progressed": 1818,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4974,6 +4974,11 @@
       "Time": "2024-01-26T01:52:55.1427198+00:00",
       "NumProgressed": 1817,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T04:09:49.7236763+00:00",
+      "NumProgressed": 1818,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4994,7 +4999,7 @@
       "Name": "I remember everything!",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AchvAssertive",
@@ -5114,7 +5119,7 @@
       "Name": "The Necroevolution",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "AchvNest",
@@ -5154,7 +5159,7 @@
       "Name": "The field base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "AchvReachCamp",
@@ -5162,7 +5167,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "AchvReachCity",
@@ -5170,7 +5175,7 @@
       "Name": "The City",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "AchvReachCondor",
@@ -5186,7 +5191,7 @@
       "Name": "Survivors",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -5210,14 +5215,14 @@
       "Name": "Beyond divisions",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1817,
+      "Progressed": 1818,
       "Completed": 2
     }
   ],
@@ -5225,8 +5230,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-25T17:59:43.5286108+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:09:57.6206424+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:09:49.7236759+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:59:15.5742826+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:09:57.6206788+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:58:59.9759392+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:09:49.7237267+00:00"
 }

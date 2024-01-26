@@ -8,12 +8,12 @@ Rating: 4.36 (Ranked 824)
 | Bring it on! | 16.00% | ~30 |
 | Can’t Touch This | 16.00% | ~30 |
 | Hail to the King, Baby | 16.00% | ~30 |
-| Help! Help! I’m being repressed | 15.00% | ~28 |
+| Help! Help! I’m being repressed | 14.00% | ~26 |
 | Path of Glory | 10.00% | ~19 |
 | There is no Nobility in Poverty | 9.00% | ~17 |
-| Full House | 8.00% | ~15 |
-| The finest merchandise this side of river Jordan | 8.00% | ~15 |
-| They Got What They Deserved | 8.00% | ~15 |
+| Full House | 7.00% | ~13 |
+| The finest merchandise this side of river Jordan | 7.00% | ~13 |
+| They Got What They Deserved | 7.00% | ~13 |
 | Dinner Time | 5.00% | ~9 |
 | Playerxander the Great | 5.00% | ~9 |
 | What we’ve got here is failure to communicate | 5.00% | ~9 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 824)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186 (Ranked 444)  
+Progressed: 187 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 186 | 0 |
+| 2024-01-26 | 187 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

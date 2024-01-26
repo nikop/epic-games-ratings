@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1063,9 +1063,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 8435,
+  "EOS_Progressed": 8437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14538,6 +14538,11 @@
       "Time": "2024-01-25T23:09:10.1988116+00:00",
       "NumProgressed": 8435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T04:08:53.1949105+00:00",
+      "NumProgressed": 8437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14549,7 +14554,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -14597,7 +14602,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14605,7 +14610,7 @@
       "Name": "Scaling up",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -14868,13 +14873,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8435,
+      "Progressed": 8437,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7807,
+      "Progressed": 7809,
       "Completed": 113
     }
   ],
@@ -14882,8 +14887,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-26T01:43:13.4745273+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:09:01.2270401+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:08:53.1949094+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:57:17.9980461+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:09:01.2271327+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:57:02.2121653+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:08:53.1950309+00:00"
 }

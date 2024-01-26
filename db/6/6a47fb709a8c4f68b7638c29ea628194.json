@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2817,
+  "EOS_Progressed": 2818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3994,6 +3994,11 @@
       "Time": "2024-01-26T03:09:36.2568859+00:00",
       "NumProgressed": 2817,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T04:09:28.1996872+00:00",
+      "NumProgressed": 2818,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -4094,15 +4099,15 @@
       "Name": "One motorbike race",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "ONE_LAP",
       "SetID": "4nk2039",
       "Name": "First lap",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1860
     },
     {
       "ID": "PODIUM_1",
@@ -4134,7 +4139,7 @@
       "Name": "On the starting grid",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "RESEARCHED_2",
@@ -4206,7 +4211,7 @@
       "Name": "Race winner",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "WIN_10",
@@ -4254,7 +4259,7 @@
       "Name": "Rookie",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "XP_10000",
@@ -4285,14 +4290,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2817,
+      "Progressed": 2818,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:09:36.2568854+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:09:28.1996867+00:00",
   "LastUpdate_AppInfo": "2024-01-22T02:57:03.6253654+00:00",
-  "LastUpdate_Ratings": "2024-01-26T03:00:28.0488657+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:09:36.256929+00:00"
+  "LastUpdate_Ratings": "2024-01-26T04:00:13.7058557+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:09:28.1997283+00:00"
 }

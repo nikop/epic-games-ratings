@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -878,9 +878,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6468,
+  "EOS_Progressed": 6469,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13703,6 +13703,11 @@
       "Time": "2024-01-26T01:46:56.6947326+00:00",
       "NumProgressed": 6468,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T04:03:52.3307057+00:00",
+      "NumProgressed": 6469,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13715,7 +13720,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13739,7 +13744,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -13763,7 +13768,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13803,7 +13808,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13827,7 +13832,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13898,15 +13903,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6468,
+      "Progressed": 6469,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:04:17.2829085+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:03:52.3307054+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:58:48.5110371+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:04:17.2829721+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:58:32.9220185+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:03:52.3307853+00:00"
 }

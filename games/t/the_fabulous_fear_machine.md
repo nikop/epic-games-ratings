@@ -23,9 +23,9 @@
 | Pulp! Adventures into the Unknown | 22.00% | ~21 |
 | The seer | 20.00% | ~19 |
 | Welcome to Hellville | 20.00% | ~19 |
+| You had one wish left | 19.00% | ~18 |
 | You've awakened the beast | 18.00% | ~17 |
 | Hate is... addictive | 18.00% | ~17 |
-| You had one wish left | 18.00% | ~17 |
 | Kirlian's best disciple | 18.00% | ~17 |
 | The bully | 17.00% | ~16 |
 | Blessed antennas | 16.00% | ~15 |

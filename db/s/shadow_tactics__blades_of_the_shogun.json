@@ -2540,10 +2540,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4972,
       "NumberOfAwardsMax": 596
+    },
+    {
+      "Time": "2024-01-26T03:58:52.196311+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4973,
+      "NumberOfAwardsMax": 596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4972,
+  "NumberOfAwards": 4973,
   "NumberOfAwardsMax": 596,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2575,7 +2581,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 469
+      "Count": 470
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2614,9 +2620,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 228336,
+  "EOS_Progressed": 228341,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1586,
+  "EOS_NewPlayers": 1587,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34969,6 +34975,11 @@
       "Time": "2024-01-26T03:08:29.798757+00:00",
       "NumProgressed": 228336,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-26T04:08:21.7482388+00:00",
+      "NumProgressed": 228341,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -34980,7 +34991,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 25117
+      "UsersEstimate": 25118
     },
     {
       "ID": "AtheistOx",
@@ -35020,7 +35031,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20550
+      "UsersEstimate": 20551
     },
     {
       "ID": "FiveShadows",
@@ -35044,7 +35055,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9133
+      "UsersEstimate": 9134
     },
     {
       "ID": "Genin",
@@ -35052,7 +35063,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27400
+      "UsersEstimate": 27401
     },
     {
       "ID": "HappyLittleAccidents",
@@ -35148,7 +35159,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9133
+      "UsersEstimate": 9134
     },
     {
       "ID": "Okkoto",
@@ -35196,7 +35207,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20550
+      "UsersEstimate": 20551
     },
     {
       "ID": "Rollin",
@@ -35204,7 +35215,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20550
+      "UsersEstimate": 20551
     },
     {
       "ID": "StillRollin",
@@ -35212,7 +35223,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9133
+      "UsersEstimate": 9134
     },
     {
       "ID": "Stoned",
@@ -35220,7 +35231,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9133
+      "UsersEstimate": 9134
     },
     {
       "ID": "StonedOx",
@@ -35236,7 +35247,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20550
+      "UsersEstimate": 20551
     },
     {
       "ID": "TheCave",
@@ -35268,7 +35279,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25117
+      "UsersEstimate": 25118
     },
     {
       "ID": "TimeParadox",
@@ -35331,15 +35342,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 228336,
+      "Progressed": 228341,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-01-25T05:58:31.2026477+00:00",
-  "LastChanged_Achievements": "2024-01-26T03:08:29.7987565+00:00",
+  "LastChanged": "2024-01-26T03:58:52.1963107+00:00",
+  "LastChanged_Achievements": "2024-01-26T04:08:21.7482385+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-26T02:59:08.0292349+00:00",
-  "LastUpdate_Achievements": "2024-01-26T03:08:29.7989237+00:00"
+  "LastUpdate_Ratings": "2024-01-26T03:58:52.1963113+00:00",
+  "LastUpdate_Achievements": "2024-01-26T04:08:21.7484334+00:00"
 }

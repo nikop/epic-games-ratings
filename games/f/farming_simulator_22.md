@@ -6,18 +6,18 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~45,321 |
-| I read Shakespeare and stuff | 59.00% | ~37,661 |
-| Just a sprinkle | 58.00% | ~37,023 |
-| I'm stumped | 56.00% | ~35,746 |
-| Plant get enough | 56.00% | ~35,746 |
+| Own use | 71.00% | ~45,322 |
+| I read Shakespeare and stuff | 59.00% | ~37,662 |
+| Just a sprinkle | 58.00% | ~37,024 |
+| I'm stumped | 56.00% | ~35,747 |
+| Plant get enough | 56.00% | ~35,747 |
 | This is just my weekend vehicle | 54.00% | ~34,470 |
 | It's just the beginning | 54.00% | ~34,470 |
-| Hard work pays off | 49.00% | ~31,278 |
+| Hard work pays off | 49.00% | ~31,279 |
 | It's never too late to farm | 45.00% | ~28,725 |
 | All out of Land | 41.00% | ~26,172 |
-| Field Trip | 40.00% | ~25,533 |
-| I like to switch it up | 37.00% | ~23,618 |
+| Field Trip | 40.00% | ~25,534 |
+| I like to switch it up | 37.00% | ~23,619 |
 | Help me to help you | 35.00% | ~22,342 |
 | Ultimutt Pawesomeness | 25.00% | ~15,958 |
 | Van Gogh | 23.00% | ~14,682 |
@@ -48,9 +48,9 @@ Number of Ratings: 7,683  (23.09.2022)
 | Cheese it | 0.40% | ~255 |
 | Olea europaea | 0.40% | ~255 |
 | You are not a kangaroo | 0.40% | ~255 |
-| Raisin the stakes | 0.30% | ~191 |
+| Raisin the stakes | 0.30% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,833 (Ranked 120)  
+Progressed: 63,834 (Ranked 120)  
 Completed: 7 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 7 (0.01%) (Ranked 387)
 | 2024-01-23 | 63,645 | 6 |
 | 2024-01-24 | 63,734 | 6 |
 | 2024-01-25 | 63,825 | 7 |
-| 2024-01-26 | 63,833 | 7 |
+| 2024-01-26 | 63,834 | 7 |
 ## Awards
 Max (Great for Beginners): 6,211  (Ranked 67)  
 Sum: 46,203 (Ranked 33)  

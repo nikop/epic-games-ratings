@@ -6,9 +6,9 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,841 |
-| Landlord | 35.00% | ~34,056 |
-| Trained | 30.00% | ~29,191 |
+| Lawbringer | 43.00% | ~41,842 |
+| Landlord | 35.00% | ~34,057 |
+| Trained | 30.00% | ~29,192 |
 | Bannerlord | 25.00% | ~24,326 |
 | Lawmaker | 24.00% | ~23,353 |
 | Horde breaker | 22.00% | ~21,407 |
@@ -19,12 +19,12 @@ Number of Ratings: 5,603  (23.09.2022)
 | Against all odds | 16.00% | ~15,569 |
 | I can do it | 16.00% | ~15,569 |
 | Duelist | 13.00% | ~12,650 |
-| God of the Arena | 12.00% | ~11,676 |
-| Swordbearer | 11.00% | ~10,703 |
-| What have the Romans ever done for us? | 11.00% | ~10,703 |
-| Butterlord | 10.00% | ~9,730 |
-| Dynasty | 10.00% | ~9,730 |
-| I spit on your grave | 10.00% | ~9,730 |
+| God of the Arena | 12.00% | ~11,677 |
+| Swordbearer | 11.00% | ~10,704 |
+| What have the Romans ever done for us? | 11.00% | ~10,704 |
+| Butterlord | 10.00% | ~9,731 |
+| Dynasty | 10.00% | ~9,731 |
+| I spit on your grave | 10.00% | ~9,731 |
 | Mastery | 8.00% | ~7,784 |
 | Know your enemy | 7.00% | ~6,811 |
 | My way | 5.00% | ~4,865 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,304 (Ranked 105)  
+Progressed: 97,306 (Ranked 105)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,16 +339,16 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 97,011 | 0 |
 | 2024-01-24 | 97,171 | 0 |
 | 2024-01-25 | 97,299 | 0 |
-| 2024-01-26 | 97,304 | 0 |
+| 2024-01-26 | 97,306 | 0 |
 ## Awards
 Max (Character Customization): 8,250  (Ranked 51)  
-Sum: 17,053 (Ranked 67)  
+Sum: 17,056 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,250 |
 | This game is Great for Beginners | 1,245 |
-| This game has Diverse Characters | 1,136 |
+| This game has Diverse Characters | 1,139 |
 | This game is Highly Recommended | 1,040 |
 | This game is Extremely Fun | 957 |
 | This game has Amazing Storytelling | 944 |
@@ -737,4 +737,4 @@ Diff (max vs sum): -16
 | 2024-01-23 | 4.74 | - | 8,223 | 17,008 |
 | 2024-01-24 | 4.74 | - | 8,238 | 17,033 |
 | 2024-01-25 | 4.74 | - | 8,250 | 17,052 |
-| 2024-01-26 | 4.74 | - | 8,250 | 17,053 |
+| 2024-01-26 | 4.74 | - | 8,250 | 17,056 |
