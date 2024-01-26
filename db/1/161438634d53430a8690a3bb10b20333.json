@@ -2,7 +2,7 @@
   "ID": "161438634d53430a8690a3bb10b20333",
   "Name": "RIO-X",
   "ProductSlug": "riox-31753b",
-  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 163,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T17:56:56.2861002+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:57:17.4940312+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:04:21.8754609+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:57:03.7426212+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:04:15.4558727+00:00"
 }

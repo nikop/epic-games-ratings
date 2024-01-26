@@ -1,7 +1,7 @@
 {
   "ID": "f7c4775ed8a3431981d1b4173666fe16",
   "Name": "Neodymium",
-  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 163,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:48.8110574+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:34.7524228+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:08:31.1219361+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:38.3413673+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:08:07.7699214+00:00"
 }

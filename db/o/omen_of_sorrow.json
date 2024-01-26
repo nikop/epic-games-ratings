@@ -2,7 +2,7 @@
   "ID": "daffodil",
   "Name": "Omen Of Sorrow",
   "ProductSlug": "omen-of-sorrow",
-  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 163,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.1159995+00:00",
   "LastChanged": "2023-03-31T05:57:36.1159997+00:00",
   "LastUpdate_AppInfo": "2024-01-20T22:57:05.8021461+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:53.2181998+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:04:02.0746579+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:58.6707184+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:03:52.8526032+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 1089,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
-  "Ranking_EOS_Progress": 339,
+  "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -1479,6 +1479,11 @@
       "Time": "2024-01-25T23:04:02.7463017+00:00",
       "NumProgressed": 687,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-26T10:04:25.6807124+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1538,7 +1543,7 @@
       "Name": "Between the Covers",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Gamer",
@@ -1610,7 +1615,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Leisurely_Strol",
@@ -1634,7 +1639,7 @@
       "Name": "Antisocial Club",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Missing_Shot",
@@ -1642,7 +1647,7 @@
       "Name": "You Had One Job...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Neighbor",
@@ -1698,7 +1703,7 @@
       "Name": "Smart cookie",
       "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Strike",
@@ -1714,14 +1719,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 6
     }
   ],
@@ -1729,8 +1734,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:04:30.7951877+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:04:25.680712+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:07.0579048+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:03:41.0630957+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:04:30.7952096+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:03:27.5115147+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:04:25.680737+00:00"
 }

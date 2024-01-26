@@ -9859,9 +9859,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255692,
+  "EOS_Progressed": 255694,
   "EOS_Completed": 2649,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41759,6 +41759,11 @@
       "Time": "2024-01-26T09:10:43.5857447+00:00",
       "NumProgressed": 255692,
       "NumCompleted": 2649
+    },
+    {
+      "Time": "2024-01-26T10:10:32.8035569+00:00",
+      "NumProgressed": 255694,
+      "NumCompleted": 2649
     }
   ],
   "TotalAchievements": 546,
@@ -41792,9 +41797,9 @@
       "ID": "objective_completed_101",
       "SetID": "cc37lbc",
       "Name": "Upholding the Law",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_completed_102",
@@ -42072,9 +42077,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 1023
     },
     {
       "ID": "objective_completed_1090",
@@ -46137,21 +46142,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221966,
+      "Progressed": 221968,
       "Completed": 4161
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255692,
+      "Progressed": 255694,
       "Completed": 2649
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T03:59:33.9204457+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:10:43.5857445+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:10:32.8035565+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:53.526684+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:10:43.5879378+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:59.03373+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:10:32.8058149+00:00"
 }

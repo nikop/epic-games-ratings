@@ -468,9 +468,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 209784,
+  "EOS_Progressed": 209786,
   "EOS_Completed": 571,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30458,6 +30458,11 @@
       "Time": "2024-01-26T09:03:52.8544751+00:00",
       "NumProgressed": 209784,
       "NumCompleted": 571
+    },
+    {
+      "Time": "2024-01-26T10:03:42.6414656+00:00",
+      "NumProgressed": 209786,
+      "NumCompleted": 571
     }
   ],
   "TotalAchievements": 29,
@@ -30493,7 +30498,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 197197
+      "UsersEstimate": 197199
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30501,7 +30506,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -30653,7 +30658,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20978
+      "UsersEstimate": 20979
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -30700,7 +30705,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209784,
+      "Progressed": 209786,
       "Completed": 571
     }
   ],
@@ -30708,8 +30713,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-26T07:59:27.0570371+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:03:52.8544747+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:03:42.6414653+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:24.2745259+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:03:52.854635+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:26.4671772+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:03:42.6417594+00:00"
 }

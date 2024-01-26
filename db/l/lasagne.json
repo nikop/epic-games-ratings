@@ -1,7 +1,7 @@
 {
   "ID": "757a437095f549baa72b2a1100ead743",
   "Name": "Lasagne",
-  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 163,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:59.0655708+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:03:43.5844587+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:05:27.4717789+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:03:30.294413+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:05:27.2705145+00:00"
 }

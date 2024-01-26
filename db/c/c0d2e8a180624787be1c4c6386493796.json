@@ -1936,9 +1936,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -2207,8 +2207,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:05:04.4779514+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:05:02.2170648+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.8390305+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:57:28.8465627+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:05:04.478025+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:57:16.2016283+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:05:02.2171323+00:00"
 }

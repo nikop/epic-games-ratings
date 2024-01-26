@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2191,
+  "EOS_Progressed": 2192,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
@@ -5354,6 +5354,11 @@
       "Time": "2024-01-26T09:10:22.3132819+00:00",
       "NumProgressed": 2191,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-26T10:10:10.2508427+00:00",
+      "NumProgressed": 2192,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 16,
@@ -5389,7 +5394,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -5421,7 +5426,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5429,7 +5434,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5445,15 +5450,15 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -5492,7 +5497,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2191,
+      "Progressed": 2192,
       "Completed": 84
     }
   ],
@@ -5500,8 +5505,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:10:22.3132816+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:10:10.2508423+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:58:06.2902453+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:10:22.3133287+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:57:58.5277947+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:10:10.2508734+00:00"
 }

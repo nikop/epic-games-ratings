@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 163,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11274,7 +11274,7 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133715,
+  "EOS_Progressed": 133717,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
@@ -41539,6 +41539,11 @@
       "Time": "2024-01-26T09:10:33.9794121+00:00",
       "NumProgressed": 133715,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T10:10:22.9770914+00:00",
+      "NumProgressed": 133717,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41646,7 +41651,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -41654,7 +41659,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -41902,7 +41907,7 @@
       "Name": "Autodidact",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12034
+      "UsersEstimate": 12035
     },
     {
       "ID": "hero_story_complete_all",
@@ -41950,7 +41955,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41982,7 +41987,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -42014,7 +42019,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "run_victory_act03",
@@ -42022,7 +42027,7 @@
       "Name": "Eyes Up",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "run_victory_act04",
@@ -42181,21 +42186,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133715,
+      "Progressed": 133717,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8584,
+      "Progressed": 8586,
       "Completed": 832
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T20:57:38.4952846+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:10:33.9794118+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:10:22.9770911+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:57:46.8575905+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:10:33.979626+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:57:36.0573865+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:10:22.9773079+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "top-web-search-23-a34613",
   "Ranking_EOS_Progress": 583,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "DOUBLE_UP_DECISIONS",
       "SetID": "44h0e32",
       "Name": "Double Up Decisions",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DYNAMIC_DOZEN_DECISIONIST",
@@ -261,9 +261,9 @@
       "ID": "FANTASTIC_FOUR_CHOICES",
       "SetID": "44h0e32",
       "Name": "Fantastic Four Choices",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FOURTEENSTAR_STRATEGIST",
@@ -277,9 +277,9 @@
       "ID": "HIGH_FIVE_DECISION_MAKER",
       "SetID": "44h0e32",
       "Name": "High Five Decision Maker",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LUCKY_SEVEN_NAVIGATOR",
@@ -317,9 +317,9 @@
       "ID": "SIXTH_SENSE_STRATEGIES",
       "SetID": "44h0e32",
       "Name": "Sixth Sense Strategies",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "STARTER_SCORE",
@@ -341,9 +341,9 @@
       "ID": "TRIPLE_THREAT_CHOICES",
       "SetID": "44h0e32",
       "Name": "Triple Threat Choices",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -355,8 +355,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:03:44.7289864+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:03:33.6344446+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.8361563+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:58:43.4933308+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:03:44.7290096+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:58:40.8928352+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:03:33.6344598+00:00"
 }

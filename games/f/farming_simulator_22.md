@@ -6,16 +6,16 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~45,326 |
+| Own use | 71.00% | ~45,327 |
 | I read Shakespeare and stuff | 59.00% | ~37,666 |
-| Just a sprinkle | 58.00% | ~37,027 |
-| I'm stumped | 56.00% | ~35,750 |
-| Plant get enough | 56.00% | ~35,750 |
+| Just a sprinkle | 58.00% | ~37,028 |
+| I'm stumped | 56.00% | ~35,751 |
+| Plant get enough | 56.00% | ~35,751 |
 | This is just my weekend vehicle | 54.00% | ~34,474 |
 | It's just the beginning | 54.00% | ~34,474 |
 | Hard work pays off | 49.00% | ~31,282 |
 | It's never too late to farm | 45.00% | ~28,728 |
-| All out of Land | 41.00% | ~26,174 |
+| All out of Land | 41.00% | ~26,175 |
 | Field Trip | 40.00% | ~25,536 |
 | I like to switch it up | 37.00% | ~23,621 |
 | Help me to help you | 35.00% | ~22,344 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 14.00% | ~8,938 |
 | Long haul | 14.00% | ~8,938 |
 | That's a wrap | 13.00% | ~8,299 |
-| Fix me up | 11.00% | ~7,022 |
+| Fix me up | 11.00% | ~7,023 |
 | Highly cultivated | 10.00% | ~6,384 |
 | It's sow easy | 10.00% | ~6,384 |
 | Rock on | 10.00% | ~6,384 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~255 |
 | Raisin the stakes | 0.30% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,840 (Ranked 120)  
+Progressed: 63,841 (Ranked 120)  
 Completed: 7 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 7 (0.01%) (Ranked 387)
 | 2024-01-23 | 63,645 | 6 |
 | 2024-01-24 | 63,734 | 6 |
 | 2024-01-25 | 63,825 | 7 |
-| 2024-01-26 | 63,840 | 7 |
+| 2024-01-26 | 63,841 | 7 |
 ## Awards
 Max (Great for Beginners): 6,211  (Ranked 67)  
 Sum: 46,205 (Ranked 33)  

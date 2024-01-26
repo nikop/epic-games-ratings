@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 1.00% | ~7,629 |
 | Kung-Fu Tussle | 1.00% | ~7,629 |
 | Project Arena | 1.00% | ~722 |
-| Fight the way you practice | 0.90% | ~649 |
+| Fight the way you practice | 0.90% | ~650 |
 | Muk Yan Master | 0.80% | ~6,103 |
 | Detective Story | 0.80% | ~6,103 |
 | Tiger on Fire | 0.70% | ~5,340 |
@@ -53,8 +53,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.30% | ~2,289 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,289 |
 | Be like water my friend | 0.30% | ~2,289 |
-| Deadly Venom | 0.30% | ~216 |
-| A Touch of Acumen | 0.30% | ~216 |
+| Deadly Venom | 0.30% | ~217 |
+| A Touch of Acumen | 0.30% | ~217 |
 | Secure, Protect, Leave | 0.20% | ~144 |
 | Crouching Tiger | 0.20% | ~144 |
 | Skill and an even stronger will | 0.20% | ~144 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,862 (Ranked 26)  
+Progressed: 762,869 (Ranked 26)  
 Completed: 13,008 (1.71%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 13,008 (1.71%) (Ranked 151)
 | 2024-01-23 | 762,568 | 13,006 |
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
-| 2024-01-26 | 762,862 | 13,008 |
+| 2024-01-26 | 762,869 | 13,008 |
 ## Awards
 Max (Great Boss Battles): 7,286  (Ranked 59)  
 Sum: 12,894 (Ranked 88)  

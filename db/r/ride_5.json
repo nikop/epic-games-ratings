@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3728,
+  "EOS_Progressed": 3729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9402,6 +9402,11 @@
       "Time": "2024-01-26T09:08:42.4047484+00:00",
       "NumProgressed": 3728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T10:08:20.6859334+00:00",
+      "NumProgressed": 3729,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9518,7 +9523,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9718,7 +9723,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9805,7 +9810,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3728,
+      "Progressed": 3729,
       "Completed": 0
     }
   ],
@@ -9813,8 +9818,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-24T14:58:03.0484501+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:08:42.4047482+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:08:20.6859328+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:10.3016183+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:08:42.4048278+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:10.9614239+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:08:20.6860095+00:00"
 }

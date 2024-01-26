@@ -5519,7 +5519,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83286,
+  "EOS_Progressed": 83287,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
@@ -31549,6 +31549,11 @@
       "Time": "2024-01-26T08:06:00.1153263+00:00",
       "NumProgressed": 83286,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-26T10:06:01.7425269+00:00",
+      "NumProgressed": 83287,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31800,7 +31805,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15824
+      "UsersEstimate": 15825
     },
     {
       "ID": "FREEZE_3",
@@ -31864,7 +31869,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28317
+      "UsersEstimate": 28318
     },
     {
       "ID": "HARLEY_2",
@@ -31904,7 +31909,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41643
+      "UsersEstimate": 41644
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31936,7 +31941,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21654
+      "UsersEstimate": 21655
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31952,7 +31957,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27484
+      "UsersEstimate": 27485
     },
     {
       "ID": "MYSTERY_02",
@@ -32016,7 +32021,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9161
+      "UsersEstimate": 9162
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -32047,13 +32052,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83286,
+      "Progressed": 83287,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53566,
+      "Progressed": 53567,
       "Completed": 2682
     }
   ],
@@ -32061,8 +32066,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-26T07:57:49.0687458+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:05:58.5767037+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:06:01.7425262+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:57:50.9352786+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:05:58.5768946+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:57:40.886145+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:06:01.7426853+00:00"
 }

@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162584,
+  "EOS_Progressed": 162585,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -26558,6 +26558,11 @@
       "Time": "2024-01-26T08:04:05.796903+00:00",
       "NumProgressed": 162584,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2024-01-26T10:03:54.7804423+00:00",
+      "NumProgressed": 162585,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 31,
@@ -26577,7 +26582,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113809
+      "UsersEstimate": 113810
     },
     {
       "ID": "EAwards_10",
@@ -26641,7 +26646,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35768
+      "UsersEstimate": 35769
     },
     {
       "ID": "EAwards_18",
@@ -26649,7 +26654,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35768
+      "UsersEstimate": 35769
     },
     {
       "ID": "EAwards_19",
@@ -26816,7 +26821,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 162584,
+      "Progressed": 162585,
       "Completed": 404
     }
   ],
@@ -26824,8 +26829,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:04:03.6822947+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:03:54.780442+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:58:55.9331288+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:04:03.682411+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:58:54.6609658+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:03:54.7805705+00:00"
 }

@@ -14040,9 +14040,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63840,
+  "EOS_Progressed": 63841,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40965,6 +40965,11 @@
       "Time": "2024-01-26T08:09:13.6017217+00:00",
       "NumProgressed": 63840,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T10:08:40.0144654+00:00",
+      "NumProgressed": 63841,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 43,
@@ -41072,7 +41077,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35750
+      "UsersEstimate": 35751
     },
     {
       "ID": "DeliveryGrapes",
@@ -41112,7 +41117,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35750
+      "UsersEstimate": 35751
     },
     {
       "ID": "Harvested",
@@ -41128,7 +41133,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 45326
+      "UsersEstimate": 45327
     },
     {
       "ID": "HorseJumps",
@@ -41208,7 +41213,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 26174
+      "UsersEstimate": 26175
     },
     {
       "ID": "NumProductionPoints",
@@ -41264,7 +41269,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 37027
+      "UsersEstimate": 37028
     },
     {
       "ID": "Stones",
@@ -41304,7 +41309,7 @@
       "Name": "Fix me up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7022
+      "UsersEstimate": 7023
     },
     {
       "ID": "WrappedBales",
@@ -41319,15 +41324,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63840,
+      "Progressed": 63841,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-26T08:58:59.5305468+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:08:59.8535937+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:08:40.0144651+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:58:59.5305474+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:08:59.8537464+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:58:58.8710864+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:08:40.0146201+00:00"
 }

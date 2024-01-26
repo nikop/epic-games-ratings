@@ -11,9 +11,9 @@ Rating: 4.62 (Ranked 387)
 | Hear That Roar! | 43.00% | ~1,603 |
 | Bitter Rivalry | 31.00% | ~1,156 |
 | Rivals to the End | 31.00% | ~1,156 |
-| Champagne Spray | 30.00% | ~1,118 |
+| Champagne Spray | 30.00% | ~1,119 |
 | We're Going to Need a Bigger Garage | 28.00% | ~1,044 |
-| Quick Pit Stop | 23.00% | ~857 |
+| Quick Pit Stop | 23.00% | ~858 |
 | Restored and Ready | 21.00% | ~783 |
 | I Want One Too! | 21.00% | ~783 |
 | Legendary!!! | 20.00% | ~746 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 387)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,728 (Ranked 226)  
+Progressed: 3,729 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 3,691 | 0 |
 | 2024-01-24 | 3,706 | 0 |
 | 2024-01-25 | 3,725 | 0 |
-| 2024-01-26 | 3,728 | 0 |
+| 2024-01-26 | 3,729 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

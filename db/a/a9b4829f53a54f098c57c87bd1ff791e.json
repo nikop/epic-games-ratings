@@ -244,9 +244,9 @@
       "ID": "DEMO_END",
       "SetID": "39bcm6",
       "Name": "The End...?",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "END_IS_NEVER",
@@ -260,9 +260,9 @@
       "ID": "FALL_DEATH",
       "SetID": "39bcm6",
       "Name": "Slippin Stanton",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GLITCH",
@@ -276,9 +276,9 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "IMMOVABLE",
@@ -300,17 +300,17 @@
       "ID": "LEVEL_2_ENTER",
       "SetID": "39bcm6",
       "Name": "Not Out of the Metaphorical Woods",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MICROWAVE",
@@ -403,8 +403,8 @@
   ],
   "FirstSeen": "2024-01-22T01:57:38.178275+00:00",
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:06:05.8807264+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:06:09.8087183+00:00",
   "LastUpdate_AppInfo": "2024-01-21T18:57:26.2490589+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:22.259644+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:06:05.8807472+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:24.152597+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:06:09.8087343+00:00"
 }

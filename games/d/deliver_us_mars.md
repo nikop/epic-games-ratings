@@ -5,30 +5,30 @@ Rating: 4.15 (Ranked 1,010)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 53.00% | ~5,578 |
-| The beginning of a beautiful collection | 43.00% | ~4,525 |
-| Home Is... | 39.00% | ~4,104 |
-| Reading is fundamental | 36.00% | ~3,789 |
-| Take a look | 36.00% | ~3,789 |
-| Moonbear | 26.00% | ~2,736 |
-| Getting the hang of it | 22.00% | ~2,315 |
-| Want to Go to Space? | 22.00% | ~2,315 |
-| On the Precipice | 18.00% | ~1,894 |
-| A Nice Place to Live | 16.00% | ~1,684 |
-| The Dream for These Folks | 15.00% | ~1,579 |
-| Not the Rabbits, Not the Bees | 14.00% | ~1,473 |
-| Delivered Us Mars | 13.00% | ~1,368 |
-| Like Animals | 13.00% | ~1,368 |
-| Wants and Needs | 13.00% | ~1,368 |
-| Desperate Times | 13.00% | ~1,368 |
-| Piecing the story together | 12.00% | ~1,263 |
-| Cinephile | 9.00% | ~947 |
-| Stellar extra-vehicular activities score | 8.00% | ~842 |
-| When ACE met AYLA | 5.00% | ~526 |
-| Kat-like reflexes | 4.00% | ~421 |
-| Kats always land on their feet | 2.00% | ~210 |
-| The Gang | 2.00% | ~210 |
-| As the story unfolds... | 0.80% | ~84 |
+| Better jot that down | 53.00% | ~5,609 |
+| The beginning of a beautiful collection | 43.00% | ~4,551 |
+| Home Is... | 38.00% | ~4,022 |
+| Reading is fundamental | 36.00% | ~3,810 |
+| Take a look | 36.00% | ~3,810 |
+| Moonbear | 25.00% | ~2,646 |
+| Getting the hang of it | 22.00% | ~2,328 |
+| Want to Go to Space? | 22.00% | ~2,328 |
+| On the Precipice | 18.00% | ~1,905 |
+| A Nice Place to Live | 16.00% | ~1,693 |
+| The Dream for These Folks | 15.00% | ~1,587 |
+| Not the Rabbits, Not the Bees | 14.00% | ~1,482 |
+| Delivered Us Mars | 13.00% | ~1,376 |
+| Like Animals | 13.00% | ~1,376 |
+| Wants and Needs | 13.00% | ~1,376 |
+| Desperate Times | 13.00% | ~1,376 |
+| Piecing the story together | 12.00% | ~1,270 |
+| Cinephile | 9.00% | ~952 |
+| Stellar extra-vehicular activities score | 8.00% | ~847 |
+| When ACE met AYLA | 5.00% | ~529 |
+| Kat-like reflexes | 4.00% | ~423 |
+| Kats always land on their feet | 2.00% | ~212 |
+| The Gang | 2.00% | ~212 |
+| As the story unfolds... | 0.80% | ~85 |
 | Who waits five minutes, seriously? | 0.40% | ~42 |
 | Peruser | 0.30% | ~32 |
 | Simulacrum | 0.20% | ~21 |
@@ -39,7 +39,7 @@ Rating: 4.15 (Ranked 1,010)
 | Chronicler | 0.20% | ~21 |
 | Shai-Hulud? | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,524 (Ranked 186)  
+Progressed: 10,583 (Ranked 186)  
 Completed: 13 (0.12%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 13 (0.12%) (Ranked 315)
 | 2024-01-23 | 8,015 | 11 |
 | 2024-01-24 | 9,092 | 11 |
 | 2024-01-25 | 10,214 | 13 |
-| 2024-01-26 | 10,524 | 13 |
+| 2024-01-26 | 10,583 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

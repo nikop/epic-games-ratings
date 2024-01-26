@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.50% | ~1,110 |
 | Don't Lose Your Head | 0.50% | ~1,110 |
 | Mind Spike | 0.50% | ~1,110 |
+| The Silken Swamp | 0.40% | ~1,023 |
 | Low Initiative | 0.40% | ~1,023 |
 | March of the Undead | 0.40% | ~1,023 |
 | No Time To Rest | 0.40% | ~1,023 |
@@ -50,7 +51,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.40% | ~888 |
 | Misaligned in Sigil | 0.40% | ~888 |
 | Chaos Theory | 0.40% | ~888 |
-| The Silken Swamp | 0.30% | ~767 |
 | Supply Run | 0.30% | ~767 |
 | Homecoming | 0.30% | ~767 |
 | Street War | 0.30% | ~767 |
@@ -71,6 +71,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.30% | ~767 |
 | Rescue in the Jungle | 0.30% | ~767 |
 | Pros and CONs | 0.20% | ~511 |
+| Upholding the Law | 0.20% | ~511 |
 | Tall Tales | 0.20% | ~444 |
 | Wet Feet | 0.20% | ~511 |
 | Hatchlings Underfoot | 0.20% | ~511 |
@@ -162,7 +163,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Beginning is the End | 0.20% | ~444 |
 | A Wise Approach | 0.20% | ~444 |
 | The Brains of an Illithid's Desire | 0.20% | ~444 |
-| Upholding the Law | 0.10% | ~256 |
 | Starving in the Jungle | 0.10% | ~256 |
 | Cold as Ice | 0.10% | ~222 |
 | Keep Your Friends Close | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,692 (Ranked 71)  
+Progressed: 255,694 (Ranked 71)  
 Completed: 2,649 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -834,7 +834,7 @@ Completed: 2,649 (1.04%) (Ranked 180)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,692 | 2,649 |
+| 2024-01-26 | 255,694 | 2,649 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,650 (Ranked 42)  

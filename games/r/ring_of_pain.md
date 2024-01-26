@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,526 (Ranked 75)  
+Progressed: 243,527 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 309 (0.13%) (Ranked 310)
 | 2024-01-23 | 243,428 | 309 |
 | 2024-01-24 | 243,469 | 309 |
 | 2024-01-25 | 243,514 | 309 |
-| 2024-01-26 | 243,526 | 309 |
+| 2024-01-26 | 243,527 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,806 (Ranked 92)  

@@ -5,36 +5,36 @@ Rating: 4.51 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 61.00% | ~1,001 |
+| Read Between The Lines | 61.00% | ~1,002 |
 | To Hell In A Handcart | 60.00% | ~985 |
 | High Profile | 53.00% | ~870 |
 | Whispers In The Dark | 51.00% | ~837 |
-| Fond Memories | 49.00% | ~804 |
-| A Method To His Madness | 47.00% | ~771 |
+| Fond Memories | 49.00% | ~805 |
+| A Method To His Madness | 47.00% | ~772 |
 | History Check | 46.00% | ~755 |
 | The New World | 44.00% | ~722 |
 | Gaze Into The Abyss | 43.00% | ~706 |
 | Open Sesame | 43.00% | ~706 |
-| Lock, Stock, And Barrel | 42.00% | ~689 |
-| Sticky Fingers | 42.00% | ~689 |
-| Knives Out | 42.00% | ~689 |
+| Lock, Stock, And Barrel | 42.00% | ~690 |
+| Sticky Fingers | 42.00% | ~690 |
+| Knives Out | 42.00% | ~690 |
 | Back In The Saddle | 41.00% | ~673 |
 | Land, Ho! | 41.00% | ~673 |
-| No Man Is An Island | 40.00% | ~656 |
+| No Man Is An Island | 40.00% | ~657 |
 | At Wits' End | 39.00% | ~640 |
 | Fhtagn! | 38.00% | ~624 |
-| Bookworm | 37.00% | ~607 |
-| Up In Flames | 37.00% | ~607 |
-| Going Once... | 35.00% | ~574 |
+| Bookworm | 37.00% | ~608 |
+| Up In Flames | 37.00% | ~608 |
+| Going Once... | 35.00% | ~575 |
 | Let Me Be Frank | 34.00% | ~558 |
 | No Stone Unturned | 31.00% | ~509 |
-| Brain Food | 30.00% | ~492 |
+| Brain Food | 30.00% | ~493 |
 | Read It And Weep | 20.00% | ~328 |
-| Curiosity Killed The Cat | 18.00% | ~295 |
+| Curiosity Killed The Cat | 18.00% | ~296 |
 | Big Breakthrough | 12.00% | ~197 |
 | Reawakened | 3.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,641 (Ranked 269)  
+Progressed: 1,642 (Ranked 269)  
 Completed: 51 (3.11%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 51 (3.11%) (Ranked 110)
 | 2024-01-23 | 1,627 | 51 |
 | 2024-01-24 | 1,634 | 51 |
 | 2024-01-25 | 1,639 | 51 |
-| 2024-01-26 | 1,641 | 51 |
+| 2024-01-26 | 1,642 | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

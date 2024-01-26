@@ -2,7 +2,7 @@
   "ID": "7691acba99d04b8b994ce3c642ec7655",
   "Name": "VELONE",
   "ProductSlug": "velone-3c0487",
-  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 163,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:02.329349+00:00",
   "LastChanged": "2023-03-31T05:57:02.3293491+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.3170899+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:21.2743172+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:09:38.3685622+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:23.0219933+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:09:21.1430986+00:00"
 }

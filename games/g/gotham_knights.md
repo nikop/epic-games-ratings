@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,643 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,317 |
-| Loose Ends | 33.00% | ~27,484 |
+| First Step Into the Knight | 50.00% | ~41,644 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,318 |
+| Loose Ends | 33.00% | ~27,485 |
 | To the Victor Go the Spoils | 27.00% | ~22,487 |
-| Knighthood | 26.00% | ~21,654 |
+| Knighthood | 26.00% | ~21,655 |
 | Get ReQ'd | 24.00% | ~19,989 |
 | Whispered Words | 24.00% | ~19,989 |
 | The Batman Family | 22.00% | ~18,323 |
@@ -19,7 +19,7 @@ Rating: 4.19 (Ranked 983)
 | Working Hard or Harley Working? | 20.00% | ~16,657 |
 | Unstoppable Force | 20.00% | ~16,657 |
 | Bad Apples in Every Orchard | 20.00% | ~16,657 |
-| Snow Problem | 19.00% | ~15,824 |
+| Snow Problem | 19.00% | ~15,825 |
 | The Show Mud Go On | 17.00% | ~14,159 |
 | From Inside Gotham's Walls | 17.00% | ~14,159 |
 | Protector of Gotham | 16.00% | ~13,326 |
@@ -34,7 +34,7 @@ Rating: 4.19 (Ranked 983)
 | Not On My Watch | 12.00% | ~9,994 |
 | Bulldozed | 12.00% | ~9,994 |
 | Gotham Knight | 12.00% | ~9,994 |
-| Gotham City Confidential | 11.00% | ~9,161 |
+| Gotham City Confidential | 11.00% | ~9,162 |
 | Drone You Out | 10.00% | ~8,329 |
 | Out of Their League | 9.00% | ~7,496 |
 | Solid Alibi | 8.00% | ~6,663 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 983)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,286 (Ranked 111)  
+Progressed: 83,287 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 135 (0.16%) (Ranked 301)
 | 2024-01-23 | 83,213 | 135 |
 | 2024-01-24 | 83,243 | 135 |
 | 2024-01-25 | 83,274 | 135 |
-| 2024-01-26 | 83,286 | 135 |
+| 2024-01-26 | 83,287 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,256  (Ranked 103)  
 Sum: 5,576 (Ranked 146)  

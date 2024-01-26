@@ -2,7 +2,7 @@
   "ID": "263de26be57d43528bb9c7fdb133b9fe",
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 44,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 6.93,
+  "EOS_Completed_Percentage": 6.86,
   "EosHistory": [
     {
       "Time": "2024-01-18T17:10:07.9287814+00:00",
@@ -374,6 +374,11 @@
       "Time": "2024-01-26T09:05:08.8045592+00:00",
       "NumProgressed": 101,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-26T10:05:06.6921427+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2024-01-18T17:10:07.9287841+00:00",
@@ -386,13 +391,13 @@
       "Name": "Found dad\u0027s old stuff",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BANK_FIRST",
       "SetID": "89ki2f0",
       "Name": "Broke into the Botanical Bank",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 20,
       "UsersEstimate": 93
     },
@@ -402,7 +407,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BANK_STEAL",
@@ -426,13 +431,13 @@
       "Name": "Sour apple",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 35,
       "UsersEstimate": 37
     },
@@ -442,7 +447,7 @@
       "Name": "Killed another human...?",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BOSS_FINAL",
@@ -464,7 +469,7 @@
       "ID": "DARKWEB_FIRST",
       "SetID": "89ki2f0",
       "Name": "Illegal goods",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 20,
       "UsersEstimate": 81
     },
@@ -480,7 +485,7 @@
       "ID": "MONEY_100K",
       "SetID": "89ki2f0",
       "Name": "Hiding your wealth",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 35,
       "UsersEstimate": 45
     },
@@ -496,7 +501,7 @@
       "ID": "MONEY_1K",
       "SetID": "89ki2f0",
       "Name": "Buy yourself something nice",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 25,
       "UsersEstimate": 82
     },
@@ -504,7 +509,7 @@
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 27
     },
@@ -544,7 +549,7 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 34
     },
@@ -560,23 +565,23 @@
       "ID": "WEAPONRACK_FIRST",
       "SetID": "89ki2f0",
       "Name": "Woah! Guns!",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "89ki2f0",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 7
     }
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:05:08.8045589+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:05:06.6921423+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:58:30.8538136+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:05:08.8045776+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:58:26.7670731+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:05:06.6921549+00:00"
 }

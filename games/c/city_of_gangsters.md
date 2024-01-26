@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,302 |
+| Corner Clout | 46.00% | ~167,303 |
 | Copacetic Coordination | 16.00% | ~58,192 |
 | Fronting the Money | 15.00% | ~54,555 |
 | The Dawn of Automation | 14.00% | ~50,918 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 890)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,701 (Ranked 58)  
+Progressed: 363,703 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 7 (0.00%) (Ranked 413)
 | 2024-01-23 | 363,415 | 7 |
 | 2024-01-24 | 363,529 | 7 |
 | 2024-01-25 | 363,653 | 7 |
-| 2024-01-26 | 363,701 | 7 |
+| 2024-01-26 | 363,703 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 446)  
 Sum: 276 (Ranked 397)  

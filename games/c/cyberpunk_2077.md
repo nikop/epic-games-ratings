@@ -13,18 +13,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.80% | ~8,471 |
 | True Soldier | 0.80% | ~8,471 |
 | Legend of The Afterlife | 0.80% | ~8,471 |
-| Christmas Tree Attack | 0.70% | ~7,412 |
-| Life of the Road | 0.70% | ~7,412 |
-| Stanislavski's Method | 0.70% | ~7,412 |
-| The Lovers | 0.70% | ~7,412 |
+| Christmas Tree Attack | 0.70% | ~7,413 |
+| Life of the Road | 0.70% | ~7,413 |
+| Stanislavski's Method | 0.70% | ~7,413 |
+| The Lovers | 0.70% | ~7,413 |
 | All the President's Men | 0.70% | ~1,313 |
 | Arachnophobia | 0.70% | ~1,313 |
-| Bushido and Chill | 0.60% | ~6,353 |
-| Gun Fu | 0.60% | ~6,353 |
-| Master Crafter | 0.60% | ~6,353 |
-| The Fool | 0.60% | ~6,353 |
-| The World | 0.60% | ~6,353 |
-| Judy vs Night City | 0.60% | ~6,353 |
+| Bushido and Chill | 0.60% | ~6,354 |
+| Gun Fu | 0.60% | ~6,354 |
+| Master Crafter | 0.60% | ~6,354 |
+| The Fool | 0.60% | ~6,354 |
+| The World | 0.60% | ~6,354 |
+| Judy vs Night City | 0.60% | ~6,354 |
 | To Protect and Serve | 0.50% | ~5,295 |
 | I Am The Law | 0.50% | ~5,295 |
 | The Quick and the Dead | 0.50% | ~5,295 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,915 (Ranked 17)  
-Completed: 3,165 (0.30%) (Ranked 267)  
+Progressed: 1,058,937 (Ranked 17)  
+Completed: 3,166 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -355,7 +355,7 @@ Completed: 3,165 (0.30%) (Ranked 267)
 | 2024-01-23 | 1,057,813 | 3,153 |
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
-| 2024-01-26 | 1,058,915 | 3,165 |
+| 2024-01-26 | 1,058,937 | 3,166 |
 ## Awards
 Max (Character Customization): 145,126  (Ranked 8)  
 Sum: 520,894 (Ranked 8)  

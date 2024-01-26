@@ -497,9 +497,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12237,
+  "EOS_Progressed": 12239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6202,6 +6202,11 @@
       "Time": "2024-01-26T06:10:48.7637325+00:00",
       "NumProgressed": 12237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T10:10:23.3850165+00:00",
+      "NumProgressed": 12239,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6222,7 +6227,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6238,7 +6243,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6318,7 +6323,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "16_TheRise",
@@ -6326,7 +6331,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "17_TheExemplar",
@@ -6342,7 +6347,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6358,7 +6363,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "21_PreciseDefense",
@@ -6430,7 +6435,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "30_The GreatestExploration",
@@ -6438,7 +6443,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "31_DontTouchThis",
@@ -6470,7 +6475,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6534,7 +6539,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6542,7 +6547,7 @@
       "Name": "No Place Like Home",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6566,7 +6571,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "47_AFlame",
@@ -6733,7 +6738,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12237,
+      "Progressed": 12239,
       "Completed": 1
     }
   ],
@@ -6741,8 +6746,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-25T13:06:17.9283131+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:10:34.3972929+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:10:23.3850162+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:44.6566675+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:10:34.3973516+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:59:48.9873223+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:10:23.3850988+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 3891,
-  "Ranking_EOS_NewCompleters": 3891,
+  "Ranking_EOS_NewPlayers": 3892,
+  "Ranking_EOS_NewCompleters": 3892,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -639,9 +639,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 17692,
+  "EOS_Progressed": 17691,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": -46,
+  "EOS_NewPlayers": -47,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12664,6 +12664,11 @@
       "Time": "2024-01-26T09:09:30.9515412+00:00",
       "NumProgressed": 17692,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-26T10:09:14.4921725+00:00",
+      "NumProgressed": 17691,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 37,
@@ -12683,7 +12688,7 @@
       "Name": "Helper of the People",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 7608
+      "UsersEstimate": 7607
     },
     {
       "ID": "ach.030.deertastic",
@@ -12707,7 +12712,7 @@
       "Name": "Builder",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 16100
+      "UsersEstimate": 16099
     },
     {
       "ID": "ach.060.goingdistance",
@@ -12731,7 +12736,7 @@
       "Name": "Eraser",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 13623
+      "UsersEstimate": 13622
     },
     {
       "ID": "ach.090.perfectionist",
@@ -12771,7 +12776,7 @@
       "Name": "Minimalist",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 17515
+      "UsersEstimate": 17514
     },
     {
       "ID": "ach.140.legacy",
@@ -12779,7 +12784,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 108,
       "XP": 60,
-      "UsersEstimate": 19107
+      "UsersEstimate": 19106
     },
     {
       "ID": "ach.150.pocket",
@@ -12811,7 +12816,7 @@
       "Name": "Inspector",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 11500
+      "UsersEstimate": 11499
     },
     {
       "ID": "ach.190.scenic",
@@ -12819,7 +12824,7 @@
       "Name": "The scenic route",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5307
     },
     {
       "ID": "ach.200.light",
@@ -12867,7 +12872,7 @@
       "Name": "Before the Downfall",
       "Percentage": 103,
       "XP": 60,
-      "UsersEstimate": 18223
+      "UsersEstimate": 18222
     },
     {
       "ID": "ach.260.investor",
@@ -12923,7 +12928,7 @@
       "Name": "Industrialist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4954
+      "UsersEstimate": 4953
     },
     {
       "ID": "ach.330.water",
@@ -12931,7 +12936,7 @@
       "Name": "Money like Water",
       "Percentage": 101,
       "XP": 10,
-      "UsersEstimate": 17869
+      "UsersEstimate": 17868
     },
     {
       "ID": "ach.340.steel",
@@ -12939,7 +12944,7 @@
       "Name": "Man of Steel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3184
     },
     {
       "ID": "ach.350.pipes",
@@ -12970,7 +12975,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 17692,
+      "Progressed": 17691,
       "Completed": 22
     }
   ],
@@ -12978,8 +12983,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2024-01-26T04:00:19.5712379+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:09:30.9515408+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:09:14.4921723+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.543023+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:02:56.0742573+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:09:30.9516227+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:02:36.0890257+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:09:14.4922544+00:00"
 }

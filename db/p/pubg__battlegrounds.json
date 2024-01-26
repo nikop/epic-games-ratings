@@ -7379,10 +7379,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 22014,
       "NumberOfAwardsMax": 6732
+    },
+    {
+      "Time": "2024-01-26T09:57:21.550453+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 22038,
+      "NumberOfAwardsMax": 6732
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22014,
+  "NumberOfAwards": 22038,
   "NumberOfAwardsMax": 6732,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -7402,7 +7408,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 5894
+      "Count": 5918
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7441,9 +7447,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 915870,
+  "EOS_Progressed": 915872,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 19795,
+  "EOS_NewPlayers": 19683,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39806,6 +39812,11 @@
       "Time": "2024-01-26T09:04:52.7465346+00:00",
       "NumProgressed": 915870,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-26T10:04:49.7457915+00:00",
+      "NumProgressed": 915872,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 37,
@@ -39841,7 +39852,7 @@
       "Name": "Marksman Novice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 146539
+      "UsersEstimate": 146540
     },
     {
       "ID": "13",
@@ -39897,7 +39908,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 650268
+      "UsersEstimate": 650269
     },
     {
       "ID": "2",
@@ -39945,7 +39956,7 @@
       "Name": "First Blood",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 109904
+      "UsersEstimate": 109905
     },
     {
       "ID": "25",
@@ -40009,7 +40020,7 @@
       "Name": "Guardian Angel",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 293078
+      "UsersEstimate": 293079
     },
     {
       "ID": "32",
@@ -40041,7 +40052,7 @@
       "Name": "You Complete Me",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 338872
+      "UsersEstimate": 338873
     },
     {
       "ID": "36",
@@ -40065,7 +40076,7 @@
       "Name": "Fantastic Four",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 174015
+      "UsersEstimate": 174016
     },
     {
       "ID": "5",
@@ -40073,7 +40084,7 @@
       "Name": "Top 10",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 109904
+      "UsersEstimate": 109905
     },
     {
       "ID": "6",
@@ -40112,16 +40123,16 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 915870,
+      "Progressed": 915872,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2024-01-25T18:01:51.8246206+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:04:52.7465344+00:00",
+  "LastChanged": "2024-01-26T09:57:21.5504528+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:04:49.745791+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.061199+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:57:33.5854595+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:04:52.7466678+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:57:21.5504534+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:04:49.7459637+00:00"
 }

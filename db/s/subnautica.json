@@ -5,7 +5,7 @@
   "Ranking_Rating": 39,
   "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 139,
-  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Progress": 854,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 163,
@@ -6739,10 +6739,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 6133,
       "NumberOfAwardsMax": 798
+    },
+    {
+      "Time": "2024-01-26T09:58:10.6872753+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 6135,
+      "NumberOfAwardsMax": 798
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6133,
+  "NumberOfAwards": 6135,
   "NumberOfAwardsMax": 798,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6804,7 +6810,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 495
+      "Count": 497
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6824,8 +6830,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2024-01-24T20:57:29.9830609+00:00",
+  "LastChanged": "2024-01-26T09:58:10.6872751+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:03.4741212+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:58:17.1551734+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:04:22.8163867+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:58:10.6872757+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:04:16.5521374+00:00"
 }

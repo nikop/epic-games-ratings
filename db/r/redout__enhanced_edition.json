@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 3892,
-  "Ranking_EOS_NewCompleters": 3893,
+  "Ranking_EOS_NewPlayers": 3893,
+  "Ranking_EOS_NewCompleters": 3894,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239322,
+  "EOS_Progressed": 239321,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": -115,
+  "EOS_NewPlayers": -116,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29693,6 +29693,11 @@
       "Time": "2024-01-26T09:09:06.478999+00:00",
       "NumProgressed": 239322,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-26T10:08:47.6837001+00:00",
+      "NumProgressed": 239321,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -29744,7 +29749,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16753
+      "UsersEstimate": 16752
     },
     {
       "ID": "DRAGOON",
@@ -29872,7 +29877,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16753
+      "UsersEstimate": 16752
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -29975,15 +29980,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239322,
+      "Progressed": 239321,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:09:06.4789986+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:08:47.6836999+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:59:55.0246375+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:09:06.4791673+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:00:00.7622513+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:08:47.6838794+00:00"
 }

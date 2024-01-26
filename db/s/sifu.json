@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9261,9 +9261,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762862,
+  "EOS_Progressed": 762869,
   "EOS_Completed": 13008,
-  "EOS_NewPlayers": 1128,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35396,6 +35396,11 @@
       "Time": "2024-01-26T09:10:13.0502977+00:00",
       "NumProgressed": 762862,
       "NumCompleted": 13008
+    },
+    {
+      "Time": "2024-01-26T10:09:59.8852066+00:00",
+      "NumProgressed": 762869,
+      "NumCompleted": 13008
     }
   ],
   "TotalAchievements": 60,
@@ -35775,7 +35780,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -35799,7 +35804,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -35871,7 +35876,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -35886,21 +35891,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72163,
+      "Progressed": 72170,
       "Completed": 10822
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762862,
+      "Progressed": 762869,
       "Completed": 13008
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-26T09:03:28.0406762+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:10:13.0502975+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:09:59.8852063+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-26T09:03:28.0406768+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:10:13.0504625+00:00"
+  "LastUpdate_Ratings": "2024-01-26T10:03:12.9454396+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:09:59.8853569+00:00"
 }

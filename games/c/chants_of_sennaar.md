@@ -10,7 +10,7 @@ Rating: 4.87 (Ranked 24)
 | The great escape | 46.00% | ~1,386 |
 | The Preacher's fate | 44.00% | ~1,325 |
 | A new dawn | 39.00% | ~1,175 |
-| Scholar | 34.00% | ~1,024 |
+| Scholar | 35.00% | ~1,054 |
 | True G3M4R | 33.00% | ~994 |
 | The darkness | 33.00% | ~994 |
 | A good beginning | 32.00% | ~964 |

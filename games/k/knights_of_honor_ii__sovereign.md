@@ -5,18 +5,18 @@ Rating: 4.36 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 17.00% | ~32 |
-| Bring it on! | 16.00% | ~30 |
-| Hail to the King, Baby | 16.00% | ~30 |
-| Help! Help! I’m being repressed | 15.00% | ~28 |
+| Can’t Touch This | 18.00% | ~35 |
+| Hail to the King, Baby | 18.00% | ~35 |
+| Bring it on! | 17.00% | ~33 |
+| Help! Help! I’m being repressed | 16.00% | ~31 |
 | Path of Glory | 11.00% | ~21 |
-| There is no Nobility in Poverty | 10.00% | ~19 |
-| Full House | 8.00% | ~15 |
-| The finest merchandise this side of river Jordan | 8.00% | ~15 |
-| They Got What They Deserved | 8.00% | ~15 |
-| Playerxander the Great | 6.00% | ~11 |
-| Dinner Time | 5.00% | ~9 |
-| What we’ve got here is failure to communicate | 5.00% | ~9 |
+| There is no Nobility in Poverty | 11.00% | ~21 |
+| Full House | 8.00% | ~16 |
+| The finest merchandise this side of river Jordan | 8.00% | ~16 |
+| They Got What They Deserved | 8.00% | ~16 |
+| Playerxander the Great | 7.00% | ~14 |
+| Dinner Time | 6.00% | ~12 |
+| What we’ve got here is failure to communicate | 5.00% | ~10 |
 | All the King's Men | 4.00% | ~8 |
 | Big Apple | 4.00% | ~8 |
 | Cut-Me-Own-Throat | 4.00% | ~8 |
@@ -27,6 +27,7 @@ Rating: 4.36 (Ranked 824)
 | Blinded by Science | 3.00% | ~6 |
 | Call the Boys | 3.00% | ~6 |
 | Desperate Times Call for Desperate Measures | 3.00% | ~6 |
+| Forth, Eorlingas! | 3.00% | ~6 |
 | Fight Another Day | 3.00% | ~6 |
 | Kingslayer | 3.00% | ~6 |
 | Let Us Pray | 3.00% | ~6 |
@@ -38,7 +39,6 @@ Rating: 4.36 (Ranked 824)
 | A Quiet Palace | 2.00% | ~4 |
 | Battle of the Four Armies | 2.00% | ~4 |
 | Blessed Be His Name | 2.00% | ~4 |
-| Forth, Eorlingas! | 2.00% | ~4 |
 | From Rags to Riches | 2.00% | ~4 |
 | He made it out, but with an arrow in his back | 2.00% | ~4 |
 | I started a joke | 2.00% | ~4 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 824)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189 (Ranked 444)  
+Progressed: 194 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 189 | 0 |
+| 2024-01-26 | 194 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

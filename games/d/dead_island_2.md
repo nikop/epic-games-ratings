@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,059 |
-| Hotel California | 10.00% | ~80,963 |
-| Break A Leg | 9.00% | ~72,866 |
-| Coup de Grâce | 8.00% | ~64,770 |
-| Hazardous Materials | 8.00% | ~64,770 |
-| Git Gutte! | 7.00% | ~56,674 |
-| Friends Like These | 7.00% | ~56,674 |
-| Apex Predator | 7.00% | ~56,674 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,674 |
-| Dr. Reed, I Presume? | 6.00% | ~48,578 |
-| Bookworm | 6.00% | ~48,578 |
-| Stacking the Deck | 6.00% | ~48,578 |
-| This is My Weapon | 6.00% | ~48,578 |
-| Anger Management | 5.00% | ~40,481 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,481 |
-| But Doctor, I am Butcho | 5.00% | ~40,481 |
-| Can't Handle the Truth | 5.00% | ~40,481 |
-| Like Riding a Bike | 5.00% | ~40,481 |
-| A Patton Emerges | 5.00% | ~40,481 |
-| Making Your Mark | 4.00% | ~32,385 |
-| Perks of the Job | 4.00% | ~32,385 |
-| Slayer Squad | 4.00% | ~32,385 |
-| Zombologist | 4.00% | ~32,385 |
-| Ooh, Shiny! | 4.00% | ~32,385 |
-| I Am the Resurrection | 4.00% | ~32,385 |
-| Our True Nature | 4.00% | ~32,385 |
+| Welcome To Hell-A | 11.00% | ~89,061 |
+| Hotel California | 10.00% | ~80,964 |
+| Break A Leg | 9.00% | ~72,868 |
+| Coup de Grâce | 8.00% | ~64,771 |
+| Hazardous Materials | 8.00% | ~64,771 |
+| Git Gutte! | 7.00% | ~56,675 |
+| Friends Like These | 7.00% | ~56,675 |
+| Apex Predator | 7.00% | ~56,675 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,675 |
+| Dr. Reed, I Presume? | 6.00% | ~48,579 |
+| Bookworm | 6.00% | ~48,579 |
+| Stacking the Deck | 6.00% | ~48,579 |
+| This is My Weapon | 6.00% | ~48,579 |
+| Anger Management | 5.00% | ~40,482 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,482 |
+| But Doctor, I am Butcho | 5.00% | ~40,482 |
+| Can't Handle the Truth | 5.00% | ~40,482 |
+| Like Riding a Bike | 5.00% | ~40,482 |
+| A Patton Emerges | 5.00% | ~40,482 |
+| Making Your Mark | 4.00% | ~32,386 |
+| Perks of the Job | 4.00% | ~32,386 |
+| Slayer Squad | 4.00% | ~32,386 |
+| Zombologist | 4.00% | ~32,386 |
+| Ooh, Shiny! | 4.00% | ~32,386 |
+| I Am the Resurrection | 4.00% | ~32,386 |
+| Our True Nature | 4.00% | ~32,386 |
 | Whatever It Takes | 4.00% | ~5,407 |
 | Pork Chopped | 4.00% | ~5,407 |
 | Jumbo Keyring | 3.00% | ~24,289 |
@@ -39,7 +39,7 @@ Rating: 4.54 (Ranked 552)
 | Max Headroom | 3.00% | ~24,289 |
 | Go, Bobcats! | 3.00% | ~24,289 |
 | Rising Star | 3.00% | ~24,289 |
-| One of Us | 3.00% | ~4,055 |
+| One of Us | 3.00% | ~4,056 |
 | Make it So | 2.00% | ~16,193 |
 | On Safari | 2.00% | ~16,193 |
 | Smorgasbord | 2.00% | ~16,193 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 552)
 | Bucket List | 0.10% | ~810 |
 | Wilhelm | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,626 (Ranked 23)  
+Progressed: 809,643 (Ranked 23)  
 Completed: 2,643 (0.33%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 2,643 (0.33%) (Ranked 263)
 | 2024-01-23 | 808,725 | 2,629 |
 | 2024-01-24 | 809,133 | 2,632 |
 | 2024-01-25 | 809,531 | 2,643 |
-| 2024-01-26 | 809,626 | 2,643 |
+| 2024-01-26 | 809,643 | 2,643 |
 ## Awards
 Max (Great Boss Battles): 10,927  (Ranked 39)  
 Sum: 16,855 (Ranked 68)  

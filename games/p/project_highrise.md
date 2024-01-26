@@ -53,14 +53,14 @@
 | Maximum Reuse | 6.00% | ~33 |
 | Revenue Royalty | 6.00% | ~33 |
 | Golden Opportunity | 6.00% | ~33 |
+| Pipe Up | 6.00% | ~33 |
 | Meet ADA/360 | 5.00% | ~27 |
+| Baron of Business | 5.00% | ~27 |
 | I'm Busy Ruling | 5.00% | ~27 |
 | Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
 | It's a Gas | 5.00% | ~27 |
-| Pipe Up | 5.00% | ~27 |
 | Penthouse in the Sky | 4.00% | ~22 |
-| Baron of Business | 4.00% | ~22 |
 | Sandbagger | 4.00% | ~22 |
 | Tuned In | 4.00% | ~22 |
 | Decorator's Touch | 3.00% | ~16 |
@@ -73,12 +73,12 @@
 | Luxury Boutiques | 2.00% | ~11 |
 | Four of a Kind | 2.00% | ~11 |
 | In the Money | 2.00% | ~11 |
+| Such Great Heights | 2.00% | ~11 |
 | It is Payday | 2.00% | ~11 |
 | Plebs Are Needed | 1.00% | ~5 |
 | Full House | 1.00% | ~5 |
 | Royal Flush | 1.00% | ~5 |
 | The King of Cool | 1.00% | ~5 |
-| Such Great Heights | 1.00% | ~5 |
 | Lofty Landlord | 1.00% | ~5 |
 | Scenario Success | 1.00% | ~5 |
 | Artistic Largesse | 0.70% | ~4 |

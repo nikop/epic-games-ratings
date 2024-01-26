@@ -2,7 +2,7 @@
   "ID": "f81f6b9e39a54c2294a939f175bed52b",
   "Name": "Castaway Station",
   "ProductSlug": "castaway-station-e8dd5f",
-  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Progress": 782,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 163,
@@ -22,26 +22,250 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-26T10:04:32.5316352+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-01-26T10:04:32.5316374+00:00",
+  "TotalAchievements": 27,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "19o3e1",
+      "Name": "Card Synthesizer",
+      "Percentage": 100,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "10",
+      "SetID": "19o3e1",
+      "Name": "What You Can Carry",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "19o3e1",
+      "Name": "Solo Combatant",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "19o3e1",
+      "Name": "Last Breath",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "19o3e1",
+      "Name": "Chess Master",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "19o3e1",
+      "Name": "A Walk in the Alien Park",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "19o3e1",
+      "Name": "Empty!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "19o3e1",
+      "Name": "Giving it Our All",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "19o3e1",
+      "Name": "Truly Elusive",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "19o3e1",
+      "Name": "Massively Augmented",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "19o3e1",
+      "Name": "Capacitive Endurance",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "19o3e1",
+      "Name": "Mountains of Madness",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "19o3e1",
+      "Name": "Baker\u0027s Disruption",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "19o3e1",
+      "Name": "Well Prepared",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "19o3e1",
+      "Name": "Close Call",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "19o3e1",
+      "Name": "Glory Hog",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "19o3e1",
+      "Name": "Practice Perfectly",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "19o3e1",
+      "Name": "Broken Stranglehold",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "19o3e1",
+      "Name": "Defeated the Thief",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "19o3e1",
+      "Name": "3 for 3",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "19o3e1",
+      "Name": "Any Means Necessary",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "19o3e1",
+      "Name": "Single Blow",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "19o3e1",
+      "Name": "Treys",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "19o3e1",
+      "Name": "Evasion Artist",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "19o3e1",
+      "Name": "Apex Predator",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "19o3e1",
+      "Name": "Lead Foot",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "19o3e1",
+      "Name": "Naked in a New World",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "19o3e1",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-24T15:03:07.7168783+00:00",
-  "LastChanged_Achievements": "2024-01-26T09:04:36.9170854+00:00",
+  "LastChanged_Achievements": "2024-01-26T10:04:32.5316348+00:00",
   "LastUpdate_AppInfo": "2024-01-24T14:57:03.2420078+00:00",
-  "LastUpdate_Ratings": "2024-01-26T08:58:13.3939012+00:00",
-  "LastUpdate_Achievements": "2024-01-26T09:04:36.9170871+00:00"
+  "LastUpdate_Ratings": "2024-01-26T09:58:06.3150253+00:00",
+  "LastUpdate_Achievements": "2024-01-26T10:04:32.5340009+00:00"
 }
