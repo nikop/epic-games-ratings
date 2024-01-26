@@ -5,33 +5,33 @@ Rating: 3.56 (Ranked 1,108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,578 |
-| Master, Commander | 21.00% | ~17,734 |
-| Hard Worker | 20.00% | ~16,889 |
-| Adios, Friendo | 19.00% | ~16,045 |
-| Mechanic | 19.00% | ~16,045 |
-| Bottom's Up | 18.00% | ~15,200 |
-| Nice Try | 17.00% | ~14,356 |
+| Be Seeing You | 22.00% | ~18,579 |
+| Master, Commander | 21.00% | ~17,735 |
+| Hard Worker | 20.00% | ~16,890 |
+| Adios, Friendo | 19.00% | ~16,046 |
+| Mechanic | 19.00% | ~16,046 |
+| Bottom's Up | 18.00% | ~15,201 |
+| Nice Try | 17.00% | ~14,357 |
 | Right On Target | 14.00% | ~11,823 |
-| Piano Man | 11.00% | ~9,289 |
-| Lazy Bones | 9.00% | ~7,600 |
+| Piano Man | 11.00% | ~9,290 |
+| Lazy Bones | 9.00% | ~7,601 |
 | Vinyl Vibes | 8.00% | ~6,756 |
-| Nothing Left to Say | 7.00% | ~5,911 |
-| Sniper | 7.00% | ~5,911 |
+| Nothing Left to Say | 7.00% | ~5,912 |
+| Sniper | 7.00% | ~5,912 |
 | Cut Call | 6.00% | ~5,067 |
-| Magnetic Miracles | 5.00% | ~4,222 |
+| Magnetic Miracles | 5.00% | ~4,223 |
 | Butcher | 4.00% | ~3,378 |
 | Fair's Fair | 4.00% | ~3,378 |
 | Spicy | 4.00% | ~3,378 |
-| A Man Of Taste | 3.00% | ~2,533 |
-| Ace in the Hole | 3.00% | ~2,533 |
-| Hearty | 3.00% | ~2,533 |
-| Meaty | 3.00% | ~2,533 |
-| Taco Toto | 3.00% | ~2,533 |
+| A Man Of Taste | 3.00% | ~2,534 |
+| Ace in the Hole | 3.00% | ~2,534 |
+| Hearty | 3.00% | ~2,534 |
+| Meaty | 3.00% | ~2,534 |
+| Taco Toto | 3.00% | ~2,534 |
 | Audiophile | 2.00% | ~1,689 |
 | Tape Head | 2.00% | ~1,689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,447 (Ranked 110)  
+Progressed: 84,451 (Ranked 110)  
 Completed: 952 (1.13%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 952 (1.13%) (Ranked 172)
 | 2024-01-23 | 84,288 | 949 |
 | 2024-01-24 | 84,366 | 952 |
 | 2024-01-25 | 84,431 | 952 |
-| 2024-01-26 | 84,447 | 952 |
+| 2024-01-26 | 84,451 | 952 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

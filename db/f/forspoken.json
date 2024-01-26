@@ -679,7 +679,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47768,
+  "EOS_Progressed": 47769,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
@@ -19944,6 +19944,11 @@
       "Time": "2024-01-26T04:04:50.5061364+00:00",
       "NumProgressed": 47768,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T06:05:35.5030045+00:00",
+      "NumProgressed": 47769,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -20147,7 +20152,7 @@
       "Name": "Leapfrogger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3821
+      "UsersEstimate": 3822
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -20195,7 +20200,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3821
+      "UsersEstimate": 3822
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -20243,7 +20248,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3821
+      "UsersEstimate": 3822
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -20267,7 +20272,7 @@
       "Name": "Hell of a Run",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3821
+      "UsersEstimate": 3822
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -20378,22 +20383,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47768,
+      "Progressed": 47769,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12605,
-      "Completed": 12605
+      "Progressed": 12606,
+      "Completed": 12606
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:06:18.1989872+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:05:35.5030041+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:03:34.471362+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:06:18.1991096+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:03:23.5413785+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:05:35.5031385+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -6883,9 +6883,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 268782,
+  "EOS_Progressed": 268783,
   "EOS_Completed": 963,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -37813,6 +37813,11 @@
       "Time": "2024-01-26T05:11:26.9325201+00:00",
       "NumProgressed": 268782,
       "NumCompleted": 963
+    },
+    {
+      "Time": "2024-01-26T06:10:45.3401504+00:00",
+      "NumProgressed": 268783,
+      "NumCompleted": 963
     }
   ],
   "TotalAchievements": 39,
@@ -37856,7 +37861,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 69883
+      "UsersEstimate": 69884
     },
     {
       "ID": "AchievementBigFootID",
@@ -37880,7 +37885,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 69883
+      "UsersEstimate": 69884
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -37888,7 +37893,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244592
+      "UsersEstimate": 244593
     },
     {
       "ID": "AchievementClownID",
@@ -37984,7 +37989,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 118264
+      "UsersEstimate": 118265
     },
     {
       "ID": "AchievementIntroID",
@@ -38000,7 +38005,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 37629
+      "UsersEstimate": 37630
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -38024,7 +38029,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 99449
+      "UsersEstimate": 99450
     },
     {
       "ID": "AchievementRampID",
@@ -38056,7 +38061,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 196211
+      "UsersEstimate": 196212
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -38072,7 +38077,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 134391
+      "UsersEstimate": 134392
     },
     {
       "ID": "AchievementStreakingID",
@@ -38096,7 +38101,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 145142
+      "UsersEstimate": 145143
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -38120,7 +38125,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 172020
+      "UsersEstimate": 172021
     },
     {
       "ID": "AchievementWhaleID",
@@ -38135,7 +38140,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268782,
+      "Progressed": 268783,
       "Completed": 963
     }
   ],
@@ -38143,8 +38148,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-26T03:58:47.6129625+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:11:26.9325198+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:10:45.3401501+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:59:42.5668341+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:11:26.9326817+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:59:17.6047537+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:10:45.3402853+00:00"
 }

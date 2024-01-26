@@ -33,35 +33,35 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 4.00% | ~6,115 |
 | Did we pack lunch? | 4.00% | ~6,115 |
 | Arcane Industries | 4.00% | ~6,115 |
-| A Notch Above the Rest | 3.00% | ~4,586 |
-| Ascended | 3.00% | ~4,586 |
-| Tax not Included | 3.00% | ~4,586 |
-| Research & Development | 3.00% | ~4,586 |
-| Vanity, Verily | 3.00% | ~4,586 |
-| Big Game Hunting | 3.00% | ~4,586 |
-| Fated Encounters | 3.00% | ~4,586 |
-| For the Hoard! | 3.00% | ~4,586 |
-| Blank Page Syndrome | 3.00% | ~4,586 |
-| Scrapbooker | 3.00% | ~4,586 |
-| Locally Sourced | 3.00% | ~4,586 |
-| Flying off the Shelves | 3.00% | ~4,586 |
-| This Power Level...! | 3.00% | ~4,586 |
-| Hidden Potential | 3.00% | ~4,586 |
-| Power of Love | 3.00% | ~4,586 |
-| Expansion in Session | 3.00% | ~4,586 |
-| Efficient Floor Space | 3.00% | ~4,586 |
-| Flawless Fusion | 3.00% | ~4,586 |
-| Trash to Treasure | 3.00% | ~4,586 |
-| Royal Ransom | 3.00% | ~4,586 |
-| Mammonite | 3.00% | ~4,586 |
-| Helping Hand | 3.00% | ~4,586 |
-| Laden with Loot | 3.00% | ~4,586 |
-| Natural 20 | 3.00% | ~4,586 |
-| Seasoned Journeyman | 3.00% | ~4,586 |
-| Black Friday Special | 3.00% | ~4,586 |
-| Magical Harmony | 3.00% | ~4,586 |
-| Special Ingredient | 3.00% | ~4,586 |
-| Complete Monopoly | 3.00% | ~4,586 |
+| A Notch Above the Rest | 3.00% | ~4,587 |
+| Ascended | 3.00% | ~4,587 |
+| Tax not Included | 3.00% | ~4,587 |
+| Research & Development | 3.00% | ~4,587 |
+| Vanity, Verily | 3.00% | ~4,587 |
+| Big Game Hunting | 3.00% | ~4,587 |
+| Fated Encounters | 3.00% | ~4,587 |
+| For the Hoard! | 3.00% | ~4,587 |
+| Blank Page Syndrome | 3.00% | ~4,587 |
+| Scrapbooker | 3.00% | ~4,587 |
+| Locally Sourced | 3.00% | ~4,587 |
+| Flying off the Shelves | 3.00% | ~4,587 |
+| This Power Level...! | 3.00% | ~4,587 |
+| Hidden Potential | 3.00% | ~4,587 |
+| Power of Love | 3.00% | ~4,587 |
+| Expansion in Session | 3.00% | ~4,587 |
+| Efficient Floor Space | 3.00% | ~4,587 |
+| Flawless Fusion | 3.00% | ~4,587 |
+| Trash to Treasure | 3.00% | ~4,587 |
+| Royal Ransom | 3.00% | ~4,587 |
+| Mammonite | 3.00% | ~4,587 |
+| Helping Hand | 3.00% | ~4,587 |
+| Laden with Loot | 3.00% | ~4,587 |
+| Natural 20 | 3.00% | ~4,587 |
+| Seasoned Journeyman | 3.00% | ~4,587 |
+| Black Friday Special | 3.00% | ~4,587 |
+| Magical Harmony | 3.00% | ~4,587 |
+| Special Ingredient | 3.00% | ~4,587 |
+| Complete Monopoly | 3.00% | ~4,587 |
 | Cream of the Crop | 2.00% | ~3,058 |
 | Top of the World | 2.00% | ~3,058 |
 | Proud Paladin | 2.00% | ~3,058 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~612 |
 | Capitalist Camaraderie | 0.30% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,882 (Ranked 87)  
+Progressed: 152,885 (Ranked 87)  
 Completed: 364 (0.24%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 364 (0.24%) (Ranked 282)
 | 2024-01-23 | 152,616 | 362 |
 | 2024-01-24 | 152,717 | 363 |
 | 2024-01-25 | 152,844 | 364 |
-| 2024-01-26 | 152,882 | 364 |
+| 2024-01-26 | 152,885 | 364 |
 ## Awards
 Max (Great for Beginners): 4,980  (Ranked 84)  
 Sum: 28,060 (Ranked 52)  

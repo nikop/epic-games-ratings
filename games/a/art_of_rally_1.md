@@ -6,22 +6,22 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~348,824 |
-| good drivers have dead flies on the side windows | 32.00% | ~139,530 |
-| keep it tidy | 26.00% | ~113,368 |
-| brail | 26.00% | ~113,368 |
-| car wash | 23.00% | ~100,287 |
-| the artist | 23.00% | ~100,287 |
-| podium | 20.00% | ~87,206 |
-| medium attack | 17.00% | ~74,125 |
-| bicycle race | 6.00% | ~26,162 |
-| grocery-getter | 5.00% | ~21,802 |
-| autopilot | 4.00% | ~17,441 |
-| night ride | 4.00% | ~17,441 |
-| snorkel | 4.00% | ~17,441 |
-| rwd only | 3.00% | ~13,081 |
-| where is the stage? | 3.00% | ~13,081 |
-| food tour: pasta | 3.00% | ~13,081 |
+| light attack | 80.00% | ~348,851 |
+| good drivers have dead flies on the side windows | 32.00% | ~139,540 |
+| keep it tidy | 26.00% | ~113,377 |
+| brail | 26.00% | ~113,377 |
+| car wash | 23.00% | ~100,295 |
+| the artist | 23.00% | ~100,295 |
+| podium | 20.00% | ~87,213 |
+| medium attack | 17.00% | ~74,131 |
+| bicycle race | 6.00% | ~26,164 |
+| grocery-getter | 5.00% | ~21,803 |
+| autopilot | 4.00% | ~17,443 |
+| night ride | 4.00% | ~17,443 |
+| snorkel | 4.00% | ~17,443 |
+| rwd only | 3.00% | ~13,082 |
+| where is the stage? | 3.00% | ~13,082 |
+| food tour: pasta | 3.00% | ~13,082 |
 | to finish first, first you must finish | 2.00% | ~8,721 |
 | perkele | 2.00% | ~8,721 |
 | turbo | 2.00% | ~8,721 |
@@ -29,9 +29,9 @@ Number of Ratings: 56  (23.09.2022)
 | you can't treat a car like a human being. a car requires love | 2.00% | ~8,721 |
 | mittens | 2.00% | ~8,721 |
 | food tour: pretzel | 2.00% | ~8,721 |
-| espresso | 1.00% | ~4,360 |
-| monster | 1.00% | ~4,360 |
-| in like a lamb, out like a lion | 1.00% | ~4,360 |
+| espresso | 1.00% | ~4,361 |
+| monster | 1.00% | ~4,361 |
+| in like a lamb, out like a lion | 1.00% | ~4,361 |
 | eurobeat | 0.70% | ~3,052 |
 | viking | 0.70% | ~3,052 |
 | parallel universe | 0.70% | ~3,052 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~436 |
 | you're here for a good time, not a long time | 0.10% | ~436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 436,030 (Ranked 46)  
+Progressed: 436,064 (Ranked 46)  
 Completed: 29 (0.01%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 29 (0.01%) (Ranked 387)
 | 2024-01-23 | 433,315 | 27 |
 | 2024-01-24 | 434,560 | 27 |
 | 2024-01-25 | 435,796 | 29 |
-| 2024-01-26 | 436,030 | 29 |
+| 2024-01-26 | 436,064 | 29 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
 Sum: 319 (Ranked 381)  

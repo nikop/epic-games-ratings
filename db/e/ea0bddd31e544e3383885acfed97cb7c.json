@@ -4,7 +4,7 @@
   "ProductSlug": "abriss-build-to-destroy-a12a7a",
   "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -424,8 +424,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-23T15:04:17.091574+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:05:52.4754884+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:05:15.0502064+00:00",
   "LastUpdate_AppInfo": "2024-01-23T14:57:07.6336829+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:59:10.5382312+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:05:52.475546+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:58:51.5250118+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:05:15.0502345+00:00"
 }

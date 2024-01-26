@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23574,
+  "EOS_Progressed": 23577,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 996,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -9397,6 +9397,11 @@
       "Time": "2024-01-26T05:07:23.5612299+00:00",
       "NumProgressed": 23574,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-26T06:06:28.2930295+00:00",
+      "NumProgressed": 23577,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9433,7 +9438,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -9449,7 +9454,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -9481,14 +9486,14 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 23574,
+      "Progressed": 23577,
       "Completed": 128
     }
   ],
@@ -9496,8 +9501,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:07:23.5612294+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:06:28.2930272+00:00",
   "LastUpdate_AppInfo": "2024-01-25T22:57:12.0471446+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:00:27.4639189+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:07:23.5612925+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:59:52.8307288+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:06:28.293083+00:00"
 }

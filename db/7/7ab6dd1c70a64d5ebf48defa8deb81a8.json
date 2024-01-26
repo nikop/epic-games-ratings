@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2458,
+  "EOS_Progressed": 2459,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5118,6 +5118,11 @@
       "Time": "2024-01-26T01:53:16.2891499+00:00",
       "NumProgressed": 2458,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T06:10:46.3530061+00:00",
+      "NumProgressed": 2459,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5137,7 +5142,7 @@
       "Name": "Find Allies",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_03",
@@ -5145,7 +5150,7 @@
       "Name": "Powerful Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_04",
@@ -5177,15 +5182,15 @@
       "Name": "Clear Sight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 688
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_09",
@@ -5201,7 +5206,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ACH_11",
@@ -5241,7 +5246,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_16",
@@ -5257,7 +5262,7 @@
       "Name": "Shatterer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_18",
@@ -5297,7 +5302,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_23",
@@ -5416,7 +5421,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2458,
+      "Progressed": 2459,
       "Completed": 5
     }
   ],
@@ -5424,8 +5429,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:11:28.0838041+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:10:46.3530059+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:03:05.6975284+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:11:28.0838383+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:03:00.933774+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:10:46.3530422+00:00"
 }

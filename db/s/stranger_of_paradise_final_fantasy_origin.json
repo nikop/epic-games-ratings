@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1929,7 +1929,7 @@
   ],
   "EOS_Progressed": 82645,
   "EOS_Completed": 2242,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
@@ -15038,9 +15038,9 @@
       "ID": "034_TROPHY_UNLOCKED_ADVANCED_JOB",
       "SetID": "4ajkb4b",
       "Name": "Dark Crystal, Warrior\u0027s Heart",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 57851
+      "UsersEstimate": 58678
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -15142,8 +15142,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2024-01-25T14:00:50.2098772+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:06:32.2032085+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:05:46.7411076+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:02.8377756+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:01:08.5372485+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:06:32.2032959+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:00:26.0016276+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:05:46.7411799+00:00"
 }

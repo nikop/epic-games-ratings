@@ -5,21 +5,21 @@ Rating: 4.60 (Ranked 432)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~198 |
-| Map reader | 66.00% | ~145 |
-| Adventurer | 65.00% | ~143 |
-| Philanthropist | 61.00% | ~134 |
+| Beginner | 90.00% | ~199 |
+| Map reader | 66.00% | ~146 |
+| Adventurer | 65.00% | ~144 |
+| Philanthropist | 61.00% | ~135 |
 | The brave little tailor | 43.00% | ~95 |
 | Archer | 43.00% | ~95 |
 | Field hand | 40.00% | ~88 |
-| Well-to-do | 35.00% | ~77 |
-| Samaritan | 31.00% | ~68 |
+| Well-to-do | 34.00% | ~75 |
+| Samaritan | 31.00% | ~69 |
 | The merciful one | 30.00% | ~66 |
-| Ladies' man | 30.00% | ~66 |
+| Ladies' man | 29.00% | ~64 |
 | Ferocious wild boars | 25.00% | ~55 |
-| Idiot | 25.00% | ~55 |
+| Idiot | 24.00% | ~53 |
 | Beast slayer | 23.00% | ~51 |
-| Ogre friend | 22.00% | ~48 |
+| Ogre friend | 22.00% | ~49 |
 | Death of a legend | 21.00% | ~46 |
 | Family man | 20.00% | ~44 |
 | Archaeologist | 20.00% | ~44 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 432)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 431)  
+Progressed: 221 (Ranked 430)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 0 (0.00%) (Ranked 413)
 | 2024-01-23 | 216 | 0 |
 | 2024-01-24 | 217 | 0 |
 | 2024-01-25 | 220 | 0 |
+| 2024-01-26 | 221 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

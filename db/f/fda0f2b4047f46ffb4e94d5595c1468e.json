@@ -5691,9 +5691,9 @@
       "Count": 699
     }
   ],
-  "EOS_Progressed": 24234,
+  "EOS_Progressed": 24235,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18021,6 +18021,11 @@
       "Time": "2024-01-26T05:10:02.1374409+00:00",
       "NumProgressed": 24234,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T06:09:35.0774161+00:00",
+      "NumProgressed": 24235,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -18041,7 +18046,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4604
+      "UsersEstimate": 4605
     },
     {
       "ID": "ach03",
@@ -18049,7 +18054,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10905
+      "UsersEstimate": 10906
     },
     {
       "ID": "ach04",
@@ -18073,7 +18078,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16479
+      "UsersEstimate": 16480
     },
     {
       "ID": "ach07",
@@ -18097,7 +18102,7 @@
       "Name": "Kontender",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "ach10",
@@ -18145,7 +18150,7 @@
       "Name": "Give A Koin",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4604
+      "UsersEstimate": 4605
     },
     {
       "ID": "ach16",
@@ -18225,7 +18230,7 @@
       "Name": "Talis-Mania",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "ach26",
@@ -18241,7 +18246,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "ach28",
@@ -18249,7 +18254,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "ach29",
@@ -18265,7 +18270,7 @@
       "Name": "Juggernaut",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "ach31",
@@ -18297,7 +18302,7 @@
       "Name": "Always Accessorize",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "ach35",
@@ -18337,7 +18342,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 7997
+      "UsersEstimate": 7998
     },
     {
       "ID": "ach40",
@@ -18369,7 +18374,7 @@
       "Name": "Working Overtime",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 7997
+      "UsersEstimate": 7998
     },
     {
       "ID": "ach44",
@@ -18385,7 +18390,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "ach46",
@@ -18432,7 +18437,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24234,
+      "Progressed": 24235,
       "Completed": 2
     }
   ],
@@ -18440,8 +18445,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-26T04:02:52.0815253+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:10:02.1374406+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:09:35.0774158+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:03:27.3331814+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:10:02.1375267+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:03:17.711798+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:09:35.0774936+00:00"
 }

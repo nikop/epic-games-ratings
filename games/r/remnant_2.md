@@ -6,9 +6,9 @@ Rating: 4.71 (Ranked 205)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 13.00% | ~38,898 |
-| First of Many | 12.00% | ~35,905 |
-| Not Your Average Trait | 10.00% | ~29,921 |
-| Expanding Horizons | 9.00% | ~26,929 |
+| First of Many | 12.00% | ~35,906 |
+| Not Your Average Trait | 10.00% | ~29,922 |
+| Expanding Horizons | 9.00% | ~26,930 |
 | Gleaming the Cube | 8.00% | ~23,937 |
 | Quest for Survival | 8.00% | ~23,937 |
 | Familiar Face | 8.00% | ~23,937 |
@@ -34,19 +34,19 @@ Rating: 4.71 (Ranked 205)
 | Was This Supposed To Happen? | 5.00% | ~14,961 |
 | The Web | 5.00% | ~14,961 |
 | Scrap Collector | 5.00% | ~14,961 |
-| Madman's Paradise | 4.00% | ~11,968 |
-| The Agenda | 4.00% | ~11,968 |
-| Bad Moon Rising | 4.00% | ~11,968 |
-| Strapped | 4.00% | ~11,968 |
-| All These Traits� | 4.00% | ~11,968 |
-| Red Room | 3.00% | ~8,976 |
-| Tall Tales | 3.00% | ~8,976 |
-| Edgelord | 3.00% | ~8,976 |
-| Scrap Hoarder | 3.00% | ~8,976 |
-| Carnage in C-Minor | 3.00% | ~8,976 |
-| The Ultimate Weapon | 3.00% | ~8,976 |
-| No One Should Have All That Power | 3.00% | ~8,976 |
-| Transmutate | 3.00% | ~8,976 |
+| Madman's Paradise | 4.00% | ~11,969 |
+| The Agenda | 4.00% | ~11,969 |
+| Bad Moon Rising | 4.00% | ~11,969 |
+| Strapped | 4.00% | ~11,969 |
+| All These Traits� | 4.00% | ~11,969 |
+| Red Room | 3.00% | ~8,977 |
+| Tall Tales | 3.00% | ~8,977 |
+| Edgelord | 3.00% | ~8,977 |
+| Scrap Hoarder | 3.00% | ~8,977 |
+| Carnage in C-Minor | 3.00% | ~8,977 |
+| The Ultimate Weapon | 3.00% | ~8,977 |
+| No One Should Have All That Power | 3.00% | ~8,977 |
+| Transmutate | 3.00% | ~8,977 |
 | Regicide | 3.00% | ~2,351 |
 | Master of the Dark Arts | 3.00% | ~2,351 |
 | Crafty | 2.00% | ~5,984 |
@@ -61,8 +61,8 @@ Rating: 4.71 (Ranked 205)
 | You Shall Pass | 0.80% | ~627 |
 | A Foul Feast | 0.50% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,212 (Ranked 65)  
-Completed: 1,255 (0.42%) (Ranked 247)  
+Progressed: 299,218 (Ranked 65)  
+Completed: 1,257 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 1,255 (0.42%) (Ranked 247)
 | 2024-01-23 | 298,495 | 1,228 |
 | 2024-01-24 | 298,804 | 1,243 |
 | 2024-01-25 | 299,157 | 1,254 |
-| 2024-01-26 | 299,212 | 1,255 |
+| 2024-01-26 | 299,218 | 1,257 |
 ## Awards
 Max (Great Boss Battles): 7,624  (Ranked 56)  
 Sum: 17,580 (Ranked 64)  

@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "ACH_ROYAL-PARDON",
       "SetID": "6lg1p1e",
       "Name": "Royal Pardon",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_SPELUNKER",
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:10:20.2717504+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:09:49.9317878+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:48.0822274+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:02:51.7460654+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:10:20.2717729+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:02:49.9676478+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:09:49.9318113+00:00"
 }

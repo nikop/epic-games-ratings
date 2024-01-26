@@ -2378,7 +2378,7 @@
   ],
   "EOS_Progressed": 17170,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22874,9 +22874,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -22914,9 +22914,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -23888,8 +23888,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:11:40.6240743+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:10:57.103667+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:02:36.2744043+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:11:40.6250107+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:00:48.1052577+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:10:57.1045975+00:00"
 }

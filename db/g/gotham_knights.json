@@ -5513,7 +5513,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83283,
+  "EOS_Progressed": 83284,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
@@ -31533,6 +31533,11 @@
       "Time": "2024-01-26T04:05:22.139609+00:00",
       "NumProgressed": 83283,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-26T06:06:11.0215884+00:00",
+      "NumProgressed": 83284,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31632,7 +31637,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12492
+      "UsersEstimate": 12493
     },
     {
       "ID": "CHALLENGES_1",
@@ -31728,7 +31733,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7495
+      "UsersEstimate": 7496
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -31768,7 +31773,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22486
+      "UsersEstimate": 22487
     },
     {
       "ID": "FREEZE_1_5",
@@ -31848,7 +31853,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28316
+      "UsersEstimate": 28317
     },
     {
       "ID": "HARLEY_2",
@@ -31872,7 +31877,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12492
+      "UsersEstimate": 12493
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31904,7 +31909,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -31936,7 +31941,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27483
+      "UsersEstimate": 27484
     },
     {
       "ID": "MYSTERY_02",
@@ -32024,20 +32029,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83283,
+      "Progressed": 83284,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53563,
+      "Progressed": 53564,
       "Completed": 2682
     }
   ],
@@ -32045,8 +32050,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-26T03:57:29.4580404+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:07:02.1493243+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:06:11.021588+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:57:56.4076283+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:07:02.1494634+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:57:52.2093117+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:06:11.0217513+00:00"
 }

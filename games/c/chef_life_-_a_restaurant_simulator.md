@@ -14,9 +14,9 @@ Rating: 4.45 (Ranked 696)
 | Next Level Cuisine | 8.00% | ~84 |
 | Haute Cuisine | 7.00% | ~73 |
 | Italian Style | 6.00% | ~63 |
+| Well-Stocked Kitchen | 5.00% | ~52 |
 | Sous-Chef | 4.00% | ~42 |
 | Rolling in Dough | 4.00% | ~42 |
-| Well-Stocked Kitchen | 4.00% | ~42 |
 | Culinary Arts | 3.00% | ~31 |
 | Perfectionist | 3.00% | ~31 |
 | Leaning Tower of Pizza | 2.00% | ~21 |

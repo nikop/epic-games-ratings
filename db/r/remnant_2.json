@@ -7665,10 +7665,10 @@
       "Count": 1038
     }
   ],
-  "EOS_Progressed": 299212,
-  "EOS_Completed": 1255,
-  "EOS_NewPlayers": 3290,
-  "EOS_NewCompleters": 115,
+  "EOS_Progressed": 299218,
+  "EOS_Completed": 1257,
+  "EOS_NewPlayers": 3268,
+  "EOS_NewCompleters": 117,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
@@ -30130,6 +30130,11 @@
       "Time": "2024-01-26T05:11:11.9237288+00:00",
       "NumProgressed": 299212,
       "NumCompleted": 1255
+    },
+    {
+      "Time": "2024-01-26T06:10:33.0567528+00:00",
+      "NumProgressed": 299218,
+      "NumCompleted": 1257
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -30142,7 +30147,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26929
+      "UsersEstimate": 26930
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -30254,7 +30259,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11969
     },
     {
       "ID": "Defeat_World_Boss",
@@ -30270,7 +30275,7 @@
       "Name": "Red Room",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -30278,7 +30283,7 @@
       "Name": "The Agenda",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11969
     },
     {
       "ID": "Meet_Custodian",
@@ -30310,7 +30315,7 @@
       "Name": "Tall Tales",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Meet_Nimue",
@@ -30326,7 +30331,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35905
+      "UsersEstimate": 35906
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -30358,7 +30363,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11969
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -30382,7 +30387,7 @@
       "Name": "Strapped",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11969
     },
     {
       "ID": "Obtain_Guns_B",
@@ -30398,7 +30403,7 @@
       "Name": "Edgelord",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -30438,7 +30443,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Obtain_Traits_A",
@@ -30446,7 +30451,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29921
+      "UsersEstimate": 29922
     },
     {
       "ID": "Obtain_Traits_B",
@@ -30454,7 +30459,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11969
     },
     {
       "ID": "Obtain_Traits_C",
@@ -30470,7 +30475,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -30478,7 +30483,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -30510,7 +30515,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -30534,7 +30539,7 @@
       "Name": "Transmutate",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -30581,22 +30586,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 299212,
-      "Completed": 1255
+      "Progressed": 299218,
+      "Completed": 1257
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 78377,
-      "Completed": 811
+      "Progressed": 78383,
+      "Completed": 812
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2024-01-26T05:04:02.022577+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:11:11.9237286+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:10:33.0567524+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.5413849+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:04:02.0225776+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:11:11.923836+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:03:44.9814173+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:10:33.0568844+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "what-the-duck-83e293",
   "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2023-11-09T15:00:00+00:00",
@@ -420,8 +420,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-09T16:12:35.1501319+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:10:13.1320945+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:09:43.9833143+00:00",
   "LastUpdate_AppInfo": "2024-01-25T22:57:11.762718+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:00:08.1032798+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:10:13.1321227+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:59:37.8476063+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:09:43.983338+00:00"
 }

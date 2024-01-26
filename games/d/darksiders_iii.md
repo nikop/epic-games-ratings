@@ -6,17 +6,17 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~543 |
-| First of many… | 69.00% | ~486 |
-| Helping Hand | 65.00% | ~458 |
-| Increased Vigor | 61.00% | ~430 |
-| Fight Fire with Fire | 59.00% | ~416 |
+| Green with Envy | 77.00% | ~544 |
+| First of many… | 68.00% | ~480 |
+| Helping Hand | 65.00% | ~459 |
+| Increased Vigor | 61.00% | ~431 |
+| Fight Fire with Fire | 59.00% | ~417 |
 | Increased Capacity | 57.00% | ~402 |
-| Just the start | 50.00% | ~352 |
-| Perfect Storm | 47.00% | ~331 |
-| All That Glitters | 46.00% | ~324 |
-| Enhance! | 43.00% | ~303 |
-| One Of the Chosen | 42.00% | ~296 |
+| Just the start | 50.00% | ~353 |
+| Perfect Storm | 47.00% | ~332 |
+| All That Glitters | 46.00% | ~325 |
+| Enhance! | 43.00% | ~304 |
+| One Of the Chosen | 42.00% | ~297 |
 | Five's a Crowd | 41.00% | ~289 |
 | Devil's in the Details | 40.00% | ~282 |
 | Throne Potato | 40.00% | ~282 |
@@ -30,12 +30,12 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 33.00% | ~233 |
 | Freeze Frame | 31.00% | ~219 |
 | Eat Your Heart Out | 31.00% | ~219 |
-| For Whom the Bell Tolls | 29.00% | ~204 |
-| Unyielding Strength | 27.00% | ~190 |
-| Big Spender | 27.00% | ~190 |
-| Cleanup Crew | 26.00% | ~183 |
-| Can you restore the Balance? | 26.00% | ~183 |
-| Crowd Source | 26.00% | ~183 |
+| For Whom the Bell Tolls | 29.00% | ~205 |
+| Unyielding Strength | 27.00% | ~191 |
+| Big Spender | 27.00% | ~191 |
+| Cleanup Crew | 26.00% | ~184 |
+| Can you restore the Balance? | 26.00% | ~184 |
+| Crowd Source | 26.00% | ~184 |
 | Seeing Red | 25.00% | ~176 |
 | Maximum Capacity | 24.00% | ~169 |
 | Demon Meddler | 24.00% | ~169 |
@@ -49,8 +49,8 @@ Number of Ratings: 116  (23.09.2022)
 | Take it to the Limit | 14.00% | ~99 |
 | Holy Keeper | 12.00% | ~85 |
 | Demon Keeper | 12.00% | ~85 |
-| Soul Reaper | 9.00% | ~63 |
-| Humanitarian | 9.00% | ~63 |
+| Soul Reaper | 9.00% | ~64 |
+| Humanitarian | 9.00% | ~64 |
 | Made of Sterner Stuff | 7.00% | ~49 |
 | Purity of Power | 5.00% | ~35 |
 | Balance in all things | 5.00% | ~35 |
@@ -69,9 +69,9 @@ Number of Ratings: 116  (23.09.2022)
 | "Amazing!" | 2.00% | ~14 |
 | Death Incarnate | 2.00% | ~14 |
 | Beast Mode | 1.00% | ~7 |
-| Quite Proper | 0.90% | ~6 |
+| Quite Proper | 0.80% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 333)  
+Progressed: 706 (Ranked 333)  
 Completed: 2 (0.28%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.28%) (Ranked 271)
 | 2024-01-23 | 683 | 2 |
 | 2024-01-24 | 689 | 2 |
 | 2024-01-25 | 701 | 2 |
-| 2024-01-26 | 705 | 2 |
+| 2024-01-26 | 706 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 382)  
 Sum: 101 (Ranked 476)  

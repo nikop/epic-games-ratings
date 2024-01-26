@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 387,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10317,9 +10317,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 819186,
+  "EOS_Progressed": 819187,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -42117,6 +42117,11 @@
       "Time": "2024-01-26T05:11:36.4798578+00:00",
       "NumProgressed": 819186,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-26T06:10:53.4813702+00:00",
+      "NumProgressed": 819187,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 82,
@@ -42240,7 +42245,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212988
+      "UsersEstimate": 212989
     },
     {
       "ID": "Chivalrous",
@@ -42664,7 +42669,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 90110
+      "UsersEstimate": 90111
     },
     {
       "ID": "Sniper",
@@ -42736,7 +42741,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 90110
+      "UsersEstimate": 90111
     },
     {
       "ID": "TrialAndError",
@@ -42783,15 +42788,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 819186,
+      "Progressed": 819187,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-26T03:00:03.9473121+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:11:36.4798574+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:10:53.4813698+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.3609649+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:01:12.3275634+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:11:36.480038+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:00:29.0575117+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:10:53.4815753+00:00"
 }

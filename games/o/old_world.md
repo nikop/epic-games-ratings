@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 3.00% | ~515 |
 | Babylonian Paganism | 3.00% | ~515 |
 | Greek Paganism | 3.00% | ~515 |
+| Zoroastrianism | 3.00% | ~515 |
 | Naming Landmarks | 3.00% | ~515 |
 | Trade Caravan | 3.00% | ~515 |
 | Regicide | 2.00% | ~343 |
@@ -66,7 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 2.00% | ~343 |
 | Egyptian Paganism | 2.00% | ~343 |
 | Roman Paganism | 2.00% | ~343 |
-| Zoroastrianism | 2.00% | ~343 |
+| Building Wonders | 2.00% | ~343 |
 | Mythology | 2.00% | ~343 |
 | Beloved | 1.00% | ~172 |
 | Conqueror | 1.00% | ~172 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 1.00% | ~172 |
 | Power to the People | 1.00% | ~172 |
 | Persian Paganism | 1.00% | ~172 |
-| Building Wonders | 1.00% | ~172 |
 | Economic Reform | 1.00% | ~172 |
 | Military Prestige | 1.00% | ~172 |
 | Dualism | 1.00% | ~172 |

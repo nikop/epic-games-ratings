@@ -154,6 +154,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~511 |
 | Rude Welcome | 0.20% | ~511 |
 | Durable Deep | 0.20% | ~511 |
+| The Sibriex | 0.20% | ~444 |
 | Expert Opinion | 0.20% | ~511 |
 | The Haunted Jungle | 0.20% | ~511 |
 | Poor Guidance | 0.20% | ~511 |
@@ -440,7 +441,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trench Coat Run | 0.10% | ~222 |
 | The Taunting Lord | 0.10% | ~222 |
 | Lone Wolf Party | 0.10% | ~222 |
-| The Sibriex | 0.10% | ~222 |
 | The Archduke's Blessing | 0.10% | ~222 |
 | A Neutral Party | 0.10% | ~222 |
 | Wrecked Flying Fortress | 0.10% | ~222 |
@@ -554,7 +554,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 255,675 (Ranked 71)  
-Completed: 2,648 (1.04%) (Ranked 180)  
+Completed: 2,649 (1.04%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -834,7 +834,7 @@ Completed: 2,648 (1.04%) (Ranked 180)
 | 2024-01-23 | 255,334 | 2,635 |
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
-| 2024-01-26 | 255,675 | 2,648 |
+| 2024-01-26 | 255,675 | 2,649 |
 ## Awards
 Max (Great for Beginners): 5,816  (Ranked 75)  
 Sum: 33,650 (Ranked 42)  

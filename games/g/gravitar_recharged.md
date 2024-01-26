@@ -24,7 +24,7 @@
 | Red Map | 0.00% | ~0 |
 | Walk The Dog | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 689)  
+Progressed: 8 (Ranked 690)  
 Completed: 0 (0.00%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |

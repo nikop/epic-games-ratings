@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -427,17 +427,17 @@
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "BOSS_4",
       "SetID": "89ki2f0",
       "Name": "Killed another human...?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "BOSS_FINAL",
@@ -539,9 +539,9 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "UPGRADES_FIRST",
@@ -570,8 +570,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:05:54.3137436+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:05:16.4736058+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:58:53.5289279+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:05:54.3137808+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:58:37.9599434+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:05:16.4736194+00:00"
 }

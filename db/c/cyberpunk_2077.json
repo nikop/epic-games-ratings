@@ -19130,9 +19130,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1058827,
+  "EOS_Progressed": 1058844,
   "EOS_Completed": 3163,
-  "EOS_NewPlayers": 4200,
+  "EOS_NewPlayers": 4198,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51320,6 +51320,11 @@
       "Time": "2024-01-26T05:10:07.8125297+00:00",
       "NumProgressed": 1058827,
       "NumCompleted": 3163
+    },
+    {
+      "Time": "2024-01-26T06:09:39.7858646+00:00",
+      "NumProgressed": 1058844,
+      "NumCompleted": 3163
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51340,7 +51345,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "BushidoAndChill",
@@ -51356,7 +51361,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9529
+      "UsersEstimate": 9530
     },
     {
       "ID": "Denied",
@@ -51364,7 +51369,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9529
+      "UsersEstimate": 9530
     },
     {
       "ID": "FollowingTheRiver",
@@ -51380,7 +51385,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "Gearhead",
@@ -51588,7 +51593,7 @@
       "Name": "The Sun",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "TheWheelOfFortune",
@@ -51867,21 +51872,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1058827,
+      "Progressed": 1058844,
       "Completed": 3163
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187450,
+      "Progressed": 187467,
       "Completed": 10701
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T05:03:47.8430268+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:10:07.8125295+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:09:39.7858644+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:03:47.8430274+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:10:07.8126762+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:03:33.9326294+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:09:39.7860388+00:00"
 }

@@ -9,14 +9,14 @@
 | Job one. DONE! | 60.00% | ~191 |
 | You are Carol Vorderman | 55.00% | ~175 |
 | Toby foolery | 50.00% | ~160 |
-| Instinct | 37.00% | ~118 |
+| Instinct | 38.00% | ~121 |
 | Don't fear the baldness | 36.00% | ~115 |
 | Blow | 34.00% | ~108 |
 | Just like me | 33.00% | ~105 |
-| I bless the rain down in London | 29.00% | ~93 |
-| Cheat | 28.00% | ~89 |
+| I bless the rain down in London | 30.00% | ~96 |
+| Cheat | 29.00% | ~93 |
+| Delusions | 27.00% | ~86 |
 | Brown nosing | 26.00% | ~83 |
-| Delusions | 26.00% | ~83 |
 | Prove it | 25.00% | ~80 |
 | The truth | 25.00% | ~80 |
 | Making a murderer | 18.00% | ~57 |

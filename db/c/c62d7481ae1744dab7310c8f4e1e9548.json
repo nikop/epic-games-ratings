@@ -1275,9 +1275,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "Kour",
@@ -1466,8 +1466,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:06:06.2559855+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:05:26.2163674+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8617172+00:00",
-  "LastUpdate_Ratings": "2024-01-26T05:03:36.7192272+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:06:06.2560155+00:00"
+  "LastUpdate_Ratings": "2024-01-26T06:03:25.3005847+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:05:26.2163902+00:00"
 }

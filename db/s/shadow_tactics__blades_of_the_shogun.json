@@ -2620,9 +2620,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 228350,
+  "EOS_Progressed": 228354,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1587,
+  "EOS_NewPlayers": 1582,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34985,6 +34985,11 @@
       "Time": "2024-01-26T05:09:02.8669904+00:00",
       "NumProgressed": 228350,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-26T06:08:46.0961857+00:00",
+      "NumProgressed": 228354,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -34996,7 +35001,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 25118
+      "UsersEstimate": 25119
     },
     {
       "ID": "AtheistOx",
@@ -35108,7 +35113,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "Jonin",
@@ -35276,7 +35281,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "Thorough",
@@ -35284,7 +35289,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25118
+      "UsersEstimate": 25119
     },
     {
       "ID": "TimeParadox",
@@ -35347,15 +35352,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 228350,
+      "Progressed": 228354,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-26T03:58:52.1963107+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:09:02.8669901+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:08:46.0961854+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:59:48.8639612+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:09:02.8671508+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:59:22.554185+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:08:46.0963708+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sidecar-evolution-2024-14c6e8",
   "Ranking_EOS_Progress": 853,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2024-07-29T12:00:00+00:00",
@@ -306,8 +306,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-22T13:11:27.8505907+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:06:26.6819527+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:05:42.262514+00:00",
   "LastUpdate_AppInfo": "2024-01-22T13:04:51.966605+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:59:52.7086291+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:06:26.6819754+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:59:25.5733552+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:05:42.2625369+00:00"
 }

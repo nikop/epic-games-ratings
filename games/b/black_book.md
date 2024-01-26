@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,996 |
-| Student | 23.00% | ~15,858 |
-| Knower | 16.00% | ~11,032 |
-| Listener | 15.00% | ~10,342 |
-| Aspen Tree | 14.00% | ~9,653 |
-| Healer | 14.00% | ~9,653 |
+| Initiation | 29.00% | ~19,997 |
+| Student | 23.00% | ~15,859 |
+| Knower | 16.00% | ~11,033 |
+| Listener | 15.00% | ~10,343 |
+| Aspen Tree | 14.00% | ~9,654 |
+| Healer | 14.00% | ~9,654 |
 | Scientist | 12.00% | ~8,274 |
 | Soldier | 12.00% | ~8,274 |
-| Cow Level | 11.00% | ~7,584 |
+| Cow Level | 11.00% | ~7,585 |
 | Old Friend | 10.00% | ~6,895 |
 | Herbalist | 10.00% | ~6,895 |
 | Water | 10.00% | ~6,895 |
@@ -46,10 +46,10 @@ Number of Ratings: 96  (23.09.2022)
 | Righteous | 4.00% | ~2,758 |
 | Musician | 4.00% | ~2,758 |
 | Koldun | 4.00% | ~2,758 |
-| Black Sorceress | 3.00% | ~2,068 |
-| Cheater | 3.00% | ~2,068 |
-| Diplomat | 3.00% | ~2,068 |
-| White Head | 3.00% | ~2,068 |
+| Black Sorceress | 3.00% | ~2,069 |
+| Cheater | 3.00% | ~2,069 |
+| Diplomat | 3.00% | ~2,069 |
+| White Head | 3.00% | ~2,069 |
 | Revelation | 2.00% | ~1,379 |
 | Mistress of Hell | 2.00% | ~1,379 |
 | Detective | 2.00% | ~1,379 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,379 |
 | Word Master | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,950 (Ranked 118)  
+Progressed: 68,954 (Ranked 118)  
 Completed: 78 (0.11%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 78 (0.11%) (Ranked 319)
 | 2024-01-23 | 68,629 | 77 |
 | 2024-01-24 | 68,775 | 77 |
 | 2024-01-25 | 68,921 | 78 |
-| 2024-01-26 | 68,950 | 78 |
+| 2024-01-26 | 68,954 | 78 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

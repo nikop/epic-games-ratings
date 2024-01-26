@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 413,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 162,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11274,9 +11274,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133708,
+  "EOS_Progressed": 133711,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41519,6 +41519,11 @@
       "Time": "2024-01-26T05:11:30.1681501+00:00",
       "NumProgressed": 133708,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T06:10:48.2225076+00:00",
+      "NumProgressed": 133711,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41530,7 +41535,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41546,7 +41551,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41682,7 +41687,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41730,7 +41735,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41746,7 +41751,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "combat_kill_librarian",
@@ -41770,7 +41775,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41802,7 +41807,7 @@
       "Name": "It Happens",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41826,7 +41831,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41834,7 +41839,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41842,7 +41847,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41850,7 +41855,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "driving_distance_easy",
@@ -41906,7 +41911,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "hospital_full_service",
@@ -41922,7 +41927,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41938,7 +41943,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "inn_visit_all_variants",
@@ -41978,7 +41983,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "run_victory_act01",
@@ -42114,7 +42119,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -42161,21 +42166,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133708,
+      "Progressed": 133711,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8577,
+      "Progressed": 8580,
       "Completed": 832
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-25T20:57:38.4952846+00:00",
-  "LastChanged_Achievements": "2024-01-26T05:11:30.1681498+00:00",
+  "LastChanged_Achievements": "2024-01-26T06:10:48.2225074+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T04:57:50.42108+00:00",
-  "LastUpdate_Achievements": "2024-01-26T05:11:30.1683263+00:00"
+  "LastUpdate_Ratings": "2024-01-26T05:57:47.5459193+00:00",
+  "LastUpdate_Achievements": "2024-01-26T06:10:48.2226735+00:00"
 }
