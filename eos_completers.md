@@ -18,7 +18,7 @@
 | 16 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.21% |
 | 17 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.67% |
+| 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.62% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.05% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.78% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.91% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.95% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 7.69% |
@@ -72,7 +72,7 @@
 | 70 | [Time Loader](games/t/time_loader.md) | 6.12% |
 | 71 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.84% |
-| 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
+| 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.72% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
 | 75 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
@@ -150,9 +150,9 @@
 | 148 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 149 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.80% |
 | 150 | [Sifu](games/s/sifu.md) | 1.71% |
-| 150 | [Yars: Recharged](games/y/yars__recharged.md) | 1.71% |
-| 152 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
-| 153 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.67% |
+| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
+| 152 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.67% |
+| 152 | [Yars: Recharged](games/y/yars__recharged.md) | 1.67% |
 | 154 | [Frogun](games/f/frogun.md) | 1.66% |
 | 155 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
 | 156 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
@@ -232,9 +232,9 @@
 | 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.54% |
 | 231 | [Haven](games/h/haven.md) | 0.53% |
 | 231 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.53% |
-| 233 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
-| 234 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.50% |
-| 234 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 231 | [The Surge 2](games/t/the_surge_2.md) | 0.53% |
+| 234 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
+| 235 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.50% |
 | 236 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.49% |
 | 237 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.48% |
 | 237 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.48% |
