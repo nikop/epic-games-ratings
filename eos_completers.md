@@ -29,7 +29,7 @@
 | 27 | [Island Cities](games/i/island_cities.md) | 16.76% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.10% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.09% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -77,8 +77,8 @@
 | 75 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.06% |
-| 78 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 5.00% |
-| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.00% |
+| 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.01% |
+| 79 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 5.00% |
 | 80 | [Bugsnax](games/b/bugsnax.md) | 4.92% |
 | 81 | [ZZT!](games/z/zzt!.md) | 4.78% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.77% |
@@ -106,7 +106,7 @@
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.43% |
 | 106 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
-| 107 | [Yars: Recharged](games/y/yars__recharged.md) | 3.40% |
+| 107 | [Yars: Recharged](games/y/yars__recharged.md) | 3.33% |
 | 108 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 109 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 110 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
@@ -146,8 +146,8 @@
 | 143 | [Somerville](games/s/somerville.md) | 1.94% |
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.86% |
+| 147 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.85% |
 | 147 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.85% |
-| 148 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 149 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 150 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.80% |
 | 151 | [Sifu](games/s/sifu.md) | 1.71% |
@@ -200,11 +200,11 @@
 | 197 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.87% |
 | 199 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.86% |
 | 199 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.86% |
-| 201 | [Dungeons 3](games/d/dungeons_3.md) | 0.78% |
-| 201 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
+| 201 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
+| 202 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 203 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
-| 203 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.77% |
 | 203 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.77% |
+| 205 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.76% |
 | 206 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 207 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.73% |
 | 207 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
@@ -273,9 +273,9 @@
 | 271 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 271 | [Darksiders III](games/d/darksiders_iii.md) | 0.28% |
 | 271 | [GRIME](games/g/grime.md) | 0.28% |
-| 274 | [Filament](games/f/filament.md) | 0.27% |
-| 274 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.27% |
-| 274 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
+| 271 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.28% |
+| 275 | [Filament](games/f/filament.md) | 0.27% |
+| 275 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
 | 277 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 278 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 278 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |

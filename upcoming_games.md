@@ -21,6 +21,7 @@
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 0 | - | - |
 | [Grieve](games/3/33d6300ac8394fd48337c934f52c71cc.md) | 2024-02-09 | - |  | - | - |
 | [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | - |
+| [RPG Survivors](games/a/acf4beaa800f4dbcb007623d83634582.md) | 2024-02-11 | - |  | - | - |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 1 | - | - |
 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | - | - |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | - |  | - | - |
@@ -31,7 +32,6 @@
 | [Amber](games/e/e0ee1d8777e441d3ae01f796ed427261.md) | 2024-02-14 | - |  | - | - |
 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | - |  | - | - |
 | [Delivery Boy](games/8/84860d15749f404e8a24fd58e6b01448.md) | 2024-02-15 | - |  | - | - |
-| [RPG Survivors](games/a/acf4beaa800f4dbcb007623d83634582.md) | 2024-02-15 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | - | - |
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
 | [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
