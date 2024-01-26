@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4860,
+  "EOS_Progressed": 4861,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8730,6 +8730,11 @@
       "Time": "2024-01-26T17:06:41.2450397+00:00",
       "NumProgressed": 4860,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T21:05:32.7325871+00:00",
+      "NumProgressed": 4861,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8765,7 +8770,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "BloodAndJustice_50",
@@ -8965,7 +8970,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -9061,7 +9066,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -9076,15 +9081,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4860,
+      "Progressed": 4861,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-26T18:03:30.9980632+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:05:04.5082341+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:05:32.7325868+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:55.7355759+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:04.5083131+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:03:04.1958289+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:32.7326476+00:00"
 }

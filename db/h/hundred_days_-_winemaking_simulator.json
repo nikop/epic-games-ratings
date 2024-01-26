@@ -3,12 +3,12 @@
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 837,
-  "Ranking_Popularity": 301,
+  "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1135,7 +1135,7 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 22181,
+  "EOS_Progressed": 22187,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 0,
@@ -18735,6 +18735,11 @@
       "Time": "2024-01-26T20:09:23.5445352+00:00",
       "NumProgressed": 22181,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-26T21:09:59.5552631+00:00",
+      "NumProgressed": 22187,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18747,7 +18752,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "a_10",
@@ -18779,7 +18784,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "a_16",
@@ -18795,7 +18800,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9760
+      "UsersEstimate": 9762
     },
     {
       "ID": "a_19",
@@ -18803,7 +18808,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "a_2",
@@ -18843,7 +18848,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "a_25",
@@ -18867,7 +18872,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "a_28",
@@ -18883,7 +18888,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "a_30",
@@ -18979,7 +18984,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "a_9",
@@ -18994,7 +18999,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 22181,
+      "Progressed": 22187,
       "Completed": 13
     }
   ],
@@ -19002,8 +19007,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-26T14:57:59.1712141+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:23.5445345+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:59.5552624+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:43.0814084+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:23.54467+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:56.6111693+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:59.5553445+00:00"
 }

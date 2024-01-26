@@ -3,12 +3,12 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 103,
-  "Ranking_PopularitySum": 70,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_Popularity": 104,
+  "Ranking_PopularitySum": 69,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -12431,10 +12431,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 16693,
       "NumberOfAwardsMax": 3260
+    },
+    {
+      "Time": "2024-01-26T21:03:02.4216384+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 16698,
+      "NumberOfAwardsMax": 3260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16693,
+  "NumberOfAwards": 16698,
   "NumberOfAwardsMax": 3260,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12502,7 +12508,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 1140
+      "Count": 1145
     }
   ],
   "EOS_Progressed": 0,
@@ -12525,9 +12531,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-01-26T20:02:54.3043921+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:08:04.401923+00:00",
+  "LastChanged": "2024-01-26T21:03:02.4216382+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:08:41.598818+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.5249412+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:54.3043926+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:04.4019264+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:03:02.4216389+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:41.5988205+00:00"
 }

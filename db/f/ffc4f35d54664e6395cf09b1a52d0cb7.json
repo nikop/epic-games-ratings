@@ -2,10 +2,10 @@
   "ID": "ffc4f35d54664e6395cf09b1a52d0cb7",
   "Name": "Mountain Bicycle Rider Simulator",
   "ProductSlug": "mountain-bicycle-rider-simulator-e52374",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-08-30T11:30:00+00:00",
     "PcReleaseDate": "2023-09-01T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T15:57:19.0682822+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:47.3429726+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:27.2019136+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:48.9591527+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:54.8138204+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:20.9875936+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2373,9 +2373,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2542,8 +2542,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:12.0374813+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:46.361927+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:49.7753491+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:12.0375242+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:20.1837908+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:46.3619583+00:00"
 }

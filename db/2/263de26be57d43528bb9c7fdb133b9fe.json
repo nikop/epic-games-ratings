@@ -436,17 +436,17 @@
       "ID": "BOSS_1",
       "SetID": "89ki2f0",
       "Name": "Down the rabbit hole",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "BOSS_3",
@@ -500,17 +500,17 @@
       "ID": "MONEY_100K",
       "SetID": "89ki2f0",
       "Name": "Hiding your wealth",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "MONEY_1K",
@@ -595,8 +595,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:04:49.120465+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:05:14.8820795+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:28.7232691+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:49.120485+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:48.2193965+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:14.8820936+00:00"
 }

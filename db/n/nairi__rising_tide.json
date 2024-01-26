@@ -2,10 +2,10 @@
   "ID": "edf47f11c7db4bba83041a45c4f82cf7",
   "Name": "NAIRI: Rising Tide",
   "ProductSlug": "nairi-rising-tide-3cdcee",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.7006665+00:00",
   "LastChanged": "2023-03-31T05:57:08.7006666+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:25.7655595+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:37.3339434+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:06.0603922+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:49.9352958+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:39.5615039+00:00"
 }

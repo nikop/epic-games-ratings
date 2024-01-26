@@ -3,12 +3,12 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 603,
-  "Ranking_Popularity": 334,
+  "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18120,
+  "EOS_Progressed": 18121,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -19181,6 +19181,11 @@
       "Time": "2024-01-26T20:03:38.8423264+00:00",
       "NumProgressed": 18120,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-26T21:03:55.3416817+00:00",
+      "NumProgressed": 18121,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19232,7 +19237,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5798
+      "UsersEstimate": 5799
     },
     {
       "ID": "tpote_achievement_15",
@@ -19280,7 +19285,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5798
+      "UsersEstimate": 5799
     },
     {
       "ID": "tpote_achievement_20",
@@ -19352,7 +19357,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "tpote_achievement_29",
@@ -19368,7 +19373,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5617
+      "UsersEstimate": 5618
     },
     {
       "ID": "tpote_achievement_30",
@@ -19519,15 +19524,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18120,
+      "Progressed": 18121,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2024-01-25T16:03:51.8791748+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:03:38.842326+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:03:55.3416814+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:50.1154215+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:03:38.8424415+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:02:58.0403481+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:03:55.3417726+00:00"
 }

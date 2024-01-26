@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1370,9 +1370,9 @@
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_CUNNING",
@@ -1402,9 +1402,9 @@
       "ID": "SG_FIERY",
       "SetID": "bj5g0n4",
       "Name": "Fiery",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "SG_GODOFTHESUN",
@@ -1498,9 +1498,9 @@
       "ID": "SG_SHARETHISDANCE",
       "SetID": "bj5g0n4",
       "Name": "Share This Dance",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SG_SNAKECHARMER",
@@ -1617,8 +1617,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:08:52.0103455+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:24.5796506+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.9825075+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:29.2695758+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:52.0103701+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:02:33.2205942+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:24.5796745+00:00"
 }

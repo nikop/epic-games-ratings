@@ -3,12 +3,12 @@
   "Name": "Slime Rancher 2",
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 93,
-  "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 286,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_Popularity": 370,
+  "Ranking_PopularitySum": 285,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-09-22T17:00:00+00:00",
     "PcReleaseDate": "2022-09-22T17:00:00+00:00",
@@ -997,6 +997,6 @@
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
   "LastChanged": "2024-01-25T17:00:49.1501196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:36.2432705+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:25.5006485+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:07:52.2989471+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:36.365649+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:28.1107006+00:00"
 }

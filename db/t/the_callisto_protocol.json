@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 315,
+  "Ranking_Popularity": 343,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2331,10 +2331,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 691,
       "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2024-01-26T21:03:19.153405+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 691,
+  "NumberOfAwards": 693,
   "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2354,7 +2360,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 118
+      "Count": 120
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2383,7 +2389,7 @@
   ],
   "EOS_Progressed": 22756,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -15400,9 +15406,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-25T03:03:12.4837491+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:28.7560797+00:00",
+  "LastChanged": "2024-01-26T21:03:19.1534048+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:05.283764+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:03:08.347343+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:28.7561625+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:03:19.1534053+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:05.2838513+00:00"
 }

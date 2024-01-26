@@ -2,10 +2,10 @@
   "ID": "747963936b3e4a0fa3c1bb714436cf8d",
   "Name": "Wavetale",
   "ProductSlug": "wavetale-f9cfdf",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-12T16:00:00+00:00",
     "PcReleaseDate": "2022-12-12T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.7104738+00:00",
   "LastChanged": "2023-03-31T05:58:41.7104739+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.1704183+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:19.771746+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:03:29.345051+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:46.6183425+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:03:44.6719476+00:00"
 }

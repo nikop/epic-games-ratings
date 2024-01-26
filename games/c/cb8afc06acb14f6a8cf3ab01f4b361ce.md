@@ -5,10 +5,10 @@ Rating: 4.21 (Ranked 967)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 6.00% | ~21,007 |
-| May the Torchbearer light our way | 5.00% | ~17,506 |
-| A powerful aura was here | 4.00% | ~14,004 |
-| Let's raise the stakes!! | 2.00% | ~7,002 |
+| The touch of Chaos | 6.00% | ~21,008 |
+| May the Torchbearer light our way | 5.00% | ~17,507 |
+| A powerful aura was here | 4.00% | ~14,005 |
+| Let's raise the stakes!! | 2.00% | ~7,003 |
 | Rumors are true | 1.00% | ~3,501 |
 | We'll be careful | 1.00% | ~3,501 |
 | Pride is a sin, young Knight | 1.00% | ~3,501 |
@@ -24,8 +24,8 @@ Rating: 4.21 (Ranked 967)
 | This is the end | 0.60% | ~2,101 |
 | We can choose to fight | 0.60% | ~2,101 |
 | I took a risk | 0.50% | ~1,751 |
-| Their fate is sealed | 0.40% | ~1,400 |
-| Not even from this world | 0.40% | ~1,400 |
+| Their fate is sealed | 0.40% | ~1,401 |
+| Not even from this world | 0.40% | ~1,401 |
 | No damsels in distress | 0.20% | ~700 |
 | Chaos be damned! | 0.20% | ~700 |
 | The immortal is bound to reborn | 0.10% | ~350 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 967)
 | Something... unnatural | 0.10% | ~350 |
 | We strike as one | 0.10% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350,111 (Ranked 60)  
+Progressed: 350,131 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,11 +171,11 @@ Completed: 7 (0.00%) (Ranked 414)
 | 2024-01-23 | 349,116 | 7 |
 | 2024-01-24 | 349,460 | 7 |
 | 2024-01-25 | 349,819 | 7 |
-| 2024-01-26 | 350,111 | 7 |
+| 2024-01-26 | 350,131 | 7 |
 ## Awards
-Max (Great Boss Battles): 83  (Ranked 405)  
+Max (Great Boss Battles): 83  (Ranked 404)  
 Sum: 83 (Ranked 489)  
-Diff (max vs sum): -84  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 83 |

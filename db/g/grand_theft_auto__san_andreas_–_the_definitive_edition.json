@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 530,
-  "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 269,
+  "Ranking_Popularity": 431,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2639,12 +2639,18 @@
       "Rating": 4.55,
       "NumberOfAwards": 1134,
       "NumberOfAwardsMax": 728
+    },
+    {
+      "Time": "2024-01-26T20:59:50.8505761+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 407,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1134,
-  "NumberOfAwardsMax": 728,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 407,
+  "NumberOfAwardsMax": 65,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -2656,7 +2662,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2709,7 +2715,7 @@
   ],
   "EOS_Progressed": 19868,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21879,9 +21885,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-26T10:59:36.5739253+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:38.6565229+00:00",
+  "LastChanged": "2024-01-26T20:59:50.8505759+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:17.0571752+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:23.4403875+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:38.6566338+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:50.8505764+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:17.0572671+00:00"
 }

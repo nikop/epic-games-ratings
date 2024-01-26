@@ -2,10 +2,10 @@
   "ID": "b45f4ea9d6ca4644a06b5f52ee87930e",
   "Name": "Realife Simulator",
   "ProductSlug": "realife-simulator-1e5a5e",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-22T07:57:06.6115615+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:29.769406+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:02.2123209+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:57.5125419+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:29.9942421+00:00"
 }

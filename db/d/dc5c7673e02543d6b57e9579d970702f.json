@@ -2,10 +2,10 @@
   "ID": "dc5c7673e02543d6b57e9579d970702f",
   "Name": "Revans",
   "ProductSlug": "revans-617bc6",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-01-12T17:00:00+00:00",
@@ -554,8 +554,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T17:03:28.9457803+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:08:41.6025668+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:12.6219192+00:00",
   "LastUpdate_AppInfo": "2024-01-20T02:56:57.4335209+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:00:10.442467+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:41.6026062+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:44.2747385+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:12.6219688+00:00"
 }

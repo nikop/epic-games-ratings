@@ -5,15 +5,15 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,487 |
+| Victor | 93.00% | ~4,488 |
 | World Map | 78.00% | ~3,764 |
-| Temple of Eternals | 56.00% | ~2,702 |
-| Prestigious | 52.00% | ~2,509 |
-| Fellowship Power | 41.00% | ~1,978 |
+| Temple of Eternals | 56.00% | ~2,703 |
+| Prestigious | 52.00% | ~2,510 |
+| Fellowship Power | 41.00% | ~1,979 |
 | Full Party | 31.00% | ~1,496 |
 | Guild Power | 22.00% | ~1,062 |
 | Prestigious x10 | 20.00% | ~965 |
-| The game is on | 18.00% | ~868 |
+| The game is on | 18.00% | ~869 |
 | Exotic Merchant | 16.00% | ~772 |
 | Dragon Clicker | 15.00% | ~724 |
 | Miner Clicker | 15.00% | ~724 |
@@ -27,7 +27,7 @@ Rating: 4.08 (Ranked 1,038)
 | Natural Talent | 11.00% | ~531 |
 | Superior | 11.00% | ~531 |
 | The Unstoppable | 11.00% | ~531 |
-| Scientist | 10.00% | ~482 |
+| Scientist | 10.00% | ~483 |
 | Doing My Part | 9.00% | ~434 |
 | Hunter | 9.00% | ~434 |
 | The power of Awakening | 9.00% | ~434 |
@@ -61,12 +61,12 @@ Rating: 4.08 (Ranked 1,038)
 | The Alchemist | 4.00% | ~193 |
 | Arena Challenger | 3.00% | ~145 |
 | Ebony Jungle Liberator | 3.00% | ~145 |
-| Enchanting skill x5 | 2.00% | ~96 |
-| Gear Enchanting | 2.00% | ~96 |
-| Guardian Master | 2.00% | ~96 |
-| Mythic Power | 2.00% | ~96 |
-| Pokerface | 2.00% | ~96 |
-| What lies behind the bush | 2.00% | ~96 |
+| Enchanting skill x5 | 2.00% | ~97 |
+| Gear Enchanting | 2.00% | ~97 |
+| Guardian Master | 2.00% | ~97 |
+| Mythic Power | 2.00% | ~97 |
+| Pokerface | 2.00% | ~97 |
+| What lies behind the bush | 2.00% | ~97 |
 | Cauldron Liberator | 1.00% | ~48 |
 | Conqueror | 1.00% | ~48 |
 | Titan Power | 1.00% | ~48 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,825 (Ranked 211)  
+Progressed: 4,826 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 2 (0.04%) (Ranked 363)
 | 2024-01-23 | 4,759 | 2 |
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
-| 2024-01-26 | 4,825 | 2 |
+| 2024-01-26 | 4,826 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 488)  
 Sum: 127 (Ranked 462)  

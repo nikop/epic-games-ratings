@@ -3,12 +3,12 @@
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "ProductSlug": "marvels-spider-man-remastered",
   "Ranking_Rating": 39,
-  "Ranking_Popularity": 30,
+  "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 56,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
     "PcReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -9671,10 +9671,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 24151,
       "NumberOfAwardsMax": 14327
+    },
+    {
+      "Time": "2024-01-26T20:59:11.5461657+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 24153,
+      "NumberOfAwardsMax": 14327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24151,
+  "NumberOfAwards": 24153,
   "NumberOfAwardsMax": 14327,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9730,7 +9736,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1095
+      "Count": 1096
     },
     {
       "Text": "This game has a Creative Community",
@@ -9742,7 +9748,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1105
+      "Count": 1106
     },
     {
       "Text": "This game is Educational",
@@ -9763,8 +9769,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2024-01-26T19:58:48.7257027+00:00",
+  "LastChanged": "2024-01-26T20:59:11.5461656+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.745126+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:48.7257033+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:47.1761946+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:11.5461661+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:06:18.7023746+00:00"
 }

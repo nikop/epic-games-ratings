@@ -5,10 +5,10 @@
   "Ranking_Rating": 24,
   "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 16,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -16721,10 +16721,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 120056,
       "NumberOfAwardsMax": 15275
+    },
+    {
+      "Time": "2024-01-26T20:57:22.8338459+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 120093,
+      "NumberOfAwardsMax": 15275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 120056,
+  "NumberOfAwards": 120093,
   "NumberOfAwardsMax": 15275,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -16744,7 +16750,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12648
+      "Count": 12663
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16756,7 +16762,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12738
+      "Count": 12760
     },
     {
       "Text": "This game is Great for Beginners",
@@ -16814,9 +16820,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-01-26T16:57:34.4741147+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:04:13.961073+00:00",
+  "LastChanged": "2024-01-26T20:57:22.8338458+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:04:35.7539893+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:32.2300478+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:13.3574331+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:13.9610762+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:22.8338464+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:04:35.7539924+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3287,
+  "EOS_Progressed": 3288,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -9119,6 +9119,11 @@
       "Time": "2024-01-26T18:10:17.1419591+00:00",
       "NumProgressed": 3287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T21:10:08.8087605+00:00",
+      "NumProgressed": 3288,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -9146,7 +9151,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "CLUMSY",
@@ -9162,7 +9167,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -9234,7 +9239,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "GUARD_MAKER",
@@ -9258,7 +9263,7 @@
       "Name": "Clash of Kings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -9305,14 +9310,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3287,
+      "Progressed": 3288,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:32.0226712+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:08.8087601+00:00",
   "LastUpdate_AppInfo": "2024-01-24T11:57:15.9867737+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:41.6159325+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:32.0227223+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:02:48.2898243+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:08.8088078+00:00"
 }

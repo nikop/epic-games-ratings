@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 74.00% | ~412 |
+| Newbie | 74.00% | ~413 |
 | Photo shoot | 16.00% | ~89 |
-| No brakes | 13.00% | ~72 |
+| No brakes | 13.00% | ~73 |
 | Wannabe | 11.00% | ~61 |
 | First taste | 8.00% | ~45 |
 | Amateur hitchhiker | 7.00% | ~39 |
@@ -16,11 +16,11 @@
 | Drama queen | 2.00% | ~11 |
 | Mr. Whiting | 2.00% | ~11 |
 | Hattrick | 2.00% | ~11 |
+| Amateur photo shoot | 2.00% | ~11 |
 | On the top | 2.00% | ~11 |
 | Loyalty | 1.00% | ~6 |
 | Hero | 1.00% | ~6 |
 | No brakes Amateur | 1.00% | ~6 |
-| Amateur photo shoot | 1.00% | ~6 |
 | Amateur wannabe | 0.70% | ~4 |
 | Addict | 0.70% | ~4 |
 | Untouchable | 0.70% | ~4 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 557 (Ranked 352)  
+Progressed: 558 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,3 +324,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-20 | 552 | 0 |
 | 2024-01-23 | 555 | 0 |
 | 2024-01-24 | 557 | 0 |
+| 2024-01-26 | 558 | 0 |

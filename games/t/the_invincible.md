@@ -5,38 +5,38 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 71.00% | ~1,294 |
-| The Teleprobe | 58.00% | ~1,057 |
-| The City | 53.00% | ~966 |
-| The field base | 48.00% | ~875 |
-| The Alliance | 46.00% | ~839 |
-| Survivors | 43.00% | ~784 |
-| The Condor | 41.00% | ~747 |
-| The End | 41.00% | ~747 |
-| The Necroevolution | 32.00% | ~583 |
-| Krauta is alive | 30.00% | ~547 |
+| The Camp | 71.00% | ~1,296 |
+| The Teleprobe | 58.00% | ~1,059 |
+| The City | 53.00% | ~968 |
+| The field base | 48.00% | ~876 |
+| The Alliance | 46.00% | ~840 |
+| Survivors | 43.00% | ~785 |
+| The Condor | 41.00% | ~749 |
+| The End | 40.00% | ~730 |
+| The Necroevolution | 32.00% | ~584 |
+| Krauta is alive | 30.00% | ~548 |
 | Peacemaker | 25.00% | ~456 |
-| Fierce fight | 24.00% | ~438 |
-| On her own | 23.00% | ~419 |
-| Volcanologist | 23.00% | ~419 |
-| Evacuation | 22.00% | ~401 |
+| On her own | 23.00% | ~420 |
+| Fierce fight | 23.00% | ~420 |
+| Volcanologist | 23.00% | ~420 |
+| Evacuation | 22.00% | ~402 |
 | Beyond divisions | 20.00% | ~365 |
-| Flying Objects Operator | 18.00% | ~328 |
-| Another giant | 15.00% | ~273 |
-| I remember everything! | 14.00% | ~255 |
-| Violent solution | 10.00% | ~182 |
-| I leave no man behind | 10.00% | ~182 |
+| Flying Objects Operator | 18.00% | ~329 |
+| Another giant | 15.00% | ~274 |
+| I remember everything! | 14.00% | ~256 |
+| Violent solution | 10.00% | ~183 |
+| I leave no man behind | 10.00% | ~183 |
 | Innate curiosity | 8.00% | ~146 |
 | Strong objection | 7.00% | ~128 |
-| Ubiquitous holes | 6.00% | ~109 |
-| The Invincible | 6.00% | ~109 |
-| Got lost again | 6.00% | ~109 |
-| I leave no man behind (no exceptions) | 2.00% | ~36 |
+| Ubiquitous holes | 6.00% | ~110 |
+| The Invincible | 6.00% | ~110 |
+| Got lost again | 6.00% | ~110 |
+| I leave no man behind (no exceptions) | 2.00% | ~37 |
 | Convoy list | 0.90% | ~16 |
 | No more mistakes | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,823 (Ranked 262)  
-Completed: 2 (0.11%) (Ranked 319)  
+Progressed: 1,826 (Ranked 262)  
+Completed: 2 (0.11%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,7 +117,7 @@ Completed: 2 (0.11%) (Ranked 319)
 | 2024-01-23 | 1,797 | 1 |
 | 2024-01-24 | 1,807 | 2 |
 | 2024-01-25 | 1,816 | 2 |
-| 2024-01-26 | 1,823 | 2 |
+| 2024-01-26 | 1,826 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

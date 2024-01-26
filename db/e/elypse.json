@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -811,9 +811,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -827,9 +827,9 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -947,9 +947,9 @@
       "ID": "Ach_SkullGoal",
       "SetID": "4o5gjp0",
       "Name": "Gooooooaaaaal!!!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach_SoulPotBeggarHouse",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:08:55.8252375+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:28.3936882+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.1381651+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:20.3099401+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:55.8252584+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:47.2211279+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:28.3937081+00:00"
 }

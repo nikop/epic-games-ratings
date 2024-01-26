@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~687 |
 | Oracle | 4.00% | ~687 |
 | Judaism | 4.00% | ~687 |
+| Regicide | 3.00% | ~516 |
 | Ambitious | 3.00% | ~516 |
 | Enlightened | 3.00% | ~516 |
 | Fountainhead | 3.00% | ~516 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 3.00% | ~516 |
 | Naming Landmarks | 3.00% | ~516 |
 | Trade Caravan | 3.00% | ~516 |
-| Regicide | 2.00% | ~344 |
 | Hanging Gardens in Babylon | 2.00% | ~344 |
 | Drillmaster | 2.00% | ~344 |
 | Brilliant | 2.00% | ~344 |
@@ -648,9 +648,9 @@ Completed: 5 (0.03%) (Ranked 369)
 | 2024-01-25 | 17,167 | 5 |
 | 2024-01-26 | 17,185 | 5 |
 ## Awards
-Max (Relaxing): 231  (Ranked 288)  
+Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 231 |

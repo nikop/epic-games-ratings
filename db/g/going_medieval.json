@@ -3,12 +3,12 @@
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 432,
-  "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 272,
+  "Ranking_Popularity": 348,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1727,9 +1727,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8099,
+  "EOS_Progressed": 8100,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17402,6 +17402,11 @@
       "Time": "2024-01-26T19:08:42.7048359+00:00",
       "NumProgressed": 8099,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-26T21:08:11.0950587+00:00",
+      "NumProgressed": 8100,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17413,7 +17418,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -17421,7 +17426,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -17445,7 +17450,7 @@
       "Name": "Green Thumb",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -17453,7 +17458,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6236
+      "UsersEstimate": 6237
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17461,7 +17466,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5913
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17533,7 +17538,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -17573,7 +17578,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5670
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17613,7 +17618,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4535
+      "UsersEstimate": 4536
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -17621,7 +17626,7 @@
       "Name": "Novice Researcher",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5588
+      "UsersEstimate": 5589
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17645,7 +17650,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17653,22 +17658,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8099,
+      "Progressed": 8100,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-26T17:01:41.1904004+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:06:16.180621+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:08:11.0950582+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.945305+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:54.8251113+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:06:16.1807043+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:26.4439586+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:11.0951495+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c93d8cd77b5a45c8b6aee3e68ff4e0c7",
   "Name": "Age of Conquest IV",
   "ProductSlug": "age-of-conquest-iv-c29987",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2016-04-05T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-26T09:56:57.6547626+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:10.5247927+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:03:23.6199084+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:19.7326062+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:03:38.4777828+00:00"
 }

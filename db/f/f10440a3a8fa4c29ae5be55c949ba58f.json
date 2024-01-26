@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10580,
+  "EOS_Progressed": 10590,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 901,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4314,6 +4314,11 @@
       "Time": "2024-01-26T20:09:00.2439455+00:00",
       "NumProgressed": 10580,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-26T21:09:33.3078942+00:00",
+      "NumProgressed": 10590,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -4326,7 +4331,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 5184
+      "UsersEstimate": 5189
     },
     {
       "ID": "Document1",
@@ -4334,7 +4339,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "Document2",
@@ -4342,7 +4347,7 @@
       "Name": "Document Discoverer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Document3",
@@ -4366,7 +4371,7 @@
       "Name": "Master of Secrets",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Perservant",
@@ -4389,14 +4394,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 10580,
+      "Progressed": 10590,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:00.2439449+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:33.3078938+00:00",
   "LastUpdate_AppInfo": "2024-01-21T22:57:09.6072792+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:30.342029+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:00.2439829+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:41.4185173+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:33.3079197+00:00"
 }

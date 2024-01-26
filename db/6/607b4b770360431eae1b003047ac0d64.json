@@ -2,10 +2,10 @@
   "ID": "607b4b770360431eae1b003047ac0d64",
   "Name": "OverDrift Festival",
   "ProductSlug": "overdrift-festival-eb501d",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-06-20T06:00:00+00:00",
     "PcReleaseDate": "2022-12-22T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-26T11:57:16.4889105+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:00:07.3905393+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:09.8060796+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:40.7258758+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:43.681722+00:00"
 }

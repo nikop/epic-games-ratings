@@ -2,10 +2,10 @@
   "ID": "49cab63aed304fdc875485f73028a1d7",
   "Name": "Quantum Storm",
   "ProductSlug": "quantum-storm-3d80ad",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
     "PcReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-12T16:57:20.9163979+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:17.5371845+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:42.2245418+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:53.7774309+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:03.4961062+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:20.1784296+00:00"
 }

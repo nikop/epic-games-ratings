@@ -9193,10 +9193,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12904,
       "NumberOfAwardsMax": 7295
+    },
+    {
+      "Time": "2024-01-26T21:03:06.8747456+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12905,
+      "NumberOfAwardsMax": 7295
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12904,
+  "NumberOfAwards": 12905,
   "NumberOfAwardsMax": 7295,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9222,7 +9228,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 629
+      "Count": 630
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9273,9 +9279,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762936,
+  "EOS_Progressed": 762940,
   "EOS_Completed": 13009,
-  "EOS_NewPlayers": 1087,
+  "EOS_NewPlayers": 1081,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35463,6 +35469,11 @@
       "Time": "2024-01-26T20:09:21.2965252+00:00",
       "NumProgressed": 762936,
       "NumCompleted": 13009
+    },
+    {
+      "Time": "2024-01-26T21:09:57.0136114+00:00",
+      "NumProgressed": 762940,
+      "NumCompleted": 13009
     }
   ],
   "TotalAchievements": 60,
@@ -35522,7 +35533,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 6103
+      "UsersEstimate": 6104
     },
     {
       "ID": "08_Wude_H2",
@@ -35586,7 +35597,7 @@
       "Name": "Detective Story",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 6103
+      "UsersEstimate": 6104
     },
     {
       "ID": "16_Detective_H2",
@@ -35953,21 +35964,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72237,
+      "Progressed": 72241,
       "Completed": 10823
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762936,
+      "Progressed": 762940,
       "Completed": 13009
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-26T15:03:35.7751934+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:21.2965247+00:00",
+  "LastChanged": "2024-01-26T21:03:06.8747454+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:57.013611+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:58.0644046+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:21.2966708+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:03:06.874746+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:57.0137549+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -1142,9 +1142,9 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "ach25",
@@ -1182,9 +1182,9 @@
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ach3",
@@ -1230,9 +1230,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "ach7",
@@ -1269,8 +1269,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:05:07.517939+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:05:36.1489067+00:00",
   "LastUpdate_AppInfo": "2024-01-24T11:57:13.0204367+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:00.1308291+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:07.5179589+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:23.4493038+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:36.148926+00:00"
 }

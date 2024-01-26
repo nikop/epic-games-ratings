@@ -2,10 +2,10 @@
   "ID": "ac81f14c79ea44c49607398f6ade3b69",
   "Name": "Tuk Tuk Race",
   "ProductSlug": "tuk-tuk-race-1ff590",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-25T07:00:00+00:00",
     "PcReleaseDate": "2023-05-25T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-18T10:58:19.376821+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:35.3192276+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:01.6237085+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:07:47.4622951+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:09.4893483+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:22.633018+00:00"
 }

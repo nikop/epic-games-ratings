@@ -33,8 +33,8 @@
 | Stellar Haste | 8.00% | ~32 |
 | The Corruption Goddess | 8.00% | ~32 |
 | The Goddes Avatar | 8.00% | ~32 |
+| Can't touch this | 7.00% | ~28 |
 | Favored by the Cosmos | 7.00% | ~28 |
-| Can't touch this | 6.00% | ~24 |
 | Prestidigitation | 6.00% | ~24 |
 | Anomaly Control | 5.00% | ~20 |
 | Artificer | 5.00% | ~20 |

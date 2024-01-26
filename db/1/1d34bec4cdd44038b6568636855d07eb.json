@@ -2,10 +2,10 @@
   "ID": "1d34bec4cdd44038b6568636855d07eb",
   "Name": "Arco",
   "ProductSlug": "arco-03eeb3",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T05:57:18.1547127+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:27.084102+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:54.1443621+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:46.4066131+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:06:26.5488478+00:00"
 }

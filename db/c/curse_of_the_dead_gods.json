@@ -3,12 +3,12 @@
   "Name": "Curse of the Dead Gods",
   "ProductSlug": "curse-of-the-dead-gods",
   "Ranking_Rating": 310,
-  "Ranking_Popularity": 361,
+  "Ranking_Popularity": 360,
   "Ranking_PopularitySum": 465,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-02-23T17:00:00+00:00",
     "PcReleaseDate": "2021-02-23T17:00:00+00:00",
@@ -498,6 +498,6 @@
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
   "LastChanged": "2024-01-26T17:01:59.1916627+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.208851+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:00:06.5053466+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:13.0696991+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:39.7565907+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:42.2330733+00:00"
 }

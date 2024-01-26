@@ -2,10 +2,10 @@
   "ID": "ab6a26ad3d2447a5b3df5d92c69ebfbe",
   "Name": "Ring of Life: Survive in Proxima",
   "ProductSlug": "ring-of-life-survive-in-proxima-6f011d",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-20T23:57:29.1566129+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:46.9074487+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:28.4048436+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:02:54.5570389+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:04:51.9492469+00:00"
 }

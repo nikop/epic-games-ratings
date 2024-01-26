@@ -5,61 +5,61 @@ Rating: 4.36 (Ranked 823)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 24.00% | ~55 |
-| Help! Help! I’m being repressed | 22.00% | ~50 |
-| Can’t Touch This | 21.00% | ~48 |
-| Path of Glory | 21.00% | ~48 |
+| Hail to the King, Baby | 24.00% | ~56 |
+| Can’t Touch This | 22.00% | ~51 |
+| Help! Help! I’m being repressed | 22.00% | ~51 |
+| Path of Glory | 21.00% | ~49 |
 | Bring it on! | 19.00% | ~44 |
 | There is no Nobility in Poverty | 16.00% | ~37 |
-| They Got What They Deserved | 15.00% | ~34 |
-| Full House | 14.00% | ~32 |
-| Playerxander the Great | 12.00% | ~27 |
-| The finest merchandise this side of river Jordan | 11.00% | ~25 |
+| They Got What They Deserved | 16.00% | ~37 |
+| Full House | 15.00% | ~35 |
+| Playerxander the Great | 12.00% | ~28 |
+| The finest merchandise this side of river Jordan | 12.00% | ~28 |
+| Big Apple | 9.00% | ~21 |
 | Dinner Time | 9.00% | ~21 |
-| Big Apple | 8.00% | ~18 |
 | All the King's Men | 7.00% | ~16 |
 | Cut-Me-Own-Throat | 7.00% | ~16 |
 | Learn Me a Book | 7.00% | ~16 |
 | What we’ve got here is failure to communicate | 7.00% | ~16 |
 | Black Sheep Wall | 6.00% | ~14 |
-| Blinded by Science | 5.00% | ~11 |
-| Do you read Sutter Cane? | 5.00% | ~11 |
-| Let Us Pray | 5.00% | ~11 |
-| The Magnificent Nine | 5.00% | ~11 |
-| ‘Tis but a scratch | 5.00% | ~11 |
-| Blessed Be His Name | 4.00% | ~9 |
+| Do you read Sutter Cane? | 6.00% | ~14 |
+| Blessed Be His Name | 5.00% | ~12 |
+| Blinded by Science | 5.00% | ~12 |
+| Let Us Pray | 5.00% | ~12 |
+| On the third day at dawn, look east | 5.00% | ~12 |
+| Scientia potentia es | 5.00% | ~12 |
+| The Magnificent Nine | 5.00% | ~12 |
+| ‘Tis but a scratch | 5.00% | ~12 |
+| Call the Boys | 4.00% | ~9 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~9 |
 | Forth, Eorlingas! | 4.00% | ~9 |
 | His All-Holiness | 4.00% | ~9 |
 | His name is King | 4.00% | ~9 |
 | Kingslayer | 4.00% | ~9 |
-| On the third day at dawn, look east | 4.00% | ~9 |
+| Naught but a Seamless Victory | 4.00% | ~9 |
 | Pillars of the Earth | 4.00% | ~9 |
-| Scientia potentia es | 4.00% | ~9 |
 | A Quiet Palace | 3.00% | ~7 |
 | Battle of the Four Armies | 3.00% | ~7 |
-| Call the Boys | 3.00% | ~7 |
 | Greed is Good | 3.00% | ~7 |
+| He made it out, but with an arrow in his back | 3.00% | ~7 |
 | I started a joke | 3.00% | ~7 |
 | Fight Another Day | 3.00% | ~7 |
 | Let us trade with these fine people | 3.00% | ~7 |
-| Naught but a Seamless Victory | 3.00% | ~7 |
 | Renaissance Man | 3.00% | ~7 |
 | Time to find India | 3.00% | ~7 |
 | Vlad the Impaler | 3.00% | ~7 |
 | Fighting with Power and Steel | 2.00% | ~5 |
-| He made it out, but with an arrow in his back | 2.00% | ~5 |
 | New Mineland | 2.00% | ~5 |
+| Power Overwhelming | 2.00% | ~5 |
 | Together We Stand | 2.00% | ~5 |
 | Crusader “you know what” | 1.00% | ~2 |
+| Dust and Salt | 1.00% | ~2 |
 | From Rags to Riches | 1.00% | ~2 |
 | Lord of the Kings | 1.00% | ~2 |
-| Power Overwhelming | 1.00% | ~2 |
 | Prince Ali! Fabulous he! | 1.00% | ~2 |
 | You are not the boss of me now | 1.00% | ~2 |
 | You reap what you sow | 1.00% | ~2 |
 | Zerg Rush | 0.90% | ~2 |
-| Dust and Salt | 0.90% | ~2 |
 | Ibn Battuta | 0.90% | ~2 |
 | Master of Puppets | 0.90% | ~2 |
 | Spartacus | 0.90% | ~2 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 823)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229 (Ranked 431)  
+Progressed: 233 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 94 | 0 |
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
-| 2024-01-26 | 229 | 0 |
+| 2024-01-26 | 233 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

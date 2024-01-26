@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -101,7 +101,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1228,
+  "EOS_Progressed": 1229,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1421,6 +1421,11 @@
       "Time": "2024-01-26T01:48:40.8425026+00:00",
       "NumProgressed": 1228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T21:06:12.4418359+00:00",
+      "NumProgressed": 1229,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1504,7 +1509,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1606,9 +1611,9 @@
       "ID": "CAREERTRIALSA",
       "SetID": "3dh70f3",
       "Name": "Had to sweat a bit",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 37
     },
     {
       "ID": "CAREERTRIALSB",
@@ -1736,7 +1741,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ONEMODULE",
@@ -1784,7 +1789,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "TENPLATINUM",
@@ -1847,7 +1852,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1228,
+      "Progressed": 1229,
       "Completed": 0
     }
   ],
@@ -1855,8 +1860,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-01-13T16:03:26.8950598+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:05:41.4758929+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:06:12.4418355+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:43.1636719+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:03:00.7589493+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:41.4759387+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:03:10.2057756+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:06:12.4418737+00:00"
 }

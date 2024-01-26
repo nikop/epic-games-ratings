@@ -5,26 +5,26 @@ Rating: 3.89 (Ranked 1,086)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,942 |
-| The First Step | 87.00% | ~1,724 |
+| Welcome to Moonbury | 98.00% | ~1,943 |
+| The First Step | 87.00% | ~1,725 |
 | Moonbury Traveller | 63.00% | ~1,249 |
-| Rookie Chemist | 60.00% | ~1,189 |
-| Great Doctor | 50.00% | ~991 |
-| Dog Whisperer | 48.00% | ~951 |
+| Rookie Chemist | 60.00% | ~1,190 |
+| Great Doctor | 50.00% | ~992 |
+| Dog Whisperer | 48.00% | ~952 |
 | Friendly | 46.00% | ~912 |
-| The Capitalist | 44.00% | ~872 |
-| K.O.! | 43.00% | ~852 |
+| The Capitalist | 44.00% | ~873 |
+| K.O.! | 43.00% | ~853 |
 | Intermediate Chemist | 40.00% | ~793 |
 | Decorative Mind | 33.00% | ~654 |
-| Lumber Specialist | 31.00% | ~614 |
+| Lumber Specialist | 31.00% | ~615 |
 | Kind-hearted | 25.00% | ~496 |
 | Catch of the Day | 25.00% | ~496 |
-| Amateur Chef | 23.00% | ~456 |
-| Fishing Guru | 20.00% | ~396 |
+| Amateur Chef | 22.00% | ~436 |
+| Fishing Guru | 20.00% | ~397 |
 | Spark of Love | 18.00% | ~357 |
 | Community Helper | 17.00% | ~337 |
-| Expert Chemist | 14.00% | ~277 |
-| Stone Specialist | 14.00% | ~277 |
+| Expert Chemist | 14.00% | ~278 |
+| Stone Specialist | 14.00% | ~278 |
 | Line Cook | 13.00% | ~258 |
 | Sociable | 12.00% | ~238 |
 | Ablutomaniac | 12.00% | ~238 |
@@ -44,7 +44,7 @@ Rating: 3.89 (Ranked 1,086)
 | Moonbury Navigator | 1.00% | ~20 |
 | Being a donut... | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,982 (Ranked 257)  
+Progressed: 1,983 (Ranked 257)  
 Completed: 12 (0.61%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,11 +249,11 @@ Completed: 12 (0.61%) (Ranked 217)
 | 2024-01-23 | 1,975 | 11 |
 | 2024-01-24 | 1,978 | 11 |
 | 2024-01-25 | 1,979 | 12 |
-| 2024-01-26 | 1,982 | 12 |
+| 2024-01-26 | 1,983 | 12 |
 ## Awards
-Max (Character Customization): 72  (Ranked 421)  
+Max (Character Customization): 72  (Ranked 420)  
 Sum: 72 (Ranked 496)  
-Diff (max vs sum): -75  
+Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 72 |

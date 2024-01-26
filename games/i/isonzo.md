@@ -6,8 +6,8 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tutti Eroi! | 51.00% | ~5,130 |
 | You Shall Not Pass | 51.00% | ~5,130 |
-| Tutti Eroi! | 50.00% | ~5,029 |
 | Peak Performance | 45.00% | ~4,526 |
 | Avanti Savoia! | 44.00% | ~4,426 |
 | Mamma Mia! | 35.00% | ~3,520 |

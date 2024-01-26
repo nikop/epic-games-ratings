@@ -2,10 +2,10 @@
   "ID": "2f556e6df4474883ae1569356056ec89",
   "Name": "Batbarian: Testament of the Primordials",
   "ProductSlug": "batbarian-testament-of-the-primordials-cae61e",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2020-10-15T14:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-12-20T14:57:50.3106515+00:00",
   "FirstSeenAchievements": "2023-10-19T15:03:20.251797+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:04:41.1630615+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:05:05.872595+00:00",
   "LastUpdate_AppInfo": "2024-01-25T22:57:12.8393282+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:00:09.4695697+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:41.1630648+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:43.1582591+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:05.8725973+00:00"
 }

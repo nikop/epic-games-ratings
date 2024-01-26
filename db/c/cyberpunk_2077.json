@@ -19080,18 +19080,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 521669,
       "NumberOfAwardsMax": 145126
+    },
+    {
+      "Time": "2024-01-26T21:03:11.0467711+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 522027,
+      "NumberOfAwardsMax": 145484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 521669,
-  "NumberOfAwardsMax": 145126,
+  "NumberOfAwards": 522027,
+  "NumberOfAwardsMax": 145484,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 145126
+      "Count": 145484
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -19160,9 +19166,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1059200,
+  "EOS_Progressed": 1059219,
   "EOS_Completed": 3167,
-  "EOS_NewPlayers": 4065,
+  "EOS_NewPlayers": 4062,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51425,6 +51431,11 @@
       "Time": "2024-01-26T20:08:40.607884+00:00",
       "NumProgressed": 1059200,
       "NumCompleted": 3167
+    },
+    {
+      "Time": "2024-01-26T21:09:11.4925267+00:00",
+      "NumProgressed": 1059219,
+      "NumCompleted": 3167
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51451,9 +51462,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6355
+      "UsersEstimate": 7415
     },
     {
       "ID": "Cyberjunkie",
@@ -51613,7 +51624,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "Specialist",
@@ -51653,7 +51664,7 @@
       "Name": "The Fool",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "TheHermit",
@@ -51677,7 +51688,7 @@
       "Name": "The Lovers",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "TheStar",
@@ -51709,7 +51720,7 @@
       "Name": "The World",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     },
     {
       "ID": "ThisIsPacifica",
@@ -51941,7 +51952,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "TheTower",
@@ -51965,28 +51976,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059200,
+      "Progressed": 1059219,
       "Completed": 3167
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187823,
+      "Progressed": 187842,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-26T18:03:36.8814778+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:08:40.6078835+00:00",
+  "LastChanged": "2024-01-26T21:03:11.0467709+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:09:11.4925263+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:03:01.4678548+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:40.6080614+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:03:11.0467715+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:11.4926886+00:00"
 }

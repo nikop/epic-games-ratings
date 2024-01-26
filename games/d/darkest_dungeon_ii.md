@@ -7,13 +7,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,293 |
-| Autodidact | 9.00% | ~12,037 |
+| Autodidact | 9.00% | ~12,038 |
 | Lost and Found | 9.00% | ~776 |
-| This guy... again? | 8.00% | ~689 |
-| Serenity Now! | 7.00% | ~9,362 |
-| This Belongs in a Museum | 7.00% | ~9,362 |
-| Creep and Sleep | 7.00% | ~9,362 |
-| Overdue Notice | 7.00% | ~9,362 |
+| This guy... again? | 8.00% | ~690 |
+| Serenity Now! | 7.00% | ~9,363 |
+| This Belongs in a Museum | 7.00% | ~9,363 |
+| Creep and Sleep | 7.00% | ~9,363 |
+| Overdue Notice | 7.00% | ~9,363 |
 | Ploughshares to Swords | 7.00% | ~603 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,025 |
 | It Rings a Bell | 6.00% | ~8,025 |
@@ -26,11 +26,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 6.00% | ~8,025 |
 | FNG | 6.00% | ~8,025 |
 | Bloody Graduation | 6.00% | ~517 |
-| Not Today! | 5.00% | ~6,687 |
-| Merry Time | 5.00% | ~6,687 |
-| Harvest Festival | 5.00% | ~6,687 |
-| Whale | 5.00% | ~6,687 |
-| Nope | 5.00% | ~6,687 |
+| Not Today! | 5.00% | ~6,688 |
+| Merry Time | 5.00% | ~6,688 |
+| Harvest Festival | 5.00% | ~6,688 |
+| Whale | 5.00% | ~6,688 |
+| Nope | 5.00% | ~6,688 |
 | Friends 'Til the End | 5.00% | ~431 |
 | Resurrection | 4.00% | ~5,350 |
 | Unleash Hell | 4.00% | ~5,350 |
@@ -50,21 +50,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,350 |
 | Unshackled | 4.00% | ~5,350 |
 | Road Trip | 4.00% | ~5,350 |
-| This Looks Familiar | 3.00% | ~4,012 |
-| Hope Rekindled | 3.00% | ~4,012 |
-| When You Want Something Done Right | 3.00% | ~4,012 |
-| Utopia | 3.00% | ~4,012 |
-| Hot Air | 3.00% | ~4,012 |
-| Eyes Up | 3.00% | ~4,012 |
+| This Looks Familiar | 3.00% | ~4,013 |
+| Hope Rekindled | 3.00% | ~4,013 |
+| When You Want Something Done Right | 3.00% | ~4,013 |
+| Utopia | 3.00% | ~4,013 |
+| Hot Air | 3.00% | ~4,013 |
+| Eyes Up | 3.00% | ~4,013 |
 | Ichthyophobic | 2.00% | ~2,675 |
 | No More Mouths to Feed | 2.00% | ~2,675 |
 | Shrine of Reflection | 2.00% | ~2,675 |
 | Worldly Traveller | 2.00% | ~2,675 |
 | Handled | 2.00% | ~2,675 |
 | Body of Work | 2.00% | ~2,675 |
-| Clearing the Ledger | 1.00% | ~1,337 |
-| Hat Trick | 1.00% | ~1,337 |
-| Triage | 1.00% | ~1,337 |
+| Clearing the Ledger | 1.00% | ~1,338 |
+| Hat Trick | 1.00% | ~1,338 |
+| Triage | 1.00% | ~1,338 |
 | No Mercy | 1.00% | ~86 |
 | Slap on the Wrist | 1.00% | ~86 |
 | Et Tu, Riposte? | 1.00% | ~86 |
@@ -73,20 +73,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.70% | ~936 |
 | Bacon Bits | 0.70% | ~936 |
 | On This Long Road, We Found Redemption | 0.70% | ~60 |
-| Eidetic | 0.60% | ~802 |
+| Eidetic | 0.60% | ~803 |
 | Battle Hardened | 0.50% | ~43 |
 | Tears in the Rain | 0.40% | ~535 |
 | Maître De La Lame | 0.40% | ~34 |
 | Circle of Life | 0.30% | ~401 |
 | Grand Slam | 0.30% | ~401 |
-| 20,000 Leagues Above the Sea | 0.20% | ~267 |
+| 20,000 Leagues Above the Sea | 0.20% | ~268 |
 | These Boots Are Made For Kickin' | 0.20% | ~17 |
 | Loop Year | 0.10% | ~134 |
 | No Gravestone Left Unturned | 0.10% | ~134 |
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,749 (Ranked 92)  
+Progressed: 133,752 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,10 +357,10 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-23 | 133,577 | 5 |
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
-| 2024-01-26 | 133,749 | 5 |
+| 2024-01-26 | 133,752 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
-Sum: 21,884 (Ranked 60)  
+Sum: 21,886 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -368,7 +368,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,894 |
 | This game has Challenging Combat | 1,696 |
 | This game is Highly Recommended | 1,618 |
-| This game has Amazing Characters | 1,546 |
+| This game has Amazing Characters | 1,548 |
 | This game is Extremely Fun | 1,538 |
 | This game has Unique Visuals | 1,490 |
 | This game has Amazing Storytelling | 1,462 |
@@ -742,4 +742,4 @@ Diff (max vs sum): -8
 | 2024-01-23 | 4.69 | - | 8,066 | 21,835 |
 | 2024-01-24 | 4.69 | - | 8,073 | 21,856 |
 | 2024-01-25 | 4.69 | - | 8,078 | 21,867 |
-| 2024-01-26 | 4.69 | - | 8,087 | 21,884 |
+| 2024-01-26 | 4.69 | - | 8,087 | 21,886 |

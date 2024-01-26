@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 731,
-  "Ranking_Popularity": 270,
+  "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1134,9 +1134,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 233138,
+  "EOS_Progressed": 233140,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32074,6 +32074,11 @@
       "Time": "2024-01-26T20:09:35.7860726+00:00",
       "NumProgressed": 233138,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-26T21:10:12.9077865+00:00",
+      "NumProgressed": 233140,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -32141,7 +32146,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20982
+      "UsersEstimate": 20983
     },
     {
       "ID": "ACH_BASE_18",
@@ -32349,14 +32354,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20982
+      "UsersEstimate": 20983
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 233138,
+      "Progressed": 233140,
       "Completed": 5
     }
   ],
@@ -32364,8 +32369,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-26T15:58:38.7606672+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:35.7860721+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:12.9077862+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:40.6030415+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:35.7862459+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:01.4935284+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:12.9079451+00:00"
 }

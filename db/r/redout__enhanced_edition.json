@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239349,
+  "EOS_Progressed": 239347,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": -79,
+  "EOS_NewPlayers": -77,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29738,6 +29738,11 @@
       "Time": "2024-01-26T20:08:06.7221076+00:00",
       "NumProgressed": 239349,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-26T21:08:44.2072825+00:00",
+      "NumProgressed": 239347,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -29765,7 +29770,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 67018
+      "UsersEstimate": 67017
     },
     {
       "ID": "CENTAUR",
@@ -29837,7 +29842,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47870
+      "UsersEstimate": 47869
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -29973,7 +29978,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52657
+      "UsersEstimate": 52656
     },
     {
       "ID": "TACTICIAN",
@@ -29997,7 +30002,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52657
+      "UsersEstimate": 52656
     },
     {
       "ID": "TUNINGMANIAC",
@@ -30013,22 +30018,22 @@
       "Name": "VANGUARD",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 100527
+      "UsersEstimate": 100526
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239349,
+      "Progressed": 239347,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:08:06.7221073+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:08:44.2072822+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:51.4654608+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:06.7222302+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:22.2222906+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:44.2074128+00:00"
 }

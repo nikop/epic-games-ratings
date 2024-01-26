@@ -2,10 +2,10 @@
   "ID": "3410b859eee74de3afd6cb098661fd5e",
   "Name": "Revive and Prosper - Prologue",
   "ProductSlug": "revive-and-prosper-prequel-bf20c6",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-07-20T08:00:00+00:00",
     "PcReleaseDate": "2023-07-17T23:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-21T22:57:02.5900798+00:00",
   "LastUpdate_AppInfo": "2024-01-22T13:04:52.4620301+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:31.9561141+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:07:40.2893146+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:00.1174933+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:14.5896912+00:00"
 }

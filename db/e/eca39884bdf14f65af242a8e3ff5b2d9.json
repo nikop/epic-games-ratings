@@ -3,12 +3,12 @@
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 554,
-  "Ranking_Popularity": 296,
+  "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 231,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -1891,6 +1891,6 @@
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
   "LastChanged": "2024-01-26T19:58:33.978714+00:00",
   "LastUpdate_AppInfo": "2024-01-22T09:57:01.2389824+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:33.9787156+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:07:41.9212434+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:54.0394953+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:16.5072283+00:00"
 }

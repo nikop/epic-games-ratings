@@ -3,12 +3,12 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 997,
-  "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 348,
+  "Ranking_Popularity": 362,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1917,9 +1917,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 11506,
+  "EOS_Progressed": 11508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12722,6 +12722,11 @@
       "Time": "2024-01-26T20:04:10.2262875+00:00",
       "NumProgressed": 11506,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T21:04:31.4135864+00:00",
+      "NumProgressed": 11508,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12742,7 +12747,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "achievement_11",
@@ -12774,7 +12779,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "achievement_15",
@@ -12822,7 +12827,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "achievement_20",
@@ -12830,7 +12835,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6789
+      "UsersEstimate": 6790
     },
     {
       "ID": "achievement_21",
@@ -12901,7 +12906,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11506,
+      "Progressed": 11508,
       "Completed": 0
     }
   ],
@@ -12909,8 +12914,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-26T19:58:58.791975+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:04:10.226287+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:04:31.413586+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.5430361+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:58.7919754+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:10.226344+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:22.3659167+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:04:31.4136534+00:00"
 }

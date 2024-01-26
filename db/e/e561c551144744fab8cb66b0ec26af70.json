@@ -2,10 +2,10 @@
   "ID": "e561c551144744fab8cb66b0ec26af70",
   "Name": "Spaceport Trading Company",
   "ProductSlug": "starport-trading-company-9b3538",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-12T17:00:00+00:00",
     "PcReleaseDate": "2023-11-08T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-09T21:57:27.1439738+00:00",
   "LastUpdate_AppInfo": "2024-01-26T05:57:14.459567+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:45.6060356+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:03:38.2231094+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:07.8135642+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:03:54.5579507+00:00"
 }

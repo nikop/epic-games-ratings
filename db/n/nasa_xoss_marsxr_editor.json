@@ -2,10 +2,10 @@
   "ID": "805e305079574c5aba74e84032f9948b",
   "Name": "NASA XOSS MarsXR Editor",
   "ProductSlug": "nasa-xoss-marsxr-editor",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:04.8373372+00:00",
   "LastChanged": "2023-03-31T05:58:04.8373373+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:12.5874229+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:02:14.6662422+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:03:21.884097+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:04.0893698+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:03:36.5516087+00:00"
 }

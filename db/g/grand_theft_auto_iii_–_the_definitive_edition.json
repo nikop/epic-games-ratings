@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12550,
+  "EOS_Progressed": 12551,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16533,6 +16533,11 @@
       "Time": "2024-01-26T19:06:47.5407352+00:00",
       "NumProgressed": 12550,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-26T21:05:22.8621593+00:00",
+      "NumProgressed": 12551,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16544,7 +16549,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10416
+      "UsersEstimate": 10417
     },
     {
       "ID": "ACH02",
@@ -16552,7 +16557,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "ACH03",
@@ -16568,7 +16573,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "ACH05",
@@ -16576,7 +16581,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH06",
@@ -16616,7 +16621,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "ACH11",
@@ -16672,7 +16677,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "ACH18",
@@ -16680,7 +16685,7 @@
       "Name": "Not So Fast",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH19",
@@ -16704,7 +16709,7 @@
       "Name": "Splish Splash",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH22",
@@ -16736,7 +16741,7 @@
       "Name": "Right-hand Man",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH26",
@@ -16775,7 +16780,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12550,
+      "Progressed": 12551,
       "Completed": 97
     }
   ],
@@ -16783,8 +16788,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:04:56.0609243+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:05:22.862159+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:11.4109773+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:56.0610608+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:36.5924722+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:22.8622567+00:00"
 }

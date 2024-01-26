@@ -9,19 +9,19 @@ Rating: 4.40 (Ranked 776)
 | Case Closed | 35.00% | ~1,466 |
 | Shovel Night | 35.00% | ~1,466 |
 | Easy As Pie | 33.00% | ~1,382 |
-| Family Lost | 31.00% | ~1,298 |
+| Family Lost | 32.00% | ~1,340 |
 | Treasure Hunt | 29.00% | ~1,215 |
 | Ancient Curse | 27.00% | ~1,131 |
 | Climber | 24.00% | ~1,005 |
 | Hidden Secrets | 24.00% | ~1,005 |
 | Cat Person | 23.00% | ~963 |
 | Mad Scientist | 23.00% | ~963 |
-| Imprisonment | 22.00% | ~921 |
-| Reunion | 22.00% | ~921 |
+| Imprisonment | 22.00% | ~922 |
+| Reunion | 22.00% | ~922 |
 | Dog Person | 18.00% | ~754 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,188 (Ranked 220)  
-Completed: 151 (3.61%) (Ranked 99)  
+Progressed: 4,189 (Ranked 220)  
+Completed: 151 (3.60%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 151 (3.61%) (Ranked 99)
 | 2024-01-23 | 4,159 | 151 |
 | 2024-01-24 | 4,167 | 151 |
 | 2024-01-25 | 4,175 | 151 |
-| 2024-01-26 | 4,188 | 151 |
+| 2024-01-26 | 4,189 | 151 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~218,784 |
-| 50 HEADSHOTS | 31.00% | ~199,479 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,044 |
-| FINISHED CHAPTER 1 | 29.00% | ~186,609 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,131 |
-| 200 HEADSHOTS | 19.00% | ~122,261 |
-| FINISHED CHAPTER 3 | 18.00% | ~115,827 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,522 |
-| FINISH CHAPTER 5 | 13.00% | ~83,653 |
-| FINISH CHAPTER 6 | 11.00% | ~70,783 |
-| CATHARTIC ESCAPISM | 11.00% | ~70,783 |
-| 1000 KILLS | 10.00% | ~64,348 |
+| 100 KILLS | 34.00% | ~218,777 |
+| 50 HEADSHOTS | 31.00% | ~199,474 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,039 |
+| FINISHED CHAPTER 1 | 29.00% | ~186,604 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,127 |
+| 200 HEADSHOTS | 19.00% | ~122,258 |
+| FINISHED CHAPTER 3 | 18.00% | ~115,823 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,519 |
+| FINISH CHAPTER 5 | 13.00% | ~83,650 |
+| FINISH CHAPTER 6 | 11.00% | ~70,781 |
+| CATHARTIC ESCAPISM | 11.00% | ~70,781 |
+| 1000 KILLS | 10.00% | ~64,346 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~25,739 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,870 |
-| FIRST BLOOD | 2.00% | ~12,870 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,869 |
+| FIRST BLOOD | 2.00% | ~12,869 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,435 |
 | OUT OF ORDER | 1.00% | ~6,435 |
 | PACEMAKER | 1.00% | ~6,435 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~643 |
 | WARRIOR IN A GARDEN | 0.10% | ~643 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643,481 (Ranked 32)  
+Progressed: 643,463 (Ranked 32)  
 Completed: 57 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,8 +341,8 @@ Completed: 57 (0.01%) (Ranked 388)
 | 2024-01-25 | 644,198 | 57 |
 | 2024-01-26 | 643,819 | 57 |
 ## Awards
-Max (Great Boss Battles): 515  (Ranked 224)  
-Sum: 623 (Ranked 325)  
+Max (Great Boss Battles): 515  (Ranked 223)  
+Sum: 623 (Ranked 324)  
 Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |

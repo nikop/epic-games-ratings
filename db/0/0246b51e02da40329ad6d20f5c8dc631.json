@@ -2,10 +2,10 @@
   "ID": "0246b51e02da40329ad6d20f5c8dc631",
   "Name": "Brothers: A Tale of Two Sons Remake",
   "ProductSlug": "brothers-a-tale-of-two-sons-remake",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-02-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-23T10:04:16.3711297+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:05:28.8649259+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:06:00.3563879+00:00",
   "LastUpdate_AppInfo": "2024-01-26T05:57:13.3143869+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:22.0178304+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:28.8649287+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:32.6683209+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:06:00.3563914+00:00"
 }

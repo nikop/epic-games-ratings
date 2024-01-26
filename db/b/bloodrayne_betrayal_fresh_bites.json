@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T13:00:00+00:00",
@@ -200,9 +200,9 @@
       "ID": "ChampionOfLight",
       "SetID": "6jf74lf",
       "Name": "Champion of Light",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CoffinKicker",
@@ -385,8 +385,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:36.5147664+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:13.7729473+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.1751709+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:11.6722976+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:36.5147806+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:29.5492683+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:13.772963+00:00"
 }

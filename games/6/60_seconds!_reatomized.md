@@ -5,27 +5,27 @@ Rating: 4.53 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,763 |
-| I will survive! | 91.00% | ~10,646 |
-| All thumbs | 90.00% | ~10,529 |
-| Home, sweet home | 89.00% | ~10,412 |
-| Survivalist | 87.00% | ~10,178 |
-| One way ticket | 81.00% | ~9,476 |
-| Last man standing | 75.00% | ~8,774 |
-| Out of the Bag | 72.00% | ~8,423 |
-| Family guy | 69.00% | ~8,072 |
-| The Dark Side | 65.00% | ~7,604 |
-| Duck and cover! | 60.00% | ~7,019 |
-| Souper! | 59.00% | ~6,902 |
-| Pacifist | 53.00% | ~6,200 |
-| 2-1-6 | 52.00% | ~6,083 |
+| Prepper | 92.00% | ~10,764 |
+| I will survive! | 91.00% | ~10,647 |
+| All thumbs | 90.00% | ~10,530 |
+| Home, sweet home | 89.00% | ~10,413 |
+| Survivalist | 87.00% | ~10,179 |
+| One way ticket | 81.00% | ~9,477 |
+| Last man standing | 75.00% | ~8,775 |
+| Out of the Bag | 72.00% | ~8,424 |
+| Family guy | 69.00% | ~8,073 |
+| The Dark Side | 65.00% | ~7,605 |
+| Duck and cover! | 60.00% | ~7,020 |
+| Souper! | 59.00% | ~6,903 |
+| Pacifist | 53.00% | ~6,201 |
+| 2-1-6 | 52.00% | ~6,084 |
 | A gift | 48.00% | ~5,616 |
 | Girl Power | 41.00% | ~4,797 |
 | What goes around... | 39.00% | ~4,563 |
 | Be Prepared | 34.00% | ~3,978 |
 | Unbreakable | 32.00% | ~3,744 |
+| Gotta get 'em all | 29.00% | ~3,393 |
 | Atomic drill | 29.00% | ~3,393 |
-| Gotta get 'em all | 28.00% | ~3,276 |
 | This is the end | 28.00% | ~3,276 |
 | Disco Roach | 24.00% | ~2,808 |
 | Dawkins Residence | 18.00% | ~2,106 |
@@ -66,7 +66,7 @@ Rating: 4.53 (Ranked 574)
 | Dead Hand | 0.10% | ~12 |
 | Tora! Tora! Tora! | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,699 (Ranked 183)  
+Progressed: 11,700 (Ranked 183)  
 Completed: 3 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 3 (0.03%) (Ranked 369)
 | 2024-01-23 | 11,490 | 1 |
 | 2024-01-24 | 11,584 | 1 |
 | 2024-01-25 | 11,646 | 3 |
-| 2024-01-26 | 11,699 | 3 |
+| 2024-01-26 | 11,700 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

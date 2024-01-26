@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 986,
+  "EOS_Progressed": 988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3119,6 +3119,11 @@
       "Time": "2024-01-26T16:05:28.7528378+00:00",
       "NumProgressed": 986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-26T21:05:51.9325532+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3187,7 +3192,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "REMAKE_002",
@@ -3195,7 +3200,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 692
     },
     {
       "ID": "REMAKE_004",
@@ -3203,7 +3208,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Remake_005",
@@ -3243,7 +3248,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Remake_010",
@@ -3259,7 +3264,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Remake_12",
@@ -3315,7 +3320,7 @@
       "Name": "Disobedient",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Remake_19",
@@ -3354,14 +3359,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 986,
+      "Progressed": 988,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:05:21.1507292+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:05:51.9325527+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:56.0546735+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:21.1507747+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:27.8560393+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:51.9325786+00:00"
 }

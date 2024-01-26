@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1807,9 +1807,9 @@
       "ID": "10MAPPARTS",
       "SetID": "a1angca",
       "Name": "Treasure Hunter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "20AUDIOLOGS",
@@ -1895,9 +1895,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "ALLCOMBAT",
@@ -2175,8 +2175,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:07:38.975355+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:08:13.4225897+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:08.5889349+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:07:38.9753981+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:26.0286133+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:13.4226313+00:00"
 }

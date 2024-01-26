@@ -3,12 +3,12 @@
   "Name": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition",
   "ProductSlug": "south-park-the-fractured-but-whole",
   "Ranking_Rating": 39,
-  "Ranking_Popularity": 309,
+  "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 424,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2017-10-16T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -907,6 +907,6 @@
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
   "LastChanged": "2024-01-23T13:58:36.906654+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:30.9387055+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:56:59.0658518+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:57.059546+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:06.307944+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:23.9910597+00:00"
 }

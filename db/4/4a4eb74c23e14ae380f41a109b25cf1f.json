@@ -2,10 +2,10 @@
   "ID": "4a4eb74c23e14ae380f41a109b25cf1f",
   "Name": "Miwa: The Sacred Fox",
   "ProductSlug": "miwa-the-sacred-fox-89da48",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-06-17T22:00:00+00:00",
@@ -22,26 +22,370 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-26T21:05:33.8060232+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-01-26T21:05:33.8060256+00:00",
+  "TotalAchievements": 42,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Miwa: The Sacred Fox",
+      "SetID": "c95dc43",
+      "Name": "Miwa: The Sacred Fox",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "afterlife",
+      "SetID": "c95dc43",
+      "Name": "Afterlife",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "basic_collector",
+      "SetID": "c95dc43",
+      "Name": "Basic Collector",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "basic_experiencer",
+      "SetID": "c95dc43",
+      "Name": "Basic Experiencer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "edge_of_death",
+      "SetID": "c95dc43",
+      "Name": "Edge of Death",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "edgeofharmony",
+      "SetID": "c95dc43",
+      "Name": "Edge of Harmony",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "enchanter",
+      "SetID": "c95dc43",
+      "Name": "Enchanter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "horse_lover",
+      "SetID": "c95dc43",
+      "Name": "Horse Lover",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kitsune_enchanter",
+      "SetID": "c95dc43",
+      "Name": "Kitsune Enchanter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kitsune_miwa",
+      "SetID": "c95dc43",
+      "Name": "Kitsune Miwa",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "l1_speed",
+      "SetID": "c95dc43",
+      "Name": "Windmill Speedrunner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "l2_speed",
+      "SetID": "c95dc43",
+      "Name": "Mushroomic Speedrunner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "l3_speed",
+      "SetID": "c95dc43",
+      "Name": "Citadel Speedrunner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "l4_speed",
+      "SetID": "c95dc43",
+      "Name": "Sunset Vista Speedrunner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "l5_speed",
+      "SetID": "c95dc43",
+      "Name": "Dragonic Speedrunner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "l6_speed",
+      "SetID": "c95dc43",
+      "Name": "Darkest Speedrunner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "l7_speed",
+      "SetID": "c95dc43",
+      "Name": "Cherry Speedrunner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level10_completed",
+      "SetID": "c95dc43",
+      "Name": "Frozen Hollow",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level11_completed",
+      "SetID": "c95dc43",
+      "Name": "Frozen Abyss",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level12_completed",
+      "SetID": "c95dc43",
+      "Name": "Dark Descent",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level13_completed",
+      "SetID": "c95dc43",
+      "Name": "Luminous Cavern",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level14_completed",
+      "SetID": "c95dc43",
+      "Name": "Cherry Hamlet",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level15_completed",
+      "SetID": "c95dc43",
+      "Name": "Final Chapter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level1_completed",
+      "SetID": "c95dc43",
+      "Name": "Windmill Coastline",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level2_completed",
+      "SetID": "c95dc43",
+      "Name": "Ancient Aqueduct",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level3_completed",
+      "SetID": "c95dc43",
+      "Name": "Aqueduct Abyss",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level4_completed",
+      "SetID": "c95dc43",
+      "Name": "Fungi Caverns",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level5_completed",
+      "SetID": "c95dc43",
+      "Name": "Bloosom Sanctuary",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level6_completed",
+      "SetID": "c95dc43",
+      "Name": "Forgotten Citadel",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level7_completed",
+      "SetID": "c95dc43",
+      "Name": "Sunset Vista",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level8_completed",
+      "SetID": "c95dc43",
+      "Name": "Dragon\u2019s Lair",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "level9_completed",
+      "SetID": "c95dc43",
+      "Name": "Mountain Blossoms",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "master_collector",
+      "SetID": "c95dc43",
+      "Name": "Master Collector",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "neverfadeaway",
+      "SetID": "c95dc43",
+      "Name": "Never Fade Away",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "prologue",
+      "SetID": "c95dc43",
+      "Name": "Village Kamijima",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "rip",
+      "SetID": "c95dc43",
+      "Name": "Rest in Peace",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "secrets",
+      "SetID": "c95dc43",
+      "Name": "Secret Path",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "skilled_collector",
+      "SetID": "c95dc43",
+      "Name": "Skilled Collector",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "skilled_experiencer",
+      "SetID": "c95dc43",
+      "Name": "Skilled Experiencer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "skillful_enchanter",
+      "SetID": "c95dc43",
+      "Name": "Skillful Enchanter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "skillful_kitsune_enchanter",
+      "SetID": "c95dc43",
+      "Name": "Skillful Kitsune Enchanter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "speedrun",
+      "SetID": "c95dc43",
+      "Name": "Last breath",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c95dc43",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-24T12:05:18.0820913+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:05:05.4390151+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:05:33.8060229+00:00",
   "LastUpdate_AppInfo": "2024-01-22T17:57:04.1672977+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:05.5928609+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:05.4390179+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:29.6920746+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:33.8388211+00:00"
 }

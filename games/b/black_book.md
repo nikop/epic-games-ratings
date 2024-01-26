@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~20,026 |
-| Student | 23.00% | ~15,882 |
-| Knower | 16.00% | ~11,049 |
-| Listener | 15.00% | ~10,358 |
+| Initiation | 29.00% | ~20,027 |
+| Student | 23.00% | ~15,884 |
+| Knower | 16.00% | ~11,050 |
+| Listener | 15.00% | ~10,359 |
 | Aspen Tree | 14.00% | ~9,668 |
 | Healer | 14.00% | ~9,668 |
-| Scientist | 12.00% | ~8,286 |
-| Soldier | 12.00% | ~8,286 |
-| Cow Level | 11.00% | ~7,596 |
-| Old Friend | 10.00% | ~6,905 |
-| Herbalist | 10.00% | ~6,905 |
-| Water | 10.00% | ~6,905 |
+| Scientist | 12.00% | ~8,287 |
+| Soldier | 12.00% | ~8,287 |
+| Cow Level | 11.00% | ~7,597 |
+| Old Friend | 10.00% | ~6,906 |
+| Herbalist | 10.00% | ~6,906 |
+| Water | 10.00% | ~6,906 |
 | New Spirits | 9.00% | ~6,215 |
 | Voipel | 9.00% | ~6,215 |
 | Collector | 9.00% | ~6,215 |
 | Wolf | 9.00% | ~6,215 |
 | Black Mage | 9.00% | ~6,215 |
-| Card Player | 8.00% | ~5,524 |
-| Dead Friend | 8.00% | ~5,524 |
-| Pine Tree | 8.00% | ~5,524 |
+| Card Player | 8.00% | ~5,525 |
+| Dead Friend | 8.00% | ~5,525 |
+| Pine Tree | 8.00% | ~5,525 |
 | Worthy | 7.00% | ~4,834 |
 | Black Book | 7.00% | ~4,834 |
 | Black Sorcerer | 7.00% | ~4,834 |
@@ -35,12 +35,12 @@ Number of Ratings: 96  (23.09.2022)
 | Witch | 7.00% | ~4,834 |
 | Researcher | 7.00% | ~4,834 |
 | Savvy | 7.00% | ~4,834 |
-| Encyclopedist | 6.00% | ~4,143 |
-| Vorsa | 6.00% | ~4,143 |
-| Old Spirits | 6.00% | ~4,143 |
-| Sinner | 6.00% | ~4,143 |
-| Folklorist | 6.00% | ~4,143 |
-| Keeper of Knowledge | 6.00% | ~4,143 |
+| Encyclopedist | 6.00% | ~4,144 |
+| Vorsa | 6.00% | ~4,144 |
+| Old Spirits | 6.00% | ~4,144 |
+| Sinner | 6.00% | ~4,144 |
+| Folklorist | 6.00% | ~4,144 |
+| Keeper of Knowledge | 6.00% | ~4,144 |
 | Susanin | 5.00% | ~3,453 |
 | Traveller | 5.00% | ~3,453 |
 | Righteous | 4.00% | ~2,762 |
@@ -57,8 +57,8 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,381 |
 | Word Master | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,054 (Ranked 118)  
-Completed: 78 (0.11%) (Ranked 319)  
+Progressed: 69,060 (Ranked 118)  
+Completed: 79 (0.11%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,7 +210,7 @@ Completed: 78 (0.11%) (Ranked 319)
 | 2024-01-23 | 68,629 | 77 |
 | 2024-01-24 | 68,775 | 77 |
 | 2024-01-25 | 68,921 | 78 |
-| 2024-01-26 | 69,054 | 78 |
+| 2024-01-26 | 69,060 | 79 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

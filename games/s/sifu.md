@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,629 |
 | Project Arena | 1.00% | ~722 |
 | Fight the way you practice | 0.90% | ~650 |
-| Muk Yan Master | 0.80% | ~6,103 |
-| Detective Story | 0.80% | ~6,103 |
+| Muk Yan Master | 0.80% | ~6,104 |
+| Detective Story | 0.80% | ~6,104 |
 | Tiger on Fire | 0.70% | ~5,341 |
 | Source of Flying Daggers | 0.70% | ~5,341 |
 | Iron Money | 0.70% | ~5,341 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,936 (Ranked 26)  
+Progressed: 762,940 (Ranked 26)  
 Completed: 13,009 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,17 +348,17 @@ Completed: 13,009 (1.71%) (Ranked 150)
 | 2024-01-23 | 762,568 | 13,006 |
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
-| 2024-01-26 | 762,936 | 13,009 |
+| 2024-01-26 | 762,940 | 13,009 |
 ## Awards
 Max (Great Boss Battles): 7,295  (Ranked 59)  
-Sum: 12,904 (Ranked 88)  
+Sum: 12,905 (Ranked 88)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,295 |
 | This game has Diverse Characters | 716 |
 | This game has Challenging Combat | 654 |
-| This game has Amazing Storytelling | 629 |
+| This game has Amazing Storytelling | 630 |
 | This game has Amazing Characters | 624 |
 | This game is Highly Recommended | 617 |
 | This game has Quickly Understood Controls | 606 |
@@ -743,4 +743,4 @@ Diff (max vs sum): -29
 | 2024-01-23 | 4.82 | - | 7,269 | 12,868 |
 | 2024-01-24 | 4.82 | - | 7,276 | 12,879 |
 | 2024-01-25 | 4.82 | - | 7,286 | 12,893 |
-| 2024-01-26 | 4.82 | - | 7,295 | 12,904 |
+| 2024-01-26 | 4.82 | - | 7,295 | 12,905 |

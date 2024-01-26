@@ -9,8 +9,8 @@
 | Pigeon | 77.00% | ~110 |
 | Baited | 66.00% | ~94 |
 | "Swoosh" | 59.00% | ~84 |
-| The light at the end of the tunnel | 58.00% | ~83 |
-| Masochistic | 53.00% | ~76 |
+| The light at the end of the tunnel | 59.00% | ~84 |
+| Masochistic | 54.00% | ~77 |
 | Soft skin | 50.00% | ~72 |
 | Splash! | 48.00% | ~69 |
 | Squid game | 42.00% | ~60 |
@@ -32,7 +32,7 @@
 | GG EZ | 17.00% | ~24 |
 | Comeback | 17.00% | ~24 |
 | MayDay! MayDay! | 10.00% | ~14 |
-| Gooooooaaaaal!!! | 7.00% | ~10 |
+| Gooooooaaaaal!!! | 8.00% | ~11 |
 | Sadistic | 1.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |

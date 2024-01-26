@@ -3,12 +3,12 @@
   "Name": "Crysis 2 Remastered",
   "ProductSlug": "crysis-2-remastered",
   "Ranking_Rating": 404,
-  "Ranking_Popularity": 290,
+  "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 414,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-10-15T07:00:00+00:00",
     "PcReleaseDate": "2021-10-15T07:00:00+00:00",
@@ -727,6 +727,6 @@
   "FirstSeen": "2022-07-22T20:18:01.1104791+00:00",
   "LastChanged": "2024-01-22T10:59:21.7336429+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.7327514+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:13.6783035+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:15.3128337+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:23.1159501+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:09:49.9644785+00:00"
 }

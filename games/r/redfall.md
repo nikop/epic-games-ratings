@@ -21,9 +21,9 @@ Rating: 3.67 (Ranked 1,107)
 | Heart Attack | 11.00% | ~266 |
 | Grounded | 10.00% | ~242 |
 | Skin of Their Teeth | 10.00% | ~242 |
+| Neighborhood Revitalization | 8.00% | ~194 |
 | Bad Wiring | 8.00% | ~194 |
-| Neighborhood Revitalization | 7.00% | ~169 |
-| Radio Silence | 7.00% | ~169 |
+| Radio Silence | 8.00% | ~194 |
 | You Clean It Up | 5.00% | ~121 |
 | From the Shadows | 5.00% | ~121 |
 | Helping Hand | 5.00% | ~121 |

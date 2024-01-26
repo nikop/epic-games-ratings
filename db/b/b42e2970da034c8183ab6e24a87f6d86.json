@@ -2,10 +2,10 @@
   "ID": "b42e2970da034c8183ab6e24a87f6d86",
   "Name": "Shuyan Saga",
   "ProductSlug": "shuyan-saga-cd1476",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-09-22T15:00:00+00:00",
     "PcReleaseDate": "2017-08-08T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-29T03:59:20.612686+00:00",
   "LastUpdate_AppInfo": "2024-01-25T10:57:10.276202+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:10.2109615+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:42.6358089+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:27.7213012+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:07.6567272+00:00"
 }

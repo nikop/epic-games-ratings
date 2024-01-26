@@ -2,10 +2,10 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 543,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 467,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.63,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -399,6 +399,11 @@
       "Time": "2024-01-22T18:10:28.8486572+00:00",
       "NumProgressed": 71,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-26T21:10:08.651852+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -408,7 +413,7 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 150,
       "UsersEstimate": 31
     },
@@ -426,7 +431,7 @@
       "Name": "Form Blazing Sword",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
@@ -434,13 +439,13 @@
       "Name": "A Light in Dark Places",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
       "SetID": "329ifed",
       "Name": "Unfortunate Enemies",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 75,
       "UsersEstimate": 14
     },
@@ -448,7 +453,7 @@
       "ID": "Nocturnal_Achivement_4_Avatar",
       "SetID": "329ifed",
       "Name": "Avatar Ascendant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 14
     },
@@ -456,7 +461,7 @@
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 75,
       "UsersEstimate": 14
     },
@@ -464,7 +469,7 @@
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -472,7 +477,7 @@
       "ID": "Nocturnal_Achivement_7_Letter",
       "SetID": "329ifed",
       "Name": "Words Unspoken",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 19
     },
@@ -480,7 +485,7 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 200,
       "UsersEstimate": 14
     },
@@ -488,23 +493,23 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 150,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:31.9058999+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:08.6518516+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:17.915851+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:46.1925516+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:31.9059094+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:00.1893972+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:08.6518613+00:00"
 }

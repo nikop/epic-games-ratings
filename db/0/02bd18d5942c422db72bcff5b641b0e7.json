@@ -2,10 +2,10 @@
   "ID": "02bd18d5942c422db72bcff5b641b0e7",
   "Name": "My Summer Adventure: Memories of Another Life",
   "ProductSlug": "my-summer-adventure-memories-of-another-life-e30d54",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-07-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-30T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-18T08:57:19.4565089+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:20.0893376+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:57:10.2394767+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:40.3466684+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:57:19.4033045+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:04.9609096+00:00"
 }

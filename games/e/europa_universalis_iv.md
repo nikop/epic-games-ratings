@@ -18,7 +18,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,518 |
 | It's all about the money | 0.30% | ~1,518 |
 | Respected | 0.30% | ~1,518 |
-| The Princess is in this Castle | 0.30% | ~1,518 |
 | True Catholic | 0.30% | ~1,518 |
 | Aggressive Expander | 0.20% | ~1,012 |
 | Blockader | 0.20% | ~1,012 |
@@ -27,6 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.20% | ~1,012 |
 | My armies are invincible! | 0.20% | ~1,012 |
 | Royal Authority | 0.20% | ~1,012 |
+| The Princess is in this Castle | 0.20% | ~1,012 |
 | Total Control | 0.20% | ~1,012 |
 | Truly Divine Ruler | 0.20% | ~1,012 |
 | The 52 Garhs | 0.10% | ~506 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~506 |
 | The Zoro-Austrians | 0.10% | ~506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 506,000 (Ranked 42)  
+Progressed: 506,036 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -651,16 +651,16 @@ Completed: 2 (0.00%) (Ranked 414)
 | 2024-01-23 | 504,493 | 2 |
 | 2024-01-24 | 504,991 | 2 |
 | 2024-01-25 | 505,518 | 2 |
-| 2024-01-26 | 506,000 | 2 |
+| 2024-01-26 | 506,036 | 2 |
 ## Awards
 Max (Educational): 7,990  (Ranked 53)  
-Sum: 65,884 (Ranked 25)  
+Sum: 65,896 (Ranked 25)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,990 |
 | This game has Diverse Characters | 7,836 |
-| This game is Highly Recommended | 7,655 |
+| This game is Highly Recommended | 7,667 |
 | This game has Challenging Combat | 7,611 |
 | This game is Extremely Fun | 7,488 |
 | This game is Relaxing | 7,314 |
@@ -1045,4 +1045,4 @@ Diff (max vs sum): 28
 | 2024-01-23 | 4.69 | - | 7,951 | 65,598 |
 | 2024-01-24 | 4.69 | - | 7,962 | 65,697 |
 | 2024-01-25 | 4.69 | - | 7,975 | 65,813 |
-| 2024-01-26 | 4.69 | - | 7,990 | 65,884 |
+| 2024-01-26 | 4.69 | - | 7,990 | 65,896 |

@@ -3,12 +3,12 @@
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 288,
-  "Ranking_Popularity": 225,
+  "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 162,
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -5878,10 +5878,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4374,
       "NumberOfAwardsMax": 503
+    },
+    {
+      "Time": "2024-01-26T21:02:41.6844204+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4375,
+      "NumberOfAwardsMax": 503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4374,
+  "NumberOfAwards": 4375,
   "NumberOfAwardsMax": 503,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -5889,7 +5895,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 445
+      "Count": 446
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5957,8 +5963,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-01-26T02:20:51.8752978+00:00",
+  "LastChanged": "2024-01-26T21:02:41.6844203+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:25.2452746+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:02:36.1544346+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:05:20.2280411+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:02:41.6844207+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:05:50.7747156+00:00"
 }

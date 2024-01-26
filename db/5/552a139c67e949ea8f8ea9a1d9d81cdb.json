@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2000,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5217,6 +5217,11 @@
       "Time": "2024-01-26T17:08:21.6704786+00:00",
       "NumProgressed": 2000,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-26T21:08:08.7225288+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5371,9 +5376,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 220
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5483,9 +5488,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 200
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5515,9 +5520,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "5k00jcd",
       "Name": "Better too much",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5596,20 +5601,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 2000,
+      "Progressed": 2001,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1668,
+      "Progressed": 1669,
       "Completed": 1016
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:06:14.1224222+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:08:08.7225285+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:19.8144856+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:51.7124461+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:06:14.1224865+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:14.6928487+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:08.7225751+00:00"
 }

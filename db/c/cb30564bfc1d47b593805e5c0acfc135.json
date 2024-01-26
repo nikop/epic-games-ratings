@@ -2,10 +2,10 @@
   "ID": "cb30564bfc1d47b593805e5c0acfc135",
   "Name": "BC Kings",
   "ProductSlug": "bc-kings-779bb0",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-01-24T04:00:00+00:00",
     "PcReleaseDate": "2024-01-24T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T04:57:05.8850801+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:22.4362557+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:27.3395658+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:40.9657472+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:04:50.6988153+00:00"
 }

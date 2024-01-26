@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 358)  
+Progressed: 531 (Ranked 358)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,6 +271,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 527 | 0 |
 | 2024-01-24 | 529 | 0 |
 | 2024-01-25 | 530 | 0 |
+| 2024-01-26 | 531 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

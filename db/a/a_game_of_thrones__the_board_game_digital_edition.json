@@ -3,8 +3,8 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 967,
-  "Ranking_Popularity": 355,
-  "Ranking_PopularitySum": 296,
+  "Ranking_Popularity": 354,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 118,
@@ -1452,9 +1452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34376,
+  "EOS_Progressed": 34379,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31782,6 +31782,11 @@
       "Time": "2024-01-26T20:09:29.2644962+00:00",
       "NumProgressed": 34376,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-26T21:10:05.8246791+00:00",
+      "NumProgressed": 34379,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 22,
@@ -31865,7 +31870,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "1025",
@@ -31881,7 +31886,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "1027",
@@ -31913,7 +31918,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6532
     },
     {
       "ID": "1031",
@@ -31929,7 +31934,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13750
+      "UsersEstimate": 13752
     },
     {
       "ID": "1033",
@@ -31945,7 +31950,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "1035",
@@ -31961,22 +31966,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34376,
+      "Progressed": 34379,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:29.2644954+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:05.8246787+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:46.9547696+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:29.2646108+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:09.3365156+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:05.8248352+00:00"
 }

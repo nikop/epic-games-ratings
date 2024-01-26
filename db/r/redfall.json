@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4731,9 +4731,9 @@
       "ID": "Achievement_001",
       "SetID": "6b34g18",
       "Name": "Neighborhood Revitalization",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 194
     },
     {
       "ID": "Achievement_002",
@@ -4883,9 +4883,9 @@
       "ID": "Achievement_021",
       "SetID": "6b34g18",
       "Name": "Radio Silence",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 194
     },
     {
       "ID": "Achievement_022",
@@ -5268,8 +5268,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-26T14:58:39.501364+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:03:55.8281389+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:04:14.7935643+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:22.6192327+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:03:55.8282062+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:58:41.2308588+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:04:14.7936269+00:00"
 }

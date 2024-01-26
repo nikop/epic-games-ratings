@@ -2,10 +2,10 @@
   "ID": "2d89fb7420d8473fa28de88efc7d2f99",
   "Name": "KOKODI",
   "ProductSlug": "kokodi-fee89a",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-26T02:14:40.2721096+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:14.0531478+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:08:14.4188786+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:39.7246761+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:08:53.0434844+00:00"
 }

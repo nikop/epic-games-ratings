@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 4348,
+  "EOS_Progressed": 4349,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -10015,6 +10015,11 @@
       "Time": "2024-01-26T17:10:56.3004205+00:00",
       "NumProgressed": 4348,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-26T21:10:06.6345833+00:00",
+      "NumProgressed": 4349,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -10194,7 +10199,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -10250,7 +10255,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -10274,7 +10279,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -10362,7 +10367,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10394,7 +10399,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10418,7 +10423,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -10434,7 +10439,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10593,13 +10598,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4299,
+      "Progressed": 4300,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4348,
+      "Progressed": 4349,
       "Completed": 11
     }
   ],
@@ -10607,8 +10612,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:09:29.9006346+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:10:06.6345829+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:59:38.7024363+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:09:29.9007195+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:00:08.0452548+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:10:06.6346648+00:00"
 }

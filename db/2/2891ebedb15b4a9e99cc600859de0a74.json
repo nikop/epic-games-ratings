@@ -2,10 +2,10 @@
   "ID": "2891ebedb15b4a9e99cc600859de0a74",
   "Name": "Fantasy World TD",
   "ProductSlug": "fantasy-world-td-851287",
-  "Ranking_EOS_Progress": 854,
+  "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 532,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-17T22:00:00+00:00",
     "PcReleaseDate": "2023-05-17T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-29T04:59:48.4988307+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:42.5601619+00:00",
-  "LastUpdate_Ratings": "2024-01-26T20:03:00.2064491+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:04:07.4291188+00:00"
+  "LastUpdate_Ratings": "2024-01-26T21:03:09.5151624+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:04:28.1591119+00:00"
 }

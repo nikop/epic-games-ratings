@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 167,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -823,9 +823,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4825,
+  "EOS_Progressed": 4826,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13528,6 +13528,11 @@
       "Time": "2024-01-26T20:03:38.5038795+00:00",
       "NumProgressed": 4825,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-26T21:03:54.8149026+00:00",
+      "NumProgressed": 4826,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13683,7 +13688,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "engineermastery",
@@ -13723,7 +13728,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "fourleafclover",
@@ -13755,7 +13760,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "guardianmaster",
@@ -13763,7 +13768,7 @@
       "Name": "Guardian Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "guildpower",
@@ -13907,7 +13912,7 @@
       "Name": "Mythic Power",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "naturaltalent",
@@ -13923,7 +13928,7 @@
       "Name": "Pokerface",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "prestigious",
@@ -13931,7 +13936,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2509
+      "UsersEstimate": 2510
     },
     {
       "ID": "prestigiousx10",
@@ -13963,7 +13968,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "scrollmaster",
@@ -13995,7 +14000,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "thealchemist",
@@ -14027,7 +14032,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "thepowerofawakening",
@@ -14099,7 +14104,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "warmachinesarmy",
@@ -14123,7 +14128,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "worldmap",
@@ -14138,7 +14143,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4825,
+      "Progressed": 4826,
       "Completed": 2
     }
   ],
@@ -14146,8 +14151,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-26T19:58:45.8717898+00:00",
-  "LastChanged_Achievements": "2024-01-26T20:03:38.5038792+00:00",
+  "LastChanged_Achievements": "2024-01-26T21:03:54.8149022+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-26T19:58:45.8717907+00:00",
-  "LastUpdate_Achievements": "2024-01-26T20:03:38.5040064+00:00"
+  "LastUpdate_Ratings": "2024-01-26T20:59:08.1651292+00:00",
+  "LastUpdate_Achievements": "2024-01-26T21:03:54.8150142+00:00"
 }

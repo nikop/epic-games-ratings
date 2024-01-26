@@ -11,7 +11,7 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 36.00% | ~106 |
 | Civilian | 36.00% | ~106 |
 | Creator | 33.00% | ~97 |
-| Military Leader | 31.00% | ~91 |
+| Military Leader | 32.00% | ~94 |
 | Festival-goer | 29.00% | ~85 |
 | Peddler | 27.00% | ~79 |
 | Commander | 26.00% | ~76 |
@@ -30,7 +30,7 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Free as a Bird | 12.00% | ~35 |
-| Treasure Hunter | 9.00% | ~26 |
+| Treasure Hunter | 10.00% | ~29 |
 | Weaponsmith | 9.00% | ~26 |
 | Hotshot | 9.00% | ~26 |
 | Detective | 9.00% | ~26 |
