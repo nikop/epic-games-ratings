@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 261088,
+  "EOS_Progressed": 261090,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28387,6 +28387,11 @@
       "Time": "2024-01-27T01:43:26.9758491+00:00",
       "NumProgressed": 261088,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T02:17:48.4362426+00:00",
+      "NumProgressed": 261090,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28446,7 +28451,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80937
+      "UsersEstimate": 80938
     },
     {
       "ID": "BackHomeNTimes",
@@ -28686,7 +28691,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60050
+      "UsersEstimate": 60051
     },
     {
       "ID": "KillOthers2",
@@ -28845,7 +28850,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 261088,
+      "Progressed": 261090,
       "Completed": 3
     }
   ],
@@ -28853,8 +28858,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-23T04:02:56.023083+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:43:26.9758486+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:17:48.4362421+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:41:57.7974602+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:43:26.9759872+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:16:36.34227+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:17:48.4364352+00:00"
 }

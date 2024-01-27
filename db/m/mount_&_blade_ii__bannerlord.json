@@ -11166,7 +11166,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 97465,
+  "EOS_Progressed": 97466,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1230,
   "EOS_NewCompleters": 0,
@@ -41456,6 +41456,11 @@
       "Time": "2024-01-27T01:50:10.5153096+00:00",
       "NumProgressed": 97465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T02:24:03.0082795+00:00",
+      "NumProgressed": 97466,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -41467,7 +41472,7 @@
       "Name": "Against all odds",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15594
+      "UsersEstimate": 15595
     },
     {
       "ID": "Apple of my eye",
@@ -41507,7 +41512,7 @@
       "Name": "Butterlord",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "Catch",
@@ -41547,7 +41552,7 @@
       "Name": "Duelist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12670
+      "UsersEstimate": 12671
     },
     {
       "ID": "Dynasty",
@@ -41555,7 +41560,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "Entrepreneur",
@@ -41627,7 +41632,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 21442
+      "UsersEstimate": 21443
     },
     {
       "ID": "I can do it",
@@ -41635,7 +41640,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 15594
+      "UsersEstimate": 15595
     },
     {
       "ID": "I spit on your grave",
@@ -41643,7 +41648,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "Jack of All Trades",
@@ -41874,15 +41879,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 97465,
+      "Progressed": 97466,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-26T23:00:17.5416676+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:50:10.5153091+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:24:03.0082791+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:41:37.7056277+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:50:10.5154704+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:14:21.1335384+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:24:03.0084995+00:00"
 }

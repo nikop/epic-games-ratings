@@ -6,25 +6,25 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~734,262 |
-| The Blues | 85.00% | ~630,427 |
-| Fast | 67.00% | ~496,925 |
-| Healthbar | 55.00% | ~407,923 |
+| Out of bed | 99.00% | ~734,263 |
+| The Blues | 85.00% | ~630,428 |
+| Fast | 67.00% | ~496,926 |
+| Healthbar | 55.00% | ~407,924 |
 | Force Cube | 53.00% | ~393,090 |
 | Double Jump | 48.00% | ~356,006 |
-| Regeneration | 47.00% | ~348,589 |
+| Regeneration | 47.00% | ~348,590 |
 | Triple Jump | 43.00% | ~318,922 |
-| Climb the hill | 42.00% | ~311,505 |
+| Climb the hill | 42.00% | ~311,506 |
 | Through the fire pipe | 39.00% | ~289,255 |
 | MacGuffin | 38.00% | ~281,838 |
-| Just once | 37.00% | ~274,421 |
+| Just once | 37.00% | ~274,422 |
 | Armor | 30.00% | ~222,504 |
 | True holy spirit | 28.00% | ~207,670 |
-| That's how electronics work obviously | 27.00% | ~200,253 |
+| That's how electronics work obviously | 27.00% | ~200,254 |
 | Force Cube Catapult | 25.00% | ~185,420 |
 | Holy Sword | 23.00% | ~170,586 |
 | Telefrag | 23.00% | ~170,586 |
-| Freed from prison | 22.00% | ~163,169 |
+| Freed from prison | 22.00% | ~163,170 |
 | Stomp | 21.00% | ~155,753 |
 | Double Health | 19.00% | ~140,919 |
 | Buckle | 18.00% | ~133,502 |
@@ -37,7 +37,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Health Drink | 13.00% | ~96,418 |
 | Helped a star | 13.00% | ~96,418 |
 | Purple Cube | 13.00% | ~96,418 |
-| Strong | 12.00% | ~89,001 |
+| Strong | 12.00% | ~89,002 |
 | Blue King's lair | 11.00% | ~81,585 |
 | Payback | 11.00% | ~81,585 |
 | Got the coins back | 11.00% | ~81,585 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~742 |
 | DLC: Top of the world | 0.10% | ~742 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,679 (Ranked 27)  
+Progressed: 741,680 (Ranked 27)  
 Completed: 785 (0.11%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 785 (0.11%) (Ranked 318)
 | 2024-01-24 | 741,462 | 784 |
 | 2024-01-25 | 741,555 | 785 |
 | 2024-01-26 | 741,665 | 785 |
-| 2024-01-27 | 741,679 | 785 |
+| 2024-01-27 | 741,680 | 785 |
 ## Awards
 Max (Challenging Puzzles): 7,787  (Ranked 55)  
 Sum: 10,179 (Ranked 97)  

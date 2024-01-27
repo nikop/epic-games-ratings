@@ -3667,9 +3667,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47981,
+  "EOS_Progressed": 47982,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -35017,6 +35017,11 @@
       "Time": "2024-01-27T01:44:24.1172462+00:00",
       "NumProgressed": 47981,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2024-01-27T02:18:36.1248329+00:00",
+      "NumProgressed": 47982,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 60,
@@ -35028,7 +35033,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27829
+      "UsersEstimate": 27830
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -35036,7 +35041,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 22071
+      "UsersEstimate": 22072
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -35044,7 +35049,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 27349
+      "UsersEstimate": 27350
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -35092,7 +35097,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11995
+      "UsersEstimate": 11996
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -35100,7 +35105,7 @@
       "Name": "Master of Traps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3838
+      "UsersEstimate": 3839
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_2",
@@ -35108,7 +35113,7 @@
       "Name": "Ignore The Level Designer\u2019s Plan",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3838
+      "UsersEstimate": 3839
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_Completed",
@@ -35164,7 +35169,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 14394
+      "UsersEstimate": 14395
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -35172,7 +35177,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11515
+      "UsersEstimate": 11516
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -35196,7 +35201,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11515
+      "UsersEstimate": 11516
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -35212,7 +35217,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11515
+      "UsersEstimate": 11516
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -35244,7 +35249,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19192
+      "UsersEstimate": 19193
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -35252,7 +35257,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 17273
+      "UsersEstimate": 17274
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -35260,7 +35265,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19672
+      "UsersEstimate": 19673
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -35276,7 +35281,7 @@
       "Name": "Can\u2019t stand to see an Ogre bleed",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3838
+      "UsersEstimate": 3839
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_Completed",
@@ -35292,7 +35297,7 @@
       "Name": "Lifesaver",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3838
+      "UsersEstimate": 3839
     },
     {
       "ID": "ACH_D3_Campaign_Infested_2",
@@ -35300,7 +35305,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9116
+      "UsersEstimate": 9117
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -35308,7 +35313,7 @@
       "Name": "Destroy the thing",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11995
+      "UsersEstimate": 11996
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -35412,7 +35417,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 22071
+      "UsersEstimate": 22072
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -35420,7 +35425,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13914
+      "UsersEstimate": 13915
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -35452,7 +35457,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9116
+      "UsersEstimate": 9117
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -35460,7 +35465,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9116
+      "UsersEstimate": 9117
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -35476,7 +35481,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13914
+      "UsersEstimate": 13915
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -35507,15 +35512,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47981,
+      "Progressed": 47982,
       "Completed": 377
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-23T08:57:48.8794969+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:44:24.1172457+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:18:36.1248325+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.3456906+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:39:09.8764813+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:44:24.1174376+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:13:12.1403078+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:18:36.1250489+00:00"
 }

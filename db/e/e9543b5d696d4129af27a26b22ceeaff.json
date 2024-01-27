@@ -635,9 +635,9 @@
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_WIN_BY_40",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:45:29.1818222+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:19:28.8302768+00:00",
   "LastUpdate_AppInfo": "2024-01-26T05:57:14.0364188+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:37:27.6749541+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:45:29.1818661+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:11:52.0890644+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:19:28.8303019+00:00"
 }

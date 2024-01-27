@@ -497,9 +497,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229563,
+  "EOS_Progressed": 229564,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 978,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32792,6 +32792,11 @@
       "Time": "2024-01-27T01:47:43.9499831+00:00",
       "NumProgressed": 229563,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T02:22:03.5394402+00:00",
+      "NumProgressed": 229564,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -32851,7 +32856,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 128555
+      "UsersEstimate": 128556
     },
     {
       "ID": "Checkmate",
@@ -33051,7 +33056,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 41321
+      "UsersEstimate": 41322
     },
     {
       "ID": "StrangerDanger",
@@ -33106,7 +33111,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 229563,
+      "Progressed": 229564,
       "Completed": 2
     }
   ],
@@ -33114,8 +33119,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-26T01:41:17.5849022+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:47:43.9499824+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:22:03.5394399+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:03.3233579+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:38:44.6535964+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:47:43.9501864+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:12:52.1918566+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:22:03.5396744+00:00"
 }

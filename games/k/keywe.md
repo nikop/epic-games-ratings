@@ -19,9 +19,9 @@
 | Postmasters General | 1.00% | ~2 |
 | Winter Postmasters | 1.00% | ~2 |
 | Off to the Races | 0.50% | ~1 |
+| KeyWe are the Champions | 0.50% | ~1 |
 | Working Overtime | 0.50% | ~1 |
 | Stocking Up | 0.50% | ~1 |
-| KeyWe are the Champions | 0.00% | ~0 |
 | Tournamasters | 0.00% | ~0 |
 | Fully Stocked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

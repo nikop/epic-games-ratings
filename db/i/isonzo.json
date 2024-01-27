@@ -1105,9 +1105,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10058,
+  "EOS_Progressed": 10059,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11605,6 +11605,11 @@
       "Time": "2024-01-26T18:10:02.5425245+00:00",
       "NumProgressed": 10058,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-27T02:23:33.3252938+00:00",
+      "NumProgressed": 10059,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11616,7 +11621,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -11648,7 +11653,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -11784,7 +11789,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3520
+      "UsersEstimate": 3521
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11808,7 +11813,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4526
+      "UsersEstimate": 4527
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11824,7 +11829,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11896,7 +11901,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -11975,7 +11980,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10058,
+      "Progressed": 10059,
       "Completed": 10
     }
   ],
@@ -11983,8 +11988,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-26T17:02:19.0362409+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:34.9595747+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:33.3252933+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:36:05.0745634+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:34.9596777+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:10:46.3873182+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:33.3253591+00:00"
 }

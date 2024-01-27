@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9871,9 +9871,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255811,
+  "EOS_Progressed": 255816,
   "EOS_Completed": 2655,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41851,6 +41851,11 @@
       "Time": "2024-01-27T01:50:18.1158536+00:00",
       "NumProgressed": 255811,
       "NumCompleted": 2655
+    },
+    {
+      "Time": "2024-01-27T02:24:09.771199+00:00",
+      "NumProgressed": 255816,
+      "NumCompleted": 2655
     }
   ],
   "TotalAchievements": 546,
@@ -45606,7 +45611,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "objective_completed_902",
@@ -46229,21 +46234,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222085,
+      "Progressed": 222090,
       "Completed": 4163
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255811,
+      "Progressed": 255816,
       "Completed": 2655
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T22:59:59.7762542+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:50:18.115853+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:24:09.7711985+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:40:12.4108842+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:50:18.1181518+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:14:01.5394736+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:24:09.7735084+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -8569,10 +8569,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 5030,
       "NumberOfAwardsMax": 662
+    },
+    {
+      "Time": "2024-01-27T02:14:03.6463301+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 5031,
+      "NumberOfAwardsMax": 662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5030,
+  "NumberOfAwards": 5031,
   "NumberOfAwardsMax": 662,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8580,7 +8586,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 528
+      "Count": 529
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8643,9 +8649,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 221731,
+  "EOS_Progressed": 221735,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 2827,
+  "EOS_NewPlayers": 2823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41063,6 +41069,11 @@
       "Time": "2024-01-27T01:49:35.5678844+00:00",
       "NumProgressed": 221731,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-27T02:23:33.8355971+00:00",
+      "NumProgressed": 221735,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -41154,7 +41165,7 @@
       "Name": "Stone Walls",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 53215
+      "UsersEstimate": 53216
     },
     {
       "ID": "Achievement_5",
@@ -41201,15 +41212,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 221731,
+      "Progressed": 221735,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-26T22:00:04.3940671+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:35.5678839+00:00",
+  "LastChanged": "2024-01-27T02:14:03.6463299+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:33.8355964+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.4348703+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:40:15.0770249+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:35.5680723+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:14:03.6463305+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:33.8357605+00:00"
 }

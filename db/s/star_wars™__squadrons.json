@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44569,
+  "EOS_Progressed": 44571,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1985,
+  "EOS_NewPlayers": 1980,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15239,6 +15239,11 @@
       "Time": "2024-01-27T01:50:05.3607856+00:00",
       "NumProgressed": 44569,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T02:23:58.6423685+00:00",
+      "NumProgressed": 44571,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -15251,7 +15256,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "achievement_10",
@@ -15355,7 +15360,7 @@
       "Name": "Sound Strategy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "achievement_22",
@@ -15459,7 +15464,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "achievement_34",
@@ -15475,7 +15480,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 42341
+      "UsersEstimate": 42342
     },
     {
       "ID": "achievement_36",
@@ -15491,7 +15496,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "achievement_38",
@@ -15579,7 +15584,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "achievement_5",
@@ -15626,7 +15631,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 44569,
+      "Progressed": 44571,
       "Completed": 3
     }
   ],
@@ -15634,8 +15639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:50:05.360785+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:58.6423683+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.6990258+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:42:41.3754845+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:50:05.3608878+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:17:10.7755953+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:58.6424632+00:00"
 }

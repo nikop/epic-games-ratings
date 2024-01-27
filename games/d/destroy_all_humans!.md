@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 360)  
+Rating: 4.63 (Ranked 361)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,7 +28,7 @@ Number of Ratings: 85  (23.09.2022)
 | Trans-Siberian Express | 27.00% | ~157 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~122 |
 | Arkvoodle Doodle | 19.00% | ~110 |
-| Die Nasty | 18.00% | ~104 |
+| Die Nasty | 19.00% | ~110 |
 | If You Know What I Mean | 17.00% | ~99 |
 | Mash Machine | 17.00% | ~99 |
 | Ouch of Body Experience | 16.00% | ~93 |

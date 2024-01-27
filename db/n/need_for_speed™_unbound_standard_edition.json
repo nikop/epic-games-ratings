@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 57781,
+  "EOS_Progressed": 57782,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 3,
@@ -14943,6 +14943,11 @@
       "Time": "2024-01-27T01:49:28.9829229+00:00",
       "NumProgressed": 57781,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-27T02:23:28.3627027+00:00",
+      "NumProgressed": 57782,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -15043,7 +15048,7 @@
       "Name": "Most Wanted",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 20223
+      "UsersEstimate": 20224
     },
     {
       "ID": "achievement_20",
@@ -15123,7 +15128,7 @@
       "Name": "Teacher\u0027s Pet",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "achievement_3",
@@ -15195,7 +15200,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 48536
+      "UsersEstimate": 48537
     },
     {
       "ID": "achievement_38",
@@ -15211,7 +15216,7 @@
       "Name": "Cool Whip",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 42758
+      "UsersEstimate": 42759
     },
     {
       "ID": "achievement_4",
@@ -15219,7 +15224,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 13867
+      "UsersEstimate": 13868
     },
     {
       "ID": "achievement_40",
@@ -15235,7 +15240,7 @@
       "Name": "Drop the Beat",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 38135
+      "UsersEstimate": 38136
     },
     {
       "ID": "achievement_5",
@@ -15259,7 +15264,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 35246
+      "UsersEstimate": 35247
     },
     {
       "ID": "achievement_8",
@@ -15282,13 +15287,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 57781,
+      "Progressed": 57782,
       "Completed": 63
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:28.9829225+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:28.3627024+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.4566272+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:40:18.3049528+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:28.9830147+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:14:06.1329639+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:28.3627975+00:00"
 }

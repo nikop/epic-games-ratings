@@ -22,8 +22,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | Adira's Love | 34.00% | ~146,411 |
 | Adira's Fear | 33.00% | ~142,105 |
 | Weigh Them Down | 32.00% | ~137,799 |
+| A Heavy Hammer | 31.00% | ~133,493 |
 | Adira's Regret | 31.00% | ~133,493 |
-| A Heavy Hammer | 30.00% | ~129,187 |
 | Quick Draw | 30.00% | ~129,187 |
 | Crossing Over | 29.00% | ~124,880 |
 | Toshi's Fear | 28.00% | ~120,574 |

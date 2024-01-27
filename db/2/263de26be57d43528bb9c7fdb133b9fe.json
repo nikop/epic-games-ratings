@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 108,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 6.48,
   "EosHistory": [
@@ -446,9 +446,9 @@
       "ID": "BOSS_1",
       "SetID": "89ki2f0",
       "Name": "Down the rabbit hole",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BOSS_2",
@@ -478,9 +478,9 @@
       "ID": "BOSS_FINAL",
       "SetID": "89ki2f0",
       "Name": "But at what cost...",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DARKWEB_ALL",
@@ -518,9 +518,9 @@
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MONEY_1K",
@@ -582,9 +582,9 @@
       "ID": "UPGRADES_FIRST",
       "SetID": "89ki2f0",
       "Name": "Better, faster, stronger",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "WEAPONRACK_FIRST",
@@ -605,8 +605,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:45:09.1973382+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:19:12.3496982+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:38:16.9309958+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:45:09.1973586+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:12:30.7334871+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:19:12.3497184+00:00"
 }

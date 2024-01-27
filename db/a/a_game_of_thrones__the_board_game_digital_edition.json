@@ -1452,7 +1452,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34392,
+  "EOS_Progressed": 34393,
   "EOS_Completed": 89,
   "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 1,
@@ -31807,6 +31807,11 @@
       "Time": "2024-01-27T01:49:50.9994173+00:00",
       "NumProgressed": 34392,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-27T02:23:46.7338876+00:00",
+      "NumProgressed": 34393,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 22,
@@ -31890,7 +31895,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "1025",
@@ -31906,7 +31911,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "1027",
@@ -31938,7 +31943,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6534
+      "UsersEstimate": 6535
     },
     {
       "ID": "1031",
@@ -31970,7 +31975,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "1035",
@@ -31986,22 +31991,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34392,
+      "Progressed": 34393,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:50.999417+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:46.7338873+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:38:43.7747506+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:50.9995795+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:12:51.4588347+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:46.7340826+00:00"
 }

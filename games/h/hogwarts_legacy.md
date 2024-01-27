@@ -5,10 +5,10 @@ Rating: 4.75 (Ranked 152)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 33.00% | ~127,951 |
+| The Sort Who Makes an Entrance | 33.00% | ~127,952 |
 | First Class Student | 29.00% | ~112,442 |
-| Troll with the Punches | 27.00% | ~104,687 |
-| A Keen Sense of Spell | 24.00% | ~93,055 |
+| Troll with the Punches | 27.00% | ~104,688 |
+| A Keen Sense of Spell | 24.00% | ~93,056 |
 | A Talent for Spending | 20.00% | ~77,546 |
 | That's a Keeper | 20.00% | ~77,546 |
 | Loom for Improvement | 16.00% | ~62,037 |
@@ -20,15 +20,15 @@ Rating: 4.75 (Ranked 152)
 | The Hallowed Hero | 13.00% | ~50,405 |
 | Grappling with a Graphorn | 12.00% | ~46,528 |
 | The Hero of Hogwarts | 12.00% | ~46,528 |
-| The Spell Master | 11.00% | ~42,650 |
-| Rising From the Ashes | 11.00% | ~42,650 |
+| The Spell Master | 11.00% | ~42,651 |
+| Rising From the Ashes | 11.00% | ~42,651 |
 | Flight the Good Flight | 10.00% | ~38,773 |
 | The Avenging Gazelle | 9.00% | ~34,896 |
 | A Sallow Grave | 9.00% | ~34,896 |
 | Raising Expectations | 9.00% | ~34,896 |
-| Beast Friends | 8.00% | ~31,018 |
-| The Root of the Problem | 8.00% | ~31,018 |
-| The Gryffindor in the Graveyard | 8.00% | ~31,018 |
+| Beast Friends | 8.00% | ~31,019 |
+| The Root of the Problem | 8.00% | ~31,019 |
+| The Gryffindor in the Graveyard | 8.00% | ~31,019 |
 | The Seeker of Knowledge | 7.00% | ~27,141 |
 | The Toast of the Town | 7.00% | ~27,141 |
 | Third Time's a Charm | 7.00% | ~27,141 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 152)
 | The Nature of the Beast | 0.70% | ~2,714 |
 | Collector's Edition | 0.40% | ~1,551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,730 (Ranked 56)  
+Progressed: 387,732 (Ranked 56)  
 Completed: 598 (0.15%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 598 (0.15%) (Ranked 303)
 | 2024-01-24 | 387,280 | 588 |
 | 2024-01-25 | 387,478 | 593 |
 | 2024-01-26 | 387,695 | 598 |
-| 2024-01-27 | 387,730 | 598 |
+| 2024-01-27 | 387,732 | 598 |
 ## Awards
 Max (Character Customization): 32,634  (Ranked 16)  
 Sum: 67,383 (Ranked 24)  

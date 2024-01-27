@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 891)
 | Heart Of Steel | 0.10% | ~45 |
 | Death or Glory | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,885 (Ranked 134)  
+Progressed: 44,887 (Ranked 134)  
 Completed: 30 (0.07%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 30 (0.07%) (Ranked 341)
 | 2024-01-24 | 44,793 | 30 |
 | 2024-01-25 | 44,841 | 30 |
 | 2024-01-26 | 44,880 | 30 |
-| 2024-01-27 | 44,885 | 30 |
+| 2024-01-27 | 44,887 | 30 |
 ## Awards
 Max (Great Boss Battles): 129  (Ranked 354)  
 Sum: 129 (Ranked 461)  

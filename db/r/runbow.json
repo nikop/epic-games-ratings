@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253876,
+  "EOS_Progressed": 253877,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25102,6 +25102,11 @@
       "Time": "2024-01-27T01:49:57.1626369+00:00",
       "NumProgressed": 253876,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-27T02:23:51.8004389+00:00",
+      "NumProgressed": 253877,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -25185,7 +25190,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38081
+      "UsersEstimate": 38082
     },
     {
       "ID": "clearCut",
@@ -25289,7 +25294,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134554
+      "UsersEstimate": 134555
     },
     {
       "ID": "indegestible",
@@ -25417,7 +25422,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58391
+      "UsersEstimate": 58392
     },
     {
       "ID": "thunderstruck",
@@ -25480,7 +25485,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253876,
+      "Progressed": 253877,
       "Completed": 6
     }
   ],
@@ -25488,8 +25493,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:57.162636+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:51.8004386+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:38:56.4472128+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:57.1627705+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:13:01.5522742+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:51.800619+00:00"
 }

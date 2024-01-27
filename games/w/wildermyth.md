@@ -10,10 +10,10 @@ Number of Ratings: 45  (23.09.2022)
 | Me and My Familiar | 9.00% | ~146 |
 | Passing Shadow | 7.00% | ~114 |
 | This Too Shall Pass | 7.00% | ~114 |
+| How Romantic! | 7.00% | ~114 |
 | Cutthroat Competitors | 7.00% | ~114 |
 | Daybreak | 7.00% | ~114 |
 | Gotta Ca... Must Collect All of Them | 6.00% | ~97 |
-| How Romantic! | 6.00% | ~97 |
 | Completing the Look | 4.00% | ~65 |
 | War Endured | 4.00% | ~65 |
 | Core Failure | 4.00% | ~65 |

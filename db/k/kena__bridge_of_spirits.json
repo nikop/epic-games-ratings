@@ -20300,9 +20300,9 @@
       "ID": "ACH_BOSS_WOODSMITH",
       "SetID": "231ghgk",
       "Name": "A Heavy Hammer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 129187
+      "UsersEstimate": 133493
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -20580,8 +20580,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-25T19:59:28.7862934+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:47:56.591639+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:22:13.5457894+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:27.3802595+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:39:48.2281415+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:47:56.5917675+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:13:42.4466005+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:22:13.5459027+00:00"
 }

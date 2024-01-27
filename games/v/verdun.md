@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~55,017 |
-| Worth it | 63.00% | ~44,437 |
-| Eagle Eye | 54.00% | ~38,089 |
+| Setting an example | 78.00% | ~55,019 |
+| Worth it | 63.00% | ~44,438 |
+| Eagle Eye | 54.00% | ~38,090 |
 | Corpseman I | 39.00% | ~27,509 |
-| Blast fishing | 37.00% | ~26,098 |
-| Not alone | 32.00% | ~22,571 |
-| Headhunter I | 26.00% | ~18,339 |
-| Developers, Developers, Developers | 24.00% | ~16,928 |
-| Manual Labour I | 24.00% | ~16,928 |
-| Basic Training | 23.00% | ~16,223 |
+| Blast fishing | 37.00% | ~26,099 |
+| Not alone | 32.00% | ~22,572 |
+| Headhunter I | 26.00% | ~18,340 |
+| Developers, Developers, Developers | 24.00% | ~16,929 |
+| Manual Labour I | 24.00% | ~16,929 |
+| Basic Training | 23.00% | ~16,224 |
 | Furchtlos und Treu | 13.00% | ~9,170 |
 | Gott Mit Uns | 12.00% | ~8,464 |
 | This We'll Defend! | 9.00% | ~6,348 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Battle hardened | 8.00% | ~5,643 |
 | Anker wirf! | 8.00% | ~5,643 |
 | Providentiea Memor | 8.00% | ~5,643 |
-| Semper Fidelis! | 7.00% | ~4,937 |
-| Honneur et Patrie | 7.00% | ~4,937 |
+| Semper Fidelis! | 7.00% | ~4,938 |
+| Honneur et Patrie | 7.00% | ~4,938 |
 | In Treue Fest | 5.00% | ~3,527 |
 | Voor De Koning | 5.00% | ~3,527 |
 | Extreme Headhunter | 5.00% | ~3,527 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~71 |
 | Blood Brother | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,535 (Ranked 117)  
+Progressed: 70,537 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-24 | 70,351 | 4 |
 | 2024-01-25 | 70,436 | 4 |
 | 2024-01-26 | 70,528 | 4 |
-| 2024-01-27 | 70,535 | 4 |
+| 2024-01-27 | 70,537 | 4 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 377)  
 Sum: 844 (Ranked 290)  

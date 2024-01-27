@@ -11236,10 +11236,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21888,
       "NumberOfAwardsMax": 8087
+    },
+    {
+      "Time": "2024-01-27T02:11:40.8883144+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21890,
+      "NumberOfAwardsMax": 8087
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21888,
+  "NumberOfAwards": 21890,
   "NumberOfAwardsMax": 8087,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11301,7 +11307,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1490
+      "Count": 1492
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11316,9 +11322,9 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133763,
+  "EOS_Progressed": 133765,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41656,6 +41662,11 @@
       "Time": "2024-01-27T01:50:07.514495+00:00",
       "NumProgressed": 133763,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T02:24:00.4947466+00:00",
+      "NumProgressed": 133765,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41675,7 +41686,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9363
+      "UsersEstimate": 9364
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41795,7 +41806,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9363
+      "UsersEstimate": 9364
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41827,7 +41838,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9363
+      "UsersEstimate": 9364
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41891,7 +41902,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9363
+      "UsersEstimate": 9364
     },
     {
       "ID": "combat_kill_pillagers",
@@ -42298,21 +42309,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133763,
+      "Progressed": 133765,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8632,
+      "Progressed": 8634,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-26T23:58:36.1023429+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:50:07.5144944+00:00",
+  "LastChanged": "2024-01-27T02:11:40.8883142+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:24:00.4947461+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:37:13.7539902+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:50:07.5146826+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:11:40.8883149+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:24:00.4949488+00:00"
 }

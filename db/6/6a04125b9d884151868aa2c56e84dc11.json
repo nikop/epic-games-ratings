@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118273,
+  "EOS_Progressed": 118312,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 74440,
+  "EOS_NewPlayers": 73952,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1065,6 +1065,11 @@
       "Time": "2024-01-27T01:44:09.0525411+00:00",
       "NumProgressed": 118273,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2024-01-27T02:18:22.9793596+00:00",
+      "NumProgressed": 118312,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2024-01-18T14:03:50.5589777+00:00",
@@ -1093,7 +1098,7 @@
       "Name": "Day Dreamer",
       "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ach_CRank",
@@ -1101,7 +1106,7 @@
       "Name": "Slacker",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "ach_OverlyCautious",
@@ -1109,7 +1114,7 @@
       "Name": "Overly Cautious",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 10645
+      "UsersEstimate": 10648
     },
     {
       "ID": "ach_SpeedRank",
@@ -1125,7 +1130,7 @@
       "Name": "Bouncer",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 67416
+      "UsersEstimate": 67438
     },
     {
       "ID": "ach_gameClear",
@@ -1133,7 +1138,7 @@
       "Name": "Game Cleared",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 11827
+      "UsersEstimate": 11831
     },
     {
       "ID": "ach_lv02",
@@ -1141,7 +1146,7 @@
       "Name": "The Direct Approach",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "ach_lv04",
@@ -1157,7 +1162,7 @@
       "Name": "What Are You Doing Up There?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 21289
+      "UsersEstimate": 21296
     },
     {
       "ID": "ach_lv06",
@@ -1165,7 +1170,7 @@
       "Name": "Not a Drop",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "ach_lv08",
@@ -1181,7 +1186,7 @@
       "Name": "The High Road",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 23655
+      "UsersEstimate": 23662
     },
     {
       "ID": "ach_lv10-2",
@@ -1189,7 +1194,7 @@
       "Name": "The Low Road",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16564
     },
     {
       "ID": "ach_shortcut1",
@@ -1197,7 +1202,7 @@
       "Name": "Shorcut Taker",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4732
     },
     {
       "ID": "ach_yolo",
@@ -1220,7 +1225,7 @@
     {
       "ID": "1ol4jj3",
       "IsBase": true,
-      "Progressed": 118273,
+      "Progressed": 118312,
       "Completed": 56
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2024-01-22T22:59:18.2293453+00:00",
   "FirstSeenAchievements": "2024-01-18T14:03:50.5589776+00:00",
   "LastChanged": "2024-01-26T17:57:51.66759+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:44:09.0525406+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:18:22.9793592+00:00",
   "LastUpdate_AppInfo": "2024-01-25T14:57:17.1579574+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:37:04.0890351+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:44:09.0525565+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:11:33.4898667+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:18:22.9793762+00:00"
 }

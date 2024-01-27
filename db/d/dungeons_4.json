@@ -2897,9 +2897,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 403
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -3154,8 +3154,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-26T15:00:14.1375839+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:34.4317781+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:32.9311975+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:40:20.4575891+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:34.4318331+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:14:07.8344206+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:32.9312562+00:00"
 }

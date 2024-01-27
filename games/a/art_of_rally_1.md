@@ -1,34 +1,34 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.63 (Ranked 360)  
+Rating: 4.63 (Ranked 361)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~349,814 |
-| good drivers have dead flies on the side windows | 32.00% | ~139,925 |
-| keep it tidy | 26.00% | ~113,689 |
-| brail | 26.00% | ~113,689 |
-| car wash | 23.00% | ~100,571 |
-| the artist | 23.00% | ~100,571 |
-| podium | 20.00% | ~87,453 |
-| medium attack | 17.00% | ~74,335 |
-| bicycle race | 6.00% | ~26,236 |
-| grocery-getter | 5.00% | ~21,863 |
+| light attack | 80.00% | ~349,829 |
+| good drivers have dead flies on the side windows | 32.00% | ~139,932 |
+| keep it tidy | 26.00% | ~113,694 |
+| brail | 26.00% | ~113,694 |
+| car wash | 23.00% | ~100,576 |
+| the artist | 23.00% | ~100,576 |
+| podium | 20.00% | ~87,457 |
+| medium attack | 17.00% | ~74,339 |
+| bicycle race | 6.00% | ~26,237 |
+| grocery-getter | 5.00% | ~21,864 |
 | autopilot | 4.00% | ~17,491 |
 | night ride | 4.00% | ~17,491 |
 | snorkel | 4.00% | ~17,491 |
-| rwd only | 3.00% | ~13,118 |
-| where is the stage? | 3.00% | ~13,118 |
-| food tour: pasta | 3.00% | ~13,118 |
-| to finish first, first you must finish | 2.00% | ~8,745 |
-| perkele | 2.00% | ~8,745 |
-| turbo | 2.00% | ~8,745 |
-| if in doubt, flat out! | 2.00% | ~8,745 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,745 |
-| mittens | 2.00% | ~8,745 |
-| food tour: pretzel | 2.00% | ~8,745 |
+| rwd only | 3.00% | ~13,119 |
+| where is the stage? | 3.00% | ~13,119 |
+| food tour: pasta | 3.00% | ~13,119 |
+| to finish first, first you must finish | 2.00% | ~8,746 |
+| perkele | 2.00% | ~8,746 |
+| turbo | 2.00% | ~8,746 |
+| if in doubt, flat out! | 2.00% | ~8,746 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,746 |
+| mittens | 2.00% | ~8,746 |
+| food tour: pretzel | 2.00% | ~8,746 |
 | espresso | 1.00% | ~4,373 |
 | monster | 1.00% | ~4,373 |
 | in like a lamb, out like a lion | 1.00% | ~4,373 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~437 |
 | you're here for a good time, not a long time | 0.10% | ~437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,267 (Ranked 46)  
+Progressed: 437,286 (Ranked 46)  
 Completed: 29 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 29 (0.01%) (Ranked 388)
 | 2024-01-24 | 434,560 | 27 |
 | 2024-01-25 | 435,796 | 29 |
 | 2024-01-26 | 437,143 | 29 |
-| 2024-01-27 | 437,267 | 29 |
+| 2024-01-27 | 437,286 | 29 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
 Sum: 324 (Ranked 381)  

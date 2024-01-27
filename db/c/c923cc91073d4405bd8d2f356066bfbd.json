@@ -312,9 +312,9 @@
       "ID": "CHALLENGER",
       "SetID": "1fek4an",
       "Name": "New Challenger",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CHALLENGER_CHAOS",
@@ -576,9 +576,9 @@
       "ID": "LEVEL_COMPLETE_0_0",
       "SetID": "1fek4an",
       "Name": "Grass",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_COMPLETE_0_12",
@@ -863,8 +863,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:45:14.484878+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:19:16.8415907+00:00",
   "LastUpdate_AppInfo": "2024-01-24T13:03:08.6719123+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:42:03.6765703+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:45:14.4849333+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:16:41.0639243+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:19:16.8416637+00:00"
 }

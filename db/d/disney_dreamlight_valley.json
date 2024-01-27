@@ -6207,9 +6207,9 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 14342,
+  "EOS_Progressed": 14343,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -26332,6 +26332,11 @@
       "Time": "2024-01-27T00:10:17.5203137+00:00",
       "NumProgressed": 14342,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-27T02:23:03.3482267+00:00",
+      "NumProgressed": 14343,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 15,
@@ -26383,7 +26388,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7171
+      "UsersEstimate": 7172
     },
     {
       "ID": "Duty_Bound",
@@ -26431,7 +26436,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9609
+      "UsersEstimate": 9610
     },
     {
       "ID": "Renovator",
@@ -26439,7 +26444,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 7171
+      "UsersEstimate": 7172
     },
     {
       "ID": "Thorn_Cleaner",
@@ -26462,7 +26467,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14342,
+      "Progressed": 14343,
       "Completed": 359
     }
   ],
@@ -26470,8 +26475,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-26T21:02:32.5563621+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:48:58.5780105+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:03.3482262+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:41:48.2161422+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:48:58.5781285+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:16:28.8959646+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:03.3483421+00:00"
 }

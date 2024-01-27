@@ -5,25 +5,25 @@ Rating: 4.71 (Ranked 206)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,939 |
-| First of Many | 12.00% | ~35,944 |
-| Not Your Average Trait | 10.00% | ~29,953 |
-| Expanding Horizons | 9.00% | ~26,958 |
+| The Killing Jar | 13.00% | ~38,941 |
+| First of Many | 12.00% | ~35,945 |
+| Not Your Average Trait | 10.00% | ~29,954 |
+| Expanding Horizons | 9.00% | ~26,959 |
 | Gleaming the Cube | 8.00% | ~23,963 |
 | Quest for Survival | 8.00% | ~23,963 |
 | Familiar Face | 8.00% | ~23,963 |
 | Boss'n Up | 8.00% | ~23,963 |
 | Trait Chaser | 8.00% | ~23,963 |
-| Not So Special Now | 7.00% | ~20,967 |
-| Not a Janitor | 7.00% | ~20,967 |
-| Duality | 7.00% | ~20,967 |
-| Equal Measures | 6.00% | ~17,972 |
-| Blue Goddess | 6.00% | ~17,972 |
-| Top Performer | 6.00% | ~17,972 |
-| Shhh...It's a Secret | 6.00% | ~17,972 |
-| Almost There | 6.00% | ~17,972 |
-| Make Some Room | 6.00% | ~17,972 |
-| Good, But Could Be Better! | 6.00% | ~17,972 |
+| Not So Special Now | 7.00% | ~20,968 |
+| Not a Janitor | 7.00% | ~20,968 |
+| Duality | 7.00% | ~20,968 |
+| Equal Measures | 6.00% | ~17,973 |
+| Blue Goddess | 6.00% | ~17,973 |
+| Top Performer | 6.00% | ~17,973 |
+| Shhh...It's a Secret | 6.00% | ~17,973 |
+| Almost There | 6.00% | ~17,973 |
+| Make Some Room | 6.00% | ~17,973 |
+| Good, But Could Be Better! | 6.00% | ~17,973 |
 | Am I Seeing This? | 5.00% | ~14,977 |
 | Chaos | 5.00% | ~14,977 |
 | Traitor | 5.00% | ~14,977 |
@@ -34,11 +34,11 @@ Rating: 4.71 (Ranked 206)
 | Was This Supposed To Happen? | 5.00% | ~14,977 |
 | The Web | 5.00% | ~14,977 |
 | Scrap Collector | 5.00% | ~14,977 |
-| Madman's Paradise | 4.00% | ~11,981 |
-| The Agenda | 4.00% | ~11,981 |
-| Bad Moon Rising | 4.00% | ~11,981 |
-| Strapped | 4.00% | ~11,981 |
-| All These Traits� | 4.00% | ~11,981 |
+| Madman's Paradise | 4.00% | ~11,982 |
+| The Agenda | 4.00% | ~11,982 |
+| Bad Moon Rising | 4.00% | ~11,982 |
+| Strapped | 4.00% | ~11,982 |
+| All These Traits� | 4.00% | ~11,982 |
 | Red Room | 3.00% | ~8,986 |
 | Tall Tales | 3.00% | ~8,986 |
 | Edgelord | 3.00% | ~8,986 |
@@ -61,7 +61,7 @@ Rating: 4.71 (Ranked 206)
 | You Shall Pass | 0.80% | ~630 |
 | A Foul Feast | 0.60% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,533 (Ranked 65)  
+Progressed: 299,543 (Ranked 65)  
 Completed: 1,268 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,17 +256,17 @@ Completed: 1,268 (0.42%) (Ranked 247)
 | 2024-01-24 | 298,804 | 1,243 |
 | 2024-01-25 | 299,157 | 1,254 |
 | 2024-01-26 | 299,503 | 1,268 |
-| 2024-01-27 | 299,533 | 1,268 |
+| 2024-01-27 | 299,543 | 1,268 |
 ## Awards
 Max (Great Boss Battles): 7,624  (Ranked 56)  
-Sum: 17,628 (Ranked 64)  
+Sum: 17,634 (Ranked 64)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,624 |
 | This game is Highly Recommended | 1,123 |
 | This game has Diverse Characters | 1,096 |
-| This game is Extremely Fun | 1,044 |
+| This game is Extremely Fun | 1,050 |
 | This game has Quickly Understood Controls | 1,038 |
 | This game is Relaxing | 1,038 |
 | This game has Challenging Combat | 1,024 |
@@ -462,3 +462,4 @@ Diff (max vs sum): -8
 | 2024-01-24 | 4.72 | 7,540 | 17,396 |
 | 2024-01-25 | 4.71 | 7,572 | 17,491 |
 | 2024-01-26 | 4.71 | 7,624 | 17,628 |
+| 2024-01-27 | 4.71 | 7,624 | 17,634 |

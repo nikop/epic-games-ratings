@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,7 +967,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667914,
+  "EOS_Progressed": 667915,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -27817,6 +27817,11 @@
       "Time": "2024-01-27T01:49:37.6503294+00:00",
       "NumProgressed": 667914,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-27T02:23:35.6192651+00:00",
+      "NumProgressed": 667915,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27828,7 +27833,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480898
+      "UsersEstimate": 480899
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27836,7 +27841,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387390
+      "UsersEstimate": 387391
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27892,7 +27897,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66791
+      "UsersEstimate": 66792
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -27924,7 +27929,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66791
+      "UsersEstimate": 66792
     },
     {
       "ID": "Achievement_14_Magician",
@@ -27980,7 +27985,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113545
+      "UsersEstimate": 113546
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -28092,7 +28097,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166978
+      "UsersEstimate": 166979
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -28211,15 +28216,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667914,
+      "Progressed": 667915,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:37.6503288+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:35.6192647+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:36:34.0719166+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:37.6504806+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:11:09.1324436+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:35.61948+00:00"
 }

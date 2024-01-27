@@ -21,7 +21,7 @@ Rating: 4.36 (Ranked 822)
 | Cut-Me-Own-Throat | 8.00% | ~19 |
 | Learn Me a Book | 8.00% | ~19 |
 | What we’ve got here is failure to communicate | 8.00% | ~19 |
-| Black Sheep Wall | 6.00% | ~14 |
+| Black Sheep Wall | 7.00% | ~17 |
 | Blinded by Science | 6.00% | ~14 |
 | Let Us Pray | 6.00% | ~14 |
 | The Magnificent Nine | 6.00% | ~14 |
@@ -41,13 +41,13 @@ Rating: 4.36 (Ranked 822)
 | His name is King | 4.00% | ~10 |
 | I started a joke | 4.00% | ~10 |
 | Kingslayer | 4.00% | ~10 |
+| Let us trade with these fine people | 4.00% | ~10 |
 | Naught but a Seamless Victory | 4.00% | ~10 |
 | Vlad the Impaler | 4.00% | ~10 |
 | Battle of the Four Armies | 3.00% | ~7 |
 | Dust and Salt | 3.00% | ~7 |
 | Fighting with Power and Steel | 3.00% | ~7 |
 | Fight Another Day | 3.00% | ~7 |
-| Let us trade with these fine people | 3.00% | ~7 |
 | New Mineland | 3.00% | ~7 |
 | Power Overwhelming | 3.00% | ~7 |
 | Renaissance Man | 3.00% | ~7 |

@@ -9273,9 +9273,9 @@
       "Count": 722
     }
   ],
-  "EOS_Progressed": 810030,
+  "EOS_Progressed": 810040,
   "EOS_Completed": 2645,
-  "EOS_NewPlayers": 3486,
+  "EOS_NewPlayers": 3489,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -41788,6 +41788,11 @@
       "Time": "2024-01-27T01:49:52.9574415+00:00",
       "NumProgressed": 810030,
       "NumCompleted": 2645
+    },
+    {
+      "Time": "2024-01-27T02:23:48.267133+00:00",
+      "NumProgressed": 810040,
+      "NumCompleted": 2645
     }
   ],
   "TotalAchievements": 51,
@@ -41807,7 +41812,7 @@
       "Name": "Making Your Mark",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32401
+      "UsersEstimate": 32402
     },
     {
       "ID": "ach_ammo_ran",
@@ -41815,7 +41820,7 @@
       "Name": "Git Gutte!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56702
+      "UsersEstimate": 56703
     },
     {
       "ID": "ach_anger_management",
@@ -41847,7 +41852,7 @@
       "Name": "Perks of the Job",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32401
+      "UsersEstimate": 32402
     },
     {
       "ID": "ach_bookworm",
@@ -41863,7 +41868,7 @@
       "Name": "Break A Leg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72903
+      "UsersEstimate": 72904
     },
     {
       "ID": "ach_contender",
@@ -41895,7 +41900,7 @@
       "Name": "Slayer Squad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32401
+      "UsersEstimate": 32402
     },
     {
       "ID": "ach_explorer",
@@ -41919,7 +41924,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64802
+      "UsersEstimate": 64803
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -41943,7 +41948,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64802
+      "UsersEstimate": 64803
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -41951,7 +41956,7 @@
       "Name": "Friends Like These",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56702
+      "UsersEstimate": 56703
     },
     {
       "ID": "ach_hotel_california",
@@ -41959,7 +41964,7 @@
       "Name": "Hotel California",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81003
+      "UsersEstimate": 81004
     },
     {
       "ID": "ach_impressive_aim",
@@ -41999,7 +42004,7 @@
       "Name": "Apex Predator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56702
+      "UsersEstimate": 56703
     },
     {
       "ID": "ach_knowledgeable",
@@ -42007,7 +42012,7 @@
       "Name": "Zombologist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32401
+      "UsersEstimate": 32402
     },
     {
       "ID": "ach_legendary",
@@ -42015,7 +42020,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32401
+      "UsersEstimate": 32402
     },
     {
       "ID": "ach_magnum_opus",
@@ -42047,7 +42052,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32401
+      "UsersEstimate": 32402
     },
     {
       "ID": "ach_salvation",
@@ -42079,7 +42084,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56702
+      "UsersEstimate": 56703
     },
     {
       "ID": "ach_survival_expert",
@@ -42111,7 +42116,7 @@
       "Name": "Our True Nature",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 32401
+      "UsersEstimate": 32402
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -42135,7 +42140,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89103
+      "UsersEstimate": 89104
     },
     {
       "ID": "ach_well_known_survivor",
@@ -42159,7 +42164,7 @@
       "Name": "One of Us",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "ach_dark_magic",
@@ -42199,20 +42204,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 810030,
+      "Progressed": 810040,
       "Completed": 2645
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 135574,
+      "Progressed": 135584,
       "Completed": 36814
     }
   ],
@@ -42220,8 +42225,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-27T01:39:46.0162648+00:00",
-  "LastChanged_Achievements": "2024-01-27T01:49:52.9574413+00:00",
+  "LastChanged_Achievements": "2024-01-27T02:23:48.2671328+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.3560603+00:00",
-  "LastUpdate_Ratings": "2024-01-27T01:39:46.0162658+00:00",
-  "LastUpdate_Achievements": "2024-01-27T01:49:52.9575811+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:13:40.7362063+00:00",
+  "LastUpdate_Achievements": "2024-01-27T02:23:48.26731+00:00"
 }
