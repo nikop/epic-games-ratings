@@ -11328,7 +11328,7 @@
       "Count": 1116
     }
   ],
-  "EOS_Progressed": 133772,
+  "EOS_Progressed": 133777,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
@@ -41688,6 +41688,11 @@
       "Time": "2024-01-27T06:11:46.0010718+00:00",
       "NumProgressed": 133772,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T07:10:50.086328+00:00",
+      "NumProgressed": 133777,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41699,7 +41704,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41715,15 +41720,15 @@
       "Name": "It Rings a Bell",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
       "SetID": "64l4lke",
       "Name": "A Life Well Lived",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 1070
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -41875,7 +41880,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "combat_kill_gaunts",
@@ -41891,7 +41896,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -41899,7 +41904,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41915,7 +41920,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "combat_kill_librarian",
@@ -41971,7 +41976,7 @@
       "Name": "It Happens",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41995,7 +42000,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -42019,7 +42024,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "driving_distance_easy",
@@ -42051,7 +42056,7 @@
       "Name": "Autodidact",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12039
+      "UsersEstimate": 12040
     },
     {
       "ID": "hero_story_complete_all",
@@ -42059,7 +42064,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "hero_story_complete_any",
@@ -42091,7 +42096,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -42107,7 +42112,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8026
+      "UsersEstimate": 8027
     },
     {
       "ID": "inn_visit_all_variants",
@@ -42115,7 +42120,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -42179,7 +42184,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "run_victory_act05",
@@ -42187,7 +42192,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -42235,7 +42240,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "combat_kill_collector",
@@ -42243,7 +42248,7 @@
       "Name": "This guy... again?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -42265,9 +42270,9 @@
       "ID": "combat_land_riposte_dmg_threshold_duelist",
       "SetID": "d3bcpc8",
       "Name": "Slap on the Wrist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 173
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -42291,7 +42296,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "quest_complete_crusader",
@@ -42323,28 +42328,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133772,
+      "Progressed": 133777,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8641,
+      "Progressed": 8646,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-27T03:57:48.4116369+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:11:46.0010714+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:10:50.0863278+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:58:31.0648946+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:11:46.0012436+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:58:26.6172671+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:10:50.0865372+00:00"
 }

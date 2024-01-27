@@ -1325,9 +1325,9 @@
       "ID": "Ach-01-bzukavec",
       "SetID": "2pjo9pi",
       "Name": "Bzukavec",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "Ach-01-jepice",
@@ -1381,9 +1381,9 @@
       "ID": "Ach-02-nosal",
       "SetID": "2pjo9pi",
       "Name": "Nosal",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "Ach-02-orchestrion",
@@ -1740,8 +1740,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:10:46.859893+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:10:03.9795112+00:00",
   "LastUpdate_AppInfo": "2024-01-24T23:57:00.6054559+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:59:27.0800308+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:10:46.8599338+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:59:07.3678327+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:10:03.9795442+00:00"
 }

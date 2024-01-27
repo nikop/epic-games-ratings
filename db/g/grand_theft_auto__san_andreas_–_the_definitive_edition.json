@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2713,9 +2713,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 19874,
+  "EOS_Progressed": 19875,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21613,6 +21613,11 @@
       "Time": "2024-01-27T06:11:42.0784663+00:00",
       "NumProgressed": 19874,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-27T07:10:46.8860636+00:00",
+      "NumProgressed": 19875,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 35,
@@ -21624,7 +21629,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16098
+      "UsersEstimate": 16099
     },
     {
       "ID": "ACH02",
@@ -21656,7 +21661,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH06",
@@ -21696,7 +21701,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH11",
@@ -21704,7 +21709,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "ACH12",
@@ -21712,7 +21717,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH13",
@@ -21776,7 +21781,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH21",
@@ -21800,7 +21805,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 5167
+      "UsersEstimate": 5168
     },
     {
       "ID": "ACH24",
@@ -21824,7 +21829,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH27",
@@ -21832,7 +21837,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH28",
@@ -21856,7 +21861,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH31",
@@ -21872,7 +21877,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH33",
@@ -21896,14 +21901,14 @@
       "Name": "I Ain\u0027t No Buster",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19874,
+      "Progressed": 19875,
       "Completed": 84
     }
   ],
@@ -21911,8 +21916,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-26T20:59:50.8505759+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:11:42.0784658+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:10:46.8860634+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:01:03.2850803+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:11:42.0785558+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:00:17.8798853+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:10:46.8861443+00:00"
 }

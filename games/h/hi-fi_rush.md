@@ -28,8 +28,8 @@ Rating: 4.85 (Ranked 39)
 | Time to pay up! | 14.00% | ~2,484 |
 | I look cool. But I can look COOLER. | 14.00% | ~2,484 |
 | Who's the boss now? | 13.00% | ~2,306 |
+| I have to read these things? | 13.00% | ~2,306 |
 | Perfecter Parry-er! | 13.00% | ~2,306 |
-| I have to read these things? | 12.00% | ~2,129 |
 | NOW we got a kickass hideout! | 10.00% | ~1,626 |
 | There's such a thing as TOO helpful | 9.00% | ~1,597 |
 | Well that was a rush! | 8.00% | ~1,419 |

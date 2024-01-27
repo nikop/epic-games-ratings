@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~89,110 |
-| Hotel California | 10.00% | ~81,009 |
-| Break A Leg | 9.00% | ~72,908 |
+| Welcome To Hell-A | 11.00% | ~89,112 |
+| Hotel California | 10.00% | ~81,011 |
+| Break A Leg | 9.00% | ~72,910 |
 | Coup de Grâce | 8.00% | ~64,808 |
 | Hazardous Materials | 8.00% | ~64,808 |
 | Git Gutte! | 7.00% | ~56,707 |
@@ -39,7 +39,7 @@ Rating: 4.54 (Ranked 553)
 | Max Headroom | 3.00% | ~24,303 |
 | Go, Bobcats! | 3.00% | ~24,303 |
 | Rising Star | 3.00% | ~24,303 |
-| One of Us | 3.00% | ~4,069 |
+| One of Us | 3.00% | ~4,070 |
 | Make it So | 2.00% | ~16,202 |
 | On Safari | 2.00% | ~16,202 |
 | Smorgasbord | 2.00% | ~16,202 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 553)
 | Bucket List | 0.10% | ~810 |
 | Wilhelm | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,094 (Ranked 23)  
+Progressed: 810,106 (Ranked 23)  
 Completed: 2,645 (0.33%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 2,645 (0.33%) (Ranked 263)
 | 2024-01-24 | 809,133 | 2,632 |
 | 2024-01-25 | 809,531 | 2,643 |
 | 2024-01-26 | 809,982 | 2,645 |
-| 2024-01-27 | 810,094 | 2,646 |
+| 2024-01-27 | 810,106 | 2,646 |
 ## Awards
 Max (Great Boss Battles): 10,970  (Ranked 39)  
 Sum: 16,945 (Ranked 68)  

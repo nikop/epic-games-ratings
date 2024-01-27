@@ -239,9 +239,9 @@
       "ID": "ACHIEVEMENT_Buff",
       "SetID": "70j9o42",
       "Name": "Pump You Up",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
@@ -359,9 +359,9 @@
       "ID": "ACHIEVEMENT_Lilianna_Respect",
       "SetID": "70j9o42",
       "Name": "Find Out What It Means To Me",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Love_Machine",
@@ -518,8 +518,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:04:14.785989+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:03:52.5584066+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.2625033+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:57:04.8324687+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:04:14.7860225+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:57:22.8373284+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:03:52.5584323+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "33fcce6151b249118a2b7d79c1dfe6b1",
   "Name": "Lil\u0027 Guardsman",
   "ProductSlug": "lil-guardsman-3cf46c",
-  "Ranking_EOS_Progress": 676,
+  "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -79,6 +79,11 @@
       "Time": "2024-01-27T00:06:57.6137436+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T07:06:02.7681029+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T22:03:25.4967944+00:00",
@@ -89,7 +94,7 @@
       "ID": "AllianceMarvagh",
       "SetID": "8j3le2g",
       "Name": "Alliance Chosen: Marvagh",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "BattleWonByAir",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Air",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -113,7 +118,7 @@
       "ID": "BattleWonByLand",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Land",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -121,7 +126,7 @@
       "ID": "BattleWonBySea",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Sea",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "CompleteLevel10",
       "SetID": "8j3le2g",
       "Name": "The Night Shift Pt. 2",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "CompleteLevel11",
       "SetID": "8j3le2g",
       "Name": "The Final Countdown",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -153,7 +158,7 @@
       "ID": "CompleteLevel2",
       "SetID": "8j3le2g",
       "Name": "The Envoys Arrive",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -161,7 +166,7 @@
       "ID": "CompleteLevel3",
       "SetID": "8j3le2g",
       "Name": "Let\u0027s Play GoblinBall",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -169,7 +174,7 @@
       "ID": "CompleteLevel4",
       "SetID": "8j3le2g",
       "Name": "The Princess Is Missing",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "CompleteLevel5",
       "SetID": "8j3le2g",
       "Name": "The Night Shift",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -201,7 +206,7 @@
       "ID": "CompleteLevel8",
       "SetID": "8j3le2g",
       "Name": "Wartime Lil",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -209,7 +214,7 @@
       "ID": "CompleteLevel9",
       "SetID": "8j3le2g",
       "Name": "A Spy Among Goblins",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -217,7 +222,7 @@
       "ID": "DreamMarvaghWedding",
       "SetID": "8j3le2g",
       "Name": "Dream Marvagh Wedding",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -233,7 +238,7 @@
       "ID": "GameOver",
       "SetID": "8j3le2g",
       "Name": "Oh my god, you killed Lil! You...",
-      "Percentage": 45,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -241,7 +246,7 @@
       "ID": "GhostFinder",
       "SetID": "8j3le2g",
       "Name": "Ghost Finder",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -257,7 +262,7 @@
       "ID": "GotTheBestEnding",
       "SetID": "8j3le2g",
       "Name": "Got the best ending!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -297,7 +302,7 @@
       "ID": "PerfectLevel10",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 10",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -305,7 +310,7 @@
       "ID": "PerfectLevel11",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 11",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -313,7 +318,7 @@
       "ID": "PerfectLevel2",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 2",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -321,7 +326,7 @@
       "ID": "PerfectLevel3",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 3",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -329,7 +334,7 @@
       "ID": "PerfectLevel4",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 4",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -353,7 +358,7 @@
       "ID": "PerfectLevel8",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 8",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -361,7 +366,7 @@
       "ID": "PerfectLevel9",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 9",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -385,7 +390,7 @@
       "ID": "SmeagolGary",
       "SetID": "8j3le2g",
       "Name": "You Saved Gary!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -393,7 +398,7 @@
       "ID": "SprawlUndefeated",
       "SetID": "8j3le2g",
       "Name": "Sprawl Undefeated!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 85,
       "UsersEstimate": 1
     },
@@ -409,7 +414,7 @@
       "ID": "TripleBarf",
       "SetID": "8j3le2g",
       "Name": "Triple Barf!",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -449,7 +454,7 @@
       "ID": "VillainSpeechSmaggleSlaves",
       "SetID": "8j3le2g",
       "Name": "Villain Speech: Smaggle Slaves!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -457,7 +462,7 @@
       "ID": "WarriorChampion",
       "SetID": "8j3le2g",
       "Name": "Warrior Champion!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -474,14 +479,14 @@
     {
       "ID": "8j3le2g",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:07:01.1966925+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:06:02.7681027+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:00:58.3848079+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:07:01.1967568+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:00:14.2956775+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:06:02.7681391+00:00"
 }

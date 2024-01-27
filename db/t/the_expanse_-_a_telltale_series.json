@@ -373,7 +373,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19311,
+  "EOS_Progressed": 19312,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -18323,6 +18323,11 @@
       "Time": "2024-01-27T06:05:15.9286356+00:00",
       "NumProgressed": 19311,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-27T07:04:40.7050419+00:00",
+      "NumProgressed": 19312,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18399,7 +18404,7 @@
       "Name": "Spore Taste",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "18",
@@ -18607,20 +18612,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19311,
+      "Progressed": 19312,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5265,
+      "Progressed": 5266,
       "Completed": 1410
     }
   ],
@@ -18628,8 +18633,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:05:15.9286352+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:04:40.7050416+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:57:58.4062605+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:05:15.9287536+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:58:02.8016536+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:04:40.7052036+00:00"
 }

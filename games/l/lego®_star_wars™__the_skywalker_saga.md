@@ -6,20 +6,20 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,454 |
-| ''I don't like you either!'' | 77.00% | ~46,083 |
-| ''Impressive, most impressive'' | 69.00% | ~41,295 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,295 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,455 |
+| ''I don't like you either!'' | 77.00% | ~46,084 |
+| ''Impressive, most impressive'' | 69.00% | ~41,296 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,296 |
 | The Phantom Menace | 56.00% | ~33,515 |
 | ''Aggressive Negotiations'' | 56.00% | ~33,515 |
 | ''I can fly anything'' | 54.00% | ~32,318 |
-| ''And who gave you permission...?'' | 51.00% | ~30,522 |
+| ''And who gave you permission...?'' | 51.00% | ~30,523 |
 | A New Hope | 45.00% | ~26,932 |
-| Attack of the Clones | 44.00% | ~26,333 |
-| Revenge of the Sith | 38.00% | ~22,742 |
-| ''A fine addition to my collection'' | 36.00% | ~21,545 |
+| Attack of the Clones | 44.00% | ~26,334 |
+| Revenge of the Sith | 38.00% | ~22,743 |
+| ''A fine addition to my collection'' | 36.00% | ~21,546 |
 | The Empire Strikes Back | 35.00% | ~20,947 |
-| Return of the Jedi | 30.00% | ~17,954 |
+| Return of the Jedi | 30.00% | ~17,955 |
 | The Force Awakens | 25.00% | ~14,962 |
 | The Last Jedi | 21.00% | ~12,568 |
 | The Rise of Skywalker | 19.00% | ~11,371 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~598 |
 | ''I've never seen a real one!'' | 0.90% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,848 (Ranked 121)  
+Progressed: 59,849 (Ranked 121)  
 Completed: 266 (0.44%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 266 (0.44%) (Ranked 243)
 | 2024-01-24 | 59,794 | 265 |
 | 2024-01-25 | 59,813 | 265 |
 | 2024-01-26 | 59,842 | 266 |
-| 2024-01-27 | 59,848 | 266 |
+| 2024-01-27 | 59,849 | 266 |
 ## Awards
 Max (Great Boss Battles): 2,522  (Ranked 110)  
 Sum: 6,896 (Ranked 135)  

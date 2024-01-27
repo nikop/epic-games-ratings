@@ -12,9 +12,9 @@
 | Masu-ter Angler | 16.00% | ~7 |
 | Handyman Extraordinaire | 16.00% | ~7 |
 | Just Hoverin' Along | 14.00% | ~6 |
+| What's That Smell? | 14.00% | ~6 |
+| It's Alive! | 14.00% | ~6 |
 | Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~5 |
-| What's That Smell? | 12.00% | ~5 |
-| It's Alive! | 12.00% | ~5 |
 | A New Time | 9.00% | ~4 |
 | My Fair Ladybug | 9.00% | ~4 |
 | Farm Life! | 9.00% | ~4 |

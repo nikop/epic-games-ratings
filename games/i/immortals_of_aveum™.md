@@ -5,8 +5,8 @@ Rating: 4.19 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,220 |
-| Battlefields Have Memories | 82.00% | ~2,967 |
+| Unforeseen | 89.00% | ~3,221 |
+| Battlefields Have Memories | 82.00% | ~2,968 |
 | Enlisted | 76.00% | ~2,750 |
 | Maybe Engage a Little | 71.00% | ~2,569 |
 | No More Names | 55.00% | ~1,990 |
@@ -17,11 +17,11 @@ Rating: 4.19 (Ranked 985)
 | All the Major Food Groups | 28.00% | ~1,013 |
 | Socialite | 26.00% | ~941 |
 | Beggars Would Ride | 26.00% | ~941 |
-| Control is an Illusion | 24.00% | ~868 |
+| Control is an Illusion | 24.00% | ~869 |
 | The Means to Save It | 22.00% | ~796 |
 | Resilience to Sin | 20.00% | ~724 |
-| A Familiar Nest | 19.00% | ~687 |
-| Periapt Alizarin | 19.00% | ~687 |
+| A Familiar Nest | 19.00% | ~688 |
+| Periapt Alizarin | 19.00% | ~688 |
 | Geas Aristeya | 18.00% | ~651 |
 | A Perfect Cycle | 17.00% | ~615 |
 | Recruit | 17.00% | ~615 |
@@ -29,8 +29,8 @@ Rating: 4.19 (Ranked 985)
 | Lights Army | 12.00% | ~434 |
 | Periapt Cerulean | 10.00% | ~362 |
 | Good Boy | 10.00% | ~362 |
-| Periapt Viridian | 8.00% | ~289 |
-| Shroudfane Explorer | 8.00% | ~289 |
+| Periapt Viridian | 8.00% | ~290 |
+| Shroudfane Explorer | 8.00% | ~290 |
 | Best Dressed | 7.00% | ~253 |
 | Kitted Out | 6.00% | ~217 |
 | Armaments Gules | 6.00% | ~217 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 985)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,618 (Ranked 230)  
+Progressed: 3,619 (Ranked 230)  
 Completed: 6 (0.17%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 6 (0.17%) (Ranked 298)
 | 2024-01-24 | 3,602 | 5 |
 | 2024-01-25 | 3,608 | 6 |
 | 2024-01-26 | 3,618 | 6 |
+| 2024-01-27 | 3,619 | 6 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 568)  
 Sum: 66 (Ranked 504)  

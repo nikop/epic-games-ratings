@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 991,
+  "EOS_Progressed": 992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3129,6 +3129,11 @@
       "Time": "2024-01-26T22:05:43.8360431+00:00",
       "NumProgressed": 991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T07:06:25.1259587+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3197,7 +3202,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "REMAKE_002",
@@ -3357,21 +3362,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 991,
+      "Progressed": 992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:07:29.7302508+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:06:25.1259585+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:01:51.8293443+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:07:29.7302821+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:00:53.9699964+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:06:25.1260145+00:00"
 }

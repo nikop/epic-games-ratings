@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3618,
+  "EOS_Progressed": 3619,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6255,6 +6255,11 @@
       "Time": "2024-01-26T18:10:25.5851741+00:00",
       "NumProgressed": 3618,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-27T07:10:48.5311932+00:00",
+      "NumProgressed": 3619,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6267,7 +6272,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "achievement_10",
@@ -6275,7 +6280,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "achievement_11",
@@ -6299,7 +6304,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "achievement_14",
@@ -6355,7 +6360,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "achievement_20",
@@ -6483,7 +6488,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "achievement_46",
@@ -6491,7 +6496,7 @@
       "Name": "Periapt Viridian",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_48",
@@ -6555,7 +6560,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_6",
@@ -6642,7 +6647,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3618,
+      "Progressed": 3619,
       "Completed": 6
     }
   ],
@@ -6650,8 +6655,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-27T00:01:24.9956234+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:11:44.1601907+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:10:48.531193+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:01:22.1397602+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:11:44.1602407+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:00:32.0615956+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:10:48.5312541+00:00"
 }

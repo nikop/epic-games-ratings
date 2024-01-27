@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -521,7 +521,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12302,
+  "EOS_Progressed": 12304,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
@@ -6316,6 +6316,11 @@
       "Time": "2024-01-27T05:11:24.4546569+00:00",
       "NumProgressed": 12302,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T07:10:50.1753942+00:00",
+      "NumProgressed": 12304,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6328,7 +6333,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "03_TheStolenStar",
@@ -6336,7 +6341,7 @@
       "Name": "Stolen Star",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6440,7 +6445,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "17_TheExemplar",
@@ -6456,7 +6461,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6464,7 +6469,7 @@
       "Name": "Void Wolf",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -6488,7 +6493,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "23_DynastyRestored",
@@ -6536,7 +6541,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6576,7 +6581,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6584,7 +6589,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6640,7 +6645,7 @@
       "Name": "Jungle Heat",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6680,7 +6685,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "47_AFlame",
@@ -6694,9 +6699,9 @@
       "ID": "48_TheUnexpectedCompany",
       "SetID": "37a94m8",
       "Name": "Unexpected Company",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 74
     },
     {
       "ID": "49_HowDidItAllEnd",
@@ -6847,7 +6852,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12302,
+      "Progressed": 12304,
       "Completed": 1
     }
   ],
@@ -6855,8 +6860,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-26T17:59:53.5809851+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:11:46.1024434+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:10:50.175394+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:01:30.0339996+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:11:46.1025188+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:00:37.5898674+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:10:50.1754531+00:00"
 }

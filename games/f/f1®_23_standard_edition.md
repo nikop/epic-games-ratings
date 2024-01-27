@@ -15,7 +15,7 @@ Rating: 4.65 (Ranked 327)
 | Sharing the Love | 34.00% | ~6,380 |
 | Hitting a Season | 29.00% | ~5,442 |
 | A Dozen Pieces | 26.00% | ~4,879 |
-| Making History | 25.00% | ~4,691 |
+| Making History | 26.00% | ~4,879 |
 | Network Success | 24.00% | ~4,504 |
 | Challenge Yourself | 24.00% | ~4,504 |
 | Writing a new Chapter | 20.00% | ~3,753 |

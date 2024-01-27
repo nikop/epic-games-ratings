@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -13556,9 +13556,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2306
     },
     {
       "ID": "Ach022",
@@ -13979,8 +13979,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-25T07:57:37.7523595+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:06:19.144272+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:05:29.7169178+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:59:15.7805401+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:06:19.1444017+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:58:59.2350861+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:05:29.7170153+00:00"
 }

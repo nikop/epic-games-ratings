@@ -6,27 +6,27 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,990 |
-| Photogenic | 82.00% | ~8,572 |
+| Let's Get This Party Started | 86.00% | ~8,991 |
+| Photogenic | 82.00% | ~8,573 |
 | Surge Gauntlet Jockey | 79.00% | ~8,259 |
-| Plug It In | 78.00% | ~8,154 |
-| Adventure Time | 74.00% | ~7,736 |
-| Playing With Power | 72.00% | ~7,527 |
+| Plug It In | 78.00% | ~8,155 |
+| Adventure Time | 74.00% | ~7,737 |
+| Playing With Power | 72.00% | ~7,528 |
 | Coup d'Etat | 55.00% | ~5,750 |
-| You're Fired | 54.00% | ~5,645 |
+| You're Fired | 54.00% | ~5,646 |
 | Get Furious | 53.00% | ~5,541 |
-| Hacks In Stacks | 52.00% | ~5,436 |
+| Hacks In Stacks | 52.00% | ~5,437 |
 | Gunplay And Cosplay | 51.00% | ~5,332 |
-| Meching Enemies | 45.00% | ~4,704 |
-| Ticket Toddler | 41.00% | ~4,286 |
-| Booty Bashing | 36.00% | ~3,763 |
-| Field Medic | 36.00% | ~3,763 |
+| Meching Enemies | 45.00% | ~4,705 |
+| Ticket Toddler | 41.00% | ~4,287 |
+| Booty Bashing | 36.00% | ~3,764 |
+| Field Medic | 36.00% | ~3,764 |
 | Here Comes a New Challenger | 35.00% | ~3,659 |
 | Rapid Response | 31.00% | ~3,241 |
 | Surge Ahead | 29.00% | ~3,032 |
 | The Full Monty | 29.00% | ~3,032 |
 | Guardian Angel | 25.00% | ~2,614 |
-| Poppin Noggins | 23.00% | ~2,404 |
+| Poppin Noggins | 23.00% | ~2,405 |
 | Clips and Crits | 18.00% | ~1,882 |
 | Grey Goo | 16.00% | ~1,673 |
 | Boss of Bosses | 14.00% | ~1,464 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,454 (Ranked 188)  
+Progressed: 10,455 (Ranked 188)  
 Completed: 2 (0.02%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 2 (0.02%) (Ranked 378)
 | 2024-01-24 | 10,447 | 2 |
 | 2024-01-25 | 10,450 | 2 |
 | 2024-01-26 | 10,453 | 2 |
-| 2024-01-27 | 10,454 | 2 |
+| 2024-01-27 | 10,455 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 431)  
 Sum: 465 (Ranked 349)  

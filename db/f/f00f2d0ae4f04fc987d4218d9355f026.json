@@ -2,7 +2,7 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 166,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -579,6 +579,11 @@
       "Time": "2024-01-27T01:47:45.8764336+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T07:08:55.2955535+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -591,7 +596,7 @@
       "Name": "All-in",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Athlete",
@@ -613,17 +618,17 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "CloseCall",
@@ -669,9 +674,9 @@
       "ID": "HeartAttack",
       "SetID": "aaidab7",
       "Name": "Heart Attack",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "ImmuneCollapse",
@@ -687,7 +692,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LethalWalkInThePark",
@@ -703,7 +708,7 @@
       "Name": "Loaded",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Loser",
@@ -711,7 +716,7 @@
       "Name": "Loser",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Lupus",
@@ -719,7 +724,7 @@
       "Name": "Lupus Nephritis",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "LupusNephretis",
@@ -727,15 +732,15 @@
       "Name": "It\u0027s Never Lupus",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MedStudent",
       "SetID": "aaidab7",
       "Name": "Medical Student",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "MuscularCollapse",
@@ -743,7 +748,7 @@
       "Name": "Muscular Collapse",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NervousCollapse",
@@ -757,9 +762,9 @@
       "ID": "Opportunist",
       "SetID": "aaidab7",
       "Name": "Opportunist",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "PrescriptionFrenzy",
@@ -767,7 +772,7 @@
       "Name": "Prescription Frenzy",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Reaper",
@@ -797,15 +802,15 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
       "UsersEstimate": 80
     },
@@ -815,7 +820,7 @@
       "Name": "Skeletal Collapse",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Stabilized",
@@ -839,21 +844,21 @@
       "Name": "Walk In The Park",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:09:18.8786791+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:08:55.2955532+00:00",
   "LastUpdate_AppInfo": "2024-01-23T08:57:16.6301643+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:01:19.8796026+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:09:18.8787011+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:00:30.3811058+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:08:55.2955812+00:00"
 }

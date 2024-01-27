@@ -385,9 +385,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3450,6 +3450,11 @@
       "Time": "2024-01-27T00:10:05.6989905+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T07:09:44.473946+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3470,15 +3475,15 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 426
+      "UsersEstimate": 414
     },
     {
       "ID": "CareerChamp2",
@@ -3486,7 +3491,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CareerChamp3",
@@ -3502,7 +3507,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CareerComplete",
@@ -3518,7 +3523,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "CollectVehiclesA",
@@ -3574,7 +3579,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "PlayerRankB",
@@ -3621,7 +3626,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 0
     }
   ],
@@ -3629,8 +3634,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-25T13:58:32.8923112+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:10:22.5676056+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:09:44.4739459+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:59:38.2541508+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:10:22.5676317+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:59:15.6793412+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:09:44.4739654+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2024-01-27T06:07:03.750334+00:00",
       "NumProgressed": 243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T07:06:04.7017515+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -706,13 +711,13 @@
       "Name": "Bring it on!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "brutus",
       "SetID": "41moj9p",
       "Name": "Brutus",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -728,9 +733,9 @@
       "ID": "call_the_boys",
       "SetID": "41moj9p",
       "Name": "Call the Boys",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "cant_touch_this",
@@ -738,7 +743,7 @@
       "Name": "Can\u2019t Touch This",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "columbus",
@@ -778,15 +783,15 @@
       "Name": "Cut-Me-Own-Throat",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "desperate_times",
       "SetID": "41moj9p",
       "Name": "Desperate Times Call for Desperate Measures",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "die_by_my_hand",
@@ -888,9 +893,9 @@
       "ID": "greed_is_good",
       "SetID": "41moj9p",
       "Name": "Greed is Good",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "hail_and_kill",
@@ -906,7 +911,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "he_made_it_out",
@@ -920,17 +925,17 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "his_all_holiness",
       "SetID": "41moj9p",
       "Name": "His All-Holiness",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "his_holiness",
@@ -944,9 +949,9 @@
       "ID": "his_name_is_king",
       "SetID": "41moj9p",
       "Name": "His name is King",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "holy_trinity",
@@ -1064,9 +1069,9 @@
       "ID": "let_us_trade",
       "SetID": "41moj9p",
       "Name": "Let us trade with these fine people",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "liberty_or_death",
@@ -1088,7 +1093,7 @@
       "ID": "master_of_puppets",
       "SetID": "41moj9p",
       "Name": "Master of Puppets",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1154,7 +1159,7 @@
       "Name": "Playerxander the Great",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "power_overwhelming",
@@ -1370,7 +1375,7 @@
       "Name": "What we\u2019ve got here is failure to communicate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "wheres_your_crown",
@@ -1425,7 +1430,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 245,
       "Completed": 0
     }
   ],
@@ -1433,8 +1438,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:07:03.7503338+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:06:04.7017512+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:57:27.3602773+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:07:03.7504239+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:57:39.4534275+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:06:04.7018809+00:00"
 }

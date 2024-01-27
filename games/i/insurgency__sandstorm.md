@@ -1,35 +1,35 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 404)  
+Rating: 4.61 (Ranked 403)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,582 |
-| Wallbanger | 5.00% | ~26,582 |
-| Exploitative | 4.00% | ~21,265 |
-| High Speed Low Drag | 4.00% | ~21,265 |
-| Wet Feet | 4.00% | ~21,265 |
-| Checkpoint Victory | 3.00% | ~15,949 |
-| Lucky | 3.00% | ~15,949 |
-| Stylin' | 3.00% | ~15,949 |
-| Turf War | 3.00% | ~15,949 |
+| Point Shooting | 5.00% | ~26,583 |
+| Wallbanger | 5.00% | ~26,583 |
+| Exploitative | 4.00% | ~21,266 |
+| High Speed Low Drag | 4.00% | ~21,266 |
+| Wet Feet | 4.00% | ~21,266 |
+| Checkpoint Victory | 3.00% | ~15,950 |
+| Lucky | 3.00% | ~15,950 |
+| Stylin' | 3.00% | ~15,950 |
+| Turf War | 3.00% | ~15,950 |
 | Banged | 2.00% | ~10,633 |
 | First Blood | 2.00% | ~10,633 |
 | Flaccid Paralysis | 2.00% | ~10,633 |
 | Push Victory | 2.00% | ~10,633 |
 | Self-destructive | 2.00% | ~10,633 |
-| Blindfire | 1.00% | ~5,316 |
-| Ruthless | 1.00% | ~5,316 |
-| Semper Paratus | 1.00% | ~5,316 |
+| Blindfire | 1.00% | ~5,317 |
+| Ruthless | 1.00% | ~5,317 |
+| Semper Paratus | 1.00% | ~5,317 |
 | Carrying | 0.90% | ~4,785 |
 | Efficient | 0.90% | ~4,785 |
 | Mount & Gun | 0.90% | ~4,785 |
 | Personal | 0.90% | ~4,785 |
 | Grounded | 0.80% | ~4,253 |
 | Play to Win | 0.80% | ~4,253 |
-| Special Delivery | 0.70% | ~3,721 |
+| Special Delivery | 0.70% | ~3,722 |
 | Firefight Victory | 0.60% | ~3,190 |
 | #1 | 0.60% | ~3,190 |
 | Cinematic | 0.50% | ~2,658 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~532 |
 | Road Hazard | 0.10% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,632 (Ranked 40)  
+Progressed: 531,656 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2 (0.00%) (Ranked 414)
 | 2024-01-24 | 529,990 | 2 |
 | 2024-01-25 | 530,633 | 2 |
 | 2024-01-26 | 531,367 | 2 |
-| 2024-01-27 | 531,632 | 2 |
+| 2024-01-27 | 531,656 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 427  (Ranked 239)  
 Sum: 3,453 (Ranked 178)  

@@ -5,21 +5,21 @@ Rating: 4.38 (Ranked 802)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 77.00% | ~2,137 |
-| A new Journey | 76.00% | ~2,109 |
-| Departure | 75.00% | ~2,081 |
+| Country Bumpkin | 77.00% | ~2,138 |
+| A new Journey | 76.00% | ~2,110 |
+| Departure | 75.00% | ~2,082 |
 | From X to Y | 74.00% | ~2,054 |
-| Way of Iron | 72.00% | ~1,998 |
-| Mystery Tour | 70.00% | ~1,942 |
+| Way of Iron | 72.00% | ~1,999 |
+| Mystery Tour | 70.00% | ~1,943 |
 | We brake for nobody | 69.00% | ~1,915 |
-| Brainstorm | 67.00% | ~1,859 |
+| Brainstorm | 67.00% | ~1,860 |
 | Mind the Gap | 66.00% | ~1,832 |
 | Travel Company | 66.00% | ~1,832 |
-| All around the World | 64.00% | ~1,776 |
-| Right through the middle | 59.00% | ~1,637 |
-| Facility Manager | 55.00% | ~1,526 |
-| Poor Devil | 55.00% | ~1,526 |
-| Producer | 52.00% | ~1,443 |
+| All around the World | 64.00% | ~1,777 |
+| Right through the middle | 59.00% | ~1,638 |
+| Facility Manager | 55.00% | ~1,527 |
+| Poor Devil | 55.00% | ~1,527 |
+| Producer | 52.00% | ~1,444 |
 | Bridge Builder | 44.00% | ~1,221 |
 | Apprentice | 42.00% | ~1,166 |
 | Access granted | 37.00% | ~1,027 |
@@ -61,7 +61,7 @@ Rating: 4.38 (Ranked 802)
 | United States | 0.60% | ~17 |
 | Together we stand | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,775 (Ranked 240)  
+Progressed: 2,776 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 2,771 | 0 |
 | 2024-01-25 | 2,772 | 0 |
 | 2024-01-26 | 2,774 | 0 |
-| 2024-01-27 | 2,775 | 0 |
+| 2024-01-27 | 2,776 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

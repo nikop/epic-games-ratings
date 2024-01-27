@@ -19,10 +19,10 @@ Number of Ratings: 76  (23.09.2022)
 | Squirrel Smasher | 11.00% | ~137 |
 | Surf's Up! | 11.00% | ~137 |
 | Life's as extreme as you wanna make it! | 9.00% | ~112 |
+| Shrimp Catcher | 9.00% | ~112 |
 | Toxic Terror | 9.00% | ~112 |
 | Are you ready now? | 8.00% | ~100 |
 | Keep it Rolling | 8.00% | ~100 |
-| Shrimp Catcher | 8.00% | ~100 |
 | Hit Rock Bottom | 8.00% | ~100 |
 | Ultra Spatula Seeker | 8.00% | ~100 |
 | Robot encyclopedia | 7.00% | ~87 |

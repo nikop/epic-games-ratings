@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~16,098 |
+| Getting Started | 81.00% | ~16,099 |
 | Pay 'n' Spray | 51.00% | ~10,136 |
-| All Dressed Up for San Fierro | 26.00% | ~5,167 |
+| All Dressed Up for San Fierro | 26.00% | ~5,168 |
 | The American Dream | 19.00% | ~3,776 |
 | School's Out | 19.00% | ~3,776 |
 | Smooth Moves | 17.00% | ~3,379 |
 | What happens in Las Venturas... | 15.00% | ~2,981 |
 | Today Was a Good Day | 15.00% | ~2,981 |
 | Horror of the Santa Maria | 11.00% | ~2,186 |
-| Liberty City State of Mind | 10.00% | ~1,987 |
+| Liberty City State of Mind | 10.00% | ~1,988 |
 | The End of the Line | 8.00% | ~1,590 |
 | Original Gangster | 8.00% | ~1,590 |
 | With Extra Dip | 7.00% | ~1,391 |
@@ -25,23 +25,23 @@ Rating: 4.55 (Ranked 530)
 | I’ll Have Two Number 9s | 3.00% | ~596 |
 | Bike or Biker | 3.00% | ~596 |
 | What the City Needs | 3.00% | ~596 |
-| A Legitimate Business | 2.00% | ~397 |
-| Who Needs Directions? | 2.00% | ~397 |
-| Swiss Army Strife | 2.00% | ~397 |
-| Yes I Speak English | 2.00% | ~397 |
-| Double or Nothin' | 2.00% | ~397 |
-| Assassin | 2.00% | ~397 |
-| Public Enemy No. 1 | 2.00% | ~397 |
-| Ain’t Nothing But a G Thing | 2.00% | ~397 |
+| A Legitimate Business | 2.00% | ~398 |
+| Who Needs Directions? | 2.00% | ~398 |
+| Swiss Army Strife | 2.00% | ~398 |
+| Yes I Speak English | 2.00% | ~398 |
+| Double or Nothin' | 2.00% | ~398 |
+| Assassin | 2.00% | ~398 |
+| Public Enemy No. 1 | 2.00% | ~398 |
+| Ain’t Nothing But a G Thing | 2.00% | ~398 |
 | Hoopin' it Up | 1.00% | ~199 |
 | Lucky Spinner | 1.00% | ~199 |
 | Not a Player | 1.00% | ~199 |
 | Chick Magnet | 1.00% | ~199 |
 | Remastered | 0.80% | ~159 |
 | ...Here we go again | 0.60% | ~119 |
-| I Ain't No Buster | 0.40% | ~79 |
+| I Ain't No Buster | 0.40% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,874 (Ranked 158)  
+Progressed: 19,875 (Ranked 158)  
 Completed: 84 (0.42%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 84 (0.42%) (Ranked 247)
 | 2024-01-24 | 19,836 | 83 |
 | 2024-01-25 | 19,850 | 83 |
 | 2024-01-26 | 19,869 | 84 |
-| 2024-01-27 | 19,874 | 84 |
+| 2024-01-27 | 19,875 | 84 |
 ## Awards
 Max (Amazing Storytelling): 65  (Ranked 431)  
 Sum: 407 (Ranked 360)  

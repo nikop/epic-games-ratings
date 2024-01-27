@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -321,7 +321,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 2642,
+  "EOS_Progressed": 2643,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
@@ -6551,6 +6551,11 @@
       "Time": "2024-01-27T04:05:02.3310623+00:00",
       "NumProgressed": 2642,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T07:05:48.0364405+00:00",
+      "NumProgressed": 2643,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6571,7 +6576,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "AC02",
@@ -6603,7 +6608,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "AC06",
@@ -6611,7 +6616,7 @@
       "Name": "The Last Ascension",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "AC07",
@@ -6619,7 +6624,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "AC08",
@@ -6627,7 +6632,7 @@
       "Name": "Forged in Fire",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "AC09",
@@ -6635,7 +6640,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "AC10",
@@ -6723,7 +6728,7 @@
       "Name": "Still Among Us",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "AC21",
@@ -6763,7 +6768,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "AC26",
@@ -6771,7 +6776,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "AC27",
@@ -6803,7 +6808,7 @@
       "Name": "The Anointed One",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "AC31",
@@ -6811,7 +6816,7 @@
       "Name": "The Merciless One",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "AC32",
@@ -6827,7 +6832,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "AC34",
@@ -6883,7 +6888,7 @@
       "Name": "Welcome Back!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "AC41",
@@ -6930,7 +6935,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2642,
+      "Progressed": 2643,
       "Completed": 1
     }
   ],
@@ -6938,8 +6943,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:06:42.5423535+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:05:48.0364402+00:00",
   "LastUpdate_AppInfo": "2024-01-24T05:57:20.0636425+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:57:15.9299981+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:06:42.5424177+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:57:31.0467085+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:05:48.0365082+00:00"
 }

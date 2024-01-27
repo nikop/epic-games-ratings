@@ -22,7 +22,7 @@ Rating: 4.43 (Ranked 731)
 | Guardian | 26.00% | ~200 |
 | Nosebleeder | 26.00% | ~200 |
 | Trader | 22.00% | ~169 |
-| Weapon Boost | 21.00% | ~161 |
+| Weapon Boost | 22.00% | ~169 |
 | Flying Kobold Killer | 19.00% | ~146 |
 | Youth Magnet | 19.00% | ~146 |
 | Furious Scorpion Killer | 17.00% | ~131 |

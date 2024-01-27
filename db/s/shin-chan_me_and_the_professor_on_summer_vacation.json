@@ -275,9 +275,9 @@
       "ID": "Trophy_16",
       "SetID": "cf5h6dl",
       "Name": "What\u0027s That Smell?",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Trophy_17",
@@ -331,9 +331,9 @@
       "ID": "Trophy_23",
       "SetID": "cf5h6dl",
       "Name": "It\u0027s Alive!",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Trophy_24",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:09:46.7366121+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:09:16.7507863+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:28.6563345+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:57:19.1543798+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:09:46.7366451+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:57:33.4453828+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:09:16.7508203+00:00"
 }

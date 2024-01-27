@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2775,
+  "EOS_Progressed": 2776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8263,6 +8263,11 @@
       "Time": "2024-01-27T00:07:12.9187126+00:00",
       "NumProgressed": 2775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T07:06:14.5245587+00:00",
+      "NumProgressed": 2776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -8370,7 +8375,7 @@
       "Name": "Departure",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "A13",
@@ -8386,7 +8391,7 @@
       "Name": "A new Journey",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "A15",
@@ -8410,7 +8415,7 @@
       "Name": "Facility Manager",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "A18",
@@ -8434,7 +8439,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "A21",
@@ -8450,7 +8455,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "A23",
@@ -8546,7 +8551,7 @@
       "Name": "Producer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "A35",
@@ -8562,7 +8567,7 @@
       "Name": "Way of Iron",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "A37",
@@ -8570,7 +8575,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "A38",
@@ -8578,7 +8583,7 @@
       "Name": "Poor Devil",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "A39",
@@ -8602,7 +8607,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "A42",
@@ -8642,7 +8647,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "A47",
@@ -8713,7 +8718,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2775,
+      "Progressed": 2776,
       "Completed": 0
     }
   ],
@@ -8721,8 +8726,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-22T22:57:59.5617372+00:00",
-  "LastChanged_Achievements": "2024-01-27T06:07:16.3738752+00:00",
+  "LastChanged_Achievements": "2024-01-27T07:06:14.5245584+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:46.2531385+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:01:34.7041264+00:00",
-  "LastUpdate_Achievements": "2024-01-27T06:07:16.3739657+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:00:41.0536541+00:00",
+  "LastUpdate_Achievements": "2024-01-27T07:06:14.524644+00:00"
 }

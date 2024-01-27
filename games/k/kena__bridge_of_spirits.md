@@ -6,36 +6,36 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~409,093 |
-| Haikyo | 80.00% | ~344,499 |
-| Good as New | 72.00% | ~310,049 |
-| Into the Woods | 70.00% | ~301,437 |
-| Hunter in the Forest | 60.00% | ~258,374 |
-| Rot Commander | 60.00% | ~258,374 |
-| Taro's Fear | 56.00% | ~241,149 |
-| Between the Eyes | 47.00% | ~202,393 |
-| Taro's Love | 46.00% | ~198,087 |
+| Found a Friend | 95.00% | ~409,094 |
+| Haikyo | 80.00% | ~344,500 |
+| Good as New | 72.00% | ~310,050 |
+| Into the Woods | 70.00% | ~301,438 |
+| Hunter in the Forest | 60.00% | ~258,375 |
+| Rot Commander | 60.00% | ~258,375 |
+| Taro's Fear | 56.00% | ~241,150 |
+| Between the Eyes | 47.00% | ~202,394 |
+| Taro's Love | 46.00% | ~198,088 |
 | Taro's Regret | 44.00% | ~189,475 |
 | Spirit Guide | 42.00% | ~180,862 |
-| Harness Your Power | 39.00% | ~167,943 |
+| Harness Your Power | 39.00% | ~167,944 |
 | The Open Range | 37.00% | ~159,331 |
 | Adira's Love | 34.00% | ~146,412 |
 | Adira's Fear | 33.00% | ~142,106 |
 | Weigh Them Down | 32.00% | ~137,800 |
-| A Heavy Hammer | 31.00% | ~133,493 |
-| Adira's Regret | 31.00% | ~133,493 |
-| Quick Draw | 30.00% | ~129,187 |
+| A Heavy Hammer | 31.00% | ~133,494 |
+| Adira's Regret | 31.00% | ~133,494 |
+| Quick Draw | 30.00% | ~129,188 |
 | Crossing Over | 29.00% | ~124,881 |
 | Toshi's Fear | 28.00% | ~120,575 |
-| Toshi's Regret | 27.00% | ~116,268 |
-| Toshi's Love | 27.00% | ~116,268 |
+| Toshi's Regret | 27.00% | ~116,269 |
+| Toshi's Love | 27.00% | ~116,269 |
 | A Leader Walks Alone | 26.00% | ~111,962 |
 | Bow Master | 26.00% | ~111,962 |
 | The Lonely Path | 26.00% | ~111,962 |
 | Restore Balance | 25.00% | ~107,656 |
 | Say Cheese | 16.00% | ~68,900 |
 | Skillful Spirit Guide | 15.00% | ~64,594 |
-| Piercing Blow | 14.00% | ~60,287 |
+| Piercing Blow | 14.00% | ~60,288 |
 | Curse Collector | 8.00% | ~34,450 |
 | Zen Master | 8.00% | ~34,450 |
 | The Last Stop | 7.00% | ~30,144 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,876 |
 | Master Spirit Guide | 0.30% | ~1,292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,624 (Ranked 49)  
+Progressed: 430,625 (Ranked 49)  
 Completed: 559 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 559 (0.13%) (Ranked 310)
 | 2024-01-24 | 430,594 | 558 |
 | 2024-01-25 | 430,608 | 558 |
 | 2024-01-26 | 430,622 | 559 |
-| 2024-01-27 | 430,624 | 559 |
+| 2024-01-27 | 430,625 | 559 |
 ## Awards
 Max (Great Boss Battles): 1,360  (Ranked 146)  
 Sum: 1,780 (Ranked 227)  
