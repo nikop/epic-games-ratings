@@ -3,8 +3,8 @@
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
   "Ranking_Rating": 603,
-  "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 437,
+  "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 51,
@@ -361,23 +361,29 @@
       "Rating": 4.51,
       "NumberOfAwards": 59,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-01-26T23:57:51.6147777+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 59
+      "Count": 63
     }
   ],
-  "EOS_Progressed": 127276,
+  "EOS_Progressed": 127287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2376,
+  "EOS_NewPlayers": 2367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6070,6 +6076,11 @@
       "Time": "2024-01-26T23:06:25.2885017+00:00",
       "NumProgressed": 127276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T00:08:34.0469482+00:00",
+      "NumProgressed": 127287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -6082,7 +6093,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -6146,7 +6157,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 14000
+      "UsersEstimate": 14002
     },
     {
       "ID": "ACH_GROWNUP",
@@ -6154,7 +6165,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25455
+      "UsersEstimate": 25457
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -6178,7 +6189,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19091
+      "UsersEstimate": 19093
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -6202,7 +6213,7 @@
       "Name": "Master of Disguise",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "ACH_MAYHEM",
@@ -6218,7 +6229,7 @@
       "Name": "Ninja Reflex",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "ACH_ONLINE",
@@ -6234,7 +6245,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -6250,7 +6261,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11455
+      "UsersEstimate": 11456
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -6290,7 +6301,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -6361,16 +6372,16 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 127276,
+      "Progressed": 127287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
-  "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:06:25.2885015+00:00",
+  "LastChanged": "2024-01-26T23:57:51.6147775+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:08:34.0469476+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:57:26.2241025+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:06:25.2885393+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:57:51.6147784+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:08:34.04699+00:00"
 }

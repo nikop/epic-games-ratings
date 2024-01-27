@@ -15,9 +15,9 @@ Rating: 4.87 (Ranked 24)
 | The darkness | 33.00% | ~998 |
 | A good beginning | 32.00% | ~967 |
 | One last step | 31.00% | ~937 |
+| Cable guy | 30.00% | ~907 |
 | Half the way | 30.00% | ~907 |
 | I did it | 29.00% | ~877 |
-| Cable guy | 29.00% | ~877 |
 | In this together | 28.00% | ~846 |
 | Peace walker | 28.00% | ~846 |
 | Champollion | 28.00% | ~846 |

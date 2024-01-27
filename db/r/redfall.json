@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -453,9 +453,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 2421,
+  "EOS_Progressed": 2422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4728,6 +4728,11 @@
       "Time": "2024-01-26T17:05:01.9832578+00:00",
       "NumProgressed": 2421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T00:05:23.392855+00:00",
+      "NumProgressed": 2422,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4963,7 +4968,7 @@
       "Name": "ICU",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Achievement_031",
@@ -5025,9 +5030,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_039",
@@ -5266,7 +5271,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2421,
+      "Progressed": 2422,
       "Completed": 0
     }
   ],
@@ -5274,8 +5279,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-26T22:58:33.9713132+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:04:17.2955658+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:05:23.3928545+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:58:33.9713137+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:04:17.2956476+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:59:33.7564452+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:05:23.3929416+00:00"
 }

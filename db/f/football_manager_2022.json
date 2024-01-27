@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": null,
@@ -9410,9 +9410,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479821,
+  "EOS_Progressed": 479822,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37515,6 +37515,11 @@
       "Time": "2024-01-26T23:09:43.3583877+00:00",
       "NumProgressed": 479821,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-27T00:10:51.6656835+00:00",
+      "NumProgressed": 479822,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -37582,7 +37587,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124753
+      "UsersEstimate": 124754
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -37622,7 +37627,7 @@
       "Name": "Parked The Bus",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143946
+      "UsersEstimate": 143947
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -37638,7 +37643,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143946
+      "UsersEstimate": 143947
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -37670,7 +37675,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76771
+      "UsersEstimate": 76772
     },
     {
       "ID": "achievement_big_win",
@@ -37710,7 +37715,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239910
+      "UsersEstimate": 239911
     },
     {
       "ID": "achievement_club_world_cup",
@@ -37918,7 +37923,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124753
+      "UsersEstimate": 124754
     },
     {
       "ID": "achievement_mr_delegator",
@@ -37942,7 +37947,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76771
+      "UsersEstimate": 76772
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -37950,7 +37955,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167937
+      "UsersEstimate": 167938
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -38038,7 +38043,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76771
+      "UsersEstimate": 76772
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -38070,7 +38075,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 230314
+      "UsersEstimate": 230315
     },
     {
       "ID": "achievement_signed_a_player",
@@ -38078,7 +38083,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239910
+      "UsersEstimate": 239911
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -38110,7 +38115,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119955
+      "UsersEstimate": 119956
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -38158,7 +38163,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239910
+      "UsersEstimate": 239911
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -38309,15 +38314,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479821,
+      "Progressed": 479822,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-26T21:02:52.1844795+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:09:43.3583875+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:10:51.6656829+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8725355+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:03:01.4205298+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:09:43.3585704+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:03:27.4234259+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:10:51.6659623+00:00"
 }

@@ -3078,9 +3078,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 545404,
+  "EOS_Progressed": 545405,
   "EOS_Completed": 1696,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -34363,6 +34363,11 @@
       "Time": "2024-01-26T23:05:51.0905427+00:00",
       "NumProgressed": 545404,
       "NumCompleted": 1696
+    },
+    {
+      "Time": "2024-01-27T00:07:35.328664+00:00",
+      "NumProgressed": 545405,
+      "NumCompleted": 1696
     }
   ],
   "TotalAchievements": 37,
@@ -34390,7 +34395,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 169075
+      "UsersEstimate": 169076
     },
     {
       "ID": "DEVOTED",
@@ -34430,7 +34435,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 452685
+      "UsersEstimate": 452686
     },
     {
       "ID": "HONED",
@@ -34494,7 +34499,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59994
+      "UsersEstimate": 59995
     },
     {
       "ID": "THE_CAVE",
@@ -34669,15 +34674,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 545404,
+      "Progressed": 545405,
       "Completed": 1696
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-26T22:00:27.0692977+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:05:51.0905425+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:07:35.3286638+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:28.055367+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:00:24.7758003+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:05:51.0906772+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:03:04.1733344+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:07:35.3288535+00:00"
 }

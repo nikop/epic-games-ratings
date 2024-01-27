@@ -2,12 +2,12 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1102,9 +1102,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363784,
+  "EOS_Progressed": 363787,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33302,6 +33302,11 @@
       "Time": "2024-01-26T23:03:48.5112886+00:00",
       "NumProgressed": 363784,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-27T00:04:41.9556863+00:00",
+      "NumProgressed": 363787,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33521,7 +33526,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167341
+      "UsersEstimate": 167342
     },
     {
       "ID": "ach028",
@@ -33537,7 +33542,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 40016
+      "UsersEstimate": 40017
     },
     {
       "ID": "ach030",
@@ -33617,7 +33622,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36378
+      "UsersEstimate": 36379
     },
     {
       "ID": "ach040",
@@ -33713,7 +33718,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 40016
+      "UsersEstimate": 40017
     },
     {
       "ID": "ach052",
@@ -33777,7 +33782,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36378
+      "UsersEstimate": 36379
     },
     {
       "ID": "ach060",
@@ -33841,7 +33846,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58205
+      "UsersEstimate": 58206
     },
     {
       "ID": "ach069",
@@ -33952,7 +33957,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363784,
+      "Progressed": 363787,
       "Completed": 7
     }
   ],
@@ -33960,8 +33965,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-26T15:57:54.5996048+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:03:48.5112883+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:04:41.9556857+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:58:08.9152926+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:03:48.511474+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:58:55.4826435+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:04:41.9559338+00:00"
 }

@@ -205,7 +205,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1644,
+  "EOS_Progressed": 1645,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
@@ -5815,6 +5815,11 @@
       "Time": "2024-01-26T16:06:16.1829283+00:00",
       "NumProgressed": 1644,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-27T00:08:41.7664746+00:00",
+      "NumProgressed": 1645,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5834,7 +5839,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "MQ02_1",
@@ -5866,15 +5871,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 806
     },
     {
       "ID": "MQ03_2",
@@ -5882,7 +5887,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "MQ03_3",
@@ -5890,7 +5895,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "MQ03_4",
@@ -5914,7 +5919,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "MQ04_2",
@@ -5930,7 +5935,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "MQ05_1",
@@ -5954,7 +5959,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "MQ05_4",
@@ -5962,7 +5967,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "MQ06_1",
@@ -5970,7 +5975,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "MQ06_2",
@@ -5978,7 +5983,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "MQ06_3",
@@ -5986,7 +5991,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "MQ06_4",
@@ -6010,7 +6015,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MQ08_1",
@@ -6049,7 +6054,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1644,
+      "Progressed": 1645,
       "Completed": 51
     }
   ],
@@ -6057,8 +6062,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-26T12:04:14.5432364+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:06:30.4327833+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:08:41.766474+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:03:19.7260705+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:06:30.4328291+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:03:55.2323648+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:08:41.7665241+00:00"
 }

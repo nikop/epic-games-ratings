@@ -3,7 +3,7 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.09,
+  "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
       "Time": "2023-06-13T17:01:33.4797695+00:00",
@@ -4619,6 +4619,11 @@
       "Time": "2024-01-26T19:11:30.7191651+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T00:11:30.0676951+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4646,7 +4651,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "BigPlane",
@@ -4726,7 +4731,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FullCompletion",
@@ -4766,7 +4771,7 @@
       "Name": "Large Airport",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "LargeTerritories",
@@ -4884,9 +4889,9 @@
       "ID": "Reaction",
       "SetID": "1e89b4i",
       "Name": "Fast Response",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ReliableTransporter",
@@ -4965,14 +4970,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:10:11.3460346+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:11:30.0676949+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:42.331903+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:58:12.9205877+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:10:11.3460801+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:59:01.2767052+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:11:30.0677394+00:00"
 }

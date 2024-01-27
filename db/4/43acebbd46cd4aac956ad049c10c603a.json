@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4688,9 +4688,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 324
     },
     {
       "ID": "PrometheusUnbound",
@@ -4816,9 +4816,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 471
     },
     {
       "ID": "TheThiefOfFire",
@@ -4905,8 +4905,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-25T15:01:28.3159391+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:03:44.4098393+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:04:35.5707853+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:57:18.137393+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:03:44.4098905+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:57:39.1497061+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:04:35.5708629+00:00"
 }

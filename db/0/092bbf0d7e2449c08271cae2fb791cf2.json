@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 648,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -2189,6 +2189,11 @@
       "Time": "2024-01-26T19:04:55.9709312+00:00",
       "NumProgressed": 647,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-27T00:05:00.0329825+00:00",
+      "NumProgressed": 648,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -2256,14 +2261,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 648,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:04:00.8664764+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:05:00.0329821+00:00",
   "LastUpdate_AppInfo": "2024-01-24T23:57:01.1262459+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:00:04.8620226+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:04:00.8664956+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:01:53.330199+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:05:00.0329979+00:00"
 }

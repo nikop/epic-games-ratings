@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -33,8 +33,8 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 10.00% | ~29 |
 | Weaponsmith | 9.00% | ~26 |
 | Hotshot | 9.00% | ~26 |
+| Cleric | 9.00% | ~26 |
 | Detective | 9.00% | ~26 |
-| Cleric | 8.00% | ~24 |
 | Self-Sufficient | 6.00% | ~18 |
 | Alchemist | 5.00% | ~15 |
 | Unbreakable | 5.00% | ~15 |

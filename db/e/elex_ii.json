@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -579,7 +579,7 @@
   ],
   "EOS_Progressed": 294,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1983,9 +1983,9 @@
       "ID": "CHOSEKLE",
       "SetID": "a1angca",
       "Name": "Cleric",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "CHOSEMOR",
@@ -2175,8 +2175,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:03:30.3014932+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:04:14.7265496+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:58:20.6367879+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:03:30.30334+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:59:13.0655955+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:04:14.7273206+00:00"
 }

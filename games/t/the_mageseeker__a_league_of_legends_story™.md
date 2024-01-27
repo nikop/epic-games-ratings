@@ -12,12 +12,12 @@ Rating: 4.79 (Ranked 100)
 | Pentakill | 75.00% | ~2,638 |
 | The use of petricite | 73.00% | ~2,568 |
 | You can pet the dog | 60.00% | ~2,111 |
-| Thornbarrow | 44.00% | ~1,548 |
+| Thornbarrow | 45.00% | ~1,583 |
 | Big Helmet Bro | 42.00% | ~1,478 |
 | Clarion Cove | 42.00% | ~1,478 |
 | Ternmoat Headquarters | 40.00% | ~1,407 |
+| Past trauma | 39.00% | ~1,372 |
 | Elemental master | 38.00% | ~1,337 |
-| Past trauma | 38.00% | ~1,337 |
 | Cypress Glen Headquarters | 35.00% | ~1,231 |
 | Old friend | 34.00% | ~1,196 |
 | Petricite Burst | 34.00% | ~1,196 |

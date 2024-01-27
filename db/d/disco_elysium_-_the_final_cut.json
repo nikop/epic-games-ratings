@@ -1724,9 +1724,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140190,
+  "EOS_Progressed": 140192,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29949,6 +29949,11 @@
       "Time": "2024-01-26T23:09:03.205925+00:00",
       "NumProgressed": 140190,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-27T00:09:54.5321006+00:00",
+      "NumProgressed": 140192,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29992,7 +29997,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25234
+      "UsersEstimate": 25235
     },
     {
       "ID": "ACH_COP_BAD",
@@ -30040,7 +30045,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39253
+      "UsersEstimate": 39254
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -30064,7 +30069,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22430
+      "UsersEstimate": 22431
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -30096,7 +30101,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21028
+      "UsersEstimate": 21029
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -30152,7 +30157,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8411
+      "UsersEstimate": 8412
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -30279,15 +30284,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140190,
+      "Progressed": 140192,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-25T13:06:58.6481989+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:09:03.2059247+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:09:54.5321002+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:57:16.9237578+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:09:03.2060873+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:57:37.2764359+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:09:54.532243+00:00"
 }

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,218 |
-| Spectre Inductee | 66.00% | ~3,093 |
+| Distinguished Service Medal | 90.00% | ~4,219 |
+| Spectre Inductee | 66.00% | ~3,094 |
 | Medal of Exploration I | 56.00% | ~2,625 |
-| Recruit | 53.00% | ~2,484 |
-| Search and Rescue | 51.00% | ~2,390 |
+| Recruit | 53.00% | ~2,485 |
+| Search and Rescue | 51.00% | ~2,391 |
 | Quarian Ally | 49.00% | ~2,297 |
-| Honorarium of Corporate Service | 45.00% | ~2,109 |
-| Medal of Heroism | 44.00% | ~2,062 |
+| Honorarium of Corporate Service | 45.00% | ~2,110 |
+| Medal of Heroism | 44.00% | ~2,063 |
 | Turian Ally | 41.00% | ~1,922 |
 | Medal of Exploration II | 39.00% | ~1,828 |
 | Council Legion of Merit | 39.00% | ~1,828 |
 | Missing in Action | 38.00% | ~1,781 |
-| Medal of Honor | 37.00% | ~1,734 |
-| Meritorious Service Medal | 37.00% | ~1,734 |
-| Soldier | 36.00% | ~1,687 |
-| Soldier Ally | 36.00% | ~1,687 |
-| Charismatic | 36.00% | ~1,687 |
-| Very Elusive | 35.00% | ~1,640 |
+| Medal of Honor | 37.00% | ~1,735 |
+| Soldier | 36.00% | ~1,688 |
+| Meritorious Service Medal | 36.00% | ~1,688 |
+| Soldier Ally | 36.00% | ~1,688 |
+| Charismatic | 36.00% | ~1,688 |
+| Very Elusive | 35.00% | ~1,641 |
 | Asari Ally | 34.00% | ~1,594 |
 | Scientist | 33.00% | ~1,547 |
 | Medal of Exploration III | 32.00% | ~1,500 |
@@ -35,11 +35,11 @@
 | Sentinel Ally | 30.00% | ~1,406 |
 | The Archangel | 30.00% | ~1,406 |
 | Head Hunter | 30.00% | ~1,406 |
-| Operative | 29.00% | ~1,359 |
-| The Convict | 28.00% | ~1,312 |
-| Power Full | 28.00% | ~1,312 |
-| Colony Defense | 27.00% | ~1,265 |
-| The Krogan | 27.00% | ~1,265 |
+| Operative | 29.00% | ~1,360 |
+| The Convict | 28.00% | ~1,313 |
+| Power Full | 28.00% | ~1,313 |
+| Colony Defense | 27.00% | ~1,266 |
+| The Krogan | 27.00% | ~1,266 |
 | Veteran | 26.00% | ~1,219 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,219 |
 | Ghost Ship | 25.00% | ~1,172 |
@@ -73,11 +73,11 @@
 | Doppelganger | 21.00% | ~984 |
 | Agent | 21.00% | ~984 |
 | Mobilizer | 21.00% | ~984 |
-| Untouchable | 20.00% | ~937 |
-| Eye of the Hurricane | 20.00% | ~937 |
-| Giant Killer | 20.00% | ~937 |
-| A House Divided | 20.00% | ~937 |
-| World Shaker | 20.00% | ~937 |
+| Untouchable | 20.00% | ~938 |
+| Eye of the Hurricane | 20.00% | ~938 |
+| Giant Killer | 20.00% | ~938 |
+| A House Divided | 20.00% | ~938 |
+| World Shaker | 20.00% | ~938 |
 | Liberator | 19.00% | ~891 |
 | First Aid Specialist | 18.00% | ~844 |
 | Pathfinder | 18.00% | ~844 |
@@ -117,9 +117,9 @@
 | Lift Mastery | 7.00% | ~328 |
 | Overload Specialist | 7.00% | ~328 |
 | Hijacker | 6.00% | ~281 |
-| Insanity I | 4.00% | ~187 |
-| Damping Specialist | 4.00% | ~187 |
-| Singularity Mastery | 4.00% | ~187 |
+| Insanity I | 4.00% | ~188 |
+| Damping Specialist | 4.00% | ~188 |
+| Singularity Mastery | 4.00% | ~188 |
 | Shield Breaker | 3.00% | ~141 |
 | Incineration Specialist | 3.00% | ~141 |
 | Warp Specialist | 3.00% | ~141 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~47 |
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,687 (Ranked 212)  
+Progressed: 4,688 (Ranked 212)  
 Completed: 17 (0.36%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,3 +266,4 @@ Completed: 17 (0.36%) (Ranked 257)
 | 2024-01-24 | 4,653 | 15 |
 | 2024-01-25 | 4,669 | 16 |
 | 2024-01-26 | 4,687 | 17 |
+| 2024-01-27 | 4,688 | 17 |

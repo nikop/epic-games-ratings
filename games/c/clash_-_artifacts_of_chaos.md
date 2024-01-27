@@ -11,12 +11,12 @@
 | Enemies of Fate | 33.00% | ~55 |
 | Your Training Continues | 31.00% | ~51 |
 | Armored | 30.00% | ~50 |
+| Freedom | 27.00% | ~45 |
 | Amokuali Tower | 27.00% | ~45 |
-| Freedom | 26.00% | ~43 |
 | Winner | 24.00% | ~40 |
 | The Pride of Moozhaw | 22.00% | ~37 |
 | Omnia Vincit Amor | 22.00% | ~37 |
-| Stilt House | 15.00% | ~25 |
+| Stilt House | 16.00% | ~27 |
 | Armor Collector | 13.00% | ~22 |
 | Corwid Hill | 12.00% | ~20 |
 | Total Eclipse | 9.00% | ~15 |
@@ -27,7 +27,7 @@
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 166 (Ranked 459)  
-Completed: 1 (0.60%) (Ranked 219)  
+Completed: 1 (0.60%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

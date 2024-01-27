@@ -2790,7 +2790,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44586,
+  "EOS_Progressed": 44587,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -11725,6 +11725,11 @@
       "Time": "2024-01-26T23:03:33.6905012+00:00",
       "NumProgressed": 44586,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-27T00:04:20.190554+00:00",
+      "NumProgressed": 44587,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11736,7 +11741,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27643
+      "UsersEstimate": 27644
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11808,7 +11813,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18726
+      "UsersEstimate": 18727
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11928,7 +11933,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28089
+      "UsersEstimate": 28090
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11944,7 +11949,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15159
+      "UsersEstimate": 15160
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11976,7 +11981,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -11984,7 +11989,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21847
+      "UsersEstimate": 21848
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -12032,7 +12037,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18726
+      "UsersEstimate": 18727
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -12064,7 +12069,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31210
+      "UsersEstimate": 31211
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -12088,7 +12093,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20955
+      "UsersEstimate": 20956
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -12096,7 +12101,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25414
+      "UsersEstimate": 25415
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -12104,7 +12109,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20955
+      "UsersEstimate": 20956
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -12176,7 +12181,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15159
+      "UsersEstimate": 15160
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -12248,7 +12253,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -12263,15 +12268,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44586,
+      "Progressed": 44587,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-26T17:02:40.376864+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:03:33.6905006+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:04:20.1905537+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:50.2969677+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:02:56.2784444+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:03:33.6905926+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:03:19.2511862+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:04:20.1906629+00:00"
 }

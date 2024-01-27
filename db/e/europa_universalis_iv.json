@@ -14821,10 +14821,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65896,
       "NumberOfAwardsMax": 7990
+    },
+    {
+      "Time": "2024-01-27T00:00:07.3151974+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65911,
+      "NumberOfAwardsMax": 7990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65896,
+  "NumberOfAwards": 65911,
   "NumberOfAwardsMax": 7990,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14844,7 +14850,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7836
+      "Count": 7851
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14895,9 +14901,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 506088,
+  "EOS_Progressed": 506113,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4130,
+  "EOS_NewPlayers": 4132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47430,6 +47436,11 @@
       "Time": "2024-01-26T23:10:19.6126189+00:00",
       "NumProgressed": 506088,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T00:11:40.8323234+00:00",
+      "NumProgressed": 506113,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47881,7 +47892,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -48465,7 +48476,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -49441,7 +49452,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -50344,21 +50355,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 506088,
+      "Progressed": 506113,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 506088,
+      "Progressed": 506113,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-26T20:59:06.5549379+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:10:19.6126187+00:00",
+  "LastChanged": "2024-01-27T00:00:07.3151973+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:11:40.8323228+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:58:55.9292047+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:10:19.6137112+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:00:07.3151979+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:11:40.833349+00:00"
 }

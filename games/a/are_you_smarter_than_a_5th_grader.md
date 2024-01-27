@@ -12,7 +12,7 @@
 | Exam Practice | 13.00% | ~50 |
 | In The Honor Roll | 11.00% | ~42 |
 | Byoing | 8.00% | ~31 |
-| 2nd Grade | 3.00% | ~11 |
+| 2nd Grade | 3.00% | ~12 |
 | Full House | 1.00% | ~4 |
 | Self-Sufficient | 1.00% | ~4 |
 | 3rd Grade | 1.00% | ~4 |
@@ -24,7 +24,7 @@
 | 5th Grade | 0.00% | ~0 |
 | Graduated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 380)  
+Progressed: 384 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-02 | 381 | 0 |
 | 2024-01-08 | 382 | 0 |
 | 2024-01-09 | 383 | 0 |
+| 2024-01-27 | 384 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

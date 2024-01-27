@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5501,
+  "EOS_Progressed": 5503,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5610,6 +5610,11 @@
       "Time": "2024-01-26T20:05:59.7292145+00:00",
       "NumProgressed": 5501,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-27T00:08:26.9710115+00:00",
+      "NumProgressed": 5503,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5621,7 +5626,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5629,7 +5634,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -5669,7 +5674,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4623
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5677,7 +5682,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5173
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5685,7 +5690,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5693,7 +5698,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5837,7 +5842,7 @@
       "Name": "First Day on the Job",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5869,7 +5874,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5885,15 +5890,15 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ID_ACHIEV_36",
       "SetID": "98bke8c",
       "Name": "Infidel",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1211
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5901,7 +5906,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5909,7 +5914,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -5941,7 +5946,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5957,7 +5962,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5965,7 +5970,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -6156,15 +6161,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5501,
+      "Progressed": 5503,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:06:20.4775203+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:08:26.9710111+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:53.2151346+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:59:38.2668308+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:06:20.4775914+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:01:12.7368865+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:08:26.9710914+00:00"
 }

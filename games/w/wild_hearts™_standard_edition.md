@@ -18,8 +18,8 @@
 | Expert Conjuror | 43.00% | ~607 |
 | Bonds of Enmity | 41.00% | ~579 |
 | Helpful Heart | 41.00% | ~579 |
+| Flawless Crystal | 40.00% | ~565 |
 | Distance Devourer | 39.00% | ~551 |
-| Flawless Crystal | 39.00% | ~551 |
 | Counter Specialist | 36.00% | ~508 |
 | Master of the Skies | 34.00% | ~480 |
 | Axer of Auspice | 31.00% | ~438 |
@@ -49,7 +49,7 @@
 | Superlative View | 8.00% | ~113 |
 | Relentless Kemono Hunter | 7.00% | ~99 |
 | Vanquisher of the Volatile | 7.00% | ~99 |
-| Big Spender | 6.00% | ~85 |
+| Big Spender | 7.00% | ~99 |
 | Bewitched by Bathing | 5.00% | ~71 |
 | Tsukumo Whisperer | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)

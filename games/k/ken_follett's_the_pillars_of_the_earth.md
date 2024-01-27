@@ -8,13 +8,13 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 39.00% | ~7,068 |
 | Man of politics | 34.00% | ~6,162 |
-| Friends of sorts | 32.00% | ~5,799 |
-| Yet another secret | 32.00% | ~5,799 |
+| Friends of sorts | 32.00% | ~5,800 |
+| Yet another secret | 32.00% | ~5,800 |
 | Let there be darkness | 31.00% | ~5,618 |
 | End of Book One | 29.00% | ~5,256 |
-| Wannabe knight | 23.00% | ~4,168 |
-| Garden of Eden | 23.00% | ~4,168 |
-| Full house | 23.00% | ~4,168 |
+| Wannabe knight | 23.00% | ~4,169 |
+| Garden of Eden | 23.00% | ~4,169 |
+| Full house | 23.00% | ~4,169 |
 | Help an old friend | 21.00% | ~3,806 |
 | Two of us | 20.00% | ~3,625 |
 | Negotiation skills | 18.00% | ~3,262 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~544 |
 | Boy of mystery | 2.00% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,123 (Ranked 166)  
+Progressed: 18,124 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,6 +330,7 @@ Completed: 125 (0.69%) (Ranked 210)
 | 2024-01-24 | 18,082 | 125 |
 | 2024-01-25 | 18,095 | 125 |
 | 2024-01-26 | 18,123 | 125 |
+| 2024-01-27 | 18,124 | 125 |
 ## Awards
 Max (Easy Puzzles): 157  (Ranked 333)  
 Sum: 201 (Ranked 423)  

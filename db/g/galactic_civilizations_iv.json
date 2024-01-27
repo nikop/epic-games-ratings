@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7593,
+  "EOS_Progressed": 7594,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10002,6 +10002,11 @@
       "Time": "2024-01-26T20:09:42.2616957+00:00",
       "NumProgressed": 7593,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T00:11:31.2503792+00:00",
+      "NumProgressed": 7594,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10125,7 +10130,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5467
+      "UsersEstimate": 5468
     },
     {
       "ID": "First_Ship_Designed",
@@ -10283,9 +10288,9 @@
       "ID": "Recruit_12_Leaders",
       "SetID": "4h07amh",
       "Name": "Recruit a Dozen Leaders",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 68
     },
     {
       "ID": "Recruit_Leader",
@@ -10317,7 +10322,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -10501,7 +10506,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10509,7 +10514,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Win_Conquest",
@@ -10588,15 +10593,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7593,
+      "Progressed": 7594,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:10:12.1042981+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:11:31.2503788+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:57:08.8257012+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:10:12.1043783+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:57:25.5290514+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:11:31.2504584+00:00"
 }

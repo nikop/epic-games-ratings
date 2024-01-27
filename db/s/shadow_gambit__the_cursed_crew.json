@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1568,
+  "EOS_Progressed": 1569,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -5492,6 +5492,11 @@
       "Time": "2024-01-26T23:03:41.9787599+00:00",
       "NumProgressed": 1568,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2024-01-27T00:04:31.9881257+00:00",
+      "NumProgressed": 1569,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5504,7 +5509,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5512,7 +5517,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "_03_FinishAct1",
@@ -5544,7 +5549,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "_07_FinishAct3",
@@ -5560,7 +5565,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "_09_Completion_20",
@@ -5568,7 +5573,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "_10_Completion_30",
@@ -5590,9 +5595,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 141
     },
     {
       "ID": "_13_Completion_60",
@@ -5632,7 +5637,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5640,7 +5645,7 @@
       "Name": "Fully Decked",
       "Percentage": 8,
       "XP": 125,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -5664,7 +5669,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5696,7 +5701,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -5711,7 +5716,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1568,
+      "Progressed": 1569,
       "Completed": 39
     }
   ],
@@ -5719,8 +5724,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:03:41.9787594+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:04:31.9881253+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.079201+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:57:30.3186076+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:03:41.9788085+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:57:58.0040833+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:04:31.9882234+00:00"
 }

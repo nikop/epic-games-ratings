@@ -19172,9 +19172,9 @@
       "Count": 20262
     }
   ],
-  "EOS_Progressed": 1059253,
+  "EOS_Progressed": 1059268,
   "EOS_Completed": 3167,
-  "EOS_NewPlayers": 4054,
+  "EOS_NewPlayers": 4046,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51452,6 +51452,11 @@
       "Time": "2024-01-26T23:09:09.2410557+00:00",
       "NumProgressed": 1059253,
       "NumCompleted": 3167
+    },
+    {
+      "Time": "2024-01-27T00:10:03.1396051+00:00",
+      "NumProgressed": 1059268,
+      "NumCompleted": 3167
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51494,9 +51499,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9533
+      "UsersEstimate": 10593
     },
     {
       "ID": "FollowingTheRiver",
@@ -51702,9 +51707,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7415
+      "UsersEstimate": 8474
     },
     {
       "ID": "TheStar",
@@ -51999,21 +52004,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059253,
+      "Progressed": 1059268,
       "Completed": 3167
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187876,
+      "Progressed": 187891,
       "Completed": 10704
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-26T23:03:18.2782593+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:09:09.2410555+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:10:03.1396048+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:03:18.2782598+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:09:09.2412211+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:03:52.9731537+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:10:03.1397555+00:00"
 }

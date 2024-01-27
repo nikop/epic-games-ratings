@@ -11230,10 +11230,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21887,
       "NumberOfAwardsMax": 8087
+    },
+    {
+      "Time": "2024-01-26T23:58:36.1023431+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21888,
+      "NumberOfAwardsMax": 8087
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21887,
+  "NumberOfAwards": 21888,
   "NumberOfAwardsMax": 8087,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11259,7 +11265,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1538
+      "Count": 1539
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11310,7 +11316,7 @@
       "Count": 1115
     }
   ],
-  "EOS_Progressed": 133757,
+  "EOS_Progressed": 133761,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
@@ -41640,6 +41646,11 @@
       "Time": "2024-01-26T23:10:11.666989+00:00",
       "NumProgressed": 133757,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T00:11:30.7142768+00:00",
+      "NumProgressed": 133761,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41651,7 +41662,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41667,7 +41678,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41851,7 +41862,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41867,7 +41878,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "combat_kill_librarian",
@@ -41891,7 +41902,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41923,7 +41934,7 @@
       "Name": "It Happens",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41947,7 +41958,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41971,7 +41982,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "driving_distance_easy",
@@ -42043,7 +42054,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -42059,7 +42070,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "inn_visit_all_variants",
@@ -42251,7 +42262,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -42259,7 +42270,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -42282,21 +42293,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133757,
+      "Progressed": 133761,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8626,
+      "Progressed": 8630,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-26T22:57:55.8547988+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:10:11.6669887+00:00",
+  "LastChanged": "2024-01-26T23:58:36.1023429+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:11:30.7142764+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:57:55.8547994+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:10:11.667168+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:58:36.1023436+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:11:30.7145119+00:00"
 }

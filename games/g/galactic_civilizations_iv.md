@@ -8,8 +8,8 @@ Number of Ratings: 429  (23.09.2022)
 | ---- | ---------- | ----- |
 | Colonize a Planet | 77.00% | ~5,847 |
 | Worker Specialization | 76.00% | ~5,771 |
-| First Contact | 72.00% | ~5,467 |
-| Win a Battle | 65.00% | ~4,935 |
+| First Contact | 72.00% | ~5,468 |
+| Win a Battle | 65.00% | ~4,936 |
 | Anomaly Researcher | 60.00% | ~4,556 |
 | Unleash My Power | 60.00% | ~4,556 |
 | Own 30 Planets | 32.00% | ~2,430 |
@@ -17,11 +17,11 @@ Number of Ratings: 429  (23.09.2022)
 | Design a Civilization | 31.00% | ~2,354 |
 | Commodity Trader | 29.00% | ~2,202 |
 | Design a Ship | 27.00% | ~2,050 |
-| Commodity Seller | 24.00% | ~1,822 |
+| Commodity Seller | 24.00% | ~1,823 |
 | Prestige Victory! | 13.00% | ~987 |
 | Galactic War | 10.00% | ~759 |
 | Trading Partner | 9.00% | ~683 |
-| Fleet Victory | 8.00% | ~607 |
+| Fleet Victory | 8.00% | ~608 |
 | Win as Terrans | 7.00% | ~532 |
 | Gain an Ally | 6.00% | ~456 |
 | Win with a Custom Faction | 6.00% | ~456 |
@@ -40,10 +40,10 @@ Number of Ratings: 429  (23.09.2022)
 | Influence Victory! | 2.00% | ~152 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
+| Recruit a Dozen Leaders | 0.90% | ~68 |
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
-| Recruit a Dozen Leaders | 0.80% | ~61 |
 | Commodity Seller, Level 2 | 0.80% | ~61 |
 | Win as the Krynn | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,593 (Ranked 200)  
+Progressed: 7,594 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,6 +360,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 7,585 | 0 |
 | 2024-01-25 | 7,588 | 0 |
 | 2024-01-26 | 7,593 | 0 |
+| 2024-01-27 | 7,594 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 386)  
 Sum: 702 (Ranked 313)  

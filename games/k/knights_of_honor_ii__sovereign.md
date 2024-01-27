@@ -5,61 +5,61 @@ Rating: 4.36 (Ranked 823)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 25.00% | ~59 |
+| Hail to the King, Baby | 25.00% | ~60 |
 | Help! Help! I’m being repressed | 24.00% | ~57 |
-| Can’t Touch This | 23.00% | ~54 |
+| Can’t Touch This | 23.00% | ~55 |
 | Path of Glory | 22.00% | ~52 |
 | Bring it on! | 19.00% | ~45 |
-| There is no Nobility in Poverty | 17.00% | ~40 |
+| There is no Nobility in Poverty | 18.00% | ~43 |
+| They Got What They Deserved | 17.00% | ~40 |
 | Full House | 16.00% | ~38 |
-| They Got What They Deserved | 16.00% | ~38 |
-| Playerxander the Great | 13.00% | ~31 |
-| The finest merchandise this side of river Jordan | 12.00% | ~28 |
-| Big Apple | 9.00% | ~21 |
+| Playerxander the Great | 14.00% | ~33 |
+| The finest merchandise this side of river Jordan | 13.00% | ~31 |
+| Big Apple | 10.00% | ~24 |
+| All the King's Men | 9.00% | ~21 |
 | Dinner Time | 9.00% | ~21 |
-| All the King's Men | 8.00% | ~19 |
 | Cut-Me-Own-Throat | 8.00% | ~19 |
 | Learn Me a Book | 8.00% | ~19 |
 | What we’ve got here is failure to communicate | 8.00% | ~19 |
 | Black Sheep Wall | 6.00% | ~14 |
 | Blinded by Science | 6.00% | ~14 |
-| Do you read Sutter Cane? | 6.00% | ~14 |
 | The Magnificent Nine | 6.00% | ~14 |
 | Blessed Be His Name | 5.00% | ~12 |
+| Do you read Sutter Cane? | 5.00% | ~12 |
 | His All-Holiness | 5.00% | ~12 |
 | Let Us Pray | 5.00% | ~12 |
 | On the third day at dawn, look east | 5.00% | ~12 |
 | Pillars of the Earth | 5.00% | ~12 |
 | Scientia potentia es | 5.00% | ~12 |
 | ‘Tis but a scratch | 5.00% | ~12 |
-| Call the Boys | 4.00% | ~9 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~9 |
-| Forth, Eorlingas! | 4.00% | ~9 |
-| He made it out, but with an arrow in his back | 4.00% | ~9 |
-| His name is King | 4.00% | ~9 |
-| Kingslayer | 4.00% | ~9 |
-| Naught but a Seamless Victory | 4.00% | ~9 |
+| Call the Boys | 4.00% | ~10 |
+| Desperate Times Call for Desperate Measures | 4.00% | ~10 |
+| Forth, Eorlingas! | 4.00% | ~10 |
+| Greed is Good | 4.00% | ~10 |
+| He made it out, but with an arrow in his back | 4.00% | ~10 |
+| His name is King | 4.00% | ~10 |
+| I started a joke | 4.00% | ~10 |
+| Kingslayer | 4.00% | ~10 |
+| Naught but a Seamless Victory | 4.00% | ~10 |
 | A Quiet Palace | 3.00% | ~7 |
 | Battle of the Four Armies | 3.00% | ~7 |
 | Dust and Salt | 3.00% | ~7 |
 | Fighting with Power and Steel | 3.00% | ~7 |
-| Greed is Good | 3.00% | ~7 |
-| I started a joke | 3.00% | ~7 |
 | Fight Another Day | 3.00% | ~7 |
 | Let us trade with these fine people | 3.00% | ~7 |
+| Power Overwhelming | 3.00% | ~7 |
 | Renaissance Man | 3.00% | ~7 |
 | Time to find India | 3.00% | ~7 |
 | Vlad the Impaler | 3.00% | ~7 |
+| Crusader “you know what” | 2.00% | ~5 |
 | New Mineland | 2.00% | ~5 |
-| Power Overwhelming | 2.00% | ~5 |
+| Prince Ali! Fabulous he! | 2.00% | ~5 |
 | Together We Stand | 2.00% | ~5 |
 | You are not the boss of me now | 2.00% | ~5 |
 | You reap what you sow | 2.00% | ~5 |
-| Crusader “you know what” | 1.00% | ~2 |
 | From Rags to Riches | 1.00% | ~2 |
 | Ibn Battuta | 1.00% | ~2 |
 | Lord of the Kings | 1.00% | ~2 |
-| Prince Ali! Fabulous he! | 1.00% | ~2 |
 | Prison Break | 1.00% | ~2 |
 | Zerg Rush | 0.80% | ~2 |
 | Brutus | 0.80% | ~2 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 823)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236 (Ranked 431)  
+Progressed: 238 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
 | 2024-01-26 | 236 | 0 |
+| 2024-01-27 | 238 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

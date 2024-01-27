@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -468,10 +468,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 209829,
+  "EOS_Progressed": 209832,
   "EOS_Completed": 571,
-  "EOS_NewPlayers": 421,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 423,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30528,6 +30528,11 @@
       "Time": "2024-01-26T23:03:54.762467+00:00",
       "NumProgressed": 209829,
       "NumCompleted": 571
+    },
+    {
+      "Time": "2024-01-27T00:04:51.202213+00:00",
+      "NumProgressed": 209832,
+      "NumCompleted": 571
     }
   ],
   "TotalAchievements": 29,
@@ -30563,7 +30568,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 197239
+      "UsersEstimate": 197242
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30699,7 +30704,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10491
+      "UsersEstimate": 10492
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -30739,7 +30744,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16786
+      "UsersEstimate": 16787
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -30770,7 +30775,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209829,
+      "Progressed": 209832,
       "Completed": 571
     }
   ],
@@ -30778,8 +30783,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-26T07:59:27.0570371+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:03:54.7624664+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:04:51.2022126+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:59:31.8034373+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:03:54.7626497+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:01:02.7100124+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:04:51.2023677+00:00"
 }

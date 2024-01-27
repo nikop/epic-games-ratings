@@ -5,16 +5,16 @@ Rating: 4.51 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,455 |
-| I've Had Enough! | 15.00% | ~19,091 |
-| Fists, Fury & a lot of Rage | 11.00% | ~14,000 |
-| Seasoned Fighter | 9.00% | ~11,455 |
-| All For One and One For All | 8.00% | ~10,182 |
+| All Grown Up! | 20.00% | ~25,457 |
+| I've Had Enough! | 15.00% | ~19,093 |
+| Fists, Fury & a lot of Rage | 11.00% | ~14,002 |
+| Seasoned Fighter | 9.00% | ~11,456 |
+| All For One and One For All | 8.00% | ~10,183 |
 | Home Sweet Home? | 6.00% | ~7,637 |
 | A New Age | 5.00% | ~6,364 |
-| Oh Baby, A Triple | 3.00% | ~3,818 |
-| Master of Disguise | 3.00% | ~3,818 |
-| Symbiotic | 3.00% | ~3,818 |
+| Oh Baby, A Triple | 3.00% | ~3,819 |
+| Master of Disguise | 3.00% | ~3,819 |
+| Symbiotic | 3.00% | ~3,819 |
 | Battle Hardened | 2.00% | ~2,546 |
 | Double Punch! | 2.00% | ~2,546 |
 | It's Mayhem! | 2.00% | ~2,546 |
@@ -24,7 +24,7 @@ Rating: 4.51 (Ranked 603)
 | Katamari | 1.00% | ~1,273 |
 | Martyrdom | 1.00% | ~1,273 |
 | Zero-sum Game | 1.00% | ~1,273 |
-| Ninja Reflex | 0.90% | ~1,145 |
+| Ninja Reflex | 0.90% | ~1,146 |
 | Taste Your Own Medicine | 0.80% | ~1,018 |
 | This is GigaBash! | 0.50% | ~636 |
 | Sidetracked... | 0.50% | ~636 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 603)
 | What's Mine is Yours | 0.10% | ~127 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,276 (Ranked 94)  
+Progressed: 127,287 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,13 +94,14 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 126,676 | 0 |
 | 2024-01-25 | 126,978 | 0 |
 | 2024-01-26 | 127,276 | 0 |
+| 2024-01-27 | 127,287 | 0 |
 ## Awards
-Max (Great Boss Battles): 59  (Ranked 442)  
-Sum: 59 (Ranked 508)  
-Diff (max vs sum): -66  
+Max (Great Boss Battles): 63  (Ranked 437)  
+Sum: 63 (Ranked 506)  
+Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 59 |
+| This game has Great Boss Battles | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -156,3 +157,4 @@ Diff (max vs sum): -66
 | 2024-01-20 | 4.51 | 58 | 58 |
 | 2024-01-21 | 4.52 | 58 | 58 |
 | 2024-01-22 | 4.51 | 59 | 59 |
+| 2024-01-26 | 4.51 | 63 | 63 |

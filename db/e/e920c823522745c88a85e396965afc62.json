@@ -465,9 +465,9 @@
       "ID": "expanded",
       "SetID": "d4692al",
       "Name": "Expanded",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "expansion",
@@ -601,9 +601,9 @@
       "ID": "visitorSat",
       "SetID": "d4692al",
       "Name": "Visitor Satisfaction Wanted",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "wealthy",
@@ -624,8 +624,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:04:25.9969627+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:05:35.702428+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:56.0033725+00:00",
-  "LastUpdate_Ratings": "2024-01-26T22:57:07.10388+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:04:25.9969875+00:00"
+  "LastUpdate_Ratings": "2024-01-26T23:57:22.7158159+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:05:35.7024497+00:00"
 }

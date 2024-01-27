@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4367,7 +4367,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59842,
+  "EOS_Progressed": 59843,
   "EOS_Completed": 266,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 3,
@@ -19847,6 +19847,11 @@
       "Time": "2024-01-26T22:08:51.6795657+00:00",
       "NumProgressed": 59842,
       "NumCompleted": 266
+    },
+    {
+      "Time": "2024-01-27T00:09:25.2933791+00:00",
+      "NumProgressed": 59843,
+      "NumCompleted": 266
     }
   ],
   "TotalAchievements": 45,
@@ -19882,7 +19887,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 46078
+      "UsersEstimate": 46079
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19978,7 +19983,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 26330
+      "UsersEstimate": 26331
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -20018,7 +20023,7 @@
       "Name": "The Force Awakens",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 14960
+      "UsersEstimate": 14961
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -20122,7 +20127,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57448
+      "UsersEstimate": 57449
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -20162,7 +20167,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41291
+      "UsersEstimate": 41292
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -20194,7 +20199,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 30519
+      "UsersEstimate": 30520
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -20210,22 +20215,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41291
+      "UsersEstimate": 41292
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59842,
+      "Progressed": 59843,
       "Completed": 266
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-26T22:03:00.9113281+00:00",
-  "LastChanged_Achievements": "2024-01-26T23:08:42.5118297+00:00",
+  "LastChanged_Achievements": "2024-01-27T00:09:25.2933786+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.6764829+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:02:57.0107259+00:00",
-  "LastUpdate_Achievements": "2024-01-26T23:08:42.5119415+00:00"
+  "LastUpdate_Ratings": "2024-01-27T00:03:20.4237399+00:00",
+  "LastUpdate_Achievements": "2024-01-27T00:09:25.2934833+00:00"
 }

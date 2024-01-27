@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Panic! | 96.00% | ~1,620 |
-| Space Colonization | 78.00% | ~1,316 |
-| Friendzone | 77.00% | ~1,299 |
+| Space Colonization | 78.00% | ~1,317 |
+| Friendzone | 76.00% | ~1,283 |
 | Hello World | 71.00% | ~1,198 |
-| Space Engineer | 60.00% | ~1,012 |
-| Tinkerer | 60.00% | ~1,012 |
+| Space Engineer | 60.00% | ~1,013 |
+| Tinkerer | 60.00% | ~1,013 |
 | Dust to Dust | 56.00% | ~945 |
-| Across The Stars | 44.00% | ~742 |
+| Across The Stars | 44.00% | ~743 |
 | Crafty | 42.00% | ~709 |
 | All Seats Taken | 34.00% | ~574 |
 | For Science! | 31.00% | ~523 |
@@ -32,14 +32,14 @@
 | Fix-It Felix | 6.00% | ~101 |
 | Axel jump in space! | 5.00% | ~84 |
 | Flawless Maegangement | 5.00% | ~84 |
-| Extreme Makeover | 4.00% | ~67 |
+| Extreme Makeover | 4.00% | ~68 |
 | The Improvinator | 3.00% | ~51 |
 | The Last Supper | 3.00% | ~51 |
 | 2018: A Soup Odyssey | 2.00% | ~34 |
 | Bovine Domain | 1.00% | ~17 |
 | That's No Moon! | 1.00% | ~17 |
 | Feels like home | 0.90% | ~15 |
-| Space Selfie | 0.80% | ~13 |
+| Space Selfie | 0.80% | ~14 |
 | AAARGH! | 0.70% | ~12 |
 | No Ticket | 0.60% | ~10 |
 | Bingpot! | 0.50% | ~8 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,687 (Ranked 268)  
+Progressed: 1,688 (Ranked 268)  
 Completed: 1 (0.06%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 1 (0.06%) (Ranked 342)
 | 2024-01-24 | 1,664 | 1 |
 | 2024-01-25 | 1,676 | 1 |
 | 2024-01-26 | 1,687 | 1 |
+| 2024-01-27 | 1,688 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
