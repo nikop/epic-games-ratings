@@ -35,11 +35,11 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 1.00% | ~16 |
 | Plague Doctor | 0.90% | ~15 |
 | Bears are Scary | 0.90% | ~15 |
+| Grillmaster | 0.90% | ~15 |
 | Tempest | 0.90% | ~15 |
 | Storied Past | 0.80% | ~13 |
 | Worldwalker | 0.80% | ~13 |
 | Fight Like a Bird | 0.80% | ~13 |
-| Grillmaster | 0.80% | ~13 |
 | Bonebreakers | 0.70% | ~11 |
 | A Hunger, Sated | 0.70% | ~11 |
 | Wingknight's Prowess | 0.70% | ~11 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.10% | ~2 |
 | Peacemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,623 (Ranked 271)  
+Progressed: 1,624 (Ranked 271)  
 Completed: 7 (0.43%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 7 (0.43%) (Ranked 244)
 | 2024-01-24 | 1,618 | 7 |
 | 2024-01-25 | 1,619 | 7 |
 | 2024-01-26 | 1,622 | 7 |
-| 2024-01-27 | 1,623 | 7 |
+| 2024-01-27 | 1,624 | 7 |
 ## Awards
 Max (Character Customization): 30  (Ranked 532)  
 Sum: 30 (Ranked 552)  

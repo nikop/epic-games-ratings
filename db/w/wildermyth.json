@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -178,9 +178,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 1623,
+  "EOS_Progressed": 1624,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2573,6 +2573,11 @@
       "Time": "2024-01-27T00:11:33.6781587+00:00",
       "NumProgressed": 1623,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-27T01:50:10.4442164+00:00",
+      "NumProgressed": 1624,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2926,9 +2931,9 @@
       "ID": "theme_fire_hit5EnemiesAtOnce",
       "SetID": "95dc8p",
       "Name": "Grillmaster",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -3031,15 +3036,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1623,
+      "Progressed": 1624,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:11:33.6781583+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:50:10.4442158+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.1220407+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:59:43.9035229+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:11:33.6782086+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:38:17.8230472+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:50:10.4442568+00:00"
 }

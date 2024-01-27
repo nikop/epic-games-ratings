@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1575,7 +1575,7 @@
       "ID": "assemble_puzzles",
       "SetID": "f2im8d",
       "Name": "The Big Picture",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1815,9 +1815,9 @@
       "ID": "once_upon_a_time",
       "SetID": "f2im8d",
       "Name": "Once Upon a Time",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "perfect_storm",
@@ -1982,8 +1982,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:10:12.6407961+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:48:53.8666835+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:01:55.9529635+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:10:12.640832+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:40:22.6014383+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:48:53.8667177+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,790 |
+| A Brief Tour of the Realms | 5.00% | ~12,791 |
 | Beast Intentions | 2.00% | ~5,116 |
 | The Cursed Farmer | 2.00% | ~5,116 |
 | The Mad Wizard | 2.00% | ~5,116 |
@@ -19,14 +19,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.80% | ~2,046 |
 | Welcome to Sigil | 0.80% | ~1,777 |
 | A Persistent Buzzing | 0.70% | ~1,791 |
-| Fast Food | 0.70% | ~1,554 |
+| Fast Food | 0.70% | ~1,555 |
 | Maddening | 0.60% | ~1,535 |
 | Terror in the Dark | 0.60% | ~1,535 |
+| A Mysterious Summons | 0.60% | ~1,535 |
 | Unearthed Evil | 0.60% | ~1,535 |
 | The Crumbling Temple | 0.60% | ~1,535 |
 | The Contagious Curse | 0.60% | ~1,535 |
 | Beast Mode | 0.50% | ~1,279 |
-| A Mysterious Summons | 0.50% | ~1,279 |
 | Building Trust | 0.50% | ~1,279 |
 | Useless Allies | 0.50% | ~1,279 |
 | Exploring Port Nyanzaru | 0.50% | ~1,279 |
@@ -131,6 +131,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.20% | ~512 |
 | Hopelessly Lost | 0.20% | ~512 |
 | Enter the Sargauth | 0.20% | ~512 |
+| Elder Rune Madness | 0.20% | ~512 |
 | Slow and Steady | 0.20% | ~512 |
 | Lair of the Xanathar | 0.20% | ~512 |
 | Waterdeep Under Siege | 0.20% | ~512 |
@@ -331,7 +332,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.10% | ~256 |
 | Flame(skull) War | 0.10% | ~256 |
 | Servants of the Demon Prince | 0.10% | ~222 |
-| Elder Rune Madness | 0.10% | ~256 |
 | The Madness Grows | 0.10% | ~256 |
 | The Madness Peaks | 0.10% | ~222 |
 | Who Lurks in Lurkwood | 0.10% | ~256 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,791 (Ranked 71)  
-Completed: 2,654 (1.04%) (Ranked 179)  
+Progressed: 255,811 (Ranked 71)  
+Completed: 2,655 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -835,7 +835,7 @@ Completed: 2,654 (1.04%) (Ranked 179)
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
 | 2024-01-26 | 255,788 | 2,654 |
-| 2024-01-27 | 255,791 | 2,654 |
+| 2024-01-27 | 255,811 | 2,655 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
 Sum: 33,658 (Ranked 42)  

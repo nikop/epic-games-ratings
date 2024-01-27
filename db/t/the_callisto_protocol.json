@@ -2387,9 +2387,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22759,
+  "EOS_Progressed": 22760,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -15022,6 +15022,11 @@
       "Time": "2024-01-27T00:11:13.0452416+00:00",
       "NumProgressed": 22759,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-27T01:49:50.5523071+00:00",
+      "NumProgressed": 22760,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15201,7 +15206,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "PRINT_WEAPON",
@@ -15241,7 +15246,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "STORY_HANGAR",
@@ -15408,13 +15413,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22759,
+      "Progressed": 22760,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10685,
+      "Progressed": 10686,
       "Completed": 29
     }
   ],
@@ -15422,8 +15427,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-26T21:03:19.1534048+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:11:13.0452411+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:49:50.5523062+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:04:03.4266845+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:11:13.045332+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:42:43.8018134+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:49:50.5524078+00:00"
 }

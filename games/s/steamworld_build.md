@@ -10,7 +10,7 @@
 | Conducted Trade | 69.00% | ~191 |
 | Going Places | 66.00% | ~183 |
 | Aristocratic | 64.00% | ~177 |
-| Tutti Frutti | 59.00% | ~163 |
+| Tutti Frutti | 60.00% | ~166 |
 | Slotting Machine | 48.00% | ~133 |
 | Systematic | 47.00% | ~130 |
 | Gotta Go Fast | 45.00% | ~125 |

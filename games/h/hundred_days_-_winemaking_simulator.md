@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 837)  
+Rating: 4.35 (Ranked 836)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 44.00% | ~9,772 |
-| It's a good start | 10.00% | ~2,221 |
+| Bye Bye | 44.00% | ~9,775 |
+| It's a good start | 10.00% | ~2,222 |
 | Bonjour! | 8.00% | ~1,777 |
 | Quack | 8.00% | ~1,777 |
-| The Assistant | 6.00% | ~1,332 |
-| The Blue Marl | 6.00% | ~1,332 |
-| Ostinata | 5.00% | ~1,110 |
-| Better than nothing? | 5.00% | ~1,110 |
-| A long journey | 4.00% | ~888 |
-| Big Money | 3.00% | ~666 |
-| Keep the doctor away | 3.00% | ~666 |
-| Surprise of Langhe | 3.00% | ~666 |
-| Famous | 3.00% | ~666 |
+| The Assistant | 6.00% | ~1,333 |
+| The Blue Marl | 6.00% | ~1,333 |
+| Ostinata | 5.00% | ~1,111 |
+| Better than nothing? | 5.00% | ~1,111 |
+| A long journey | 4.00% | ~889 |
+| Big Money | 3.00% | ~667 |
+| Keep the doctor away | 3.00% | ~667 |
+| Surprise of Langhe | 3.00% | ~667 |
+| Famous | 3.00% | ~667 |
 | What is that? A castle? | 2.00% | ~444 |
 | A lot of space | 2.00% | ~444 |
 | A big garage | 2.00% | ~444 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Very Important Winemaker | 2.00% | ~444 |
 | King of Langhe | 1.00% | ~222 |
 | Gem of Monferrato | 1.00% | ~222 |
-| Treasure of Roero | 0.70% | ~155 |
+| Treasure of Roero | 0.70% | ~156 |
 | Knight of Langhe | 0.50% | ~111 |
 | King of red wines | 0.20% | ~44 |
 | King of white wines | 0.10% | ~22 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~22 |
 | Unsuitable Terroir | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,208 (Ranked 155)  
+Progressed: 22,217 (Ranked 155)  
 Completed: 13 (0.06%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 13 (0.06%) (Ranked 342)
 | 2024-01-24 | 22,001 | 13 |
 | 2024-01-25 | 22,090 | 13 |
 | 2024-01-26 | 22,202 | 13 |
-| 2024-01-27 | 22,208 | 13 |
+| 2024-01-27 | 22,217 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 300)  
 Sum: 1,741 (Ranked 233)  

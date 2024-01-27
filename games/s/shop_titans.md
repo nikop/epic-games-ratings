@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,358 |
-| Titan's First Steps | 12.00% | ~18,358 |
+| Sponsored by Argon | 12.00% | ~18,359 |
+| Titan's First Steps | 12.00% | ~18,359 |
 | Basic in Bulk | 11.00% | ~16,829 |
 | Tinkle of Coins | 10.00% | ~15,299 |
 | Disintermediation | 8.00% | ~12,239 |
@@ -19,20 +19,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 6.00% | ~9,179 |
 | Pretty Penny | 6.00% | ~9,179 |
 | Own the Means of Production | 6.00% | ~9,179 |
-| The Daily Grind | 5.00% | ~7,649 |
-| Bounty Hunters | 5.00% | ~7,649 |
-| Where it Hurts | 5.00% | ~7,649 |
-| One-Armed Bandit | 5.00% | ~7,649 |
-| Dungeon Imports | 5.00% | ~7,649 |
-| Through Repetition, Perfection | 5.00% | ~7,649 |
-| On the Path to Greatness | 4.00% | ~6,119 |
-| Demand for Supplies | 4.00% | ~6,119 |
-| Flooding the Market | 4.00% | ~6,119 |
-| Gem Expert | 4.00% | ~6,119 |
-| Gild-Gotten Goods | 4.00% | ~6,119 |
-| Accomplished Merchant | 4.00% | ~6,119 |
-| Did we pack lunch? | 4.00% | ~6,119 |
-| Arcane Industries | 4.00% | ~6,119 |
+| The Daily Grind | 5.00% | ~7,650 |
+| Bounty Hunters | 5.00% | ~7,650 |
+| Where it Hurts | 5.00% | ~7,650 |
+| One-Armed Bandit | 5.00% | ~7,650 |
+| Dungeon Imports | 5.00% | ~7,650 |
+| Through Repetition, Perfection | 5.00% | ~7,650 |
+| On the Path to Greatness | 4.00% | ~6,120 |
+| Demand for Supplies | 4.00% | ~6,120 |
+| Flooding the Market | 4.00% | ~6,120 |
+| Gem Expert | 4.00% | ~6,120 |
+| Gild-Gotten Goods | 4.00% | ~6,120 |
+| Accomplished Merchant | 4.00% | ~6,120 |
+| Did we pack lunch? | 4.00% | ~6,120 |
+| Arcane Industries | 4.00% | ~6,120 |
 | A Notch Above the Rest | 3.00% | ~4,590 |
 | Ascended | 3.00% | ~4,590 |
 | Tax not Included | 3.00% | ~4,590 |
@@ -77,6 +77,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 2.00% | ~3,060 |
 | Master of Transmutation | 2.00% | ~3,060 |
 | Supercharged | 2.00% | ~3,060 |
+| Thank You Tom Nook | 2.00% | ~3,060 |
 | Ritualist | 2.00% | ~3,060 |
 | Cranked up to 11 | 2.00% | ~3,060 |
 | Fit for a King | 2.00% | ~3,060 |
@@ -102,7 +103,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 2.00% | ~3,060 |
 | King's Blade | 2.00% | ~3,060 |
 | The Free Encyclopedia | 1.00% | ~1,530 |
-| Thank You Tom Nook | 1.00% | ~1,530 |
 | Jackpot! | 1.00% | ~1,530 |
 | The Greatest Grind | 1.00% | ~1,530 |
 | All or Nothing! | 1.00% | ~1,530 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~612 |
 | Capitalist Camaraderie | 0.30% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,987 (Ranked 87)  
+Progressed: 152,990 (Ranked 87)  
 Completed: 365 (0.24%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 365 (0.24%) (Ranked 282)
 | 2024-01-24 | 152,717 | 363 |
 | 2024-01-25 | 152,844 | 364 |
 | 2024-01-26 | 152,981 | 365 |
-| 2024-01-27 | 152,987 | 365 |
+| 2024-01-27 | 152,990 | 365 |
 ## Awards
 Max (Great for Beginners): 4,982  (Ranked 84)  
 Sum: 28,062 (Ranked 52)  

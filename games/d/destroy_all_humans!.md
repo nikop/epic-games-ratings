@@ -6,12 +6,12 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 78.00% | ~452 |
-| Kaijuiced | 72.00% | ~418 |
+| Shop Til They Drop | 79.00% | ~458 |
+| Kaijuiced | 73.00% | ~423 |
 | Lie Back and Think of Albion | 67.00% | ~389 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~371 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~377 |
+| I Look Up As I Walk to Takoshima | 63.00% | ~365 |
 | Yettisoned | 62.00% | ~360 |
-| I Look Up As I Walk to Takoshima | 62.00% | ~360 |
 | Pimp My Raid | 59.00% | ~342 |
 | Perfect Probulator | 59.00% | ~342 |
 | Lobster Blisque | 54.00% | ~313 |
@@ -19,13 +19,13 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 49.00% | ~284 |
 | Earthly Pleasures | 48.00% | ~278 |
 | Freshly Squeezed | 38.00% | ~220 |
+| Upgreatest | 38.00% | ~220 |
 | Bodied Sattva | 38.00% | ~220 |
 | Forbidden Donut | 37.00% | ~215 |
-| Upgreatest | 37.00% | ~215 |
 | Furon Fashion | 31.00% | ~180 |
 | Deincarnated | 30.00% | ~174 |
 | Rock of the Bay | 29.00% | ~168 |
-| Trans-Siberian Express | 26.00% | ~151 |
+| Trans-Siberian Express | 27.00% | ~157 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~122 |
 | Arkvoodle Doodle | 19.00% | ~110 |
 | Die Nasty | 18.00% | ~104 |

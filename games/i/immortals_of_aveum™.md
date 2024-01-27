@@ -18,7 +18,7 @@ Rating: 4.19 (Ranked 984)
 | Socialite | 26.00% | ~941 |
 | Beggars Would Ride | 26.00% | ~941 |
 | Control is an Illusion | 24.00% | ~868 |
-| The Means to Save It | 21.00% | ~760 |
+| The Means to Save It | 22.00% | ~796 |
 | Resilience to Sin | 20.00% | ~724 |
 | A Familiar Nest | 19.00% | ~687 |
 | Periapt Alizarin | 19.00% | ~687 |

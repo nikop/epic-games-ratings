@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -193,7 +193,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3518,
+  "EOS_Progressed": 3519,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 3,
@@ -6858,6 +6858,11 @@
       "Time": "2024-01-26T19:05:46.259185+00:00",
       "NumProgressed": 3518,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-27T01:44:22.1741496+00:00",
+      "NumProgressed": 3519,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 53,
@@ -6877,7 +6882,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6933,7 +6938,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6965,7 +6970,7 @@
       "Name": "Friendly fire",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -6981,7 +6986,7 @@
       "Name": "I chose my shackles",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -7045,7 +7050,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -7053,7 +7058,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -7093,7 +7098,7 @@
       "Name": "Thornbarrow",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -7149,7 +7154,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -7205,7 +7210,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -7213,7 +7218,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -7245,7 +7250,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -7261,7 +7266,7 @@
       "Name": "Full equipped",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -7277,7 +7282,7 @@
       "Name": "Ancient power",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -7292,7 +7297,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3518,
+      "Progressed": 3519,
       "Completed": 37
     }
   ],
@@ -7300,8 +7305,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-23T22:57:45.4378853+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:05:49.8809122+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:44:22.1741491+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.6014461+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:00:47.2537626+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:05:49.8809956+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:39:17.6299507+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:44:22.1742102+00:00"
 }

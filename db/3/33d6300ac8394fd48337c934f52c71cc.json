@@ -4,7 +4,7 @@
   "ProductSlug": "my-product-a3639cd0-e55545",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 533,
+  "Ranking_EOS_NewPlayers": 536,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2024-02-09T15:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-21T21:03:51.6784135+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:07:36.9304697+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:46:04.0866003+00:00",
   "LastUpdate_AppInfo": "2024-01-21T20:57:03.3368155+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:01:17.058819+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:07:36.9304712+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:39:45.4899852+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:46:04.0866022+00:00"
 }

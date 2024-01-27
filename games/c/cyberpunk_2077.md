@@ -7,14 +7,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Right Back At Ya | 1.00% | ~10,593 |
-| Full Body Conversion | 0.90% | ~9,533 |
-| The Hermit | 0.90% | ~9,533 |
-| True Soldier | 0.90% | ~9,533 |
+| Full Body Conversion | 0.90% | ~9,534 |
+| The Hermit | 0.90% | ~9,534 |
+| The Wheel of Fortune | 0.90% | ~9,534 |
+| True Soldier | 0.90% | ~9,534 |
 | Christmas Tree Attack | 0.80% | ~8,474 |
 | Life of the Road | 0.80% | ~8,474 |
 | The High Priestess | 0.80% | ~8,474 |
 | The Lovers | 0.80% | ~8,474 |
-| The Wheel of Fortune | 0.80% | ~8,474 |
 | Legend of The Afterlife | 0.80% | ~8,474 |
 | Bushido and Chill | 0.70% | ~7,415 |
 | Stanislavski's Method | 0.70% | ~7,415 |
@@ -25,10 +25,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gun Fu | 0.60% | ~6,356 |
 | Master Crafter | 0.60% | ~6,356 |
 | Judy vs Night City | 0.60% | ~6,356 |
-| To Protect and Serve | 0.50% | ~5,296 |
-| I Am The Law | 0.50% | ~5,296 |
-| The Quick and the Dead | 0.50% | ~5,296 |
-| True Warrior | 0.50% | ~5,296 |
+| To Protect and Serve | 0.50% | ~5,297 |
+| I Am The Law | 0.50% | ~5,297 |
+| The Quick and the Dead | 0.50% | ~5,297 |
+| True Warrior | 0.50% | ~5,297 |
 | The Wandering Fool | 0.40% | ~4,237 |
 | Two Heads, One Bullet | 0.40% | ~4,237 |
 | Spin Doctor | 0.40% | ~752 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,268 (Ranked 17)  
-Completed: 3,167 (0.30%) (Ranked 267)  
+Progressed: 1,059,302 (Ranked 17)  
+Completed: 3,168 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -356,10 +356,10 @@ Completed: 3,167 (0.30%) (Ranked 267)
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
 | 2024-01-26 | 1,059,253 | 3,167 |
-| 2024-01-27 | 1,059,268 | 3,167 |
+| 2024-01-27 | 1,059,302 | 3,168 |
 ## Awards
 Max (Character Customization): 145,484  (Ranked 8)  
-Sum: 522,195 (Ranked 8)  
+Sum: 522,293 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -373,7 +373,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 30,172 |
 | This game is Relaxing | 29,209 |
 | This game has Quickly Understood Controls | 29,130 |
-| This game has a Creative Community | 20,262 |
+| This game has a Creative Community | 20,360 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -750,3 +750,4 @@ Diff (max vs sum): 0
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
 | 2024-01-25 | 4.68 | - | 145,126 | 520,256 |
 | 2024-01-26 | 4.68 | - | 145,484 | 522,195 |
+| 2024-01-27 | 4.68 | - | 145,484 | 522,293 |

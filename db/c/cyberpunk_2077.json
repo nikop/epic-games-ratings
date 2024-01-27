@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -19092,10 +19092,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 522195,
       "NumberOfAwardsMax": 145484
+    },
+    {
+      "Time": "2024-01-27T01:42:33.8515293+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 522293,
+      "NumberOfAwardsMax": 145484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 522195,
+  "NumberOfAwards": 522293,
   "NumberOfAwardsMax": 145484,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19169,13 +19175,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 20262
+      "Count": 20360
     }
   ],
-  "EOS_Progressed": 1059268,
-  "EOS_Completed": 3167,
-  "EOS_NewPlayers": 4046,
-  "EOS_NewCompleters": 38,
+  "EOS_Progressed": 1059302,
+  "EOS_Completed": 3168,
+  "EOS_NewPlayers": 4043,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51457,6 +51463,11 @@
       "Time": "2024-01-27T00:10:03.1396051+00:00",
       "NumProgressed": 1059268,
       "NumCompleted": 3167
+    },
+    {
+      "Time": "2024-01-27T01:48:44.7820228+00:00",
+      "NumProgressed": 1059302,
+      "NumCompleted": 3168
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51493,7 +51504,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9533
+      "UsersEstimate": 9534
     },
     {
       "ID": "Denied",
@@ -51509,7 +51520,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "Fortuneteller",
@@ -51565,7 +51576,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -51597,7 +51608,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "MustBeTheRats",
@@ -51693,7 +51704,7 @@
       "Name": "The Hermit",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9533
+      "UsersEstimate": 9534
     },
     {
       "ID": "TheHightPriestess",
@@ -51731,9 +51742,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8474
+      "UsersEstimate": 9534
     },
     {
       "ID": "TheWorld",
@@ -51765,7 +51776,7 @@
       "Name": "True Soldier",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 9533
+      "UsersEstimate": 9534
     },
     {
       "ID": "TrueWarrior",
@@ -51773,7 +51784,7 @@
       "Name": "True Warrior",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -52004,21 +52015,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059268,
-      "Completed": 3167
+      "Progressed": 1059302,
+      "Completed": 3168
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187891,
-      "Completed": 10704
+      "Progressed": 187925,
+      "Completed": 10705
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-26T23:03:18.2782593+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:10:03.1396048+00:00",
+  "LastChanged": "2024-01-27T01:42:33.8515291+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:48:44.7820225+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:03:52.9731537+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:10:03.1397555+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:42:33.85153+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:48:44.7821739+00:00"
 }

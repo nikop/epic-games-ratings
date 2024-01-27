@@ -2,12 +2,12 @@
   "ID": "e5decf71f325458b92653616ee98682a",
   "Name": "Deponia: The Complete Journey",
   "ProductSlug": "deponia-the-complete-journey",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 360,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 533,
+  "Ranking_EOS_NewPlayers": 536,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 777,
   "RatingHistory": [
     {
@@ -721,6 +721,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 295,
       "NumberOfAwardsMax": 295
+    },
+    {
+      "Time": "2024-01-27T01:38:04.3833304+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 295
     }
   ],
   "ReviewsDisabled": false,
@@ -746,8 +752,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2024-01-18T23:58:55.8168777+00:00",
+  "LastChanged": "2024-01-27T01:38:04.3833301+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:31.5589666+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:59:30.1407007+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:04:37.2938962+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:38:04.3833309+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:43:14.3422618+00:00"
 }

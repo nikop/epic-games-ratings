@@ -5,14 +5,14 @@ Rating: 4.12 (Ranked 1,029)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 47.00% | ~42,598 |
-| More Power to You | 27.00% | ~24,471 |
-| As Far Away As Possible | 21.00% | ~19,033 |
-| A Most Unstable Organism | 14.00% | ~12,689 |
-| No Time to Follow Protocol | 9.00% | ~8,157 |
+| Your Lucky Day | 47.00% | ~42,602 |
+| More Power to You | 27.00% | ~24,473 |
+| As Far Away As Possible | 21.00% | ~19,035 |
+| A Most Unstable Organism | 14.00% | ~12,690 |
+| No Time to Follow Protocol | 9.00% | ~8,158 |
 | Nano Connoisseur | 8.00% | ~7,251 |
-| Float Like a Butterfly... | 7.00% | ~6,344 |
-| In Two Places At Once | 6.00% | ~5,438 |
+| Float Like a Butterfly... | 7.00% | ~6,345 |
+| In Two Places At Once | 6.00% | ~5,439 |
 | Pulling Your Weight | 3.00% | ~2,719 |
 | Reaping Rivals | 3.00% | ~2,719 |
 | fifteenth Time's the Charm | 1.00% | ~906 |
@@ -22,7 +22,7 @@ Rating: 4.12 (Ranked 1,029)
 | Runs for Your Money | 0.30% | ~272 |
 | Past Master | 0.30% | ~272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,633 (Ranked 109)  
+Progressed: 90,642 (Ranked 109)  
 Completed: 79 (0.09%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,15 +175,15 @@ Completed: 79 (0.09%) (Ranked 331)
 | 2024-01-24 | 90,305 | 76 |
 | 2024-01-25 | 90,456 | 78 |
 | 2024-01-26 | 90,626 | 79 |
-| 2024-01-27 | 90,633 | 79 |
+| 2024-01-27 | 90,642 | 79 |
 ## Awards
 Max (Great for Beginners): 142  (Ranked 344)  
-Sum: 548 (Ranked 334)  
+Sum: 549 (Ranked 334)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 142 |
-| This game has Diverse Characters | 100 |
+| This game has Diverse Characters | 101 |
 | This game is Highly Recommended | 70 |
 | This game has Amazing Characters | 68 |
 | This game is Extremely Fun | 67 |
@@ -324,3 +324,4 @@ Diff (max vs sum): 10
 | 2024-01-24 | 4.12 | 141 | 543 |
 | 2024-01-25 | 4.12 | 142 | 546 |
 | 2024-01-26 | 4.12 | 142 | 548 |
+| 2024-01-27 | 4.12 | 142 | 549 |

@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~55,013 |
-| Worth it | 63.00% | ~44,434 |
-| Eagle Eye | 54.00% | ~38,086 |
-| Corpseman I | 39.00% | ~27,507 |
-| Blast fishing | 37.00% | ~26,096 |
-| Not alone | 32.00% | ~22,570 |
-| Headhunter I | 26.00% | ~18,338 |
-| Developers, Developers, Developers | 24.00% | ~16,927 |
-| Manual Labour I | 24.00% | ~16,927 |
-| Basic Training | 23.00% | ~16,222 |
-| Furchtlos und Treu | 13.00% | ~9,169 |
+| Setting an example | 78.00% | ~55,017 |
+| Worth it | 63.00% | ~44,437 |
+| Eagle Eye | 54.00% | ~38,089 |
+| Corpseman I | 39.00% | ~27,509 |
+| Blast fishing | 37.00% | ~26,098 |
+| Not alone | 32.00% | ~22,571 |
+| Headhunter I | 26.00% | ~18,339 |
+| Developers, Developers, Developers | 24.00% | ~16,928 |
+| Manual Labour I | 24.00% | ~16,928 |
+| Basic Training | 23.00% | ~16,223 |
+| Furchtlos und Treu | 13.00% | ~9,170 |
 | Gott Mit Uns | 12.00% | ~8,464 |
 | This We'll Defend! | 9.00% | ~6,348 |
 | For King and Country | 9.00% | ~6,348 |
-| Battle hardened | 8.00% | ~5,642 |
-| Anker wirf! | 8.00% | ~5,642 |
-| Providentiea Memor | 8.00% | ~5,642 |
+| Battle hardened | 8.00% | ~5,643 |
+| Anker wirf! | 8.00% | ~5,643 |
+| Providentiea Memor | 8.00% | ~5,643 |
 | Semper Fidelis! | 7.00% | ~4,937 |
 | Honneur et Patrie | 7.00% | ~4,937 |
-| In Treue Fest | 5.00% | ~3,526 |
-| Voor De Koning | 5.00% | ~3,526 |
-| Extreme Headhunter | 5.00% | ~3,526 |
+| In Treue Fest | 5.00% | ~3,527 |
+| Voor De Koning | 5.00% | ~3,527 |
+| Extreme Headhunter | 5.00% | ~3,527 |
 | Advance Australia | 4.00% | ~2,821 |
 | We Stand on Guard | 4.00% | ~2,821 |
 | Sidi Brahim | 4.00% | ~2,821 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~71 |
 | Blood Brother | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,530 (Ranked 117)  
+Progressed: 70,535 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-24 | 70,351 | 4 |
 | 2024-01-25 | 70,436 | 4 |
 | 2024-01-26 | 70,528 | 4 |
-| 2024-01-27 | 70,530 | 4 |
+| 2024-01-27 | 70,535 | 4 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 377)  
 Sum: 844 (Ranked 290)  

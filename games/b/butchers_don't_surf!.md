@@ -26,7 +26,7 @@
 | Watch the End of the Story | 0.00% | ~0 |
 | Win All Medals | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 783)  
+Progressed: 1 (Ranked 784)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |

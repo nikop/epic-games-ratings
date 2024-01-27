@@ -547,9 +547,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -795,9 +795,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -1003,9 +1003,9 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -1200,8 +1200,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:04:49.1219442+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:43:25.0047095+00:00",
   "LastUpdate_AppInfo": "2024-01-24T18:57:12.0797341+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:59:10.99478+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:04:49.1220227+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:37:46.5758876+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:43:25.004788+00:00"
 }

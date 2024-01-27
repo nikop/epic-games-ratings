@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 788)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,936 |
-| Predator I | 23.00% | ~60,049 |
-| Fixer I | 10.00% | ~26,108 |
-| A week in Century City | 10.00% | ~26,108 |
+| Survivor | 31.00% | ~80,937 |
+| Predator I | 23.00% | ~60,050 |
+| Fixer I | 10.00% | ~26,109 |
+| A week in Century City | 10.00% | ~26,109 |
 | The Wait | 7.00% | ~18,276 |
 | Green thumb I | 6.00% | ~15,665 |
 | Cleaning Company | 6.00% | ~15,665 |
 | Well-oiled machine | 5.00% | ~13,054 |
 | Saver I | 5.00% | ~13,054 |
-| The Ascent | 4.00% | ~10,443 |
-| Pacifist | 4.00% | ~10,443 |
-| Vandalism | 4.00% | ~10,443 |
-| Capitalist I | 4.00% | ~10,443 |
-| Fixer II | 3.00% | ~7,832 |
-| It took a while | 3.00% | ~7,832 |
-| Adrenaline | 3.00% | ~7,832 |
-| Predator II | 3.00% | ~7,832 |
+| The Ascent | 4.00% | ~10,444 |
+| Pacifist | 4.00% | ~10,444 |
+| Vandalism | 4.00% | ~10,444 |
+| Capitalist I | 4.00% | ~10,444 |
+| Fixer II | 3.00% | ~7,833 |
+| It took a while | 3.00% | ~7,833 |
+| Adrenaline | 3.00% | ~7,833 |
+| Predator II | 3.00% | ~7,833 |
 | By a hair | 2.00% | ~5,222 |
 | Samurai | 2.00% | ~5,222 |
 | I Left You a Present | 2.00% | ~5,222 |
@@ -37,9 +37,9 @@ Rating: 4.39 (Ranked 788)
 | Run the Economy | 1.00% | ~2,611 |
 | Committed Relationship | 0.80% | ~2,089 |
 | Number 1 | 0.80% | ~2,089 |
-| The Gamble | 0.60% | ~1,566 |
-| A major purchase | 0.60% | ~1,566 |
-| Interior designer | 0.60% | ~1,566 |
+| The Gamble | 0.60% | ~1,567 |
+| A major purchase | 0.60% | ~1,567 |
+| Interior designer | 0.60% | ~1,567 |
 | The Descent | 0.50% | ~1,305 |
 | Predator III | 0.50% | ~1,305 |
 | Expert Hunter | 0.40% | ~1,044 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 788)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,083 (Ranked 69)  
+Progressed: 261,088 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,6 +344,7 @@ Completed: 3 (0.00%) (Ranked 414)
 | 2024-01-24 | 261,032 | 3 |
 | 2024-01-25 | 261,056 | 3 |
 | 2024-01-26 | 261,083 | 3 |
+| 2024-01-27 | 261,088 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 453)  
 Sum: 390 (Ranked 366)  

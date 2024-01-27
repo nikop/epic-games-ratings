@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10611,
+  "EOS_Progressed": 10617,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4334,6 +4334,11 @@
       "Time": "2024-01-27T00:10:31.6265377+00:00",
       "NumProgressed": 10611,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-27T01:49:12.0026036+00:00",
+      "NumProgressed": 10617,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -4346,7 +4351,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5202
     },
     {
       "ID": "Document1",
@@ -4362,7 +4367,7 @@
       "Name": "Document Discoverer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Document3",
@@ -4409,14 +4414,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 10611,
+      "Progressed": 10617,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:10:31.6265372+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:49:12.0026029+00:00",
   "LastUpdate_AppInfo": "2024-01-21T22:57:09.6072792+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:58:13.8917038+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:10:31.626563+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:36:52.2397007+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:49:12.0026361+00:00"
 }

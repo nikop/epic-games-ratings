@@ -5,27 +5,27 @@ Rating: 4.65 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~17,073 |
-| On the Top Step | 83.00% | ~15,572 |
-| Setting up for Success | 70.00% | ~13,133 |
-| Team Orders | 68.00% | ~12,757 |
-| Engineer | 46.00% | ~8,630 |
+| Getting on the Step | 91.00% | ~17,074 |
+| On the Top Step | 83.00% | ~15,573 |
+| Setting up for Success | 70.00% | ~13,134 |
+| Team Orders | 68.00% | ~12,759 |
+| Engineer | 46.00% | ~8,631 |
 | Familiar Faces | 42.00% | ~7,880 |
-| Going the Extra Mile | 36.00% | ~6,754 |
+| Going the Extra Mile | 36.00% | ~6,755 |
 | Sharing the Love | 34.00% | ~6,379 |
 | Hitting a Season | 29.00% | ~5,441 |
 | A Dozen Pieces | 26.00% | ~4,878 |
-| Making History | 25.00% | ~4,690 |
+| Making History | 25.00% | ~4,691 |
 | Network Success | 24.00% | ~4,503 |
 | Challenge Yourself | 24.00% | ~4,503 |
-| Writing a new Chapter | 20.00% | ~3,752 |
+| Writing a new Chapter | 20.00% | ~3,753 |
 | Spring Cleaning | 19.00% | ~3,565 |
 | Reduce | 15.00% | ~2,814 |
 | Ups and Downs | 15.00% | ~2,814 |
 | Crucial Combo | 13.00% | ~2,439 |
 | Reuse | 13.00% | ~2,439 |
 | Proving Them Wrong | 13.00% | ~2,439 |
-| Gathering Dust | 12.00% | ~2,251 |
+| Gathering Dust | 12.00% | ~2,252 |
 | Switcheroo | 11.00% | ~2,064 |
 | One for the Book | 11.00% | ~2,064 |
 | Eagle Eye | 10.00% | ~1,876 |
@@ -33,15 +33,15 @@ Rating: 4.65 (Ranked 327)
 | Oil and Water | 10.00% | ~1,876 |
 | Hitting a Bullseye | 10.00% | ~1,876 |
 | Friendly Competition | 10.00% | ~1,876 |
-| Lightning Round the World | 9.00% | ~1,688 |
-| Spinning Around | 9.00% | ~1,688 |
+| Lightning Round the World | 9.00% | ~1,689 |
+| Spinning Around | 9.00% | ~1,689 |
 | Undisputed Winner | 7.00% | ~1,313 |
 | Recycle | 7.00% | ~1,313 |
 | Tinkerer | 6.00% | ~1,126 |
 | For all Those Back at the Factory | 5.00% | ~938 |
-| Living up to Expectations | 4.00% | ~750 |
-| Smooth Operator | 4.00% | ~750 |
-| Peak Performance | 4.00% | ~750 |
+| Living up to Expectations | 4.00% | ~751 |
+| Smooth Operator | 4.00% | ~751 |
+| Peak Performance | 4.00% | ~751 |
 | Seasoned Rookie | 3.00% | ~563 |
 | Hitting a Century | 3.00% | ~563 |
 | Loyal Bond | 3.00% | ~563 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 327)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,761 (Ranked 165)  
+Progressed: 18,763 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 18,697 | 0 |
 | 2024-01-25 | 18,722 | 0 |
 | 2024-01-26 | 18,759 | 0 |
-| 2024-01-27 | 18,761 | 0 |
+| 2024-01-27 | 18,763 | 0 |
 ## Awards
 Max (Diverse Characters): 77  (Ranked 411)  
-Sum: 493 (Ranked 341)  
+Sum: 495 (Ranked 341)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -203,9 +203,9 @@ Diff (max vs sum): 70
 | This game is Highly Recommended | 53 |
 | This game is Extremely Fun | 51 |
 | This game has Amazing Characters | 51 |
+| This game has Challenging Combat | 43 |
 | This game has Quickly Understood Controls | 42 |
 | This game has Competitive Players | 42 |
-| This game has Challenging Combat | 41 |
 | This game is Educational | 39 |
 | This game has Amazing Storytelling | 38 |
 | This game is Great for Beginners | 36 |
@@ -349,3 +349,4 @@ Diff (max vs sum): 70
 | 2024-01-24 | 4.64 | 74 | 484 |
 | 2024-01-25 | 4.65 | 76 | 490 |
 | 2024-01-26 | 4.65 | 77 | 493 |
+| 2024-01-27 | 4.65 | 77 | 495 |

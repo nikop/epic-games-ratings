@@ -7,16 +7,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,777 |
-| The Assault | 5.00% | ~38,147 |
-| Life is your teacher | 5.00% | ~38,147 |
-| Lightning Hands | 5.00% | ~38,147 |
-| The Hateful Pole Fighter | 3.00% | ~22,888 |
-| Stuntmaster | 3.00% | ~22,888 |
-| Street Fighting | 3.00% | ~22,888 |
-| State of constant learning | 3.00% | ~22,888 |
-| Qi Gong: Essence | 3.00% | ~22,888 |
-| Old Child | 3.00% | ~22,888 |
-| Rumble in the Hangar | 3.00% | ~22,888 |
+| The Assault | 5.00% | ~38,148 |
+| Life is your teacher | 5.00% | ~38,148 |
+| Lightning Hands | 5.00% | ~38,148 |
+| The Hateful Pole Fighter | 3.00% | ~22,889 |
+| Stuntmaster | 3.00% | ~22,889 |
+| Street Fighting | 3.00% | ~22,889 |
+| State of constant learning | 3.00% | ~22,889 |
+| Qi Gong: Essence | 3.00% | ~22,889 |
+| Old Child | 3.00% | ~22,889 |
+| Rumble in the Hangar | 3.00% | ~22,889 |
 | A Lady's Blood in the Snow | 2.00% | ~15,259 |
 | Lady Wing Chun | 2.00% | ~15,259 |
 | Furious Fists | 2.00% | ~15,259 |
@@ -27,10 +27,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,259 |
 | Take damage to save time | 2.00% | ~15,259 |
 | Diligence as a goal | 2.00% | ~1,445 |
-| Scareless | 1.00% | ~7,629 |
-| Dance of the Praying Mantis | 1.00% | ~7,629 |
-| Kung-Fu Tussle | 1.00% | ~7,629 |
-| Project Arena | 1.00% | ~722 |
+| Scareless | 1.00% | ~7,630 |
+| Dance of the Praying Mantis | 1.00% | ~7,630 |
+| Kung-Fu Tussle | 1.00% | ~7,630 |
+| Project Arena | 1.00% | ~723 |
 | Fight the way you practice | 0.90% | ~650 |
 | Muk Yan Master | 0.80% | ~6,104 |
 | Detective Story | 0.80% | ~6,104 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.30% | ~2,289 |
 | Deadly Venom | 0.30% | ~217 |
 | A Touch of Acumen | 0.30% | ~217 |
-| Secure, Protect, Leave | 0.20% | ~144 |
-| Crouching Tiger | 0.20% | ~144 |
-| Skill and an even stronger will | 0.20% | ~144 |
-| Master of the Flying Assassins | 0.20% | ~144 |
-| Beatmaker | 0.20% | ~144 |
+| Secure, Protect, Leave | 0.20% | ~145 |
+| Crouching Tiger | 0.20% | ~145 |
+| Skill and an even stronger will | 0.20% | ~145 |
+| Master of the Flying Assassins | 0.20% | ~145 |
+| Beatmaker | 0.20% | ~145 |
 | Warriors from the Mountain | 0.10% | ~763 |
 | Hidden Dragon | 0.10% | ~72 |
 | Here Cometh the Iceman | 0.10% | ~72 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,947 (Ranked 26)  
+Progressed: 762,951 (Ranked 26)  
 Completed: 13,009 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,10 +349,10 @@ Completed: 13,009 (1.71%) (Ranked 150)
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
 | 2024-01-26 | 762,946 | 13,009 |
-| 2024-01-27 | 762,947 | 13,009 |
+| 2024-01-27 | 762,951 | 13,009 |
 ## Awards
 Max (Great Boss Battles): 7,295  (Ranked 59)  
-Sum: 12,905 (Ranked 88)  
+Sum: 12,906 (Ranked 88)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): -29
 | This game has Amazing Characters | 624 |
 | This game is Highly Recommended | 617 |
 | This game has Quickly Understood Controls | 606 |
-| This game is Extremely Fun | 598 |
+| This game is Extremely Fun | 599 |
 | This game has Unique Visuals | 597 |
 | This game is Relaxing | 568 |
 | This game has a Creative Community | 436 |
@@ -745,3 +745,4 @@ Diff (max vs sum): -29
 | 2024-01-24 | 4.82 | - | 7,276 | 12,879 |
 | 2024-01-25 | 4.82 | - | 7,286 | 12,893 |
 | 2024-01-26 | 4.82 | - | 7,295 | 12,905 |
+| 2024-01-27 | 4.82 | - | 7,295 | 12,906 |

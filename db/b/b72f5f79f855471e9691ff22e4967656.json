@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -1093,9 +1093,9 @@
       "ID": "killSlug50",
       "SetID": "ci65fo0",
       "Name": "Slug fighter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "killStone50",
@@ -1245,9 +1245,9 @@
       "ID": "questBuildShip",
       "SetID": "ci65fo0",
       "Name": "Captain",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "questBuilder",
@@ -1381,9 +1381,9 @@
       "ID": "questReachLord",
       "SetID": "ci65fo0",
       "Name": "Castle feels like home",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "questRedsBoss",
@@ -1498,8 +1498,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:11:29.4466742+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:50:06.2755195+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:47.4827758+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:01:14.673237+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:11:29.4467319+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:39:43.2055994+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:50:06.275583+00:00"
 }

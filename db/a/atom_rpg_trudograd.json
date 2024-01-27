@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -258,9 +258,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1425,
+  "EOS_Progressed": 1426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2338,6 +2338,11 @@
       "Time": "2024-01-26T12:11:19.4010844+00:00",
       "NumProgressed": 1425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T01:49:43.598308+00:00",
+      "NumProgressed": 1426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2357,7 +2362,7 @@
       "Name": "Albino Bloodsucker",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ATOM_KVAS",
@@ -2421,7 +2426,7 @@
       "Name": "Fight Club",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FREELANCE_POLICE",
@@ -2453,7 +2458,7 @@
       "Name": "Human Antidote",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "INCOMPETENCE",
@@ -2597,14 +2602,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1425,
+      "Progressed": 1426,
       "Completed": 0
     }
   ],
@@ -2612,8 +2617,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-01-20T05:59:38.2083102+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:11:05.4083522+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:49:43.5983076+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.777095+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:03:15.9171565+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:11:05.408384+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:41:59.3605337+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:49:43.5983374+00:00"
 }

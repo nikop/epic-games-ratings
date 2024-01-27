@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3156,
+  "EOS_Progressed": 3157,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
@@ -8639,6 +8639,11 @@
       "Time": "2024-01-26T23:10:15.7304913+00:00",
       "NumProgressed": 3156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T01:50:12.4326998+00:00",
+      "NumProgressed": 3157,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8721,9 +8726,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_19",
@@ -8755,7 +8760,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_22",
@@ -8867,7 +8872,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_35",
@@ -8875,7 +8880,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "achievement_36",
@@ -8923,7 +8928,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "achievement_41",
@@ -8955,7 +8960,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "achievement_45",
@@ -9091,7 +9096,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_60",
@@ -9154,13 +9159,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3156,
+      "Progressed": 3157,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3156,
+      "Progressed": 3157,
       "Completed": 1
     }
   ],
@@ -9168,8 +9173,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:11:35.7649594+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:50:12.4326991+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:01:35.914094+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:11:35.7650796+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:40:03.3043678+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:50:12.4327869+00:00"
 }

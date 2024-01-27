@@ -1615,10 +1615,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 493,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-01-27T01:38:10.1058762+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 495,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 493,
+  "NumberOfAwards": 495,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1674,7 +1680,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1695,7 +1701,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18761,
+  "EOS_Progressed": 18763,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
@@ -12960,6 +12966,11 @@
       "Time": "2024-01-27T00:04:46.3823024+00:00",
       "NumProgressed": 18761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T01:43:22.4291497+00:00",
+      "NumProgressed": 18763,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12980,7 +12991,7 @@
       "Name": "Gathering Dust",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "achievement_0003",
@@ -13012,7 +13023,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13133
+      "UsersEstimate": 13134
     },
     {
       "ID": "achievement_0007",
@@ -13020,7 +13031,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17073
+      "UsersEstimate": 17074
     },
     {
       "ID": "achievement_0008",
@@ -13028,7 +13039,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15572
+      "UsersEstimate": 15573
     },
     {
       "ID": "achievement_0009",
@@ -13084,7 +13095,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "achievement_0016",
@@ -13132,7 +13143,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12757
+      "UsersEstimate": 12759
     },
     {
       "ID": "achievement_0022",
@@ -13188,7 +13199,7 @@
       "Name": "Spinning Around",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "achievement_0029",
@@ -13228,7 +13239,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8630
+      "UsersEstimate": 8631
     },
     {
       "ID": "achievement_0034",
@@ -13244,7 +13255,7 @@
       "Name": "Living up to Expectations",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "achievement_0036",
@@ -13276,7 +13287,7 @@
       "Name": "Smooth Operator",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "achievement_0040",
@@ -13316,7 +13327,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6755
     },
     {
       "ID": "achievement_0045",
@@ -13324,7 +13335,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "achievement_0046",
@@ -13332,7 +13343,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "achievement_0047",
@@ -13340,7 +13351,7 @@
       "Name": "Peak Performance",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "achievement_0048",
@@ -13363,16 +13374,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18761,
+      "Progressed": 18763,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-01-26T19:58:24.2335533+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:04:46.382302+00:00",
+  "LastChanged": "2024-01-27T01:38:10.105876+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:43:22.4291489+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:59:36.2243513+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:04:46.3824053+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:38:10.1058767+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:43:22.4292312+00:00"
 }

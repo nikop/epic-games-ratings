@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4524,6 +4524,11 @@
       "Time": "2024-01-25T17:10:33.5030635+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T01:49:55.9144932+00:00",
+      "NumProgressed": 1049,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4709,9 +4714,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 640
     },
     {
       "ID": "Packing20",
@@ -4791,7 +4796,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "TrattoriaSet",
@@ -4854,7 +4859,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1049,
       "Completed": 0
     }
   ],
@@ -4862,8 +4867,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:11:18.6798854+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:49:55.9144929+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.8599474+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:59:32.433605+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:11:18.679927+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:38:06.5795005+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:49:55.9145287+00:00"
 }

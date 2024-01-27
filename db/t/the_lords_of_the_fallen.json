@@ -2203,10 +2203,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1733,
       "NumberOfAwardsMax": 704
+    },
+    {
+      "Time": "2024-01-27T01:36:27.9570203+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1737,
+      "NumberOfAwardsMax": 704
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1733,
+  "NumberOfAwards": 1737,
   "NumberOfAwardsMax": 704,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2256,7 +2262,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 67
+      "Count": 71
     },
     {
       "Text": "This game is Relaxing",
@@ -2283,9 +2289,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14130,
+  "EOS_Progressed": 14131,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10943,6 +10949,11 @@
       "Time": "2024-01-26T23:09:47.683237+00:00",
       "NumProgressed": 14130,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T01:49:36.2914187+00:00",
+      "NumProgressed": 14131,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -11458,16 +11469,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 14130,
+      "Progressed": 14131,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-01-26T22:57:23.9165102+00:00",
-  "LastChanged_Achievements": "2024-01-27T00:10:57.933628+00:00",
+  "LastChanged": "2024-01-27T01:36:27.9570201+00:00",
+  "LastChanged_Achievements": "2024-01-27T01:49:36.2914181+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.5417904+00:00",
-  "LastUpdate_Ratings": "2024-01-26T23:57:47.5079725+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:10:57.933715+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:36:27.9570206+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:49:36.2915143+00:00"
 }

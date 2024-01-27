@@ -4,7 +4,7 @@
   "ProductSlug": "trivia-king-982cec",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 533,
+  "Ranking_EOS_NewPlayers": 536,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-05-06T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-15T07:57:34.074405+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.6700169+00:00",
-  "LastUpdate_Ratings": "2024-01-27T00:02:57.0872239+00:00",
-  "LastUpdate_Achievements": "2024-01-27T00:10:50.7281039+00:00"
+  "LastUpdate_Ratings": "2024-01-27T01:41:41.4421285+00:00",
+  "LastUpdate_Achievements": "2024-01-27T01:49:29.544471+00:00"
 }
