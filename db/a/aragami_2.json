@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45561,
+  "EOS_Progressed": 45562,
   "EOS_Completed": 252,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 2,
@@ -22062,6 +22062,11 @@
       "Time": "2024-01-27T07:06:34.4980976+00:00",
       "NumProgressed": 45561,
       "NumCompleted": 252
+    },
+    {
+      "Time": "2024-01-27T10:06:36.5564758+00:00",
+      "NumProgressed": 45562,
+      "NumCompleted": 252
     }
   ],
   "TotalAchievements": 44,
@@ -22089,7 +22094,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10023
+      "UsersEstimate": 10024
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -22097,7 +22102,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7745
+      "UsersEstimate": 7746
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -22129,7 +22134,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -22193,7 +22198,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36449
+      "UsersEstimate": 36450
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -22217,7 +22222,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -22233,7 +22238,7 @@
       "Name": "Look Behind You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7745
+      "UsersEstimate": 7746
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -22241,7 +22246,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -22313,7 +22318,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28703
+      "UsersEstimate": 28704
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -22321,7 +22326,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12301
+      "UsersEstimate": 12302
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -22345,7 +22350,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30526
+      "UsersEstimate": 30527
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -22377,7 +22382,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 20958
+      "UsersEstimate": 20959
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -22409,7 +22414,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 42372
+      "UsersEstimate": 42373
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -22424,7 +22429,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45561,
+      "Progressed": 45562,
       "Completed": 252
     }
   ],
@@ -22432,8 +22437,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:07:29.0862854+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:06:36.5564755+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.3614153+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:03:33.6488206+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:07:29.0864056+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:03:35.1738192+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:06:36.5565809+00:00"
 }

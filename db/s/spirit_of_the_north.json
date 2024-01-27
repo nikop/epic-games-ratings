@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 81085,
+  "EOS_Progressed": 81086,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -31519,6 +31519,11 @@
       "Time": "2024-01-27T09:06:10.4268706+00:00",
       "NumProgressed": 81085,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2024-01-27T10:05:36.4384506+00:00",
+      "NumProgressed": 81086,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 24,
@@ -31610,7 +31615,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42975
+      "UsersEstimate": 42976
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -31690,7 +31695,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13785
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -31721,7 +31726,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 81085,
+      "Progressed": 81086,
       "Completed": 442
     }
   ],
@@ -31729,8 +31734,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:06:10.4268701+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:05:36.4384503+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:57.351198+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:59:56.1187168+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:06:10.4269911+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:59:26.8094895+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:05:36.4385966+00:00"
 }

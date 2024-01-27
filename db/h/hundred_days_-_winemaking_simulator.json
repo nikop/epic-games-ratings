@@ -5,7 +5,7 @@
   "Ranking_Rating": 835,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 233,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 166,
@@ -1135,9 +1135,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 22250,
+  "EOS_Progressed": 22253,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18800,6 +18800,11 @@
       "Time": "2024-01-27T09:11:02.7523298+00:00",
       "NumProgressed": 22250,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-27T10:10:26.3372291+00:00",
+      "NumProgressed": 22253,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18860,7 +18865,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9790
+      "UsersEstimate": 9791
     },
     {
       "ID": "a_19",
@@ -18876,7 +18881,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "a_20",
@@ -18916,7 +18921,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "a_26",
@@ -18956,7 +18961,7 @@
       "Name": "King of red wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "a_31",
@@ -19012,7 +19017,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "a_5",
@@ -19028,7 +19033,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "a_7",
@@ -19059,7 +19064,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 22250,
+      "Progressed": 22253,
       "Completed": 13
     }
   ],
@@ -19067,8 +19072,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-26T14:57:59.1712141+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:11:02.7523292+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:26.3372284+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:58:38.2973555+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:11:02.7524294+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:28.9196875+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:26.3373125+00:00"
 }

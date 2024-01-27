@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1845,9 +1845,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 241
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -2173,9 +2173,9 @@
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
       "SetID": "caeik3h",
       "Name": "Champion Of The Arena",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
@@ -2212,8 +2212,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:06:25.4766758+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:05:48.0683007+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.8390305+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:58:13.7630681+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:06:25.4767651+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:11.2694186+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:05:48.0684059+00:00"
 }

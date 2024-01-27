@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19312,
+  "EOS_Progressed": 19313,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18328,6 +18328,11 @@
       "Time": "2024-01-27T07:04:40.7050419+00:00",
       "NumProgressed": 19312,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-27T10:04:44.5906082+00:00",
+      "NumProgressed": 19313,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18372,7 +18377,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "14",
@@ -18388,7 +18393,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "16",
@@ -18540,7 +18545,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "6",
@@ -18619,13 +18624,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19312,
+      "Progressed": 19313,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5266,
+      "Progressed": 5267,
       "Completed": 1410
     }
   ],
@@ -18633,8 +18638,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:05:03.4531851+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:04:44.5906079+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:58:07.2571114+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:05:03.453292+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:07.0496888+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:04:44.5907206+00:00"
 }

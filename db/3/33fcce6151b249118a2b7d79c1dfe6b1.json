@@ -4,7 +4,7 @@
   "ProductSlug": "lil-guardsman-3cf46c",
   "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "CompleteLevel3",
       "SetID": "8j3le2g",
       "Name": "Let\u0027s Play GoblinBall",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteLevel4",
@@ -485,8 +485,8 @@
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:06:48.3811299+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:06:05.6400864+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:01:06.4881295+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:06:48.3811623+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:00:19.5930265+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:06:05.6401175+00:00"
 }

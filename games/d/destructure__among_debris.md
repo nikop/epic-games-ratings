@@ -10,8 +10,8 @@
 | Apprentice Destructor | 30.00% | ~53 |
 | I Prefer Jazz Fusion | 12.00% | ~21 |
 | Master Destructor | 12.00% | ~21 |
+| Avaricerite | 9.00% | ~16 |
 | Ball Galore | 9.00% | ~16 |
-| Avaricerite | 8.00% | ~14 |
 | Easy Victory | 8.00% | ~14 |
 | Back From The Dead | 7.00% | ~12 |
 | You Are Actually Supposed To Use Those | 6.00% | ~11 |
@@ -37,7 +37,7 @@
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 178 (Ranked 452)  
-Completed: 2 (1.12%) (Ranked 174)  
+Completed: 2 (1.12%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

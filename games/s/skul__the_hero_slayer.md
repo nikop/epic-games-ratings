@@ -1,22 +1,22 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.74 (Ranked 168)  
+Rating: 4.74 (Ranked 167)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,977 |
-| What should I buy? | 80.00% | ~12,023 |
+| The Legend Begins | 93.00% | ~13,978 |
+| What should I buy? | 80.00% | ~12,024 |
 | Rescued Elder Ent | 61.00% | ~9,168 |
-| Focus! | 60.00% | ~9,017 |
+| Focus! | 60.00% | ~9,018 |
 | The End of the Gold Mane Knights | 48.00% | ~7,214 |
 | False Goddess, Disappear | 40.00% | ~6,012 |
 | Rules of Etiquette | 38.00% | ~5,711 |
 | Inventory Management | 33.00% | ~4,960 |
-| The Fall of the Leonia Order | 32.00% | ~4,809 |
+| The Fall of the Leonia Order | 32.00% | ~4,810 |
 | Quick Movements | 31.00% | ~4,659 |
-| Go Home... | 29.00% | ~4,358 |
+| Go Home... | 29.00% | ~4,359 |
 | The Final Battle of the First Hero | 28.00% | ~4,208 |
 | The Hero Killer | 26.00% | ~3,908 |
 | Brain at Full Throttle | 20.00% | ~3,006 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~150 |
 | Cold-Blooded | 0.60% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,029 (Ranked 176)  
+Progressed: 15,030 (Ranked 176)  
 Completed: 23 (0.15%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 23 (0.15%) (Ranked 303)
 | 2024-01-24 | 14,983 | 23 |
 | 2024-01-25 | 15,000 | 23 |
 | 2024-01-26 | 15,018 | 23 |
-| 2024-01-27 | 15,029 | 23 |
+| 2024-01-27 | 15,030 | 23 |
 ## Awards
 Max (Diverse Characters): 157  (Ranked 333)  
 Sum: 1,043 (Ranked 275)  

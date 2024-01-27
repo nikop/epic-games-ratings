@@ -2,7 +2,7 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 166,
@@ -1253,9 +1253,9 @@
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "jk3",
@@ -1484,8 +1484,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:07:39.8992645+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:06:44.8168884+00:00",
   "LastUpdate_AppInfo": "2024-01-24T08:57:24.3827617+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:03:22.1894479+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:07:39.8993062+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:03:26.9459477+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:06:44.8169268+00:00"
 }

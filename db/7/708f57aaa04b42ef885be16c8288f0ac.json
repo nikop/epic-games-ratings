@@ -2,12 +2,12 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 184,
+  "Ranking_Rating": 183,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -485,9 +485,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 15373,
+  "EOS_Progressed": 15374,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11610,6 +11610,11 @@
       "Time": "2024-01-27T09:11:22.1680855+00:00",
       "NumProgressed": 15373,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-27T10:10:41.3458803+00:00",
+      "NumProgressed": 15374,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11694,7 +11699,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8455
+      "UsersEstimate": 8456
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11822,7 +11827,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6610
+      "UsersEstimate": 6611
     },
     {
       "ID": "ThisIsDharma",
@@ -11830,7 +11835,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -11862,7 +11867,7 @@
       "Name": "Digestive Issues",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -11893,7 +11898,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15373,
+      "Progressed": 15374,
       "Completed": 29
     }
   ],
@@ -11901,8 +11906,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-27T08:58:30.1122668+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:11:22.1680851+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:41.3458801+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:58:30.1122673+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:11:22.168151+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:22.848814+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:41.3459408+00:00"
 }

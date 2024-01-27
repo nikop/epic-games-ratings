@@ -6,8 +6,8 @@ Rating: 3.75 (Ranked 1,104)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 60.00% | ~394 |
-| Buckle up | 58.00% | ~380 |
-| Quick charge | 58.00% | ~380 |
+| Buckle up | 59.00% | ~387 |
+| Quick charge | 59.00% | ~387 |
 | Hands up! | 52.00% | ~341 |
 | Now you know | 52.00% | ~341 |
 | Short circuit | 52.00% | ~341 |
@@ -15,8 +15,8 @@ Rating: 3.75 (Ranked 1,104)
 | Everybody lies | 36.00% | ~236 |
 | Trick or Treat? | 23.00% | ~151 |
 | There is another way | 22.00% | ~144 |
+| Every little helps | 21.00% | ~138 |
 | Sysadmin | 21.00% | ~138 |
-| Every little helps | 20.00% | ~131 |
 | Hacker | 19.00% | ~125 |
 | He is just a child | 19.00% | ~125 |
 | The Walking Robot Among Us | 19.00% | ~125 |

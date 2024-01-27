@@ -5,9 +5,9 @@
   "Ranking_Rating": 821,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2024-01-27T09:06:50.7643359+00:00",
       "NumProgressed": 248,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T10:06:07.4953891+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -657,7 +662,7 @@
       "Name": "All the King\u0027s Men",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ashes_to_ashes",
@@ -681,7 +686,7 @@
       "Name": "Big Apple",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "black_sheep_wall",
@@ -689,7 +694,7 @@
       "Name": "Black Sheep Wall",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "blessed_be_his_name",
@@ -697,7 +702,7 @@
       "Name": "Blessed Be His Name",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "blinded_by_science",
@@ -719,9 +724,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "brutus",
@@ -729,7 +734,7 @@
       "Name": "Brutus",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "buyin_the_dip",
@@ -743,9 +748,9 @@
       "ID": "call_the_boys",
       "SetID": "41moj9p",
       "Name": "Call the Boys",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "cant_touch_this",
@@ -753,7 +758,7 @@
       "Name": "Can\u2019t Touch This",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "columbus",
@@ -825,7 +830,7 @@
       "Name": "Do you read Sutter Cane?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "dust_and_salt",
@@ -833,7 +838,7 @@
       "Name": "Dust and Salt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "everything_the_light_touches",
@@ -855,9 +860,9 @@
       "ID": "forth_eorlingas",
       "SetID": "41moj9p",
       "Name": "Forth, Eorlingas!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "freeeedom",
@@ -873,7 +878,7 @@
       "Name": "From Rags to Riches",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "full_house",
@@ -905,7 +910,7 @@
       "Name": "Greed is Good",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "hail_and_kill",
@@ -921,7 +926,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "he_made_it_out",
@@ -937,7 +942,7 @@
       "Name": "Help! Help! I\u2019m being repressed",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "his_all_holiness",
@@ -983,9 +988,9 @@
       "ID": "i_am_the_senate",
       "SetID": "41moj9p",
       "Name": "I am the senate",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "i_got_a_knight_in_paris",
@@ -1033,7 +1038,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "join_the_dark_side",
@@ -1065,7 +1070,7 @@
       "Name": "Learn Me a Book",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "let_us_pray",
@@ -1079,9 +1084,9 @@
       "ID": "let_us_trade",
       "SetID": "41moj9p",
       "Name": "Let us trade with these fine people",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "liberty_or_death",
@@ -1097,7 +1102,7 @@
       "Name": "Lord of the Kings",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "master_of_puppets",
@@ -1105,7 +1110,7 @@
       "Name": "Master of Puppets",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "naught_but_a_seamless_victory",
@@ -1129,7 +1134,7 @@
       "Name": "On the third day at dawn, look east",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "open_your_eyes",
@@ -1151,9 +1156,9 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1161,7 +1166,7 @@
       "Name": "Pillars of the Earth",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "playersander_the_great",
@@ -1177,7 +1182,7 @@
       "Name": "Power Overwhelming",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "prince_ali",
@@ -1193,7 +1198,7 @@
       "Name": "Prison Break",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "probably_just_the_wind",
@@ -1225,7 +1230,7 @@
       "Name": "Renaissance Man",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "scientia_potentia_es",
@@ -1233,7 +1238,7 @@
       "Name": "Scientia potentia es",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "spartacus",
@@ -1273,15 +1278,15 @@
       "Name": "The Magnificent Nine",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "the_merchant_of_venice",
       "SetID": "41moj9p",
       "Name": "The Merchant of Venice",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "the_new_world_order",
@@ -1297,7 +1302,7 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -1305,7 +1310,7 @@
       "Name": "They Got What They Deserved",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "time_to_find_india",
@@ -1313,7 +1318,7 @@
       "Name": "Time to find India",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "tis_but_a_scratch",
@@ -1440,7 +1445,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
@@ -1448,8 +1453,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:06:50.7643354+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:06:07.4953887+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:57:36.0535763+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:06:50.7644328+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:57:43.4314882+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:06:07.4954845+00:00"
 }

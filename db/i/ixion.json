@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4264,
+  "EOS_Progressed": 4265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8900,6 +8900,11 @@
       "Time": "2024-01-26T20:07:59.4965817+00:00",
       "NumProgressed": 4264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T10:09:04.6229552+00:00",
+      "NumProgressed": 4265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8999,7 +9004,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ACH_BASE_22",
@@ -9111,7 +9116,7 @@
       "Name": "Ready for a New World",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_BASE_35",
@@ -9127,7 +9132,7 @@
       "Name": "Access Granted",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_BASE_37",
@@ -9279,7 +9284,7 @@
       "Name": "Drill-dozer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_BASE_59",
@@ -9366,13 +9371,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2448,
+      "Progressed": 2449,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4264,
+      "Progressed": 4265,
       "Completed": 0
     }
   ],
@@ -9380,8 +9385,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-23T08:00:18.6037817+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:09:15.7968829+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:09:04.6229551+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:59:28.8444927+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:09:15.796962+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:59:06.3763248+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:09:04.6230258+00:00"
 }

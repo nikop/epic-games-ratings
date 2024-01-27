@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 196,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -999,9 +999,9 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -1119,17 +1119,17 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -1191,9 +1191,9 @@
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -1414,8 +1414,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:09:19.4835062+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:09:07.5515321+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.0319324+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:57:05.2826932+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:09:19.4835671+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:57:21.4164069+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:09:07.5515693+00:00"
 }

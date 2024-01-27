@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -1247,9 +1247,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 387
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1279,9 +1279,9 @@
       "ID": "EVERY_LITTLE_HELPS",
       "SetID": "2iigf77",
       "Name": "Every little helps",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 138
     },
     {
       "ID": "FOUND_IT",
@@ -1415,9 +1415,9 @@
       "ID": "QUICK_CHARGE",
       "SetID": "2iigf77",
       "Name": "Quick charge",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 387
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1488,8 +1488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:11:22.487184+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:41.6675836+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.552059+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:02:37.4346391+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:11:22.4872098+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:02:53.6157823+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:41.6676024+00:00"
 }

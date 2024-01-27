@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -521,7 +521,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12305,
+  "EOS_Progressed": 12308,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
@@ -6326,6 +6326,11 @@
       "Time": "2024-01-27T09:11:27.6268155+00:00",
       "NumProgressed": 12305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T10:10:45.8412355+00:00",
+      "NumProgressed": 12308,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6338,7 +6343,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "03_TheStolenStar",
@@ -6362,7 +6367,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6434,7 +6439,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "15_Pentakill",
@@ -6458,7 +6463,7 @@
       "Name": "Exemplar",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6514,7 +6519,7 @@
       "Name": "Highrise",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "25_DynastyProspers",
@@ -6722,7 +6727,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6857,7 +6862,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12305,
+      "Progressed": 12308,
       "Completed": 1
     }
   ],
@@ -6865,8 +6870,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-26T17:59:53.5809851+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:11:27.626815+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:45.8412352+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:01:38.6077745+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:11:27.6269278+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:00:43.2608377+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:45.8413171+00:00"
 }

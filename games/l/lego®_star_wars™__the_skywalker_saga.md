@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,455 |
-| ''I don't like you either!'' | 77.00% | ~46,084 |
-| ''Impressive, most impressive'' | 69.00% | ~41,296 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,296 |
-| The Phantom Menace | 56.00% | ~33,515 |
-| ''Aggressive Negotiations'' | 56.00% | ~33,515 |
-| ''I can fly anything'' | 54.00% | ~32,318 |
-| ''And who gave you permission...?'' | 51.00% | ~30,523 |
-| A New Hope | 45.00% | ~26,932 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,457 |
+| ''I don't like you either!'' | 77.00% | ~46,085 |
+| ''Impressive, most impressive'' | 69.00% | ~41,297 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,297 |
+| The Phantom Menace | 56.00% | ~33,517 |
+| ''Aggressive Negotiations'' | 56.00% | ~33,517 |
+| ''I can fly anything'' | 54.00% | ~32,320 |
+| ''And who gave you permission...?'' | 51.00% | ~30,524 |
+| A New Hope | 45.00% | ~26,933 |
 | Attack of the Clones | 44.00% | ~26,334 |
 | Revenge of the Sith | 38.00% | ~22,743 |
 | ''A fine addition to my collection'' | 36.00% | ~21,546 |
-| The Empire Strikes Back | 35.00% | ~20,947 |
+| The Empire Strikes Back | 35.00% | ~20,948 |
 | Return of the Jedi | 30.00% | ~17,955 |
-| The Force Awakens | 25.00% | ~14,962 |
-| The Last Jedi | 21.00% | ~12,568 |
-| The Rise of Skywalker | 19.00% | ~11,371 |
+| The Force Awakens | 25.00% | ~14,963 |
+| The Last Jedi | 21.00% | ~12,569 |
+| The Rise of Skywalker | 19.00% | ~11,372 |
 | ''It's true... all of it'' | 18.00% | ~10,773 |
-| ''Get the crews to their fighters'' | 17.00% | ~10,174 |
+| ''Get the crews to their fighters'' | 17.00% | ~10,175 |
 | ''Raw, untamed power'' | 8.00% | ~4,788 |
 | Rishi Maze | 4.00% | ~2,394 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~2,394 |
-| ''You may fire when ready'' | 3.00% | ~1,795 |
-| ''What have you done with those plans?'' | 3.00% | ~1,795 |
-| ''GONK!'' | 3.00% | ~1,795 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,795 |
-| The Slice | 3.00% | ~1,795 |
+| ''You may fire when ready'' | 3.00% | ~1,796 |
+| ''What have you done with those plans?'' | 3.00% | ~1,796 |
+| ''GONK!'' | 3.00% | ~1,796 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,796 |
+| The Slice | 3.00% | ~1,796 |
 | ''Hello there!'' | 2.00% | ~1,197 |
 | Unknown Regions | 2.00% | ~1,197 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,197 |
@@ -49,10 +49,10 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 2.00% | ~1,197 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,197 |
 | ''Now I am the Master'' | 2.00% | ~1,197 |
-| ''Jedi Business'' | 1.00% | ~598 |
+| ''Jedi Business'' | 1.00% | ~599 |
 | ''I've never seen a real one!'' | 0.90% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,849 (Ranked 121)  
+Progressed: 59,851 (Ranked 121)  
 Completed: 266 (0.44%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 266 (0.44%) (Ranked 243)
 | 2024-01-24 | 59,794 | 265 |
 | 2024-01-25 | 59,813 | 265 |
 | 2024-01-26 | 59,842 | 266 |
-| 2024-01-27 | 59,849 | 266 |
+| 2024-01-27 | 59,851 | 266 |
 ## Awards
 Max (Great Boss Battles): 2,522  (Ranked 110)  
-Sum: 6,896 (Ranked 135)  
+Sum: 6,897 (Ranked 135)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -25
 | This game has Diverse Characters | 527 |
 | This game has Amazing Characters | 503 |
 | This game is Highly Recommended | 484 |
-| This game has Easy Combat | 482 |
+| This game has Easy Combat | 483 |
 | This game has Amazing Storytelling | 477 |
 | This game is Extremely Fun | 467 |
 | This game has Quickly Understood Controls | 453 |
@@ -664,3 +664,4 @@ Diff (max vs sum): -25
 | 2024-01-24 | 4.77 | - | 2,518 | 6,892 |
 | 2024-01-25 | 4.77 | - | 2,521 | 6,895 |
 | 2024-01-26 | 4.77 | - | 2,522 | 6,896 |
+| 2024-01-27 | 4.77 | - | 2,522 | 6,897 |

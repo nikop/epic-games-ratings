@@ -5,50 +5,50 @@ Rating: 4.36 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 27.00% | ~67 |
-| Help! Help! I’m being repressed | 26.00% | ~64 |
-| Can’t Touch This | 25.00% | ~62 |
-| Path of Glory | 24.00% | ~60 |
-| Bring it on! | 19.00% | ~47 |
-| There is no Nobility in Poverty | 19.00% | ~47 |
-| They Got What They Deserved | 17.00% | ~42 |
+| Hail to the King, Baby | 27.00% | ~68 |
+| Help! Help! I’m being repressed | 26.00% | ~65 |
+| Can’t Touch This | 25.00% | ~63 |
+| Path of Glory | 25.00% | ~63 |
+| There is no Nobility in Poverty | 19.00% | ~48 |
+| Bring it on! | 18.00% | ~45 |
+| They Got What They Deserved | 17.00% | ~43 |
 | Full House | 16.00% | ~40 |
 | Playerxander the Great | 16.00% | ~40 |
 | The finest merchandise this side of river Jordan | 14.00% | ~35 |
-| Big Apple | 13.00% | ~32 |
+| Big Apple | 13.00% | ~33 |
 | Dinner Time | 10.00% | ~25 |
-| All the King's Men | 9.00% | ~22 |
+| All the King's Men | 9.00% | ~23 |
 | Cut-Me-Own-Throat | 8.00% | ~20 |
 | What we’ve got here is failure to communicate | 8.00% | ~20 |
-| Black Sheep Wall | 7.00% | ~17 |
-| Learn Me a Book | 7.00% | ~17 |
-| The Magnificent Nine | 7.00% | ~17 |
+| Black Sheep Wall | 7.00% | ~18 |
+| Learn Me a Book | 7.00% | ~18 |
+| The Magnificent Nine | 7.00% | ~18 |
 | Blinded by Science | 6.00% | ~15 |
+| Call the Boys | 6.00% | ~15 |
 | Let Us Pray | 6.00% | ~15 |
 | ‘Tis but a scratch | 6.00% | ~15 |
-| Blessed Be His Name | 5.00% | ~12 |
-| Call the Boys | 5.00% | ~12 |
-| Do you read Sutter Cane? | 5.00% | ~12 |
-| Greed is Good | 5.00% | ~12 |
-| On the third day at dawn, look east | 5.00% | ~12 |
-| Pillars of the Earth | 5.00% | ~12 |
-| Scientia potentia es | 5.00% | ~12 |
+| Blessed Be His Name | 5.00% | ~13 |
+| Do you read Sutter Cane? | 5.00% | ~13 |
+| Forth, Eorlingas! | 5.00% | ~13 |
+| Greed is Good | 5.00% | ~13 |
+| Let us trade with these fine people | 5.00% | ~13 |
+| On the third day at dawn, look east | 5.00% | ~13 |
+| Pillars of the Earth | 5.00% | ~13 |
+| Scientia potentia es | 5.00% | ~13 |
 | A Quiet Palace | 4.00% | ~10 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~10 |
-| Forth, Eorlingas! | 4.00% | ~10 |
 | He made it out, but with an arrow in his back | 4.00% | ~10 |
 | His All-Holiness | 4.00% | ~10 |
 | His name is King | 4.00% | ~10 |
 | I started a joke | 4.00% | ~10 |
 | Kingslayer | 4.00% | ~10 |
-| Let us trade with these fine people | 4.00% | ~10 |
 | Naught but a Seamless Victory | 4.00% | ~10 |
 | Vlad the Impaler | 4.00% | ~10 |
-| Dust and Salt | 3.00% | ~7 |
-| Fight Another Day | 3.00% | ~7 |
-| Power Overwhelming | 3.00% | ~7 |
-| Renaissance Man | 3.00% | ~7 |
-| Time to find India | 3.00% | ~7 |
+| Dust and Salt | 3.00% | ~8 |
+| Fight Another Day | 3.00% | ~8 |
+| Power Overwhelming | 3.00% | ~8 |
+| Renaissance Man | 3.00% | ~8 |
+| Time to find India | 3.00% | ~8 |
 | Battle of the Four Armies | 2.00% | ~5 |
 | Crusader “you know what” | 2.00% | ~5 |
 | Fighting with Power and Steel | 2.00% | ~5 |
@@ -58,18 +58,18 @@ Rating: 4.36 (Ranked 821)
 | Together We Stand | 2.00% | ~5 |
 | You are not the boss of me now | 2.00% | ~5 |
 | You reap what you sow | 2.00% | ~5 |
-| Brutus | 1.00% | ~2 |
-| From Rags to Riches | 1.00% | ~2 |
-| Lord of the Kings | 1.00% | ~2 |
-| Master of Puppets | 1.00% | ~2 |
-| Prison Break | 1.00% | ~2 |
+| Brutus | 1.00% | ~3 |
+| From Rags to Riches | 1.00% | ~3 |
+| Lord of the Kings | 1.00% | ~3 |
+| Master of Puppets | 1.00% | ~3 |
+| Prison Break | 1.00% | ~3 |
+| The Merchant of Venice | 1.00% | ~3 |
 | Zerg Rush | 0.80% | ~2 |
+| I am the senate | 0.80% | ~2 |
 | Spartacus | 0.80% | ~2 |
-| The Merchant of Venice | 0.80% | ~2 |
 | Why is there no culture victory?! | 0.80% | ~2 |
 | Crusade Invoker, no Regret | 0.40% | ~1 |
 | Everything the light touches is our kingdom | 0.40% | ~1 |
-| I am the senate | 0.40% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Buyin' the Dip | 0.00% | ~0 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 821)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 427)  
+Progressed: 251 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
 | 2024-01-26 | 236 | 0 |
-| 2024-01-27 | 248 | 0 |
+| 2024-01-27 | 251 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

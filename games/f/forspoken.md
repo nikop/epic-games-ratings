@@ -16,8 +16,8 @@ Rating: 4.16 (Ranked 1,004)
 | No Mercy | 6.00% | ~2,869 |
 | Explorer: Seeker | 6.00% | ~2,869 |
 | Help Me Out Here | 6.00% | ~2,869 |
-| Through the Eyes of Another: Empath | 5.00% | ~2,390 |
-| Stuck | 5.00% | ~2,390 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,391 |
+| Stuck | 5.00% | ~2,391 |
 | The Interloper | 4.00% | ~1,912 |
 | Outdoorsperson | 3.00% | ~1,434 |
 | Damned If You Do... | 3.00% | ~1,434 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,004)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,809 (Ranked 130)  
+Progressed: 47,811 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-24 | 47,712 | 4 |
 | 2024-01-25 | 47,759 | 4 |
 | 2024-01-26 | 47,801 | 4 |
-| 2024-01-27 | 47,809 | 4 |
+| 2024-01-27 | 47,811 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 458)  
 Sum: 79 (Ranked 491)  

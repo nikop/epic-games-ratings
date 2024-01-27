@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16722,
+  "EOS_Progressed": 16723,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -19094,6 +19094,11 @@
       "Time": "2024-01-27T07:10:40.0903883+00:00",
       "NumProgressed": 16722,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-27T10:10:35.9693044+00:00",
+      "NumProgressed": 16723,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 34,
@@ -19209,7 +19214,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7190
+      "UsersEstimate": 7191
     },
     {
       "ID": "ACH15",
@@ -19265,7 +19270,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "ACH22",
@@ -19376,7 +19381,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16722,
+      "Progressed": 16723,
       "Completed": 110
     }
   ],
@@ -19384,8 +19389,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:11:15.2994549+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:35.9693043+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:00:46.0704808+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:11:15.2995342+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:00:03.7146424+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:35.9694082+00:00"
 }

@@ -163,6 +163,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~52 |
 | Glorious Difficulty | 0.30% | ~52 |
 | Run, Pheidippides, Run! | 0.30% | ~52 |
+| Assyria | 0.30% | ~52 |
 | Persia | 0.30% | ~52 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~52 |
 | Capturing Cities | 0.30% | ~52 |
@@ -182,7 +183,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.20% | ~34 |
 | Tell the Spartans | 0.20% | ~34 |
 | Medo-Babylonian Conquest | 0.20% | ~34 |
-| Assyria | 0.20% | ~34 |
 | Hatti | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Hotseat Game | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,188 (Ranked 170)  
+Progressed: 17,189 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 5 (0.03%) (Ranked 369)
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
 | 2024-01-26 | 17,186 | 5 |
-| 2024-01-27 | 17,188 | 5 |
+| 2024-01-27 | 17,189 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

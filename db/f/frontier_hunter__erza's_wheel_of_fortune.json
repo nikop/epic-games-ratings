@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 770,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2750,6 +2750,11 @@
       "Time": "2024-01-26T07:10:46.3022052+00:00",
       "NumProgressed": 769,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T10:10:16.7891156+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2761,7 +2766,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2849,7 +2854,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2857,7 +2862,7 @@
       "Name": "Cave Master",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2865,7 +2870,7 @@
       "Name": "Face Slapper",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3017,7 +3022,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -3081,7 +3086,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -3120,7 +3125,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 770,
       "Completed": 3
     }
   ],
@@ -3128,8 +3133,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-23T09:01:35.3083126+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:10:50.2878668+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:16.7891151+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.101279+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:59:22.7021557+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:10:50.2879047+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:59:01.7951595+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:16.7891516+00:00"
 }

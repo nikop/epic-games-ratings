@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10646,
+  "EOS_Progressed": 10654,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4379,6 +4379,11 @@
       "Time": "2024-01-27T09:10:28.6611823+00:00",
       "NumProgressed": 10646,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-27T10:10:00.8757042+00:00",
+      "NumProgressed": 10654,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -4391,7 +4396,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 5217
+      "UsersEstimate": 5220
     },
     {
       "ID": "Document1",
@@ -4407,7 +4412,7 @@
       "Name": "Document Discoverer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Document3",
@@ -4423,7 +4428,7 @@
       "Name": "Truth Seeker",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Document5",
@@ -4454,14 +4459,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 10646,
+      "Progressed": 10654,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:10:28.6611819+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:00.8757037+00:00",
   "LastUpdate_AppInfo": "2024-01-21T22:57:09.6072792+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:58:17.8086208+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:10:28.6612139+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:14.2039638+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:00.8757348+00:00"
 }

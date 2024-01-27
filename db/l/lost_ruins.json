@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 717,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2074,6 +2074,11 @@
       "Time": "2024-01-27T03:10:36.0385828+00:00",
       "NumProgressed": 716,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T10:10:43.2381233+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2085,7 +2090,7 @@
       "Name": "Arrive Home",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ArtCollector",
@@ -2165,7 +2170,7 @@
       "Name": "Goblin Tales",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Hardboiled",
@@ -2181,7 +2186,7 @@
       "Name": "Holy Knight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Horder",
@@ -2277,7 +2282,7 @@
       "Name": "Pyromancer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Reincarnation",
@@ -2325,7 +2330,7 @@
       "Name": "Spell Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SwordMaster",
@@ -2404,7 +2409,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 1
     }
   ],
@@ -2412,8 +2417,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:11:24.4081478+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:43.2381231+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.4166375+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:58:54.244986+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:11:24.4081779+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:40.9490843+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:43.2381495+00:00"
 }

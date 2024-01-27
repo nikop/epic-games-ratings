@@ -2,12 +2,12 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 168,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1631,9 +1631,9 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 15029,
+  "EOS_Progressed": 15030,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10956,6 +10956,11 @@
       "Time": "2024-01-27T09:10:32.1878677+00:00",
       "NumProgressed": 15029,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-27T10:10:03.556463+00:00",
+      "NumProgressed": 15030,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 24,
@@ -10991,7 +10996,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 9017
+      "UsersEstimate": 9018
     },
     {
       "ID": "DemonCastleRestoration",
@@ -11047,7 +11052,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "HeroSlayer",
@@ -11063,7 +11068,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4809
+      "UsersEstimate": 4810
     },
     {
       "ID": "LeoniasFall_2",
@@ -11127,7 +11132,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13977
+      "UsersEstimate": 13978
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -11151,22 +11156,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 12023
+      "UsersEstimate": 12024
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 15029,
+      "Progressed": 15030,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-26T10:58:05.8118076+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:10:32.1878672+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:03.5564625+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:59:11.3898347+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:10:32.1879219+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:53.825647+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:03.5565242+00:00"
 }

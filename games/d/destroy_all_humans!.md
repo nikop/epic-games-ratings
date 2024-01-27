@@ -22,8 +22,8 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 38.00% | ~220 |
 | Bodied Sattva | 38.00% | ~220 |
 | Forbidden Donut | 37.00% | ~215 |
+| Deincarnated | 31.00% | ~180 |
 | Furon Fashion | 31.00% | ~180 |
-| Deincarnated | 30.00% | ~174 |
 | Rock of the Bay | 29.00% | ~168 |
 | Trans-Siberian Express | 27.00% | ~157 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~122 |
@@ -36,7 +36,7 @@ Number of Ratings: 85  (23.09.2022)
 | Albion Bridge Is for Falling Down | 15.00% | ~87 |
 | Dusted | 14.00% | ~81 |
 | Higher Than the Futen Zoku | 12.00% | ~70 |
-| Scuttled | 10.00% | ~58 |
+| Scuttled | 11.00% | ~64 |
 | Arty Facts | 10.00% | ~58 |
 | PK Slam Dunk | 9.00% | ~52 |
 | Path of the Furon | 7.00% | ~41 |

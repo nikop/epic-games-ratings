@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1922,
+  "EOS_Progressed": 1923,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5232,6 +5232,11 @@
       "Time": "2024-01-26T20:09:20.567925+00:00",
       "NumProgressed": 1922,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T10:10:23.0899231+00:00",
+      "NumProgressed": 1923,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5419,7 +5424,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5459,7 +5464,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5579,7 +5584,7 @@
       "Name": "Space Forest",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -5603,7 +5608,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5626,7 +5631,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1922,
+      "Progressed": 1923,
       "Completed": 0
     }
   ],
@@ -5634,8 +5639,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-25T15:02:09.5796431+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:10:58.5097222+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:10:23.0899229+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:00.6724547+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:57:36.6232835+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:10:58.5097756+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:57:43.8395316+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:10:23.0899647+00:00"
 }

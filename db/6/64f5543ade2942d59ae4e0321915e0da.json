@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -2361,9 +2361,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 445
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2512,8 +2512,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:06:23.3156264+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:05:46.3891603+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.4116417+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:57:23.975161+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:06:23.3157065+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:57:34.9595022+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:05:46.3892123+00:00"
 }

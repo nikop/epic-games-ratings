@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25687,
+  "EOS_Progressed": 25688,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -24285,6 +24285,11 @@
       "Time": "2024-01-27T08:04:52.7524786+00:00",
       "NumProgressed": 25687,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2024-01-27T10:05:25.7955361+00:00",
+      "NumProgressed": 25688,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 16,
@@ -24312,7 +24317,7 @@
       "Name": "Deadline",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -24344,7 +24349,7 @@
       "Name": "Fireworks",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7449
+      "UsersEstimate": 7450
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -24376,7 +24381,7 @@
       "Name": "Mirrors",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Shadow_Warrior",
@@ -24423,15 +24428,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25687,
+      "Progressed": 25688,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:05:57.1368711+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:05:25.7955357+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:00:59.6397988+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:05:57.1370046+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:00:14.3656235+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:05:25.7956577+00:00"
 }

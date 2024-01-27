@@ -14,8 +14,8 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 12.00% | ~473 |
 | Blood for the Blood God! | 10.00% | ~394 |
 | Bloodless | 8.00% | ~315 |
+| Surgical Excision | 7.00% | ~276 |
 | Friendly Fire | 7.00% | ~276 |
-| Surgical Excision | 6.00% | ~236 |
 | A Foul Creche | 6.00% | ~236 |
 | Honoured Battle-Brother | 5.00% | ~197 |
 | The Emperor Protects | 5.00% | ~197 |

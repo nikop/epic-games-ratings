@@ -19196,9 +19196,9 @@
       "Count": 20360
     }
   ],
-  "EOS_Progressed": 1059428,
-  "EOS_Completed": 3170,
-  "EOS_NewPlayers": 3953,
+  "EOS_Progressed": 1059463,
+  "EOS_Completed": 3171,
+  "EOS_NewPlayers": 3942,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51526,6 +51526,11 @@
       "Time": "2024-01-27T09:10:00.7313794+00:00",
       "NumProgressed": 1059428,
       "NumCompleted": 3170
+    },
+    {
+      "Time": "2024-01-27T10:09:39.7898681+00:00",
+      "NumProgressed": 1059463,
+      "NumCompleted": 3171
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51562,7 +51567,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10594
+      "UsersEstimate": 10595
     },
     {
       "ID": "Denied",
@@ -51570,7 +51575,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10594
+      "UsersEstimate": 10595
     },
     {
       "ID": "FollowingTheRiver",
@@ -51658,7 +51663,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "MaxPain",
@@ -51706,7 +51711,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "Roleplayer",
@@ -51714,7 +51719,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "Specialist",
@@ -51770,7 +51775,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "TheLovers",
@@ -51778,7 +51783,7 @@
       "Name": "The Lovers",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "TheStar",
@@ -51882,7 +51887,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51994,7 +51999,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "HydraIsDead",
@@ -52010,7 +52015,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "KingOfTheCups",
@@ -52073,21 +52078,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059428,
-      "Completed": 3170
+      "Progressed": 1059463,
+      "Completed": 3171
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 188051,
-      "Completed": 10707
+      "Progressed": 188086,
+      "Completed": 10708
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-27T07:03:33.7711742+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:10:00.731379+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:09:39.7898676+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:03:33.4660478+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:10:00.7315633+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:03:35.0349863+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:09:39.7900487+00:00"
 }

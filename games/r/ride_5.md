@@ -6,9 +6,9 @@ Rating: 4.63 (Ranked 361)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,876 |
-| First Love | 45.00% | ~1,688 |
-| Clean Race | 45.00% | ~1,688 |
-| Hear That Roar! | 43.00% | ~1,613 |
+| First Love | 45.00% | ~1,689 |
+| Clean Race | 45.00% | ~1,689 |
+| Hear That Roar! | 43.00% | ~1,614 |
 | Bitter Rivalry | 31.00% | ~1,163 |
 | Rivals to the End | 31.00% | ~1,163 |
 | Champagne Spray | 30.00% | ~1,126 |
@@ -17,7 +17,7 @@ Rating: 4.63 (Ranked 361)
 | Restored and Ready | 21.00% | ~788 |
 | I Want One Too! | 21.00% | ~788 |
 | Legendary!!! | 21.00% | ~788 |
-| Go-Faster Stripes | 18.00% | ~675 |
+| Go-Faster Stripes | 18.00% | ~676 |
 | I'm Here Too! | 15.00% | ~563 |
 | We've Just Begun | 15.00% | ~563 |
 | Is It the Right Size? | 10.00% | ~375 |
@@ -55,7 +55,7 @@ Rating: 4.63 (Ranked 361)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,752 (Ranked 226)  
+Progressed: 3,753 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 3,706 | 0 |
 | 2024-01-25 | 3,725 | 0 |
 | 2024-01-26 | 3,745 | 0 |
-| 2024-01-27 | 3,752 | 0 |
+| 2024-01-27 | 3,753 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

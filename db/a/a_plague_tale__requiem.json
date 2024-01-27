@@ -2,13 +2,13 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 184,
+  "Ranking_Rating": 183,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -881,10 +881,10 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18853,
-  "EOS_Completed": 71,
-  "EOS_NewPlayers": 295,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 18854,
+  "EOS_Completed": 72,
+  "EOS_NewPlayers": 293,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
@@ -17241,6 +17241,11 @@
       "Time": "2024-01-27T09:04:38.8652779+00:00",
       "NumProgressed": 18853,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-27T10:04:25.5590269+00:00",
+      "NumProgressed": 18854,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 35,
@@ -17252,7 +17257,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17156
+      "UsersEstimate": 17157
     },
     {
       "ID": "ACH_02",
@@ -17260,7 +17265,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14328
+      "UsersEstimate": 14329
     },
     {
       "ID": "ACH_03",
@@ -17284,7 +17289,7 @@
       "Name": "In our Wake",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 12254
+      "UsersEstimate": 12255
     },
     {
       "ID": "ACH_06",
@@ -17300,7 +17305,7 @@
       "Name": "Felons",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 11123
+      "UsersEstimate": 11124
     },
     {
       "ID": "ACH_08",
@@ -17316,7 +17321,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 10369
+      "UsersEstimate": 10370
     },
     {
       "ID": "ACH_10",
@@ -17324,7 +17329,7 @@
       "Name": "Bloodline",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9426
+      "UsersEstimate": 9427
     },
     {
       "ID": "ACH_11",
@@ -17332,7 +17337,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_12",
@@ -17362,9 +17367,9 @@
       "ID": "ACH_15",
       "SetID": "9d4cf4c",
       "Name": "Dying Sun",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 5844
+      "UsersEstimate": 6033
     },
     {
       "ID": "ACH_16",
@@ -17468,7 +17473,7 @@
       "Name": "Alchemist",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "ACH_29",
@@ -17531,16 +17536,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18853,
-      "Completed": 71
+      "Progressed": 18854,
+      "Completed": 72
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-26T15:59:16.0751292+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:04:38.8652776+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:04:25.5590264+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:01:00.597252+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:04:38.865372+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:00:15.0548072+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:04:25.5591666+00:00"
 }

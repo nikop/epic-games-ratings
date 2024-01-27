@@ -1102,9 +1102,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363816,
+  "EOS_Progressed": 363821,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33352,6 +33352,11 @@
       "Time": "2024-01-27T09:04:33.4851868+00:00",
       "NumProgressed": 363816,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-27T10:04:21.4309469+00:00",
+      "NumProgressed": 363821,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33363,7 +33368,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ach002",
@@ -33379,7 +33384,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43658
+      "UsersEstimate": 43659
     },
     {
       "ID": "ach004",
@@ -33395,7 +33400,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ach006",
@@ -33419,7 +33424,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43658
+      "UsersEstimate": 43659
     },
     {
       "ID": "ach009",
@@ -33451,7 +33456,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29105
+      "UsersEstimate": 29106
     },
     {
       "ID": "ach013",
@@ -33467,7 +33472,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54572
+      "UsersEstimate": 54573
     },
     {
       "ID": "ach015",
@@ -33491,7 +33496,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47296
+      "UsersEstimate": 47297
     },
     {
       "ID": "ach018",
@@ -33499,7 +33504,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29105
+      "UsersEstimate": 29106
     },
     {
       "ID": "ach019",
@@ -33515,7 +33520,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ach021",
@@ -33523,7 +33528,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ach022",
@@ -33571,7 +33576,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167355
+      "UsersEstimate": 167358
     },
     {
       "ID": "ach028",
@@ -33715,7 +33720,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47296
+      "UsersEstimate": 47297
     },
     {
       "ID": "ach046",
@@ -33779,7 +33784,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ach054",
@@ -33819,7 +33824,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ach059",
@@ -33843,7 +33848,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ach062",
@@ -33875,7 +33880,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50934
+      "UsersEstimate": 50935
     },
     {
       "ID": "ach067",
@@ -33899,7 +33904,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50934
+      "UsersEstimate": 50935
     },
     {
       "ID": "ach070",
@@ -34002,7 +34007,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363816,
+      "Progressed": 363821,
       "Completed": 7
     }
   ],
@@ -34010,8 +34015,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-26T15:57:54.5996048+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:04:33.4851865+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:04:21.4309466+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:58:59.9846299+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:04:33.4854186+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:58:45.1899118+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:04:21.4311405+00:00"
 }

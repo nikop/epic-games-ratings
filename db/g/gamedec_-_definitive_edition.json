@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258952,
+  "EOS_Progressed": 258956,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32162,6 +32162,11 @@
       "Time": "2024-01-27T09:06:07.8897717+00:00",
       "NumProgressed": 258952,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-27T10:05:34.6332974+00:00",
+      "NumProgressed": 258956,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -32173,7 +32178,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69917
+      "UsersEstimate": 69918
     },
     {
       "ID": "ACH_AON",
@@ -32213,7 +32218,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31074
+      "UsersEstimate": 31075
     },
     {
       "ID": "ACH_ENJOY",
@@ -32317,7 +32322,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 75096
+      "UsersEstimate": 75097
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -32389,7 +32394,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64738
+      "UsersEstimate": 64739
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -32493,7 +32498,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64738
+      "UsersEstimate": 64739
     },
     {
       "ID": "ACH_SOREAD",
@@ -32588,7 +32593,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258952,
+      "Progressed": 258956,
       "Completed": 8
     }
   ],
@@ -32596,8 +32601,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:06:07.8897713+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:05:34.6332971+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:03:01.0590208+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:06:07.8899406+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:03:11.2639442+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:05:34.6334614+00:00"
 }

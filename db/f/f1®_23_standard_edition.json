@@ -1701,9 +1701,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18767,
+  "EOS_Progressed": 18768,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12986,6 +12986,11 @@
       "Time": "2024-01-27T09:04:37.3438976+00:00",
       "NumProgressed": 18767,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T10:04:24.3566964+00:00",
+      "NumProgressed": 18768,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -13038,7 +13043,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13137
+      "UsersEstimate": 13138
     },
     {
       "ID": "achievement_0007",
@@ -13046,7 +13051,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17078
+      "UsersEstimate": 17079
     },
     {
       "ID": "achievement_0008",
@@ -13118,7 +13123,7 @@
       "Name": "Hitting a Season",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5442
+      "UsersEstimate": 5443
     },
     {
       "ID": "achievement_0017",
@@ -13166,7 +13171,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4879
+      "UsersEstimate": 4880
     },
     {
       "ID": "achievement_0023",
@@ -13334,7 +13339,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7882
+      "UsersEstimate": 7883
     },
     {
       "ID": "achievement_0044",
@@ -13350,7 +13355,7 @@
       "Name": "Making History",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4879
+      "UsersEstimate": 4880
     },
     {
       "ID": "achievement_0046",
@@ -13358,7 +13363,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "achievement_0047",
@@ -13389,7 +13394,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18767,
+      "Progressed": 18768,
       "Completed": 0
     }
   ],
@@ -13397,8 +13402,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-27T01:38:10.105876+00:00",
-  "LastChanged_Achievements": "2024-01-27T09:04:37.3438973+00:00",
+  "LastChanged_Achievements": "2024-01-27T10:04:24.3566962+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:59:41.9170599+00:00",
-  "LastUpdate_Achievements": "2024-01-27T09:04:37.3439779+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:59:16.0073695+00:00",
+  "LastUpdate_Achievements": "2024-01-27T10:04:24.3567896+00:00"
 }

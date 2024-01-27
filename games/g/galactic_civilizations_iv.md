@@ -6,19 +6,19 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,848 |
-| Worker Specialization | 76.00% | ~5,772 |
-| First Contact | 72.00% | ~5,468 |
-| Win a Battle | 65.00% | ~4,937 |
-| Anomaly Researcher | 60.00% | ~4,557 |
-| Unleash My Power | 60.00% | ~4,557 |
-| Own 30 Planets | 32.00% | ~2,430 |
-| Xenocide | 31.00% | ~2,354 |
-| Design a Civilization | 31.00% | ~2,354 |
+| Colonize a Planet | 77.00% | ~5,850 |
+| Worker Specialization | 76.00% | ~5,774 |
+| First Contact | 72.00% | ~5,470 |
+| Win a Battle | 65.00% | ~4,938 |
+| Anomaly Researcher | 60.00% | ~4,558 |
+| Unleash My Power | 60.00% | ~4,558 |
+| Own 30 Planets | 32.00% | ~2,431 |
+| Xenocide | 31.00% | ~2,355 |
+| Design a Civilization | 31.00% | ~2,355 |
 | Commodity Trader | 29.00% | ~2,203 |
 | Design a Ship | 27.00% | ~2,051 |
 | Commodity Seller | 24.00% | ~1,823 |
-| Prestige Victory! | 13.00% | ~987 |
+| Prestige Victory! | 13.00% | ~988 |
 | Galactic War | 10.00% | ~760 |
 | Trading Partner | 9.00% | ~684 |
 | Fleet Victory | 8.00% | ~608 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,595 (Ranked 200)  
+Progressed: 7,597 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 7,585 | 0 |
 | 2024-01-25 | 7,588 | 0 |
 | 2024-01-26 | 7,593 | 0 |
-| 2024-01-27 | 7,595 | 0 |
+| 2024-01-27 | 7,597 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 386)  
 Sum: 702 (Ranked 313)  
