@@ -20,8 +20,8 @@
 | 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.56% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.05% |
-| 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
+| 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
+| 22 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 20.83% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.60% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
@@ -30,7 +30,7 @@
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 31 | [The Riflemen](games/t/the_riflemen.md) | 14.98% |
+| 31 | [The Riflemen](games/t/the_riflemen.md) | 14.97% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 12.90% |
@@ -164,11 +164,11 @@
 | 162 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
 | 162 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 164 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
-| 165 | [Yars: Recharged](games/y/yars__recharged.md) | 1.27% |
-| 166 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.23% |
+| 165 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.23% |
+| 165 | [Yars: Recharged](games/y/yars__recharged.md) | 1.23% |
 | 167 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 168 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
-| 169 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.20% |
+| 169 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.19% |
 | 170 | [Late Shift](games/l/late_shift.md) | 1.18% |
 | 171 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.15% |
 | 172 | [Adios](games/a/adios.md) | 1.13% |
@@ -211,9 +211,9 @@
 | 208 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.72% |
 | 210 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 210 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.69% |
-| 212 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.66% |
-| 212 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.66% |
-| 212 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.66% |
+| 212 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.68% |
+| 213 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.66% |
+| 213 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.66% |
 | 215 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.64% |
 | 216 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.62% |
 | 217 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.61% |
