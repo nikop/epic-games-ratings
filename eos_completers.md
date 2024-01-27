@@ -22,7 +22,7 @@
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.05% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
-| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
+| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.60% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.39% |
@@ -30,7 +30,7 @@
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 31 | [The Riflemen](games/t/the_riflemen.md) | 14.99% |
+| 31 | [The Riflemen](games/t/the_riflemen.md) | 14.98% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 12.90% |
@@ -49,12 +49,12 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.78% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.94% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.97% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.58% |
-| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.43% |
+| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.42% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.38% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.30% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.26% |
@@ -63,8 +63,8 @@
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 6.98% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.80% |
-| 64 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.54% |
-| 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
+| 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
+| 65 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.48% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -161,7 +161,7 @@
 | 159 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.42% |
 | 160 | [Chorus](games/c/chorus.md) | 1.39% |
 | 161 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.36% |
-| 162 | [Yars: Recharged](games/y/yars__recharged.md) | 1.35% |
+| 162 | [Yars: Recharged](games/y/yars__recharged.md) | 1.31% |
 | 163 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
 | 163 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 165 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
@@ -254,8 +254,8 @@
 | 252 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.39% |
 | 252 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.39% |
 | 254 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.38% |
-| 255 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
-| 255 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.37% |
+| 254 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.38% |
+| 256 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.37% |
 | 257 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 257 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.36% |
 | 257 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
@@ -273,9 +273,9 @@
 | 271 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 271 | [Darksiders III](games/d/darksiders_iii.md) | 0.28% |
 | 271 | [GRIME](games/g/grime.md) | 0.28% |
-| 271 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.28% |
-| 275 | [Filament](games/f/filament.md) | 0.27% |
-| 275 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
+| 274 | [Filament](games/f/filament.md) | 0.27% |
+| 274 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.27% |
+| 274 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
 | 277 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 278 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 278 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |
