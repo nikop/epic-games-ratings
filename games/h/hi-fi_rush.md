@@ -5,7 +5,7 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 57.00% | ~10,110 |
+| Feeling the beat! | 57.00% | ~10,111 |
 | Start with a bang! | 56.00% | ~9,933 |
 | You can pet the cat! | 51.00% | ~9,046 |
 | Who put gears in there? | 42.00% | ~7,450 |
@@ -29,7 +29,7 @@ Rating: 4.85 (Ranked 39)
 | I look cool. But I can look COOLER. | 14.00% | ~2,483 |
 | Who's the boss now? | 13.00% | ~2,306 |
 | Perfecter Parry-er! | 13.00% | ~2,306 |
-| I have to read these things? | 12.00% | ~2,128 |
+| I have to read these things? | 12.00% | ~2,129 |
 | NOW we got a kickass hideout! | 10.00% | ~1,626 |
 | There's such a thing as TOO helpful | 9.00% | ~1,596 |
 | Well that was a rush! | 8.00% | ~1,419 |
@@ -37,8 +37,8 @@ Rating: 4.85 (Ranked 39)
 | Beat-hit mania | 7.00% | ~1,242 |
 | Chip-tuned | 5.00% | ~887 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~887 |
-| Wanna hear my playlist? | 4.00% | ~709 |
-| Check out my moves! | 4.00% | ~709 |
+| Wanna hear my playlist? | 4.00% | ~710 |
+| Check out my moves! | 4.00% | ~710 |
 | We're Jammin' | 3.00% | ~532 |
 | You ever parry a volcano? | 3.00% | ~532 |
 | I think I deserve some praise, here! | 2.00% | ~355 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,737 (Ranked 167)  
+Progressed: 17,738 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,6 +349,7 @@ Completed: 8 (0.05%) (Ranked 351)
 | 2024-01-24 | 17,683 | 8 |
 | 2024-01-25 | 17,709 | 8 |
 | 2024-01-26 | 17,737 | 8 |
+| 2024-01-27 | 17,738 | 8 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 497)  
 Sum: 38 (Ranked 536)  

@@ -5,12 +5,12 @@ Rating: 4.08 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,495 |
-| World Map | 78.00% | ~3,770 |
-| Temple of Eternals | 56.00% | ~2,706 |
-| Prestigious | 52.00% | ~2,513 |
+| Victor | 93.00% | ~4,496 |
+| World Map | 78.00% | ~3,771 |
+| Temple of Eternals | 56.00% | ~2,707 |
+| Prestigious | 52.00% | ~2,514 |
 | Fellowship Power | 41.00% | ~1,982 |
-| Full Party | 31.00% | ~1,498 |
+| Full Party | 31.00% | ~1,499 |
 | Guild Power | 22.00% | ~1,063 |
 | Prestigious x10 | 20.00% | ~967 |
 | The game is on | 18.00% | ~870 |
@@ -72,8 +72,8 @@ Rating: 4.08 (Ranked 1,038)
 | Titan Power | 1.00% | ~48 |
 | Transmute | 1.00% | ~48 |
 | Tree of Life | 1.00% | ~48 |
-| Angel Power | 0.90% | ~43 |
-| Enhanced War Machines | 0.90% | ~43 |
+| Angel Power | 0.90% | ~44 |
+| Enhanced War Machines | 0.90% | ~44 |
 | Silverwood liberator | 0.80% | ~39 |
 | Training makes a Pro player | 0.80% | ~39 |
 | Beast War Machines | 0.70% | ~34 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,833 (Ranked 211)  
+Progressed: 4,834 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 2 (0.04%) (Ranked 363)
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
 | 2024-01-26 | 4,829 | 2 |
-| 2024-01-27 | 4,833 | 2 |
+| 2024-01-27 | 4,834 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 487)  
 Sum: 127 (Ranked 463)  

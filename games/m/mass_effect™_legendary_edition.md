@@ -48,6 +48,7 @@
 | The Justicar | 24.00% | ~1,126 |
 | The Quarian | 24.00% | ~1,126 |
 | The Prodigal | 24.00% | ~1,126 |
+| Galactic Explorer | 24.00% | ~1,126 |
 | A Personal Touch | 23.00% | ~1,079 |
 | Battlemaster | 23.00% | ~1,079 |
 | Catharsis | 23.00% | ~1,079 |
@@ -55,7 +56,6 @@
 | Ghost of the Father | 23.00% | ~1,079 |
 | The Cure | 23.00% | ~1,079 |
 | Big Game Hunter | 23.00% | ~1,079 |
-| Galactic Explorer | 23.00% | ~1,079 |
 | Revenge! | 23.00% | ~1,079 |
 | Heart of Darkness | 23.00% | ~1,079 |
 | Bringer of War | 23.00% | ~1,079 |

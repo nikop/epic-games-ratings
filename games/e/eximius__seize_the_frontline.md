@@ -12,7 +12,7 @@ Rating: 4.18 (Ranked 991)
 | Baby Steps | 5.00% | ~10,184 |
 | First Co-Op Win | 4.00% | ~8,147 |
 | Gated Community | 3.00% | ~6,110 |
-| Tag Team Champions | 2.00% | ~4,073 |
+| Tag Team Champions | 2.00% | ~4,074 |
 | Total Destruction | 1.00% | ~2,037 |
 | Getting There | 1.00% | ~2,037 |
 | Untouchable | 1.00% | ~2,037 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 991)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~204 |
 | Many More to Come | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,674 (Ranked 84)  
+Progressed: 203,675 (Ranked 84)  
 Completed: 4 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 4 (0.00%) (Ranked 414)
 | 2024-01-24 | 203,610 | 4 |
 | 2024-01-25 | 203,641 | 4 |
 | 2024-01-26 | 203,673 | 4 |
-| 2024-01-27 | 203,674 | 4 |
+| 2024-01-27 | 203,675 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

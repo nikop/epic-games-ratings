@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25200,
+  "EOS_Progressed": 25201,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9461,6 +9461,11 @@
       "Time": "2024-01-27T01:48:43.2993718+00:00",
       "NumProgressed": 25200,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-27T03:09:34.8454874+00:00",
+      "NumProgressed": 25201,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9782,9 +9787,9 @@
       "ID": "ACH_MAKE_A_WISH",
       "SetID": "7fgbhpb",
       "Name": "Give Away All Your Money",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PARASITE_PASSENGER_LOVE",
@@ -9823,13 +9828,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25200,
+      "Progressed": 25201,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2493,
+      "Progressed": 2494,
       "Completed": 1376
     }
   ],
@@ -9837,8 +9842,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:22:51.0776816+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:09:34.845487+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.7752227+00:00",
   "LastUpdate_Ratings": "2024-01-27T02:14:21.266876+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:22:51.0777808+00:00"
+  "LastUpdate_Achievements": "2024-01-27T03:09:34.8455582+00:00"
 }

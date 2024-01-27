@@ -1701,9 +1701,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18763,
+  "EOS_Progressed": 18764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12971,6 +12971,11 @@
       "Time": "2024-01-27T01:43:22.4291497+00:00",
       "NumProgressed": 18763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T03:04:01.5534594+00:00",
+      "NumProgressed": 18764,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -13023,7 +13028,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13134
+      "UsersEstimate": 13135
     },
     {
       "ID": "achievement_0007",
@@ -13031,7 +13036,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17074
+      "UsersEstimate": 17075
     },
     {
       "ID": "achievement_0008",
@@ -13039,7 +13044,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15573
+      "UsersEstimate": 15574
     },
     {
       "ID": "achievement_0009",
@@ -13103,7 +13108,7 @@
       "Name": "Hitting a Season",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5441
+      "UsersEstimate": 5442
     },
     {
       "ID": "achievement_0017",
@@ -13143,7 +13148,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12759
+      "UsersEstimate": 12760
     },
     {
       "ID": "achievement_0022",
@@ -13151,7 +13156,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "achievement_0023",
@@ -13159,7 +13164,7 @@
       "Name": "Sharing the Love",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6379
+      "UsersEstimate": 6380
     },
     {
       "ID": "achievement_0024",
@@ -13207,7 +13212,7 @@
       "Name": "Reduce",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "achievement_0030",
@@ -13263,7 +13268,7 @@
       "Name": "Ups and Downs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "achievement_0037",
@@ -13319,7 +13324,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7880
+      "UsersEstimate": 7881
     },
     {
       "ID": "achievement_0044",
@@ -13374,7 +13379,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18763,
+      "Progressed": 18764,
       "Completed": 0
     }
   ],
@@ -13382,8 +13387,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-27T01:38:10.105876+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:17:44.7465394+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:04:01.5534591+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:12:25.7538436+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:17:44.7466101+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:58:34.6843605+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:04:01.5535369+00:00"
 }

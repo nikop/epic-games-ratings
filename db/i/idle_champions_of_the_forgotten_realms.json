@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9871,9 +9871,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255816,
+  "EOS_Progressed": 255824,
   "EOS_Completed": 2655,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41856,6 +41856,11 @@
       "Time": "2024-01-27T02:24:09.771199+00:00",
       "NumProgressed": 255816,
       "NumCompleted": 2655
+    },
+    {
+      "Time": "2024-01-27T03:10:47.5458794+00:00",
+      "NumProgressed": 255824,
+      "NumCompleted": 2655
     }
   ],
   "TotalAchievements": 546,
@@ -42993,9 +42998,9 @@
       "ID": "objective_completed_150",
       "SetID": "cc37lbc",
       "Name": "Periodic Petrification",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 512
     },
     {
       "ID": "objective_completed_151",
@@ -46234,21 +46239,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222090,
+      "Progressed": 222098,
       "Completed": 4163
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255816,
+      "Progressed": 255824,
       "Completed": 2655
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T22:59:59.7762542+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:24:09.7711985+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:10:47.545879+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:14:01.5394736+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:24:09.7735084+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:00:00.6508851+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:10:47.5481072+00:00"
 }

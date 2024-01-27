@@ -5,11 +5,11 @@ Rating: 4.36 (Ranked 822)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 26.00% | ~62 |
-| Help! Help! I’m being repressed | 24.00% | ~57 |
+| Hail to the King, Baby | 25.00% | ~60 |
+| Help! Help! I’m being repressed | 24.00% | ~58 |
 | Can’t Touch This | 23.00% | ~55 |
 | Path of Glory | 23.00% | ~55 |
-| Bring it on! | 19.00% | ~45 |
+| Bring it on! | 19.00% | ~46 |
 | There is no Nobility in Poverty | 18.00% | ~43 |
 | They Got What They Deserved | 17.00% | ~41 |
 | Full House | 15.00% | ~36 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 822)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 431)  
+Progressed: 240 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
 | 2024-01-26 | 236 | 0 |
-| 2024-01-27 | 239 | 0 |
+| 2024-01-27 | 240 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

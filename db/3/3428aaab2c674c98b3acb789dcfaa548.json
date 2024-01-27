@@ -11039,7 +11039,7 @@
       "Count": 1744
     }
   ],
-  "EOS_Progressed": 897037,
+  "EOS_Progressed": 897049,
   "EOS_Completed": 255,
   "EOS_NewPlayers": 4308,
   "EOS_NewCompleters": 4,
@@ -40109,6 +40109,11 @@
       "Time": "2024-01-27T02:23:33.6280192+00:00",
       "NumProgressed": 897037,
       "NumCompleted": 255
+    },
+    {
+      "Time": "2024-01-27T03:10:13.6600535+00:00",
+      "NumProgressed": 897049,
+      "NumCompleted": 255
     }
   ],
   "TotalAchievements": 75,
@@ -40120,7 +40125,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 251170
+      "UsersEstimate": 251174
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -40200,7 +40205,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 53822
+      "UsersEstimate": 53823
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -40272,7 +40277,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35881
+      "UsersEstimate": 35882
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -40328,7 +40333,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35881
+      "UsersEstimate": 35882
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -40456,7 +40461,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53822
+      "UsersEstimate": 53823
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -40480,7 +40485,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35881
+      "UsersEstimate": 35882
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -40528,7 +40533,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 53822
+      "UsersEstimate": 53823
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -40584,7 +40589,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35881
+      "UsersEstimate": 35882
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -40664,7 +40669,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35881
+      "UsersEstimate": 35882
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -40719,13 +40724,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 897037,
+      "Progressed": 897049,
       "Completed": 301
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 897037,
+      "Progressed": 897049,
       "Completed": 255
     }
   ],
@@ -40733,8 +40738,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2024-01-27T01:39:20.6328313+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:23:33.6280187+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:10:13.6600532+00:00",
   "LastUpdate_AppInfo": "2024-01-26T14:57:17.0994753+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:13:20.8489513+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:23:33.6281885+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:59:23.6865125+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:10:13.6602023+00:00"
 }

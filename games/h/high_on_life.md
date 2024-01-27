@@ -36,12 +36,12 @@ Rating: 4.65 (Ranked 327)
 | Fall In Love With A Parasite | 0.60% | ~15 |
 | A Starfish Is Born | 0.40% | ~101 |
 | Playing Favorites | 0.40% | ~101 |
-| Give Away All Your Money | 0.30% | ~7 |
 | Meet Frasier from Frasier | 0.30% | ~7 |
 | Epic Legendary Prize | 0.20% | ~50 |
 | Playing Card To Get | 0.20% | ~50 |
 | Mods Please Ban | 0.20% | ~50 |
 | Luglox Genocide | 0.20% | ~50 |
+| Give Away All Your Money | 0.20% | ~5 |
 | It's Like The Santa Clause | 0.20% | ~5 |
 | Seeing All The Sights | 0.10% | ~25 |
 | That's B.A.L.L., Folks | 0.10% | ~2 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 327)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,200 (Ranked 150)  
+Progressed: 25,201 (Ranked 150)  
 Completed: 14 (0.06%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 14 (0.06%) (Ranked 342)
 | 2024-01-23 | 25,188 | 14 |
 | 2024-01-25 | 25,194 | 14 |
 | 2024-01-26 | 25,199 | 14 |
-| 2024-01-27 | 25,200 | 14 |
+| 2024-01-27 | 25,201 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@ Rating: 4.53 (Ranked 574)
 | ---- | ---------- | ----- |
 | Legal Counsel | 47.00% | ~7,857 |
 | Greasy Palms | 43.00% | ~7,188 |
-| South American Connection | 27.00% | ~4,513 |
+| South American Connection | 27.00% | ~4,514 |
 | Life of the Party | 22.00% | ~3,678 |
 | Big Heat from Little Havana | 16.00% | ~2,675 |
 | Chauffeur | 16.00% | ~2,675 |
@@ -15,7 +15,7 @@ Rating: 4.53 (Ranked 574)
 | Salutations My Little Friend | 12.00% | ~2,006 |
 | Iron-y | 10.00% | ~1,672 |
 | Gun for Hire | 10.00% | ~1,672 |
-| Mischief Managed | 9.00% | ~1,504 |
+| Mischief Managed | 9.00% | ~1,505 |
 | Vice City Mogul | 7.00% | ~1,170 |
 | Catch Me if You Can | 7.00% | ~1,170 |
 | Bloodstained Hands | 7.00% | ~1,170 |
@@ -23,14 +23,14 @@ Rating: 4.53 (Ranked 574)
 | Not my First Time | 5.00% | ~836 |
 | High Quality H2O | 4.00% | ~669 |
 | Pie Guy | 4.00% | ~669 |
-| Running Rampant | 3.00% | ~501 |
-| Point A to Point B | 3.00% | ~501 |
-| Bull in a China Shop | 3.00% | ~501 |
-| Somebody Call the Wambulance? | 3.00% | ~501 |
-| Just Like the Real Thing | 3.00% | ~501 |
-| Don't Need Roads | 3.00% | ~501 |
-| Take the Cannoli | 3.00% | ~501 |
-| City Sleuth | 3.00% | ~501 |
+| Running Rampant | 3.00% | ~502 |
+| Point A to Point B | 3.00% | ~502 |
+| Bull in a China Shop | 3.00% | ~502 |
+| Somebody Call the Wambulance? | 3.00% | ~502 |
+| Just Like the Real Thing | 3.00% | ~502 |
+| Don't Need Roads | 3.00% | ~502 |
+| Take the Cannoli | 3.00% | ~502 |
+| City Sleuth | 3.00% | ~502 |
 | One is Better Than Two | 2.00% | ~334 |
 | Chopper’d Up | 2.00% | ~334 |
 | Born in the 80’s | 1.00% | ~167 |
@@ -40,8 +40,8 @@ Rating: 4.53 (Ranked 574)
 | Done it All | 1.00% | ~167 |
 | Kingpin | 0.70% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,716 (Ranked 172)  
-Completed: 110 (0.66%) (Ranked 212)  
+Progressed: 16,717 (Ranked 172)  
+Completed: 110 (0.66%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,6 +322,7 @@ Completed: 110 (0.66%) (Ranked 212)
 | 2024-01-24 | 16,681 | 109 |
 | 2024-01-25 | 16,701 | 109 |
 | 2024-01-26 | 16,716 | 110 |
+| 2024-01-27 | 16,717 | 110 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 261090,
+  "EOS_Progressed": 261091,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28392,6 +28392,11 @@
       "Time": "2024-01-27T02:17:48.4362426+00:00",
       "NumProgressed": 261090,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T03:04:04.9872189+00:00",
+      "NumProgressed": 261091,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28459,7 +28464,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13054
+      "UsersEstimate": 13055
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -28531,7 +28536,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13054
+      "UsersEstimate": 13055
     },
     {
       "ID": "CreedsInBank2",
@@ -28850,7 +28855,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 261090,
+      "Progressed": 261091,
       "Completed": 3
     }
   ],
@@ -28858,8 +28863,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-23T04:02:56.023083+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:17:48.4362421+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:04:04.9872184+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:16:36.34227+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:17:48.4364352+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:02:59.2443736+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:04:04.9874314+00:00"
 }

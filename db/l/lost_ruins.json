@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2069,6 +2069,11 @@
       "Time": "2024-01-25T21:10:11.9673065+00:00",
       "NumProgressed": 715,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T03:10:36.0385828+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2112,7 +2117,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "BugHunter",
@@ -2120,7 +2125,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Cryomancer",
@@ -2200,7 +2205,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Librarian",
@@ -2399,7 +2404,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 1
     }
   ],
@@ -2407,8 +2412,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:23:57.9877242+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:10:36.0385824+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.4166375+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:11:51.2451212+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:23:57.9877652+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:58:03.7733783+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:10:36.0386163+00:00"
 }

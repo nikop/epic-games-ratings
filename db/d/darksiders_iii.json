@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -524,7 +524,7 @@
   ],
   "EOS_Progressed": 712,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3221,9 +3221,9 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 292
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -3277,8 +3277,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-26T13:00:56.5257344+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:20:25.1916132+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:08:26.4490992+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:13:09.0346438+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:20:25.19168+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:59:13.3661629+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:08:26.4491778+00:00"
 }

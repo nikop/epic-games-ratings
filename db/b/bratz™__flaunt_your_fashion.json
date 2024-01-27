@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -746,9 +746,9 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 70,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "12",
@@ -834,9 +834,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 70,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "5",
@@ -891,8 +891,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:19:36.0709573+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:05:42.6973056+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:35.6207829+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:11:21.4743983+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:19:36.0709705+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:57:38.4404599+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:05:42.6973359+00:00"
 }

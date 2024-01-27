@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 165,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25415,
+  "EOS_Progressed": 25416,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -24539,6 +24539,11 @@
       "Time": "2024-01-27T02:18:55.3816693+00:00",
       "NumProgressed": 25415,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-27T03:05:05.3650949+00:00",
+      "NumProgressed": 25416,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24638,7 +24643,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -24661,15 +24666,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25415,
+      "Progressed": 25416,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:18:55.3816689+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:05:05.3650946+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:11:03.3019396+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:18:55.3818069+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:57:22.5766793+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:05:05.3652298+00:00"
 }

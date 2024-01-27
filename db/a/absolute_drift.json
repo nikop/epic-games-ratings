@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1565924,
+  "EOS_Progressed": 1565926,
   "EOS_Completed": 777,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32847,6 +32847,11 @@
       "Time": "2024-01-27T02:17:56.7942324+00:00",
       "NumProgressed": 1565924,
       "NumCompleted": 777
+    },
+    {
+      "Time": "2024-01-27T03:04:12.480329+00:00",
+      "NumProgressed": 1565926,
+      "NumCompleted": 777
     }
   ],
   "TotalAchievements": 20,
@@ -32874,7 +32879,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31318
+      "UsersEstimate": 31319
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -32930,7 +32935,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31318
+      "UsersEstimate": 31319
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -32946,7 +32951,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31318
+      "UsersEstimate": 31319
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -32954,7 +32959,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156592
+      "UsersEstimate": 156593
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -32962,7 +32967,7 @@
       "Name": "Midnight Master",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31318
+      "UsersEstimate": 31319
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -32986,7 +32991,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31318
+      "UsersEstimate": 31319
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -33017,15 +33022,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1565924,
+      "Progressed": 1565926,
       "Completed": 777
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:17:56.7942319+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:04:12.4803286+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:19.8325784+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:14:12.9907037+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:17:56.7944629+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:00:10.2405418+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:04:12.4804776+00:00"
 }

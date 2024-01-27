@@ -88,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~444 |
 | Lobsterfolk Assault | 0.20% | ~512 |
 | The Forbidden City | 0.20% | ~512 |
+| Periodic Petrification | 0.20% | ~512 |
 | Captured! | 0.20% | ~512 |
 | Home Field Advantage | 0.20% | ~512 |
 | Force Grey Unleashed | 0.20% | ~512 |
@@ -282,7 +283,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~222 |
 | Welcome to the Rock | 0.10% | ~222 |
 | Welcome to the Band | 0.10% | ~222 |
-| Periodic Petrification | 0.10% | ~256 |
 | No Good at All | 0.10% | ~256 |
 | Fall From Grace | 0.10% | ~256 |
 | Double Vision | 0.10% | ~256 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,816 (Ranked 71)  
+Progressed: 255,824 (Ranked 71)  
 Completed: 2,655 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -835,7 +835,7 @@ Completed: 2,655 (1.04%) (Ranked 179)
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
 | 2024-01-26 | 255,788 | 2,654 |
-| 2024-01-27 | 255,816 | 2,655 |
+| 2024-01-27 | 255,824 | 2,655 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
 Sum: 33,658 (Ranked 42)  

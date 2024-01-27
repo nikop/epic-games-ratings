@@ -79,6 +79,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.40% | ~974 |
 | Challenge Increases | 0.30% | ~731 |
 | A Long Climb | 0.30% | ~731 |
+| Friend of Vermin | 0.30% | ~731 |
 | Grave Digger | 0.30% | ~731 |
 | Soul Stash | 0.30% | ~731 |
 | Gigantic | 0.30% | ~731 |
@@ -94,7 +95,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Week Attempt | 0.20% | ~487 |
 | Hydrophobe | 0.20% | ~487 |
 | Dead Revels | 0.20% | ~487 |
-| Friend of Vermin | 0.20% | ~487 |
 | Explosive Betrayal | 0.20% | ~487 |
 | Powerful Potion | 0.20% | ~487 |
 | Willing the World | 0.20% | ~487 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,557 (Ranked 75)  
+Progressed: 243,560 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,7 +427,7 @@ Completed: 309 (0.13%) (Ranked 310)
 | 2024-01-24 | 243,469 | 309 |
 | 2024-01-25 | 243,514 | 309 |
 | 2024-01-26 | 243,553 | 309 |
-| 2024-01-27 | 243,557 | 309 |
+| 2024-01-27 | 243,560 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,806 (Ranked 92)  

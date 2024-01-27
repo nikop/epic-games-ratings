@@ -3964,9 +3964,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243557,
+  "EOS_Progressed": 243560,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -33104,6 +33104,11 @@
       "Time": "2024-01-27T02:24:07.8566395+00:00",
       "NumProgressed": 243557,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-27T03:10:45.5382336+00:00",
+      "NumProgressed": 243560,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33313,9 +33318,9 @@
       "ID": "DONTATTACKRATSDEPTH10",
       "SetID": "5l8oe0h",
       "Name": "Friend of Vermin",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 731
     },
     {
       "ID": "ENDHEALTHY",
@@ -34218,13 +34223,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243557,
+      "Progressed": 243560,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 5037,
+      "Progressed": 5040,
       "Completed": 433
     }
   ],
@@ -34232,8 +34237,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-25T23:58:38.3213561+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:24:07.8566392+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:10:45.5382332+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:13:02.9856675+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:24:07.8569443+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:59:08.1497069+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:10:45.5385399+00:00"
 }

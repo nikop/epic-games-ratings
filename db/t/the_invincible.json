@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1827,
+  "EOS_Progressed": 1828,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5015,6 +5015,11 @@
       "Time": "2024-01-27T00:11:02.68245+00:00",
       "NumProgressed": 1827,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T03:10:17.6926607+00:00",
+      "NumProgressed": 1828,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -5051,7 +5056,7 @@
       "Name": "Fierce fight",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "AchvBombStop",
@@ -5091,7 +5096,7 @@
       "Name": "The Alliance",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "AchvDoom",
@@ -5195,7 +5200,7 @@
       "Name": "The field base",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "AchvReachCamp",
@@ -5203,7 +5208,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "AchvReachCity",
@@ -5211,7 +5216,7 @@
       "Name": "The City",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "AchvReachCondor",
@@ -5251,14 +5256,14 @@
       "Name": "Beyond divisions",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1827,
+      "Progressed": 1828,
       "Completed": 2
     }
   ],
@@ -5266,8 +5271,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-26T17:59:27.0444396+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:23:38.300475+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:10:17.6926604+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:13:23.3132964+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:23:38.300522+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:59:25.9862935+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:10:17.6927056+00:00"
 }

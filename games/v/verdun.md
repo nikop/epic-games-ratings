@@ -6,10 +6,10 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~55,019 |
-| Worth it | 63.00% | ~44,438 |
-| Eagle Eye | 54.00% | ~38,090 |
-| Corpseman I | 39.00% | ~27,509 |
+| Setting an example | 78.00% | ~55,020 |
+| Worth it | 63.00% | ~44,439 |
+| Eagle Eye | 54.00% | ~38,091 |
+| Corpseman I | 39.00% | ~27,510 |
 | Blast fishing | 37.00% | ~26,099 |
 | Not alone | 32.00% | ~22,572 |
 | Headhunter I | 26.00% | ~18,340 |
@@ -17,7 +17,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Manual Labour I | 24.00% | ~16,929 |
 | Basic Training | 23.00% | ~16,224 |
 | Furchtlos und Treu | 13.00% | ~9,170 |
-| Gott Mit Uns | 12.00% | ~8,464 |
+| Gott Mit Uns | 12.00% | ~8,465 |
 | This We'll Defend! | 9.00% | ~6,348 |
 | For King and Country | 9.00% | ~6,348 |
 | Battle hardened | 8.00% | ~5,643 |
@@ -28,12 +28,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | In Treue Fest | 5.00% | ~3,527 |
 | Voor De Koning | 5.00% | ~3,527 |
 | Extreme Headhunter | 5.00% | ~3,527 |
-| Advance Australia | 4.00% | ~2,821 |
-| We Stand on Guard | 4.00% | ~2,821 |
-| Sidi Brahim | 4.00% | ~2,821 |
-| War is better with friends I | 4.00% | ~2,821 |
-| Let them, come to us | 4.00% | ~2,821 |
-| Corpseman II | 4.00% | ~2,821 |
+| Advance Australia | 4.00% | ~2,822 |
+| We Stand on Guard | 4.00% | ~2,822 |
+| Sidi Brahim | 4.00% | ~2,822 |
+| War is better with friends I | 4.00% | ~2,822 |
+| Let them, come to us | 4.00% | ~2,822 |
+| Corpseman II | 4.00% | ~2,822 |
 | Offense is the best defence | 3.00% | ~2,116 |
 | There is no I in team | 3.00% | ~2,116 |
 | Veteran | 3.00% | ~2,116 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~71 |
 | Blood Brother | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,537 (Ranked 117)  
+Progressed: 70,538 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-24 | 70,351 | 4 |
 | 2024-01-25 | 70,436 | 4 |
 | 2024-01-26 | 70,528 | 4 |
-| 2024-01-27 | 70,537 | 4 |
+| 2024-01-27 | 70,538 | 4 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 377)  
 Sum: 844 (Ranked 290)  

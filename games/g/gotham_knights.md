@@ -8,17 +8,17 @@ Rating: 4.19 (Ranked 984)
 | First Step Into the Knight | 50.00% | ~41,656 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,326 |
 | Loose Ends | 33.00% | ~27,493 |
-| To the Victor Go the Spoils | 27.00% | ~22,494 |
+| To the Victor Go the Spoils | 27.00% | ~22,495 |
 | Knighthood | 26.00% | ~21,661 |
 | Get ReQ'd | 24.00% | ~19,995 |
 | Whispered Words | 24.00% | ~19,995 |
 | The Batman Family | 22.00% | ~18,329 |
 | Lock and Key | 22.00% | ~18,329 |
-| Something in the Clay | 20.00% | ~16,662 |
-| Quartzer Life Crisis | 20.00% | ~16,662 |
-| Working Hard or Harley Working? | 20.00% | ~16,662 |
-| Unstoppable Force | 20.00% | ~16,662 |
-| Bad Apples in Every Orchard | 20.00% | ~16,662 |
+| Something in the Clay | 20.00% | ~16,663 |
+| Quartzer Life Crisis | 20.00% | ~16,663 |
+| Working Hard or Harley Working? | 20.00% | ~16,663 |
+| Unstoppable Force | 20.00% | ~16,663 |
+| Bad Apples in Every Orchard | 20.00% | ~16,663 |
 | Snow Problem | 19.00% | ~15,829 |
 | The Show Mud Go On | 17.00% | ~14,163 |
 | From Inside Gotham's Walls | 17.00% | ~14,163 |
@@ -30,10 +30,10 @@ Rating: 4.19 (Ranked 984)
 | Voiceless | 14.00% | ~11,664 |
 | Shock Til They Drop | 13.00% | ~10,831 |
 | Seeking Asylum | 13.00% | ~10,831 |
-| End of an Era | 12.00% | ~9,997 |
-| Not On My Watch | 12.00% | ~9,997 |
-| Bulldozed | 12.00% | ~9,997 |
-| Gotham Knight | 12.00% | ~9,997 |
+| End of an Era | 12.00% | ~9,998 |
+| Not On My Watch | 12.00% | ~9,998 |
+| Bulldozed | 12.00% | ~9,998 |
+| Gotham Knight | 12.00% | ~9,998 |
 | Gotham City Confidential | 11.00% | ~9,164 |
 | Drone You Out | 10.00% | ~8,331 |
 | Out of Their League | 9.00% | ~7,498 |
@@ -42,7 +42,7 @@ Rating: 4.19 (Ranked 984)
 | Family Meeting | 6.00% | ~4,999 |
 | A Worthy Successor | 6.00% | ~4,999 |
 | Expert Crime Fighter | 5.00% | ~4,166 |
-| Dressed to Impress | 4.00% | ~3,332 |
+| Dressed to Impress | 4.00% | ~3,333 |
 | A Momentum Occasion | 3.00% | ~2,499 |
 | Bat Out of Hell | 3.00% | ~2,499 |
 | Practice Makes Perfect | 2.00% | ~1,666 |
@@ -52,7 +52,7 @@ Rating: 4.19 (Ranked 984)
 | Batarang Collector | 1.00% | ~833 |
 | Claiming the Mural High Ground | 1.00% | ~833 |
 | Icebreaker | 0.80% | ~429 |
-| History Major | 0.80% | ~666 |
+| History Major | 0.80% | ~667 |
 | A Sophisticated Mallet | 0.80% | ~429 |
 | Read Owl About It | 0.70% | ~583 |
 | Don't Mecha Big Deal About It | 0.60% | ~322 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 984)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,312 (Ranked 111)  
+Progressed: 83,313 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 135 (0.16%) (Ranked 301)
 | 2024-01-24 | 83,243 | 135 |
 | 2024-01-25 | 83,274 | 135 |
 | 2024-01-26 | 83,310 | 135 |
-| 2024-01-27 | 83,312 | 135 |
+| 2024-01-27 | 83,313 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,262  (Ranked 103)  
 Sum: 5,587 (Ranked 146)  

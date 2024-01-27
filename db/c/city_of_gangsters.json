@@ -1102,9 +1102,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363795,
+  "EOS_Progressed": 363796,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 929,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33317,6 +33317,11 @@
       "Time": "2024-01-27T02:17:41.5610511+00:00",
       "NumProgressed": 363795,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-27T03:03:58.6412152+00:00",
+      "NumProgressed": 363796,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33344,7 +33349,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43655
+      "UsersEstimate": 43656
     },
     {
       "ID": "ach004",
@@ -33384,7 +33389,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43655
+      "UsersEstimate": 43656
     },
     {
       "ID": "ach009",
@@ -33552,7 +33557,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 40017
+      "UsersEstimate": 40018
     },
     {
       "ID": "ach030",
@@ -33728,7 +33733,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 40017
+      "UsersEstimate": 40018
     },
     {
       "ID": "ach052",
@@ -33967,7 +33972,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363795,
+      "Progressed": 363796,
       "Completed": 7
     }
   ],
@@ -33975,8 +33980,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-26T15:57:54.5996048+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:17:41.5610506+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:03:58.6412149+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:11:55.5560093+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:17:41.5612811+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:58:07.5815389+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:03:58.6414032+00:00"
 }

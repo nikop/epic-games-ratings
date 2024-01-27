@@ -6,29 +6,29 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~907,917 |
-| Green Energy | 59.00% | ~754,466 |
-| Foggy Weather | 58.00% | ~741,678 |
-| Singing In The- | 58.00% | ~741,678 |
-| Unpopular Mayor | 40.00% | ~511,502 |
-| Power at Your Fingertips | 33.00% | ~421,989 |
-| City Planner | 22.00% | ~281,326 |
-| Rolling in Dough | 20.00% | ~255,751 |
-| Does My Bum Look Big In This? | 17.00% | ~217,389 |
-| Climbing the Social Ladder | 16.00% | ~204,601 |
-| Safe City | 13.00% | ~166,238 |
-| Quay-King | 11.00% | ~140,663 |
-| With Canals You Can! | 10.00% | ~127,876 |
-| Lawmaker | 9.00% | ~115,088 |
-| Nomen Est Omen | 7.00% | ~89,513 |
-| Well Informed | 6.00% | ~76,725 |
-| Fire Watch | 5.00% | ~63,938 |
-| Greenest City | 4.00% | ~51,150 |
+| Pioneer | 71.00% | ~907,930 |
+| Green Energy | 59.00% | ~754,477 |
+| Foggy Weather | 58.00% | ~741,690 |
+| Singing In The- | 58.00% | ~741,690 |
+| Unpopular Mayor | 40.00% | ~511,510 |
+| Power at Your Fingertips | 33.00% | ~421,996 |
+| City Planner | 22.00% | ~281,330 |
+| Rolling in Dough | 20.00% | ~255,755 |
+| Does My Bum Look Big In This? | 17.00% | ~217,392 |
+| Climbing the Social Ladder | 16.00% | ~204,604 |
+| Safe City | 13.00% | ~166,241 |
+| Quay-King | 11.00% | ~140,665 |
+| With Canals You Can! | 10.00% | ~127,878 |
+| Lawmaker | 9.00% | ~115,090 |
+| Nomen Est Omen | 7.00% | ~89,514 |
+| Well Informed | 6.00% | ~76,726 |
+| Fire Watch | 5.00% | ~63,939 |
+| Greenest City | 4.00% | ~51,151 |
 | Heavenly City | 3.00% | ~38,363 |
 | Reporting! | 3.00% | ~38,363 |
 | SIMulated City | 3.00% | ~38,363 |
 | The Safest Town | 3.00% | ~38,363 |
-| Professional Dumper | 2.00% | ~25,575 |
+| Professional Dumper | 2.00% | ~25,576 |
 | City in Motion | 1.00% | ~12,788 |
 | Earthloving City | 1.00% | ~12,788 |
 | Metropolis | 1.00% | ~12,788 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,279 |
 | Z00 | 0.10% | ~1,279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,278,756 (Ranked 12)  
+Progressed: 1,278,775 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 11 (0.00%) (Ranked 414)
 | 2024-01-24 | 1,276,707 | 11 |
 | 2024-01-25 | 1,277,628 | 11 |
 | 2024-01-26 | 1,278,666 | 11 |
-| 2024-01-27 | 1,278,756 | 11 |
+| 2024-01-27 | 1,278,775 | 11 |
 ## Awards
 Max (Great for Beginners): 6,801  (Ranked 60)  
 Sum: 49,982 (Ranked 32)  

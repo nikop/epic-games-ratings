@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1452,7 +1452,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34393,
+  "EOS_Progressed": 34395,
   "EOS_Completed": 89,
   "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 1,
@@ -31812,6 +31812,11 @@
       "Time": "2024-01-27T02:23:46.7338876+00:00",
       "NumProgressed": 34393,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-27T03:10:25.3776211+00:00",
+      "NumProgressed": 34395,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 22,
@@ -31919,7 +31924,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "1028",
@@ -31935,7 +31940,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "1030",
@@ -31959,7 +31964,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13757
+      "UsersEstimate": 13758
     },
     {
       "ID": "1033",
@@ -31998,15 +32003,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34393,
+      "Progressed": 34395,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-23T08:57:20.1570072+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:23:46.7338873+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:10:25.3776209+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:12:51.4588347+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:23:46.7340826+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:58:57.9205358+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:10:25.3777807+00:00"
 }

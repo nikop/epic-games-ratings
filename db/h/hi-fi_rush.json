@@ -297,7 +297,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 17737,
+  "EOS_Progressed": 17738,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
@@ -13372,6 +13372,11 @@
       "Time": "2024-01-26T23:04:52.9714041+00:00",
       "NumProgressed": 17737,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-27T03:05:03.9018983+00:00",
+      "NumProgressed": 17738,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13543,7 +13548,7 @@
       "Name": "I have to read these things?",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "Ach022",
@@ -13559,7 +13564,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 10110
+      "UsersEstimate": 10111
     },
     {
       "ID": "Ach024",
@@ -13791,7 +13796,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "Ach053",
@@ -13855,7 +13860,7 @@
       "Name": "Check out my moves!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "Ach061",
@@ -13950,13 +13955,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17737,
+      "Progressed": 17738,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16258,
+      "Progressed": 16259,
       "Completed": 1931
     }
   ],
@@ -13964,8 +13969,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-25T07:57:37.7523595+00:00",
-  "LastChanged_Achievements": "2024-01-27T02:18:53.7717323+00:00",
+  "LastChanged_Achievements": "2024-01-27T03:05:03.9018981+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:12:13.5829919+00:00",
-  "LastUpdate_Achievements": "2024-01-27T02:18:53.7718982+00:00"
+  "LastUpdate_Ratings": "2024-01-27T02:58:23.8336909+00:00",
+  "LastUpdate_Achievements": "2024-01-27T03:05:03.9020369+00:00"
 }

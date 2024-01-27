@@ -12,8 +12,8 @@ Rating: 4.39 (Ranked 788)
 | The Wait | 7.00% | ~18,276 |
 | Green thumb I | 6.00% | ~15,665 |
 | Cleaning Company | 6.00% | ~15,665 |
-| Well-oiled machine | 5.00% | ~13,054 |
-| Saver I | 5.00% | ~13,054 |
+| Well-oiled machine | 5.00% | ~13,055 |
+| Saver I | 5.00% | ~13,055 |
 | The Ascent | 4.00% | ~10,444 |
 | Pacifist | 4.00% | ~10,444 |
 | Vandalism | 4.00% | ~10,444 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 788)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,090 (Ranked 69)  
+Progressed: 261,091 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 3 (0.00%) (Ranked 414)
 | 2024-01-24 | 261,032 | 3 |
 | 2024-01-25 | 261,056 | 3 |
 | 2024-01-26 | 261,083 | 3 |
-| 2024-01-27 | 261,090 | 3 |
+| 2024-01-27 | 261,091 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 453)  
 Sum: 390 (Ranked 366)  
