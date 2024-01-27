@@ -1,15 +1,15 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.07 (Ranked 1,046)  
+Rating: 4.07 (Ranked 1,047)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~12,791 |
-| Beast Intentions | 2.00% | ~5,116 |
-| The Cursed Farmer | 2.00% | ~5,116 |
-| The Mad Wizard | 2.00% | ~5,116 |
+| Beast Intentions | 2.00% | ~5,117 |
+| The Cursed Farmer | 2.00% | ~5,117 |
+| The Mad Wizard | 2.00% | ~5,117 |
 | Were-verpowered | 1.00% | ~2,558 |
 | The Ring of Regeneration | 1.00% | ~2,558 |
 | Are Ya Chicken? | 1.00% | ~2,558 |
@@ -32,12 +32,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.50% | ~1,279 |
 | Escort to Waterdeep | 0.50% | ~1,279 |
 | Waterdeep Detours | 0.50% | ~1,279 |
-| The Overgrown Grove | 0.50% | ~1,110 |
-| When Tentacles Attack | 0.50% | ~1,110 |
-| Flames of Avernus | 0.50% | ~1,110 |
-| Mental Gymnastics | 0.50% | ~1,110 |
-| Don't Lose Your Head | 0.50% | ~1,110 |
-| Mind Spike | 0.50% | ~1,110 |
+| The Overgrown Grove | 0.50% | ~1,111 |
+| When Tentacles Attack | 0.50% | ~1,111 |
+| Flames of Avernus | 0.50% | ~1,111 |
+| Mental Gymnastics | 0.50% | ~1,111 |
+| Don't Lose Your Head | 0.50% | ~1,111 |
+| Mind Spike | 0.50% | ~1,111 |
 | The Silken Swamp | 0.40% | ~1,023 |
 | Low Initiative | 0.40% | ~1,023 |
 | March of the Undead | 0.40% | ~1,023 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,824 (Ranked 71)  
+Progressed: 255,829 (Ranked 71)  
 Completed: 2,655 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -835,7 +835,7 @@ Completed: 2,655 (1.04%) (Ranked 179)
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
 | 2024-01-26 | 255,788 | 2,654 |
-| 2024-01-27 | 255,824 | 2,655 |
+| 2024-01-27 | 255,829 | 2,655 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
 Sum: 33,658 (Ranked 42)  

@@ -14,7 +14,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 7.00% | ~9,364 |
 | Creep and Sleep | 7.00% | ~9,364 |
 | Overdue Notice | 7.00% | ~9,364 |
-| Ploughshares to Swords | 7.00% | ~604 |
+| Ploughshares to Swords | 7.00% | ~605 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,026 |
 | It Rings a Bell | 6.00% | ~8,026 |
 | Meat and Greet | 6.00% | ~8,026 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,765 (Ranked 92)  
+Progressed: 133,767 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,23 +358,23 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
 | 2024-01-26 | 133,757 | 5 |
-| 2024-01-27 | 133,765 | 5 |
+| 2024-01-27 | 133,767 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
-Sum: 21,890 (Ranked 60)  
+Sum: 21,893 (Ranked 60)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,087 |
 | This game has Diverse Characters | 1,894 |
-| This game has Challenging Combat | 1,696 |
+| This game has Challenging Combat | 1,698 |
 | This game is Highly Recommended | 1,619 |
 | This game has Amazing Characters | 1,548 |
 | This game is Extremely Fun | 1,539 |
 | This game has Unique Visuals | 1,492 |
 | This game has Amazing Storytelling | 1,462 |
 | This game has Quickly Understood Controls | 1,438 |
-| This game has a Creative Community | 1,115 |
+| This game has a Creative Community | 1,116 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -744,4 +744,4 @@ Diff (max vs sum): -8
 | 2024-01-24 | 4.69 | - | 8,073 | 21,856 |
 | 2024-01-25 | 4.69 | - | 8,078 | 21,867 |
 | 2024-01-26 | 4.69 | - | 8,087 | 21,888 |
-| 2024-01-27 | 4.69 | - | 8,087 | 21,890 |
+| 2024-01-27 | 4.69 | - | 8,087 | 21,893 |

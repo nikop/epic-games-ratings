@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3157,
+  "EOS_Progressed": 3159,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -8644,6 +8644,11 @@
       "Time": "2024-01-27T01:50:12.4326998+00:00",
       "NumProgressed": 3157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T04:10:12.1603159+00:00",
+      "NumProgressed": 3159,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8880,7 +8885,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2717
     },
     {
       "ID": "achievement_36",
@@ -8896,7 +8901,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "achievement_38",
@@ -8910,9 +8915,9 @@
       "ID": "achievement_39",
       "SetID": "271ol84",
       "Name": "Ackbar\u0027s Elite",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_4",
@@ -8928,7 +8933,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "achievement_41",
@@ -9136,7 +9141,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_8",
@@ -9159,13 +9164,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3157,
+      "Progressed": 3159,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3157,
+      "Progressed": 3159,
       "Completed": 1
     }
   ],
@@ -9173,8 +9178,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:10:42.5089858+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:10:12.1603156+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:59:53.6000826+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:10:42.5091029+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:59:46.4243085+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:10:12.160393+00:00"
 }

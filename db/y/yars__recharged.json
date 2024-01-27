@@ -2,8 +2,8 @@
   "ID": "026a17f50e2b4ebeb6c631bd8638b6f7",
   "Name": "Yars: Recharged",
   "ProductSlug": "yars-revenge-recharged-fbdc11",
-  "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 414,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2024-01-15T14:08:56.2453118+00:00",
@@ -215,6 +215,11 @@
       "Time": "2024-01-27T03:09:34.6383399+00:00",
       "NumProgressed": 405,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T04:09:03.9715801+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -226,15 +231,15 @@
       "Name": "2112",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ANALOG_KID",
       "SetID": "kifj0l",
       "Name": "Analog Kid",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_APOLLO",
@@ -242,7 +247,7 @@
       "Name": "Apollo",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_ARMAGEDDON",
@@ -250,23 +255,23 @@
       "Name": "Armageddon",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_A_FAREWELL_TO_KINGS",
       "SetID": "kifj0l",
       "Name": "A Farewell to Kings",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_DIONYSUS",
       "SetID": "kifj0l",
       "Name": "Dionysus",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_GRAND_FINALE",
@@ -288,9 +293,9 @@
       "ID": "ACH_ORACLE",
       "SetID": "kifj0l",
       "Name": "Oracle",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_RUSH",
@@ -298,15 +303,15 @@
       "Name": "Rush",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SOLILOQUY",
       "SetID": "kifj0l",
       "Name": "Soliloquy",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_SUBDIVISIONS",
@@ -330,7 +335,7 @@
       "Name": "The Weapon",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_XANADU",
@@ -338,14 +343,14 @@
       "Name": "Xanadu",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "kifj0l",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 414,
       "Completed": 5
     }
   ],
@@ -353,8 +358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.4639247+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.5855018+00:00",
   "LastChanged": "2023-03-31T05:58:40.4639249+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:09:34.6383396+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:09:03.9715797+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.760429+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:57:46.8587501+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:09:34.6383511+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:57:40.2051203+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:09:03.9715894+00:00"
 }

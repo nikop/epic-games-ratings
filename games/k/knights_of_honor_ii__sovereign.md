@@ -5,14 +5,14 @@ Rating: 4.36 (Ranked 822)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 25.00% | ~60 |
+| Hail to the King, Baby | 26.00% | ~62 |
 | Help! Help! I’m being repressed | 24.00% | ~58 |
 | Can’t Touch This | 23.00% | ~55 |
 | Path of Glory | 23.00% | ~55 |
 | Bring it on! | 19.00% | ~46 |
 | There is no Nobility in Poverty | 18.00% | ~43 |
 | They Got What They Deserved | 17.00% | ~41 |
-| Full House | 15.00% | ~36 |
+| Full House | 16.00% | ~38 |
 | Playerxander the Great | 15.00% | ~36 |
 | The finest merchandise this side of river Jordan | 13.00% | ~31 |
 | Big Apple | 11.00% | ~26 |
@@ -22,9 +22,9 @@ Rating: 4.36 (Ranked 822)
 | Learn Me a Book | 8.00% | ~19 |
 | What we’ve got here is failure to communicate | 8.00% | ~19 |
 | Black Sheep Wall | 7.00% | ~17 |
+| The Magnificent Nine | 7.00% | ~17 |
 | Blinded by Science | 6.00% | ~14 |
 | Let Us Pray | 6.00% | ~14 |
-| The Magnificent Nine | 6.00% | ~14 |
 | ‘Tis but a scratch | 6.00% | ~14 |
 | Blessed Be His Name | 5.00% | ~12 |
 | Call the Boys | 5.00% | ~12 |

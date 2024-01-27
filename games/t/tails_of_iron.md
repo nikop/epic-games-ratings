@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 498)
 | Complete Arena Faction | 0.80% | ~19 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,355 (Ranked 249)  
+Progressed: 2,356 (Ranked 249)  
 Completed: 12 (0.51%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 12 (0.51%) (Ranked 234)
 | 2024-01-23 | 2,352 | 12 |
 | 2024-01-24 | 2,353 | 12 |
 | 2024-01-26 | 2,354 | 12 |
-| 2024-01-27 | 2,355 | 12 |
+| 2024-01-27 | 2,356 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

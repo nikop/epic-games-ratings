@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2878,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4175,9 +4175,9 @@
       "ID": "FINISHED_10",
       "SetID": "4nk2039",
       "Name": "New star",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 288
     },
     {
       "ID": "FINISHED_100",
@@ -4207,9 +4207,9 @@
       "ID": "FINISHED_RACE_MOTORBIKE_1",
       "SetID": "4nk2039",
       "Name": "One motorbike race",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1094
     },
     {
       "ID": "ONE_LAP",
@@ -4343,9 +4343,9 @@
       "ID": "WIN_3",
       "SetID": "4nk2039",
       "Name": "Multiple race winner",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 288
     },
     {
       "ID": "WIN_HORICE",
@@ -4406,8 +4406,8 @@
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:09:55.6824467+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:09:24.7970725+00:00",
   "LastUpdate_AppInfo": "2024-01-22T02:57:03.6253654+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:57:24.8746641+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:09:55.6824942+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:57:17.9217044+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:09:24.7971133+00:00"
 }

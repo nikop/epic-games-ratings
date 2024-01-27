@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3749,
+  "EOS_Progressed": 3750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9473,6 +9473,11 @@
       "Time": "2024-01-27T02:22:00.0742095+00:00",
       "NumProgressed": 3749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T04:08:17.4114889+00:00",
+      "NumProgressed": 3750,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9483,9 +9488,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1688
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9509,7 +9514,7 @@
       "Name": "Stamina Star",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -9517,7 +9522,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9525,7 +9530,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -9541,7 +9546,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9573,7 +9578,7 @@
       "Name": "Legendary!!!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9581,7 +9586,7 @@
       "Name": "Maximum Endurance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -9613,7 +9618,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -9637,7 +9642,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -9693,7 +9698,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9701,7 +9706,7 @@
       "Name": "Beyond the Limiter",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -9725,7 +9730,7 @@
       "Name": "All My Own Toys",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -9749,7 +9754,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -9781,7 +9786,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9821,7 +9826,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -9876,7 +9881,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3749,
+      "Progressed": 3750,
       "Completed": 0
     }
   ],
@@ -9884,8 +9889,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-26T14:59:26.1256562+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:08:48.3116067+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:08:17.4114886+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:59:18.1368567+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:08:48.3116977+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:59:11.4999197+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:08:17.4115586+00:00"
 }

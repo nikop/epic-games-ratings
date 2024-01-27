@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2316,
+  "EOS_Progressed": 2317,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8972,6 +8972,11 @@
       "Time": "2024-01-26T22:06:34.607552+00:00",
       "NumProgressed": 2316,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T04:08:13.1281549+00:00",
+      "NumProgressed": 2317,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8999,7 +9004,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ach_defeat_players_100",
@@ -9063,7 +9068,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "objective_headquarters_15",
@@ -9079,7 +9084,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_headquarters_5",
@@ -9087,7 +9092,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -9095,7 +9100,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -9135,7 +9140,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -9159,7 +9164,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -9191,7 +9196,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -9215,7 +9220,7 @@
       "Name": "Battle Ready",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -9223,7 +9228,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -9279,14 +9284,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2316,
+      "Progressed": 2317,
       "Completed": 1
     }
   ],
@@ -9294,8 +9299,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-27T02:57:47.0368417+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:08:43.6859045+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:08:13.1281543+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.1428113+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:57:47.0368422+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:08:43.6859687+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:57:40.3455171+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:08:13.1282129+00:00"
 }

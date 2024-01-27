@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 58.00% | ~183 |
-| Press-ganged | 43.00% | ~135 |
+| Press-ganged | 43.00% | ~136 |
 | The Package | 28.00% | ~88 |
 | Randomized | 19.00% | ~60 |
 | Conquered | 19.00% | ~60 |
@@ -49,19 +49,19 @@
 | Merchant Lord | 2.00% | ~6 |
 | Glorious leader | 2.00% | ~6 |
 | Insectoid Propagator | 2.00% | ~6 |
-| Making Contact | 1.00% | ~3 |
-| Executor | 1.00% | ~3 |
 | Loremaster | 1.00% | ~3 |
-| Adept | 1.00% | ~3 |
 | Talent Nurtured | 1.00% | ~3 |
-| Embellished | 1.00% | ~3 |
-| Ever After | 1.00% | ~3 |
 | Trailblazer | 1.00% | ~3 |
-| Loader | 1.00% | ~3 |
 | The Darkness Within | 1.00% | ~3 |
-| What Lies Below | 1.00% | ~3 |
-| Wyrmslayer | 1.00% | ~3 |
-| Voracity Confronted | 1.00% | ~3 |
+| Making Contact | 0.90% | ~3 |
+| Executor | 0.90% | ~3 |
+| Adept | 0.90% | ~3 |
+| Embellished | 0.90% | ~3 |
+| Ever After | 0.90% | ~3 |
+| Loader | 0.90% | ~3 |
+| What Lies Below | 0.90% | ~3 |
+| Wyrmslayer | 0.90% | ~3 |
+| Voracity Confronted | 0.90% | ~3 |
 | Manticore | 0.60% | ~2 |
 | Huntsmaster | 0.60% | ~2 |
 | Mercenary | 0.60% | ~2 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 403)  
+Progressed: 316 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-20 | 311 | 0 |
 | 2024-01-22 | 313 | 0 |
 | 2024-01-25 | 315 | 0 |
+| 2024-01-27 | 316 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

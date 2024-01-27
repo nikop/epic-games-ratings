@@ -4,8 +4,8 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 345,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1594,6 +1594,11 @@
       "Time": "2024-01-23T00:04:37.8868952+00:00",
       "NumProgressed": 344,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T04:05:27.2043606+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1708,9 +1713,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Silver Button",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
@@ -1724,9 +1729,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_HAT",
       "SetID": "5lffoo5",
       "Name": "Silver Hat",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
@@ -1749,14 +1754,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 345,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:05:45.7713876+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:05:27.2043603+00:00",
   "LastUpdate_AppInfo": "2024-01-22T04:57:13.8812148+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:03:09.7318762+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:05:45.7714138+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:02:51.0364669+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:05:27.2043987+00:00"
 }

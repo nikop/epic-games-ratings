@@ -14173,10 +14173,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 67383,
       "NumberOfAwardsMax": 32634
+    },
+    {
+      "Time": "2024-01-27T04:02:29.2176254+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 67478,
+      "NumberOfAwardsMax": 32634
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 67383,
+  "NumberOfAwards": 67478,
   "NumberOfAwardsMax": 32634,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14190,7 +14196,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 17289
+      "Count": 17384
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -14253,9 +14259,9 @@
       "Count": 1169
     }
   ],
-  "EOS_Progressed": 387741,
+  "EOS_Progressed": 387743,
   "EOS_Completed": 598,
-  "EOS_NewPlayers": 1875,
+  "EOS_NewPlayers": 1860,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -44923,6 +44929,11 @@
       "Time": "2024-01-27T03:09:53.5263056+00:00",
       "NumProgressed": 387741,
       "NumCompleted": 598
+    },
+    {
+      "Time": "2024-01-27T04:09:22.7294347+00:00",
+      "NumProgressed": 387743,
+      "NumCompleted": 598
     }
   ],
   "TotalAchievements": 45,
@@ -44950,7 +44961,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 50406
+      "UsersEstimate": 50407
     },
     {
       "ID": "PFA_12",
@@ -44958,7 +44969,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 50406
+      "UsersEstimate": 50407
     },
     {
       "ID": "PFA_13",
@@ -45086,7 +45097,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 23264
+      "UsersEstimate": 23265
     },
     {
       "ID": "PFA_28",
@@ -45118,7 +45129,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 77548
+      "UsersEstimate": 77549
     },
     {
       "ID": "PFA_31",
@@ -45254,7 +45265,7 @@
       "Name": "The Wise Owl",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23264
+      "UsersEstimate": 23265
     },
     {
       "ID": "PFA_6",
@@ -45270,7 +45281,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 104690
+      "UsersEstimate": 104691
     },
     {
       "ID": "PFA_8",
@@ -45278,7 +45289,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 77548
+      "UsersEstimate": 77549
     },
     {
       "ID": "PFA_9",
@@ -45293,16 +45304,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 387741,
+      "Progressed": 387743,
       "Completed": 598
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-01-27T01:41:40.3842954+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:09:53.5263054+00:00",
+  "LastChanged": "2024-01-27T04:02:29.2176252+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:09:22.7294343+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.2606186+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:02:48.7796009+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:09:53.5264322+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:02:29.2176259+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:09:22.7295951+00:00"
 }

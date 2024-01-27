@@ -153,9 +153,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84509,
+  "EOS_Progressed": 84510,
   "EOS_Completed": 953,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31608,6 +31608,11 @@
       "Time": "2024-01-27T03:03:41.0775006+00:00",
       "NumProgressed": 84509,
       "NumCompleted": 953
+    },
+    {
+      "Time": "2024-01-27T04:03:24.0141095+00:00",
+      "NumProgressed": 84510,
+      "NumCompleted": 953
     }
   ],
   "TotalAchievements": 25,
@@ -31715,7 +31720,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "Master, Commander",
@@ -31818,7 +31823,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84509,
+      "Progressed": 84510,
       "Completed": 953
     }
   ],
@@ -31826,8 +31831,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-25T04:58:57.692419+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:03:41.0775003+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:03:24.0141093+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:00:05.6788589+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:03:41.0776606+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:59:57.9844787+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:03:24.0142586+00:00"
 }

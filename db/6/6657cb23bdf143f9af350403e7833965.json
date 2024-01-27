@@ -4,8 +4,8 @@
   "ProductSlug": "a-christmas-carol-vr-00de5c",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 536,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-12T00:32:47.48+00:00",
     "PcReleaseDate": "2023-12-01T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-17T16:57:12.136237+00:00",
   "LastUpdate_AppInfo": "2024-01-21T20:57:03.5912262+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:59:59.0571078+00:00",
+  "LastUpdate_Ratings": "2024-01-27T03:59:51.5351178+00:00",
   "LastUpdate_Achievements": "2024-01-27T03:08:38.4371188+00:00"
 }

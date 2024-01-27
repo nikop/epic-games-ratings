@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1631,7 +1631,7 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 15021,
+  "EOS_Progressed": 15022,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
@@ -10926,6 +10926,11 @@
       "Time": "2024-01-27T03:09:58.5314655+00:00",
       "NumProgressed": 15021,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-27T04:09:27.8900499+00:00",
+      "NumProgressed": 15022,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 24,
@@ -10985,7 +10990,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -11025,7 +11030,7 @@
       "Name": "The Hero Killer",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "LeoniasFall",
@@ -11105,7 +11110,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 7210
+      "UsersEstimate": 7211
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -11121,22 +11126,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 12017
+      "UsersEstimate": 12018
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 15021,
+      "Progressed": 15022,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-26T10:58:05.8118076+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:09:58.5314652+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:09:27.8900485+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:58:15.0364928+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:09:58.5315663+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:58:08.6631494+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:09:27.8901101+00:00"
 }

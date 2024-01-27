@@ -19,7 +19,7 @@ Rating: 3.56 (Ranked 1,109)
 | Nothing Left to Say | 7.00% | ~5,916 |
 | Sniper | 7.00% | ~5,916 |
 | Cut Call | 6.00% | ~5,071 |
-| Magnetic Miracles | 5.00% | ~4,225 |
+| Magnetic Miracles | 5.00% | ~4,226 |
 | Butcher | 4.00% | ~3,380 |
 | Fair's Fair | 4.00% | ~3,380 |
 | Spicy | 4.00% | ~3,380 |
@@ -31,7 +31,7 @@ Rating: 3.56 (Ranked 1,109)
 | Audiophile | 2.00% | ~1,690 |
 | Tape Head | 2.00% | ~1,690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,509 (Ranked 110)  
+Progressed: 84,510 (Ranked 110)  
 Completed: 953 (1.13%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 953 (1.13%) (Ranked 172)
 | 2024-01-24 | 84,366 | 952 |
 | 2024-01-25 | 84,431 | 952 |
 | 2024-01-26 | 84,502 | 953 |
-| 2024-01-27 | 84,509 | 953 |
+| 2024-01-27 | 84,510 | 953 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

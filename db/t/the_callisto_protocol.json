@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2387,9 +2387,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22760,
+  "EOS_Progressed": 22762,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -15027,6 +15027,11 @@
       "Time": "2024-01-27T01:49:50.5523071+00:00",
       "NumProgressed": 22760,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-27T04:09:54.9269431+00:00",
+      "NumProgressed": 22762,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15102,7 +15107,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -15142,7 +15147,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5462
+      "UsersEstimate": 5463
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -15158,7 +15163,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -15166,7 +15171,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "KILL_ROBOT",
@@ -15238,7 +15243,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4324
+      "UsersEstimate": 4325
     },
     {
       "ID": "STORY_HABITAT",
@@ -15270,7 +15275,7 @@
       "Name": "Desperate Times",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6145
+      "UsersEstimate": 6146
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15278,7 +15283,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "STORY_TOWER",
@@ -15413,13 +15418,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22760,
+      "Progressed": 22762,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10686,
+      "Progressed": 10688,
       "Completed": 29
     }
   ],
@@ -15427,8 +15432,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-26T21:03:19.1534048+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:10:25.0725771+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:09:54.9269427+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:03:31.1656057+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:10:25.0726782+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:03:12.6484564+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:09:54.9270453+00:00"
 }

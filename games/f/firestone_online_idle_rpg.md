@@ -1,33 +1,33 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.08 (Ranked 1,038)  
+Rating: 4.08 (Ranked 1,039)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,496 |
+| Victor | 93.00% | ~4,497 |
 | World Map | 78.00% | ~3,771 |
-| Temple of Eternals | 56.00% | ~2,707 |
+| Temple of Eternals | 56.00% | ~2,708 |
 | Prestigious | 52.00% | ~2,514 |
 | Fellowship Power | 41.00% | ~1,982 |
 | Full Party | 31.00% | ~1,499 |
-| Guild Power | 22.00% | ~1,063 |
+| Guild Power | 22.00% | ~1,064 |
 | Prestigious x10 | 20.00% | ~967 |
 | The game is on | 18.00% | ~870 |
-| Exotic Merchant | 16.00% | ~773 |
+| Exotic Merchant | 16.00% | ~774 |
 | Dragon Clicker | 15.00% | ~725 |
 | Miner Clicker | 15.00% | ~725 |
-| Dragon Master | 13.00% | ~628 |
-| Enlightenment | 13.00% | ~628 |
-| Hero inspection | 13.00% | ~628 |
-| Inspection | 13.00% | ~628 |
+| Dragon Master | 13.00% | ~629 |
+| Enlightenment | 13.00% | ~629 |
+| Hero inspection | 13.00% | ~629 |
+| Inspection | 13.00% | ~629 |
 | Lieutenant | 12.00% | ~580 |
 | Milestone collector | 11.00% | ~532 |
 | Mysterious Rock | 11.00% | ~532 |
 | Natural Talent | 11.00% | ~532 |
 | Superior | 11.00% | ~532 |
 | The Unstoppable | 11.00% | ~532 |
-| Scientist | 10.00% | ~483 |
+| Scientist | 10.00% | ~484 |
 | Challenger | 9.00% | ~435 |
 | Doing My Part | 9.00% | ~435 |
 | Hunter | 9.00% | ~435 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,038)
 | Jewel Enchanting | 0.20% | ~10 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,834 (Ranked 211)  
+Progressed: 4,835 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 2 (0.04%) (Ranked 363)
 | 2024-01-24 | 4,774 | 2 |
 | 2024-01-25 | 4,801 | 2 |
 | 2024-01-26 | 4,829 | 2 |
-| 2024-01-27 | 4,834 | 2 |
+| 2024-01-27 | 4,835 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 487)  
 Sum: 127 (Ranked 463)  

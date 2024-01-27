@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5537,9 +5537,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83313,
+  "EOS_Progressed": 83315,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31632,6 +31632,11 @@
       "Time": "2024-01-27T03:06:11.8349918+00:00",
       "NumProgressed": 83313,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-27T04:05:53.4863706+00:00",
+      "NumProgressed": 83315,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31755,7 +31760,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14163
+      "UsersEstimate": 14164
     },
     {
       "ID": "CLAYFACE_3",
@@ -31859,7 +31864,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 8331
+      "UsersEstimate": 8332
     },
     {
       "ID": "FREEZE_1",
@@ -31883,7 +31888,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15829
+      "UsersEstimate": 15830
     },
     {
       "ID": "FREEZE_3",
@@ -31947,7 +31952,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28326
+      "UsersEstimate": 28327
     },
     {
       "ID": "HARLEY_2",
@@ -31955,7 +31960,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19995
+      "UsersEstimate": 19996
     },
     {
       "ID": "HARLEY_3",
@@ -31987,7 +31992,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41656
+      "UsersEstimate": 41658
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -32019,7 +32024,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21661
+      "UsersEstimate": 21662
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -32035,7 +32040,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27493
+      "UsersEstimate": 27494
     },
     {
       "ID": "MYSTERY_02",
@@ -32043,7 +32048,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19995
+      "UsersEstimate": 19996
     },
     {
       "ID": "MYSTERY_03",
@@ -32067,7 +32072,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14163
+      "UsersEstimate": 14164
     },
     {
       "ID": "MYSTERY_06",
@@ -32099,7 +32104,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9164
+      "UsersEstimate": 9165
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -32130,13 +32135,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83313,
+      "Progressed": 83315,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53593,
+      "Progressed": 53595,
       "Completed": 2682
     }
   ],
@@ -32144,8 +32149,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-26T22:57:59.9523126+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:06:11.8349915+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:05:53.4863702+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:57:58.9197859+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:06:11.8352055+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:57:52.4463647+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:05:53.4865127+00:00"
 }

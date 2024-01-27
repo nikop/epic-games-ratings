@@ -11,7 +11,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 16.00% | ~630 |
 | Watch Where You Step... | 16.00% | ~630 |
 | An Ill Omen | 16.00% | ~630 |
-| Purging Spree | 12.00% | ~472 |
+| Purging Spree | 12.00% | ~473 |
 | Blood for the Blood God! | 10.00% | ~394 |
 | Bloodless | 8.00% | ~315 |
 | Friendly Fire | 7.00% | ~276 |
@@ -21,7 +21,7 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 5.00% | ~197 |
 | Nemesis Master | 5.00% | ~197 |
 | Gunmaster | 5.00% | ~197 |
-| Just a Scratch | 4.00% | ~157 |
+| Just a Scratch | 4.00% | ~158 |
 | Hold Your Ground | 3.00% | ~118 |
 | Hive Exterminator | 3.00% | ~118 |
 | Daemonkeeper | 2.00% | ~79 |
@@ -43,8 +43,8 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 1.00% | ~39 |
 | Tactical Flexibility | 1.00% | ~39 |
 | Tactical Sabotage | 1.00% | ~39 |
-| Hands-On Research | 0.80% | ~31 |
-| True Mastery | 0.80% | ~31 |
+| Hands-On Research | 0.80% | ~32 |
+| True Mastery | 0.80% | ~32 |
 | Exercise in Restraint | 0.70% | ~28 |
 | Strike Force | 0.60% | ~24 |
 | Reign of Confusion | 0.60% | ~24 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,937 (Ranked 224)  
+Progressed: 3,938 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 3,932 | 0 |
 | 2024-01-25 | 3,934 | 0 |
 | 2024-01-26 | 3,936 | 0 |
-| 2024-01-27 | 3,937 | 0 |
+| 2024-01-27 | 3,938 | 0 |
 ## Awards
 Max (Character Customization): 238  (Ranked 283)  
 Sum: 483 (Ranked 343)  

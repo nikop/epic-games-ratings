@@ -13,7 +13,7 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 7.00% | ~114 |
 | Cutthroat Competitors | 7.00% | ~114 |
 | Daybreak | 7.00% | ~114 |
-| Gotta Ca... Must Collect All of Them | 6.00% | ~97 |
+| Gotta Ca... Must Collect All of Them | 6.00% | ~98 |
 | Completing the Look | 4.00% | ~65 |
 | War Endured | 4.00% | ~65 |
 | Core Failure | 4.00% | ~65 |
@@ -54,16 +54,16 @@ Number of Ratings: 45  (23.09.2022)
 | Back into the Sea | 0.40% | ~6 |
 | I'm Not Smiling | 0.40% | ~6 |
 | War-Ender | 0.30% | ~5 |
+| Symbiosis | 0.30% | ~5 |
 | Thwack! | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
 | Solid as the Hills | 0.20% | ~3 |
-| Symbiosis | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | We Call That Mortificient! | 0.10% | ~2 |
 | A Temperamental Shrub | 0.10% | ~2 |
 | Peacemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,624 (Ranked 271)  
+Progressed: 1,625 (Ranked 271)  
 Completed: 7 (0.43%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 7 (0.43%) (Ranked 244)
 | 2024-01-24 | 1,618 | 7 |
 | 2024-01-25 | 1,619 | 7 |
 | 2024-01-26 | 1,622 | 7 |
-| 2024-01-27 | 1,624 | 7 |
+| 2024-01-27 | 1,625 | 7 |
 ## Awards
 Max (Character Customization): 30  (Ranked 532)  
 Sum: 30 (Ranked 552)  

@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1291,6 +1291,11 @@
       "Time": "2024-01-25T16:09:37.018407+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T04:08:43.2170754+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1316,7 +1321,7 @@
       "ID": "Vanilla_AbolitionistsMet",
       "SetID": "27kik8p",
       "Name": "Making Contact",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1412,7 +1417,7 @@
       "ID": "Vanilla_ChurchOfSergorod",
       "SetID": "27kik8p",
       "Name": "Executor",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1476,7 +1481,7 @@
       "ID": "Vanilla_CompanionSkillsMaxedOut",
       "SetID": "27kik8p",
       "Name": "Adept",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1508,7 +1513,7 @@
       "ID": "Vanilla_CompleteAllSideQuests",
       "SetID": "27kik8p",
       "Name": "Embellished",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1596,7 +1601,7 @@
       "ID": "Vanilla_Eylani",
       "SetID": "27kik8p",
       "Name": "Ever After",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1772,7 +1777,7 @@
       "ID": "Vanilla_Loaders",
       "SetID": "27kik8p",
       "Name": "Loader",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1854,7 +1859,7 @@
       "Name": "Press-ganged",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1924,7 +1929,7 @@
       "ID": "Vanilla_SecretsBelow",
       "SetID": "27kik8p",
       "Name": "What Lies Below",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1996,7 +2001,7 @@
       "ID": "Vanilla_TheReturnOfTheWyrms",
       "SetID": "27kik8p",
       "Name": "Wyrmslayer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -2068,7 +2073,7 @@
       "ID": "Vanilla_Vorax",
       "SetID": "27kik8p",
       "Name": "Voracity Confronted",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -2093,7 +2098,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
@@ -2101,8 +2106,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:09:14.1239799+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:08:43.2170752+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.8161865+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:59:07.280789+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:09:14.1241192+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:59:00.5541963+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:08:43.2171796+00:00"
 }

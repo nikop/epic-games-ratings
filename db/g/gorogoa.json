@@ -4,8 +4,8 @@
   "ProductSlug": "gorogoa",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 536,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2017-12-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.7538072+00:00",
   "LastChanged": "2023-03-31T05:57:40.7538073+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.3610996+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:59:56.8493851+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:08:28.7237385+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:59:49.5640745+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:06:08.8123198+00:00"
 }

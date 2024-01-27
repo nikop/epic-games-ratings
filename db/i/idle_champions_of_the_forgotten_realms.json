@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1046,
+  "Ranking_Rating": 1047,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9871,9 +9871,9 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255824,
+  "EOS_Progressed": 255829,
   "EOS_Completed": 2655,
-  "EOS_NewPlayers": 1009,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -41861,6 +41861,11 @@
       "Time": "2024-01-27T03:10:47.5458794+00:00",
       "NumProgressed": 255824,
       "NumCompleted": 2655
+    },
+    {
+      "Time": "2024-01-27T04:10:17.4436199+00:00",
+      "NumProgressed": 255829,
+      "NumCompleted": 2655
     }
   ],
   "TotalAchievements": 546,
@@ -42240,7 +42245,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "objective_completed_110",
@@ -43544,7 +43549,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "objective_completed_34",
@@ -45016,7 +45021,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "objective_completed_70",
@@ -46192,7 +46197,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_673",
@@ -46200,7 +46205,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_678",
@@ -46208,7 +46213,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_683",
@@ -46216,7 +46221,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_860",
@@ -46224,7 +46229,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_865",
@@ -46232,28 +46237,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222098,
+      "Progressed": 222103,
       "Completed": 4163
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255824,
+      "Progressed": 255829,
       "Completed": 2655
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-26T22:59:59.7762542+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:10:47.545879+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:10:17.4436196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:00:00.6508851+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:10:47.5481072+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:59:52.7719095+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:10:17.4459771+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,715 |
-| Off to a good start | 60.00% | ~1,894 |
-| Do... or do not. There is no try | 52.00% | ~1,642 |
+| New Recruit | 86.00% | ~2,717 |
+| Off to a good start | 60.00% | ~1,895 |
+| Do... or do not. There is no try | 52.00% | ~1,643 |
 | A good blaster at your side | 24.00% | ~758 |
 | I suggest a new strategy | 17.00% | ~537 |
 | Great shot, kid! | 15.00% | ~474 |
@@ -20,7 +20,7 @@
 | Best star-pilot in the galaxy | 8.00% | ~253 |
 | Never tell me the odds! | 7.00% | ~221 |
 | Survivor | 7.00% | ~221 |
-| A cunning warrior | 6.00% | ~189 |
+| A cunning warrior | 6.00% | ~190 |
 | What's the cargo? | 5.00% | ~158 |
 | "Gonk? Gonk!" | 5.00% | ~158 |
 | Judge me by my size, do you? | 5.00% | ~158 |
@@ -41,12 +41,12 @@
 | That's no moon | 2.00% | ~63 |
 | Don't underestimate the Force | 2.00% | ~63 |
 | Hold the line! | 1.00% | ~32 |
-| Ackbar's Elite | 1.00% | ~32 |
 | This is a new day, a new beginning | 1.00% | ~32 |
 | City in the Clouds | 1.00% | ~32 |
 | Alternative solution | 1.00% | ~32 |
 | What will you become? | 1.00% | ~32 |
 | Disturbed tranquility | 1.00% | ~32 |
+| Ackbar's Elite | 0.90% | ~28 |
 | Onwards! | 0.90% | ~28 |
 | The circle is now complete | 0.90% | ~28 |
 | Playing the objective | 0.80% | ~25 |
@@ -68,7 +68,7 @@
 | Stay in attack formation | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,157 (Ranked 234)  
+Progressed: 3,159 (Ranked 234)  
 Completed: 1 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.03%) (Ranked 369)
 | 2024-01-24 | 3,133 | 1 |
 | 2024-01-25 | 3,136 | 1 |
 | 2024-01-26 | 3,156 | 1 |
-| 2024-01-27 | 3,157 | 1 |
+| 2024-01-27 | 3,159 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

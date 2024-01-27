@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100370,
+  "EOS_Progressed": 100372,
   "EOS_Completed": 465,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -32009,6 +32009,11 @@
       "Time": "2024-01-27T03:09:46.6975374+00:00",
       "NumProgressed": 100370,
       "NumCompleted": 465
+    },
+    {
+      "Time": "2024-01-27T04:09:15.8903142+00:00",
+      "NumProgressed": 100372,
+      "NumCompleted": 465
     }
   ],
   "TotalAchievements": 10,
@@ -32020,7 +32025,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "Drawings01",
@@ -32099,15 +32104,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 100370,
+      "Progressed": 100372,
       "Completed": 465
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-26T16:03:10.4718419+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:09:46.697537+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:09:15.8903139+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.554239+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:03:25.4593912+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:09:46.697695+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:03:07.0204497+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:09:15.8904397+00:00"
 }

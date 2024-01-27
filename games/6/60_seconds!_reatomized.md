@@ -5,35 +5,35 @@ Rating: 4.53 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,781 |
-| I will survive! | 91.00% | ~10,664 |
-| All thumbs | 90.00% | ~10,547 |
-| Home, sweet home | 89.00% | ~10,430 |
-| Survivalist | 87.00% | ~10,196 |
-| One way ticket | 81.00% | ~9,492 |
-| Last man standing | 75.00% | ~8,789 |
-| Out of the Bag | 72.00% | ~8,438 |
-| Family guy | 69.00% | ~8,086 |
-| The Dark Side | 65.00% | ~7,617 |
-| Duck and cover! | 61.00% | ~7,149 |
-| Souper! | 59.00% | ~6,914 |
-| Pacifist | 53.00% | ~6,211 |
-| 2-1-6 | 52.00% | ~6,094 |
-| A gift | 49.00% | ~5,742 |
-| Girl Power | 42.00% | ~4,922 |
-| What goes around... | 39.00% | ~4,570 |
-| Be Prepared | 34.00% | ~3,984 |
-| Unbreakable | 32.00% | ~3,750 |
+| Prepper | 92.00% | ~10,783 |
+| I will survive! | 91.00% | ~10,666 |
+| All thumbs | 90.00% | ~10,549 |
+| Home, sweet home | 89.00% | ~10,432 |
+| Survivalist | 87.00% | ~10,197 |
+| One way ticket | 81.00% | ~9,494 |
+| Last man standing | 75.00% | ~8,791 |
+| Out of the Bag | 72.00% | ~8,439 |
+| Family guy | 69.00% | ~8,087 |
+| The Dark Side | 65.00% | ~7,619 |
+| Duck and cover! | 61.00% | ~7,150 |
+| Souper! | 59.00% | ~6,915 |
+| Pacifist | 53.00% | ~6,212 |
+| 2-1-6 | 52.00% | ~6,095 |
+| A gift | 49.00% | ~5,743 |
+| Girl Power | 42.00% | ~4,923 |
+| What goes around... | 39.00% | ~4,571 |
+| Be Prepared | 34.00% | ~3,985 |
+| Unbreakable | 32.00% | ~3,751 |
 | Gotta get 'em all | 29.00% | ~3,399 |
 | Atomic drill | 29.00% | ~3,399 |
-| This is the end | 28.00% | ~3,281 |
+| This is the end | 28.00% | ~3,282 |
 | Disco Roach | 25.00% | ~2,930 |
-| Dawkins Residence | 18.00% | ~2,109 |
+| Dawkins Residence | 18.00% | ~2,110 |
 | Rescue time! | 15.00% | ~1,758 |
 | New order | 14.00% | ~1,641 |
 | New species | 14.00% | ~1,641 |
-| Enigma | 13.00% | ~1,523 |
-| A New Hope | 12.00% | ~1,406 |
+| Enigma | 13.00% | ~1,524 |
+| A New Hope | 12.00% | ~1,407 |
 | Men in Black | 11.00% | ~1,289 |
 | Challenger | 10.00% | ~1,172 |
 | No stone unturned | 10.00% | ~1,172 |
@@ -66,7 +66,7 @@ Rating: 4.53 (Ranked 574)
 | Dead Hand | 0.10% | ~12 |
 | Tora! Tora! Tora! | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,719 (Ranked 183)  
+Progressed: 11,721 (Ranked 183)  
 Completed: 3 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 3 (0.03%) (Ranked 369)
 | 2024-01-24 | 11,584 | 1 |
 | 2024-01-25 | 11,646 | 3 |
 | 2024-01-26 | 11,708 | 3 |
-| 2024-01-27 | 11,719 | 3 |
+| 2024-01-27 | 11,721 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

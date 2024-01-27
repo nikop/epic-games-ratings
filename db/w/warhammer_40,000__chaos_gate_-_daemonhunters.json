@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -903,9 +903,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3937,
+  "EOS_Progressed": 3938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6223,6 +6223,11 @@
       "Time": "2024-01-27T01:43:53.0453345+00:00",
       "NumProgressed": 3937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T04:04:06.917633+00:00",
+      "NumProgressed": 3938,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6466,7 +6471,7 @@
       "Name": "Purging Spree",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Kills_Vakir",
@@ -6474,7 +6479,7 @@
       "Name": "Hands-On Research",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KoramarCompleted",
@@ -6594,7 +6599,7 @@
       "Name": "Just a Scratch",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "NexusCompleted",
@@ -6682,7 +6687,7 @@
       "Name": "True Mastery",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "StrategicCommand",
@@ -6777,21 +6782,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3937,
+      "Progressed": 3938,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3937,
+      "Progressed": 3938,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-24T02:29:22.6319201+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:04:24.3561076+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:04:06.9176325+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:03:26.2242784+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:04:24.3561836+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:03:07.8727126+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:04:06.9177027+00:00"
 }

@@ -44,8 +44,8 @@
 | Broke, Blind, and Bedlam | 26.00% | ~1,219 |
 | Ghost Ship | 25.00% | ~1,172 |
 | The Assassin | 25.00% | ~1,172 |
+| The Justicar | 25.00% | ~1,172 |
 | Driven | 25.00% | ~1,172 |
-| The Justicar | 24.00% | ~1,126 |
 | The Quarian | 24.00% | ~1,126 |
 | The Prodigal | 24.00% | ~1,126 |
 | Galactic Explorer | 24.00% | ~1,126 |

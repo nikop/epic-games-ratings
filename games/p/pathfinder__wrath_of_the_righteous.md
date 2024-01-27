@@ -7,11 +7,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 28.00% | ~3,743 |
-| A Spark | 20.00% | ~2,673 |
+| A Spark | 20.00% | ~2,674 |
 | Burning City | 19.00% | ~2,540 |
-| Defender's Heart | 17.00% | ~2,272 |
+| Defender's Heart | 17.00% | ~2,273 |
 | Mythic Choices | 16.00% | ~2,139 |
-| Banner over the Citadel | 14.00% | ~1,871 |
+| Banner over the Citadel | 14.00% | ~1,872 |
 | Queen's Gratitude | 13.00% | ~1,738 |
 | Fifth Crusade | 9.00% | ~1,203 |
 | Embrace of the Abyss | 7.00% | ~936 |
@@ -35,11 +35,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~401 |
 | Capitulation Is Now Moot | 3.00% | ~401 |
 | Core of the Riddle | 3.00% | ~401 |
-| Stay Underground | 3.00% | ~364 |
-| Hanged Man's Notes | 3.00% | ~364 |
-| Sarkoris Will Be Green | 3.00% | ~364 |
-| The Lady of the Forest | 3.00% | ~364 |
-| Beware Still Water | 3.00% | ~364 |
+| Stay Underground | 3.00% | ~365 |
+| Hanged Man's Notes | 3.00% | ~365 |
+| Sarkoris Will Be Green | 3.00% | ~365 |
+| The Lady of the Forest | 3.00% | ~365 |
+| Beware Still Water | 3.00% | ~365 |
 | Path of the Demon | 2.00% | ~267 |
 | Path of the Aeon | 2.00% | ~267 |
 | Your First Big Enemy | 2.00% | ~267 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~134 |
 | Abyssal Conspiracy | 1.00% | ~134 |
 | Truly Profane Gift | 1.00% | ~134 |
-| Not the Last Sarkorian | 1.00% | ~121 |
+| Not the Last Sarkorian | 1.00% | ~122 |
 | End of Eternal Guard | 0.90% | ~120 |
 | Playful Mood | 0.80% | ~107 |
 | Masterful Charge | 0.70% | ~94 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,367 (Ranked 180)  
+Progressed: 13,369 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 13,347 | 0 |
 | 2024-01-25 | 13,358 | 0 |
 | 2024-01-26 | 13,365 | 0 |
-| 2024-01-27 | 13,367 | 0 |
+| 2024-01-27 | 13,369 | 0 |
 ## Awards
 Max (Character Customization): 1,788  (Ranked 133)  
 Sum: 7,252 (Ranked 129)  

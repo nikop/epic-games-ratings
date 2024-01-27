@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -854,9 +854,9 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "game_of_thorns",
@@ -894,9 +894,9 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "he_made_it_out",
@@ -1246,9 +1246,9 @@
       "ID": "the_magnificent_nine",
       "SetID": "41moj9p",
       "Name": "The Magnificent Nine",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "the_merchant_of_venice",
@@ -1423,8 +1423,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:05:35.9529725+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:05:17.4739388+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:57:13.5452863+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:05:35.9530632+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:57:06.5030118+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:05:17.4740423+00:00"
 }

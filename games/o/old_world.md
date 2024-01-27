@@ -10,16 +10,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~1,031 |
 | Explorer | 5.00% | ~859 |
 | Friendly Family | 5.00% | ~859 |
-| Able | 4.00% | ~687 |
-| Architect | 4.00% | ~687 |
-| Good | 4.00% | ~687 |
-| Intrepid | 4.00% | ~687 |
-| Mason | 4.00% | ~687 |
-| Noble | 4.00% | ~687 |
-| Strong | 4.00% | ~687 |
-| Hanging Gardens | 4.00% | ~687 |
-| Oracle | 4.00% | ~687 |
-| Judaism | 4.00% | ~687 |
+| Able | 4.00% | ~688 |
+| Architect | 4.00% | ~688 |
+| Good | 4.00% | ~688 |
+| Intrepid | 4.00% | ~688 |
+| Mason | 4.00% | ~688 |
+| Noble | 4.00% | ~688 |
+| Strong | 4.00% | ~688 |
+| Hanging Gardens | 4.00% | ~688 |
+| Oracle | 4.00% | ~688 |
+| Judaism | 4.00% | ~688 |
 | Regicide | 3.00% | ~516 |
 | Ambitious | 3.00% | ~516 |
 | Enlightened | 3.00% | ~516 |
@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 1.00% | ~172 |
 | Capable | 1.00% | ~172 |
 | Conqueror | 1.00% | ~172 |
+| Invincible | 1.00% | ~172 |
 | Mighty | 1.00% | ~172 |
 | Ready | 1.00% | ~172 |
 | Subjugator | 1.00% | ~172 |
@@ -106,26 +107,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 1.00% | ~172 |
 | Jerwan Aqueduct | 1.00% | ~172 |
 | Royal Library | 1.00% | ~172 |
-| Invincible | 0.90% | ~155 |
 | Lion | 0.90% | ~155 |
 | Riders | 0.90% | ~155 |
 | Assyrian Paganism | 0.90% | ~155 |
 | Industrial Progress | 0.90% | ~155 |
 | Cimmerian Archer | 0.90% | ~155 |
 | Yazilikaya | 0.90% | ~155 |
-| Bad Heir Day | 0.80% | ~137 |
-| Strong Difficulty | 0.80% | ~137 |
-| Hunters | 0.80% | ~137 |
-| Babylonia | 0.80% | ~137 |
-| Hittite Paganism | 0.80% | ~137 |
-| Enlightenment | 0.80% | ~137 |
-| Gnosticism | 0.80% | ~137 |
-| Redemption | 0.80% | ~137 |
-| Revelation | 0.80% | ~137 |
-| Veneration | 0.80% | ~137 |
-| Phalangite | 0.80% | ~137 |
-| Ambition Victory | 0.80% | ~137 |
-| Kushite Pyramids | 0.80% | ~137 |
+| Bad Heir Day | 0.80% | ~138 |
+| Strong Difficulty | 0.80% | ~138 |
+| Hunters | 0.80% | ~138 |
+| Babylonia | 0.80% | ~138 |
+| Hittite Paganism | 0.80% | ~138 |
+| Enlightenment | 0.80% | ~138 |
+| Gnosticism | 0.80% | ~138 |
+| Redemption | 0.80% | ~138 |
+| Revelation | 0.80% | ~138 |
+| Veneration | 0.80% | ~138 |
+| Phalangite | 0.80% | ~138 |
+| Ambition Victory | 0.80% | ~138 |
+| Kushite Pyramids | 0.80% | ~138 |
 | Devout | 0.70% | ~120 |
 | Peacemaker | 0.70% | ~120 |
 | Clerics | 0.70% | ~120 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,187 (Ranked 170)  
+Progressed: 17,188 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 5 (0.03%) (Ranked 369)
 | 2024-01-24 | 17,146 | 5 |
 | 2024-01-25 | 17,167 | 5 |
 | 2024-01-26 | 17,186 | 5 |
-| 2024-01-27 | 17,187 | 5 |
+| 2024-01-27 | 17,188 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,947 (Ranked 224)  

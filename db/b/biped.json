@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10764,
+  "EOS_Progressed": 10765,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -17799,6 +17799,11 @@
       "Time": "2024-01-26T21:06:08.103643+00:00",
       "NumProgressed": 10764,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T04:05:50.2439694+00:00",
+      "NumProgressed": 10765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17874,7 +17879,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "4",
@@ -17898,7 +17903,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "7",
@@ -17929,7 +17934,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10764,
+      "Progressed": 10765,
       "Completed": 0
     }
   ],
@@ -17937,8 +17942,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:06:08.6678955+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:05:50.243969+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.2707916+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:00:04.0954756+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:06:08.6679978+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:59:56.2658382+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:05:50.2440397+00:00"
 }

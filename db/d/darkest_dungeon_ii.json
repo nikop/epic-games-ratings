@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11242,10 +11242,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21890,
       "NumberOfAwardsMax": 8087
+    },
+    {
+      "Time": "2024-01-27T03:57:48.4116372+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21893,
+      "NumberOfAwardsMax": 8087
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21890,
+  "NumberOfAwards": 21893,
   "NumberOfAwardsMax": 8087,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11277,7 +11283,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1696
+      "Count": 1698
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11319,12 +11325,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1115
+      "Count": 1116
     }
   ],
-  "EOS_Progressed": 133765,
+  "EOS_Progressed": 133767,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41667,6 +41673,11 @@
       "Time": "2024-01-27T02:24:00.4947466+00:00",
       "NumProgressed": 133765,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T04:10:08.1273706+00:00",
+      "NumProgressed": 133767,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -42262,7 +42273,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -42309,21 +42320,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133765,
+      "Progressed": 133767,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8634,
+      "Progressed": 8636,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-27T02:11:40.8883142+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:10:38.4169616+00:00",
+  "LastChanged": "2024-01-27T03:57:48.4116369+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:10:08.1273702+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:57:54.73925+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:10:38.4171684+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:57:48.4116384+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:10:08.1275321+00:00"
 }

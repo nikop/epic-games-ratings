@@ -4,8 +4,8 @@
   "ProductSlug": "cubegate-410f70",
   "Ranking_EOS_Progress": 784,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 536,
-  "Ranking_EOS_NewCompleters": 165,
+  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-09-21T12:00:00+00:00",
     "PcReleaseDate": "2023-06-02T14:00:00+00:00",
@@ -216,8 +216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T18:05:08.8389416+00:00",
-  "LastChanged_Achievements": "2024-01-27T03:05:13.804151+00:00",
+  "LastChanged_Achievements": "2024-01-27T04:04:55.626469+00:00",
   "LastUpdate_AppInfo": "2024-01-26T06:57:03.3683326+00:00",
-  "LastUpdate_Ratings": "2024-01-27T02:57:21.7261319+00:00",
-  "LastUpdate_Achievements": "2024-01-27T03:05:13.804163+00:00"
+  "LastUpdate_Ratings": "2024-01-27T03:57:14.6135968+00:00",
+  "LastUpdate_Achievements": "2024-01-27T04:04:55.6264857+00:00"
 }

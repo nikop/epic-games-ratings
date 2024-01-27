@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~576,520 |
-| Error: Stack Overflow | 66.00% | ~409,143 |
-| We need more gold | 61.00% | ~378,148 |
-| The dawn of civilization | 54.00% | ~334,754 |
-| More FPS for the FPS god! | 50.00% | ~309,957 |
-| Beauty and harmony | 48.00% | ~297,559 |
-| One more! | 44.00% | ~272,762 |
-| Overmind | 24.00% | ~148,779 |
+| First.. Bit? | 93.00% | ~576,523 |
+| Error: Stack Overflow | 66.00% | ~409,145 |
+| We need more gold | 61.00% | ~378,149 |
+| The dawn of civilization | 54.00% | ~334,755 |
+| More FPS for the FPS god! | 50.00% | ~309,958 |
+| Beauty and harmony | 48.00% | ~297,560 |
+| One more! | 44.00% | ~272,763 |
+| Overmind | 24.00% | ~148,780 |
 | RNG is my best friend now | 18.00% | ~111,585 |
 | Cosplay | 14.00% | ~86,788 |
 | Evolution in progress... | 13.00% | ~80,589 |
 | Step by step | 8.00% | ~49,593 |
 | README reader | 4.00% | ~24,797 |
-| Data scientist | 3.00% | ~18,597 |
-| One small step for a man... | 3.00% | ~18,597 |
+| Data scientist | 3.00% | ~18,598 |
+| One small step for a man... | 3.00% | ~18,598 |
 | To see it all, to learn it all | 2.00% | ~12,398 |
 | Evolution complete | 2.00% | ~12,398 |
 | Best deal on the market | 2.00% | ~12,398 |
@@ -29,14 +29,14 @@ Number of Ratings: 896  (23.09.2022)
 | The hoarder | 1.00% | ~6,199 |
 | Ping | 1.00% | ~6,199 |
 | Magna cum laude | 1.00% | ~6,199 |
-| Deal with it! | 0.60% | ~3,719 |
+| Deal with it! | 0.60% | ~3,720 |
 | Gold rush | 0.40% | ~2,480 |
 | Cat-o-holic | 0.40% | ~2,480 |
 | Elements will destroy you! | 0.40% | ~2,480 |
 | The Scrooge | 0.10% | ~620 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 619,914 (Ranked 33)  
-Completed: 571 (0.09%) (Ranked 331)  
+Progressed: 619,917 (Ranked 33)  
+Completed: 572 (0.09%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,14 +317,14 @@ Completed: 571 (0.09%) (Ranked 331)
 | 2024-01-24 | 619,698 | 570 |
 | 2024-01-25 | 619,786 | 571 |
 | 2024-01-26 | 619,900 | 571 |
-| 2024-01-27 | 619,914 | 571 |
+| 2024-01-27 | 619,917 | 572 |
 ## Awards
-Max (Challenging Puzzles): 141  (Ranked 345)  
-Sum: 141 (Ranked 453)  
-Diff (max vs sum): -108  
+Max (Challenging Puzzles): 143  (Ranked 343)  
+Sum: 143 (Ranked 453)  
+Diff (max vs sum): -110  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 141 |
+| This game features Challenging Puzzles | 143 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -412,3 +412,4 @@ Diff (max vs sum): -108
 | 2023-12-14 | 4.51 | - | 139 | 139 |
 | 2023-12-26 | 4.51 | - | 140 | 140 |
 | 2024-01-26 | 4.51 | - | 141 | 141 |
+| 2024-01-27 | 4.51 | - | 143 | 143 |

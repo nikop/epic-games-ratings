@@ -5,27 +5,27 @@ Rating: 4.63 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,874 |
-| First Love | 46.00% | ~1,725 |
-| Clean Race | 45.00% | ~1,687 |
+| Eat My Dust | 50.00% | ~1,875 |
+| First Love | 45.00% | ~1,688 |
+| Clean Race | 45.00% | ~1,688 |
 | Hear That Roar! | 43.00% | ~1,612 |
 | Bitter Rivalry | 31.00% | ~1,162 |
 | Rivals to the End | 31.00% | ~1,162 |
 | Champagne Spray | 30.00% | ~1,125 |
 | We're Going to Need a Bigger Garage | 28.00% | ~1,050 |
 | Quick Pit Stop | 23.00% | ~862 |
-| Restored and Ready | 21.00% | ~787 |
-| I Want One Too! | 21.00% | ~787 |
-| Legendary!!! | 21.00% | ~787 |
+| Restored and Ready | 21.00% | ~788 |
+| I Want One Too! | 21.00% | ~788 |
+| Legendary!!! | 21.00% | ~788 |
 | Go-Faster Stripes | 18.00% | ~675 |
 | I'm Here Too! | 15.00% | ~562 |
 | We've Just Begun | 15.00% | ~562 |
 | Is It the Right Size? | 10.00% | ~375 |
-| Stamina Star | 9.00% | ~337 |
+| Stamina Star | 9.00% | ~338 |
 | Evangelist | 7.00% | ~262 |
-| Make It Your Own! | 5.00% | ~187 |
-| Cherry Blossom and Temples | 5.00% | ~187 |
-| The Road to Liberty | 5.00% | ~187 |
+| Make It Your Own! | 5.00% | ~188 |
+| Cherry Blossom and Temples | 5.00% | ~188 |
+| The Road to Liberty | 5.00% | ~188 |
 | La Dolce Vita | 4.00% | ~150 |
 | Romantic Races | 4.00% | ~150 |
 | I Make the Rules! | 4.00% | ~150 |
@@ -37,15 +37,15 @@ Rating: 4.63 (Ranked 361)
 | I'll Be the Best! | 2.00% | ~75 |
 | Back in Blighty | 2.00% | ~75 |
 | Still Here | 2.00% | ~75 |
-| Next Level | 1.00% | ~37 |
-| I Don't Stop | 1.00% | ~37 |
+| Next Level | 1.00% | ~38 |
+| I Don't Stop | 1.00% | ~38 |
 | Exhausted but Happy | 0.70% | ~26 |
 | In Search of Perfection | 0.70% | ~26 |
 | Globe-trotter | 0.50% | ~19 |
 | Breathtaking Views | 0.30% | ~11 |
-| Maximum Endurance | 0.20% | ~7 |
-| Beyond the Limiter | 0.20% | ~7 |
-| All My Own Toys | 0.20% | ~7 |
+| Maximum Endurance | 0.20% | ~8 |
+| Beyond the Limiter | 0.20% | ~8 |
+| All My Own Toys | 0.20% | ~8 |
 | Dream Chaser | 0.10% | ~4 |
 | Endless | 0.10% | ~4 |
 | Full Power | 0.10% | ~4 |
@@ -55,7 +55,7 @@ Rating: 4.63 (Ranked 361)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,749 (Ranked 226)  
+Progressed: 3,750 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 3,706 | 0 |
 | 2024-01-25 | 3,725 | 0 |
 | 2024-01-26 | 3,745 | 0 |
-| 2024-01-27 | 3,749 | 0 |
+| 2024-01-27 | 3,750 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
