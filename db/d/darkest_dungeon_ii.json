@@ -11328,9 +11328,9 @@
       "Count": 1116
     }
   ],
-  "EOS_Progressed": 133788,
+  "EOS_Progressed": 133791,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41713,6 +41713,11 @@
       "Time": "2024-01-27T12:11:27.5744861+00:00",
       "NumProgressed": 133788,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T13:11:42.5325535+00:00",
+      "NumProgressed": 133791,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41876,7 +41881,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -42028,7 +42033,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -42036,7 +42041,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -42100,7 +42105,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "hospital_full_service",
@@ -42172,7 +42177,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "run_victory_act01",
@@ -42316,7 +42321,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "quest_complete_crusader",
@@ -42355,21 +42360,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133788,
+      "Progressed": 133791,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8657,
+      "Progressed": 8660,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-27T03:57:48.4116369+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:11:27.5744858+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:42.5325532+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:45.5125391+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:11:27.5746541+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:09.5195838+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:42.5327119+00:00"
 }

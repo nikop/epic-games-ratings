@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,781 |
+| The Old Grandmaster | 6.00% | ~45,782 |
 | The Assault | 5.00% | ~38,151 |
 | Life is your teacher | 5.00% | ~38,151 |
 | Lightning Hands | 5.00% | ~38,151 |
@@ -17,16 +17,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 3.00% | ~22,891 |
 | Old Child | 3.00% | ~22,891 |
 | Rumble in the Hangar | 3.00% | ~22,891 |
-| A Lady's Blood in the Snow | 2.00% | ~15,260 |
-| Lady Wing Chun | 2.00% | ~15,260 |
-| Furious Fists | 2.00% | ~15,260 |
-| Kill Nil | 2.00% | ~15,260 |
-| Qi Gong: Mind | 2.00% | ~15,260 |
-| Qi Gong: Breath | 2.00% | ~15,260 |
-| I know Kung-Fu | 2.00% | ~15,260 |
-| Path of the Prospect | 2.00% | ~15,260 |
-| Take damage to save time | 2.00% | ~15,260 |
-| Diligence as a goal | 2.00% | ~1,446 |
+| A Lady's Blood in the Snow | 2.00% | ~15,261 |
+| Lady Wing Chun | 2.00% | ~15,261 |
+| Furious Fists | 2.00% | ~15,261 |
+| Kill Nil | 2.00% | ~15,261 |
+| Qi Gong: Mind | 2.00% | ~15,261 |
+| Qi Gong: Breath | 2.00% | ~15,261 |
+| I know Kung-Fu | 2.00% | ~15,261 |
+| Path of the Prospect | 2.00% | ~15,261 |
+| Take damage to save time | 2.00% | ~15,261 |
+| Diligence as a goal | 2.00% | ~1,447 |
 | Scareless | 1.00% | ~7,630 |
 | Dance of the Praying Mantis | 1.00% | ~7,630 |
 | Kung-Fu Tussle | 1.00% | ~7,630 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763,017 (Ranked 26)  
+Progressed: 763,029 (Ranked 26)  
 Completed: 13,009 (1.70%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 13,009 (1.70%) (Ranked 150)
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
 | 2024-01-26 | 762,946 | 13,009 |
-| 2024-01-27 | 763,017 | 13,009 |
+| 2024-01-27 | 763,029 | 13,009 |
 ## Awards
 Max (Great Boss Battles): 7,295  (Ranked 59)  
 Sum: 12,906 (Ranked 88)  

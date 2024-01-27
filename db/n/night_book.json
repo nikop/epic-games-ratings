@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.14,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -781,6 +781,11 @@
       "Time": "2024-01-26T22:08:51.1734029+00:00",
       "NumProgressed": 327,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-27T13:10:03.3736015+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -800,7 +805,7 @@
       "Name": "Career Woman",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "deal_or_no_deal",
@@ -846,9 +851,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 210
     },
     {
       "ID": "off_his_meds",
@@ -856,7 +861,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "on_your_bike",
@@ -878,17 +883,17 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "save_dad",
       "SetID": "a3kkelb",
       "Name": "Save Dad",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 75
     },
     {
       "ID": "shady_truth",
@@ -927,7 +932,7 @@
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 7
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:09:26.8443645+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:10:03.3736013+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.224486+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:57:09.9574709+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:09:26.8443784+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:57:55.4349261+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:10:03.3736181+00:00"
 }

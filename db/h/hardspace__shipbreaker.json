@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1087,
+  "EOS_Progressed": 1088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2565,6 +2565,11 @@
       "Time": "2024-01-21T17:10:52.139013+00:00",
       "NumProgressed": 1087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:11:14.8278805+00:00",
+      "NumProgressed": 1088,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2576,7 +2581,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -2600,15 +2605,15 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
       "SetID": "108h92c",
       "Name": "A drop in the Ocean",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -2672,7 +2677,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2712,7 +2717,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2728,7 +2733,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2768,7 +2773,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -2776,7 +2781,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2791,7 +2796,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1087,
+      "Progressed": 1088,
       "Completed": 0
     }
   ],
@@ -2799,8 +2804,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-07T01:52:54.3373134+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:10:53.6870323+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:14.8278803+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:14.8594905+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:46.3573634+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:10:53.6870561+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:10.1071184+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:14.8279046+00:00"
 }

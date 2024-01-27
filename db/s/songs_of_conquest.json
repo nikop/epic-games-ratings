@@ -2,12 +2,12 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 266,
+  "Ranking_Rating": 267,
   "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1322,
+  "EOS_Progressed": 1323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4602,6 +4602,11 @@
       "Time": "2024-01-27T12:10:52.947542+00:00",
       "NumProgressed": 1322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:11:14.2370289+00:00",
+      "NumProgressed": 1323,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4628,9 +4633,9 @@
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ArtifactsEquipped",
@@ -4758,7 +4763,7 @@
       "Name": "Double Kill",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4942,7 +4947,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "WielderLevel2",
@@ -4998,7 +5003,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -5045,15 +5050,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1322,
+      "Progressed": 1323,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:10:52.9475415+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:14.2370287+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:03:03.465614+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:10:52.9475988+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:03:43.3123164+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:14.2370727+00:00"
 }

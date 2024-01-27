@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2468,
+  "EOS_Progressed": 2469,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -5168,6 +5168,11 @@
       "Time": "2024-01-27T12:11:24.6776914+00:00",
       "NumProgressed": 2468,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T13:11:39.973803+00:00",
+      "NumProgressed": 2469,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5179,7 +5184,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "ACH_02",
@@ -5211,7 +5216,7 @@
       "Name": "To Battle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_06",
@@ -5219,7 +5224,7 @@
       "Name": "Godslayer",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_07",
@@ -5291,7 +5296,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_16",
@@ -5371,7 +5376,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_26",
@@ -5419,7 +5424,7 @@
       "Name": "Stone Collection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_33",
@@ -5466,7 +5471,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2468,
+      "Progressed": 2469,
       "Completed": 5
     }
   ],
@@ -5474,8 +5479,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:11:24.6776911+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:39.9738027+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:03:06.7405003+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:11:24.6777354+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:03:46.005537+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:39.9738474+00:00"
 }

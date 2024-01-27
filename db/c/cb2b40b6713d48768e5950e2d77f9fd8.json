@@ -2,9 +2,9 @@
   "ID": "cb2b40b6713d48768e5950e2d77f9fd8",
   "Name": "Otok",
   "ProductSlug": "otok-6c2478",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-26T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-09T20:59:32.6160245+00:00",
   "LastUpdate_AppInfo": "2024-01-24T20:57:11.1764695+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:59:03.9503831+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:06:40.0487764+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:24.0372965+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:06:41.9178264+00:00"
 }

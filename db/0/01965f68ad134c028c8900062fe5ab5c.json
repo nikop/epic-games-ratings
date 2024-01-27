@@ -2,9 +2,9 @@
   "ID": "01965f68ad134c028c8900062fe5ab5c",
   "Name": "Almost My Floor",
   "ProductSlug": "almost-my-floor-ead702",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-25T19:03:22.674321+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:06:16.5441484+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:06:22.3178539+00:00",
   "LastUpdate_AppInfo": "2024-01-22T20:56:58.8674818+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:00:38.095486+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:06:16.5441509+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:00:37.2948886+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:06:22.3178562+00:00"
 }

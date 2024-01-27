@@ -1,9 +1,9 @@
 {
   "ID": "1c83fd721cf44f79b3b9902ea71a5a06",
   "Name": "Maroni",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:33.5585754+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:59:00.4690612+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:05:41.5708293+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:21.2595774+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:05:54.1539097+00:00"
 }

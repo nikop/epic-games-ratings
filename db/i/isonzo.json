@@ -1105,9 +1105,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10061,
+  "EOS_Progressed": 10062,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11615,6 +11615,11 @@
       "Time": "2024-01-27T11:09:10.3306327+00:00",
       "NumProgressed": 10061,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-27T13:11:15.7575465+00:00",
+      "NumProgressed": 10062,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11682,7 +11687,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -11762,7 +11767,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -11794,7 +11799,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11802,7 +11807,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -11818,7 +11823,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4527
+      "UsersEstimate": 4528
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11874,7 +11879,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11954,7 +11959,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5030
+      "UsersEstimate": 5031
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11978,14 +11983,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5131
+      "UsersEstimate": 5132
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10061,
+      "Progressed": 10062,
       "Completed": 10
     }
   ],
@@ -11993,8 +11998,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-26T17:02:19.0362409+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:10:54.9176251+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:15.7575463+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:57:35.5406254+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:10:54.9177044+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:58:14.7564096+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:15.7576256+00:00"
 }

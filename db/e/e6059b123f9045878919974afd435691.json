@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524,
+  "EOS_Progressed": 1525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4124,6 +4124,11 @@
       "Time": "2024-01-27T12:11:33.7921628+00:00",
       "NumProgressed": 1524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:11:48.237758+00:00",
+      "NumProgressed": 1525,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4133,9 +4138,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1098
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -4143,7 +4148,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4151,7 +4156,7 @@
       "Name": "FULLCLIP",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -4183,7 +4188,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -4191,7 +4196,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -4253,9 +4258,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 396
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -4271,7 +4276,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -4447,7 +4452,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -4455,7 +4460,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4495,7 +4500,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4575,7 +4580,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -4583,7 +4588,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4662,14 +4667,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:11:33.7921623+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:48.2377577+00:00",
   "LastUpdate_AppInfo": "2024-01-26T06:57:03.5646756+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:03:16.1882007+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:11:33.7922196+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:03:53.8158839+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:48.2378323+00:00"
 }

@@ -6,37 +6,37 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~549 |
-| First of many… | 69.00% | ~492 |
-| Helping Hand | 65.00% | ~463 |
-| Increased Vigor | 62.00% | ~442 |
+| Green with Envy | 77.00% | ~550 |
+| First of many… | 69.00% | ~493 |
+| Helping Hand | 65.00% | ~464 |
+| Increased Vigor | 62.00% | ~443 |
 | Fight Fire with Fire | 60.00% | ~428 |
-| Increased Capacity | 57.00% | ~406 |
+| Increased Capacity | 57.00% | ~407 |
 | Just the start | 51.00% | ~364 |
-| Perfect Storm | 47.00% | ~335 |
-| All That Glitters | 47.00% | ~335 |
+| Perfect Storm | 47.00% | ~336 |
+| All That Glitters | 47.00% | ~336 |
 | Enhance! | 43.00% | ~307 |
-| One Of the Chosen | 42.00% | ~299 |
-| Devil's in the Details | 41.00% | ~292 |
-| Throne Potato | 41.00% | ~292 |
-| Five's a Crowd | 41.00% | ~292 |
-| 25 to Life | 41.00% | ~292 |
-| Salvation | 40.00% | ~285 |
+| One Of the Chosen | 42.00% | ~300 |
+| Devil's in the Details | 41.00% | ~293 |
+| Throne Potato | 41.00% | ~293 |
+| Five's a Crowd | 41.00% | ~293 |
+| 25 to Life | 41.00% | ~293 |
+| Salvation | 40.00% | ~286 |
 | Unshakable Fortitude | 37.00% | ~264 |
 | Soul Harvester | 37.00% | ~264 |
+| Delusions of Grandeur | 36.00% | ~257 |
 | I Wanna Rock | 35.00% | ~250 |
 | Love Tap | 35.00% | ~250 |
-| Delusions of Grandeur | 35.00% | ~250 |
-| Maximum Vigor | 33.00% | ~235 |
+| Maximum Vigor | 33.00% | ~236 |
 | Freeze Frame | 31.00% | ~221 |
 | Eat Your Heart Out | 31.00% | ~221 |
 | For Whom the Bell Tolls | 30.00% | ~214 |
 | Unyielding Strength | 27.00% | ~193 |
-| Crowd Source | 27.00% | ~193 |
 | Big Spender | 27.00% | ~193 |
-| Cleanup Crew | 26.00% | ~185 |
-| Can you restore the Balance? | 26.00% | ~185 |
-| Seeing Red | 26.00% | ~185 |
+| Cleanup Crew | 26.00% | ~186 |
+| Can you restore the Balance? | 26.00% | ~186 |
+| Seeing Red | 26.00% | ~186 |
+| Crowd Source | 26.00% | ~186 |
 | Demon Meddler | 25.00% | ~178 |
 | Maximum Capacity | 24.00% | ~171 |
 | Egomaniac | 24.00% | ~171 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 1.00% | ~7 |
 | Beast Mode | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713 (Ranked 332)  
+Progressed: 714 (Ranked 332)  
 Completed: 2 (0.28%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.28%) (Ranked 271)
 | 2024-01-24 | 689 | 2 |
 | 2024-01-25 | 701 | 2 |
 | 2024-01-26 | 711 | 2 |
-| 2024-01-27 | 713 | 2 |
+| 2024-01-27 | 714 | 2 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 381)  
 Sum: 101 (Ranked 476)  

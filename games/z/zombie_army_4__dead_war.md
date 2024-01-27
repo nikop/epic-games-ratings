@@ -1,49 +1,49 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.68 (Ranked 266)  
+Rating: 4.68 (Ranked 267)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 70.00% | ~31,212 |
-| Say goodbye, creep! | 67.00% | ~29,875 |
-| Blood splattered | 66.00% | ~29,429 |
-| Choo choo! | 63.00% | ~28,091 |
-| Groovy | 62.00% | ~27,645 |
-| Cleanup on aisle 4! | 57.00% | ~25,416 |
-| Gold | 51.00% | ~22,740 |
-| The boat can leave now...tell the crew | 49.00% | ~21,849 |
-| Give me something to shoot! | 47.00% | ~20,957 |
-| Stand back boy! | 47.00% | ~20,957 |
-| Chain reaction | 45.00% | ~20,065 |
-| Weird science | 44.00% | ~19,619 |
-| Look mummy! A shark! | 42.00% | ~18,727 |
-| What did you say, Blain? | 42.00% | ~18,727 |
-| In the dark dark woods... | 39.00% | ~17,390 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,944 |
-| Double tap | 37.00% | ~16,498 |
-| Cranial blowout! | 37.00% | ~16,498 |
-| All of this has happened before… | 36.00% | ~16,052 |
-| Zombie killin' machine | 36.00% | ~16,052 |
-| Every bullet counts | 36.00% | ~16,052 |
-| All roads lead to Rome | 34.00% | ~15,160 |
-| You've got red on you | 34.00% | ~15,160 |
-| You're all going to die down here | 32.00% | ~14,268 |
-| He did Nazi that coming | 32.00% | ~14,268 |
-| Kill of the week | 31.00% | ~13,823 |
-| I never liked them anyway | 31.00% | ~13,823 |
-| Is it over? | 28.00% | ~12,485 |
-| Got your back | 27.00% | ~12,039 |
-| Gore soaked | 24.00% | ~10,701 |
-| Shock therapy | 23.00% | ~10,255 |
-| Leave the limbs you've lost | 23.00% | ~10,255 |
+| Shoot it, man! Shoot it in the head! | 70.00% | ~31,214 |
+| Say goodbye, creep! | 67.00% | ~29,877 |
+| Blood splattered | 66.00% | ~29,431 |
+| Choo choo! | 63.00% | ~28,093 |
+| Groovy | 62.00% | ~27,647 |
+| Cleanup on aisle 4! | 57.00% | ~25,417 |
+| Gold | 51.00% | ~22,742 |
+| The boat can leave now...tell the crew | 49.00% | ~21,850 |
+| Give me something to shoot! | 47.00% | ~20,958 |
+| Stand back boy! | 47.00% | ~20,958 |
+| Chain reaction | 45.00% | ~20,066 |
+| Weird science | 44.00% | ~19,620 |
+| Look mummy! A shark! | 42.00% | ~18,729 |
+| What did you say, Blain? | 42.00% | ~18,729 |
+| In the dark dark woods... | 39.00% | ~17,391 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,945 |
+| Double tap | 37.00% | ~16,499 |
+| Cranial blowout! | 37.00% | ~16,499 |
+| All of this has happened before… | 36.00% | ~16,053 |
+| Zombie killin' machine | 36.00% | ~16,053 |
+| Every bullet counts | 36.00% | ~16,053 |
+| All roads lead to Rome | 34.00% | ~15,161 |
+| You've got red on you | 34.00% | ~15,161 |
+| You're all going to die down here | 32.00% | ~14,269 |
+| He did Nazi that coming | 32.00% | ~14,269 |
+| Kill of the week | 31.00% | ~13,824 |
+| I never liked them anyway | 31.00% | ~13,824 |
+| Is it over? | 28.00% | ~12,486 |
+| Got your back | 27.00% | ~12,040 |
+| Gore soaked | 24.00% | ~10,702 |
+| Shock therapy | 23.00% | ~10,256 |
+| Leave the limbs you've lost | 23.00% | ~10,256 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,472 |
-| Take them down screaming | 18.00% | ~8,026 |
-| Bad Blood | 17.00% | ~7,580 |
-| Weapons expert | 17.00% | ~7,580 |
-| The bigger they are... | 15.00% | ~6,688 |
-| I'm going deeper underground | 14.00% | ~6,242 |
+| Take them down screaming | 18.00% | ~8,027 |
+| Bad Blood | 17.00% | ~7,581 |
+| Weapons expert | 17.00% | ~7,581 |
+| The bigger they are... | 15.00% | ~6,689 |
+| I'm going deeper underground | 14.00% | ~6,243 |
 | Well equipped | 13.00% | ~5,797 |
 | Into the deep | 12.00% | ~5,351 |
 | Damnedbusters | 9.00% | ~4,013 |
@@ -57,12 +57,12 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,121 |
 | A gross gross | 7.00% | ~3,121 |
 | Hail to the king, baby! | 7.00% | ~3,121 |
-| Something wicked this way comes | 6.00% | ~2,675 |
-| Staring at Shadows | 6.00% | ~2,675 |
-| I told you we should have gone to the beach | 6.00% | ~2,675 |
-| Hoarder | 6.00% | ~2,675 |
-| Kali Ma | 5.00% | ~2,229 |
-| Have you tried turning it off and on again? | 5.00% | ~2,229 |
+| Something wicked this way comes | 6.00% | ~2,676 |
+| Staring at Shadows | 6.00% | ~2,676 |
+| I told you we should have gone to the beach | 6.00% | ~2,676 |
+| Hoarder | 6.00% | ~2,676 |
+| Kali Ma | 5.00% | ~2,230 |
+| Have you tried turning it off and on again? | 5.00% | ~2,230 |
 | They're coming to get you Barbara | 4.00% | ~1,784 |
 | Total protonic reversal | 4.00% | ~1,784 |
 | A friend in need | 4.00% | ~1,784 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~446 |
 | None more hard | 0.60% | ~268 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,589 (Ranked 136)  
+Progressed: 44,592 (Ranked 136)  
 Completed: 25 (0.06%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 25 (0.06%) (Ranked 342)
 | 2024-01-24 | 44,583 | 25 |
 | 2024-01-25 | 44,584 | 25 |
 | 2024-01-26 | 44,586 | 25 |
-| 2024-01-27 | 44,589 | 25 |
+| 2024-01-27 | 44,592 | 25 |
 ## Awards
 Max (Great Boss Battles): 884  (Ranked 178)  
 Sum: 2,650 (Ranked 199)  

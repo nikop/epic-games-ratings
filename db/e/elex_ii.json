@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1762,6 +1762,11 @@
       "Time": "2024-01-27T11:03:20.5500042+00:00",
       "NumProgressed": 295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:04:51.5571132+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1830,7 +1835,7 @@
       "Name": "Beam Me Up",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "20TRADER",
@@ -1902,7 +1907,7 @@
       "Name": "Military Leader",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ALLCOMBAT",
@@ -1926,7 +1931,7 @@
       "Name": "Free as a Bird",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1950,7 +1955,7 @@
       "Name": "Role Model",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "BRINGTOYS",
@@ -2012,9 +2017,9 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "DESTRUCTION",
@@ -2054,7 +2059,7 @@
       "Name": "Civilian",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "FINDCRONY",
@@ -2173,15 +2178,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:04:26.783506+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:04:51.5571129+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:59:20.7573022+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:04:26.7835879+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:37.1887024+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:04:51.5571468+00:00"
 }

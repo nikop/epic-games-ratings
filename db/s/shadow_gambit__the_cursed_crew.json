@@ -5,9 +5,9 @@
   "Ranking_Rating": 70,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1572,
+  "EOS_Progressed": 1574,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -5507,6 +5507,11 @@
       "Time": "2024-01-27T10:04:13.8722124+00:00",
       "NumProgressed": 1572,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2024-01-27T13:05:05.4977787+00:00",
+      "NumProgressed": 1574,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5519,7 +5524,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5527,7 +5532,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "_03_FinishAct1",
@@ -5535,7 +5540,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5543,7 +5548,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "_05_FinishAct2",
@@ -5551,15 +5556,15 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 409
     },
     {
       "ID": "_07_FinishAct3",
@@ -5583,7 +5588,7 @@
       "Name": "Powder Monkey",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "_10_Completion_30",
@@ -5591,7 +5596,7 @@
       "Name": "Buccaneer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "_11_Completion_40",
@@ -5639,7 +5644,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5663,7 +5668,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5671,7 +5676,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5703,7 +5708,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5726,7 +5731,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1572,
+      "Progressed": 1574,
       "Completed": 39
     }
   ],
@@ -5734,8 +5739,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:04:43.299475+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:05:05.4977784+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.079201+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:08.423604+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:04:43.2995396+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:58:40.1912784+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:05:05.4978183+00:00"
 }

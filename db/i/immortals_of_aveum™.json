@@ -555,7 +555,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3622,
+  "EOS_Progressed": 3623,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
@@ -6270,6 +6270,11 @@
       "Time": "2024-01-27T10:10:44.3335195+00:00",
       "NumProgressed": 3622,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-27T13:11:40.8264511+00:00",
+      "NumProgressed": 3623,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6290,7 +6295,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "achievement_11",
@@ -6306,7 +6311,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "achievement_13",
@@ -6370,7 +6375,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "achievement_20",
@@ -6458,7 +6463,7 @@
       "Name": "No More Names",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "achievement_41",
@@ -6530,7 +6535,7 @@
       "Name": "Initiate",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "achievement_50",
@@ -6578,7 +6583,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "achievement_60",
@@ -6657,7 +6662,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3622,
+      "Progressed": 3623,
       "Completed": 6
     }
   ],
@@ -6665,8 +6670,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-27T00:01:24.9956234+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:11:25.8055773+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:40.8264509+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:01:27.7037355+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:11:25.8056366+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:01:16.4870659+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:40.8265074+00:00"
 }

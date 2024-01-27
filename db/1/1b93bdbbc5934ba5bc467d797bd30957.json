@@ -2,9 +2,9 @@
   "ID": "1b93bdbbc5934ba5bc467d797bd30957",
   "Name": "Kendo Warrior",
   "ProductSlug": "kendo-warrior-1e4a45",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-24T17:03:31.631348+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:05:57.0008886+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:06:06.9919405+00:00",
   "LastUpdate_AppInfo": "2024-01-24T16:57:06.7282503+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:59:19.3219739+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:05:57.0008924+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:36.0800128+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:06:06.9919418+00:00"
 }

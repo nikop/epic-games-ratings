@@ -2,9 +2,9 @@
   "ID": "0dbbe16ebc3545e6a248cb918da66b9f",
   "Name": "Unstoppable",
   "ProductSlug": "unstoppable-3e9381",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-25T21:57:07.4587113+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:21.1786797+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:05:08.1588702+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:58:50.0196899+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:05:26.168279+00:00"
 }

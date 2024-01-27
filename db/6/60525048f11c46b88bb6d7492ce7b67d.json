@@ -2,9 +2,9 @@
   "ID": "60525048f11c46b88bb6d7492ce7b67d",
   "Name": "Universe for Sale",
   "ProductSlug": "universe-for-sale-05c53e",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-11-16T17:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-11-19T05:58:02.2956249+00:00",
   "FirstSeenAchievements": "2023-11-16T18:02:59.3526257+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:09:17.0746601+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:09:55.3781493+00:00",
   "LastUpdate_AppInfo": "2024-01-25T23:57:02.3441867+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:57:44.518474+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:09:17.0746629+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:58:21.4125541+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:09:55.3781627+00:00"
 }

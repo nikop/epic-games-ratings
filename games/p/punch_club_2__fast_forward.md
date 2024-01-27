@@ -42,8 +42,8 @@
 | Mysterious voice | 39.00% | ~238 |
 | Champion – no way back | 36.00% | ~219 |
 | No blades in the gym | 36.00% | ~219 |
+| Responsible approach | 36.00% | ~219 |
 | Underground dwellers | 35.00% | ~213 |
-| Responsible approach | 35.00% | ~213 |
 | GYM professional | 34.00% | ~207 |
 | Mom got better | 33.00% | ~201 |
 | Deal with life | 33.00% | ~201 |

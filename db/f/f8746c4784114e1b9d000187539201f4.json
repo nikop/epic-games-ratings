@@ -2,9 +2,9 @@
   "ID": "f8746c4784114e1b9d000187539201f4",
   "Name": "Wyvia",
   "ProductSlug": "wyvia-1da7b7",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-18T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-07T06:04:58.3963629+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:05:45.8702002+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:05:57.7570815+00:00",
   "LastUpdate_AppInfo": "2024-01-24T11:57:13.2173077+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:01:03.8927092+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:05:45.8702039+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:00:58.0751177+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:05:57.7570836+00:00"
 }

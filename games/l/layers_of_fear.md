@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 88.00% | ~304 |
+| Something important | 87.00% | ~302 |
 | A piece of the story | 67.00% | ~232 |
-| It's covered up for a reason | 61.00% | ~211 |
-| Wanderer | 57.00% | ~197 |
-| Scraps of love | 53.00% | ~183 |
+| It's covered up for a reason | 61.00% | ~212 |
+| Wanderer | 56.00% | ~194 |
+| Scraps of love | 53.00% | ~184 |
 | The artist’s impression | 52.00% | ~180 |
-| Do what you have to | 47.00% | ~163 |
-| Sign of weakness | 44.00% | ~152 |
+| Do what you have to | 46.00% | ~160 |
+| Sign of weakness | 44.00% | ~153 |
 | Refuse to look | 39.00% | ~135 |
 | Face your fears | 34.00% | ~118 |
 | Finished it | 28.00% | ~97 |
 | Whispers long forgotten | 20.00% | ~69 |
-| Sound Bite | 16.00% | ~55 |
+| Sound Bite | 16.00% | ~56 |
 | Debut | 15.00% | ~52 |
 | The art of movement | 15.00% | ~52 |
-| Another perspective | 14.00% | ~48 |
-| A Slice of Life | 14.00% | ~48 |
-| Lights! Camera! Action! | 14.00% | ~48 |
+| Another perspective | 14.00% | ~49 |
+| A Slice of Life | 14.00% | ~49 |
+| Lights! Camera! Action! | 14.00% | ~49 |
 | First steps | 12.00% | ~42 |
 | Playtime | 12.00% | ~42 |
 | Tough conversation | 12.00% | ~42 |
@@ -46,8 +46,8 @@
 | Body of Work | 2.00% | ~7 |
 | It was worth a try | 2.00% | ~7 |
 | In One Take | 2.00% | ~7 |
+| Rocket Science | 2.00% | ~7 |
 | The Big Picture | 1.00% | ~3 |
-| Rocket Science | 1.00% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |
 | Letting go | 0.60% | ~2 |
 | Once Upon a Time | 0.60% | ~2 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346 (Ranked 391)  
+Progressed: 347 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,3 +149,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-22 | 343 | 0 |
 | 2024-01-23 | 344 | 0 |
 | 2024-01-24 | 346 | 0 |
+| 2024-01-27 | 347 | 0 |

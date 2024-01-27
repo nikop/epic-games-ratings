@@ -205,7 +205,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1653,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
@@ -5840,6 +5840,11 @@
       "Time": "2024-01-27T12:04:17.7352366+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-27T13:04:44.2529994+00:00",
+      "NumProgressed": 1653,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5859,7 +5864,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "MQ02_1",
@@ -5883,7 +5888,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MQ02_4",
@@ -5899,7 +5904,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "MQ03_2",
@@ -5923,7 +5928,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "MQ03_5",
@@ -5931,7 +5936,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "MQ04_1",
@@ -5939,7 +5944,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "MQ04_2",
@@ -5963,7 +5968,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "MQ05_2",
@@ -5971,7 +5976,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MQ05_3",
@@ -6003,7 +6008,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "MQ06_3",
@@ -6019,7 +6024,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MQ07_1",
@@ -6027,7 +6032,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MQ07_2",
@@ -6035,7 +6040,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "MQ08_1",
@@ -6074,7 +6079,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1653,
       "Completed": 51
     }
   ],
@@ -6082,8 +6087,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-26T12:04:14.5432364+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:04:17.735236+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:04:44.2529992+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:03:51.8086192+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:04:17.7352811+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:04:23.0895377+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:04:44.2530361+00:00"
 }

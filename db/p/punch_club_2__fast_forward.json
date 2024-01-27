@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 609,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
@@ -3004,9 +3004,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 219
     },
     {
       "ID": "undercover_robot",
@@ -3059,8 +3059,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:11:29.0548826+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:43.8509253+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:31.5299896+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:50.1755818+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:11:29.0549322+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:13.0617146+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:43.8509756+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5549,7 +5549,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83328,
+  "EOS_Progressed": 83330,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
@@ -31679,6 +31679,11 @@
       "Time": "2024-01-27T12:07:54.5422399+00:00",
       "NumProgressed": 83328,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-27T13:07:43.1920981+00:00",
+      "NumProgressed": 83330,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31738,7 +31743,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18332
+      "UsersEstimate": 18333
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -31770,7 +31775,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9999
+      "UsersEstimate": 10000
     },
     {
       "ID": "APPLY_STATUS",
@@ -31778,7 +31783,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12499
+      "UsersEstimate": 12500
     },
     {
       "ID": "CHALLENGES_1",
@@ -31786,7 +31791,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13332
+      "UsersEstimate": 13333
     },
     {
       "ID": "CLAYFACE_1",
@@ -31850,7 +31855,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9999
+      "UsersEstimate": 10000
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -31866,7 +31871,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9999
+      "UsersEstimate": 10000
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -31930,7 +31935,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15832
+      "UsersEstimate": 15833
     },
     {
       "ID": "FREEZE_3",
@@ -32018,7 +32023,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12499
+      "UsersEstimate": 12500
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -32034,7 +32039,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41664
+      "UsersEstimate": 41665
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -32066,7 +32071,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21665
+      "UsersEstimate": 21666
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -32082,7 +32087,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27498
+      "UsersEstimate": 27499
     },
     {
       "ID": "MYSTERY_02",
@@ -32098,7 +32103,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18332
+      "UsersEstimate": 18333
     },
     {
       "ID": "MYSTERY_04",
@@ -32138,7 +32143,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9999
+      "UsersEstimate": 10000
     },
     {
       "ID": "SECRET_CACHE",
@@ -32177,13 +32182,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83328,
+      "Progressed": 83330,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53608,
+      "Progressed": 53610,
       "Completed": 2682
     }
   ],
@@ -32191,8 +32196,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-27T09:58:35.1905345+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:07:54.5422395+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:07:43.1920979+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:51.0607544+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:07:54.5423911+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:13.7710929+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:07:43.1922289+00:00"
 }

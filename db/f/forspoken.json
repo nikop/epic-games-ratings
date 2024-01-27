@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47812,
+  "EOS_Progressed": 47813,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20039,6 +20039,11 @@
       "Time": "2024-01-27T12:07:09.3156772+00:00",
       "NumProgressed": 47812,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-27T13:07:06.4062749+00:00",
+      "NumProgressed": 47813,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -20114,7 +20119,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -20314,7 +20319,7 @@
       "Name": "Wildfire",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MAGIC_TANTA",
@@ -20386,7 +20391,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "SPRING_ALL",
@@ -20473,22 +20478,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47812,
+      "Progressed": 47813,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12649,
-      "Completed": 12649
+      "Progressed": 12650,
+      "Completed": 12650
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:07:09.3156767+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:07:06.4062747+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:03:35.4706353+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:07:09.3158248+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:04:09.811586+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:07:06.4064519+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
   "Ranking_EOS_Progress": 699,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
@@ -482,9 +482,9 @@
       "ID": "ACH_HONOR_AMONG_THEIVES",
       "SetID": "9i65mgf",
       "Name": "Honor Among Thieves",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HONOR_AND_DUTY",
@@ -498,9 +498,9 @@
       "ID": "ACH_HUNTING_THE_SHADOW",
       "SetID": "9i65mgf",
       "Name": "Hunting the Shadow",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_IN_HIS_MAJESTY_SERVICE",
@@ -530,9 +530,9 @@
       "ID": "ACH_IT_S_COMMANDEERING",
       "SetID": "9i65mgf",
       "Name": "It\u2019s Commandeering",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_IT_S_SMARTER_TO_PAY_THE_TOLL",
@@ -562,9 +562,9 @@
       "ID": "ACH_LIVING_OFF_THE_LAND",
       "SetID": "9i65mgf",
       "Name": "Living off the Land",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MAKING_IT_BIG",
@@ -738,9 +738,9 @@
       "ID": "ACH_SHADY_BUSINESS",
       "SetID": "9i65mgf",
       "Name": "Shady Business",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SHELLSHOCK",
@@ -866,9 +866,9 @@
       "ID": "ACH_THE_AMBER_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Amber Flower",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_THE_ANIMAL_FANATIC",
@@ -898,9 +898,9 @@
       "ID": "ACH_THE_BLUE_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Blue Flower",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_THE_BRIDE",
@@ -938,9 +938,9 @@
       "ID": "ACH_THE_FIRST_PRINCESS",
       "SetID": "9i65mgf",
       "Name": "The First Princess",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_THE_GOLD_HAIRED_HARLOT",
@@ -962,17 +962,17 @@
       "ID": "ACH_THE_GREEN_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Green Flower",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_THE_HIMMELHAART_FAR_FROM_HOME",
       "SetID": "9i65mgf",
       "Name": "The Himmelhaart far from Home",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_THE_ILLUSIVE_MAN",
@@ -1265,8 +1265,8 @@
   ],
   "FirstSeen": "2024-01-21T20:58:52.2546392+00:00",
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:06:20.3303168+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:06:25.5212439+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.652208+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:11.5963585+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:06:20.3304932+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:58:42.7003725+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:06:25.5214325+00:00"
 }

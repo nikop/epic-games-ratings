@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
@@ -3450,6 +3450,11 @@
       "Time": "2024-01-27T00:11:01.3266844+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-27T13:11:19.0921841+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -3461,7 +3466,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3477,7 +3482,7 @@
       "Name": "The Coward",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ENDING_2",
@@ -3549,7 +3554,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "GOOD_KARMA",
@@ -3565,7 +3570,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3581,7 +3586,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "PROTECTOR",
@@ -3589,7 +3594,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "SABOTAGE",
@@ -3620,7 +3625,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 14
     }
   ],
@@ -3628,8 +3633,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:10:59.0847156+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:19.0921839+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.6031874+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:59:25.9165179+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:10:59.084742+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:41.3336607+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:19.0922047+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2928,
+  "EOS_Progressed": 2929,
   "EOS_Completed": 273,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.32,
   "EosHistory": [
@@ -8631,6 +8631,11 @@
       "Time": "2024-01-27T10:09:51.8998569+00:00",
       "NumProgressed": 2928,
       "NumCompleted": 273
+    },
+    {
+      "Time": "2024-01-27T13:10:46.5625749+00:00",
+      "NumProgressed": 2929,
+      "NumCompleted": 273
     }
   ],
   "TotalAchievements": 12,
@@ -8642,7 +8647,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "Bernard",
@@ -8722,7 +8727,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "Nuremberg Laws",
@@ -8737,7 +8742,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2928,
+      "Progressed": 2929,
       "Completed": 273
     }
   ],
@@ -8745,8 +8750,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:10:19.7231645+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:10:46.5625746+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:45.8788305+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:01:24.3318168+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:10:19.7232159+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:01:13.9964727+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:10:46.5626247+00:00"
 }

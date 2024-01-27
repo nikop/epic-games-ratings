@@ -6,27 +6,27 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 44.00% | ~9,796 |
-| It's a good start | 10.00% | ~2,226 |
-| Bonjour! | 8.00% | ~1,781 |
-| Quack | 8.00% | ~1,781 |
-| The Assistant | 6.00% | ~1,336 |
-| The Blue Marl | 6.00% | ~1,336 |
-| Ostinata | 5.00% | ~1,113 |
-| Better than nothing? | 5.00% | ~1,113 |
+| Bye Bye | 44.00% | ~9,801 |
+| It's a good start | 10.00% | ~2,228 |
+| Bonjour! | 8.00% | ~1,782 |
+| Quack | 8.00% | ~1,782 |
+| The Assistant | 6.00% | ~1,337 |
+| The Blue Marl | 6.00% | ~1,337 |
+| Ostinata | 5.00% | ~1,114 |
+| Better than nothing? | 5.00% | ~1,114 |
 | A long journey | 4.00% | ~891 |
 | Big Money | 3.00% | ~668 |
 | Keep the doctor away | 3.00% | ~668 |
 | Surprise of Langhe | 3.00% | ~668 |
 | Famous | 3.00% | ~668 |
-| What is that? A castle? | 2.00% | ~445 |
-| A lot of space | 2.00% | ~445 |
-| A big garage | 2.00% | ~445 |
-| Millionaire | 2.00% | ~445 |
-| Exotic | 2.00% | ~445 |
-| Pastry Chef | 2.00% | ~445 |
-| Welcome to the club | 2.00% | ~445 |
-| Very Important Winemaker | 2.00% | ~445 |
+| What is that? A castle? | 2.00% | ~446 |
+| A lot of space | 2.00% | ~446 |
+| A big garage | 2.00% | ~446 |
+| Millionaire | 2.00% | ~446 |
+| Exotic | 2.00% | ~446 |
+| Pastry Chef | 2.00% | ~446 |
+| Welcome to the club | 2.00% | ~446 |
+| Very Important Winemaker | 2.00% | ~446 |
 | King of Langhe | 1.00% | ~223 |
 | Gem of Monferrato | 1.00% | ~223 |
 | Treasure of Roero | 0.70% | ~156 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~22 |
 | Unsuitable Terroir | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,263 (Ranked 154)  
+Progressed: 22,276 (Ranked 154)  
 Completed: 13 (0.06%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 13 (0.06%) (Ranked 342)
 | 2024-01-24 | 22,001 | 13 |
 | 2024-01-25 | 22,090 | 13 |
 | 2024-01-26 | 22,202 | 13 |
-| 2024-01-27 | 22,263 | 13 |
+| 2024-01-27 | 22,276 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 300)  
 Sum: 1,741 (Ranked 233)  

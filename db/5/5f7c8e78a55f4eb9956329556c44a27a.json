@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -1414,9 +1414,9 @@
       "ID": "TINGWD_HONEY",
       "SetID": "c0imaa6",
       "Name": "Honey, I blew up the Hero",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "TINGWD_KARAMASOV",
@@ -1446,9 +1446,9 @@
       "ID": "TINGWD_PERPETUITY",
       "SetID": "c0imaa6",
       "Name": "Life sentence",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -1533,8 +1533,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:05:52.3609959+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:04:35.3085036+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:44.5427917+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:03:20.4425679+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:05:52.3610362+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:03:57.3549578+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:04:35.308559+00:00"
 }

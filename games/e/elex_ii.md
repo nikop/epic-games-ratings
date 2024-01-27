@@ -8,10 +8,10 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~130 |
 | Best Buddy | 39.00% | ~115 |
-| Role Model | 36.00% | ~106 |
-| Civilian | 36.00% | ~106 |
-| Creator | 34.00% | ~100 |
-| Military Leader | 32.00% | ~94 |
+| Role Model | 36.00% | ~107 |
+| Civilian | 36.00% | ~107 |
+| Creator | 33.00% | ~98 |
+| Military Leader | 32.00% | ~95 |
 | Festival-goer | 29.00% | ~86 |
 | Peddler | 27.00% | ~80 |
 | Commander | 26.00% | ~77 |
@@ -28,8 +28,8 @@ Number of Ratings: 124  (23.09.2022)
 | Lover | 15.00% | ~44 |
 | Alb | 14.00% | ~41 |
 | Hunter | 14.00% | ~41 |
-| Beam Me Up | 12.00% | ~35 |
-| Free as a Bird | 12.00% | ~35 |
+| Beam Me Up | 12.00% | ~36 |
+| Free as a Bird | 12.00% | ~36 |
 | Treasure Hunter | 9.00% | ~27 |
 | Weaponsmith | 9.00% | ~27 |
 | Hotshot | 8.00% | ~24 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 414)  
+Progressed: 296 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 290 | 0 |
 | 2024-01-25 | 292 | 0 |
 | 2024-01-26 | 294 | 0 |
-| 2024-01-27 | 295 | 0 |
+| 2024-01-27 | 296 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

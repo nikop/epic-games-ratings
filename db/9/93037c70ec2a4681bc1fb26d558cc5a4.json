@@ -2,9 +2,9 @@
   "ID": "93037c70ec2a4681bc1fb26d558cc5a4",
   "Name": "Murder On Space Station 52",
   "ProductSlug": "murder-on-space-station-52-cf249f",
-  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "7b39kf3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-01-27T13:06:17.8652299+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:06:17.865229+00:00",
   "LastUpdate_AppInfo": "2024-01-24T07:57:14.8601397+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:59:34.1123417+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:06:11.0607019+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:47.8247601+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:06:17.8652308+00:00"
 }

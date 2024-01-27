@@ -1,17 +1,17 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.68 (Ranked 266)  
+Rating: 4.68 (Ranked 267)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 47.00% | ~621 |
-| Double Kill | 42.00% | ~555 |
+| Adept | 47.00% | ~622 |
+| Double Kill | 42.00% | ~556 |
 | Critical Hit | 23.00% | ~304 |
 | Veteran | 23.00% | ~304 |
 | Dressed For Success | 15.00% | ~198 |
-| Veni, Vidi, Vici | 11.00% | ~145 |
+| Veni, Vidi, Vici | 11.00% | ~146 |
 | Humiliation | 10.00% | ~132 |
 | Multi Kill | 9.00% | ~119 |
 | Sorcerous Spree | 9.00% | ~119 |
@@ -37,7 +37,7 @@ Number of Ratings: 292  (23.09.2022)
 | Cleave | 0.80% | ~11 |
 | Unlimited Power! | 0.70% | ~9 |
 | Killing Spree | 0.70% | ~9 |
-| Death To Diplomacy | 0.50% | ~7 |
+| Death To Diplomacy | 0.60% | ~8 |
 | Get Over Here! | 0.50% | ~7 |
 | Fully Charged | 0.40% | ~5 |
 | Coming Through! | 0.40% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,322 (Ranked 286)  
+Progressed: 1,323 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 1,304 | 0 |
 | 2024-01-25 | 1,313 | 0 |
 | 2024-01-26 | 1,318 | 0 |
-| 2024-01-27 | 1,322 | 0 |
+| 2024-01-27 | 1,323 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 532)  
 Sum: 252 (Ranked 402)  

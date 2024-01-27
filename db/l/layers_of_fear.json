@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1549,6 +1549,11 @@
       "Time": "2024-01-24T14:10:02.0745765+00:00",
       "NumProgressed": 346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:10:41.5894427+00:00",
+      "NumProgressed": 347,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1569,7 +1574,7 @@
       "Name": "Another perspective",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "assemble_puzzles",
@@ -1641,7 +1646,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "decrypt_one_myth",
@@ -1671,9 +1676,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 160
     },
     {
       "ID": "earn_all_trophies",
@@ -1713,7 +1718,7 @@
       "Name": "Scraps of love",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "find_one_photo",
@@ -1721,7 +1726,7 @@
       "Name": "A Slice of Life",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "find_one_poster",
@@ -1769,7 +1774,7 @@
       "Name": "Sound Bite",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "heavy_burden",
@@ -1809,7 +1814,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "once_upon_a_time",
@@ -1855,9 +1860,9 @@
       "ID": "rocket_science",
       "SetID": "f2im8d",
       "Name": "Rocket Science",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "save_all_rats",
@@ -1889,15 +1894,15 @@
       "Name": "Sign of weakness",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 302
     },
     {
       "ID": "spy_one_item",
@@ -1959,9 +1964,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 194
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1976,14 +1981,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 347,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:10:13.5573779+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:10:41.5894425+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:57:07.6401065+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:10:13.5574131+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:57:53.486151+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:10:41.5894859+00:00"
 }

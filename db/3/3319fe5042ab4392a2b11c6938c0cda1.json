@@ -2,9 +2,9 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -889,6 +889,11 @@
       "Time": "2024-01-27T12:09:02.4243779+00:00",
       "NumProgressed": 197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:09:43.4727023+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -941,7 +946,7 @@
       "Name": "Child of the Shadows",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -981,7 +986,7 @@
       "Name": "Happy Birthday",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -1061,7 +1066,7 @@
       "Name": "The Drop",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -1077,7 +1082,7 @@
       "Name": "Dust to Dust",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1196,14 +1201,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:09:02.4243774+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:09:43.4727021+00:00",
   "LastUpdate_AppInfo": "2024-01-24T18:57:12.0797237+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:59:21.129772+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:09:02.4244076+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:37.4841364+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:09:43.4727374+00:00"
 }

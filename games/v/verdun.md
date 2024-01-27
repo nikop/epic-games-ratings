@@ -6,20 +6,20 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~55,046 |
-| Worth it | 63.00% | ~44,460 |
-| Eagle Eye | 54.00% | ~38,109 |
-| Corpseman I | 39.00% | ~27,523 |
-| Blast fishing | 37.00% | ~26,112 |
-| Not alone | 32.00% | ~22,583 |
-| Headhunter I | 26.00% | ~18,349 |
-| Developers, Developers, Developers | 24.00% | ~16,937 |
-| Manual Labour I | 24.00% | ~16,937 |
-| Basic Training | 23.00% | ~16,232 |
-| Furchtlos und Treu | 13.00% | ~9,174 |
+| Setting an example | 78.00% | ~55,051 |
+| Worth it | 63.00% | ~44,464 |
+| Eagle Eye | 54.00% | ~38,112 |
+| Corpseman I | 39.00% | ~27,525 |
+| Blast fishing | 37.00% | ~26,114 |
+| Not alone | 32.00% | ~22,585 |
+| Headhunter I | 26.00% | ~18,350 |
+| Developers, Developers, Developers | 24.00% | ~16,939 |
+| Manual Labour I | 24.00% | ~16,939 |
+| Basic Training | 23.00% | ~16,233 |
+| Furchtlos und Treu | 13.00% | ~9,175 |
 | Gott Mit Uns | 12.00% | ~8,469 |
-| This We'll Defend! | 9.00% | ~6,351 |
-| For King and Country | 9.00% | ~6,351 |
+| This We'll Defend! | 9.00% | ~6,352 |
+| For King and Country | 9.00% | ~6,352 |
 | Battle hardened | 8.00% | ~5,646 |
 | Anker wirf! | 8.00% | ~5,646 |
 | Providentiea Memor | 8.00% | ~5,646 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,117 |
 | Silver x100 | 3.00% | ~2,117 |
 | Impavidum Ferient Bella! | 3.00% | ~2,117 |
-| Bronze x100 | 2.00% | ~1,411 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,411 |
+| Bronze x100 | 2.00% | ~1,412 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,412 |
 | Gold x100 | 1.00% | ~706 |
 | Hunting the Hun | 1.00% | ~706 |
 | #1 | 1.00% | ~706 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~71 |
 | Blood Brother | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,572 (Ranked 117)  
+Progressed: 70,578 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-24 | 70,351 | 4 |
 | 2024-01-25 | 70,436 | 4 |
 | 2024-01-26 | 70,528 | 4 |
-| 2024-01-27 | 70,572 | 4 |
+| 2024-01-27 | 70,578 | 4 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 377)  
 Sum: 844 (Ranked 291)  

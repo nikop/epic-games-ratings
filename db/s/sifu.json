@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9285,10 +9285,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 763017,
+  "EOS_Progressed": 763029,
   "EOS_Completed": 13009,
-  "EOS_NewPlayers": 1035,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1041,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.7,
   "EosHistory": [
     {
@@ -35555,6 +35555,11 @@
       "Time": "2024-01-27T12:11:01.2655047+00:00",
       "NumProgressed": 763017,
       "NumCompleted": 13009
+    },
+    {
+      "Time": "2024-01-27T13:11:20.9013706+00:00",
+      "NumProgressed": 763029,
+      "NumCompleted": 13009
     }
   ],
   "TotalAchievements": 60,
@@ -35566,7 +35571,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45781
+      "UsersEstimate": 45782
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35590,7 +35595,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "05_Vengeance_H4",
@@ -35598,7 +35603,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "06_Vengeance_H5",
@@ -35606,7 +35611,7 @@
       "Name": "Furious Fists",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "07_Wude_H1",
@@ -35670,7 +35675,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "15_Detective_H1",
@@ -35758,7 +35763,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "26_ShrineSpirit",
@@ -35766,7 +35771,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "27_ShrineBody",
@@ -35798,7 +35803,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "31_ComboHigh",
@@ -35846,7 +35851,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -35878,7 +35883,7 @@
       "Name": "Take damage to save time",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -35910,7 +35915,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -36045,21 +36050,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 72318,
+      "Progressed": 72330,
       "Completed": 10824
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 763017,
+      "Progressed": 763029,
       "Completed": 13009
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-27T01:42:28.5560502+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:11:01.2655042+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:20.9013704+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:03:44.3883242+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:11:01.2656543+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:04:17.2656606+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:20.9014968+00:00"
 }

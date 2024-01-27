@@ -5,9 +5,9 @@
   "Ranking_Rating": 821,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2024-01-27T12:07:04.5652648+00:00",
       "NumProgressed": 256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:07:02.4106797+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -696,7 +701,7 @@
       "Name": "Big Apple",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "black_sheep_wall",
@@ -736,15 +741,15 @@
       "Name": "Bring it on!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "brutus",
       "SetID": "41moj9p",
       "Name": "Brutus",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "buyin_the_dip",
@@ -766,9 +771,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "columbus",
@@ -896,7 +901,7 @@
       "Name": "Full House",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "game_of_thorns",
@@ -936,7 +941,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "he_made_it_out",
@@ -952,7 +957,7 @@
       "Name": "Help! Help! I\u2019m being repressed",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "his_all_holiness",
@@ -1078,9 +1083,9 @@
       "ID": "learn_me_a_book",
       "SetID": "41moj9p",
       "Name": "Learn Me a Book",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "let_us_pray",
@@ -1088,7 +1093,7 @@
       "Name": "Let Us Pray",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "let_us_trade",
@@ -1118,17 +1123,17 @@
       "ID": "master_of_puppets",
       "SetID": "41moj9p",
       "Name": "Master of Puppets",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "naught_but_a_seamless_victory",
       "SetID": "41moj9p",
       "Name": "Naught but a Seamless Victory",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "new_mineland",
@@ -1168,7 +1173,7 @@
       "Name": "Path of Glory",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1182,9 +1187,9 @@
       "ID": "playersander_the_great",
       "SetID": "41moj9p",
       "Name": "Playerxander the Great",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "power_overwhelming",
@@ -1206,9 +1211,9 @@
       "ID": "prison_break",
       "SetID": "41moj9p",
       "Name": "Prison Break",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "probably_just_the_wind",
@@ -1280,7 +1285,7 @@
       "Name": "The finest merchandise this side of river Jordan",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "the_magnificent_nine",
@@ -1312,15 +1317,15 @@
       "Name": "There is no Nobility in Poverty",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "time_to_find_india",
@@ -1336,7 +1341,7 @@
       "Name": "\u2018Tis but a scratch",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "together_we_stand",
@@ -1438,9 +1443,9 @@
       "ID": "you_reap_what_you_sow",
       "SetID": "41moj9p",
       "Name": "You reap what you sow",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "youre_not_my_real_dad",
@@ -1455,7 +1460,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 260,
       "Completed": 0
     }
   ],
@@ -1463,8 +1468,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:07:04.5652643+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:07:02.4106794+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:57:44.3821746+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:07:04.5653673+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:58:21.3639714+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:07:02.4107703+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1631,
+  "EOS_Progressed": 1632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3820,6 +3820,11 @@
       "Time": "2024-01-27T12:04:46.3675703+00:00",
       "NumProgressed": 1631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T13:05:08.0302458+00:00",
+      "NumProgressed": 1632,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3864,7 +3869,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3912,7 +3917,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3920,7 +3925,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3944,7 +3949,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3976,7 +3981,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -4040,7 +4045,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -4071,14 +4076,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1631,
+      "Progressed": 1632,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:04:46.3675698+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:05:08.0302456+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.4867882+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:01:13.5228914+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:04:46.3676069+00:00"
+  "LastUpdate_Ratings": "2024-01-27T13:01:05.2189727+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:05:08.0302861+00:00"
 }

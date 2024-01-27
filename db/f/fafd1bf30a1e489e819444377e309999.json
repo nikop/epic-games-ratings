@@ -165,9 +165,9 @@
       "ID": "PUZZLE_GUY",
       "SetID": "ad3jn51",
       "Name": "Puzzle Solver",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PUZZLE_NINJA",
@@ -292,8 +292,8 @@
   ],
   "FirstSeen": "2024-01-25T04:02:54.323921+00:00",
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:11:15.0056099+00:00",
+  "LastChanged_Achievements": "2024-01-27T13:11:32.1628107+00:00",
   "LastUpdate_AppInfo": "2024-01-22T04:57:13.5976666+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:58:34.8153538+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:11:15.0056212+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:59:01.1051173+00:00",
+  "LastUpdate_Achievements": "2024-01-27T13:11:32.1628205+00:00"
 }

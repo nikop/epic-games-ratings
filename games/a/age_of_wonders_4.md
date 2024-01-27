@@ -12,10 +12,10 @@ Rating: 4.63 (Ranked 361)
 | From Friends to Family | 13.00% | ~950 |
 | Bone Peddler | 12.00% | ~877 |
 | Magical Synergy | 11.00% | ~804 |
-| Full Ascension | 10.00% | ~730 |
-| There Can Only Be One! | 9.00% | ~657 |
-| Stronger Together | 9.00% | ~657 |
-| Seat of Power | 9.00% | ~657 |
+| Full Ascension | 10.00% | ~731 |
+| There Can Only Be One! | 9.00% | ~658 |
+| Stronger Together | 9.00% | ~658 |
+| Seat of Power | 9.00% | ~658 |
 | Valley of Wonders | 8.00% | ~584 |
 | In a Liege of Your Own | 8.00% | ~584 |
 | Intimidation Tactics | 8.00% | ~584 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 361)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,305 (Ranked 202)  
+Progressed: 7,306 (Ranked 202)  
 Completed: 9 (0.12%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 9 (0.12%) (Ranked 315)
 | 2024-01-24 | 7,296 | 8 |
 | 2024-01-25 | 7,298 | 9 |
 | 2024-01-26 | 7,302 | 9 |
-| 2024-01-27 | 7,305 | 9 |
+| 2024-01-27 | 7,306 | 9 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 484)  
 Sum: 246 (Ranked 407)  
