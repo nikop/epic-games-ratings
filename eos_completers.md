@@ -60,11 +60,11 @@
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.26% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
-| 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 6.98% |
+| 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 6.94% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.80% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
-| 65 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.48% |
+| 65 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.42% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -165,9 +165,9 @@
 | 162 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 164 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
 | 165 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.23% |
-| 165 | [Yars: Recharged](games/y/yars__recharged.md) | 1.23% |
-| 167 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
-| 168 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
+| 166 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
+| 167 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
+| 167 | [Yars: Recharged](games/y/yars__recharged.md) | 1.21% |
 | 169 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.19% |
 | 170 | [Late Shift](games/l/late_shift.md) | 1.18% |
 | 171 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.15% |
@@ -294,8 +294,8 @@
 | 289 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.20% |
 | 289 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.20% |
 | 294 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
+| 294 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
 | 294 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
-| 296 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
 | 297 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
 | 297 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
 | 297 | [Going Medieval](games/g/going_medieval.md) | 0.17% |
