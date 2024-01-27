@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 242,
   "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 397,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 129,
@@ -483,10 +483,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 276,
       "NumberOfAwardsMax": 178
+    },
+    {
+      "Time": "2024-01-27T19:01:54.8681254+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 276,
+  "NumberOfAwards": 296,
   "NumberOfAwardsMax": 178,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -519,6 +525,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 12320,
@@ -6884,9 +6896,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-26T17:59:53.5809851+00:00",
+  "LastChanged": "2024-01-27T19:01:54.8681252+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:42.2777883+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-27T18:00:43.644427+00:00",
+  "LastUpdate_Ratings": "2024-01-27T19:01:54.8681257+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:42.2778466+00:00"
 }
