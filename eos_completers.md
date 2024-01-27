@@ -56,14 +56,14 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.58% |
 | 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.43% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.38% |
-| 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.34% |
+| 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.30% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.26% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.23% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 6.98% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.80% |
-| 64 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.60% |
+| 64 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 6.54% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.49% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
@@ -159,13 +159,13 @@
 | 157 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.45% |
 | 158 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.44% |
 | 159 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.42% |
-| 160 | [Yars: Recharged](games/y/yars__recharged.md) | 1.41% |
-| 161 | [Chorus](games/c/chorus.md) | 1.39% |
-| 162 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.36% |
+| 160 | [Chorus](games/c/chorus.md) | 1.39% |
+| 161 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.36% |
+| 162 | [Yars: Recharged](games/y/yars__recharged.md) | 1.35% |
 | 163 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
 | 163 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 165 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
-| 166 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.24% |
+| 166 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.23% |
 | 167 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 168 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
 | 169 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.20% |
@@ -217,8 +217,8 @@
 | 215 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.64% |
 | 216 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.62% |
 | 217 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.61% |
-| 217 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
-| 219 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.60% |
+| 218 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.60% |
+| 218 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
 | 220 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 220 | [Grindstone](games/g/grindstone.md) | 0.59% |
 | 220 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
@@ -330,16 +330,16 @@
 | 325 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 325 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 325 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.10% |
-| 331 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
 | 331 | [House Flipper](games/h/house_flipper.md) | 0.09% |
 | 331 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 331 | [MythForce](games/m/mythforce.md) | 0.09% |
 | 331 | [SYNCED](games/s/synced.md) | 0.09% |
 | 331 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
 | 331 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 338 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
-| 338 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
-| 338 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
+| 337 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.08% |
+| 337 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
+| 337 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
+| 337 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
 | 341 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 342 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.06% |
 | 342 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
