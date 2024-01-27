@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 67.00% | ~81 |
-| Vicious Spider | 45.00% | ~54 |
+| Chapter 1 Complete | 66.00% | ~81 |
+| Vicious Spider | 44.00% | ~54 |
 | Chapter 2 Complete | 43.00% | ~52 |
 | The Guardian | 32.00% | ~39 |
 | Chapter 3 Complete | 31.00% | ~38 |
@@ -23,19 +23,19 @@
 | All Geared Up | 13.00% | ~16 |
 | Battle Ready | 13.00% | ~16 |
 | The End | 12.00% | ~15 |
-| Good Deed | 12.00% | ~15 |
+| Good Deed | 11.00% | ~13 |
 | Music Collector | 10.00% | ~12 |
 | Cooking Maestro | 9.00% | ~11 |
 | Pro Explorers | 9.00% | ~11 |
 | Ultimate Team! | 8.00% | ~10 |
-| Gamer | 7.00% | ~8 |
-| Field Researcher | 7.00% | ~8 |
-| Helping Hand | 7.00% | ~8 |
+| Gamer | 7.00% | ~9 |
+| Field Researcher | 7.00% | ~9 |
+| Helping Hand | 7.00% | ~9 |
 | Medal Collector | 4.00% | ~5 |
 | Our job's done! | 4.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 492)  
+Progressed: 122 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-12 | 119 | 0 |
 | 2024-01-15 | 120 | 0 |
 | 2024-01-18 | 121 | 0 |
+| 2024-01-27 | 122 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

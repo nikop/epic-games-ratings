@@ -13,19 +13,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.90% | ~9,535 |
 | Christmas Tree Attack | 0.80% | ~8,475 |
 | Life of the Road | 0.80% | ~8,475 |
+| Stanislavski's Method | 0.80% | ~8,475 |
 | The High Priestess | 0.80% | ~8,475 |
 | The Lovers | 0.80% | ~8,475 |
 | Legend of The Afterlife | 0.80% | ~8,475 |
 | Bushido and Chill | 0.70% | ~7,416 |
-| Stanislavski's Method | 0.70% | ~7,416 |
 | The Fool | 0.70% | ~7,416 |
 | The World | 0.70% | ~7,416 |
 | All the President's Men | 0.70% | ~1,316 |
 | Arachnophobia | 0.70% | ~1,316 |
-| Gun Fu | 0.60% | ~6,356 |
-| Master Crafter | 0.60% | ~6,356 |
-| I Am The Law | 0.60% | ~6,356 |
-| Judy vs Night City | 0.60% | ~6,356 |
+| Gun Fu | 0.60% | ~6,357 |
+| Master Crafter | 0.60% | ~6,357 |
+| I Am The Law | 0.60% | ~6,357 |
+| Judy vs Night City | 0.60% | ~6,357 |
 | To Protect and Serve | 0.50% | ~5,297 |
 | The Quick and the Dead | 0.50% | ~5,297 |
 | True Warrior | 0.50% | ~5,297 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,410 (Ranked 17)  
-Completed: 3,169 (0.30%) (Ranked 267)  
+Progressed: 1,059,428 (Ranked 17)  
+Completed: 3,170 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -356,7 +356,7 @@ Completed: 3,169 (0.30%) (Ranked 267)
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
 | 2024-01-26 | 1,059,253 | 3,167 |
-| 2024-01-27 | 1,059,410 | 3,169 |
+| 2024-01-27 | 1,059,428 | 3,170 |
 ## Awards
 Max (Character Customization): 145,484  (Ranked 8)  
 Sum: 522,907 (Ranked 8)  

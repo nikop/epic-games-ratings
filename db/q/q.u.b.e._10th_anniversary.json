@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30702,
+  "EOS_Progressed": 30703,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -12021,6 +12021,11 @@
       "Time": "2024-01-27T08:10:13.4538162+00:00",
       "NumProgressed": 30702,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2024-01-27T09:11:13.4664186+00:00",
+      "NumProgressed": 30703,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 24,
@@ -12056,7 +12061,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 6140
+      "UsersEstimate": 6141
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -12184,7 +12189,7 @@
       "Name": "Sector 4",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 6447
+      "UsersEstimate": 6448
     },
     {
       "ID": "ACH_Sector5",
@@ -12223,7 +12228,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30702,
+      "Progressed": 30703,
       "Completed": 237
     }
   ],
@@ -12231,8 +12236,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:10:13.453816+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:11:13.4664181+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:02:52.1494429+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:10:13.4538756+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:02:54.2376735+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:11:13.4664898+00:00"
 }

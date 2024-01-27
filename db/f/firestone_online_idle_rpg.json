@@ -823,9 +823,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4838,
+  "EOS_Progressed": 4839,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13568,6 +13568,11 @@
       "Time": "2024-01-27T07:04:28.6806991+00:00",
       "NumProgressed": 4838,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T09:04:48.5810016+00:00",
+      "NumProgressed": 4839,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13675,7 +13680,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "dragonclicker",
@@ -13811,7 +13816,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "herewegoagain",
@@ -13843,7 +13848,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "inspection",
@@ -14035,7 +14040,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "thealchemist",
@@ -14075,7 +14080,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "theunstoppable",
@@ -14139,7 +14144,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "warmachinesarmy",
@@ -14178,7 +14183,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4838,
+      "Progressed": 4839,
       "Completed": 2
     }
   ],
@@ -14186,8 +14191,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-26T19:58:45.8717898+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:04:05.7869015+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:04:48.5810013+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:58:58.3980516+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:04:05.7870052+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:00:15.1687918+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:04:48.5811259+00:00"
 }

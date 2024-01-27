@@ -5,17 +5,17 @@ Rating: 4.36 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 26.00% | ~64 |
+| Hail to the King, Baby | 27.00% | ~67 |
+| Help! Help! I’m being repressed | 26.00% | ~64 |
 | Can’t Touch This | 25.00% | ~62 |
-| Help! Help! I’m being repressed | 25.00% | ~62 |
-| Path of Glory | 24.00% | ~59 |
+| Path of Glory | 24.00% | ~60 |
 | Bring it on! | 19.00% | ~47 |
 | There is no Nobility in Poverty | 19.00% | ~47 |
 | They Got What They Deserved | 17.00% | ~42 |
-| Full House | 15.00% | ~37 |
-| Playerxander the Great | 15.00% | ~37 |
-| The finest merchandise this side of river Jordan | 14.00% | ~34 |
-| Big Apple | 12.00% | ~30 |
+| Full House | 16.00% | ~40 |
+| Playerxander the Great | 16.00% | ~40 |
+| The finest merchandise this side of river Jordan | 14.00% | ~35 |
+| Big Apple | 13.00% | ~32 |
 | Dinner Time | 10.00% | ~25 |
 | All the King's Men | 9.00% | ~22 |
 | Cut-Me-Own-Throat | 8.00% | ~20 |
@@ -27,13 +27,13 @@ Rating: 4.36 (Ranked 821)
 | Let Us Pray | 6.00% | ~15 |
 | ‘Tis but a scratch | 6.00% | ~15 |
 | Blessed Be His Name | 5.00% | ~12 |
+| Call the Boys | 5.00% | ~12 |
 | Do you read Sutter Cane? | 5.00% | ~12 |
 | Greed is Good | 5.00% | ~12 |
 | On the third day at dawn, look east | 5.00% | ~12 |
 | Pillars of the Earth | 5.00% | ~12 |
 | Scientia potentia es | 5.00% | ~12 |
 | A Quiet Palace | 4.00% | ~10 |
-| Call the Boys | 4.00% | ~10 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~10 |
 | Forth, Eorlingas! | 4.00% | ~10 |
 | He made it out, but with an arrow in his back | 4.00% | ~10 |
@@ -52,6 +52,7 @@ Rating: 4.36 (Ranked 821)
 | Battle of the Four Armies | 2.00% | ~5 |
 | Crusader “you know what” | 2.00% | ~5 |
 | Fighting with Power and Steel | 2.00% | ~5 |
+| Ibn Battuta | 2.00% | ~5 |
 | New Mineland | 2.00% | ~5 |
 | Prince Ali! Fabulous he! | 2.00% | ~5 |
 | Together We Stand | 2.00% | ~5 |
@@ -59,7 +60,6 @@ Rating: 4.36 (Ranked 821)
 | You reap what you sow | 2.00% | ~5 |
 | Brutus | 1.00% | ~2 |
 | From Rags to Riches | 1.00% | ~2 |
-| Ibn Battuta | 1.00% | ~2 |
 | Lord of the Kings | 1.00% | ~2 |
 | Master of Puppets | 1.00% | ~2 |
 | Prison Break | 1.00% | ~2 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 821)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 428)  
+Progressed: 248 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
 | 2024-01-26 | 236 | 0 |
-| 2024-01-27 | 246 | 0 |
+| 2024-01-27 | 248 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

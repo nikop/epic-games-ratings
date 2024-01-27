@@ -6,8 +6,8 @@ Rating: 4.31 (Ranked 878)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 56.00% | ~2,563 |
+| Big Spender | 53.00% | ~2,426 |
 | MVP | 53.00% | ~2,426 |
-| Big Spender | 52.00% | ~2,380 |
 | Stud Finder | 40.00% | ~1,831 |
 | Dealmaker | 38.00% | ~1,739 |
 | ROTY | 32.00% | ~1,465 |

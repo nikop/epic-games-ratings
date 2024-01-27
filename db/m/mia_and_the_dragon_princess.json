@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 465,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -696,9 +696,9 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "tour_guide_extraordinaire",
@@ -719,8 +719,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:09:47.448143+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:10:37.1096192+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:39.5488019+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:02:47.5700234+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:09:47.4481552+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:02:46.3416585+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:10:37.1096351+00:00"
 }

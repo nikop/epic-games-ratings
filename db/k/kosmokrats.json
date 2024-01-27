@@ -4,7 +4,7 @@
   "ProductSlug": "kosmokrats",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 533,
+  "Ranking_EOS_NewPlayers": 532,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.5095997+00:00",
   "LastChanged": "2023-03-31T05:57:10.5095998+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.8012966+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:59:29.9460777+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:08:42.8656906+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:01:04.3928511+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:09:01.1452087+00:00"
 }

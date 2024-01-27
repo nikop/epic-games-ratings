@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19388,
+  "EOS_Progressed": 19389,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14945,6 +14945,11 @@
       "Time": "2024-01-26T20:07:48.7911167+00:00",
       "NumProgressed": 19388,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-27T09:09:02.5121783+00:00",
+      "NumProgressed": 19389,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14956,7 +14961,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5816
+      "UsersEstimate": 5817
     },
     {
       "ID": "0002",
@@ -14996,7 +15001,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "0007",
@@ -15140,7 +15145,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4265
+      "UsersEstimate": 4266
     },
     {
       "ID": "0025",
@@ -15180,7 +15185,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2521
     },
     {
       "ID": "0030",
@@ -15228,7 +15233,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "0036",
@@ -15243,7 +15248,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19388,
+      "Progressed": 19389,
       "Completed": 4
     }
   ],
@@ -15251,8 +15256,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:08:43.7648762+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:09:02.5121779+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:58:16.4999061+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:08:43.76499+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:59:08.1151118+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:09:02.5122784+00:00"
 }

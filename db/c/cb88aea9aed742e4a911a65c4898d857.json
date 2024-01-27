@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -521,9 +521,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12304,
+  "EOS_Progressed": 12305,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6321,6 +6321,11 @@
       "Time": "2024-01-27T07:10:50.1753942+00:00",
       "NumProgressed": 12304,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T09:11:27.6268155+00:00",
+      "NumProgressed": 12305,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6349,7 +6354,7 @@
       "Name": "Trade Empire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -6437,7 +6442,7 @@
       "Name": "Pentakill",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "16_TheRise",
@@ -6501,7 +6506,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "24_TheHighrise",
@@ -6653,7 +6658,7 @@
       "Name": "Iron Judgement",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6661,7 +6666,7 @@
       "Name": "No Place Like Home",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6852,7 +6857,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12304,
+      "Progressed": 12305,
       "Completed": 1
     }
   ],
@@ -6860,8 +6865,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-26T17:59:53.5809851+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:10:24.1260419+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:11:27.626815+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:59:52.3612099+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:10:24.1261067+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:01:38.6077745+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:11:27.6269278+00:00"
 }

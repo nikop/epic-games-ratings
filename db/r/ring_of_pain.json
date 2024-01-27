@@ -3964,9 +3964,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243569,
+  "EOS_Progressed": 243573,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -33134,6 +33134,11 @@
       "Time": "2024-01-27T08:10:30.7284377+00:00",
       "NumProgressed": 243569,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-27T09:11:35.8910401+00:00",
+      "NumProgressed": 243573,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33879,9 +33884,9 @@
       "ID": "SNAKESTEALTH",
       "SetID": "5l8oe0h",
       "Name": "Snake Sneak",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 1218
     },
     {
       "ID": "SPECIALROOMS1",
@@ -34201,7 +34206,7 @@
       "Name": "Not Touching You",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -34248,13 +34253,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243569,
+      "Progressed": 243573,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 5049,
+      "Progressed": 5053,
       "Completed": 433
     }
   ],
@@ -34262,8 +34267,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-25T23:58:38.3213561+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:10:30.7284373+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:11:35.8910396+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:59:09.4279867+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:10:30.7286924+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:00:32.4052647+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:11:35.891322+00:00"
 }

@@ -1102,9 +1102,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363815,
+  "EOS_Progressed": 363816,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 928,
+  "EOS_NewPlayers": 925,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33347,6 +33347,11 @@
       "Time": "2024-01-27T08:03:55.0755359+00:00",
       "NumProgressed": 363815,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-27T09:04:33.4851868+00:00",
+      "NumProgressed": 363816,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -33886,7 +33891,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58210
+      "UsersEstimate": 58211
     },
     {
       "ID": "ach069",
@@ -33997,7 +34002,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363815,
+      "Progressed": 363816,
       "Completed": 7
     }
   ],
@@ -34005,8 +34010,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-26T15:57:54.5996048+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:03:55.0755357+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:04:33.4851865+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:58:11.3775762+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:03:55.0757893+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:58:59.9846299+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:04:33.4854186+00:00"
 }

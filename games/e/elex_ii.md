@@ -24,14 +24,14 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 17.00% | ~50 |
 | Storyteller | 16.00% | ~47 |
 | Berserker | 16.00% | ~47 |
-| Perfectionist | 14.00% | ~41 |
+| Perfectionist | 15.00% | ~44 |
 | Hunter | 14.00% | ~41 |
 | Lover | 14.00% | ~41 |
 | Alb | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Free as a Bird | 12.00% | ~35 |
 | Treasure Hunter | 10.00% | ~29 |
-| Weaponsmith | 9.00% | ~26 |
+| Weaponsmith | 10.00% | ~29 |
 | Hotshot | 9.00% | ~26 |
 | Cleric | 9.00% | ~26 |
 | Detective | 9.00% | ~26 |

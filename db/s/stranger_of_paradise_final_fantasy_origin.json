@@ -4,11 +4,11 @@
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 602,
   "Ranking_Popularity": 190,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -15094,9 +15094,9 @@
       "ID": "034_TROPHY_UNLOCKED_ADVANCED_JOB",
       "SetID": "4ajkb4b",
       "Name": "Dark Crystal, Warrior\u0027s Heart",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 57861
+      "UsersEstimate": 58687
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -15198,8 +15198,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2024-01-27T08:02:40.1943734+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:05:43.0887043+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:07:10.0936941+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:02.8377756+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:02:40.1943738+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:05:43.0888272+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:02:34.772453+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:07:10.0937789+00:00"
 }

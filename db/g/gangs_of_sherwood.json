@@ -739,9 +739,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -986,8 +986,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:09:14.1577115+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:09:47.457521+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.1099768+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:59:13.8198695+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:09:14.1577458+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:00:39.4012078+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:09:47.4575633+00:00"
 }

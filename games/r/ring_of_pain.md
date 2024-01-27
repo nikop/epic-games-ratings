@@ -31,7 +31,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 1.00% | ~2,436 |
 | Sneaky | 1.00% | ~2,436 |
 | An Offering | 1.00% | ~2,436 |
-| Not Touching You | 1.00% | ~50 |
+| Not Touching You | 1.00% | ~51 |
 | Dig Your Own Grave | 0.90% | ~2,192 |
 | Who To Trust? | 0.90% | ~2,192 |
 | Walk It Off | 0.90% | ~2,192 |
@@ -65,6 +65,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.50% | ~1,218 |
 | Chain Reaction | 0.50% | ~1,218 |
 | Antivenom | 0.50% | ~1,218 |
+| Snake Sneak | 0.50% | ~1,218 |
 | The Long Run | 0.50% | ~1,218 |
 | Who Needs Luck? | 0.50% | ~25 |
 | Achievement Hunter | 0.40% | ~974 |
@@ -75,7 +76,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Clearing The Room | 0.40% | ~974 |
 | Decisions, Decisions | 0.40% | ~974 |
 | Fragile Mortality | 0.40% | ~974 |
-| Snake Sneak | 0.40% | ~974 |
 | Obsessed | 0.40% | ~974 |
 | Precious | 0.40% | ~974 |
 | A Long Climb | 0.30% | ~731 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,569 (Ranked 75)  
+Progressed: 243,573 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,7 +427,7 @@ Completed: 309 (0.13%) (Ranked 310)
 | 2024-01-24 | 243,469 | 309 |
 | 2024-01-25 | 243,514 | 309 |
 | 2024-01-26 | 243,553 | 309 |
-| 2024-01-27 | 243,569 | 309 |
+| 2024-01-27 | 243,573 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,806 (Ranked 92)  

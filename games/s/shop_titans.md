@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,362 |
-| Titan's First Steps | 12.00% | ~18,362 |
-| Basic in Bulk | 11.00% | ~16,832 |
+| Sponsored by Argon | 12.00% | ~18,363 |
+| Titan's First Steps | 12.00% | ~18,363 |
+| Basic in Bulk | 11.00% | ~16,833 |
 | Tinkle of Coins | 10.00% | ~15,302 |
-| Disintermediation | 8.00% | ~12,241 |
-| It's Free Real Estate | 8.00% | ~12,241 |
-| Capitalism Ho! | 8.00% | ~12,241 |
-| Budding Merchant | 7.00% | ~10,711 |
+| Disintermediation | 8.00% | ~12,242 |
+| It's Free Real Estate | 8.00% | ~12,242 |
+| Capitalism Ho! | 8.00% | ~12,242 |
+| Budding Merchant | 7.00% | ~10,712 |
 | One Easy Payment | 6.00% | ~9,181 |
 | Some Assembly Required | 6.00% | ~9,181 |
 | Another Satisfied Customer | 6.00% | ~9,181 |
@@ -26,6 +26,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 5.00% | ~7,651 |
 | Through Repetition, Perfection | 5.00% | ~7,651 |
 | On the Path to Greatness | 4.00% | ~6,121 |
+| Ascended | 4.00% | ~6,121 |
 | Demand for Supplies | 4.00% | ~6,121 |
 | Flooding the Market | 4.00% | ~6,121 |
 | Gem Expert | 4.00% | ~6,121 |
@@ -34,7 +35,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 4.00% | ~6,121 |
 | Arcane Industries | 4.00% | ~6,121 |
 | A Notch Above the Rest | 3.00% | ~4,591 |
-| Ascended | 3.00% | ~4,591 |
 | Tax not Included | 3.00% | ~4,591 |
 | Research & Development | 3.00% | ~4,591 |
 | Vanity, Verily | 3.00% | ~4,591 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~612 |
 | Capitalist Camaraderie | 0.30% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,018 (Ranked 87)  
+Progressed: 153,023 (Ranked 87)  
 Completed: 365 (0.24%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,15 +401,15 @@ Completed: 365 (0.24%) (Ranked 282)
 | 2024-01-24 | 152,717 | 363 |
 | 2024-01-25 | 152,844 | 364 |
 | 2024-01-26 | 152,981 | 365 |
-| 2024-01-27 | 153,018 | 365 |
+| 2024-01-27 | 153,023 | 365 |
 ## Awards
 Max (Great for Beginners): 4,982  (Ranked 84)  
-Sum: 28,064 (Ranked 52)  
+Sum: 28,067 (Ranked 52)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,982 |
-| This game is Relaxing | 4,086 |
+| This game is Relaxing | 4,089 |
 | This game has Quickly Understood Controls | 4,080 |
 | This game has Diverse Characters | 4,047 |
 | This game is Highly Recommended | 3,829 |
@@ -780,4 +780,4 @@ Diff (max vs sum): 32
 | 2024-01-24 | 4.00 | - | 4,980 | 28,053 |
 | 2024-01-25 | 4.00 | - | 4,980 | 28,060 |
 | 2024-01-26 | 4.00 | - | 4,982 | 28,062 |
-| 2024-01-27 | 4.00 | - | 4,982 | 28,064 |
+| 2024-01-27 | 4.00 | - | 4,982 | 28,067 |

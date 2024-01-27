@@ -10,7 +10,7 @@
 | Explosive End | 25.00% | ~26 |
 | A Box of Tricks | 24.00% | ~25 |
 | Puzzle Prodigy | 24.00% | ~25 |
-| Snitch | 23.00% | ~24 |
+| Snitch | 24.00% | ~25 |
 | Breathless End | 20.00% | ~21 |
 | Finger-Lickin' Bad | 20.00% | ~21 |
 | Bathroom Brawler | 18.00% | ~19 |

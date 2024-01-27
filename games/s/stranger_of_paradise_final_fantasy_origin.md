@@ -12,7 +12,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Hopes and Dreams | 82.00% | ~67,780 |
 | Lantern Smasher | 78.00% | ~64,473 |
 | The Pirate's Way | 73.00% | ~60,340 |
-| Dark Crystal, Warrior's Heart | 70.00% | ~57,861 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~58,687 |
 | The King of the Dark Elves | 68.00% | ~56,207 |
 | Memories of the Distant Past | 66.00% | ~54,554 |
 | Distortion's Progeny | 63.00% | ~52,075 |
@@ -337,8 +337,8 @@ Completed: 2,243 (2.71%) (Ranked 122)
 | 2024-01-27 | 82,658 | 2,243 |
 ## Awards
 Max (Great Boss Battles): 786  (Ranked 190)  
-Sum: 1,625 (Ranked 244)  
-Diff (max vs sum): -54  
+Sum: 1,625 (Ranked 245)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |

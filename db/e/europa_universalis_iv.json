@@ -14833,10 +14833,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65933,
       "NumberOfAwardsMax": 7990
+    },
+    {
+      "Time": "2024-01-27T09:00:13.1838673+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65961,
+      "NumberOfAwardsMax": 7990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65933,
+  "NumberOfAwards": 65961,
   "NumberOfAwardsMax": 7990,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14850,7 +14856,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7611
+      "Count": 7620
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14886,7 +14892,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7314
+      "Count": 7333
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14907,9 +14913,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 506245,
+  "EOS_Progressed": 506269,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4128,
+  "EOS_NewPlayers": 4121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47487,6 +47493,11 @@
       "Time": "2024-01-27T08:10:31.8989451+00:00",
       "NumProgressed": 506245,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T09:11:37.1628148+00:00",
+      "NumProgressed": 506269,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47626,7 +47637,7 @@
       "Name": "Aggressive Expander",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -47890,7 +47901,7 @@
       "Name": "Blockader",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -48034,7 +48045,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -48154,7 +48165,7 @@
       "Name": "Double the Love",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -48706,7 +48717,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -49066,7 +49077,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_my_true_friend",
@@ -49450,7 +49461,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -49778,7 +49789,7 @@
       "Name": "That is mine!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3037
+      "UsersEstimate": 3038
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -50050,7 +50061,7 @@
       "Name": "Total Control",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -50106,7 +50117,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_trustworthy",
@@ -50194,7 +50205,7 @@
       "Name": "Victorious!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3037
+      "UsersEstimate": 3038
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -50401,21 +50412,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 506245,
+      "Progressed": 506269,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 506245,
+      "Progressed": 506269,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-27T07:58:57.1266592+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:10:31.8989448+00:00",
+  "LastChanged": "2024-01-27T09:00:13.1838671+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:11:37.1628144+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:58:57.1266598+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:10:31.9000359+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:00:13.1838678+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:11:37.1639314+00:00"
 }

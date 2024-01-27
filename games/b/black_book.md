@@ -6,18 +6,18 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~20,048 |
-| Student | 23.00% | ~15,900 |
-| Knower | 16.00% | ~11,061 |
+| Initiation | 29.00% | ~20,049 |
+| Student | 23.00% | ~15,901 |
+| Knower | 16.00% | ~11,062 |
 | Listener | 15.00% | ~10,370 |
-| Aspen Tree | 14.00% | ~9,678 |
-| Healer | 14.00% | ~9,678 |
+| Aspen Tree | 14.00% | ~9,679 |
+| Healer | 14.00% | ~9,679 |
 | Scientist | 12.00% | ~8,296 |
 | Soldier | 12.00% | ~8,296 |
 | Cow Level | 11.00% | ~7,605 |
-| Old Friend | 10.00% | ~6,913 |
-| Herbalist | 10.00% | ~6,913 |
-| Water | 10.00% | ~6,913 |
+| Old Friend | 10.00% | ~6,914 |
+| Herbalist | 10.00% | ~6,914 |
+| Water | 10.00% | ~6,914 |
 | New Spirits | 9.00% | ~6,222 |
 | Voipel | 9.00% | ~6,222 |
 | Collector | 9.00% | ~6,222 |
@@ -26,15 +26,15 @@ Number of Ratings: 96  (23.09.2022)
 | Card Player | 8.00% | ~5,531 |
 | Dead Friend | 8.00% | ~5,531 |
 | Pine Tree | 8.00% | ~5,531 |
-| Worthy | 7.00% | ~4,839 |
-| Black Book | 7.00% | ~4,839 |
-| Black Sorcerer | 7.00% | ~4,839 |
-| Dead Man | 7.00% | ~4,839 |
-| Fern | 7.00% | ~4,839 |
-| 100 Friends | 7.00% | ~4,839 |
-| Witch | 7.00% | ~4,839 |
-| Researcher | 7.00% | ~4,839 |
-| Savvy | 7.00% | ~4,839 |
+| Worthy | 7.00% | ~4,840 |
+| Black Book | 7.00% | ~4,840 |
+| Black Sorcerer | 7.00% | ~4,840 |
+| Dead Man | 7.00% | ~4,840 |
+| Fern | 7.00% | ~4,840 |
+| 100 Friends | 7.00% | ~4,840 |
+| Witch | 7.00% | ~4,840 |
+| Researcher | 7.00% | ~4,840 |
+| Savvy | 7.00% | ~4,840 |
 | Encyclopedist | 6.00% | ~4,148 |
 | Vorsa | 6.00% | ~4,148 |
 | Old Spirits | 6.00% | ~4,148 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,383 |
 | Word Master | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,132 (Ranked 118)  
+Progressed: 69,136 (Ranked 118)  
 Completed: 79 (0.11%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 79 (0.11%) (Ranked 318)
 | 2024-01-24 | 68,775 | 77 |
 | 2024-01-25 | 68,921 | 78 |
 | 2024-01-26 | 69,075 | 79 |
-| 2024-01-27 | 69,132 | 79 |
+| 2024-01-27 | 69,136 | 79 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

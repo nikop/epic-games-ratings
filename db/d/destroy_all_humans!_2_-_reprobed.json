@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 478,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2434,9 +2434,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:09:54.3975168+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:10:47.0623793+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:00:00.7321839+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:09:54.3975572+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:01:52.2711017+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:10:47.0624089+00:00"
 }

@@ -1685,9 +1685,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 272
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1709,9 +1709,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -1829,9 +1829,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 167
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -1917,9 +1917,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 282
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -1941,9 +1941,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -1997,9 +1997,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -2077,9 +2077,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -2212,8 +2212,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:05:12.1463935+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:06:25.4766758+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.8390305+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:57:42.119984+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:05:12.1464913+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:58:13.7630681+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:06:25.4767651+00:00"
 }

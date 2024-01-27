@@ -2,8 +2,8 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 168,
-  "Ranking_Popularity": 455,
+  "Ranking_Rating": 184,
+  "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 294,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -465,23 +465,29 @@
       "Rating": 4.74,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-27T08:58:30.112267+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 55,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 55,
+  "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 54
+      "Count": 55
     }
   ],
-  "EOS_Progressed": 15372,
+  "EOS_Progressed": 15373,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11599,6 +11605,11 @@
       "Time": "2024-01-27T05:11:18.8380433+00:00",
       "NumProgressed": 15372,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-27T09:11:22.1680855+00:00",
+      "NumProgressed": 15373,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11635,7 +11646,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "ChewingTheScenery",
@@ -11651,7 +11662,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "Eavesdropper",
@@ -11882,16 +11893,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15372,
+      "Progressed": 15373,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-01-26T15:57:34.6328133+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:10:19.8071662+00:00",
+  "LastChanged": "2024-01-27T08:58:30.1122668+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:11:22.1680851+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:09.5251065+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:57:52.4230434+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:10:19.807226+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:58:30.1122673+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:11:22.168151+00:00"
 }

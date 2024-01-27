@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9827,10 +9827,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33660,
       "NumberOfAwardsMax": 5819
+    },
+    {
+      "Time": "2024-01-27T09:01:52.4628013+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33666,
+      "NumberOfAwardsMax": 5819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33660,
+  "NumberOfAwards": 33666,
   "NumberOfAwardsMax": 5819,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9844,13 +9850,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5756
+      "Count": 5759
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4923
+      "Count": 4926
     },
     {
       "Text": "This game is Relaxing",
@@ -9877,10 +9883,10 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255852,
-  "EOS_Completed": 2654,
-  "EOS_NewPlayers": 1012,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 255858,
+  "EOS_Completed": 2655,
+  "EOS_NewPlayers": 1011,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -41892,6 +41898,11 @@
       "Time": "2024-01-27T08:10:33.0430272+00:00",
       "NumProgressed": 255852,
       "NumCompleted": 2654
+    },
+    {
+      "Time": "2024-01-27T09:11:38.6858069+00:00",
+      "NumProgressed": 255858,
+      "NumCompleted": 2655
     }
   ],
   "TotalAchievements": 546,
@@ -46141,9 +46152,9 @@
       "ID": "objective_completed_1552",
       "SetID": "415jc5c",
       "Name": "The End is the Beginning",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1553",
@@ -46270,21 +46281,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222126,
+      "Progressed": 222132,
       "Completed": 4163
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255852,
-      "Completed": 2654
+      "Progressed": 255858,
+      "Completed": 2655
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-27T05:01:52.018677+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:10:33.0430268+00:00",
+  "LastChanged": "2024-01-27T09:01:52.4628011+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:11:38.6858065+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:00:00.8491565+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:10:33.0453425+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:01:52.4628017+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:11:38.6881581+00:00"
 }

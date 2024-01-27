@@ -7,7 +7,7 @@
 | Act of Kindness | 87.00% | ~111 |
 | Air Fighter | 71.00% | ~91 |
 | Oo-De-Lally | 71.00% | ~91 |
-| Treasure Hunter | 64.00% | ~82 |
+| Treasure Hunter | 65.00% | ~83 |
 | The Altruist | 63.00% | ~81 |
 | Watch your Step! | 52.00% | ~67 |
 | MAX LEVEL | 52.00% | ~67 |

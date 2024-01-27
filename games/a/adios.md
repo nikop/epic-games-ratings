@@ -10,7 +10,7 @@ Rating: 3.56 (Ranked 1,109)
 | Hard Worker | 20.00% | ~16,904 |
 | Mechanic | 20.00% | ~16,904 |
 | Adios, Friendo | 19.00% | ~16,059 |
-| Bottom's Up | 18.00% | ~15,213 |
+| Bottom's Up | 18.00% | ~15,214 |
 | Nice Try | 17.00% | ~14,368 |
 | Right On Target | 14.00% | ~11,833 |
 | Piano Man | 11.00% | ~9,297 |
@@ -31,8 +31,8 @@ Rating: 3.56 (Ranked 1,109)
 | Audiophile | 2.00% | ~1,690 |
 | Tape Head | 2.00% | ~1,690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,519 (Ranked 110)  
-Completed: 953 (1.13%) (Ranked 172)  
+Progressed: 84,520 (Ranked 110)  
+Completed: 953 (1.13%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,7 +313,7 @@ Completed: 953 (1.13%) (Ranked 172)
 | 2024-01-24 | 84,366 | 952 |
 | 2024-01-25 | 84,431 | 952 |
 | 2024-01-26 | 84,502 | 953 |
-| 2024-01-27 | 84,519 | 953 |
+| 2024-01-27 | 84,520 | 953 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

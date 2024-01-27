@@ -7,7 +7,7 @@
 | Introduction completed | 78.00% | ~38 |
 | Chapter 1 | 49.00% | ~24 |
 | Chapter 2 | 41.00% | ~20 |
-| It's In My Nature | 39.00% | ~19 |
+| It's In My Nature | 41.00% | ~20 |
 | Chapter 3 | 37.00% | ~18 |
 | Chapter 4 | 35.00% | ~17 |
 | Your Days Are Numbered | 35.00% | ~17 |

@@ -5,35 +5,35 @@ Rating: 4.43 (Ranked 732)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~319,321 |
-| Delving Onward | 69.00% | ~268,697 |
-| Miner's Helper | 59.00% | ~229,755 |
-| Suit Up | 54.00% | ~210,285 |
-| To the Mountain's Roots | 50.00% | ~194,708 |
-| Remains To Be Seen | 35.00% | ~136,296 |
-| Covered Head to Toe | 33.00% | ~128,507 |
-| Line of Azog, Ended | 32.00% | ~124,613 |
-| Risk a Little Real Light | 32.00% | ~124,613 |
-| Caradhras The Cruel | 19.00% | ~73,989 |
-| A Memory of this Place | 19.00% | ~73,989 |
-| Battering Ram | 14.00% | ~54,518 |
-| False King, Deposed | 14.00% | ~54,518 |
-| Baruk Khazâd! | 13.00% | ~50,624 |
+| Speak Friend | 82.00% | ~319,328 |
+| Delving Onward | 69.00% | ~268,703 |
+| Miner's Helper | 59.00% | ~229,760 |
+| Suit Up | 54.00% | ~210,289 |
+| To the Mountain's Roots | 50.00% | ~194,712 |
+| Remains To Be Seen | 35.00% | ~136,298 |
+| Covered Head to Toe | 33.00% | ~128,510 |
+| Line of Azog, Ended | 32.00% | ~124,616 |
+| Risk a Little Real Light | 32.00% | ~124,616 |
+| Caradhras The Cruel | 19.00% | ~73,991 |
+| A Memory of this Place | 19.00% | ~73,991 |
+| Battering Ram | 14.00% | ~54,519 |
+| False King, Deposed | 14.00% | ~54,519 |
+| Baruk Khazâd! | 13.00% | ~50,625 |
 | Shadow's Bane | 10.00% | ~38,942 |
-| Westgate Weaponcraft | 9.00% | ~35,047 |
-| Deeps Weaponcraft | 8.00% | ~31,153 |
-| Darkness Is Passing | 8.00% | ~31,153 |
+| Westgate Weaponcraft | 9.00% | ~35,048 |
+| Deeps Weaponcraft | 8.00% | ~31,154 |
+| Darkness Is Passing | 8.00% | ~31,154 |
 | Decked Out | 5.00% | ~19,471 |
 | Guarded from Despair | 5.00% | ~19,471 |
 | Master of All Trades | 4.00% | ~15,577 |
-| Eregion Weaponcraft | 3.00% | ~11,682 |
-| True-silver | 3.00% | ~11,682 |
-| Dimrill Weaponcraft | 3.00% | ~11,682 |
+| Eregion Weaponcraft | 3.00% | ~11,683 |
+| True-silver | 3.00% | ~11,683 |
+| Dimrill Weaponcraft | 3.00% | ~11,683 |
 | Hard-headed | 1.00% | ~3,894 |
 | Shielded | 1.00% | ~3,894 |
 | We're Gonna Need More Mugs | 0.20% | ~779 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389,416 (Ranked 55)  
+Progressed: 389,424 (Ranked 55)  
 Completed: 405 (0.10%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 405 (0.10%) (Ranked 325)
 | 2024-01-24 | 388,697 | 400 |
 | 2024-01-25 | 388,980 | 404 |
 | 2024-01-26 | 389,303 | 405 |
-| 2024-01-27 | 389,416 | 405 |
+| 2024-01-27 | 389,424 | 405 |
 ## Awards
 Max (Great for Beginners): 1,018  (Ranked 163)  
 Sum: 5,821 (Ranked 142)  

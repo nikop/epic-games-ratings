@@ -6,8 +6,8 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -3577,9 +3577,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3657,9 +3657,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 717
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3786,8 +3786,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:09:38.0030968+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:10:22.1245975+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:58:23.4175959+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:09:38.00314+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:59:18.8531328+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:10:22.1246307+00:00"
 }

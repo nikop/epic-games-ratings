@@ -903,9 +903,9 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -1038,8 +1038,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:09:07.1053422+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:09:36.8674439+00:00",
   "LastUpdate_AppInfo": "2024-01-26T17:57:13.0054772+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:58:03.5670697+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:09:07.1053585+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:58:47.6983956+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:09:36.867463+00:00"
 }

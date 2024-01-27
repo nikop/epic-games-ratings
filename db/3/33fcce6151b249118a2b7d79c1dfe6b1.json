@@ -158,9 +158,9 @@
       "ID": "CompleteLevel2",
       "SetID": "8j3le2g",
       "Name": "The Envoys Arrive",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteLevel3",
@@ -174,9 +174,9 @@
       "ID": "CompleteLevel4",
       "SetID": "8j3le2g",
       "Name": "The Princess Is Missing",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteLevel5",
@@ -278,9 +278,9 @@
       "ID": "MageChampion",
       "SetID": "8j3le2g",
       "Name": "Mage Champion!",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterTimetraveller",
@@ -294,9 +294,9 @@
       "ID": "NoFatality",
       "SetID": "8j3le2g",
       "Name": "No Fatality Gameshow",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerfectLevel10",
@@ -374,9 +374,9 @@
       "ID": "RiskItForTheBicuit",
       "SetID": "8j3le2g",
       "Name": "Risk It For The Biscuit",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RogueChampion",
@@ -485,8 +485,8 @@
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:05:27.8355851+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:06:48.3811299+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:59:31.4872976+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:05:27.8356225+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:01:06.4881295+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:06:48.3811623+00:00"
 }

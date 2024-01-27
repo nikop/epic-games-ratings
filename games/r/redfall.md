@@ -8,8 +8,8 @@ Rating: 3.68 (Ranked 1,107)
 | I Like My Stakes Rare! | 24.00% | ~581 |
 | Catch and Release | 19.00% | ~460 |
 | Home Is Where the Heart Is | 17.00% | ~412 |
+| ICU | 17.00% | ~412 |
 | Wounded Whispers | 17.00% | ~412 |
-| ICU | 16.00% | ~388 |
 | Blood Will Have Blood | 14.00% | ~339 |
 | Ne Plus Ultra | 14.00% | ~339 |
 | Peek-a-boo | 14.00% | ~339 |

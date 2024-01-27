@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4531,9 +4531,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 457
     },
     {
       "ID": "EasternWetlands",
@@ -4916,8 +4916,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-27T01:36:20.2681262+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:03:50.861797+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:04:27.3453908+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:57:23.0447564+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:03:50.8618637+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:57:43.0998568+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:04:27.345456+00:00"
 }

@@ -7,23 +7,23 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 71.00% | ~45,400 |
-| I read Shakespeare and stuff | 59.00% | ~37,726 |
-| Just a sprinkle | 58.00% | ~37,087 |
-| I'm stumped | 56.00% | ~35,808 |
-| Plant get enough | 55.00% | ~35,169 |
-| This is just my weekend vehicle | 54.00% | ~34,529 |
-| It's just the beginning | 54.00% | ~34,529 |
-| Hard work pays off | 49.00% | ~31,332 |
-| It's never too late to farm | 45.00% | ~28,774 |
+| I read Shakespeare and stuff | 59.00% | ~37,727 |
+| Just a sprinkle | 58.00% | ~37,088 |
+| I'm stumped | 56.00% | ~35,809 |
+| Plant get enough | 56.00% | ~35,809 |
+| This is just my weekend vehicle | 54.00% | ~34,530 |
+| It's just the beginning | 54.00% | ~34,530 |
+| Hard work pays off | 49.00% | ~31,333 |
+| It's never too late to farm | 45.00% | ~28,775 |
 | All out of Land | 41.00% | ~26,217 |
-| Field Trip | 40.00% | ~25,577 |
+| Field Trip | 40.00% | ~25,578 |
 | I like to switch it up | 37.00% | ~23,659 |
 | Help me to help you | 35.00% | ~22,380 |
 | Ultimutt Pawesomeness | 25.00% | ~15,986 |
 | Van Gogh | 23.00% | ~14,707 |
 | You wood not believe it | 20.00% | ~12,789 |
 | Vehicle fleet | 20.00% | ~12,789 |
-| Well-Oiled Machine | 15.00% | ~9,591 |
+| Well-Oiled Machine | 15.00% | ~9,592 |
 | Clucky Streak | 14.00% | ~8,952 |
 | The plot thickens | 14.00% | ~8,952 |
 | Large-scale supplier | 14.00% | ~8,952 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~256 |
 | Raisin the stakes | 0.30% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,943 (Ranked 120)  
+Progressed: 63,944 (Ranked 120)  
 Completed: 7 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 7 (0.01%) (Ranked 388)
 | 2024-01-24 | 63,734 | 6 |
 | 2024-01-25 | 63,825 | 7 |
 | 2024-01-26 | 63,917 | 7 |
-| 2024-01-27 | 63,943 | 7 |
+| 2024-01-27 | 63,944 | 7 |
 ## Awards
 Max (Great for Beginners): 6,221  (Ranked 67)  
-Sum: 46,246 (Ranked 33)  
+Sum: 46,252 (Ranked 33)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -346,7 +346,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 4,485 |
 | This game has Quickly Understood Controls | 4,467 |
 | This game is Extremely Fun | 4,442 |
-| This game has Amazing Storytelling | 4,316 |
+| This game has Amazing Storytelling | 4,322 |
 | This game has Amazing Characters | 4,047 |
 | This game has a Creative Community | 3,994 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -729,3 +729,4 @@ Diff (max vs sum): 34
 | 2024-01-24 | 4.67 | - | 6,197 | 46,137 |
 | 2024-01-25 | 4.67 | - | 6,211 | 46,203 |
 | 2024-01-26 | 4.67 | - | 6,221 | 46,246 |
+| 2024-01-27 | 4.67 | - | 6,221 | 46,252 |

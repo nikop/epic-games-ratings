@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -153,9 +153,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84519,
+  "EOS_Progressed": 84520,
   "EOS_Completed": 953,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31633,6 +31633,11 @@
       "Time": "2024-01-27T08:03:37.979901+00:00",
       "NumProgressed": 84519,
       "NumCompleted": 953
+    },
+    {
+      "Time": "2024-01-27T09:04:08.2651227+00:00",
+      "NumProgressed": 84520,
+      "NumCompleted": 953
     }
   ],
   "TotalAchievements": 25,
@@ -31684,7 +31689,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15213
+      "UsersEstimate": 15214
     },
     {
       "ID": "Butcher",
@@ -31843,7 +31848,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84519,
+      "Progressed": 84520,
       "Completed": 953
     }
   ],
@@ -31851,8 +31856,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-25T04:58:57.692419+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:03:37.9799007+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:04:08.2651224+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:00:05.2773452+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:03:37.9800558+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:02:28.8750477+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:04:08.2652987+00:00"
 }

@@ -798,9 +798,9 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 219
     },
     {
       "ID": "deal_or_no_deal",
@@ -935,8 +935,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:08:56.6209988+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:09:21.501868+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.224486+00:00",
-  "LastUpdate_Ratings": "2024-01-27T08:00:05.228319+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:08:56.6210105+00:00"
+  "LastUpdate_Ratings": "2024-01-27T09:02:28.7871095+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:09:21.5018892+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 548,
+  "EOS_Progressed": 549,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -2154,6 +2154,11 @@
       "Time": "2024-01-27T03:05:16.2253747+00:00",
       "NumProgressed": 548,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T09:06:23.3156269+00:00",
+      "NumProgressed": 549,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2236,9 +2241,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 285
     },
     {
       "ID": "AC_BOSS_01",
@@ -2246,7 +2251,7 @@
       "Name": "Misery",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "AC_BOSS_02",
@@ -2342,7 +2347,7 @@
       "Name": "Psycopath",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2358,7 +2363,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2366,7 +2371,7 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2396,9 +2401,9 @@
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 71
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -2501,14 +2506,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 548,
+      "Progressed": 549,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-27T08:05:10.6390661+00:00",
+  "LastChanged_Achievements": "2024-01-27T09:06:23.3156264+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.4116417+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:57:11.1039882+00:00",
-  "LastUpdate_Achievements": "2024-01-27T08:05:10.639102+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:57:23.975161+00:00",
+  "LastUpdate_Achievements": "2024-01-27T09:06:23.3157065+00:00"
 }

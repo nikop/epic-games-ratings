@@ -5,18 +5,18 @@ Rating: 4.22 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,375 |
-| The Outer Way | 28.00% | ~6,375 |
+| Flesh Wound | 28.00% | ~6,376 |
+| The Outer Way | 28.00% | ~6,376 |
 | Desperate Times | 27.00% | ~6,148 |
 | Paper Jams | 25.00% | ~5,692 |
 | Get a Grip | 24.00% | ~5,465 |
 | Chew 'Em Up | 22.00% | ~5,009 |
-| Reforged | 21.00% | ~4,781 |
+| Reforged | 21.00% | ~4,782 |
 | Float Like A Butterfly | 20.00% | ~4,554 |
 | If the SHU Fits... | 19.00% | ~4,326 |
-| Workplace Hazard | 18.00% | ~4,098 |
+| Workplace Hazard | 18.00% | ~4,099 |
 | Without A Paddle | 16.00% | ~3,643 |
-| In the Pipe, Five by Five | 15.00% | ~3,415 |
+| In the Pipe, Five by Five | 15.00% | ~3,416 |
 | Two Heads Are Better Than One | 14.00% | ~3,188 |
 | Crash Site | 14.00% | ~3,188 |
 | Power Up | 13.00% | ~2,960 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,769 (Ranked 153)  
+Progressed: 22,770 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 82 (0.36%) (Ranked 257)
 | 2024-01-24 | 22,722 | 82 |
 | 2024-01-25 | 22,746 | 82 |
 | 2024-01-26 | 22,758 | 82 |
-| 2024-01-27 | 22,769 | 82 |
+| 2024-01-27 | 22,770 | 82 |
 ## Awards
 Max (Amazing Characters): 143  (Ranked 343)  
 Sum: 693 (Ranked 314)  
