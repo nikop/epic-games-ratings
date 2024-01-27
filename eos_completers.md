@@ -36,7 +36,7 @@
 | 34 | [Remains](games/r/remains.md) | 12.70% |
 | 35 | [Seven Doors](games/s/seven_doors.md) | 12.50% |
 | 36 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.24% |
-| 37 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 37 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 38 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 11.76% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
@@ -50,7 +50,7 @@
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
 | 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.96% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.58% |
@@ -170,9 +170,9 @@
 | 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.19% |
 | 169 | [Late Shift](games/l/late_shift.md) | 1.18% |
 | 170 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.15% |
-| 170 | [Yars: Recharged](games/y/yars__recharged.md) | 1.15% |
-| 172 | [Adios](games/a/adios.md) | 1.13% |
-| 172 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
+| 171 | [Adios](games/a/adios.md) | 1.13% |
+| 171 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
+| 171 | [Yars: Recharged](games/y/yars__recharged.md) | 1.13% |
 | 174 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 175 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.09% |
 | 176 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
@@ -285,9 +285,9 @@
 | 283 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
 | 283 | [Them and Us](games/t/them_and_us.md) | 0.23% |
 | 285 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
-| 286 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.21% |
-| 286 | [Eternights](games/e/eternights.md) | 0.21% |
-| 286 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 285 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.22% |
+| 287 | [Eternights](games/e/eternights.md) | 0.21% |
+| 287 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 289 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.20% |
 | 289 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 289 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
