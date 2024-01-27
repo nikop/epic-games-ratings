@@ -21590,9 +21590,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 688
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -23948,8 +23948,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:58.7620814+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:10:32.2755205+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:57:46.0224+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:58.7630205+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:57:24.2210709+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:10:32.2765207+00:00"
 }

@@ -5,31 +5,31 @@ Rating: 4.22 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,374 |
-| The Outer Way | 28.00% | ~6,374 |
-| Desperate Times | 27.00% | ~6,146 |
-| Paper Jams | 25.00% | ~5,691 |
-| Get a Grip | 24.00% | ~5,463 |
-| Chew 'Em Up | 22.00% | ~5,008 |
-| Reforged | 21.00% | ~4,780 |
-| Float Like A Butterfly | 20.00% | ~4,553 |
-| If the SHU Fits... | 19.00% | ~4,325 |
+| Flesh Wound | 28.00% | ~6,375 |
+| The Outer Way | 28.00% | ~6,375 |
+| Desperate Times | 27.00% | ~6,148 |
+| Paper Jams | 25.00% | ~5,692 |
+| Get a Grip | 24.00% | ~5,465 |
+| Chew 'Em Up | 22.00% | ~5,009 |
+| Reforged | 21.00% | ~4,781 |
+| Float Like A Butterfly | 20.00% | ~4,554 |
+| If the SHU Fits... | 19.00% | ~4,326 |
 | Workplace Hazard | 18.00% | ~4,098 |
-| Without A Paddle | 16.00% | ~3,642 |
+| Without A Paddle | 16.00% | ~3,643 |
 | In the Pipe, Five by Five | 15.00% | ~3,415 |
-| Two Heads Are Better Than One | 14.00% | ~3,187 |
-| Crash Site | 14.00% | ~3,187 |
-| Power Up | 13.00% | ~2,959 |
+| Two Heads Are Better Than One | 14.00% | ~3,188 |
+| Crash Site | 14.00% | ~3,188 |
+| Power Up | 13.00% | ~2,960 |
 | Giving Back | 12.00% | ~2,732 |
 | Terminated | 12.00% | ~2,732 |
 | What Lies Beneath | 12.00% | ~2,732 |
 | Full Circle | 12.00% | ~2,732 |
-| You Need a Gun | 10.00% | ~2,276 |
+| You Need a Gun | 10.00% | ~2,277 |
 | I Do Belong Here | 9.00% | ~2,049 |
-| Keep Fighting | 8.00% | ~855 |
+| Keep Fighting | 8.00% | ~856 |
 | In Striking Distance | 6.00% | ~1,366 |
 | The Commonality | 6.00% | ~1,366 |
-| It's Time | 6.00% | ~641 |
+| It's Time | 6.00% | ~642 |
 | One Last Job | 3.00% | ~321 |
 | Armed to the Teeth | 2.00% | ~214 |
 | Mugshot | 2.00% | ~455 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,764 (Ranked 153)  
+Progressed: 22,769 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 82 (0.36%) (Ranked 257)
 | 2024-01-24 | 22,722 | 82 |
 | 2024-01-25 | 22,746 | 82 |
 | 2024-01-26 | 22,758 | 82 |
-| 2024-01-27 | 22,764 | 82 |
+| 2024-01-27 | 22,769 | 82 |
 ## Awards
 Max (Amazing Characters): 143  (Ranked 343)  
 Sum: 693 (Ranked 314)  

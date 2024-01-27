@@ -4,7 +4,7 @@
   "ProductSlug": "return-alive-0ffdd1",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 534,
+  "Ranking_EOS_NewPlayers": 533,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-03-06T02:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:04:04.6507775+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:03:44.399312+00:00",
   "LastUpdate_AppInfo": "2024-01-26T02:57:17.4202205+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:58:06.0359504+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:04:04.6507798+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:57:41.0238235+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:03:44.3993142+00:00"
 }

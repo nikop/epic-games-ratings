@@ -5,30 +5,30 @@ Rating: 4.75 (Ranked 152)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 33.00% | ~127,963 |
-| First Class Student | 29.00% | ~112,453 |
-| Troll with the Punches | 27.00% | ~104,697 |
-| A Keen Sense of Spell | 24.00% | ~93,064 |
+| The Sort Who Makes an Entrance | 33.00% | ~127,964 |
+| First Class Student | 29.00% | ~112,454 |
+| Troll with the Punches | 27.00% | ~104,698 |
+| A Keen Sense of Spell | 24.00% | ~93,065 |
 | A Talent for Spending | 20.00% | ~77,554 |
 | That's a Keeper | 20.00% | ~77,554 |
 | Loom for Improvement | 16.00% | ~62,043 |
-| Followed the Butterflies | 15.00% | ~58,165 |
+| Followed the Butterflies | 15.00% | ~58,166 |
 | The Defender of Dragons | 14.00% | ~54,288 |
 | Challenge Accepted | 14.00% | ~54,288 |
 | Coasting Along | 14.00% | ~54,288 |
 | The One Who Mastered Memories | 13.00% | ~50,410 |
 | The Hallowed Hero | 13.00% | ~50,410 |
-| Grappling with a Graphorn | 12.00% | ~46,532 |
-| The Hero of Hogwarts | 12.00% | ~46,532 |
-| The Spell Master | 11.00% | ~42,654 |
-| Rising From the Ashes | 11.00% | ~42,654 |
+| Grappling with a Graphorn | 12.00% | ~46,533 |
+| The Hero of Hogwarts | 12.00% | ~46,533 |
+| The Spell Master | 11.00% | ~42,655 |
+| Rising From the Ashes | 11.00% | ~42,655 |
 | Flight the Good Flight | 10.00% | ~38,777 |
 | The Avenging Gazelle | 9.00% | ~34,899 |
+| Beast Friends | 9.00% | ~34,899 |
 | A Sallow Grave | 9.00% | ~34,899 |
 | Raising Expectations | 9.00% | ~34,899 |
-| Beast Friends | 8.00% | ~31,021 |
-| The Root of the Problem | 8.00% | ~31,021 |
-| The Gryffindor in the Graveyard | 8.00% | ~31,021 |
+| The Root of the Problem | 8.00% | ~31,022 |
+| The Gryffindor in the Graveyard | 8.00% | ~31,022 |
 | The Seeker of Knowledge | 7.00% | ~27,144 |
 | The Toast of the Town | 7.00% | ~27,144 |
 | Third Time's a Charm | 7.00% | ~27,144 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 152)
 | The Nature of the Beast | 0.70% | ~2,714 |
 | Collector's Edition | 0.40% | ~1,551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,768 (Ranked 56)  
+Progressed: 387,771 (Ranked 56)  
 Completed: 598 (0.15%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 598 (0.15%) (Ranked 303)
 | 2024-01-24 | 387,280 | 588 |
 | 2024-01-25 | 387,478 | 593 |
 | 2024-01-26 | 387,695 | 598 |
-| 2024-01-27 | 387,768 | 598 |
+| 2024-01-27 | 387,771 | 598 |
 ## Awards
 Max (Character Customization): 32,634  (Ranked 16)  
-Sum: 67,492 (Ranked 24)  
+Sum: 67,507 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -347,8 +347,8 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 1,884 |
 | This game has Diverse Characters | 1,848 |
 | This game is Relaxing | 1,826 |
+| This game has Amazing Characters | 1,800 |
 | This game is Highly Recommended | 1,791 |
-| This game has Amazing Characters | 1,785 |
 | This game has Quickly Understood Controls | 1,735 |
 | This game has Beautiful Visuals | 1,570 |
 | This game has a Creative Community | 1,169 |
@@ -664,4 +664,4 @@ Diff (max vs sum): -8
 | 2024-01-24 | 4.75 | 32,437 | 66,757 |
 | 2024-01-25 | 4.75 | 32,540 | 67,068 |
 | 2024-01-26 | 4.75 | 32,634 | 67,353 |
-| 2024-01-27 | 4.75 | 32,634 | 67,492 |
+| 2024-01-27 | 4.75 | 32,634 | 67,507 |

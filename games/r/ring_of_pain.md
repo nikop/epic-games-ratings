@@ -68,6 +68,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Long Run | 0.50% | ~1,218 |
 | Who Needs Luck? | 0.50% | ~25 |
 | Achievement Hunter | 0.40% | ~974 |
+| Challenge Increases | 0.40% | ~974 |
 | New Game+ | 0.40% | ~974 |
 | Barbecue | 0.40% | ~974 |
 | Juggernaut | 0.40% | ~974 |
@@ -77,7 +78,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.40% | ~974 |
 | Obsessed | 0.40% | ~974 |
 | Precious | 0.40% | ~974 |
-| Challenge Increases | 0.30% | ~731 |
 | A Long Climb | 0.30% | ~731 |
 | Friend of Vermin | 0.30% | ~731 |
 | Grave Digger | 0.30% | ~731 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,567 (Ranked 75)  
+Progressed: 243,569 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,7 +427,7 @@ Completed: 309 (0.13%) (Ranked 310)
 | 2024-01-24 | 243,469 | 309 |
 | 2024-01-25 | 243,514 | 309 |
 | 2024-01-26 | 243,553 | 309 |
-| 2024-01-27 | 243,567 | 309 |
+| 2024-01-27 | 243,569 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,806 (Ranked 92)  

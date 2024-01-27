@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,792 |
+| A Brief Tour of the Realms | 5.00% | ~12,793 |
 | Beast Intentions | 2.00% | ~5,117 |
 | The Cursed Farmer | 2.00% | ~5,117 |
 | The Mad Wizard | 2.00% | ~5,117 |
-| Were-verpowered | 1.00% | ~2,558 |
-| The Ring of Regeneration | 1.00% | ~2,558 |
-| Are Ya Chicken? | 1.00% | ~2,558 |
+| Were-verpowered | 1.00% | ~2,559 |
+| The Ring of Regeneration | 1.00% | ~2,559 |
+| Are Ya Chicken? | 1.00% | ~2,559 |
 | Seeking Allies | 0.90% | ~2,303 |
 | Mad Cow Disease | 0.90% | ~2,303 |
 | Friendly Imps | 0.90% | ~2,303 |
@@ -47,10 +47,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.40% | ~1,023 |
 | Overdue Rendezvous | 0.40% | ~1,023 |
 | The Templar's Camp | 0.40% | ~1,023 |
-| Arcane Suppression | 0.40% | ~888 |
-| Welcome to the Vrocks | 0.40% | ~888 |
-| Misaligned in Sigil | 0.40% | ~888 |
-| Chaos Theory | 0.40% | ~888 |
+| Arcane Suppression | 0.40% | ~889 |
+| Welcome to the Vrocks | 0.40% | ~889 |
+| Misaligned in Sigil | 0.40% | ~889 |
+| Chaos Theory | 0.40% | ~889 |
 | Supply Run | 0.30% | ~768 |
 | Homecoming | 0.30% | ~768 |
 | The Lost Heir of Omu | 0.30% | ~768 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,846 (Ranked 71)  
-Completed: 2,655 (1.04%) (Ranked 179)  
+Progressed: 255,852 (Ranked 71)  
+Completed: 2,654 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -835,7 +835,7 @@ Completed: 2,655 (1.04%) (Ranked 179)
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
 | 2024-01-26 | 255,788 | 2,654 |
-| 2024-01-27 | 255,846 | 2,655 |
+| 2024-01-27 | 255,852 | 2,655 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
 Sum: 33,660 (Ranked 42)  

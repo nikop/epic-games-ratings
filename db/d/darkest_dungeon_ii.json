@@ -11328,9 +11328,9 @@
       "Count": 1116
     }
   ],
-  "EOS_Progressed": 133777,
+  "EOS_Progressed": 133782,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41693,6 +41693,11 @@
       "Time": "2024-01-27T07:10:50.086328+00:00",
       "NumProgressed": 133777,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T08:10:23.9421524+00:00",
+      "NumProgressed": 133782,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41712,7 +41717,7 @@
       "Name": "Serenity Now!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9364
+      "UsersEstimate": 9365
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41832,7 +41837,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9364
+      "UsersEstimate": 9365
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41864,7 +41869,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9364
+      "UsersEstimate": 9365
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41928,7 +41933,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9364
+      "UsersEstimate": 9365
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41944,7 +41949,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9364
+      "UsersEstimate": 9365
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -42240,7 +42245,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "combat_kill_collector",
@@ -42264,7 +42269,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -42280,7 +42285,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -42288,7 +42293,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -42304,7 +42309,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -42312,7 +42317,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -42320,7 +42325,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -42335,21 +42340,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133777,
+      "Progressed": 133782,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8646,
+      "Progressed": 8651,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-27T03:57:48.4116369+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:50.0863278+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:10:23.9421521+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:58:26.6172671+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:50.0865372+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:57:59.1077976+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:10:23.942372+00:00"
 }

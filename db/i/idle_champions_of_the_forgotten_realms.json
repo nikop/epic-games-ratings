@@ -9877,10 +9877,10 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255846,
-  "EOS_Completed": 2655,
-  "EOS_NewPlayers": 1010,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 255852,
+  "EOS_Completed": 2654,
+  "EOS_NewPlayers": 1012,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -41887,6 +41887,11 @@
       "Time": "2024-01-27T07:10:59.3898406+00:00",
       "NumProgressed": 255846,
       "NumCompleted": 2655
+    },
+    {
+      "Time": "2024-01-27T08:10:33.0430272+00:00",
+      "NumProgressed": 255852,
+      "NumCompleted": 2654
     }
   ],
   "TotalAchievements": 546,
@@ -41898,7 +41903,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12792
+      "UsersEstimate": 12793
     },
     {
       "ID": "objective_completed_10",
@@ -42762,7 +42767,7 @@
       "Name": "Were-verpowered",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "objective_completed_1203",
@@ -43578,7 +43583,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "objective_completed_35",
@@ -43762,7 +43767,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "objective_completed_40",
@@ -46170,7 +46175,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "objective_completed_1352",
@@ -46178,7 +46183,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "objective_completed_1557",
@@ -46194,7 +46199,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "objective_completed_1562",
@@ -46210,7 +46215,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "objective_completed_598",
@@ -46265,21 +46270,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222120,
+      "Progressed": 222126,
       "Completed": 4163
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255846,
-      "Completed": 2655
+      "Progressed": 255852,
+      "Completed": 2654
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-27T05:01:52.018677+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:59.3898403+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:10:33.0430268+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:00:47.4400693+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:59.3922362+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:00:00.8491565+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:10:33.0453425+00:00"
 }

@@ -8,9 +8,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 1.00% | ~10,594 |
 | Right Back At Ya | 1.00% | ~10,594 |
-| The Hermit | 0.90% | ~9,534 |
-| The Wheel of Fortune | 0.90% | ~9,534 |
-| True Soldier | 0.90% | ~9,534 |
+| The Hermit | 0.90% | ~9,535 |
+| The Wheel of Fortune | 0.90% | ~9,535 |
+| True Soldier | 0.90% | ~9,535 |
 | Christmas Tree Attack | 0.80% | ~8,475 |
 | Life of the Road | 0.80% | ~8,475 |
 | The High Priestess | 0.80% | ~8,475 |
@@ -43,6 +43,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.20% | ~2,119 |
 | The APB is Not Enough | 0.20% | ~376 |
 | Judgement Day | 0.20% | ~376 |
+| King of Swords | 0.20% | ~376 |
 | The Tower | 0.20% | ~376 |
 | City Lights | 0.10% | ~1,059 |
 | Autojock | 0.10% | ~1,059 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.10% | ~188 |
 | King of Cups | 0.10% | ~188 |
 | King of Pentacles | 0.10% | ~188 |
-| King of Swords | 0.10% | ~188 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,386 (Ranked 17)  
+Progressed: 1,059,410 (Ranked 17)  
 Completed: 3,169 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 3,169 (0.30%) (Ranked 267)
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
 | 2024-01-26 | 1,059,253 | 3,167 |
-| 2024-01-27 | 1,059,386 | 3,169 |
+| 2024-01-27 | 1,059,410 | 3,169 |
 ## Awards
 Max (Character Customization): 145,484  (Ranked 8)  
 Sum: 522,907 (Ranked 8)  

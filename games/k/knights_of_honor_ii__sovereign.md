@@ -1,22 +1,22 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.36 (Ranked 822)  
+Rating: 4.36 (Ranked 821)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 26.00% | ~64 |
-| Can’t Touch This | 24.00% | ~59 |
-| Help! Help! I’m being repressed | 24.00% | ~59 |
-| Path of Glory | 23.00% | ~56 |
+| Can’t Touch This | 25.00% | ~62 |
+| Help! Help! I’m being repressed | 25.00% | ~62 |
+| Path of Glory | 24.00% | ~59 |
 | Bring it on! | 19.00% | ~47 |
-| There is no Nobility in Poverty | 18.00% | ~44 |
-| Full House | 16.00% | ~39 |
-| They Got What They Deserved | 16.00% | ~39 |
+| There is no Nobility in Poverty | 19.00% | ~47 |
+| They Got What They Deserved | 17.00% | ~42 |
+| Full House | 15.00% | ~37 |
 | Playerxander the Great | 15.00% | ~37 |
 | The finest merchandise this side of river Jordan | 14.00% | ~34 |
-| Big Apple | 12.00% | ~29 |
-| Dinner Time | 10.00% | ~24 |
+| Big Apple | 12.00% | ~30 |
+| Dinner Time | 10.00% | ~25 |
 | All the King's Men | 9.00% | ~22 |
 | Cut-Me-Own-Throat | 8.00% | ~20 |
 | What we’ve got here is failure to communicate | 8.00% | ~20 |
@@ -28,6 +28,7 @@ Rating: 4.36 (Ranked 822)
 | ‘Tis but a scratch | 6.00% | ~15 |
 | Blessed Be His Name | 5.00% | ~12 |
 | Do you read Sutter Cane? | 5.00% | ~12 |
+| Greed is Good | 5.00% | ~12 |
 | On the third day at dawn, look east | 5.00% | ~12 |
 | Pillars of the Earth | 5.00% | ~12 |
 | Scientia potentia es | 5.00% | ~12 |
@@ -35,7 +36,6 @@ Rating: 4.36 (Ranked 822)
 | Call the Boys | 4.00% | ~10 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~10 |
 | Forth, Eorlingas! | 4.00% | ~10 |
-| Greed is Good | 4.00% | ~10 |
 | He made it out, but with an arrow in his back | 4.00% | ~10 |
 | His All-Holiness | 4.00% | ~10 |
 | His name is King | 4.00% | ~10 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 822)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 429)  
+Progressed: 246 (Ranked 428)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
 | 2024-01-26 | 236 | 0 |
-| 2024-01-27 | 245 | 0 |
+| 2024-01-27 | 246 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

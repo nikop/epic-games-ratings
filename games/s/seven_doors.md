@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Seven Doors | 53.00% | ~17 |
-| Kill the Dead Man | 44.00% | ~14 |
-| Diogenes Syndrome | 44.00% | ~14 |
-| No Fear of the Dark | 41.00% | ~13 |
+| Welcome to Seven Doors | 56.00% | ~18 |
+| Kill the Dead Man | 47.00% | ~15 |
+| Diogenes Syndrome | 47.00% | ~15 |
+| No Fear of the Dark | 44.00% | ~14 |
+| They’re Watching | 41.00% | ~13 |
+| Art Connoisseur | 41.00% | ~13 |
 | Egyptologist | 41.00% | ~13 |
-| They’re Watching | 38.00% | ~12 |
-| Art Connoisseur | 38.00% | ~12 |
+| Survivor | 38.00% | ~12 |
 | The Last Skull | 38.00% | ~12 |
-| Survivor | 34.00% | ~11 |
 | Master of Riddles | 31.00% | ~10 |
 | The Witch’s Haunt | 28.00% | ~9 |
 | A Cabin Boy with Potential | 25.00% | ~8 |

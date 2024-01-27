@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,297 |
+| Malpractice Assurance | 15.00% | ~1,298 |
 | Autodidact | 9.00% | ~12,040 |
-| Lost and Found | 9.00% | ~778 |
+| Lost and Found | 9.00% | ~779 |
 | This guy... again? | 8.00% | ~692 |
-| Serenity Now! | 7.00% | ~9,364 |
-| This Belongs in a Museum | 7.00% | ~9,364 |
-| Creep and Sleep | 7.00% | ~9,364 |
-| Overdue Notice | 7.00% | ~9,364 |
-| Escape from the Black Hole | 7.00% | ~9,364 |
-| Ploughshares to Swords | 7.00% | ~605 |
+| Serenity Now! | 7.00% | ~9,365 |
+| This Belongs in a Museum | 7.00% | ~9,365 |
+| Creep and Sleep | 7.00% | ~9,365 |
+| Overdue Notice | 7.00% | ~9,365 |
+| Escape from the Black Hole | 7.00% | ~9,365 |
+| Ploughshares to Swords | 7.00% | ~606 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,027 |
 | It Rings a Bell | 6.00% | ~8,027 |
 | Meat and Greet | 6.00% | ~8,027 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Harvest Festival | 5.00% | ~6,689 |
 | Whale | 5.00% | ~6,689 |
 | Nope | 5.00% | ~6,689 |
-| Friends 'Til the End | 5.00% | ~432 |
+| Friends 'Til the End | 5.00% | ~433 |
 | Resurrection | 4.00% | ~5,351 |
 | Unleash Hell | 4.00% | ~5,351 |
 | Funny Guy | 4.00% | ~5,351 |
@@ -66,9 +66,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 1.00% | ~1,338 |
 | Hat Trick | 1.00% | ~1,338 |
 | Triage | 1.00% | ~1,338 |
-| No Mercy | 1.00% | ~86 |
-| Et Tu, Riposte? | 1.00% | ~86 |
-| For Old Time' Sake | 1.00% | ~86 |
+| No Mercy | 1.00% | ~87 |
+| Et Tu, Riposte? | 1.00% | ~87 |
+| For Old Time' Sake | 1.00% | ~87 |
 | The World As It Was | 0.90% | ~1,204 |
 | A Life Well Lived | 0.80% | ~1,070 |
 | Bacon Bits | 0.70% | ~936 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,777 (Ranked 92)  
+Progressed: 133,782 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
 | 2024-01-26 | 133,757 | 5 |
-| 2024-01-27 | 133,777 | 5 |
+| 2024-01-27 | 133,782 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
 Sum: 21,893 (Ranked 60)  

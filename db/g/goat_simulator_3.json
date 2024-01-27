@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -6907,9 +6907,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 268889,
+  "EOS_Progressed": 268890,
   "EOS_Completed": 963,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -37962,6 +37962,11 @@
       "Time": "2024-01-27T07:10:46.5580305+00:00",
       "NumProgressed": 268889,
       "NumCompleted": 963
+    },
+    {
+      "Time": "2024-01-27T08:10:20.7982956+00:00",
+      "NumProgressed": 268890,
+      "NumCompleted": 963
     }
   ],
   "TotalAchievements": 39,
@@ -38037,7 +38042,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244689
+      "UsersEstimate": 244690
     },
     {
       "ID": "AchievementClownID",
@@ -38085,7 +38090,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 88733
+      "UsersEstimate": 88734
     },
     {
       "ID": "AchievementGoatID",
@@ -38101,7 +38106,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139822
+      "UsersEstimate": 139823
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -38117,7 +38122,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 40333
+      "UsersEstimate": 40334
     },
     {
       "ID": "AchievementInstinctID",
@@ -38133,7 +38138,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 118311
+      "UsersEstimate": 118312
     },
     {
       "ID": "AchievementIntroID",
@@ -38149,7 +38154,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 37644
+      "UsersEstimate": 37645
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -38205,7 +38210,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 196289
+      "UsersEstimate": 196290
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -38221,7 +38226,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 134444
+      "UsersEstimate": 134445
     },
     {
       "ID": "AchievementStreakingID",
@@ -38237,7 +38242,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 40333
+      "UsersEstimate": 40334
     },
     {
       "ID": "AchievementThroneID",
@@ -38245,7 +38250,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 145200
+      "UsersEstimate": 145201
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -38269,7 +38274,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 172089
+      "UsersEstimate": 172090
     },
     {
       "ID": "AchievementWhaleID",
@@ -38284,7 +38289,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268889,
+      "Progressed": 268890,
       "Completed": 963
     }
   ],
@@ -38292,8 +38297,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-27T01:39:06.3503396+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:46.5580302+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:10:20.798295+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:59:55.1836495+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:46.5581959+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:59:14.8273249+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:10:20.798472+00:00"
 }

@@ -727,7 +727,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474509,
+  "EOS_Progressed": 474510,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
@@ -29802,6 +29802,11 @@
       "Time": "2024-01-27T07:10:54.7117594+00:00",
       "NumProgressed": 474509,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-27T08:10:28.4255971+00:00",
+      "NumProgressed": 474510,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29901,7 +29906,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 313176
+      "UsersEstimate": 313177
     },
     {
       "ID": "achievement_story_landa",
@@ -29909,7 +29914,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -29917,7 +29922,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -29933,7 +29938,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118627
+      "UsersEstimate": 118628
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -30013,7 +30018,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -30293,7 +30298,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -30444,21 +30449,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18443,
+      "Progressed": 18444,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474509,
+      "Progressed": 474510,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-26T14:58:15.3907743+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:54.7117592+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:10:28.4255969+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:55.2971937+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:58:42.7496048+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:54.7119199+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:58:12.9076359+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:10:28.425811+00:00"
 }

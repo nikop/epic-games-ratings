@@ -16,7 +16,7 @@ Number of Ratings: 90  (23.09.2022)
 | Earthly Pleasures | 35.00% | ~167 |
 | Lie Back and Think of Albion | 28.00% | ~134 |
 | Upgreatest | 28.00% | ~134 |
-| Pimp My Raid | 26.00% | ~124 |
+| Pimp My Raid | 27.00% | ~129 |
 | Freshly Squeezed | 23.00% | ~110 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~105 |
 | Perfect Probulator | 18.00% | ~86 |

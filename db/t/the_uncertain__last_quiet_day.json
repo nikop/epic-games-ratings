@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2024-01-26T05:11:26.1076636+00:00",
       "NumProgressed": 655,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-27T08:10:20.1244924+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 32,
@@ -1260,7 +1265,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1292,7 +1297,7 @@
       "Name": "Goody",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HACKER",
@@ -1300,7 +1305,7 @@
       "Name": "Hacker",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "HANDS_UP",
@@ -1324,7 +1329,7 @@
       "Name": "He is just a child",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "HIPSTER",
@@ -1340,7 +1345,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "LUCKY_DOG",
@@ -1434,9 +1439,9 @@
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 138
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1468,14 +1473,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 20
     }
   ],
@@ -1483,8 +1488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:45.8904903+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:10:20.1244921+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.552059+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:02:51.8341119+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:45.8905082+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:02:41.8722508+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:10:20.1245136+00:00"
 }

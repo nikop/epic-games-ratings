@@ -4,7 +4,7 @@
   "ProductSlug": "nyan-heroes-dev-aacbbd",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 534,
+  "Ranking_EOS_NewPlayers": 533,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-24T23:57:00.3998241+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:59:04.6852171+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:03:49.0924431+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:58:31.897196+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:03:31.1393045+00:00"
 }

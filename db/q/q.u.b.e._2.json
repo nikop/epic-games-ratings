@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 731,
+  "Ranking_Rating": 732,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 128,
@@ -617,9 +617,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48438,
+  "EOS_Progressed": 48439,
   "EOS_Completed": 257,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -15597,6 +15597,11 @@
       "Time": "2024-01-27T05:10:38.1243258+00:00",
       "NumProgressed": 48438,
       "NumCompleted": 257
+    },
+    {
+      "Time": "2024-01-27T08:09:49.8103502+00:00",
+      "NumProgressed": 48439,
+      "NumCompleted": 257
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15801,7 +15806,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32938
+      "UsersEstimate": 32939
     },
     {
       "ID": "ACH_S4",
@@ -15809,7 +15814,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24219
+      "UsersEstimate": 24220
     },
     {
       "ID": "ACH_S5",
@@ -15825,7 +15830,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36328
+      "UsersEstimate": 36329
     },
     {
       "ID": "ACH_STATUE",
@@ -15833,22 +15838,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20828
+      "UsersEstimate": 20829
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48438,
+      "Progressed": 48439,
       "Completed": 257
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-25T19:00:45.1944783+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:12.7298418+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:09:49.8103499+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:57:37.7824325+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:12.7299063+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:57:16.9914618+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:09:49.8104486+00:00"
 }

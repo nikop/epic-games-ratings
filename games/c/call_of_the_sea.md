@@ -5,10 +5,10 @@ Rating: 4.40 (Ranked 776)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~113,194 |
-| 74 miles East of Otaheité | 56.00% | ~79,236 |
+| A Family Heirloom | 80.00% | ~113,195 |
+| 74 miles East of Otaheité | 56.00% | ~79,237 |
 | Interesting... | 42.00% | ~59,427 |
-| The Everhart Expedition | 40.00% | ~56,597 |
+| The Everhart Expedition | 40.00% | ~56,598 |
 | The Vanishing of the Lady Shannon | 31.00% | ~43,863 |
 | Seaside Serenade | 31.00% | ~43,863 |
 | Halfway there | 30.00% | ~42,448 |
@@ -16,10 +16,10 @@ Rating: 4.40 (Ranked 776)
 | Weekend at Walakea's | 28.00% | ~39,618 |
 | 506 East Hampden Avenue | 28.00% | ~39,618 |
 | Quite a Show | 27.00% | ~38,203 |
-| Dark Water Ride | 25.00% | ~35,373 |
-| Sunken | 25.00% | ~35,373 |
-| Deep Cut | 25.00% | ~35,373 |
-| FHALGOF'N' | 23.00% | ~32,543 |
+| Dark Water Ride | 25.00% | ~35,374 |
+| Sunken | 25.00% | ~35,374 |
+| Deep Cut | 25.00% | ~35,374 |
+| FHALGOF'N' | 23.00% | ~32,544 |
 | Marsh Cannery | 21.00% | ~29,714 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~25,469 |
 | The only thing I have now | 17.00% | ~24,054 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 776)
 | Soundcheck | 2.00% | ~2,830 |
 | Meta-reference | 1.00% | ~1,415 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,493 (Ranked 90)  
+Progressed: 141,494 (Ranked 90)  
 Completed: 1,284 (0.91%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 1,284 (0.91%) (Ranked 193)
 | 2024-01-24 | 141,174 | 1,281 |
 | 2024-01-25 | 141,317 | 1,282 |
 | 2024-01-26 | 141,448 | 1,283 |
-| 2024-01-27 | 141,493 | 1,284 |
+| 2024-01-27 | 141,494 | 1,284 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

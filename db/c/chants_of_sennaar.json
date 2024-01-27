@@ -151,7 +151,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3026,
+  "EOS_Progressed": 3027,
   "EOS_Completed": 241,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 19,
@@ -8206,6 +8206,11 @@
       "Time": "2024-01-27T06:06:48.4773518+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2024-01-27T08:05:19.0946684+00:00",
+      "NumProgressed": 3027,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 25,
@@ -8225,7 +8230,7 @@
       "Name": "In this together",
       "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "META_ALL_LINK",
@@ -8233,7 +8238,7 @@
       "Name": "Peace walker",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -8249,7 +8254,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "META_HALF_LINK",
@@ -8273,7 +8278,7 @@
       "Name": "Free at last",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "META_RESULT_1-4",
@@ -8337,7 +8342,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -8353,7 +8358,7 @@
       "Name": "Champollion",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -8377,7 +8382,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "PROGRESS_N2",
@@ -8393,7 +8398,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "PROGRESS_N4",
@@ -8416,7 +8421,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 3026,
+      "Progressed": 3027,
       "Completed": 241
     }
   ],
@@ -8424,8 +8429,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:05:52.6551779+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:05:19.094668+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:58:40.7824101+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:05:52.6552334+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:58:11.1224494+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:05:19.0947349+00:00"
 }

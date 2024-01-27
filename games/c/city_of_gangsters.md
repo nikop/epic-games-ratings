@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,353 |
+| Corner Clout | 46.00% | ~167,355 |
 | Copacetic Coordination | 16.00% | ~58,210 |
 | Fronting the Money | 15.00% | ~54,572 |
 | The Dawn of Automation | 14.00% | ~50,934 |
 | Extraordinary Logistics | 14.00% | ~50,934 |
-| Dirty Money | 13.00% | ~47,295 |
-| Family First | 13.00% | ~47,295 |
-| Cleaning House | 12.00% | ~43,657 |
-| Room in the Back | 12.00% | ~43,657 |
-| Beating the Heat | 11.00% | ~40,019 |
-| Booze Baron | 11.00% | ~40,019 |
-| Friends on the Force | 10.00% | ~36,381 |
-| Neighborhood Watch | 10.00% | ~36,381 |
+| Dirty Money | 13.00% | ~47,296 |
+| Family First | 13.00% | ~47,296 |
+| Cleaning House | 12.00% | ~43,658 |
+| Room in the Back | 12.00% | ~43,658 |
+| Beating the Heat | 11.00% | ~40,020 |
+| Booze Baron | 11.00% | ~40,020 |
+| Friends on the Force | 10.00% | ~36,382 |
+| Neighborhood Watch | 10.00% | ~36,382 |
 | Core Corps | 8.00% | ~29,105 |
 | Sizeable Stash | 8.00% | ~29,105 |
 | Street Fighter | 7.00% | ~25,467 |
@@ -36,12 +36,12 @@ Rating: 4.28 (Ranked 905)
 | Opportunity Knocked | 5.00% | ~18,191 |
 | City of Big Shoulders | 5.00% | ~18,191 |
 | Mission Mastery | 5.00% | ~18,191 |
-| Considerable Clams | 4.00% | ~14,552 |
-| Gin Joint | 4.00% | ~14,552 |
-| An Affront to the Enemy | 4.00% | ~14,552 |
-| Friends from Back Home | 4.00% | ~14,552 |
-| Bees Knees Bootlegger | 4.00% | ~14,552 |
-| Half Century Mark | 4.00% | ~14,552 |
+| Considerable Clams | 4.00% | ~14,553 |
+| Gin Joint | 4.00% | ~14,553 |
+| An Affront to the Enemy | 4.00% | ~14,553 |
+| Friends from Back Home | 4.00% | ~14,553 |
+| Bees Knees Bootlegger | 4.00% | ~14,553 |
+| Half Century Mark | 4.00% | ~14,553 |
 | Corner Opportunities | 3.00% | ~10,914 |
 | 2122 North Clark Street | 3.00% | ~10,914 |
 | Copious Cabbage | 3.00% | ~10,914 |
@@ -62,8 +62,8 @@ Rating: 4.28 (Ranked 905)
 | Determined Deliveries | 1.00% | ~3,638 |
 | Stepping It Up | 1.00% | ~3,638 |
 | Crossing Over | 0.90% | ~3,274 |
-| Boots in the Ground | 0.80% | ~2,910 |
-| Getting Fancy | 0.80% | ~2,910 |
+| Boots in the Ground | 0.80% | ~2,911 |
+| Getting Fancy | 0.80% | ~2,911 |
 | Still Dreaming | 0.50% | ~1,819 |
 | Working on the Railroad | 0.50% | ~1,819 |
 | Social Butterfly | 0.50% | ~1,819 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 905)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,811 (Ranked 58)  
+Progressed: 363,815 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 7 (0.00%) (Ranked 414)
 | 2024-01-24 | 363,529 | 7 |
 | 2024-01-25 | 363,653 | 7 |
 | 2024-01-26 | 363,784 | 7 |
-| 2024-01-27 | 363,811 | 7 |
+| 2024-01-27 | 363,815 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 446)  
 Sum: 276 (Ranked 397)  

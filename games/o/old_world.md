@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 4.00% | ~688 |
 | Good | 4.00% | ~688 |
 | Intrepid | 4.00% | ~688 |
+| Learned | 4.00% | ~688 |
 | Mason | 4.00% | ~688 |
 | Noble | 4.00% | ~688 |
 | Strong | 4.00% | ~688 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 3.00% | ~516 |
 | Just | 3.00% | ~516 |
 | Keystone | 3.00% | ~516 |
-| Learned | 3.00% | ~516 |
 | Magnificent | 3.00% | ~516 |
 | Pioneer | 3.00% | ~516 |
 | Warrior | 3.00% | ~516 |

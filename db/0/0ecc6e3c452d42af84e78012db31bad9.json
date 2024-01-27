@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5158,
+  "EOS_Progressed": 5159,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -13925,6 +13925,11 @@
       "Time": "2024-01-27T04:06:01.2269535+00:00",
       "NumProgressed": 5158,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-27T08:06:12.6119645+00:00",
+      "NumProgressed": 5159,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -14032,7 +14037,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "ach_magic_wand",
@@ -14040,7 +14045,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "ach_no_boosters",
@@ -14056,14 +14061,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5158,
+      "Progressed": 5159,
       "Completed": 44
     }
   ],
@@ -14071,8 +14076,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:06:53.0401286+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:06:12.6119642+00:00",
   "LastUpdate_AppInfo": "2024-01-27T02:10:37.1435113+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:57:43.7914555+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:06:53.0401884+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:57:22.328146+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:06:12.6120256+00:00"
 }

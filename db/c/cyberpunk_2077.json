@@ -19196,9 +19196,9 @@
       "Count": 20360
     }
   ],
-  "EOS_Progressed": 1059386,
+  "EOS_Progressed": 1059410,
   "EOS_Completed": 3169,
-  "EOS_NewPlayers": 3973,
+  "EOS_NewPlayers": 3969,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51516,6 +51516,11 @@
       "Time": "2024-01-27T07:09:42.552383+00:00",
       "NumProgressed": 1059386,
       "NumCompleted": 3169
+    },
+    {
+      "Time": "2024-01-27T08:09:23.1750694+00:00",
+      "NumProgressed": 1059410,
+      "NumCompleted": 3169
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51752,7 +51757,7 @@
       "Name": "The Hermit",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9534
+      "UsersEstimate": 9535
     },
     {
       "ID": "TheHightPriestess",
@@ -51792,7 +51797,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9534
+      "UsersEstimate": 9535
     },
     {
       "ID": "TheWorld",
@@ -51824,7 +51829,7 @@
       "Name": "True Soldier",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 9534
+      "UsersEstimate": 9535
     },
     {
       "ID": "TrueWarrior",
@@ -52022,9 +52027,9 @@
       "ID": "KingOfTheSwords",
       "SetID": "23nboa5",
       "Name": "King of Swords",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 188
+      "UsersEstimate": 376
     },
     {
       "ID": "KingOfTheWands",
@@ -52063,21 +52068,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059386,
+      "Progressed": 1059410,
       "Completed": 3169
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 188009,
-      "Completed": 10706
+      "Progressed": 188033,
+      "Completed": 10707
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-27T07:03:33.7711742+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:09:42.5523829+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:09:23.1750691+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:03:33.7711746+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:09:42.5525298+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:03:16.888031+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:09:23.1752357+00:00"
 }

@@ -14185,10 +14185,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 67492,
       "NumberOfAwardsMax": 32634
+    },
+    {
+      "Time": "2024-01-27T08:02:42.6954274+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 67507,
+      "NumberOfAwardsMax": 32634
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 67492,
+  "NumberOfAwards": 67507,
   "NumberOfAwardsMax": 32634,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14214,7 +14220,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1785
+      "Count": 1800
     },
     {
       "Text": "This game is Great for Beginners",
@@ -14265,9 +14271,9 @@
       "Count": 1169
     }
   ],
-  "EOS_Progressed": 387768,
+  "EOS_Progressed": 387771,
   "EOS_Completed": 598,
-  "EOS_NewPlayers": 1853,
+  "EOS_NewPlayers": 1842,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -44955,6 +44961,11 @@
       "Time": "2024-01-27T07:10:01.8054865+00:00",
       "NumProgressed": 387768,
       "NumCompleted": 598
+    },
+    {
+      "Time": "2024-01-27T08:09:40.325731+00:00",
+      "NumProgressed": 387771,
+      "NumCompleted": 598
     }
   ],
   "TotalAchievements": 45,
@@ -44966,7 +44977,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 127963
+      "UsersEstimate": 127964
     },
     {
       "ID": "PFA_10",
@@ -44974,7 +44985,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 46532
+      "UsersEstimate": 46533
     },
     {
       "ID": "PFA_11",
@@ -44998,7 +45009,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 46532
+      "UsersEstimate": 46533
     },
     {
       "ID": "PFA_14",
@@ -45028,9 +45039,9 @@
       "ID": "PFA_17",
       "SetID": "1hf4dep",
       "Name": "Beast Friends",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 31021
+      "UsersEstimate": 34899
     },
     {
       "ID": "PFA_18",
@@ -45086,7 +45097,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 93064
+      "UsersEstimate": 93065
     },
     {
       "ID": "PFA_24",
@@ -45102,7 +45113,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31021
+      "UsersEstimate": 31022
     },
     {
       "ID": "PFA_26",
@@ -45190,7 +45201,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 58165
+      "UsersEstimate": 58166
     },
     {
       "ID": "PFA_36",
@@ -45230,7 +45241,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31021
+      "UsersEstimate": 31022
     },
     {
       "ID": "PFA_40",
@@ -45270,7 +45281,7 @@
       "Name": "The Spell Master",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 42654
+      "UsersEstimate": 42655
     },
     {
       "ID": "PFA_45",
@@ -45294,7 +45305,7 @@
       "Name": "First Class Student",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 112453
+      "UsersEstimate": 112454
     },
     {
       "ID": "PFA_7",
@@ -45302,7 +45313,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 104697
+      "UsersEstimate": 104698
     },
     {
       "ID": "PFA_8",
@@ -45318,23 +45329,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 42654
+      "UsersEstimate": 42655
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 387768,
+      "Progressed": 387771,
       "Completed": 598
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-01-27T06:02:54.7964743+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:01.8054863+00:00",
+  "LastChanged": "2024-01-27T08:02:42.6954272+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:09:40.3257306+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.2606186+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:02:52.8596512+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:01.8056569+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:02:42.6954277+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:09:40.3259443+00:00"
 }

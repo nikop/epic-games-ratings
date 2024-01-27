@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,689 |
+| I'm not dead yet | 38.00% | ~13,690 |
 | Overkill | 33.00% | ~11,888 |
-| Vaccine Incoming | 31.00% | ~11,167 |
-| A normal day in Gloomhaven | 28.00% | ~10,086 |
+| Vaccine Incoming | 31.00% | ~11,168 |
+| A normal day in Gloomhaven | 28.00% | ~10,087 |
 | Spread the plague | 26.00% | ~9,366 |
 | Get over here! | 24.00% | ~8,646 |
-| Just when I thought I was out... | 19.00% | ~6,844 |
+| Just when I thought I was out... | 19.00% | ~6,845 |
 | Mine... All Mine... | 16.00% | ~5,764 |
-| Precious! | 15.00% | ~5,403 |
-| Grizzled veteran | 14.00% | ~5,043 |
-| Anatomy Lesson | 14.00% | ~5,043 |
+| Precious! | 15.00% | ~5,404 |
+| Grizzled veteran | 14.00% | ~5,044 |
+| Anatomy Lesson | 14.00% | ~5,044 |
 | Who's the Boss? | 13.00% | ~4,683 |
 | You activated my trap card! | 12.00% | ~4,323 |
 | Obstacle race | 12.00% | ~4,323 |
@@ -28,8 +28,8 @@ Number of Ratings: 68  (23.09.2022)
 | Pain is your friend | 7.00% | ~2,522 |
 | Black death | 7.00% | ~2,522 |
 | Play it again, Sam | 7.00% | ~2,522 |
-| Caught off guard | 6.00% | ~2,161 |
-| Quad damage | 6.00% | ~2,161 |
+| Caught off guard | 6.00% | ~2,162 |
+| Quad damage | 6.00% | ~2,162 |
 | Power Up! | 5.00% | ~1,801 |
 | Merchant of doom | 5.00% | ~1,801 |
 | Now you see me... | 5.00% | ~1,801 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~36 |
 | Murder Death Kill | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,023 (Ranked 140)  
+Progressed: 36,025 (Ranked 140)  
 Completed: 2 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2 (0.01%) (Ranked 388)
 | 2024-01-24 | 35,647 | 1 |
 | 2024-01-25 | 35,801 | 2 |
 | 2024-01-26 | 35,968 | 2 |
-| 2024-01-27 | 36,023 | 2 |
+| 2024-01-27 | 36,025 | 2 |
 ## Awards
 Max (Character Customization): 3,627  (Ranked 96)  
 Sum: 8,505 (Ranked 112)  

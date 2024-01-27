@@ -5,24 +5,24 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,828 |
+| Last Night...Did We... | 89.00% | ~17,020 |
 | I Challenge You To Save More Money! | 81.00% | ~15,490 |
-| I Love How Tough You Are | 66.00% | ~12,621 |
+| I Love How Tough You Are | 66.00% | ~12,622 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,283 |
-| What I Want Is You | 54.00% | ~10,326 |
+| What I Want Is You | 54.00% | ~10,327 |
 | To Be Or Not To Be | 51.00% | ~9,753 |
-| Are You Alright? | 48.00% | ~9,179 |
+| Are You Alright? | 48.00% | ~9,180 |
 | Love Actually | 42.00% | ~8,032 |
 | Drama King | 37.00% | ~7,076 |
 | Go Clean up In Your Own Way | 34.00% | ~6,502 |
 | You're Really Something Else | 33.00% | ~6,311 |
-| Drama CP: Reel to Real | 32.00% | ~6,119 |
+| Drama CP: Reel to Real | 32.00% | ~6,120 |
 | FIRST LOVE | 31.00% | ~5,928 |
 | Worthless Speech | 31.00% | ~5,928 |
 | Happy Family | 30.00% | ~5,737 |
 | Absolutely Elegant | 29.00% | ~5,546 |
 | ONE PUNCH | 29.00% | ~5,546 |
-| Still Single | 28.00% | ~5,354 |
+| Still Single | 28.00% | ~5,355 |
 | Days Of Innocence | 27.00% | ~5,163 |
 | David | 26.00% | ~4,972 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,781 |
@@ -32,7 +32,7 @@ Rating: 4.69 (Ranked 242)
 | That's So You | 22.00% | ~4,207 |
 | SALUTE | 22.00% | ~4,207 |
 | Let Me Be Your Toy Boy | 21.00% | ~4,016 |
-| Off We Sail Tonight | 15.00% | ~2,868 |
+| Off We Sail Tonight | 15.00% | ~2,869 |
 | Love You Three Thousand | 14.00% | ~2,677 |
 | Can You Do This Or Not? | 14.00% | ~2,677 |
 | Doesn't Matter I'll Handle It | 12.00% | ~2,295 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 242)
 | Tall; Grande; Venti | 2.00% | ~382 |
 | Limerence | 2.00% | ~382 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,123 (Ranked 163)  
+Progressed: 19,124 (Ranked 163)  
 Completed: 345 (1.80%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 345 (1.80%) (Ranked 149)
 | 2024-01-24 | 19,035 | 341 |
 | 2024-01-25 | 19,076 | 343 |
 | 2024-01-26 | 19,114 | 344 |
-| 2024-01-27 | 19,123 | 345 |
+| 2024-01-27 | 19,124 | 345 |
 ## Awards
 Max (Impact the Story): 42  (Ranked 487)  
 Sum: 42 (Ranked 530)  

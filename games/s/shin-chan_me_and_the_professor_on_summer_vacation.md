@@ -11,10 +11,10 @@
 | River Cleaner | 19.00% | ~8 |
 | Masu-ter Angler | 16.00% | ~7 |
 | Handyman Extraordinaire | 16.00% | ~7 |
+| Seven Days of Endless Adventure - Déjà Vu | 14.00% | ~6 |
 | Just Hoverin' Along | 14.00% | ~6 |
 | What's That Smell? | 14.00% | ~6 |
 | It's Alive! | 14.00% | ~6 |
-| Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~5 |
 | A New Time | 9.00% | ~4 |
 | My Fair Ladybug | 9.00% | ~4 |
 | Farm Life! | 9.00% | ~4 |
@@ -32,13 +32,13 @@
 | Cicada Connoisseur | 5.00% | ~2 |
 | Biwa Be Mine | 5.00% | ~2 |
 | Ice Fishing | 5.00% | ~2 |
+| Veggie Virtuoso | 5.00% | ~2 |
 | T-Rex Wrangler | 5.00% | ~2 |
 | Gumdum Robot, I Choose You! | 5.00% | ~2 |
 | Bee Professor | 2.00% | ~1 |
 | Grasshopper Guru | 2.00% | ~1 |
 | Butterfly Maestro | 2.00% | ~1 |
 | Insect Aficionado | 2.00% | ~1 |
-| Veggie Virtuoso | 2.00% | ~1 |
 | Did Someone Order Oyakodon? | 2.00% | ~1 |
 | Did Someone Order Pork Curry? | 2.00% | ~1 |
 | Brachio Battler | 2.00% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3032,
+  "EOS_Progressed": 3034,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.86,
   "EosHistory": [
@@ -5451,6 +5451,11 @@
       "Time": "2024-01-26T18:08:55.6225881+00:00",
       "NumProgressed": 3032,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2024-01-27T08:08:53.1758601+00:00",
+      "NumProgressed": 3034,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 12,
@@ -5478,7 +5483,7 @@
       "Name": "003",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "004",
@@ -5494,7 +5499,7 @@
       "Name": "005",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "006",
@@ -5557,7 +5562,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 3032,
+      "Progressed": 3034,
       "Completed": 208
     }
   ],
@@ -5565,8 +5570,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:09:08.6963299+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:08:53.1758597+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.5579139+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:59:16.8210726+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:09:08.6963638+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:58:42.2964622+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:08:53.1758911+00:00"
 }

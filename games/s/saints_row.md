@@ -6,62 +6,62 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 73.00% | ~638,784 |
-| To The Nines | 47.00% | ~411,272 |
-| Optimized | 29.00% | ~253,763 |
-| Wet Work | 27.00% | ~236,262 |
-| Performance Review | 25.00% | ~218,762 |
-| Food for Thought | 24.00% | ~210,011 |
-| The Side Job | 22.00% | ~192,510 |
-| Making a Name | 22.00% | ~192,510 |
-| Tune Up | 20.00% | ~175,009 |
-| Landlord | 19.00% | ~166,259 |
-| Wrecking Ball | 16.00% | ~140,007 |
-| Finders Keepers | 12.00% | ~105,006 |
-| A Young Empire | 12.00% | ~105,006 |
-| Work Ethic | 9.00% | ~78,754 |
-| Picking Fights | 9.00% | ~78,754 |
-| Power Players | 8.00% | ~70,004 |
-| Quality Time | 7.00% | ~61,253 |
-| Hijacked | 7.00% | ~61,253 |
-| Showdown | 7.00% | ~61,253 |
-| Et tu? | 7.00% | ~61,253 |
-| Took It to The Limit | 7.00% | ~61,253 |
-| Kitted Out | 5.00% | ~43,752 |
-| The Spins | 4.00% | ~35,002 |
-| Masters of Santo Ileso | 4.00% | ~35,002 |
-| The Mechanic | 4.00% | ~35,002 |
-| Prankster | 4.00% | ~35,002 |
-| Closet Space | 3.00% | ~26,251 |
-| We could go home, or… | 2.00% | ~17,501 |
-| The Professional | 2.00% | ~17,501 |
-| Challenge Accepted | 2.00% | ~17,501 |
-| Chaos Tamer | 2.00% | ~17,501 |
-| A Golden Age | 2.00% | ~17,501 |
-| Free Refills | 2.00% | ~17,501 |
-| Smooth Moves | 2.00% | ~17,501 |
-| Shopping Spree | 1.00% | ~8,750 |
-| Always Be Hustling | 1.00% | ~8,750 |
-| Untouchable | 1.00% | ~8,750 |
-| Neighborly | 1.00% | ~8,750 |
-| Tourist | 1.00% | ~8,750 |
-| Producer Credit | 1.00% | ~8,467 |
-| Bonus Round | 0.90% | ~7,875 |
-| Face Off | 0.90% | ~7,620 |
-| Hazardous Heist | 0.80% | ~6,773 |
-| Community Outreach | 0.70% | ~6,125 |
-| It's a Bird! | 0.40% | ~3,500 |
-| Jack of All Trades | 0.30% | ~2,625 |
-| The Collector | 0.30% | ~2,625 |
-| All Mine | 0.30% | ~2,625 |
+| First F#@!ing Day | 73.00% | ~638,905 |
+| To The Nines | 47.00% | ~411,350 |
+| Optimized | 29.00% | ~253,812 |
+| Wet Work | 27.00% | ~236,308 |
+| Performance Review | 25.00% | ~218,803 |
+| Food for Thought | 24.00% | ~210,051 |
+| The Side Job | 22.00% | ~192,547 |
+| Making a Name | 22.00% | ~192,547 |
+| Tune Up | 20.00% | ~175,043 |
+| Landlord | 19.00% | ~166,290 |
+| Wrecking Ball | 16.00% | ~140,034 |
+| Finders Keepers | 12.00% | ~105,026 |
+| A Young Empire | 12.00% | ~105,026 |
+| Work Ethic | 9.00% | ~78,769 |
+| Picking Fights | 9.00% | ~78,769 |
+| Power Players | 8.00% | ~70,017 |
+| Quality Time | 7.00% | ~61,265 |
+| Hijacked | 7.00% | ~61,265 |
+| Showdown | 7.00% | ~61,265 |
+| Et tu? | 7.00% | ~61,265 |
+| Took It to The Limit | 7.00% | ~61,265 |
+| Kitted Out | 5.00% | ~43,761 |
+| The Spins | 4.00% | ~35,009 |
+| Masters of Santo Ileso | 4.00% | ~35,009 |
+| The Mechanic | 4.00% | ~35,009 |
+| Prankster | 4.00% | ~35,009 |
+| Closet Space | 3.00% | ~26,256 |
+| We could go home, or… | 2.00% | ~17,504 |
+| The Professional | 2.00% | ~17,504 |
+| Challenge Accepted | 2.00% | ~17,504 |
+| Chaos Tamer | 2.00% | ~17,504 |
+| A Golden Age | 2.00% | ~17,504 |
+| Free Refills | 2.00% | ~17,504 |
+| Smooth Moves | 2.00% | ~17,504 |
+| Shopping Spree | 1.00% | ~8,752 |
+| Always Be Hustling | 1.00% | ~8,752 |
+| Untouchable | 1.00% | ~8,752 |
+| Neighborly | 1.00% | ~8,752 |
+| Tourist | 1.00% | ~8,752 |
+| Producer Credit | 1.00% | ~8,468 |
+| Bonus Round | 0.90% | ~7,877 |
+| Face Off | 0.90% | ~7,622 |
+| Hazardous Heist | 0.80% | ~6,775 |
+| Community Outreach | 0.70% | ~6,126 |
+| It's a Bird! | 0.40% | ~3,501 |
+| Jack of All Trades | 0.30% | ~2,626 |
+| The Collector | 0.30% | ~2,626 |
+| All Mine | 0.30% | ~2,626 |
 | Statement Pieces | 0.20% | ~1,750 |
 | Armor Piercing | 0.20% | ~1,750 |
 | Heard You Like Wheels | 0.20% | ~1,750 |
 | A Car Named Simone | 0.10% | ~875 |
 | Fiesta Time | 0.10% | ~875 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,046 (Ranked 20)  
-Completed: 120 (0.01%) (Ranked 388)  
+Progressed: 875,213 (Ranked 20)  
+Completed: 121 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,10 +342,10 @@ Completed: 120 (0.01%) (Ranked 388)
 | 2024-01-24 | 866,902 | 111 |
 | 2024-01-25 | 870,349 | 117 |
 | 2024-01-26 | 873,997 | 120 |
-| 2024-01-27 | 875,046 | 120 |
+| 2024-01-27 | 875,213 | 121 |
 ## Awards
 Max (Extremely Fun): 1,150  (Ranked 153)  
-Sum: 10,184 (Ranked 97)  
+Sum: 10,186 (Ranked 97)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): 56
 | This game has Quickly Understood Controls | 1,100 |
 | This game is Highly Recommended | 1,079 |
 | This game has Diverse Characters | 1,076 |
-| This game has Amazing Characters | 1,066 |
+| This game has Amazing Characters | 1,068 |
 | This game has Amazing Storytelling | 1,041 |
 | This game is Relaxing | 1,036 |
 | This game has Playful Visuals | 876 |
@@ -638,4 +638,4 @@ Diff (max vs sum): 56
 | 2024-01-24 | 3.87 | - | 1,149 | 10,145 |
 | 2024-01-25 | 3.87 | - | 1,150 | 10,155 |
 | 2024-01-26 | 3.87 | - | 1,150 | 10,175 |
-| 2024-01-27 | 3.87 | - | 1,150 | 10,184 |
+| 2024-01-27 | 3.87 | - | 1,150 | 10,186 |

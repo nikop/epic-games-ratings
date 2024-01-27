@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141493,
+  "EOS_Progressed": 141494,
   "EOS_Completed": 1284,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -32610,6 +32610,11 @@
       "Time": "2024-01-27T07:05:05.6633952+00:00",
       "NumProgressed": 141493,
       "NumCompleted": 1284
+    },
+    {
+      "Time": "2024-01-27T08:04:37.6966022+00:00",
+      "NumProgressed": 141494,
+      "NumCompleted": 1284
     }
   ],
   "TotalAchievements": 34,
@@ -32677,7 +32682,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 113194
+      "UsersEstimate": 113195
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -32693,7 +32698,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 79236
+      "UsersEstimate": 79237
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -32709,7 +32714,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 56597
+      "UsersEstimate": 56598
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -32829,7 +32834,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 35373
+      "UsersEstimate": 35374
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -32837,7 +32842,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 35373
+      "UsersEstimate": 35374
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -32869,7 +32874,7 @@
       "Name": "Deep Cut",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 35373
+      "UsersEstimate": 35374
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -32877,7 +32882,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 32543
+      "UsersEstimate": 32544
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -32892,7 +32897,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 141493,
+      "Progressed": 141494,
       "Completed": 1284
     }
   ],
@@ -32900,8 +32905,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:05:05.6633951+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:04:37.6966019+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.332386+00:00",
   "LastUpdate_Ratings": "2024-01-27T07:00:55.8035365+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:05:05.6635442+00:00"
+  "LastUpdate_Achievements": "2024-01-27T08:04:37.6967718+00:00"
 }

@@ -349,9 +349,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19123,
+  "EOS_Progressed": 19124,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -10964,6 +10964,11 @@
       "Time": "2024-01-27T07:10:31.5123044+00:00",
       "NumProgressed": 19123,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-27T08:10:06.3540203+00:00",
+      "NumProgressed": 19124,
+      "NumCompleted": 345
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10974,9 +10979,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "7opfcp",
       "Name": "Last Night...Did We...",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 16828
+      "UsersEstimate": 17020
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -11008,7 +11013,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -11072,7 +11077,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12621
+      "UsersEstimate": 12622
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -11128,7 +11133,7 @@
       "Name": "Still Single",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5354
+      "UsersEstimate": 5355
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -11184,7 +11189,7 @@
       "Name": "What I Want Is You",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 10326
+      "UsersEstimate": 10327
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -11232,7 +11237,7 @@
       "Name": "Are You Alright?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 9179
+      "UsersEstimate": 9180
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -11248,7 +11253,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6119
+      "UsersEstimate": 6120
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -11311,7 +11316,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 19123,
+      "Progressed": 19124,
       "Completed": 345
     }
   ],
@@ -11319,8 +11324,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-23T08:57:32.6452149+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:31.5123042+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:10:06.35402+00:00",
   "LastUpdate_AppInfo": "2024-01-27T04:57:19.2362058+00:00",
-  "LastUpdate_Ratings": "2024-01-27T06:59:46.6609362+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:31.5123792+00:00"
+  "LastUpdate_Ratings": "2024-01-27T07:59:07.5968647+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:10:06.3540782+00:00"
 }

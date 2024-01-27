@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -4582,6 +4582,11 @@
       "Time": "2024-01-26T22:09:53.4139263+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T08:09:57.8960595+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4898,7 +4903,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "TrojanHorse",
@@ -4922,7 +4927,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "WielderLevel2",
@@ -5025,15 +5030,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-27T07:10:21.9135425+00:00",
+  "LastChanged_Achievements": "2024-01-27T08:09:57.8960592+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-27T07:02:57.5210901+00:00",
-  "LastUpdate_Achievements": "2024-01-27T07:10:21.9135851+00:00"
+  "LastUpdate_Ratings": "2024-01-27T08:02:46.6159685+00:00",
+  "LastUpdate_Achievements": "2024-01-27T08:09:57.8961049+00:00"
 }
