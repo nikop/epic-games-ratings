@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7839,
+  "EOS_Progressed": 7840,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -7203,6 +7203,11 @@
       "Time": "2024-01-26T20:03:30.6553015+00:00",
       "NumProgressed": 7839,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-27T05:05:05.4149408+00:00",
+      "NumProgressed": 7840,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7318,7 +7323,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -7348,9 +7353,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3136
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -7382,7 +7387,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -7422,22 +7427,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7839,
+      "Progressed": 7840,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:03:44.230417+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:05:05.4149405+00:00",
   "LastUpdate_AppInfo": "2024-01-21T02:57:10.9974251+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:03:12.8922099+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:03:44.2304816+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:04:17.9320135+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:05:05.4149926+00:00"
 }

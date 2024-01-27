@@ -2426,7 +2426,7 @@
   ],
   "EOS_Progressed": 896,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": -14,
+  "EOS_NewPlayers": -16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11878,9 +11878,9 @@
       "ID": "P_BEAUTIFYSANDROCK",
       "SetID": "80dcan0",
       "Name": "Finishing Touches",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 564
     },
     {
       "ID": "P_BRIDGE",
@@ -11998,9 +11998,9 @@
       "ID": "P_WATERPIPELINE",
       "SetID": "80dcan0",
       "Name": "Lifeline Pipeline",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 663
     },
     {
       "ID": "P_WATERTOWER",
@@ -12190,9 +12190,9 @@
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 735
     },
     {
       "ID": "X_KICK",
@@ -12222,8 +12222,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-26T07:01:41.4474516+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:17.9748471+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:10:17.9212572+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:25.5009332+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:57:02.8193467+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:17.9749184+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:57:39.5939296+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:10:17.9213362+00:00"
 }

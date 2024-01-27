@@ -2775,17 +2775,17 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2895,9 +2895,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 292
+      "UsersEstimate": 300
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -3128,8 +3128,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-23T09:01:35.3083126+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:40.0059697+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:10:47.6206285+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.101279+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:58:15.8712734+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:40.0060179+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:59:27.5846216+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:10:47.620665+00:00"
 }

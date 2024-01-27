@@ -2,7 +2,7 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 554,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 362,
@@ -2186,9 +2186,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2258,9 +2258,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2298,9 +2298,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:37.7670405+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:10:44.4726455+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:59:52.760577+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:37.7670708+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:01:51.8522612+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:10:44.4726826+00:00"
 }

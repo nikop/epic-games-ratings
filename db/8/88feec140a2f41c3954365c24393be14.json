@@ -2,7 +2,7 @@
   "ID": "88feec140a2f41c3954365c24393be14",
   "Name": "We Were Here Expeditions: The FriendShip",
   "ProductSlug": "we-were-here-expeditions-the-friendship-1e8fb2",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 98,
@@ -205,7 +205,7 @@
   "Tags": [],
   "EOS_Progressed": 115909,
   "EOS_Completed": 5808,
-  "EOS_NewPlayers": 1044,
+  "EOS_NewPlayers": 1038,
   "EOS_NewCompleters": 110,
   "EOS_Completed_Percentage": 5.01,
   "EosHistory": [
@@ -15853,8 +15853,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2024-01-12T23:58:14.6562948+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:08:35.265332+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:09:20.220127+00:00",
   "LastUpdate_AppInfo": "2024-01-25T20:57:20.2699707+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:58:04.5247048+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:08:35.2654707+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:59:10.8556927+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:09:20.2202194+00:00"
 }

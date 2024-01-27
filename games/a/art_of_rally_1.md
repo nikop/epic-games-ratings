@@ -6,43 +6,43 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~349,898 |
-| good drivers have dead flies on the side windows | 32.00% | ~139,959 |
-| keep it tidy | 26.00% | ~113,717 |
-| brail | 26.00% | ~113,717 |
-| car wash | 23.00% | ~100,596 |
-| the artist | 23.00% | ~100,596 |
-| podium | 20.00% | ~87,474 |
-| medium attack | 17.00% | ~74,353 |
-| bicycle race | 6.00% | ~26,242 |
-| grocery-getter | 5.00% | ~21,869 |
-| autopilot | 4.00% | ~17,495 |
-| night ride | 4.00% | ~17,495 |
-| snorkel | 4.00% | ~17,495 |
-| rwd only | 3.00% | ~13,121 |
-| where is the stage? | 3.00% | ~13,121 |
-| food tour: pasta | 3.00% | ~13,121 |
-| to finish first, first you must finish | 2.00% | ~8,747 |
-| perkele | 2.00% | ~8,747 |
-| turbo | 2.00% | ~8,747 |
-| if in doubt, flat out! | 2.00% | ~8,747 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,747 |
-| mittens | 2.00% | ~8,747 |
-| food tour: pretzel | 2.00% | ~8,747 |
+| light attack | 80.00% | ~349,942 |
+| good drivers have dead flies on the side windows | 32.00% | ~139,977 |
+| keep it tidy | 26.00% | ~113,731 |
+| brail | 26.00% | ~113,731 |
+| car wash | 23.00% | ~100,608 |
+| the artist | 23.00% | ~100,608 |
+| podium | 20.00% | ~87,486 |
+| medium attack | 17.00% | ~74,363 |
+| bicycle race | 6.00% | ~26,246 |
+| grocery-getter | 5.00% | ~21,871 |
+| autopilot | 4.00% | ~17,497 |
+| night ride | 4.00% | ~17,497 |
+| snorkel | 4.00% | ~17,497 |
+| rwd only | 3.00% | ~13,123 |
+| where is the stage? | 3.00% | ~13,123 |
+| food tour: pasta | 3.00% | ~13,123 |
+| to finish first, first you must finish | 2.00% | ~8,749 |
+| perkele | 2.00% | ~8,749 |
+| turbo | 2.00% | ~8,749 |
+| if in doubt, flat out! | 2.00% | ~8,749 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,749 |
+| mittens | 2.00% | ~8,749 |
+| food tour: pretzel | 2.00% | ~8,749 |
 | espresso | 1.00% | ~4,374 |
 | monster | 1.00% | ~4,374 |
 | in like a lamb, out like a lion | 1.00% | ~4,374 |
 | eurobeat | 0.70% | ~3,062 |
 | viking | 0.70% | ~3,062 |
 | parallel universe | 0.70% | ~3,062 |
-| oktoberfest | 0.60% | ~2,624 |
+| oktoberfest | 0.60% | ~2,625 |
 | group b | 0.50% | ~2,187 |
 | maximum attack | 0.50% | ~2,187 |
 | samir | 0.50% | ~2,187 |
-| parking lot | 0.40% | ~1,749 |
-| master of rally | 0.40% | ~1,749 |
-| antilag | 0.40% | ~1,749 |
-| real roads, real fast | 0.40% | ~1,749 |
+| parking lot | 0.40% | ~1,750 |
+| master of rally | 0.40% | ~1,750 |
+| antilag | 0.40% | ~1,750 |
+| real roads, real fast | 0.40% | ~1,750 |
 | comfy seats | 0.30% | ~1,312 |
 | simulator | 0.20% | ~875 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~437 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~437 |
 | you're here for a good time, not a long time | 0.10% | ~437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,372 (Ranked 46)  
+Progressed: 437,428 (Ranked 46)  
 Completed: 29 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 29 (0.01%) (Ranked 388)
 | 2024-01-24 | 434,560 | 27 |
 | 2024-01-25 | 435,796 | 29 |
 | 2024-01-26 | 437,143 | 29 |
-| 2024-01-27 | 437,372 | 29 |
+| 2024-01-27 | 437,428 | 29 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
 Sum: 324 (Ranked 381)  

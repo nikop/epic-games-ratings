@@ -1947,9 +1947,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90655,
+  "EOS_Progressed": 90658,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 1580,
+  "EOS_NewPlayers": 1572,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18352,6 +18352,11 @@
       "Time": "2024-01-27T04:03:53.3935906+00:00",
       "NumProgressed": 90655,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2024-01-27T05:05:17.7300865+00:00",
+      "NumProgressed": 90658,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18364,7 +18369,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42608
+      "UsersEstimate": 42609
     },
     {
       "ID": "10",
@@ -18404,7 +18409,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 7252
+      "UsersEstimate": 7253
     },
     {
       "ID": "15",
@@ -18468,7 +18473,7 @@
       "Name": "More Power to You",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24477
+      "UsersEstimate": 24478
     },
     {
       "ID": "8",
@@ -18491,7 +18496,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90655,
+      "Progressed": 90658,
       "Completed": 79
     }
   ],
@@ -18499,8 +18504,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-27T01:39:43.9008499+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:03:53.3935902+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:05:17.7300847+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:59:33.1345116+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:03:53.3936762+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:01:22.6143393+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:05:17.7301868+00:00"
 }

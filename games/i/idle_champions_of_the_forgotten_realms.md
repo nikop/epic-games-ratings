@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,791 |
+| A Brief Tour of the Realms | 5.00% | ~12,792 |
 | Beast Intentions | 2.00% | ~5,117 |
 | The Cursed Farmer | 2.00% | ~5,117 |
 | The Mad Wizard | 2.00% | ~5,117 |
 | Were-verpowered | 1.00% | ~2,558 |
 | The Ring of Regeneration | 1.00% | ~2,558 |
 | Are Ya Chicken? | 1.00% | ~2,558 |
-| Seeking Allies | 0.90% | ~2,302 |
-| Mad Cow Disease | 0.90% | ~2,302 |
-| Friendly Imps | 0.90% | ~2,302 |
+| Seeking Allies | 0.90% | ~2,303 |
+| Mad Cow Disease | 0.90% | ~2,303 |
+| Friendly Imps | 0.90% | ~2,303 |
 | Pure Energy | 0.80% | ~2,047 |
 | Welcome to Sigil | 0.80% | ~1,777 |
 | A Persistent Buzzing | 0.70% | ~1,791 |
@@ -51,26 +51,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.40% | ~888 |
 | Misaligned in Sigil | 0.40% | ~888 |
 | Chaos Theory | 0.40% | ~888 |
-| Supply Run | 0.30% | ~767 |
-| Homecoming | 0.30% | ~767 |
-| The Lost Heir of Omu | 0.30% | ~767 |
-| Street War | 0.30% | ~767 |
-| Wisdom Check | 0.30% | ~767 |
-| Invisible Shadows | 0.30% | ~767 |
-| The Botched Kidnapping | 0.30% | ~767 |
-| Trollskull Manor | 0.30% | ~767 |
-| Attack on the Manor | 0.30% | ~767 |
-| The Death Curse | 0.30% | ~767 |
-| Nimble Escape | 0.30% | ~767 |
-| Premature Betrayal | 0.30% | ~767 |
-| A Tale of Two Cities | 0.30% | ~767 |
-| The Dead Three | 0.30% | ~767 |
-| Flying Monkey Skulls of Doom | 0.30% | ~767 |
-| Dinosaur Racing | 0.30% | ~767 |
-| Close Escort | 0.30% | ~767 |
-| Constant Banditry | 0.30% | ~767 |
-| Easily Distracted | 0.30% | ~767 |
-| Rescue in the Jungle | 0.30% | ~767 |
+| Supply Run | 0.30% | ~768 |
+| Homecoming | 0.30% | ~768 |
+| The Lost Heir of Omu | 0.30% | ~768 |
+| Street War | 0.30% | ~768 |
+| Wisdom Check | 0.30% | ~768 |
+| Invisible Shadows | 0.30% | ~768 |
+| The Botched Kidnapping | 0.30% | ~768 |
+| Trollskull Manor | 0.30% | ~768 |
+| Attack on the Manor | 0.30% | ~768 |
+| The Death Curse | 0.30% | ~768 |
+| Nimble Escape | 0.30% | ~768 |
+| Premature Betrayal | 0.30% | ~768 |
+| A Tale of Two Cities | 0.30% | ~768 |
+| The Dead Three | 0.30% | ~768 |
+| Flying Monkey Skulls of Doom | 0.30% | ~768 |
+| Dinosaur Racing | 0.30% | ~768 |
+| Close Escort | 0.30% | ~768 |
+| Constant Banditry | 0.30% | ~768 |
+| Easily Distracted | 0.30% | ~768 |
+| Rescue in the Jungle | 0.30% | ~768 |
 | Pros and CONs | 0.20% | ~512 |
 | Upholding the Law | 0.20% | ~512 |
 | Tall Tales | 0.20% | ~444 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,829 (Ranked 71)  
+Progressed: 255,835 (Ranked 71)  
 Completed: 2,655 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -835,10 +835,10 @@ Completed: 2,655 (1.04%) (Ranked 179)
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
 | 2024-01-26 | 255,788 | 2,654 |
-| 2024-01-27 | 255,829 | 2,655 |
+| 2024-01-27 | 255,835 | 2,655 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
-Sum: 33,658 (Ranked 42)  
+Sum: 33,660 (Ranked 42)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -847,7 +847,7 @@ Diff (max vs sum): 33
 | This game has Quickly Understood Controls | 4,923 |
 | This game is Relaxing | 4,799 |
 | This game is Highly Recommended | 4,355 |
-| This game has Amazing Characters | 4,348 |
+| This game has Amazing Characters | 4,350 |
 | This game has Playful Visuals | 3,658 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1218,3 +1218,4 @@ Diff (max vs sum): 33
 | 2024-01-24 | 4.07 | - | 5,813 | 33,628 |
 | 2024-01-25 | 4.07 | - | 5,816 | 33,643 |
 | 2024-01-26 | 4.07 | - | 5,819 | 33,658 |
+| 2024-01-27 | 4.07 | - | 5,819 | 33,660 |

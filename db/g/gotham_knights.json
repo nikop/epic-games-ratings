@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5537,9 +5537,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83315,
+  "EOS_Progressed": 83316,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31637,6 +31637,11 @@
       "Time": "2024-01-27T04:05:53.4863706+00:00",
       "NumProgressed": 83315,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-27T05:08:09.88918+00:00",
+      "NumProgressed": 83316,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31696,7 +31701,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18329
+      "UsersEstimate": 18330
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -31744,7 +31749,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13331
     },
     {
       "ID": "CLAYFACE_1",
@@ -32056,7 +32061,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18329
+      "UsersEstimate": 18330
     },
     {
       "ID": "MYSTERY_04",
@@ -32135,13 +32140,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83315,
+      "Progressed": 83316,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53595,
+      "Progressed": 53596,
       "Completed": 2682
     }
   ],
@@ -32149,8 +32154,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-26T22:57:59.9523126+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:05:53.4863702+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:08:09.8891796+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:57:52.4463647+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:05:53.4865127+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:58:52.984715+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:08:09.8893407+00:00"
 }

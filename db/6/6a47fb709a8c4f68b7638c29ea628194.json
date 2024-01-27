@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2878,
+  "EOS_Progressed": 2880,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
@@ -4109,6 +4109,11 @@
       "Time": "2024-01-27T03:09:55.6824473+00:00",
       "NumProgressed": 2878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T05:10:27.0411307+00:00",
+      "NumProgressed": 2880,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -4169,7 +4174,7 @@
       "Name": "Greener",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "FINISHED_10",
@@ -4217,7 +4222,7 @@
       "Name": "First lap",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "PODIUM_1",
@@ -4249,7 +4254,7 @@
       "Name": "On the starting grid",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "RESEARCHED_2",
@@ -4265,7 +4270,7 @@
       "Name": "Generation 3",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "RESEARCHED_4",
@@ -4361,7 +4366,7 @@
       "Name": "Newcomer",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "XP_1000",
@@ -4400,14 +4405,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2878,
+      "Progressed": 2880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:24.7970725+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:10:27.0411303+00:00",
   "LastUpdate_AppInfo": "2024-01-22T02:57:03.6253654+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:57:17.9217044+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:24.7971133+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:58:02.4340778+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:10:27.0411685+00:00"
 }

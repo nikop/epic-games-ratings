@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -2364,9 +2364,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 252
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2507,8 +2507,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:04:57.9975779+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:06:53.1142215+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.4116417+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:56:58.9584741+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:04:57.9976158+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:57:33.9276319+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:06:53.1142554+00:00"
 }

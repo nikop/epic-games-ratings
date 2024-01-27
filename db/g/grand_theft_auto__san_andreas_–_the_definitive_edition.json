@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2713,9 +2713,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 19872,
+  "EOS_Progressed": 19873,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21603,6 +21603,11 @@
       "Time": "2024-01-27T04:10:05.1496534+00:00",
       "NumProgressed": 19872,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-27T05:11:20.6392762+00:00",
+      "NumProgressed": 19873,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 35,
@@ -21614,7 +21619,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16096
+      "UsersEstimate": 16097
     },
     {
       "ID": "ACH02",
@@ -21893,7 +21898,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19872,
+      "Progressed": 19873,
       "Completed": 84
     }
   ],
@@ -21901,8 +21906,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-26T20:59:50.8505759+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:10:05.1496527+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:11:20.6392757+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:59:27.141759+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:10:05.1497737+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:01:13.0802753+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:11:20.6393927+00:00"
 }

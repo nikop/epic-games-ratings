@@ -34,11 +34,11 @@ Number of Ratings: 892  (23.09.2022)
 | Can We Keep It? | 87.00% | ~780 |
 | Builder of the Month | 86.00% | ~771 |
 | Bridging the Gap | 84.00% | ~753 |
+| Waste Not Want Not | 82.00% | ~735 |
 | Got the Flow Back | 81.00% | ~726 |
-| Waste Not Want Not | 81.00% | ~726 |
 | Commissions, commissions...! | 80.00% | ~717 |
 | Elementary, My Dear | 78.00% | ~699 |
-| Lifeline Pipeline | 73.00% | ~654 |
+| Lifeline Pipeline | 74.00% | ~663 |
 | Sepia Toned Memories | 72.00% | ~645 |
 | Anti-Santa | 70.00% | ~627 |
 | Time Flies | 68.00% | ~609 |
@@ -46,7 +46,7 @@ Number of Ratings: 892  (23.09.2022)
 | You Don't Win Friends With Salad | 68.00% | ~609 |
 | Who Ya Gonna Call...? | 67.00% | ~600 |
 | Happier-est Place on Earth | 66.00% | ~591 |
-| Finishing Touches | 62.00% | ~556 |
+| Finishing Touches | 63.00% | ~564 |
 | Call Me Fishmael | 62.00% | ~556 |
 | Kind of a Big Deal | 61.00% | ~547 |
 | Just What I Always Wanted! | 60.00% | ~538 |

@@ -255,9 +255,9 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
@@ -479,9 +479,9 @@
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_TechSavvy",
@@ -518,8 +518,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:03:19.6745374+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:04:30.2702571+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.2625033+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:56:52.0121872+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:03:19.6745708+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:57:23.7812473+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:04:30.2702891+00:00"
 }

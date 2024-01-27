@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29589,
+  "EOS_Progressed": 29590,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
@@ -30798,6 +30798,11 @@
       "Time": "2024-01-27T03:05:26.6058021+00:00",
       "NumProgressed": 29589,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2024-01-27T05:07:07.2400549+00:00",
+      "NumProgressed": 29590,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 20,
@@ -30817,7 +30822,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "EAST_FINISHED",
@@ -30825,7 +30830,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -30873,7 +30878,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "FOUND_ERIN",
@@ -30968,15 +30973,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29589,
+      "Progressed": 29590,
       "Completed": 547
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-25T02:24:21.066454+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:05:08.2343385+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:07:07.2400545+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:58:26.3071583+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:05:08.2344919+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:59:42.7459889+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:07:07.2401898+00:00"
 }

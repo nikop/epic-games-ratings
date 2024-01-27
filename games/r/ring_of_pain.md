@@ -41,10 +41,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.90% | ~2,192 |
 | Shadow Walker | 0.90% | ~2,192 |
 | Flesh Wound | 0.90% | ~2,192 |
-| Consecutive Curses | 0.80% | ~1,948 |
-| Destroy Your Fears | 0.80% | ~1,948 |
-| New Perspectives | 0.80% | ~1,948 |
-| Shapeshifting | 0.80% | ~1,948 |
+| Consecutive Curses | 0.80% | ~1,949 |
+| Destroy Your Fears | 0.80% | ~1,949 |
+| New Perspectives | 0.80% | ~1,949 |
+| Shapeshifting | 0.80% | ~1,949 |
 | To The Death! | 0.70% | ~1,705 |
 | Well Prepared | 0.70% | ~1,705 |
 | Just Chilling | 0.70% | ~1,705 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,561 (Ranked 75)  
+Progressed: 243,563 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,7 +427,7 @@ Completed: 309 (0.13%) (Ranked 310)
 | 2024-01-24 | 243,469 | 309 |
 | 2024-01-25 | 243,514 | 309 |
 | 2024-01-26 | 243,553 | 309 |
-| 2024-01-27 | 243,561 | 309 |
+| 2024-01-27 | 243,563 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,806 (Ranked 92)  

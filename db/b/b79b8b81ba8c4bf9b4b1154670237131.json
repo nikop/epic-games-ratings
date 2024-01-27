@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16950,
+  "EOS_Progressed": 16951,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7508,6 +7508,11 @@
       "Time": "2024-01-27T04:09:42.4358083+00:00",
       "NumProgressed": 16950,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-27T05:10:50.6903128+00:00",
+      "NumProgressed": 16951,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7552,7 +7557,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12712
+      "UsersEstimate": 12713
     },
     {
       "ID": "ACH_AE_14",
@@ -7600,7 +7605,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "ACH_AE_2",
@@ -7640,7 +7645,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH_AE_24",
@@ -7648,7 +7653,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH_AE_25",
@@ -7664,7 +7669,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH_AE_27",
@@ -7688,7 +7693,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_AE_3",
@@ -7720,7 +7725,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "ACH_AE_33",
@@ -7799,7 +7804,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16950,
+      "Progressed": 16951,
       "Completed": 17
     }
   ],
@@ -7807,8 +7812,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:42.4358079+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:10:50.6903123+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.2339366+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:00:06.4296478+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:42.4358525+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:03:12.1843696+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:10:50.6903658+00:00"
 }

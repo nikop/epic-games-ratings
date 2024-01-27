@@ -6,7 +6,7 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
@@ -197,11 +197,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1569,
+  "EOS_Progressed": 1570,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.49,
+  "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5497,6 +5497,11 @@
       "Time": "2024-01-27T00:04:31.9881257+00:00",
       "NumProgressed": 1569,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2024-01-27T05:04:51.5518395+00:00",
+      "NumProgressed": 1570,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5525,7 +5530,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5533,7 +5538,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "_05_FinishAct2",
@@ -5541,7 +5546,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5581,7 +5586,7 @@
       "Name": "Buccaneer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "_11_Completion_40",
@@ -5589,7 +5594,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_12_Completion_50",
@@ -5661,7 +5666,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5716,7 +5721,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1569,
+      "Progressed": 1570,
       "Completed": 39
     }
   ],
@@ -5724,8 +5729,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:03:34.7799719+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:04:51.551839+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.079201+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:57:22.8024494+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:03:34.7800102+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:58:09.7427707+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:04:51.5518779+00:00"
 }

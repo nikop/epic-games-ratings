@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | Glorious victory | 0.00% | ~0 |
 | The most beautiful Christmas | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,997 (Ranked 66)  
+Progressed: 299,004 (Ranked 66)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 298,256 | 0 |
 | 2024-01-25 | 298,551 | 0 |
 | 2024-01-26 | 298,918 | 0 |
-| 2024-01-27 | 298,997 | 0 |
+| 2024-01-27 | 299,004 | 0 |
 ## Awards
 Max (Great for Beginners): 215  (Ranked 295)  
 Sum: 1,657 (Ranked 240)  

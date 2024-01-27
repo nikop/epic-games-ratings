@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 142,
@@ -4081,10 +4081,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2993,
       "NumberOfAwardsMax": 331
+    },
+    {
+      "Time": "2024-01-27T05:00:27.1892846+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2995,
+      "NumberOfAwardsMax": 331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2993,
+  "NumberOfAwards": 2995,
   "NumberOfAwardsMax": 331,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4146,7 +4152,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 284
+      "Count": 286
     },
     {
       "Text": "This game has Competitive Players",
@@ -4161,9 +4167,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33963,
+  "EOS_Progressed": 33965,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26536,6 +26542,11 @@
       "Time": "2024-01-27T04:09:18.2072614+00:00",
       "NumProgressed": 33963,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-27T05:10:18.1170211+00:00",
+      "NumProgressed": 33965,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26875,7 +26886,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "Teamwork",
@@ -26954,16 +26965,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33963,
+      "Progressed": 33965,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-25T21:58:32.8094513+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:18.207261+00:00",
+  "LastChanged": "2024-01-27T05:00:27.1892845+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:10:18.1170207+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:41.0805246+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:58:56.2932254+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:18.207381+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:00:27.189285+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:10:18.1171767+00:00"
 }

@@ -14,13 +14,13 @@ Rating: 4.43 (Ranked 731)
 | Arms Mechanic | 49.00% | ~377 |
 | Flower Thief | 45.00% | ~346 |
 | Apostle of Flame | 40.00% | ~308 |
-| Beginner Artificer | 38.00% | ~292 |
+| Beginner Artificer | 39.00% | ~300 |
 | Beginner Cook | 37.00% | ~285 |
 | Seal Breaker | 32.00% | ~246 |
 | Handyman | 29.00% | ~223 |
 | Giant Lizard Killer | 27.00% | ~208 |
-| Guardian | 25.00% | ~192 |
-| Nosebleeder | 25.00% | ~192 |
+| Guardian | 26.00% | ~200 |
+| Nosebleeder | 26.00% | ~200 |
 | Trader | 22.00% | ~169 |
 | Weapon Boost | 21.00% | ~161 |
 | Flying Kobold Killer | 19.00% | ~146 |

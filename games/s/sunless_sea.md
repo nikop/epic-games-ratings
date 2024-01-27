@@ -19,8 +19,8 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~4,950 |
 | Shipmate | 11.00% | ~4,950 |
 | One Year at Zee | 8.00% | ~3,600 |
-| Pupil | 7.00% | ~3,150 |
 | The Ascent of Man | 7.00% | ~3,150 |
+| Pupil | 6.00% | ~2,700 |
 | Salvager | 6.00% | ~2,700 |
 | Open Your Ears | 6.00% | ~2,700 |
 | Zee Fever | 5.00% | ~2,250 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,000 (Ranked 133)  
+Progressed: 45,001 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-24 | 44,874 | 4 |
 | 2024-01-25 | 44,932 | 4 |
 | 2024-01-26 | 44,990 | 4 |
-| 2024-01-27 | 45,000 | 4 |
+| 2024-01-27 | 45,001 | 4 |
 ## Awards
 Max (Character Customization): 222  (Ranked 291)  
 Sum: 337 (Ranked 373)  

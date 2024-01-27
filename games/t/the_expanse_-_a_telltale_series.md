@@ -1,13 +1,13 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 554)  
+Rating: 4.54 (Ranked 553)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 20.00% | ~3,862 |
 | Captain Drummer | 17.00% | ~3,283 |
-| Celebrations are in Order | 16.00% | ~3,089 |
+| Celebrations are in Order | 16.00% | ~3,090 |
 | The Pit and the Pirates | 15.00% | ~2,896 |
 | Martian Music | 15.00% | ~2,896 |
 | Bosmang | 15.00% | ~2,896 |
@@ -28,8 +28,8 @@ Rating: 4.54 (Ranked 554)
 | Doctor Approved | 7.00% | ~1,352 |
 | Bottoms up! | 7.00% | ~1,352 |
 | Master Negotiator | 7.00% | ~368 |
-| Data Logger | 5.00% | ~965 |
-| Miraculous Maya | 5.00% | ~965 |
+| Data Logger | 5.00% | ~966 |
+| Miraculous Maya | 5.00% | ~966 |
 | Data Master | 4.00% | ~772 |
 | No Belter Left Behind | 3.00% | ~579 |
 | Brother's Reaper | 2.00% | ~386 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 554)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,309 (Ranked 160)  
+Progressed: 19,310 (Ranked 160)  
 Completed: 67 (0.35%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 67 (0.35%) (Ranked 261)
 | 2024-01-24 | 19,270 | 67 |
 | 2024-01-25 | 19,291 | 67 |
 | 2024-01-26 | 19,307 | 67 |
-| 2024-01-27 | 19,309 | 67 |
+| 2024-01-27 | 19,310 | 67 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

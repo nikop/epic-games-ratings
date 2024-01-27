@@ -521,9 +521,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12301,
+  "EOS_Progressed": 12302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6311,6 +6311,11 @@
       "Time": "2024-01-27T02:24:00.3382629+00:00",
       "NumProgressed": 12301,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T05:11:24.4546569+00:00",
+      "NumProgressed": 12302,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6441,9 +6446,9 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 1107
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6842,7 +6847,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12301,
+      "Progressed": 12302,
       "Completed": 1
     }
   ],
@@ -6850,8 +6855,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-26T17:59:53.5809851+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:10:08.1299313+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:11:24.4546566+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:20.8351883+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:59:44.1974342+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:10:08.129992+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:01:39.0824049+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:11:24.4547377+00:00"
 }

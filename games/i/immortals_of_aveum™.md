@@ -41,10 +41,10 @@ Rating: 4.19 (Ranked 984)
 | Grand Magnus | 2.00% | ~72 |
 | Tip of the Spear | 2.00% | ~72 |
 | Witch-Taker | 1.00% | ~36 |
+| Master of Ultramarine | 1.00% | ~36 |
 | Master of Carmine | 1.00% | ~36 |
 | Shroudfane Surveyor | 1.00% | ~36 |
 | Backtracker | 1.00% | ~36 |
-| Master of Ultramarine | 0.90% | ~33 |
 | Petite Bourgeoisie | 0.80% | ~29 |
 | Family Business | 0.70% | ~25 |
 | Diplomat | 0.70% | ~25 |

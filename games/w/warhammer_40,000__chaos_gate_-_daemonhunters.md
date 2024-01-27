@@ -23,9 +23,9 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 5.00% | ~197 |
 | Just a Scratch | 4.00% | ~158 |
 | Hold Your Ground | 3.00% | ~118 |
+| Corruption Cleanser | 3.00% | ~118 |
 | Hive Exterminator | 3.00% | ~118 |
 | Daemonkeeper | 2.00% | ~79 |
-| Corruption Cleanser | 2.00% | ~79 |
 | Exterminator | 2.00% | ~79 |
 | Mind Like a Fortress | 2.00% | ~79 |
 | Efficient Killer | 2.00% | ~79 |

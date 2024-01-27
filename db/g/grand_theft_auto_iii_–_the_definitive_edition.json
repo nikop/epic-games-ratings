@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12555,
+  "EOS_Progressed": 12556,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16553,6 +16553,11 @@
       "Time": "2024-01-27T04:05:10.1998753+00:00",
       "NumProgressed": 12555,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-27T05:07:09.7744632+00:00",
+      "NumProgressed": 12556,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16572,7 +16577,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "ACH03",
@@ -16588,7 +16593,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "ACH05",
@@ -16684,7 +16689,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "ACH17",
@@ -16795,7 +16800,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12555,
+      "Progressed": 12556,
       "Completed": 97
     }
   ],
@@ -16803,8 +16808,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:05:10.1998749+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:07:09.7744628+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:59:15.1333429+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:05:10.1999705+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:00:55.1116258+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:07:09.7745313+00:00"
 }

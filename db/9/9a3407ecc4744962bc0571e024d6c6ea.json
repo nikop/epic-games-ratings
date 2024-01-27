@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
@@ -4084,6 +4084,11 @@
       "Time": "2024-01-25T23:10:20.1923063+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-27T05:11:13.3522045+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -4104,7 +4109,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "BoxingClever",
@@ -4152,7 +4157,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "DustDancing",
@@ -4176,7 +4181,7 @@
       "Name": "Lights Out",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "MiCasaSuCasa",
@@ -4184,7 +4189,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -4192,7 +4197,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "Outpatient",
@@ -4208,7 +4213,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "SkeletonCrew",
@@ -4216,7 +4221,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "TerraTourGuide",
@@ -4232,7 +4237,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "TragedyDocumented",
@@ -4255,14 +4260,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:59.4204651+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:11:13.3522039+00:00",
   "LastUpdate_AppInfo": "2024-01-25T01:47:47.785644+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:57:03.7965406+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:59.4204984+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:57:41.0606425+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:11:13.3522417+00:00"
 }

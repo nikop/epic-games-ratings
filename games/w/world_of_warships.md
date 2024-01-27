@@ -6,26 +6,26 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~73,879 |
-| Initial Capital | 61.00% | ~60,088 |
-| Junior Supply Officer | 39.00% | ~38,417 |
-| Moneybags | 38.00% | ~37,432 |
-| Naval Warfare. Arson | 29.00% | ~28,566 |
-| Naval Warfare. Ramming | 28.00% | ~27,581 |
-| Amateur | 26.00% | ~25,611 |
-| Naval Warfare. Tactics | 26.00% | ~25,611 |
-| Naval Constructor | 25.00% | ~24,626 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~18,716 |
-| Naval Warfare. Flooding | 16.00% | ~15,761 |
-| Naval Warfare. Lucky Shot | 16.00% | ~15,761 |
-| Business Magnate | 13.00% | ~12,806 |
-| Battle Hero | 12.00% | ~11,821 |
-| Warrior | 10.00% | ~9,850 |
-| Supply Officer | 10.00% | ~9,850 |
-| Smooth Supply | 10.00% | ~9,850 |
-| Veteran | 5.00% | ~4,925 |
-| Legend of the Seas | 3.00% | ~2,955 |
-| Shield | 3.00% | ~2,955 |
+| Junior Naval Designer | 75.00% | ~73,892 |
+| Initial Capital | 61.00% | ~60,098 |
+| Junior Supply Officer | 39.00% | ~38,424 |
+| Moneybags | 38.00% | ~37,438 |
+| Naval Warfare. Arson | 29.00% | ~28,571 |
+| Naval Warfare. Ramming | 28.00% | ~27,586 |
+| Amateur | 26.00% | ~25,616 |
+| Naval Warfare. Tactics | 26.00% | ~25,616 |
+| Naval Constructor | 25.00% | ~24,630 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~18,719 |
+| Naval Warfare. Flooding | 16.00% | ~15,764 |
+| Naval Warfare. Lucky Shot | 16.00% | ~15,764 |
+| Business Magnate | 13.00% | ~12,808 |
+| Battle Hero | 12.00% | ~11,823 |
+| Warrior | 10.00% | ~9,852 |
+| Supply Officer | 10.00% | ~9,852 |
+| Smooth Supply | 10.00% | ~9,852 |
+| Veteran | 5.00% | ~4,926 |
+| Legend of the Seas | 3.00% | ~2,956 |
+| Shield | 3.00% | ~2,956 |
 | Chief Naval Architect | 2.00% | ~1,970 |
 | Weather Beaten | 2.00% | ~1,970 |
 | Important Missions | 2.00% | ~1,970 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~99 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,505 (Ranked 104)  
+Progressed: 98,522 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 97,412 | 0 |
 | 2024-01-25 | 97,836 | 0 |
 | 2024-01-26 | 98,395 | 0 |
-| 2024-01-27 | 98,505 | 0 |
+| 2024-01-27 | 98,522 | 0 |
 ## Awards
 Max (Relaxing): 1,763  (Ranked 134)  
 Sum: 14,794 (Ranked 79)  

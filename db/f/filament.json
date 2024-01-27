@@ -6,9 +6,9 @@
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -468,7 +468,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 209842,
+  "EOS_Progressed": 209844,
   "EOS_Completed": 571,
   "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 5,
@@ -30548,6 +30548,11 @@
       "Time": "2024-01-27T03:04:04.8118447+00:00",
       "NumProgressed": 209842,
       "NumCompleted": 571
+    },
+    {
+      "Time": "2024-01-27T05:05:09.5828167+00:00",
+      "NumProgressed": 209844,
+      "NumCompleted": 571
     }
   ],
   "TotalAchievements": 29,
@@ -30583,7 +30588,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 197251
+      "UsersEstimate": 197253
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30759,7 +30764,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16787
+      "UsersEstimate": 16788
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -30790,7 +30795,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209842,
+      "Progressed": 209844,
       "Completed": 571
     }
   ],
@@ -30798,8 +30803,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-26T07:59:27.0570371+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:03:47.4105449+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:05:09.5828163+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:59:24.7725138+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:03:47.4107211+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:01:09.5222104+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:05:09.5829685+00:00"
 }

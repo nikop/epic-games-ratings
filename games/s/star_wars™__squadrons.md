@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~42,358 |
-| Safety in the Storm | 23.00% | ~10,255 |
-| A Better Idea | 23.00% | ~10,255 |
-| Begin the Ceremony | 19.00% | ~8,472 |
-| Mission Accomplished | 18.00% | ~8,026 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,688 |
-| A Starfighter of Your Own | 13.00% | ~5,796 |
-| Asset Secured | 12.00% | ~5,350 |
-| Unkillable | 7.00% | ~3,121 |
-| Together, Vanguard | 7.00% | ~3,121 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,675 |
-| Sound Strategy | 5.00% | ~2,229 |
-| Stomped | 5.00% | ~2,229 |
-| Fearless | 4.00% | ~1,783 |
-| Back From the Brink | 4.00% | ~1,783 |
-| Flames Over Mon Cala | 4.00% | ~1,783 |
-| A Promising Career | 4.00% | ~1,783 |
+| Fracture at Fostar Haven | 95.00% | ~42,371 |
+| Safety in the Storm | 23.00% | ~10,258 |
+| A Better Idea | 23.00% | ~10,258 |
+| Begin the Ceremony | 19.00% | ~8,474 |
+| Mission Accomplished | 18.00% | ~8,028 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,690 |
+| A Starfighter of Your Own | 13.00% | ~5,798 |
+| Asset Secured | 12.00% | ~5,352 |
+| Unkillable | 7.00% | ~3,122 |
+| Together, Vanguard | 7.00% | ~3,122 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,676 |
+| Sound Strategy | 5.00% | ~2,230 |
+| Stomped | 5.00% | ~2,230 |
+| Fearless | 4.00% | ~1,784 |
+| Back From the Brink | 4.00% | ~1,784 |
+| Flames Over Mon Cala | 4.00% | ~1,784 |
+| A Promising Career | 4.00% | ~1,784 |
 | Great Shot, Kid | 3.00% | ~1,338 |
 | Stronger Together | 3.00% | ~1,338 |
 | Temporary Guardian | 3.00% | ~1,338 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~45 |
 | Ultimate Weapon | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,587 (Ranked 136)  
+Progressed: 44,601 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 3 (0.01%) (Ranked 388)
 | 2024-01-24 | 44,024 | 3 |
 | 2024-01-25 | 44,216 | 3 |
 | 2024-01-26 | 44,538 | 3 |
-| 2024-01-27 | 44,587 | 3 |
+| 2024-01-27 | 44,601 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

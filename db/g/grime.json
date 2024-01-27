@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1987,9 +1987,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169910,
+  "EOS_Progressed": 169922,
   "EOS_Completed": 475,
-  "EOS_NewPlayers": 943,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24652,6 +24652,11 @@
       "Time": "2024-01-27T04:08:20.917369+00:00",
       "NumProgressed": 169910,
       "NumCompleted": 475
+    },
+    {
+      "Time": "2024-01-27T05:09:00.6146672+00:00",
+      "NumProgressed": 169922,
+      "NumCompleted": 475
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24704,7 +24709,7 @@
       "Name": "Zygote",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -24768,7 +24773,7 @@
       "Name": "Scion",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -24776,7 +24781,7 @@
       "Name": "Glare",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -24784,7 +24789,7 @@
       "Name": "Host",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -24960,7 +24965,7 @@
       "Name": "Dream",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "QUEST_CODA",
@@ -24976,7 +24981,7 @@
       "Name": "Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "QUEST_LISTENER",
@@ -24984,7 +24989,7 @@
       "Name": "Listen",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "QUEST_YON",
@@ -25000,7 +25005,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "MISC_FINISHNG",
@@ -25008,7 +25013,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -25016,7 +25021,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -25024,28 +25029,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169493,
+      "Progressed": 169505,
       "Completed": 1275
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169910,
+      "Progressed": 169922,
       "Completed": 475
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-27T01:36:44.3435773+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:08:20.9173688+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:09:00.6146669+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:57:28.0223228+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:08:20.9174801+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:58:17.3986647+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:09:00.6148091+00:00"
 }

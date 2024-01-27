@@ -2,9 +2,9 @@
   "ID": "7c6b6697df584024be9c60a1da59096b",
   "Name": "Dude, Where Is My Beer?",
   "ProductSlug": "dude-where-is-my-beer-2455aa",
-  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -409,6 +409,11 @@
       "Time": "2024-01-25T01:54:48.1166704+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T05:05:59.4910316+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T15:07:12.853291+00:00",
@@ -531,7 +536,7 @@
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 38
     },
@@ -596,14 +601,14 @@
     {
       "ID": "6akbe6n",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:04:22.4553189+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:05:59.491031+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.5457024+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:56:51.8475432+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:04:22.4553306+00:00"
+  "LastUpdate_Ratings": "2024-01-27T04:57:23.4910825+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:05:59.4910509+00:00"
 }

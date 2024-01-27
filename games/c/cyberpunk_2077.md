@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Right Back At Ya | 1.00% | ~10,593 |
+| Right Back At Ya | 1.00% | ~10,594 |
 | Full Body Conversion | 0.90% | ~9,534 |
 | The Hermit | 0.90% | ~9,534 |
 | The Wheel of Fortune | 0.90% | ~9,534 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,334 (Ranked 17)  
+Progressed: 1,059,350 (Ranked 17)  
 Completed: 3,169 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,10 +356,10 @@ Completed: 3,169 (0.30%) (Ranked 267)
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
 | 2024-01-26 | 1,059,253 | 3,167 |
-| 2024-01-27 | 1,059,334 | 3,169 |
+| 2024-01-27 | 1,059,350 | 3,169 |
 ## Awards
 Max (Character Customization): 145,484  (Ranked 8)  
-Sum: 522,450 (Ranked 8)  
+Sum: 522,738 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -369,8 +369,8 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 32,756 |
 | This game is Highly Recommended | 31,363 |
 | This game has Amazing Storytelling | 30,755 |
-| This game is Extremely Fun | 30,474 |
-| This game has Amazing Characters | 30,172 |
+| This game is Extremely Fun | 30,617 |
+| This game has Amazing Characters | 30,317 |
 | This game is Relaxing | 29,366 |
 | This game has Quickly Understood Controls | 29,130 |
 | This game has a Creative Community | 20,360 |
@@ -750,4 +750,4 @@ Diff (max vs sum): 0
 | 2024-01-24 | 4.68 | - | 144,777 | 518,283 |
 | 2024-01-25 | 4.68 | - | 145,126 | 520,256 |
 | 2024-01-26 | 4.68 | - | 145,484 | 522,195 |
-| 2024-01-27 | 4.68 | - | 145,484 | 522,450 |
+| 2024-01-27 | 4.68 | - | 145,484 | 522,738 |

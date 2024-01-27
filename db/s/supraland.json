@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
@@ -3541,9 +3541,9 @@
       "Count": 199
     }
   ],
-  "EOS_Progressed": 741684,
+  "EOS_Progressed": 741685,
   "EOS_Completed": 785,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -35451,6 +35451,11 @@
       "Time": "2024-01-27T04:10:13.5159953+00:00",
       "NumProgressed": 741684,
       "NumCompleted": 785
+    },
+    {
+      "Time": "2024-01-27T05:11:30.806717+00:00",
+      "NumProgressed": 741685,
+      "NumCompleted": 785
     }
   ],
   "TotalAchievements": 98,
@@ -35494,7 +35499,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 222505
+      "UsersEstimate": 222506
     },
     {
       "ID": "BallShooter",
@@ -35526,7 +35531,7 @@
       "Name": "Rattle Hag",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 118669
+      "UsersEstimate": 118670
     },
     {
       "ID": "BirdsongCourier",
@@ -35678,7 +35683,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 356008
+      "UsersEstimate": 356009
     },
     {
       "ID": "FireFlies",
@@ -35726,7 +35731,7 @@
       "Name": "Freed from prison",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 163170
+      "UsersEstimate": 163171
     },
     {
       "ID": "GiantWorkshop",
@@ -35822,7 +35827,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 407926
+      "UsersEstimate": 407927
     },
     {
       "ID": "Healthregen",
@@ -35830,7 +35835,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 348591
+      "UsersEstimate": 348592
     },
     {
       "ID": "HelpedAStar",
@@ -35846,7 +35851,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 311507
+      "UsersEstimate": 311508
     },
     {
       "ID": "Holy_Sword",
@@ -35854,7 +35859,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170587
+      "UsersEstimate": 170588
     },
     {
       "ID": "Horticultural",
@@ -35974,7 +35979,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 734267
+      "UsersEstimate": 734268
     },
     {
       "ID": "PanicLights",
@@ -36094,7 +36099,7 @@
       "Name": "Fast",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 496928
+      "UsersEstimate": 496929
     },
     {
       "ID": "Strong",
@@ -36126,7 +36131,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170587
+      "UsersEstimate": 170588
     },
     {
       "ID": "The_Blues",
@@ -36134,7 +36139,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 630431
+      "UsersEstimate": 630432
     },
     {
       "ID": "ThroughPipe",
@@ -36174,7 +36179,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 318924
+      "UsersEstimate": 318925
     },
     {
       "ID": "True_Holy_Spirit",
@@ -36245,15 +36250,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 741684,
+      "Progressed": 741685,
       "Completed": 785
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-26T05:01:19.5392752+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:10:13.5159948+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:11:30.8067165+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.8310257+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:02:30.0503313+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:10:13.5161883+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:03:15.5129131+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:11:30.8069901+00:00"
 }

@@ -2387,9 +2387,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 22762,
+  "EOS_Progressed": 22763,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -15032,6 +15032,11 @@
       "Time": "2024-01-27T04:09:54.9269431+00:00",
       "NumProgressed": 22762,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-27T05:11:07.3521367+00:00",
+      "NumProgressed": 22763,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -15059,7 +15064,7 @@
       "Name": "Giving Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -15075,7 +15080,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -15179,7 +15184,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -15203,7 +15208,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -15219,7 +15224,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5690
+      "UsersEstimate": 5691
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15235,7 +15240,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "STORY_ESCAPE",
@@ -15267,7 +15272,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -15291,7 +15296,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15418,13 +15423,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22762,
+      "Progressed": 22763,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10688,
+      "Progressed": 10689,
       "Completed": 29
     }
   ],
@@ -15432,8 +15437,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-26T21:03:19.1534048+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:09:54.9269427+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:11:07.3521363+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:03:12.6484564+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:09:54.9270453+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:04:17.5743672+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:11:07.3522192+00:00"
 }

@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.48 (Ranked 662)  
+Rating: 4.48 (Ranked 661)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,8 +18,8 @@ Number of Ratings: 58  (23.09.2022)
 | Old Days Born Anew | 59.00% | ~852 |
 | Full Arsenal | 54.00% | ~780 |
 | Controlled Demolition | 53.00% | ~765 |
+| Payback | 51.00% | ~736 |
 | Huntress | 51.00% | ~736 |
-| Payback | 50.00% | ~722 |
 | Born to Drift | 49.00% | ~708 |
 | Relentless | 47.00% | ~679 |
 | The Path Forward | 43.00% | ~621 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,444 (Ranked 278)  
-Completed: 20 (1.39%) (Ranked 160)  
+Completed: 21 (1.45%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,6 +282,7 @@ Completed: 20 (1.39%) (Ranked 160)
 | 2024-01-24 | 1,440 | 19 |
 | 2024-01-25 | 1,443 | 20 |
 | 2024-01-26 | 1,444 | 20 |
+| 2024-01-27 | 1,444 | 21 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 510)  
 Sum: 35 (Ranked 541)  

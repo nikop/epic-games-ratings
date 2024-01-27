@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -153,7 +153,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84510,
+  "EOS_Progressed": 84511,
   "EOS_Completed": 953,
   "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 7,
@@ -31613,6 +31613,11 @@
       "Time": "2024-01-27T04:03:24.0141095+00:00",
       "NumProgressed": 84510,
       "NumCompleted": 953
+    },
+    {
+      "Time": "2024-01-27T05:04:36.2470999+00:00",
+      "NumProgressed": 84511,
+      "NumCompleted": 953
     }
   ],
   "TotalAchievements": 25,
@@ -31776,7 +31781,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11831
+      "UsersEstimate": 11832
     },
     {
       "ID": "Sniper",
@@ -31823,7 +31828,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84510,
+      "Progressed": 84511,
       "Completed": 953
     }
   ],
@@ -31831,8 +31836,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-25T04:58:57.692419+00:00",
-  "LastChanged_Achievements": "2024-01-27T04:03:24.0141093+00:00",
+  "LastChanged_Achievements": "2024-01-27T05:04:36.2470994+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-27T03:59:57.9844787+00:00",
-  "LastUpdate_Achievements": "2024-01-27T04:03:24.0142586+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:02:59.3675074+00:00",
+  "LastUpdate_Achievements": "2024-01-27T05:04:36.247257+00:00"
 }
