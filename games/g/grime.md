@@ -315,12 +315,12 @@ Completed: 476 (0.28%) (Ranked 271)
 | 2024-01-27 | 169,970 | 476 |
 ## Awards
 Max (Highly Recommended): 65  (Ranked 432)  
-Sum: 477 (Ranked 345)  
+Sum: 478 (Ranked 345)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 65 |
-| This game is Extremely Fun | 64 |
+| This game is Extremely Fun | 65 |
 | This game has Unique Visuals | 64 |
 | This game has Challenging Combat | 63 |
 | This game has Quickly Understood Controls | 62 |
@@ -524,4 +524,4 @@ Diff (max vs sum): 87
 | 2024-01-23 | 4.60 | - | 64 | 469 |
 | 2024-01-24 | 4.59 | - | 64 | 470 |
 | 2024-01-25 | 4.60 | - | 64 | 475 |
-| 2024-01-27 | 4.60 | - | 65 | 477 |
+| 2024-01-27 | 4.60 | - | 65 | 478 |
