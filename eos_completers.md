@@ -49,12 +49,12 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.78% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.97% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.96% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.58% |
-| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.42% |
+| 55 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.41% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.38% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.30% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.26% |
@@ -76,7 +76,7 @@
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 76 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.26% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.06% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.04% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.01% |
 | 79 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 5.00% |
 | 80 | [Bugsnax](games/b/bugsnax.md) | 4.92% |
@@ -168,8 +168,8 @@
 | 166 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 167 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
 | 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.19% |
-| 168 | [Yars: Recharged](games/y/yars__recharged.md) | 1.19% |
-| 170 | [Late Shift](games/l/late_shift.md) | 1.18% |
+| 169 | [Late Shift](games/l/late_shift.md) | 1.18% |
+| 169 | [Yars: Recharged](games/y/yars__recharged.md) | 1.18% |
 | 171 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.15% |
 | 172 | [Adios](games/a/adios.md) | 1.13% |
 | 172 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
@@ -296,10 +296,10 @@
 | 294 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
 | 294 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
 | 294 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
-| 297 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
-| 297 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
-| 297 | [Going Medieval](games/g/going_medieval.md) | 0.17% |
-| 297 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.17% |
+| 297 | [Against the Storm](games/a/against_the_storm.md) | 0.18% |
+| 298 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
+| 298 | [Going Medieval](games/g/going_medieval.md) | 0.17% |
+| 298 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.17% |
 | 301 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 301 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 303 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
