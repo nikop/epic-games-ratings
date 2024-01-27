@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2971,10 +2971,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 670,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-01-27T14:58:29.313612+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 671,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 670,
+  "NumberOfAwards": 671,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -3012,7 +3018,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3062,8 +3068,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2024-01-26T18:57:47.4254185+00:00",
+  "LastChanged": "2024-01-27T14:58:29.3136119+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.0562784+00:00",
-  "LastUpdate_Ratings": "2024-01-27T13:57:55.5761539+00:00",
+  "LastUpdate_Ratings": "2024-01-27T14:58:29.3136127+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:58.9226277+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 327,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
@@ -2302,10 +2302,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1949,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-01-27T14:58:13.7652418+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1951,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1949,
+  "NumberOfAwards": 1951,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2319,7 +2325,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 229
+      "Count": 230
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2331,7 +2337,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Challenging Combat",
@@ -23968,9 +23974,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-27T13:57:36.9914082+00:00",
+  "LastChanged": "2024-01-27T14:58:13.7652416+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:51.3571205+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-27T13:57:36.9914088+00:00",
+  "LastUpdate_Ratings": "2024-01-27T14:58:13.765242+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:51.358169+00:00"
 }
