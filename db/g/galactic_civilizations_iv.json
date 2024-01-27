@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -10322,9 +10322,9 @@
       "ID": "Sell_30_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Selling Guru",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 46
     },
     {
       "ID": "Sell_Resource",
@@ -10610,8 +10610,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:34.8795693+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:28.1018372+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:11.7889974+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:34.87979+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:38.0152628+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:28.1019221+00:00"
 }

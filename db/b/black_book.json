@@ -692,9 +692,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 69151,
+  "EOS_Progressed": 69157,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -18407,6 +18407,11 @@
       "Time": "2024-01-27T11:04:21.3812453+00:00",
       "NumProgressed": 69151,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2024-01-27T12:05:50.7628406+00:00",
+      "NumProgressed": 69157,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -18443,7 +18448,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9681
+      "UsersEstimate": 9682
     },
     {
       "ID": "BAD_END",
@@ -18475,7 +18480,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "CHEATER",
@@ -18523,7 +18528,7 @@
       "Name": "Old Friend",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6915
+      "UsersEstimate": 6916
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -18531,7 +18536,7 @@
       "Name": "Student",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 15905
+      "UsersEstimate": 15906
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -18539,7 +18544,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -18595,7 +18600,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9681
+      "UsersEstimate": 9682
     },
     {
       "ID": "HERBS_2",
@@ -18603,7 +18608,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6915
+      "UsersEstimate": 6916
     },
     {
       "ID": "HERBS_3",
@@ -18619,7 +18624,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 20054
+      "UsersEstimate": 20056
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -18635,7 +18640,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -18667,7 +18672,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "NORMAL_END",
@@ -18699,7 +18704,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -18739,7 +18744,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10373
+      "UsersEstimate": 10374
     },
     {
       "ID": "TALES_2",
@@ -18771,7 +18776,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6915
+      "UsersEstimate": 6916
     },
     {
       "ID": "WOLF",
@@ -18795,7 +18800,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 11064
+      "UsersEstimate": 11065
     },
     {
       "ID": "ZNATKOST_2",
@@ -18818,15 +18823,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 69151,
+      "Progressed": 69157,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-26T13:58:38.0727073+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:04:21.3812447+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:05:50.76284+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:05.7187732+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:58:57.3537964+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:21.3814344+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:00:11.643119+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:05:50.7629774+00:00"
 }

@@ -1,7 +1,7 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.57 (Ranked 497)  
+Rating: 4.57 (Ranked 496)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,9 +9,9 @@ Rating: 4.57 (Ranked 497)
 | Household | 7.00% | ~100 |
 | An Old Friend | 6.00% | ~86 |
 | Lot 49 | 5.00% | ~71 |
+| Viva La Revolution | 5.00% | ~71 |
 | Atomic Soda | 4.00% | ~57 |
 | Shadow over Trudograd | 4.00% | ~57 |
-| Viva La Revolution | 4.00% | ~57 |
 | Walking Fortress | 4.00% | ~57 |
 | Freelance Police | 3.00% | ~43 |
 | Mysterious Knife | 3.00% | ~43 |

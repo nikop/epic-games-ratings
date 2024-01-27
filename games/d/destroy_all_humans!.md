@@ -10,8 +10,8 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 73.00% | ~424 |
 | Lie Back and Think of Albion | 67.00% | ~389 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~378 |
+| I Look Up As I Walk to Takoshima | 63.00% | ~366 |
 | Yettisoned | 62.00% | ~360 |
-| I Look Up As I Walk to Takoshima | 62.00% | ~360 |
 | Pimp My Raid | 59.00% | ~343 |
 | Perfect Probulator | 59.00% | ~343 |
 | Lobster Blisque | 54.00% | ~314 |

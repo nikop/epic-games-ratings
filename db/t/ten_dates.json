@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -1661,6 +1661,11 @@
       "Time": "2024-01-26T14:09:23.3045186+00:00",
       "NumProgressed": 542,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-27T12:11:04.5647886+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1704,7 +1709,7 @@
       "Name": "Let it begin",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "profile_ryan",
@@ -1712,7 +1717,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ryan_date2_all",
@@ -1823,7 +1828,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 7
     }
   ],
@@ -1831,8 +1836,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:17.0978749+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:04.5647882+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.3077577+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:30.9277039+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:17.0978987+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:58:05.5307456+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:04.5648072+00:00"
 }

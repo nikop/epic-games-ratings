@@ -50,13 +50,13 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Drengin | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
 | Commodity Trader - Level 2 | 0.60% | ~46 |
+| Commodity Selling Guru | 0.60% | ~46 |
 | Win as the Drath | 0.60% | ~46 |
 | Win as the Iridium | 0.60% | ~46 |
 | Win as the Manti | 0.60% | ~46 |
 | Win as the Onyx | 0.60% | ~46 |
 | Diplomatic Victory! | 0.60% | ~46 |
 | Solid Economy | 0.50% | ~38 |
-| Commodity Selling Guru | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
 | Commodity Guru | 0.40% | ~30 |
 | Iconia Reclaimed! | 0.30% | ~23 |

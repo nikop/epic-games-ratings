@@ -9,16 +9,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 10.00% | ~2,104 |
 | Abandoned Settlement | 10.00% | ~2,104 |
 | Overgrown Library | 10.00% | ~2,104 |
-| First Real Expedition | 9.00% | ~1,893 |
-| No Deaths | 9.00% | ~1,893 |
-| Petrified Necropolis | 9.00% | ~1,893 |
+| First Real Expedition | 9.00% | ~1,894 |
+| No Deaths | 9.00% | ~1,894 |
+| Petrified Necropolis | 9.00% | ~1,894 |
 | Overcoming Difficulty | 8.00% | ~1,683 |
 | Coral Forest | 8.00% | ~1,683 |
 | The Marshlands | 8.00% | ~1,683 |
 | The Scarlet Orchard | 7.00% | ~1,473 |
+| Frosts | 7.00% | ~1,473 |
 | Ominous Presence | 7.00% | ~1,473 |
 | Gathering Storm | 7.00% | ~1,473 |
-| Frosts | 6.00% | ~1,262 |
 | Land of Greed | 6.00% | ~1,262 |
 | Homesick | 5.00% | ~1,052 |
 | Fertile Meadows | 5.00% | ~1,052 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,038 (Ranked 157)  
+Progressed: 21,040 (Ranked 157)  
 Completed: 37 (0.18%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 37 (0.18%) (Ranked 297)
 | 2024-01-24 | 20,998 | 34 |
 | 2024-01-25 | 21,012 | 36 |
 | 2024-01-26 | 21,026 | 36 |
-| 2024-01-27 | 21,038 | 37 |
+| 2024-01-27 | 21,040 | 37 |
 ## Awards
 Max (Quickly Understood Controls): 459  (Ranked 233)  
 Sum: 3,420 (Ranked 180)  

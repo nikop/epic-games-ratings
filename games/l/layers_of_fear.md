@@ -10,7 +10,7 @@
 | Wanderer | 57.00% | ~197 |
 | Scraps of love | 53.00% | ~183 |
 | The artist’s impression | 52.00% | ~180 |
-| Do what you have to | 46.00% | ~159 |
+| Do what you have to | 47.00% | ~163 |
 | Sign of weakness | 44.00% | ~152 |
 | Refuse to look | 39.00% | ~135 |
 | Face your fears | 34.00% | ~118 |
@@ -32,7 +32,7 @@
 | True Reflection | 9.00% | ~31 |
 | Casting Finished | 8.00% | ~28 |
 | Instinct of self-preservation | 8.00% | ~28 |
-| Fisherman | 7.00% | ~24 |
+| Fisherman | 8.00% | ~28 |
 | Something to think about | 6.00% | ~21 |
 | I remember It Like Was Yesterday | 6.00% | ~21 |
 | We Are Not Alone | 5.00% | ~17 |

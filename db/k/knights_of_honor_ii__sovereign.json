@@ -5,7 +5,7 @@
   "Ranking_Rating": 821,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 166,
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2024-01-27T11:05:14.4386129+00:00",
       "NumProgressed": 252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T12:07:04.5652648+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -705,25 +710,25 @@
       "ID": "blessed_be_his_name",
       "SetID": "41moj9p",
       "Name": "Blessed Be His Name",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "blinded_by_science",
       "SetID": "41moj9p",
       "Name": "Blinded by Science",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "blitz_krieg",
       "SetID": "41moj9p",
       "Name": "Zerg Rush",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "bring_it_on",
@@ -731,7 +736,7 @@
       "Name": "Bring it on!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "brutus",
@@ -761,9 +766,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "columbus",
@@ -825,9 +830,9 @@
       "ID": "dinner_time",
       "SetID": "41moj9p",
       "Name": "Dinner Time",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "do_you_read",
@@ -865,9 +870,9 @@
       "ID": "forth_eorlingas",
       "SetID": "41moj9p",
       "Name": "Forth, Eorlingas!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "freeeedom",
@@ -891,7 +896,7 @@
       "Name": "Full House",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "game_of_thorns",
@@ -931,7 +936,7 @@
       "Name": "Hail to the King, Baby",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "he_made_it_out",
@@ -947,7 +952,7 @@
       "Name": "Help! Help! I\u2019m being repressed",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "his_all_holiness",
@@ -969,9 +974,9 @@
       "ID": "his_name_is_king",
       "SetID": "41moj9p",
       "Name": "His name is King",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "holy_trinity",
@@ -993,9 +998,9 @@
       "ID": "i_am_the_senate",
       "SetID": "41moj9p",
       "Name": "I am the senate",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "i_got_a_knight_in_paris",
@@ -1065,9 +1070,9 @@
       "ID": "kingslayer",
       "SetID": "41moj9p",
       "Name": "Kingslayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "learn_me_a_book",
@@ -1163,7 +1168,7 @@
       "Name": "Path of Glory",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "pillars_of_the_earth",
@@ -1177,9 +1182,9 @@
       "ID": "playersander_the_great",
       "SetID": "41moj9p",
       "Name": "Playerxander the Great",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "power_overwhelming",
@@ -1273,9 +1278,9 @@
       "ID": "the_finest_merchandise",
       "SetID": "41moj9p",
       "Name": "The finest merchandise this side of river Jordan",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "the_magnificent_nine",
@@ -1305,17 +1310,17 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "time_to_find_india",
@@ -1393,9 +1398,9 @@
       "ID": "what_weve_got",
       "SetID": "41moj9p",
       "Name": "What we\u2019ve got here is failure to communicate",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "wheres_your_crown",
@@ -1450,7 +1455,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 256,
       "Completed": 0
     }
   ],
@@ -1458,8 +1463,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:05:14.4386125+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:07:04.5652643+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:16.3608485+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:05:14.438756+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:44.3821746+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:07:04.5653673+00:00"
 }

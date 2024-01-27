@@ -5,33 +5,35 @@ Rating: 4.36 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 27.00% | ~68 |
-| Help! Help! I’m being repressed | 27.00% | ~68 |
-| Can’t Touch This | 26.00% | ~66 |
-| Path of Glory | 26.00% | ~66 |
-| There is no Nobility in Poverty | 19.00% | ~48 |
-| They Got What They Deserved | 19.00% | ~48 |
-| Bring it on! | 18.00% | ~45 |
-| Playerxander the Great | 17.00% | ~43 |
-| Full House | 16.00% | ~40 |
-| The finest merchandise this side of river Jordan | 14.00% | ~35 |
+| Hail to the King, Baby | 27.00% | ~69 |
+| Help! Help! I’m being repressed | 27.00% | ~69 |
+| Path of Glory | 26.00% | ~67 |
+| Can’t Touch This | 25.00% | ~64 |
+| There is no Nobility in Poverty | 20.00% | ~51 |
+| Bring it on! | 18.00% | ~46 |
+| They Got What They Deserved | 18.00% | ~46 |
+| Full House | 16.00% | ~41 |
+| Playerxander the Great | 16.00% | ~41 |
+| The finest merchandise this side of river Jordan | 15.00% | ~38 |
 | Big Apple | 13.00% | ~33 |
-| Dinner Time | 11.00% | ~28 |
+| Dinner Time | 12.00% | ~31 |
 | All the King's Men | 9.00% | ~23 |
 | Cut-Me-Own-Throat | 9.00% | ~23 |
-| What we’ve got here is failure to communicate | 8.00% | ~20 |
+| What we’ve got here is failure to communicate | 9.00% | ~23 |
 | Black Sheep Wall | 7.00% | ~18 |
+| Blinded by Science | 7.00% | ~18 |
 | Call the Boys | 7.00% | ~18 |
 | Learn Me a Book | 7.00% | ~18 |
 | The Magnificent Nine | 7.00% | ~18 |
-| Blessed Be His Name | 6.00% | ~15 |
-| Blinded by Science | 6.00% | ~15 |
-| Forth, Eorlingas! | 6.00% | ~15 |
 | Let Us Pray | 6.00% | ~15 |
 | ‘Tis but a scratch | 6.00% | ~15 |
+| Blessed Be His Name | 5.00% | ~13 |
 | Desperate Times Call for Desperate Measures | 5.00% | ~13 |
 | Do you read Sutter Cane? | 5.00% | ~13 |
+| Forth, Eorlingas! | 5.00% | ~13 |
 | Greed is Good | 5.00% | ~13 |
+| His name is King | 5.00% | ~13 |
+| Kingslayer | 5.00% | ~13 |
 | Let us trade with these fine people | 5.00% | ~13 |
 | On the third day at dawn, look east | 5.00% | ~13 |
 | Pillars of the Earth | 5.00% | ~13 |
@@ -40,9 +42,7 @@ Rating: 4.36 (Ranked 821)
 | Dust and Salt | 4.00% | ~10 |
 | He made it out, but with an arrow in his back | 4.00% | ~10 |
 | His All-Holiness | 4.00% | ~10 |
-| His name is King | 4.00% | ~10 |
 | I started a joke | 4.00% | ~10 |
-| Kingslayer | 4.00% | ~10 |
 | Naught but a Seamless Victory | 4.00% | ~10 |
 | Vlad the Impaler | 4.00% | ~10 |
 | Fight Another Day | 3.00% | ~8 |
@@ -58,14 +58,14 @@ Rating: 4.36 (Ranked 821)
 | Together We Stand | 2.00% | ~5 |
 | You are not the boss of me now | 2.00% | ~5 |
 | You reap what you sow | 2.00% | ~5 |
+| Zerg Rush | 1.00% | ~3 |
 | Brutus | 1.00% | ~3 |
 | From Rags to Riches | 1.00% | ~3 |
+| I am the senate | 1.00% | ~3 |
 | Lord of the Kings | 1.00% | ~3 |
 | Master of Puppets | 1.00% | ~3 |
 | Prison Break | 1.00% | ~3 |
 | The Merchant of Venice | 1.00% | ~3 |
-| Zerg Rush | 0.80% | ~2 |
-| I am the senate | 0.80% | ~2 |
 | Spartacus | 0.80% | ~2 |
 | Why is there no culture victory?! | 0.80% | ~2 |
 | Crusade Invoker, no Regret | 0.40% | ~1 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 821)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 426)  
+Progressed: 256 (Ranked 425)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
 | 2024-01-26 | 236 | 0 |
-| 2024-01-27 | 252 | 0 |
+| 2024-01-27 | 256 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

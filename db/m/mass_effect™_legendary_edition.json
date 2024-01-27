@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4696,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9519,9 +9519,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1738
     },
     {
       "ID": "achievement_19",
@@ -10055,9 +10055,9 @@
       "ID": "achievement_79",
       "SetID": "d252ncf",
       "Name": "Driven",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1221
     },
     {
       "ID": "achievement_8",
@@ -10251,8 +10251,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:40.9656909+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:35.3086841+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:03:03.5832392+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:40.9660211+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:04:00.1899117+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:35.3088537+00:00"
 }

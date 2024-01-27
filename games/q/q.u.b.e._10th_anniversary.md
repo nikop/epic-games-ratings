@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 732)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 34.00% | ~10,441 |
-| Sector 2 | 30.00% | ~9,213 |
-| Sector 3 | 26.00% | ~7,984 |
-| Crush That Cube! | 25.00% | ~7,677 |
-| Sector 4 | 21.00% | ~6,449 |
-| Crush That Ball! | 20.00% | ~6,142 |
-| Sector 5 | 14.00% | ~4,299 |
-| Sector 6 | 11.00% | ~3,378 |
+| Sector 1 | 34.00% | ~10,443 |
+| Sector 2 | 30.00% | ~9,215 |
+| Sector 3 | 26.00% | ~7,986 |
+| Crush That Cube! | 25.00% | ~7,679 |
+| Sector 4 | 21.00% | ~6,450 |
+| Crush That Ball! | 20.00% | ~6,143 |
+| Sector 5 | 14.00% | ~4,300 |
+| Sector 6 | 11.00% | ~3,379 |
 | Feeling the Blues | 9.00% | ~2,764 |
 | Squished | 8.00% | ~2,457 |
 | Finale | 8.00% | ~2,457 |
 | Sector 7 | 8.00% | ~2,457 |
 | Did That Work? -- No! | 7.00% | ~2,150 |
-| Master Room | 5.00% | ~1,535 |
+| Master Room | 5.00% | ~1,536 |
 | The Puzzle Master | 3.00% | ~921 |
 | The Collector | 2.00% | ~614 |
 | Bronze Trophy | 2.00% | ~614 |
@@ -30,8 +30,8 @@ Rating: 4.43 (Ranked 732)
 | Completed It. | 2.00% | ~614 |
 | Maxed Out | 2.00% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,709 (Ranked 144)  
-Completed: 238 (0.78%) (Ranked 202)  
+Progressed: 30,716 (Ranked 144)  
+Completed: 238 (0.77%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 238 (0.78%) (Ranked 202)
 | 2024-01-24 | 30,489 | 234 |
 | 2024-01-25 | 30,579 | 234 |
 | 2024-01-26 | 30,668 | 236 |
-| 2024-01-27 | 30,709 | 238 |
+| 2024-01-27 | 30,716 | 238 |
 ## Awards
 Max (Challenging Puzzles): 27  (Ranked 545)  
 Sum: 27 (Ranked 561)  

@@ -2,12 +2,12 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 762,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 532,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2020-05-22T08:00:00+00:00",
@@ -2621,10 +2621,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 3175,
       "NumberOfAwardsMax": 2260
+    },
+    {
+      "Time": "2024-01-27T11:59:48.6312408+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3176,
+      "NumberOfAwardsMax": 2260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3175,
+  "NumberOfAwards": 3176,
   "NumberOfAwardsMax": 2260,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2674,7 +2680,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2712,8 +2718,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2024-01-26T11:59:22.0600065+00:00",
+  "LastChanged": "2024-01-27T11:59:48.6312406+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.5625611+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:58:41.8836255+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:58.7996268+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:59:48.6312413+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:42.8644019+00:00"
 }

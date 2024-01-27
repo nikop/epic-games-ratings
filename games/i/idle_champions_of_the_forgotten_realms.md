@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,793 |
+| A Brief Tour of the Realms | 5.00% | ~12,794 |
 | Beast Intentions | 2.00% | ~5,117 |
 | The Cursed Farmer | 2.00% | ~5,117 |
 | The Mad Wizard | 2.00% | ~5,117 |
@@ -87,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~444 |
 | The Castle of a Thousand Vecnas | 0.20% | ~444 |
 | The Sanctum of the Sword | 0.20% | ~444 |
+| Anti-Dexterous Explorers | 0.20% | ~512 |
 | Lobsterfolk Assault | 0.20% | ~512 |
 | The Forbidden City | 0.20% | ~512 |
 | Periodic Petrification | 0.20% | ~512 |
@@ -268,7 +269,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~222 |
 | Xanathaaaaaaar! | 0.10% | ~222 |
 | A Whale of a Time | 0.10% | ~222 |
-| Anti-Dexterous Explorers | 0.10% | ~256 |
 | Struggling Toward Omu | 0.10% | ~256 |
 | Wagon Train | 0.10% | ~256 |
 | Not Very Charming | 0.10% | ~256 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,867 (Ranked 71)  
+Progressed: 255,870 (Ranked 71)  
 Completed: 2,655 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -835,7 +835,7 @@ Completed: 2,655 (1.04%) (Ranked 179)
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
 | 2024-01-26 | 255,788 | 2,654 |
-| 2024-01-27 | 255,867 | 2,655 |
+| 2024-01-27 | 255,870 | 2,655 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
 Sum: 33,666 (Ranked 42)  

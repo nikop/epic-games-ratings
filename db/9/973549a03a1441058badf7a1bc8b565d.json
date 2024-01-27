@@ -199,9 +199,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "4mjb15",
       "Name": "A Weapon to Grind",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -255,9 +255,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "4mjb15",
       "Name": "Gone Full Circle",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -335,9 +335,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "4mjb15",
       "Name": "Barking up the Wrong Tree",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -366,8 +366,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:29.3440462+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:20.9465935+00:00",
   "LastUpdate_AppInfo": "2024-01-27T02:10:37.3757073+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:50.616742+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:29.3440719+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:58:34.2057088+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:20.9466079+00:00"
 }

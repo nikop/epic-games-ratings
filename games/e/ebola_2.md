@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Statue ✔ | 64.00% | ~214 |
 | Recluse ✔ | 35.00% | ~117 |
+| Witch ✔ | 23.00% | ~77 |
 | Scent of Meat ✔ | 22.00% | ~74 |
-| Witch ✔ | 22.00% | ~74 |
 | Survival ✔ | 3.00% | ~10 |
 | Master of Unlocking ✔ | 2.00% | ~7 |
 | Voodoo ✔ | 1.00% | ~3 |

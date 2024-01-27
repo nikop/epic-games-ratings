@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2755,6 +2755,11 @@
       "Time": "2024-01-27T10:10:16.7891156+00:00",
       "NumProgressed": 770,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T12:10:50.7689794+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2766,7 +2771,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2894,7 +2899,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2902,7 +2907,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2918,7 +2923,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2926,7 +2931,7 @@
       "Name": "Trader",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2934,7 +2939,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2950,7 +2955,7 @@
       "Name": "Weapon Boost",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -3022,7 +3027,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -3038,7 +3043,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3094,7 +3099,7 @@
       "Name": "Flower Thief",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -3110,7 +3115,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3118,14 +3123,14 @@
       "Name": "Handyman",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 3
     }
   ],
@@ -3133,8 +3138,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-23T09:01:35.3083126+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:07.5251191+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:10:50.768979+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.101279+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:58:25.7336378+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:07.5251751+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:59:25.1710712+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:10:50.7690167+00:00"
 }

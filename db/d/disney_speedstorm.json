@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 762,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 51,
@@ -3195,10 +3195,10 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 408689,
-  "EOS_Completed": 1774,
-  "EOS_NewPlayers": 5560,
-  "EOS_NewCompleters": 97,
+  "EOS_Progressed": 408711,
+  "EOS_Completed": 1775,
+  "EOS_NewPlayers": 5535,
+  "EOS_NewCompleters": 98,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
@@ -22815,6 +22815,11 @@
       "Time": "2024-01-27T11:08:15.5375606+00:00",
       "NumProgressed": 408689,
       "NumCompleted": 1774
+    },
+    {
+      "Time": "2024-01-27T12:09:38.9693028+00:00",
+      "NumProgressed": 408711,
+      "NumCompleted": 1775
     }
   ],
   "TotalAchievements": 24,
@@ -22834,7 +22839,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24521
+      "UsersEstimate": 24523
     },
     {
       "ID": "11",
@@ -22866,7 +22871,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36782
+      "UsersEstimate": 36784
     },
     {
       "ID": "15",
@@ -22922,7 +22927,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 20434
+      "UsersEstimate": 20436
     },
     {
       "ID": "21",
@@ -22978,7 +22983,7 @@
       "Name": "ROOKIE",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 57216
+      "UsersEstimate": 57220
     },
     {
       "ID": "6",
@@ -22986,7 +22991,7 @@
       "Name": "PRO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20434
+      "UsersEstimate": 20436
     },
     {
       "ID": "7",
@@ -23017,16 +23022,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 408689,
-      "Completed": 1774
+      "Progressed": 408711,
+      "Completed": 1775
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-27T10:59:44.4315809+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:08:15.5375598+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:09:38.9693023+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:58.5530008+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:59:44.4315819+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:08:15.5377333+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:01:19.9979078+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:09:38.969414+00:00"
 }

@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77241,
+  "EOS_Progressed": 77247,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1110,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8824,6 +8824,11 @@
       "Time": "2024-01-27T11:08:17.6628234+00:00",
       "NumProgressed": 77241,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-01-27T12:09:42.0462779+00:00",
+      "NumProgressed": 77247,
+      "NumCompleted": 131
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8836,7 +8841,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28579
+      "UsersEstimate": 28581
     },
     {
       "ID": "Achievement_10",
@@ -8924,7 +8929,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21627
+      "UsersEstimate": 21629
     },
     {
       "ID": "Achievement_20",
@@ -9012,7 +9017,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9269
+      "UsersEstimate": 9270
     },
     {
       "ID": "Achievement_30",
@@ -9107,7 +9112,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 77241,
+      "Progressed": 77247,
       "Completed": 131
     }
   ],
@@ -9115,8 +9120,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-27T08:57:18.4098806+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:08:17.6628227+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:09:42.0462776+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.4662307+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:05.2374962+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:08:17.6629266+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:27.9169685+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:09:42.0463342+00:00"
 }

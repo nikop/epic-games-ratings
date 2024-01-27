@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,298 |
+| Malpractice Assurance | 15.00% | ~1,299 |
 | Autodidact | 9.00% | ~12,041 |
 | Lost and Found | 9.00% | ~779 |
-| This guy... again? | 8.00% | ~692 |
+| This guy... again? | 8.00% | ~693 |
 | Serenity Now! | 7.00% | ~9,365 |
 | This Belongs in a Museum | 7.00% | ~9,365 |
 | Creep and Sleep | 7.00% | ~9,365 |
@@ -32,24 +32,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,689 |
 | Nope | 5.00% | ~6,689 |
 | Friends 'Til the End | 5.00% | ~433 |
-| Resurrection | 4.00% | ~5,351 |
-| Unleash Hell | 4.00% | ~5,351 |
-| Funny Guy | 4.00% | ~5,351 |
-| Long Live the King | 4.00% | ~5,351 |
-| Wyrdly Reconstructed | 4.00% | ~5,351 |
-| Boxcar Kid | 4.00% | ~5,351 |
-| Unfulfilled Desires | 4.00% | ~5,351 |
-| Predator | 4.00% | ~5,351 |
-| Dissector | 4.00% | ~5,351 |
-| Banishment | 4.00% | ~5,351 |
-| Deprogramming | 4.00% | ~5,351 |
-| Now Stay Dead | 4.00% | ~5,351 |
-| Reverse Banditry | 4.00% | ~5,351 |
-| Spelunker | 4.00% | ~5,351 |
-| Ramble On | 4.00% | ~5,351 |
-| A Clear Conscience | 4.00% | ~5,351 |
-| Unshackled | 4.00% | ~5,351 |
-| Road Trip | 4.00% | ~5,351 |
+| Resurrection | 4.00% | ~5,352 |
+| Unleash Hell | 4.00% | ~5,352 |
+| Funny Guy | 4.00% | ~5,352 |
+| Long Live the King | 4.00% | ~5,352 |
+| Wyrdly Reconstructed | 4.00% | ~5,352 |
+| Boxcar Kid | 4.00% | ~5,352 |
+| Unfulfilled Desires | 4.00% | ~5,352 |
+| Predator | 4.00% | ~5,352 |
+| Dissector | 4.00% | ~5,352 |
+| Banishment | 4.00% | ~5,352 |
+| Deprogramming | 4.00% | ~5,352 |
+| Now Stay Dead | 4.00% | ~5,352 |
+| Reverse Banditry | 4.00% | ~5,352 |
+| Spelunker | 4.00% | ~5,352 |
+| Ramble On | 4.00% | ~5,352 |
+| A Clear Conscience | 4.00% | ~5,352 |
+| Unshackled | 4.00% | ~5,352 |
+| Road Trip | 4.00% | ~5,352 |
 | This Looks Familiar | 3.00% | ~4,014 |
 | Hope Rekindled | 3.00% | ~4,014 |
 | When You Want Something Done Right | 3.00% | ~4,014 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,787 (Ranked 92)  
+Progressed: 133,788 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
 | 2024-01-26 | 133,757 | 5 |
-| 2024-01-27 | 133,787 | 5 |
+| 2024-01-27 | 133,788 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
 Sum: 21,893 (Ranked 60)  

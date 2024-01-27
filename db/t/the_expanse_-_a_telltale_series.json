@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19315,
+  "EOS_Progressed": 19318,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18338,6 +18338,11 @@
       "Time": "2024-01-27T11:03:59.6643469+00:00",
       "NumProgressed": 19315,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-27T12:05:21.3693421+00:00",
+      "NumProgressed": 19318,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18366,7 +18371,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "12",
@@ -18382,7 +18387,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3863
+      "UsersEstimate": 3864
     },
     {
       "ID": "14",
@@ -18430,7 +18435,7 @@
       "Name": "Martian Music",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "2",
@@ -18454,7 +18459,7 @@
       "Name": "Drone Dodger",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2705
     },
     {
       "ID": "22",
@@ -18470,7 +18475,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "24",
@@ -18502,7 +18507,7 @@
       "Name": "Bosmang",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "28",
@@ -18534,7 +18539,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "4",
@@ -18558,7 +18563,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "7",
@@ -18582,7 +18587,7 @@
       "Name": "Impossible Objects",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "31",
@@ -18629,13 +18634,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19315,
+      "Progressed": 19318,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5269,
+      "Progressed": 5272,
       "Completed": 1411
     }
   ],
@@ -18643,8 +18648,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:03:59.6643465+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:05:21.3693417+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:36.8258205+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:03:59.6646085+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:58:14.4077876+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:05:21.3694304+00:00"
 }

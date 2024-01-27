@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 261099,
+  "EOS_Progressed": 261104,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28427,6 +28427,11 @@
       "Time": "2024-01-27T11:03:45.0129611+00:00",
       "NumProgressed": 261099,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T12:05:01.1176977+00:00",
+      "NumProgressed": 261104,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28470,7 +28475,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -28486,7 +28491,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80941
+      "UsersEstimate": 80942
     },
     {
       "ID": "BackHomeNTimes",
@@ -28726,7 +28731,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60053
+      "UsersEstimate": 60054
     },
     {
       "ID": "KillOthers2",
@@ -28742,7 +28747,7 @@
       "Name": "Predator III",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "KillUnstableThing",
@@ -28885,7 +28890,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 261099,
+      "Progressed": 261104,
       "Completed": 3
     }
   ],
@@ -28893,8 +28898,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-23T04:02:56.023083+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:03:45.0129604+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:05:01.1176969+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:02:32.0057424+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:03:45.0132426+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:03:12.857537+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:05:01.1178982+00:00"
 }

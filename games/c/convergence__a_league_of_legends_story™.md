@@ -6,23 +6,23 @@ Rating: 4.67 (Ranked 288)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 48.00% | ~653 |
-| Rail Rat | 37.00% | ~503 |
+| Rail Rat | 37.00% | ~504 |
 | The Mysterious Stranger | 36.00% | ~490 |
 | Immaculate Aim | 31.00% | ~422 |
-| The Brass Boss | 29.00% | ~394 |
+| The Brass Boss | 29.00% | ~395 |
 | Time Flies | 28.00% | ~381 |
 | No, Thanks! | 28.00% | ~381 |
 | The Prince in Heels | 28.00% | ~381 |
-| Honest Mistake | 28.00% | ~381 |
 | Make Up For Lost Time | 27.00% | ~367 |
 | The Harder They Fall | 27.00% | ~367 |
+| Honest Mistake | 27.00% | ~367 |
 | Fast Learner | 27.00% | ~367 |
 | Immaculate Aim | 27.00% | ~367 |
 | The Steel Shadow | 26.00% | ~354 |
 | The Wicked Twins | 25.00% | ~340 |
-| Right On Time | 24.00% | ~326 |
-| Breaking Down Barriers | 24.00% | ~326 |
-| Golem Chaser | 24.00% | ~326 |
+| Right On Time | 24.00% | ~327 |
+| Breaking Down Barriers | 24.00% | ~327 |
+| Golem Chaser | 24.00% | ~327 |
 | Like Clockwork | 23.00% | ~313 |
 | The Betrayer | 23.00% | ~313 |
 | Check Your Pulse | 22.00% | ~299 |
@@ -33,9 +33,9 @@ Rating: 4.67 (Ranked 288)
 | Whiz Kid | 16.00% | ~218 |
 | Good Neighbor | 16.00% | ~218 |
 | Family Memories | 15.00% | ~204 |
-| Chaincrawler Explorer | 14.00% | ~190 |
-| Syron for Hope | 14.00% | ~190 |
-| Ask Questions Later | 14.00% | ~190 |
+| Chaincrawler Explorer | 14.00% | ~191 |
+| Syron for Hope | 14.00% | ~191 |
+| Ask Questions Later | 14.00% | ~191 |
 | Treasure Trove | 13.00% | ~177 |
 | Cartographer | 13.00% | ~177 |
 | Sump Explorer | 13.00% | ~177 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 288)
 | Raw Talent | 0.70% | ~10 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,360 (Ranked 283)  
+Progressed: 1,361 (Ranked 283)  
 Completed: 8 (0.59%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 8 (0.59%) (Ranked 220)
 | 2024-01-24 | 1,358 | 8 |
 | 2024-01-25 | 1,359 | 8 |
 | 2024-01-26 | 1,360 | 8 |
+| 2024-01-27 | 1,361 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

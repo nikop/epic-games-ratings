@@ -5,24 +5,24 @@ Rating: 4.43 (Ranked 732)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~708 |
+| Travel Streamer | 92.00% | ~709 |
 | Training Simulation | 78.00% | ~601 |
-| Kuku Bird Hunter | 65.00% | ~500 |
-| Storm Traveller | 60.00% | ~462 |
+| Kuku Bird Hunter | 65.00% | ~501 |
+| Storm Traveller | 60.00% | ~463 |
 | Wolf King Killer | 55.00% | ~424 |
-| Fashion Connoisseur | 53.00% | ~408 |
-| Arms Mechanic | 49.00% | ~377 |
-| Flower Thief | 45.00% | ~346 |
+| Fashion Connoisseur | 53.00% | ~409 |
+| Arms Mechanic | 49.00% | ~378 |
+| Flower Thief | 45.00% | ~347 |
 | Apostle of Flame | 40.00% | ~308 |
-| Beginner Artificer | 39.00% | ~300 |
+| Beginner Artificer | 39.00% | ~301 |
 | Beginner Cook | 37.00% | ~285 |
-| Seal Breaker | 32.00% | ~246 |
-| Handyman | 29.00% | ~223 |
+| Seal Breaker | 32.00% | ~247 |
+| Handyman | 29.00% | ~224 |
 | Giant Lizard Killer | 27.00% | ~208 |
 | Guardian | 26.00% | ~200 |
 | Nosebleeder | 26.00% | ~200 |
-| Trader | 22.00% | ~169 |
-| Weapon Boost | 22.00% | ~169 |
+| Trader | 22.00% | ~170 |
+| Weapon Boost | 22.00% | ~170 |
 | Flying Kobold Killer | 19.00% | ~146 |
 | Youth Magnet | 19.00% | ~146 |
 | Furious Scorpion Killer | 17.00% | ~131 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 732)
 | Mermaid Killer | 16.00% | ~123 |
 | Cave Master | 15.00% | ~116 |
 | Face Slapper | 15.00% | ~116 |
-| Berserker Slayer | 12.00% | ~92 |
+| Berserker Slayer | 12.00% | ~93 |
 | Boss challenge | 11.00% | ~85 |
 | Giantess Slayer | 11.00% | ~85 |
 | Warden Slayer | 11.00% | ~85 |
@@ -51,7 +51,7 @@ Rating: 4.43 (Ranked 732)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 326)  
+Progressed: 771 (Ranked 326)  
 Completed: 3 (0.39%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 3 (0.39%) (Ranked 252)
 | 2024-01-24 | 766 | 3 |
 | 2024-01-25 | 768 | 3 |
 | 2024-01-26 | 769 | 3 |
-| 2024-01-27 | 770 | 3 |
+| 2024-01-27 | 771 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

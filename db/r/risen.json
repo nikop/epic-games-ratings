@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1164,6 +1164,11 @@
       "Time": "2024-01-26T06:10:49.1936323+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T12:11:27.816033+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1176,7 +1181,7 @@
       "Name": "The merciful one",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "id_11",
@@ -1200,7 +1205,7 @@
       "Name": "Death of a legend",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "id_15",
@@ -1208,7 +1213,7 @@
       "Name": "Archaeologist",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "id_16",
@@ -1240,7 +1245,7 @@
       "Name": "Pandora\u0027s box",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "id_2",
@@ -1248,7 +1253,7 @@
       "Name": "Field hand",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "id_20",
@@ -1272,7 +1277,7 @@
       "Name": "The traveler",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "id_25",
@@ -1304,7 +1309,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "id_32",
@@ -1320,7 +1325,7 @@
       "Name": "Ferocious wild boars",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "id_34",
@@ -1328,7 +1333,7 @@
       "Name": "Terror of the hens",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "id_36",
@@ -1438,9 +1443,9 @@
       "ID": "id_51",
       "SetID": "bk9jib6",
       "Name": "The fourth triplet",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "id_52",
@@ -1512,7 +1517,7 @@
       "Name": "Fence",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "id_60",
@@ -1526,9 +1531,9 @@
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 147
     },
     {
       "ID": "id_62",
@@ -1552,15 +1557,15 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "id_8",
       "SetID": "bk9jib6",
       "Name": "Sidelined",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "id_9",
@@ -1568,14 +1573,14 @@
       "Name": "Master detective",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     }
   ],
@@ -1583,8 +1588,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-23T07:58:03.0213159+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:34.6237606+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:27.8160324+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:59:56.2640069+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:34.6238308+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:01:37.2713585+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:27.8160648+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523,
+  "EOS_Progressed": 1524,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4119,6 +4119,11 @@
       "Time": "2024-01-27T11:09:39.7678807+00:00",
       "NumProgressed": 1523,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T12:11:33.7921628+00:00",
+      "NumProgressed": 1524,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4128,9 +4133,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1113
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -4138,7 +4143,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4170,7 +4175,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4202,7 +4207,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4258,7 +4263,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -4408,9 +4413,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 884
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4418,7 +4423,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4440,17 +4445,17 @@
       "ID": "KILLR_ACHIEVEMENT_5",
       "SetID": "9lcahn0",
       "Name": "Do This In Silence",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 91
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 533
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4480,9 +4485,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 290
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4506,7 +4511,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4657,14 +4662,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1523,
+      "Progressed": 1524,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:39.7678797+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:33.7921623+00:00",
   "LastUpdate_AppInfo": "2024-01-26T06:57:03.5646756+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:02:34.2176816+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:39.7680147+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:03:16.1882007+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:33.7922196+00:00"
 }

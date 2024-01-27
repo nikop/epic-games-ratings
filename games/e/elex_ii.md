@@ -10,7 +10,7 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 39.00% | ~115 |
 | Role Model | 36.00% | ~106 |
 | Civilian | 36.00% | ~106 |
-| Creator | 33.00% | ~97 |
+| Creator | 34.00% | ~100 |
 | Military Leader | 32.00% | ~94 |
 | Festival-goer | 29.00% | ~86 |
 | Peddler | 27.00% | ~80 |
@@ -25,9 +25,9 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 16.00% | ~47 |
 | Berserker | 16.00% | ~47 |
 | Perfectionist | 15.00% | ~44 |
+| Lover | 15.00% | ~44 |
+| Alb | 14.00% | ~41 |
 | Hunter | 14.00% | ~41 |
-| Lover | 14.00% | ~41 |
-| Alb | 13.00% | ~38 |
 | Beam Me Up | 12.00% | ~35 |
 | Free as a Bird | 12.00% | ~35 |
 | Treasure Hunter | 9.00% | ~27 |

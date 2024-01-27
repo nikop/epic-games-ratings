@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -4013,9 +4013,9 @@
       "ID": "ACHIEVEMENTS_18",
       "SetID": "d4o538a",
       "Name": "Dog Whisperer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 932
+      "UsersEstimate": 952
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -4190,8 +4190,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-26T06:00:24.0223073+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:05:41.4996367+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:07:42.4118161+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1423657+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:56:57.675268+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:05:41.4997591+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:16.9026294+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:07:42.4118754+00:00"
 }

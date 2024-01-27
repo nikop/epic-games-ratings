@@ -6,17 +6,17 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,780 |
-| The Assault | 5.00% | ~38,150 |
-| Life is your teacher | 5.00% | ~38,150 |
-| Lightning Hands | 5.00% | ~38,150 |
-| The Hateful Pole Fighter | 3.00% | ~22,890 |
-| Stuntmaster | 3.00% | ~22,890 |
-| Street Fighting | 3.00% | ~22,890 |
-| State of constant learning | 3.00% | ~22,890 |
-| Qi Gong: Essence | 3.00% | ~22,890 |
-| Old Child | 3.00% | ~22,890 |
-| Rumble in the Hangar | 3.00% | ~22,890 |
+| The Old Grandmaster | 6.00% | ~45,781 |
+| The Assault | 5.00% | ~38,151 |
+| Life is your teacher | 5.00% | ~38,151 |
+| Lightning Hands | 5.00% | ~38,151 |
+| The Hateful Pole Fighter | 3.00% | ~22,891 |
+| Stuntmaster | 3.00% | ~22,891 |
+| Street Fighting | 3.00% | ~22,891 |
+| State of constant learning | 3.00% | ~22,891 |
+| Qi Gong: Essence | 3.00% | ~22,891 |
+| Old Child | 3.00% | ~22,891 |
+| Rumble in the Hangar | 3.00% | ~22,891 |
 | A Lady's Blood in the Snow | 2.00% | ~15,260 |
 | Lady Wing Chun | 2.00% | ~15,260 |
 | Furious Fists | 2.00% | ~15,260 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763,006 (Ranked 26)  
+Progressed: 763,017 (Ranked 26)  
 Completed: 13,009 (1.70%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 13,009 (1.70%) (Ranked 150)
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
 | 2024-01-26 | 762,946 | 13,009 |
-| 2024-01-27 | 763,006 | 13,009 |
+| 2024-01-27 | 763,017 | 13,009 |
 ## Awards
 Max (Great Boss Battles): 7,295  (Ranked 59)  
 Sum: 12,906 (Ranked 88)  

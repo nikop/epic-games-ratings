@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 68.00% | ~111 |
-| Silent Overload | 58.00% | ~95 |
+| Breaking Through | 69.00% | ~112 |
+| Silent Overload | 59.00% | ~96 |
 | Symbiotic Weapon | 52.00% | ~85 |
 | A.I. Training | 45.00% | ~73 |
 | Sniper | 34.00% | ~55 |

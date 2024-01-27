@@ -151,11 +151,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3029,
+  "EOS_Progressed": 3030,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 7.96,
+  "EOS_Completed_Percentage": 7.95,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -8221,6 +8221,11 @@
       "Time": "2024-01-27T11:05:03.587274+00:00",
       "NumProgressed": 3029,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2024-01-27T12:06:49.556127+00:00",
+      "NumProgressed": 3030,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 25,
@@ -8232,7 +8237,7 @@
       "Name": "I did it",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "END_GOOD",
@@ -8256,7 +8261,7 @@
       "Name": "Cable guy",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "META_FIRST_LINK",
@@ -8264,7 +8269,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "META_HALF_LINK",
@@ -8376,7 +8381,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8400,7 +8405,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "PROGRESS_N3",
@@ -8408,7 +8413,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "PROGRESS_N4",
@@ -8431,7 +8436,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 3029,
+      "Progressed": 3030,
       "Completed": 241
     }
   ],
@@ -8439,8 +8444,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:05:03.5872733+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:06:49.5561265+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:58:11.2181355+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:05:03.5873907+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:59:03.2887453+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:49.55617+00:00"
 }

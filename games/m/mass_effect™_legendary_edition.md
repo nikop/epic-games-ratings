@@ -17,8 +17,8 @@
 | Council Legion of Merit | 39.00% | ~1,831 |
 | Missing in Action | 38.00% | ~1,784 |
 | Medal of Honor | 37.00% | ~1,738 |
+| Meritorious Service Medal | 37.00% | ~1,738 |
 | Soldier | 36.00% | ~1,691 |
-| Meritorious Service Medal | 36.00% | ~1,691 |
 | Soldier Ally | 36.00% | ~1,691 |
 | Charismatic | 36.00% | ~1,691 |
 | Very Elusive | 35.00% | ~1,644 |
@@ -42,10 +42,10 @@
 | The Krogan | 27.00% | ~1,268 |
 | Veteran | 26.00% | ~1,221 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,221 |
+| Driven | 26.00% | ~1,221 |
 | Ghost Ship | 25.00% | ~1,174 |
 | The Assassin | 25.00% | ~1,174 |
 | The Justicar | 25.00% | ~1,174 |
-| Driven | 25.00% | ~1,174 |
 | The Quarian | 24.00% | ~1,127 |
 | The Prodigal | 24.00% | ~1,127 |
 | Galactic Explorer | 24.00% | ~1,127 |

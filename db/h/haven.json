@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2067,
+  "EOS_Progressed": 2068,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3995,6 +3995,11 @@
       "Time": "2024-01-27T01:45:03.7174114+00:00",
       "NumProgressed": 2067,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-27T12:06:38.7113068+00:00",
+      "NumProgressed": 2068,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 30,
@@ -4006,7 +4011,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "10",
@@ -4030,7 +4035,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "13",
@@ -4070,7 +4075,7 @@
       "Name": "Balding bloot!",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "18",
@@ -4166,7 +4171,7 @@
       "Name": "Hug therapy",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "30",
@@ -4230,7 +4235,7 @@
       "Name": "Over my dead body",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "9",
@@ -4245,15 +4250,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2067,
+      "Progressed": 2068,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:04:55.6877109+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:06:38.7113063+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:20.5774247+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:55.6877682+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:50.0021571+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:38.7113471+00:00"
 }

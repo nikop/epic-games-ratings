@@ -19,8 +19,8 @@ Number of Ratings: 90  (23.09.2022)
 | Pimp My Raid | 27.00% | ~129 |
 | Freshly Squeezed | 23.00% | ~110 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~105 |
+| Die Nasty | 19.00% | ~91 |
 | Perfect Probulator | 18.00% | ~86 |
-| Die Nasty | 18.00% | ~86 |
 | Transmitting From Sol-3 | 17.00% | ~81 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~67 |
 | Fly Me to the Moon Base | 12.00% | ~57 |

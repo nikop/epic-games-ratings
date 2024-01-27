@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25432,
+  "EOS_Progressed": 25433,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
@@ -24574,6 +24574,11 @@
       "Time": "2024-01-27T11:04:44.1456367+00:00",
       "NumProgressed": 25432,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-27T12:06:22.7881391+00:00",
+      "NumProgressed": 25433,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24617,7 +24622,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -24625,7 +24630,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -24641,7 +24646,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12970
+      "UsersEstimate": 12971
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -24665,7 +24670,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "ACH_THE_FALL",
@@ -24696,15 +24701,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25432,
+      "Progressed": 25433,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:04:44.1456362+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:06:22.7881387+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:25.6076149+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:44.1458485+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:57.6988142+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:22.788237+00:00"
 }

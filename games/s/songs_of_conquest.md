@@ -16,7 +16,7 @@ Number of Ratings: 292  (23.09.2022)
 | Multi Kill | 9.00% | ~119 |
 | Sorcerous Spree | 9.00% | ~119 |
 | Landlord Extraordinaire | 8.00% | ~106 |
-| Master | 7.00% | ~92 |
+| Master | 7.00% | ~93 |
 | The Song of Stoutheart | 6.00% | ~79 |
 | Whoops! | 6.00% | ~79 |
 | Don't Touch My Stuff | 6.00% | ~79 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,321 (Ranked 287)  
+Progressed: 1,322 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 1,304 | 0 |
 | 2024-01-25 | 1,313 | 0 |
 | 2024-01-26 | 1,318 | 0 |
-| 2024-01-27 | 1,321 | 0 |
+| 2024-01-27 | 1,322 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 532)  
 Sum: 252 (Ranked 402)  

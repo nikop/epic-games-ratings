@@ -4109,9 +4109,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 21038,
+  "EOS_Progressed": 21040,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -20644,6 +20644,11 @@
       "Time": "2024-01-27T11:08:11.2681143+00:00",
       "NumProgressed": 21038,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-27T12:09:33.5605375+00:00",
+      "NumProgressed": 21040,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20744,7 +20749,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "WinHard",
@@ -21032,7 +21037,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "WinWithoutOrders",
@@ -21062,9 +21067,9 @@
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1473
     },
     {
       "ID": "WinNearGreed",
@@ -21088,7 +21093,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "WinNearPresence",
@@ -21127,15 +21132,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 21038,
+      "Progressed": 21040,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-27T03:59:39.7535729+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:08:11.2681129+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:09:33.5605371+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:59:50.3114926+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:08:11.2682994+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:01:28.452569+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:09:33.5606451+00:00"
 }

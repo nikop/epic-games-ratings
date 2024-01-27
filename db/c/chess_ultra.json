@@ -497,9 +497,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229601,
+  "EOS_Progressed": 229602,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 959,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32842,6 +32842,11 @@
       "Time": "2024-01-27T11:07:49.4773715+00:00",
       "NumProgressed": 229601,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T12:09:03.5621841+00:00",
+      "NumProgressed": 229602,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -32853,7 +32858,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 107912
+      "UsersEstimate": 107913
     },
     {
       "ID": "AlekhinesGun",
@@ -32909,7 +32914,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68880
+      "UsersEstimate": 68881
     },
     {
       "ID": "ChessChampion",
@@ -33069,7 +33074,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 71176
+      "UsersEstimate": 71177
     },
     {
       "ID": "QueenSacrifice",
@@ -33156,7 +33161,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 229601,
+      "Progressed": 229602,
       "Completed": 2
     }
   ],
@@ -33164,8 +33169,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-26T01:41:17.5849022+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:07:49.4773708+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:09:03.5621837+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:03.3233579+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:59:01.0714762+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:07:49.4776571+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:00:17.5068839+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:09:03.5623556+00:00"
 }

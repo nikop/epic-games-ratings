@@ -17,7 +17,7 @@
 | Little Shop | 50.00% | ~600 |
 | Surprise! | 46.00% | ~552 |
 | An Actor! | 46.00% | ~552 |
-| Curtain Call | 44.00% | ~528 |
+| Curtain Call | 45.00% | ~540 |
 | Piece of Cake | 42.00% | ~504 |
 | Gooey Delight! | 42.00% | ~504 |
 | Glimmer of Hope | 42.00% | ~504 |

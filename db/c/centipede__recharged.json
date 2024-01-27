@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25689,
+  "EOS_Progressed": 25690,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -24295,6 +24295,11 @@
       "Time": "2024-01-27T11:04:37.2223003+00:00",
       "NumProgressed": 25689,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2024-01-27T12:06:13.2238391+00:00",
+      "NumProgressed": 25690,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 16,
@@ -24306,7 +24311,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 5908
+      "UsersEstimate": 5909
     },
     {
       "ID": "Burning_For_You",
@@ -24370,7 +24375,7 @@
       "Name": "I Am The Storm",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -24410,7 +24415,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8734
+      "UsersEstimate": 8735
     },
     {
       "ID": "Still_Burning",
@@ -24433,15 +24438,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25689,
+      "Progressed": 25690,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:04:37.2222995+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:06:13.2238387+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:59:29.1621178+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:37.2224756+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:00:58.2761873+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:13.2239594+00:00"
 }

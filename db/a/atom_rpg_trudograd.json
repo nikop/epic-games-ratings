@@ -2,12 +2,12 @@
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -260,7 +260,7 @@
   ],
   "EOS_Progressed": 1426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2584,9 +2584,9 @@
       "ID": "VIVA_LA_REVOLUTION",
       "SetID": "62d2oh4",
       "Name": "Viva La Revolution",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 71
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -2617,8 +2617,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-01-20T05:59:38.2083102+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:16.4891855+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:03.7242947+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.777095+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:02:32.9667488+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:16.4892286+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:03:14.3059739+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:03.7243228+00:00"
 }

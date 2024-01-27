@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 1475,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4430,6 +4430,11 @@
       "Time": "2024-01-27T10:04:16.6703653+00:00",
       "NumProgressed": 1475,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T12:04:46.8881631+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4450,7 +4455,7 @@
       "Name": "Ab Initio",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "AnthropicHills",
@@ -4482,7 +4487,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "BreakTheLoop",
@@ -4498,7 +4503,7 @@
       "Name": "Bridge Builder",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ChasingTheLight",
@@ -4536,9 +4541,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 443
     },
     {
       "ID": "EasternWetlands",
@@ -4626,7 +4631,7 @@
       "Name": "Lord of the Files",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "LostMarshes",
@@ -4650,7 +4655,7 @@
       "Name": "Mnemosyne",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MuseumExplorer",
@@ -4666,7 +4671,7 @@
       "Name": "Museum Visitor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "NewBeginning",
@@ -4706,7 +4711,7 @@
       "Name": "Persistent",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "PrometheusUnbound",
@@ -4786,7 +4791,7 @@
       "Name": "Team Spirit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "TextAdventurer",
@@ -4802,7 +4807,7 @@
       "Name": "The All-Gifted",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4810,7 +4815,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TheFuture",
@@ -4818,7 +4823,7 @@
       "Name": "The Future",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TheHardWay",
@@ -4913,7 +4918,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1475,
+      "Progressed": 1476,
       "Completed": 3
     }
   ],
@@ -4921,8 +4926,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-27T01:36:20.2681262+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:03:34.7860429+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:04:46.8881627+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:21.3492698+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:03:34.7861245+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:51.2017111+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:04:46.8882183+00:00"
 }

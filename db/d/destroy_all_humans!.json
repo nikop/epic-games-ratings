@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -2439,9 +2439,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2703,8 +2703,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:05:18.133896+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:07:09.7962576+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:24.5329483+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:00:01.4078453+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:05:18.1339509+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:01:44.2952039+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:07:09.7962952+00:00"
 }

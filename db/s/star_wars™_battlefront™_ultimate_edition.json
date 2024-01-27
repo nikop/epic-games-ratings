@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3161,
+  "EOS_Progressed": 3164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8659,6 +8659,11 @@
       "Time": "2024-01-27T11:09:38.4561933+00:00",
       "NumProgressed": 3161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T12:11:32.050354+00:00",
+      "NumProgressed": 3164,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8783,7 +8788,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_23",
@@ -8815,7 +8820,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_27",
@@ -8895,7 +8900,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2721
     },
     {
       "ID": "achievement_36",
@@ -8903,7 +8908,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_37",
@@ -8911,7 +8916,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "achievement_38",
@@ -8935,7 +8940,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_40",
@@ -8943,7 +8948,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "achievement_41",
@@ -9023,7 +9028,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_50",
@@ -9079,7 +9084,7 @@
       "Name": "Support the troops",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_57",
@@ -9111,7 +9116,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "achievement_60",
@@ -9174,13 +9179,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3161,
+      "Progressed": 3164,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3161,
+      "Progressed": 3164,
       "Completed": 1
     }
   ],
@@ -9188,8 +9193,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:38.4561928+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:32.0503534+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:59:56.9509142+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:38.45632+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:01:38.3105401+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:32.0504422+00:00"
 }

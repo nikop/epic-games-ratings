@@ -4,8 +4,8 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 111,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 6.31,
   "EosHistory": [
@@ -429,9 +429,9 @@
       "ID": "BANK_DAD",
       "SetID": "89ki2f0",
       "Name": "Found dad\u0027s old stuff",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "BANK_FIRST",
@@ -445,9 +445,9 @@
       "ID": "BANK_MOTHERLODE",
       "SetID": "89ki2f0",
       "Name": "JACKPOT!!!",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "BANK_STEAL",
@@ -501,9 +501,9 @@
       "ID": "DARKWEB_ALL",
       "SetID": "89ki2f0",
       "Name": "Five star customer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DARKWEB_FIRST",
@@ -525,9 +525,9 @@
       "ID": "MONEY_100K",
       "SetID": "89ki2f0",
       "Name": "Hiding your wealth",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "MONEY_10K",
@@ -549,9 +549,9 @@
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "PHOTOS_ALL",
@@ -565,9 +565,9 @@
       "ID": "RESEARCH_ALL",
       "SetID": "89ki2f0",
       "Name": "Five head",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 75,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RESEARCH_FIRST",
@@ -620,8 +620,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:04:59.4847279+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:06:43.8941066+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:58:42.4679529+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:59.4847627+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:59:49.5323203+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:43.8941206+00:00"
 }

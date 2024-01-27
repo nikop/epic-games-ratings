@@ -4,7 +4,7 @@
   "ProductSlug": "vacation-adventures-park-ranger-14-collectors-edition-3e56cb",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 532,
+  "Ranking_EOS_NewPlayers": 531,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2024-01-25T08:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2024-01-27T12:00:21.9097531+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:39.74649+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:59:04.1666892+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:41.9046894+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:00:21.9097565+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:19.742116+00:00"
 }

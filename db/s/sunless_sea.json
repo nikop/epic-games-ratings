@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 45010,
+  "EOS_Progressed": 45011,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29746,6 +29746,11 @@
       "Time": "2024-01-27T11:04:36.0761142+00:00",
       "NumProgressed": 45010,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-27T12:06:11.7108089+00:00",
+      "NumProgressed": 45011,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29965,7 +29970,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6302
     },
     {
       "ID": "ach_legacysalvager",
@@ -30085,7 +30090,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "ach_stranger",
@@ -30188,15 +30193,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 45010,
+      "Progressed": 45011,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:04:36.0761136+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:06:11.7108085+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:56:54.0315931+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:04:36.0763769+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:57:11.5550101+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:06:11.7109595+00:00"
 }

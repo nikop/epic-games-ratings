@@ -2,12 +2,12 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5745,9 +5745,9 @@
       "Count": 705
     }
   ],
-  "EOS_Progressed": 24261,
+  "EOS_Progressed": 24262,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18165,6 +18165,11 @@
       "Time": "2024-01-27T09:09:55.7126945+00:00",
       "NumProgressed": 24261,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T12:10:00.0458031+00:00",
+      "NumProgressed": 24262,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -18193,7 +18198,7 @@
       "Name": "A New Timeline",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 11160
+      "UsersEstimate": 11161
     },
     {
       "ID": "ach04",
@@ -18217,7 +18222,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16497
+      "UsersEstimate": 16498
     },
     {
       "ID": "ach07",
@@ -18225,7 +18230,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11160
+      "UsersEstimate": 11161
     },
     {
       "ID": "ach08",
@@ -18273,7 +18278,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "ach14",
@@ -18297,7 +18302,7 @@
       "Name": "Test Your Might",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "ach17",
@@ -18361,7 +18366,7 @@
       "Name": "Ultimate Power",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7278
+      "UsersEstimate": 7279
     },
     {
       "ID": "ach25",
@@ -18385,7 +18390,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "ach28",
@@ -18393,7 +18398,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "ach29",
@@ -18401,7 +18406,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "ach30",
@@ -18441,7 +18446,7 @@
       "Name": "Always Accessorize",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "ach35",
@@ -18489,7 +18494,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "ach41",
@@ -18553,7 +18558,7 @@
       "Name": "Total Disrespect",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "ach49",
@@ -18576,7 +18581,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24261,
+      "Progressed": 24262,
       "Completed": 3
     }
   ],
@@ -18584,8 +18589,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-27T06:03:28.8615817+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:08:30.7950736+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:10:00.0458025+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-27T11:02:42.4410434+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:08:30.7951721+00:00"
+  "LastUpdate_Ratings": "2024-01-27T12:03:28.3284161+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:10:00.0459395+00:00"
 }

@@ -8,9 +8,9 @@ Rating: 4.22 (Ranked 959)
 | Flesh Wound | 28.00% | ~6,376 |
 | The Outer Way | 28.00% | ~6,376 |
 | Desperate Times | 27.00% | ~6,148 |
-| Paper Jams | 25.00% | ~5,692 |
+| Paper Jams | 25.00% | ~5,693 |
 | Get a Grip | 24.00% | ~5,465 |
-| Chew 'Em Up | 22.00% | ~5,009 |
+| Chew 'Em Up | 22.00% | ~5,010 |
 | Reforged | 21.00% | ~4,782 |
 | Float Like A Butterfly | 20.00% | ~4,554 |
 | If the SHU Fits... | 19.00% | ~4,326 |
@@ -20,10 +20,10 @@ Rating: 4.22 (Ranked 959)
 | Two Heads Are Better Than One | 14.00% | ~3,188 |
 | Crash Site | 14.00% | ~3,188 |
 | Power Up | 13.00% | ~2,960 |
-| Giving Back | 12.00% | ~2,732 |
-| Terminated | 12.00% | ~2,732 |
-| What Lies Beneath | 12.00% | ~2,732 |
-| Full Circle | 12.00% | ~2,732 |
+| Giving Back | 12.00% | ~2,733 |
+| Terminated | 12.00% | ~2,733 |
+| What Lies Beneath | 12.00% | ~2,733 |
+| Full Circle | 12.00% | ~2,733 |
 | You Need a Gun | 10.00% | ~2,277 |
 | I Do Belong Here | 9.00% | ~2,049 |
 | Keep Fighting | 8.00% | ~856 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 959)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,770 (Ranked 153)  
+Progressed: 22,771 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,14 +327,14 @@ Completed: 82 (0.36%) (Ranked 257)
 | 2024-01-24 | 22,722 | 82 |
 | 2024-01-25 | 22,746 | 82 |
 | 2024-01-26 | 22,758 | 82 |
-| 2024-01-27 | 22,770 | 82 |
+| 2024-01-27 | 22,771 | 82 |
 ## Awards
-Max (Amazing Characters): 143  (Ranked 343)  
-Sum: 693 (Ranked 314)  
-Diff (max vs sum): 29  
+Max (Amazing Characters): 144  (Ranked 341)  
+Sum: 694 (Ranked 314)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 143 |
+| This game has Amazing Characters | 144 |
 | This game is Highly Recommended | 125 |
 | This game is Extremely Fun | 123 |
 | This game has Amazing Storytelling | 123 |
@@ -558,3 +558,4 @@ Diff (max vs sum): 29
 | 2024-01-24 | 4.22 | 143 | 688 |
 | 2024-01-25 | 4.22 | 143 | 691 |
 | 2024-01-26 | 4.22 | 143 | 693 |
+| 2024-01-27 | 4.22 | 144 | 694 |

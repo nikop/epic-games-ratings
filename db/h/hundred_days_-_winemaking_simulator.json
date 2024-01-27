@@ -1135,9 +1135,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 22258,
+  "EOS_Progressed": 22263,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18810,6 +18810,11 @@
       "Time": "2024-01-27T11:09:16.2088498+00:00",
       "NumProgressed": 22258,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-27T12:11:03.273665+00:00",
+      "NumProgressed": 22263,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18870,7 +18875,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9794
+      "UsersEstimate": 9796
     },
     {
       "ID": "a_19",
@@ -18894,7 +18899,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "a_21",
@@ -18902,7 +18907,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "a_22",
@@ -18910,7 +18915,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "a_23",
@@ -19069,7 +19074,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 22258,
+      "Progressed": 22263,
       "Completed": 13
     }
   ],
@@ -19077,8 +19082,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-26T14:57:59.1712141+00:00",
-  "LastChanged_Achievements": "2024-01-27T11:09:16.2088489+00:00",
+  "LastChanged_Achievements": "2024-01-27T12:11:03.2736644+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:57:56.9084589+00:00",
-  "LastUpdate_Achievements": "2024-01-27T11:09:16.2090316+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:58:43.1015872+00:00",
+  "LastUpdate_Achievements": "2024-01-27T12:11:03.2737796+00:00"
 }
