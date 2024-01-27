@@ -2,7 +2,7 @@
   "ID": "3ade24028e9247039924d3877af0a2ea",
   "Name": "WHAT THE GOLF?",
   "ProductSlug": "what-the-golf",
-  "Ranking_Rating": 123,
+  "Ranking_Rating": 134,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -157,6 +157,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-27T13:57:19.2346268+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -174,8 +180,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:31.118083+00:00",
-  "LastChanged": "2023-03-31T05:57:55.4036088+00:00",
+  "LastChanged": "2024-01-27T13:57:19.2346267+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:41.6581827+00:00",
-  "LastUpdate_Ratings": "2024-01-27T12:58:11.0852276+00:00",
+  "LastUpdate_Ratings": "2024-01-27T13:57:19.2346272+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:57.0686738+00:00"
 }

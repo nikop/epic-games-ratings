@@ -1,7 +1,7 @@
 # WHAT THE GOLF?
 [Store](https://store.epicgames.com/en-US/p/what-the-golf)  
 [View Rawdata](../../db/w/what_the_golf.json)  
-Rating: 4.77 (Ranked 123)  
+Rating: 4.76 (Ranked 134)  
 Number of Ratings: 38  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -35,3 +35,4 @@ Number of Ratings: 38  (23.09.2022)
 | 2022-12-06 | 4.78 | - | - | - |
 | 2022-12-20 | 4.77 | - | - | - |
 | 2023-03-31 | 4.77 | - | 0 | 0 |
+| 2024-01-27 | 4.76 | - | 0 | 0 |
