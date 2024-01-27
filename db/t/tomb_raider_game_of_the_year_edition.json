@@ -4,7 +4,7 @@
   "ProductSlug": "tomb-raider",
   "Ranking_Rating": 310,
   "Ranking_Popularity": 70,
-  "Ranking_PopularitySum": 130,
+  "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3382,10 +3382,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 7208,
       "NumberOfAwardsMax": 6108
+    },
+    {
+      "Time": "2024-01-27T20:57:42.0163464+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7212,
+      "NumberOfAwardsMax": 6108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7208,
+  "NumberOfAwards": 7212,
   "NumberOfAwardsMax": 6108,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3405,7 +3411,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 118
+      "Count": 119
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3417,13 +3423,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 130
+      "Count": 132
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game is Relaxing",
@@ -3467,8 +3473,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2024-01-27T13:01:06.0891695+00:00",
+  "LastChanged": "2024-01-27T20:57:42.0163462+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.731929+00:00",
-  "LastUpdate_Ratings": "2024-01-27T19:01:33.1656831+00:00",
+  "LastUpdate_Ratings": "2024-01-27T20:57:42.0163467+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:46.4919484+00:00"
 }
