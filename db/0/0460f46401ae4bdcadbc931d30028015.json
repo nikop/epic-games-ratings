@@ -4,7 +4,7 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 992,
   "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 131,
@@ -1867,10 +1867,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 474,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2024-01-27T17:59:42.4438764+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 514,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 474,
+  "NumberOfAwards": 514,
   "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1926,7 +1932,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 40
     },
     {
       "Text": "This game has Competitive Players",
@@ -13001,9 +13007,9 @@
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-27T06:59:49.9679222+00:00",
+  "LastChanged": "2024-01-27T17:59:42.4438763+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:02.316138+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.5430361+00:00",
-  "LastUpdate_Ratings": "2024-01-27T16:57:43.1104689+00:00",
+  "LastUpdate_Ratings": "2024-01-27T17:59:42.4438767+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:02.3162088+00:00"
 }
