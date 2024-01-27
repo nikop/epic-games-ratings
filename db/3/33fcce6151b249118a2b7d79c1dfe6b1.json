@@ -94,9 +94,9 @@
       "ID": "AllianceMarvagh",
       "SetID": "8j3le2g",
       "Name": "Alliance Chosen: Marvagh",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AlliancePetrard",
@@ -182,9 +182,9 @@
       "ID": "CompleteLevel5",
       "SetID": "8j3le2g",
       "Name": "The Night Shift",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteLevel6",
@@ -485,8 +485,8 @@
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:06:05.6400864+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:05:12.7251235+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:00:19.5930265+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:06:05.6401175+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:59:33.7182415+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:05:12.7251842+00:00"
 }

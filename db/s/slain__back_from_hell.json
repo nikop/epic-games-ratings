@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44900,
+  "EOS_Progressed": 44903,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30822,6 +30822,11 @@
       "Time": "2024-01-27T09:08:19.4792117+00:00",
       "NumProgressed": 44900,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-27T11:05:53.3553714+00:00",
+      "NumProgressed": 44903,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30841,7 +30846,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9429
+      "UsersEstimate": 9430
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -30913,7 +30918,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -30929,7 +30934,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -30953,7 +30958,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -30961,7 +30966,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -31064,7 +31069,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44900,
+      "Progressed": 44903,
       "Completed": 30
     }
   ],
@@ -31072,8 +31077,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:08:21.491447+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:05:53.355371+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:03:21.2210724+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:08:21.4916254+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:02:44.3759047+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:05:53.3557408+00:00"
 }

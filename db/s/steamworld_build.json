@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1220,9 +1220,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 186
     },
     {
       "ID": "GottaGoFast",
@@ -1395,8 +1395,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:05:52.5274998+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:05:00.8763079+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:46.5924909+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:03:38.6404364+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:05:52.527523+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:02:59.5584618+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:05:00.8763948+00:00"
 }

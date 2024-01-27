@@ -1134,9 +1134,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 233177,
+  "EOS_Progressed": 233182,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32134,6 +32134,11 @@
       "Time": "2024-01-27T08:10:17.778682+00:00",
       "NumProgressed": 233177,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T11:09:28.1471669+00:00",
+      "NumProgressed": 233182,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -32145,7 +32150,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46635
+      "UsersEstimate": 46636
     },
     {
       "ID": "ACH_BASE_10",
@@ -32153,7 +32158,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60626
+      "UsersEstimate": 60627
     },
     {
       "ID": "ACH_BASE_11",
@@ -32393,7 +32398,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30313
+      "UsersEstimate": 30314
     },
     {
       "ID": "ACH_BASE_8",
@@ -32416,7 +32421,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 233177,
+      "Progressed": 233182,
       "Completed": 5
     }
   ],
@@ -32424,8 +32429,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-26T15:58:38.7606672+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:39.2530985+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:28.1471662+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:59:34.2396611+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:39.2532401+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:58:53.8471956+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:28.147441+00:00"
 }

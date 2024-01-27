@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1369,6 +1369,11 @@
       "Time": "2024-01-26T19:11:17.2152311+00:00",
       "NumProgressed": 334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T11:09:24.0092923+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1476,7 +1481,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achSaveses",
@@ -1516,21 +1521,21 @@
       "Name": "Witch \u2714",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:34.70674+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:24.0092916+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:29.9233663+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:03:22.3417762+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:34.7067572+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:02:45.5991628+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:24.0093253+00:00"
 }

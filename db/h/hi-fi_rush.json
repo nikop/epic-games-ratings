@@ -297,9 +297,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 17750,
+  "EOS_Progressed": 17751,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13402,6 +13402,11 @@
       "Time": "2024-01-27T10:05:32.6380112+00:00",
       "NumProgressed": 17750,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-27T11:04:43.0625571+00:00",
+      "NumProgressed": 17751,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13413,7 +13418,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9940
+      "UsersEstimate": 9941
     },
     {
       "ID": "Ach002",
@@ -13445,7 +13450,7 @@
       "Name": "Headliner",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "Ach006",
@@ -13549,7 +13554,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     },
     {
       "ID": "Ach019",
@@ -13637,7 +13642,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "Ach030",
@@ -13701,7 +13706,7 @@
       "Name": "We\u0027re Jammin\u0027",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "Ach038",
@@ -13813,7 +13818,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9052
+      "UsersEstimate": 9053
     },
     {
       "ID": "Ach052",
@@ -13845,7 +13850,7 @@
       "Name": "You ever parry a volcano?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "Ach056",
@@ -13980,13 +13985,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17750,
+      "Progressed": 17751,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16271,
+      "Progressed": 16272,
       "Completed": 1931
     }
   ],
@@ -13994,8 +13999,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-25T07:57:37.7523595+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:05:32.6380109+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:04:43.0625564+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:59:03.5823871+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:05:32.6381211+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:58:27.3571975+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:04:43.0627589+00:00"
 }

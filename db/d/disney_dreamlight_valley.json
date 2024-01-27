@@ -6139,10 +6139,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8490,
       "NumberOfAwardsMax": 1206
+    },
+    {
+      "Time": "2024-01-27T11:02:25.4496427+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8491,
+      "NumberOfAwardsMax": 1206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8490,
+  "NumberOfAwards": 8491,
   "NumberOfAwardsMax": 1206,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6174,7 +6180,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 786
+      "Count": 787
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6213,9 +6219,9 @@
       "Count": 564
     }
   ],
-  "EOS_Progressed": 14344,
+  "EOS_Progressed": 14345,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -26348,6 +26354,11 @@
       "Time": "2024-01-27T07:09:53.6874756+00:00",
       "NumProgressed": 14344,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-27T11:08:43.9394181+00:00",
+      "NumProgressed": 14345,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 15,
@@ -26383,7 +26394,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "Chit_Chatter",
@@ -26431,7 +26442,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9754
+      "UsersEstimate": 9755
     },
     {
       "ID": "Miner",
@@ -26447,7 +26458,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9610
+      "UsersEstimate": 9611
     },
     {
       "ID": "Renovator",
@@ -26471,23 +26482,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8463
+      "UsersEstimate": 8464
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14344,
+      "Progressed": 14345,
       "Completed": 359
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-27T07:02:57.2182213+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:09:50.6241371+00:00",
+  "LastChanged": "2024-01-27T11:02:25.4496425+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:08:43.939417+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:02:59.1363113+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:09:50.6242504+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:02:25.4496435+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:08:43.9396236+00:00"
 }

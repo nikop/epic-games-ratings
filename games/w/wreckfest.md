@@ -1,14 +1,14 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.25 (Ranked 934)  
+Rating: 4.25 (Ranked 933)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Storm Warning | 72.00% | ~932 |
 | Highballer | 60.00% | ~777 |
 | Dirty Roller | 34.00% | ~440 |
-| Regional Juniors Champion | 32.00% | ~414 |
+| Regional Juniors Champion | 33.00% | ~427 |
 | Wheeler Dealer | 26.00% | ~337 |
 | Look Mom, I Can Fly | 25.00% | ~324 |
 | National Amateurs Champion | 19.00% | ~246 |

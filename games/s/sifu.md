@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.60% | ~4,578 |
 | Prodigal Child | 0.60% | ~4,578 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,578 |
-| The best strikes are the ones we avoid | 0.50% | ~361 |
+| The best strikes are the ones we avoid | 0.50% | ~362 |
 | Drunken Fighter | 0.40% | ~3,052 |
 | Martial Artist | 0.40% | ~3,052 |
 | Knowledge Greed | 0.40% | ~3,052 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,997 (Ranked 26)  
+Progressed: 763,006 (Ranked 26)  
 Completed: 13,009 (1.70%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 13,009 (1.70%) (Ranked 150)
 | 2024-01-24 | 762,706 | 13,008 |
 | 2024-01-25 | 762,830 | 13,008 |
 | 2024-01-26 | 762,946 | 13,009 |
-| 2024-01-27 | 762,997 | 13,009 |
+| 2024-01-27 | 763,006 | 13,009 |
 ## Awards
 Max (Great Boss Battles): 7,295  (Ranked 59)  
 Sum: 12,906 (Ranked 88)  

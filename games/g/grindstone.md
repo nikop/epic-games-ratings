@@ -43,7 +43,7 @@ Number of Ratings: 63  (23.09.2022)
 | Off the Beaten Path | 10.00% | ~525 |
 | It's Been a Blast | 9.00% | ~472 |
 | For Rock and Stone! | 9.00% | ~472 |
-| Don't Get Too Greedy | 7.00% | ~368 |
+| Don't Get Too Greedy | 8.00% | ~420 |
 | You're In a Cult, Call Your Dad | 6.00% | ~315 |
 | The Poison You Just Drank | 5.00% | ~262 |
 | Survived The Slaughter | 5.00% | ~262 |

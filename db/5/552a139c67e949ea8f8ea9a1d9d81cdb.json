@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2001,
+  "EOS_Progressed": 2002,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5222,6 +5222,11 @@
       "Time": "2024-01-26T21:08:08.7225288+00:00",
       "NumProgressed": 2001,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T11:07:41.6507912+00:00",
+      "NumProgressed": 2002,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5440,9 +5445,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "5k00jcd",
       "Name": "Extreme conditions",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5601,20 +5606,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 2001,
+      "Progressed": 2002,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1669,
+      "Progressed": 1670,
       "Completed": 1016
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:08:41.8311674+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:07:41.6507905+00:00",
   "LastUpdate_AppInfo": "2024-01-25T06:57:19.8144856+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:59:47.3390181+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:08:41.8312212+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:59:05.0642104+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:07:41.6508883+00:00"
 }

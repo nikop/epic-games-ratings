@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,298 |
-| Autodidact | 9.00% | ~12,040 |
+| Autodidact | 9.00% | ~12,041 |
 | Lost and Found | 9.00% | ~779 |
 | This guy... again? | 8.00% | ~692 |
 | Serenity Now! | 7.00% | ~9,365 |
@@ -50,12 +50,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,351 |
 | Unshackled | 4.00% | ~5,351 |
 | Road Trip | 4.00% | ~5,351 |
-| This Looks Familiar | 3.00% | ~4,013 |
-| Hope Rekindled | 3.00% | ~4,013 |
-| When You Want Something Done Right | 3.00% | ~4,013 |
-| Utopia | 3.00% | ~4,013 |
-| Hot Air | 3.00% | ~4,013 |
-| Eyes Up | 3.00% | ~4,013 |
+| This Looks Familiar | 3.00% | ~4,014 |
+| Hope Rekindled | 3.00% | ~4,014 |
+| When You Want Something Done Right | 3.00% | ~4,014 |
+| Utopia | 3.00% | ~4,014 |
+| Hot Air | 3.00% | ~4,014 |
+| Eyes Up | 3.00% | ~4,014 |
 | Ichthyophobic | 2.00% | ~2,676 |
 | No More Mouths to Feed | 2.00% | ~2,676 |
 | Shrine of Reflection | 2.00% | ~2,676 |
@@ -71,7 +71,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 1.00% | ~87 |
 | The World As It Was | 0.90% | ~1,204 |
 | A Life Well Lived | 0.80% | ~1,070 |
-| Bacon Bits | 0.70% | ~936 |
+| Bacon Bits | 0.70% | ~937 |
 | On This Long Road, We Found Redemption | 0.70% | ~61 |
 | Eidetic | 0.60% | ~803 |
 | Battle Hardened | 0.50% | ~43 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,783 (Ranked 92)  
+Progressed: 133,787 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
 | 2024-01-26 | 133,757 | 5 |
-| 2024-01-27 | 133,783 | 5 |
+| 2024-01-27 | 133,787 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
 Sum: 21,893 (Ranked 60)  

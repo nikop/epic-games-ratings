@@ -159,9 +159,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "4mjb15",
       "Name": "A Fool to the World",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -295,25 +295,25 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "4mjb15",
       "Name": "Get a Friend, Get a Sword",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "4mjb15",
       "Name": "The Rock Is Indeed Moving",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "4mjb15",
       "Name": "Get To Know the Locals",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -366,8 +366,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:40.5050349+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:29.3440462+00:00",
   "LastUpdate_AppInfo": "2024-01-27T02:10:37.3757073+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:58:22.0408557+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:40.5050488+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:57:50.616742+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:29.3440719+00:00"
 }

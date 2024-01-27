@@ -5,12 +5,12 @@ Rating: 4.71 (Ranked 206)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 97.00% | ~18,623 |
-| Welcome Aboard | 83.00% | ~15,935 |
-| Lab Rat | 68.00% | ~13,055 |
-| All Systems Go | 57.00% | ~10,943 |
-| Brute Force | 56.00% | ~10,751 |
-| Cannon Fodder | 53.00% | ~10,175 |
+| Marksman | 97.00% | ~18,624 |
+| Welcome Aboard | 83.00% | ~15,936 |
+| Lab Rat | 68.00% | ~13,056 |
+| All Systems Go | 57.00% | ~10,944 |
+| Brute Force | 56.00% | ~10,752 |
+| Cannon Fodder | 53.00% | ~10,176 |
 | Raise the Stakes | 50.00% | ~9,600 |
 | Autofire | 48.00% | ~9,216 |
 | True Believer | 48.00% | ~9,216 |
@@ -53,7 +53,7 @@ Rating: 4.71 (Ranked 206)
 | One Gun | 1.00% | ~192 |
 | Reunion | 1.00% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,199 (Ranked 162)  
+Progressed: 19,200 (Ranked 162)  
 Completed: 56 (0.29%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 56 (0.29%) (Ranked 269)
 | 2024-01-24 | 18,984 | 55 |
 | 2024-01-25 | 19,052 | 56 |
 | 2024-01-26 | 19,153 | 56 |
-| 2024-01-27 | 19,199 | 56 |
+| 2024-01-27 | 19,200 | 56 |
 ## Awards
 Max (Great Boss Battles): 328  (Ranked 259)  
 Sum: 328 (Ranked 379)  

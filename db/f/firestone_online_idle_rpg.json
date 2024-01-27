@@ -823,9 +823,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4841,
+  "EOS_Progressed": 4842,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13578,6 +13578,11 @@
       "Time": "2024-01-27T10:04:33.1581184+00:00",
       "NumProgressed": 4841,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T11:03:49.3526887+00:00",
+      "NumProgressed": 4842,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13709,7 +13714,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ebonyjungleliberator",
@@ -13725,7 +13730,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "enchantingskillx5",
@@ -13981,7 +13986,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "prestigiousx10",
@@ -14045,7 +14050,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "thealchemist",
@@ -14061,7 +14066,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "thefatherofdragons",
@@ -14077,7 +14082,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "thepowerofawakening",
@@ -14149,7 +14154,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "warmachinesarmy",
@@ -14165,7 +14170,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "whatliesbehindthebush",
@@ -14181,14 +14186,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3777
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4841,
+      "Progressed": 4842,
       "Completed": 2
     }
   ],
@@ -14196,8 +14201,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-26T19:58:45.8717898+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:04:33.1581178+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:03:49.3526884+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:59:40.7959063+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:04:33.1582348+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:58:59.3911418+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:03:49.3528955+00:00"
 }

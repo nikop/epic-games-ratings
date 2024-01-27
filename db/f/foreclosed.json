@@ -4,7 +4,7 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -504,6 +504,11 @@
       "Time": "2024-01-26T17:08:48.2962842+00:00",
       "NumProgressed": 162,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-27T11:07:54.801699+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -523,7 +528,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AutoBullets_1",
@@ -539,7 +544,7 @@
       "Name": "Sapper",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "EnemyDefeat_0",
@@ -561,17 +566,17 @@
       "ID": "ExpertChoice",
       "SetID": "9e3d06k",
       "Name": "Tough Decision",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 111
     },
     {
       "ID": "FirstSkillBuy",
@@ -587,7 +592,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Headshots_0",
@@ -609,9 +614,9 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "LiftEnemies_0",
@@ -627,7 +632,7 @@
       "Name": "Zero Gravity",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Neuroconnector",
@@ -641,9 +646,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "SecretEnding",
@@ -699,14 +704,14 @@
       "Name": "Telekinesis",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 4
     }
   ],
@@ -714,8 +719,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:08:56.550432+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:07:54.8016985+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1319416+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:57:22.5103334+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:08:56.5504572+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:56:57.3007765+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:07:54.8017288+00:00"
 }

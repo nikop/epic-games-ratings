@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9883,7 +9883,7 @@
       "Count": 3658
     }
   ],
-  "EOS_Progressed": 255860,
+  "EOS_Progressed": 255867,
   "EOS_Completed": 2655,
   "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 28,
@@ -41908,6 +41908,11 @@
       "Time": "2024-01-27T10:10:55.060596+00:00",
       "NumProgressed": 255860,
       "NumCompleted": 2655
+    },
+    {
+      "Time": "2024-01-27T11:09:43.5761077+00:00",
+      "NumProgressed": 255867,
+      "NumCompleted": 2655
     }
   ],
   "TotalAchievements": 546,
@@ -42749,9 +42754,9 @@
       "ID": "objective_completed_1193",
       "SetID": "415jc5c",
       "Name": "The Sanctum of the Sword",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_1194",
@@ -45029,9 +45034,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_696",
@@ -46286,21 +46291,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 222134,
+      "Progressed": 222141,
       "Completed": 4163
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255860,
+      "Progressed": 255867,
       "Completed": 2655
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-27T09:01:52.4628011+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:55.0605956+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:43.576107+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:00:53.6205958+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:55.0629821+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:00:03.5814879+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:43.5803257+00:00"
 }

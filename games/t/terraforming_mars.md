@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~34,023 |
-| Final touch | 33.00% | ~30,345 |
-| Prop-M Rover | 32.00% | ~29,425 |
-| Changing the Planet | 28.00% | ~25,747 |
-| Sojourner | 26.00% | ~23,908 |
-| New Home | 23.00% | ~21,149 |
-| Beagle 2 | 23.00% | ~21,149 |
-| Winner Winner Terraformer | 20.00% | ~18,391 |
-| Project Manager | 19.00% | ~17,471 |
-| Collector | 19.00% | ~17,471 |
+| It's a steal! | 37.00% | ~34,024 |
+| Final touch | 33.00% | ~30,346 |
+| Prop-M Rover | 32.00% | ~29,427 |
+| Changing the Planet | 28.00% | ~25,748 |
+| Sojourner | 26.00% | ~23,909 |
+| New Home | 23.00% | ~21,150 |
+| Beagle 2 | 23.00% | ~21,150 |
+| Winner Winner Terraformer | 20.00% | ~18,392 |
+| Project Manager | 19.00% | ~17,472 |
+| Collector | 19.00% | ~17,472 |
 | Curiosity | 18.00% | ~16,552 |
 | Master | 18.00% | ~16,552 |
-| No Longer Red | 17.00% | ~15,632 |
-| Self-sufficient | 17.00% | ~15,632 |
-| Money money | 15.00% | ~13,793 |
+| No Longer Red | 17.00% | ~15,633 |
+| Self-sufficient | 17.00% | ~15,633 |
+| Money money | 15.00% | ~13,794 |
 | First Journey | 14.00% | ~12,874 |
-| Biggest Reward | 13.00% | ~11,954 |
-| Acquired knowledge | 12.00% | ~11,034 |
+| Biggest Reward | 13.00% | ~11,955 |
+| Acquired knowledge | 12.00% | ~11,035 |
 | Landlord | 11.00% | ~10,115 |
 | Most Achievements | 11.00% | ~10,115 |
 | Hellenic Elysium | 11.00% | ~10,115 |
 | Grand champion | 11.00% | ~10,115 |
-| Spirit | 10.00% | ~9,195 |
+| Spirit | 10.00% | ~9,196 |
 | Variety Expert | 9.00% | ~8,276 |
 | Ultimate success | 9.00% | ~8,276 |
-| Frequent tester | 8.00% | ~7,356 |
+| Frequent tester | 8.00% | ~7,357 |
 | Determined | 7.00% | ~6,437 |
 | Terraformer | 4.00% | ~3,678 |
 | Opportunity | 3.00% | ~2,759 |
 | Team Effort | 2.00% | ~1,839 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,954 (Ranked 108)  
+Progressed: 91,958 (Ranked 108)  
 Completed: 186 (0.20%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 186 (0.20%) (Ranked 289)
 | 2024-01-24 | 91,694 | 186 |
 | 2024-01-25 | 91,787 | 186 |
 | 2024-01-26 | 91,894 | 186 |
-| 2024-01-27 | 91,954 | 186 |
+| 2024-01-27 | 91,958 | 186 |
 ## Awards
 Max (Relaxing): 547  (Ranked 220)  
 Sum: 3,371 (Ranked 181)  

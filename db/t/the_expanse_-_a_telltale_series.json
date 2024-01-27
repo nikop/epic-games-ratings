@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19313,
+  "EOS_Progressed": 19315,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18333,6 +18333,11 @@
       "Time": "2024-01-27T10:04:44.5906082+00:00",
       "NumProgressed": 19313,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-27T11:03:59.6643469+00:00",
+      "NumProgressed": 19315,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18489,7 +18494,7 @@
       "Name": "Call it Even",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "27",
@@ -18521,7 +18526,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "30",
@@ -18593,7 +18598,7 @@
       "Name": "Safe Cracker",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "33",
@@ -18601,7 +18606,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "34",
@@ -18624,22 +18629,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19313,
+      "Progressed": 19315,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5267,
-      "Completed": 1410
+      "Progressed": 5269,
+      "Completed": 1411
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:04:44.5906079+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:03:59.6643465+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:58:07.0496888+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:04:44.5907206+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:57:36.8258205+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:03:59.6646085+00:00"
 }

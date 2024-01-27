@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~998,890 |
-| I Need a Bigger Garage | 63.00% | ~699,223 |
-| Pump my Ride | 47.00% | ~521,643 |
-| Ghostbuster | 34.00% | ~377,359 |
-| Call Roadside Assistance | 18.00% | ~199,778 |
-| That Was Close | 18.00% | ~199,778 |
-| Quickie | 11.00% | ~122,087 |
-| California Dreamer | 7.00% | ~77,691 |
-| Can't Touch This | 5.00% | ~55,494 |
-| Carménère Taster | 4.00% | ~44,395 |
-| Comeback | 4.00% | ~44,395 |
-| Driver from Ipanema | 3.00% | ~33,296 |
-| Supersonic | 3.00% | ~33,296 |
-| Marathonist | 3.00% | ~33,296 |
-| Living Legend | 3.00% | ~33,296 |
+| The First of Many | 90.00% | ~998,906 |
+| I Need a Bigger Garage | 63.00% | ~699,234 |
+| Pump my Ride | 47.00% | ~521,651 |
+| Ghostbuster | 34.00% | ~377,365 |
+| Call Roadside Assistance | 18.00% | ~199,781 |
+| That Was Close | 18.00% | ~199,781 |
+| Quickie | 11.00% | ~122,089 |
+| California Dreamer | 7.00% | ~77,693 |
+| Can't Touch This | 5.00% | ~55,495 |
+| Carménère Taster | 4.00% | ~44,396 |
+| Comeback | 4.00% | ~44,396 |
+| Driver from Ipanema | 3.00% | ~33,297 |
+| Supersonic | 3.00% | ~33,297 |
+| Marathonist | 3.00% | ~33,297 |
+| Living Legend | 3.00% | ~33,297 |
 | God of Roads | 2.00% | ~22,198 |
 | Pathfinder | 2.00% | ~22,198 |
 | Go-Kart Champion | 2.00% | ~22,198 |
@@ -44,8 +44,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,220 |
 | Transporter | 0.10% | ~1,110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,109,878 (Ranked 15)  
-Completed: 542 (0.05%) (Ranked 351)  
+Progressed: 1,109,896 (Ranked 15)  
+Completed: 543 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,7 +326,7 @@ Completed: 542 (0.05%) (Ranked 351)
 | 2024-01-24 | 1,108,937 | 540 |
 | 2024-01-25 | 1,109,339 | 540 |
 | 2024-01-26 | 1,109,723 | 540 |
-| 2024-01-27 | 1,109,878 | 542 |
+| 2024-01-27 | 1,109,896 | 543 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 316)  
 Sum: 1,663 (Ranked 239)  

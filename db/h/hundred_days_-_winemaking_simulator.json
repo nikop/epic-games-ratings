@@ -1135,9 +1135,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 22253,
+  "EOS_Progressed": 22258,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18805,6 +18805,11 @@
       "Time": "2024-01-27T10:10:26.3372291+00:00",
       "NumProgressed": 22253,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-27T11:09:16.2088498+00:00",
+      "NumProgressed": 22258,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18817,7 +18822,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "a_10",
@@ -18865,7 +18870,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9791
+      "UsersEstimate": 9794
     },
     {
       "ID": "a_19",
@@ -18873,7 +18878,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "a_2",
@@ -18913,7 +18918,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "a_25",
@@ -19064,7 +19069,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 22253,
+      "Progressed": 22258,
       "Completed": 13
     }
   ],
@@ -19072,8 +19077,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-26T14:57:59.1712141+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:26.3372284+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:16.2088489+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:58:28.9196875+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:26.3373125+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:57:56.9084589+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:16.2090316+00:00"
 }

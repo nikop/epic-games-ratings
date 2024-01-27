@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667929,
+  "EOS_Progressed": 667930,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27847,6 +27847,11 @@
       "Time": "2024-01-27T10:10:21.6634291+00:00",
       "NumProgressed": 667929,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-27T11:09:11.9548901+00:00",
+      "NumProgressed": 667930,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27858,7 +27863,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480909
+      "UsersEstimate": 480910
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -28098,7 +28103,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80151
+      "UsersEstimate": 80152
     },
     {
       "ID": "Achievement_32_Karma",
@@ -28241,15 +28246,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667929,
+      "Progressed": 667930,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:21.6634288+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:11.9548886+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:58:00.3286678+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:21.6635657+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:57:30.7827473+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:11.9551928+00:00"
 }

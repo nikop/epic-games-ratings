@@ -14839,10 +14839,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65961,
       "NumberOfAwardsMax": 7990
+    },
+    {
+      "Time": "2024-01-27T10:58:58.100437+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65968,
+      "NumberOfAwardsMax": 7990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65961,
+  "NumberOfAwards": 65968,
   "NumberOfAwardsMax": 7990,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14886,7 +14892,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 7150
+      "Count": 7157
     },
     {
       "Text": "This game is Relaxing",
@@ -14913,9 +14919,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 506294,
+  "EOS_Progressed": 506327,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4108,
+  "EOS_NewPlayers": 4105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47503,6 +47509,11 @@
       "Time": "2024-01-27T10:10:54.0198642+00:00",
       "NumProgressed": 506294,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T11:09:42.5256116+00:00",
+      "NumProgressed": 506327,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47954,7 +47965,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -48538,7 +48549,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -49514,7 +49525,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -50178,7 +50189,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -50417,21 +50428,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 506294,
+      "Progressed": 506327,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 506294,
+      "Progressed": 506327,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-27T09:00:13.1838671+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:54.0198639+00:00",
+  "LastChanged": "2024-01-27T10:58:58.1004368+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:42.525611+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:59:39.3323302+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:54.0211284+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:58:58.1004377+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:42.5275084+00:00"
 }

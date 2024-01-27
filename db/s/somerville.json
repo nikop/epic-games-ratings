@@ -2,12 +2,12 @@
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -95,7 +95,7 @@
   "Tags": [],
   "EOS_Progressed": 1705,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -1004,9 +1004,9 @@
       "ID": "SomervilleResignation",
       "SetID": "3mk3nll",
       "Name": "Resignation",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "SomervilleResignationReprise",
@@ -1069,8 +1069,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:10.5451816+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:02.0781594+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.0968287+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:00:48.525245+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:10.5451937+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:59:59.2715032+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:02.0781807+00:00"
 }

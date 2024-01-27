@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~183 |
+| A Second Chance | 58.00% | ~184 |
 | Press-ganged | 44.00% | ~139 |
-| The Package | 28.00% | ~88 |
+| The Package | 28.00% | ~89 |
 | Randomized | 19.00% | ~60 |
 | Conquered | 19.00% | ~60 |
 | Scribe | 11.00% | ~35 |
 | Breached | 11.00% | ~35 |
 | Conciliator | 10.00% | ~32 |
 | Tactician | 10.00% | ~32 |
-| Fight Another Day | 9.00% | ~28 |
-| Taskmaster | 9.00% | ~28 |
+| Fight Another Day | 9.00% | ~29 |
+| Taskmaster | 9.00% | ~29 |
 | Acquaintance | 8.00% | ~25 |
 | Scholar | 7.00% | ~22 |
 | The More the Merrier | 7.00% | ~22 |
@@ -30,15 +30,15 @@
 | Been There | 4.00% | ~13 |
 | Spiritual Journey | 4.00% | ~13 |
 | Trouble at Fort Larius | 4.00% | ~13 |
-| Supercargo | 3.00% | ~9 |
-| Potential Unlocked | 3.00% | ~9 |
-| Xevarian Gambit | 3.00% | ~9 |
-| The Voice of Hereafter | 3.00% | ~9 |
-| A Terrible Will | 3.00% | ~9 |
-| Delayed | 3.00% | ~9 |
-| Life... Finds a Way | 3.00% | ~9 |
-| Inquisitions of Discord | 3.00% | ~9 |
-| Unseen Patterns | 3.00% | ~9 |
+| Supercargo | 3.00% | ~10 |
+| Potential Unlocked | 3.00% | ~10 |
+| Xevarian Gambit | 3.00% | ~10 |
+| The Voice of Hereafter | 3.00% | ~10 |
+| A Terrible Will | 3.00% | ~10 |
+| Delayed | 3.00% | ~10 |
+| Life... Finds a Way | 3.00% | ~10 |
+| Inquisitions of Discord | 3.00% | ~10 |
+| Unseen Patterns | 3.00% | ~10 |
 | Bounty Hunter | 2.00% | ~6 |
 | Watcher | 2.00% | ~6 |
 | Huntress Unbound | 2.00% | ~6 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 403)  
+Progressed: 317 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-20 | 311 | 0 |
 | 2024-01-22 | 313 | 0 |
 | 2024-01-25 | 315 | 0 |
-| 2024-01-27 | 316 | 0 |
+| 2024-01-27 | 317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

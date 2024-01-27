@@ -19196,10 +19196,10 @@
       "Count": 20360
     }
   ],
-  "EOS_Progressed": 1059463,
+  "EOS_Progressed": 1059489,
   "EOS_Completed": 3171,
-  "EOS_NewPlayers": 3942,
-  "EOS_NewCompleters": 41,
+  "EOS_NewPlayers": 3920,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -51531,6 +51531,11 @@
       "Time": "2024-01-27T10:09:39.7898681+00:00",
       "NumProgressed": 1059463,
       "NumCompleted": 3171
+    },
+    {
+      "Time": "2024-01-27T11:08:34.2267998+00:00",
+      "NumProgressed": 1059489,
+      "NumCompleted": 3171
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51669,9 +51674,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5297
+      "UsersEstimate": 6357
     },
     {
       "ID": "MustBeTheRats",
@@ -51773,9 +51778,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8476
+      "UsersEstimate": 9535
     },
     {
       "ID": "TheLovers",
@@ -51853,9 +51858,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4238
+      "UsersEstimate": 5297
     },
     {
       "ID": "UnderPressure",
@@ -52078,21 +52083,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059463,
+      "Progressed": 1059489,
       "Completed": 3171
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 188086,
-      "Completed": 10708
+      "Progressed": 188112,
+      "Completed": 10709
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-27T07:03:33.7711742+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:09:39.7898676+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:08:34.2267992+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:03:35.0349863+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:09:39.7900487+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:02:56.4995583+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:08:34.2271169+00:00"
 }

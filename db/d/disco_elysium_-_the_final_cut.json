@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 24,
   "Ranking_Popularity": 193,
-  "Ranking_PopularitySum": 267,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 119,
@@ -1638,18 +1638,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1178,
       "NumberOfAwardsMax": 772
+    },
+    {
+      "Time": "2024-01-27T10:57:20.019839+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1179,
+      "NumberOfAwardsMax": 773
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1178,
-  "NumberOfAwardsMax": 772,
+  "NumberOfAwards": 1179,
+  "NumberOfAwardsMax": 773,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 772
+      "Count": 773
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1724,9 +1730,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 140223,
+  "EOS_Progressed": 140225,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -30004,6 +30010,11 @@
       "Time": "2024-01-27T10:09:33.1047359+00:00",
       "NumProgressed": 140223,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-27T11:08:28.237045+00:00",
+      "NumProgressed": 140225,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -30071,7 +30082,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32251
+      "UsersEstimate": 32252
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -30095,7 +30106,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39262
+      "UsersEstimate": 39263
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -30151,7 +30162,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21033
+      "UsersEstimate": 21034
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -30207,7 +30218,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8413
+      "UsersEstimate": 8414
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -30231,7 +30242,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19631
+      "UsersEstimate": 19632
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -30295,7 +30306,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19631
+      "UsersEstimate": 19632
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -30334,15 +30345,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 140223,
+      "Progressed": 140225,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-01-25T13:06:58.6481989+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:09:33.1047357+00:00",
+  "LastChanged": "2024-01-27T10:57:20.0198387+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:08:28.2370442+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:57:47.176456+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:09:33.1048528+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:57:20.0198396+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:08:28.2373565+00:00"
 }

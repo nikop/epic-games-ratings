@@ -8321,10 +8321,16 @@
       "Rating": 4,
       "NumberOfAwards": 28069,
       "NumberOfAwardsMax": 4984
+    },
+    {
+      "Time": "2024-01-27T11:03:02.2458907+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28071,
+      "NumberOfAwardsMax": 4984
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28069,
+  "NumberOfAwards": 28071,
   "NumberOfAwardsMax": 4984,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8338,7 +8344,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4047
+      "Count": 4049
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8377,7 +8383,7 @@
       "Count": 3829
     }
   ],
-  "EOS_Progressed": 153027,
+  "EOS_Progressed": 153031,
   "EOS_Completed": 366,
   "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 6,
@@ -38377,6 +38383,11 @@
       "Time": "2024-01-27T10:10:02.8835762+00:00",
       "NumProgressed": 153027,
       "NumCompleted": 366
+    },
+    {
+      "Time": "2024-01-27T11:08:55.1630856+00:00",
+      "NumProgressed": 153031,
+      "NumCompleted": 366
     }
   ],
   "TotalAchievements": 112,
@@ -38388,7 +38399,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "advlevel02",
@@ -38524,7 +38535,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "boss02",
@@ -38556,7 +38567,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18363
+      "UsersEstimate": 18364
     },
     {
       "ID": "chest02",
@@ -38692,7 +38703,7 @@
       "Name": "Where it Hurts",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "damage02",
@@ -38940,7 +38951,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "jackslot02",
@@ -39012,7 +39023,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "loot02",
@@ -39044,7 +39055,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "master02",
@@ -39204,7 +39215,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18363
+      "UsersEstimate": 18364
     },
     {
       "ID": "twinenchant01",
@@ -39283,15 +39294,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 153027,
+      "Progressed": 153031,
       "Completed": 366
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-27T10:03:41.5428147+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:02.8835757+00:00",
+  "LastChanged": "2024-01-27T11:03:02.2458905+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:08:55.1630848+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:03:41.5428153+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:02.8837834+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:03:02.2458916+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:08:55.1634775+00:00"
 }

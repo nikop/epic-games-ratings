@@ -86,6 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~444 |
 | The Dread Domain of Tovag | 0.20% | ~444 |
 | The Castle of a Thousand Vecnas | 0.20% | ~444 |
+| The Sanctum of the Sword | 0.20% | ~444 |
 | Lobsterfolk Assault | 0.20% | ~512 |
 | The Forbidden City | 0.20% | ~512 |
 | Periodic Petrification | 0.20% | ~512 |
@@ -159,6 +160,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~444 |
 | Bel's Forge | 0.20% | ~444 |
 | The Giant's Bane Tavern | 0.20% | ~444 |
+| The Everlasting Rime | 0.20% | ~444 |
 | The Long Haul | 0.20% | ~512 |
 | Lost in the Deep | 0.20% | ~512 |
 | Rude Welcome | 0.20% | ~512 |
@@ -255,7 +257,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.10% | ~222 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~222 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~222 |
-| The Sanctum of the Sword | 0.10% | ~222 |
 | Kas the Bloody Handed | 0.10% | ~222 |
 | Get Back In The Castle | 0.10% | ~222 |
 | Kas the Destroyer | 0.10% | ~222 |
@@ -430,7 +431,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~222 |
 | Giant-Size Adventure | 0.10% | ~222 |
 | Power of Three | 0.10% | ~222 |
-| The Everlasting Rime | 0.10% | ~222 |
 | Enemy Summit | 0.10% | ~222 |
 | Mirage Arcane | 0.10% | ~222 |
 | Only Human | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,860 (Ranked 71)  
+Progressed: 255,867 (Ranked 71)  
 Completed: 2,655 (1.04%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -835,7 +835,7 @@ Completed: 2,655 (1.04%) (Ranked 179)
 | 2024-01-24 | 255,441 | 2,640 |
 | 2024-01-25 | 255,638 | 2,648 |
 | 2024-01-26 | 255,788 | 2,654 |
-| 2024-01-27 | 255,860 | 2,655 |
+| 2024-01-27 | 255,867 | 2,655 |
 ## Awards
 Max (Great for Beginners): 5,819  (Ranked 75)  
 Sum: 33,666 (Ranked 42)  

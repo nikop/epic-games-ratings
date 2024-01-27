@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,363 |
-| Titan's First Steps | 12.00% | ~18,363 |
+| Sponsored by Argon | 12.00% | ~18,364 |
+| Titan's First Steps | 12.00% | ~18,364 |
 | Basic in Bulk | 11.00% | ~16,833 |
 | Tinkle of Coins | 10.00% | ~15,303 |
 | Disintermediation | 8.00% | ~12,242 |
@@ -19,12 +19,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 6.00% | ~9,182 |
 | Pretty Penny | 6.00% | ~9,182 |
 | Own the Means of Production | 6.00% | ~9,182 |
-| The Daily Grind | 5.00% | ~7,651 |
-| Bounty Hunters | 5.00% | ~7,651 |
-| Where it Hurts | 5.00% | ~7,651 |
-| One-Armed Bandit | 5.00% | ~7,651 |
-| Dungeon Imports | 5.00% | ~7,651 |
-| Through Repetition, Perfection | 5.00% | ~7,651 |
+| The Daily Grind | 5.00% | ~7,652 |
+| Bounty Hunters | 5.00% | ~7,652 |
+| Where it Hurts | 5.00% | ~7,652 |
+| One-Armed Bandit | 5.00% | ~7,652 |
+| Dungeon Imports | 5.00% | ~7,652 |
+| Through Repetition, Perfection | 5.00% | ~7,652 |
 | On the Path to Greatness | 4.00% | ~6,121 |
 | Ascended | 4.00% | ~6,121 |
 | Demand for Supplies | 4.00% | ~6,121 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~612 |
 | Capitalist Camaraderie | 0.30% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,027 (Ranked 87)  
+Progressed: 153,031 (Ranked 87)  
 Completed: 366 (0.24%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,17 +401,17 @@ Completed: 366 (0.24%) (Ranked 282)
 | 2024-01-24 | 152,717 | 363 |
 | 2024-01-25 | 152,844 | 364 |
 | 2024-01-26 | 152,981 | 365 |
-| 2024-01-27 | 153,027 | 366 |
+| 2024-01-27 | 153,031 | 366 |
 ## Awards
 Max (Great for Beginners): 4,984  (Ranked 84)  
-Sum: 28,069 (Ranked 52)  
+Sum: 28,071 (Ranked 52)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,984 |
 | This game is Relaxing | 4,089 |
 | This game has Quickly Understood Controls | 4,080 |
-| This game has Diverse Characters | 4,047 |
+| This game has Diverse Characters | 4,049 |
 | This game is Highly Recommended | 3,829 |
 | This game has Easy Combat | 3,785 |
 | This game has Playful Visuals | 3,255 |
@@ -780,4 +780,4 @@ Diff (max vs sum): 32
 | 2024-01-24 | 4.00 | - | 4,980 | 28,053 |
 | 2024-01-25 | 4.00 | - | 4,980 | 28,060 |
 | 2024-01-26 | 4.00 | - | 4,982 | 28,062 |
-| 2024-01-27 | 4.00 | - | 4,984 | 28,069 |
+| 2024-01-27 | 4.00 | - | 4,984 | 28,071 |

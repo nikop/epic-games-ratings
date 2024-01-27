@@ -6,42 +6,42 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~130,608 |
-| Comeback | 82.00% | ~120,335 |
-| Information is Key | 80.00% | ~117,400 |
-| Unlucky | 70.00% | ~102,725 |
-| Anarchist | 68.00% | ~99,790 |
-| Wallhack | 65.00% | ~95,388 |
-| Steady Supply | 60.00% | ~88,050 |
-| Lucky Shot | 53.00% | ~77,778 |
-| Ring Ring! | 52.00% | ~76,310 |
-| Forward Observer | 51.00% | ~74,842 |
-| Bossing Around | 45.00% | ~66,038 |
-| Frostbite | 45.00% | ~66,038 |
-| Night Owl | 44.00% | ~64,570 |
-| Strength in Numbers | 44.00% | ~64,570 |
-| Fog of War | 41.00% | ~60,168 |
-| Stronghold Denied | 39.00% | ~57,232 |
-| Anyone Else? | 38.00% | ~55,765 |
-| Rasputin | 38.00% | ~55,765 |
-| Hydra | 36.00% | ~52,830 |
-| This Belongs to Us Now | 36.00% | ~52,830 |
-| Stronghold | 35.00% | ~51,362 |
-| Leeroy | 33.00% | ~48,428 |
-| Lost Batallion | 33.00% | ~48,428 |
-| This is MY Machine Gun! | 31.00% | ~45,492 |
-| Together As One | 31.00% | ~45,492 |
-| Gavrilo Princip | 27.00% | ~39,622 |
+| Immovable Object | 89.00% | ~130,611 |
+| Comeback | 82.00% | ~120,338 |
+| Information is Key | 80.00% | ~117,403 |
+| Unlucky | 70.00% | ~102,728 |
+| Anarchist | 68.00% | ~99,793 |
+| Wallhack | 65.00% | ~95,390 |
+| Steady Supply | 60.00% | ~88,052 |
+| Lucky Shot | 53.00% | ~77,780 |
+| Ring Ring! | 52.00% | ~76,312 |
+| Forward Observer | 51.00% | ~74,845 |
+| Bossing Around | 45.00% | ~66,039 |
+| Frostbite | 45.00% | ~66,039 |
+| Night Owl | 44.00% | ~64,572 |
+| Strength in Numbers | 44.00% | ~64,572 |
+| Fog of War | 41.00% | ~60,169 |
+| Stronghold Denied | 39.00% | ~57,234 |
+| Anyone Else? | 38.00% | ~55,767 |
+| Rasputin | 38.00% | ~55,767 |
+| Hydra | 36.00% | ~52,831 |
+| This Belongs to Us Now | 36.00% | ~52,831 |
+| Stronghold | 35.00% | ~51,364 |
+| Leeroy | 33.00% | ~48,429 |
+| Lost Batallion | 33.00% | ~48,429 |
+| This is MY Machine Gun! | 31.00% | ~45,494 |
+| Together As One | 31.00% | ~45,494 |
+| Gavrilo Princip | 27.00% | ~39,624 |
 | Lead Harvest | 25.00% | ~36,688 |
-| Skynet Confirmed | 23.00% | ~33,752 |
-| Kesselschlacht | 22.00% | ~32,285 |
-| Democracy Works! | 20.00% | ~29,350 |
-| Switch, Please! | 19.00% | ~27,882 |
-| At Least This Way I Can Win... | 18.00% | ~26,415 |
-| Tourist | 18.00% | ~26,415 |
+| Skynet Confirmed | 23.00% | ~33,753 |
+| Kesselschlacht | 22.00% | ~32,286 |
+| Democracy Works! | 20.00% | ~29,351 |
+| Switch, Please! | 19.00% | ~27,883 |
+| At Least This Way I Can Win... | 18.00% | ~26,416 |
+| Tourist | 18.00% | ~26,416 |
 | I've Seen It All | 17.00% | ~24,948 |
 | Oops! | 17.00% | ~24,948 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~23,480 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~23,481 |
 | Butcher | 12.00% | ~17,610 |
 | Before the Leaves Fall | 10.00% | ~14,675 |
 | Close Call | 10.00% | ~14,675 |
@@ -58,9 +58,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | Gott Mit Uns | 4.00% | ~5,870 |
 | Indivisibiliter ac Inseparabiliter | 4.00% | ~5,870 |
 | Living on the Edge | 4.00% | ~5,870 |
-| Chivalrous | 3.00% | ~4,402 |
-| S nami Bog! | 3.00% | ~4,402 |
-| Za veru, Tsarya i otechestvo | 3.00% | ~4,402 |
+| Chivalrous | 3.00% | ~4,403 |
+| S nami Bog! | 3.00% | ~4,403 |
+| Za veru, Tsarya i otechestvo | 3.00% | ~4,403 |
 | Cheeki Breeki | 2.00% | ~2,935 |
 | Na Nozh! | 2.00% | ~2,935 |
 | Pe aici nu se trece | 2.00% | ~2,935 |
@@ -72,9 +72,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | To Arms! To Arms! | 1.00% | ~1,468 |
 | Express to Petrograd | 0.90% | ~1,321 |
 | Seeing is Believing | 0.90% | ~1,321 |
-| Road to Berlin | 0.60% | ~880 |
+| Road to Berlin | 0.60% | ~881 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,750 (Ranked 89)  
+Progressed: 146,754 (Ranked 89)  
 Completed: 35 (0.02%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 35 (0.02%) (Ranked 378)
 | 2024-01-24 | 146,515 | 35 |
 | 2024-01-25 | 146,601 | 35 |
 | 2024-01-26 | 146,721 | 35 |
-| 2024-01-27 | 146,750 | 35 |
+| 2024-01-27 | 146,754 | 35 |
 ## Awards
 Max (Competitive Players): 336  (Ranked 254)  
 Sum: 3,311 (Ranked 182)  

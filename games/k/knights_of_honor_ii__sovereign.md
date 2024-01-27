@@ -6,37 +6,38 @@ Rating: 4.36 (Ranked 821)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hail to the King, Baby | 27.00% | ~68 |
-| Help! Help! I’m being repressed | 26.00% | ~65 |
-| Can’t Touch This | 25.00% | ~63 |
-| Path of Glory | 25.00% | ~63 |
+| Help! Help! I’m being repressed | 27.00% | ~68 |
+| Can’t Touch This | 26.00% | ~66 |
+| Path of Glory | 26.00% | ~66 |
 | There is no Nobility in Poverty | 19.00% | ~48 |
+| They Got What They Deserved | 19.00% | ~48 |
 | Bring it on! | 18.00% | ~45 |
-| They Got What They Deserved | 17.00% | ~43 |
+| Playerxander the Great | 17.00% | ~43 |
 | Full House | 16.00% | ~40 |
-| Playerxander the Great | 16.00% | ~40 |
 | The finest merchandise this side of river Jordan | 14.00% | ~35 |
 | Big Apple | 13.00% | ~33 |
-| Dinner Time | 10.00% | ~25 |
+| Dinner Time | 11.00% | ~28 |
 | All the King's Men | 9.00% | ~23 |
-| Cut-Me-Own-Throat | 8.00% | ~20 |
+| Cut-Me-Own-Throat | 9.00% | ~23 |
 | What we’ve got here is failure to communicate | 8.00% | ~20 |
 | Black Sheep Wall | 7.00% | ~18 |
+| Call the Boys | 7.00% | ~18 |
 | Learn Me a Book | 7.00% | ~18 |
 | The Magnificent Nine | 7.00% | ~18 |
+| Blessed Be His Name | 6.00% | ~15 |
 | Blinded by Science | 6.00% | ~15 |
-| Call the Boys | 6.00% | ~15 |
+| Forth, Eorlingas! | 6.00% | ~15 |
 | Let Us Pray | 6.00% | ~15 |
 | ‘Tis but a scratch | 6.00% | ~15 |
-| Blessed Be His Name | 5.00% | ~13 |
+| Desperate Times Call for Desperate Measures | 5.00% | ~13 |
 | Do you read Sutter Cane? | 5.00% | ~13 |
-| Forth, Eorlingas! | 5.00% | ~13 |
 | Greed is Good | 5.00% | ~13 |
 | Let us trade with these fine people | 5.00% | ~13 |
 | On the third day at dawn, look east | 5.00% | ~13 |
 | Pillars of the Earth | 5.00% | ~13 |
 | Scientia potentia es | 5.00% | ~13 |
 | A Quiet Palace | 4.00% | ~10 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~10 |
+| Dust and Salt | 4.00% | ~10 |
 | He made it out, but with an arrow in his back | 4.00% | ~10 |
 | His All-Holiness | 4.00% | ~10 |
 | His name is King | 4.00% | ~10 |
@@ -44,7 +45,6 @@ Rating: 4.36 (Ranked 821)
 | Kingslayer | 4.00% | ~10 |
 | Naught but a Seamless Victory | 4.00% | ~10 |
 | Vlad the Impaler | 4.00% | ~10 |
-| Dust and Salt | 3.00% | ~8 |
 | Fight Another Day | 3.00% | ~8 |
 | Power Overwhelming | 3.00% | ~8 |
 | Renaissance Man | 3.00% | ~8 |
@@ -70,6 +70,7 @@ Rating: 4.36 (Ranked 821)
 | Why is there no culture victory?! | 0.80% | ~2 |
 | Crusade Invoker, no Regret | 0.40% | ~1 |
 | Everything the light touches is our kingdom | 0.40% | ~1 |
+| His Holiness | 0.40% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Buyin' the Dip | 0.00% | ~0 |
@@ -80,7 +81,6 @@ Rating: 4.36 (Ranked 821)
 | Game of Thorns | 0.00% | ~0 |
 | Genghis Khan | 0.00% | ~0 |
 | Hail and Kill | 0.00% | ~0 |
-| His Holiness | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | How much for Greenland? | 0.00% | ~0 |
 | I got a knight in Paris, I got a knight in Rome | 0.00% | ~0 |
@@ -106,7 +106,7 @@ Rating: 4.36 (Ranked 821)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251 (Ranked 426)  
+Progressed: 252 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 147 | 0 |
 | 2024-01-25 | 183 | 0 |
 | 2024-01-26 | 236 | 0 |
-| 2024-01-27 | 251 | 0 |
+| 2024-01-27 | 252 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

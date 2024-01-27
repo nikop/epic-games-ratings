@@ -6,8 +6,8 @@ Rating: 4.85 (Ranked 39)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 57.00% | ~10,118 |
-| Start with a bang! | 56.00% | ~9,940 |
-| You can pet the cat! | 51.00% | ~9,052 |
+| Start with a bang! | 56.00% | ~9,941 |
+| You can pet the cat! | 51.00% | ~9,053 |
 | Who put gears in there? | 42.00% | ~7,455 |
 | Cream of the Crop | 38.00% | ~6,745 |
 | Thanks for the free chip, Peppermint! | 37.00% | ~6,568 |
@@ -19,12 +19,12 @@ Rating: 4.85 (Ranked 39)
 | Uh, they were broken when I got here | 24.00% | ~4,260 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,905 |
 | Kissing the sky! | 22.00% | ~3,905 |
-| Whoa! There's ANOTHER health bar!? | 19.00% | ~3,372 |
+| Whoa! There's ANOTHER health bar!? | 19.00% | ~3,373 |
 | The Negotiator | 18.00% | ~3,195 |
 | Does that say weakpoint? | 18.00% | ~3,195 |
 | You must like calling me in, Chai | 16.00% | ~2,840 |
-| Headliner | 15.00% | ~2,662 |
-| Out in a puff of smoke | 15.00% | ~2,662 |
+| Headliner | 15.00% | ~2,663 |
+| Out in a puff of smoke | 15.00% | ~2,663 |
 | Time to pay up! | 14.00% | ~2,485 |
 | I look cool. But I can look COOLER. | 14.00% | ~2,485 |
 | Who's the boss now? | 13.00% | ~2,308 |
@@ -39,8 +39,8 @@ Rating: 4.85 (Ranked 39)
 | I told you I'd be fine, Peppermint! | 5.00% | ~888 |
 | Wanna hear my playlist? | 4.00% | ~710 |
 | Check out my moves! | 4.00% | ~710 |
-| We're Jammin' | 3.00% | ~532 |
-| You ever parry a volcano? | 3.00% | ~532 |
+| We're Jammin' | 3.00% | ~533 |
+| You ever parry a volcano? | 3.00% | ~533 |
 | I think I deserve some praise, here! | 2.00% | ~355 |
 | I think I found your calling, Macaron | 2.00% | ~355 |
 | This is a breeze! | 2.00% | ~355 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,750 (Ranked 167)  
+Progressed: 17,751 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 8 (0.05%) (Ranked 351)
 | 2024-01-24 | 17,683 | 8 |
 | 2024-01-25 | 17,709 | 8 |
 | 2024-01-26 | 17,737 | 8 |
-| 2024-01-27 | 17,750 | 8 |
+| 2024-01-27 | 17,751 | 8 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 497)  
 Sum: 38 (Ranked 536)  

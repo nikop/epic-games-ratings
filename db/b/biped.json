@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10774,
+  "EOS_Progressed": 10775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17824,6 +17824,11 @@
       "Time": "2024-01-27T09:07:37.0642494+00:00",
       "NumProgressed": 10774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T11:05:46.3540168+00:00",
+      "NumProgressed": 10775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17835,7 +17840,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3986
+      "UsersEstimate": 3987
     },
     {
       "ID": "10",
@@ -17891,7 +17896,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "3",
@@ -17954,7 +17959,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10774,
+      "Progressed": 10775,
       "Completed": 0
     }
   ],
@@ -17962,8 +17967,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:06:42.5247971+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:05:46.3540163+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.2707916+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:57:23.3604175+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:06:42.5248961+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:56:58.0463467+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:05:46.3541819+00:00"
 }

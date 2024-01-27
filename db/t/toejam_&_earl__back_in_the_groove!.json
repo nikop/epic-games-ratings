@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58958,
+  "EOS_Progressed": 58959,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16506,6 +16506,11 @@
       "Time": "2024-01-27T10:05:09.6509658+00:00",
       "NumProgressed": 58958,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-27T11:04:22.6394217+00:00",
+      "NumProgressed": 58959,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16589,7 +16594,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "FlyingPresentMaster",
@@ -16661,7 +16666,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "HarshLove",
@@ -16908,7 +16913,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58958,
+      "Progressed": 58959,
       "Completed": 6
     }
   ],
@@ -16916,8 +16921,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:05:09.6509654+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:04:22.6394212+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.1607038+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:58:25.8532219+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:05:09.6510693+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:57:54.034055+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:04:22.6395767+00:00"
 }

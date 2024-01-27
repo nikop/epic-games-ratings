@@ -27,15 +27,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~1,052 |
 | A Real Challenge | 5.00% | ~1,052 |
 | Trade Baron | 5.00% | ~1,052 |
-| Ruined Armory | 4.00% | ~841 |
-| Bandit Camp | 4.00% | ~841 |
-| Ancient Battleground | 4.00% | ~841 |
-| Levitating Monument | 4.00% | ~841 |
-| Lost Colonies | 4.00% | ~841 |
-| Statue of the Forefathers | 4.00% | ~841 |
-| Corrosive Torrent | 4.00% | ~841 |
-| Cursed Lands | 4.00% | ~841 |
-| Untamed Wilds | 4.00% | ~841 |
+| Ruined Armory | 4.00% | ~842 |
+| Bandit Camp | 4.00% | ~842 |
+| Ancient Battleground | 4.00% | ~842 |
+| Levitating Monument | 4.00% | ~842 |
+| Lost Colonies | 4.00% | ~842 |
+| Statue of the Forefathers | 4.00% | ~842 |
+| Corrosive Torrent | 4.00% | ~842 |
+| Cursed Lands | 4.00% | ~842 |
+| Untamed Wilds | 4.00% | ~842 |
 | Against All Odds | 3.00% | ~631 |
 | Barren Lands | 3.00% | ~631 |
 | Sparkdew Crystals | 3.00% | ~631 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,037 (Ranked 157)  
+Progressed: 21,038 (Ranked 157)  
 Completed: 37 (0.18%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 37 (0.18%) (Ranked 297)
 | 2024-01-24 | 20,998 | 34 |
 | 2024-01-25 | 21,012 | 36 |
 | 2024-01-26 | 21,026 | 36 |
-| 2024-01-27 | 21,037 | 37 |
+| 2024-01-27 | 21,038 | 37 |
 ## Awards
 Max (Quickly Understood Controls): 459  (Ranked 233)  
 Sum: 3,420 (Ranked 180)  

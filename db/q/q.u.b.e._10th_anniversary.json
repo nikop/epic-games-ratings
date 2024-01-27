@@ -3,12 +3,12 @@
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_Rating": 732,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -352,25 +352,31 @@
       "Rating": 4.43,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-01-27T11:02:31.3962605+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 26
+      "Count": 27
     }
   ],
-  "EOS_Progressed": 30707,
-  "EOS_Completed": 237,
-  "EOS_NewPlayers": 612,
-  "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 0.77,
+  "EOS_Progressed": 30709,
+  "EOS_Completed": 238,
+  "EOS_NewPlayers": 611,
+  "EOS_NewCompleters": 17,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -12031,6 +12037,11 @@
       "Time": "2024-01-27T10:10:34.5250532+00:00",
       "NumProgressed": 30707,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2024-01-27T11:09:23.8251945+00:00",
+      "NumProgressed": 30709,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 24,
@@ -12066,7 +12077,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -12170,7 +12181,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10440
+      "UsersEstimate": 10441
     },
     {
       "ID": "ACH_Sector2",
@@ -12178,7 +12189,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9212
+      "UsersEstimate": 9213
     },
     {
       "ID": "ACH_Sector3",
@@ -12194,7 +12205,7 @@
       "Name": "Sector 4",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 6448
+      "UsersEstimate": 6449
     },
     {
       "ID": "ACH_Sector5",
@@ -12226,23 +12237,23 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30707,
-      "Completed": 237
+      "Progressed": 30709,
+      "Completed": 238
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:10:34.525053+00:00",
+  "LastChanged": "2024-01-27T11:02:31.3962602+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:09:23.825194+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-27T10:03:06.2176801+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:10:34.5251072+00:00"
+  "LastUpdate_Ratings": "2024-01-27T11:02:31.3962609+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:09:23.8253408+00:00"
 }

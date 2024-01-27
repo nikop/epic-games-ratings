@@ -2,9 +2,9 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 557,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-11-23T23:03:27.3218044+00:00",
@@ -314,6 +314,11 @@
       "Time": "2024-01-26T18:09:08.44983+00:00",
       "NumProgressed": 60,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-27T11:08:15.8781501+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -332,7 +337,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 22
     },
@@ -374,7 +379,7 @@
       "Name": "The floor is lava. Literally.",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -398,7 +403,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "OWN_SKINS",
@@ -428,7 +433,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 25,
       "UsersEstimate": 35
     },
@@ -460,7 +465,7 @@
       "ID": "WIN_VERSUS",
       "SetID": "5629o35",
       "Name": "Tower Champion",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 7
     }
@@ -469,14 +474,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-27T10:09:19.3291593+00:00",
+  "LastChanged_Achievements": "2024-01-27T11:08:15.8781492+00:00",
   "LastUpdate_AppInfo": "2024-01-22T20:56:59.12016+00:00",
-  "LastUpdate_Ratings": "2024-01-27T09:59:36.789661+00:00",
-  "LastUpdate_Achievements": "2024-01-27T10:09:19.3291699+00:00"
+  "LastUpdate_Ratings": "2024-01-27T10:58:55.8150078+00:00",
+  "LastUpdate_Achievements": "2024-01-27T11:08:15.8781739+00:00"
 }
