@@ -2,7 +2,7 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
   "ProductSlug": "dying-light",
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 18,
   "Ranking_EOS_Progress": 3,
@@ -15794,10 +15794,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 105282,
       "NumberOfAwardsMax": 54348
+    },
+    {
+      "Time": "2024-01-27T19:57:45.0662868+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 105329,
+      "NumberOfAwardsMax": 54348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 105282,
+  "NumberOfAwards": 105329,
   "NumberOfAwardsMax": 54348,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15817,13 +15823,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4655
+      "Count": 4681
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4024
+      "Count": 4041
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15871,7 +15877,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2612
+      "Count": 2616
     },
     {
       "Text": "This game has a Creative Community",
@@ -49080,9 +49086,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-01-27T16:59:01.9133066+00:00",
+  "LastChanged": "2024-01-27T19:57:45.0662866+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:00.8543481+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.6982656+00:00",
-  "LastUpdate_Ratings": "2024-01-27T18:01:37.7571272+00:00",
+  "LastUpdate_Ratings": "2024-01-27T19:57:45.0662871+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:00.854526+00:00"
 }

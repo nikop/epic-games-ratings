@@ -220,9 +220,9 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-26 | 98,395 | 0 |
 | 2024-01-27 | 98,703 | 0 |
 ## Awards
-Max (Relaxing): 1,768  (Ranked 134)  
-Sum: 14,816 (Ranked 80)  
-Diff (max vs sum): 54  
+Max (Relaxing): 1,768  (Ranked 135)  
+Sum: 14,823 (Ranked 80)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,768 |
@@ -233,7 +233,7 @@ Diff (max vs sum): 54
 | This game has Competitive Players | 1,693 |
 | This game has Realistic Visuals | 1,551 |
 | This game has Amazing Storytelling | 1,471 |
-| This game has a Competitive Community | 1,401 |
+| This game has a Competitive Community | 1,408 |
 | This game has Amazing Characters | 1,281 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -618,4 +618,4 @@ Diff (max vs sum): 54
 | 2024-01-24 | 4.41 | - | 1,752 | 14,720 |
 | 2024-01-25 | 4.41 | - | 1,757 | 14,758 |
 | 2024-01-26 | 4.41 | - | 1,763 | 14,794 |
-| 2024-01-27 | 4.41 | - | 1,768 | 14,816 |
+| 2024-01-27 | 4.41 | - | 1,768 | 14,823 |

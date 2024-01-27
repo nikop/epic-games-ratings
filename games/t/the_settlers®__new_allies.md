@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_settlers®__new_allies.json)  
 Rating: 3.84 (Ranked 1,094)  
 ## Awards
-Max (Relaxing): 115  (Ranked 367)  
-Sum: 331 (Ranked 378)  
+Max (Relaxing): 116  (Ranked 367)  
+Sum: 332 (Ranked 378)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 115 |
+| This game is Relaxing | 116 |
 | This game has Quickly Understood Controls | 112 |
 | This game is Great for Beginners | 104 |
 ## Ratings History
@@ -215,3 +215,4 @@ Diff (max vs sum): -11
 | 2024-01-22 | 3.84 | 114 | 328 |
 | 2024-01-23 | 3.84 | 115 | 330 |
 | 2024-01-25 | 3.84 | 115 | 331 |
+| 2024-01-27 | 3.84 | 116 | 332 |
