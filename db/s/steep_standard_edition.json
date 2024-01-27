@@ -4,7 +4,7 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 242,
   "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -585,10 +585,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 106,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-01-27T16:57:40.4638845+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 126,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 106,
+  "NumberOfAwards": 126,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -621,6 +627,12 @@
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
       "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -634,8 +646,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-01-22T01:54:54.5090616+00:00",
+  "LastChanged": "2024-01-27T16:57:40.4638844+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:21.8739064+00:00",
-  "LastUpdate_Ratings": "2024-01-27T14:59:58.5036505+00:00",
+  "LastUpdate_Ratings": "2024-01-27T16:57:40.4638848+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:59.6581632+00:00"
 }
