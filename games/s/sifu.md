@@ -351,12 +351,12 @@ Completed: 13,009 (1.70%) (Ranked 150)
 | 2024-01-26 | 762,946 | 13,009 |
 | 2024-01-27 | 763,029 | 13,009 |
 ## Awards
-Max (Great Boss Battles): 7,295  (Ranked 59)  
-Sum: 12,906 (Ranked 88)  
+Max (Great Boss Battles): 7,304  (Ranked 59)  
+Sum: 12,915 (Ranked 88)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,295 |
+| This game has Great Boss Battles | 7,304 |
 | This game has Diverse Characters | 716 |
 | This game has Challenging Combat | 654 |
 | This game has Amazing Storytelling | 630 |
@@ -745,4 +745,4 @@ Diff (max vs sum): -29
 | 2024-01-24 | 4.82 | - | 7,276 | 12,879 |
 | 2024-01-25 | 4.82 | - | 7,286 | 12,893 |
 | 2024-01-26 | 4.82 | - | 7,295 | 12,905 |
-| 2024-01-27 | 4.82 | - | 7,295 | 12,906 |
+| 2024-01-27 | 4.82 | - | 7,304 | 12,915 |

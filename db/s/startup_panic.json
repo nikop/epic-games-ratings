@@ -2,7 +2,7 @@
   "ID": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "Name": "Startup Panic",
   "ProductSlug": "startup-panic",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.31,
   "NumberOfRatings": 28,
   "RatingHistory": [
     {
@@ -161,6 +161,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-27T15:58:36.0739931+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -179,8 +185,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:21.1548714+00:00",
   "FirstSeenRating": "2022-07-31T11:01:04.2055558+00:00",
-  "LastChanged": "2024-01-15T15:58:12.6722844+00:00",
+  "LastChanged": "2024-01-27T15:58:36.0739929+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.9726895+00:00",
-  "LastUpdate_Ratings": "2024-01-27T14:57:42.4468737+00:00",
+  "LastUpdate_Ratings": "2024-01-27T15:58:36.0739933+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:56.6637884+00:00"
 }

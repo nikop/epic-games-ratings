@@ -2,7 +2,7 @@
   "ID": "ca8077d80493497188e0ca5bca3ebe60",
   "Name": "Sundered: Eldritch Edition",
   "ProductSlug": "sundered-eldritch-edition",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 181,
   "RatingHistory": [
     {
@@ -407,6 +407,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 85,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2024-01-27T15:58:37.7976567+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
@@ -432,8 +438,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2024-01-26T15:59:58.1736078+00:00",
+  "LastChanged": "2024-01-27T15:58:37.7976565+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.5249545+00:00",
-  "LastUpdate_Ratings": "2024-01-27T14:57:44.1572907+00:00",
+  "LastUpdate_Ratings": "2024-01-27T15:58:37.7976571+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:33.9776406+00:00"
 }

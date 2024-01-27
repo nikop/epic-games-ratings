@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.53 (Ranked 573)  
+Rating: 4.54 (Ranked 553)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -405,3 +405,4 @@ Completed: 3 (0.03%) (Ranked 369)
 | 2024-01-22 | 4.51 | 0 | 0 |
 | 2024-01-24 | 4.52 | 0 | 0 |
 | 2024-01-25 | 4.53 | 0 | 0 |
+| 2024-01-27 | 4.54 | 0 | 0 |
