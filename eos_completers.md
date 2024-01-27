@@ -10,7 +10,7 @@
 | 8 | [Overloop](games/o/overloop.md) | 40.00% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
-| 11 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.02% |
+| 11 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.87% |
 | 12 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 14 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
@@ -135,8 +135,8 @@
 | 133 | [FORECLOSED](games/f/foreclosed.md) | 2.45% |
 | 134 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
 | 135 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.25% |
-| 136 | [Night Book](games/n/night_book.md) | 2.14% |
-| 137 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
+| 136 | [Night Book](games/n/night_book.md) | 2.13% |
+| 136 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
 | 138 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
 | 139 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.00% |
 | 139 | [Strange House](games/s/strange_house.md) | 2.00% |
@@ -175,8 +175,8 @@
 | 173 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 174 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.09% |
 | 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
-| 175 | [Yars: Recharged](games/y/yars__recharged.md) | 1.08% |
-| 177 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.06% |
+| 176 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.06% |
+| 176 | [Yars: Recharged](games/y/yars__recharged.md) | 1.06% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
 | 179 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 179 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.04% |
@@ -214,7 +214,7 @@
 | 212 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.68% |
 | 213 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.66% |
 | 213 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.66% |
-| 215 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.64% |
+| 215 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.63% |
 | 216 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.62% |
 | 217 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.61% |
 | 218 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.60% |
@@ -631,6 +631,7 @@
 | 414 | [Loretta](games/l/loretta.md) | 0.00% |
 | 414 | [LOVE 3](games/l/love_3.md) | 0.00% |
 | 414 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 0.00% |
+| 414 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 0.00% |
 | 414 | [Lucky Goal](games/7/7a78425e9d094942bd44700957de54da.md) | 0.00% |
 | 414 | [Madden NFL 23](games/m/madden_nfl_23.md) | 0.00% |
 | 414 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 0.00% |
