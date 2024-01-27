@@ -30,7 +30,7 @@
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 31 | [The Riflemen](games/t/the_riflemen.md) | 14.94% |
+| 31 | [The Riflemen](games/t/the_riflemen.md) | 14.93% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
 | 34 | [Remains](games/r/remains.md) | 12.70% |
@@ -49,7 +49,7 @@
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.78% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.96% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.95% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 7.69% |
@@ -120,7 +120,7 @@
 | 117 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
 | 117 | [Monster Harvest](games/m/monster_harvest.md) | 2.86% |
 | 120 | [Without Escape](games/w/without_escape.md) | 2.78% |
-| 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.76% |
+| 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.75% |
 | 122 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 123 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 124 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.58% |
@@ -152,7 +152,7 @@
 | 150 | [Sifu](games/s/sifu.md) | 1.70% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
 | 152 | [Frogun](games/f/frogun.md) | 1.66% |
-| 153 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.64% |
+| 153 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.61% |
 | 154 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.57% |
 | 155 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
 | 156 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.48% |
@@ -173,9 +173,9 @@
 | 171 | [Adios](games/a/adios.md) | 1.13% |
 | 171 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
 | 173 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
-| 174 | [Yars: Recharged](games/y/yars__recharged.md) | 1.10% |
-| 175 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.09% |
-| 176 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
+| 174 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.09% |
+| 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
+| 175 | [Yars: Recharged](games/y/yars__recharged.md) | 1.08% |
 | 177 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.06% |
 | 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.05% |
 | 179 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
@@ -201,9 +201,9 @@
 | 199 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.85% |
 | 199 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.85% |
 | 201 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
-| 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.78% |
 | 202 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
-| 204 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
+| 203 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.77% |
+| 203 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.77% |
 | 205 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.76% |
 | 206 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 207 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.73% |
@@ -224,8 +224,8 @@
 | 220 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
 | 223 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.58% |
 | 223 | [Scrapnaut](games/s/scrapnaut.md) | 0.58% |
-| 225 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.57% |
-| 226 | [Five Dates](games/f/five_dates.md) | 0.56% |
+| 225 | [Five Dates](games/f/five_dates.md) | 0.56% |
+| 225 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.56% |
 | 227 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 227 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.55% |
 | 227 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.55% |
