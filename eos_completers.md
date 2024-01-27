@@ -69,7 +69,7 @@
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
-| 70 | [Time Loader](games/t/time_loader.md) | 6.12% |
+| 70 | [Time Loader](games/t/time_loader.md) | 6.08% |
 | 71 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.84% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.72% |
@@ -110,7 +110,7 @@
 | 108 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 109 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
 | 110 | [Bunny Park](games/b/bunny_park.md) | 3.17% |
-| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.10% |
+| 111 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.09% |
 | 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
 | 114 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -169,8 +169,8 @@
 | 167 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
 | 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.19% |
 | 169 | [Late Shift](games/l/late_shift.md) | 1.18% |
-| 170 | [Yars: Recharged](games/y/yars__recharged.md) | 1.16% |
-| 171 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.15% |
+| 170 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.15% |
+| 170 | [Yars: Recharged](games/y/yars__recharged.md) | 1.15% |
 | 172 | [Adios](games/a/adios.md) | 1.13% |
 | 172 | [Iron Danger](games/i/iron_danger.md) | 1.13% |
 | 174 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
