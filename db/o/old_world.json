@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2378,7 +2378,7 @@
   ],
   "EOS_Progressed": 17188,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -23150,9 +23150,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -23948,8 +23948,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-24T22:59:24.1816013+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:11:34.4189657+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:11:55.8218453+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:57:54.0270162+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:11:34.4200297+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:57:36.3176149+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:11:55.822794+00:00"
 }

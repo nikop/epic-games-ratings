@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -522,7 +522,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -2747,6 +2747,11 @@
       "Time": "2024-01-27T00:08:23.56159+00:00",
       "NumProgressed": 712,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T06:08:44.3549067+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2767,7 +2772,7 @@
       "Name": "Unyielding Strength",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -2775,7 +2780,7 @@
       "Name": "Purity of Power",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Collect_AdamantineSmall_30",
@@ -2783,7 +2788,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -2791,7 +2796,7 @@
       "Name": "Holy Keeper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Collect_Artifact_Demon_50",
@@ -2799,7 +2804,7 @@
       "Name": "Demon Keeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Collect_Artifact_EpicShard",
@@ -2831,7 +2836,7 @@
       "Name": "Increased Vigor",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2847,7 +2852,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2855,7 +2860,7 @@
       "Name": "I Wanna Rock",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2879,7 +2884,7 @@
       "Name": "Soul Harvester",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -2935,7 +2940,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2967,7 +2972,7 @@
       "Name": "\u0022Impressive!\u0022",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Crucible_Wave_50",
@@ -3031,7 +3036,7 @@
       "Name": "Keeper of the Bonfire",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Keeper_Kill_Force",
@@ -3039,7 +3044,7 @@
       "Name": "Keeper of the Vale",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Keeper_Kill_Stasis",
@@ -3055,7 +3060,7 @@
       "Name": "Keeper of the Sky",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Kill_Demon_Abraxis",
@@ -3071,7 +3076,7 @@
       "Name": "Love Tap",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Kill_Enemies_666",
@@ -3111,7 +3116,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -3127,7 +3132,7 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -3159,7 +3164,7 @@
       "Name": "Keep it 100!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Save_Humans_1",
@@ -3175,7 +3180,7 @@
       "Name": "Crowd Source",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Save_Humans_15",
@@ -3215,7 +3220,7 @@
       "Name": "First of many\u2026",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -3231,7 +3236,7 @@
       "Name": "Big Spender",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -3239,7 +3244,7 @@
       "Name": "BFA",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Upgrade_Armor_First",
@@ -3255,7 +3260,7 @@
       "Name": "Just the start",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -3270,15 +3275,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-26T13:00:56.5257344+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:08:28.0473113+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:08:44.3549063+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:00:42.5096174+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:08:28.0473873+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:00:31.4350261+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:08:44.3549723+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1656,9 +1656,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28535,
+  "EOS_Progressed": 28539,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14881,6 +14881,11 @@
       "Time": "2024-01-27T05:11:17.4426292+00:00",
       "NumProgressed": 28535,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-27T06:11:38.8678886+00:00",
+      "NumProgressed": 28539,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14972,7 +14977,7 @@
       "Name": "Spells and Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -15020,7 +15025,7 @@
       "Name": "Harvest and Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -15203,21 +15208,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28535,
+      "Progressed": 28539,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7465,
+      "Progressed": 7469,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-26T15:58:31.7889994+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:11:17.4426284+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:11:38.8678882+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.0687635+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:59:59.5781815+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:11:17.4427356+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:59:46.2092318+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:11:38.8679587+00:00"
 }

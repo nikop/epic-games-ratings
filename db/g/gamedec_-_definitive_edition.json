@@ -537,7 +537,7 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258940,
+  "EOS_Progressed": 258942,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
@@ -32142,6 +32142,11 @@
       "Time": "2024-01-27T05:06:37.4946189+00:00",
       "NumProgressed": 258940,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-27T06:06:21.4147286+00:00",
+      "NumProgressed": 258942,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -32369,7 +32374,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64735
+      "UsersEstimate": 64736
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -32433,7 +32438,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15536
+      "UsersEstimate": 15537
     },
     {
       "ID": "ACH_MEMORY5",
@@ -32473,7 +32478,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64735
+      "UsersEstimate": 64736
     },
     {
       "ID": "ACH_SOREAD",
@@ -32521,7 +32526,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15536
+      "UsersEstimate": 15537
     },
     {
       "ID": "ACH_TROLLKING",
@@ -32537,7 +32542,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15536
+      "UsersEstimate": 15537
     },
     {
       "ID": "ACH_WAKEUP",
@@ -32568,7 +32573,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258940,
+      "Progressed": 258942,
       "Completed": 8
     }
   ],
@@ -32576,8 +32581,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:06:37.4946184+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:06:21.4147283+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:03:35.9693224+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:06:37.494795+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:03:17.5779516+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:06:21.4148783+00:00"
 }

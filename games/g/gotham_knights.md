@@ -1,14 +1,14 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 984)  
+Rating: 4.19 (Ranked 985)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,658 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,327 |
-| Loose Ends | 33.00% | ~27,494 |
-| To the Victor Go the Spoils | 27.00% | ~22,495 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,328 |
+| Loose Ends | 33.00% | ~27,495 |
+| To the Victor Go the Spoils | 27.00% | ~22,496 |
 | Knighthood | 26.00% | ~21,662 |
 | Get ReQ'd | 24.00% | ~19,996 |
 | Whispered Words | 24.00% | ~19,996 |
@@ -23,8 +23,8 @@ Rating: 4.19 (Ranked 984)
 | The Show Mud Go On | 17.00% | ~14,164 |
 | From Inside Gotham's Walls | 17.00% | ~14,164 |
 | Protector of Gotham | 16.00% | ~13,331 |
-| In Your Element | 15.00% | ~12,497 |
-| Universal Health Scare | 15.00% | ~12,497 |
+| In Your Element | 15.00% | ~12,498 |
+| Universal Health Scare | 15.00% | ~12,498 |
 | Rock and a Hard Place | 14.00% | ~11,664 |
 | Cooldown | 14.00% | ~11,664 |
 | Voiceless | 14.00% | ~11,664 |
@@ -36,15 +36,15 @@ Rating: 4.19 (Ranked 984)
 | Gotham Knight | 12.00% | ~9,998 |
 | Gotham City Confidential | 11.00% | ~9,165 |
 | Drone You Out | 10.00% | ~8,332 |
-| Out of Their League | 9.00% | ~7,498 |
-| Solid Alibi | 9.00% | ~7,498 |
+| Out of Their League | 9.00% | ~7,499 |
+| Solid Alibi | 9.00% | ~7,499 |
 | Fusion Expert | 7.00% | ~5,832 |
 | Family Meeting | 6.00% | ~4,999 |
 | A Worthy Successor | 6.00% | ~4,999 |
 | Expert Crime Fighter | 5.00% | ~4,166 |
 | Dressed to Impress | 4.00% | ~3,333 |
-| A Momentum Occasion | 3.00% | ~2,499 |
-| Bat Out of Hell | 3.00% | ~2,499 |
+| A Momentum Occasion | 3.00% | ~2,500 |
+| Bat Out of Hell | 3.00% | ~2,500 |
 | Practice Makes Perfect | 2.00% | ~1,666 |
 | He'd Be So Proud of You | 2.00% | ~1,666 |
 | Talonted | 1.00% | ~833 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 984)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,316 (Ranked 111)  
+Progressed: 83,317 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,17 +349,17 @@ Completed: 135 (0.16%) (Ranked 301)
 | 2024-01-24 | 83,243 | 135 |
 | 2024-01-25 | 83,274 | 135 |
 | 2024-01-26 | 83,310 | 135 |
-| 2024-01-27 | 83,316 | 135 |
+| 2024-01-27 | 83,317 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,262  (Ranked 103)  
-Sum: 5,587 (Ranked 146)  
+Sum: 5,588 (Ranked 146)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,262 |
 | This game is Great for Beginners | 298 |
 | This game has Diverse Characters | 298 |
-| This game is Extremely Fun | 295 |
+| This game is Extremely Fun | 296 |
 | This game is Relaxing | 294 |
 | This game has Quickly Understood Controls | 292 |
 | This game has Amazing Characters | 287 |
@@ -704,3 +704,4 @@ Diff (max vs sum): -43
 | 2024-01-24 | 4.19 | 3,251 | 5,564 |
 | 2024-01-25 | 4.19 | 3,256 | 5,573 |
 | 2024-01-26 | 4.19 | 3,262 | 5,587 |
+| 2024-01-27 | 4.19 | 3,262 | 5,588 |

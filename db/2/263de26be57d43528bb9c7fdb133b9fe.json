@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "BANK_STEAL",
       "SetID": "89ki2f0",
       "Name": "See you later space turnip\u2026",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BOSS_1",
@@ -610,8 +610,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:06:59.2303968+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:06:42.7878854+00:00",
   "LastUpdate_AppInfo": "2024-01-25T13:03:55.3098024+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:59:52.4830425+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:06:59.2304406+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:59:39.202026+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:06:42.7879003+00:00"
 }

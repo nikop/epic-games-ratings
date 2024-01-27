@@ -11328,9 +11328,9 @@
       "Count": 1116
     }
   ],
-  "EOS_Progressed": 133768,
+  "EOS_Progressed": 133772,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41683,6 +41683,11 @@
       "Time": "2024-01-27T05:11:24.436316+00:00",
       "NumProgressed": 133768,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T06:11:46.0010718+00:00",
+      "NumProgressed": 133772,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41780,9 +41785,9 @@
       "ID": "altar_of_hope_upgrade_total_full",
       "SetID": "64l4lke",
       "Name": "The World As It Was",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1204
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -41846,7 +41851,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6689
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41998,7 +42003,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6689
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -42006,7 +42011,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6689
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -42070,7 +42075,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6689
     },
     {
       "ID": "hospital_full_service",
@@ -42142,7 +42147,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6689
     },
     {
       "ID": "run_victory_act01",
@@ -42294,7 +42299,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -42325,21 +42330,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133768,
+      "Progressed": 133772,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8637,
+      "Progressed": 8641,
       "Completed": 834
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-27T03:57:48.4116369+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:11:24.4363155+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:11:46.0010714+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:58:47.0022787+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:11:24.4365453+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:58:31.0648946+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:11:46.0012436+00:00"
 }

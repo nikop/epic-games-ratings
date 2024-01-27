@@ -4965,18 +4965,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7252,
       "NumberOfAwardsMax": 1788
+    },
+    {
+      "Time": "2024-01-27T05:59:26.1299443+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7254,
+      "NumberOfAwardsMax": 1790
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7252,
-  "NumberOfAwardsMax": 1788,
+  "NumberOfAwards": 7254,
+  "NumberOfAwardsMax": 1790,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1788
+      "Count": 1790
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -20573,9 +20579,9 @@
       "ID": "42_JustPathetic",
       "SetID": "989of5o",
       "Name": "Just Pathetic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "43_DreadfulDragon",
@@ -21194,9 +21200,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-25T16:58:07.6224024+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:11:31.1652245+00:00",
+  "LastChanged": "2024-01-27T05:59:26.1299441+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:11:52.8561213+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:59:39.7489045+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:11:31.1653876+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:59:26.129945+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:11:52.8562837+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.74 (Ranked 168)
 | Master Craftsman | 44.00% | ~414 |
 | First wall | 43.00% | ~405 |
 | Piggyback Expert | 42.00% | ~396 |
-| Second wall | 33.00% | ~311 |
+| Second wall | 34.00% | ~320 |
 | Expert Scavenger | 32.00% | ~301 |
 | Their Rock | 28.00% | ~264 |
 | Yuna's Promise | 27.00% | ~254 |
@@ -20,7 +20,7 @@ Rating: 4.74 (Ranked 168)
 | Find myself | 25.00% | ~236 |
 | Min's Promise | 18.00% | ~170 |
 | Sia's Promise | 18.00% | ~170 |
-| Truebro | 17.00% | ~160 |
+| Truebro | 18.00% | ~170 |
 | Romantic | 14.00% | ~132 |
 | TentacleMAN | 9.00% | ~85 |
 | Yohan's Promise | 5.00% | ~47 |

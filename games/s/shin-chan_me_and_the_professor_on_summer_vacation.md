@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Greengrocer | 30.00% | ~13 |
 | Cabbage in the Baggage | 26.00% | ~11 |
-| Seven Days of Endless Adventure | 21.00% | ~9 |
+| Seven Days of Endless Adventure | 23.00% | ~10 |
+| Go-Getter | 19.00% | ~8 |
+| River Cleaner | 19.00% | ~8 |
 | Masu-ter Angler | 16.00% | ~7 |
-| Go-Getter | 16.00% | ~7 |
-| River Cleaner | 16.00% | ~7 |
+| Handyman Extraordinaire | 16.00% | ~7 |
 | Just Hoverin' Along | 14.00% | ~6 |
-| Handyman Extraordinaire | 14.00% | ~6 |
 | Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~5 |
 | What's That Smell? | 12.00% | ~5 |
 | It's Alive! | 12.00% | ~5 |

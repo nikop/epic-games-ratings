@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewPlayers": 534,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -351,9 +351,9 @@
       "ID": "ACHIEVEMENT_Iro_Death3_Failed",
       "SetID": "70j9o42",
       "Name": "Double Dare",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Lilianna_Respect",
@@ -471,9 +471,9 @@
       "ID": "ACHIEVEMENT_Suave",
       "SetID": "70j9o42",
       "Name": "Master Of Love",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_Team_Fumi",
@@ -503,9 +503,9 @@
       "ID": "ACHIEVEMENT_Wine_veryfancy",
       "SetID": "70j9o42",
       "Name": "Wine And Dine",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -518,8 +518,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:04:30.2702571+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:04:14.785989+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:41.2625033+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:57:23.7812473+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:04:30.2702891+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:57:04.8324687+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:04:14.7860225+00:00"
 }

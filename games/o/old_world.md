@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.90% | ~155 |
 | Industrial Progress | 0.90% | ~155 |
 | Cimmerian Archer | 0.90% | ~155 |
+| Phalangite | 0.90% | ~155 |
 | Yazilikaya | 0.90% | ~155 |
 | Bad Heir Day | 0.80% | ~138 |
 | Strong Difficulty | 0.80% | ~138 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.80% | ~138 |
 | Revelation | 0.80% | ~138 |
 | Veneration | 0.80% | ~138 |
-| Phalangite | 0.80% | ~138 |
 | Ambition Victory | 0.80% | ~138 |
 | Kushite Pyramids | 0.80% | ~138 |
 | Devout | 0.70% | ~120 |

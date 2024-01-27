@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,296 |
 | Autodidact | 9.00% | ~12,039 |
-| Lost and Found | 9.00% | ~777 |
+| Lost and Found | 9.00% | ~778 |
 | This guy... again? | 8.00% | ~691 |
 | Serenity Now! | 7.00% | ~9,364 |
 | This Belongs in a Museum | 7.00% | ~9,364 |
@@ -26,11 +26,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 6.00% | ~8,026 |
 | FNG | 6.00% | ~8,026 |
 | Bloody Graduation | 6.00% | ~518 |
-| Not Today! | 5.00% | ~6,688 |
-| Merry Time | 5.00% | ~6,688 |
-| Harvest Festival | 5.00% | ~6,688 |
-| Whale | 5.00% | ~6,688 |
-| Nope | 5.00% | ~6,688 |
+| Not Today! | 5.00% | ~6,689 |
+| Merry Time | 5.00% | ~6,689 |
+| Harvest Festival | 5.00% | ~6,689 |
+| Whale | 5.00% | ~6,689 |
+| Nope | 5.00% | ~6,689 |
 | Friends 'Til the End | 5.00% | ~432 |
 | Resurrection | 4.00% | ~5,351 |
 | Unleash Hell | 4.00% | ~5,351 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~86 |
 | Et Tu, Riposte? | 1.00% | ~86 |
 | For Old Time' Sake | 1.00% | ~86 |
-| The World As It Was | 0.80% | ~1,070 |
+| The World As It Was | 0.90% | ~1,204 |
 | A Life Well Lived | 0.70% | ~936 |
 | Bacon Bits | 0.70% | ~936 |
 | On This Long Road, We Found Redemption | 0.70% | ~60 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,768 (Ranked 92)  
+Progressed: 133,772 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-24 | 133,635 | 5 |
 | 2024-01-25 | 133,691 | 5 |
 | 2024-01-26 | 133,757 | 5 |
-| 2024-01-27 | 133,768 | 5 |
+| 2024-01-27 | 133,772 | 5 |
 ## Awards
 Max (Character Customization): 8,087  (Ranked 52)  
 Sum: 21,893 (Ranked 60)  

@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~998,823 |
-| I Need a Bigger Garage | 63.00% | ~699,176 |
-| Pump my Ride | 47.00% | ~521,607 |
-| Ghostbuster | 34.00% | ~377,333 |
-| Call Roadside Assistance | 18.00% | ~199,765 |
-| That Was Close | 18.00% | ~199,765 |
-| Quickie | 11.00% | ~122,078 |
-| California Dreamer | 7.00% | ~77,686 |
-| Can't Touch This | 5.00% | ~55,490 |
-| Carménère Taster | 4.00% | ~44,392 |
-| Comeback | 4.00% | ~44,392 |
-| Driver from Ipanema | 3.00% | ~33,294 |
-| Supersonic | 3.00% | ~33,294 |
-| Marathonist | 3.00% | ~33,294 |
-| Living Legend | 3.00% | ~33,294 |
+| The First of Many | 90.00% | ~998,839 |
+| I Need a Bigger Garage | 63.00% | ~699,187 |
+| Pump my Ride | 47.00% | ~521,616 |
+| Ghostbuster | 34.00% | ~377,339 |
+| Call Roadside Assistance | 18.00% | ~199,768 |
+| That Was Close | 18.00% | ~199,768 |
+| Quickie | 11.00% | ~122,080 |
+| California Dreamer | 7.00% | ~77,687 |
+| Can't Touch This | 5.00% | ~55,491 |
+| Carménère Taster | 4.00% | ~44,393 |
+| Comeback | 4.00% | ~44,393 |
+| Driver from Ipanema | 3.00% | ~33,295 |
+| Supersonic | 3.00% | ~33,295 |
+| Marathonist | 3.00% | ~33,295 |
+| Living Legend | 3.00% | ~33,295 |
 | God of Roads | 2.00% | ~22,196 |
 | Pathfinder | 2.00% | ~22,196 |
 | Go-Kart Champion | 2.00% | ~22,196 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,220 |
 | Transporter | 0.10% | ~1,110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,109,803 (Ranked 15)  
+Progressed: 1,109,821 (Ranked 15)  
 Completed: 541 (0.05%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 541 (0.05%) (Ranked 351)
 | 2024-01-24 | 1,108,937 | 540 |
 | 2024-01-25 | 1,109,339 | 540 |
 | 2024-01-26 | 1,109,723 | 540 |
-| 2024-01-27 | 1,109,803 | 541 |
+| 2024-01-27 | 1,109,821 | 541 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 316)  
 Sum: 1,663 (Ranked 239)  

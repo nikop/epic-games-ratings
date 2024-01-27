@@ -4,7 +4,7 @@
   "ProductSlug": "home-wars-b695e3",
   "Ranking_EOS_Progress": 855,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewPlayers": 534,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.8585747+00:00",
   "LastChanged": "2023-03-31T05:58:37.8585749+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.6253205+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:57:50.7249025+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:04:26.1945162+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:57:32.5979551+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:04:10.5367262+00:00"
 }

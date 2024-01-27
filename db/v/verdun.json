@@ -2015,9 +2015,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 70546,
+  "EOS_Progressed": 70547,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33125,6 +33125,11 @@
       "Time": "2024-01-27T05:05:45.0349343+00:00",
       "NumProgressed": 70546,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-27T06:05:31.1503622+00:00",
+      "NumProgressed": 70547,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -33424,7 +33429,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 44444
+      "UsersEstimate": 44445
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -33504,7 +33509,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 55026
+      "UsersEstimate": 55027
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -33607,15 +33612,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 70546,
+      "Progressed": 70547,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-23T20:00:00.0597539+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:05:45.0349339+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:05:31.1503618+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:26.9198992+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:58:58.9411149+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:05:45.0351134+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:58:43.9643304+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:05:31.1505199+00:00"
 }

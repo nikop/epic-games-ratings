@@ -1,11 +1,11 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.20 (Ranked 974)  
+Rating: 4.20 (Ranked 975)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,602 |
+| Break Out | 65.00% | ~1,603 |
 | Trinity | 35.00% | ~863 |
 | The Collector | 29.00% | ~715 |
 | Find Allies | 28.00% | ~690 |
@@ -20,9 +20,9 @@ Rating: 4.20 (Ranked 974)
 | Stone Collection | 24.00% | ~592 |
 | Powerful Allies | 23.00% | ~567 |
 | Big Bazar | 17.00% | ~419 |
-| Alchemist | 16.00% | ~394 |
+| Alchemist | 16.00% | ~395 |
 | Essence Blow | 15.00% | ~370 |
-| The Mentor | 13.00% | ~320 |
+| The Mentor | 13.00% | ~321 |
 | Calm before the Storm | 12.00% | ~296 |
 | To Battle | 11.00% | ~271 |
 | Godslayer | 11.00% | ~271 |
@@ -42,7 +42,7 @@ Rating: 4.20 (Ranked 974)
 | All That Gold | 1.00% | ~25 |
 | Feeling Fancy | 0.40% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,465 (Ranked 247)  
+Progressed: 2,466 (Ranked 247)  
 Completed: 5 (0.20%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 5 (0.20%) (Ranked 289)
 | 2024-01-24 | 2,449 | 5 |
 | 2024-01-25 | 2,456 | 5 |
 | 2024-01-26 | 2,463 | 5 |
-| 2024-01-27 | 2,465 | 5 |
+| 2024-01-27 | 2,466 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

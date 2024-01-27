@@ -12,9 +12,9 @@ Number of Ratings: 76  (23.09.2022)
 | Jellyfishing | 17.00% | ~212 |
 | Sock Getter | 14.00% | ~175 |
 | Sweet Victory | 13.00% | ~162 |
+| Super Spatula Seeker | 13.00% | ~162 |
 | Star Smasher | 13.00% | ~162 |
 | Time For Tutorial | 13.00% | ~162 |
-| Super Spatula Seeker | 12.00% | ~150 |
 | Uptown and Downtown | 11.00% | ~137 |
 | Squirrel Smasher | 11.00% | ~137 |
 | Surf's Up! | 11.00% | ~137 |

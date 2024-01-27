@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -609,6 +609,11 @@
       "Time": "2024-01-27T05:07:19.8545461+00:00",
       "NumProgressed": 242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-27T06:07:03.750334+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -915,9 +920,9 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "his_all_holiness",
@@ -939,9 +944,9 @@
       "ID": "his_name_is_king",
       "SetID": "41moj9p",
       "Name": "His name is King",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "holy_trinity",
@@ -1203,9 +1208,9 @@
       "ID": "renaissance_man",
       "SetID": "41moj9p",
       "Name": "Renaissance Man",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "scientia_potentia_es",
@@ -1283,9 +1288,9 @@
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "time_to_find_india",
@@ -1420,7 +1425,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 0
     }
   ],
@@ -1428,8 +1433,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-26T01:43:22.1316374+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:07:19.8545458+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:07:03.7503338+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:57:45.0903721+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:07:19.8546549+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:57:27.3602773+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:07:03.7504239+00:00"
 }

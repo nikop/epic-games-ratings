@@ -4,7 +4,7 @@
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
   "Ranking_EOS_Progress": 586,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewPlayers": 534,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -163,9 +163,9 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Trophy_03",
@@ -411,9 +411,9 @@
       "ID": "Trophy_33",
       "SetID": "cf5h6dl",
       "Name": "Handyman Extraordinaire",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Trophy_34",
@@ -427,9 +427,9 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Trophy_36",
@@ -491,9 +491,9 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Trophy_44",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:09:28.4748329+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:09:46.7366121+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:28.6563345+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:57:37.2338847+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:09:28.474861+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:57:19.1543798+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:09:46.7366451+00:00"
 }

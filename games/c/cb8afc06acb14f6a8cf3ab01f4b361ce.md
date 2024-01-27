@@ -1,33 +1,33 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 967)  
+Rating: 4.21 (Ranked 968)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 6.00% | ~21,014 |
-| May the Torchbearer light our way | 5.00% | ~17,512 |
-| A powerful aura was here | 4.00% | ~14,009 |
+| The touch of Chaos | 6.00% | ~21,015 |
+| May the Torchbearer light our way | 5.00% | ~17,513 |
+| A powerful aura was here | 4.00% | ~14,010 |
 | Let's raise the stakes!! | 2.00% | ~7,005 |
-| Rumors are true | 1.00% | ~3,502 |
-| We'll be careful | 1.00% | ~3,502 |
-| Pride is a sin, young Knight | 1.00% | ~3,502 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,502 |
+| Rumors are true | 1.00% | ~3,503 |
+| We'll be careful | 1.00% | ~3,503 |
+| Pride is a sin, young Knight | 1.00% | ~3,503 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,503 |
 | Back to your senses | 0.90% | ~3,152 |
 | Bring it on! | 0.90% | ~3,152 |
 | They tricked me | 0.80% | ~2,802 |
 | We need to talk | 0.80% | ~2,802 |
 | They won't last long | 0.80% | ~2,802 |
 | I feel drawn to it | 0.70% | ~2,452 |
-| Here to stay | 0.60% | ~2,101 |
-| Counting on you | 0.60% | ~2,101 |
-| This is the end | 0.60% | ~2,101 |
-| We can choose to fight | 0.60% | ~2,101 |
+| Here to stay | 0.60% | ~2,102 |
+| Counting on you | 0.60% | ~2,102 |
+| This is the end | 0.60% | ~2,102 |
+| We can choose to fight | 0.60% | ~2,102 |
 | I took a risk | 0.50% | ~1,751 |
 | Their fate is sealed | 0.40% | ~1,401 |
 | Not even from this world | 0.40% | ~1,401 |
-| No damsels in distress | 0.20% | ~700 |
-| Chaos be damned! | 0.20% | ~700 |
+| No damsels in distress | 0.20% | ~701 |
+| Chaos be damned! | 0.20% | ~701 |
 | The immortal is bound to reborn | 0.10% | ~350 |
 | A legend among Chimeras | 0.10% | ~350 |
 | It's only pain | 0.10% | ~350 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 967)
 | Something... unnatural | 0.10% | ~350 |
 | We strike as one | 0.10% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350,236 (Ranked 60)  
+Progressed: 350,252 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 7 (0.00%) (Ranked 414)
 | 2024-01-24 | 349,460 | 7 |
 | 2024-01-25 | 349,819 | 7 |
 | 2024-01-26 | 350,157 | 7 |
-| 2024-01-27 | 350,236 | 7 |
+| 2024-01-27 | 350,252 | 7 |
 ## Awards
 Max (Great Boss Battles): 83  (Ranked 404)  
 Sum: 83 (Ranked 489)  

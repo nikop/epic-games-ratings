@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 975,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 181,
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12556,
+  "EOS_Progressed": 12557,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16558,6 +16558,11 @@
       "Time": "2024-01-27T05:07:09.7744632+00:00",
       "NumProgressed": 12556,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-27T06:06:53.6597237+00:00",
+      "NumProgressed": 12557,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 29,
@@ -16569,7 +16574,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10421
+      "UsersEstimate": 10422
     },
     {
       "ID": "ACH02",
@@ -16641,7 +16646,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ACH11",
@@ -16697,7 +16702,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "ACH18",
@@ -16713,7 +16718,7 @@
       "Name": "A Gift from the King",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH20",
@@ -16800,7 +16805,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12556,
+      "Progressed": 12557,
       "Completed": 97
     }
   ],
@@ -16808,8 +16813,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:07:09.7744628+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:06:53.6597233+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:00:55.1116258+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:07:09.7745313+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:00:44.4236733+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:06:53.6598133+00:00"
 }

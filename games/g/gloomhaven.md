@@ -13,7 +13,7 @@ Number of Ratings: 68  (23.09.2022)
 | Spread the plague | 26.00% | ~9,364 |
 | Get over here! | 24.00% | ~8,644 |
 | Just when I thought I was out... | 19.00% | ~6,843 |
-| Mine... All Mine... | 16.00% | ~5,762 |
+| Mine... All Mine... | 16.00% | ~5,763 |
 | Precious! | 15.00% | ~5,402 |
 | Grizzled veteran | 14.00% | ~5,042 |
 | Anatomy Lesson | 14.00% | ~5,042 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~36 |
 | Murder Death Kill | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,015 (Ranked 140)  
+Progressed: 36,016 (Ranked 140)  
 Completed: 2 (0.01%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2 (0.01%) (Ranked 388)
 | 2024-01-24 | 35,647 | 1 |
 | 2024-01-25 | 35,801 | 2 |
 | 2024-01-26 | 35,968 | 2 |
-| 2024-01-27 | 36,015 | 2 |
+| 2024-01-27 | 36,016 | 2 |
 ## Awards
 Max (Character Customization): 3,627  (Ranked 96)  
 Sum: 8,505 (Ranked 112)  

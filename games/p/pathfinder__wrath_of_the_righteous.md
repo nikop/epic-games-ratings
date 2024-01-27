@@ -57,9 +57,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Masterful Charge | 0.70% | ~94 |
 | Dreadful Dragon | 0.70% | ~94 |
 | Prelate's Nemesis | 0.50% | ~67 |
+| Just Pathetic | 0.40% | ~53 |
 | Ashes to Ashes | 0.40% | ~53 |
 | Masterful Dispel | 0.30% | ~40 |
-| Just Pathetic | 0.30% | ~40 |
 | Path of the Swarm | 0.20% | ~27 |
 | Spirit of Adventure | 0.20% | ~27 |
 | Equal to Aroden | 0.10% | ~13 |
@@ -407,12 +407,12 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-26 | 13,365 | 0 |
 | 2024-01-27 | 13,369 | 0 |
 ## Awards
-Max (Character Customization): 1,788  (Ranked 133)  
-Sum: 7,252 (Ranked 129)  
+Max (Character Customization): 1,790  (Ranked 133)  
+Sum: 7,254 (Ranked 129)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,788 |
+| This game has Inclusive Character Customization | 1,790 |
 | This game has Diverse Characters | 669 |
 | This game is Extremely Fun | 667 |
 | This game is Highly Recommended | 658 |
@@ -755,3 +755,4 @@ Diff (max vs sum): 4
 | 2024-01-23 | 4.76 | - | 1,787 | 7,248 |
 | 2024-01-24 | 4.76 | - | 1,787 | 7,250 |
 | 2024-01-25 | 4.76 | - | 1,788 | 7,252 |
+| 2024-01-27 | 4.76 | - | 1,790 | 7,254 |

@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 267,
+  "Ranking_Rating": 266,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
@@ -19190,9 +19190,9 @@
       "Count": 20360
     }
   ],
-  "EOS_Progressed": 1059350,
+  "EOS_Progressed": 1059366,
   "EOS_Completed": 3169,
-  "EOS_NewPlayers": 3996,
+  "EOS_NewPlayers": 3980,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -51500,6 +51500,11 @@
       "Time": "2024-01-27T05:10:00.7038207+00:00",
       "NumProgressed": 1059350,
       "NumCompleted": 3169
+    },
+    {
+      "Time": "2024-01-27T06:10:20.075755+00:00",
+      "NumProgressed": 1059366,
+      "NumCompleted": 3169
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51528,7 +51533,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "Cyberjunkie",
@@ -51688,7 +51693,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "Specialist",
@@ -51728,7 +51733,7 @@
       "Name": "The Fool",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "TheHermit",
@@ -51784,7 +51789,7 @@
       "Name": "The World",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "ThisIsPacifica",
@@ -52047,21 +52052,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1059350,
+      "Progressed": 1059366,
       "Completed": 3169
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 187973,
+      "Progressed": 187989,
       "Completed": 10706
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-27T05:04:07.4091253+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:10:00.7038202+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:10:20.0757546+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:04:07.409126+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:10:00.7039898+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:03:51.1102253+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:10:20.0759242+00:00"
 }

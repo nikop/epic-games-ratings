@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4779,9 +4779,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 398
     },
     {
       "ID": "TextAdventurer",
@@ -4899,9 +4899,9 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 251
     }
   ],
   "AchievementSets": [
@@ -4916,8 +4916,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-27T01:36:20.2681262+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:04:54.9875565+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:04:40.0387764+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.8556463+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:57:52.187159+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:04:54.9876495+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:57:34.4260228+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:04:40.0388619+00:00"
 }

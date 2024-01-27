@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Industrialist | 86.00% | ~6 |
+| Attention Peasant! | 71.00% | ~5 |
 | Now You Knew | 71.00% | ~5 |
+| The Red Flower | 71.00% | ~5 |
 | The Trial Begins | 71.00% | ~5 |
 | An Old Friend | 57.00% | ~4 |
-| Attention Peasant! | 57.00% | ~4 |
 | Meet THE Harbormaster | 57.00% | ~4 |
-| The Red Flower | 57.00% | ~4 |
 | The Mother Ocean | 57.00% | ~4 |
 | Wise Decision | 57.00% | ~4 |
 | An Old Hero | 43.00% | ~3 |
@@ -32,6 +32,7 @@
 | Home Made | 29.00% | ~2 |
 | In His Majesty's Service! | 29.00% | ~2 |
 | It is Unsafe Out Here | 29.00% | ~2 |
+| It’s Smarter to Pay the Toll | 29.00% | ~2 |
 | Not Again | 29.00% | ~2 |
 | Our Own Path | 29.00% | ~2 |
 | Our Tiny Little Fleet | 29.00% | ~2 |
@@ -49,7 +50,6 @@
 | Good Grinder | 14.00% | ~1 |
 | Good Mason | 14.00% | ~1 |
 | It’s Commandeering | 14.00% | ~1 |
-| It’s Smarter to Pay the Toll | 14.00% | ~1 |
 | Living off the Land | 14.00% | ~1 |
 | Shady Business | 14.00% | ~1 |
 | Small Business | 14.00% | ~1 |

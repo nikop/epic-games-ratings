@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 166,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 261092,
+  "EOS_Progressed": 261094,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28402,6 +28402,11 @@
       "Time": "2024-01-27T05:05:09.8647173+00:00",
       "NumProgressed": 261092,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-27T06:04:55.1056197+00:00",
+      "NumProgressed": 261094,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28413,7 +28418,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18276
+      "UsersEstimate": 18277
     },
     {
       "ID": "Act2",
@@ -28701,7 +28706,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60051
+      "UsersEstimate": 60052
     },
     {
       "ID": "KillOthers2",
@@ -28860,7 +28865,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 261092,
+      "Progressed": 261094,
       "Completed": 3
     }
   ],
@@ -28868,8 +28873,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-23T04:02:56.023083+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:05:09.864717+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:04:55.1056192+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:03:30.2288549+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:05:09.8648728+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:03:11.5183777+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:04:55.1057488+00:00"
 }

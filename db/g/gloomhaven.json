@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -3065,9 +3065,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 36015,
+  "EOS_Progressed": 36016,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1297,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18565,6 +18565,11 @@
       "Time": "2024-01-27T05:10:58.6279449+00:00",
       "NumProgressed": 36015,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-27T06:11:19.7276426+00:00",
+      "NumProgressed": 36016,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -18873,7 +18878,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "Achievement_Trophy39",
@@ -19064,7 +19069,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 36015,
+      "Progressed": 36016,
       "Completed": 2
     }
   ],
@@ -19072,8 +19077,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-24T23:02:43.400566+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:10:58.6279444+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:11:19.7276422+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:49.3369443+00:00",
-  "LastUpdate_Ratings": "2024-01-27T05:03:34.8990076+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:10:58.6280429+00:00"
+  "LastUpdate_Ratings": "2024-01-27T06:03:16.618014+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:11:19.7277343+00:00"
 }

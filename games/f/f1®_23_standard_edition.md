@@ -39,8 +39,8 @@ Rating: 4.65 (Ranked 327)
 | Recycle | 7.00% | ~1,314 |
 | Tinkerer | 6.00% | ~1,126 |
 | For all Those Back at the Factory | 5.00% | ~938 |
+| Smooth Operator | 5.00% | ~938 |
 | Living up to Expectations | 4.00% | ~751 |
-| Smooth Operator | 4.00% | ~751 |
 | Peak Performance | 4.00% | ~751 |
 | Seasoned Rookie | 3.00% | ~563 |
 | Hitting a Century | 3.00% | ~563 |

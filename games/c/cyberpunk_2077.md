@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.68 (Ranked 267)  
+Rating: 4.68 (Ranked 266)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,10 +16,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.80% | ~8,475 |
 | The Lovers | 0.80% | ~8,475 |
 | Legend of The Afterlife | 0.80% | ~8,475 |
-| Bushido and Chill | 0.70% | ~7,415 |
-| Stanislavski's Method | 0.70% | ~7,415 |
-| The Fool | 0.70% | ~7,415 |
-| The World | 0.70% | ~7,415 |
+| Bushido and Chill | 0.70% | ~7,416 |
+| Stanislavski's Method | 0.70% | ~7,416 |
+| The Fool | 0.70% | ~7,416 |
+| The World | 0.70% | ~7,416 |
 | All the President's Men | 0.70% | ~1,316 |
 | Arachnophobia | 0.70% | ~1,316 |
 | Gun Fu | 0.60% | ~6,356 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,350 (Ranked 17)  
+Progressed: 1,059,366 (Ranked 17)  
 Completed: 3,169 (0.30%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 3,169 (0.30%) (Ranked 267)
 | 2024-01-24 | 1,058,255 | 3,158 |
 | 2024-01-25 | 1,058,751 | 3,163 |
 | 2024-01-26 | 1,059,253 | 3,167 |
-| 2024-01-27 | 1,059,350 | 3,169 |
+| 2024-01-27 | 1,059,366 | 3,169 |
 ## Awards
 Max (Character Customization): 145,484  (Ranked 8)  
 Sum: 522,738 (Ranked 8)  

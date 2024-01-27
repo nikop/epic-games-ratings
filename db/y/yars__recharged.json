@@ -2,9 +2,9 @@
   "ID": "026a17f50e2b4ebeb6c631bd8638b6f7",
   "Name": "Yars: Recharged",
   "ProductSlug": "yars-revenge-recharged-fbdc11",
-  "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 424,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 1.19,
+  "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
     {
       "Time": "2024-01-15T14:08:56.2453118+00:00",
@@ -225,6 +225,11 @@
       "Time": "2024-01-27T05:09:58.8945746+00:00",
       "NumProgressed": 420,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-27T06:10:18.1300652+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -244,7 +249,7 @@
       "Name": "Analog Kid",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_APOLLO",
@@ -252,7 +257,7 @@
       "Name": "Apollo",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_ARMAGEDDON",
@@ -260,7 +265,7 @@
       "Name": "Armageddon",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_A_FAREWELL_TO_KINGS",
@@ -274,9 +279,9 @@
       "ID": "ACH_DIONYSUS",
       "SetID": "kifj0l",
       "Name": "Dionysus",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_GRAND_FINALE",
@@ -300,7 +305,7 @@
       "Name": "Oracle",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_RUSH",
@@ -316,7 +321,7 @@
       "Name": "Soliloquy",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_SUBDIVISIONS",
@@ -340,7 +345,7 @@
       "Name": "The Weapon",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_XANADU",
@@ -355,7 +360,7 @@
     {
       "ID": "kifj0l",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 424,
       "Completed": 5
     }
   ],
@@ -363,8 +368,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.4639247+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.5855018+00:00",
   "LastChanged": "2023-03-31T05:58:40.4639249+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:09:58.8945743+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:10:18.1300648+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.760429+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:58:35.2467729+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:09:58.8945841+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:58:18.6467241+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:10:18.1300756+00:00"
 }

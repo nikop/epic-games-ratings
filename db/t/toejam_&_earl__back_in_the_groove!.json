@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58956,
+  "EOS_Progressed": 58957,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16496,6 +16496,11 @@
       "Time": "2024-01-27T05:06:03.2082752+00:00",
       "NumProgressed": 58956,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-27T06:05:49.3445529+00:00",
+      "NumProgressed": 58957,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16571,7 +16576,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4716
+      "UsersEstimate": 4717
     },
     {
       "ID": "FlyingPresent",
@@ -16898,7 +16903,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58956,
+      "Progressed": 58957,
       "Completed": 6
     }
   ],
@@ -16906,8 +16911,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-27T05:06:03.2082748+00:00",
+  "LastChanged_Achievements": "2024-01-27T06:05:49.3445526+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.1607038+00:00",
-  "LastUpdate_Ratings": "2024-01-27T04:58:40.8810733+00:00",
-  "LastUpdate_Achievements": "2024-01-27T05:06:03.2084151+00:00"
+  "LastUpdate_Ratings": "2024-01-27T05:58:24.5255118+00:00",
+  "LastUpdate_Achievements": "2024-01-27T06:05:49.3446591+00:00"
 }
