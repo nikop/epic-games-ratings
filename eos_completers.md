@@ -161,10 +161,10 @@
 | 159 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.42% |
 | 160 | [Chorus](games/c/chorus.md) | 1.39% |
 | 161 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.36% |
-| 162 | [Yars: Recharged](games/y/yars__recharged.md) | 1.31% |
-| 163 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
-| 163 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
-| 165 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
+| 162 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
+| 162 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
+| 164 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
+| 165 | [Yars: Recharged](games/y/yars__recharged.md) | 1.27% |
 | 166 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.23% |
 | 167 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 168 | [The Devil's Face](games/t/the_devil's_face.md) | 1.21% |
