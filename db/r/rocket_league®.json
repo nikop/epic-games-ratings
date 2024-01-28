@@ -2,7 +2,7 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "ProductSlug": "rocket-league",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 682,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
@@ -9146,10 +9146,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 4796947,
       "NumberOfAwardsMax": 708000
+    },
+    {
+      "Time": "2024-01-28T10:57:33.9025121+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 4796983,
+      "NumberOfAwardsMax": 708000
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4796947,
+  "NumberOfAwards": 4796983,
   "NumberOfAwardsMax": 708000,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -9205,7 +9211,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 432728
+      "Count": 432764
     },
     {
       "Text": "This game has Challenging Combat",
@@ -42594,9 +42600,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-01-28T06:58:55.832393+00:00",
+  "LastChanged": "2024-01-28T10:57:33.9025119+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:46.8017685+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:18.7663912+00:00",
-  "LastUpdate_Ratings": "2024-01-28T08:59:51.0460955+00:00",
+  "LastUpdate_Ratings": "2024-01-28T10:57:33.9025125+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:46.8020098+00:00"
 }
