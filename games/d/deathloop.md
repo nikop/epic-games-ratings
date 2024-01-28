@@ -5,8 +5,8 @@ Rating: 4.45 (Ranked 697)
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 65  (Ranked 431)  
-Sum: 451 (Ranked 352)  
-Diff (max vs sum): 79  
+Sum: 387 (Ranked 366)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 514 |
