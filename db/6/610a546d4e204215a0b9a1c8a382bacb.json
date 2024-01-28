@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 112,
   "Ranking_Popularity": 309,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 52,
@@ -2485,10 +2485,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 1633,
       "NumberOfAwardsMax": 196
+    },
+    {
+      "Time": "2024-01-28T01:41:52.8856139+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1646,
+      "NumberOfAwardsMax": 196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1633,
+  "NumberOfAwards": 1646,
   "NumberOfAwardsMax": 196,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2496,7 +2502,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 190
+      "Count": 194
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2514,7 +2520,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 151
+      "Count": 157
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2544,7 +2550,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 143
+      "Count": 146
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13122,9 +13128,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-01-27T18:00:48.6496474+00:00",
+  "LastChanged": "2024-01-28T01:41:52.8856137+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:47.0105928+00:00",
   "LastUpdate_AppInfo": "2024-01-23T23:57:40.7828832+00:00",
-  "LastUpdate_Ratings": "2024-01-27T23:00:50.4865176+00:00",
+  "LastUpdate_Ratings": "2024-01-28T01:41:52.8856143+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:47.0107047+00:00"
 }
