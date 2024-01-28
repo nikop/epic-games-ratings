@@ -448,6 +448,7 @@
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
 | [Resonance](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2099-01-01 | - |  | - | - |
+| [Retro Commander](games/1/1e822fc232ef4a4a8bff9afdf5284cba.md) | 2099-01-01 | - |  | - | - |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2099-01-01 | - |  | - | - |
 | [Rooted](games/0/0c0ddf9e73d7480cb81033411e840dd1.md) | 2099-01-01 | - |  | - | - |
 | [Runeroots TD](games/2/2f169ae019ee48318209c0aebef2b378.md) | 2099-01-01 | - |  | - | - |
