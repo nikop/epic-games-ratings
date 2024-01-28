@@ -2,7 +2,7 @@
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
   "ProductSlug": "encased",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 49,
   "RatingHistory": [
     {
@@ -594,6 +594,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 167,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2024-01-28T06:01:14.2616089+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 167,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
@@ -619,8 +625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2024-01-16T15:59:12.7760475+00:00",
+  "LastChanged": "2024-01-28T06:01:14.2616087+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:15:01.7118441+00:00",
-  "LastUpdate_Ratings": "2024-01-28T04:59:12.4210368+00:00",
+  "LastUpdate_Ratings": "2024-01-28T06:01:14.2616093+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:50.870409+00:00"
 }
