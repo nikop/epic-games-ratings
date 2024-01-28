@@ -556,18 +556,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 201,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2024-01-28T19:58:36.0125025+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 202,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 201,
-  "NumberOfAwardsMax": 157,
+  "NumberOfAwards": 202,
+  "NumberOfAwardsMax": 158,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 157
+      "Count": 158
     },
     {
       "Text": "In this game, your choices Impact the Story",
@@ -19580,9 +19586,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2024-01-25T16:03:51.8791748+00:00",
+  "LastChanged": "2024-01-28T19:58:36.0125023+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:26.2904927+00:00",
   "LastUpdate_AppInfo": "2024-01-28T05:57:13.8500844+00:00",
-  "LastUpdate_Ratings": "2024-01-28T18:57:08.6930686+00:00",
+  "LastUpdate_Ratings": "2024-01-28T19:58:36.0125029+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:26.2906092+00:00"
 }

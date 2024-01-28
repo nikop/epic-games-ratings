@@ -2,9 +2,9 @@
   "ID": "a60b160cb14c4c258b70299310b63e56",
   "Name": "Panzer Corps 2",
   "ProductSlug": "panzer-corps-2",
-  "Ranking_Rating": 625,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 455,
+  "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -565,10 +565,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 136,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-01-28T19:57:23.1984683+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 156,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 136,
+  "NumberOfAwards": 156,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -613,6 +619,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 24
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -626,8 +638,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2024-01-27T15:57:22.6206935+00:00",
+  "LastChanged": "2024-01-28T19:57:23.1984681+00:00",
   "LastUpdate_AppInfo": "2024-01-28T01:41:49.8199782+00:00",
-  "LastUpdate_Ratings": "2024-01-28T18:00:10.5966704+00:00",
+  "LastUpdate_Ratings": "2024-01-28T19:57:23.1984686+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:32.6418095+00:00"
 }
