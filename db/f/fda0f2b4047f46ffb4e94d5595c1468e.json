@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 496,
   "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 103,
+  "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 160,
@@ -5707,18 +5707,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 9577,
       "NumberOfAwardsMax": 3133
+    },
+    {
+      "Time": "2024-01-28T08:00:03.3610018+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9590,
+      "NumberOfAwardsMax": 3146
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9577,
-  "NumberOfAwardsMax": 3133,
+  "NumberOfAwards": 9590,
+  "NumberOfAwardsMax": 3146,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3133
+      "Count": 3146
     },
     {
       "Text": "This game has a Competitive Community",
@@ -18635,9 +18641,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-28T05:59:01.1515417+00:00",
+  "LastChanged": "2024-01-28T08:00:03.3610017+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:30.4899212+00:00",
   "LastUpdate_AppInfo": "2024-01-27T19:57:08.1534518+00:00",
-  "LastUpdate_Ratings": "2024-01-28T07:00:03.8205733+00:00",
+  "LastUpdate_Ratings": "2024-01-28T08:00:03.3610022+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:30.4899918+00:00"
 }
