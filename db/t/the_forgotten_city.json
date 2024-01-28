@@ -2,7 +2,7 @@
   "ID": "fd990d1478724f3faa938e519c2835a5",
   "Name": "The Forgotten City",
   "ProductSlug": "the-forgotten-city",
-  "Ranking_Rating": 123,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -177,6 +177,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-28T03:01:07.7492062+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -194,8 +200,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.2138104+00:00",
-  "LastChanged": "2023-12-25T21:58:45.252823+00:00",
+  "LastChanged": "2024-01-28T03:01:07.7492057+00:00",
   "LastUpdate_AppInfo": "2024-01-28T01:41:38.5182208+00:00",
-  "LastUpdate_Ratings": "2024-01-28T02:18:01.8390451+00:00",
+  "LastUpdate_Ratings": "2024-01-28T03:01:07.7492065+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:12.1761965+00:00"
 }
