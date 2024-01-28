@@ -2,7 +2,7 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 338,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.29,
+  "Rating": 4.3,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -148,6 +148,12 @@
     {
       "Time": "2023-12-17T16:57:21.5175596+00:00",
       "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-28T15:57:24.0718738+00:00",
+      "Rating": 4.3,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2696,9 +2702,9 @@
   "FirstSeen": "2022-07-22T20:32:19.6180607+00:00",
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
-  "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
+  "LastChanged": "2024-01-28T15:57:24.0718736+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:03.6179526+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:14.2062213+00:00",
-  "LastUpdate_Ratings": "2024-01-28T14:00:04.4537433+00:00",
+  "LastUpdate_Ratings": "2024-01-28T15:57:24.0718741+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:03.617981+00:00"
 }

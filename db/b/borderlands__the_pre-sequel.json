@@ -3,7 +3,7 @@
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 625,
-  "Ranking_Popularity": 233,
+  "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -4557,18 +4557,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 3201,
       "NumberOfAwardsMax": 459
+    },
+    {
+      "Time": "2024-01-28T16:00:01.6931217+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 3202,
+      "NumberOfAwardsMax": 460
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3201,
-  "NumberOfAwardsMax": 459,
+  "NumberOfAwards": 3202,
+  "NumberOfAwardsMax": 460,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 459
+      "Count": 460
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4636,8 +4642,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2024-01-27T15:58:16.8083797+00:00",
+  "LastChanged": "2024-01-28T16:00:01.6931215+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:34.9428251+00:00",
-  "LastUpdate_Ratings": "2024-01-28T14:58:28.9388299+00:00",
+  "LastUpdate_Ratings": "2024-01-28T16:00:01.693122+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:02.2374467+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "The Binding of Isaac: Repentance",
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 7,
-  "Ranking_Popularity": 124,
+  "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -6172,11 +6172,17 @@
       "Rating": 4.9,
       "NumberOfAwards": 9400,
       "NumberOfAwardsMax": 2006
+    },
+    {
+      "Time": "2024-01-28T15:58:09.1865353+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9406,
+      "NumberOfAwardsMax": 2009
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9400,
-  "NumberOfAwardsMax": 2006,
+  "NumberOfAwards": 9406,
+  "NumberOfAwardsMax": 2009,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -6189,7 +6195,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2006
+      "Count": 2009
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6207,7 +6213,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 657
+      "Count": 659
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6225,7 +6231,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 587
+      "Count": 588
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6269,8 +6275,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-01-27T23:59:59.7145169+00:00",
+  "LastChanged": "2024-01-28T15:58:09.1865352+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:22.2502944+00:00",
-  "LastUpdate_Ratings": "2024-01-28T14:00:39.3575094+00:00",
+  "LastUpdate_Ratings": "2024-01-28T15:58:09.1865357+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:17.5450818+00:00"
 }

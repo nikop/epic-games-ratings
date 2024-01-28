@@ -325,15 +325,15 @@ Completed: 84 (0.42%) (Ranked 248)
 | 2024-01-26 | 19,869 | 84 |
 | 2024-01-27 | 19,880 | 84 |
 ## Awards
-Max (Amazing Storytelling): 66  (Ranked 429)  
-Sum: 413 (Ranked 359)  
-Diff (max vs sum): 70  
+Max (Highly Recommended): 66  (Ranked 429)  
+Sum: 414 (Ranked 358)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 728 |
 | This game has Amazing Storytelling | 66 |
 | This game is Highly Recommended | 66 |
-| This game is Relaxing | 63 |
+| This game is Relaxing | 64 |
 | This game has Amazing Characters | 63 |
 | This game is Great for Beginners | 58 |
 | This game has Diverse Characters | 58 |
@@ -587,4 +587,4 @@ Diff (max vs sum): 70
 | 2024-01-25 | 4.55 | 728 | 1,129 |
 | 2024-01-26 | 4.55 | 728 | 1,134 |
 | 2024-01-27 | 4.55 | 66 | 412 |
-| 2024-01-28 | 4.55 | 66 | 413 |
+| 2024-01-28 | 4.55 | 66 | 414 |
