@@ -3,12 +3,12 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 735)  
 ## Awards
-Max (Relaxing): 57  (Ranked 446)  
-Sum: 453 (Ranked 351)  
-Diff (max vs sum): 95  
+Max (Relaxing): 59  (Ranked 443)  
+Sum: 455 (Ranked 351)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 57 |
+| This game is Relaxing | 59 |
 | This game has Amazing Storytelling | 57 |
 | This game has Diverse Characters | 56 |
 | This game is Great for Beginners | 55 |
@@ -223,3 +223,4 @@ Diff (max vs sum): 95
 | 2024-01-25 | 4.43 | 57 | 451 |
 | 2024-01-26 | 4.43 | 57 | 452 |
 | 2024-01-27 | 4.43 | 57 | 453 |
+| 2024-01-28 | 4.43 | 59 | 455 |
