@@ -769,7 +769,7 @@
 | [Imagine Earth](games/i/imagine_earth.md) | 2022-04-28 | 24 (1,000 XP) | 451 | 4.32 | 0 |
 | [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 198 | - | 0 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.54 | 0 |
-| [Train Valley](games/t/train_valley.md) | 2022-04-27 | 39 (1,000 XP) | 670 | 4.49 | 0 |
+| [Train Valley](games/t/train_valley.md) | 2022-04-27 | 39 (1,000 XP) | 670 | 4.46 | 0 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 2022-04-26 | 72 (1,000 XP) | 7,598 | 4.17 | 99 |
 | [Unrailed!](games/u/unrailed!.md) | 2022-04-25 | 52 (1,000 XP) | 684,096 | 4.64 | 214 |
 | [Wildermyth](games/w/wildermyth.md) | 2022-04-22 | 56 (1,000 XP) | 1,625 | 4.78 | 30 |
@@ -795,7 +795,7 @@
 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 2022-03-02 | 73 (1,000 XP) | 220 | 4.29 | 0 |
 | [HordeCore](games/h/hordecore.md) | 2022-03-02 | 28 (1,000 XP) | 364 | - | 0 |
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 296 | 4.28 | 0 |
-| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,186,097 | 4.61 | 54,439 |
+| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,186,097 | 4.61 | 54,519 |
 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 2022-02-28 | 46 (1,000 XP) | 511 | 4.38 | 0 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 2022-02-25 | 101 (1,000 XP) | 4,459 | 4.27 | 0 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 2022-02-17 | 34 (1,000 XP) | 141,534 | 4.40 | 0 |
@@ -846,7 +846,7 @@
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 258,969 | 4.28 | 99 |
 | [Flat Heroes](games/f/flat_heroes.md) | 2021-09-15 | 44 (1,000 XP) | 678 | - | 0 |
 | [Dice Legacy](games/d/dice_legacy.md) | 2021-09-09 | 45 (1,000 XP) | 1,350 | 4.29 | 0 |
-| [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 2021-09-02 | 116 (1,150 XP) | 13,369 | 4.76 | 1,790 |
+| [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 2021-09-02 | 116 (1,150 XP) | 13,369 | 4.76 | 1,792 |
 | [Transport Fever 2](games/t/transport_fever_2.md) | 2021-08-18 | 61 (1,000 XP) | 2,523 | 4.67 | 50 |
 | [Road 96](games/r/road_96.md) | 2021-08-16 | 12 (1,000 XP) | 2 | 4.67 | 0 |
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 163 | - | 0 |
