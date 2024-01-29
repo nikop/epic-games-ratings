@@ -4,7 +4,7 @@
   "ProductSlug": "cat-quest-8373e0",
   "Ranking_Rating": 291,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 421,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 16,
@@ -3898,6 +3898,6 @@
   "LastChanged": "2024-01-28T23:57:25.992802+00:00",
   "LastChanged_Achievements": "2024-01-27T13:04:46.6674382+00:00",
   "LastUpdate_AppInfo": "2024-01-25T18:57:11.0732582+00:00",
-  "LastUpdate_Ratings": "2024-01-29T16:59:44.7184436+00:00",
+  "LastUpdate_Ratings": "2024-01-29T18:57:39.022954+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:46.6674688+00:00"
 }
