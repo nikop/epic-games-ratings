@@ -2,7 +2,7 @@
   "ID": "f697ab7aa6af41f880e1489818e2720d",
   "Name": "Wilmot\u0027s Warehouse",
   "ProductSlug": "wilmots-warehouse",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 266,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 88,
   "RatingHistory": [
     {
@@ -309,6 +309,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-29T08:59:04.5906105+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -326,8 +332,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:20.1616591+00:00",
-  "LastChanged": "2024-01-28T08:58:08.2884243+00:00",
+  "LastChanged": "2024-01-29T08:59:04.5906103+00:00",
   "LastUpdate_AppInfo": "2024-01-28T01:41:43.0672912+00:00",
-  "LastUpdate_Ratings": "2024-01-29T07:58:21.4630548+00:00",
+  "LastUpdate_Ratings": "2024-01-29T08:59:04.5906108+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:08.0064222+00:00"
 }
