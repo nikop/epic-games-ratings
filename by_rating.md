@@ -260,7 +260,7 @@
 | 243 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 648 | 203 |
 | 243 | [Pikuniku](games/p/pikuniku.md) | 4.69 | 0 | 591 |
 | 243 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,902 | 36 |
-| 243 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 515 | 223 |
+| 243 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 517 | 223 |
 | 243 | [Tchia](games/t/tchia.md) | 4.69 | 0 | 591 |
 | 243 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 591 |
 | 243 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,102 | 156 |
@@ -433,7 +433,7 @@
 | 402 | [Warframe](games/w/warframe.md) | 4.61 | 20,775 | 23 |
 | 402 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 700 | 199 |
 | 433 | [ABZU](games/a/abzu.md) | 4.60 | 0 | 591 |
-| 433 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,393 | 25 |
+| 433 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,409 | 25 |
 | 433 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 738 | 195 |
 | 433 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,282 | 80 |
 | 433 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 591 |
@@ -784,22 +784,22 @@
 | 776 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 591 |
 | 776 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 591 |
 | 776 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.40 | 96 | 392 |
+| 776 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.40 | 44 | 481 |
 | 776 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 412 |
 | 776 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.40 | 194 | 310 |
 | 776 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 536 | 222 |
 | 776 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 74 | 416 |
-| 789 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 591 |
-| 789 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 591 |
-| 789 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.39 | 0 | 591 |
-| 789 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 55 | 452 |
-| 789 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 628 | 207 |
-| 789 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.39 | 44 | 481 |
-| 789 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,823 | 37 |
-| 789 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 591 |
-| 789 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.39 | 0 | 591 |
-| 789 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 284 | 272 |
-| 789 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 336 | 254 |
-| 789 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.39 | 605 | 211 |
+| 790 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 591 |
+| 790 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 591 |
+| 790 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.39 | 0 | 591 |
+| 790 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 55 | 452 |
+| 790 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 628 | 207 |
+| 790 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,823 | 37 |
+| 790 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 591 |
+| 790 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.39 | 0 | 591 |
+| 790 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 284 | 272 |
+| 790 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 336 | 254 |
+| 790 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.39 | 605 | 211 |
 | 801 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 591 |
 | 801 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.38 | 0 | 591 |
 | 801 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 591 |
@@ -986,7 +986,7 @@
 | 974 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 0 | 591 |
 | 985 | [Against All Odds](games/a/against_all_odds.md) | 4.19 | 0 | 591 |
 | 985 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 466 |
-| 985 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,265 | 104 |
+| 985 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,272 | 104 |
 | 985 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 78 | 410 |
 | 985 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 591 |
 | 985 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 591 |
