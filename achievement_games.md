@@ -154,7 +154,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 27 | - | - |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 38 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 76 (1,000 XP) | 48,905 | 4.79 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 54,671 | 4.78 | 202 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 54,671 | 4.78 | 204 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 1,829 | 4.57 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 165 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 50 | - | - |
@@ -237,7 +237,7 @@
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 350,363 | 4.21 | 84 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 340 | 4.83 | 0 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 18 | - | 0 |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 408,747 | 4.41 | 202 |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 408,747 | 4.42 | 207 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-28 | 32 (1,000 XP) | 33 | - | 0 |
 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 415 | - | 0 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 78,786 | 4.34 | 0 |
@@ -400,7 +400,7 @@
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 6,570 | 4.55 | 71 |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 158 | - | 0 |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 151 | - | 0 |
-| [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 15,977 | 4.14 | 0 |
+| [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 15,977 | 4.17 | 0 |
 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 2023-06-16 | 45 (1,000 XP) | 817 | - | 0 |
 | [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 18,772 | 4.65 | 79 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-15 | 5 (1,000 XP) | 180 | - | 0 |
@@ -595,7 +595,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 16,724 | 4.53 | 20 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 4,255 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 543 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 387,846 | 4.75 | 32,896 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 387,846 | 4.75 | 32,992 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 159 | - | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 12,100 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 4,064 | - | 0 |
@@ -901,7 +901,7 @@
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 28,545 | 4.85 | 227 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 56,377 | 4.70 | 52 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 582 | 4.63 | 35 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,024,561 | 4.78 | 9,273 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,024,561 | 4.78 | 9,289 |
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2020-06-25 | 20 (1,000 XP) | 29,605 | 4.45 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 1,252 | 4.65 | 36 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 140,235 | 4.87 | 773 |
