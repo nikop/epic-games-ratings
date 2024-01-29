@@ -2,7 +2,7 @@
   "ID": "turtle",
   "Name": "Maneater",
   "ProductSlug": "maneater",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 643,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 856,
@@ -4386,10 +4386,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18459,
       "NumberOfAwardsMax": 13971
+    },
+    {
+      "Time": "2024-01-29T15:57:27.3768004+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18460,
+      "NumberOfAwardsMax": 13971
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18459,
+  "NumberOfAwards": 18460,
   "NumberOfAwardsMax": 13971,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4451,7 +4457,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4489,8 +4495,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2024-01-28T07:57:53.5222422+00:00",
+  "LastChanged": "2024-01-29T15:57:27.3768+00:00",
   "LastUpdate_AppInfo": "2024-01-28T05:57:33.6477283+00:00",
-  "LastUpdate_Ratings": "2024-01-29T14:00:15.1027809+00:00",
+  "LastUpdate_Ratings": "2024-01-29T15:57:27.3768007+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:48.1955953+00:00"
 }
