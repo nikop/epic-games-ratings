@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 262,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-12-23T17:00:23.3213833+00:00",
@@ -137,6 +137,12 @@
     {
       "Time": "2024-01-26T17:59:27.0444398+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-29T18:02:17.2194183+00:00",
+      "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5275,9 +5281,9 @@
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged": "2024-01-26T17:59:27.0444396+00:00",
+  "LastChanged": "2024-01-29T18:02:17.2194181+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:20.2997668+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:22.5512215+00:00",
-  "LastUpdate_Ratings": "2024-01-29T16:59:26.4470208+00:00",
+  "LastUpdate_Ratings": "2024-01-29T18:02:17.2194187+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:20.2998025+00:00"
 }
