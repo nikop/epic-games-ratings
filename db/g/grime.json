@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 434,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 85,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1947,6 +1947,12 @@
     {
       "Time": "2024-01-29T11:57:53.2834912+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 480,
+      "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2024-01-29T21:58:05.1927309+00:00",
+      "Rating": 4.59,
       "NumberOfAwards": 480,
       "NumberOfAwardsMax": 65
     }
@@ -25112,9 +25118,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-29T11:57:53.283491+00:00",
+  "LastChanged": "2024-01-29T21:58:05.1927307+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:45.026609+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:58.3170821+00:00",
-  "LastUpdate_Ratings": "2024-01-29T20:00:25.6406849+00:00",
+  "LastUpdate_Ratings": "2024-01-29T21:58:05.1927313+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:45.0267172+00:00"
 }
