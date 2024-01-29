@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2099-01-01 | 42 (1,000 XP) | 1 | - | - |
-| [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2099-01-01 | 27 (1,000 XP) | 1 | - | - |
+| [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 1 | - | - |
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-03-31 | 10 (1,000 XP) | 0 | - | - |
 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 9 | - | - |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 1 | - | - |
@@ -306,7 +306,7 @@
 | [Survive on Raft](games/s/survive_on_raft.md) | 2023-10-12 | 36 (1,000 XP) | 2 | - | 0 |
 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 2023-09-12 | 24 (1,000 XP) | 19,263 | - | 0 |
 | [Engine Evolution 2023](games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 2023-09-30 | 35 (1,000 XP) | 2,890 | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 32,537 | 4.44 | 56 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 32,537 | 4.43 | 56 |
 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 69 | - | 0 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 4 | - | - |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 69,167 | 4.65 | 0 |

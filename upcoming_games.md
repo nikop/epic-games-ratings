@@ -3,6 +3,7 @@
 | [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
 | [Arena 9th](games/b/b2915d5851bc4ddf91d7c90adf03f72b.md) | 2024-01-30 | - |  | - | - |
 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 0 | - | - |
+| [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 1 | - | - |
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-01-31 | 45 (1,000 XP) | 1 | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
@@ -273,7 +274,6 @@
 | [Can't Be Touched](games/7/73df555f0b5145ee89ee3b370e7eebb7.md) | 2099-01-01 | - |  | - | - |
 | [Candy Disaster](games/5/5462a132ecc745009cc413aa845adce9.md) | 2099-01-01 | - |  | - | - |
 | [Capes](games/c/capes.md) | 2099-01-01 | - |  | - | - |
-| [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2099-01-01 | 27 (1,000 XP) | 1 | - | - |
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | - |  | - | - |
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | 2099-01-01 | - |  | - | - |
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
