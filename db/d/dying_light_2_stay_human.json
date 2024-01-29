@@ -15398,18 +15398,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 34274,
       "NumberOfAwardsMax": 12922
+    },
+    {
+      "Time": "2024-01-29T13:57:22.8902381+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 34350,
+      "NumberOfAwardsMax": 12972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34274,
-  "NumberOfAwardsMax": 12922,
+  "NumberOfAwards": 34350,
+  "NumberOfAwardsMax": 12972,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 12922
+      "Count": 12972
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15433,7 +15439,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1771
+      "Count": 1779
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15445,7 +15451,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1560
+      "Count": 1567
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15475,7 +15481,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1246
+      "Count": 1257
     }
   ],
   "EOS_Progressed": 829753,
@@ -48555,9 +48561,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2024-01-29T08:01:33.8668389+00:00",
+  "LastChanged": "2024-01-29T13:57:22.890238+00:00",
   "LastChanged_Achievements": "2024-01-27T13:04:40.5124125+00:00",
   "LastUpdate_AppInfo": "2024-01-28T04:57:17.1362864+00:00",
-  "LastUpdate_Ratings": "2024-01-29T12:00:23.2042197+00:00",
+  "LastUpdate_Ratings": "2024-01-29T13:57:22.8902388+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:40.5125798+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 856,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-09-21T14:59:00.9142333+00:00",
@@ -1451,6 +1451,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 420,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2024-01-29T13:57:37.2782082+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 420,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
@@ -1531,8 +1537,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-01-28T19:57:48.7545923+00:00",
+  "LastChanged": "2024-01-29T13:57:37.278208+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:33.1955159+00:00",
-  "LastUpdate_Ratings": "2024-01-29T12:00:39.2907481+00:00",
+  "LastUpdate_Ratings": "2024-01-29T13:57:37.2782086+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:29.9252922+00:00"
 }
