@@ -3,8 +3,8 @@
 [View Rawdata](../../db/r/rising_hell.json)  
 Rating: 4.40 (Ranked 776)  
 ## Awards
-Max (Quickly Understood Controls): 76  (Ranked 412)  
-Sum: 675 (Ranked 319)  
+Max (Quickly Understood Controls): 76  (Ranked 413)  
+Sum: 675 (Ranked 320)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |

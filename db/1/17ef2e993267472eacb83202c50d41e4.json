@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 711,
   "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 427,
+  "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 43,
@@ -581,10 +581,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 195,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-01-29T06:57:24.8295275+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 199,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 195,
+  "NumberOfAwards": 199,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -610,7 +616,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14507,9 +14513,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-01-28T14:59:52.7625224+00:00",
+  "LastChanged": "2024-01-29T06:57:24.8295274+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:48.4423829+00:00",
   "LastUpdate_AppInfo": "2024-01-23T20:56:59.5511858+00:00",
-  "LastUpdate_Ratings": "2024-01-29T04:59:42.2627475+00:00",
+  "LastUpdate_Ratings": "2024-01-29T06:57:24.829528+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:48.4424821+00:00"
 }

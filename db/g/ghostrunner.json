@@ -4,7 +4,7 @@
   "ProductSlug": "ghostrunner",
   "Ranking_Rating": 496,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 216,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 4,
@@ -2203,10 +2203,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 2233,
       "NumberOfAwardsMax": 1806
+    },
+    {
+      "Time": "2024-01-29T06:57:29.3001464+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 2237,
+      "NumberOfAwardsMax": 1806
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2233,
+  "NumberOfAwards": 2237,
   "NumberOfAwardsMax": 1806,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2220,7 +2226,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 65
+      "Count": 69
     },
     {
       "Text": "This game is Relaxing",
@@ -33354,9 +33360,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
-  "LastChanged": "2024-01-28T21:57:31.3782031+00:00",
+  "LastChanged": "2024-01-29T06:57:29.3001462+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:41.8944547+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:15:02.0835245+00:00",
-  "LastUpdate_Ratings": "2024-01-29T04:59:46.9202977+00:00",
+  "LastUpdate_Ratings": "2024-01-29T06:57:29.3001468+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:41.8946329+00:00"
 }
