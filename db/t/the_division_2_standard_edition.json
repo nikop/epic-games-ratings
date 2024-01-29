@@ -3,7 +3,7 @@
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 626,
-  "Ranking_Popularity": 45,
+  "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -15495,10 +15495,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 31497,
       "NumberOfAwardsMax": 9197
+    },
+    {
+      "Time": "2024-01-29T13:02:58.7825563+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 31509,
+      "NumberOfAwardsMax": 9197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31497,
+  "NumberOfAwards": 31509,
   "NumberOfAwardsMax": 9197,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15524,7 +15530,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1660
+      "Count": 1669
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15548,7 +15554,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1705
+      "Count": 1708
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15586,8 +15592,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-01-29T10:58:30.8930813+00:00",
+  "LastChanged": "2024-01-29T13:02:58.7825561+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:16.6268943+00:00",
-  "LastUpdate_Ratings": "2024-01-29T11:59:47.5765276+00:00",
+  "LastUpdate_Ratings": "2024-01-29T13:02:58.7825566+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:25.4635463+00:00"
 }
