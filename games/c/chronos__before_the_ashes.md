@@ -1,7 +1,7 @@
 # Chronos: Before the Ashes
 [Store](https://store.epicgames.com/en-US/p/chronos-before-the-ashes)  
 [View Rawdata](../../db/c/chronos__before_the_ashes.json)  
-Rating: 4.16 (Ranked 1,004)  
+Rating: 4.15 (Ranked 1,013)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -23,3 +23,4 @@ Rating: 4.16 (Ranked 1,004)
 | 2023-10-19 | 4.11 | 0 | 0 |
 | 2024-01-10 | 4.14 | 0 | 0 |
 | 2024-01-13 | 4.16 | 0 | 0 |
+| 2024-01-29 | 4.15 | 0 | 0 |

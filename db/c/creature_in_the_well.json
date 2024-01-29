@@ -2,7 +2,7 @@
   "ID": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
   "Name": "Creature in the Well",
   "ProductSlug": "creature-in-the-well",
-  "Ranking_Rating": 942,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 856,
@@ -425,6 +425,6 @@
   "FirstSeen": "2022-07-22T20:16:44.5779838+00:00",
   "LastChanged": "2024-01-20T16:59:19.2586114+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:29.6158476+00:00",
-  "LastUpdate_Ratings": "2024-01-29T10:59:42.6765921+00:00",
+  "LastUpdate_Ratings": "2024-01-29T12:00:58.3214869+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:35.9771819+00:00"
 }
