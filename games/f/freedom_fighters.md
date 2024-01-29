@@ -1,7 +1,7 @@
 # Freedom Fighters
 [Store](https://store.epicgames.com/en-US/p/freedom-fighters)  
 [View Rawdata](../../db/f/freedom_fighters.json)  
-Rating: 4.67 (Ranked 288)  
+Rating: 4.68 (Ranked 266)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -20,3 +20,4 @@ Rating: 4.67 (Ranked 288)
 | 2023-10-28 | 4.65 | 0 | 0 |
 | 2023-12-03 | 4.66 | 0 | 0 |
 | 2024-01-23 | 4.67 | 0 | 0 |
+| 2024-01-28 | 4.68 | 0 | 0 |
