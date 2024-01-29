@@ -345,7 +345,7 @@ Completed: 121 (0.01%) (Ranked 388)
 | 2024-01-27 | 876,272 | 121 |
 ## Awards
 Max (Extremely Fun): 1,153  (Ranked 153)  
-Sum: 10,217 (Ranked 97)  
+Sum: 10,219 (Ranked 97)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): 56
 | This game has Amazing Characters | 1,071 |
 | This game has Amazing Storytelling | 1,043 |
 | This game is Relaxing | 1,039 |
-| This game has Playful Visuals | 878 |
+| This game has Playful Visuals | 880 |
 | This game has a Silly Community | 654 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -640,4 +640,4 @@ Diff (max vs sum): 56
 | 2024-01-26 | 3.87 | - | 1,150 | 10,175 |
 | 2024-01-27 | 3.87 | - | 1,150 | 10,202 |
 | 2024-01-28 | 3.88 | - | 1,150 | 10,214 |
-| 2024-01-29 | 3.88 | - | 1,153 | 10,217 |
+| 2024-01-29 | 3.88 | - | 1,153 | 10,219 |
