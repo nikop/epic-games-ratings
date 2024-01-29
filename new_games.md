@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
 | [FarWest Colony](games/2/264f2f0e8bae4df79696899fb257a574.md) | 2024-01-27 | - |  | - | 0 |
 | [Alice's Jigsaw. Wonderland Chronicles 2](games/6/6445bb085c274bb58007a3febb1df67e.md) | 2024-01-26 | - |  | - | - |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
@@ -77,4 +78,3 @@
 | [Galaxy Trek](games/4/4919b570ebfa4685848e6d7ff19dcc61.md) | 2024-01-01 | - |  | - | - |
 | [Xijiang Shipyard](games/6/6fea3a78e2014e14ab7f71ffdeb363e5.md) | 2024-01-01 | - |  | - | - |
 | [ZiDouQianWen](games/7/7c7aa850307342108a352d7d56864bf7.md) | 2023-12-31 | - |  | - | - |
-| [Sakura Day 2 Mahjong](games/c/ca3057f83651427394eb172a4addc286.md) | 2023-12-30 | - |  | - | 0 |

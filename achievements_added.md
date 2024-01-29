@@ -104,7 +104,7 @@
 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 2023-12-02 | 5 (1,000 XP) | 11 | - | 0 |
 | [Extreme Formula Championship](games/1/1903efa2b18040089ecbd796f9ec3a16.md) | 2023-12-05 | 5 (1,000 XP) | 8 | - | 0 |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2024-01-17 | 60 (1,000 XP) | 1 | - | - |
-| [GRIME](games/g/grime.md) | 2021-08-02 | 45 (1,200 XP) | 169,970 | 4.60 | 65 |
+| [GRIME](games/g/grime.md) | 2021-08-02 | 45 (1,200 XP) | 169,970 | 4.59 | 65 |
 | [Horse Racing](games/e/e4e71e80487245b682ed399fa518964e.md) | 2023-12-02 | 9 (1,000 XP) | 9 | - | - |
 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 2023-12-01 | 29 (1,000 XP) | 2 | - | 0 |
 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 2023-12-01 | 5 (1,000 XP) | 8 | - | - |
@@ -253,7 +253,7 @@
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 11,552 | 4.17 | 128 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 3,165 | - | 0 |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 46,532 | 4.50 | 9,237 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 3,678 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 3,601 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 3,623 | 4.20 | 25 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 340 | 4.83 | 0 |
 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2024-01-23 | 27 (1,000 XP) | 2 | - | - |
