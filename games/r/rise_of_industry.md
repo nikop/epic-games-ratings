@@ -316,6 +316,13 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-25 | 771,356 | 5 |
 | 2024-01-26 | 771,607 | 5 |
 | 2024-01-27 | 771,711 | 5 |
+## Awards
+Max (Educational): 20  (Ranked 584)  
+Sum: 20 (Ranked 584)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game is Educational | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -372,3 +379,4 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2023-12-29 | 4.25 | 0 | 0 |
 | 2024-01-06 | 4.24 | 0 | 0 |
 | 2024-01-07 | 4.25 | 0 | 0 |
+| 2024-01-29 | 4.25 | 20 | 20 |
