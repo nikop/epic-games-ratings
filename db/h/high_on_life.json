@@ -2,9 +2,9 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 329,
-  "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 592,
+  "Ranking_Rating": 349,
+  "Ranking_Popularity": 593,
+  "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 245,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2022-12-17T22:57:08.2654509+00:00",
@@ -323,6 +323,12 @@
     {
       "Time": "2023-12-27T23:03:01.2851603+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-30T12:59:57.8392238+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -9846,9 +9852,9 @@
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
-  "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
+  "LastChanged": "2024-01-30T12:59:57.8392236+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:32.9759095+00:00",
   "LastUpdate_AppInfo": "2024-01-28T04:57:04.1337655+00:00",
-  "LastUpdate_Ratings": "2024-01-30T11:57:19.0330934+00:00",
+  "LastUpdate_Ratings": "2024-01-30T12:59:57.8392243+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:32.9759798+00:00"
 }
