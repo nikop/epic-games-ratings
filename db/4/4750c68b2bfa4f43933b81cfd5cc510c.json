@@ -2,7 +2,7 @@
   "ID": "4750c68b2bfa4f43933b81cfd5cc510c",
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 50,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2023-09-29T21:57:05.6639643+00:00",
@@ -4141,10 +4141,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 13432,
       "NumberOfAwardsMax": 3601
+    },
+    {
+      "Time": "2024-01-30T17:58:15.6631745+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 13526,
+      "NumberOfAwardsMax": 3601
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13432,
+  "NumberOfAwards": 13526,
   "NumberOfAwardsMax": 3601,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4152,7 +4158,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1676
+      "Count": 1724
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4188,7 +4194,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1673
+      "Count": 1719
     },
     {
       "Text": "This game has Challenging Combat",
@@ -19456,9 +19462,9 @@
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2024-01-30T15:01:40.5516633+00:00",
+  "LastChanged": "2024-01-30T17:58:15.6631744+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:28.5518373+00:00",
   "LastUpdate_AppInfo": "2024-01-26T11:57:16.9294765+00:00",
-  "LastUpdate_Ratings": "2024-01-30T16:57:42.4730643+00:00",
+  "LastUpdate_Ratings": "2024-01-30T17:58:15.6631749+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:28.5519333+00:00"
 }
