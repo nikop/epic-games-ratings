@@ -2,7 +2,7 @@
   "ID": "1d6b5762a1d643a4830481c44d59abfb",
   "Name": "The Lord of The Rings Return to Moria",
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 55,
@@ -3274,10 +3274,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 5883,
       "NumberOfAwardsMax": 1027
+    },
+    {
+      "Time": "2024-01-30T10:57:27.5685735+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 5888,
+      "NumberOfAwardsMax": 1027
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5883,
+  "NumberOfAwards": 5888,
   "NumberOfAwardsMax": 1027,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3321,7 +3327,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 693
+      "Count": 698
     },
     {
       "Text": "This game has a Creative Community",
@@ -14944,9 +14950,9 @@
   "FirstSeen": "2023-10-24T14:01:15.5324027+00:00",
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged": "2024-01-29T21:58:28.4918733+00:00",
+  "LastChanged": "2024-01-30T10:57:27.5685733+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:54.4054928+00:00",
   "LastUpdate_AppInfo": "2024-01-28T01:41:43.8136846+00:00",
-  "LastUpdate_Ratings": "2024-01-30T09:00:05.3001058+00:00",
+  "LastUpdate_Ratings": "2024-01-30T10:57:27.5685739+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:54.4055676+00:00"
 }
