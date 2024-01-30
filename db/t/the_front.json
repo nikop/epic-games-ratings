@@ -4,7 +4,7 @@
   "ProductSlug": "the-front-3a8219",
   "Ranking_Rating": 1056,
   "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 496,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -587,10 +587,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-01-30T01:39:50.8141323+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 72,
+  "NumberOfAwards": 47,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -637,8 +643,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2024-01-29T10:59:42.5879075+00:00",
+  "LastChanged": "2024-01-30T01:39:50.8141322+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:38.3548637+00:00",
-  "LastUpdate_Ratings": "2024-01-29T23:58:53.7183978+00:00",
+  "LastUpdate_Ratings": "2024-01-30T01:39:50.8141327+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:13.0871946+00:00"
 }

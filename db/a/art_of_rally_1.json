@@ -4,7 +4,7 @@
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 350,
   "Ranking_Popularity": 466,
-  "Ranking_PopularitySum": 372,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 15,
@@ -851,10 +851,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 345,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-01-30T01:39:20.7844461+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 346,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345,
+  "NumberOfAwards": 346,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -898,7 +904,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7479,9 +7485,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-01-29T23:58:09.0785882+00:00",
+  "LastChanged": "2024-01-30T01:39:20.784446+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:21.7124494+00:00",
   "LastUpdate_AppInfo": "2024-01-28T01:41:49.8918133+00:00",
-  "LastUpdate_Ratings": "2024-01-29T23:58:09.0785892+00:00",
+  "LastUpdate_Ratings": "2024-01-30T01:39:20.7844465+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:21.7125182+00:00"
 }
