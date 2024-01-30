@@ -1,7 +1,7 @@
 # Bus Simulator 21 Next Stop
 [Store](https://store.epicgames.com/en-US/p/bus-simulator-21)  
 [View Rawdata](../../db/b/bus_simulator_21.json)  
-Rating: 4.09 (Ranked 1,036)  
+Rating: 4.12 (Ranked 1,031)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -17,3 +17,4 @@ Rating: 4.09 (Ranked 1,036)
 | 2024-01-15 | 4.03 | 0 | 0 |
 | 2024-01-17 | 4.06 | 0 | 0 |
 | 2024-01-21 | 4.09 | 0 | 0 |
+| 2024-01-30 | 4.12 | 0 | 0 |

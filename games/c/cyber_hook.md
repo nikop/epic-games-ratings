@@ -1,7 +1,7 @@
 # Cyber Hook
 [Store](https://store.epicgames.com/en-US/p/cyber-hook-064d2c)  
 [View Rawdata](../../db/c/cyber_hook.json)  
-Rating: 4.32 (Ranked 874)  
+Rating: 4.22 (Ranked 961)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -15,3 +15,4 @@ Rating: 4.32 (Ranked 874)
 | 2024-01-25 | 4.28 | 0 | 0 |
 | 2024-01-26 | 4.30 | 0 | 0 |
 | 2024-01-27 | 4.32 | 0 | 0 |
+| 2024-01-30 | 4.22 | 0 | 0 |
