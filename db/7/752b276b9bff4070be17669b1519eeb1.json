@@ -4,7 +4,7 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 803,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 287,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2831,10 +2831,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 935,
       "NumberOfAwardsMax": 147
+    },
+    {
+      "Time": "2024-01-30T07:57:41.2502693+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 936,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 935,
+  "NumberOfAwards": 936,
   "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2890,7 +2896,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2911,8 +2917,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-01-30T04:59:29.6371483+00:00",
+  "LastChanged": "2024-01-30T07:57:41.2502691+00:00",
   "LastUpdate_AppInfo": "2024-01-25T22:57:13.2717194+00:00",
-  "LastUpdate_Ratings": "2024-01-30T06:00:18.001019+00:00",
+  "LastUpdate_Ratings": "2024-01-30T07:57:41.2502697+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:31.4153862+00:00"
 }
