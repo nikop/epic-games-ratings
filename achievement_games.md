@@ -289,7 +289,7 @@
 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 2023-09-05 | 17 (1,000 XP) | 4 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 13 | - | - |
 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 2023-09-04 | 17 (1,000 XP) | 173 | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 32,537 | 4.43 | 56 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 32,537 | 4.44 | 56 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2023-09-01 | 36 (1,000 XP) | 6 | - | - |
 | [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 2023-09-01 | 34 (1,000 XP) | 75 | - | 0 |
 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 69 | - | 0 |
@@ -618,7 +618,7 @@
 | [Children of Silentown](games/c/children_of_silentown.md) | 2023-01-11 | 26 (1,000 XP) | 241 | - | 0 |
 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 2023-01-09 | 23 (1,000 XP) | 56 | - | 0 |
 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 2023-01-03 | 33 (1,000 XP) | 857 | - | 0 |
-| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.40 | 0 |
+| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.41 | 0 |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 2022-12-19 | 28 (1,000 XP) | 235,860 | 4.59 | 30 |
 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 2022-12-16 | 27 (1,000 XP) | 297 | - | 0 |
 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 2022-12-15 | 11 (1,000 XP) | 96 | - | 0 |
@@ -755,7 +755,7 @@
 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 2022-05-20 | 11 (1,000 XP) | 1,871 | 4.19 | 0 |
 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2022-05-19 | 75 (1,000 XP) | 50,355 | 4.37 | 2,169 |
 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 2022-05-19 | 60 (1,000 XP) | 438 | 4.74 | 0 |
-| [Outward Definitive Edition](games/o/outward.md) | 2022-05-17 | 42 (1,000 XP) | 4,861 | 4.55 | 35 |
+| [Outward Definitive Edition](games/o/outward.md) | 2022-05-17 | 42 (1,000 XP) | 4,861 | 4.54 | 35 |
 | [Lamentum](games/l/lamentum.md) | 2022-05-12 | 19 (1,000 XP) | 350 | 4.28 | 0 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 2022-05-12 | 34 (1,000 XP) | 239,339 | 4.49 | 0 |
 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 15,035 | 4.74 | 160 |
