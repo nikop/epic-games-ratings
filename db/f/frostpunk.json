@@ -7485,10 +7485,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7570,
       "NumberOfAwardsMax": 868
+    },
+    {
+      "Time": "2024-01-30T14:57:45.2827748+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7573,
+      "NumberOfAwardsMax": 868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7570,
+  "NumberOfAwards": 7573,
   "NumberOfAwardsMax": 868,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -7496,7 +7502,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 852
+      "Count": 853
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7550,7 +7556,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 443
+      "Count": 445
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7578,9 +7584,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-01-29T18:01:17.6948997+00:00",
+  "LastChanged": "2024-01-30T14:57:45.2827747+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:35.0401686+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:15:16.024833+00:00",
-  "LastUpdate_Ratings": "2024-01-30T13:02:45.2403143+00:00",
+  "LastUpdate_Ratings": "2024-01-30T14:57:45.2827753+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:35.0401702+00:00"
 }
