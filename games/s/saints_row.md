@@ -354,9 +354,9 @@ Diff (max vs sum): 56
 | This game has Quickly Understood Controls | 1,109 |
 | This game is Highly Recommended | 1,082 |
 | This game has Diverse Characters | 1,081 |
-| This game has Amazing Characters | 1,071 |
-| This game has Amazing Storytelling | 1,045 |
+| This game has Amazing Characters | 1,073 |
 | This game is Relaxing | 1,043 |
+| This game has Amazing Storytelling | 1,043 |
 | This game has Playful Visuals | 880 |
 | This game has a Silly Community | 654 |
 ## Ratings History
