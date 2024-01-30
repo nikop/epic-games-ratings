@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 0 | - | - |
 | [Arena 9th](games/b/b2915d5851bc4ddf91d7c90adf03f72b.md) | 2024-01-30 | - |  | - | - |
 | [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
 | [FarWest Colony](games/2/264f2f0e8bae4df79696899fb257a574.md) | 2024-01-27 | - |  | - | 0 |
