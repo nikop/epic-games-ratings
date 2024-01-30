@@ -11,13 +11,13 @@ Diff (max vs sum): 59
 | ----- | ----- |
 | This game has Diverse Characters | 979 |
 | This game has Challenging Combat | 943 |
-| This game is Extremely Fun | 899 |
+| This game is Extremely Fun | 901 |
 | This game is Highly Recommended | 897 |
 | This game has Quickly Understood Controls | 848 |
 | This game has Realistic Visuals | 843 |
 | This game has Competitive Players | 840 |
 | This game has Amazing Storytelling | 799 |
-| This game has a Competitive Community | 748 |
+| This game has a Competitive Community | 746 |
 | This game has Amazing Characters | 741 |
 | This game has Obsessive Gameplay | 149 |
 | This game is Educational | 28 |

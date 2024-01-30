@@ -9609,7 +9609,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 899
+      "Count": 901
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9639,7 +9639,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 748
+      "Count": 746
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9661,6 +9661,6 @@
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
   "LastChanged": "2024-01-29T20:59:39.886802+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:31.1561421+00:00",
-  "LastUpdate_Ratings": "2024-01-29T22:00:39.9568671+00:00",
+  "LastUpdate_Ratings": "2024-01-29T23:58:23.7231588+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:29.8382616+00:00"
 }
