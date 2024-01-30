@@ -1,7 +1,7 @@
 # Ashen
 [Store](https://store.epicgames.com/en-US/p/ashen)  
 [View Rawdata](../../db/a/ashen.json)  
-Rating: 4.33 (Ranked 865)  
+Rating: 4.32 (Ranked 874)  
 Number of Ratings: 111  (23.09.2022)  
 ## Awards
 | Award | Count |
@@ -81,3 +81,4 @@ Number of Ratings: 111  (23.09.2022)
 | 2023-12-19 | 4.34 | - | 0 | 0 |
 | 2024-01-06 | 4.32 | - | 0 | 0 |
 | 2024-01-16 | 4.33 | - | 0 | 0 |
+| 2024-01-30 | 4.32 | - | 0 | 0 |

@@ -1,15 +1,15 @@
 # Vampyr
 [Store](https://store.epicgames.com/en-US/p/vampyr)  
 [View Rawdata](../../db/v/vampyr.json)  
-Rating: 4.32 (Ranked 875)  
+Rating: 4.32 (Ranked 874)  
 Number of Ratings: 5,106  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 592  (Ranked 216)  
-Sum: 782 (Ranked 303)  
-Diff (max vs sum): -87  
+Max (Great Boss Battles): 594  (Ranked 216)  
+Sum: 784 (Ranked 302)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 592 |
+| This game has Great Boss Battles | 594 |
 | This game has Amazing Storytelling | 36 |
 | This game has Amazing Characters | 36 |
 | This game is Extremely Fun | 34 |
@@ -155,3 +155,4 @@ Diff (max vs sum): -87
 | 2024-01-25 | 4.32 | - | 591 | 780 |
 | 2024-01-28 | 4.32 | - | 592 | 781 |
 | 2024-01-29 | 4.32 | - | 592 | 782 |
+| 2024-01-30 | 4.32 | - | 594 | 784 |
