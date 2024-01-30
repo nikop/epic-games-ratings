@@ -2,7 +2,7 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 1100,
   "RatingHistory": [
     {
@@ -4258,10 +4258,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 8285,
       "NumberOfAwardsMax": 6289
+    },
+    {
+      "Time": "2024-01-30T11:57:28.7920656+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 8291,
+      "NumberOfAwardsMax": 6289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8285,
+  "NumberOfAwards": 8291,
   "NumberOfAwardsMax": 6289,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4281,7 +4287,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 247
+      "Count": 253
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4343,8 +4349,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2024-01-30T08:59:09.5236126+00:00",
+  "LastChanged": "2024-01-30T11:57:28.7920654+00:00",
   "LastUpdate_AppInfo": "2024-01-28T05:57:19.329352+00:00",
-  "LastUpdate_Ratings": "2024-01-30T10:00:38.3183716+00:00",
+  "LastUpdate_Ratings": "2024-01-30T11:57:28.7920658+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:35.5497188+00:00"
 }
