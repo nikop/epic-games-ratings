@@ -71,9 +71,9 @@
 | 69 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,170 | 4.76 | 135 |
 | 70 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,116 | 4.66 | 310 |
 | 71 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,038 | 4.64 | 350 |
-| 72 | [Rogue Company](games/r/rogue_company.md) | 5,934 | 4.29 | 894 |
-| 73 | [Prey](games/p/prey.md) | 5,896 | 4.63 | 365 |
-| 74 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 5,885 | 4.50 | 626 |
+| 72 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 5,946 | 4.50 | 626 |
+| 73 | [Rogue Company](games/r/rogue_company.md) | 5,936 | 4.29 | 894 |
+| 74 | [Prey](games/p/prey.md) | 5,896 | 4.63 | 365 |
 | 75 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,875 | 4.85 | 38 |
 | 76 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 5,825 | 4.64 | 350 |
 | 77 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,821 | 4.07 | 1,047 |
@@ -151,7 +151,7 @@
 | 149 | [MORDHAU](games/m/mordhau.md) | 1,293 | 4.38 | 803 |
 | 150 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,251 | 4.69 | 245 |
 | 151 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,209 | 4.76 | 135 |
-| 152 | [EVE Online](games/e/eve_online.md) | 1,185 | 4.24 | 943 |
+| 152 | [EVE Online](games/e/eve_online.md) | 1,186 | 4.24 | 943 |
 | 153 | [Saints Row](games/s/saints_row.md) | 1,153 | 3.88 | 1,088 |
 | 154 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,150 | 4.65 | 327 |
 | 155 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,111 | 4.61 | 402 |
@@ -249,8 +249,8 @@
 | 247 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 380 | 3.99 | 1,065 |
 | 248 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 379 | 4.81 | 82 |
 | 249 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 365 | 4.72 | 197 |
-| 250 | [Inscryption](games/i/inscryption.md) | 363 | 4.86 | 32 |
-| 250 | [Railway Empire](games/r/railway_empire.md) | 363 | 4.51 | 603 |
+| 250 | [Inscryption](games/i/inscryption.md) | 364 | 4.86 | 32 |
+| 251 | [Railway Empire](games/r/railway_empire.md) | 363 | 4.51 | 603 |
 | 252 | [The Messenger](games/t/the_messenger.md) | 352 | 4.81 | 82 |
 | 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 349 | 4.61 | 402 |
 | 254 | [Predecessor](games/p/predecessor.md) | 343 | 4.31 | 882 |

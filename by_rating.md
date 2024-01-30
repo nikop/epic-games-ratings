@@ -33,7 +33,7 @@
 | 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 616 | 210 |
 | 32 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 144 | 344 |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 46 | 475 |
-| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 363 | 250 |
+| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 364 | 250 |
 | 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 388 |
 | 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,740 | 136 |
 | 32 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 0 | 592 |
@@ -381,7 +381,7 @@
 | 365 | [Madcar GT](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.63 | 0 | 592 |
 | 365 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 688 | 201 |
 | 365 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 592 |
-| 365 | [Prey](games/p/prey.md) | 4.63 | 5,896 | 73 |
+| 365 | [Prey](games/p/prey.md) | 4.63 | 5,896 | 74 |
 | 365 | [RIDE 5](games/r/ride_5.md) | 4.63 | 0 | 592 |
 | 365 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 194 | 311 |
 | 365 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.63 | 0 | 592 |
@@ -618,7 +618,7 @@
 | 603 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 158 | 336 |
 | 603 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 592 |
 | 603 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.51 | 2,067 | 121 |
-| 603 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 363 | 250 |
+| 603 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 363 | 251 |
 | 603 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 788 | 191 |
 | 603 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 71 | 424 |
 | 603 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 592 |
@@ -640,7 +640,7 @@
 | 626 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 592 |
 | 626 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 9,237 | 45 |
 | 626 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,197 | 46 |
-| 626 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 5,885 | 74 |
+| 626 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 5,946 | 72 |
 | 626 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 47 | 473 |
 | 643 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 0 | 592 |
 | 643 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 65 | 432 |
@@ -900,7 +900,7 @@
 | 894 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 804 | 187 |
 | 894 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 168 | 330 |
 | 894 | [RiMS Racing](games/r/rims_racing.md) | 4.29 | 0 | 592 |
-| 894 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 5,934 | 72 |
+| 894 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 5,936 | 73 |
 | 894 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 129 | 355 |
 | 894 | [Steelrising](games/s/steelrising.md) | 4.29 | 40 | 492 |
 | 894 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 592 |
@@ -947,7 +947,7 @@
 | 943 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 592 |
 | 943 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 572 |
 | 943 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 592 |
-| 943 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,185 | 152 |
+| 943 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,186 | 152 |
 | 943 | [Hellpoint](games/h/hellpoint.md) | 4.24 | 0 | 592 |
 | 943 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 475 |
 | 943 | [The Fall](games/t/the_fall.md) | 4.24 | 0 | 592 |
