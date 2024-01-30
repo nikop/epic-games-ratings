@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 737,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 413,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 43,
@@ -635,10 +635,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 233,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-01-30T20:57:14.7376097+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 236,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 233,
+  "NumberOfAwards": 236,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -676,7 +682,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -694,7 +700,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14573,9 +14579,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-01-30T18:59:29.3188204+00:00",
+  "LastChanged": "2024-01-30T20:57:14.7376095+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:48.4423829+00:00",
-  "LastUpdate_AppInfo": "2024-01-23T20:56:59.5511858+00:00",
-  "LastUpdate_Ratings": "2024-01-30T18:59:29.3188211+00:00",
+  "LastUpdate_AppInfo": "2024-01-30T20:57:02.9942734+00:00",
+  "LastUpdate_Ratings": "2024-01-30T20:57:14.73761+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:48.4424821+00:00"
 }
