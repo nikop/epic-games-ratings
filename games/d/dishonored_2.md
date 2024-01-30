@@ -11,11 +11,11 @@ Diff (max vs sum): -66
 | This game has Great Boss Battles | 853 |
 | This game has Diverse Characters | 81 |
 | This game has Amazing Storytelling | 74 |
-| This game is Highly Recommended | 71 |
+| This game is Highly Recommended | 72 |
 | This game has Unique Visuals | 70 |
 | This game has Amazing Characters | 67 |
 | This game is Great for Beginners | 66 |
-| This game has Quickly Understood Controls | 65 |
+| This game has Quickly Understood Controls | 64 |
 | This game is Relaxing | 61 |
 | This game is Extremely Fun | 57 |
 | This game has a Creative Community | 53 |
