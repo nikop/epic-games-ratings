@@ -339,7 +339,7 @@ Completed: 9 (0.00%) (Ranked 414)
 | 2024-01-27 | 249,672 | 9 |
 ## Awards
 Max (Character Customization): 279  (Ranked 279)  
-Sum: 593 (Ranked 331)  
+Sum: 594 (Ranked 331)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): -52
 | This game has Amazing Storytelling | 34 |
 | This game has Amazing Characters | 33 |
 | This game is Extremely Fun | 30 |
-| This game has Playful Visuals | 23 |
+| This game has Playful Visuals | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -585,3 +585,4 @@ Diff (max vs sum): -52
 | 2024-01-26 | 4.58 | - | 277 | 587 |
 | 2024-01-27 | 4.58 | - | 279 | 591 |
 | 2024-01-30 | 4.58 | - | 279 | 593 |
+| 2024-01-31 | 4.58 | - | 279 | 594 |
