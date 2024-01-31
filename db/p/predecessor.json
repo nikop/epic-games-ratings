@@ -2,7 +2,7 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.3,
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -5503,10 +5503,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 1937,
       "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2024-01-31T05:00:19.2779506+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 1938,
+      "NumberOfAwardsMax": 343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1937,
+  "NumberOfAwards": 1938,
   "NumberOfAwardsMax": 343,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5556,7 +5562,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -5583,8 +5589,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2024-01-31T02:58:27.4134621+00:00",
+  "LastChanged": "2024-01-31T05:00:19.2779505+00:00",
   "LastUpdate_AppInfo": "2024-01-28T04:57:11.2828197+00:00",
-  "LastUpdate_Ratings": "2024-01-31T04:00:23.4253601+00:00",
+  "LastUpdate_Ratings": "2024-01-31T05:00:19.277951+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:27.1101668+00:00"
 }
