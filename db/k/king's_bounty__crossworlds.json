@@ -2,7 +2,7 @@
   "ID": "6a8afa765c0e4ebe970db11a0a67c883",
   "Name": "King\u0027s Bounty: Crossworlds",
   "ProductSlug": "kings-bounty-crossworlds-da093a",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 593,
   "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 856,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 24,
   "RatingHistory": [
     {
@@ -100,6 +100,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-31T07:57:29.5467525+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -118,8 +124,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:25.0110312+00:00",
   "FirstSeenRating": "2022-09-05T14:31:59.289908+00:00",
-  "LastChanged": "2024-01-04T16:02:17.9688067+00:00",
+  "LastChanged": "2024-01-31T07:57:29.5467522+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:39.1369876+00:00",
-  "LastUpdate_Ratings": "2024-01-31T06:00:21.5858538+00:00",
+  "LastUpdate_Ratings": "2024-01-31T07:57:29.5467529+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:11.9978508+00:00"
 }
