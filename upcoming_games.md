@@ -1,13 +1,10 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 2024-01-31 | - |  | - | - |
-| [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-01-31 | 45 (1,000 XP) | 1 | - | - |
-| [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
-| [Lilaina: Space Bounty Hunter](games/4/486b1a6b125943b290f01d7941fdb13c.md) | 2024-01-31 | - |  | - | - |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-01-31 | 18 (1,000 XP) | 1 | - | - |
 | [Rejuvan](games/b/bc249af196734f82829eef7d2ef7b956.md) | 2024-01-31 | - |  | - | - |
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | - |
+| [Lilaina: Space Bounty Hunter](games/4/486b1a6b125943b290f01d7941fdb13c.md) | 2024-01-31 | - |  | - | - |
 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 2024-01-31 | - |  | - | - |
 | [Retro Commander](games/1/1e822fc232ef4a4a8bff9afdf5284cba.md) | 2024-02-01 | - |  | - | - |
 | [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
