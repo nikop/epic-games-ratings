@@ -2,8 +2,8 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 881,
-  "Ranking_Popularity": 419,
+  "Ranking_Rating": 880,
+  "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -1683,10 +1683,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 537,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-01-31T11:57:42.2454432+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 538,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 537,
+  "NumberOfAwards": 538,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1700,7 +1706,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1780,8 +1786,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2024-01-25T19:03:27.4780911+00:00",
+  "LastChanged": "2024-01-31T11:57:42.2454431+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:34.9581171+00:00",
-  "LastUpdate_Ratings": "2024-01-31T10:01:08.9984082+00:00",
+  "LastUpdate_Ratings": "2024-01-31T11:57:42.2454436+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:01.8419933+00:00"
 }

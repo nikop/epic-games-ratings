@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/witchfire.json)  
 Rating: 4.60 (Ranked 434)  
 ## Awards
-Max (Highly Recommended): 71  (Ranked 425)  
+Max (Highly Recommended): 71  (Ranked 424)  
 Sum: 422 (Ranked 357)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 71 |
