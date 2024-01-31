@@ -66,7 +66,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 1 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 0 | - | - |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 46 | - | - |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 14,631 | 4.33 | 0 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 14,631 | 4.38 | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 5 | - | - |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 11 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 96 | - | - |
@@ -536,7 +536,7 @@
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,311 | - | 0 |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 2023-04-11 | 12 (1,000 XP) | 6 | - | 0 |
-| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,653 | 4.54 | 0 |
+| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,653 | 4.55 | 0 |
 | [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 24 (1,000 XP) | 2 | - | 0 |
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 10 (1,000 XP) | 93 | - | 0 |
 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 2023-04-10 | 48 (1,000 XP) | 64 | - | 0 |

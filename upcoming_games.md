@@ -173,6 +173,7 @@
 | [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-12-31 | - |  | - | - |
 | [Hexxen: Hunters](games/e/eaab430db9f24d558c949b85906f1c79.md) | 2024-12-31 | - |  | - | - |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2024-12-31 | 19 (1,000 XP) | 1 | - | - |
+| [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-12-31 | - |  | - | - |
 | [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
 | [Kendo Warrior](games/1/1b93bdbbc5934ba5bc467d797bd30957.md) | 2024-12-31 | - |  | - | - |
 | [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2024-12-31 | - |  | - | - |
@@ -181,6 +182,7 @@
 | [Lucky Tower Ultimate](games/b/b5dcd31f40894936ab1b6f14197dbc6d.md) | 2024-12-31 | - |  | - | - |
 | [Mars Tactics](games/m/mars_tactics.md) | 2024-12-31 | - |  | - | - |
 | [MENACE](games/d/d21aef9c18434bd89ee67023baba05fe.md) | 2024-12-31 | - |  | - | - |
+| [Metal Mind](games/9/973ea9bd62374be5bb84ef2c8d096c56.md) | 2024-12-31 | - |  | - | - |
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-12-31 | - |  | - | - |
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
