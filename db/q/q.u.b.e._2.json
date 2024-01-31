@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 712,
+  "Ranking_Rating": 736,
   "Ranking_Popularity": 593,
   "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 128,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 94,
   "RatingHistory": [
     {
@@ -615,6 +615,12 @@
     {
       "Time": "2024-01-28T20:59:54.003241+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-31T06:58:14.8005209+00:00",
+      "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -15877,9 +15883,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
-  "LastChanged": "2024-01-28T20:59:54.0032408+00:00",
+  "LastChanged": "2024-01-31T06:58:14.8005208+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:03.9884058+00:00",
   "LastUpdate_AppInfo": "2024-01-28T01:41:40.4638818+00:00",
-  "LastUpdate_Ratings": "2024-01-31T04:59:56.9565813+00:00",
+  "LastUpdate_Ratings": "2024-01-31T06:58:14.8005213+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:03.9884907+00:00"
 }
