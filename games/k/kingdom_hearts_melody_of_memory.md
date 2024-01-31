@@ -1,7 +1,7 @@
 # KINGDOM HEARTS Melody of Memory
 [Store](https://store.epicgames.com/en-US/p/kingdom-hearts-melody-of-memory)  
 [View Rawdata](../../db/k/kingdom_hearts_melody_of_memory.json)  
-Rating: 4.65 (Ranked 329)  
+Rating: 4.66 (Ranked 310)  
 Number of Ratings: 83  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 586)  
@@ -89,3 +89,4 @@ Diff (max vs sum): 0
 | 2023-12-30 | 4.66 | - | 0 | 0 |
 | 2023-12-31 | 4.65 | - | 0 | 0 |
 | 2024-01-17 | 4.65 | - | 20 | 20 |
+| 2024-01-31 | 4.66 | - | 20 | 20 |
