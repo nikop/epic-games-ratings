@@ -81,7 +81,7 @@
 | 69 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 62 | 438 |
 | 69 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 31 | 527 |
 | 69 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 101 | 381 |
-| 82 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 806 | 186 |
+| 82 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 811 | 186 |
 | 82 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,176 | 118 |
 | 82 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 593 |
 | 82 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 593 |
@@ -526,7 +526,7 @@
 | 514 | [Minit](games/m/minit.md) | 4.56 | 0 | 593 |
 | 514 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,754 | 86 |
 | 514 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.56 | 0 | 593 |
-| 514 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 8,727 | 49 |
+| 514 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 8,733 | 49 |
 | 514 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.56 | 101 | 381 |
 | 514 | [System Shock](games/s/system_shock.md) | 4.56 | 0 | 593 |
 | 514 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.56 | 459 | 237 |
@@ -625,7 +625,7 @@
 | 603 | [VALORANT](games/v/valorant.md) | 4.51 | 96,687 | 10 |
 | 603 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 593 |
 | 603 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 143 | 346 |
-| 626 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,918 | 127 |
+| 626 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,920 | 127 |
 | 626 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 460 | 235 |
 | 626 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 113 | 369 |
 | 626 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 593 |
@@ -916,6 +916,7 @@
 | 904 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 326 |
 | 915 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.27 | 0 | 593 |
 | 915 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.27 | 0 | 593 |
+| 915 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.27 | 0 | 593 |
 | 915 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 593 |
 | 915 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.27 | 57 | 448 |
 | 915 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 21 | 581 |
@@ -924,23 +925,22 @@
 | 915 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 593 |
 | 915 | [The Surge 2](games/t/the_surge_2.md) | 4.27 | 0 | 593 |
 | 915 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 0 | 593 |
-| 925 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 593 |
-| 925 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 593 |
-| 925 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,425 | 22 |
-| 925 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,996 | 95 |
-| 925 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 593 |
-| 925 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.26 | 0 | 593 |
-| 925 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 593 |
-| 925 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 269 |
-| 933 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.25 | 0 | 593 |
-| 933 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 984 | 170 |
-| 933 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 0 | 593 |
-| 933 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 20 | 586 |
-| 933 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 593 |
-| 933 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 593 |
-| 933 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 593 |
-| 933 | [Wreckfest](games/w/wreckfest.md) | 4.25 | 0 | 593 |
-| 933 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 558 |
+| 926 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 593 |
+| 926 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 593 |
+| 926 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,425 | 22 |
+| 926 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,996 | 95 |
+| 926 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 593 |
+| 926 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.26 | 0 | 593 |
+| 926 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 593 |
+| 926 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 269 |
+| 934 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 984 | 170 |
+| 934 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 0 | 593 |
+| 934 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 20 | 586 |
+| 934 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 593 |
+| 934 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 593 |
+| 934 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 593 |
+| 934 | [Wreckfest](games/w/wreckfest.md) | 4.25 | 0 | 593 |
+| 934 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 558 |
 | 942 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 593 |
 | 942 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 516 |
 | 942 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 593 |
@@ -982,7 +982,7 @@
 | 975 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 25 | 558 |
 | 975 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 575 |
 | 975 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 0 | 593 |
-| 975 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,346 | 79 |
+| 975 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,362 | 79 |
 | 975 | [Men of War](games/m/men_of_war.md) | 4.20 | 0 | 593 |
 | 975 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 0 | 593 |
 | 986 | [Against All Odds](games/a/against_all_odds.md) | 4.19 | 0 | 593 |
