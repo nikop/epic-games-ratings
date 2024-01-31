@@ -84,4 +84,3 @@
 | [Dirt and Flo](games/7/7752347969094a69a892f9ddc6fd5b8f.md) | 2024-01-03 | - |  | - | - |
 | [1001 Jigsaw Castles And Palaces](games/1/17ae23fb4425488eb300626c3098f617.md) | 2024-01-02 | - |  | - | 0 |
 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 2024-01-02 | - |  | 4.59 | 614 |
-| [Galaxy Trek](games/4/4919b570ebfa4685848e6d7ff19dcc61.md) | 2024-01-01 | - |  | - | - |
