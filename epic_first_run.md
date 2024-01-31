@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-06-30 | - |  | - | - |
 | [Kendo Warrior](games/1/1b93bdbbc5934ba5bc467d797bd30957.md) | 2024-12-31 | - |  | - | - |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-04-30 | - |  | - | - |
 | [Crime 1997](games/2/2ced7203e2f548c5b31cec8739d2a5ca.md) | 2024-12-31 | - |  | - | - |

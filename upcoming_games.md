@@ -111,6 +111,7 @@
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-05-31 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-06-27 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
+| [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-06-30 | - |  | - | - |
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-06-30 | - |  | - | - |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
