@@ -40,8 +40,8 @@
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-03-31 | - |  | - | - |
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-03-31 | - |  | - | - |
+| [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-03-31 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 471 | - | 0 |
-| [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-02-29 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | - | 0 |

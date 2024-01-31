@@ -51,7 +51,6 @@
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-02-29 | 23 (1,000 XP) | 0 | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-02-29 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
-| [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-02-29 | - |  | - | - |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-29 | 26 (1,000 XP) | 1 | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 471 | - | 0 |
 | [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2024-03-02 | 29 (1,000 XP) | 2 | - | - |
@@ -89,6 +88,7 @@
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-03-31 | 10 (1,000 XP) | 0 | - | - |
 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-03-31 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-03-31 | - |  | - | - |
+| [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
