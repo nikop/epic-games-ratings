@@ -4,7 +4,7 @@
   "ProductSlug": "death-stranding-directors-cut",
   "Ranking_Rating": 11,
   "Ranking_Popularity": 43,
-  "Ranking_PopularitySum": 71,
+  "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 72,
@@ -10583,10 +10583,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 16601,
       "NumberOfAwardsMax": 9527
+    },
+    {
+      "Time": "2024-01-31T15:59:27.108333+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 16605,
+      "NumberOfAwardsMax": 9527
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16601,
+  "NumberOfAwards": 16605,
   "NumberOfAwardsMax": 9527,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10636,7 +10642,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 633
+      "Count": 637
     },
     {
       "Text": "This game has a Creative Community",
@@ -43704,9 +43710,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
-  "LastChanged": "2024-01-31T13:57:56.6090188+00:00",
+  "LastChanged": "2024-01-31T15:59:27.1083328+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:47.0264847+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:16.3457879+00:00",
-  "LastUpdate_Ratings": "2024-01-31T14:58:50.2716751+00:00",
+  "LastUpdate_Ratings": "2024-01-31T15:59:27.1083335+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:47.0266332+00:00"
 }

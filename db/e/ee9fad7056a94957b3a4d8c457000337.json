@@ -4,7 +4,7 @@
   "ProductSlug": "20-minutes-till-dawn-be3305",
   "Ranking_Rating": 455,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -389,10 +389,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 760,
       "NumberOfAwardsMax": 614
+    },
+    {
+      "Time": "2024-01-31T15:58:24.2914328+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 762,
+      "NumberOfAwardsMax": 614
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 760,
+  "NumberOfAwards": 762,
   "NumberOfAwardsMax": 614,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -418,7 +424,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game has Diverse Characters",
@@ -451,8 +457,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-02T18:57:16.5662622+00:00",
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
-  "LastChanged": "2024-01-30T16:58:31.9045295+00:00",
+  "LastChanged": "2024-01-31T15:58:24.2914327+00:00",
   "LastUpdate_AppInfo": "2024-01-30T17:57:05.3773851+00:00",
-  "LastUpdate_Ratings": "2024-01-31T14:57:46.7065395+00:00",
+  "LastUpdate_Ratings": "2024-01-31T15:58:24.2914333+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:37.9643893+00:00"
 }
