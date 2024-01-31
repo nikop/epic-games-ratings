@@ -2,7 +2,7 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 942,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 152,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 856,
@@ -3556,18 +3556,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 2650,
       "NumberOfAwardsMax": 1186
+    },
+    {
+      "Time": "2024-01-31T17:57:57.5436386+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2652,
+      "NumberOfAwardsMax": 1188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2650,
-  "NumberOfAwardsMax": 1186,
+  "NumberOfAwards": 2652,
+  "NumberOfAwardsMax": 1188,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1186
+      "Count": 1188
     },
     {
       "Text": "This game is Relaxing",
@@ -3641,8 +3647,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-01-30T06:59:56.4108455+00:00",
+  "LastChanged": "2024-01-31T17:57:57.5436385+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:32.7910403+00:00",
-  "LastUpdate_Ratings": "2024-01-31T16:00:22.3330551+00:00",
+  "LastUpdate_Ratings": "2024-01-31T17:57:57.5436388+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:30.0976715+00:00"
 }
