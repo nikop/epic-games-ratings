@@ -4,7 +4,7 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 69,
   "Ranking_Popularity": 59,
-  "Ranking_PopularitySum": 88,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 81,
@@ -9295,10 +9295,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12960,
       "NumberOfAwardsMax": 7333
+    },
+    {
+      "Time": "2024-01-31T10:01:10.94766+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12964,
+      "NumberOfAwardsMax": 7333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12960,
+  "NumberOfAwards": 12964,
   "NumberOfAwardsMax": 7333,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9342,13 +9348,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 568
+      "Count": 571
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 655
+      "Count": 656
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -36152,9 +36158,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-31T07:57:48.0328631+00:00",
+  "LastChanged": "2024-01-31T10:01:10.9476598+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:20.9013704+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:35.7164857+00:00",
-  "LastUpdate_Ratings": "2024-01-31T08:58:51.572387+00:00",
+  "LastUpdate_Ratings": "2024-01-31T10:01:10.9476603+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:20.9014968+00:00"
 }
