@@ -4,7 +4,7 @@
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 32,
   "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 223,
@@ -1002,10 +1002,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 393,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-01-31T00:00:23.9005503+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 394,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 393,
+  "NumberOfAwards": 394,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1049,7 +1055,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9948,9 +9954,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2024-01-30T02:12:52.5767117+00:00",
+  "LastChanged": "2024-01-31T00:00:23.9005501+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:34.7116537+00:00",
   "LastUpdate_AppInfo": "2024-01-28T04:57:13.2944093+00:00",
-  "LastUpdate_Ratings": "2024-01-30T22:59:55.2032972+00:00",
+  "LastUpdate_Ratings": "2024-01-31T00:00:23.9005506+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:34.7116967+00:00"
 }

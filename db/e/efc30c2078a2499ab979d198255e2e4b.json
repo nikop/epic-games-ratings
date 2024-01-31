@@ -2,7 +2,7 @@
   "ID": "efc30c2078a2499ab979d198255e2e4b",
   "Name": "Snakebird Complete",
   "ProductSlug": "snakebird-complete-e6f0ae",
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 366,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 856,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-12-30T21:58:02.2559634+00:00",
@@ -143,6 +143,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-01-31T00:00:37.6817192+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -177,9 +183,9 @@
   "FirstSeen": "2023-12-29T18:56:59.2295687+00:00",
   "FirstSeenRating": "2023-12-30T21:58:02.2559632+00:00",
   "FirstSeenAchievements": "2023-12-29T17:03:21.6861588+00:00",
-  "LastChanged": "2024-01-27T23:58:37.4666616+00:00",
+  "LastChanged": "2024-01-31T00:00:37.681719+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:32.0951199+00:00",
   "LastUpdate_AppInfo": "2024-01-26T17:57:13.0231611+00:00",
-  "LastUpdate_Ratings": "2024-01-30T23:00:13.3143681+00:00",
+  "LastUpdate_Ratings": "2024-01-31T00:00:37.6817195+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:32.0951214+00:00"
 }
