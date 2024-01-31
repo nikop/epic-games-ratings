@@ -3,7 +3,7 @@
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 555,
-  "Ranking_Popularity": 288,
+  "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -1983,12 +1983,18 @@
       "Rating": 4.54,
       "NumberOfAwards": 1881,
       "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2024-01-31T18:58:42.7787595+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1895,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1881,
-  "NumberOfAwardsMax": 234,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 1895,
+  "NumberOfAwardsMax": 236,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -2012,7 +2018,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 231
+      "Count": 236
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2024,7 +2030,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 195
+      "Count": 200
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2048,7 +2054,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 209
+      "Count": 213
     },
     {
       "Text": "This game has a Creative Community",
@@ -2069,8 +2075,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-01-31T04:57:26.0858588+00:00",
+  "LastChanged": "2024-01-31T18:58:42.7787593+00:00",
   "LastUpdate_AppInfo": "2024-01-29T09:57:13.3406037+00:00",
-  "LastUpdate_Ratings": "2024-01-31T17:00:23.9721335+00:00",
+  "LastUpdate_Ratings": "2024-01-31T18:58:42.7787598+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:39.8128226+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 866,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 301,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1456,10 +1456,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 785,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-01-31T18:58:25.7603333+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 785,
+  "NumberOfAwards": 693,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1553,8 +1559,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2024-01-28T13:59:35.628748+00:00",
+  "LastChanged": "2024-01-31T18:58:25.7603331+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:04.9332847+00:00",
-  "LastUpdate_Ratings": "2024-01-31T17:00:07.6633091+00:00",
+  "LastUpdate_Ratings": "2024-01-31T18:58:25.7603336+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:27.5770503+00:00"
 }
