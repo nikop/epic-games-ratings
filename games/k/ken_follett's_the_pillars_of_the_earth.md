@@ -332,12 +332,12 @@ Completed: 125 (0.69%) (Ranked 210)
 | 2024-01-26 | 18,123 | 125 |
 | 2024-01-27 | 18,133 | 125 |
 ## Awards
-Max (Easy Puzzles): 158  (Ranked 336)  
-Sum: 202 (Ranked 425)  
-Diff (max vs sum): -89  
+Max (Easy Puzzles): 159  (Ranked 335)  
+Sum: 203 (Ranked 425)  
+Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 158 |
+| This game features Easy Puzzles | 159 |
 | In this game, your choices Impact the Story | 44 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -439,3 +439,4 @@ Diff (max vs sum): -89
 | 2024-01-25 | 4.51 | - | 157 | 201 |
 | 2024-01-28 | 4.51 | - | 158 | 202 |
 | 2024-01-30 | 4.52 | - | 158 | 202 |
+| 2024-01-31 | 4.52 | - | 159 | 203 |
