@@ -66,7 +66,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 1 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 0 | - | - |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 46 | - | - |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 14,631 | 4.38 | 0 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 14,631 | 4.35 | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 5 | - | - |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 11 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 96 | - | - |
@@ -301,7 +301,7 @@
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-08-29 | 46 (1,000 XP) | 120 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 2,647 | 4.84 | 36 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 6 | - | 0 |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 344,766 | 4.41 | 27 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 344,766 | 4.41 | 28 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 3,755 | 4.63 | 0 |
 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2023-08-23 | 14 (1,000 XP) | 139 | - | 0 |
@@ -517,7 +517,7 @@
 | [Island Cities](games/i/island_cities.md) | 2023-04-27 | 22 (1,000 XP) | 909 | - | 0 |
 | [EBOLA 3](games/e/ebola_3.md) | 2023-04-26 | 50 (1,000 XP) | 338 | - | 0 |
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,226 | - | 0 |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 4,843 | 4.10 | 43 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 4,843 | 4.10 | 44 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 67 | - | 0 |
 | [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 51 (1,150 XP) | 810,233 | 4.54 | 11,131 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 8 | - | - |
@@ -604,7 +604,7 @@
 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 2023-01-31 | 16 (1,000 XP) | 2,196 | - | 0 |
 | [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 19,211 | 4.71 | 336 |
 | [Risen](games/r/risen.md) | 2023-01-27 | 50 (1,000 XP) | 222 | 4.60 | 0 |
-| [Hell is Others](games/h/hell_is_others.md) | 2023-01-26 | 56 (1,000 XP) | 261,106 | 4.39 | 55 |
+| [Hell is Others](games/h/hell_is_others.md) | 2023-01-26 | 56 (1,000 XP) | 261,106 | 4.39 | 56 |
 | [Learning Factory](games/l/learning_factory.md) | 2023-01-26 | 57 (1,000 XP) | 0 | - | 0 |
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 218 | - | 0 |
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,340 | 4.35 | 0 |
@@ -732,7 +732,7 @@
 | [Hazel Sky](games/h/hazel_sky.md) | 2022-07-20 | 24 (1,000 XP) | 6 | - | 0 |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 2022-07-19 | 28 (1,000 XP) | 614 | - | 0 |
 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 2022-07-19 | 27 (1,000 XP) | 1,088 | 4.66 | 0 |
-| [House Party](games/h/house_party.md) | 2022-07-15 | 69 (1,040 XP) | 7,403 | 4.32 | 0 |
+| [House Party](games/h/house_party.md) | 2022-07-15 | 69 (1,040 XP) | 7,403 | 4.32 | 63 |
 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 2022-07-14 | 53 (1,000 XP) | 186 | - | 0 |
 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 2022-07-13 | 38 (1,000 XP) | 30 | - | 0 |
 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2022-07-12 | 35 (1,000 XP) | 51 | - | 0 |
@@ -774,7 +774,7 @@
 | [Unrailed!](games/u/unrailed!.md) | 2022-04-25 | 52 (1,000 XP) | 684,096 | 4.64 | 214 |
 | [Wildermyth](games/w/wildermyth.md) | 2022-04-22 | 56 (1,000 XP) | 1,625 | 4.78 | 30 |
 | [Smelter](games/s/smelter.md) | 2022-04-22 | 51 (1,000 XP) | 48 | - | 0 |
-| [Godlike Burger](games/g/godlike_burger.md) | 2022-04-21 | 28 (1,000 XP) | 407,371 | 4.51 | 0 |
+| [Godlike Burger](games/g/godlike_burger.md) | 2022-04-21 | 28 (1,000 XP) | 407,371 | 4.52 | 0 |
 | [Riverbond](games/r/riverbond.md) | 2022-04-21 | 57 (1,000 XP) | 536,476 | 4.46 | 22 |
 | [MythForce](games/m/mythforce.md) | 2022-04-20 | 23 (1,000 XP) | 6,478 | 4.47 | 37 |
 | [Spirit of the North](games/s/spirit_of_the_north.md) | 2022-04-19 | 24 (1,000 XP) | 81,095 | 4.36 | 27 |
