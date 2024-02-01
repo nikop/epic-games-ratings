@@ -2,7 +2,7 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 856,
@@ -2772,10 +2772,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 2214,
       "NumberOfAwardsMax": 789
+    },
+    {
+      "Time": "2024-02-01T18:59:45.4160748+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2215,
+      "NumberOfAwardsMax": 789
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2214,
+  "NumberOfAwards": 2215,
   "NumberOfAwardsMax": 789,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2831,7 +2837,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 137
+      "Count": 138
     },
     {
       "Text": "This game has a Creative Community",
@@ -2869,8 +2875,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2024-01-27T19:57:21.0920148+00:00",
+  "LastChanged": "2024-02-01T18:59:45.4160746+00:00",
   "LastUpdate_AppInfo": "2024-01-28T04:57:19.5739376+00:00",
-  "LastUpdate_Ratings": "2024-02-01T17:58:47.5910175+00:00",
+  "LastUpdate_Ratings": "2024-02-01T18:59:45.4160752+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:36.0049659+00:00"
 }
