@@ -2,7 +2,7 @@
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
   "ProductSlug": "chivalry-2",
-  "Ranking_Rating": 434,
+  "Ranking_Rating": 433,
   "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 856,
@@ -11652,10 +11652,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 32144,
       "NumberOfAwardsMax": 5294
+    },
+    {
+      "Time": "2024-02-01T06:57:44.2271307+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 32146,
+      "NumberOfAwardsMax": 5294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32144,
+  "NumberOfAwards": 32146,
   "NumberOfAwardsMax": 5294,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11705,7 +11711,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4234
+      "Count": 4236
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11725,8 +11731,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2024-01-31T23:59:23.3914167+00:00",
+  "LastChanged": "2024-02-01T06:57:44.2271305+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:27.6508751+00:00",
-  "LastUpdate_Ratings": "2024-02-01T05:00:10.5961829+00:00",
+  "LastUpdate_Ratings": "2024-02-01T06:57:44.2271355+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:34.3558403+00:00"
 }
