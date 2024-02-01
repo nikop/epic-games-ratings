@@ -74,7 +74,7 @@
 | 69 | [Blasphemous](games/b/blasphemous.md) | 4.82 | 176 | 323 |
 | 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 593 |
 | 69 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 516 |
-| 69 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,339 | 147 |
+| 69 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,347 | 147 |
 | 69 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.82 | 0 | 593 |
 | 69 | [Sifu](games/s/sifu.md) | 4.82 | 7,338 | 59 |
 | 69 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 461 | 233 |
@@ -137,7 +137,7 @@
 | 135 | [Aground](games/a/aground.md) | 4.76 | 0 | 593 |
 | 135 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.76 | 0 | 593 |
 | 135 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 23 | 569 |
-| 135 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,621 | 24 |
+| 135 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,628 | 24 |
 | 135 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.76 | 0 | 593 |
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,479 | 100 |
 | 135 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,211 | 151 |
@@ -220,7 +220,7 @@
 | 206 | [Slipways](games/s/slipways.md) | 4.71 | 0 | 593 |
 | 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 593 |
 | 206 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 593 |
-| 206 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,338 | 114 |
+| 206 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,342 | 114 |
 | 206 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 593 |
 | 223 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,654 | 87 |
 | 223 | [Coromon](games/c/coromon.md) | 4.70 | 46 | 475 |
@@ -963,18 +963,18 @@
 | 961 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.22 | 0 | 593 |
 | 961 | [Cyber Hook](games/c/cyber_hook.md) | 4.22 | 0 | 593 |
 | 961 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 593 |
-| 961 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 728 | 198 |
 | 961 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.22 | 0 | 593 |
 | 961 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 593 |
 | 961 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 147 | 341 |
-| 968 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 356 |
-| 968 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 524 |
-| 968 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.21 | 57 | 448 |
-| 968 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 0 | 593 |
-| 968 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 84 | 405 |
-| 968 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 593 |
-| 968 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.21 | 0 | 593 |
-| 968 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 410 |
+| 967 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 356 |
+| 967 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 524 |
+| 967 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.21 | 57 | 448 |
+| 967 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 0 | 593 |
+| 967 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 728 | 198 |
+| 967 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 84 | 405 |
+| 967 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 593 |
+| 967 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.21 | 0 | 593 |
+| 967 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 410 |
 | 976 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.20 | 0 | 593 |
 | 976 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 131 | 353 |
 | 976 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 593 |
