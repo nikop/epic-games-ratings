@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 893,
+  "Ranking_Rating": 904,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 103,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 368,
   "RatingHistory": [
     {
@@ -516,6 +516,12 @@
     {
       "Time": "2024-01-26T16:03:10.4718421+00:00",
       "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-01T16:59:29.7089501+00:00",
+      "Rating": 4.28,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -32155,9 +32161,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
-  "LastChanged": "2024-01-26T16:03:10.4718419+00:00",
+  "LastChanged": "2024-02-01T16:59:29.7089499+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:45.1289647+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:38.5750239+00:00",
-  "LastUpdate_Ratings": "2024-02-01T15:57:30.44665+00:00",
+  "LastUpdate_Ratings": "2024-02-01T16:59:29.7089505+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:45.1290775+00:00"
 }
