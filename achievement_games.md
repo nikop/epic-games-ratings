@@ -289,7 +289,7 @@
 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 2023-09-05 | 17 (1,000 XP) | 4 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 13 | - | - |
 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 2023-09-04 | 17 (1,000 XP) | 173 | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 32,537 | 4.44 | 59 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 32,537 | 4.44 | 63 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2023-09-01 | 36 (1,000 XP) | 6 | - | - |
 | [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 2023-09-01 | 34 (1,000 XP) | 75 | - | 0 |
 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 69 | - | 0 |
@@ -334,7 +334,7 @@
 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-08-04 | 20 (1,000 XP) | 381 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
-| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 94,415 | 3.88 | 0 |
+| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 94,415 | 3.89 | 0 |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 102 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 784,162 | 4.54 | 956 |
@@ -803,7 +803,7 @@
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 531,804 | 4.61 | 428 |
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 150 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 164 | - | 0 |
-| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 763,029 | 4.82 | 7,333 |
+| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 763,029 | 4.82 | 7,338 |
 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 829,753 | 4.58 | 13,051 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,399,568 | 4.77 | 11,651 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 353 | - | 0 |
@@ -892,12 +892,12 @@
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,059,559 | 4.68 | 147,181 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,216 | 4.86 | 46 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 48,023 | 4.66 | 404 |
-| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,238,669 | 4.57 | 1,844 |
+| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,238,669 | 4.57 | 1,855 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 44,699 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,252 | 4.02 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 437,887 | 4.64 | 51 |
 | [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 28,011,317 | 4.46 | 712,566 |
-| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 249,672 | 4.58 | 279 |
+| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 249,672 | 4.58 | 284 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 28,545 | 4.85 | 227 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 56,377 | 4.70 | 53 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 582 | 4.63 | 35 |
