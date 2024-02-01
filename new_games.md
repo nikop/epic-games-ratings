@@ -1,9 +1,12 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 1 | - | - |
+| [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
+| [BlueSuburbia](games/7/7c68959aff46468bab66fa0bcb6a7047.md) | 2024-02-01 | - |  | - | - |
+| [Island of Fear](games/c/cd9345b512a544e38b7ff0165111e35c.md) | 2024-02-01 | - |  | - | - |
+| [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 1 | - | 0 |
 | [BUNKERZONE](games/a/afdf048047cd452482ad7c19b2e39733.md) | 2024-02-01 | - |  | - | 0 |
 | [Carnage Chase](games/f/fbe32f5aded6419aa99ef9ed8c719426.md) | 2024-02-01 | - |  | - | - |
-| [Bladerite](games/7/7e5f7d87c17c4e68b5e200306aa46344.md) | 2024-02-01 | - |  | - | - |
+| [Bladerite](games/7/7e5f7d87c17c4e68b5e200306aa46344.md) | 2024-02-01 | - |  | - | 0 |
 | [Retro Commander](games/1/1e822fc232ef4a4a8bff9afdf5284cba.md) | 2024-02-01 | - |  | - | - |
 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 2024-01-31 | - |  | - | - |
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | - |
@@ -88,4 +91,3 @@
 | [Eyes Of Memes](games/b/ba74867ed69a4bb6abd9f81fea647af6.md) | 2024-01-04 | - |  | - | 0 |
 | [The Last Game](games/9/90079069d1374cfa9356974d8a3a9821.md) | 2024-01-03 | - |  | - | 0 |
 | [Dirt and Flo](games/7/7752347969094a69a892f9ddc6fd5b8f.md) | 2024-01-03 | - |  | - | - |
-| [1001 Jigsaw Castles And Palaces](games/1/17ae23fb4425488eb300626c3098f617.md) | 2024-01-02 | - |  | - | 0 |

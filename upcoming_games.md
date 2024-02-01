@@ -1,11 +1,8 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
-| [BlueSuburbia](games/7/7c68959aff46468bab66fa0bcb6a7047.md) | 2024-02-01 | - |  | - | - |
-| [Island of Fear](games/c/cd9345b512a544e38b7ff0165111e35c.md) | 2024-02-01 | - |  | - | - |
 | [Demise of Nations](games/2/284a71e3e36b41a18b474e5469060944.md) | 2024-02-02 | - |  | - | - |
-| [Lilaina: Space Bounty Hunter](games/4/486b1a6b125943b290f01d7941fdb13c.md) | 2024-02-02 | - |  | - | - |
 | [Tiny Jump](games/0/08d22307c66c4923ae6fab7edfa6e227.md) | 2024-02-02 | - |  | - | - |
+| [Lilaina: Space Bounty Hunter](games/4/486b1a6b125943b290f01d7941fdb13c.md) | 2024-02-02 | - |  | - | - |
 | [I'm in Love With Your Dead Grandmother](games/3/3eab9be22dbd475ab1ef7e3824b81121.md) | 2024-02-03 | 12 (1,000 XP) | 1 | - | - |
 | [1001 Jigsaw. World Tour: Great America](games/1/12d6ced529194cd583ec2690325036bc.md) | 2024-02-04 | - |  | - | - |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | - |  | - | - |
