@@ -2,7 +2,7 @@
   "ID": "6f43ab8025ad42d18510aa91e9eb688b",
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
-  "Ranking_Rating": 38,
+  "Ranking_Rating": 39,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 856,
@@ -5717,10 +5717,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 12965,
       "NumberOfAwardsMax": 5877
+    },
+    {
+      "Time": "2024-02-01T13:02:05.3600225+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 12968,
+      "NumberOfAwardsMax": 5877
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12965,
+  "NumberOfAwards": 12968,
   "NumberOfAwardsMax": 5877,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5746,7 +5752,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 322
+      "Count": 323
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5758,7 +5764,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 325
+      "Count": 326
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5770,7 +5776,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 343
+      "Count": 344
     },
     {
       "Text": "This game is Relaxing",
@@ -5814,8 +5820,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2024-02-01T02:17:27.3953679+00:00",
+  "LastChanged": "2024-02-01T13:02:05.3600224+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:49.2686996+00:00",
-  "LastUpdate_Ratings": "2024-02-01T11:58:49.2638862+00:00",
+  "LastUpdate_Ratings": "2024-02-01T13:02:05.360023+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:59.1869398+00:00"
 }
