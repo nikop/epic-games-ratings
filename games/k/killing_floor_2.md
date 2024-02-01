@@ -1,7 +1,7 @@
 # Killing Floor 2
 [Store](https://store.epicgames.com/en-US/p/killing-floor-2)  
 [View Rawdata](../../db/k/killing_floor_2.json)  
-Rating: 4.43 (Ranked 738)  
+Rating: 4.44 (Ranked 714)  
 Number of Ratings: 18,418  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 14,423  (Ranked 30)  
@@ -397,4 +397,4 @@ Diff (max vs sum): -13
 | 2024-01-29 | 4.43 | - | 14,403 | 33,280 |
 | 2024-01-30 | 4.43 | - | 14,410 | 33,307 |
 | 2024-01-31 | 4.43 | - | 14,410 | 33,323 |
-| 2024-02-01 | 4.43 | - | 14,423 | 33,344 |
+| 2024-02-01 | 4.44 | - | 14,423 | 33,344 |

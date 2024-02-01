@@ -4,7 +4,7 @@
   "ProductSlug": "legends-of-runeterra",
   "Ranking_Rating": 330,
   "Ranking_Popularity": 296,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3381,6 +3381,6 @@
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
   "LastChanged": "2024-01-31T01:39:21.1442778+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:10.5251379+00:00",
-  "LastUpdate_Ratings": "2024-02-01T04:58:38.1801715+00:00",
+  "LastUpdate_Ratings": "2024-02-01T06:00:03.3981553+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:37.7562479+00:00"
 }
