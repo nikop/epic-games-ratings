@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 593,
   "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 3906,
-  "Ranking_EOS_NewCompleters": 3907,
+  "Ranking_EOS_NewPlayers": 3907,
+  "Ranking_EOS_NewCompleters": 3908,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -30084,6 +30084,6 @@
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:06.7417725+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:34.7103863+00:00",
-  "LastUpdate_Ratings": "2024-01-31T22:58:04.2443709+00:00",
+  "LastUpdate_Ratings": "2024-01-31T23:59:16.7774899+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:06.7418896+00:00"
 }
