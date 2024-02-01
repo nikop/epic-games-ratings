@@ -387,6 +387,7 @@
 | [Littlelands](games/d/de4a72bbf5e6433c9cf8f24871fd9b47.md) | 2099-01-01 | - |  | - | - |
 | [Loop](games/l/loop.md) | 2099-01-01 | - |  | - | - |
 | [Lost And Found Beta](games/5/52584c975e1d43d5b8c521f9a3eb64a1.md) | 2099-01-01 | - |  | - | - |
+| [Luminis - Heal Them All](games/c/c016533df313422cb9bb8847cfe25a96.md) | 2099-01-01 | - |  | - | - |
 | [Luna Abyss](games/l/luna_abyss.md) | 2099-01-01 | - |  | - | - |
 | [Macabre](games/m/macabre.md) | 2099-01-01 | - |  | - | - |
 | [Magic Chess Online](games/7/72915a882ff54ef7bc30e5ae81b7608b.md) | 2099-01-01 | - |  | - | - |
