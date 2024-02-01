@@ -100,7 +100,7 @@
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 593 |
 | 92 | [Superliminal](games/s/superliminal.md) | 4.80 | 0 | 593 |
 | 100 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 56 | 452 |
-| 100 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,665 | 138 |
+| 100 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,667 | 138 |
 | 100 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 593 |
 | 100 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 172 | 328 |
 | 100 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 593 |
@@ -120,20 +120,20 @@
 | 111 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 989 | 169 |
 | 111 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 593 |
 | 111 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.78 | 0 | 593 |
-| 111 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.78 | 48 | 471 |
 | 111 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 532 |
-| 123 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,059 | 42 |
-| 123 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,651 | 38 |
-| 123 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 593 |
-| 123 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 593 |
-| 123 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,530 | 110 |
-| 123 | [Outlast](games/o/outlast.md) | 4.77 | 24 | 564 |
-| 123 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 324 | 262 |
-| 123 | [Quake](games/q/quake.md) | 4.77 | 52 | 459 |
-| 123 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 25 | 557 |
-| 123 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 593 |
-| 123 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 159 | 335 |
-| 123 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 593 |
+| 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,059 | 42 |
+| 122 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,651 | 38 |
+| 122 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 593 |
+| 122 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 593 |
+| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,530 | 110 |
+| 122 | [Outlast](games/o/outlast.md) | 4.77 | 24 | 564 |
+| 122 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 324 | 262 |
+| 122 | [Quake](games/q/quake.md) | 4.77 | 52 | 459 |
+| 122 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 25 | 557 |
+| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 593 |
+| 122 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 159 | 335 |
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 48 | 471 |
+| 122 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 593 |
 | 135 | [Aground](games/a/aground.md) | 4.76 | 0 | 593 |
 | 135 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.76 | 0 | 593 |
 | 135 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 23 | 569 |
@@ -378,7 +378,7 @@
 | 366 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 593 |
 | 366 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 593 |
 | 366 | [Madcar GT](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.63 | 0 | 593 |
-| 366 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 688 | 201 |
+| 366 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 692 | 201 |
 | 366 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 593 |
 | 366 | [Prey](games/p/prey.md) | 4.63 | 5,896 | 75 |
 | 366 | [RIDE 5](games/r/ride_5.md) | 4.63 | 0 | 593 |
@@ -693,7 +693,7 @@
 | 679 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 593 |
 | 679 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 593 |
 | 679 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.46 | 0 | 593 |
-| 679 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 301 | 267 |
+| 679 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 302 | 267 |
 | 679 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 593 |
 | 679 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 593 |
 | 679 | [Train Valley 2](games/t/train_valley_2.md) | 4.46 | 1,080 | 159 |
@@ -877,7 +877,7 @@
 | 873 | [House Party](games/h/house_party.md) | 4.32 | 0 | 593 |
 | 873 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 593 |
 | 873 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.32 | 0 | 593 |
-| 873 | [Paladins](games/p/paladins.md) | 4.32 | 4,070 | 95 |
+| 873 | [Paladins](games/p/paladins.md) | 4.32 | 4,076 | 95 |
 | 873 | [Vampyr](games/v/vampyr.md) | 4.32 | 594 | 216 |
 | 880 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 391 | 245 |
 | 880 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.31 | 0 | 593 |
@@ -928,7 +928,7 @@
 | 926 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 593 |
 | 926 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 593 |
 | 926 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,433 | 22 |
-| 926 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,996 | 96 |
+| 926 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,998 | 96 |
 | 926 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 593 |
 | 926 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.26 | 0 | 593 |
 | 926 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 593 |
