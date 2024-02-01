@@ -3,8 +3,8 @@
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
   "Ranking_Rating": 874,
-  "Ranking_Popularity": 593,
-  "Ranking_PopularitySum": 593,
+  "Ranking_Popularity": 435,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 249,
@@ -389,12 +389,26 @@
       "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-01T13:58:52.3515078+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 63,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 63
+    }
+  ],
   "EOS_Progressed": 7403,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 26,
@@ -9824,9 +9838,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
-  "LastChanged": "2024-01-17T20:58:21.7127925+00:00",
+  "LastChanged": "2024-02-01T13:58:52.3515076+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:51.6536251+00:00",
   "LastUpdate_AppInfo": "2024-01-27T20:57:08.1315645+00:00",
-  "LastUpdate_Ratings": "2024-02-01T13:00:12.7745152+00:00",
+  "LastUpdate_Ratings": "2024-02-01T13:58:52.3515081+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:51.6537007+00:00"
 }
