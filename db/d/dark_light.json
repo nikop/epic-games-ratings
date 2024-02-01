@@ -3,8 +3,8 @@
   "Name": "Dark Light",
   "ProductSlug": "dark-light",
   "Ranking_Rating": 873,
-  "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 594,
+  "Ranking_Popularity": 593,
+  "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -119,6 +119,6 @@
   "FirstSeenRating": "2022-11-17T06:58:12.9972323+00:00",
   "LastChanged": "2024-01-12T01:46:22.6670144+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:15:01.1695594+00:00",
-  "LastUpdate_Ratings": "2024-02-01T19:58:13.6192179+00:00",
+  "LastUpdate_Ratings": "2024-02-01T20:59:44.9492282+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:24.8357652+00:00"
 }

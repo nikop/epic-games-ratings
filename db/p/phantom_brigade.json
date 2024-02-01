@@ -3,8 +3,8 @@
   "Name": "Phantom Brigade",
   "ProductSlug": "phantom-brigade",
   "Ranking_Rating": 433,
-  "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 472,
+  "Ranking_Popularity": 593,
+  "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -503,9 +503,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110,
-  "NumberOfAwardsMax": 110,
-  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -527,6 +526,6 @@
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
   "LastChanged": "2024-01-05T23:02:32.0755335+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:32.4508452+00:00",
-  "LastUpdate_Ratings": "2024-02-01T19:00:04.0586513+00:00",
+  "LastUpdate_Ratings": "2024-02-01T20:57:54.432314+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:44.987016+00:00"
 }

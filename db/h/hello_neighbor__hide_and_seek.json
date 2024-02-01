@@ -3,8 +3,8 @@
   "Name": "Hello Neighbor: Hide and Seek",
   "ProductSlug": "hello-neighbor-hide-and-seek",
   "Ranking_Rating": 762,
-  "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 594,
+  "Ranking_Popularity": 593,
+  "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -497,6 +497,6 @@
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
   "LastChanged": "2024-01-31T15:58:20.0454095+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:51.1948541+00:00",
-  "LastUpdate_Ratings": "2024-02-01T19:58:17.9145897+00:00",
+  "LastUpdate_Ratings": "2024-02-01T20:59:49.8708644+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:00.3392683+00:00"
 }

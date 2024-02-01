@@ -1,7 +1,7 @@
 # The Fall
 [Store](https://store.epicgames.com/en-US/p/the-fall)  
 [View Rawdata](../../db/t/the_fall.json)  
-Rating: 4.24 (Ranked 943)  
+Rating: 4.23 (Ranked 952)  
 Number of Ratings: 106  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -82,3 +82,4 @@ Number of Ratings: 106  (23.09.2022)
 | 2023-11-25 | 4.26 | - | 0 | 0 |
 | 2023-12-29 | 4.25 | - | 0 | 0 |
 | 2024-01-06 | 4.24 | - | 0 | 0 |
+| 2024-02-01 | 4.23 | - | 0 | 0 |
