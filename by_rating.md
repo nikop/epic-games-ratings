@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 593 |
 | 2 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 593 |
-| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,843 | 129 |
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,845 | 128 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 3,595 | 98 |
 | 5 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 593 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 593 |
@@ -174,7 +174,7 @@
 | 169 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 868 | 181 |
 | 169 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.74 | 55 | 453 |
 | 169 | [GNOG](games/g/gnog.md) | 4.74 | 0 | 593 |
-| 169 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 815 | 185 |
+| 169 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 818 | 185 |
 | 169 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,348 | 50 |
 | 169 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 47,415 | 14 |
 | 169 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 162 | 334 |
@@ -372,7 +372,7 @@
 | 366 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 295 | 270 |
 | 366 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 511 |
 | 366 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,349 | 113 |
-| 366 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,828 | 131 |
+| 366 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,833 | 131 |
 | 366 | [HITMAN](games/h/hitman.md) | 4.63 | 220 | 295 |
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 593 |
 | 366 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 593 |
@@ -400,7 +400,7 @@
 | 388 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 0 | 593 |
 | 388 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,850 | 108 |
 | 388 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 300 | 268 |
-| 388 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 3,339 | 103 |
+| 388 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 3,355 | 103 |
 | 388 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.62 | 0 | 593 |
 | 403 | [20XX](games/2/20xx.md) | 4.61 | 38 | 497 |
 | 403 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 593 |
@@ -502,7 +502,7 @@
 | 499 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.57 | 26 | 551 |
 | 499 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 52 | 459 |
 | 499 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.57 | 37 | 503 |
-| 499 | [Ghostrunner](games/g/ghostrunner.md) | 4.57 | 1,844 | 128 |
+| 499 | [Ghostrunner](games/g/ghostrunner.md) | 4.57 | 1,844 | 129 |
 | 499 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 389 | 246 |
 | 499 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 237 | 286 |
 | 499 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 593 |
@@ -688,7 +688,7 @@
 | 679 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.46 | 0 | 593 |
 | 679 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 41 | 489 |
 | 679 | [Riverbond](games/r/riverbond.md) | 4.46 | 22 | 576 |
-| 679 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 711,252 | 2 |
+| 679 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 712,566 | 2 |
 | 679 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 593 |
 | 679 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 593 |
 | 679 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 593 |
