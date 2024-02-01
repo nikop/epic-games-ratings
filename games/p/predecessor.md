@@ -1,17 +1,17 @@
 # Predecessor
 [Store](https://store.epicgames.com/en-US/p/predecessor)  
 [View Rawdata](../../db/p/predecessor.json)  
-Rating: 4.30 (Ranked 888)  
+Rating: 4.31 (Ranked 880)  
 ## Awards
-Max (Diverse Characters): 344  (Ranked 254)  
-Sum: 1,945 (Ranked 225)  
-Diff (max vs sum): 29  
+Max (Diverse Characters): 344  (Ranked 255)  
+Sum: 1,946 (Ranked 225)  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 344 |
 | This game is Highly Recommended | 254 |
 | This game has Challenging Combat | 244 |
-| This game has Amazing Characters | 233 |
+| This game has Amazing Characters | 234 |
 | This game is Extremely Fun | 229 |
 | This game has a Competitive Community | 222 |
 | This game has Competitive Players | 219 |
@@ -343,3 +343,4 @@ Diff (max vs sum): 29
 | 2024-01-29 | 4.30 | 340 | 1,927 |
 | 2024-01-30 | 4.31 | 343 | 1,931 |
 | 2024-01-31 | 4.31 | 344 | 1,945 |
+| 2024-02-01 | 4.31 | 344 | 1,946 |

@@ -2,7 +2,7 @@
   "ID": "72eb87039aa74e82a4b873c276de61e3",
   "Name": "KID A MNESIA EXHIBITION",
   "ProductSlug": "kid-a-mnesia-exhibition",
-  "Ranking_Rating": 92,
+  "Ranking_Rating": 93,
   "Ranking_Popularity": 593,
   "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 856,
@@ -225,6 +225,6 @@
   "FirstSeen": "2022-07-22T20:30:23.6056304+00:00",
   "LastChanged": "2023-11-25T01:42:07.8589053+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:15:14.6997131+00:00",
-  "LastUpdate_Ratings": "2024-02-01T03:57:39.7057575+00:00",
+  "LastUpdate_Ratings": "2024-02-01T04:58:33.3142662+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:23.9870123+00:00"
 }
