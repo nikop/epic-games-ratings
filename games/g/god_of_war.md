@@ -1,11 +1,11 @@
 # God of War
 [Store](https://store.epicgames.com/en-US/p/god-of-war)  
 [View Rawdata](../../db/g/god_of_war.json)  
-Rating: 4.87 (Ranked 21)  
+Rating: 4.87 (Ranked 22)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Awards
 Max (Character Customization): 5,141  (Ranked 81)  
-Sum: 9,601 (Ranked 103)  
+Sum: 9,602 (Ranked 103)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): -22
 | This game is Relaxing | 195 |
 | This game has Competitive Players | 193 |
 | This game has Diverse Characters | 191 |
-| This game has Quickly Understood Controls | 176 |
+| This game has Quickly Understood Controls | 177 |
 | This game has Challenging Combat | 171 |
 | This game has a Creative Community | 120 |
 | This game has Obsessive Gameplay | 86 |
@@ -340,3 +340,4 @@ Diff (max vs sum): -22
 | 2024-01-29 | 4.88 | - | 5,131 | 9,762 |
 | 2024-01-30 | 4.88 | - | 5,131 | 9,776 |
 | 2024-01-31 | 4.88 | - | 5,141 | 9,794 |
+| 2024-02-01 | 4.87 | - | 5,141 | 9,602 |

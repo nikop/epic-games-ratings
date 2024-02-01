@@ -2,7 +2,7 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "ProductSlug": "god-of-war",
-  "Ranking_Rating": 21,
+  "Ranking_Rating": 22,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 856,
@@ -5421,10 +5421,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 9601,
       "NumberOfAwardsMax": 5141
+    },
+    {
+      "Time": "2024-02-01T03:59:35.4040628+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 9602,
+      "NumberOfAwardsMax": 5141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9601,
+  "NumberOfAwards": 9602,
   "NumberOfAwardsMax": 5141,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5492,7 +5498,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 176
+      "Count": 177
     },
     {
       "Text": "This game is Relaxing",
@@ -5530,8 +5536,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-01-31T22:58:38.2685764+00:00",
+  "LastChanged": "2024-02-01T03:59:35.4040626+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:34.7949265+00:00",
-  "LastUpdate_Ratings": "2024-02-01T02:58:08.2858686+00:00",
+  "LastUpdate_Ratings": "2024-02-01T03:59:35.4040631+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:19.7065313+00:00"
 }

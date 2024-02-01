@@ -1,11 +1,11 @@
 # Red Dead Redemption 2
 [Store](https://store.epicgames.com/en-US/p/red-dead-redemption-2)  
 [View Rawdata](../../db/r/red_dead_redemption_2.json)  
-Rating: 4.87 (Ranked 21)  
+Rating: 4.88 (Ranked 15)  
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 268,290  (Ranked 5)  
-Sum: 706,660 (Ranked 6)  
+Sum: 706,859 (Ranked 6)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 29,764 |
 | This game has Amazing Storytelling | 29,344 |
 | This game is Extremely Fun | 29,290 |
-| This game has Amazing Characters | 29,049 |
+| This game has Amazing Characters | 29,248 |
 | This game is Relaxing | 29,006 |
 | This game is Educational | 28,880 |
 | This game has Quickly Understood Controls | 28,098 |
@@ -399,3 +399,4 @@ Diff (max vs sum): -1
 | 2024-01-29 | 4.87 | - | 266,161 | 700,250 |
 | 2024-01-30 | 4.87 | - | 266,922 | 702,838 |
 | 2024-01-31 | 4.87 | - | 268,290 | 706,660 |
+| 2024-02-01 | 4.88 | - | 268,290 | 706,859 |
