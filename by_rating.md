@@ -110,7 +110,7 @@
 | 100 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 421 | 241 |
 | 100 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.79 | 0 | 593 |
 | 100 | [Star Atlas](games/s/star_atlas.md) | 4.79 | 30 | 532 |
-| 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,306 | 45 |
+| 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,317 | 45 |
 | 111 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 858 | 184 |
 | 111 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 207 | 305 |
 | 111 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,290 | 67 |
@@ -171,7 +171,7 @@
 | 169 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.74 | 0 | 593 |
 | 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.74 | 0 | 593 |
 | 169 | [Fez](games/f/fez.md) | 4.74 | 26 | 551 |
-| 169 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 868 | 181 |
+| 169 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 868 | 182 |
 | 169 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.74 | 55 | 453 |
 | 169 | [GNOG](games/g/gnog.md) | 4.74 | 0 | 593 |
 | 169 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 818 | 185 |
@@ -274,7 +274,7 @@
 | 268 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 147,181 | 8 |
 | 268 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,341 | 89 |
 | 268 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.68 | 147 | 341 |
-| 268 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 867 | 183 |
+| 268 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 869 | 181 |
 | 268 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 593 |
 | 268 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 327,210 | 3 |
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 314,492 | 4 |
@@ -345,7 +345,7 @@
 | 330 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 68 | 429 |
 | 330 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 593 |
 | 330 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 0 | 593 |
-| 330 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 868 | 181 |
+| 330 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 868 | 182 |
 | 330 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 326 | 262 |
 | 330 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,456 | 88 |
 | 330 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.65 | 0 | 593 |
@@ -678,7 +678,7 @@
 | 669 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 593 |
 | 669 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 593 |
 | 669 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 27 | 546 |
-| 679 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,165 | 94 |
+| 679 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,168 | 94 |
 | 679 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 593 |
 | 679 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 593 |
 | 679 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,085 | 158 |

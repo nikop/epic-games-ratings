@@ -44,7 +44,7 @@
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 10,059 | 4.77 | 122 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,527 | 4.89 | 10 |
 | 44 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 9,367 | 4.50 | 625 |
-| 45 | [DEATH STRANDING](games/d/death_stranding.md) | 9,306 | 4.78 | 111 |
+| 45 | [DEATH STRANDING](games/d/death_stranding.md) | 9,317 | 4.78 | 111 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,211 | 4.50 | 625 |
 | 47 | [Control](games/c/control.md) | 9,190 | 4.61 | 403 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,768 | 4.69 | 245 |
@@ -93,7 +93,7 @@
 | 91 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,214 | 4.36 | 828 |
 | 92 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4,187 | 4.24 | 943 |
 | 93 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,177 | 4.51 | 603 |
-| 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,165 | 4.46 | 679 |
+| 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,168 | 4.46 | 679 |
 | 95 | [Paladins](games/p/paladins.md) | 4,076 | 4.32 | 874 |
 | 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,998 | 4.26 | 926 |
 | 97 | [Gloomhaven](games/g/gloomhaven.md) | 3,629 | 4.47 | 669 |
@@ -180,9 +180,9 @@
 | 178 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 886 | 4.68 | 268 |
 | 179 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 881 | 4.79 | 100 |
 | 180 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 875 | 4.60 | 433 |
-| 181 | [Frostpunk](games/f/frostpunk.md) | 868 | 4.74 | 169 |
-| 181 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 868 | 4.65 | 330 |
-| 183 | [FAR CRY 4](games/f/far_cry_4.md) | 867 | 4.68 | 268 |
+| 181 | [FAR CRY 4](games/f/far_cry_4.md) | 869 | 4.68 | 268 |
+| 182 | [Frostpunk](games/f/frostpunk.md) | 868 | 4.74 | 169 |
+| 182 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 868 | 4.65 | 330 |
 | 184 | [Dishonored 2](games/d/dishonored_2.md) | 858 | 4.78 | 111 |
 | 185 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 818 | 4.74 | 169 |
 | 186 | [Alan Wake 2](games/a/alan_wake_2.md) | 811 | 4.81 | 82 |
