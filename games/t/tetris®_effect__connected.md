@@ -1,11 +1,11 @@
 # Tetris® Effect: Connected
 [Store](https://store.epicgames.com/en-US/p/tetris-effect)  
 [View Rawdata](../../db/t/tetris®_effect__connected.json)  
-Rating: 4.87 (Ranked 22)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 173  (Ranked 327)  
-Sum: 605 (Ranked 329)  
+Sum: 606 (Ranked 329)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): -2
 | This game has Beautiful Visuals | 31 |
 | This game has Amazing Storytelling | 29 |
 | This game has Amazing Characters | 26 |
-| This game has Challenging Combat | 25 |
+| This game has Challenging Combat | 26 |
 | This game has Obsessive Gameplay | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -163,4 +163,4 @@ Diff (max vs sum): -2
 | 2024-01-26 | 4.87 | - | 171 | 600 |
 | 2024-01-30 | 4.87 | - | 171 | 601 |
 | 2024-02-01 | 4.87 | - | 173 | 604 |
-| 2024-02-02 | 4.87 | - | 173 | 605 |
+| 2024-02-02 | 4.87 | - | 173 | 606 |
