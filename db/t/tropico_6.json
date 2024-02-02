@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 351,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 207,
@@ -1615,10 +1615,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 786,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-02-02T06:59:54.7066954+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 787,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 786,
+  "NumberOfAwards": 787,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1626,7 +1632,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game is Relaxing",
@@ -17745,9 +17751,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-02-01T23:57:20.3978445+00:00",
+  "LastChanged": "2024-02-02T06:59:54.7066953+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:22.1515862+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:47.4200604+00:00",
-  "LastUpdate_Ratings": "2024-02-02T05:59:13.0174607+00:00",
+  "LastUpdate_Ratings": "2024-02-02T06:59:54.706696+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:22.1516771+00:00"
 }
