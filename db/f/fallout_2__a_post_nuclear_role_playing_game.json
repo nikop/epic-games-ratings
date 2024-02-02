@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-2",
   "Ranking_Rating": 267,
   "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 451,
+  "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -815,6 +815,6 @@
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
   "LastChanged": "2024-01-17T23:58:40.760821+00:00",
   "LastUpdate_AppInfo": "2024-01-28T05:57:36.3240693+00:00",
-  "LastUpdate_Ratings": "2024-02-02T01:40:55.4775376+00:00",
+  "LastUpdate_Ratings": "2024-02-02T02:57:48.2373975+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:08.9427062+00:00"
 }
