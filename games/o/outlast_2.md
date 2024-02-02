@@ -1,7 +1,7 @@
 # Outlast 2
 [Store](https://store.epicgames.com/en-US/p/outlast-2)  
 [View Rawdata](../../db/o/outlast_2.json)  
-Rating: 4.69 (Ranked 243)  
+Rating: 4.70 (Ranked 222)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -48,3 +48,4 @@ Rating: 4.69 (Ranked 243)
 | 2024-01-20 | 4.69 | 0 | 0 |
 | 2024-01-23 | 4.70 | 0 | 0 |
 | 2024-01-29 | 4.69 | 0 | 0 |
+| 2024-02-02 | 4.70 | 0 | 0 |
