@@ -1997,10 +1997,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 486,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-02-02T04:57:55.7652176+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 487,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 486,
+  "NumberOfAwards": 487,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -2020,7 +2026,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has a Creative Community",
@@ -25160,9 +25166,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-02-01T23:57:42.5776928+00:00",
+  "LastChanged": "2024-02-02T04:57:55.7652176+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:45.026609+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:58.3170821+00:00",
-  "LastUpdate_Ratings": "2024-02-02T03:01:35.5371254+00:00",
+  "LastUpdate_Ratings": "2024-02-02T04:57:55.765218+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:45.0267172+00:00"
 }
