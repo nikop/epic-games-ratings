@@ -13849,10 +13849,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 14995,
       "NumberOfAwardsMax": 1786
+    },
+    {
+      "Time": "2024-02-02T21:57:50.6507734+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 14997,
+      "NumberOfAwardsMax": 1786
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14995,
+  "NumberOfAwards": 14997,
   "NumberOfAwardsMax": 1786,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -13896,7 +13902,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1421
+      "Count": 1423
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -33611,9 +33617,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-02-02T17:58:47.2943568+00:00",
+  "LastChanged": "2024-02-02T21:57:50.6507732+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:45.7098664+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:15:08.5877216+00:00",
-  "LastUpdate_Ratings": "2024-02-02T20:00:19.5584167+00:00",
+  "LastUpdate_Ratings": "2024-02-02T21:57:50.6507738+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:45.7099618+00:00"
 }
