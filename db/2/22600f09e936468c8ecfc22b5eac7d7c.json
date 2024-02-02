@@ -2,9 +2,9 @@
   "ID": "22600f09e936468c8ecfc22b5eac7d7c",
   "Name": "Prince of Persia The Lost Crown",
   "ProductSlug": "prince-of-persia-the-lost-crown",
-  "Ranking_Rating": 121,
+  "Ranking_Rating": 111,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2024-01-19T10:59:44.5935854+00:00",
@@ -235,10 +235,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 345,
       "NumberOfAwardsMax": 345
+    },
+    {
+      "Time": "2024-02-02T08:59:19.1783064+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 366,
+      "NumberOfAwardsMax": 345
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345,
+  "NumberOfAwards": 366,
   "NumberOfAwardsMax": 345,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -247,6 +253,12 @@
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
       "Count": 345
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -261,8 +273,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-18T05:58:12.1267938+00:00",
   "FirstSeenRating": "2024-01-19T10:59:44.5935852+00:00",
-  "LastChanged": "2024-02-01T04:58:18.4647898+00:00",
+  "LastChanged": "2024-02-02T08:59:19.1783062+00:00",
   "LastUpdate_AppInfo": "2024-01-30T10:57:13.9713815+00:00",
-  "LastUpdate_Ratings": "2024-02-02T07:57:29.1578724+00:00",
+  "LastUpdate_Ratings": "2024-02-02T08:59:19.1783067+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:20.2687691+00:00"
 }
