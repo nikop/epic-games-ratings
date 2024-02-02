@@ -2,7 +2,7 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 856,
@@ -5489,10 +5489,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 7582,
       "NumberOfAwardsMax": 3998
+    },
+    {
+      "Time": "2024-02-02T14:57:36.5642462+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 7584,
+      "NumberOfAwardsMax": 3998
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7582,
+  "NumberOfAwards": 7584,
   "NumberOfAwardsMax": 3998,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5512,7 +5518,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 444
+      "Count": 446
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5562,8 +5568,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2024-02-01T02:57:43.6979634+00:00",
+  "LastChanged": "2024-02-02T14:57:36.564246+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:38.171727+00:00",
-  "LastUpdate_Ratings": "2024-02-02T13:02:53.3370799+00:00",
+  "LastUpdate_Ratings": "2024-02-02T14:57:36.5642465+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:36.4680196+00:00"
 }
