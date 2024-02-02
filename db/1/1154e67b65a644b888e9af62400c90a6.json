@@ -3,8 +3,8 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 605,
-  "Ranking_Popularity": 121,
-  "Ranking_PopularitySum": 141,
+  "Ranking_Popularity": 120,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -4187,18 +4187,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 6129,
       "NumberOfAwardsMax": 2114
+    },
+    {
+      "Time": "2024-02-02T16:57:53.087827+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6169,
+      "NumberOfAwardsMax": 2138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6129,
-  "NumberOfAwardsMax": 2114,
+  "NumberOfAwards": 6169,
+  "NumberOfAwardsMax": 2138,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2114
+      "Count": 2138
     },
     {
       "Text": "This game is Relaxing",
@@ -4210,7 +4216,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 521
+      "Count": 528
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4222,7 +4228,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 440
+      "Count": 449
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4279,8 +4285,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-02-02T06:01:10.8258949+00:00",
+  "LastChanged": "2024-02-02T16:57:53.0878268+00:00",
   "LastUpdate_AppInfo": "2024-01-31T01:38:17.7189105+00:00",
-  "LastUpdate_Ratings": "2024-02-02T15:00:34.2604954+00:00",
+  "LastUpdate_Ratings": "2024-02-02T16:57:53.0878276+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:27.7461366+00:00"
 }

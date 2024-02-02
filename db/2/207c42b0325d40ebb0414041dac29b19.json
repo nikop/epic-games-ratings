@@ -4,7 +4,7 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 387,
   "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 159,
+  "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1511,10 +1511,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 4834,
       "NumberOfAwardsMax": 2583
+    },
+    {
+      "Time": "2024-02-02T16:59:44.6604549+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 4849,
+      "NumberOfAwardsMax": 2583
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4834,
+  "NumberOfAwards": 4849,
   "NumberOfAwardsMax": 2583,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1576,13 +1582,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 224
+      "Count": 232
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 293
+      "Count": 300
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1603,8 +1609,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-02-02T14:57:53.3540221+00:00",
+  "LastChanged": "2024-02-02T16:59:44.6604548+00:00",
   "LastUpdate_AppInfo": "2024-02-01T19:56:54.3909635+00:00",
-  "LastUpdate_Ratings": "2024-02-02T15:59:20.2840235+00:00",
+  "LastUpdate_Ratings": "2024-02-02T16:59:44.6604553+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:35.674635+00:00"
 }
