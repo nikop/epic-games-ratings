@@ -2,9 +2,9 @@
   "ID": "6a04125b9d884151868aa2c56e84dc11",
   "Name": "LOVE",
   "ProductSlug": "love-65c4d0",
-  "Ranking_Rating": 670,
-  "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 594,
+  "Ranking_Rating": 644,
+  "Ranking_Popularity": 595,
+  "Ranking_PopularitySum": 595,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 3,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2024-01-22T22:59:18.2293455+00:00",
@@ -93,6 +93,12 @@
     {
       "Time": "2024-02-01T19:58:12.3602395+00:00",
       "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-02T19:59:46.0067443+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1323,9 +1329,9 @@
   "FirstSeen": "2024-01-18T18:58:07.3749627+00:00",
   "FirstSeenRating": "2024-01-22T22:59:18.2293453+00:00",
   "FirstSeenAchievements": "2024-01-18T14:03:50.5589776+00:00",
-  "LastChanged": "2024-02-01T19:58:12.3602392+00:00",
+  "LastChanged": "2024-02-02T19:59:46.0067441+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:54.9647697+00:00",
   "LastUpdate_AppInfo": "2024-02-01T15:56:59.5502946+00:00",
-  "LastUpdate_Ratings": "2024-02-02T18:58:42.3147653+00:00",
+  "LastUpdate_Ratings": "2024-02-02T19:59:46.0067446+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:54.9647835+00:00"
 }
