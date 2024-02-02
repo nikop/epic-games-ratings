@@ -159,7 +159,7 @@
 | 157 | [Torchlight II](games/t/torchlight_ii.md) | 1,086 | 4.59 | 455 |
 | 158 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,085 | 4.46 | 680 |
 | 159 | [Train Valley 2](games/t/train_valley_2.md) | 1,083 | 4.46 | 680 |
-| 160 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,075 | 4.40 | 778 |
+| 160 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,076 | 4.40 | 778 |
 | 161 | [Ooblets](games/o/ooblets.md) | 1,054 | 4.88 | 16 |
 | 162 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,043 | 4.43 | 738 |
 | 163 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,027 | 4.53 | 574 |
@@ -193,8 +193,8 @@
 | 191 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 788 | 4.51 | 605 |
 | 192 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 785 | 4.60 | 433 |
 | 193 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 773 | 4.87 | 22 |
+| 194 | [Brawlhalla](games/b/brawlhalla.md) | 748 | 4.60 | 433 |
 | 194 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 748 | 4.55 | 534 |
-| 195 | [Brawlhalla](games/b/brawlhalla.md) | 745 | 4.60 | 433 |
 | 196 | [Neon Abyss](games/n/neon_abyss.md) | 740 | 4.68 | 267 |
 | 197 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 734 | 4.68 | 267 |
 | 198 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 732 | 4.22 | 961 |
@@ -207,14 +207,14 @@
 | 205 | [Blazing Sails](games/b/blazing_sails.md) | 654 | 3.96 | 1,073 |
 | 206 | [Star Trek Online](games/s/star_trek_online.md) | 640 | 4.44 | 714 |
 | 207 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 638 | 4.62 | 387 |
-| 208 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 628 | 4.39 | 790 |
-| 209 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 623 | 4.59 | 455 |
-| 209 | [Dark Deity](games/d/dark_deity.md) | 623 | 4.16 | 1,005 |
+| 208 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 629 | 4.59 | 455 |
+| 209 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 628 | 4.39 | 790 |
+| 210 | [Dark Deity](games/d/dark_deity.md) | 623 | 4.16 | 1,005 |
 | 211 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 620 | 4.87 | 22 |
 | 212 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 613 | 3.96 | 1,073 |
 | 213 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 609 | 4.39 | 790 |
+| 214 | [Godfall Ultimate Edition](games/g/godfall.md) | 597 | 4.07 | 1,047 |
 | 214 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 597 | 4.67 | 289 |
-| 215 | [Godfall Ultimate Edition](games/g/godfall.md) | 596 | 4.07 | 1,047 |
 | 216 | [Vampyr](games/v/vampyr.md) | 594 | 4.32 | 873 |
 | 217 | [Filament](games/f/filament.md) | 588 | 4.33 | 864 |
 | 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 564 | 4.71 | 204 |

@@ -434,7 +434,7 @@
 | 403 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 708 | 200 |
 | 433 | [ABZU](games/a/abzu.md) | 4.60 | 0 | 594 |
 | 433 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,465 | 25 |
-| 433 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 745 | 195 |
+| 433 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 748 | 194 |
 | 433 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,294 | 80 |
 | 433 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 594 |
 | 433 | [DOOM 3](games/d/doom_3.md) | 4.60 | 71 | 423 |
@@ -454,7 +454,7 @@
 | 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 0 | 594 |
 | 433 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 25 | 557 |
 | 433 | [Witchfire](games/w/witchfire.md) | 4.60 | 72 | 421 |
-| 455 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 623 | 209 |
+| 455 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 629 | 208 |
 | 455 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 99 | 384 |
 | 455 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 594 |
 | 455 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 212 | 302 |
@@ -781,7 +781,7 @@
 | 778 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 594 |
 | 778 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 594 |
 | 778 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.40 | 0 | 594 |
-| 778 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,075 | 160 |
+| 778 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,076 | 160 |
 | 778 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 594 |
 | 778 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 594 |
 | 778 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.40 | 96 | 392 |
@@ -793,7 +793,7 @@
 | 790 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 594 |
 | 790 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.39 | 0 | 594 |
 | 790 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 56 | 451 |
-| 790 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 628 | 208 |
+| 790 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 628 | 209 |
 | 790 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,824 | 37 |
 | 790 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 594 |
 | 790 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.39 | 0 | 594 |
@@ -1006,7 +1006,7 @@
 | 999 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 594 |
 | 1,005 | [Chernobylite](games/c/chernobylite.md) | 4.16 | 0 | 594 |
 | 1,005 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 594 |
-| 1,005 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 623 | 209 |
+| 1,005 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 623 | 210 |
 | 1,005 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.16 | 0 | 594 |
 | 1,005 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 594 |
 | 1,005 | [Forspoken](games/f/forspoken.md) | 4.16 | 53 | 456 |
@@ -1047,7 +1047,7 @@
 | 1,042 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 594 |
 | 1,042 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 594 |
 | 1,047 | [Armored Warfare](games/a/armored_warfare.md) | 4.07 | 105 | 377 |
-| 1,047 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 596 | 215 |
+| 1,047 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 597 | 214 |
 | 1,047 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 0 | 594 |
 | 1,047 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,824 | 77 |
 | 1,047 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 215 | 299 |
