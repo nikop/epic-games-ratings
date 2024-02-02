@@ -2,7 +2,7 @@
   "ID": "59de74945cc34f96af65e4e238591df7",
   "Name": "Rebel Cops",
   "ProductSlug": "rebel-cops",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 595,
   "Ranking_PopularitySum": 595,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2022-11-01T18:31:34.6726492+00:00",
@@ -67,6 +67,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-02T20:58:50.9554776+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -85,8 +91,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:33.7295496+00:00",
   "FirstSeenRating": "2022-11-01T18:31:34.6726487+00:00",
-  "LastChanged": "2024-01-05T15:58:56.7391275+00:00",
+  "LastChanged": "2024-02-02T20:58:50.9554774+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:22.2798907+00:00",
-  "LastUpdate_Ratings": "2024-02-02T19:57:21.8411071+00:00",
+  "LastUpdate_Ratings": "2024-02-02T20:58:50.9554779+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:34.7825783+00:00"
 }
