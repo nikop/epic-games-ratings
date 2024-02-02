@@ -159,7 +159,7 @@
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 165 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 50 | - | - |
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
-| [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 786 | 4.27 | 0 |
+| [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 786 | 4.25 | 0 |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | 0 |
 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,476 | 4.86 | 0 |
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 4,003 | 4.40 | 196 |
@@ -204,7 +204,7 @@
 | [Sweet Dreams Alex](games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 2023-10-16 | 32 (1,000 XP) | 1 | - | 0 |
 | [100 Doors - Escape from Work](games/2/2e8b593f066d4ec59a473a0650c2794a.md) | 2023-10-15 | 14 (1,000 XP) | 0 | - | 0 |
 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 2023-10-14 | 67 (1,000 XP) | 16,248 | 4.35 | 0 |
-| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 63 (1,000 XP) | 14,144 | 4.21 | 732 |
+| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 63 (1,000 XP) | 14,144 | 4.22 | 732 |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-13 | 24 (1,000 XP) | 0 | - | - |
 | [Survive on Raft](games/s/survive_on_raft.md) | 2023-10-12 | 36 (1,000 XP) | 2 | - | 0 |
 | [Haunted House](games/8/81970ccb964d4720adccf2e2244fe754.md) | 2023-10-12 | 25 (1,000 XP) | 1 | - | 0 |
@@ -591,7 +591,7 @@
 | [Loretta](games/l/loretta.md) | 2023-02-16 | 22 (1,000 XP) | 12 | - | 0 |
 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 2023-02-15 | 46 (1,000 XP) | 43 | - | 0 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 2023-02-15 | 29 (1,000 XP) | 12,560 | 4.19 | 0 |
-| [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 2023-02-15 | 35 (1,000 XP) | 19,880 | 4.55 | 745 |
+| [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 2023-02-15 | 35 (1,000 XP) | 19,880 | 4.55 | 748 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 16,724 | 4.53 | 20 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 4,255 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 543 | - | 0 |
@@ -711,7 +711,7 @@
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 471 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 2,781 | 4.41 | 68 |
 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2022-08-19 | 29 (1,000 XP) | 2 | - | 0 |
-| [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,578 | 4.31 | 50 |
+| [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,578 | 4.32 | 50 |
 | [We Are OFK](games/w/we_are_ofk.md) | 2022-08-18 | 28 (1,000 XP) | 1 | - | 0 |
 | [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 2,627 | 4.27 | 0 |
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 45,570 | 4.55 | 0 |
@@ -852,7 +852,7 @@
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 163 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 69,167 | 4.65 | 0 |
 | [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 22,256 | 4.69 | 337 |
-| [GRIME](games/g/grime.md) | 2021-08-02 | 45 (1,200 XP) | 169,970 | 4.60 | 65 |
+| [GRIME](games/g/grime.md) | 2021-08-02 | 45 (1,200 XP) | 169,970 | 4.60 | 66 |
 | [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 146,773 | 4.39 | 336 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 70,578 | 4.53 | 106 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 2021-07-16 | 30 (1,000 XP) | 779 | 4.49 | 45 |

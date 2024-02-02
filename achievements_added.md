@@ -104,7 +104,7 @@
 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 2023-12-02 | 5 (1,000 XP) | 11 | - | 0 |
 | [Extreme Formula Championship](games/1/1903efa2b18040089ecbd796f9ec3a16.md) | 2023-12-05 | 5 (1,000 XP) | 8 | - | 0 |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2024-01-17 | 60 (1,000 XP) | 1 | - | - |
-| [GRIME](games/g/grime.md) | 2021-08-02 | 45 (1,200 XP) | 169,970 | 4.60 | 65 |
+| [GRIME](games/g/grime.md) | 2021-08-02 | 45 (1,200 XP) | 169,970 | 4.60 | 66 |
 | [Horse Racing](games/e/e4e71e80487245b682ed399fa518964e.md) | 2023-12-02 | 9 (1,000 XP) | 9 | - | - |
 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 2023-12-01 | 29 (1,000 XP) | 2 | - | 0 |
 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 2023-12-01 | 5 (1,000 XP) | 8 | - | - |
@@ -137,7 +137,7 @@
 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 77,257 | 4.16 | 0 |
 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 2023-11-14 | 24 (1,000 XP) | 12 | - | 0 |
 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,476 | 4.86 | 0 |
-| [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 786 | 4.27 | 0 |
+| [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 786 | 4.25 | 0 |
 | [Dungeons 4](games/d/dungeons_4.md) | 2023-11-09 | 61 (1,000 XP) | 790 | 4.71 | 0 |
 | [Ikonei Island: An Earthlock Adventure](games/9/9d18d8b14f2249278132414a09234394.md) | 2023-11-09 | 36 (1,000 XP) | 3,349 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 38 | - | 0 |
@@ -179,7 +179,7 @@
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 89 | - | 0 |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-10-26 | 33 (1,000 XP) | 106 | - | 0 |
 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-10-26 | 31 (1,000 XP) | 213 | - | 0 |
-| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 63 (1,000 XP) | 14,144 | 4.21 | 732 |
+| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 63 (1,000 XP) | 14,144 | 4.22 | 732 |
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | 44 (1,000 XP) | 1,605 | 4.65 | 0 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 321 | - | 0 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 30 (1,000 XP) | 1,632 | - | 0 |
@@ -263,7 +263,7 @@
 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 2021-11-19 | 34 (1,000 XP) | 127,074 | - | 0 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 4,697 | - | - |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 57,857 | - | - |
-| [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,578 | 4.31 | 50 |
+| [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,578 | 4.32 | 50 |
 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 216,670 | 4.26 | 22,440 |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
 | [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 19,211 | 4.71 | 336 |
