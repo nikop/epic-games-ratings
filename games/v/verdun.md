@@ -351,7 +351,7 @@ Completed: 4 (0.01%) (Ranked 388)
 | 2024-01-27 | 70,578 | 4 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 375)  
-Sum: 844 (Ranked 292)  
+Sum: 845 (Ranked 292)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
@@ -364,8 +364,8 @@ Diff (max vs sum): 83
 | This game has Competitive Players | 78 |
 | This game is Relaxing | 78 |
 | This game has Realistic Visuals | 77 |
+| This game has a Competitive Community | 76 |
 | This game is Educational | 76 |
-| This game has a Competitive Community | 75 |
 | This game has Amazing Storytelling | 61 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
@@ -543,3 +543,4 @@ Diff (max vs sum): 83
 | 2024-01-18 | 4.53 | - | 105 | 840 |
 | 2024-01-20 | 4.53 | - | 105 | 842 |
 | 2024-01-23 | 4.53 | - | 106 | 844 |
+| 2024-02-03 | 4.53 | - | 106 | 845 |
