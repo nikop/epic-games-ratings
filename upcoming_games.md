@@ -23,6 +23,7 @@
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2024-02-14 | - |  | - | - |
 | [Amber](games/e/e0ee1d8777e441d3ae01f796ed427261.md) | 2024-02-14 | - |  | - | - |
 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | - |  | - | - |
+| [Seven Bullets Horror 7発の弾丸ホラー](games/8/80620b348cbe4e38b9f55bb9029c57d3.md) | 2024-02-14 | - |  | - | - |
 | [Delivery Boy](games/8/84860d15749f404e8a24fd58e6b01448.md) | 2024-02-15 | - |  | - | - |
 | [Camp Canyonwood](games/7/760df178070b4dcbbfbe498b07b5d1a8.md) | 2024-02-15 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | - | - |
@@ -457,7 +458,6 @@
 | [SCP Horror Series 2](games/7/72aad6a073a644afb21d0966e2737c42.md) | 2099-01-01 | - |  | - | - |
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | - |  | - | - |
 | [Set Sail](games/c/c667cce0acf1428281d560ec9848d3ea.md) | 2099-01-01 | - |  | - | - |
-| [Seven Bullets Horror 7発の弾丸ホラー](games/8/80620b348cbe4e38b9f55bb9029c57d3.md) | 2099-01-01 | - |  | - | - |
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shy Cats Hidden Orchestra](games/7/744c73d9f99f416dabceeacaf91031a1.md) | 2099-01-01 | - |  | - | - |
