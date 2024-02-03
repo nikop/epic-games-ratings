@@ -2009,10 +2009,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 489,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-02-03T12:59:16.276232+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 490,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 489,
+  "NumberOfAwards": 490,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -2068,7 +2074,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 58
+      "Count": 59
     }
   ],
   "EOS_Progressed": 169970,
@@ -25172,9 +25178,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-02-03T05:00:20.5156816+00:00",
+  "LastChanged": "2024-02-03T12:59:16.2762316+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:45.026609+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:58.3170821+00:00",
-  "LastUpdate_Ratings": "2024-02-03T11:57:12.2489876+00:00",
+  "LastUpdate_Ratings": "2024-02-03T12:59:16.2762329+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:45.0267172+00:00"
 }
