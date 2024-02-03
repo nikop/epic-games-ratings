@@ -4,8 +4,8 @@
 Rating: 4.59 (Ranked 454)  
 ## Awards
 Max (Great for Beginners): 101  (Ranked 380)  
-Sum: 658 (Ranked 323)  
-Diff (max vs sum): 57  
+Sum: 707 (Ranked 315)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 101 |
@@ -18,7 +18,7 @@ Diff (max vs sum): 57
 | This game has a Competitive Community | 59 |
 | This game has Amazing Storytelling | 55 |
 | This game is Extremely Fun | 52 |
-| This game has Amazing Characters | 43 |
+| This game has Amazing Characters | 49 |
 | This game has Playful Visuals | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -218,4 +218,4 @@ Diff (max vs sum): 57
 | 2024-01-31 | 4.59 | 99 | 645 |
 | 2024-02-01 | 4.59 | 99 | 652 |
 | 2024-02-02 | 4.59 | 99 | 655 |
-| 2024-02-03 | 4.59 | 101 | 658 |
+| 2024-02-03 | 4.59 | 101 | 707 |
