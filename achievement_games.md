@@ -478,7 +478,7 @@
 | [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 31 (1,000 XP) | 329 | - | 0 |
 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 39 (1,000 XP) | 276 | - | 0 |
 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2023-05-11 | 16 (1,000 XP) | 62 | - | 0 |
-| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 1,923 | 4.02 | 0 |
+| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 1,923 | 4.01 | 0 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 162 (1,000 XP) | 559 | - | 0 |
 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 40 (1,000 XP) | 9 | - | 0 |
 | [EBOLA 2](games/e/ebola_2.md) | 2023-05-09 | 18 (1,000 XP) | 335 | - | 0 |
@@ -666,7 +666,7 @@
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 188 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 3,839 | 4.08 | 0 |
 | [Urbek City Builder](games/u/urbek_city_builder.md) | 2022-10-20 | 79 (1,000 XP) | 531 | - | 0 |
-| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 33,970 | 4.51 | 332 |
+| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 33,970 | 4.51 | 334 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 18,858 | 4.73 | 480 |
 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2022-10-17 | 30 (1,000 XP) | 92 | - | 0 |
 | [Trifox](games/t/trifox.md) | 2022-10-14 | 46 (1,000 XP) | 106 | - | 0 |
@@ -782,7 +782,7 @@
 | [Rocco's Island](games/r/rocco's_island.md) | 2022-04-08 | 40 (1,000 XP) | 2 | - | 0 |
 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 2022-04-08 | 30 (1,000 XP) | 122 | - | 0 |
 | [ATOM RPG](games/a/atom_rpg.md) | 2022-04-06 | 36 (1,000 XP) | 1,776 | 4.51 | 54 |
-| [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2022-04-05 | 45 (1,000 XP) | 59,854 | 4.77 | 2,531 |
+| [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2022-04-05 | 45 (1,000 XP) | 59,854 | 4.77 | 2,534 |
 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 2022-04-01 | 30 (1,000 XP) | 90 | - | 0 |
 | [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 39 (1,180 XP) | 299,089 | 4.07 | 215 |
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 2,071 | 4.44 | 29 |
@@ -896,7 +896,7 @@
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 44,699 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,252 | 4.02 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 437,887 | 4.63 | 53 |
-| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 28,011,317 | 4.46 | 713,744 |
+| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 28,011,317 | 4.46 | 715,249 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 249,672 | 4.58 | 284 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 28,545 | 4.85 | 227 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 56,377 | 4.70 | 53 |
