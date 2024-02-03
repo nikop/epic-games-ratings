@@ -2,9 +2,9 @@
   "ID": "91189432bbad4478afd611edff7f0339",
   "Name": "This War of Mine",
   "ProductSlug": "this-war-of-mine",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 152,
   "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 1090,
   "RatingHistory": [
     {
@@ -1819,10 +1819,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 733,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2024-02-03T01:37:59.3514945+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 734,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 733,
+  "NumberOfAwards": 734,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1860,7 +1866,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1906,9 +1912,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2024-02-02T21:57:05.864005+00:00",
+  "LastChanged": "2024-02-03T01:37:59.3514944+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:16.2139116+00:00",
   "LastUpdate_AppInfo": "2024-01-28T05:57:27.0200242+00:00",
-  "LastUpdate_Ratings": "2024-02-02T23:58:55.9750694+00:00",
+  "LastUpdate_Ratings": "2024-02-03T01:37:59.3514949+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:16.2139132+00:00"
 }

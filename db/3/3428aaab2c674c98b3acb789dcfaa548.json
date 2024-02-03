@@ -3,7 +3,7 @@
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
   "Ranking_Rating": 245,
-  "Ranking_Popularity": 58,
+  "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 369,
@@ -11253,18 +11253,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 22577,
       "NumberOfAwardsMax": 7496
+    },
+    {
+      "Time": "2024-02-03T01:35:12.9351529+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 22598,
+      "NumberOfAwardsMax": 7517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22577,
-  "NumberOfAwardsMax": 7496,
+  "NumberOfAwards": 22598,
+  "NumberOfAwardsMax": 7517,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7496
+      "Count": 7517
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -41081,9 +41087,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-02-02T19:00:18.9076086+00:00",
+  "LastChanged": "2024-02-03T01:35:12.9351528+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:16.1289627+00:00",
   "LastUpdate_AppInfo": "2024-02-02T15:57:05.6095692+00:00",
-  "LastUpdate_Ratings": "2024-02-02T23:00:37.9227086+00:00",
+  "LastUpdate_Ratings": "2024-02-03T01:35:12.9351534+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:16.1291132+00:00"
 }

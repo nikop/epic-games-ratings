@@ -2,7 +2,7 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "ProductSlug": "sid-meiers-civilization-vi",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 14,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 856,
@@ -17087,10 +17087,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 373197,
       "NumberOfAwardsMax": 47552
+    },
+    {
+      "Time": "2024-02-03T01:35:44.1795552+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 373299,
+      "NumberOfAwardsMax": 47552
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373197,
+  "NumberOfAwards": 373299,
   "NumberOfAwardsMax": 47552,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -17110,7 +17116,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 41906
+      "Count": 41955
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17122,7 +17128,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 37961
+      "Count": 38014
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -17172,8 +17178,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-02-02T19:57:43.1519057+00:00",
+  "LastChanged": "2024-02-03T01:35:44.179555+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:26.1727295+00:00",
-  "LastUpdate_Ratings": "2024-02-02T23:01:16.8817919+00:00",
+  "LastUpdate_Ratings": "2024-02-03T01:35:44.1795555+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:29.2508999+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tower-of-fantasy",
   "Ranking_Rating": 839,
   "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3229,10 +3229,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1091,
       "NumberOfAwardsMax": 443
+    },
+    {
+      "Time": "2024-02-03T01:36:09.5783784+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1092,
+      "NumberOfAwardsMax": 443
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1091,
+  "NumberOfAwards": 1092,
   "NumberOfAwardsMax": 443,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3258,7 +3264,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3315,8 +3321,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2024-02-02T14:57:38.861401+00:00",
+  "LastChanged": "2024-02-03T01:36:09.5783783+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:29.6003279+00:00",
-  "LastUpdate_Ratings": "2024-02-02T23:57:20.6337116+00:00",
+  "LastUpdate_Ratings": "2024-02-03T01:36:09.5783787+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:07.6789767+00:00"
 }
