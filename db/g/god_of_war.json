@@ -2,7 +2,7 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "ProductSlug": "god-of-war",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.87,
+  "Rating": 4.88,
   "NumberOfRatings": 4943,
   "RatingHistory": [
     {
@@ -5475,10 +5475,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 9640,
       "NumberOfAwardsMax": 5165
+    },
+    {
+      "Time": "2024-02-03T17:57:54.1201965+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 9643,
+      "NumberOfAwardsMax": 5165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9640,
+  "NumberOfAwards": 9643,
   "NumberOfAwardsMax": 5165,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5492,7 +5498,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2609
+      "Count": 2612
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5584,8 +5590,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-02-03T10:59:39.7417271+00:00",
+  "LastChanged": "2024-02-03T17:57:54.1201964+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:34.7949265+00:00",
-  "LastUpdate_Ratings": "2024-02-03T16:01:38.4905482+00:00",
+  "LastUpdate_Ratings": "2024-02-03T17:57:54.1201968+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:19.7065313+00:00"
 }
