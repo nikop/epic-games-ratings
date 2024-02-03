@@ -2,7 +2,7 @@
   "ID": "375c702038fb4110af4f2d14a47483d0",
   "Name": "The Panic Room. House of secrets",
   "ProductSlug": "panic-room-4de5e7",
-  "Ranking_Rating": 1025,
+  "Ranking_Rating": 1001,
   "Ranking_Popularity": 595,
   "Ranking_PopularitySum": 595,
   "Ranking_EOS_Progress": 856,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2024-01-20T11:57:41.4263358+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-01-25T16:02:06.6202917+00:00",
       "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-02T23:58:54.2075239+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -53,8 +59,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T17:57:17.5587716+00:00",
   "FirstSeenRating": "2024-01-20T11:57:41.4263356+00:00",
-  "LastChanged": "2024-01-25T16:02:06.6202915+00:00",
+  "LastChanged": "2024-02-02T23:58:54.2075237+00:00",
   "LastUpdate_AppInfo": "2024-01-28T17:57:14.6472007+00:00",
-  "LastUpdate_Ratings": "2024-02-02T22:58:14.95396+00:00",
+  "LastUpdate_Ratings": "2024-02-02T23:58:54.2075243+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:29.7813072+00:00"
 }
