@@ -1,7 +1,7 @@
 # The Sims™ 4
 [Store](https://store.epicgames.com/en-US/p/the-sims-4)  
 [View Rawdata](../../db/t/the_sims™_4.json)  
-Rating: 4.62 (Ranked 388)  
+Rating: 4.62 (Ranked 386)  
 ## Awards
 Max (Great for Beginners): 3,392  (Ranked 103)  
 Sum: 17,367 (Ranked 67)  
