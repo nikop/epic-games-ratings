@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
 Rating: 4.43 (Ranked 739)  
 ## Awards
-Max (Challenging Combat): 23  (Ranked 568)  
+Max (Challenging Combat): 23  (Ranked 569)  
 Sum: 23 (Ranked 573)  
-Diff (max vs sum): -5  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 119 |
