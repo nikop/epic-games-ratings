@@ -21,7 +21,7 @@
 | 19 | [Dauntless](games/d/dauntless.md) | 26,454 | 4.53 | 576 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 24,089 | 4.89 | 11 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 22,499 | 4.57 | 499 |
-| 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,451 | 4.26 | 926 |
+| 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,451 | 4.26 | 927 |
 | 23 | [Warframe](games/w/warframe.md) | 20,940 | 4.61 | 404 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,643 | 4.76 | 134 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 16,483 | 4.60 | 435 |
@@ -70,7 +70,7 @@
 | 68 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,294 | 4.78 | 111 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,290 | 4.67 | 291 |
 | 70 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,231 | 4.76 | 134 |
-| 71 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 6,144 | 4.50 | 628 |
+| 71 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 6,229 | 4.50 | 628 |
 | 72 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,122 | 4.66 | 309 |
 | 73 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,042 | 4.64 | 353 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 5,938 | 4.29 | 894 |
@@ -95,7 +95,7 @@
 | 93 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,181 | 4.51 | 607 |
 | 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,171 | 4.46 | 681 |
 | 95 | [Paladins](games/p/paladins.md) | 4,080 | 4.32 | 875 |
-| 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,998 | 4.26 | 926 |
+| 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,998 | 4.26 | 927 |
 | 97 | [Gloomhaven](games/g/gloomhaven.md) | 3,630 | 4.47 | 671 |
 | 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,606 | 4.67 | 291 |
 | 99 | [Hades](games/h/hades.md) | 3,602 | 4.92 | 4 |
@@ -186,9 +186,9 @@
 | 184 | [Dishonored 2](games/d/dishonored_2.md) | 860 | 4.78 | 111 |
 | 185 | [Alan Wake 2](games/a/alan_wake_2.md) | 826 | 4.81 | 82 |
 | 186 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 820 | 4.74 | 170 |
-| 187 | [Neverwinter](games/n/neverwinter.md) | 804 | 4.29 | 894 |
-| 188 | [Subnautica](games/s/subnautica.md) | 803 | 4.85 | 39 |
-| 188 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 803 | 4.67 | 291 |
+| 187 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 805 | 4.67 | 291 |
+| 188 | [Neverwinter](games/n/neverwinter.md) | 804 | 4.29 | 894 |
+| 189 | [Subnautica](games/s/subnautica.md) | 803 | 4.85 | 39 |
 | 190 | [Core](games/c/core.md) | 789 | 4.35 | 839 |
 | 191 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 788 | 4.51 | 607 |
 | 192 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 787 | 4.60 | 435 |
@@ -268,7 +268,7 @@
 | 266 | [Diabotical](games/d/diabotical.md) | 303 | 4.73 | 186 |
 | 267 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 302 | 4.46 | 681 |
 | 268 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 301 | 4.62 | 388 |
-| 269 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 926 |
+| 269 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 927 |
 | 270 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 295 | 4.63 | 366 |
 | 271 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 292 | 4.45 | 699 |
 | 271 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 292 | 4.43 | 739 |

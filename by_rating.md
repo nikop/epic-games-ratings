@@ -45,7 +45,7 @@
 | 39 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.85 | 14,422 | 31 |
 | 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 227 | 293 |
 | 39 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 202 | 309 |
-| 39 | [Subnautica](games/s/subnautica.md) | 4.85 | 803 | 188 |
+| 39 | [Subnautica](games/s/subnautica.md) | 4.85 | 803 | 189 |
 | 39 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 595 |
 | 48 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 36 | 508 |
 | 48 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.84 | 0 | 595 |
@@ -304,7 +304,7 @@
 | 291 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 597 | 214 |
 | 291 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.67 | 0 | 595 |
 | 291 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 0 | 595 |
-| 291 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 803 | 188 |
+| 291 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 805 | 187 |
 | 291 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.67 | 50 | 466 |
 | 291 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.67 | 0 | 595 |
 | 291 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 595 |
@@ -640,7 +640,7 @@
 | 628 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 595 |
 | 628 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 9,463 | 44 |
 | 628 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,227 | 46 |
-| 628 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 6,144 | 71 |
+| 628 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 6,229 | 71 |
 | 628 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 188 | 316 |
 | 628 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 49 | 469 |
 | 644 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 0 | 595 |
@@ -896,7 +896,7 @@
 | 894 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.29 | 0 | 595 |
 | 894 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 595 |
 | 894 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 595 |
-| 894 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 804 | 187 |
+| 894 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 804 | 188 |
 | 894 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 168 | 331 |
 | 894 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 5,938 | 74 |
 | 894 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 129 | 356 |
@@ -922,18 +922,18 @@
 | 917 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 21 | 580 |
 | 917 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 21 | 580 |
 | 917 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,940 | 107 |
+| 917 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 595 |
 | 917 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 595 |
 | 917 | [The Surge 2](games/t/the_surge_2.md) | 4.27 | 0 | 595 |
 | 917 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 0 | 595 |
-| 926 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 595 |
-| 926 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 595 |
-| 926 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,451 | 22 |
-| 926 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,998 | 96 |
-| 926 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 595 |
-| 926 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.26 | 0 | 595 |
-| 926 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 595 |
-| 926 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 269 |
-| 926 | [Wreckfest](games/w/wreckfest.md) | 4.26 | 0 | 595 |
+| 927 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 595 |
+| 927 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 0 | 595 |
+| 927 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,451 | 22 |
+| 927 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,998 | 96 |
+| 927 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 595 |
+| 927 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 595 |
+| 927 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 269 |
+| 927 | [Wreckfest](games/w/wreckfest.md) | 4.26 | 0 | 595 |
 | 935 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 575 |
 | 935 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.25 | 0 | 595 |
 | 935 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 990 | 170 |
