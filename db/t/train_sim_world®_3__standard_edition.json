@@ -4,7 +4,7 @@
   "ProductSlug": "train-sim-world-3",
   "Ranking_Rating": 535,
   "Ranking_Popularity": 244,
-  "Ranking_PopularitySum": 197,
+  "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3466,10 +3466,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2678,
       "NumberOfAwardsMax": 395
+    },
+    {
+      "Time": "2024-02-03T13:59:18.2719639+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2680,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2678,
+  "NumberOfAwards": 2680,
   "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3531,7 +3537,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 195
+      "Count": 197
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3558,8 +3564,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2024-02-02T19:58:42.813422+00:00",
+  "LastChanged": "2024-02-03T13:59:18.2719637+00:00",
   "LastUpdate_AppInfo": "2024-01-28T06:57:43.514343+00:00",
-  "LastUpdate_Ratings": "2024-02-03T12:58:02.4891109+00:00",
+  "LastUpdate_Ratings": "2024-02-03T13:59:18.2719644+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:15.5758688+00:00"
 }
