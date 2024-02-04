@@ -3,7 +3,7 @@
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 245,
-  "Ranking_Popularity": 205,
+  "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 414,
@@ -2392,18 +2392,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 1590,
       "NumberOfAwardsMax": 655
+    },
+    {
+      "Time": "2024-02-04T21:57:57.2730923+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1592,
+      "NumberOfAwardsMax": 657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1590,
-  "NumberOfAwardsMax": 655,
+  "NumberOfAwards": 1592,
+  "NumberOfAwardsMax": 657,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 655
+      "Count": 657
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12310,9 +12316,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-02-03T16:58:06.2942032+00:00",
+  "LastChanged": "2024-02-04T21:57:57.2730921+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:47.866971+00:00",
   "LastUpdate_AppInfo": "2024-02-04T04:57:17.4722118+00:00",
-  "LastUpdate_Ratings": "2024-02-04T20:57:13.7561006+00:00",
+  "LastUpdate_Ratings": "2024-02-04T21:57:57.2730926+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:47.867081+00:00"
 }

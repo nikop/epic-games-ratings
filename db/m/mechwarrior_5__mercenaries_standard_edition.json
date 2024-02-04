@@ -4,7 +4,7 @@
   "ProductSlug": "mechwarrior-5",
   "Ranking_Rating": 402,
   "Ranking_Popularity": 144,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -6805,11 +6805,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 8417,
       "NumberOfAwardsMax": 1397
+    },
+    {
+      "Time": "2024-02-04T21:58:49.262355+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8420,
+      "NumberOfAwardsMax": 1400
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8417,
-  "NumberOfAwardsMax": 1397,
+  "NumberOfAwards": 8420,
+  "NumberOfAwardsMax": 1400,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6864,7 +6870,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1397
+      "Count": 1400
     }
   ],
   "EOS_Progressed": 0,
@@ -6878,8 +6884,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2024-02-04T01:41:47.9752475+00:00",
+  "LastChanged": "2024-02-04T21:58:49.2623548+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:16:55.4021755+00:00",
-  "LastUpdate_Ratings": "2024-02-04T20:58:35.1259403+00:00",
+  "LastUpdate_Ratings": "2024-02-04T21:58:49.2623554+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:12.9448887+00:00"
 }
