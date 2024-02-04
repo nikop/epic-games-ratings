@@ -2,8 +2,8 @@
   "ID": "fa11862b1cfd42e3b3c6395af46efe3e",
   "Name": "Yooka-Laylee and the Impossible Lair",
   "ProductSlug": "yooka-laylee-and-the-impossible-lair",
-  "Ranking_Rating": 818,
-  "Ranking_Popularity": 521,
+  "Ranking_Rating": 826,
+  "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 346,
   "RatingHistory": [
     {
@@ -723,10 +723,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-02-04T12:59:27.2732634+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232,
+  "NumberOfAwards": 233,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -740,7 +746,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Relaxing",
@@ -802,8 +808,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2024-01-28T16:00:58.0999865+00:00",
+  "LastChanged": "2024-02-04T12:59:27.2732632+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:57:46.5915322+00:00",
-  "LastUpdate_Ratings": "2024-02-04T11:57:44.741946+00:00",
+  "LastUpdate_Ratings": "2024-02-04T12:59:27.2732637+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:44.2407792+00:00"
 }

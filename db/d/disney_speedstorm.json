@@ -3,8 +3,8 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 765,
-  "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 261,
+  "Ranking_Popularity": 298,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 26,
@@ -3265,11 +3265,17 @@
       "Rating": 4.41,
       "NumberOfAwards": 1353,
       "NumberOfAwardsMax": 214
+    },
+    {
+      "Time": "2024-02-04T12:57:40.683351+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 1356,
+      "NumberOfAwardsMax": 215
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1353,
-  "NumberOfAwardsMax": 214,
+  "NumberOfAwards": 1356,
+  "NumberOfAwardsMax": 215,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3282,13 +3288,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 214
+      "Count": 215
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3324,7 +3330,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23184,9 +23190,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-02-03T14:58:46.9487606+00:00",
+  "LastChanged": "2024-02-04T12:57:40.6833508+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:13.5273629+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:27.1596374+00:00",
-  "LastUpdate_Ratings": "2024-02-04T11:00:36.5611936+00:00",
+  "LastUpdate_Ratings": "2024-02-04T12:57:40.6833513+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:13.5274398+00:00"
 }
