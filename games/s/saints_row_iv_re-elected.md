@@ -1,7 +1,7 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 781)  
+Rating: 4.40 (Ranked 780)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -362,12 +362,12 @@ Completed: 17 (0.00%) (Ranked 414)
 | 2024-01-26 | 351,786 | 17 |
 | 2024-01-27 | 352,130 | 17 |
 ## Awards
-Max (Great Boss Battles): 538  (Ranked 223)  
-Sum: 538 (Ranked 339)  
-Diff (max vs sum): -116  
+Max (Great Boss Battles): 539  (Ranked 223)  
+Sum: 539 (Ranked 338)  
+Diff (max vs sum): -115  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 538 |
+| This game has Great Boss Battles | 539 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -500,3 +500,4 @@ Diff (max vs sum): -116
 | 2024-01-26 | 4.40 | 536 | 536 |
 | 2024-02-01 | 4.40 | 537 | 537 |
 | 2024-02-02 | 4.40 | 538 | 538 |
+| 2024-02-04 | 4.40 | 539 | 539 |

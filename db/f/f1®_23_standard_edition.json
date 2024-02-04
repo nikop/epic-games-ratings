@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 308,
+  "Ranking_Rating": 331,
   "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 165,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -1783,10 +1783,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 546,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2024-02-04T18:57:12.639152+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 554,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 546,
+  "NumberOfAwards": 554,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1818,7 +1824,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 62
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1836,13 +1842,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 54
+      "Count": 57
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 48
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13578,9 +13584,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-02-04T14:58:24.1940873+00:00",
+  "LastChanged": "2024-02-04T18:57:12.6391518+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:16.4624604+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:05.3269189+00:00",
-  "LastUpdate_Ratings": "2024-02-04T16:59:44.7215554+00:00",
+  "LastUpdate_Ratings": "2024-02-04T18:57:12.6391524+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:16.4625347+00:00"
 }
