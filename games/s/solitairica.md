@@ -1,11 +1,11 @@
 # Solitairica
 [Store](https://store.epicgames.com/en-US/p/solitairica)  
 [View Rawdata](../../db/s/solitairica.json)  
-Rating: 4.49 (Ranked 646)  
+Rating: 4.49 (Ranked 645)  
 Number of Ratings: 474  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 92  (Ranked 397)  
-Sum: 627 (Ranked 325)  
+Sum: 628 (Ranked 325)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 72
 | This game has Amazing Storytelling | 75 |
 | This game has Playful Visuals | 62 |
 | This game has Challenging Combat | 60 |
-| This game has Amazing Characters | 58 |
+| This game has Amazing Characters | 59 |
 | This game has Diverse Characters | 55 |
 | This game has a Creative Community | 22 |
 ## Ratings History
@@ -176,3 +176,4 @@ Diff (max vs sum): 72
 | 2024-01-26 | 4.49 | - | 92 | 626 |
 | 2024-01-31 | 4.50 | - | 92 | 627 |
 | 2024-02-01 | 4.49 | - | 92 | 627 |
+| 2024-02-04 | 4.49 | - | 92 | 628 |
