@@ -56,7 +56,7 @@
 | [The Death Into Trouble](games/6/61bf61eac17e4387b779eac91395aa79.md) | 2024-01-19 | 21 (1,000 XP) | 1 | - | 0 |
 | [Psychiatrist Simulator](games/4/4b562eb9baa5482ea14bdff1af498af1.md) | 2024-01-19 | - |  | - | - |
 | [Title_Pending](games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 2024-01-19 | 24 (1,000 XP) | 40 | - | 0 |
-| [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 2024-01-18 | 18 (1,000 XP) | 119,331 | 4.50 | 0 |
+| [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 2024-01-18 | 18 (1,000 XP) | 119,331 | 4.51 | 0 |
 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 2024-01-18 | 23 (1,000 XP) | 111 | - | 0 |
 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 2024-01-18 | - |  | 4.77 | 387 |
 | [Spy 1 Lovecraftian](games/e/e74a84ea2b28441d84419c6c89c090bf.md) | 2024-01-18 | - |  | - | - |
@@ -87,4 +87,3 @@
 | [Jewel Run](games/8/84c8e6d18b31451db1a5557c09f2ea6a.md) | 2024-01-08 | - |  | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 11 | - | - |
 | [Garden City](games/f/faed6156c1df42ccb63429cbfca1e670.md) | 2024-01-05 | - |  | - | 0 |
-| [Project XSTING](games/2/23742f73e6594075a1f74e57ed7a6d5b.md) | 2024-01-05 | - |  | - | - |
