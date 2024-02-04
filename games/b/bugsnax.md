@@ -320,12 +320,12 @@ Completed: 1,437 (4.92%) (Ranked 80)
 | 2024-01-26 | 29,213 | 1,437 |
 | 2024-01-27 | 29,216 | 1,437 |
 ## Awards
-Max (Amazing Storytelling): 46  (Ranked 477)  
-Sum: 395 (Ranked 366)  
-Diff (max vs sum): 111  
+Max (Amazing Storytelling): 47  (Ranked 475)  
+Sum: 396 (Ranked 365)  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 46 |
+| This game has Amazing Storytelling | 47 |
 | This game is Great for Beginners | 41 |
 | This game has Quickly Understood Controls | 39 |
 | This game has Amazing Characters | 38 |
@@ -483,3 +483,4 @@ Diff (max vs sum): 111
 | 2024-01-23 | 4.86 | - | 46 | 392 |
 | 2024-01-30 | 4.86 | - | 46 | 393 |
 | 2024-01-31 | 4.86 | - | 46 | 395 |
+| 2024-02-04 | 4.86 | - | 47 | 396 |

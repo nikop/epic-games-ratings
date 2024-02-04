@@ -3,8 +3,8 @@
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 32,
-  "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 366,
+  "Ranking_Popularity": 475,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 223,
@@ -1014,11 +1014,17 @@
       "Rating": 4.86,
       "NumberOfAwards": 395,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-02-04T04:01:11.3473653+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 395,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 396,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -1031,7 +1037,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9960,9 +9966,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2024-01-31T13:01:22.0967753+00:00",
+  "LastChanged": "2024-02-04T04:01:11.3473651+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:34.7116537+00:00",
   "LastUpdate_AppInfo": "2024-01-28T04:57:13.2944093+00:00",
-  "LastUpdate_Ratings": "2024-02-04T02:59:35.0631595+00:00",
+  "LastUpdate_Ratings": "2024-02-04T04:01:11.3473656+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:34.7116967+00:00"
 }
