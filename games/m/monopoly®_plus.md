@@ -1,7 +1,7 @@
 # MONOPOLY® PLUS
 [Store](https://store.epicgames.com/en-US/p/monopoly-plus)  
 [View Rawdata](../../db/m/monopoly®_plus.json)  
-Rating: 4.04 (Ranked 1,061)  
+Rating: 4.05 (Ranked 1,059)  
 Number of Ratings: 142  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -108,3 +108,4 @@ Number of Ratings: 142  (23.09.2022)
 | 2024-01-08 | 4.02 | - | 0 | 0 |
 | 2024-01-11 | 4.03 | - | 0 | 0 |
 | 2024-01-13 | 4.04 | - | 0 | 0 |
+| 2024-02-03 | 4.05 | - | 0 | 0 |
