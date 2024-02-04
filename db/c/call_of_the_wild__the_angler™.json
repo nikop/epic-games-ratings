@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 955,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 196,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "RU, BY, SA"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 281,
   "RatingHistory": [
     {
@@ -1029,6 +1029,12 @@
     {
       "Time": "2024-02-03T09:59:59.6303093+00:00",
       "Rating": 4.23,
+      "NumberOfAwards": 221,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-02-04T10:57:28.7125619+00:00",
+      "Rating": 4.22,
       "NumberOfAwards": 221,
       "NumberOfAwardsMax": 43
     }
@@ -14933,9 +14939,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-02-03T09:59:59.6303091+00:00",
+  "LastChanged": "2024-02-04T10:57:28.7125618+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:16.2612556+00:00",
   "LastUpdate_AppInfo": "2024-02-04T04:57:20.8866651+00:00",
-  "LastUpdate_Ratings": "2024-02-04T09:00:57.98504+00:00",
+  "LastUpdate_Ratings": "2024-02-04T10:57:28.7125622+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:16.2613229+00:00"
 }
