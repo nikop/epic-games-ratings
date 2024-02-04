@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,034,335 | 4.28 | 904 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 715,249 | 4.46 | 681 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 716,265 | 4.46 | 681 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 328,028 | 4.68 | 268 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 316,962 | 4.68 | 268 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 271,089 | 4.88 | 17 |
@@ -112,7 +112,7 @@
 | 110 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 2,617 | 4.62 | 386 |
 | 111 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,534 | 4.77 | 122 |
 | 112 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,039 |
-| 113 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,351 | 4.63 | 365 |
+| 113 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,354 | 4.63 | 365 |
 | 114 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,349 | 4.71 | 204 |
 | 115 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,336 | 4.67 | 291 |
 | 116 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,265 | 4.41 | 763 |
@@ -137,11 +137,11 @@
 | 135 | [World of Warships](games/w/world_of_warships.md) | 1,789 | 4.40 | 778 |
 | 136 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,751 | 4.86 | 32 |
 | 137 | [Conan Exiles](games/c/conan_exiles.md) | 1,722 | 4.54 | 556 |
-| 138 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,669 | 4.79 | 101 |
+| 138 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,672 | 4.79 | 101 |
 | 139 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,603 | 4.87 | 24 |
 | 140 | [Ring of Pain](games/r/ring_of_pain.md) | 1,518 | 4.58 | 473 |
 | 141 | [XCOM® 2](games/x/xcom®_2.md) | 1,477 | 4.55 | 534 |
-| 142 | [OUTRIDERS](games/o/outriders.md) | 1,435 | 4.43 | 740 |
+| 142 | [OUTRIDERS](games/o/outriders.md) | 1,437 | 4.43 | 740 |
 | 143 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,422 | 4.76 | 134 |
 | 144 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,397 | 4.61 | 402 |
 | 145 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,391 | 4.79 | 101 |
@@ -174,7 +174,7 @@
 | 172 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 983 | 4.49 | 645 |
 | 173 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 961 | 4.54 | 556 |
 | 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 958 | 4.75 | 153 |
-| 175 | [Riders Republic](games/r/riders_republic.md) | 924 | 4.75 | 153 |
+| 175 | [Riders Republic](games/r/riders_republic.md) | 927 | 4.75 | 153 |
 | 176 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 917 | 4.45 | 699 |
 | 177 | [The Long Dark](games/t/the_long_dark.md) | 905 | 4.74 | 170 |
 | 178 | [Auto Chess](games/a/auto_chess.md) | 897 | 4.50 | 627 |
@@ -271,8 +271,8 @@
 | 269 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 927 |
 | 270 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 295 | 4.63 | 365 |
 | 271 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 294 | 4.45 | 699 |
+| 272 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 292 | 4.39 | 792 |
 | 272 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 292 | 4.43 | 740 |
-| 273 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 291 | 4.39 | 792 |
 | 274 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 290 | 4.44 | 717 |
 | 275 | [Overcooked! 2](games/o/overcooked!_2.md) | 288 | 4.71 | 204 |
 | 276 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 284 | 4.58 | 473 |

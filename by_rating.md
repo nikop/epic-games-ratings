@@ -101,7 +101,7 @@
 | 94 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 594 |
 | 94 | [Superliminal](games/s/superliminal.md) | 4.80 | 0 | 594 |
 | 101 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 56 | 453 |
-| 101 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,669 | 138 |
+| 101 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,672 | 138 |
 | 101 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 594 |
 | 101 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 172 | 327 |
 | 101 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 594 |
@@ -162,7 +162,7 @@
 | 153 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 594 |
 | 153 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 594 |
 | 153 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.75 | 0 | 594 |
-| 153 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 924 | 175 |
+| 153 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 927 | 175 |
 | 153 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 14,591 | 29 |
 | 153 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 594 |
 | 153 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 594 |
@@ -371,7 +371,7 @@
 | 365 | [Colt Canyon](games/c/colt_canyon.md) | 4.63 | 0 | 594 |
 | 365 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 295 | 270 |
 | 365 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 511 |
-| 365 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,351 | 113 |
+| 365 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,354 | 113 |
 | 365 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,838 | 131 |
 | 365 | [HITMAN](games/h/hitman.md) | 4.63 | 220 | 294 |
 | 365 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 594 |
@@ -689,7 +689,7 @@
 | 681 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.46 | 0 | 594 |
 | 681 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 41 | 490 |
 | 681 | [Riverbond](games/r/riverbond.md) | 4.46 | 22 | 575 |
-| 681 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 715,249 | 2 |
+| 681 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 716,265 | 2 |
 | 681 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 594 |
 | 681 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 594 |
 | 681 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 594 |
@@ -745,7 +745,7 @@
 | 740 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.43 | 0 | 594 |
 | 740 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 594 |
 | 740 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.43 | 0 | 594 |
-| 740 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,435 | 142 |
+| 740 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,437 | 142 |
 | 740 | [SMITE](games/s/smite.md) | 4.43 | 5,117 | 82 |
 | 740 | [STG Football](games/s/stg_football.md) | 4.43 | 52 | 461 |
 | 740 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 594 |
@@ -800,7 +800,7 @@
 | 792 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.39 | 0 | 594 |
 | 792 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 77 | 410 |
 | 792 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 416 |
-| 792 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 291 | 273 |
+| 792 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 292 | 272 |
 | 792 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 336 | 259 |
 | 792 | [The Riflemen](games/t/the_riflemen.md) | 4.39 | 0 | 594 |
 | 792 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.39 | 610 | 213 |
