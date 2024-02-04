@@ -88,4 +88,3 @@
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 11 | - | - |
 | [Garden City](games/f/faed6156c1df42ccb63429cbfca1e670.md) | 2024-01-05 | - |  | - | 0 |
 | [Project XSTING](games/2/23742f73e6594075a1f74e57ed7a6d5b.md) | 2024-01-05 | - |  | - | - |
-| [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 96 | - | - |
