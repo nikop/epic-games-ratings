@@ -2,7 +2,7 @@
   "ID": "2ec6c4dc5efd4123bdd9eee3e80554c3",
   "Name": "Achilles Legends Untold",
   "ProductSlug": "achilles-legends-untold-bb77ad",
-  "Ranking_Rating": 997,
+  "Ranking_Rating": 990,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 856,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2023-03-09T21:57:29.238236+00:00",
@@ -138,6 +138,12 @@
       "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-04T01:42:05.6619678+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -156,8 +162,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-10T23:30:50.8675024+00:00",
   "FirstSeenRating": "2023-03-09T21:57:29.2382357+00:00",
-  "LastChanged": "2024-01-21T20:59:42.4334098+00:00",
+  "LastChanged": "2024-02-04T01:42:05.6619676+00:00",
   "LastUpdate_AppInfo": "2024-01-28T01:41:45.2401824+00:00",
-  "LastUpdate_Ratings": "2024-02-03T23:00:00.6972329+00:00",
+  "LastUpdate_Ratings": "2024-02-04T01:42:05.6619681+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:20.8276055+00:00"
 }

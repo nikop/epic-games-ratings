@@ -4,7 +4,7 @@
   "ProductSlug": "eve-online",
   "Ranking_Rating": 944,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3574,10 +3574,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 2654,
       "NumberOfAwardsMax": 1189
+    },
+    {
+      "Time": "2024-02-04T01:44:33.2275865+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2839,
+      "NumberOfAwardsMax": 1189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2654,
+  "NumberOfAwards": 2839,
   "NumberOfAwardsMax": 1189,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3609,7 +3615,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 183
+      "Count": 185
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3659,8 +3665,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-02-02T02:12:24.1037398+00:00",
+  "LastChanged": "2024-02-04T01:44:33.2275863+00:00",
   "LastUpdate_AppInfo": "2024-01-28T02:14:32.7910403+00:00",
-  "LastUpdate_Ratings": "2024-02-03T23:58:43.5689947+00:00",
+  "LastUpdate_Ratings": "2024-02-04T01:44:33.2275868+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:30.0976715+00:00"
 }
