@@ -2,7 +2,7 @@
   "ID": "d93cf08971eb4920862a95870a051f81",
   "Name": "Sail Forth",
   "ProductSlug": "sail-forth-51847e",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 754,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 61,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:32.4374956+00:00",
@@ -297,6 +297,12 @@
     {
       "Time": "2024-02-03T19:00:48.6125648+00:00",
       "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-04T05:57:36.3442496+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2594,9 +2600,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-02-03T19:00:48.6125647+00:00",
+  "LastChanged": "2024-02-04T05:57:36.3442494+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:20.1090514+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:16:48.4989383+00:00",
-  "LastUpdate_Ratings": "2024-02-04T04:01:11.8905194+00:00",
+  "LastUpdate_Ratings": "2024-02-04T05:57:36.34425+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:20.109093+00:00"
 }

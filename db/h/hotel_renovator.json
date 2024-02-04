@@ -2,7 +2,7 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 276,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.37,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-03-30T21:57:33.3986384+00:00",
@@ -297,6 +297,12 @@
     {
       "Time": "2024-01-31T05:57:54.1246203+00:00",
       "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-04T05:57:55.776499+00:00",
+      "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3998,9 +4004,9 @@
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
-  "LastChanged": "2024-01-31T05:57:54.1246201+00:00",
+  "LastChanged": "2024-02-04T05:57:55.7764989+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:34.5098833+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:16:56.9807177+00:00",
-  "LastUpdate_Ratings": "2024-02-04T04:01:40.6166419+00:00",
+  "LastUpdate_Ratings": "2024-02-04T05:57:55.7764995+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:34.5099365+00:00"
 }
