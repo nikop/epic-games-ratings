@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 402,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 207,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -5763,10 +5763,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2467,
       "NumberOfAwardsMax": 353
+    },
+    {
+      "Time": "2024-02-04T16:58:09.7176914+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2468,
+      "NumberOfAwardsMax": 353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2467,
+  "NumberOfAwards": 2468,
   "NumberOfAwardsMax": 353,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5816,7 +5822,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 281
+      "Count": 282
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5842,8 +5848,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2024-02-04T13:59:39.2554376+00:00",
+  "LastChanged": "2024-02-04T16:58:09.7176912+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:16:33.7621542+00:00",
-  "LastUpdate_Ratings": "2024-02-04T15:57:04.016779+00:00",
+  "LastUpdate_Ratings": "2024-02-04T16:58:09.7176918+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:04.627726+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 23,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1768,10 +1768,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 970,
       "NumberOfAwardsMax": 622
+    },
+    {
+      "Time": "2024-02-04T16:59:33.5422207+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 972,
+      "NumberOfAwardsMax": 622
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 970,
+  "NumberOfAwards": 972,
   "NumberOfAwardsMax": 622,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1785,7 +1791,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1859,8 +1865,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-02-03T19:57:21.8670834+00:00",
+  "LastChanged": "2024-02-04T16:59:33.5422205+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:58:03.2732216+00:00",
-  "LastUpdate_Ratings": "2024-02-04T15:58:24.2642223+00:00",
+  "LastUpdate_Ratings": "2024-02-04T16:59:33.542221+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:15.9832903+00:00"
 }
