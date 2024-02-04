@@ -178,7 +178,7 @@
 | [Entomophobia](games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 2023-10-31 | 14 (1,000 XP) | 5 | - | - |
 | [Revans](games/d/dc5c7673e02543d6b57e9579d970702f.md) | 2023-10-31 | 64 (1,000 XP) | 0 | - | - |
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-27 | 20 (1,000 XP) | 13 | - | 0 |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 390,648 | 4.81 | 826 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 390,648 | 4.81 | 832 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 321 | - | 0 |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-10-26 | 33 (1,000 XP) | 106 | - | 0 |
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 89 | - | 0 |
@@ -577,7 +577,7 @@
 | [Wreckfest](games/w/wreckfest.md) | 2023-03-10 | 20 (1,000 XP) | 1,295 | 4.26 | 0 |
 | [Figment 2: Creed Valley](games/f/figment_2__creed_valley.md) | 2023-03-09 | 18 (1,000 XP) | 78 | - | 0 |
 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 2023-03-09 | 21 (1,000 XP) | 166 | - | 0 |
-| [Hotel Renovator](games/h/hotel_renovator.md) | 2023-03-07 | 27 (1,000 XP) | 1,480 | 4.37 | 0 |
+| [Hotel Renovator](games/h/hotel_renovator.md) | 2023-03-07 | 27 (1,000 XP) | 1,480 | 4.34 | 0 |
 | [Rogue Spirit](games/r/rogue_spirit.md) | 2023-03-07 | 60 (1,000 XP) | 34 | - | 0 |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 4,352 | 4.48 | 31 |
 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 2023-02-28 | 24 (1,000 XP) | 1,719 | - | 0 |
@@ -618,7 +618,7 @@
 | [Children of Silentown](games/c/children_of_silentown.md) | 2023-01-11 | 26 (1,000 XP) | 241 | - | 0 |
 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 2023-01-09 | 23 (1,000 XP) | 56 | - | 0 |
 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 2023-01-03 | 33 (1,000 XP) | 857 | - | 0 |
-| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.41 | 0 |
+| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.42 | 0 |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 2022-12-19 | 28 (1,000 XP) | 235,860 | 4.59 | 30 |
 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 2022-12-16 | 27 (1,000 XP) | 297 | - | 0 |
 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 2022-12-15 | 11 (1,000 XP) | 96 | - | 0 |

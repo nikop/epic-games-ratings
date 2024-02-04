@@ -42,7 +42,7 @@
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2099-01-01 | 52 (1,000 XP) | 1 | - | - |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 46 | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
-| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.41 | 0 |
+| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.42 | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 11 | - | - |
 | [Entomophobia](games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 2023-10-31 | 14 (1,000 XP) | 5 | - | - |
 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 282,547 | 4.66 | 218 |
@@ -197,7 +197,7 @@
 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2023-08-20 | 21 (1,000 XP) | 2 | - | 0 |
 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 2023-08-16 | 25 (1,000 XP) | 22 | - | 0 |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 27 | - | - |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 390,648 | 4.81 | 826 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 390,648 | 4.81 | 832 |
 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 551 | - | 0 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 15,380 | 4.74 | 57 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 550 | - | 0 |
