@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 153,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1938,10 +1938,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 497,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-02-04T13:57:34.890282+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 498,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 497,
+  "NumberOfAwards": 498,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1973,7 +1979,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2023,8 +2029,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-02-02T20:58:19.7149895+00:00",
+  "LastChanged": "2024-02-04T13:57:34.8902819+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:58:07.743946+00:00",
-  "LastUpdate_Ratings": "2024-02-04T11:59:55.3664223+00:00",
+  "LastUpdate_Ratings": "2024-02-04T13:57:34.8902825+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:47.4773258+00:00"
 }
