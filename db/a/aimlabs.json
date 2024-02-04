@@ -2,7 +2,7 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -2539,10 +2539,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 711,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-02-04T08:59:09.9971666+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 713,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 711,
+  "NumberOfAwards": 713,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2598,7 +2604,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2631,8 +2637,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-02-03T18:59:02.1837674+00:00",
+  "LastChanged": "2024-02-04T08:59:09.9971664+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:51.0504873+00:00",
-  "LastUpdate_Ratings": "2024-02-04T07:58:53.6299214+00:00",
+  "LastUpdate_Ratings": "2024-02-04T08:59:09.9971668+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:48.2782158+00:00"
 }
