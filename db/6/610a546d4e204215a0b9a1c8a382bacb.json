@@ -2,7 +2,7 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 125,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-11-08T07:59:36.9365658+00:00",
@@ -2791,10 +2791,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 1843,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2024-02-04T17:58:07.3955047+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1855,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1843,
+  "NumberOfAwards": 1855,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2826,7 +2832,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 164
+      "Count": 169
     },
     {
       "Text": "This game has Competitive Players",
@@ -2850,7 +2856,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 163
+      "Count": 170
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13428,9 +13434,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-02-04T14:59:56.3975332+00:00",
+  "LastChanged": "2024-02-04T17:58:07.3955046+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:47.0105928+00:00",
   "LastUpdate_AppInfo": "2024-01-31T01:38:20.3698829+00:00",
-  "LastUpdate_Ratings": "2024-02-04T15:59:54.3365313+00:00",
+  "LastUpdate_Ratings": "2024-02-04T17:58:07.395505+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:47.0107047+00:00"
 }
