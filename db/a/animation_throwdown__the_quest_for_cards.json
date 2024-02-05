@@ -3,7 +3,7 @@
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
   "Ranking_Rating": 881,
-  "Ranking_Popularity": 246,
+  "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -2738,11 +2738,17 @@
       "Rating": 4.31,
       "NumberOfAwards": 2919,
       "NumberOfAwardsMax": 392
+    },
+    {
+      "Time": "2024-02-05T12:59:09.0337145+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2921,
+      "NumberOfAwardsMax": 394
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2919,
-  "NumberOfAwardsMax": 392,
+  "NumberOfAwards": 2921,
+  "NumberOfAwardsMax": 394,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -2761,7 +2767,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 392
+      "Count": 394
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2817,8 +2823,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-02-05T11:00:21.2153841+00:00",
+  "LastChanged": "2024-02-05T12:59:09.0337143+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:20.1269137+00:00",
-  "LastUpdate_Ratings": "2024-02-05T11:00:21.2153846+00:00",
+  "LastUpdate_Ratings": "2024-02-05T12:59:09.0337149+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:10.7058554+00:00"
 }

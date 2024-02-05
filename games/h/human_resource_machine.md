@@ -3,12 +3,12 @@
 [View Rawdata](../../db/h/human_resource_machine.json)  
 Rating: 4.61 (Ranked 401)  
 ## Awards
-Max (Challenging Puzzles): 64  (Ranked 435)  
-Sum: 64 (Ranked 505)  
-Diff (max vs sum): -70  
+Max (Challenging Puzzles): 66  (Ranked 433)  
+Sum: 66 (Ranked 505)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 64 |
+| This game features Challenging Puzzles | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -37,3 +37,4 @@ Diff (max vs sum): -70
 | 2024-01-31 | 4.60 | 63 | 63 |
 | 2024-02-01 | 4.60 | 64 | 64 |
 | 2024-02-03 | 4.61 | 64 | 64 |
+| 2024-02-05 | 4.61 | 66 | 66 |
