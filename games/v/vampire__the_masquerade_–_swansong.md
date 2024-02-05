@@ -11,8 +11,8 @@ Completed: 0 (0.00%) (Ranked 414)
 | ---- | ---------- | --------- |
 | 2023-04-25 | 12 | 0 |
 ## Awards
-Max (Impact the Story): 78  (Ranked 409)  
-Sum: 78 (Ranked 492)  
+Max (Impact the Story): 78  (Ranked 410)  
+Sum: 78 (Ranked 493)  
 Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
