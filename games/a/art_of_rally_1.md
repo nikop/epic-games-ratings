@@ -1,7 +1,7 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.63 (Ranked 365)  
+Rating: 4.64 (Ranked 351)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -362,3 +362,4 @@ Diff (max vs sum): 86
 | 2024-02-02 | 4.64 | - | 53 | 375 |
 | 2024-02-03 | 4.63 | - | 54 | 378 |
 | 2024-02-04 | 4.63 | - | 54 | 380 |
+| 2024-02-05 | 4.64 | - | 54 | 380 |
