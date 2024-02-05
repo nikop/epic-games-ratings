@@ -163,7 +163,7 @@
 | 153 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 594 |
 | 153 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.75 | 0 | 594 |
 | 153 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 927 | 175 |
-| 153 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 14,666 | 29 |
+| 153 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 14,733 | 28 |
 | 153 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 594 |
 | 153 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 594 |
 | 153 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 95 | 394 |
@@ -488,15 +488,15 @@
 | 474 | [Tails of Iron](games/t/tails_of_iron.md) | 4.58 | 0 | 594 |
 | 474 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 285 | 276 |
 | 474 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 55 | 455 |
-| 474 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 180 | 319 |
+| 474 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 182 | 317 |
 | 474 | [The Invincible](games/t/the_invincible.md) | 4.58 | 0 | 594 |
 | 474 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.58 | 33 | 522 |
-| 474 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,754 | 62 |
+| 474 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,756 | 62 |
 | 474 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 89 | 400 |
 | 474 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 725 | 199 |
 | 474 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 239 | 285 |
 | 474 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 112 | 368 |
-| 474 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,729 | 28 |
+| 474 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,729 | 29 |
 | 498 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 594 |
 | 498 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.57 | 26 | 551 |
 | 498 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.57 | 40 | 493 |
@@ -770,6 +770,7 @@
 | 765 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.41 | 0 | 594 |
 | 765 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 28 | 543 |
 | 765 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 594 |
+| 765 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.41 | 0 | 594 |
 | 765 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 594 |
 | 765 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 594 |
 | 765 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,265 | 116 |
@@ -779,20 +780,19 @@
 | 765 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.41 | 0 | 594 |
 | 765 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 594 |
 | 765 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.41 | 69 | 429 |
-| 780 | [9Lives Arena](games/9/9lives_arena.md) | 4.40 | 0 | 594 |
-| 780 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 594 |
-| 780 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,078 | 160 |
-| 780 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 594 |
-| 780 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.40 | 0 | 594 |
-| 780 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 594 |
-| 780 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 594 |
-| 780 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.40 | 96 | 392 |
-| 780 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.40 | 0 | 594 |
-| 780 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 415 |
-| 780 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.40 | 198 | 308 |
-| 780 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 539 | 223 |
-| 780 | [The Riflemen](games/t/the_riflemen.md) | 4.40 | 0 | 594 |
-| 780 | [World of Warships](games/w/world_of_warships.md) | 4.40 | 1,795 | 134 |
+| 781 | [9Lives Arena](games/9/9lives_arena.md) | 4.40 | 0 | 594 |
+| 781 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 594 |
+| 781 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,078 | 160 |
+| 781 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 594 |
+| 781 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.40 | 0 | 594 |
+| 781 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 594 |
+| 781 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 594 |
+| 781 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.40 | 96 | 392 |
+| 781 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 415 |
+| 781 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.40 | 198 | 308 |
+| 781 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 539 | 223 |
+| 781 | [The Riflemen](games/t/the_riflemen.md) | 4.40 | 0 | 594 |
+| 781 | [World of Warships](games/w/world_of_warships.md) | 4.40 | 1,795 | 134 |
 | 794 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 594 |
 | 794 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.39 | 0 | 594 |
 | 794 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 0 | 594 |
@@ -1085,13 +1085,13 @@
 | 1,083 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.93 | 0 | 594 |
 | 1,083 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 594 |
 | 1,083 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 594 |
-| 1,086 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.91 | 0 | 594 |
-| 1,086 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 379 |
-| 1,088 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 35 | 512 |
-| 1,088 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.90 | 0 | 594 |
-| 1,088 | [Potion Permit](games/p/potion_permit.md) | 3.90 | 73 | 420 |
-| 1,088 | [Warface: Clutch](games/w/warface.md) | 3.90 | 486 | 227 |
-| 1,092 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.89 | 0 | 594 |
+| 1,086 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.92 | 0 | 594 |
+| 1,087 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.91 | 0 | 594 |
+| 1,087 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 379 |
+| 1,089 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 35 | 512 |
+| 1,089 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.90 | 0 | 594 |
+| 1,089 | [Potion Permit](games/p/potion_permit.md) | 3.90 | 73 | 420 |
+| 1,089 | [Warface: Clutch](games/w/warface.md) | 3.90 | 486 | 227 |
 | 1,093 | [Saints Row](games/s/saints_row.md) | 3.88 | 1,166 | 153 |
 | 1,093 | [To The Rescue](games/t/to_the_rescue.md) | 3.88 | 0 | 594 |
 | 1,095 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 594 |
