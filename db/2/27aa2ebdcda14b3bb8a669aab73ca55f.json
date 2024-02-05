@@ -2,7 +2,7 @@
   "ID": "27aa2ebdcda14b3bb8a669aab73ca55f",
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
-  "Ranking_Rating": 823,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 856,
@@ -7107,10 +7107,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 10671,
       "NumberOfAwardsMax": 4243
+    },
+    {
+      "Time": "2024-02-05T09:57:20.3454204+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 10680,
+      "NumberOfAwardsMax": 4243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10671,
+  "NumberOfAwards": 10680,
   "NumberOfAwardsMax": 4243,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7148,13 +7154,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 706
+      "Count": 711
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 598
+      "Count": 602
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7187,8 +7193,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2024-02-05T02:59:17.4209343+00:00",
+  "LastChanged": "2024-02-05T09:57:20.3454202+00:00",
   "LastUpdate_AppInfo": "2024-02-02T08:57:01.9662312+00:00",
-  "LastUpdate_Ratings": "2024-02-05T08:00:52.8063333+00:00",
+  "LastUpdate_Ratings": "2024-02-05T09:57:20.3454208+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:05.7974526+00:00"
 }
