@@ -142,7 +142,7 @@
 | 134 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,215 | 151 |
 | 134 | [Eternights](games/e/eternights.md) | 4.76 | 0 | 594 |
 | 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,427 | 143 |
-| 134 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,252 | 71 |
+| 134 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,272 | 71 |
 | 134 | [Journey](games/j/journey.md) | 4.76 | 0 | 594 |
 | 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 594 |
 | 134 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,264 | 117 |
@@ -452,7 +452,7 @@
 | 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 0 | 594 |
 | 433 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 25 | 557 |
 | 433 | [Witchfire](games/w/witchfire.md) | 4.60 | 72 | 423 |
-| 453 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 642 | 206 |
+| 453 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 650 | 206 |
 | 453 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 594 |
 | 453 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 212 | 302 |
 | 453 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 594 |
@@ -501,7 +501,7 @@
 | 498 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.57 | 26 | 551 |
 | 498 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.57 | 40 | 493 |
 | 498 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.57 | 0 | 594 |
-| 498 | [Ghostrunner](games/g/ghostrunner.md) | 4.57 | 1,904 | 128 |
+| 498 | [Ghostrunner](games/g/ghostrunner.md) | 4.57 | 1,922 | 128 |
 | 498 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 393 | 245 |
 | 498 | [Hob](games/h/hob.md) | 4.57 | 0 | 594 |
 | 498 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 237 | 287 |
@@ -613,7 +613,7 @@
 | 607 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 594 |
 | 607 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 40,755 | 15 |
 | 607 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 0 | 594 |
-| 607 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 155,818 | 7 |
+| 607 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 155,870 | 7 |
 | 607 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 335 | 261 |
 | 607 | [GigaBash](games/g/gigabash.md) | 4.51 | 68 | 430 |
 | 607 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 0 | 594 |
