@@ -4,7 +4,7 @@
 Rating: 4.50 (Ranked 628)  
 ## Awards
 Max (Character Customization): 6,315  (Ranked 68)  
-Sum: 8,477 (Ranked 116)  
+Sum: 8,482 (Ranked 116)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -48
 | This game is Extremely Fun | 253 |
 | This game is Great for Beginners | 227 |
 | This game is Relaxing | 214 |
-| This game has a Creative Community | 152 |
+| This game has a Creative Community | 157 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -170,3 +170,4 @@ Diff (max vs sum): -48
 | 2024-02-02 | 4.50 | 6,144 | 8,210 |
 | 2024-02-03 | 4.50 | 6,229 | 8,350 |
 | 2024-02-04 | 4.50 | 6,315 | 8,477 |
+| 2024-02-05 | 4.50 | 6,315 | 8,482 |
