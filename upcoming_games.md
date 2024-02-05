@@ -52,7 +52,6 @@
 | [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2024-03-02 | 29 (1,000 XP) | 2 | - | - |
 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-05 | - |  | - | - |
-| [Total Reload](games/t/total_reload.md) | 2024-03-07 | - |  | - | - |
 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 9 | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-03-08 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
@@ -93,6 +92,7 @@
 | [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-03-31 | - |  | - | - |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | - |  | - | - |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | - |  | - | - |
+| [Total Reload](games/t/total_reload.md) | 2024-04-09 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Tales of Kenzera™: ZAU Standard Edition](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-04-24 | - |  | - | - |

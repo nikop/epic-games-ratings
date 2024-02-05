@@ -231,7 +231,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 19 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.24 | 4,616 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.24 | 4,673 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,331 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 350,363 | 4.21 | 87 |
@@ -818,7 +818,7 @@
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 7 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,444 | 4.48 | 35 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 619,955 | 4.51 | 143 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 63,970 | 4.67 | 6,311 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 63,970 | 4.67 | 6,314 |
 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 2021-11-19 | 34 (1,000 XP) | 127,074 | - | 0 |
 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 2021-11-16 | 59 (1,000 XP) | 512,167 | 4.39 | 292 |
 | [Lifeslide](games/l/lifeslide.md) | 2021-11-15 | 31 (1,000 XP) | 342 | - | 0 |
