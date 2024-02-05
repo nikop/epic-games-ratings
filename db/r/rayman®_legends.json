@@ -4,7 +4,7 @@
   "ProductSlug": "rayman-legends",
   "Ranking_Rating": 82,
   "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1432,10 +1432,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 477,
       "NumberOfAwardsMax": 384
+    },
+    {
+      "Time": "2024-02-05T20:00:14.7219117+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 499,
+      "NumberOfAwardsMax": 384
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 477,
+  "NumberOfAwards": 499,
   "NumberOfAwardsMax": 384,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1455,7 +1461,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1467,6 +1473,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 20
     }
   ],
@@ -1481,8 +1493,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2024-02-05T15:01:14.5860281+00:00",
+  "LastChanged": "2024-02-05T20:00:14.7219115+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:34.2925082+00:00",
-  "LastUpdate_Ratings": "2024-02-05T18:59:14.1643821+00:00",
+  "LastUpdate_Ratings": "2024-02-05T20:00:14.7219119+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:37.4239269+00:00"
 }

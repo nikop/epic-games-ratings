@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 1033,
   "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 334,
+  "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 65,
@@ -18618,6 +18618,6 @@
   "LastChanged": "2024-02-05T13:58:33.6387237+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:26.6316904+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:26.7066591+00:00",
-  "LastUpdate_Ratings": "2024-02-05T18:58:55.4302464+00:00",
+  "LastUpdate_Ratings": "2024-02-05T19:59:56.6574157+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:26.6317544+00:00"
 }
