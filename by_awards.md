@@ -32,7 +32,7 @@
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,464 | 4.44 | 715 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,445 | 4.85 | 39 |
 | 32 | [Maneater](games/m/maneater.md) | 13,982 | 4.49 | 645 |
-| 33 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 13,214 | 4.58 | 474 |
+| 33 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 13,247 | 4.58 | 474 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,198 | 4.45 | 699 |
 | 35 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,839 | 4.36 | 824 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,934 | 4.69 | 244 |
@@ -79,7 +79,7 @@
 | 77 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,829 | 4.07 | 1,050 |
 | 78 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,522 | 4.56 | 515 |
 | 79 | [League of Legends](games/l/league_of_legends.md) | 5,427 | 4.20 | 979 |
-| 80 | [Chivalry 2](games/c/chivalry_2.md) | 5,315 | 4.60 | 433 |
+| 80 | [Chivalry 2](games/c/chivalry_2.md) | 5,322 | 4.60 | 433 |
 | 81 | [God of War](games/g/god_of_war.md) | 5,177 | 4.87 | 23 |
 | 82 | [SMITE](games/s/smite.md) | 5,133 | 4.43 | 741 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,074 | 4.57 | 499 |
@@ -91,7 +91,7 @@
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,483 | 4.65 | 331 |
 | 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,351 | 4.68 | 267 |
 | 91 | [Days Gone](games/d/days_gone.md) | 4,348 | 4.68 | 267 |
-| 92 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,243 | 4.36 | 824 |
+| 92 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,256 | 4.36 | 824 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,182 | 4.46 | 682 |
 | 94 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,181 | 4.51 | 607 |
 | 95 | [Paladins](games/p/paladins.md) | 4,093 | 4.32 | 875 |
@@ -142,7 +142,7 @@
 | 140 | [Ring of Pain](games/r/ring_of_pain.md) | 1,518 | 4.58 | 474 |
 | 141 | [XCOM® 2](games/x/xcom®_2.md) | 1,479 | 4.55 | 533 |
 | 142 | [OUTRIDERS](games/o/outriders.md) | 1,437 | 4.43 | 741 |
-| 143 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,427 | 4.76 | 134 |
+| 143 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,430 | 4.76 | 134 |
 | 144 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,400 | 4.61 | 401 |
 | 145 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,391 | 4.79 | 101 |
 | 146 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 1,373 | 4.82 | 70 |
@@ -165,8 +165,8 @@
 | 163 | [Ooblets](games/o/ooblets.md) | 1,054 | 4.88 | 17 |
 | 164 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,033 | 4.53 | 572 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,017 | 4.62 | 386 |
-| 166 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,013 | 4.56 | 515 |
-| 167 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,012 | 4.74 | 170 |
+| 165 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,017 | 4.74 | 170 |
+| 167 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,013 | 4.56 | 515 |
 | 168 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 953 |
 | 169 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,000 | 4.31 | 881 |
 | 170 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 995 | 4.25 | 935 |

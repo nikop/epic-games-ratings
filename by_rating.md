@@ -141,7 +141,7 @@
 | 134 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,482 | 101 |
 | 134 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,216 | 151 |
 | 134 | [Eternights](games/e/eternights.md) | 4.76 | 0 | 594 |
-| 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,427 | 143 |
+| 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,430 | 143 |
 | 134 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,272 | 71 |
 | 134 | [Journey](games/j/journey.md) | 4.76 | 0 | 594 |
 | 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 594 |
@@ -181,7 +181,7 @@
 | 170 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 906 | 177 |
 | 170 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 594 |
 | 170 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.74 | 0 | 594 |
-| 170 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,012 | 167 |
+| 170 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,017 | 165 |
 | 170 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 594 |
 | 184 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 481 | 230 |
 | 184 | [Diabotical](games/d/diabotical.md) | 4.73 | 303 | 266 |
@@ -436,7 +436,7 @@
 | 433 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 102 | 380 |
 | 433 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,526 | 25 |
 | 433 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 759 | 195 |
-| 433 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,315 | 80 |
+| 433 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,322 | 80 |
 | 433 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 594 |
 | 433 | [DOOM 3](games/d/doom_3.md) | 4.60 | 71 | 426 |
 | 433 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 136 | 350 |
@@ -476,7 +476,7 @@
 | 474 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 479 |
 | 474 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 66,470 | 11 |
 | 474 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.58 | 0 | 594 |
-| 474 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 13,214 | 33 |
+| 474 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 13,247 | 33 |
 | 474 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 274 | 281 |
 | 474 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.58 | 41 | 490 |
 | 474 | [GRIT](games/g/grit.md) | 4.58 | 0 | 594 |
@@ -519,7 +519,7 @@
 | 515 | [Aztez](games/a/aztez.md) | 4.56 | 21 | 579 |
 | 515 | [Costume Quest](games/c/costume_quest.md) | 4.56 | 0 | 594 |
 | 515 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 53 | 459 |
-| 515 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,013 | 166 |
+| 515 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,013 | 167 |
 | 515 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 547 |
 | 515 | [Hue](games/h/hue.md) | 4.56 | 0 | 594 |
 | 515 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 594 |
@@ -832,7 +832,7 @@
 | 824 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 547 |
 | 824 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 30 | 534 |
 | 824 | [Tacoma](games/t/tacoma.md) | 4.36 | 0 | 594 |
-| 824 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,243 | 92 |
+| 824 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,256 | 92 |
 | 824 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 594 |
 | 824 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.36 | 142 | 348 |
 | 824 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 0 | 594 |
@@ -1027,11 +1027,11 @@
 | 1,018 | [Pine](games/p/pine.md) | 4.15 | 0 | 594 |
 | 1,018 | [Relicta](games/r/relicta.md) | 4.15 | 206 | 306 |
 | 1,027 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.14 | 20 | 586 |
-| 1,027 | [Model Builder](games/m/model_builder.md) | 4.14 | 0 | 594 |
 | 1,027 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 594 |
 | 1,027 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 594 |
 | 1,027 | [The Bridge](games/t/the_bridge.md) | 4.14 | 0 | 594 |
 | 1,027 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 594 |
+| 1,032 | [Model Builder](games/m/model_builder.md) | 4.13 | 0 | 594 |
 | 1,033 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 594 |
 | 1,033 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 0 | 594 |
 | 1,033 | [SYNCED](games/s/synced.md) | 4.12 | 148 | 341 |
