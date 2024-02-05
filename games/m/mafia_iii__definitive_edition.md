@@ -1,7 +1,7 @@
 # Mafia III: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-iii-definitive-edition)  
 [View Rawdata](../../db/m/mafia_iii__definitive_edition.json)  
-Rating: 4.20 (Ranked 979)  
+Rating: 4.19 (Ranked 989)  
 Number of Ratings: 1,289  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 79  (Ranked 408)  
@@ -164,3 +164,4 @@ Diff (max vs sum): 66
 | 2024-02-01 | 4.19 | - | 78 | 501 |
 | 2024-02-02 | 4.20 | - | 78 | 502 |
 | 2024-02-04 | 4.20 | - | 79 | 503 |
+| 2024-02-05 | 4.19 | - | 79 | 503 |
