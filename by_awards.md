@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,048,250 | 4.29 | 893 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 717,104 | 4.46 | 683 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 717,718 | 4.46 | 683 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 328,355 | 4.68 | 267 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 318,330 | 4.68 | 267 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 272,685 | 4.88 | 17 |
@@ -39,7 +39,7 @@
 | 37 | [NBA 2K21](games/n/nba_2k21.md) | 11,829 | 4.39 | 794 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 11,683 | 4.77 | 121 |
 | 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,279 | 4.54 | 554 |
-| 40 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,973 | 4.61 | 401 |
+| 40 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,980 | 4.61 | 401 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,795 | 4.58 | 474 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 10,170 | 4.77 | 121 |
 | 43 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 9,657 | 4.50 | 628 |
@@ -56,7 +56,7 @@
 | 54 | [Remnant 2](games/r/remnant_2.md) | 7,950 | 4.71 | 203 |
 | 55 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,843 | 4.71 | 203 |
 | 56 | [Supraland](games/s/supraland.md) | 7,790 | 4.61 | 401 |
-| 57 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 7,581 | 4.69 | 244 |
+| 57 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 7,607 | 4.69 | 244 |
 | 58 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,559 | 4.75 | 153 |
 | 59 | [Sifu](games/s/sifu.md) | 7,358 | 4.82 | 70 |
 | 60 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 7,050 | 3.99 | 1,068 |
@@ -128,7 +128,7 @@
 | 126 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,967 | 4.66 | 307 |
 | 127 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,929 | 4.50 | 628 |
 | 128 | [Ghostrunner](games/g/ghostrunner.md) | 1,922 | 4.57 | 499 |
-| 129 | [Celeste](games/c/celeste.md) | 1,854 | 4.92 | 4 |
+| 129 | [Celeste](games/c/celeste.md) | 1,856 | 4.92 | 4 |
 | 130 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,843 | 4.55 | 533 |
 | 131 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,842 | 4.63 | 366 |
 | 132 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,828 | 4.63 | 366 |
@@ -136,7 +136,7 @@
 | 134 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,795 | 4.76 | 135 |
 | 134 | [World of Warships](games/w/world_of_warships.md) | 1,795 | 4.40 | 780 |
 | 136 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,755 | 4.86 | 32 |
-| 137 | [Conan Exiles](games/c/conan_exiles.md) | 1,726 | 4.54 | 554 |
+| 137 | [Conan Exiles](games/c/conan_exiles.md) | 1,730 | 4.54 | 554 |
 | 138 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,675 | 4.79 | 101 |
 | 139 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,603 | 4.87 | 23 |
 | 140 | [Ring of Pain](games/r/ring_of_pain.md) | 1,518 | 4.58 | 474 |
@@ -223,7 +223,7 @@
 | 221 | [Surviving Mars](games/s/surviving_mars.md) | 550 | 4.61 | 401 |
 | 222 | [Terraforming Mars](games/t/terraforming_mars.md) | 549 | 4.53 | 572 |
 | 223 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 539 | 4.40 | 780 |
-| 224 | [Severed Steel](games/s/severed_steel.md) | 523 | 4.69 | 244 |
+| 224 | [Severed Steel](games/s/severed_steel.md) | 525 | 4.69 | 244 |
 | 225 | [Loop Hero](games/l/loop_hero.md) | 508 | 4.67 | 292 |
 | 226 | [Second Extinction™](games/s/second_extinction™.md) | 487 | 4.06 | 1,055 |
 | 227 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 486 | 4.57 | 499 |
@@ -375,9 +375,9 @@
 | 371 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 110 | 4.74 | 170 |
 | 374 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 109 | 4.33 | 865 |
 | 374 | [Tropico 6](games/t/tropico_6.md) | 109 | 4.65 | 331 |
-| 376 | [Armored Warfare](games/a/armored_warfare.md) | 106 | 4.07 | 1,050 |
-| 376 | [Barony](games/b/barony.md) | 106 | 4.72 | 198 |
-| 376 | [Verdun](games/v/verdun.md) | 106 | 4.53 | 572 |
+| 376 | [Barony](games/b/barony.md) | 107 | 4.72 | 198 |
+| 377 | [Armored Warfare](games/a/armored_warfare.md) | 106 | 4.07 | 1,050 |
+| 377 | [Verdun](games/v/verdun.md) | 106 | 4.53 | 572 |
 | 379 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,086 |
 | 380 | [Aimlabs](games/a/aimlabs.md) | 102 | 4.60 | 434 |
 | 381 | [Darksiders III](games/d/darksiders_iii.md) | 101 | 4.49 | 644 |
