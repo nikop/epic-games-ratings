@@ -2,7 +2,7 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 970,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 179,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -2479,10 +2479,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 1895,
       "NumberOfAwardsMax": 761
+    },
+    {
+      "Time": "2024-02-06T01:38:00.0583677+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1897,
+      "NumberOfAwardsMax": 761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1895,
+  "NumberOfAwards": 1897,
   "NumberOfAwardsMax": 761,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2502,7 +2508,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 88
+      "Count": 90
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11791,9 +11797,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-02-05T19:57:43.1380421+00:00",
+  "LastChanged": "2024-02-06T01:38:00.0583675+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:17.0757924+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:57:49.5280573+00:00",
-  "LastUpdate_Ratings": "2024-02-05T23:00:37.6709662+00:00",
+  "LastUpdate_Ratings": "2024-02-06T01:38:00.058368+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:17.0758829+00:00"
 }

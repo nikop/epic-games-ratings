@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 682,
+  "Ranking_Rating": 670,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 38,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 617,
   "RatingHistory": [
     {
@@ -499,6 +499,12 @@
     {
       "Time": "2024-01-20T03:59:27.4592536+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-02-06T01:39:52.6150823+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
     }
@@ -31062,9 +31068,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
-  "LastChanged": "2024-01-20T03:59:27.4592532+00:00",
+  "LastChanged": "2024-02-06T01:39:52.6150821+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:17.1075913+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:17.2049951+00:00",
-  "LastUpdate_Ratings": "2024-02-05T23:59:24.1488648+00:00",
+  "LastUpdate_Ratings": "2024-02-06T01:39:52.6150826+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:17.1077455+00:00"
 }

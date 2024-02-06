@@ -5,12 +5,12 @@ Rating: 4.29 (Ranked 893)
 Number of Ratings: 841  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 168  (Ranked 331)  
-Sum: 1,424 (Ranked 253)  
+Sum: 1,425 (Ranked 253)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 168 |
-| This game has Diverse Characters | 165 |
+| This game has Diverse Characters | 166 |
 | This game has Competitive Players | 148 |
 | This game is Relaxing | 148 |
 | This game is Highly Recommended | 142 |
@@ -271,3 +271,4 @@ Diff (max vs sum): 78
 | 2024-01-31 | 4.29 | - | 168 | 1,419 |
 | 2024-02-01 | 4.29 | - | 168 | 1,421 |
 | 2024-02-04 | 4.29 | - | 168 | 1,424 |
+| 2024-02-06 | 4.29 | - | 168 | 1,425 |
