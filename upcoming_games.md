@@ -148,6 +148,7 @@
 | [Alliance of the Sacred Suns](games/a/alliance_of_the_sacred_suns.md) | 2024-12-31 | - |  | - | - |
 | [Arena Tails](games/4/484b67c9648047c9a26f8c34a65b6624.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
+| [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-12-31 | - |  | - | - |
 | [Beyond These Stars](games/b/beyond_these_stars.md) | 2024-12-31 | - |  | - | - |
 | [Blacksmith Master](games/b/blacksmith_master.md) | 2024-12-31 | - |  | - | - |
 | [Capital Command](games/c/capital_command.md) | 2024-12-31 | - |  | - | - |

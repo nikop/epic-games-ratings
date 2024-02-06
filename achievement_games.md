@@ -95,7 +95,7 @@
 | [Epic World - Hunt For Quest](games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 2023-12-07 | 10 (1,000 XP) | 3 | - | - |
 | [Funtoon's World](games/a/a7ec33941949459cab07e39c65ca4309.md) | 2023-12-07 | 6 (1,000 XP) | 10 | - | 0 |
 | [Super Kids Racing](games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 2023-12-07 | 8 (1,000 XP) | 8 | - | 0 |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 12,320 | 4.69 | 200 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 12,320 | 4.69 | 201 |
 | [NINJA KATO 1](games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 2023-12-07 | 8 (1,000 XP) | 7 | - | - |
 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 2023-12-07 | 5 (1,000 XP) | 878 | - | 0 |
 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 2023-12-07 | 52 (1,000 XP) | 24 | - | 0 |
@@ -231,7 +231,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 19 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 4,673 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 4,730 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,331 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 350,363 | 4.21 | 87 |
@@ -531,7 +531,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 49 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 84 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 32 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,596,050 | 4.38 | 1,324 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,596,050 | 4.38 | 1,327 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,311 | - | 0 |
@@ -591,7 +591,7 @@
 | [Loretta](games/l/loretta.md) | 2023-02-16 | 22 (1,000 XP) | 12 | - | 0 |
 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 2023-02-15 | 46 (1,000 XP) | 43 | - | 0 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 2023-02-15 | 29 (1,000 XP) | 12,560 | 4.20 | 0 |
-| [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 2023-02-15 | 35 (1,000 XP) | 19,880 | 4.55 | 759 |
+| [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 2023-02-15 | 35 (1,000 XP) | 19,880 | 4.55 | 760 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 16,724 | 4.54 | 20 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 4,255 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 543 | - | 0 |
@@ -786,7 +786,7 @@
 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 2022-04-01 | 30 (1,000 XP) | 90 | - | 0 |
 | [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 39 (1,180 XP) | 299,089 | 4.07 | 215 |
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 2,071 | 4.44 | 29 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 566,381 | 4.89 | 9,593 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 566,381 | 4.89 | 9,611 |
 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 2022-03-18 | 31 (1,000 XP) | 0 | 4.67 | 0 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2022-03-18 | 46 (1,000 XP) | 82,659 | 4.51 | 1,063 |
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 2022-03-16 | 49 (1,000 XP) | 0 | 4.37 | 0 |
@@ -828,7 +828,7 @@
 | [Saint Kotar](games/s/saint_kotar.md) | 2021-10-28 | 45 (1,000 XP) | 24 | - | 0 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 2021-10-28 | 14 (1,000 XP) | 25,436 | 4.22 | 0 |
 | [Aeon Must Die!](games/a/aeon_must_die!.md) | 2021-10-27 | 35 (1,000 XP) | 3,662 | - | 0 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 133,791 | 4.69 | 8,140 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 133,791 | 4.69 | 8,145 |
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 100,414 | 4.28 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 145 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 113 | - | 0 |

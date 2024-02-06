@@ -84,7 +84,7 @@
 | [Stone Guardian](games/9/97e89a0da1004cdfb0661afb798fc495.md) | 2023-12-07 | 16 (1,000 XP) | 7 | - | - |
 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 2023-12-09 | 5 (1,000 XP) | 11 | - | 0 |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | 36 (1,000 XP) | 58 | - | 0 |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 12,320 | 4.69 | 200 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 12,320 | 4.69 | 201 |
 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 432,662 | 4.34 | 37 |
 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-21 | 8 (1,000 XP) | 10,672 | - | 0 |
 | [Asterix and Obelix Heroes](games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 2023-10-05 | 22 (1,000 XP) | 43 | - | 0 |
@@ -253,7 +253,7 @@
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 11,552 | 4.20 | 150 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 3,165 | - | 0 |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 46,532 | 4.50 | 9,698 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 4,673 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 4,730 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 3,623 | 4.19 | 25 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 340 | 4.83 | 0 |
 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2024-01-23 | 27 (1,000 XP) | 2 | - | - |
