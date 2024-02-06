@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 780,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 80,
+  "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 35,
@@ -13969,10 +13969,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 15101,
       "NumberOfAwardsMax": 1798
+    },
+    {
+      "Time": "2024-02-06T12:58:50.832733+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 16444,
+      "NumberOfAwardsMax": 1798
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15101,
+  "NumberOfAwards": 16444,
   "NumberOfAwardsMax": 1798,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -14028,7 +14034,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1281
+      "Count": 1343
     },
     {
       "Text": "This game is Relaxing",
@@ -33731,9 +33737,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-02-06T07:57:11.2666152+00:00",
+  "LastChanged": "2024-02-06T12:58:50.8327329+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:45.7098664+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:00.970839+00:00",
-  "LastUpdate_Ratings": "2024-02-06T11:00:14.0836128+00:00",
+  "LastUpdate_Ratings": "2024-02-06T12:58:50.8327335+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:45.7099618+00:00"
 }
