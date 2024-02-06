@@ -4,7 +4,7 @@
   "ProductSlug": "severed-steel",
   "Ranking_Rating": 244,
   "Ranking_Popularity": 224,
-  "Ranking_PopularitySum": 324,
+  "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 3925,
@@ -1149,18 +1149,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 636,
       "NumberOfAwardsMax": 523
+    },
+    {
+      "Time": "2024-02-06T02:58:25.6588682+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 638,
+      "NumberOfAwardsMax": 525
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 636,
-  "NumberOfAwardsMax": 523,
+  "NumberOfAwards": 638,
+  "NumberOfAwardsMax": 525,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 523
+      "Count": 525
     },
     {
       "Text": "This game is Great for Beginners",
@@ -34192,9 +34198,9 @@
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2024-02-04T18:58:29.6829389+00:00",
+  "LastChanged": "2024-02-06T02:58:25.658868+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:36.0069074+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:58:15.7452536+00:00",
-  "LastUpdate_Ratings": "2024-02-06T02:12:38.9699555+00:00",
+  "LastUpdate_Ratings": "2024-02-06T02:58:25.6588685+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:36.0070655+00:00"
 }
