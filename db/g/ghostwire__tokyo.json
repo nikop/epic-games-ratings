@@ -4,7 +4,7 @@
   "ProductSlug": "ghostwire-tokyo",
   "Ranking_Rating": 645,
   "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 112,
+  "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -4516,18 +4516,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 8690,
       "NumberOfAwardsMax": 6543
+    },
+    {
+      "Time": "2024-02-06T11:59:52.252914+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 8739,
+      "NumberOfAwardsMax": 6592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8690,
-  "NumberOfAwardsMax": 6543,
+  "NumberOfAwards": 8739,
+  "NumberOfAwardsMax": 6592,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6543
+      "Count": 6592
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4601,8 +4607,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2024-02-06T07:59:59.1858279+00:00",
+  "LastChanged": "2024-02-06T11:59:52.2529138+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:19.5014803+00:00",
-  "LastUpdate_Ratings": "2024-02-06T10:58:57.7246763+00:00",
+  "LastUpdate_Ratings": "2024-02-06T11:59:52.2529143+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:35.5497188+00:00"
 }

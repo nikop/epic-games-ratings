@@ -3,8 +3,8 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 1033,
-  "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 335,
+  "Ranking_Popularity": 339,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 65,
@@ -1957,18 +1957,24 @@
       "Rating": 4.12,
       "NumberOfAwards": 568,
       "NumberOfAwardsMax": 148
+    },
+    {
+      "Time": "2024-02-06T11:58:19.3912846+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 570,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 568,
-  "NumberOfAwardsMax": 148,
+  "NumberOfAwards": 570,
+  "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 148
+      "Count": 150
     },
     {
       "Text": "This game has a Competitive Community",
@@ -18621,9 +18627,9 @@
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-02-06T07:58:26.8875619+00:00",
+  "LastChanged": "2024-02-06T11:58:19.3912844+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:26.6316904+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:26.7066591+00:00",
-  "LastUpdate_Ratings": "2024-02-06T10:57:21.0534539+00:00",
+  "LastUpdate_Ratings": "2024-02-06T11:58:19.3912849+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:26.6317544+00:00"
 }
