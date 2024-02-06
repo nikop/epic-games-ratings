@@ -57,6 +57,7 @@
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | - |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | - |  | - | - |
+| [Breachway](games/b/breachway.md) | 2024-03-22 | - |  | - | - |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 0 | - | - |
 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-26 | - |  | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
@@ -146,7 +147,6 @@
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
 | [Beyond These Stars](games/b/beyond_these_stars.md) | 2024-12-31 | - |  | - | - |
 | [Blacksmith Master](games/b/blacksmith_master.md) | 2024-12-31 | - |  | - | - |
-| [Breachway](games/b/breachway.md) | 2024-12-31 | - |  | - | - |
 | [Capital Command](games/c/capital_command.md) | 2024-12-31 | - |  | - | - |
 | [Chain Crisis](games/1/181df30b672e4037a677b3819b17362c.md) | 2024-12-31 | - |  | - | - |
 | [Commandos: Origins](games/7/7c64b0352fb7449082d7331141b36d97.md) | 2024-12-31 | - |  | - | - |

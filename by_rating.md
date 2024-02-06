@@ -43,7 +43,7 @@
 | 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,884 | 76 |
 | 39 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 42 | 488 |
 | 39 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 594 |
-| 39 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.85 | 14,445 | 31 |
+| 39 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.85 | 14,452 | 31 |
 | 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 227 | 293 |
 | 39 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 202 | 308 |
 | 39 | [Subnautica](games/s/subnautica.md) | 4.85 | 805 | 190 |
@@ -251,7 +251,7 @@
 | 243 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,103 | 53 |
 | 243 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.69 | 0 | 594 |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 7,607 | 57 |
-| 243 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,813 | 48 |
+| 243 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,823 | 48 |
 | 243 | [House Flipper](games/h/house_flipper.md) | 4.69 | 338 | 259 |
 | 243 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.69 | 43 | 486 |
 | 243 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,254 | 150 |
@@ -264,7 +264,7 @@
 | 243 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 594 |
 | 243 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 594 |
 | 243 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,104 | 156 |
-| 243 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 200 | 309 |
+| 243 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 200 | 310 |
 | 243 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 887 | 180 |
 | 267 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.68 | 0 | 594 |
 | 267 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,356 | 90 |
@@ -309,8 +309,8 @@
 | 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 0 | 594 |
 | 307 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 91 | 399 |
 | 307 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 223 | 294 |
-| 307 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,863 | 61 |
-| 307 | [Crashlands](games/c/crashlands.md) | 4.66 | 198 | 310 |
+| 307 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,866 | 61 |
+| 307 | [Crashlands](games/c/crashlands.md) | 4.66 | 198 | 311 |
 | 307 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 179 | 321 |
 | 307 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 123 | 362 |
 | 307 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,314 | 149 |
@@ -789,7 +789,7 @@
 | 780 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 594 |
 | 780 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.40 | 96 | 392 |
 | 780 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 415 |
-| 780 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.40 | 198 | 310 |
+| 780 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.40 | 201 | 309 |
 | 780 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 539 | 223 |
 | 780 | [The Riflemen](games/t/the_riflemen.md) | 4.40 | 0 | 594 |
 | 780 | [World of Warships](games/w/world_of_warships.md) | 4.40 | 1,798 | 133 |
@@ -1104,9 +1104,9 @@
 | 1,101 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 594 |
 | 1,101 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.82 | 0 | 594 |
 | 1,104 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.81 | 0 | 594 |
-| 1,104 | [Spelldrifter](games/s/spelldrifter.md) | 3.81 | 0 | 594 |
-| 1,106 | [Blood of Steel](games/b/blood_of_steel.md) | 3.80 | 0 | 594 |
-| 1,106 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 594 |
+| 1,105 | [Blood of Steel](games/b/blood_of_steel.md) | 3.80 | 0 | 594 |
+| 1,105 | [Spelldrifter](games/s/spelldrifter.md) | 3.80 | 0 | 594 |
+| 1,105 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 594 |
 | 1,108 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.79 | 0 | 594 |
 | 1,109 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 594 |
 | 1,110 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.73 | 0 | 594 |
