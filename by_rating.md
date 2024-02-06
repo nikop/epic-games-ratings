@@ -156,7 +156,7 @@
 | 153 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 7,559 | 58 |
 | 153 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 594 |
 | 153 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.75 | 0 | 594 |
-| 153 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 960 | 174 |
+| 153 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 963 | 174 |
 | 153 | [Haven](games/h/haven.md) | 4.75 | 0 | 594 |
 | 153 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.75 | 33,641 | 16 |
 | 153 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 594 |
@@ -327,7 +327,7 @@
 | 307 | [SOMA](games/s/soma.md) | 4.66 | 0 | 594 |
 | 307 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.66 | 0 | 594 |
 | 307 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.66 | 79 | 409 |
-| 307 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,126 | 72 |
+| 307 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,127 | 72 |
 | 307 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 237 |
 | 307 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 25 | 558 |
 | 331 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 594 |
@@ -343,7 +343,7 @@
 | 331 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 564 |
 | 331 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.65 | 0 | 594 |
 | 331 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 36 | 510 |
-| 331 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 68 | 430 |
+| 331 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 68 | 431 |
 | 331 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 594 |
 | 331 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 0 | 594 |
 | 331 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 890 | 179 |
@@ -441,7 +441,7 @@
 | 434 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 594 |
 | 434 | [DOOM 3](games/d/doom_3.md) | 4.60 | 71 | 426 |
 | 434 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 136 | 350 |
-| 434 | [GRIME](games/g/grime.md) | 4.60 | 68 | 430 |
+| 434 | [GRIME](games/g/grime.md) | 4.60 | 68 | 431 |
 | 434 | [MudRunner](games/m/mudrunner.md) | 4.60 | 311 | 263 |
 | 434 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 788 | 192 |
 | 434 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 0 | 594 |
@@ -615,7 +615,7 @@
 | 607 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 0 | 594 |
 | 607 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 155,870 | 7 |
 | 607 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 335 | 261 |
-| 607 | [GigaBash](games/g/gigabash.md) | 4.51 | 68 | 430 |
+| 607 | [GigaBash](games/g/gigabash.md) | 4.51 | 70 | 429 |
 | 607 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 0 | 594 |
 | 607 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.51 | 86 | 403 |
 | 607 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 594 |
@@ -778,7 +778,7 @@
 | 766 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 204 | 307 |
 | 766 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.41 | 0 | 594 |
 | 766 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 594 |
-| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.41 | 69 | 429 |
+| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.41 | 69 | 430 |
 | 780 | [9Lives Arena](games/9/9lives_arena.md) | 4.40 | 0 | 594 |
 | 780 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 594 |
 | 780 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 594 |
@@ -964,7 +964,7 @@
 | 962 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.22 | 0 | 594 |
 | 962 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 43 | 486 |
 | 962 | [Cyber Hook](games/c/cyber_hook.md) | 4.22 | 0 | 594 |
-| 962 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 761 | 194 |
+| 962 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 765 | 194 |
 | 962 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.22 | 0 | 594 |
 | 962 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 594 |
 | 962 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 242 | 286 |

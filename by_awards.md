@@ -71,7 +71,7 @@
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,314 | 4.67 | 292 |
 | 70 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,301 | 4.78 | 111 |
 | 71 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,272 | 4.76 | 135 |
-| 72 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,126 | 4.66 | 307 |
+| 72 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,127 | 4.66 | 307 |
 | 73 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,043 | 4.64 | 352 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 5,952 | 4.29 | 893 |
 | 75 | [Prey](games/p/prey.md) | 5,904 | 4.63 | 366 |
@@ -173,7 +173,7 @@
 | 171 | [Sonic Mania](games/s/sonic_mania.md) | 994 | 4.78 | 111 |
 | 172 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 990 | 4.49 | 644 |
 | 173 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 973 | 4.54 | 554 |
-| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 960 | 4.75 | 153 |
+| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 963 | 4.75 | 153 |
 | 175 | [Riders Republic](games/r/riders_republic.md) | 929 | 4.75 | 153 |
 | 176 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 917 | 4.45 | 699 |
 | 177 | [The Long Dark](games/t/the_long_dark.md) | 906 | 4.74 | 170 |
@@ -193,7 +193,7 @@
 | 191 | [Core](games/c/core.md) | 790 | 4.35 | 840 |
 | 192 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 788 | 4.60 | 434 |
 | 193 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 773 | 4.87 | 23 |
-| 194 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 761 | 4.22 | 962 |
+| 194 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 765 | 4.22 | 962 |
 | 195 | [Brawlhalla](games/b/brawlhalla.md) | 760 | 4.60 | 434 |
 | 196 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 759 | 4.55 | 533 |
 | 197 | [Neon Abyss](games/n/neon_abyss.md) | 740 | 4.68 | 267 |
@@ -428,10 +428,10 @@
 | 426 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 71 | 4.41 | 766 |
 | 426 | [DOOM 3](games/d/doom_3.md) | 71 | 4.60 | 434 |
 | 426 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 71 | 4.51 | 607 |
-| 429 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 69 | 4.41 | 766 |
-| 430 | [GigaBash](games/g/gigabash.md) | 68 | 4.51 | 607 |
-| 430 | [GRIME](games/g/grime.md) | 68 | 4.60 | 434 |
-| 430 | [Symphony of War](games/s/symphony_of_war.md) | 68 | 4.65 | 331 |
+| 429 | [GigaBash](games/g/gigabash.md) | 70 | 4.51 | 607 |
+| 430 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 69 | 4.41 | 766 |
+| 431 | [GRIME](games/g/grime.md) | 68 | 4.60 | 434 |
+| 431 | [Symphony of War](games/s/symphony_of_war.md) | 68 | 4.65 | 331 |
 | 433 | [Human Resource Machine](games/h/human_resource_machine.md) | 66 | 4.61 | 401 |
 | 433 | [Session: Skate Sim](games/s/session__skate_sim.md) | 66 | 4.67 | 292 |
 | 435 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.48 | 662 |
