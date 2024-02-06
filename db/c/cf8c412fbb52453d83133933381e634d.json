@@ -2,7 +2,7 @@
   "ID": "cf8c412fbb52453d83133933381e634d",
   "Name": "CyberTitans",
   "ProductSlug": "cybertitans-b6acef",
-  "Ranking_Rating": 918,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 856,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2024-01-04T16:59:06.1673639+00:00",
@@ -65,6 +65,12 @@
       "Rating": 4.27,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-06T16:57:40.1624332+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -83,8 +89,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T10:57:26.2171381+00:00",
   "FirstSeenRating": "2024-01-04T16:59:06.1673636+00:00",
-  "LastChanged": "2024-01-23T20:02:30.4535881+00:00",
+  "LastChanged": "2024-02-06T16:57:40.162433+00:00",
   "LastUpdate_AppInfo": "2024-01-31T02:12:43.9692294+00:00",
-  "LastUpdate_Ratings": "2024-02-06T15:00:11.1442254+00:00",
+  "LastUpdate_Ratings": "2024-02-06T16:57:40.1624336+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:38.6344351+00:00"
 }

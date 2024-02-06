@@ -2,7 +2,7 @@
   "ID": "c9be94273fe244c08032ca493ad87434",
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "ProductSlug": "assassins-creed-syndicate",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 856,
@@ -3954,10 +3954,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1169,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-02-06T16:59:13.4633049+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1170,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1169,
+  "NumberOfAwards": 1170,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3971,7 +3977,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4045,8 +4051,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2024-02-06T15:58:23.4343721+00:00",
+  "LastChanged": "2024-02-06T16:59:13.4633047+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:58:15.465992+00:00",
-  "LastUpdate_Ratings": "2024-02-06T15:58:23.4343728+00:00",
+  "LastUpdate_Ratings": "2024-02-06T16:59:13.4633053+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:10.2410008+00:00"
 }
