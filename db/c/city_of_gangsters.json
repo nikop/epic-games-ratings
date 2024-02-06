@@ -2,9 +2,9 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 906,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 90,
@@ -1070,10 +1070,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 280,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2024-02-06T17:58:11.1004292+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280,
+  "NumberOfAwards": 281,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1087,7 +1093,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
@@ -34059,9 +34065,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-02-03T21:59:01.6475465+00:00",
+  "LastChanged": "2024-02-06T17:58:11.100429+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:13.6174405+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:27.7679207+00:00",
-  "LastUpdate_Ratings": "2024-02-06T16:57:16.5688455+00:00",
+  "LastUpdate_Ratings": "2024-02-06T17:58:11.1004295+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:13.6176144+00:00"
 }
