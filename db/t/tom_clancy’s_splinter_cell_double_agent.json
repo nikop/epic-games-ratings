@@ -2,7 +2,7 @@
   "ID": "1cdfbaaccaab490c9305e86496c7f3fa",
   "Name": "Tom Clancy\u2019s Splinter Cell Double Agent",
   "ProductSlug": "splinter-cell-double-agent",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:32.5518343+00:00",
@@ -87,6 +87,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-06T22:57:15.408029+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -105,8 +111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.3101898+00:00",
   "FirstSeenRating": "2023-03-31T05:57:32.5518339+00:00",
-  "LastChanged": "2024-02-03T22:58:54.6562361+00:00",
+  "LastChanged": "2024-02-06T22:57:15.4080288+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:57:48.0169024+00:00",
-  "LastUpdate_Ratings": "2024-02-06T21:00:14.089697+00:00",
+  "LastUpdate_Ratings": "2024-02-06T22:57:15.4080295+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:57.3017034+00:00"
 }
