@@ -213,8 +213,8 @@ Completed: 79 (0.11%) (Ranked 318)
 | 2024-01-26 | 69,075 | 79 |
 | 2024-01-27 | 69,167 | 79 |
 ## Awards
-Max (Extremely Fun): 20  (Ranked 586)  
-Sum: 20 (Ranked 586)  
+Max (Extremely Fun): 20  (Ranked 587)  
+Sum: 20 (Ranked 587)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

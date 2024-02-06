@@ -3,8 +3,8 @@
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 936,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 61,
@@ -336,18 +336,24 @@
       "Rating": 4.25,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-02-06T21:58:16.86952+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 771711,
@@ -33148,9 +33154,9 @@
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
-  "LastChanged": "2024-01-29T19:57:49.2322922+00:00",
+  "LastChanged": "2024-02-06T21:58:16.8695199+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:16.7951827+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:58:08.0202902+00:00",
-  "LastUpdate_Ratings": "2024-02-06T20:57:52.9962616+00:00",
+  "LastUpdate_Ratings": "2024-02-06T21:58:16.8695205+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:16.7953211+00:00"
 }
