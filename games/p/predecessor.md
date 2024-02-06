@@ -3,12 +3,12 @@
 [View Rawdata](../../db/p/predecessor.json)  
 Rating: 4.30 (Ranked 888)  
 ## Awards
-Max (Diverse Characters): 353  (Ranked 255)  
-Sum: 2,007 (Ranked 226)  
-Diff (max vs sum): 29  
+Max (Diverse Characters): 357  (Ranked 253)  
+Sum: 2,011 (Ranked 226)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 353 |
+| This game has Diverse Characters | 357 |
 | This game is Highly Recommended | 261 |
 | This game has Challenging Combat | 253 |
 | This game has Amazing Characters | 242 |
@@ -348,4 +348,4 @@ Diff (max vs sum): 29
 | 2024-02-03 | 4.31 | 350 | 1,979 |
 | 2024-02-04 | 4.31 | 350 | 1,990 |
 | 2024-02-05 | 4.31 | 353 | 2,003 |
-| 2024-02-06 | 4.30 | 353 | 2,007 |
+| 2024-02-06 | 4.30 | 357 | 2,011 |

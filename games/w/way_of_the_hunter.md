@@ -86,15 +86,15 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-26 | 2,770 | 0 |
 | 2024-01-27 | 2,781 | 0 |
 ## Awards
-Max (Highly Recommended): 69  (Ranked 430)  
-Sum: 406 (Ranked 363)  
-Diff (max vs sum): 67  
+Max (Highly Recommended): 70  (Ranked 429)  
+Sum: 409 (Ranked 363)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 69 |
+| This game is Highly Recommended | 70 |
 | This game is Great for Beginners | 63 |
-| This game has Quickly Understood Controls | 58 |
-| This game is Relaxing | 53 |
+| This game has Quickly Understood Controls | 59 |
+| This game is Relaxing | 54 |
 | This game is Extremely Fun | 48 |
 | This game has Amazing Storytelling | 46 |
 | This game has Amazing Characters | 46 |
@@ -327,3 +327,4 @@ Diff (max vs sum): 67
 | 2024-02-02 | 4.41 | - | 68 | 404 |
 | 2024-02-03 | 4.41 | - | 68 | 405 |
 | 2024-02-04 | 4.41 | - | 69 | 406 |
+| 2024-02-06 | 4.41 | - | 70 | 409 |
