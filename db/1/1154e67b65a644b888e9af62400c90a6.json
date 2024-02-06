@@ -3,7 +3,7 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 608,
-  "Ranking_Popularity": 119,
+  "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -4343,18 +4343,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 6361,
       "NumberOfAwardsMax": 2190
+    },
+    {
+      "Time": "2024-02-06T20:57:16.717715+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6383,
+      "NumberOfAwardsMax": 2212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6361,
-  "NumberOfAwardsMax": 2190,
+  "NumberOfAwards": 6383,
+  "NumberOfAwardsMax": 2212,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2190
+      "Count": 2212
     },
     {
       "Text": "This game is Relaxing",
@@ -4435,8 +4441,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-02-06T13:59:14.7844829+00:00",
+  "LastChanged": "2024-02-06T20:57:16.7177148+00:00",
   "LastUpdate_AppInfo": "2024-01-31T01:38:17.7189105+00:00",
-  "LastUpdate_Ratings": "2024-02-06T18:59:41.0836953+00:00",
+  "LastUpdate_Ratings": "2024-02-06T20:57:16.7177152+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:27.7461366+00:00"
 }
