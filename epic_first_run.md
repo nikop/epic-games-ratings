@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Project Wunderwaffe](games/5/510596dec35f49d084d339157539ef52.md) | 2099-01-01 | - |  | - | - |
 | [Alpha League](games/e/e7d3d2bfe6a44e2cab8b2348f1572591.md) | 2024-02-23 | - |  | - | - |
 | [DURATION](games/e/ef7f37c5751047a9bcc79a379bc79156.md) | 2024-02-29 | - |  | - | - |
 | [Singularity](games/d/df8d7b9bd9dc461991b6dd9429e11373.md) | 2099-01-01 | - |  | - | - |

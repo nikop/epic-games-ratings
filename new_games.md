@@ -63,7 +63,7 @@
 | [Title_Pending](games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 2024-01-19 | 24 (1,000 XP) | 40 | - | 0 |
 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 2024-01-18 | 18 (1,000 XP) | 119,331 | 4.47 | 0 |
 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 2024-01-18 | 23 (1,000 XP) | 111 | - | 0 |
-| [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 2024-01-18 | - |  | 4.77 | 404 |
+| [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 2024-01-18 | - |  | 4.77 | 432 |
 | [Spy 1 Lovecraftian](games/e/e74a84ea2b28441d84419c6c89c090bf.md) | 2024-01-18 | - |  | - | - |
 | [Mahjong World Contest 2](games/f/fb58d63ed83845d5b980ad46f9606eac.md) | 2024-01-17 | - |  | - | 0 |
 | [CYBER BACKROOM](games/6/64befde675a84adeb83ad9d69502ff75.md) | 2024-01-17 | - |  | - | 0 |
@@ -90,4 +90,3 @@
 | [Mahjong Royal Towers](games/c/c1f4bc1c1b004134b8af9d05d48215c1.md) | 2024-01-08 | - |  | - | 0 |
 | [Dragon Throne: Battle of Red Cliffs](games/5/5ca398e6eb974fd08748c29f79453ea3.md) | 2024-01-08 | - |  | - | 0 |
 | [Jewel Run](games/8/84c8e6d18b31451db1a5557c09f2ea6a.md) | 2024-01-08 | - |  | - | 0 |
-| [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 11 | - | - |
