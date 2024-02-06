@@ -1,11 +1,11 @@
 # Warface: Clutch
 [Store](https://store.epicgames.com/en-US/p/warface)  
 [View Rawdata](../../db/w/warface.json)  
-Rating: 3.90 (Ranked 1,089)  
+Rating: 3.90 (Ranked 1,090)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 486  (Ranked 227)  
-Sum: 3,517 (Ranked 177)  
+Sum: 3,518 (Ranked 177)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 50
 | This game has Amazing Storytelling | 388 |
 | This game has Quickly Understood Controls | 375 |
 | This game has Amazing Characters | 370 |
-| This game is Extremely Fun | 357 |
+| This game is Extremely Fun | 358 |
 | This game has a Competitive Community | 322 |
 | This game is Great for Quick Sessions | 277 |
 | This game is Great for Beginners | 146 |
@@ -335,3 +335,4 @@ Diff (max vs sum): 50
 | 2024-02-02 | 3.90 | - | 485 | 3,514 |
 | 2024-02-03 | 3.90 | - | 485 | 3,516 |
 | 2024-02-04 | 3.90 | - | 486 | 3,517 |
+| 2024-02-06 | 3.90 | - | 486 | 3,518 |

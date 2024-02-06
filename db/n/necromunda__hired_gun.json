@@ -2,7 +2,7 @@
   "ID": "8c8bd44c4f8a4948800b27d9c1248c0c",
   "Name": "Necromunda: Hired Gun",
   "ProductSlug": "necromunda-hired-gun",
-  "Ranking_Rating": 1059,
+  "Ranking_Rating": 1063,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.05,
+  "Rating": 4.04,
   "NumberOfRatings": 112,
   "RatingHistory": [
     {
@@ -385,6 +385,12 @@
       "Rating": 4.05,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-06T15:58:13.9584488+00:00",
+      "Rating": 4.04,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -402,8 +408,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:25.444395+00:00",
-  "LastChanged": "2024-01-04T18:58:40.8763662+00:00",
+  "LastChanged": "2024-02-06T15:58:13.9584486+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:26.8483222+00:00",
-  "LastUpdate_Ratings": "2024-02-06T14:57:08.0739+00:00",
+  "LastUpdate_Ratings": "2024-02-06T15:58:13.9584492+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.9914495+00:00"
 }

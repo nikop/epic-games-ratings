@@ -2,7 +2,7 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface: Clutch",
   "ProductSlug": "warface",
-  "Ranking_Rating": 1089,
+  "Ranking_Rating": 1090,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 856,
@@ -4630,10 +4630,16 @@
       "Rating": 3.9,
       "NumberOfAwards": 3517,
       "NumberOfAwardsMax": 486
+    },
+    {
+      "Time": "2024-02-06T15:59:46.2086739+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 3518,
+      "NumberOfAwardsMax": 486
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3517,
+  "NumberOfAwards": 3518,
   "NumberOfAwardsMax": 486,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4695,7 +4701,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 357
+      "Count": 358
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4715,8 +4721,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2024-02-04T02:58:21.4643043+00:00",
+  "LastChanged": "2024-02-06T15:59:46.2086737+00:00",
   "LastUpdate_AppInfo": "2024-02-04T04:57:15.1445697+00:00",
-  "LastUpdate_Ratings": "2024-02-06T14:58:35.3516526+00:00",
+  "LastUpdate_Ratings": "2024-02-06T15:59:46.2086746+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:00.681334+00:00"
 }
