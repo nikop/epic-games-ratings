@@ -220,17 +220,17 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-26 | 98,395 | 0 |
 | 2024-01-27 | 98,703 | 0 |
 ## Awards
-Max (Relaxing): 1,795  (Ranked 134)  
-Sum: 15,081 (Ranked 80)  
-Diff (max vs sum): 54  
+Max (Relaxing): 1,798  (Ranked 133)  
+Sum: 15,096 (Ranked 80)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 1,795 |
+| This game is Relaxing | 1,798 |
 | This game has Quickly Understood Controls | 1,789 |
-| This game has Challenging Combat | 1,776 |
+| This game has Challenging Combat | 1,783 |
 | This game is Highly Recommended | 1,742 |
 | This game is Extremely Fun | 1,741 |
-| This game has Competitive Players | 1,722 |
+| This game has Competitive Players | 1,727 |
 | This game has Realistic Visuals | 1,594 |
 | This game has Amazing Storytelling | 1,496 |
 | This game has a Competitive Community | 1,426 |
@@ -628,3 +628,4 @@ Diff (max vs sum): 54
 | 2024-02-03 | 4.40 | - | 1,789 | 15,030 |
 | 2024-02-04 | 4.40 | - | 1,795 | 15,059 |
 | 2024-02-05 | 4.40 | - | 1,795 | 15,081 |
+| 2024-02-06 | 4.40 | - | 1,798 | 15,096 |
