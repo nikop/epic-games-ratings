@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 77,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2022-12-20T18:57:15.4745633+00:00",
@@ -357,6 +357,12 @@
     {
       "Time": "2024-02-06T14:58:38.5865633+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 55,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-02-07T15:00:53.7264869+00:00",
+      "Rating": 4.58,
       "NumberOfAwards": 55,
       "NumberOfAwardsMax": 30
     }
@@ -29195,9 +29201,9 @@
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2024-02-06T14:58:38.5865631+00:00",
+  "LastChanged": "2024-02-07T15:00:53.7264867+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:33.0334137+00:00",
   "LastUpdate_AppInfo": "2024-02-04T04:57:16.2019356+00:00",
-  "LastUpdate_Ratings": "2024-02-07T13:59:19.7168977+00:00",
+  "LastUpdate_Ratings": "2024-02-07T15:00:53.7264873+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:33.0335825+00:00"
 }
