@@ -3,8 +3,8 @@
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 594,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 40,
@@ -251,12 +251,26 @@
       "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-07T02:13:05.7196459+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great for Quick Sessions",
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 534307,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 2867,
@@ -16479,9 +16493,9 @@
   "FirstSeen": "2023-09-14T16:00:42.0495436+00:00",
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged": "2024-01-14T18:59:55.1850614+00:00",
+  "LastChanged": "2024-02-07T02:13:05.7196457+00:00",
   "LastChanged_Achievements": "2024-01-27T13:04:41.2125186+00:00",
   "LastUpdate_AppInfo": "2024-02-02T02:57:01.7475825+00:00",
-  "LastUpdate_Ratings": "2024-02-07T00:00:27.3323534+00:00",
+  "LastUpdate_Ratings": "2024-02-07T02:13:05.7196461+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:41.2126057+00:00"
 }
