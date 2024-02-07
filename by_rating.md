@@ -23,7 +23,7 @@
 | 17 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.88 | 0 | 595 |
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 595 |
 | 23 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.87 | 0 | 595 |
-| 23 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 339 | 257 |
+| 23 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 339 | 258 |
 | 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,604 | 139 |
 | 23 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 773 | 193 |
 | 23 | [God of War](games/g/god_of_war.md) | 4.87 | 5,190 | 81 |
@@ -93,7 +93,7 @@
 | 82 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 595 |
 | 82 | [WarmSnow](games/w/warmsnow.md) | 4.81 | 84 | 406 |
 | 93 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.80 | 0 | 595 |
-| 93 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 844 | 186 |
+| 93 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 850 | 186 |
 | 93 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,504 | 67 |
 | 93 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.80 | 0 | 595 |
 | 93 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 110 | 371 |
@@ -163,7 +163,7 @@
 | 152 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 595 |
 | 152 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.75 | 0 | 595 |
 | 152 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 929 | 175 |
-| 152 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 14,771 | 28 |
+| 152 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 14,802 | 28 |
 | 152 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 595 |
 | 152 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 595 |
 | 152 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 96 | 392 |
@@ -347,7 +347,7 @@
 | 330 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 595 |
 | 330 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 0 | 595 |
 | 330 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 896 | 179 |
-| 330 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 339 | 257 |
+| 330 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 340 | 257 |
 | 330 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,488 | 89 |
 | 330 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 109 | 374 |
 | 330 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.65 | 0 | 595 |
@@ -948,7 +948,7 @@
 | 946 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 595 |
 | 946 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 518 |
 | 946 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 595 |
-| 946 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,189 | 152 |
+| 946 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,190 | 152 |
 | 946 | [Hellpoint](games/h/hellpoint.md) | 4.24 | 0 | 595 |
 | 946 | [RiMS Racing](games/r/rims_racing.md) | 4.24 | 0 | 595 |
 | 946 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 478 |
