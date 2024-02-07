@@ -2,9 +2,9 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 100,
-  "Ranking_Popularity": 298,
-  "Ranking_PopularitySum": 229,
+  "Ranking_Rating": 111,
+  "Ranking_Popularity": 296,
+  "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 52,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-11-08T07:59:36.9365658+00:00",
@@ -2893,12 +2893,18 @@
       "Rating": 4.79,
       "NumberOfAwards": 1928,
       "NumberOfAwardsMax": 219
+    },
+    {
+      "Time": "2024-02-07T22:57:32.48859+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1933,
+      "NumberOfAwardsMax": 223
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1928,
-  "NumberOfAwardsMax": 219,
-  "MaxAwardTitle": "Extremely Fun",
+  "NumberOfAwards": 1933,
+  "NumberOfAwardsMax": 223,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -2910,7 +2916,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 218
+      "Count": 223
     },
     {
       "Text": "This game is Relaxing",
@@ -13530,9 +13536,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-02-07T19:59:28.6002814+00:00",
+  "LastChanged": "2024-02-07T22:57:32.4885898+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:47.0105928+00:00",
   "LastUpdate_AppInfo": "2024-02-07T02:11:37.7103508+00:00",
-  "LastUpdate_Ratings": "2024-02-07T20:59:29.2487581+00:00",
+  "LastUpdate_Ratings": "2024-02-07T22:57:32.4885902+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:47.0107047+00:00"
 }
