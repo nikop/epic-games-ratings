@@ -1,7 +1,7 @@
 # Pumpkin Jack
 [Store](https://store.epicgames.com/en-US/p/pumpkin-jack)  
 [View Rawdata](../../db/p/pumpkin_jack.json)  
-Rating: 4.22 (Ranked 963)  
+Rating: 4.22 (Ranked 964)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

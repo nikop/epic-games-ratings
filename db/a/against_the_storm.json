@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 236,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
@@ -4131,10 +4131,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3440,
       "NumberOfAwardsMax": 462
+    },
+    {
+      "Time": "2024-02-07T04:57:46.5846763+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3442,
+      "NumberOfAwardsMax": 462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3440,
+  "NumberOfAwards": 3442,
   "NumberOfAwardsMax": 462,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4154,7 +4160,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 413
+      "Count": 415
     },
     {
       "Text": "This game is Extremely Fun",
@@ -21233,9 +21239,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-02-06T20:58:32.8681673+00:00",
+  "LastChanged": "2024-02-07T04:57:46.584676+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:08.8518808+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:29.2059935+00:00",
-  "LastUpdate_Ratings": "2024-02-07T03:00:04.072341+00:00",
+  "LastUpdate_Ratings": "2024-02-07T04:57:46.5846765+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:08.8520032+00:00"
 }
