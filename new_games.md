@@ -91,4 +91,3 @@
 | [Shadow Vault](games/5/5bf37e261d7b4db5b76ecef630c0d855.md) | 2024-01-09 | - |  | - | 0 |
 | [Filthy Us Complete Edition](games/f/f7d241661b8240f2a7a23e541f006261.md) | 2024-01-09 | - |  | - | 0 |
 | [Mahjong Royal Towers](games/c/c1f4bc1c1b004134b8af9d05d48215c1.md) | 2024-01-08 | - |  | - | 0 |
-| [Dragon Throne: Battle of Red Cliffs](games/5/5ca398e6eb974fd08748c29f79453ea3.md) | 2024-01-08 | - |  | - | 0 |
