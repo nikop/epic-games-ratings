@@ -2,7 +2,7 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 266,
+  "Ranking_Rating": 289,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 219180,
   "RatingHistory": [
     {
@@ -18153,6 +18153,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1501593,
       "NumberOfAwardsMax": 328646
+    },
+    {
+      "Time": "2024-02-07T18:57:21.6741308+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1501593,
+      "NumberOfAwardsMax": 328646
     }
   ],
   "ReviewsDisabled": false,
@@ -18238,8 +18244,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2024-02-07T17:00:00.9060716+00:00",
+  "LastChanged": "2024-02-07T18:57:21.6741306+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:45.6758165+00:00",
-  "LastUpdate_Ratings": "2024-02-07T17:00:00.9060719+00:00",
+  "LastUpdate_Ratings": "2024-02-07T18:57:21.6741311+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:47.7350836+00:00"
 }

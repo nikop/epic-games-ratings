@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-kingmaker",
   "Ranking_Rating": 500,
   "Ranking_Popularity": 100,
-  "Ranking_PopularitySum": 104,
+  "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -7512,10 +7512,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9474,
       "NumberOfAwardsMax": 3484
+    },
+    {
+      "Time": "2024-02-07T18:57:52.6336907+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9475,
+      "NumberOfAwardsMax": 3484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9474,
+  "NumberOfAwards": 9475,
   "NumberOfAwardsMax": 3484,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7541,7 +7547,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 459
+      "Count": 460
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7609,8 +7615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2024-02-07T17:00:35.0367331+00:00",
+  "LastChanged": "2024-02-07T18:57:52.6336907+00:00",
   "LastUpdate_AppInfo": "2024-02-04T05:57:04.733374+00:00",
-  "LastUpdate_Ratings": "2024-02-07T17:00:35.0367336+00:00",
+  "LastUpdate_Ratings": "2024-02-07T18:57:52.6336911+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:27.2018405+00:00"
 }
