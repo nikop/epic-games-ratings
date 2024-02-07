@@ -2,9 +2,9 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 434,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 310,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -2629,10 +2629,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 736,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-02-07T20:00:13.4733918+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 738,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 736,
+  "NumberOfAwards": 738,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2640,7 +2646,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 101
+      "Count": 103
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2721,8 +2727,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-02-07T17:57:23.2399682+00:00",
+  "LastChanged": "2024-02-07T20:00:13.4733916+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:51.0504873+00:00",
-  "LastUpdate_Ratings": "2024-02-07T18:58:13.499747+00:00",
+  "LastUpdate_Ratings": "2024-02-07T20:00:13.4733922+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:48.2782158+00:00"
 }

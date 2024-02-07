@@ -2,8 +2,8 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 242,
-  "Ranking_Popularity": 309,
+  "Ranking_Rating": 241,
+  "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 388,
@@ -7079,6 +7079,6 @@
   "LastChanged": "2024-02-07T18:57:39.2365282+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:42.2777883+00:00",
   "LastUpdate_AppInfo": "2024-02-01T07:57:04.9611201+00:00",
-  "LastUpdate_Ratings": "2024-02-07T18:57:39.2365288+00:00",
+  "LastUpdate_Ratings": "2024-02-07T19:59:21.5156945+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:42.2778466+00:00"
 }
