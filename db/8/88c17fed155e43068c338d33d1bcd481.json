@@ -2,7 +2,7 @@
   "ID": "88c17fed155e43068c338d33d1bcd481",
   "Name": "Doors - Paradox",
   "ProductSlug": "doors-paradox-5896c7",
-  "Ranking_Rating": 807,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 595,
   "Ranking_PopularitySum": 595,
   "Ranking_EOS_Progress": 856,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2024-02-03T01:36:22.2869891+00:00",
@@ -77,6 +77,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-07T17:57:23.8123604+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -95,8 +101,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-28T07:57:12.3724911+00:00",
   "FirstSeenRating": "2024-02-03T01:36:22.2869889+00:00",
-  "LastChanged": "2024-02-07T08:01:11.8303197+00:00",
+  "LastChanged": "2024-02-07T17:57:23.8123601+00:00",
   "LastUpdate_AppInfo": "2024-02-03T12:57:21.2003728+00:00",
-  "LastUpdate_Ratings": "2024-02-07T16:01:23.5064989+00:00",
+  "LastUpdate_Ratings": "2024-02-07T17:57:23.8123608+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:15.4167522+00:00"
 }
