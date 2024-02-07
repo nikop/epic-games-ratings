@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Mahjong Valentine's Day](games/f/f6228e2659d24439b49d918618787b44.md) | 2024-02-07 | - |  | - | - |
+| [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | - | 0 |
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | - |  | - | - |
 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 2024-02-07 | - |  | - | - |
 | [Lilaina: Space Bounty Hunter](games/4/486b1a6b125943b290f01d7941fdb13c.md) | 2024-02-07 | - |  | - | - |
@@ -90,4 +92,3 @@
 | [The Outforce](games/d/d2c6f5756ece4c8ab2ddd396c76af68d.md) | 2024-01-09 | - |  | - | 0 |
 | [Shadow Vault](games/5/5bf37e261d7b4db5b76ecef630c0d855.md) | 2024-01-09 | - |  | - | 0 |
 | [Filthy Us Complete Edition](games/f/f7d241661b8240f2a7a23e541f006261.md) | 2024-01-09 | - |  | - | 0 |
-| [Mahjong Royal Towers](games/c/c1f4bc1c1b004134b8af9d05d48215c1.md) | 2024-01-08 | - |  | - | 0 |
