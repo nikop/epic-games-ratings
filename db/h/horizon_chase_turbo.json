@@ -3,7 +3,7 @@
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 317,
+  "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 351,
@@ -3545,18 +3545,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1671,
       "NumberOfAwardsMax": 188
+    },
+    {
+      "Time": "2024-02-07T21:56:58.2045873+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1674,
+      "NumberOfAwardsMax": 189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1671,
-  "NumberOfAwardsMax": 188,
+  "NumberOfAwards": 1674,
+  "NumberOfAwardsMax": 189,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 188
+      "Count": 189
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3592,7 +3598,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 135
+      "Count": 136
     },
     {
       "Text": "This game is Relaxing",
@@ -3604,7 +3610,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 159
+      "Count": 160
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -36457,9 +36463,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2024-02-07T15:00:14.1607288+00:00",
+  "LastChanged": "2024-02-07T21:56:58.2045871+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:18.4722907+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:48.6916073+00:00",
-  "LastUpdate_Ratings": "2024-02-07T20:00:39.3865461+00:00",
+  "LastUpdate_Ratings": "2024-02-07T21:56:58.2045876+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:18.4724192+00:00"
 }
