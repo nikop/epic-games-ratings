@@ -1,7 +1,7 @@
 # Football Manager 2023
 [Store](https://store.epicgames.com/en-US/p/football-manager-2023)  
 [View Rawdata](../../db/f/football_manager_2023.json)  
-Rating: 4.76 (Ranked 135)  
+Rating: 4.75 (Ranked 152)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -754,3 +754,4 @@ Diff (max vs sum): 41
 | 2024-02-04 | 4.76 | 1,427 | 9,687 |
 | 2024-02-05 | 4.76 | 1,430 | 9,700 |
 | 2024-02-06 | 4.76 | 1,432 | 9,718 |
+| 2024-02-07 | 4.75 | 1,432 | 9,718 |
