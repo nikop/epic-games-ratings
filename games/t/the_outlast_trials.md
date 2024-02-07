@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_outlast_trials.json)  
 Rating: 4.65 (Ranked 330)  
 ## Awards
-Max (Great for Beginners): 339  (Ranked 257)  
-Sum: 1,807 (Ranked 231)  
+Max (Great for Beginners): 340  (Ranked 257)  
+Sum: 1,808 (Ranked 231)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 339 |
+| This game is Great for Beginners | 340 |
 | This game has Diverse Characters | 271 |
 | This game is Highly Recommended | 247 |
 | This game is Extremely Fun | 244 |
@@ -271,4 +271,4 @@ Diff (max vs sum): 26
 | 2024-02-04 | 4.65 | 335 | 1,796 |
 | 2024-02-05 | 4.65 | 339 | 1,803 |
 | 2024-02-06 | 4.65 | 339 | 1,805 |
-| 2024-02-07 | 4.65 | 339 | 1,807 |
+| 2024-02-07 | 4.65 | 340 | 1,808 |
