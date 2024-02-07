@@ -52,7 +52,7 @@
 | 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 8,424 | 4.74 | 170 |
 | 51 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,336 | 4.84 | 49 |
 | 52 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,145 | 4.69 | 242 |
-| 53 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,103 | 4.69 | 242 |
+| 53 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,112 | 4.69 | 242 |
 | 54 | [Remnant 2](games/r/remnant_2.md) | 7,977 | 4.71 | 203 |
 | 55 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,848 | 4.71 | 203 |
 | 56 | [Supraland](games/s/supraland.md) | 7,791 | 4.61 | 401 |
@@ -83,13 +83,13 @@
 | 81 | [God of War](games/g/god_of_war.md) | 5,190 | 4.87 | 23 |
 | 82 | [SMITE](games/s/smite.md) | 5,141 | 4.43 | 741 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,080 | 4.57 | 499 |
-| 84 | [Shop Titans](games/s/shop_titans.md) | 4,999 | 4.00 | 1,067 |
+| 84 | [Shop Titans](games/s/shop_titans.md) | 5,001 | 4.00 | 1,067 |
 | 85 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,880 | 4.70 | 221 |
 | 86 | [MultiVersus](games/m/multiversus.md) | 4,754 | 4.56 | 515 |
 | 87 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4,730 | 4.23 | 953 |
 | 88 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,659 | 4.70 | 221 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,488 | 4.65 | 330 |
-| 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,356 | 4.68 | 267 |
+| 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,358 | 4.68 | 267 |
 | 91 | [Days Gone](games/d/days_gone.md) | 4,355 | 4.68 | 267 |
 | 92 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,273 | 4.36 | 826 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,191 | 4.46 | 683 |
@@ -128,7 +128,7 @@
 | 126 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,967 | 4.66 | 307 |
 | 127 | [Ghostrunner](games/g/ghostrunner.md) | 1,937 | 4.57 | 499 |
 | 128 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,931 | 4.50 | 628 |
-| 129 | [Celeste](games/c/celeste.md) | 1,856 | 4.92 | 4 |
+| 129 | [Celeste](games/c/celeste.md) | 1,861 | 4.92 | 4 |
 | 130 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,845 | 4.63 | 365 |
 | 131 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,843 | 4.55 | 533 |
 | 132 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,828 | 4.63 | 365 |
@@ -586,6 +586,7 @@
 | 579 | [Mortal Shell](games/m/mortal_shell.md) | 21 | 4.27 | 920 |
 | 579 | [Murder by Numbers](games/m/murder_by_numbers.md) | 21 | 4.27 | 920 |
 | 579 | [Rise of Industry](games/r/rise_of_industry.md) | 21 | 4.25 | 937 |
+| 587 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 20 | 4.29 | 896 |
 | 587 | [Black Book](games/b/black_book.md) | 20 | 4.65 | 330 |
 | 587 | [Cursed to Golf](games/c/cursed_to_golf.md) | 20 | 4.14 | 1,028 |
 | 587 | [Figment](games/f/figment.md) | 20 | 4.47 | 672 |
