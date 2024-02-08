@@ -89,6 +89,3 @@
 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 14,631 | 4.39 | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 5 | - | - |
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | 0 |
-| [Rails Across America](games/8/8797ed433a424908b26ff4a89f08cc65.md) | 2024-01-09 | - |  | - | - |
-| [The Outforce](games/d/d2c6f5756ece4c8ab2ddd396c76af68d.md) | 2024-01-09 | - |  | - | 0 |
-| [Shadow Vault](games/5/5bf37e261d7b4db5b76ecef630c0d855.md) | 2024-01-09 | - |  | - | 0 |
