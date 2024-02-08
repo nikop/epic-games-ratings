@@ -91,4 +91,3 @@
 | [Rails Across America](games/8/8797ed433a424908b26ff4a89f08cc65.md) | 2024-01-09 | - |  | - | - |
 | [The Outforce](games/d/d2c6f5756ece4c8ab2ddd396c76af68d.md) | 2024-01-09 | - |  | - | 0 |
 | [Shadow Vault](games/5/5bf37e261d7b4db5b76ecef630c0d855.md) | 2024-01-09 | - |  | - | 0 |
-| [Filthy Us Complete Edition](games/f/f7d241661b8240f2a7a23e541f006261.md) | 2024-01-09 | - |  | - | 0 |
