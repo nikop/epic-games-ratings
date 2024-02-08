@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,062,656 | 4.29 | 896 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 718,707 | 4.46 | 683 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 720,387 | 4.46 | 683 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 328,646 | 4.67 | 289 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 319,391 | 4.68 | 266 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 273,954 | 4.88 | 17 |
@@ -94,7 +94,7 @@
 | 92 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,287 | 4.36 | 827 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,197 | 4.46 | 683 |
 | 94 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,182 | 4.51 | 609 |
-| 95 | [Paladins](games/p/paladins.md) | 4,104 | 4.32 | 877 |
+| 95 | [Paladins](games/p/paladins.md) | 4,112 | 4.32 | 877 |
 | 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4,005 | 4.26 | 930 |
 | 97 | [Gloomhaven](games/g/gloomhaven.md) | 3,633 | 4.47 | 672 |
 | 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,616 | 4.67 | 289 |
@@ -152,7 +152,7 @@
 | 150 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,255 | 4.69 | 241 |
 | 151 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,218 | 4.76 | 136 |
 | 152 | [EVE Online](games/e/eve_online.md) | 1,190 | 4.24 | 946 |
-| 153 | [Saints Row](games/s/saints_row.md) | 1,173 | 3.88 | 1,094 |
+| 153 | [Saints Row](games/s/saints_row.md) | 1,175 | 3.88 | 1,094 |
 | 154 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,156 | 4.65 | 330 |
 | 155 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,114 | 4.61 | 401 |
 | 156 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,108 | 4.69 | 241 |

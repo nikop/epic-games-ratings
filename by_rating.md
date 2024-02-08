@@ -689,7 +689,7 @@
 | 683 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 595 |
 | 683 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.46 | 0 | 595 |
 | 683 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 42 | 489 |
-| 683 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 718,707 | 2 |
+| 683 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 720,387 | 2 |
 | 683 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 595 |
 | 683 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 595 |
 | 683 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 595 |
@@ -880,7 +880,7 @@
 | 877 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.32 | 0 | 595 |
 | 877 | [House Party](games/h/house_party.md) | 4.32 | 64 | 436 |
 | 877 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 595 |
-| 877 | [Paladins](games/p/paladins.md) | 4.32 | 4,104 | 95 |
+| 877 | [Paladins](games/p/paladins.md) | 4.32 | 4,112 | 95 |
 | 877 | [Vampyr](games/v/vampyr.md) | 4.32 | 596 | 216 |
 | 883 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 394 | 247 |
 | 883 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 595 |
@@ -1063,9 +1063,9 @@
 | 1,059 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.05 | 0 | 595 |
 | 1,059 | [The Front](games/t/the_front.md) | 4.05 | 26 | 551 |
 | 1,063 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.04 | 0 | 595 |
+| 1,064 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.02 | 0 | 595 |
 | 1,064 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 595 |
 | 1,064 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 0 | 595 |
-| 1,066 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.01 | 0 | 595 |
 | 1,067 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,001 | 84 |
 | 1,067 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 4.00 | 0 | 595 |
 | 1,069 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 381 | 249 |
@@ -1093,7 +1093,7 @@
 | 1,091 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 35 | 513 |
 | 1,091 | [Potion Permit](games/p/potion_permit.md) | 3.90 | 73 | 420 |
 | 1,091 | [Warface: Clutch](games/w/warface.md) | 3.90 | 487 | 228 |
-| 1,094 | [Saints Row](games/s/saints_row.md) | 3.88 | 1,173 | 153 |
+| 1,094 | [Saints Row](games/s/saints_row.md) | 3.88 | 1,175 | 153 |
 | 1,094 | [To The Rescue](games/t/to_the_rescue.md) | 3.88 | 0 | 595 |
 | 1,096 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 595 |
 | 1,096 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.86 | 0 | 595 |

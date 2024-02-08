@@ -478,7 +478,7 @@
 | [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 31 (1,000 XP) | 329 | - | 0 |
 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 39 (1,000 XP) | 276 | - | 0 |
 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2023-05-11 | 16 (1,000 XP) | 62 | - | 0 |
-| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 1,923 | 4.01 | 0 |
+| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 1,923 | 4.02 | 0 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 162 (1,000 XP) | 559 | - | 0 |
 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 40 (1,000 XP) | 9 | - | 0 |
 | [EBOLA 2](games/e/ebola_2.md) | 2023-05-09 | 18 (1,000 XP) | 335 | - | 0 |
@@ -707,7 +707,7 @@
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 243,584 | 4.58 | 1,518 |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 2022-08-23 | 19 (1,000 XP) | 385 | - | 0 |
 | [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,396,094 | 4.45 | 65,017 |
-| [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 876,272 | 3.88 | 1,173 |
+| [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 876,272 | 3.88 | 1,175 |
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 471 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 2,781 | 4.41 | 70 |
 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2022-08-19 | 29 (1,000 XP) | 2 | - | 0 |
@@ -896,7 +896,7 @@
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 44,699 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,252 | 4.02 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 437,887 | 4.63 | 56 |
-| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 28,011,317 | 4.46 | 718,707 |
+| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 28,011,317 | 4.46 | 720,387 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 249,672 | 4.58 | 287 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 28,545 | 4.85 | 228 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 56,377 | 4.69 | 53 |

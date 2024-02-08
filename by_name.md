@@ -1665,8 +1665,8 @@
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 450 | 41 | 492 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
 | [Joyville](games/8/828033f9503242d5aded3a1a0f3d3c91.md) | - | - | 0 | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | - | - | 0 | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 388 | 642 | 208 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 170 | 823 | 187 |
@@ -1841,8 +1841,8 @@
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | - | - | - | - |
 | [Littlelands](games/d/de4a72bbf5e6433c9cf8f24871fd9b47.md) | - | - | - | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | - | - | - | - |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
@@ -2212,7 +2212,7 @@
 | [Observation](games/o/observation.md) | 4.55 | 534 | 0 | 595 |
 | [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | - | - | 0 | - |
 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 827 | 0 | 595 |
-| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.01 | 1,066 | 0 | 595 |
+| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.02 | 1,064 | 0 | 595 |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | - | - | - | - |
 | [Oceanhorn 2 - Knights of the Lost Realm](games/e/ec8ec4b13e6043cab8d1cbd0edda9a70.md) | - | - | 0 | - |
 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 81 | 133 | 352 |
@@ -2304,7 +2304,7 @@
 | [Painter Simulator](games/d/d046aae609604a98868576cbcbc30d59.md) | - | - | 0 | - |
 | [Painting Werther](games/p/painting_werther.md) | - | - | - | - |
 | [Paladin Dream](games/p/paladin_dream.md) | - | - | 0 | - |
-| [Paladins](games/p/paladins.md) | 4.32 | 877 | 4,104 | 95 |
+| [Paladins](games/p/paladins.md) | 4.32 | 877 | 4,112 | 95 |
 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.51 | 609 | 2,224 | 118 |
 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | - | - | 0 | - |
 | [Pandemic 1993](games/p/pandemic_1993.md) | - | - | - | - |
@@ -2619,7 +2619,7 @@
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.79 | 100 | 0 | 595 |
 | [RoboSquad Revolution](games/z/zorans__resistance_(closed_alpha).md) | - | - | 0 | - |
 | [Rocco's Island](games/r/rocco's_island.md) | - | - | 0 | - |
-| [Rocket League®](games/r/rocket_league®.md) | 4.46 | 683 | 718,707 | 2 |
+| [Rocket League®](games/r/rocket_league®.md) | 4.46 | 683 | 720,387 | 2 |
 | [ROD Multiplayer Car Driving](games/2/2b630014226346b798149e8d26c390c4.md) | - | - | 0 | - |
 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 896 | 5,954 | 74 |
 | [Rogue Invader](games/r/rogue_invader.md) | - | - | 0 | - |
@@ -2668,7 +2668,7 @@
 | [Sail Forth](games/s/sail_forth.md) | 4.41 | 765 | 0 | 595 |
 | [Sailing Era](games/s/sailing_era.md) | 4.70 | 221 | 0 | 595 |
 | [Saint Kotar](games/s/saint_kotar.md) | - | - | 0 | - |
-| [Saints Row](games/s/saints_row.md) | 3.88 | 1,094 | 1,173 | 153 |
+| [Saints Row](games/s/saints_row.md) | 3.88 | 1,094 | 1,175 | 153 |
 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 782 | 539 | 223 |
 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 765 | 2,265 | 117 |
 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 184 | 0 | 595 |
@@ -3519,8 +3519,8 @@
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | - | - | - | - |
 | [Tower Defense 3D Fusion](games/d/d668f571588d42a4906a583e4149c32a.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 855 | 457 | 238 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 855 | 457 | 238 |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 221 | 0 | 595 |
@@ -3618,8 +3618,8 @@
 | [Uncontained](games/f/f997635f6f6a4d62b592943e93fe7931.md) | - | - | - | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | - | - | - | - |
-| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
+| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Undergrave](games/u/undergrave.md) | - | - | 0 | - |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | - | - | 0 | - |
 | [Underworld Defense](games/2/229da97a621d443dafe527f874375f3b.md) | - | - | 0 | - |
@@ -3717,8 +3717,8 @@
 | [Wanderlust: Travel Stories](games/w/wanderlust__travel_stories.md) | - | - | 0 | - |
 | [Wanna Survive](games/w/wanna_survive.md) | - | - | 0 | - |
 | [Wanted: Dead](games/w/wanted_dead.md) | - | - | 0 | - |
-| [War Hospital](games/w/war_hospital.md) | - | - | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | - | - | 0 | - |
+| [War Hospital](games/w/war_hospital.md) | - | - | - | - |
 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 827 | 0 | 595 |
 | [Warface: Clutch](games/w/warface.md) | 3.90 | 1,091 | 487 | 228 |
 | [WarForwards](games/w/warforwards.md) | - | - | 0 | - |
