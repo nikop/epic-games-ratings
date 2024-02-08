@@ -2,7 +2,7 @@
   "ID": "aa4742eef2744a41bdb3115cfeca8b89",
   "Name": "King\u0027s Bounty II",
   "ProductSlug": "kings-bounty-ii",
-  "Ranking_Rating": 979,
+  "Ranking_Rating": 971,
   "Ranking_Popularity": 595,
   "Ranking_PopularitySum": 595,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "NumberOfRatings": 108,
   "RatingHistory": [
     {
@@ -384,6 +384,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-08T03:59:54.5659289+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -401,8 +407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
-  "LastChanged": "2024-01-16T11:59:39.8899126+00:00",
+  "LastChanged": "2024-02-08T03:59:54.5659287+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:16:43.6012359+00:00",
-  "LastUpdate_Ratings": "2024-02-08T02:58:53.4966702+00:00",
+  "LastUpdate_Ratings": "2024-02-08T03:59:54.5659292+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:52.4651194+00:00"
 }
