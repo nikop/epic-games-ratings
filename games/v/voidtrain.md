@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 630)
 Number of Ratings: 1,305  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 50  (Ranked 469)  
-Sum: 261 (Ranked 408)  
-Diff (max vs sum): 61  
+Sum: 262 (Ranked 407)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |
@@ -17,8 +17,8 @@ Diff (max vs sum): 61
 | This game has Easy Combat | 29 |
 | This game has Amazing Storytelling | 27 |
 | This game has Amazing Characters | 27 |
+| This game has a Creative Community | 23 |
 | This game has Unique Visuals | 22 |
-| This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -185,4 +185,4 @@ Diff (max vs sum): 61
 | 2024-02-02 | 4.50 | - | 49 | 257 |
 | 2024-02-03 | 4.50 | - | 49 | 259 |
 | 2024-02-04 | 4.50 | - | 49 | 260 |
-| 2024-02-08 | 4.50 | - | 50 | 261 |
+| 2024-02-08 | 4.50 | - | 50 | 262 |
