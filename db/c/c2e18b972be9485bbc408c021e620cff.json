@@ -4,7 +4,7 @@
   "ProductSlug": "train-sim-world-4",
   "Ranking_Rating": 828,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 341,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1675,10 +1675,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 539,
       "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2024-02-08T15:57:40.1057949+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 582,
+      "NumberOfAwardsMax": 142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 539,
+  "NumberOfAwards": 582,
   "NumberOfAwardsMax": 142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1704,7 +1710,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 62
+      "Count": 64
     },
     {
       "Text": "This game is Educational",
@@ -1722,7 +1728,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 41
     },
     {
       "Text": "This game is Relaxing",
@@ -1763,9 +1769,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-02-08T10:00:15.6995273+00:00",
+  "LastChanged": "2024-02-08T15:57:40.1057947+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:24.8391144+00:00",
   "LastUpdate_AppInfo": "2024-02-07T07:57:28.3206568+00:00",
-  "LastUpdate_Ratings": "2024-02-08T14:00:21.7791655+00:00",
+  "LastUpdate_Ratings": "2024-02-08T15:57:40.1057953+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:24.8391161+00:00"
 }
