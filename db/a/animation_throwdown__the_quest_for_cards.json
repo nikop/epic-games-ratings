@@ -3,7 +3,7 @@
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
   "Ranking_Rating": 884,
-  "Ranking_Popularity": 247,
+  "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -2768,11 +2768,17 @@
       "Rating": 4.31,
       "NumberOfAwards": 2925,
       "NumberOfAwardsMax": 394
+    },
+    {
+      "Time": "2024-02-08T08:58:15.4863039+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2927,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2925,
-  "NumberOfAwardsMax": 394,
+  "NumberOfAwards": 2927,
+  "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -2791,7 +2797,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 394
+      "Count": 395
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2815,7 +2821,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 364
+      "Count": 365
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2847,8 +2853,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-02-07T15:59:52.2316329+00:00",
+  "LastChanged": "2024-02-08T08:58:15.4863038+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:20.1269137+00:00",
-  "LastUpdate_Ratings": "2024-02-08T07:00:18.3042664+00:00",
+  "LastUpdate_Ratings": "2024-02-08T08:58:15.4863044+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:10.7058554+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/r/returnal™.json)  
 Rating: 4.59 (Ranked 450)  
 ## Awards
-Max (Great Boss Battles): 184  (Ranked 318)  
-Sum: 184 (Ranked 436)  
-Diff (max vs sum): -118  
+Max (Great Boss Battles): 186  (Ranked 318)  
+Sum: 186 (Ranked 434)  
+Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 184 |
+| This game has Great Boss Battles | 186 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -153,3 +153,4 @@ Diff (max vs sum): -118
 | 2024-02-02 | 4.60 | 181 | 181 |
 | 2024-02-04 | 4.59 | 182 | 182 |
 | 2024-02-07 | 4.59 | 184 | 184 |
+| 2024-02-08 | 4.59 | 186 | 186 |
