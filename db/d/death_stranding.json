@@ -4,7 +4,7 @@
   "ProductSlug": "death-stranding",
   "Ranking_Rating": 112,
   "Ranking_Popularity": 45,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 4,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 11,
@@ -8427,10 +8427,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 13366,
       "NumberOfAwardsMax": 9436
+    },
+    {
+      "Time": "2024-02-08T07:58:05.9324121+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 13368,
+      "NumberOfAwardsMax": 9436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13366,
+  "NumberOfAwards": 13368,
   "NumberOfAwardsMax": 9436,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8450,7 +8456,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 412
+      "Count": 414
     },
     {
       "Text": "This game is Relaxing",
@@ -41622,9 +41628,9 @@
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
-  "LastChanged": "2024-02-08T04:59:46.0217163+00:00",
+  "LastChanged": "2024-02-08T07:58:05.9324119+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:29.6028027+00:00",
   "LastUpdate_AppInfo": "2024-02-03T20:57:13.0073409+00:00",
-  "LastUpdate_Ratings": "2024-02-08T06:01:32.1715608+00:00",
+  "LastUpdate_Ratings": "2024-02-08T07:58:05.9324126+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:29.6029519+00:00"
 }

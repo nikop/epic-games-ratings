@@ -1,7 +1,7 @@
 # Golden Light
 [Store](https://store.epicgames.com/en-US/p/golden-light-f543b3)  
 [View Rawdata](../../db/c/ca05bd340e84436ebea4a0c0ca55befa.json)  
-Rating: 4.36 (Ranked 827)  
+Rating: 4.37 (Ranked 820)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -117,3 +117,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-15 | 4.34 | 0 | 0 |
 | 2024-01-21 | 4.35 | 0 | 0 |
 | 2024-02-06 | 4.36 | 0 | 0 |
+| 2024-02-08 | 4.37 | 0 | 0 |
