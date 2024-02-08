@@ -347,7 +347,7 @@ Completed: 3 (0.00%) (Ranked 414)
 | 2024-01-27 | 261,106 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 57  (Ranked 454)  
-Sum: 398 (Ranked 366)  
+Sum: 399 (Ranked 366)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
@@ -359,7 +359,7 @@ Diff (max vs sum): 88
 | This game has Challenging Combat | 39 |
 | This game has a Competitive Community | 37 |
 | This game has Quickly Understood Controls | 35 |
-| This game has Competitive Players | 34 |
+| This game has Competitive Players | 35 |
 | This game is Extremely Fun | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -575,3 +575,4 @@ Diff (max vs sum): 88
 | 2024-02-02 | 4.39 | 56 | 396 |
 | 2024-02-03 | 4.38 | 56 | 396 |
 | 2024-02-05 | 4.38 | 57 | 398 |
+| 2024-02-08 | 4.38 | 57 | 399 |
