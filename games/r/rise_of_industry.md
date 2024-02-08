@@ -317,8 +317,8 @@ Completed: 5 (0.00%) (Ranked 414)
 | 2024-01-26 | 771,607 | 5 |
 | 2024-01-27 | 771,711 | 5 |
 ## Awards
-Max (Educational): 21  (Ranked 580)  
-Sum: 21 (Ranked 582)  
+Max (Educational): 21  (Ranked 581)  
+Sum: 21 (Ranked 583)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
