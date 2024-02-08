@@ -4,7 +4,7 @@
   "ProductSlug": "faeria",
   "Ranking_Rating": 717,
   "Ranking_Popularity": 365,
-  "Ranking_PopularitySum": 360,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -849,10 +849,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 418,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-02-08T16:58:17.9752197+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 443,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 418,
+  "NumberOfAwards": 443,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -866,7 +872,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Characters",
@@ -884,7 +890,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
@@ -896,7 +902,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -909,6 +915,12 @@
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 31
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -922,8 +934,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2024-01-29T03:00:29.1616475+00:00",
+  "LastChanged": "2024-02-08T16:58:17.9752194+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:57:33.7464108+00:00",
-  "LastUpdate_Ratings": "2024-02-08T15:00:18.0043811+00:00",
+  "LastUpdate_Ratings": "2024-02-08T16:58:17.97522+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:10.9794006+00:00"
 }

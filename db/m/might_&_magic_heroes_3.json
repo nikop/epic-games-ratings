@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 55,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 276,
+  "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3350,10 +3350,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 1069,
       "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2024-02-08T17:01:21.5135829+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 1072,
+      "NumberOfAwardsMax": 277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1069,
+  "NumberOfAwards": 1072,
   "NumberOfAwardsMax": 277,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3409,7 +3415,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 60
+      "Count": 63
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3441,8 +3447,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2024-02-08T13:57:27.4104259+00:00",
+  "LastChanged": "2024-02-08T17:01:21.5135827+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:58:03.6452064+00:00",
-  "LastUpdate_Ratings": "2024-02-08T15:59:36.4007695+00:00",
+  "LastUpdate_Ratings": "2024-02-08T17:01:21.5135833+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:41.2512169+00:00"
 }

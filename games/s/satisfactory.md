@@ -1,11 +1,11 @@
 # Satisfactory
 [Store](https://store.epicgames.com/en-US/p/satisfactory)  
 [View Rawdata](../../db/s/satisfactory.json)  
-Rating: 4.87 (Ranked 23)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 29,401  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 15,546  (Ranked 26)  
-Sum: 121,970 (Ranked 16)  
+Sum: 121,985 (Ranked 16)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 10
 | This game is Relaxing | 12,857 |
 | This game has Quickly Understood Controls | 12,809 |
 | This game has Easy Combat | 12,201 |
-| This game is Educational | 12,106 |
+| This game is Educational | 12,121 |
 | This game has a Creative Community | 11,113 |
 | This game has Amazing Storytelling | 9,588 |
 | This game has Amazing Characters | 9,534 |
@@ -401,4 +401,4 @@ Diff (max vs sum): 10
 | 2024-02-05 | 4.87 | - | 15,510 | 121,692 |
 | 2024-02-06 | 4.87 | - | 15,529 | 121,834 |
 | 2024-02-07 | 4.87 | - | 15,546 | 121,945 |
-| 2024-02-08 | 4.87 | - | 15,546 | 121,970 |
+| 2024-02-08 | 4.87 | - | 15,546 | 121,985 |

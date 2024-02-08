@@ -2,7 +2,7 @@
   "ID": "ca0530b485754032be50cb6f27be0c2c",
   "Name": "Kerbal Space Program",
   "ProductSlug": "kerbal-space-program",
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 856,
@@ -9101,6 +9101,6 @@
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "LastChanged": "2024-02-08T14:57:20.8953393+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:16:45.1389325+00:00",
-  "LastUpdate_Ratings": "2024-02-08T15:58:39.2146937+00:00",
+  "LastUpdate_Ratings": "2024-02-08T17:00:07.7273648+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:42.2381235+00:00"
 }
