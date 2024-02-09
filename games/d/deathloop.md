@@ -5,8 +5,8 @@ Rating: 4.45 (Ranked 698)
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 73  (Ranked 421)  
-Sum: 488 (Ranked 347)  
-Diff (max vs sum): 74  
+Sum: 488 (Ranked 348)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 514 |
