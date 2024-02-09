@@ -18,7 +18,7 @@
 | 16 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 33,824 | 4.75 | 152 |
 | 17 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 32,407 | 4.73 | 184 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,711 | 4.64 | 354 |
-| 19 | [Dauntless](games/d/dauntless.md) | 26,586 | 4.53 | 575 |
+| 19 | [Dauntless](games/d/dauntless.md) | 26,617 | 4.53 | 575 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 24,335 | 4.89 | 12 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 22,583 | 4.57 | 500 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,502 | 4.26 | 930 |
@@ -29,13 +29,13 @@
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,108 | 4.59 | 451 |
 | 28 | [SnowRunner](games/s/snowrunner.md) | 14,839 | 4.75 | 152 |
 | 29 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,731 | 4.58 | 475 |
-| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,489 | 4.44 | 717 |
+| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,496 | 4.44 | 717 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,470 | 4.85 | 39 |
 | 32 | [Maneater](games/m/maneater.md) | 13,987 | 4.49 | 646 |
 | 33 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 13,327 | 4.58 | 475 |
-| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,256 | 4.45 | 698 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,266 | 4.45 | 698 |
 | 35 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,843 | 4.36 | 827 |
-| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,944 | 4.69 | 241 |
+| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,947 | 4.69 | 241 |
 | 37 | [NBA 2K21](games/n/nba_2k21.md) | 11,833 | 4.39 | 794 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 11,712 | 4.77 | 121 |
 | 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,357 | 4.54 | 554 |
@@ -199,7 +199,7 @@
 | 197 | [Neon Abyss](games/n/neon_abyss.md) | 740 | 4.68 | 266 |
 | 198 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 738 | 4.68 | 266 |
 | 199 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 726 | 4.59 | 451 |
-| 200 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 720 | 4.61 | 401 |
+| 200 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 722 | 4.61 | 401 |
 | 201 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 698 | 4.63 | 367 |
 | 202 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 680 | 4.50 | 630 |
 | 203 | [Prison Architect](games/p/prison_architect.md) | 679 | 4.61 | 401 |
@@ -332,7 +332,7 @@
 | 330 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 169 | 4.38 | 808 |
 | 330 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 169 | 4.29 | 895 |
 | 332 | [Encased](games/e/encased.md) | 167 | 4.35 | 842 |
-| 333 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 164 | 4.74 | 170 |
+| 333 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 166 | 4.74 | 170 |
 | 334 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 160 | 4.52 | 586 |
 | 335 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 159 | 4.77 | 121 |
 | 336 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 158 | 4.19 | 989 |
@@ -517,7 +517,7 @@
 | 514 | [Chorus](games/c/chorus.md) | 35 | 4.48 | 665 |
 | 514 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 35 | 4.63 | 367 |
 | 514 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 203 |
-| 514 | [Redfall](games/r/redfall.md) | 35 | 3.66 | 1,114 |
+| 514 | [Redfall](games/r/redfall.md) | 35 | 3.66 | 1,115 |
 | 519 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 946 |
 | 519 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 68 |
 | 519 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 34 | 3.96 | 1,076 |

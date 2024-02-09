@@ -176,7 +176,7 @@
 | 170 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 823 | 187 |
 | 170 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,441 | 50 |
 | 170 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 47,949 | 14 |
-| 170 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 164 | 333 |
+| 170 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 166 | 333 |
 | 170 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 110 | 371 |
 | 170 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 906 | 177 |
 | 170 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 596 |
@@ -258,7 +258,7 @@
 | 241 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 596 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 661 | 206 |
 | 241 | [Pikuniku](games/p/pikuniku.md) | 4.69 | 0 | 596 |
-| 241 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,944 | 36 |
+| 241 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,947 | 36 |
 | 241 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 525 | 224 |
 | 241 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 53 | 460 |
 | 241 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 596 |
@@ -431,7 +431,7 @@
 | 401 | [Transistor](games/t/transistor.md) | 4.61 | 0 | 596 |
 | 401 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 596 |
 | 401 | [Warframe](games/w/warframe.md) | 4.61 | 21,167 | 23 |
-| 401 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 720 | 200 |
+| 401 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 722 | 200 |
 | 433 | [ABZU](games/a/abzu.md) | 4.60 | 0 | 596 |
 | 433 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,579 | 25 |
 | 433 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,327 | 80 |
@@ -575,7 +575,7 @@
 | 554 | [The Medium](games/t/the_medium.md) | 4.54 | 0 | 596 |
 | 554 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 397 | 245 |
 | 575 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 0 | 596 |
-| 575 | [Dauntless](games/d/dauntless.md) | 4.53 | 26,586 | 19 |
+| 575 | [Dauntless](games/d/dauntless.md) | 4.53 | 26,617 | 19 |
 | 575 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 24 | 566 |
 | 575 | [Everything](games/e/everything.md) | 4.53 | 0 | 596 |
 | 575 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.53 | 0 | 596 |
@@ -705,7 +705,7 @@
 | 698 | [ELEX](games/e/elex.md) | 4.45 | 26 | 553 |
 | 698 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 596 |
 | 698 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 596 |
-| 698 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,256 | 34 |
+| 698 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,266 | 34 |
 | 698 | [Metalstorm](games/m/metalstorm.md) | 4.45 | 0 | 596 |
 | 698 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 42 | 490 |
 | 698 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.45 | 92 | 398 |
@@ -728,7 +728,7 @@
 | 717 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.44 | 0 | 596 |
 | 717 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 115 | 368 |
 | 717 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.44 | 82 | 409 |
-| 717 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,489 | 30 |
+| 717 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,496 | 30 |
 | 717 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.44 | 0 | 596 |
 | 717 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 596 |
 | 717 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 596 |
@@ -1100,21 +1100,21 @@
 | 1,096 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 596 |
 | 1,099 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 596 |
 | 1,100 | [Poker Club](games/p/poker_club.md) | 3.84 | 48 | 476 |
+| 1,100 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.84 | 0 | 596 |
 | 1,100 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.84 | 117 | 367 |
-| 1,102 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.82 | 0 | 596 |
-| 1,102 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 596 |
-| 1,104 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.81 | 0 | 596 |
-| 1,104 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.81 | 0 | 596 |
-| 1,106 | [Blood of Steel](games/b/blood_of_steel.md) | 3.80 | 0 | 596 |
-| 1,106 | [Spelldrifter](games/s/spelldrifter.md) | 3.80 | 0 | 596 |
-| 1,106 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 596 |
-| 1,109 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.79 | 0 | 596 |
-| 1,110 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.76 | 0 | 596 |
-| 1,111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 596 |
-| 1,112 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 596 |
-| 1,113 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 596 |
-| 1,114 | [Redfall](games/r/redfall.md) | 3.66 | 35 | 514 |
-| 1,115 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.65 | 0 | 596 |
+| 1,103 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.82 | 0 | 596 |
+| 1,103 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 596 |
+| 1,105 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.81 | 0 | 596 |
+| 1,105 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.81 | 0 | 596 |
+| 1,107 | [Blood of Steel](games/b/blood_of_steel.md) | 3.80 | 0 | 596 |
+| 1,107 | [Spelldrifter](games/s/spelldrifter.md) | 3.80 | 0 | 596 |
+| 1,107 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 596 |
+| 1,110 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.79 | 0 | 596 |
+| 1,111 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.76 | 0 | 596 |
+| 1,112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 596 |
+| 1,113 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 596 |
+| 1,114 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 596 |
+| 1,115 | [Redfall](games/r/redfall.md) | 3.66 | 35 | 514 |
 | 1,116 | [Adios](games/a/adios.md) | 3.56 | 0 | 596 |
 | 1,117 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.55 | 0 | 596 |
 | 1,118 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.44 | 0 | 596 |
