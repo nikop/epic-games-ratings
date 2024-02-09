@@ -2,9 +2,9 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 376,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2659,10 +2659,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 747,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-02-09T15:58:04.1727674+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 751,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 747,
+  "NumberOfAwards": 751,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2718,7 +2724,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2736,7 +2742,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 64
+      "Count": 65
     }
   ],
   "EOS_Progressed": 0,
@@ -2751,8 +2757,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-02-09T11:59:38.5205246+00:00",
+  "LastChanged": "2024-02-09T15:58:04.1727672+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:51.0504873+00:00",
-  "LastUpdate_Ratings": "2024-02-09T14:57:25.5766193+00:00",
+  "LastUpdate_Ratings": "2024-02-09T15:58:04.1727679+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:48.2782158+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "6ad92d14cc544743831d4f70c964d39d",
   "Name": "SpellForce 3: Fallen God",
   "ProductSlug": "spellforce-3-fallen-god",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 596,
   "Ranking_PopularitySum": 596,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2022-11-09T02:57:52.8290854+00:00",
@@ -129,6 +129,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-09T15:59:57.6637548+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -147,8 +153,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:03.4681811+00:00",
   "FirstSeenRating": "2022-11-09T02:57:52.8290852+00:00",
-  "LastChanged": "2024-01-30T15:57:32.5137954+00:00",
+  "LastChanged": "2024-02-09T15:59:57.6637546+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:57:57.7749318+00:00",
-  "LastUpdate_Ratings": "2024-02-09T14:59:38.845031+00:00",
+  "LastUpdate_Ratings": "2024-02-09T15:59:57.6637551+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:37.744385+00:00"
 }

@@ -1,23 +1,23 @@
 # Ghost Recon Breakpoint Standard Edition
 [Store](https://store.epicgames.com/en-US/p/ghost-recon-breakpoint)  
 [View Rawdata](../../db/g/ghost_recon_breakpoint_standard_edition.json)  
-Rating: 4.55 (Ranked 534)  
+Rating: 4.55 (Ranked 535)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 1,980  (Ranked 126)  
-Sum: 15,599 (Ranked 77)  
+Max (Great for Beginners): 1,983  (Ranked 126)  
+Sum: 15,607 (Ranked 77)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,980 |
+| This game is Great for Beginners | 1,983 |
 | This game has Quickly Understood Controls | 1,860 |
 | This game is Relaxing | 1,844 |
 | This game has Amazing Storytelling | 1,759 |
 | This game is Extremely Fun | 1,742 |
 | This game has Diverse Characters | 1,712 |
-| This game is Highly Recommended | 1,705 |
+| This game is Highly Recommended | 1,707 |
 | This game has Amazing Characters | 1,641 |
-| This game has Realistic Visuals | 1,356 |
+| This game has Realistic Visuals | 1,359 |
 | This game has Obsessive Gameplay | 458 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -412,4 +412,4 @@ Diff (max vs sum): 49
 | 2024-02-06 | 4.55 | - | 1,977 | 15,542 |
 | 2024-02-07 | 4.55 | - | 1,977 | 15,563 |
 | 2024-02-08 | 4.55 | - | 1,980 | 15,594 |
-| 2024-02-09 | 4.55 | - | 1,980 | 15,599 |
+| 2024-02-09 | 4.55 | - | 1,983 | 15,607 |

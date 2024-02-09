@@ -1,7 +1,7 @@
 # Football Manager 2023
 [Store](https://store.epicgames.com/en-US/p/football-manager-2023)  
 [View Rawdata](../../db/f/football_manager_2023.json)  
-Rating: 4.75 (Ranked 152)  
+Rating: 4.75 (Ranked 153)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -391,7 +391,7 @@ Completed: 30 (0.01%) (Ranked 388)
 | 2024-01-27 | 373,505 | 30 |
 ## Awards
 Max (Diverse Characters): 1,437  (Ranked 143)  
-Sum: 9,756 (Ranked 102)  
+Sum: 9,758 (Ranked 102)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -400,7 +400,7 @@ Diff (max vs sum): 41
 | This game is Extremely Fun | 1,174 |
 | This game is Educational | 1,129 |
 | This game is Relaxing | 1,099 |
-| This game has Competitive Players | 1,005 |
+| This game has Competitive Players | 1,007 |
 | This game has Quickly Understood Controls | 970 |
 | This game has Amazing Storytelling | 916 |
 | This game has Amazing Characters | 834 |
@@ -756,4 +756,4 @@ Diff (max vs sum): 41
 | 2024-02-06 | 4.76 | 1,432 | 9,718 |
 | 2024-02-07 | 4.75 | 1,434 | 9,730 |
 | 2024-02-08 | 4.75 | 1,434 | 9,744 |
-| 2024-02-09 | 4.75 | 1,437 | 9,756 |
+| 2024-02-09 | 4.75 | 1,437 | 9,758 |
