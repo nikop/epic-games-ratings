@@ -1,7 +1,7 @@
 # Galactic Civilizations III
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iii)  
 [View Rawdata](../../db/g/galactic_civilizations_iii.json)  
-Rating: 4.23 (Ranked 954)  
+Rating: 4.22 (Ranked 964)  
 Number of Ratings: 1,085  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 195  (Ranked 312)  
@@ -245,3 +245,4 @@ Diff (max vs sum): 48
 | 2024-02-02 | 4.23 | - | 194 | 1,282 |
 | 2024-02-04 | 4.23 | - | 194 | 1,283 |
 | 2024-02-07 | 4.23 | - | 195 | 1,284 |
+| 2024-02-09 | 4.22 | - | 195 | 1,284 |

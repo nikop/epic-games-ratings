@@ -4,7 +4,7 @@
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 741,
   "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -862,10 +862,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 391,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-02-09T14:57:52.330989+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 392,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 391,
+  "NumberOfAwards": 392,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -939,7 +945,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 27
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -954,8 +960,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2024-02-09T01:36:28.6120825+00:00",
+  "LastChanged": "2024-02-09T14:57:52.3309889+00:00",
   "LastUpdate_AppInfo": "2024-02-04T04:57:12.137311+00:00",
-  "LastUpdate_Ratings": "2024-02-09T13:01:35.1586938+00:00",
+  "LastUpdate_Ratings": "2024-02-09T14:57:52.3309894+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:53.3448552+00:00"
 }
