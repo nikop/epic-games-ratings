@@ -3,7 +3,7 @@
   "Name": "Armored Warfare",
   "ProductSlug": "armored-warfare",
   "Ranking_Rating": 1055,
-  "Ranking_Popularity": 378,
+  "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -2055,11 +2055,17 @@
       "Rating": 4.07,
       "NumberOfAwards": 768,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-02-09T20:01:04.6779214+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 772,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 768,
-  "NumberOfAwardsMax": 106,
+  "NumberOfAwards": 772,
+  "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2072,13 +2078,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 106
+      "Count": 107
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2096,13 +2102,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2134,8 +2140,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2024-02-08T22:57:53.9116694+00:00",
+  "LastChanged": "2024-02-09T20:01:04.6779212+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:08.8288307+00:00",
-  "LastUpdate_Ratings": "2024-02-09T18:59:11.6027848+00:00",
+  "LastUpdate_Ratings": "2024-02-09T20:01:04.6779218+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:19.985092+00:00"
 }
