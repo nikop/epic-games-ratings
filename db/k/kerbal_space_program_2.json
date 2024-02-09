@@ -4,7 +4,7 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 895,
   "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1697,10 +1697,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 399,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-02-09T12:00:11.8399865+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 400,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 399,
+  "NumberOfAwards": 400,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1762,7 +1768,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 43
+      "Count": 44
     }
   ],
   "EOS_Progressed": 0,
@@ -1777,8 +1783,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-02-08T15:57:38.1679425+00:00",
+  "LastChanged": "2024-02-09T12:00:11.8399862+00:00",
   "LastUpdate_AppInfo": "2024-02-04T04:57:13.0845451+00:00",
-  "LastUpdate_Ratings": "2024-02-09T10:58:37.392602+00:00",
+  "LastUpdate_Ratings": "2024-02-09T12:00:11.8399877+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:30.8555731+00:00"
 }

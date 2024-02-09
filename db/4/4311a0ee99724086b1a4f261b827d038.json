@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 533,
   "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 413,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 91,
@@ -885,10 +885,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 244,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-02-09T12:00:21.8727888+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 245,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 244,
+  "NumberOfAwards": 245,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -920,7 +926,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Great for Beginners",
@@ -23109,9 +23115,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-02-05T15:57:22.2094798+00:00",
+  "LastChanged": "2024-02-09T12:00:21.8727887+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:35.818483+00:00",
   "LastUpdate_AppInfo": "2024-02-09T08:57:22.7993816+00:00",
-  "LastUpdate_Ratings": "2024-02-09T10:58:45.9233851+00:00",
+  "LastUpdate_Ratings": "2024-02-09T12:00:21.8727892+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:35.818574+00:00"
 }
