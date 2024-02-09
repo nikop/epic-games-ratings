@@ -4,7 +4,7 @@
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 0 | - | - |
 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | - |  | - | 0 |
 | [Arkbound-アークバウンド-](games/9/9fd854316dca49c6bdd72da6c287e81b.md) | 2024-02-08 | - |  | - | 0 |
-| [My Island](games/8/8b87d2245d254bfc83415d4001b42a92.md) | 2024-02-08 | - |  | - | - |
+| [My Island](games/8/8b87d2245d254bfc83415d4001b42a92.md) | 2024-02-08 | - |  | - | 0 |
 | [Mahjong Valentine's Day](games/f/f6228e2659d24439b49d918618787b44.md) | 2024-02-07 | - |  | - | - |
 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | 3.84 | 0 |
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | - |  | - | 0 |
@@ -44,7 +44,7 @@
 | [Alice's Jigsaw. Wonderland Chronicles 2](games/6/6445bb085c274bb58007a3febb1df67e.md) | 2024-01-26 | - |  | - | - |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 4 | - | 0 |
-| [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 2024-01-25 | - |  | 4.52 | 98 |
+| [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 2024-01-25 | - |  | 4.53 | 98 |
 | [Red Glare](games/f/fb88fc36cd3b4e0da545c51c4a908474.md) | 2024-01-25 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 14 Collectors Edition](games/7/7f64b29c49554ab488c286c8de796571.md) | 2024-01-25 | - |  | - | 0 |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2024-01-25 | 100 (1,000 XP) | 5 | - | 0 |
