@@ -3,8 +3,8 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 399,
+  "Ranking_Popularity": 447,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 90,
@@ -1088,11 +1088,17 @@
       "Rating": 4.29,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-02-08T23:58:33.6198096+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 285,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 285,
+  "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1129,13 +1135,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -34077,9 +34083,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-02-08T18:57:28.9272377+00:00",
+  "LastChanged": "2024-02-08T23:58:33.6198091+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:13.6174405+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:27.7679207+00:00",
-  "LastUpdate_Ratings": "2024-02-08T22:00:19.700569+00:00",
+  "LastUpdate_Ratings": "2024-02-08T23:58:33.6198099+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:13.6176144+00:00"
 }
