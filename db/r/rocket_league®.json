@@ -2,7 +2,7 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "ProductSlug": "rocket-league",
-  "Ranking_Rating": 683,
+  "Ranking_Rating": 682,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
@@ -9464,10 +9464,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 4882937,
       "NumberOfAwardsMax": 721392
+    },
+    {
+      "Time": "2024-02-09T06:57:38.4218653+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 4885423,
+      "NumberOfAwardsMax": 721392
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4882937,
+  "NumberOfAwards": 4885423,
   "NumberOfAwardsMax": 721392,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -9499,7 +9505,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 553491
+      "Count": 554476
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9511,7 +9517,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 466079
+      "Count": 466884
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9523,7 +9529,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 439925
+      "Count": 440621
     },
     {
       "Text": "This game has Challenging Combat",
@@ -42912,9 +42918,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-02-09T04:59:40.8459702+00:00",
+  "LastChanged": "2024-02-09T06:57:38.4218651+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:46.8017685+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:18.7724905+00:00",
-  "LastUpdate_Ratings": "2024-02-09T04:59:40.845971+00:00",
+  "LastUpdate_Ratings": "2024-02-09T06:57:38.4218656+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:46.8020098+00:00"
 }
