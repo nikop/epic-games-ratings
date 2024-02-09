@@ -1,12 +1,12 @@
 # Assassin's Creed® III: Remastered
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-3)  
 [View Rawdata](../../db/a/assassin's_creed®_iii__remastered.json)  
-Rating: 4.52 (Ranked 586)  
+Rating: 4.52 (Ranked 587)  
 Number of Ratings: 257  (23.09.2022)  
 ## Awards
 Max (Character Customization): 221  (Ranked 297)  
-Sum: 221 (Ranked 420)  
-Diff (max vs sum): -123  
+Sum: 221 (Ranked 421)  
+Diff (max vs sum): -124  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 221 |
