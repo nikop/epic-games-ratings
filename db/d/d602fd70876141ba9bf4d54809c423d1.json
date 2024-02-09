@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_Rating": 555,
   "Ranking_Popularity": 173,
-  "Ranking_PopularitySum": 129,
+  "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 17,
@@ -4203,10 +4203,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 7402,
       "NumberOfAwardsMax": 983
+    },
+    {
+      "Time": "2024-02-09T22:00:10.5457086+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7404,
+      "NumberOfAwardsMax": 983
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7402,
+  "NumberOfAwards": 7404,
   "NumberOfAwardsMax": 983,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4232,7 +4238,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 827
+      "Count": 829
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17418,9 +17424,9 @@
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenRating": "2023-10-20T08:01:20.4759895+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged": "2024-02-09T17:00:53.3434042+00:00",
+  "LastChanged": "2024-02-09T22:00:10.5457082+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:44.6607247+00:00",
   "LastUpdate_AppInfo": "2024-02-08T08:57:26.1621399+00:00",
-  "LastUpdate_Ratings": "2024-02-09T20:59:50.7543305+00:00",
+  "LastUpdate_Ratings": "2024-02-09T22:00:10.5457091+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:44.6608193+00:00"
 }
