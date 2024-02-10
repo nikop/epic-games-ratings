@@ -1,7 +1,7 @@
 # CORRUPTION 2029
 [Store](https://store.epicgames.com/en-US/p/corruption-2029)  
 [View Rawdata](../../db/c/corruption_2029.json)  
-Rating: 3.91 (Ranked 1,092)  
+Rating: 3.89 (Ranked 1,096)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -33,3 +33,4 @@ Rating: 3.91 (Ranked 1,092)
 | 2024-01-25 | 3.92 | 0 | 0 |
 | 2024-01-26 | 3.88 | 0 | 0 |
 | 2024-02-04 | 3.91 | 0 | 0 |
+| 2024-02-10 | 3.89 | 0 | 0 |
