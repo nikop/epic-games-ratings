@@ -1,7 +1,7 @@
 # Huntdown
 [Store](https://store.epicgames.com/en-US/p/huntdown)  
 [View Rawdata](../../db/h/huntdown.json)  
-Rating: 4.81 (Ranked 79)  
+Rating: 4.81 (Ranked 80)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
