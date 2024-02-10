@@ -337,7 +337,7 @@
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 94,415 | 3.93 | 0 |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 102 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
-| [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 784,162 | 4.54 | 983 |
+| [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 784,162 | 4.54 | 987 |
 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 542,728 | 4.59 | 183 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 42 | - | 0 |
@@ -380,7 +380,7 @@
 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2023-06-30 | 30 (1,000 XP) | 249 | - | 0 |
 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | 57 (1,200 XP) | 79 | - | 0 |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 4 | - | 0 |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 5,160 | 3.95 | 0 |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 5,160 | 3.96 | 0 |
 | [HORSE CLUB Adventures](games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 2023-06-28 | 27 (1,000 XP) | 88 | - | 0 |
 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2023-06-28 | 73 (1,000 XP) | 1 | - | - |
 | [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 2023-06-28 | 37 (1,000 XP) | 4 | - | 0 |
@@ -525,7 +525,7 @@
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 170 | - | 0 |
 | [Panic Porcupine](games/p/panic_porcupine.md) | 2023-04-20 | 13 (1,000 XP) | 4 | - | - |
 | [Strawhart](games/s/strawhart.md) | 2023-04-20 | 21 (1,000 XP) | 13 | - | 0 |
-| [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 2023-04-18 | 53 (1,000 XP) | 3,520 | 4.78 | 0 |
+| [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 2023-04-18 | 53 (1,000 XP) | 3,520 | 4.79 | 0 |
 | [De-Exit - Eternal Matters](games/d/de-exit_-_eternal_matters.md) | 2023-04-14 | 29 (1,000 XP) | 1 | - | 0 |
 | [Bosorka](games/b/bosorka.md) | 2023-04-14 | 15 (1,000 XP) | 147 | - | 0 |
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 49 | - | 0 |
@@ -707,11 +707,11 @@
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 243,584 | 4.58 | 1,518 |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 2022-08-23 | 19 (1,000 XP) | 385 | - | 0 |
 | [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,396,094 | 4.45 | 65,380 |
-| [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 876,272 | 3.88 | 1,175 |
+| [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 876,272 | 3.88 | 1,177 |
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 471 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 2,781 | 4.41 | 71 |
 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2022-08-19 | 29 (1,000 XP) | 2 | - | 0 |
-| [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,578 | 4.32 | 51 |
+| [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,578 | 4.31 | 51 |
 | [We Are OFK](games/w/we_are_ofk.md) | 2022-08-18 | 28 (1,000 XP) | 1 | - | 0 |
 | [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 2,627 | 4.27 | 0 |
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 45,570 | 4.53 | 0 |
@@ -889,7 +889,7 @@
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,279,183 | 4.66 | 6,887 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 7,841 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,073 | 4.66 | 1,967 |
-| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,059,559 | 4.68 | 149,414 |
+| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,059,559 | 4.68 | 149,661 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,216 | 4.86 | 47 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 48,023 | 4.66 | 406 |
 | [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,238,669 | 4.57 | 1,989 |
