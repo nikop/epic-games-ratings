@@ -691,7 +691,7 @@
 | 685 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 596 |
 | 685 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.46 | 0 | 596 |
 | 685 | [Metalstorm](games/m/metalstorm.md) | 4.46 | 0 | 596 |
-| 685 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 721,392 | 2 |
+| 685 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 722,448 | 2 |
 | 685 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 596 |
 | 685 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 596 |
 | 685 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 596 |
