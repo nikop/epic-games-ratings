@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-infinite-complete-edition",
   "Ranking_Rating": 224,
   "Ranking_Popularity": 88,
-  "Ranking_PopularitySum": 146,
+  "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2695,10 +2695,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 5619,
       "NumberOfAwardsMax": 4662
+    },
+    {
+      "Time": "2024-02-10T13:57:21.4717197+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5741,
+      "NumberOfAwardsMax": 4662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5619,
+  "NumberOfAwards": 5741,
   "NumberOfAwardsMax": 4662,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2718,7 +2724,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 118
+      "Count": 122
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2792,8 +2798,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2024-02-09T08:00:12.7905778+00:00",
+  "LastChanged": "2024-02-10T13:57:21.4717194+00:00",
   "LastUpdate_AppInfo": "2024-02-04T07:57:29.5220174+00:00",
-  "LastUpdate_Ratings": "2024-02-10T12:00:42.0469717+00:00",
+  "LastUpdate_Ratings": "2024-02-10T13:57:21.4717204+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:00.8314334+00:00"
 }
