@@ -190,12 +190,12 @@ Completed: 56 (0.29%) (Ranked 269)
 | 2024-01-26 | 19,153 | 56 |
 | 2024-01-27 | 19,211 | 56 |
 ## Awards
-Max (Great Boss Battles): 348  (Ranked 256)  
-Sum: 389 (Ranked 372)  
+Max (Great Boss Battles): 349  (Ranked 256)  
+Sum: 390 (Ranked 372)  
 Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 348 |
+| This game has Great Boss Battles | 349 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -364,3 +364,4 @@ Diff (max vs sum): -116
 | 2024-02-04 | 4.71 | 341 | 361 |
 | 2024-02-07 | 4.71 | 345 | 365 |
 | 2024-02-08 | 4.71 | 348 | 389 |
+| 2024-02-10 | 4.71 | 349 | 390 |
