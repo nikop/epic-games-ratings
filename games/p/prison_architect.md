@@ -1,7 +1,7 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 402)  
+Rating: 4.61 (Ranked 403)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -308,12 +308,12 @@ Completed: 13 (0.01%) (Ranked 388)
 | 2024-01-27 | 221,876 | 13 |
 ## Awards
 Max (Great for Beginners): 681  (Ranked 202)  
-Sum: 5,154 (Ranked 155)  
+Sum: 5,156 (Ranked 155)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 681 |
-| This game is Extremely Fun | 646 |
+| This game is Extremely Fun | 648 |
 | This game is Highly Recommended | 614 |
 | This game is Relaxing | 601 |
 | This game has Quickly Understood Controls | 600 |
@@ -709,4 +709,4 @@ Diff (max vs sum): 47
 | 2024-02-07 | 4.61 | - | 679 | 5,139 |
 | 2024-02-08 | 4.61 | - | 679 | 5,143 |
 | 2024-02-09 | 4.61 | - | 681 | 5,146 |
-| 2024-02-10 | 4.61 | - | 681 | 5,154 |
+| 2024-02-10 | 4.61 | - | 681 | 5,156 |
