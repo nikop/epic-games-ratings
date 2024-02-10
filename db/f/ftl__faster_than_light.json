@@ -3,7 +3,7 @@
   "Name": "FTL: Faster Than Light",
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 102,
-  "Ranking_Popularity": 326,
+  "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -2110,11 +2110,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 1359,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2024-02-10T13:01:16.2513023+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1361,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1359,
-  "NumberOfAwardsMax": 173,
+  "NumberOfAwards": 1361,
+  "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -2133,13 +2139,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 152
+      "Count": 153
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2195,8 +2201,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-02-09T05:00:19.480302+00:00",
+  "LastChanged": "2024-02-10T13:01:16.2513021+00:00",
   "LastUpdate_AppInfo": "2024-02-04T02:17:33.8268969+00:00",
-  "LastUpdate_Ratings": "2024-02-10T12:00:16.8900777+00:00",
+  "LastUpdate_Ratings": "2024-02-10T13:01:16.2513025+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:17.5686627+00:00"
 }
