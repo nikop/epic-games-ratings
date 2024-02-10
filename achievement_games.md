@@ -430,7 +430,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 306 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 169 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 897,259 | 4.69 | 7,671 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 897,259 | 4.69 | 7,693 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,302,948 | 4.34 | 102 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 472 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 15 | - | 0 |
@@ -536,7 +536,7 @@
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,311 | - | 0 |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 2023-04-11 | 12 (1,000 XP) | 6 | - | 0 |
-| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,653 | 4.52 | 0 |
+| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,653 | 4.51 | 0 |
 | [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 24 (1,000 XP) | 2 | - | 0 |
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 10 (1,000 XP) | 93 | - | 0 |
 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 2023-04-10 | 48 (1,000 XP) | 64 | - | 0 |
@@ -837,7 +837,7 @@
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 5,873 | 4.45 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,613,835 | 4.65 | 1,158 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 147,834 | 4.48 | 0 |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 506,408 | 4.69 | 8,135 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 506,408 | 4.69 | 8,150 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 25,691 | 4.31 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 5,503 | 4.45 | 30 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 112,614 | 4.53 | 31 |
