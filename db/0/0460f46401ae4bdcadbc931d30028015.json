@@ -2,9 +2,9 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 991,
-  "Ranking_Popularity": 336,
-  "Ranking_PopularitySum": 335,
+  "Ranking_Rating": 984,
+  "Ranking_Popularity": 334,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 131,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -2197,11 +2197,17 @@
       "Rating": 4.19,
       "NumberOfAwards": 589,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2024-02-10T04:00:25.1859265+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 599,
+      "NumberOfAwardsMax": 165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 589,
-  "NumberOfAwardsMax": 158,
+  "NumberOfAwards": 599,
+  "NumberOfAwardsMax": 165,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2214,7 +2220,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 158
+      "Count": 165
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2232,7 +2238,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 69
+      "Count": 71
     },
     {
       "Text": "This game is Relaxing",
@@ -2244,7 +2250,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13331,9 +13337,9 @@
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-02-10T02:10:27.7135854+00:00",
+  "LastChanged": "2024-02-10T04:00:25.1859263+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:02.316138+00:00",
   "LastUpdate_AppInfo": "2024-02-08T13:57:24.8636045+00:00",
-  "LastUpdate_Ratings": "2024-02-10T02:59:03.0848545+00:00",
+  "LastUpdate_Ratings": "2024-02-10T04:00:25.1859268+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:02.3162088+00:00"
 }
