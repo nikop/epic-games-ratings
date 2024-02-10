@@ -39,7 +39,7 @@
 | 31 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 0 | 596 |
 | 31 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 596 |
 | 39 | [Coffee Talk](games/c/coffee_talk.md) | 4.85 | 0 | 596 |
-| 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,892 | 76 |
+| 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,897 | 76 |
 | 39 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 45 | 482 |
 | 39 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 596 |
 | 39 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.85 | 14,481 | 31 |
@@ -145,7 +145,7 @@
 | 137 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,320 | 70 |
 | 137 | [Journey](games/j/journey.md) | 4.76 | 0 | 596 |
 | 137 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 596 |
-| 137 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,274 | 116 |
+| 137 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,277 | 116 |
 | 137 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 596 |
 | 137 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,796 | 135 |
 | 137 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 61 | 445 |
@@ -989,17 +989,17 @@
 | 984 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 25 | 561 |
 | 984 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 578 |
 | 984 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,487 | 79 |
-| 984 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.20 | 158 | 336 |
 | 984 | [MetalCore](games/m/metalcore.md) | 4.20 | 0 | 596 |
-| 992 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.19 | 0 | 596 |
-| 992 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 470 |
-| 992 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 596 |
-| 992 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,323 | 104 |
-| 992 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.19 | 0 | 596 |
-| 992 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 79 | 411 |
-| 992 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 596 |
-| 992 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 596 |
-| 992 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 596 |
+| 991 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.19 | 0 | 596 |
+| 991 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 470 |
+| 991 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 596 |
+| 991 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,323 | 104 |
+| 991 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.19 | 0 | 596 |
+| 991 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.19 | 158 | 336 |
+| 991 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 79 | 411 |
+| 991 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 596 |
+| 991 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 596 |
+| 991 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 596 |
 | 1,001 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 596 |
 | 1,001 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 596 |
 | 1,001 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 220,990 | 6 |
@@ -1117,7 +1117,7 @@
 | 1,115 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 596 |
 | 1,116 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 596 |
 | 1,117 | [Redfall](games/r/redfall.md) | 3.65 | 35 | 515 |
-| 1,118 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.59 | 0 | 596 |
+| 1,118 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.64 | 0 | 596 |
 | 1,119 | [Adios](games/a/adios.md) | 3.56 | 0 | 596 |
 | 1,120 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.55 | 0 | 596 |
 | 1,121 | [Operation New Earth](games/o/operation_new_earth.md) | 3.43 | 0 | 596 |
