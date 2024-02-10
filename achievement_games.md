@@ -107,7 +107,7 @@
 | [Arms Race 2](games/d/d3b4722b35674be186318c5f5e14b13e.md) | 2023-12-05 | 17 (1,000 XP) | 16 | - | 0 |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | 36 (1,000 XP) | 58 | - | 0 |
 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 345 | - | 0 |
-| [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 2023-12-04 | 5 (1,000 XP) | 13 | - | - |
+| [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 2023-12-04 | 5 (1,000 XP) | 13 | - | 0 |
 | [TrekkingAndCamping](games/5/5f9ba5f02fce44f4ab7faba53e835305.md) | 2023-12-04 | 16 (1,000 XP) | 7 | - | - |
 | [Horse Racing](games/e/e4e71e80487245b682ed399fa518964e.md) | 2023-12-02 | 9 (1,000 XP) | 9 | - | - |
 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 2023-12-02 | 5 (1,000 XP) | 11 | - | 0 |
@@ -338,7 +338,7 @@
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 102 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 784,162 | 4.54 | 987 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 542,728 | 4.58 | 183 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 542,728 | 4.58 | 185 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 42 | - | 0 |
 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 403 | - | 0 |
@@ -795,7 +795,7 @@
 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 2022-03-02 | 73 (1,000 XP) | 220 | 4.29 | 0 |
 | [HordeCore](games/h/hordecore.md) | 2022-03-02 | 28 (1,000 XP) | 364 | - | 0 |
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 296 | 4.28 | 0 |
-| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,186,097 | 4.61 | 55,304 |
+| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,186,097 | 4.61 | 55,389 |
 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 2022-02-28 | 46 (1,000 XP) | 511 | 4.40 | 0 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 2022-02-25 | 101 (1,000 XP) | 4,459 | 4.27 | 0 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 2022-02-17 | 34 (1,000 XP) | 141,534 | 4.41 | 0 |
@@ -892,7 +892,7 @@
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,059,559 | 4.68 | 149,661 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,216 | 4.86 | 47 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 48,023 | 4.66 | 406 |
-| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,238,669 | 4.57 | 1,989 |
+| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,238,669 | 4.57 | 2,006 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 44,699 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,252 | 4.02 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 437,887 | 4.63 | 57 |
@@ -901,7 +901,7 @@
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 28,545 | 4.85 | 229 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 56,377 | 4.69 | 53 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 582 | 4.63 | 35 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,024,561 | 4.78 | 9,479 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,024,561 | 4.78 | 9,500 |
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2020-06-25 | 20 (1,000 XP) | 29,605 | 4.45 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 1,252 | 4.65 | 36 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 140,235 | 4.87 | 776 |

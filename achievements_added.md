@@ -96,7 +96,7 @@
 | [Sudoku Zenkai](games/b/bbae2cd3c9a3495f94e3223c91bdc69a.md) | 2023-12-06 | 57 (1,000 XP) | 0 | - | 0 |
 | [Epic World - Hunt For Quest](games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 2023-12-07 | 10 (1,000 XP) | 3 | - | - |
 | [Quiz Time](games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | 2023-12-05 | 5 (1,000 XP) | 5 | - | - |
-| [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 2023-12-04 | 5 (1,000 XP) | 13 | - | - |
+| [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 2023-12-04 | 5 (1,000 XP) | 13 | - | 0 |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | 28 (1,000 XP) | 277 | - | 0 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 478 | 4.54 | 37 |
 | [Funtoon's World](games/a/a7ec33941949459cab07e39c65ca4309.md) | 2023-12-07 | 6 (1,000 XP) | 10 | - | 0 |
@@ -369,7 +369,7 @@
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-08-11 | 74 (1,000 XP) | 0 | - | 0 |
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 94,415 | 3.93 | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 784,162 | 4.54 | 987 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 542,728 | 4.58 | 183 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 542,728 | 4.58 | 185 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 347 | - | 0 |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 16 | - | - |
 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 2023-09-06 | 11 (1,000 XP) | 8 | - | - |
