@@ -4,7 +4,7 @@
   "ProductSlug": "realm-royale-reforged",
   "Ranking_Rating": 898,
   "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 253,
+  "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2660,10 +2660,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 1437,
       "NumberOfAwardsMax": 169
+    },
+    {
+      "Time": "2024-02-11T11:58:04.6670307+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1438,
+      "NumberOfAwardsMax": 169
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1437,
+  "NumberOfAwards": 1438,
   "NumberOfAwardsMax": 169,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2671,7 +2677,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 148
+      "Count": 149
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2752,8 +2758,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2024-02-10T16:00:23.3924499+00:00",
+  "LastChanged": "2024-02-11T11:58:04.6670305+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:37.0070398+00:00",
-  "LastUpdate_Ratings": "2024-02-11T10:01:52.6657682+00:00",
+  "LastUpdate_Ratings": "2024-02-11T11:58:04.667031+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:20.3371619+00:00"
 }
