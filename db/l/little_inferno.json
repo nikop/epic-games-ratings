@@ -3,8 +3,8 @@
   "Name": "Little Inferno",
   "ProductSlug": "little-inferno",
   "Ranking_Rating": 517,
-  "Ranking_Popularity": 597,
-  "Ranking_PopularitySum": 597,
+  "Ranking_Popularity": 598,
+  "Ranking_PopularitySum": 598,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -399,6 +399,6 @@
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
   "LastChanged": "2024-01-11T09:03:44.1091322+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:42.639865+00:00",
-  "LastUpdate_Ratings": "2024-02-11T05:58:25.7746852+00:00",
+  "LastUpdate_Ratings": "2024-02-11T06:59:11.3287201+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:53.7374703+00:00"
 }

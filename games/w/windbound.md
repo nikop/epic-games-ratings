@@ -1,7 +1,7 @@
 # Windbound
 [Store](https://store.epicgames.com/en-US/p/windbound)  
 [View Rawdata](../../db/w/windbound.json)  
-Rating: 4.19 (Ranked 990)  
+Rating: 4.18 (Ranked 998)  
 Number of Ratings: 2,109  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -85,3 +85,4 @@ Number of Ratings: 2,109  (23.09.2022)
 | 2024-01-06 | 4.19 | - | 0 | 0 |
 | 2024-01-17 | 4.18 | - | 0 | 0 |
 | 2024-01-23 | 4.19 | - | 0 | 0 |
+| 2024-02-11 | 4.18 | - | 0 | 0 |

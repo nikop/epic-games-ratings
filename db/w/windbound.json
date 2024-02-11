@@ -2,9 +2,9 @@
   "ID": "a47cb01bef994749ac731aa3366796e8",
   "Name": "Windbound",
   "ProductSlug": "windbound",
-  "Ranking_Rating": 990,
-  "Ranking_Popularity": 597,
-  "Ranking_PopularitySum": 597,
+  "Ranking_Rating": 998,
+  "Ranking_Popularity": 598,
+  "Ranking_PopularitySum": 598,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "NumberOfRatings": 2109,
   "RatingHistory": [
     {
@@ -711,6 +711,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-11T06:58:54.7703294+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -728,8 +734,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:10.910936+00:00",
-  "LastChanged": "2024-01-23T18:57:23.8468449+00:00",
+  "LastChanged": "2024-02-11T06:58:54.7703292+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:38.5946433+00:00",
-  "LastUpdate_Ratings": "2024-02-11T05:58:09.7808319+00:00",
+  "LastUpdate_Ratings": "2024-02-11T06:58:54.7703298+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:02.6180805+00:00"
 }
