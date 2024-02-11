@@ -185,7 +185,7 @@
 | 170 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,036 | 165 |
 | 170 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 598 |
 | 185 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 482 | 231 |
-| 185 | [Diabotical](games/d/diabotical.md) | 4.73 | 303 | 267 |
+| 185 | [Diabotical](games/d/diabotical.md) | 4.73 | 304 | 266 |
 | 185 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 53 | 460 |
 | 185 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.73 | 60 | 447 |
 | 185 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 598 |
@@ -250,7 +250,7 @@
 | 243 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,159 | 52 |
 | 243 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,150 | 53 |
 | 243 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.69 | 0 | 598 |
-| 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 7,693 | 57 |
+| 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 7,716 | 57 |
 | 243 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,864 | 48 |
 | 243 | [House Flipper](games/h/house_flipper.md) | 4.69 | 338 | 259 |
 | 243 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 0 | 598 |
@@ -448,7 +448,7 @@
 | 436 | [Risen](games/r/risen.md) | 4.60 | 0 | 598 |
 | 436 | [Tavern Master](games/t/tavern_master.md) | 4.60 | 0 | 598 |
 | 436 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.60 | 0 | 598 |
-| 436 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 485 | 230 |
+| 436 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 486 | 230 |
 | 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 0 | 598 |
 | 436 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 25 | 562 |
 | 436 | [Witchfire](games/w/witchfire.md) | 4.60 | 73 | 422 |
@@ -462,7 +462,7 @@
 | 453 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.59 | 45 | 483 |
 | 453 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 15,129 | 27 |
 | 453 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 42 | 492 |
-| 453 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 883 | 183 |
+| 453 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 886 | 183 |
 | 453 | [IXION](games/i/ixion.md) | 4.59 | 0 | 598 |
 | 453 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 41 | 493 |
 | 453 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.59 | 0 | 598 |
@@ -695,7 +695,7 @@
 | 684 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 598 |
 | 684 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 598 |
 | 684 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.46 | 0 | 598 |
-| 684 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 303 | 267 |
+| 684 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 303 | 268 |
 | 684 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 598 |
 | 684 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 598 |
 | 684 | [Train Valley 2](games/t/train_valley_2.md) | 4.46 | 1,098 | 158 |
@@ -911,6 +911,7 @@
 | 897 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 598 |
 | 910 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.28 | 0 | 598 |
 | 910 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 0 | 598 |
+| 910 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.28 | 0 | 598 |
 | 910 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.28 | 0 | 598 |
 | 910 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 598 |
 | 910 | [Flatout](games/f/flatout.md) | 4.28 | 0 | 598 |
@@ -924,15 +925,14 @@
 | 910 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 0 | 598 |
 | 910 | [The Surge 2](games/t/the_surge_2.md) | 4.28 | 0 | 598 |
 | 910 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.28 | 0 | 598 |
-| 925 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.27 | 0 | 598 |
-| 925 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 598 |
-| 925 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 37 | 505 |
-| 925 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 598 |
-| 925 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 21 | 584 |
-| 925 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 21 | 584 |
-| 925 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,966 | 107 |
-| 925 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 0 | 598 |
-| 925 | [Wreckfest](games/w/wreckfest.md) | 4.27 | 0 | 598 |
+| 926 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 598 |
+| 926 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 37 | 505 |
+| 926 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 598 |
+| 926 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 21 | 584 |
+| 926 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 21 | 584 |
+| 926 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,966 | 107 |
+| 926 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 0 | 598 |
+| 926 | [Wreckfest](games/w/wreckfest.md) | 4.27 | 0 | 598 |
 | 934 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 598 |
 | 934 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,514 | 22 |
 | 934 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,009 | 96 |
