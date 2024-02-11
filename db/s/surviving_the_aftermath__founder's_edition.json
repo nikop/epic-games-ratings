@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 796,
+  "Ranking_Rating": 810,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 41,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "NumberOfRatings": 836,
   "RatingHistory": [
     {
@@ -3520,10 +3520,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 1567,
       "NumberOfAwardsMax": 296
+    },
+    {
+      "Time": "2024-02-11T09:57:44.5368204+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1568,
+      "NumberOfAwardsMax": 296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1567,
+  "NumberOfAwards": 1568,
   "NumberOfAwardsMax": 296,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3531,7 +3537,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 254
+      "Count": 255
     },
     {
       "Text": "This game is Relaxing",
@@ -28591,9 +28597,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2024-02-10T21:59:02.9062579+00:00",
+  "LastChanged": "2024-02-11T09:57:44.5368203+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:56.7704469+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:10.5982644+00:00",
-  "LastUpdate_Ratings": "2024-02-11T08:00:01.1012981+00:00",
+  "LastUpdate_Ratings": "2024-02-11T09:57:44.5368207+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:56.7705686+00:00"
 }
