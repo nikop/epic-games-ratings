@@ -46,7 +46,7 @@
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,668 | 4.89 | 12 |
 | 45 | [DEATH STRANDING](games/d/death_stranding.md) | 9,500 | 4.78 | 112 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,307 | 4.50 | 629 |
-| 47 | [Control](games/c/control.md) | 9,223 | 4.61 | 404 |
+| 47 | [Control](games/c/control.md) | 9,227 | 4.61 | 404 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,864 | 4.69 | 243 |
 | 49 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,814 | 4.56 | 517 |
 | 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 8,472 | 4.74 | 170 |
@@ -63,8 +63,8 @@
 | 61 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 7,016 | 4.64 | 354 |
 | 62 | [Cities: Skylines](games/c/cities__skylines.md) | 6,896 | 4.66 | 307 |
 | 63 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,774 | 4.58 | 478 |
-| 64 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 6,742 | 4.49 | 647 |
-| 65 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 6,709 | 4.50 | 629 |
+| 64 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 6,772 | 4.49 | 647 |
+| 65 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 6,769 | 4.50 | 629 |
 | 66 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 757 |
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,586 | 4.82 | 69 |
 | 68 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,505 | 4.80 | 94 |
@@ -155,7 +155,7 @@
 | 153 | [Saints Row](games/s/saints_row.md) | 1,179 | 3.88 | 1,097 |
 | 154 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,159 | 4.65 | 333 |
 | 155 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,115 | 4.61 | 404 |
-| 156 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,111 | 4.69 | 243 |
+| 156 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,114 | 4.69 | 243 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,101 | 4.46 | 684 |
 | 158 | [Train Valley 2](games/t/train_valley_2.md) | 1,098 | 4.46 | 684 |
 | 159 | [Torchlight II](games/t/torchlight_ii.md) | 1,091 | 4.59 | 453 |
@@ -291,8 +291,8 @@
 | 289 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 235 | 4.66 | 307 |
 | 289 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 235 | 4.78 | 112 |
 | 291 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 234 | 4.83 | 56 |
-| 292 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 232 | 4.61 | 404 |
-| 292 | [Old World](games/o/old_world.md) | 232 | 4.65 | 333 |
+| 292 | [Old World](games/o/old_world.md) | 233 | 4.65 | 333 |
+| 293 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 232 | 4.61 | 404 |
 | 294 | [Crying Suns](games/c/crying_suns.md) | 231 | 4.51 | 611 |
 | 295 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 229 | 4.85 | 39 |
 | 296 | [Sunless Sea](games/s/sunless_sea.md) | 224 | 4.59 | 453 |
@@ -305,8 +305,8 @@
 | 303 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 213 | 4.59 | 453 |
 | 304 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 210 | 4.52 | 588 |
 | 305 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 208 | 4.35 | 844 |
-| 306 | [Relicta](games/r/relicta.md) | 206 | 4.15 | 1,020 |
-| 307 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 205 | 4.40 | 783 |
+| 305 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 208 | 4.40 | 783 |
+| 307 | [Relicta](games/r/relicta.md) | 206 | 4.15 | 1,020 |
 | 308 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 204 | 4.85 | 39 |
 | 308 | [Star Stable Online](games/s/star_stable_online.md) | 204 | 4.42 | 757 |
 | 308 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 204 | 4.69 | 243 |
@@ -337,8 +337,8 @@
 | 335 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 161 | 4.77 | 121 |
 | 336 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 160 | 4.52 | 588 |
 | 337 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 159 | 4.37 | 822 |
-| 338 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 155 | 4.51 | 611 |
-| 338 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 155 | 4.22 | 966 |
+| 338 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 156 | 4.22 | 966 |
+| 339 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 155 | 4.51 | 611 |
 | 340 | [First Class Trouble](games/f/first_class_trouble.md) | 153 | 4.47 | 673 |
 | 341 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 151 | 4.36 | 832 |
 | 342 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 150 | 4.67 | 292 |
@@ -366,7 +366,7 @@
 | 364 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 124 | 4.66 | 307 |
 | 365 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 119 | 4.50 | 629 |
 | 366 | [Faeria](games/f/faeria.md) | 118 | 4.44 | 720 |
-| 367 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 117 | 3.84 | 1,103 |
+| 367 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 117 | 3.83 | 1,105 |
 | 368 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 115 | 4.44 | 720 |
 | 369 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 114 | 4.58 | 478 |
 | 370 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 113 | 4.50 | 629 |
