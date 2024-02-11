@@ -2,9 +2,9 @@
   "ID": "38b4b40752b142e5a503acbb241a8b3c",
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 421,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2023-08-07T09:57:49.6862066+00:00",
@@ -789,10 +789,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 223,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-02-11T17:58:33.005223+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 224,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 223,
+  "NumberOfAwards": 224,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -842,7 +848,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -865,9 +871,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-02-11T07:57:42.8503749+00:00",
+  "LastChanged": "2024-02-11T17:58:33.0052229+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:50.9119865+00:00",
   "LastUpdate_AppInfo": "2024-02-07T13:57:45.621665+00:00",
-  "LastUpdate_Ratings": "2024-02-11T16:57:50.9804021+00:00",
+  "LastUpdate_Ratings": "2024-02-11T17:58:33.0052238+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:50.9119882+00:00"
 }

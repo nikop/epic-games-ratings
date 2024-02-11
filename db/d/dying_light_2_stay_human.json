@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 477,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 21,
@@ -15950,10 +15950,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 35761,
       "NumberOfAwardsMax": 13395
+    },
+    {
+      "Time": "2024-02-11T17:57:45.3903374+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 35793,
+      "NumberOfAwardsMax": 13395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35761,
+  "NumberOfAwards": 35793,
   "NumberOfAwardsMax": 13395,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15973,7 +15979,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1486
+      "Count": 1494
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15985,7 +15991,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1866
+      "Count": 1886
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16021,7 +16027,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1404
+      "Count": 1408
     },
     {
       "Text": "This game has a Creative Community",
@@ -49107,9 +49113,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2024-02-11T12:57:43.2048711+00:00",
+  "LastChanged": "2024-02-11T17:57:45.3903372+00:00",
   "LastChanged_Achievements": "2024-01-27T13:04:40.5124125+00:00",
   "LastUpdate_AppInfo": "2024-02-11T06:57:02.6654018+00:00",
-  "LastUpdate_Ratings": "2024-02-11T16:00:41.7406176+00:00",
+  "LastUpdate_Ratings": "2024-02-11T17:57:45.3903379+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:40.5125798+00:00"
 }

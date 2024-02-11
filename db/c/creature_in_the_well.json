@@ -2,7 +2,7 @@
   "ID": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
   "Name": "Creature in the Well",
   "ProductSlug": "creature-in-the-well",
-  "Ranking_Rating": 941,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "NumberOfRatings": 113,
   "RatingHistory": [
     {
@@ -404,6 +404,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-02-11T17:58:15.3200223+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -429,8 +435,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:44.5779838+00:00",
-  "LastChanged": "2024-01-31T17:58:14.6968774+00:00",
+  "LastChanged": "2024-02-11T17:58:15.3200222+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:17.7789558+00:00",
-  "LastUpdate_Ratings": "2024-02-11T16:57:23.2412077+00:00",
+  "LastUpdate_Ratings": "2024-02-11T17:58:15.3200227+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:35.9771819+00:00"
 }
