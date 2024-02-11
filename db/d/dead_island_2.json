@@ -4,7 +4,7 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 554,
   "Ranking_Popularity": 39,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 37,
@@ -9763,10 +9763,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 17726,
       "NumberOfAwardsMax": 11416
+    },
+    {
+      "Time": "2024-02-11T08:58:20.8751783+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 17740,
+      "NumberOfAwardsMax": 11416
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17726,
+  "NumberOfAwards": 17740,
   "NumberOfAwardsMax": 11416,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9804,13 +9810,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 688
+      "Count": 698
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 745
+      "Count": 749
     },
     {
       "Text": "This game is Relaxing",
@@ -42831,9 +42837,9 @@
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2024-02-11T06:59:46.1514564+00:00",
+  "LastChanged": "2024-02-11T08:58:20.8751781+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:30.3084084+00:00",
-  "LastUpdate_AppInfo": "2024-02-04T07:58:14.7194482+00:00",
-  "LastUpdate_Ratings": "2024-02-11T06:59:46.151457+00:00",
+  "LastUpdate_AppInfo": "2024-02-11T08:57:13.0182051+00:00",
+  "LastUpdate_Ratings": "2024-02-11T08:58:20.8751787+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:30.3085468+00:00"
 }
