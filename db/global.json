@@ -1,5 +1,5 @@
 {
-  "CatalogLastModifiedDate": "2024-02-11T17:39:46.937+00:00",
+  "CatalogLastModifiedDate": "2024-02-11T18:45:41.127+00:00",
   "KnownCustomAttributes": {
     "isManuallySetViewableDate": {
       "KnownValues": {
@@ -92,6 +92,11 @@
     "catalogItemAgeGatings": {
       "KnownValues": {
         "true": "27aa2ebdcda14b3bb8a669aab73ca55f"
+      }
+    },
+    "isPromotionalContentUsed": {
+      "KnownValues": {
+        "null": "a2a68ba87f494656b676de3a268dcf2a"
       }
     }
   }

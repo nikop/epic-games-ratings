@@ -4,7 +4,7 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 224,
   "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 461,
+  "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -669,10 +669,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 132,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-02-11T18:58:13.6704611+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 133,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 132,
+  "NumberOfAwards": 133,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -716,7 +722,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -730,8 +736,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-02-10T15:57:55.5130278+00:00",
+  "LastChanged": "2024-02-11T18:58:13.6704609+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:53.2564231+00:00",
-  "LastUpdate_Ratings": "2024-02-11T17:57:04.625124+00:00",
+  "LastUpdate_Ratings": "2024-02-11T18:58:13.6704614+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:59.6581632+00:00"
 }
