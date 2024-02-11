@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 554)  
+Rating: 4.53 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -324,13 +324,13 @@ Completed: 110 (0.66%) (Ranked 213)
 | 2024-01-26 | 16,716 | 110 |
 | 2024-01-27 | 16,724 | 110 |
 ## Awards
-Max (Highly Recommended): 20  (Ranked 593)  
-Sum: 20 (Ranked 593)  
-Diff (max vs sum): 0  
+Max (Highly Recommended): 21  (Ranked 584)  
+Sum: 21 (Ranked 586)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 177 |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -502,4 +502,4 @@ Diff (max vs sum): 0
 | 2024-01-27 | 4.53 | 20 | 20 |
 | 2024-02-06 | 4.54 | 20 | 20 |
 | 2024-02-10 | 4.53 | 20 | 20 |
-| 2024-02-11 | 4.54 | 20 | 20 |
+| 2024-02-11 | 4.54 | 21 | 21 |
