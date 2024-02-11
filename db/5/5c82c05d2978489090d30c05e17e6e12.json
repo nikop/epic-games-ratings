@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 1012,
+  "Ranking_Rating": 1030,
   "Ranking_Popularity": 597,
   "Ranking_PopularitySum": 597,
   "Ranking_EOS_Progress": 115,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -309,6 +309,12 @@
     {
       "Time": "2024-02-10T01:36:33.2401769+00:00",
       "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-10T23:59:05.0334352+00:00",
+      "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -9142,9 +9148,9 @@
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2024-02-10T01:36:33.2401768+00:00",
+  "LastChanged": "2024-02-10T23:59:05.033435+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:16.0415856+00:00",
   "LastUpdate_AppInfo": "2024-02-08T19:57:05.019665+00:00",
-  "LastUpdate_Ratings": "2024-02-10T22:57:59.7306587+00:00",
+  "LastUpdate_Ratings": "2024-02-10T23:59:05.0334356+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:16.0416457+00:00"
 }
