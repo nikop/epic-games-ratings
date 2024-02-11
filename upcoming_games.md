@@ -15,6 +15,7 @@
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-02-15 | 45 (1,000 XP) | 1 | - | - |
 | [Delivery Boy](games/8/84860d15749f404e8a24fd58e6b01448.md) | 2024-02-15 | - |  | - | - |
 | [Pinbot](games/2/2fb0f7c2c29041ea94464a263acfbeb7.md) | 2024-02-15 | - |  | - | - |
+| [Street Fighting Simulator](games/e/e1094f6a687543c9ab4543dcba655554.md) | 2024-02-15 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | - | - |
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | - |
