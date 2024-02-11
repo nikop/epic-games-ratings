@@ -1,7 +1,7 @@
 # Alan Wake 2
 [Store](https://store.epicgames.com/en-US/p/alan-wake-2)  
 [View Rawdata](../../db/a/alan_wake_2.json)  
-Rating: 4.80 (Ranked 93)  
+Rating: 4.81 (Ranked 79)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -305,4 +305,4 @@ Diff (max vs sum): 32
 | 2024-02-08 | 4.80 | 856 | 5,211 |
 | 2024-02-09 | 4.80 | 863 | 5,223 |
 | 2024-02-10 | 4.80 | 867 | 5,247 |
-| 2024-02-11 | 4.80 | 867 | 5,248 |
+| 2024-02-11 | 4.81 | 867 | 5,248 |
