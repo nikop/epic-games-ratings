@@ -269,7 +269,7 @@
 | 264 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 20 | 2,929 |
 | 264 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 20 | 3,938 |
 | 269 | [Aircraft Carrier Survival](games/6/6c0cf3150f2647858f071175510cfcd4.md) | 19 | 49 |
-| 269 | [Coryphaeus Championships (Closed Beta)](games/c/coryphaeus_championships.md) | 19 | 32 |
+| 269 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 19 | 32 |
 | 269 | [Scorn](games/s/scorn.md) | 19 | 3,034 |
 | 269 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 19 | 2,481 |
 | 269 | [The Surge 2](games/t/the_surge_2.md) | 19 | 2,627 |
@@ -529,7 +529,7 @@
 | 464 | [Train Valley](games/t/train_valley.md) | 1 | 670 |
 | 464 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1 | 276 |
 | 464 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 1 | 34 |
-| 3,943 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | -8 | 897 |
-| 3,944 | [RAILGRADE](games/r/railgrade.md) | -51 | 17,682 |
-| 3,945 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | -70 | 239,339 |
-| 3,946 | [Severed Steel](games/s/severed_steel.md) | -2,656 | 643,178 |
+| 3,944 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | -8 | 897 |
+| 3,945 | [RAILGRADE](games/r/railgrade.md) | -51 | 17,682 |
+| 3,946 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | -70 | 239,339 |
+| 3,947 | [Severed Steel](games/s/severed_steel.md) | -2,656 | 643,178 |

@@ -487,7 +487,7 @@
 | 414 | [City of Gangsters](games/c/city_of_gangsters.md) | 0.00% |
 | 414 | [Cloud Cutter](games/c/cloud_cutter.md) | 0.00% |
 | 414 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 0.00% |
-| 414 | [Coryphaeus Championships (Closed Beta)](games/c/coryphaeus_championships.md) | 0.00% |
+| 414 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 0.00% |
 | 414 | [CounterAttack: Uprising](games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 0.00% |
 | 414 | [Covid Carl](games/c/covid_carl.md) | 0.00% |
 | 414 | [Crayta](games/c/crayta.md) | 0.00% |
@@ -854,4 +854,4 @@
 | 414 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 414 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 414 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,946 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.76% |
+| 3,947 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.76% |

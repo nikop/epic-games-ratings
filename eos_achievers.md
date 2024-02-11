@@ -606,7 +606,7 @@
 | 601 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 34 | 3 |
 | 605 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 33 | 0 |
 | 605 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 33 | 2 |
-| 607 | [Coryphaeus Championships (Closed Beta)](games/c/coryphaeus_championships.md) | 32 | 0 |
+| 607 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 32 | 0 |
 | 607 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 32 | 0 |
 | 607 | [Life After Death](games/l/life_after_death.md) | 32 | 0 |
 | 607 | [Out of Bounds](games/o/out_of_bounds.md) | 32 | 3 |
