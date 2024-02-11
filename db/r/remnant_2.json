@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 204,
+  "Ranking_Rating": 203,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 65,
@@ -8317,10 +8317,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 19098,
       "NumberOfAwardsMax": 8067
+    },
+    {
+      "Time": "2024-02-11T15:57:09.5227578+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 19127,
+      "NumberOfAwardsMax": 8067
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19098,
+  "NumberOfAwards": 19127,
   "NumberOfAwardsMax": 8067,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8358,13 +8364,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1143
+      "Count": 1155
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1113
+      "Count": 1125
     },
     {
       "Text": "This game has a Creative Community",
@@ -8376,7 +8382,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1076
+      "Count": 1081
     },
     {
       "Text": "This game has Unique Visuals",
@@ -31480,9 +31486,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-02-11T14:00:37.4025236+00:00",
+  "LastChanged": "2024-02-11T15:57:09.5227576+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:26.9737069+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:32.1688084+00:00",
-  "LastUpdate_Ratings": "2024-02-11T14:00:37.4025241+00:00",
+  "LastUpdate_Ratings": "2024-02-11T15:57:09.5227585+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:26.9738405+00:00"
 }

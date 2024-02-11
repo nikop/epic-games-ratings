@@ -1,11 +1,11 @@
 # Totally Accurate Battle Simulator
 [Store](https://store.epicgames.com/en-US/p/totally-accurate-battle-simulator)  
 [View Rawdata](../../db/t/totally_accurate_battle_simulator.json)  
-Rating: 4.75 (Ranked 154)  
+Rating: 4.75 (Ranked 153)  
 Number of Ratings: 2,102  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 466  (Ranked 235)  
-Sum: 3,686 (Ranked 175)  
+Sum: 3,688 (Ranked 175)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -15,10 +15,10 @@ Diff (max vs sum): 60
 | This game is Great for Quick Sessions | 365 |
 | This game is Extremely Fun | 360 |
 | This game is Highly Recommended | 348 |
-| This game has Amazing Storytelling | 346 |
+| This game has Amazing Storytelling | 347 |
 | This game has a Creative Community | 345 |
 | This game is Relaxing | 323 |
-| This game has Quickly Understood Controls | 312 |
+| This game has Quickly Understood Controls | 313 |
 | This game has Unique Visuals | 232 |
 | This game has Obsessive Gameplay | 147 |
 | This game has Easy Combat | 79 |
@@ -386,4 +386,4 @@ Diff (max vs sum): 60
 | 2024-02-08 | 4.75 | - | 465 | 3,677 |
 | 2024-02-09 | 4.75 | - | 465 | 3,680 |
 | 2024-02-10 | 4.75 | - | 465 | 3,683 |
-| 2024-02-11 | 4.75 | - | 466 | 3,686 |
+| 2024-02-11 | 4.75 | - | 466 | 3,688 |

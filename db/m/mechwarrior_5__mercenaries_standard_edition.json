@@ -2,7 +2,7 @@
   "ID": "b9def67e597b4be7a16146146a044d02",
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
   "ProductSlug": "mechwarrior-5",
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 4280,
   "RatingHistory": [
     {
@@ -6907,6 +6907,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 8449,
       "NumberOfAwardsMax": 1405
+    },
+    {
+      "Time": "2024-02-11T15:58:41.6981864+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 8449,
+      "NumberOfAwardsMax": 1405
     }
   ],
   "ReviewsDisabled": false,
@@ -6980,8 +6986,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2024-02-10T22:59:25.3464632+00:00",
+  "LastChanged": "2024-02-11T15:58:41.6981862+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:44.3890878+00:00",
-  "LastUpdate_Ratings": "2024-02-11T14:57:33.9396048+00:00",
+  "LastUpdate_Ratings": "2024-02-11T15:58:41.6981871+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:12.9448887+00:00"
 }

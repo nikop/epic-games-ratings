@@ -2,7 +2,7 @@
   "ID": "91189432bbad4478afd611edff7f0339",
   "Name": "This War of Mine",
   "ProductSlug": "this-war-of-mine",
-  "Ranking_Rating": 170,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 856,
@@ -1855,10 +1855,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 739,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-02-11T15:58:19.60791+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 740,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 739,
+  "NumberOfAwards": 740,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1908,7 +1914,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has a Creative Community",
@@ -1942,9 +1948,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2024-02-11T11:58:25.5872464+00:00",
+  "LastChanged": "2024-02-11T15:58:19.6079098+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:16.2139116+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:03.4936377+00:00",
-  "LastUpdate_Ratings": "2024-02-11T14:02:08.3987404+00:00",
+  "LastUpdate_Ratings": "2024-02-11T15:58:19.6079104+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:16.2139132+00:00"
 }
