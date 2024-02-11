@@ -2,7 +2,7 @@
   "ID": "3d4b3dcf7ec449c7a042c163d08fa0f3",
   "Name": "Legend of Keepers",
   "ProductSlug": "legend-of-keepers",
-  "Ranking_Rating": 537,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 597,
   "Ranking_PopularitySum": 597,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.49,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -180,6 +180,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-11T06:00:21.2935383+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -197,8 +203,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:54.4614277+00:00",
-  "LastChanged": "2024-01-01T18:59:07.4771599+00:00",
+  "LastChanged": "2024-02-11T06:00:21.2935084+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:21.2191647+00:00",
-  "LastUpdate_Ratings": "2024-02-11T05:00:31.7832365+00:00",
+  "LastUpdate_Ratings": "2024-02-11T06:00:21.2935388+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:27.1731821+00:00"
 }
