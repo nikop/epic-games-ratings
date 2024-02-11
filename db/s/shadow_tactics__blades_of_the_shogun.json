@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 292,
+  "Ranking_Rating": 306,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 80,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 495,
   "RatingHistory": [
     {
@@ -2676,6 +2676,12 @@
     {
       "Time": "2024-02-09T01:39:08.2261418+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 4998,
+      "NumberOfAwardsMax": 601
+    },
+    {
+      "Time": "2024-02-11T01:42:47.5328819+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 4998,
       "NumberOfAwardsMax": 601
     }
@@ -35645,9 +35651,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-02-09T01:39:08.2261417+00:00",
+  "LastChanged": "2024-02-11T01:42:47.5328817+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:42.5733978+00:00",
   "LastUpdate_AppInfo": "2024-02-04T06:57:43.9993927+00:00",
-  "LastUpdate_Ratings": "2024-02-10T23:01:10.8870073+00:00",
+  "LastUpdate_Ratings": "2024-02-11T01:42:47.5328821+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:42.5735994+00:00"
 }
