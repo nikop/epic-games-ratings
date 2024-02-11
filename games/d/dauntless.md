@@ -1,11 +1,11 @@
 # Dauntless
 [Store](https://store.epicgames.com/en-US/p/dauntless)  
 [View Rawdata](../../db/d/dauntless.json)  
-Rating: 4.53 (Ranked 576)  
+Rating: 4.53 (Ranked 577)  
 Number of Ratings: 23,656  (23.09.2022)  
 ## Awards
 Max (Character Customization): 26,650  (Ranked 19)  
-Sum: 69,007 (Ranked 24)  
+Sum: 69,011 (Ranked 24)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -5
 | This game is Highly Recommended | 3,970 |
 | This game is Extremely Fun | 3,915 |
 | This game has Amazing Characters | 3,817 |
-| This game has Quickly Understood Controls | 3,794 |
+| This game has Quickly Understood Controls | 3,798 |
 | This game is Relaxing | 3,765 |
 | This game is Great for Quick Sessions | 1,548 |
 | This game has Obsessive Gameplay | 420 |
@@ -404,3 +404,4 @@ Diff (max vs sum): -5
 | 2024-02-08 | 4.53 | - | 26,586 | 68,826 |
 | 2024-02-09 | 4.53 | - | 26,617 | 68,901 |
 | 2024-02-10 | 4.53 | - | 26,650 | 69,007 |
+| 2024-02-11 | 4.53 | - | 26,650 | 69,011 |
