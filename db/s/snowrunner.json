@@ -16513,10 +16513,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 97717,
       "NumberOfAwardsMax": 14955
+    },
+    {
+      "Time": "2024-02-11T20:57:08.7461892+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 97784,
+      "NumberOfAwardsMax": 14955
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97717,
+  "NumberOfAwards": 97784,
   "NumberOfAwardsMax": 14955,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -16566,19 +16572,19 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 8596
+      "Count": 8626
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 7737
+      "Count": 7755
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 7663
+      "Count": 7682
     }
   ],
   "EOS_Progressed": 0,
@@ -16592,8 +16598,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2024-02-11T15:01:24.7165608+00:00",
+  "LastChanged": "2024-02-11T20:57:08.7461891+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:41.656655+00:00",
-  "LastUpdate_Ratings": "2024-02-11T18:59:39.3150029+00:00",
+  "LastUpdate_Ratings": "2024-02-11T20:57:08.7461895+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:56.7992394+00:00"
 }
