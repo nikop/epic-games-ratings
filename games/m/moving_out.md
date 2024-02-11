@@ -1,11 +1,11 @@
 # Moving Out
 [Store](https://store.epicgames.com/en-US/p/moving-out)  
 [View Rawdata](../../db/m/moving_out.json)  
-Rating: 4.58 (Ranked 478)  
+Rating: 4.58 (Ranked 477)  
 Number of Ratings: 489  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 22  (Ranked 579)  
-Sum: 22 (Ranked 581)  
+Max (Great for Beginners): 22  (Ranked 580)  
+Sum: 22 (Ranked 582)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

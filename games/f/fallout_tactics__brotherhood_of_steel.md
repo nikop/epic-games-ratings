@@ -3,8 +3,8 @@
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
 Rating: 4.43 (Ranked 742)  
 ## Awards
-Max (Challenging Combat): 23  (Ranked 574)  
-Sum: 23 (Ranked 578)  
+Max (Challenging Combat): 23  (Ranked 575)  
+Sum: 23 (Ranked 579)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
