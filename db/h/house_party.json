@@ -3,7 +3,7 @@
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
   "Ranking_Rating": 880,
-  "Ranking_Popularity": 439,
+  "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 363,
@@ -401,18 +401,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 64,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-02-12T14:57:31.9868609+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64,
-  "NumberOfAwardsMax": 64,
+  "NumberOfAwards": 65,
+  "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 64
+      "Count": 65
     }
   ],
   "EOS_Progressed": 7403,
@@ -9844,9 +9850,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
-  "LastChanged": "2024-02-04T07:01:16.5012499+00:00",
+  "LastChanged": "2024-02-12T14:57:31.9868607+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:51.6536251+00:00",
   "LastUpdate_AppInfo": "2024-02-10T21:57:12.0477007+00:00",
-  "LastUpdate_Ratings": "2024-02-12T13:03:43.0962456+00:00",
+  "LastUpdate_Ratings": "2024-02-12T14:57:31.9868613+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:51.6537007+00:00"
 }
