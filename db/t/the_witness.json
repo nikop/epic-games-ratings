@@ -2,7 +2,7 @@
   "ID": "magnolia",
   "Name": "The Witness",
   "ProductSlug": "the-witness",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 243,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 503,
   "RatingHistory": [
     {
@@ -588,6 +588,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 189
+    },
+    {
+      "Time": "2024-02-12T20:57:32.1003002+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 189,
+      "NumberOfAwardsMax": 189
     }
   ],
   "ReviewsDisabled": false,
@@ -613,8 +619,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2024-02-03T20:58:15.1378466+00:00",
+  "LastChanged": "2024-02-12T20:57:32.1003001+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:47.7991163+00:00",
-  "LastUpdate_Ratings": "2024-02-12T19:00:03.2377187+00:00",
+  "LastUpdate_Ratings": "2024-02-12T20:57:32.1003007+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:38.2795165+00:00"
 }
