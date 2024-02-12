@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 437,
   "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3575,10 +3575,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1363,
       "NumberOfAwardsMax": 486
+    },
+    {
+      "Time": "2024-02-12T19:57:53.0622771+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1365,
+      "NumberOfAwardsMax": 486
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1363,
+  "NumberOfAwards": 1365,
   "NumberOfAwardsMax": 486,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3646,7 +3652,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3658,7 +3664,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3678,8 +3684,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-02-12T16:59:45.0374937+00:00",
+  "LastChanged": "2024-02-12T19:57:53.0622769+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:10.4293811+00:00",
-  "LastUpdate_Ratings": "2024-02-12T18:01:29.5518022+00:00",
+  "LastUpdate_Ratings": "2024-02-12T19:57:53.0622776+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:20.3863661+00:00"
 }
