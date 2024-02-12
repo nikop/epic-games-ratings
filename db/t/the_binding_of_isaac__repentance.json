@@ -4,7 +4,7 @@
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 7,
   "Ranking_Popularity": 123,
-  "Ranking_PopularitySum": 104,
+  "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -6436,11 +6436,17 @@
       "Rating": 4.9,
       "NumberOfAwards": 9495,
       "NumberOfAwardsMax": 2026
+    },
+    {
+      "Time": "2024-02-12T01:41:07.0956545+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9499,
+      "NumberOfAwardsMax": 2029
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9495,
-  "NumberOfAwardsMax": 2026,
+  "NumberOfAwards": 9499,
+  "NumberOfAwardsMax": 2029,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -6453,7 +6459,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2026
+      "Count": 2029
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6507,7 +6513,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 635
+      "Count": 636
     },
     {
       "Text": "This game is Relaxing",
@@ -6533,8 +6539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-02-11T22:58:42.6810577+00:00",
+  "LastChanged": "2024-02-12T01:41:07.0956543+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:10.1575941+00:00",
-  "LastUpdate_Ratings": "2024-02-11T23:59:05.0789103+00:00",
+  "LastUpdate_Ratings": "2024-02-12T01:41:07.0956547+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:17.5450818+00:00"
 }
