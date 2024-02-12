@@ -39,12 +39,12 @@
 | 31 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 0 | 598 |
 | 31 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 598 |
 | 39 | [Coffee Talk](games/c/coffee_talk.md) | 4.85 | 0 | 598 |
-| 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,897 | 76 |
+| 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,899 | 76 |
 | 39 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 46 | 480 |
 | 39 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 598 |
 | 39 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.85 | 14,509 | 31 |
 | 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 229 | 295 |
-| 39 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 204 | 309 |
+| 39 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 205 | 309 |
 | 39 | [Subnautica](games/s/subnautica.md) | 4.85 | 810 | 189 |
 | 39 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 598 |
 | 48 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 37 | 505 |
@@ -145,7 +145,7 @@
 | 137 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,351 | 70 |
 | 137 | [Journey](games/j/journey.md) | 4.76 | 0 | 598 |
 | 137 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 598 |
-| 137 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,279 | 116 |
+| 137 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,279 | 117 |
 | 137 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 598 |
 | 137 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,799 | 135 |
 | 137 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.76 | 0 | 598 |
@@ -600,7 +600,7 @@
 | 588 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 210 | 304 |
 | 588 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.52 | 0 | 598 |
 | 588 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 598 |
-| 588 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.52 | 2,277 | 117 |
+| 588 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.52 | 2,290 | 116 |
 | 588 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 598 |
 | 588 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.52 | 0 | 598 |
 | 588 | [Souldiers](games/s/souldiers.md) | 4.52 | 0 | 598 |
@@ -690,7 +690,7 @@
 | 685 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,101 | 157 |
 | 685 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 598 |
 | 685 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.46 | 0 | 598 |
-| 685 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 723,474 | 2 |
+| 685 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 724,440 | 2 |
 | 685 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 598 |
 | 685 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 598 |
 | 685 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 598 |
@@ -762,7 +762,7 @@
 | 758 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 501 |
 | 758 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 598 |
 | 758 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 66 |
-| 758 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 204 | 309 |
+| 758 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 204 | 310 |
 | 758 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 598 |
 | 758 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 150 | 343 |
 | 766 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.41 | 0 | 598 |
@@ -968,20 +968,20 @@
 | 966 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.22 | 0 | 598 |
 | 966 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.22 | 64 | 439 |
 | 966 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 195 | 313 |
-| 966 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 776 | 194 |
 | 966 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.22 | 0 | 598 |
 | 966 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 598 |
 | 966 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 243 | 286 |
 | 966 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 156 | 339 |
 | 966 | [The Fall](games/t/the_fall.md) | 4.22 | 0 | 598 |
-| 975 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 357 |
-| 975 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 528 |
-| 975 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 598 |
-| 975 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 0 | 598 |
-| 975 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 88 | 404 |
-| 975 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 598 |
-| 975 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.21 | 0 | 598 |
-| 975 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 411 |
+| 974 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 357 |
+| 974 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 528 |
+| 974 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 598 |
+| 974 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 0 | 598 |
+| 974 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 776 | 194 |
+| 974 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 88 | 404 |
+| 974 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 598 |
+| 974 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.21 | 0 | 598 |
+| 974 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 411 |
 | 983 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 131 | 355 |
 | 983 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 598 |
 | 983 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 524 |
