@@ -3,7 +3,7 @@
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 857,
-  "Ranking_Popularity": 506,
+  "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 414,
@@ -545,18 +545,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 251,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-02-12T17:57:21.0717233+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 254,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 251,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 254,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -586,7 +592,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -610,7 +616,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 432662,
@@ -5560,9 +5566,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-02-11T17:58:37.9669662+00:00",
+  "LastChanged": "2024-02-12T17:57:21.0717231+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:14.5094283+00:00",
   "LastUpdate_AppInfo": "2024-02-06T14:57:04.4162956+00:00",
-  "LastUpdate_Ratings": "2024-02-12T15:59:57.4717198+00:00",
+  "LastUpdate_Ratings": "2024-02-12T17:57:21.0717237+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:14.5094888+00:00"
 }
