@@ -2,7 +2,7 @@
   "ID": "1d6b5762a1d643a4830481c44d59abfb",
   "Name": "The Lord of The Rings Return to Moria",
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 757,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 55,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-10-24T23:00:00.8997495+00:00",
@@ -3644,6 +3644,12 @@
     {
       "Time": "2024-02-12T04:58:40.0180321+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 6169,
+      "NumberOfAwardsMax": 1084
+    },
+    {
+      "Time": "2024-02-12T07:57:16.8842304+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 6169,
       "NumberOfAwardsMax": 1084
     }
@@ -15316,9 +15322,9 @@
   "FirstSeen": "2023-10-24T14:01:15.5324027+00:00",
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged": "2024-02-12T04:58:40.0180319+00:00",
+  "LastChanged": "2024-02-12T07:57:16.8842303+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:54.4054928+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:41.8268747+00:00",
-  "LastUpdate_Ratings": "2024-02-12T05:59:26.6629292+00:00",
+  "LastUpdate_Ratings": "2024-02-12T07:57:16.8842309+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:54.4055676+00:00"
 }
