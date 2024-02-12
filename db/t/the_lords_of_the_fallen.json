@@ -2,8 +2,8 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 974,
-  "Ranking_Popularity": 195,
+  "Ranking_Rating": 966,
+  "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 388,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -2671,18 +2671,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 1980,
       "NumberOfAwardsMax": 776
+    },
+    {
+      "Time": "2024-02-12T21:58:00.3744999+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1986,
+      "NumberOfAwardsMax": 779
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1980,
-  "NumberOfAwardsMax": 776,
+  "NumberOfAwards": 1986,
+  "NumberOfAwardsMax": 779,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 776
+      "Count": 779
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2700,13 +2706,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 102
+      "Count": 104
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11983,9 +11989,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-02-12T16:57:37.8245101+00:00",
+  "LastChanged": "2024-02-12T21:58:00.3744998+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:17.0757924+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:37.1433409+00:00",
-  "LastUpdate_Ratings": "2024-02-12T20:00:12.97824+00:00",
+  "LastUpdate_Ratings": "2024-02-12T21:58:00.3745001+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:17.0758829+00:00"
 }
