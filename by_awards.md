@@ -421,10 +421,10 @@
 | 419 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 74 | 4.31 | 886 |
 | 419 | [Potion Permit](games/p/potion_permit.md) | 74 | 3.90 | 1,092 |
 | 419 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 74 | 4.39 | 795 |
-| 422 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 73 | 4.68 | 269 |
-| 422 | [DEATHLOOP](games/d/deathloop.md) | 73 | 4.45 | 701 |
-| 422 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 73 | 4.41 | 766 |
-| 422 | [Witchfire](games/w/witchfire.md) | 73 | 4.60 | 436 |
+| 419 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 74 | 4.41 | 766 |
+| 419 | [Witchfire](games/w/witchfire.md) | 74 | 4.60 | 436 |
+| 424 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 73 | 4.68 | 269 |
+| 424 | [DEATHLOOP](games/d/deathloop.md) | 73 | 4.45 | 701 |
 | 426 | [GigaBash](games/g/gigabash.md) | 72 | 4.50 | 629 |
 | 426 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 72 | 4.41 | 766 |
 | 426 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 72 | 4.51 | 610 |

@@ -270,7 +270,7 @@
 | 243 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 888 | 182 |
 | 269 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,384 | 90 |
 | 269 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 743 | 196 |
-| 269 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 73 | 422 |
+| 269 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 73 | 424 |
 | 269 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.68 | 0 | 598 |
 | 269 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 150,180 | 8 |
 | 269 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,377 | 91 |
@@ -453,7 +453,7 @@
 | 436 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 486 | 230 |
 | 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 0 | 598 |
 | 436 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 25 | 564 |
-| 436 | [Witchfire](games/w/witchfire.md) | 4.60 | 73 | 422 |
+| 436 | [Witchfire](games/w/witchfire.md) | 4.60 | 74 | 419 |
 | 455 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 108 | 376 |
 | 455 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 598 |
 | 455 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 213 | 302 |
@@ -704,7 +704,7 @@
 | 701 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 598 |
 | 701 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.45 | 302 | 268 |
 | 701 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 0 | 598 |
-| 701 | [DEATHLOOP](games/d/deathloop.md) | 4.45 | 73 | 422 |
+| 701 | [DEATHLOOP](games/d/deathloop.md) | 4.45 | 73 | 424 |
 | 701 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 267 | 282 |
 | 701 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 65,900 | 12 |
 | 701 | [ELEX](games/e/elex.md) | 4.45 | 26 | 555 |
@@ -783,7 +783,7 @@
 | 766 | [The Riflemen](games/t/the_riflemen.md) | 4.41 | 0 | 598 |
 | 766 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.41 | 0 | 598 |
 | 766 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 598 |
-| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.41 | 73 | 422 |
+| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.41 | 74 | 419 |
 | 785 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 598 |
 | 785 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,081 | 161 |
 | 785 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.40 | 0 | 598 |
