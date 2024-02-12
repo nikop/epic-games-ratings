@@ -1,7 +1,7 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.42 (Ranked 757)  
+Rating: 4.43 (Ranked 742)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -262,3 +262,4 @@ Diff (max vs sum): 17
 | 2024-02-09 | 4.43 | 1,073 | 6,125 |
 | 2024-02-10 | 4.42 | 1,073 | 6,134 |
 | 2024-02-11 | 4.43 | 1,081 | 6,166 |
+| 2024-02-12 | 4.43 | 1,081 | 6,166 |
