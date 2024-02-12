@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-8",
   "Ranking_Rating": 502,
   "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 579,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -457,6 +457,6 @@
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
   "LastChanged": "2024-01-23T14:02:50.2850982+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:56:54.8972693+00:00",
-  "LastUpdate_Ratings": "2024-02-11T23:00:15.2861548+00:00",
+  "LastUpdate_Ratings": "2024-02-12T00:00:06.8043582+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:42.2095373+00:00"
 }
