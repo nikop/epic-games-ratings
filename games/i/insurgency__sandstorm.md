@@ -326,9 +326,9 @@ Completed: 2 (0.00%) (Ranked 414)
 | 2024-01-26 | 531,367 | 2 |
 | 2024-01-27 | 531,804 | 2 |
 ## Awards
-Max (Challenging Combat): 431  (Ranked 241)  
+Max (Challenging Combat): 431  (Ranked 240)  
 Sum: 3,514 (Ranked 178)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 431 |
