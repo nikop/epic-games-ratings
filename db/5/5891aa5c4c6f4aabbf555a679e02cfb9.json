@@ -3,7 +3,7 @@
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
   "Ranking_Rating": 477,
-  "Ranking_Popularity": 318,
+  "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 351,
@@ -2443,11 +2443,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 1251,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2024-02-13T13:57:47.112588+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1252,
+      "NumberOfAwardsMax": 187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1251,
-  "NumberOfAwardsMax": 186,
+  "NumberOfAwards": 1252,
+  "NumberOfAwardsMax": 187,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2502,7 +2508,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 186
+      "Count": 187
     }
   ],
   "EOS_Progressed": 542728,
@@ -14346,9 +14352,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-02-13T11:00:23.0920915+00:00",
+  "LastChanged": "2024-02-13T13:57:47.1125878+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:17.3098936+00:00",
   "LastUpdate_AppInfo": "2024-02-08T08:57:30.04817+00:00",
-  "LastUpdate_Ratings": "2024-02-13T12:00:03.4226527+00:00",
+  "LastUpdate_Ratings": "2024-02-13T13:57:47.1125883+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:17.3099689+00:00"
 }
