@@ -2,7 +2,7 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 794,
+  "Ranking_Rating": 795,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 856,
@@ -1361,10 +1361,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 504,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-02-13T16:00:00.4051626+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 504,
+  "NumberOfAwards": 505,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1420,7 +1426,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
@@ -1447,8 +1453,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-02-13T09:58:17.0901918+00:00",
+  "LastChanged": "2024-02-13T16:00:00.4051626+00:00",
   "LastUpdate_AppInfo": "2024-02-09T08:57:21.6768906+00:00",
-  "LastUpdate_Ratings": "2024-02-13T14:58:49.8517144+00:00",
+  "LastUpdate_Ratings": "2024-02-13T16:00:00.4051632+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:56.2920095+00:00"
 }

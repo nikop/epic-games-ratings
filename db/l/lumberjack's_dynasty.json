@@ -2,7 +2,7 @@
   "ID": "fe2b8b6b2b934557a719d104c25623e7",
   "Name": "Lumberjack\u0027s Dynasty",
   "ProductSlug": "lumberjacks-dynasty",
-  "Ranking_Rating": 1045,
+  "Ranking_Rating": 1048,
   "Ranking_Popularity": 600,
   "Ranking_PopularitySum": 600,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.09,
+  "Rating": 4.08,
   "NumberOfRatings": 61,
   "RatingHistory": [
     {
@@ -279,6 +279,12 @@
       "Rating": 4.09,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-13T15:57:25.950224+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -296,8 +302,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:56.3417334+00:00",
-  "LastChanged": "2024-01-27T12:03:32.2158061+00:00",
+  "LastChanged": "2024-02-13T15:57:25.9502238+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:41.1382403+00:00",
-  "LastUpdate_Ratings": "2024-02-13T13:59:34.6529517+00:00",
+  "LastUpdate_Ratings": "2024-02-13T15:57:25.9502242+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:14.2226844+00:00"
 }
