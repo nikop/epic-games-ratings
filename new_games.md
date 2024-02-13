@@ -91,4 +91,3 @@
 | [Psychiatrist Simulator 2](games/c/cdcf0fa9a5f042efae85a9c161a4b4e3.md) | 2024-01-16 | - |  | - | - |
 | [Monke island: Rise Of The Beast](games/9/906d64ff09f0409ba0fef64ea53fe208.md) | 2024-01-15 | - |  | - | 0 |
 | [Strike Solitaire 2](games/f/f41697594aa546a09dcd518284b290d1.md) | 2024-01-14 | - |  | - | 0 |
-| [Harbingers of Desspair](games/f/f6130359bdb24e73af1281c6827a3ab1.md) | 2024-01-14 | - |  | - | - |
