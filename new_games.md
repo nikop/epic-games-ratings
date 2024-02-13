@@ -4,7 +4,7 @@
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | - |
 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | - | - |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 1 | - | - |
-| [RPG Survivors](games/a/acf4beaa800f4dbcb007623d83634582.md) | 2024-02-11 | - |  | - | - |
+| [RPG Survivors](games/a/acf4beaa800f4dbcb007623d83634582.md) | 2024-02-11 | - |  | - | 0 |
 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 2024-02-11 | - |  | - | 0 |
 | [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | - |
 | [Man in the Dark](games/2/25dd02a1f0f4416f991a779d17e437ae.md) | 2024-02-10 | - |  | - | - |
@@ -20,7 +20,7 @@
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | - |  | - | 0 |
 | [Lilaina: Space Bounty Hunter](games/4/486b1a6b125943b290f01d7941fdb13c.md) | 2024-02-07 | - |  | - | - |
 | [Murder Is Game Over - Deal Killer](games/b/b2a82abf9d2b4356a29a4c5d2a15c830.md) | 2024-02-06 | - |  | - | 0 |
-| [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | - |  | - | - |
+| [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | - |  | - | 0 |
 | [Awaken](games/8/879a4b6564b4491e9f523c634d181756.md) | 2024-02-05 | - |  | - | 0 |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | - |  | - | - |
 | [1001 Jigsaw. World Tour: Great America](games/1/12d6ced529194cd583ec2690325036bc.md) | 2024-02-04 | - |  | - | - |
