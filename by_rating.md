@@ -71,7 +71,7 @@
 | 69 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 599 |
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 464 | 236 |
 | 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,602 | 67 |
-| 69 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,413 | 144 |
+| 69 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,413 | 145 |
 | 69 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 309 | 263 |
 | 69 | [Sifu](games/s/sifu.md) | 4.82 | 7,393 | 59 |
 | 69 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 473 | 232 |
@@ -106,7 +106,7 @@
 | 101 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 239 | 287 |
 | 101 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 174 | 324 |
 | 101 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 599 |
-| 101 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,410 | 145 |
+| 101 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,414 | 144 |
 | 101 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,785 | 110 |
 | 101 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 426 | 241 |
 | 101 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.79 | 0 | 599 |
@@ -118,7 +118,7 @@
 | 113 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,317 | 71 |
 | 113 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.78 | 0 | 599 |
 | 113 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 60 | 447 |
-| 113 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 996 | 172 |
+| 113 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 996 | 173 |
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 537 |
 | 121 | [Aground](games/a/aground.md) | 4.77 | 0 | 599 |
 | 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,397 | 42 |
@@ -265,7 +265,7 @@
 | 244 | [The Witness](games/t/the_witness.md) | 4.69 | 189 | 315 |
 | 244 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 599 |
 | 244 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,115 | 155 |
-| 244 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 206 | 306 |
+| 244 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 209 | 305 |
 | 244 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 888 | 182 |
 | 268 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,384 | 90 |
 | 268 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 744 | 196 |
@@ -358,7 +358,7 @@
 | 351 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.64 | 0 | 599 |
 | 351 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.64 | 0 | 599 |
 | 351 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.64 | 38 | 501 |
-| 351 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.64 | 7,107 | 61 |
+| 351 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.64 | 7,179 | 61 |
 | 351 | [No Straight Roads](games/n/no_straight_roads.md) | 4.64 | 0 | 599 |
 | 351 | [Revita](games/r/revita.md) | 4.64 | 0 | 599 |
 | 351 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,735 | 18 |
@@ -558,7 +558,7 @@
 | 555 | [Aztez](games/a/aztez.md) | 4.54 | 21 | 584 |
 | 555 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 599 |
 | 555 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,737 | 137 |
-| 555 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,451 | 39 |
+| 555 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,479 | 39 |
 | 555 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 38 | 501 |
 | 555 | [Duskers](games/d/duskers.md) | 4.54 | 0 | 599 |
 | 555 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 189 | 315 |
@@ -661,7 +661,7 @@
 | 648 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 38 | 501 |
 | 648 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 599 |
 | 648 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 599 |
-| 648 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 996 | 172 |
+| 648 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 997 | 171 |
 | 648 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 33 | 525 |
 | 648 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 599 |
 | 648 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.49 | 191 | 313 |
@@ -849,7 +849,7 @@
 | 845 | [Encased](games/e/encased.md) | 4.35 | 169 | 329 |
 | 845 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 0 | 599 |
 | 845 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 599 |
-| 845 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 208 | 305 |
+| 845 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 208 | 306 |
 | 845 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 599 |
 | 845 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 599 |
 | 845 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.35 | 0 | 599 |
@@ -1029,7 +1029,7 @@
 | 1,021 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 545 |
 | 1,021 | [Lake](games/l/lake.md) | 4.15 | 0 | 599 |
 | 1,021 | [Pine](games/p/pine.md) | 4.15 | 0 | 599 |
-| 1,021 | [Relicta](games/r/relicta.md) | 4.15 | 206 | 306 |
+| 1,021 | [Relicta](games/r/relicta.md) | 4.15 | 206 | 307 |
 | 1,031 | [Model Builder](games/m/model_builder.md) | 4.14 | 0 | 599 |
 | 1,031 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 599 |
 | 1,031 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 599 |
