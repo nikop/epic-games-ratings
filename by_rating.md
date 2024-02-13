@@ -70,7 +70,7 @@
 | 57 | [TUNIC](games/t/tunic.md) | 4.83 | 40 | 496 |
 | 69 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 599 |
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 464 | 236 |
-| 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,602 | 67 |
+| 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,618 | 67 |
 | 69 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,413 | 145 |
 | 69 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 309 | 263 |
 | 69 | [Sifu](games/s/sifu.md) | 4.82 | 7,393 | 59 |
@@ -103,6 +103,7 @@
 | 101 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 58 | 453 |
 | 101 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,684 | 138 |
 | 101 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 599 |
+| 101 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.79 | 34 | 520 |
 | 101 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 239 | 287 |
 | 101 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 174 | 324 |
 | 101 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 599 |
@@ -112,14 +113,13 @@
 | 101 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.79 | 0 | 599 |
 | 101 | [SpiderHeck](games/s/spiderheck.md) | 4.79 | 0 | 599 |
 | 101 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 599 |
-| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,549 | 45 |
-| 113 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 880 | 184 |
-| 113 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.78 | 34 | 520 |
-| 113 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,317 | 71 |
-| 113 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.78 | 0 | 599 |
-| 113 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 60 | 447 |
-| 113 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 996 | 173 |
-| 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 537 |
+| 114 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,549 | 45 |
+| 114 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 880 | 184 |
+| 114 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,317 | 71 |
+| 114 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.78 | 0 | 599 |
+| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 60 | 447 |
+| 114 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 996 | 173 |
+| 114 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 537 |
 | 121 | [Aground](games/a/aground.md) | 4.77 | 0 | 599 |
 | 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,397 | 42 |
 | 121 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.77 | 28 | 545 |
@@ -430,7 +430,7 @@
 | 406 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 599 |
 | 406 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.61 | 85 | 406 |
 | 406 | [Supraland](games/s/supraland.md) | 4.61 | 7,796 | 56 |
-| 406 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 554 | 220 |
+| 406 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 555 | 220 |
 | 406 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 76 | 416 |
 | 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 360 | 253 |
 | 406 | [Transistor](games/t/transistor.md) | 4.61 | 0 | 599 |
@@ -691,7 +691,7 @@
 | 686 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,101 | 157 |
 | 686 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 599 |
 | 686 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.46 | 0 | 599 |
-| 686 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 724,440 | 2 |
+| 686 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 725,170 | 2 |
 | 686 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 599 |
 | 686 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 599 |
 | 686 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 599 |
@@ -1069,10 +1069,10 @@
 | 1,067 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.02 | 0 | 599 |
 | 1,067 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 599 |
 | 1,067 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 0 | 599 |
-| 1,070 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,237 | 60 |
-| 1,070 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,011 | 85 |
-| 1,072 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 381 | 248 |
-| 1,072 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 599 |
+| 1,070 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,013 | 85 |
+| 1,071 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 381 | 248 |
+| 1,071 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 7,256 | 60 |
+| 1,071 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 599 |
 | 1,074 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 599 |
 | 1,074 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 3.98 | 0 | 599 |
 | 1,076 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 599 |
@@ -1087,9 +1087,9 @@
 | 1,083 | [Conarium](games/c/conarium.md) | 3.95 | 0 | 599 |
 | 1,083 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 599 |
 | 1,083 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.95 | 0 | 599 |
-| 1,088 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.93 | 0 | 599 |
-| 1,088 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 0 | 599 |
-| 1,088 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 599 |
+| 1,088 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.94 | 0 | 599 |
+| 1,089 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 0 | 599 |
+| 1,089 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 599 |
 | 1,091 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 381 |
 | 1,092 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 35 | 516 |
 | 1,092 | [Potion Permit](games/p/potion_permit.md) | 3.90 | 74 | 419 |
