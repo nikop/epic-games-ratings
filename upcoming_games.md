@@ -516,6 +516,7 @@
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2099-01-01 | - |  | - | - |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.75 | 0 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
+| [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2099-01-01 | - |  | - | - |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2099-01-01 | - |  | - | - |
 | [The World of Nifty Craft](games/9/9fdb4607f27248eaa4a0e72b346ec8e7.md) | 2099-01-01 | - |  | - | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | 2099-01-01 | 192 (1,000 XP) | 0 | - | - |
