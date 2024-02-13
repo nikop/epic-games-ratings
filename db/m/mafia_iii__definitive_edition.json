@@ -4,7 +4,7 @@
   "ProductSlug": "mafia-iii-definitive-edition",
   "Ranking_Rating": 991,
   "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1279,10 +1279,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 504,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2024-02-13T18:58:28.2008873+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 504,
+  "NumberOfAwards": 505,
   "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1332,7 +1338,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1364,8 +1370,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2024-02-12T11:58:21.5107838+00:00",
+  "LastChanged": "2024-02-13T18:58:28.2008871+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:57.2940632+00:00",
-  "LastUpdate_Ratings": "2024-02-13T17:57:15.6554287+00:00",
+  "LastUpdate_Ratings": "2024-02-13T18:58:28.2008876+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:28.9156467+00:00"
 }

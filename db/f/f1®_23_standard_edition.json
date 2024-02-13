@@ -3,8 +3,8 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 306,
-  "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 328,
+  "Ranking_Popularity": 399,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 138,
@@ -1987,11 +1987,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 628,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-02-13T18:58:23.4135012+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 631,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 628,
-  "NumberOfAwardsMax": 91,
+  "NumberOfAwards": 631,
+  "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2010,13 +2016,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2052,7 +2058,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Competitive Players",
@@ -13782,9 +13788,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-02-13T13:57:39.8038898+00:00",
+  "LastChanged": "2024-02-13T18:58:23.413501+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:16.4624604+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:55.7558677+00:00",
-  "LastUpdate_Ratings": "2024-02-13T17:00:40.8345885+00:00",
+  "LastUpdate_Ratings": "2024-02-13T18:58:23.4135016+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:16.4625347+00:00"
 }
