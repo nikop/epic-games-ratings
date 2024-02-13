@@ -168,6 +168,7 @@
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Everstorm](games/2/2247c107d7f74b8bb72445b10b6c1eae.md) | 2024-12-31 | - |  | - | - |
 | [Fata Deum](games/f/fata_deum.md) | 2024-12-31 | - |  | - | - |
+| [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-12-31 | - |  | - | - |
 | [Fragile Existence](games/f/fragile_existence.md) | 2024-12-31 | - |  | - | - |
 | [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | 2024-12-31 | - |  | - | - |
 | [Grand Emprise: Time Travel Survival](games/f/f5e2b23815ac4da58630dc30656cd5ea.md) | 2024-12-31 | - |  | - | - |
