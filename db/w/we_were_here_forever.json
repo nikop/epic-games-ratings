@@ -3,8 +3,8 @@
   "Name": "We Were Here Forever",
   "ProductSlug": "we-were-here-forever",
   "Ranking_Rating": 306,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -368,18 +368,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-02-13T22:57:28.0671464+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -393,8 +399,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:15.5524229+00:00",
-  "LastChanged": "2024-02-04T01:42:11.8934808+00:00",
+  "LastChanged": "2024-02-13T22:57:28.0671462+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:48.199497+00:00",
-  "LastUpdate_Ratings": "2024-02-13T20:59:47.2039932+00:00",
+  "LastUpdate_Ratings": "2024-02-13T22:57:28.0671466+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:54.23143+00:00"
 }
