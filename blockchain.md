@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Superior](games/s/superior.md) | 2099-12-13 | - |  | - | - |
+| [Aegir Tactics](games/6/639ab123836a4433ba6e5c342eeb9544.md) | 2099-01-01 | - |  | - | - |
 | [AEVITAS](games/e/e551d0f379ad42629494c89540c1c853.md) | 2099-01-01 | - |  | - | - |
 | [Angelic](games/d/decb411846c64904a09bb131c6a1bff1.md) | 2099-01-01 | - |  | - | - |
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | - |  | - | - |
@@ -54,7 +55,7 @@
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | 0 |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | 0 |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 4,636 | 4.43 | 28 |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 4,636 | 4.44 | 28 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.90 | 0 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |

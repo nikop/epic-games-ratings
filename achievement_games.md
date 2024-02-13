@@ -42,7 +42,7 @@
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 1 | - | 0 |
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 1 | - | - |
-| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 0 | 4.49 | 0 |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 0 | 4.52 | 0 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 4 | - | 0 |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2024-01-25 | 100 (1,000 XP) | 5 | - | 0 |
@@ -74,7 +74,7 @@
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 89 | - | 0 |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 63 | - | 0 |
 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 282,547 | 4.66 | 236 |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 4,636 | 4.43 | 28 |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 4,636 | 4.44 | 28 |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 17 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 34 | - | 0 |
 | [Return of Red Riding Hood Enhanced Edition](games/f/f9b5fde4c25442e5b6dd30e19ac26580.md) | 2023-12-22 | 51 (1,000 XP) | 18 | - | - |
@@ -447,7 +447,7 @@
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 73 (1,000 XP) | 87 | - | 0 |
 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 709 | - | 0 |
 | [Astronite](games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 2023-05-26 | 25 (1,000 XP) | 0 | - | 0 |
-| [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | 38 (1,000 XP) | 2,318 | 3.43 | 0 |
+| [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | 38 (1,000 XP) | 2,318 | 3.44 | 0 |
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 148 | - | 0 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 2,776 | 4.39 | 0 |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 695 | - | 0 |

@@ -234,6 +234,7 @@
 | [Abtos Covert](games/f/f824b337a16d464eab50d0564bc3389a.md) | 2099-01-01 | - |  | - | - |
 | [Acceptance](games/a/acceptance.md) | 2099-01-01 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2099-01-01 | - |  | - | - |
+| [Aegir Tactics](games/6/639ab123836a4433ba6e5c342eeb9544.md) | 2099-01-01 | - |  | - | - |
 | [AEVITAS](games/e/e551d0f379ad42629494c89540c1c853.md) | 2099-01-01 | - |  | - | - |
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | - |  | - | - |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2099-01-01 | - |  | - | - |
