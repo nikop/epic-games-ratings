@@ -348,13 +348,13 @@ Completed: 1,158 (1.03%) (Ranked 181)
 | 2024-01-27 | 112,614 | 1,158 |
 ## Awards
 Max (Extremely Fun): 31  (Ranked 532)  
-Sum: 159 (Ranked 451)  
+Sum: 160 (Ranked 451)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 31 |
 | This game has Quickly Understood Controls | 29 |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Storytelling | 23 |
 | This game is Relaxing | 20 |
@@ -469,3 +469,4 @@ Diff (max vs sum): 81
 | 2024-01-29 | 4.53 | - | 30 | 157 |
 | 2024-02-05 | 4.53 | - | 31 | 158 |
 | 2024-02-06 | 4.53 | - | 31 | 159 |
+| 2024-02-13 | 4.53 | - | 31 | 160 |
