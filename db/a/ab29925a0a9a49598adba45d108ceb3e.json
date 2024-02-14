@@ -2,9 +2,9 @@
   "ID": "ab29925a0a9a49598adba45d108ceb3e",
   "Name": "Lost Castle",
   "ProductSlug": "lost-castle-abb2e2",
-  "Ranking_Rating": 957,
-  "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 594,
+  "Ranking_Rating": 983,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2024-02-09T18:59:41.1383276+00:00",
@@ -77,18 +77,24 @@
       "Rating": 4.23,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-02-14T07:58:46.7995757+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -103,7 +109,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-08T18:59:09.7426423+00:00",
   "FirstSeenRating": "2024-02-09T18:59:41.1383273+00:00",
-  "LastChanged": "2024-02-13T13:58:22.4160549+00:00",
+  "LastChanged": "2024-02-14T07:58:46.7995754+00:00",
   "LastUpdate_AppInfo": "2024-02-08T16:57:20.6980646+00:00",
-  "LastUpdate_Ratings": "2024-02-14T06:57:51.4434743+00:00"
+  "LastUpdate_Ratings": "2024-02-14T07:58:46.7995761+00:00"
 }

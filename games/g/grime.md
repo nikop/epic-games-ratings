@@ -315,8 +315,8 @@ Completed: 476 (0.28%) (Ranked 271)
 | 2024-01-27 | 169,970 | 476 |
 ## Awards
 Max (Unique Visuals): 69  (Ranked 432)  
-Sum: 504 (Ranked 347)  
-Diff (max vs sum): 85  
+Sum: 504 (Ranked 346)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 69 |
