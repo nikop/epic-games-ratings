@@ -15,7 +15,7 @@
 | [RPG Survivors](games/a/acf4beaa800f4dbcb007623d83634582.md) | 2024-02-11 | - |  | - | 0 |
 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 2024-02-11 | - |  | - | 0 |
 | [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | - |
-| [Man in the Dark](games/2/25dd02a1f0f4416f991a779d17e437ae.md) | 2024-02-10 | - |  | - | - |
+| [Man in the Dark](games/2/25dd02a1f0f4416f991a779d17e437ae.md) | 2024-02-10 | - |  | - | 0 |
 | [Serbian Dancing Lady](games/5/55400d765e13415996d0324bbda143c0.md) | 2024-02-10 | - |  | - | 0 |
 | [Grieve](games/3/33d6300ac8394fd48337c934f52c71cc.md) | 2024-02-09 | - |  | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 1 | - | - |
