@@ -22,7 +22,7 @@
 | [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Starvin Martian](games/1/1255e14898d542979c0257aa9763649c.md) | 2099-01-01 | - |  | - | - |
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2099-01-01 | - |  | - | - |
-| [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.75 | 0 |
+| [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.76 | 0 |
 | [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2099-01-01 | - |  | - | - |
 | [Vivaion](games/5/53ac8f9e5d4d4f3db35bf66cc74b03e6.md) | 2099-01-01 | - |  | - | - |
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | 2099-01-01 | - |  | - | - |
@@ -51,7 +51,7 @@
 | [Bladerite](games/7/7e5f7d87c17c4e68b5e200306aa46344.md) | 2024-02-01 | - |  | - | 0 |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | 0 |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
-| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | 3.84 | 0 |
+| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | 3.73 | 0 |
 | [Take The Throne](games/8/8dc19fa4313c42a497f638648541243e.md) | 2024-01-20 | - |  | - | 0 |
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | 0 |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | 0 |

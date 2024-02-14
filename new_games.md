@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Seven Bullets Horror 7発の弾丸ホラー](games/8/80620b348cbe4e38b9f55bb9029c57d3.md) | 2024-02-14 | - |  | - | - |
 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | - |  | - | 0 |
 | [Julai](games/a/a2a68ba87f494656b676de3a268dcf2a.md) | 2024-02-14 | - |  | - | - |
 | [Nuclear Fission Simulator](games/b/b1e049db852143a29a80e770371f6399.md) | 2024-02-14 | - |  | - | - |
@@ -83,7 +84,7 @@
 | [NINJA KATO 2](games/1/1690366171dd46809de64fdb4169d17c.md) | 2024-01-21 | 6 (1,000 XP) | 3 | - | - |
 | [Image](games/a/ad111036e70f4cf59259c6976a9b7173.md) | 2024-01-20 | 5 (1,000 XP) | 1 | - | 0 |
 | [Ex Natura Nature Corrupted](games/4/4fad42879d3643a0a295ad012fed973d.md) | 2024-01-20 | 14 (1,000 XP) | 5 | - | - |
-| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | 3.84 | 0 |
+| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | 3.73 | 0 |
 | [Take The Throne](games/8/8dc19fa4313c42a497f638648541243e.md) | 2024-01-20 | - |  | - | 0 |
 | [Airship Kingdoms Adrift](games/a/airship_kingdoms_adrift.md) | 2024-01-19 | 148 (1,000 XP) | 7 | - | 0 |
 | [Geometric Sniper](games/1/17514f68442f4cb19f6219f45309142b.md) | 2024-01-19 | 35 (1,000 XP) | 0 | - | 0 |
