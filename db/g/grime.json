@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 437,
   "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 87,
@@ -2075,12 +2075,18 @@
       "Rating": 4.6,
       "NumberOfAwards": 504,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-02-14T17:58:57.5248374+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 504,
+  "NumberOfAwards": 505,
   "NumberOfAwardsMax": 69,
-  "MaxAwardTitle": "Unique Visuals",
+  "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -2098,7 +2104,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has a Creative Community",
@@ -25238,9 +25244,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-02-14T04:58:24.0857536+00:00",
+  "LastChanged": "2024-02-14T17:58:57.5248372+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:45.026609+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:35.2839295+00:00",
-  "LastUpdate_Ratings": "2024-02-14T16:57:40.7727554+00:00",
+  "LastUpdate_Ratings": "2024-02-14T17:58:57.5248377+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:45.0267172+00:00"
 }
