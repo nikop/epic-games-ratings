@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | - |  | - | - |
 | [Pirate Mosaic Puzzle. Caribbean Treasures](games/d/d5507cf7f5784a24ac44bff891ffa8e3.md) | 2024-02-13 | - |  | - | - |
 | [Blue Oak Bridge](games/4/4dbe3446fbe1495a822cbea817f5606e.md) | 2024-02-13 | - |  | - | - |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | - |  | - | - |

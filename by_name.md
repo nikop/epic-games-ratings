@@ -283,7 +283,7 @@
 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 630 | 904 | 179 |
 | [Automachef](games/a/automachef.md) | 4.34 | 856 | 27 | 551 |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | - | - | - | - |
-| [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 538 | 268 | 282 |
+| [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 538 | 270 | 282 |
 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 984 | 131 | 355 |
 | [Avencast - Rise Of The Mage](games/a/avencast_-_rise_of_the_mage.md) | - | - | 0 | - |
 | [Avernum Escape From the Pit](games/a/avernum_escape_from_the_pit.md) | - | - | 0 | - |
@@ -609,7 +609,7 @@
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.84 | 47 | 0 | 600 |
 | [Children of Silentown](games/c/children_of_silentown.md) | - | - | 0 | - |
 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 1,092 | 35 | 517 |
-| [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 437 | 5,352 | 80 |
+| [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 437 | 5,353 | 81 |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | - | - | - | - |
 | [Choo-Choo Charles](games/7/7f849b4158ca4264a43f71d4306a4199.md) | - | - | 0 | - |
 | [Chorus](games/c/chorus.md) | 4.48 | 666 | 35 | 517 |
@@ -787,7 +787,7 @@
 | [Dark Mystery](games/9/9a390b228537424c9b46fb0a3dbce676.md) | - | - | 0 | - |
 | [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | - | - | 0 | - |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | - | - | - | - |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 244 | 8,166 | 53 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 244 | 8,171 | 53 |
 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 139 | 3,490 | 102 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 649 | 45 | 486 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 405 | 404 | 243 |
@@ -1001,7 +1001,7 @@
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 405 | 55,581 | 13 |
 | [Dynopunk](games/7/7c738a3f30bb44d79291fd03eca6a59d.md) | - | - | 0 | - |
 | [E30 Drift Car Simulator](games/b/bd23b6492b6c4efeba179ca4710f38b0.md) | - | - | 0 | - |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.23 | 957 | 5,253 | 81 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.23 | 957 | 5,647 | 78 |
 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 934 | 22,538 | 22 |
 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | - | - | - | - |
 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.28 | 912 | 0 | 600 |
@@ -1259,7 +1259,7 @@
 | [Forspoken](games/f/forspoken.md) | 4.16 | 1,013 | 56 | 457 |
 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | - | - | 0 | - |
 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 1,048 | 0 | 600 |
-| [Fortnite](games/f/fortnite.md) | 4.29 | 898 | 3,101,390 | 1 |
+| [Fortnite](games/f/fortnite.md) | 4.29 | 898 | 3,111,003 | 1 |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | - | - | 0 | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | - | - | - | - |
 | [FPVSIM FPV Simulator](games/a/acb4a47d0bae433e8d721807c5849b99.md) | - | - | 0 | - |
@@ -1516,7 +1516,7 @@
 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 766 | 28 | 545 |
 | [Honeycomb: The World Beyond](games/b/bedc86bbe4e6422e8216541921e4fd10.md) | - | - | - | - |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 649 | 3,457 | 103 |
-| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.73 | 185 | 33,163 | 17 |
+| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.73 | 185 | 33,296 | 17 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 1,072 | 382 | 248 |
 | [Horace](games/h/horace.md) | 4.55 | 538 | 0 | 600 |
 | [HordeCore](games/h/hordecore.md) | - | - | 0 | - |
@@ -1800,7 +1800,7 @@
 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 975 | 0 | 600 |
 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 686 | 0 | 600 |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
-| [League of Legends](games/l/league_of_legends.md) | 4.20 | 984 | 5,530 | 79 |
+| [League of Legends](games/l/league_of_legends.md) | 4.20 | 984 | 5,530 | 80 |
 | [LEAP Mod Editor](games/l/leap_mod_editor.md) | - | - | - | - |
 | [Learning Factory](games/l/learning_factory.md) | - | - | 0 | - |
 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 121 | 0 | 600 |
@@ -1857,8 +1857,8 @@
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | - | - | - | - |
 | [Littlelands](games/d/de4a72bbf5e6433c9cf8f24871fd9b47.md) | - | - | - | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | - | - | - | - |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
@@ -2323,7 +2323,7 @@
 | [Painter Simulator](games/d/d046aae609604a98868576cbcbc30d59.md) | - | - | 0 | - |
 | [Painting Werther](games/p/painting_werther.md) | - | - | - | - |
 | [Paladin Dream](games/p/paladin_dream.md) | - | - | 0 | - |
-| [Paladins](games/p/paladins.md) | 4.32 | 880 | 4,129 | 95 |
+| [Paladins](games/p/paladins.md) | 4.32 | 880 | 4,133 | 95 |
 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.52 | 590 | 2,305 | 116 |
 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | - | - | 0 | - |
 | [Pandemic 1993](games/p/pandemic_1993.md) | - | - | - | - |
@@ -2641,7 +2641,7 @@
 | [Rocco's Island](games/r/rocco's_island.md) | - | - | 0 | - |
 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 686 | 725,170 | 2 |
 | [ROD Multiplayer Car Driving](games/2/2b630014226346b798149e8d26c390c4.md) | - | - | 0 | - |
-| [Rogue Company](games/r/rogue_company.md) | 4.29 | 898 | 5,974 | 74 |
+| [Rogue Company](games/r/rogue_company.md) | 4.29 | 898 | 5,976 | 74 |
 | [Rogue Invader](games/r/rogue_invader.md) | - | - | 0 | - |
 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 405 | 1,115 | 155 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 37 | 229 | 294 |
@@ -2788,8 +2788,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 204 | 29 | 543 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.41 | 766 | 283 | 276 |
@@ -3749,7 +3749,7 @@
 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 831 | 0 | 600 |
 | [Warface: Clutch](games/w/warface.md) | 3.90 | 1,092 | 493 | 227 |
 | [WarForwards](games/w/warforwards.md) | - | - | 0 | - |
-| [Warframe](games/w/warframe.md) | 4.61 | 405 | 21,297 | 23 |
+| [Warframe](games/w/warframe.md) | 4.61 | 405 | 21,328 | 23 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 244 | 1,115 | 155 |
 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.66 | 306 | 0 | 600 |
 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | - | - | 0 | - |
@@ -3848,7 +3848,7 @@
 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 185 | 0 | 600 |
 | [World of Warships](games/w/world_of_warships.md) | 4.40 | 783 | 1,834 | 132 |
 | [World Turtles](games/w/world_turtles.md) | - | - | 0 | - |
-| [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 519 | 5,572 | 78 |
+| [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 519 | 5,572 | 79 |
 | [Worldless](games/c/c0a02ff2b624425c8111868dec76ac7b.md) | - | - | 0 | - |
 | [Worlds Of The Future](games/w/worlds_of_the_future.md) | - | - | - | - |
 | [Worlds War 1](games/w/worlds_war_1.md) | - | - | 0 | - |

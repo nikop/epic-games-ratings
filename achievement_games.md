@@ -231,7 +231,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 19 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 5,253 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 409,022 | 4.23 | 5,647 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,331 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 350,363 | 4.21 | 88 |
@@ -828,7 +828,7 @@
 | [Saint Kotar](games/s/saint_kotar.md) | 2021-10-28 | 45 (1,000 XP) | 24 | - | 0 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 2021-10-28 | 14 (1,000 XP) | 25,436 | 4.22 | 0 |
 | [Aeon Must Die!](games/a/aeon_must_die!.md) | 2021-10-27 | 35 (1,000 XP) | 3,662 | - | 0 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 133,791 | 4.69 | 8,166 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 133,791 | 4.69 | 8,171 |
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 100,414 | 4.29 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 145 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 113 | - | 0 |
