@@ -162,7 +162,7 @@
 | 152 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 599 |
 | 152 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 599 |
 | 152 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 940 | 175 |
-| 152 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 15,028 | 28 |
+| 152 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 15,060 | 28 |
 | 152 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 599 |
 | 152 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 599 |
 | 152 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 599 |
@@ -181,7 +181,7 @@
 | 169 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 914 | 178 |
 | 169 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 97 | 392 |
 | 169 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.74 | 0 | 599 |
-| 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,043 | 165 |
+| 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,048 | 164 |
 | 169 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.74 | 0 | 599 |
 | 169 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 599 |
 | 185 | [Diabotical](games/d/diabotical.md) | 4.73 | 304 | 265 |
@@ -567,7 +567,7 @@
 | 558 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.54 | 0 | 599 |
 | 558 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 78 | 412 |
 | 558 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 511 |
-| 558 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,045 | 164 |
+| 558 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,045 | 165 |
 | 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.54 | 0 | 599 |
 | 558 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 558 |
 | 558 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 392 |
@@ -646,7 +646,7 @@
 | 630 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 599 |
 | 630 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 10,028 | 43 |
 | 630 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,328 | 46 |
-| 630 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 6,875 | 63 |
+| 630 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 6,904 | 63 |
 | 630 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 50 | 470 |
 | 649 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,051 | 122 |
 | 649 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 45 | 486 |
@@ -1056,7 +1056,7 @@
 | 1,048 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 599 |
 | 1,048 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 599 |
 | 1,056 | [Armored Warfare](games/a/armored_warfare.md) | 4.07 | 107 | 379 |
-| 1,056 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,846 | 77 |
+| 1,056 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,849 | 77 |
 | 1,056 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 218 | 300 |
 | 1,056 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.07 | 0 | 599 |
 | 1,060 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 599 |

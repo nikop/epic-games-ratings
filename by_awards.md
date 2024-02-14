@@ -27,7 +27,7 @@
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 16,664 | 4.60 | 437 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 15,693 | 4.87 | 22 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,166 | 4.59 | 456 |
-| 28 | [SnowRunner](games/s/snowrunner.md) | 15,028 | 4.75 | 152 |
+| 28 | [SnowRunner](games/s/snowrunner.md) | 15,060 | 4.75 | 152 |
 | 29 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,745 | 4.58 | 477 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,539 | 4.44 | 723 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,526 | 4.85 | 37 |
@@ -62,7 +62,7 @@
 | 60 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 7,285 | 4.00 | 1,070 |
 | 61 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 7,223 | 4.64 | 350 |
 | 62 | [Cities: Skylines](games/c/cities__skylines.md) | 6,920 | 4.66 | 306 |
-| 63 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 6,875 | 4.50 | 630 |
+| 63 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 6,904 | 4.50 | 630 |
 | 64 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 6,834 | 4.49 | 649 |
 | 65 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,781 | 4.58 | 477 |
 | 66 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 756 |
@@ -76,7 +76,7 @@
 | 74 | [Rogue Company](games/r/rogue_company.md) | 5,976 | 4.29 | 898 |
 | 75 | [Prey](games/p/prey.md) | 5,916 | 4.63 | 365 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,904 | 4.85 | 37 |
-| 77 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,846 | 4.07 | 1,056 |
+| 77 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,849 | 4.07 | 1,056 |
 | 78 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 5,647 | 4.23 | 957 |
 | 79 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,578 | 4.56 | 519 |
 | 80 | [League of Legends](games/l/league_of_legends.md) | 5,540 | 4.20 | 983 |
@@ -163,8 +163,8 @@
 | 161 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,082 | 4.40 | 783 |
 | 162 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,067 | 4.51 | 611 |
 | 163 | [Ooblets](games/o/ooblets.md) | 1,055 | 4.88 | 16 |
-| 164 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,045 | 4.54 | 558 |
-| 165 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,043 | 4.74 | 169 |
+| 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,048 | 4.74 | 169 |
+| 165 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,045 | 4.54 | 558 |
 | 166 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,037 | 4.62 | 389 |
 | 167 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,018 | 4.56 | 519 |
 | 168 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,013 | 4.25 | 942 |
