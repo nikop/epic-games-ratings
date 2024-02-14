@@ -1,11 +1,11 @@
 # Torchlight
 [Store](https://store.epicgames.com/en-US/p/torchlight)  
 [View Rawdata](../../db/t/torchlight.json)  
-Rating: 4.35 (Ranked 845)  
+Rating: 4.35 (Ranked 846)  
 Number of Ratings: 122  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 25  (Ranked 565)  
-Sum: 25 (Ranked 576)  
+Max (Great Boss Battles): 25  (Ranked 566)  
+Sum: 25 (Ranked 577)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |

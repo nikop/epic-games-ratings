@@ -1,6 +1,7 @@
 # Astrea Six Sided Oracles
 [Store](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949)  
 [View Rawdata](../../db/a/astrea_six_sided_oracles.json)  
+Rating: 4.50 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -191,3 +192,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-22 | 392 | 0 |
 | 2024-01-23 | 393 | 0 |
 | 2024-01-24 | 394 | 0 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2024-02-14 | 4.50 | 0 | 0 |

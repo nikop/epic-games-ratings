@@ -2,7 +2,7 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 702,
+  "Ranking_Rating": 703,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 856,
@@ -4261,10 +4261,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2500,
       "NumberOfAwardsMax": 304
+    },
+    {
+      "Time": "2024-02-14T18:57:05.367661+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2502,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2500,
+  "NumberOfAwards": 2502,
   "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4314,7 +4320,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 235
+      "Count": 237
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4347,8 +4353,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-02-14T13:02:42.1482278+00:00",
+  "LastChanged": "2024-02-14T18:57:05.3676608+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:22.7568676+00:00",
-  "LastUpdate_Ratings": "2024-02-14T16:59:36.0836219+00:00",
+  "LastUpdate_Ratings": "2024-02-14T18:57:05.3676615+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:23.6130817+00:00"
 }

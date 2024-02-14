@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 244,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 305,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 182,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -727,6 +727,12 @@
     {
       "Time": "2024-02-13T16:57:25.8844334+00:00",
       "Rating": 4.69,
+      "NumberOfAwards": 421,
+      "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2024-02-14T18:57:23.2659148+00:00",
+      "Rating": 4.7,
       "NumberOfAwards": 421,
       "NumberOfAwardsMax": 209
     }
@@ -7160,9 +7166,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-02-13T16:57:25.884426+00:00",
+  "LastChanged": "2024-02-14T18:57:23.2659146+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:42.2777883+00:00",
   "LastUpdate_AppInfo": "2024-02-08T08:57:22.9883879+00:00",
-  "LastUpdate_Ratings": "2024-02-14T16:59:54.1830854+00:00",
+  "LastUpdate_Ratings": "2024-02-14T18:57:23.2659152+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:42.2778466+00:00"
 }

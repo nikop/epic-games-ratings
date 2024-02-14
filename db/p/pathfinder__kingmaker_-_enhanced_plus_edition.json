@@ -2,7 +2,7 @@
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 3868,
   "RatingHistory": [
     {
@@ -7638,10 +7638,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9510,
       "NumberOfAwardsMax": 3493
+    },
+    {
+      "Time": "2024-02-14T18:57:36.7081394+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 9511,
+      "NumberOfAwardsMax": 3493
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9510,
+  "NumberOfAwards": 9511,
   "NumberOfAwardsMax": 3493,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7679,7 +7685,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 450
+      "Count": 451
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7735,8 +7741,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2024-02-13T18:59:53.77991+00:00",
+  "LastChanged": "2024-02-14T18:57:36.7081392+00:00",
   "LastUpdate_AppInfo": "2024-02-11T06:57:04.8761624+00:00",
-  "LastUpdate_Ratings": "2024-02-14T17:00:07.1105425+00:00",
+  "LastUpdate_Ratings": "2024-02-14T18:57:36.7081399+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:27.2018405+00:00"
 }

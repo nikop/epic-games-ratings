@@ -1,7 +1,7 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.41 (Ranked 767)  
+Rating: 4.40 (Ranked 783)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -111,3 +111,4 @@ Diff (max vs sum): 0
 | 2024-02-10 | 4.40 | 0 | 0 |
 | 2024-02-11 | 4.41 | 0 | 0 |
 | 2024-02-12 | 4.41 | 20 | 20 |
+| 2024-02-14 | 4.40 | 20 | 20 |

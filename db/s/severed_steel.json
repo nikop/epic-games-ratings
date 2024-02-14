@@ -2,13 +2,13 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 244,
+  "Ranking_Rating": 245,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 3962,
-  "Ranking_EOS_NewCompleters": 3960,
+  "Ranking_EOS_NewPlayers": 3965,
+  "Ranking_EOS_NewCompleters": 3963,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -34231,6 +34231,6 @@
   "LastChanged": "2024-02-13T08:58:40.5543176+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:36.0069074+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:13.9667603+00:00",
-  "LastUpdate_Ratings": "2024-02-14T16:59:53.969849+00:00",
+  "LastUpdate_Ratings": "2024-02-14T18:57:23.1042024+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:36.0070655+00:00"
 }
