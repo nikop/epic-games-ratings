@@ -4,7 +4,7 @@
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 630,
   "Ranking_Popularity": 63,
-  "Ranking_PopularitySum": 106,
+  "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2649,10 +2649,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 9478,
       "NumberOfAwardsMax": 6875
+    },
+    {
+      "Time": "2024-02-14T10:59:59.640057+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 9482,
+      "NumberOfAwardsMax": 6875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9478,
+  "NumberOfAwards": 9482,
   "NumberOfAwardsMax": 6875,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2708,7 +2714,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 317
+      "Count": 321
     },
     {
       "Text": "This game has a Creative Community",
@@ -2737,9 +2743,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-02-14T05:59:07.4122557+00:00",
+  "LastChanged": "2024-02-14T10:59:59.6400569+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:45.1369738+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:33.5589692+00:00",
-  "LastUpdate_Ratings": "2024-02-14T09:58:54.6363335+00:00",
+  "LastUpdate_Ratings": "2024-02-14T10:59:59.6400574+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:45.1369756+00:00"
 }
