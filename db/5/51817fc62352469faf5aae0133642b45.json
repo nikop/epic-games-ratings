@@ -3,8 +3,8 @@
   "Name": "Call of Dragons",
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 885,
-  "Ranking_Popularity": 600,
-  "Ranking_PopularitySum": 600,
+  "Ranking_Popularity": 599,
+  "Ranking_PopularitySum": 599,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -361,6 +361,6 @@
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
   "LastChanged": "2024-02-13T23:00:38.840678+00:00",
   "LastUpdate_AppInfo": "2024-02-07T17:57:04.1754429+00:00",
-  "LastUpdate_Ratings": "2024-02-13T23:00:38.8406785+00:00",
+  "LastUpdate_Ratings": "2024-02-14T01:38:41.1479797+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:31.8124613+00:00"
 }
