@@ -2,7 +2,7 @@
   "ID": "1311a5735ed844c0b3c47027cab321f0",
   "Name": "Doki Doki Literature Club Plus!",
   "ProductSlug": "doki-doki-literature-club-plus",
-  "Ranking_Rating": 102,
+  "Ranking_Rating": 93,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 47,
   "RatingHistory": [
     {
@@ -273,6 +273,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 53,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-02-14T19:57:18.5202242+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 53,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
@@ -298,8 +304,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:25.5906311+00:00",
-  "LastChanged": "2024-02-14T11:58:10.746424+00:00",
+  "LastChanged": "2024-02-14T19:57:18.5202241+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:09.781796+00:00",
-  "LastUpdate_Ratings": "2024-02-14T18:00:22.9699975+00:00",
+  "LastUpdate_Ratings": "2024-02-14T19:57:18.5202245+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:17.3979994+00:00"
 }
