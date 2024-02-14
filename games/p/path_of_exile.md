@@ -1,7 +1,7 @@
 # Path of Exile
 [Store](https://store.epicgames.com/en-US/p/path-of-exile)  
 [View Rawdata](../../db/p/path_of_exile.json)  
-Rating: 4.62 (Ranked 389)  
+Rating: 4.61 (Ranked 403)  
 Number of Ratings: 3,102  (23.09.2022)  
 ## Awards
 Max (Character Customization): 2,865  (Ranked 109)  
@@ -396,3 +396,4 @@ Diff (max vs sum): 9
 | 2024-02-11 | 4.62 | - | 2,864 | 10,093 |
 | 2024-02-12 | 4.62 | - | 2,865 | 10,096 |
 | 2024-02-13 | 4.62 | - | 2,865 | 10,099 |
+| 2024-02-14 | 4.61 | - | 2,865 | 10,099 |
