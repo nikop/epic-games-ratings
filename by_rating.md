@@ -78,7 +78,7 @@
 | 68 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 31 | 531 |
 | 68 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 102 | 382 |
 | 78 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.81 | 0 | 599 |
-| 78 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,234 | 119 |
+| 78 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,240 | 119 |
 | 78 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 599 |
 | 78 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 599 |
 | 78 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 599 |
@@ -283,7 +283,7 @@
 | 269 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.68 | 49 | 473 |
 | 269 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 741 | 197 |
 | 269 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.68 | 0 | 599 |
-| 269 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 66 | 435 |
+| 269 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 67 | 435 |
 | 269 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.68 | 0 | 599 |
 | 269 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 0 | 599 |
 | 269 | [Suzerain](games/s/suzerain.md) | 4.68 | 0 | 599 |
@@ -417,7 +417,7 @@
 | 403 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.61 | 0 | 599 |
 | 403 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 599 |
 | 403 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 599 |
-| 403 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.61 | 66 | 435 |
+| 403 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.61 | 66 | 436 |
 | 403 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 442 |
 | 403 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 432 | 240 |
 | 403 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,865 | 109 |
@@ -968,7 +968,7 @@
 | 957 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 599 |
 | 957 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 244 | 286 |
 | 968 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.22 | 0 | 599 |
-| 968 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.22 | 66 | 435 |
+| 968 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.22 | 66 | 436 |
 | 968 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 783 | 193 |
 | 968 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 599 |
 | 968 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 156 | 338 |
@@ -1024,17 +1024,17 @@
 | 1,021 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.15 | 0 | 599 |
 | 1,021 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 599 |
 | 1,021 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.15 | 0 | 599 |
-| 1,021 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.15 | 0 | 599 |
 | 1,021 | [Fangs](games/f/fangs.md) | 4.15 | 0 | 599 |
 | 1,021 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 544 |
 | 1,021 | [Lake](games/l/lake.md) | 4.15 | 0 | 599 |
 | 1,021 | [Pine](games/p/pine.md) | 4.15 | 0 | 599 |
 | 1,021 | [Relicta](games/r/relicta.md) | 4.15 | 206 | 307 |
-| 1,031 | [Model Builder](games/m/model_builder.md) | 4.14 | 0 | 599 |
-| 1,031 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 599 |
-| 1,031 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 599 |
-| 1,031 | [The Bridge](games/t/the_bridge.md) | 4.14 | 0 | 599 |
-| 1,031 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 599 |
+| 1,030 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.14 | 0 | 599 |
+| 1,030 | [Model Builder](games/m/model_builder.md) | 4.14 | 0 | 599 |
+| 1,030 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 599 |
+| 1,030 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 599 |
+| 1,030 | [The Bridge](games/t/the_bridge.md) | 4.14 | 0 | 599 |
+| 1,030 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 599 |
 | 1,036 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 21 | 585 |
 | 1,036 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.13 | 47 | 479 |
 | 1,036 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.13 | 0 | 599 |
@@ -1070,7 +1070,7 @@
 | 1,067 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 599 |
 | 1,067 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 0 | 599 |
 | 1,070 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,285 | 60 |
-| 1,070 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,013 | 85 |
+| 1,070 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,016 | 85 |
 | 1,072 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 382 | 248 |
 | 1,072 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 599 |
 | 1,074 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 599 |
