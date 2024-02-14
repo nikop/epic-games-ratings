@@ -4,7 +4,7 @@
   "ProductSlug": "gods-unchained-9b2cb5",
   "Ranking_Rating": 926,
   "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 588,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -269,10 +269,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-02-14T09:58:45.6596678+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
+  "NumberOfAwards": 41,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -281,6 +287,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -295,8 +307,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-02-12T16:57:34.7256305+00:00",
+  "LastChanged": "2024-02-14T09:58:45.6596676+00:00",
   "LastUpdate_AppInfo": "2024-02-08T19:57:05.4588623+00:00",
-  "LastUpdate_Ratings": "2024-02-14T08:58:07.2750377+00:00",
+  "LastUpdate_Ratings": "2024-02-14T09:58:45.659668+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.8310351+00:00"
 }
