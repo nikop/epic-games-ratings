@@ -149,7 +149,7 @@
 | 147 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,365 | 4.70 | 223 |
 | 147 | [MORDHAU](games/m/mordhau.md) | 1,365 | 4.38 | 810 |
 | 149 | [DOOM 64](games/d/doom_64.md) | 1,314 | 4.66 | 306 |
-| 150 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,259 | 4.69 | 244 |
+| 150 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,260 | 4.69 | 244 |
 | 151 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,229 | 4.76 | 139 |
 | 152 | [EVE Online](games/e/eve_online.md) | 1,197 | 4.24 | 947 |
 | 153 | [Saints Row](games/s/saints_row.md) | 1,180 | 3.88 | 1,097 |
@@ -177,7 +177,7 @@
 | 175 | [Riders Republic](games/r/riders_republic.md) | 940 | 4.75 | 152 |
 | 176 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 920 | 4.65 | 333 |
 | 177 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 918 | 4.45 | 702 |
-| 178 | [The Long Dark](games/t/the_long_dark.md) | 912 | 4.74 | 169 |
+| 178 | [The Long Dark](games/t/the_long_dark.md) | 914 | 4.74 | 169 |
 | 179 | [Auto Chess](games/a/auto_chess.md) | 904 | 4.50 | 630 |
 | 180 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 895 | 4.80 | 93 |
 | 181 | [FAR CRY 4](games/f/far_cry_4.md) | 891 | 4.68 | 269 |
@@ -190,8 +190,8 @@
 | 188 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 816 | 4.66 | 306 |
 | 189 | [Subnautica](games/s/subnautica.md) | 810 | 4.85 | 37 |
 | 190 | [Neverwinter](games/n/neverwinter.md) | 809 | 4.29 | 898 |
+| 191 | [Core](games/c/core.md) | 793 | 4.35 | 845 |
 | 191 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 793 | 4.60 | 437 |
-| 192 | [Core](games/c/core.md) | 792 | 4.35 | 845 |
 | 193 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 783 | 4.22 | 968 |
 | 194 | [Brawlhalla](games/b/brawlhalla.md) | 782 | 4.59 | 456 |
 | 195 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 779 | 4.87 | 22 |

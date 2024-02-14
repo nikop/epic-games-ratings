@@ -178,7 +178,7 @@
 | 169 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 48,277 | 14 |
 | 169 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 167 | 333 |
 | 169 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 110 | 373 |
-| 169 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 912 | 178 |
+| 169 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 914 | 178 |
 | 169 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 97 | 392 |
 | 169 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.74 | 0 | 599 |
 | 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,043 | 165 |
@@ -255,7 +255,7 @@
 | 244 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 599 |
 | 244 | [House Flipper](games/h/house_flipper.md) | 4.69 | 338 | 258 |
 | 244 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.69 | 0 | 599 |
-| 244 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,259 | 150 |
+| 244 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,260 | 150 |
 | 244 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,020 | 125 |
 | 244 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 599 |
 | 244 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 662 | 205 |
@@ -845,7 +845,7 @@
 | 833 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.36 | 151 | 343 |
 | 833 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 153 | 339 |
 | 845 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 599 |
-| 845 | [Core](games/c/core.md) | 4.35 | 792 | 192 |
+| 845 | [Core](games/c/core.md) | 4.35 | 793 | 191 |
 | 845 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.35 | 0 | 599 |
 | 845 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 599 |
 | 845 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 208 | 306 |
