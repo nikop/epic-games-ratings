@@ -4,7 +4,7 @@
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 983,
   "Ranking_Popularity": 80,
-  "Ranking_PopularitySum": 55,
+  "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -13297,10 +13297,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 25613,
       "NumberOfAwardsMax": 5540
+    },
+    {
+      "Time": "2024-02-14T15:58:25.8594928+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 25631,
+      "NumberOfAwardsMax": 5540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25613,
+  "NumberOfAwards": 25631,
   "NumberOfAwardsMax": 5540,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13326,7 +13332,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4048
+      "Count": 4057
     },
     {
       "Text": "This game has Competitive Players",
@@ -13338,7 +13344,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3850
+      "Count": 3859
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13370,8 +13376,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2024-02-14T11:58:30.385068+00:00",
+  "LastChanged": "2024-02-14T15:58:25.8594925+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:02.6610892+00:00",
-  "LastUpdate_Ratings": "2024-02-14T14:01:20.3747069+00:00",
+  "LastUpdate_Ratings": "2024-02-14T15:58:25.8594931+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:05.4216251+00:00"
 }
