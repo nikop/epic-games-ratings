@@ -12881,10 +12881,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 40223,
       "NumberOfAwardsMax": 22669
+    },
+    {
+      "Time": "2024-02-14T14:57:48.1432909+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 40231,
+      "NumberOfAwardsMax": 22669
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40223,
+  "NumberOfAwards": 40231,
   "NumberOfAwardsMax": 22669,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12898,7 +12904,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2247
+      "Count": 2250
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12916,7 +12922,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2285
+      "Count": 2290
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12960,8 +12966,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2024-02-14T06:58:04.0917523+00:00",
+  "LastChanged": "2024-02-14T14:57:48.1432907+00:00",
   "LastUpdate_AppInfo": "2024-02-11T06:57:01.3077519+00:00",
-  "LastUpdate_Ratings": "2024-02-14T13:02:31.8422619+00:00",
+  "LastUpdate_Ratings": "2024-02-14T14:57:48.1432915+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:35.9178725+00:00"
 }
