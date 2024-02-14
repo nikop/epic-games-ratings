@@ -69,7 +69,7 @@
 | 56 | [TUNIC](games/t/tunic.md) | 4.83 | 40 | 496 |
 | 68 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 599 |
 | 68 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 464 | 236 |
-| 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,618 | 67 |
+| 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,632 | 67 |
 | 68 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,420 | 144 |
 | 68 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 309 | 263 |
 | 68 | [Sifu](games/s/sifu.md) | 4.82 | 7,396 | 59 |
@@ -222,27 +222,27 @@
 | 204 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 599 |
 | 204 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 599 |
 | 204 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,377 | 113 |
-| 204 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 599 |
-| 224 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.70 | 0 | 599 |
-| 224 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,664 | 88 |
-| 224 | [Coromon](games/c/coromon.md) | 4.70 | 48 | 476 |
-| 224 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.70 | 0 | 599 |
-| 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 589 | 217 |
-| 224 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.70 | 0 | 599 |
-| 224 | [For The King](games/f/for_the_king.md) | 4.70 | 436 | 239 |
-| 224 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,365 | 147 |
-| 224 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 0 | 599 |
-| 224 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 25 | 564 |
-| 224 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 0 | 599 |
-| 224 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 599 |
-| 224 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 53 | 459 |
-| 224 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 599 |
-| 224 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 599 |
-| 224 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 599 |
-| 224 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,889 | 86 |
-| 224 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 599 |
-| 224 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 599 |
-| 224 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 599 |
+| 223 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.70 | 0 | 599 |
+| 223 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,664 | 88 |
+| 223 | [Coromon](games/c/coromon.md) | 4.70 | 48 | 476 |
+| 223 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.70 | 0 | 599 |
+| 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 589 | 217 |
+| 223 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.70 | 0 | 599 |
+| 223 | [For The King](games/f/for_the_king.md) | 4.70 | 436 | 239 |
+| 223 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,365 | 147 |
+| 223 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 0 | 599 |
+| 223 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 25 | 564 |
+| 223 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 0 | 599 |
+| 223 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 599 |
+| 223 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 53 | 459 |
+| 223 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 599 |
+| 223 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 599 |
+| 223 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 599 |
+| 223 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,889 | 86 |
+| 223 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 599 |
+| 223 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 599 |
+| 223 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 599 |
+| 223 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 599 |
 | 244 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 599 |
 | 244 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 127,563 | 9 |
 | 244 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 599 |
@@ -707,7 +707,7 @@
 | 702 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 0 | 599 |
 | 702 | [DEATHLOOP](games/d/deathloop.md) | 4.45 | 73 | 424 |
 | 702 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 267 | 283 |
-| 702 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 66,040 | 12 |
+| 702 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 66,269 | 12 |
 | 702 | [ELEX](games/e/elex.md) | 4.45 | 26 | 557 |
 | 702 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.45 | 0 | 599 |
 | 702 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 599 |
@@ -895,7 +895,7 @@
 | 891 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.30 | 74 | 420 |
 | 891 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.30 | 51 | 466 |
 | 891 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 48 | 476 |
-| 891 | [Predecessor](games/p/predecessor.md) | 4.30 | 371 | 249 |
+| 891 | [Predecessor](games/p/predecessor.md) | 4.30 | 372 | 249 |
 | 891 | [Scrapnaut](games/s/scrapnaut.md) | 4.30 | 0 | 599 |
 | 898 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.29 | 20 | 594 |
 | 898 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 599 |
@@ -1069,7 +1069,7 @@
 | 1,067 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.02 | 0 | 599 |
 | 1,067 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 599 |
 | 1,067 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 0 | 599 |
-| 1,070 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,256 | 60 |
+| 1,070 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,285 | 60 |
 | 1,070 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,013 | 85 |
 | 1,072 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 382 | 248 |
 | 1,072 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 599 |
