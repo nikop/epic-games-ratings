@@ -2,7 +2,7 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 968,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 3300,
   "RatingHistory": [
     {
@@ -3163,10 +3163,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1238,
       "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2024-02-15T18:59:18.8070372+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1240,
+      "NumberOfAwardsMax": 244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1238,
+  "NumberOfAwards": 1240,
   "NumberOfAwardsMax": 244,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3174,7 +3180,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 228
+      "Count": 230
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3242,8 +3248,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-02-14T08:59:32.5103645+00:00",
+  "LastChanged": "2024-02-15T18:59:18.807037+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:48.7080984+00:00",
-  "LastUpdate_Ratings": "2024-02-15T17:57:21.3951979+00:00",
+  "LastUpdate_Ratings": "2024-02-15T18:59:18.8070377+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.445532+00:00"
 }

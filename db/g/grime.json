@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 437,
   "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 87,
@@ -2087,10 +2087,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 508,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-02-15T18:58:04.6315662+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 509,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 508,
+  "NumberOfAwards": 509,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -2140,7 +2146,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Amazing Characters",
@@ -25250,9 +25256,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-02-15T17:00:10.2401743+00:00",
+  "LastChanged": "2024-02-15T18:58:04.631566+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:45.026609+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:35.2839295+00:00",
-  "LastUpdate_Ratings": "2024-02-15T17:00:10.2401748+00:00",
+  "LastUpdate_Ratings": "2024-02-15T18:58:04.6315665+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:45.0267172+00:00"
 }
