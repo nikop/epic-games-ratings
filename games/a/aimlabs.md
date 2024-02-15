@@ -3,12 +3,12 @@
 [View Rawdata](../../db/a/aimlabs.json)  
 Rating: 4.59 (Ranked 457)  
 ## Awards
-Max (Great for Beginners): 108  (Ranked 378)  
-Sum: 728 (Ranked 312)  
-Diff (max vs sum): 66  
+Max (Great for Beginners): 110  (Ranked 373)  
+Sum: 730 (Ranked 312)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 108 |
+| This game is Great for Beginners | 110 |
 | This game is Great for Quick Sessions | 106 |
 | This game is Educational | 88 |
 | This game has Competitive Players | 82 |
@@ -230,3 +230,4 @@ Diff (max vs sum): 66
 | 2024-02-12 | 4.59 | 108 | 722 |
 | 2024-02-13 | 4.59 | 108 | 724 |
 | 2024-02-14 | 4.59 | 108 | 728 |
+| 2024-02-15 | 4.59 | 110 | 730 |
