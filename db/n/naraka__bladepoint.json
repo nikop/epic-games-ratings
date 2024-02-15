@@ -2,7 +2,7 @@
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
   "ProductSlug": "naraka-bladepoint",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 1000,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 856,
@@ -9859,10 +9859,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 490118,
       "NumberOfAwardsMax": 221401
+    },
+    {
+      "Time": "2024-02-15T05:59:03.6068728+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 490182,
+      "NumberOfAwardsMax": 221401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 490118,
+  "NumberOfAwards": 490182,
   "NumberOfAwardsMax": 221401,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9876,7 +9882,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 102336
+      "Count": 102400
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9920,8 +9926,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2024-02-14T20:58:25.7654631+00:00",
+  "LastChanged": "2024-02-15T05:59:03.6068726+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:08.9879284+00:00",
-  "LastUpdate_Ratings": "2024-02-15T04:58:06.5365089+00:00",
+  "LastUpdate_Ratings": "2024-02-15T05:59:03.6068732+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:15.4091152+00:00"
 }
