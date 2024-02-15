@@ -18,7 +18,6 @@
 | [Nyan Heroes](games/8/8e8c6752bd704123adc71241c92e7bce.md) | 2099-01-01 | - |  | - | - |
 | [ORDINEM](games/5/5feb8fb5da084884b66d1d56e67526b9.md) | 2099-01-01 | - |  | - | - |
 | [Providence](games/4/46ddbd5e69374a07839e584a4bc8e8b2.md) | 2099-01-01 | - |  | - | - |
-| [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2099-01-01 | - |  | - | - |
 | [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Starvin Martian](games/1/1255e14898d542979c0257aa9763649c.md) | 2099-01-01 | - |  | - | - |
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2099-01-01 | - |  | - | - |
@@ -42,6 +41,7 @@
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-03-31 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 471 | - | 0 |
+| [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-21 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | - |
 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | - | 0 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | - |
@@ -100,7 +100,7 @@
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.76 | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.58 | 0 |
-| [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.70 | 0 |
+| [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.65 | 0 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.80 | 34 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.43 | 53 |
