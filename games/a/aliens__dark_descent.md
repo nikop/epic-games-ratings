@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.55 (Ranked 539)  
+Rating: 4.56 (Ranked 519)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -372,3 +372,4 @@ Diff (max vs sum): -81
 | 2024-02-10 | 4.56 | 76 | 76 |
 | 2024-02-12 | 4.56 | 77 | 77 |
 | 2024-02-14 | 4.55 | 77 | 77 |
+| 2024-02-15 | 4.56 | 77 | 77 |

@@ -2,9 +2,9 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 539,
+  "Ranking_Rating": 540,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 219,
+  "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2487,10 +2487,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2225,
       "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2024-02-15T20:01:51.2296527+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2228,
+      "NumberOfAwardsMax": 271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2225,
+  "NumberOfAwards": 2228,
   "NumberOfAwardsMax": 271,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2558,7 +2564,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 113
+      "Count": 116
     }
   ],
   "EOS_Progressed": 0,
@@ -2573,8 +2579,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-02-15T18:59:54.3265639+00:00",
+  "LastChanged": "2024-02-15T20:01:51.2296526+00:00",
   "LastUpdate_AppInfo": "2024-02-12T11:56:54.7851682+00:00",
-  "LastUpdate_Ratings": "2024-02-15T18:59:54.3265644+00:00",
+  "LastUpdate_Ratings": "2024-02-15T20:01:51.2296534+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:39.8128226+00:00"
 }

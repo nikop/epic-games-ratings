@@ -4,7 +4,7 @@
   "ProductSlug": "karos-09de0a",
   "Ranking_Rating": 724,
   "Ranking_Popularity": 403,
-  "Ranking_PopularitySum": 450,
+  "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -833,10 +833,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 165,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-02-15T19:58:27.0863526+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 167,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 165,
+  "NumberOfAwards": 167,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -874,7 +880,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -889,8 +895,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-02-14T18:58:14.2460926+00:00",
+  "LastChanged": "2024-02-15T19:58:27.0863525+00:00",
   "LastUpdate_AppInfo": "2024-02-15T14:57:10.4664004+00:00",
-  "LastUpdate_Ratings": "2024-02-15T17:59:47.7280805+00:00",
+  "LastUpdate_Ratings": "2024-02-15T19:58:27.086358+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:36.2686191+00:00"
 }

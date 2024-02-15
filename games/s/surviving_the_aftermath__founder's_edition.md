@@ -351,12 +351,12 @@ Completed: 65 (0.01%) (Ranked 388)
 | 2024-01-27 | 512,167 | 65 |
 ## Awards
 Max (Great for Beginners): 300  (Ranked 269)  
-Sum: 1,581 (Ranked 249)  
-Diff (max vs sum): 20  
+Sum: 1,582 (Ranked 248)  
+Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 300 |
-| This game is Extremely Fun | 256 |
+| This game is Extremely Fun | 257 |
 | This game has Amazing Storytelling | 234 |
 | This game has Quickly Understood Controls | 232 |
 | This game is Relaxing | 220 |
@@ -597,4 +597,4 @@ Diff (max vs sum): 20
 | 2024-02-12 | 4.38 | - | 298 | 1,573 |
 | 2024-02-13 | 4.38 | - | 298 | 1,576 |
 | 2024-02-14 | 4.38 | - | 298 | 1,577 |
-| 2024-02-15 | 4.38 | - | 300 | 1,581 |
+| 2024-02-15 | 4.38 | - | 300 | 1,582 |

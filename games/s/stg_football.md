@@ -1,7 +1,7 @@
 # STG Football
 [Store](https://store.epicgames.com/en-US/p/superteam-football-6ce66c)  
 [View Rawdata](../../db/s/stg_football.json)  
-Rating: 4.43 (Ranked 746)  
+Rating: 4.43 (Ranked 747)  
 ## Awards
 Max (Great for Beginners): 53  (Ranked 461)  
 Sum: 392 (Ranked 373)  

@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 403,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 204,
+  "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -5979,10 +5979,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2527,
       "NumberOfAwardsMax": 361
+    },
+    {
+      "Time": "2024-02-15T19:59:11.1420482+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2528,
+      "NumberOfAwardsMax": 361
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2527,
+  "NumberOfAwards": 2528,
   "NumberOfAwardsMax": 361,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6026,7 +6032,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 324
+      "Count": 325
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6058,8 +6064,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2024-02-15T18:00:15.4951228+00:00",
+  "LastChanged": "2024-02-15T19:59:11.142048+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:23.3334986+00:00",
-  "LastUpdate_Ratings": "2024-02-15T18:00:15.4951233+00:00",
+  "LastUpdate_Ratings": "2024-02-15T19:59:11.1420486+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:04.627726+00:00"
 }
