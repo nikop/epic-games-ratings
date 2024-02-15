@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-kingmaker",
   "Ranking_Rating": 476,
   "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 106,
+  "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -7644,10 +7644,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 9511,
       "NumberOfAwardsMax": 3493
+    },
+    {
+      "Time": "2024-02-15T03:58:23.759515+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 9512,
+      "NumberOfAwardsMax": 3493
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9511,
+  "NumberOfAwards": 9512,
   "NumberOfAwardsMax": 3493,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7703,7 +7709,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 415
+      "Count": 416
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7741,8 +7747,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2024-02-14T18:57:36.7081392+00:00",
+  "LastChanged": "2024-02-15T03:58:23.7595148+00:00",
   "LastUpdate_AppInfo": "2024-02-11T06:57:04.8761624+00:00",
-  "LastUpdate_Ratings": "2024-02-15T02:57:20.5845836+00:00",
+  "LastUpdate_Ratings": "2024-02-15T03:58:23.7595155+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:27.2018405+00:00"
 }
