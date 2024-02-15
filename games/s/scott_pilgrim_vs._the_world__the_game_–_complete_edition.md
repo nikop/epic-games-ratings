@@ -1,7 +1,7 @@
 # Scott Pilgrim vs. The World: The Game – Complete Edition
 [Store](https://store.epicgames.com/en-US/p/scott-pilgrim-vs-the-world-the-game)  
 [View Rawdata](../../db/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.json)  
-Rating: 4.78 (Ranked 113)  
+Rating: 4.77 (Ranked 120)  
 Number of Ratings: 99  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 60  (Ranked 449)  
@@ -106,3 +106,4 @@ Diff (max vs sum): -65
 | 2024-01-22 | 4.79 | - | 59 | 59 |
 | 2024-01-31 | 4.78 | - | 59 | 59 |
 | 2024-02-10 | 4.78 | - | 60 | 60 |
+| 2024-02-15 | 4.77 | - | 60 | 60 |

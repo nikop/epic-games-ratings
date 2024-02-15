@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-iii",
   "Ranking_Rating": 94,
   "Ranking_Popularity": 180,
-  "Ranking_PopularitySum": 233,
+  "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -3476,11 +3476,17 @@
       "Rating": 4.8,
       "NumberOfAwards": 1808,
       "NumberOfAwardsMax": 895
+    },
+    {
+      "Time": "2024-02-15T15:58:02.3824401+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 1810,
+      "NumberOfAwardsMax": 897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1808,
-  "NumberOfAwardsMax": 895,
+  "NumberOfAwards": 1810,
+  "NumberOfAwardsMax": 897,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -3493,7 +3499,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 895
+      "Count": 897
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3567,8 +3573,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2024-02-15T06:57:45.9802816+00:00",
+  "LastChanged": "2024-02-15T15:58:02.3824399+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:22.5264011+00:00",
-  "LastUpdate_Ratings": "2024-02-15T14:00:30.3223576+00:00",
+  "LastUpdate_Ratings": "2024-02-15T15:58:02.3824405+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:16.9051549+00:00"
 }
