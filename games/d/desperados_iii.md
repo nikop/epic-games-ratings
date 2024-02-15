@@ -1,12 +1,12 @@
 # Desperados III
 [Store](https://store.epicgames.com/en-US/p/desperados-3)  
 [View Rawdata](../../db/d/desperados_iii.json)  
-Rating: 4.84 (Ranked 47)  
+Rating: 4.84 (Ranked 46)  
 Number of Ratings: 351  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 49  (Ranked 475)  
+Max (Amazing Storytelling): 49  (Ranked 476)  
 Sum: 322 (Ranked 386)  
-Diff (max vs sum): 89  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 49 |

@@ -3,6 +3,13 @@
 [View Rawdata](../../db/k/king's_bounty__the_legend.json)  
 Rating: 4.76 (Ranked 140)  
 Number of Ratings: 48  (23.09.2022)  
+## Awards
+Max (Character Customization): 20  (Ranked 595)  
+Sum: 20 (Ranked 595)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game has Inclusive Character Customization | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -42,3 +49,4 @@ Number of Ratings: 48  (23.09.2022)
 | 2023-03-31 | 4.76 | - | 0 | 0 |
 | 2023-07-10 | 4.75 | - | 0 | 0 |
 | 2023-08-13 | 4.76 | - | 0 | 0 |
+| 2024-02-15 | 4.76 | - | 20 | 20 |

@@ -3,7 +3,7 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 476,
-  "Ranking_Popularity": 486,
+  "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 325,
@@ -1049,11 +1049,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 347,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-02-15T13:01:25.717512+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 348,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 347,
-  "NumberOfAwardsMax": 45,
+  "NumberOfAwards": 348,
+  "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1084,7 +1090,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12015,9 +12021,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-02-03T20:01:22.611608+00:00",
+  "LastChanged": "2024-02-15T13:01:25.7175118+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:15.7575463+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:24.2587516+00:00",
-  "LastUpdate_Ratings": "2024-02-15T11:59:11.4825748+00:00",
+  "LastUpdate_Ratings": "2024-02-15T13:01:25.7175122+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:15.7576256+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Colonists",
   "ProductSlug": "the-colonists",
   "Ranking_Rating": 668,
-  "Ranking_Popularity": 599,
-  "Ranking_PopularitySum": 599,
+  "Ranking_Popularity": 600,
+  "Ranking_PopularitySum": 600,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -73,6 +73,6 @@
   "FirstSeenRating": "2022-11-30T17:01:14.9184871+00:00",
   "LastChanged": "2024-01-27T05:00:25.6077866+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:19.8295744+00:00",
-  "LastUpdate_Ratings": "2024-02-15T10:59:50.2802997+00:00",
+  "LastUpdate_Ratings": "2024-02-15T12:59:11.9034086+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:28.259446+00:00"
 }
