@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Dot Line](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | - |  | - | - |
 | [Pinbot](games/2/2fb0f7c2c29041ea94464a263acfbeb7.md) | 2024-02-15 | - |  | - | - |
 | [Delivery Boy](games/8/84860d15749f404e8a24fd58e6b01448.md) | 2024-02-15 | - |  | - | - |
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-02-15 | 45 (1,000 XP) | 1 | - | 0 |
@@ -21,7 +22,7 @@
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 1 | - | 0 |
 | [RPG Survivors](games/a/acf4beaa800f4dbcb007623d83634582.md) | 2024-02-11 | - |  | - | 0 |
 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 2024-02-11 | - |  | - | 0 |
-| [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | - |
+| [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | 0 |
 | [Man in the Dark](games/2/25dd02a1f0f4416f991a779d17e437ae.md) | 2024-02-10 | - |  | - | 0 |
 | [Serbian Dancing Lady](games/5/55400d765e13415996d0324bbda143c0.md) | 2024-02-10 | - |  | - | 0 |
 | [Grieve](games/3/33d6300ac8394fd48337c934f52c71cc.md) | 2024-02-09 | - |  | - | 0 |
