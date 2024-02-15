@@ -3,8 +3,8 @@
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
   "Ranking_Rating": 268,
-  "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 468,
+  "Ranking_Popularity": 357,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1315,11 +1315,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 128,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-02-15T09:57:15.1232377+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 128,
-  "NumberOfAwardsMax": 128,
+  "NumberOfAwards": 130,
+  "NumberOfAwardsMax": 130,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -1332,7 +1338,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 128
+      "Count": 130
     }
   ],
   "EOS_Progressed": 0,
@@ -1346,8 +1352,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2024-02-12T04:58:12.1871794+00:00",
+  "LastChanged": "2024-02-15T09:57:15.1232375+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:38.0088385+00:00",
-  "LastUpdate_Ratings": "2024-02-15T08:01:05.6392387+00:00",
+  "LastUpdate_Ratings": "2024-02-15T09:57:15.123238+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:53.238753+00:00"
 }
