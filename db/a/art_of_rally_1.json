@@ -3,8 +3,8 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 365,
-  "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 369,
+  "Ranking_Popularity": 444,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 15,
@@ -1097,11 +1097,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 413,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-02-15T07:58:13.8007203+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 416,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 413,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 416,
+  "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1126,7 +1132,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 59
+      "Count": 62
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7725,9 +7731,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-02-15T04:59:29.1742315+00:00",
+  "LastChanged": "2024-02-15T07:58:13.8007202+00:00",
   "LastChanged_Achievements": "2024-01-27T13:09:21.7124494+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:23.0557478+00:00",
-  "LastUpdate_Ratings": "2024-02-15T06:00:12.5450065+00:00",
+  "LastUpdate_Ratings": "2024-02-15T07:58:13.8007207+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:21.7125182+00:00"
 }
