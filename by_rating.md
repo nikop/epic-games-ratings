@@ -205,7 +205,7 @@
 | 198 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 95 | 396 |
 | 198 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.72 | 0 | 599 |
 | 205 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 599 |
-| 205 | [Dead Space](games/d/dead_space.md) | 4.71 | 359 | 254 |
+| 205 | [Dead Space](games/d/dead_space.md) | 4.71 | 362 | 253 |
 | 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 573 | 219 |
 | 205 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 516 |
 | 205 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.71 | 0 | 599 |
@@ -213,7 +213,7 @@
 | 205 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,877 | 55 |
 | 205 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.71 | 40 | 496 |
 | 205 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.71 | 293 | 274 |
-| 205 | [Remnant 2](games/r/remnant_2.md) | 4.71 | 8,126 | 54 |
+| 205 | [Remnant 2](games/r/remnant_2.md) | 4.71 | 8,147 | 54 |
 | 205 | [Sailing Era](games/s/sailing_era.md) | 4.71 | 0 | 599 |
 | 205 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 93 | 398 |
 | 205 | [shapez](games/s/shapez.md) | 4.71 | 29 | 542 |
@@ -432,7 +432,7 @@
 | 403 | [Supraland](games/s/supraland.md) | 4.61 | 7,798 | 56 |
 | 403 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 555 | 220 |
 | 403 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 76 | 416 |
-| 403 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 361 | 253 |
+| 403 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 361 | 254 |
 | 403 | [Transistor](games/t/transistor.md) | 4.61 | 0 | 599 |
 | 403 | [Warframe](games/w/warframe.md) | 4.61 | 21,354 | 23 |
 | 403 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 732 | 198 |
@@ -677,7 +677,7 @@
 | 675 | [Death Coming](games/d/death_coming.md) | 4.47 | 0 | 599 |
 | 675 | [Figment](games/f/figment.md) | 4.47 | 21 | 585 |
 | 675 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 153 | 339 |
-| 675 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,637 | 97 |
+| 675 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,638 | 97 |
 | 675 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 599 |
 | 675 | [Knockout City™](games/k/knockout_city™.md) | 4.47 | 0 | 599 |
 | 675 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.47 | 0 | 599 |
@@ -708,7 +708,7 @@
 | 703 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 0 | 599 |
 | 703 | [DEATHLOOP](games/d/deathloop.md) | 4.45 | 74 | 421 |
 | 703 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 267 | 283 |
-| 703 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 66,269 | 12 |
+| 703 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 66,417 | 12 |
 | 703 | [ELEX](games/e/elex.md) | 4.45 | 26 | 558 |
 | 703 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.45 | 0 | 599 |
 | 703 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 599 |

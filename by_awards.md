@@ -11,7 +11,7 @@
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 127,607 | 4.69 | 244 |
 | 10 | [VALORANT](games/v/valorant.md) | 99,917 | 4.51 | 611 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 66,764 | 4.58 | 476 |
-| 12 | [Destiny 2](games/d/destiny_2.md) | 66,269 | 4.45 | 703 |
+| 12 | [Destiny 2](games/d/destiny_2.md) | 66,417 | 4.45 | 703 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 55,632 | 4.61 | 403 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 48,329 | 4.74 | 169 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 41,269 | 4.51 | 611 |
@@ -53,7 +53,7 @@
 | 51 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,370 | 4.84 | 47 |
 | 52 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,207 | 4.69 | 244 |
 | 53 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,175 | 4.69 | 244 |
-| 54 | [Remnant 2](games/r/remnant_2.md) | 8,126 | 4.71 | 205 |
+| 54 | [Remnant 2](games/r/remnant_2.md) | 8,147 | 4.71 | 205 |
 | 55 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,877 | 4.71 | 205 |
 | 56 | [Supraland](games/s/supraland.md) | 7,798 | 4.61 | 403 |
 | 57 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 7,773 | 4.69 | 244 |
@@ -96,7 +96,7 @@
 | 94 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,183 | 4.51 | 611 |
 | 95 | [Paladins](games/p/paladins.md) | 4,135 | 4.32 | 881 |
 | 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4,013 | 4.26 | 935 |
-| 97 | [Gloomhaven](games/g/gloomhaven.md) | 3,637 | 4.47 | 675 |
+| 97 | [Gloomhaven](games/g/gloomhaven.md) | 3,638 | 4.47 | 675 |
 | 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,635 | 4.67 | 291 |
 | 99 | [Hades](games/h/hades.md) | 3,633 | 4.92 | 4 |
 | 100 | [The Sims™ 4](games/t/the_sims™_4.md) | 3,618 | 4.62 | 389 |
@@ -252,8 +252,8 @@
 | 250 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 369 | 4.72 | 198 |
 | 251 | [Railway Empire](games/r/railway_empire.md) | 365 | 4.51 | 611 |
 | 252 | [Inscryption](games/i/inscryption.md) | 364 | 4.86 | 30 |
-| 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 361 | 4.61 | 403 |
-| 254 | [Dead Space](games/d/dead_space.md) | 359 | 4.71 | 205 |
+| 253 | [Dead Space](games/d/dead_space.md) | 362 | 4.71 | 205 |
+| 254 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 361 | 4.61 | 403 |
 | 255 | [The Messenger](games/t/the_messenger.md) | 355 | 4.81 | 78 |
 | 256 | [The Outlast Trials](games/t/the_outlast_trials.md) | 345 | 4.65 | 333 |
 | 257 | [Dead Cells](games/d/dead_cells.md) | 344 | 4.87 | 22 |
