@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_settlers®__new_allies.json)  
 Rating: 3.84 (Ranked 1,105)  
 ## Awards
-Max (Quickly Understood Controls): 120  (Ranked 365)  
+Max (Quickly Understood Controls): 120  (Ranked 366)  
 Sum: 352 (Ranked 377)  
-Diff (max vs sum): -12  
+Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 120 |
