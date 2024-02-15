@@ -266,9 +266,9 @@ Completed: 7 (0.34%) (Ranked 262)
 | 2024-01-24 | 2,070 | 7 |
 | 2024-01-26 | 2,071 | 7 |
 ## Awards
-Max (Impact the Story): 31  (Ranked 532)  
+Max (Impact the Story): 31  (Ranked 533)  
 Sum: 31 (Ranked 556)  
-Diff (max vs sum): -24  
+Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 31 |
