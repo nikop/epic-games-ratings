@@ -3,7 +3,7 @@
   "Name": "A Plague Tale: Innocence",
   "ProductSlug": "a-plague-tale-innocence",
   "Ranking_Rating": 290,
-  "Ranking_Popularity": 98,
+  "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -1964,18 +1964,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 4196,
       "NumberOfAwardsMax": 3635
+    },
+    {
+      "Time": "2024-02-15T10:57:51.7807878+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4199,
+      "NumberOfAwardsMax": 3638
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4196,
-  "NumberOfAwardsMax": 3635,
+  "NumberOfAwards": 4199,
+  "NumberOfAwardsMax": 3638,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3635
+      "Count": 3638
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2055,8 +2061,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
-  "LastChanged": "2024-02-15T09:00:41.2228353+00:00",
+  "LastChanged": "2024-02-15T10:57:51.7807877+00:00",
   "LastUpdate_AppInfo": "2024-02-11T05:57:01.1185962+00:00",
-  "LastUpdate_Ratings": "2024-02-15T09:00:41.2228359+00:00",
+  "LastUpdate_Ratings": "2024-02-15T10:57:51.780788+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:38.7875706+00:00"
 }
