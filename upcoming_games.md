@@ -5,6 +5,7 @@
 | [Street Fighting Simulator](games/e/e1094f6a687543c9ab4543dcba655554.md) | 2024-02-15 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | - | - |
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
+| [DURATION](games/e/ef7f37c5751047a9bcc79a379bc79156.md) | 2024-02-19 | - |  | - | - |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | - |
 | [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
 | [Spiderbro 2](games/2/250201ee43c848db8a634a87a827d370.md) | 2024-02-20 | - |  | - | - |
@@ -25,7 +26,6 @@
 | [Roads of Time 2: Odyssey Collector's Edition](games/3/3ed7af6401204c9aa6b2adf9e9ea23b8.md) | 2024-02-28 | - |  | - | - |
 | [Almost My Floor](games/0/01965f68ad134c028c8900062fe5ab5c.md) | 2024-02-29 | - |  | - | - |
 | [Dot Line](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-29 | - |  | - | - |
-| [DURATION](games/e/ef7f37c5751047a9bcc79a379bc79156.md) | 2024-02-29 | - |  | - | - |
 | [Earth Fire And Wind](games/9/926045895bbf4c198aa1173f0877d246.md) | 2024-02-29 | - |  | - | - |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-02-29 | - |  | - | - |
 | [LakeSide](games/6/6c09dd49cbb348d5ae4d4c9c308890b8.md) | 2024-02-29 | - |  | - | - |

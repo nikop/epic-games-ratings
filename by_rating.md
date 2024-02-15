@@ -560,7 +560,7 @@
 | 557 | [Aztez](games/a/aztez.md) | 4.54 | 21 | 585 |
 | 557 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 599 |
 | 557 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,741 | 137 |
-| 557 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,505 | 39 |
+| 557 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,539 | 39 |
 | 557 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 38 | 501 |
 | 557 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.54 | 130 | 357 |
 | 557 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.54 | 0 | 599 |
@@ -689,11 +689,11 @@
 | 687 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,220 | 93 |
 | 687 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 599 |
 | 687 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 599 |
-| 687 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,101 | 157 |
+| 687 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,104 | 157 |
 | 687 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 599 |
 | 687 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.46 | 0 | 599 |
 | 687 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.46 | 118 | 367 |
-| 687 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 726,024 | 2 |
+| 687 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 726,772 | 2 |
 | 687 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 599 |
 | 687 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 599 |
 | 687 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 599 |
@@ -701,7 +701,7 @@
 | 687 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 303 | 268 |
 | 687 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 599 |
 | 687 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 599 |
-| 687 | [Train Valley 2](games/t/train_valley_2.md) | 4.46 | 1,101 | 157 |
+| 687 | [Train Valley 2](games/t/train_valley_2.md) | 4.46 | 1,101 | 158 |
 | 703 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 0 | 599 |
 | 703 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 599 |
 | 703 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.45 | 304 | 265 |
@@ -759,6 +759,7 @@
 | 757 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.42 | 0 | 599 |
 | 757 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.42 | 265 | 284 |
 | 757 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.42 | 227 | 295 |
+| 757 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 0 | 599 |
 | 757 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.42 | 0 | 599 |
 | 757 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 501 |
 | 757 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 599 |
@@ -767,20 +768,19 @@
 | 757 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,088 | 160 |
 | 757 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 150 | 344 |
 | 757 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 76 | 416 |
-| 768 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.41 | 0 | 599 |
-| 768 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 71 | 429 |
-| 768 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 29 | 542 |
-| 768 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 599 |
-| 768 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 599 |
-| 768 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.41 | 0 | 599 |
-| 768 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 599 |
-| 768 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 599 |
-| 768 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,269 | 118 |
-| 768 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 427 |
-| 768 | [Sheltered](games/s/sheltered.md) | 4.41 | 283 | 276 |
-| 768 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 204 | 309 |
-| 768 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.41 | 0 | 599 |
-| 768 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 599 |
+| 769 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.41 | 0 | 599 |
+| 769 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 71 | 429 |
+| 769 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 29 | 542 |
+| 769 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 599 |
+| 769 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 599 |
+| 769 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 599 |
+| 769 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 599 |
+| 769 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,269 | 118 |
+| 769 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 427 |
+| 769 | [Sheltered](games/s/sheltered.md) | 4.41 | 283 | 276 |
+| 769 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 204 | 309 |
+| 769 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.41 | 0 | 599 |
+| 769 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 599 |
 | 782 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.40 | 141 | 348 |
 | 782 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 599 |
 | 782 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,082 | 161 |

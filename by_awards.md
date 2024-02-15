@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,117,849 | 4.29 | 899 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 726,024 | 4.46 | 687 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 726,772 | 4.46 | 687 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 329,654 | 4.67 | 291 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 323,968 | 4.68 | 269 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 278,427 | 4.88 | 16 |
@@ -38,7 +38,7 @@
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,962 | 4.69 | 244 |
 | 37 | [NBA 2K21](games/n/nba_2k21.md) | 11,836 | 4.39 | 796 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 11,770 | 4.77 | 121 |
-| 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,505 | 4.54 | 557 |
+| 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,539 | 4.54 | 557 |
 | 40 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,015 | 4.61 | 403 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,922 | 4.58 | 476 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 10,454 | 4.77 | 121 |
@@ -117,7 +117,7 @@
 | 115 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,342 | 4.67 | 291 |
 | 116 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 2,318 | 4.52 | 590 |
 | 117 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,292 | 4.76 | 140 |
-| 118 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,269 | 4.41 | 768 |
+| 118 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,269 | 4.41 | 769 |
 | 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,240 | 4.81 | 78 |
 | 120 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,208 | 4.55 | 538 |
 | 121 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,169 | 4.37 | 823 |
@@ -156,8 +156,8 @@
 | 154 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,160 | 4.65 | 333 |
 | 155 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,115 | 4.61 | 403 |
 | 155 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,115 | 4.69 | 244 |
-| 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,101 | 4.46 | 687 |
-| 157 | [Train Valley 2](games/t/train_valley_2.md) | 1,101 | 4.46 | 687 |
+| 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,104 | 4.46 | 687 |
+| 158 | [Train Valley 2](games/t/train_valley_2.md) | 1,101 | 4.46 | 687 |
 | 159 | [Torchlight II](games/t/torchlight_ii.md) | 1,093 | 4.59 | 457 |
 | 160 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,088 | 4.42 | 757 |
 | 161 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,082 | 4.40 | 782 |
@@ -276,7 +276,7 @@
 | 274 | [Overcooked! 2](games/o/overcooked!_2.md) | 293 | 4.71 | 205 |
 | 275 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 287 | 4.58 | 476 |
 | 276 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 283 | 4.83 | 56 |
-| 276 | [Sheltered](games/s/sheltered.md) | 283 | 4.41 | 768 |
+| 276 | [Sheltered](games/s/sheltered.md) | 283 | 4.41 | 769 |
 | 278 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 281 | 4.48 | 667 |
 | 279 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 280 | 4.83 | 56 |
 | 280 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 276 | 4.58 | 476 |
@@ -308,7 +308,7 @@
 | 306 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 208 | 4.35 | 846 |
 | 307 | [Relicta](games/r/relicta.md) | 206 | 4.15 | 1,022 |
 | 308 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 205 | 4.85 | 36 |
-| 309 | [Star Stable Online](games/s/star_stable_online.md) | 204 | 4.41 | 768 |
+| 309 | [Star Stable Online](games/s/star_stable_online.md) | 204 | 4.41 | 769 |
 | 310 | [Crashlands](games/c/crashlands.md) | 199 | 4.66 | 306 |
 | 311 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 196 | 4.63 | 365 |
 | 312 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 195 | 4.23 | 958 |
@@ -427,8 +427,8 @@
 | 425 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 73 | 4.68 | 269 |
 | 425 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 73 | 4.51 | 611 |
 | 427 | [GigaBash](games/g/gigabash.md) | 72 | 4.50 | 630 |
-| 427 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 72 | 4.41 | 768 |
-| 429 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 71 | 4.41 | 768 |
+| 427 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 72 | 4.41 | 769 |
+| 429 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 71 | 4.41 | 769 |
 | 429 | [DOOM 3](games/d/doom_3.md) | 71 | 4.60 | 437 |
 | 429 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 71 | 4.23 | 958 |
 | 432 | [GRIME](games/g/grime.md) | 69 | 4.60 | 437 |
@@ -541,7 +541,7 @@
 | 537 | [The Surge](games/t/the_surge.md) | 30 | 4.45 | 703 |
 | 537 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 30 | 4.58 | 476 |
 | 537 | [Wildermyth](games/w/wildermyth.md) | 30 | 4.78 | 113 |
-| 542 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 29 | 4.41 | 768 |
+| 542 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 29 | 4.41 | 769 |
 | 542 | [shapez](games/s/shapez.md) | 29 | 4.71 | 205 |
 | 542 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 873 |
 | 545 | [9Lives Arena](games/9/9lives_arena.md) | 28 | 4.44 | 724 |
