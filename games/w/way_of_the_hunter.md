@@ -87,8 +87,8 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-27 | 2,781 | 0 |
 ## Awards
 Max (Great for Beginners): 76  (Ranked 417)  
-Sum: 507 (Ranked 346)  
-Diff (max vs sum): 71  
+Sum: 509 (Ranked 343)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 76 |
@@ -97,8 +97,8 @@ Diff (max vs sum): 71
 | This game is Relaxing | 56 |
 | This game is Extremely Fun | 54 |
 | This game has Amazing Storytelling | 50 |
+| This game has Amazing Characters | 49 |
 | This game has Realistic Visuals | 48 |
-| This game has Amazing Characters | 47 |
 | This game is Educational | 45 |
 | This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 25 |
@@ -337,3 +337,4 @@ Diff (max vs sum): 71
 | 2024-02-13 | 4.42 | - | 74 | 499 |
 | 2024-02-14 | 4.42 | - | 76 | 501 |
 | 2024-02-15 | 4.42 | - | 76 | 507 |
+| 2024-02-16 | 4.42 | - | 76 | 509 |
