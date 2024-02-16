@@ -402,7 +402,7 @@
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 151 | - | 0 |
 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 15,977 | 4.17 | 0 |
 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 2023-06-16 | 45 (1,000 XP) | 817 | - | 0 |
-| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 18,772 | 4.66 | 92 |
+| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 18,772 | 4.66 | 94 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-15 | 5 (1,000 XP) | 180 | - | 0 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 347 | - | 0 |
 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 722 | - | 0 |
@@ -519,7 +519,7 @@
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,226 | - | 0 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 4,843 | 4.12 | 47 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 67 | - | 0 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 51 (1,150 XP) | 810,233 | 4.54 | 11,539 |
+| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 51 (1,150 XP) | 810,233 | 4.54 | 11,565 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 8 | - | - |
 | [Biped](games/b/biped.md) | 2023-04-20 | 15 (1,000 XP) | 10,782 | - | 0 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 170 | - | 0 |
@@ -907,7 +907,7 @@
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 140,235 | 4.87 | 780 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 358 (3,440 XP) | 17,192 | 4.65 | 233 |
 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 97,540 | 4.74 | 8,524 |
-| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 44,592 | 4.69 | 888 |
+| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 44,592 | 4.69 | 891 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 726,324 | 4.92 | 3,634 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 37,373 | 4.68 | 0 |
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 228,615 | 4.66 | 602 |
@@ -917,7 +917,7 @@
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,015 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
-| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 479,840 | 4.80 | 6,508 |
+| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 479,840 | 4.80 | 6,509 |
 | [greensheen Production](games/g/greensheen_production.md) | - | 35 (1,000 XP) | 16 | - | - |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 16 | - | - |
 | [MultiVersus](games/m/multiversus.md) | - | 28 (1,000 XP) | 1,081,100 | 4.56 | 4,754 |

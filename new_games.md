@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | - | 0 |
 | [Street Fighting Simulator](games/e/e1094f6a687543c9ab4543dcba655554.md) | 2024-02-15 | - |  | - | - |
 | [Dot Line](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | - |  | - | - |
 | [Pinbot](games/2/2fb0f7c2c29041ea94464a263acfbeb7.md) | 2024-02-15 | - |  | - | - |
