@@ -3,8 +3,8 @@
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 139,
-  "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 390,
+  "Ranking_Popularity": 306,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1220,12 +1220,18 @@
       "Rating": 4.76,
       "NumberOfAwards": 306,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-02-16T13:00:31.2629404+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 514,
+      "NumberOfAwardsMax": 208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 306,
-  "NumberOfAwardsMax": 61,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 514,
+  "NumberOfAwardsMax": 208,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -1268,6 +1274,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 37
+    },
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 208
     }
   ],
   "EOS_Progressed": 0,
@@ -1281,8 +1293,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-02-14T22:58:09.8369929+00:00",
+  "LastChanged": "2024-02-16T13:00:31.2629403+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:39.9218162+00:00",
-  "LastUpdate_Ratings": "2024-02-16T11:58:01.1415586+00:00",
+  "LastUpdate_Ratings": "2024-02-16T13:00:31.2629407+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:19.8183052+00:00"
 }
