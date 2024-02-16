@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 153,
   "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2064,10 +2064,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 484,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2024-02-16T13:58:44.0342209+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 436,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 484,
+  "NumberOfAwards": 436,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -2149,8 +2155,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-02-16T08:57:18.7506804+00:00",
+  "LastChanged": "2024-02-16T13:58:44.0342208+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:54.1232536+00:00",
-  "LastUpdate_Ratings": "2024-02-16T12:59:10.3502075+00:00",
+  "LastUpdate_Ratings": "2024-02-16T13:58:44.0342213+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:47.4773258+00:00"
 }
