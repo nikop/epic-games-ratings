@@ -2,9 +2,9 @@
   "ID": "7dc02eac2fe347368b5f72a02bb5bc5e",
   "Name": "Mothergunship",
   "ProductSlug": "mothergunship",
-  "Ranking_Rating": 811,
+  "Ranking_Rating": 812,
   "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 440,
+  "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -742,6 +742,6 @@
   "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
   "LastChanged": "2024-02-15T12:00:12.8972253+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:43.8922774+00:00",
-  "LastUpdate_Ratings": "2024-02-15T22:59:00.419648+00:00",
+  "LastUpdate_Ratings": "2024-02-15T23:59:06.7227054+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:49.1769441+00:00"
 }

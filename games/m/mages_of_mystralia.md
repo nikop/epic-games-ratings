@@ -1,12 +1,12 @@
 # Mages of Mystralia
 [Store](https://store.epicgames.com/en-US/p/mages-of-mystralia)  
 [View Rawdata](../../db/m/mages_of_mystralia.json)  
-Rating: 4.38 (Ranked 811)  
+Rating: 4.38 (Ranked 812)  
 Number of Ratings: 693  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 169  (Ranked 330)  
-Sum: 169 (Ranked 445)  
-Diff (max vs sum): -115  
+Sum: 169 (Ranked 446)  
+Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 169 |

@@ -1,7 +1,7 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 675)  
+Rating: 4.47 (Ranked 676)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -207,7 +207,7 @@ Completed: 2 (0.01%) (Ranked 388)
 | 2024-01-27 | 36,058 | 2 |
 ## Awards
 Max (Character Customization): 3,638  (Ranked 98)  
-Sum: 8,536 (Ranked 116)  
+Sum: 8,537 (Ranked 116)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +216,7 @@ Diff (max vs sum): -18
 | This game has Challenging Combat | 563 |
 | This game is Highly Recommended | 560 |
 | This game is Extremely Fun | 556 |
-| This game is Relaxing | 500 |
+| This game is Relaxing | 501 |
 | This game has Quickly Understood Controls | 496 |
 | This game has Amazing Storytelling | 496 |
 | This game has Amazing Characters | 495 |
@@ -513,4 +513,4 @@ Diff (max vs sum): -18
 | 2024-02-12 | 4.47 | - | 3,635 | 8,529 |
 | 2024-02-13 | 4.47 | - | 3,637 | 8,532 |
 | 2024-02-14 | 4.47 | - | 3,637 | 8,533 |
-| 2024-02-15 | 4.47 | - | 3,638 | 8,536 |
+| 2024-02-15 | 4.47 | - | 3,638 | 8,537 |
