@@ -2,7 +2,7 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "ProductSlug": "tannenberg",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 89,
@@ -3771,11 +3771,17 @@
       "Rating": 4.39,
       "NumberOfAwards": 3319,
       "NumberOfAwardsMax": 338
+    },
+    {
+      "Time": "2024-02-16T20:59:21.1949321+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3320,
+      "NumberOfAwardsMax": 339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3319,
-  "NumberOfAwardsMax": 338,
+  "NumberOfAwards": 3320,
+  "NumberOfAwardsMax": 339,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -3818,7 +3824,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 338
+      "Count": 339
     },
     {
       "Text": "This game has Amazing Characters",
@@ -36249,9 +36255,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
-  "LastChanged": "2024-02-13T13:59:13.7993602+00:00",
+  "LastChanged": "2024-02-16T20:59:21.194932+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:24.453282+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:26.1980368+00:00",
-  "LastUpdate_Ratings": "2024-02-16T19:57:54.7217238+00:00",
+  "LastUpdate_Ratings": "2024-02-16T20:59:21.1949327+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:24.453461+00:00"
 }
