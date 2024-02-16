@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 458)  
+Rating: 4.58 (Ranked 476)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -370,3 +370,4 @@ Completed: 4 (0.02%) (Ranked 378)
 | 2023-10-31 | 4.57 | 0 | 0 |
 | 2023-11-20 | 4.58 | 0 | 0 |
 | 2023-12-30 | 4.59 | 0 | 0 |
+| 2024-02-16 | 4.58 | 0 | 0 |
