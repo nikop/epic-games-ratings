@@ -1,7 +1,7 @@
 # Pine
 [Store](https://store.epicgames.com/en-US/p/pine)  
 [View Rawdata](../../db/p/pine.json)  
-Rating: 4.15 (Ranked 1,026)  
+Rating: 4.14 (Ranked 1,036)  
 Number of Ratings: 694  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -93,3 +93,4 @@ Number of Ratings: 694  (23.09.2022)
 | 2023-03-31 | 4.15 | - | 0 | 0 |
 | 2023-08-29 | 4.14 | - | 0 | 0 |
 | 2023-09-12 | 4.15 | - | 0 | 0 |
+| 2024-02-16 | 4.14 | - | 0 | 0 |
