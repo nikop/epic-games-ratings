@@ -3,8 +3,8 @@
   "Name": "Infinifactory",
   "ProductSlug": "infinifactory-ec9686",
   "Ranking_Rating": 542,
-  "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 463,
+  "Ranking_Popularity": 351,
+  "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -299,18 +299,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 133,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2024-02-16T21:57:39.4421913+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 140,
+      "NumberOfAwardsMax": 140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 133,
-  "NumberOfAwardsMax": 133,
+  "NumberOfAwards": 140,
+  "NumberOfAwardsMax": 140,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 133
+      "Count": 140
     }
   ],
   "EOS_Progressed": 0,
@@ -333,9 +339,9 @@
   "FirstSeen": "2024-01-25T18:57:35.0792201+00:00",
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
-  "LastChanged": "2024-02-16T13:57:29.3902633+00:00",
+  "LastChanged": "2024-02-16T21:57:39.4421911+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:43.6015496+00:00",
   "LastUpdate_AppInfo": "2024-02-15T18:57:17.8935111+00:00",
-  "LastUpdate_Ratings": "2024-02-16T20:00:30.4427044+00:00",
+  "LastUpdate_Ratings": "2024-02-16T21:57:39.4421916+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.6015515+00:00"
 }
