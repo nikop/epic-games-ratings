@@ -3,8 +3,8 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 307,
-  "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 328,
+  "Ranking_Popularity": 397,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 138,
@@ -1999,11 +1999,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 632,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-02-16T05:57:40.6329333+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 637,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 632,
-  "NumberOfAwardsMax": 92,
+  "NumberOfAwards": 637,
+  "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2028,13 +2034,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 92
+      "Count": 94
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 70
+      "Count": 72
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2052,7 +2058,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13794,9 +13800,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-02-15T09:58:20.8922748+00:00",
+  "LastChanged": "2024-02-16T05:57:40.6329331+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:16.4624604+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:55.7558677+00:00",
-  "LastUpdate_Ratings": "2024-02-16T03:59:55.7439194+00:00",
+  "LastUpdate_Ratings": "2024-02-16T05:57:40.6329337+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:16.4625347+00:00"
 }
