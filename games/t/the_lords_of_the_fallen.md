@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.22 (Ranked 969)  
+Rating: 4.21 (Ranked 978)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -312,3 +312,4 @@ Diff (max vs sum): -35
 | 2024-02-13 | 4.22 | 783 | 1,998 |
 | 2024-02-14 | 4.22 | 783 | 2,006 |
 | 2024-02-15 | 4.22 | 788 | 2,015 |
+| 2024-02-16 | 4.21 | 788 | 2,015 |
