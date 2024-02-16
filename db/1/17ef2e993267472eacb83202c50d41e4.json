@@ -3,7 +3,7 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 677,
-  "Ranking_Popularity": 446,
+  "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 414,
@@ -1109,11 +1109,17 @@
       "Rating": 4.47,
       "NumberOfAwards": 313,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-02-16T22:58:41.4315576+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 320,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 313,
-  "NumberOfAwardsMax": 62,
+  "NumberOfAwards": 320,
+  "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1132,7 +1138,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 62
+      "Count": 65
     },
     {
       "Text": "This game has Competitive Players",
@@ -1162,7 +1168,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 59
+      "Count": 63
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15047,9 +15053,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-02-16T17:57:45.681959+00:00",
+  "LastChanged": "2024-02-16T22:58:41.4315574+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:48.4423829+00:00",
   "LastUpdate_AppInfo": "2024-02-13T21:57:17.6885413+00:00",
-  "LastUpdate_Ratings": "2024-02-16T21:57:25.1638326+00:00",
+  "LastUpdate_Ratings": "2024-02-16T22:58:41.4315579+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:48.4424821+00:00"
 }

@@ -1,15 +1,15 @@
 # MechWarrior 5: Mercenaries Standard Edition
 [Store](https://store.epicgames.com/en-US/p/mechwarrior-5)  
 [View Rawdata](../../db/m/mechwarrior_5__mercenaries_standard_edition.json)  
-Rating: 4.62 (Ranked 391)  
+Rating: 4.62 (Ranked 390)  
 Number of Ratings: 4,280  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 1,410  (Ranked 146)  
-Sum: 8,472 (Ranked 119)  
+Max (Great for Beginners): 1,411  (Ranked 146)  
+Sum: 8,473 (Ranked 119)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,410 |
+| This game is Great for Beginners | 1,411 |
 | This game is Highly Recommended | 1,171 |
 | This game is Extremely Fun | 1,106 |
 | This game has Amazing Storytelling | 1,087 |
@@ -387,4 +387,4 @@ Diff (max vs sum): 27
 | 2024-02-13 | 4.62 | - | 1,406 | 8,457 |
 | 2024-02-14 | 4.62 | - | 1,406 | 8,465 |
 | 2024-02-15 | 4.62 | - | 1,410 | 8,470 |
-| 2024-02-16 | 4.62 | - | 1,410 | 8,472 |
+| 2024-02-16 | 4.62 | - | 1,411 | 8,473 |
