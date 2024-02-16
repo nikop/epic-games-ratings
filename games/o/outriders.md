@@ -1,12 +1,12 @@
 # OUTRIDERS
 [Store](https://store.epicgames.com/en-US/p/outriders)  
 [View Rawdata](../../db/o/outriders.json)  
-Rating: 4.43 (Ranked 750)  
+Rating: 4.43 (Ranked 751)  
 Number of Ratings: 1,201  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,456  (Ranked 143)  
-Sum: 3,308 (Ranked 184)  
-Diff (max vs sum): -41  
+Sum: 3,308 (Ranked 185)  
+Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,456 |

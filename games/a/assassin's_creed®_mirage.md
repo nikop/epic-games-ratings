@@ -1,7 +1,7 @@
 # Assassin's Creed® Mirage
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-mirage)  
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
-Rating: 4.45 (Ranked 707)  
+Rating: 4.45 (Ranked 708)  
 ## Awards
 Max (Great for Beginners): 307  (Ranked 264)  
 Sum: 2,520 (Ranked 207)  

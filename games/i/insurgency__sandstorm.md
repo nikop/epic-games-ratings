@@ -1,7 +1,7 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 405)  
+Rating: 4.61 (Ranked 406)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -327,8 +327,8 @@ Completed: 2 (0.00%) (Ranked 414)
 | 2024-01-27 | 531,804 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 434  (Ranked 240)  
-Sum: 3,532 (Ranked 178)  
-Diff (max vs sum): 62  
+Sum: 3,532 (Ranked 179)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 434 |

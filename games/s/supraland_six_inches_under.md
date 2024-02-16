@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.74 (Ranked 170)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -309,9 +309,9 @@ Completed: 296 (11.93%) (Ranked 37)
 | 2024-01-26 | 2,477 | 296 |
 | 2024-01-27 | 2,481 | 296 |
 ## Awards
-Max (Challenging Puzzles): 110  (Ranked 373)  
+Max (Challenging Puzzles): 110  (Ranked 374)  
 Sum: 110 (Ranked 475)  
-Diff (max vs sum): -102  
+Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 110 |

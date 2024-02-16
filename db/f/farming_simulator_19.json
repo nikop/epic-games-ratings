@@ -2,7 +2,7 @@
   "ID": "493e9ad801e8487497fe7840cb8404bb",
   "Name": "Farming Simulator 19",
   "ProductSlug": "farming-simulator-19",
-  "Ranking_Rating": 244,
+  "Ranking_Rating": 245,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 856,
@@ -13827,11 +13827,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 56506,
       "NumberOfAwardsMax": 8902
+    },
+    {
+      "Time": "2024-02-16T19:58:53.3631245+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56512,
+      "NumberOfAwardsMax": 8908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56506,
-  "NumberOfAwardsMax": 8902,
+  "NumberOfAwards": 56512,
+  "NumberOfAwardsMax": 8908,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -13844,7 +13850,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 8902
+      "Count": 8908
     },
     {
       "Text": "This game is Educational",
@@ -13912,8 +13918,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2024-02-16T17:00:38.8297092+00:00",
+  "LastChanged": "2024-02-16T19:58:53.3631244+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:14.5817704+00:00",
-  "LastUpdate_Ratings": "2024-02-16T18:57:57.7586693+00:00",
+  "LastUpdate_Ratings": "2024-02-16T19:58:53.3631249+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:19.1897536+00:00"
 }

@@ -1,12 +1,12 @@
 # Borderlands: The Pre-Sequel
 [Store](https://store.epicgames.com/en-US/p/borderlands-the-pre-sequel)  
 [View Rawdata](../../db/b/borderlands__the_pre-sequel.json)  
-Rating: 4.50 (Ranked 631)  
+Rating: 4.50 (Ranked 632)  
 Number of Ratings: 2,939  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 470  (Ranked 233)  
-Sum: 3,237 (Ranked 185)  
-Diff (max vs sum): 48  
+Sum: 3,237 (Ranked 186)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 470 |

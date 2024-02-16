@@ -1,12 +1,12 @@
 # The Messenger
 [Store](https://store.epicgames.com/en-US/p/the-messenger)  
 [View Rawdata](../../db/t/the_messenger.json)  
-Rating: 4.81 (Ranked 78)  
+Rating: 4.81 (Ranked 79)  
 Number of Ratings: 561  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 355  (Ranked 255)  
-Sum: 421 (Ranked 365)  
-Diff (max vs sum): -110  
+Sum: 421 (Ranked 366)  
+Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 355 |

@@ -1,7 +1,7 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.69 (Ranked 244)  
+Rating: 4.69 (Ranked 245)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -331,7 +331,7 @@ Completed: 5 (0.01%) (Ranked 388)
 | 2024-01-27 | 56,377 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 53  (Ranked 461)  
-Sum: 437 (Ranked 361)  
+Sum: 439 (Ranked 361)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
@@ -343,9 +343,9 @@ Diff (max vs sum): 100
 | This game has Quickly Understood Controls | 43 |
 | This game is Relaxing | 38 |
 | This game has Diverse Characters | 35 |
-| This game has Amazing Storytelling | 31 |
+| This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 28 |
-| This game has a Kind Community | 20 |
+| This game has a Kind Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -497,3 +497,4 @@ Diff (max vs sum): 100
 | 2024-02-13 | 4.70 | - | 53 | 436 |
 | 2024-02-14 | 4.69 | - | 53 | 436 |
 | 2024-02-15 | 4.69 | - | 53 | 437 |
+| 2024-02-16 | 4.69 | - | 53 | 439 |
