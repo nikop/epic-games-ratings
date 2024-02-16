@@ -2,8 +2,8 @@
   "ID": "d98b6c292e224a59b359372f4f5152df",
   "Name": "Tiny Tina\u0027s Assault on Dragon Keep: A Wonderlands One-shot Adventure",
   "ProductSlug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
-  "Ranking_Rating": 690,
-  "Ranking_Popularity": 268,
+  "Ranking_Rating": 691,
+  "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -802,18 +802,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 303,
       "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2024-02-16T15:00:22.8983262+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 304,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 303,
-  "NumberOfAwardsMax": 303,
+  "NumberOfAwards": 304,
+  "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 303
+      "Count": 304
     }
   ],
   "EOS_Progressed": 0,
@@ -827,8 +833,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
-  "LastChanged": "2024-02-06T08:59:30.6379783+00:00",
+  "LastChanged": "2024-02-16T15:00:22.8983261+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:20.0360311+00:00",
-  "LastUpdate_Ratings": "2024-02-16T13:59:11.0012028+00:00",
+  "LastUpdate_Ratings": "2024-02-16T15:00:22.8983265+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:17.0288032+00:00"
 }
