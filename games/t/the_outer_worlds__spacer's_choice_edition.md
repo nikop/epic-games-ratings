@@ -1,11 +1,11 @@
 # The Outer Worlds: Spacer's Choice Edition
 [Store](https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition)  
 [View Rawdata](../../db/t/the_outer_worlds__spacer's_choice_edition.json)  
-Rating: 4.50 (Ranked 629)  
+Rating: 4.50 (Ranked 630)  
 ## Awards
 Max (Character Customization): 6,946  (Ranked 62)  
-Sum: 9,603 (Ranked 103)  
-Diff (max vs sum): -41  
+Sum: 9,603 (Ranked 104)  
+Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,946 |
