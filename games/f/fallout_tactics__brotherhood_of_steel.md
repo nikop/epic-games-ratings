@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 749)  
 ## Awards
 Max (Challenging Combat): 23  (Ranked 575)  
-Sum: 23 (Ranked 581)  
-Diff (max vs sum): -6  
+Sum: 23 (Ranked 582)  
+Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 119 |

@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 240,
+  "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 42,
@@ -3587,10 +3587,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1679,
       "NumberOfAwardsMax": 190
+    },
+    {
+      "Time": "2024-02-16T10:00:42.6212125+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1680,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1679,
+  "NumberOfAwards": 1680,
   "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3634,7 +3640,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 136
+      "Count": 137
     },
     {
       "Text": "This game is Relaxing",
@@ -36499,9 +36505,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2024-02-15T20:58:46.7361175+00:00",
+  "LastChanged": "2024-02-16T10:00:42.6212123+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:18.4722907+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:44.9456114+00:00",
-  "LastUpdate_Ratings": "2024-02-16T08:59:07.8329211+00:00",
+  "LastUpdate_Ratings": "2024-02-16T10:00:42.6212128+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:18.4724192+00:00"
 }

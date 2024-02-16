@@ -4,7 +4,7 @@
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 785,
   "Ranking_Popularity": 595,
-  "Ranking_PopularitySum": 595,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 6,
@@ -335,10 +335,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-02-16T09:57:12.5368191+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
+  "NumberOfAwards": 40,
   "NumberOfAwardsMax": 20,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -346,6 +352,12 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
       "Count": 20
     }
   ],
@@ -2638,9 +2650,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-02-14T18:59:27.3506033+00:00",
+  "LastChanged": "2024-02-16T09:57:12.536819+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:20.1090514+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:39.6607464+00:00",
-  "LastUpdate_Ratings": "2024-02-16T08:00:05.4063534+00:00",
+  "LastUpdate_Ratings": "2024-02-16T09:57:12.5368195+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:20.109093+00:00"
 }
