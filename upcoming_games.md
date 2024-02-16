@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
+| [Wizened Dream](games/3/3b5e4301fa6c47c0b139115468ea6088.md) | 2024-02-17 | - |  | - | - |
 | [DURATION](games/e/ef7f37c5751047a9bcc79a379bc79156.md) | 2024-02-19 | - |  | - | - |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | - |
 | [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
@@ -27,7 +28,6 @@
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-02-29 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [The Glitch Fairy](games/4/4a95daf12c22499a874ac9d2f2b45e02.md) | 2024-02-29 | - |  | - | - |
-| [Wizened Dream](games/3/3b5e4301fa6c47c0b139115468ea6088.md) | 2024-02-29 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 471 | - | 0 |
 | [Vacation Adventures Cruise Director 7 Collectors Edition](games/6/6932e3526cc04cb4a22c6f5c0a71c46e.md) | 2024-02-29 | - |  | - | - |
 | [Geometric Sniper - Blood in Paris](games/1/1a8cba3402d84f0bad7f7f3ece71d486.md) | 2024-02-29 | - |  | - | - |

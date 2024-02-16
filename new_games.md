@@ -104,4 +104,3 @@
 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 2024-01-18 | - |  | 4.76 | 535 |
 | [Spy 1 Lovecraftian](games/e/e74a84ea2b28441d84419c6c89c090bf.md) | 2024-01-18 | - |  | - | - |
 | [Mahjong World Contest 2](games/f/fb58d63ed83845d5b980ad46f9606eac.md) | 2024-01-17 | - |  | - | 0 |
-| [CYBER BACKROOM](games/6/64befde675a84adeb83ad9d69502ff75.md) | 2024-01-17 | - |  | - | 0 |
