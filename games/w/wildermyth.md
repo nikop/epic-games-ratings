@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 113)  
+Rating: 4.78 (Ranked 112)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -287,8 +287,8 @@ Completed: 7 (0.43%) (Ranked 244)
 | 2024-01-26 | 1,622 | 7 |
 | 2024-01-27 | 1,625 | 7 |
 ## Awards
-Max (Character Customization): 30  (Ranked 539)  
-Sum: 30 (Ranked 562)  
+Max (Character Customization): 30  (Ranked 540)  
+Sum: 30 (Ranked 563)  
 Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
