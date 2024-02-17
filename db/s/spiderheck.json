@@ -3,8 +3,8 @@
   "Name": "SpiderHeck",
   "ProductSlug": "spiderheck-0fb81d",
   "Ranking_Rating": 113,
-  "Ranking_Popularity": 600,
-  "Ranking_PopularitySum": 600,
+  "Ranking_Popularity": 599,
+  "Ranking_PopularitySum": 599,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -176,6 +176,6 @@
   "FirstSeenRating": "2022-10-29T16:32:51.4515319+00:00",
   "LastChanged": "2024-02-16T18:57:35.9877905+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:21.7408982+00:00",
-  "LastUpdate_Ratings": "2024-02-17T10:58:06.3529309+00:00",
+  "LastUpdate_Ratings": "2024-02-17T11:59:13.776164+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:24.580572+00:00"
 }
