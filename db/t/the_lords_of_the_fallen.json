@@ -2,7 +2,7 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 980,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 179,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -2761,10 +2761,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 2021,
       "NumberOfAwardsMax": 791
+    },
+    {
+      "Time": "2024-02-17T02:59:07.702284+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 2026,
+      "NumberOfAwardsMax": 791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2021,
+  "NumberOfAwards": 2026,
   "NumberOfAwardsMax": 791,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2778,7 +2784,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 566
+      "Count": 570
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2796,7 +2802,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12073,9 +12079,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-02-16T18:58:37.678922+00:00",
+  "LastChanged": "2024-02-17T02:59:07.7022839+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:17.0757924+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:37.1433409+00:00",
-  "LastUpdate_Ratings": "2024-02-17T01:39:43.2560848+00:00",
+  "LastUpdate_Ratings": "2024-02-17T02:59:07.7022846+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:17.0758829+00:00"
 }

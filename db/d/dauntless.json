@@ -4,7 +4,7 @@
   "ProductSlug": "dauntless",
   "Ranking_Rating": 578,
   "Ranking_Popularity": 19,
-  "Ranking_PopularitySum": 23,
+  "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -14487,10 +14487,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 73832,
       "NumberOfAwardsMax": 26849
+    },
+    {
+      "Time": "2024-02-17T02:58:27.3690629+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 69629,
+      "NumberOfAwardsMax": 26849
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 73832,
+  "NumberOfAwards": 69629,
   "NumberOfAwardsMax": 26849,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14572,8 +14578,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-02-16T22:57:47.6090715+00:00",
+  "LastChanged": "2024-02-17T02:58:27.3690628+00:00",
   "LastUpdate_AppInfo": "2024-02-11T05:57:00.098749+00:00",
-  "LastUpdate_Ratings": "2024-02-17T01:39:10.4142545+00:00",
+  "LastUpdate_Ratings": "2024-02-17T02:58:27.3690633+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:21.4779997+00:00"
 }
