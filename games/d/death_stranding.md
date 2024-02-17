@@ -1,7 +1,7 @@
 # DEATH STRANDING
 [Store](https://store.epicgames.com/en-US/p/death-stranding)  
 [View Rawdata](../../db/d/death_stranding.json)  
-Rating: 4.78 (Ranked 113)  
+Rating: 4.78 (Ranked 112)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -354,7 +354,7 @@ Completed: 2,223 (0.06%) (Ranked 342)
 | 2024-01-27 | 4,024,561 | 2,223 |
 ## Awards
 Max (Great Boss Battles): 9,617  (Ranked 45)  
-Sum: 13,661 (Ranked 85)  
+Sum: 13,662 (Ranked 85)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 441 |
 | This game is Extremely Fun | 436 |
 | This game has Amazing Characters | 429 |
-| This game has Amazing Storytelling | 425 |
+| This game has Amazing Storytelling | 426 |
 | This game has a Creative Community | 334 |
 | This game has Easy Combat | 28 |
 ## Ratings History
@@ -705,4 +705,4 @@ Diff (max vs sum): -40
 | 2024-02-14 | 4.78 | 9,578 | 13,589 |
 | 2024-02-15 | 4.78 | 9,591 | 13,613 |
 | 2024-02-16 | 4.78 | 9,617 | 13,654 |
-| 2024-02-17 | 4.78 | 9,617 | 13,661 |
+| 2024-02-17 | 4.78 | 9,617 | 13,662 |

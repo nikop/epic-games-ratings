@@ -2,9 +2,9 @@
   "ID": "2f32d18c2cba4a2a92e359224f308770",
   "Name": "WarmSnow",
   "ProductSlug": "warmsnow-7e3180",
-  "Ranking_Rating": 94,
-  "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Rating": 112,
+  "Ranking_Popularity": 406,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:32.8296601+00:00",
@@ -437,18 +437,24 @@
       "Rating": 4.8,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-02-17T14:00:35.5189614+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 84,
+  "NumberOfAwards": 86,
+  "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 84
+      "Count": 86
     }
   ],
   "EOS_Progressed": 0,
@@ -463,8 +469,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-17T11:57:45.9804138+00:00",
   "FirstSeenRating": "2023-03-31T05:57:32.8296597+00:00",
-  "LastChanged": "2024-02-16T06:58:55.2831721+00:00",
+  "LastChanged": "2024-02-17T14:00:35.5189612+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:47.1043282+00:00",
-  "LastUpdate_Ratings": "2024-02-17T12:58:23.0600712+00:00",
+  "LastUpdate_Ratings": "2024-02-17T14:00:35.5189618+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:48.3962622+00:00"
 }
