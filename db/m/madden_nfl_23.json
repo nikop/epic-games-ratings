@@ -3,8 +3,8 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 892,
-  "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Popularity": 466,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 199,
@@ -1109,10 +1109,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 196,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-02-17T02:11:52.9504843+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196,
+  "NumberOfAwards": 197,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1138,7 +1144,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9534,9 +9540,9 @@
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2024-02-15T20:59:52.3745395+00:00",
+  "LastChanged": "2024-02-17T02:11:52.9504842+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:12.0364601+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:02.4503282+00:00",
-  "LastUpdate_Ratings": "2024-02-17T00:00:09.5437828+00:00",
+  "LastUpdate_Ratings": "2024-02-17T02:11:52.9504847+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:12.0364975+00:00"
 }

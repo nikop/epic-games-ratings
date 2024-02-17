@@ -4,7 +4,7 @@
   "ProductSlug": "ancient-enemy",
   "Ranking_Rating": 1091,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 432,
+  "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -798,6 +798,6 @@
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
   "LastChanged": "2024-02-14T20:58:34.6579864+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:57:11.2845124+00:00",
-  "LastUpdate_Ratings": "2024-02-17T01:36:08.6105901+00:00",
+  "LastUpdate_Ratings": "2024-02-17T02:13:32.0374344+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:09.9030227+00:00"
 }
