@@ -1,12 +1,12 @@
 # Heroes & Generals WWII
 [Store](https://store.epicgames.com/en-US/p/heroes-and-generals-wwii)  
 [View Rawdata](../../db/h/heroes_&_generals_wwii.json)  
-Rating: 4.23 (Ranked 963)  
+Rating: 4.23 (Ranked 964)  
 Number of Ratings: 4,634  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 1,010  (Ranked 169)  
+Max (Diverse Characters): 1,010  (Ranked 170)  
 Sum: 6,972 (Ranked 136)  
-Diff (max vs sum): 33  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,010 |

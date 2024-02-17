@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 541)  
+Rating: 4.56 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -607,4 +607,4 @@ Diff (max vs sum): 75
 | 2024-02-14 | 4.56 | 78 | 549 |
 | 2024-02-15 | 4.55 | 78 | 551 |
 | 2024-02-16 | 4.55 | 78 | 554 |
-| 2024-02-17 | 4.55 | 78 | 555 |
+| 2024-02-17 | 4.56 | 78 | 555 |
