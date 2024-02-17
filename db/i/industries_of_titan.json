@@ -2,7 +2,7 @@
   "ID": "protea",
   "Name": "Industries of Titan",
   "ProductSlug": "industries-of-titan",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 600,
   "Ranking_PopularitySum": 600,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 123,
   "RatingHistory": [
     {
@@ -411,6 +411,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-17T21:59:33.294425+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -428,8 +434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:16.5099101+00:00",
-  "LastChanged": "2024-02-02T13:59:15.2243718+00:00",
+  "LastChanged": "2024-02-17T21:59:33.2944248+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:57:50.7623482+00:00",
-  "LastUpdate_Ratings": "2024-02-17T20:58:27.9673317+00:00",
+  "LastUpdate_Ratings": "2024-02-17T21:59:33.2944254+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:08.9999253+00:00"
 }
