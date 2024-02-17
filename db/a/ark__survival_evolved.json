@@ -18360,10 +18360,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 287990,
       "NumberOfAwardsMax": 66843
+    },
+    {
+      "Time": "2024-02-17T17:00:08.4605966+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 288000,
+      "NumberOfAwardsMax": 66843
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 287990,
+  "NumberOfAwards": 288000,
   "NumberOfAwardsMax": 66843,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18395,7 +18401,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 22425
+      "Count": 22435
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18451,8 +18457,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-02-17T12:59:01.4062876+00:00",
+  "LastChanged": "2024-02-17T17:00:08.4605964+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:02.0572721+00:00",
-  "LastUpdate_Ratings": "2024-02-17T15:57:51.9213896+00:00",
+  "LastUpdate_Ratings": "2024-02-17T17:00:08.4605971+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:50.1332516+00:00"
 }
