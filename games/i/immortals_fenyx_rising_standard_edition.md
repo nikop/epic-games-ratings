@@ -1,15 +1,15 @@
 # Immortals Fenyx Rising Standard Edition
 [Store](https://store.epicgames.com/en-US/p/immortals-fenyx-rising)  
 [View Rawdata](../../db/i/immortals_fenyx_rising_standard_edition.json)  
-Rating: 4.60 (Ranked 438)  
+Rating: 4.60 (Ranked 439)  
 Number of Ratings: 791  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 890  (Ranked 183)  
-Sum: 1,399 (Ranked 260)  
-Diff (max vs sum): -77  
+Max (Great Boss Battles): 893  (Ranked 182)  
+Sum: 1,402 (Ranked 260)  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 890 |
+| This game has Great Boss Battles | 893 |
 | This game is Great for Beginners | 78 |
 | This game is Highly Recommended | 77 |
 | This game has Amazing Storytelling | 74 |
@@ -318,3 +318,4 @@ Diff (max vs sum): -77
 | 2024-02-12 | 4.60 | - | 887 | 1,395 |
 | 2024-02-14 | 4.60 | - | 889 | 1,397 |
 | 2024-02-16 | 4.60 | - | 890 | 1,399 |
+| 2024-02-17 | 4.60 | - | 893 | 1,402 |
