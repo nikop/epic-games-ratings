@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 367)
 Number of Ratings: 1,848  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,869  (Ranked 130)  
-Sum: 2,927 (Ranked 191)  
+Sum: 2,928 (Ranked 191)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -61
 | This game is Great for Beginners | 133 |
 | This game is Highly Recommended | 128 |
 | This game is Extremely Fun | 123 |
-| This game has Diverse Characters | 115 |
+| This game has Diverse Characters | 116 |
 | This game has Competitive Players | 96 |
 | This game has Realistic Visuals | 58 |
 | This game has a Creative Community | 36 |
@@ -403,3 +403,4 @@ Diff (max vs sum): -61
 | 2024-02-14 | 4.63 | - | 1,866 | 2,922 |
 | 2024-02-15 | 4.63 | - | 1,866 | 2,923 |
 | 2024-02-16 | 4.63 | - | 1,869 | 2,927 |
+| 2024-02-17 | 4.63 | - | 1,869 | 2,928 |
