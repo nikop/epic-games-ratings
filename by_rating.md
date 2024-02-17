@@ -123,7 +123,7 @@
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 600 |
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 540 |
 | 123 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.77 | 0 | 600 |
-| 123 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,487 | 42 |
+| 123 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,526 | 42 |
 | 123 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,801 | 38 |
 | 123 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 600 |
 | 123 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 600 |
@@ -212,7 +212,7 @@
 | 204 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,886 | 55 |
 | 204 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.71 | 40 | 497 |
 | 204 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.71 | 293 | 274 |
-| 204 | [Remnant 2](games/r/remnant_2.md) | 4.71 | 8,178 | 54 |
+| 204 | [Remnant 2](games/r/remnant_2.md) | 4.71 | 8,197 | 53 |
 | 204 | [Sailing Era](games/s/sailing_era.md) | 4.71 | 0 | 600 |
 | 204 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 93 | 400 |
 | 204 | [shapez](games/s/shapez.md) | 4.71 | 29 | 545 |
@@ -250,7 +250,7 @@
 | 246 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 600 |
 | 246 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 600 |
 | 246 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 359 |
-| 246 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,179 | 53 |
+| 246 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,179 | 54 |
 | 246 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,238 | 52 |
 | 246 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 7,811 | 56 |
 | 246 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,908 | 48 |
@@ -439,6 +439,7 @@
 | 405 | [Warframe](games/w/warframe.md) | 4.61 | 21,421 | 23 |
 | 405 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 733 | 198 |
 | 439 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 703 | 200 |
+| 439 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 112 | 373 |
 | 439 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,716 | 25 |
 | 439 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 600 |
 | 439 | [DOOM 3](games/d/doom_3.md) | 4.60 | 71 | 431 |
@@ -458,24 +459,23 @@
 | 439 | [Travellers Rest](games/t/travellers_rest.md) | 4.60 | 0 | 600 |
 | 439 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 25 | 568 |
 | 439 | [Witchfire](games/w/witchfire.md) | 4.60 | 75 | 421 |
-| 459 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 112 | 373 |
-| 459 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 600 |
-| 459 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 600 |
-| 459 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 789 | 194 |
-| 459 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,365 | 81 |
-| 459 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 15,199 | 27 |
-| 459 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 42 | 493 |
-| 459 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 42 | 493 |
-| 459 | [MotoGP™21](games/m/motogp™21.md) | 4.59 | 26 | 559 |
-| 459 | [NORCO](games/n/norco.md) | 4.59 | 0 | 600 |
-| 459 | [Returnal™](games/r/returnal™.md) | 4.59 | 188 | 319 |
-| 459 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.59 | 0 | 600 |
-| 459 | [Sonic Origins](games/s/sonic_origins.md) | 4.59 | 132 | 355 |
-| 459 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 224 | 297 |
-| 459 | [The Invincible](games/t/the_invincible.md) | 4.59 | 0 | 600 |
-| 459 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,096 | 159 |
-| 459 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 726 | 199 |
-| 459 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 88 | 404 |
+| 460 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 600 |
+| 460 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 600 |
+| 460 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 789 | 194 |
+| 460 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,365 | 81 |
+| 460 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 15,199 | 27 |
+| 460 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 42 | 493 |
+| 460 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 42 | 493 |
+| 460 | [MotoGP™21](games/m/motogp™21.md) | 4.59 | 26 | 559 |
+| 460 | [NORCO](games/n/norco.md) | 4.59 | 0 | 600 |
+| 460 | [Returnal™](games/r/returnal™.md) | 4.59 | 188 | 319 |
+| 460 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.59 | 0 | 600 |
+| 460 | [Sonic Origins](games/s/sonic_origins.md) | 4.59 | 132 | 355 |
+| 460 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 224 | 297 |
+| 460 | [The Invincible](games/t/the_invincible.md) | 4.59 | 0 | 600 |
+| 460 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,096 | 159 |
+| 460 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 726 | 199 |
+| 460 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 88 | 404 |
 | 477 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 487 |
 | 477 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 66,815 | 11 |
 | 477 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.58 | 0 | 600 |
@@ -514,7 +514,7 @@
 | 506 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 403 | 244 |
 | 506 | [Hob](games/h/hob.md) | 4.57 | 0 | 600 |
 | 506 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 239 | 289 |
-| 506 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,324 | 105 |
+| 506 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,333 | 105 |
 | 506 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 600 |
 | 506 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.57 | 44 | 491 |
 | 506 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,155 | 84 |
