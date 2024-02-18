@@ -4,7 +4,7 @@
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 990,
   "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 502,
+  "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 191,
@@ -571,10 +571,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 73,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-02-17T23:58:36.6472008+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 73,
+  "NumberOfAwards": 93,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -595,6 +601,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 3623,
@@ -6711,9 +6723,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-02-14T22:57:29.4494588+00:00",
+  "LastChanged": "2024-02-17T23:58:36.6472006+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:40.8264509+00:00",
   "LastUpdate_AppInfo": "2024-02-11T02:58:24.3628519+00:00",
-  "LastUpdate_Ratings": "2024-02-17T22:57:43.0828427+00:00",
+  "LastUpdate_Ratings": "2024-02-17T23:58:36.647201+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:40.8265074+00:00"
 }
