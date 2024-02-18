@@ -4,7 +4,7 @@
   "ProductSlug": "outlast",
   "Ranking_Rating": 124,
   "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 533,
+  "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -361,6 +361,6 @@
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
   "LastChanged": "2024-02-08T18:57:28.2322735+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:02.5516053+00:00",
-  "LastUpdate_Ratings": "2024-02-18T07:57:49.5350444+00:00",
+  "LastUpdate_Ratings": "2024-02-18T08:58:48.2779932+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:30.2183816+00:00"
 }
