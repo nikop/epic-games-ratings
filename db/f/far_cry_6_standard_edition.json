@@ -2,7 +2,7 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "ProductSlug": "far-cry-6",
-  "Ranking_Rating": 692,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 856,
@@ -10835,11 +10835,17 @@
       "Rating": 4.46,
       "NumberOfAwards": 8469,
       "NumberOfAwardsMax": 1107
+    },
+    {
+      "Time": "2024-02-18T16:00:32.053998+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8476,
+      "NumberOfAwardsMax": 1111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8469,
-  "NumberOfAwardsMax": 1107,
+  "NumberOfAwards": 8476,
+  "NumberOfAwardsMax": 1111,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -10858,13 +10864,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1107
+      "Count": 1111
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1071
+      "Count": 1074
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10908,8 +10914,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2024-02-18T10:57:32.9382806+00:00",
+  "LastChanged": "2024-02-18T16:00:32.0539978+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:57:06.0499135+00:00",
-  "LastUpdate_Ratings": "2024-02-18T14:58:02.9786521+00:00",
+  "LastUpdate_Ratings": "2024-02-18T16:00:32.0539983+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:58.331527+00:00"
 }

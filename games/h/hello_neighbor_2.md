@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.37 (Ranked 828)  
+Rating: 4.38 (Ranked 814)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -402,3 +402,4 @@ Completed: 153 (3.65%) (Ranked 100)
 | 2024-01-31 | 4.38 | 0 | 0 |
 | 2024-02-05 | 4.39 | 0 | 0 |
 | 2024-02-07 | 4.37 | 0 | 0 |
+| 2024-02-18 | 4.38 | 0 | 0 |

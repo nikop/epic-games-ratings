@@ -2,7 +2,7 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 600,
   "Ranking_PopularitySum": 600,
   "Ranking_EOS_Progress": 321,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-12-28T14:01:53.0382273+00:00",
@@ -111,6 +111,12 @@
     {
       "Time": "2024-02-03T16:57:36.4937055+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-18T15:57:15.7446479+00:00",
+      "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3165,9 +3171,9 @@
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged": "2024-02-03T16:57:36.4937054+00:00",
+  "LastChanged": "2024-02-18T15:57:15.7446477+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:15.4902885+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:45.9983312+00:00",
-  "LastUpdate_Ratings": "2024-02-18T14:00:18.079157+00:00",
+  "LastUpdate_Ratings": "2024-02-18T15:57:15.7446483+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:15.4903327+00:00"
 }
