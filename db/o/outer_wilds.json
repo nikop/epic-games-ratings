@@ -4,7 +4,7 @@
   "ProductSlug": "outerwilds",
   "Ranking_Rating": 8,
   "Ranking_Popularity": 596,
-  "Ranking_PopularitySum": 596,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -524,17 +524,29 @@
       "Rating": 4.9,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-02-18T03:58:09.0151819+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
+  "NumberOfAwards": 40,
   "NumberOfAwardsMax": 20,
-  "MaxAwardTitle": "Extremely Fun",
+  "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 20
     }
   ],
@@ -549,8 +561,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2023-12-30T04:58:21.737676+00:00",
+  "LastChanged": "2024-02-18T03:58:09.0151817+00:00",
   "LastUpdate_AppInfo": "2024-02-11T08:57:42.614452+00:00",
-  "LastUpdate_Ratings": "2024-02-18T02:17:23.8714426+00:00",
+  "LastUpdate_Ratings": "2024-02-18T03:58:09.0151823+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:46.0158177+00:00"
 }
