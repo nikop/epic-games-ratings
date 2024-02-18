@@ -190,7 +190,7 @@
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 94 | - | 0 |
 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 2023-10-24 | 31 (1,000 XP) | 86 | - | 0 |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 37,098 | - | 0 |
-| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 389,497 | 4.42 | 1,096 |
+| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 389,497 | 4.42 | 1,102 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 184 | - | 0 |
 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 23,729 | 4.33 | 0 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 550 | 4.85 | 0 |
@@ -264,7 +264,7 @@
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 221 | - | 0 |
 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 2023-09-14 | 52 (1,000 XP) | 34 | - | 0 |
 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 534,307 | 4.30 | 20 |
-| [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 2023-09-14 | 38 (1,000 XP) | 8,730 | 4.71 | 0 |
+| [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 2023-09-14 | 38 (1,000 XP) | 8,730 | 4.70 | 0 |
 | [Homeseek](games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 2023-09-14 | 54 (1,000 XP) | 0 | - | 0 |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2023-09-14 | 10 (1,000 XP) | 34 | - | 0 |
 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2023-09-14 | 12 (1,000 XP) | 115,953 | 4.53 | 0 |
@@ -607,7 +607,7 @@
 | [Hell is Others](games/h/hell_is_others.md) | 2023-01-26 | 56 (1,000 XP) | 261,106 | 4.38 | 58 |
 | [Learning Factory](games/l/learning_factory.md) | 2023-01-26 | 57 (1,000 XP) | 0 | - | 0 |
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 218 | - | 0 |
-| [Shoulders of Giants](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,340 | 4.35 | 0 |
+| [Shoulders of Giants](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,340 | 4.34 | 0 |
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 2023-01-25 | 71 (1,250 XP) | 17,759 | 4.86 | 48 |
 | [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 47,813 | 4.16 | 56 |
 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 2023-01-24 | 19 (1,000 XP) | 175 | - | 0 |
@@ -618,7 +618,7 @@
 | [Children of Silentown](games/c/children_of_silentown.md) | 2023-01-11 | 26 (1,000 XP) | 241 | - | 0 |
 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 2023-01-09 | 23 (1,000 XP) | 56 | - | 0 |
 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 2023-01-03 | 33 (1,000 XP) | 857 | - | 0 |
-| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.40 | 21 |
+| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 349,665 | 4.41 | 21 |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 2022-12-19 | 28 (1,000 XP) | 235,860 | 4.58 | 30 |
 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 2022-12-16 | 27 (1,000 XP) | 297 | - | 0 |
 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 2022-12-15 | 11 (1,000 XP) | 96 | - | 0 |
@@ -747,7 +747,7 @@
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 4,697 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,481 | 4.74 | 110 |
 | [It Takes Two](games/i/it_takes_two.md) | 2022-06-10 | 20 (1,000 XP) | 131,402 | - | - |
-| [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 89 (1,300 XP) | 435,578 | 4.46 | 1,105 |
+| [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 89 (1,300 XP) | 435,578 | 4.46 | 1,106 |
 | [My Lovely Wife](games/m/my_lovely_wife.md) | 2022-06-07 | 33 (1,000 XP) | 627 | 4.36 | 0 |
 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 2022-06-03 | 21 (1,000 XP) | 103,108 | - | - |
 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 2022-06-02 | 19 (1,000 XP) | 8 | - | 0 |
@@ -805,7 +805,7 @@
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 164 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 763,029 | 4.82 | 7,410 |
 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 829,753 | 4.58 | 13,563 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,399,568 | 4.77 | 11,808 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,399,568 | 4.77 | 11,825 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 353 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 275 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 1,975 | 4.62 | 0 |
@@ -858,7 +858,7 @@
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 2021-07-16 | 30 (1,000 XP) | 779 | 4.49 | 45 |
 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 2021-07-13 | 29 (1,000 XP) | 689 | 3.86 | 0 |
 | [Crash Drive 3](games/c/crash_drive_3.md) | 2021-07-08 | 55 (1,000 XP) | 445 | - | 0 |
-| [Supraland](games/s/supraland.md) | 2021-07-02 | 98 (1,000 XP) | 741,724 | 4.61 | 7,799 |
+| [Supraland](games/s/supraland.md) | 2021-07-02 | 98 (1,000 XP) | 741,724 | 4.61 | 7,801 |
 | [Adios](games/a/adios.md) | 2021-06-29 | 25 (1,000 XP) | 84,536 | 3.56 | 0 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,109,950 | 4.55 | 190 |
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 456 | - | 0 |

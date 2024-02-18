@@ -58,6 +58,7 @@
 | [EMULATED: OpsRunner](games/7/7aa0633c4f714b949071394d35de89bf.md) | 2024-03-31 | - |  | - | - |
 | [Flashback 2](games/f/flashback_2.md) | 2024-03-31 | - |  | - | - |
 | [Goalgetter](games/7/7f3d1cc99606488c889a893f5b82762a.md) | 2024-03-31 | - |  | - | - |
+| [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-03-31 | - |  | - | - |
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [IfSunSets_DEMO](games/1/1d4d9a627e8548e1821d67ccb55ad146.md) | 2024-03-31 | - |  | - | - |
 | [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-03-31 | - |  | - | - |
