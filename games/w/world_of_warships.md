@@ -1,7 +1,7 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 774)  
+Rating: 4.40 (Ranked 789)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -640,3 +640,4 @@ Diff (max vs sum): 54
 | 2024-02-15 | 4.40 | - | 1,835 | 16,770 |
 | 2024-02-16 | 4.40 | - | 1,838 | 15,446 |
 | 2024-02-17 | 4.41 | - | 1,844 | 15,484 |
+| 2024-02-18 | 4.40 | - | 1,844 | 15,484 |

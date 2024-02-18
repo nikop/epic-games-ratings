@@ -2,7 +2,7 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 1113,
+  "Ranking_Rating": 1116,
   "Ranking_Popularity": 600,
   "Ranking_PopularitySum": 600,
   "Ranking_EOS_Progress": 169,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.82,
+  "Rating": 3.8,
   "RatingHistory": [
     {
       "Time": "2023-01-26T03:57:13.5091099+00:00",
@@ -297,6 +297,12 @@
     {
       "Time": "2024-02-14T23:59:27.9615438+00:00",
       "Rating": 3.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-18T02:15:43.827677+00:00",
+      "Rating": 3.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -8845,9 +8851,9 @@
   "FirstSeen": "2023-01-19T15:57:46.7735502+00:00",
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
-  "LastChanged": "2024-02-14T23:59:27.9615437+00:00",
+  "LastChanged": "2024-02-18T02:15:43.8276767+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:24.0498985+00:00",
   "LastUpdate_AppInfo": "2024-02-11T07:56:57.8618801+00:00",
-  "LastUpdate_Ratings": "2024-02-17T23:59:57.6068818+00:00",
+  "LastUpdate_Ratings": "2024-02-18T02:15:43.8276773+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:24.0499528+00:00"
 }
