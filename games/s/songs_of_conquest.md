@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-27 | 1,323 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 540)  
-Sum: 257 (Ranked 410)  
+Sum: 258 (Ranked 410)  
 Diff (max vs sum): 130  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +155,7 @@ Diff (max vs sum): 130
 | This game is Extremely Fun | 25 |
 | This game has Unique Visuals | 24 |
 | This game has Competitive Players | 22 |
-| This game has Amazing Characters | 20 |
+| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -230,3 +230,4 @@ Diff (max vs sum): 130
 | 2024-02-11 | 4.67 | - | 30 | 255 |
 | 2024-02-13 | 4.67 | - | 30 | 256 |
 | 2024-02-17 | 4.67 | - | 30 | 257 |
+| 2024-02-18 | 4.67 | - | 30 | 258 |
