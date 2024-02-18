@@ -7839,10 +7839,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7683,
       "NumberOfAwardsMax": 882
+    },
+    {
+      "Time": "2024-02-18T17:57:20.7433642+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7685,
+      "NumberOfAwardsMax": 882
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7683,
+  "NumberOfAwards": 7685,
   "NumberOfAwardsMax": 882,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -7910,7 +7916,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 750
+      "Count": 752
     }
   ],
   "EOS_Progressed": 0,
@@ -7932,9 +7938,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-02-18T11:58:30.9864693+00:00",
+  "LastChanged": "2024-02-18T17:57:20.743364+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:35.0401686+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:12.5985996+00:00",
-  "LastUpdate_Ratings": "2024-02-18T16:00:16.5542439+00:00",
+  "LastUpdate_Ratings": "2024-02-18T17:57:20.7433647+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:35.0401702+00:00"
 }
