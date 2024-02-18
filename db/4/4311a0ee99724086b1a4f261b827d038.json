@@ -2,9 +2,9 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 524,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 411,
+  "Ranking_Rating": 543,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 91,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-07-29T12:59:22.4734783+00:00",
@@ -945,10 +945,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-02-18T19:57:49.1214498+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 232,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
+  "NumberOfAwards": 232,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -23169,9 +23175,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-02-18T14:00:25.4730655+00:00",
+  "LastChanged": "2024-02-18T19:57:49.1214496+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:35.818483+00:00",
   "LastUpdate_AppInfo": "2024-02-16T09:57:11.7823274+00:00",
-  "LastUpdate_Ratings": "2024-02-18T17:59:36.9545984+00:00",
+  "LastUpdate_Ratings": "2024-02-18T19:57:49.1214503+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:35.818574+00:00"
 }
