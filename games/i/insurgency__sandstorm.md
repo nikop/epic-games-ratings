@@ -327,18 +327,18 @@ Completed: 2 (0.00%) (Ranked 414)
 | 2024-01-27 | 531,804 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 434  (Ranked 240)  
-Sum: 3,537 (Ranked 179)  
+Sum: 3,539 (Ranked 179)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 434 |
 | This game has Challenging Combat | 434 |
 | This game is Extremely Fun | 407 |
-| This game has Competitive Players | 398 |
+| This game has Competitive Players | 399 |
 | This game is Highly Recommended | 397 |
 | This game has Realistic Visuals | 395 |
 | This game has Amazing Characters | 372 |
-| This game has Amazing Storytelling | 362 |
+| This game has Amazing Storytelling | 363 |
 | This game has a Competitive Community | 338 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -717,4 +717,4 @@ Diff (max vs sum): 61
 | 2024-02-14 | 4.61 | - | 432 | 3,524 |
 | 2024-02-16 | 4.61 | - | 434 | 3,532 |
 | 2024-02-17 | 4.61 | - | 434 | 3,536 |
-| 2024-02-18 | 4.61 | - | 434 | 3,537 |
+| 2024-02-18 | 4.61 | - | 434 | 3,539 |
