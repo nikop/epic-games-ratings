@@ -706,7 +706,7 @@
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 243,584 | 4.58 | 1,519 |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 2022-08-23 | 19 (1,000 XP) | 385 | - | 0 |
-| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,396,094 | 4.45 | 66,851 |
+| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,396,094 | 4.45 | 66,985 |
 | [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 876,272 | 3.89 | 1,183 |
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 471 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 2,781 | 4.42 | 78 |
@@ -762,7 +762,7 @@
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 2022-05-10 | 50 (1,000 XP) | 813 | 4.50 | 0 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 2022-05-10 | 53 (1,000 XP) | 68,428 | 4.31 | 1,003 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 2022-05-10 | 54 (1,000 XP) | 1,323 | 4.67 | 30 |
-| [Terraforming Mars](games/t/terraforming_mars.md) | 2022-05-05 | 30 (1,000 XP) | 91,970 | 4.53 | 549 |
+| [Terraforming Mars](games/t/terraforming_mars.md) | 2022-05-05 | 30 (1,000 XP) | 91,970 | 4.53 | 550 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 2022-05-05 | 68 (1,300 XP) | 3,938 | 4.58 | 242 |
 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 2022-05-04 | 20 (1,000 XP) | 0 | 3.86 | 0 |
 | [Wunderling DX](games/w/wunderling_dx.md) | 2022-04-28 | 41 (1,000 XP) | 40 | - | 0 |

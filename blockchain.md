@@ -43,7 +43,7 @@
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 471 | - | 0 |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | - |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
-| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.47 | 0 |
+| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.53 | 0 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | - |
 | [Arkbound-アークバウンド-](games/9/9fd854316dca49c6bdd72da6c287e81b.md) | 2024-02-08 | - |  | - | 0 |
 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | 3.38 | 0 |
