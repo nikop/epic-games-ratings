@@ -23,8 +23,8 @@
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 22,739 | 4.57 | 504 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,575 | 4.26 | 941 |
 | 23 | [Warframe](games/w/warframe.md) | 21,496 | 4.61 | 407 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,794 | 4.76 | 143 |
-| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 16,730 | 4.60 | 437 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,806 | 4.76 | 143 |
+| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 16,755 | 4.60 | 437 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 15,788 | 4.87 | 22 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,216 | 4.59 | 461 |
 | 28 | [SnowRunner](games/s/snowrunner.md) | 15,198 | 4.75 | 154 |
@@ -49,7 +49,7 @@
 | 47 | [Control](games/c/control.md) | 9,254 | 4.61 | 407 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,938 | 4.69 | 246 |
 | 49 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,879 | 4.56 | 525 |
-| 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 8,545 | 4.74 | 171 |
+| 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 8,551 | 4.74 | 171 |
 | 51 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,388 | 4.84 | 48 |
 | 52 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,271 | 4.69 | 246 |
 | 53 | [Remnant 2](games/r/remnant_2.md) | 8,219 | 4.71 | 205 |
@@ -179,7 +179,7 @@
 | 177 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 919 | 4.45 | 708 |
 | 178 | [The Long Dark](games/t/the_long_dark.md) | 916 | 4.74 | 171 |
 | 179 | [Auto Chess](games/a/auto_chess.md) | 908 | 4.50 | 632 |
-| 180 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 899 | 4.80 | 95 |
+| 180 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 901 | 4.80 | 95 |
 | 181 | [FAR CRY 4](games/f/far_cry_4.md) | 898 | 4.68 | 272 |
 | 182 | [Alan Wake 2](games/a/alan_wake_2.md) | 895 | 4.80 | 95 |
 | 182 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 895 | 4.60 | 437 |
@@ -397,12 +397,12 @@
 | 394 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 97 | 4.40 | 793 |
 | 394 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 97 | 4.54 | 561 |
 | 394 | [This War of Mine](games/t/this_war_of_mine.md) | 97 | 4.74 | 171 |
+| 398 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 96 | 4.42 | 763 |
 | 398 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,007 |
-| 399 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 95 | 4.71 | 205 |
-| 399 | [Super Meat Boy](games/s/super_meat_boy.md) | 95 | 4.72 | 200 |
-| 401 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 94 | 4.42 | 763 |
-| 401 | [RAILGRADE](games/r/railgrade.md) | 94 | 4.55 | 544 |
-| 401 | [Solitairica](games/s/solitairica.md) | 94 | 4.50 | 632 |
+| 400 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 95 | 4.71 | 205 |
+| 400 | [Super Meat Boy](games/s/super_meat_boy.md) | 95 | 4.72 | 200 |
+| 402 | [RAILGRADE](games/r/railgrade.md) | 94 | 4.55 | 544 |
+| 402 | [Solitairica](games/s/solitairica.md) | 94 | 4.50 | 632 |
 | 404 | [Carcassonne](games/c/carcassonne.md) | 92 | 4.66 | 308 |
 | 405 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 90 | 4.82 | 71 |
 | 405 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 90 | 4.58 | 475 |

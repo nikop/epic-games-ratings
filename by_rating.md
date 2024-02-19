@@ -97,7 +97,7 @@
 | 95 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 895 | 182 |
 | 95 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,510 | 68 |
 | 95 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.80 | 70 | 436 |
-| 95 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.80 | 899 | 180 |
+| 95 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.80 | 901 | 180 |
 | 95 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.80 | 0 | 600 |
 | 95 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.80 | 0 | 600 |
 | 95 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 115 | 372 |
@@ -143,7 +143,7 @@
 | 125 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 600 |
 | 125 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 600 |
 | 143 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 23 | 575 |
-| 143 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,794 | 24 |
+| 143 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,806 | 24 |
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,504 | 101 |
 | 143 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,233 | 151 |
 | 143 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,432 | 70 |
@@ -175,7 +175,7 @@
 | 171 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.74 | 61 | 448 |
 | 171 | [GNOG](games/g/gnog.md) | 4.74 | 0 | 600 |
 | 171 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 831 | 187 |
-| 171 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,545 | 50 |
+| 171 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,551 | 50 |
 | 171 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 48,563 | 14 |
 | 171 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 170 | 332 |
 | 171 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 110 | 376 |
@@ -203,7 +203,7 @@
 | 200 | [Eternights](games/e/eternights.md) | 4.72 | 0 | 600 |
 | 200 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 600 |
 | 200 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 369 | 250 |
-| 200 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 95 | 399 |
+| 200 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 95 | 400 |
 | 205 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 600 |
 | 205 | [Dead Space](games/d/dead_space.md) | 4.71 | 366 | 251 |
 | 205 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 517 |
@@ -214,7 +214,7 @@
 | 205 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.71 | 294 | 273 |
 | 205 | [Remnant 2](games/r/remnant_2.md) | 4.71 | 8,219 | 53 |
 | 205 | [Sailing Era](games/s/sailing_era.md) | 4.71 | 0 | 600 |
-| 205 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 95 | 399 |
+| 205 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 95 | 400 |
 | 205 | [shapez](games/s/shapez.md) | 4.71 | 29 | 546 |
 | 205 | [Slipways](games/s/slipways.md) | 4.71 | 0 | 600 |
 | 205 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 600 |
@@ -438,7 +438,7 @@
 | 407 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 734 | 198 |
 | 437 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 714 | 200 |
 | 437 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 114 | 374 |
-| 437 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,730 | 25 |
+| 437 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,755 | 25 |
 | 437 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,380 | 81 |
 | 437 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 232 | 293 |
 | 437 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 600 |
@@ -556,7 +556,7 @@
 | 544 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 142 | 351 |
 | 544 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,222 | 120 |
 | 544 | [Observation](games/o/observation.md) | 4.55 | 0 | 600 |
-| 544 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 94 | 401 |
+| 544 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 94 | 402 |
 | 544 | [System Shock](games/s/system_shock.md) | 4.55 | 0 | 600 |
 | 544 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 600 |
 | 544 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,493 | 141 |
@@ -647,7 +647,7 @@
 | 632 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 682 | 203 |
 | 632 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.50 | 0 | 600 |
 | 632 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 32 | 529 |
-| 632 | [Solitairica](games/s/solitairica.md) | 4.50 | 94 | 401 |
+| 632 | [Solitairica](games/s/solitairica.md) | 4.50 | 94 | 402 |
 | 632 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.50 | 0 | 600 |
 | 632 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 600 |
 | 632 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 10,281 | 43 |
@@ -765,7 +765,7 @@
 | 763 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.42 | 0 | 600 |
 | 763 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.42 | 0 | 600 |
 | 763 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.42 | 235 | 290 |
-| 763 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.42 | 94 | 401 |
+| 763 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.42 | 96 | 398 |
 | 763 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.42 | 0 | 600 |
 | 763 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 505 |
 | 763 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 600 |
