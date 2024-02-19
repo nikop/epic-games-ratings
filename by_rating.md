@@ -24,7 +24,7 @@
 | 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,622 | 139 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 780 | 195 |
 | 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,260 | 82 |
-| 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 15,758 | 26 |
+| 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 15,788 | 26 |
 | 21 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 23 | 575 |
 | 21 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 174 | 327 |
 | 21 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.87 | 0 | 600 |
@@ -248,7 +248,7 @@
 | 245 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 127,833 | 9 |
 | 245 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 600 |
 | 245 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 600 |
-| 245 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 360 |
+| 245 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 361 |
 | 245 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,187 | 54 |
 | 245 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,271 | 52 |
 | 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 7,848 | 56 |
@@ -280,7 +280,7 @@
 | 271 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.68 | 0 | 600 |
 | 271 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 600 |
 | 271 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 600 |
-| 271 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.68 | 130 | 360 |
+| 271 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.68 | 131 | 359 |
 | 271 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.68 | 0 | 600 |
 | 271 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 67 | 440 |
 | 271 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.68 | 0 | 600 |
@@ -659,7 +659,7 @@
 | 653 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 3,475 | 103 |
 | 653 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 600 |
 | 653 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.49 | 0 | 600 |
-| 653 | [Maneater](games/m/maneater.md) | 4.49 | 14,007 | 32 |
+| 653 | [Maneater](games/m/maneater.md) | 4.49 | 14,010 | 32 |
 | 653 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 389 |
 | 653 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 38 | 505 |
 | 653 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 600 |
@@ -699,7 +699,7 @@
 | 693 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.46 | 0 | 600 |
 | 693 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 600 |
 | 693 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.46 | 143 | 349 |
-| 693 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 729,593 | 2 |
+| 693 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 730,540 | 2 |
 | 693 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 600 |
 | 693 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 600 |
 | 693 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 600 |
@@ -925,7 +925,7 @@
 | 919 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 600 |
 | 919 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 600 |
 | 919 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.28 | 0 | 600 |
-| 919 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 130 | 360 |
+| 919 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 130 | 361 |
 | 919 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 330 |
 | 919 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 0 | 600 |
 | 919 | [The Surge 2](games/t/the_surge_2.md) | 4.28 | 0 | 600 |
@@ -1071,11 +1071,11 @@
 | 1,066 | [The Front](games/t/the_front.md) | 4.06 | 26 | 560 |
 | 1,070 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 600 |
 | 1,070 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.05 | 0 | 600 |
-| 1,072 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.04 | 0 | 600 |
 | 1,072 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.04 | 0 | 600 |
-| 1,074 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.02 | 0 | 600 |
-| 1,074 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 600 |
-| 1,074 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 0 | 600 |
+| 1,073 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.02 | 0 | 600 |
+| 1,073 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.02 | 0 | 600 |
+| 1,073 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 600 |
+| 1,073 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 0 | 600 |
 | 1,077 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,394 | 61 |
 | 1,077 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,020 | 85 |
 | 1,079 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 382 | 249 |

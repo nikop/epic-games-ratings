@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,145,489 | 4.29 | 904 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 729,593 | 4.46 | 693 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 730,540 | 4.46 | 693 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 330,138 | 4.67 | 289 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 326,386 | 4.68 | 271 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 280,628 | 4.88 | 16 |
@@ -25,13 +25,13 @@
 | 23 | [Warframe](games/w/warframe.md) | 21,456 | 4.61 | 406 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,794 | 4.76 | 141 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 16,730 | 4.60 | 436 |
-| 26 | [Satisfactory](games/s/satisfactory.md) | 15,758 | 4.87 | 21 |
+| 26 | [Satisfactory](games/s/satisfactory.md) | 15,788 | 4.87 | 21 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,216 | 4.59 | 459 |
 | 28 | [SnowRunner](games/s/snowrunner.md) | 15,198 | 4.75 | 153 |
 | 29 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,750 | 4.58 | 474 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,583 | 4.44 | 725 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,566 | 4.84 | 47 |
-| 32 | [Maneater](games/m/maneater.md) | 14,007 | 4.49 | 653 |
+| 32 | [Maneater](games/m/maneater.md) | 14,010 | 4.49 | 653 |
 | 33 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 13,593 | 4.58 | 474 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,392 | 4.45 | 707 |
 | 35 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,851 | 4.36 | 838 |
@@ -359,9 +359,9 @@
 | 356 | [Tropico 5](games/t/tropico_5.md) | 133 | 4.45 | 707 |
 | 358 | [Sonic Origins](games/s/sonic_origins.md) | 132 | 4.59 | 459 |
 | 359 | [Aven Colony](games/a/aven_colony.md) | 131 | 4.20 | 992 |
-| 360 | [Cave Story+](games/c/cave_story+.md) | 130 | 4.69 | 245 |
-| 360 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 130 | 4.68 | 271 |
-| 360 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 130 | 4.28 | 919 |
+| 359 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 131 | 4.68 | 271 |
+| 361 | [Cave Story+](games/c/cave_story+.md) | 130 | 4.69 | 245 |
+| 361 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 130 | 4.28 | 919 |
 | 363 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 129 | 4.21 | 980 |
 | 363 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 129 | 4.21 | 980 |
 | 365 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 128 | 4.61 | 406 |
