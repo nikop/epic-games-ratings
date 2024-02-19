@@ -2,7 +2,7 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "ProductSlug": "god-of-war",
-  "Ranking_Rating": 16,
+  "Ranking_Rating": 21,
   "Ranking_Popularity": 82,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "NumberOfRatings": 4943,
   "RatingHistory": [
     {
@@ -5829,6 +5829,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 10052,
       "NumberOfAwardsMax": 5260
+    },
+    {
+      "Time": "2024-02-19T01:40:48.9778642+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 10052,
+      "NumberOfAwardsMax": 5260
     }
   ],
   "ReviewsDisabled": false,
@@ -5938,8 +5944,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-02-18T16:58:33.8019872+00:00",
+  "LastChanged": "2024-02-19T01:40:48.9778641+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:17.1396443+00:00",
-  "LastUpdate_Ratings": "2024-02-18T23:56:59.3583825+00:00",
+  "LastUpdate_Ratings": "2024-02-19T01:40:48.9778667+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:19.7065313+00:00"
 }

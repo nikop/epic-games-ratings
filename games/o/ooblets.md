@@ -1,7 +1,7 @@
 # Ooblets
 [Store](https://store.epicgames.com/en-US/p/ooblets)  
 [View Rawdata](../../db/o/ooblets.json)  
-Rating: 4.87 (Ranked 21)  
+Rating: 4.88 (Ranked 16)  
 Number of Ratings: 1,446  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,055  (Ranked 164)  
@@ -198,3 +198,4 @@ Diff (max vs sum): -66
 | 2024-02-09 | 4.88 | - | 1,055 | 1,934 |
 | 2024-02-10 | 4.88 | - | 1,055 | 1,935 |
 | 2024-02-18 | 4.87 | - | 1,055 | 1,935 |
+| 2024-02-19 | 4.88 | - | 1,055 | 1,935 |
