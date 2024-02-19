@@ -38,7 +38,7 @@
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,976 | 4.69 | 246 |
 | 37 | [NBA 2K21](games/n/nba_2k21.md) | 11,837 | 4.39 | 803 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 11,825 | 4.77 | 125 |
-| 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,617 | 4.54 | 561 |
+| 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,649 | 4.54 | 561 |
 | 40 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,024 | 4.61 | 407 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,987 | 4.58 | 475 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 10,547 | 4.77 | 125 |
@@ -72,7 +72,7 @@
 | 70 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,432 | 4.76 | 143 |
 | 71 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,324 | 4.78 | 113 |
 | 72 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 6,229 | 4.23 | 965 |
-| 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,140 | 4.66 | 308 |
+| 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,144 | 4.66 | 308 |
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,054 | 4.64 | 353 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 5,992 | 4.29 | 905 |
 | 76 | [Prey](games/p/prey.md) | 5,921 | 4.63 | 369 |
@@ -160,7 +160,7 @@
 | 158 | [Train Valley 2](games/t/train_valley_2.md) | 1,106 | 4.46 | 695 |
 | 159 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,102 | 4.42 | 763 |
 | 160 | [Torchlight II](games/t/torchlight_ii.md) | 1,099 | 4.59 | 461 |
-| 161 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,083 | 4.40 | 792 |
+| 161 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,083 | 4.40 | 793 |
 | 162 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,067 | 4.51 | 616 |
 | 163 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,061 | 4.74 | 171 |
 | 164 | [Ooblets](games/o/ooblets.md) | 1,055 | 4.88 | 17 |
@@ -222,7 +222,7 @@
 | 220 | [Surviving Mars](games/s/surviving_mars.md) | 559 | 4.61 | 407 |
 | 221 | [Terraforming Mars](games/t/terraforming_mars.md) | 550 | 4.53 | 579 |
 | 222 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 546 | 4.77 | 125 |
-| 223 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 544 | 4.40 | 792 |
+| 223 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 544 | 4.40 | 793 |
 | 224 | [Severed Steel](games/s/severed_steel.md) | 536 | 4.69 | 246 |
 | 225 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 516 | 4.58 | 475 |
 | 226 | [Loop Hero](games/l/loop_hero.md) | 509 | 4.67 | 290 |
@@ -247,7 +247,7 @@
 | 245 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 399 | 4.30 | 895 |
 | 246 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 398 | 4.54 | 561 |
 | 247 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 395 | 4.81 | 81 |
-| 248 | [Predecessor](games/p/predecessor.md) | 384 | 4.30 | 895 |
+| 248 | [Predecessor](games/p/predecessor.md) | 387 | 4.30 | 895 |
 | 249 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 382 | 3.99 | 1,080 |
 | 250 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 369 | 4.72 | 200 |
 | 251 | [Dead Space](games/d/dead_space.md) | 366 | 4.71 | 205 |
@@ -394,7 +394,7 @@
 | 390 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 99 | 4.86 | 31 |
 | 393 | [The Captain](games/t/the_captain.md) | 98 | 4.44 | 726 |
 | 394 | [F1® 23](games/f/f1®_23_standard_edition.md) | 97 | 4.66 | 308 |
-| 394 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 97 | 4.40 | 792 |
+| 394 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 97 | 4.40 | 793 |
 | 394 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 97 | 4.54 | 561 |
 | 394 | [This War of Mine](games/t/this_war_of_mine.md) | 97 | 4.74 | 171 |
 | 398 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,007 |
@@ -420,7 +420,7 @@
 | 417 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 78 | 4.16 | 1,020 |
 | 417 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 78 | 4.54 | 561 |
 | 417 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 78 | 4.42 | 763 |
-| 421 | [Rising Hell](games/r/rising_hell.md) | 76 | 4.40 | 792 |
+| 421 | [Rising Hell](games/r/rising_hell.md) | 76 | 4.40 | 793 |
 | 421 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 76 | 4.61 | 407 |
 | 423 | [DEATHLOOP](games/d/deathloop.md) | 75 | 4.44 | 726 |
 | 423 | [Potion Permit](games/p/potion_permit.md) | 75 | 3.92 | 1,098 |
@@ -566,10 +566,10 @@
 | 560 | [Outlast](games/o/outlast.md) | 26 | 4.77 | 125 |
 | 560 | [RUINER](games/r/ruiner.md) | 26 | 4.54 | 561 |
 | 560 | [The Front](games/t/the_front.md) | 26 | 4.06 | 1,067 |
+| 560 | [Void Bastards](games/v/void_bastards.md) | 26 | 4.60 | 437 |
 | 560 | [We Were Here Forever](games/w/we_were_here_forever.md) | 26 | 4.66 | 308 |
-| 568 | [Torchlight](games/t/torchlight.md) | 25 | 4.35 | 852 |
-| 568 | [Void Bastards](games/v/void_bastards.md) | 25 | 4.60 | 437 |
-| 568 | [Yooka-Laylee](games/y/yooka-laylee.md) | 25 | 4.25 | 949 |
+| 569 | [Torchlight](games/t/torchlight.md) | 25 | 4.35 | 852 |
+| 569 | [Yooka-Laylee](games/y/yooka-laylee.md) | 25 | 4.25 | 949 |
 | 571 | [DEMON'S TILT](games/d/demon's_tilt.md) | 24 | 4.53 | 579 |
 | 571 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 24 | 4.81 | 81 |
 | 571 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.65 | 333 |
