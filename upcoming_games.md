@@ -67,6 +67,7 @@
 | [Of Murder and Moonshine](games/7/7218b3eddf1749dd9f966c615f2a9d96.md) | 2024-03-31 | - |  | - | - |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-03-31 | - |  | - | - |
 | [Project Apidom](games/5/551b8ecaa91c4369b87dc68c131cd7ae.md) | 2024-03-31 | - |  | - | - |
+| [Repression](games/0/0bcd77c68cff407a9628730bb61f639d.md) | 2024-03-31 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-03-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-03-31 | - |  | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-03-31 | - |  | - | - |
@@ -347,6 +348,7 @@
 | [Happy Time](games/0/0c3400dec5ec47399810c08113c09958.md) | 2099-01-01 | - |  | - | - |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2099-01-01 | - |  | - | - |
 | [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
+| [Henry Halfhead](games/d/dbba31245c4345f7b9efa2f8434c446a.md) | 2099-01-01 | - |  | - | - |
 | [Hero Flood Rescue](games/h/hero_flood_rescue.md) | 2099-01-01 | - |  | - | - |
 | [Hidden Cats: Magic Forest](games/b/bfb2b691db4741f7827ab8bd3dfd5b18.md) | 2099-01-01 | - |  | - | - |
 | [Highwater](games/h/highwater.md) | 2099-01-01 | - |  | - | - |
