@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 504)
 Number of Ratings: 3,868  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,504  (Ranked 101)  
-Sum: 9,542 (Ranked 105)  
+Sum: 9,545 (Ranked 105)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -15,10 +15,10 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 454 |
 | This game has Amazing Characters | 449 |
 | This game is Extremely Fun | 440 |
-| This game has Quickly Understood Controls | 432 |
+| This game has Quickly Understood Controls | 433 |
 | This game has Amazing Storytelling | 424 |
-| This game has Challenging Combat | 417 |
-| This game is Relaxing | 387 |
+| This game has Challenging Combat | 418 |
+| This game is Relaxing | 388 |
 | This game has a Creative Community | 237 |
 | This game has Obsessive Gameplay | 77 |
 | This game is Hard for Beginners | 50 |
@@ -420,4 +420,4 @@ Diff (max vs sum): -4
 | 2024-02-16 | 4.58 | - | 3,496 | 9,525 |
 | 2024-02-17 | 4.58 | - | 3,499 | 9,535 |
 | 2024-02-18 | 4.57 | - | 3,504 | 9,540 |
-| 2024-02-19 | 4.57 | - | 3,504 | 9,542 |
+| 2024-02-19 | 4.57 | - | 3,504 | 9,545 |

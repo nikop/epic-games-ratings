@@ -1,7 +1,7 @@
 # Dakar Desert Rally
 [Store](https://store.epicgames.com/en-US/p/dakar-desert-rally)  
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
-Rating: 4.02 (Ranked 1,074)  
+Rating: 4.01 (Ranked 1,077)  
 ## Awards
 Max (Highly Recommended): 20  (Ranked 596)  
 Sum: 20 (Ranked 597)  

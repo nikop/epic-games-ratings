@@ -2,7 +2,7 @@
   "ID": "ac98aa34584648f2b71152e509191c1c",
   "Name": "Dakar Desert Rally",
   "ProductSlug": "dakar-desert-rally",
-  "Ranking_Rating": 1074,
+  "Ranking_Rating": 1077,
   "Ranking_Popularity": 596,
   "Ranking_PopularitySum": 597,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.02,
+  "Rating": 4.01,
   "RatingHistory": [
     {
       "Time": "2023-01-07T16:56:50.8716043+00:00",
@@ -603,6 +603,12 @@
       "Rating": 4.02,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-02-19T22:59:25.4060709+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
@@ -629,8 +635,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-02-19T13:58:31.8071319+00:00",
+  "LastChanged": "2024-02-19T22:59:25.4060708+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:03.2275355+00:00",
-  "LastUpdate_Ratings": "2024-02-19T21:58:51.5559455+00:00",
+  "LastUpdate_Ratings": "2024-02-19T22:59:25.4060713+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:42.0209606+00:00"
 }
