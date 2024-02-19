@@ -4,7 +4,7 @@
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 58,
   "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 212,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2916,10 +2916,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 2461,
       "NumberOfAwardsMax": 283
+    },
+    {
+      "Time": "2024-02-19T16:59:13.3981753+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2462,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2461,
+  "NumberOfAwards": 2462,
   "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2987,7 +2993,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 240
+      "Count": 241
     }
   ],
   "EOS_Progressed": 0,
@@ -3001,8 +3007,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-02-15T23:01:41.7387265+00:00",
+  "LastChanged": "2024-02-19T16:59:13.398175+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:30.2370058+00:00",
-  "LastUpdate_Ratings": "2024-02-19T15:57:57.7453314+00:00",
+  "LastUpdate_Ratings": "2024-02-19T16:59:13.3981756+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:41.8776782+00:00"
 }
