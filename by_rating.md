@@ -75,7 +75,7 @@
 | 71 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 90 | 405 |
 | 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,442 | 144 |
 | 71 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 311 | 263 |
-| 71 | [Sifu](games/s/sifu.md) | 4.82 | 7,410 | 60 |
+| 71 | [Sifu](games/s/sifu.md) | 4.82 | 7,410 | 61 |
 | 71 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 477 | 232 |
 | 71 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 63 | 445 |
 | 71 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 31 | 533 |
@@ -124,7 +124,7 @@
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 600 |
 | 113 | [WarmSnow](games/w/warmsnow.md) | 4.78 | 87 | 409 |
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 541 |
-| 125 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,547 | 42 |
+| 125 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,582 | 42 |
 | 125 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.77 | 0 | 600 |
 | 125 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,825 | 38 |
 | 125 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 600 |
@@ -271,7 +271,7 @@
 | 246 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 600 |
 | 246 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,117 | 155 |
 | 246 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 891 | 185 |
-| 272 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,408 | 90 |
+| 272 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,410 | 90 |
 | 272 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 748 | 196 |
 | 272 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.68 | 0 | 600 |
 | 272 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 151,739 | 8 |
@@ -421,7 +421,7 @@
 | 407 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 600 |
 | 407 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.61 | 69 | 437 |
 | 407 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 445 |
-| 407 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 434 | 240 |
+| 407 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 435 | 240 |
 | 407 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.61 | 0 | 600 |
 | 407 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 692 | 202 |
 | 407 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,024 | 40 |
@@ -1077,7 +1077,7 @@
 | 1,074 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 600 |
 | 1,074 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 0 | 600 |
 | 1,077 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.01 | 0 | 600 |
-| 1,078 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,394 | 61 |
+| 1,078 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,425 | 60 |
 | 1,078 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,020 | 85 |
 | 1,080 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 382 | 249 |
 | 1,080 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.99 | 0 | 600 |
