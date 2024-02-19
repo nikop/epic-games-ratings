@@ -1,7 +1,7 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.40 (Ranked 791)  
+Rating: 4.39 (Ranked 801)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -174,3 +174,4 @@ Diff (max vs sum): -124
 | 2024-02-15 | 4.40 | 216 | 216 |
 | 2024-02-16 | 4.40 | 218 | 218 |
 | 2024-02-17 | 4.40 | 220 | 220 |
+| 2024-02-18 | 4.39 | 220 | 220 |
