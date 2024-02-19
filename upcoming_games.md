@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
-| [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | - |
 | [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | - | - |
 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 2024-02-21 | - |  | - | - |
@@ -581,6 +579,7 @@
 | [The Anacrusis](games/t/the_anacrusis.md) | 2099-02-01 | - |  | - | - |
 | [Under The Waves](games/u/under_the_waves.md) | 2099-02-01 | - |  | - | - |
 | [Ambulance Life: A Paramedic Simulator](games/7/720b4f9b718c4bdba3547b680607c4c0.md) | 2099-02-01 | - |  | - | - |
+| [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2099-02-20 | - |  | - | - |
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | 2099-05-30 | - |  | - | - |
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2099-06-08 | - |  | 4.10 | 2,519 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | - |  | - | - |

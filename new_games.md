@@ -1,18 +1,19 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | - |
 | [Wizened Dream](games/3/3b5e4301fa6c47c0b139115468ea6088.md) | 2024-02-17 | - |  | - | - |
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 2024-02-16 | - |  | - | - |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
-| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.22 | 129 |
+| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.22 | 238 |
 | [Street Fighting Simulator](games/e/e1094f6a687543c9ab4543dcba655554.md) | 2024-02-15 | - |  | - | 0 |
 | [DotLine](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | - |  | - | - |
 | [Pinbot](games/2/2fb0f7c2c29041ea94464a263acfbeb7.md) | 2024-02-15 | - |  | - | - |
 | [Delivery Boy](games/8/84860d15749f404e8a24fd58e6b01448.md) | 2024-02-15 | - |  | - | 0 |
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-02-15 | 45 (1,000 XP) | 1 | - | 0 |
 | [Seven Bullets Horror 7発の弾丸ホラー](games/8/80620b348cbe4e38b9f55bb9029c57d3.md) | 2024-02-14 | - |  | - | - |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | - |  | 4.90 | 0 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | - |  | 4.91 | 0 |
 | [Julai](games/a/a2a68ba87f494656b676de3a268dcf2a.md) | 2024-02-14 | - |  | - | - |
 | [Nuclear Fission Simulator](games/b/b1e049db852143a29a80e770371f6399.md) | 2024-02-14 | - |  | - | - |
 | [Amber](games/e/e0ee1d8777e441d3ae01f796ed427261.md) | 2024-02-14 | - |  | - | - |
@@ -23,7 +24,7 @@
 | [Blue Oak Bridge](games/4/4dbe3446fbe1495a822cbea817f5606e.md) | 2024-02-13 | - |  | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | - |  | - | 0 |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | - |  | - | 0 |
-| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.56 | 0 |
+| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.49 | 0 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | - |
 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | 4.57 | 0 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 1 | - | 0 |
