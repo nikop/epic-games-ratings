@@ -293,7 +293,7 @@
 | 290 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 73 | 429 |
 | 290 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 601 |
 | 290 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.67 | 152 | 344 |
-| 290 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,464 | 69 |
+| 290 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,479 | 69 |
 | 290 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 330,227 | 3 |
 | 290 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 601 |
 | 290 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 509 | 226 |
@@ -632,7 +632,7 @@
 | 616 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 601 |
 | 616 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 143 | 349 |
 | 632 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.50 | 0 | 601 |
-| 632 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,951 | 128 |
+| 632 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,955 | 128 |
 | 632 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 4.50 | 0 | 601 |
 | 632 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 908 | 179 |
 | 632 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 471 | 235 |
@@ -705,7 +705,7 @@
 | 694 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 601 |
 | 694 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.46 | 0 | 601 |
 | 694 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 304 | 268 |
-| 694 | [Train Valley 2](games/t/train_valley_2.md) | 4.46 | 1,106 | 158 |
+| 694 | [Train Valley 2](games/t/train_valley_2.md) | 4.46 | 1,106 | 159 |
 | 707 | [9Lives Arena](games/9/9lives_arena.md) | 4.45 | 28 | 548 |
 | 707 | [Absolute Drift](games/a/absolute_drift.md) | 4.45 | 0 | 601 |
 | 707 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 601 |
@@ -763,14 +763,14 @@
 | 749 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 453 |
 | 762 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.42 | 0 | 601 |
 | 762 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.42 | 0 | 601 |
-| 762 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.42 | 235 | 290 |
+| 762 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.42 | 237 | 290 |
 | 762 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.42 | 96 | 398 |
 | 762 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.42 | 0 | 601 |
 | 762 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 505 |
 | 762 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 601 |
 | 762 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 66 |
 | 762 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 601 |
-| 762 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,102 | 159 |
+| 762 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,109 | 158 |
 | 762 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.42 | 0 | 601 |
 | 762 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 150 | 345 |
 | 762 | [Warpips](games/w/warpips.md) | 4.42 | 41 | 496 |
@@ -786,7 +786,7 @@
 | 775 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.41 | 0 | 601 |
 | 775 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 601 |
 | 775 | [Sail Forth](games/s/sail_forth.md) | 4.41 | 21 | 587 |
-| 775 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,269 | 118 |
+| 775 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,270 | 118 |
 | 775 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 431 |
 | 775 | [Sheltered](games/s/sheltered.md) | 4.41 | 283 | 277 |
 | 775 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 204 | 310 |
