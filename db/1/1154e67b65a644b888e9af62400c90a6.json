@@ -4,7 +4,7 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 594,
   "Ranking_Popularity": 114,
-  "Ranking_PopularitySum": 138,
+  "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -4835,10 +4835,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 6962,
       "NumberOfAwardsMax": 2381
+    },
+    {
+      "Time": "2024-02-19T08:00:52.1711889+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 6973,
+      "NumberOfAwardsMax": 2381
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6962,
+  "NumberOfAwards": 6973,
   "NumberOfAwardsMax": 2381,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4888,7 +4894,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 447
+      "Count": 458
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4927,8 +4933,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-02-19T03:59:22.2260672+00:00",
+  "LastChanged": "2024-02-19T08:00:52.1711887+00:00",
   "LastUpdate_AppInfo": "2024-02-14T02:12:47.0254692+00:00",
-  "LastUpdate_Ratings": "2024-02-19T06:59:25.1067898+00:00",
+  "LastUpdate_Ratings": "2024-02-19T08:00:52.1711893+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:27.7461366+00:00"
 }
