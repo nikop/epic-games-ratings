@@ -17900,10 +17900,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 103656,
       "NumberOfAwardsMax": 13392
+    },
+    {
+      "Time": "2024-02-19T17:58:38.484943+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 103666,
+      "NumberOfAwardsMax": 13392
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 103656,
+  "NumberOfAwards": 103666,
   "NumberOfAwardsMax": 13392,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -17935,7 +17941,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9583
+      "Count": 9593
     },
     {
       "Text": "This game has Diverse Characters",
@@ -17985,8 +17991,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-02-19T16:00:45.0674342+00:00",
+  "LastChanged": "2024-02-19T17:58:38.4849428+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:35.7993527+00:00",
-  "LastUpdate_Ratings": "2024-02-19T16:00:45.0674348+00:00",
+  "LastUpdate_Ratings": "2024-02-19T17:58:38.4849434+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:17.9836462+00:00"
 }
