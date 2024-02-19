@@ -4,7 +4,7 @@
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 154,
   "Ranking_Popularity": 175,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -12331,10 +12331,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 8888,
       "NumberOfAwardsMax": 951
+    },
+    {
+      "Time": "2024-02-19T18:58:53.8309738+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 8892,
+      "NumberOfAwardsMax": 951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8888,
+  "NumberOfAwards": 8892,
   "NumberOfAwardsMax": 951,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12342,7 +12348,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 884
+      "Count": 888
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12428,8 +12434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-02-19T17:57:57.924259+00:00",
+  "LastChanged": "2024-02-19T18:58:53.8309734+00:00",
   "LastUpdate_AppInfo": "2024-02-18T05:57:20.4747068+00:00",
-  "LastUpdate_Ratings": "2024-02-19T17:57:57.9242597+00:00",
+  "LastUpdate_Ratings": "2024-02-19T18:58:53.8309743+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:53.818958+00:00"
 }
