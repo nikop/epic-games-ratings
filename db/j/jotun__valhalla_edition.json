@@ -2,7 +2,7 @@
   "ID": "ba3149b6d7a7488ab5cc674154458757",
   "Name": "Jotun: Valhalla Edition",
   "ProductSlug": "jotun",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 777,
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 856,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "NumberOfRatings": 758,
   "RatingHistory": [
     {
@@ -490,6 +490,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-02-19T14:01:36.3826176+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 97,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
@@ -515,8 +521,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
-  "LastChanged": "2024-02-11T13:59:31.2478506+00:00",
+  "LastChanged": "2024-02-19T14:01:36.3826174+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:36.409777+00:00",
-  "LastUpdate_Ratings": "2024-02-19T13:00:38.5636815+00:00",
+  "LastUpdate_Ratings": "2024-02-19T14:01:36.3826179+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:13.9040654+00:00"
 }
