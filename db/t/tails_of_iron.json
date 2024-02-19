@@ -2,7 +2,7 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 601,
   "Ranking_PopularitySum": 601,
   "Ranking_EOS_Progress": 249,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2022-09-24T13:07:58.3730391+00:00",
@@ -276,6 +276,12 @@
     {
       "Time": "2024-02-18T22:57:03.761674+00:00",
       "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-19T21:58:14.3238688+00:00",
+      "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4860,9 +4866,9 @@
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
-  "LastChanged": "2024-02-18T22:57:03.7616739+00:00",
+  "LastChanged": "2024-02-19T21:58:14.3238686+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:07.2763836+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:58.2218999+00:00",
-  "LastUpdate_Ratings": "2024-02-19T20:00:18.6899064+00:00",
+  "LastUpdate_Ratings": "2024-02-19T21:58:14.3238692+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:07.2764184+00:00"
 }
