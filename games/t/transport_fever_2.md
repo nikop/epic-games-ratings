@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.67 (Ranked 290)  
+Rating: 4.68 (Ranked 273)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -485,3 +485,4 @@ Diff (max vs sum): 92
 | 2024-02-11 | 4.67 | - | 50 | 338 |
 | 2024-02-15 | 4.67 | - | 50 | 340 |
 | 2024-02-18 | 4.67 | - | 50 | 341 |
+| 2024-02-20 | 4.68 | - | 50 | 341 |
