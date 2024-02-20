@@ -2,7 +2,7 @@
   "ID": "ba1596b29e8b4b1199058fad440366a5",
   "Name": "Starship Troopers: Terran Command",
   "ProductSlug": "starship-troopers-terran-command",
-  "Ranking_Rating": 982,
+  "Ranking_Rating": 973,
   "Ranking_Popularity": 601,
   "Ranking_PopularitySum": 601,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "NumberOfRatings": 100,
   "RatingHistory": [
     {
@@ -338,6 +338,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-20T14:00:18.3461374+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -355,8 +361,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:10.1660332+00:00",
-  "LastChanged": "2024-01-31T11:59:43.7104545+00:00",
+  "LastChanged": "2024-02-20T14:00:18.3461373+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:08.6502621+00:00",
-  "LastUpdate_Ratings": "2024-02-20T13:00:57.6798103+00:00",
+  "LastUpdate_Ratings": "2024-02-20T14:00:18.3461378+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:22.5802848+00:00"
 }

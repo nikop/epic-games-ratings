@@ -4,7 +4,7 @@
   "ProductSlug": "south-park-the-fractured-but-whole",
   "Ranking_Rating": 39,
   "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 426,
+  "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -928,18 +928,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 211,
       "NumberOfAwardsMax": 211
+    },
+    {
+      "Time": "2024-02-20T13:58:46.4433961+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 213,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 211,
-  "NumberOfAwardsMax": 211,
+  "NumberOfAwards": 213,
+  "NumberOfAwardsMax": 213,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 211
+      "Count": 213
     }
   ],
   "EOS_Progressed": 0,
@@ -953,8 +959,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2024-02-18T22:00:04.3397861+00:00",
+  "LastChanged": "2024-02-20T13:58:46.443396+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:20.4114889+00:00",
-  "LastUpdate_Ratings": "2024-02-20T12:58:58.7059416+00:00",
+  "LastUpdate_Ratings": "2024-02-20T13:58:46.4433964+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:53.6040126+00:00"
 }
