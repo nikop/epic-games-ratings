@@ -368,7 +368,7 @@
 | 353 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,770 | 18 |
 | 353 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 4.64 | 28 | 548 |
 | 353 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.64 | 0 | 601 |
-| 353 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 218 | 302 |
+| 353 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 218 | 303 |
 | 370 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.63 | 52 | 467 |
 | 370 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 588 |
 | 370 | [Art of Rally](games/a/art_of_rally_1.md) | 4.63 | 66 | 443 |
@@ -556,28 +556,28 @@
 | 545 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 142 | 352 |
 | 545 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,222 | 120 |
 | 545 | [Observation](games/o/observation.md) | 4.55 | 0 | 601 |
+| 545 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 36 | 513 |
 | 545 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 94 | 403 |
 | 545 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 601 |
 | 545 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 398 | 246 |
 | 545 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,493 | 141 |
-| 561 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 601 |
-| 561 | [Aztez](games/a/aztez.md) | 4.54 | 21 | 588 |
-| 561 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 601 |
-| 561 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,745 | 137 |
-| 561 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,649 | 39 |
-| 561 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 501 |
-| 561 | [Horace](games/h/horace.md) | 4.54 | 0 | 601 |
-| 561 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.54 | 0 | 601 |
-| 561 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 78 | 419 |
-| 561 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 513 |
-| 561 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,049 | 165 |
-| 561 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.54 | 0 | 601 |
-| 561 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 560 |
-| 561 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 394 |
-| 561 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 24 | 572 |
-| 561 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 601 |
-| 561 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 1,013 | 170 |
-| 561 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.54 | 0 | 601 |
+| 562 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 601 |
+| 562 | [Aztez](games/a/aztez.md) | 4.54 | 21 | 588 |
+| 562 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 601 |
+| 562 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,745 | 137 |
+| 562 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,649 | 39 |
+| 562 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 501 |
+| 562 | [Horace](games/h/horace.md) | 4.54 | 0 | 601 |
+| 562 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.54 | 0 | 601 |
+| 562 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 78 | 419 |
+| 562 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,049 | 165 |
+| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.54 | 0 | 601 |
+| 562 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 560 |
+| 562 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 394 |
+| 562 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 24 | 572 |
+| 562 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 601 |
+| 562 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 1,013 | 170 |
+| 562 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.54 | 0 | 601 |
 | 579 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 601 |
 | 579 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 0 | 601 |
 | 579 | [Dauntless](games/d/dauntless.md) | 4.53 | 26,957 | 19 |
@@ -914,7 +914,7 @@
 | 906 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.29 | 0 | 601 |
 | 906 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 811 | 190 |
 | 906 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 171 | 332 |
-| 906 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 5,992 | 75 |
+| 906 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 5,996 | 75 |
 | 906 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 130 | 362 |
 | 906 | [Steelrising](games/s/steelrising.md) | 4.29 | 40 | 497 |
 | 906 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.29 | 0 | 601 |
@@ -1064,7 +1064,7 @@
 | 1,055 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 601 |
 | 1,063 | [Armored Warfare](games/a/armored_warfare.md) | 4.07 | 107 | 381 |
 | 1,063 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,864 | 78 |
-| 1,063 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 218 | 302 |
+| 1,063 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 219 | 302 |
 | 1,063 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.07 | 0 | 601 |
 | 1,067 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 601 |
 | 1,067 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.06 | 602 | 214 |
