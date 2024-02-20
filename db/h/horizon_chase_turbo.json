@@ -2,7 +2,7 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 561,
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 15,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 1343,
   "RatingHistory": [
     {
@@ -3609,6 +3609,12 @@
     {
       "Time": "2024-02-19T11:58:15.6754083+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 1683,
+      "NumberOfAwardsMax": 191
+    },
+    {
+      "Time": "2024-02-20T12:00:25.9496882+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 1683,
       "NumberOfAwardsMax": 191
     }
@@ -36523,9 +36529,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2024-02-19T11:58:15.6754082+00:00",
+  "LastChanged": "2024-02-20T12:00:25.9496881+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:18.4722907+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:43.6380341+00:00",
-  "LastUpdate_Ratings": "2024-02-20T10:59:22.4124648+00:00",
+  "LastUpdate_Ratings": "2024-02-20T12:00:25.9496886+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:18.4724192+00:00"
 }
