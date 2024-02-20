@@ -3,7 +3,7 @@
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 407,
-  "Ranking_Popularity": 240,
+  "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 414,
@@ -5354,11 +5354,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 3549,
       "NumberOfAwardsMax": 435
+    },
+    {
+      "Time": "2024-02-20T10:58:10.4643527+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3552,
+      "NumberOfAwardsMax": 438
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3549,
-  "NumberOfAwardsMax": 435,
+  "NumberOfAwards": 3552,
+  "NumberOfAwardsMax": 438,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
@@ -5389,7 +5395,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 435
+      "Count": 438
     },
     {
       "Text": "This game is Highly Recommended",
@@ -38219,9 +38225,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-02-20T07:59:28.0115082+00:00",
+  "LastChanged": "2024-02-20T10:58:10.4643525+00:00",
   "LastChanged_Achievements": "2024-01-27T13:04:39.1972695+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:30.798355+00:00",
-  "LastUpdate_Ratings": "2024-02-20T09:01:13.0496157+00:00",
+  "LastUpdate_Ratings": "2024-02-20T10:58:10.4643531+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:39.1974451+00:00"
 }

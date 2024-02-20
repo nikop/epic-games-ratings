@@ -4,7 +4,7 @@
   "ProductSlug": "f1-manager-2023",
   "Ranking_Rating": 407,
   "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -909,10 +909,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-02-20T10:59:09.246983+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
+  "NumberOfAwards": 281,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -932,7 +938,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -997,9 +1003,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-02-19T11:58:06.3360132+00:00",
+  "LastChanged": "2024-02-20T10:59:09.2469828+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:50.9119865+00:00",
   "LastUpdate_AppInfo": "2024-02-14T14:57:18.6552582+00:00",
-  "LastUpdate_Ratings": "2024-02-20T09:57:23.8892152+00:00",
+  "LastUpdate_Ratings": "2024-02-20T10:59:09.2469834+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:50.9119882+00:00"
 }
