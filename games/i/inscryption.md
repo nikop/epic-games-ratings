@@ -1,12 +1,12 @@
 # Inscryption
 [Store](https://store.epicgames.com/en-US/p/inscryption-6b29ab)  
 [View Rawdata](../../db/i/inscryption.json)  
-Rating: 4.86 (Ranked 30)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 771  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 365  (Ranked 253)  
+Max (Challenging Puzzles): 365  (Ranked 254)  
 Sum: 435 (Ranked 366)  
-Diff (max vs sum): -113  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 365 |
