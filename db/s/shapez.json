@@ -4,7 +4,7 @@
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 205,
   "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 483,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -508,10 +508,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-02-20T02:12:25.6560197+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 97,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 96,
+  "NumberOfAwards": 97,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -525,7 +531,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
@@ -558,8 +564,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-02-18T08:58:35.6411771+00:00",
+  "LastChanged": "2024-02-20T02:12:25.6560195+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:58:02.2867842+00:00",
-  "LastUpdate_Ratings": "2024-02-20T00:01:41.9041044+00:00",
+  "LastUpdate_Ratings": "2024-02-20T02:12:25.6560201+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:07.9998042+00:00"
 }
