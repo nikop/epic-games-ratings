@@ -3,8 +3,8 @@
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
   "Ranking_Rating": 973,
-  "Ranking_Popularity": 601,
-  "Ranking_PopularitySum": 601,
+  "Ranking_Popularity": 602,
+  "Ranking_PopularitySum": 602,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 437,
@@ -1071,6 +1071,6 @@
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:05.880023+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:32.4358687+00:00",
-  "LastUpdate_Ratings": "2024-02-20T15:59:15.1941624+00:00",
+  "LastUpdate_Ratings": "2024-02-20T17:57:43.8544439+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:05.8800331+00:00"
 }
