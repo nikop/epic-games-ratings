@@ -125,7 +125,7 @@
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 601 |
 | 113 | [WarmSnow](games/w/warmsnow.md) | 4.78 | 87 | 409 |
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 541 |
-| 126 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,582 | 42 |
+| 126 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,603 | 42 |
 | 126 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.77 | 0 | 601 |
 | 126 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,842 | 37 |
 | 126 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 601 |
