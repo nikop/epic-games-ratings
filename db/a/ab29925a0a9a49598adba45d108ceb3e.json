@@ -2,7 +2,7 @@
   "ID": "ab29925a0a9a49598adba45d108ceb3e",
   "Name": "Lost Castle",
   "ProductSlug": "lost-castle-abb2e2",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 982,
   "Ranking_Popularity": 601,
   "Ranking_PopularitySum": 601,
   "Ranking_EOS_Progress": 856,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2024-02-09T18:59:41.1383276+00:00",
@@ -155,6 +155,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-20T13:02:07.7310638+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -180,7 +186,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-08T18:59:09.7426423+00:00",
   "FirstSeenRating": "2024-02-09T18:59:41.1383273+00:00",
-  "LastChanged": "2024-02-20T07:58:35.4845323+00:00",
+  "LastChanged": "2024-02-20T13:02:07.7310636+00:00",
   "LastUpdate_AppInfo": "2024-02-15T17:57:01.112649+00:00",
-  "LastUpdate_Ratings": "2024-02-20T11:58:42.9705095+00:00"
+  "LastUpdate_Ratings": "2024-02-20T13:02:07.731064+00:00"
 }
