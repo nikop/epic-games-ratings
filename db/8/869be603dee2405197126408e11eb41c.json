@@ -4,7 +4,7 @@
   "ProductSlug": "blocklords-2a2ccd",
   "Ranking_Rating": 776,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1499,10 +1499,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 507,
       "NumberOfAwardsMax": 149
+    },
+    {
+      "Time": "2024-02-20T04:58:18.128936+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 509,
+      "NumberOfAwardsMax": 149
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507,
+  "NumberOfAwards": 509,
   "NumberOfAwardsMax": 149,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1528,7 +1534,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game has Competitive Players",
@@ -1585,8 +1591,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-02-19T20:58:07.4229933+00:00",
+  "LastChanged": "2024-02-20T04:58:18.1289358+00:00",
   "LastUpdate_AppInfo": "2024-02-16T09:57:10.4455733+00:00",
-  "LastUpdate_Ratings": "2024-02-20T03:00:28.7159984+00:00",
+  "LastUpdate_Ratings": "2024-02-20T04:58:18.1289364+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:56.2920095+00:00"
 }
