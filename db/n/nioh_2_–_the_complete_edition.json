@@ -4,7 +4,7 @@
   "ProductSlug": "nioh-2-the-complete-edition",
   "Ranking_Rating": 103,
   "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 123,
+  "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -5900,10 +5900,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7976,
       "NumberOfAwardsMax": 2799
+    },
+    {
+      "Time": "2024-02-20T14:59:00.8214598+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7977,
+      "NumberOfAwardsMax": 2799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7976,
+  "NumberOfAwards": 7977,
   "NumberOfAwardsMax": 2799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5941,7 +5947,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 498
+      "Count": 499
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5991,8 +5997,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2024-02-19T22:57:33.1268371+00:00",
+  "LastChanged": "2024-02-20T14:59:00.8214596+00:00",
   "LastUpdate_AppInfo": "2024-02-17T22:57:04.2154284+00:00",
-  "LastUpdate_Ratings": "2024-02-20T13:57:53.7744307+00:00",
+  "LastUpdate_Ratings": "2024-02-20T14:59:00.8214604+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:54.3880838+00:00"
 }
