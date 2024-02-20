@@ -1,11 +1,11 @@
 # Animation Throwdown: The Quest for Cards
 [Store](https://store.epicgames.com/en-US/p/animation-throwdown-the-quest-for-cards)  
 [View Rawdata](../../db/a/animation_throwdown__the_quest_for_cards.json)  
-Rating: 4.30 (Ranked 894)  
+Rating: 4.31 (Ranked 891)  
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 401  (Ranked 245)  
-Sum: 2,960 (Ranked 191)  
+Sum: 2,961 (Ranked 191)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 54
 | This game is Great for Beginners | 377 |
 | This game has Diverse Characters | 371 |
 | This game has Quickly Understood Controls | 322 |
-| This game is Extremely Fun | 312 |
+| This game is Extremely Fun | 313 |
 | This game has Amazing Characters | 311 |
 | This game is Relaxing | 307 |
 | This game is Highly Recommended | 303 |
@@ -304,3 +304,4 @@ Diff (max vs sum): 54
 | 2024-02-17 | 4.30 | - | 397 | 2,951 |
 | 2024-02-18 | 4.30 | - | 399 | 2,953 |
 | 2024-02-19 | 4.30 | - | 401 | 2,960 |
+| 2024-02-20 | 4.31 | - | 401 | 2,961 |
