@@ -81,7 +81,7 @@
 | 71 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 31 | 533 |
 | 71 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 102 | 385 |
 | 81 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.81 | 0 | 601 |
-| 81 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,260 | 119 |
+| 81 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,262 | 119 |
 | 81 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 601 |
 | 81 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.81 | 96 | 398 |
 | 81 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 601 |
@@ -130,7 +130,7 @@
 | 126 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,842 | 37 |
 | 126 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 601 |
 | 126 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 601 |
-| 126 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,550 | 111 |
+| 126 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,553 | 111 |
 | 126 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.77 | 0 | 601 |
 | 126 | [Outlast](games/o/outlast.md) | 4.77 | 26 | 560 |
 | 126 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 556 | 221 |
@@ -229,7 +229,7 @@
 | 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 594 | 216 |
 | 224 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 582 | 219 |
 | 224 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.70 | 0 | 601 |
-| 224 | [For The King](games/f/for_the_king.md) | 4.70 | 437 | 239 |
+| 224 | [For The King](games/f/for_the_king.md) | 4.70 | 437 | 240 |
 | 224 | [Foretales](games/f/foretales.md) | 4.70 | 0 | 601 |
 | 224 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.70 | 0 | 601 |
 | 224 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,365 | 148 |
@@ -422,7 +422,7 @@
 | 407 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 601 |
 | 407 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.61 | 69 | 437 |
 | 407 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 446 |
-| 407 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 435 | 240 |
+| 407 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 438 | 239 |
 | 407 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.61 | 0 | 601 |
 | 407 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 696 | 202 |
 | 407 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,034 | 40 |
@@ -590,7 +590,7 @@
 | 579 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 601 |
 | 579 | [Sable](games/s/sable.md) | 4.53 | 31 | 533 |
 | 579 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 550 | 222 |
-| 579 | [Verdun](games/v/verdun.md) | 4.53 | 106 | 382 |
+| 579 | [Verdun](games/v/verdun.md) | 4.53 | 107 | 381 |
 | 592 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 223 | 299 |
 | 592 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 601 |
 | 592 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 601 |
@@ -836,21 +836,21 @@
 | 829 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.37 | 159 | 338 |
 | 829 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.37 | 0 | 601 |
 | 829 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.37 | 159 | 338 |
-| 829 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 0 | 601 |
 | 829 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 33 | 526 |
-| 839 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 174 | 328 |
-| 839 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 601 |
-| 839 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,854 | 35 |
-| 839 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.36 | 0 | 601 |
-| 839 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.36 | 58 | 456 |
-| 839 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 601 |
-| 839 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 0 | 601 |
-| 839 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 553 |
-| 839 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 30 | 541 |
-| 839 | [Tacoma](games/t/tacoma.md) | 4.36 | 0 | 601 |
-| 839 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,411 | 90 |
-| 839 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 601 |
-| 839 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 155 | 342 |
+| 838 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 174 | 328 |
+| 838 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 601 |
+| 838 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,854 | 35 |
+| 838 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.36 | 0 | 601 |
+| 838 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.36 | 58 | 456 |
+| 838 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 601 |
+| 838 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 0 | 601 |
+| 838 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 553 |
+| 838 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 30 | 541 |
+| 838 | [Tacoma](games/t/tacoma.md) | 4.36 | 0 | 601 |
+| 838 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,411 | 90 |
+| 838 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 601 |
+| 838 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 0 | 601 |
+| 838 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 155 | 342 |
 | 852 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 601 |
 | 852 | [Core](games/c/core.md) | 4.35 | 794 | 194 |
 | 852 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.35 | 0 | 601 |
