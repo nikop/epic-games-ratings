@@ -478,6 +478,7 @@
 | [Star★Vaders](games/s/star★vaders.md) | 2099-01-01 | - |  | - | - |
 | [StarSim](games/5/5eb69318a2c84bc3905cd67ae6d74835.md) | 2099-01-01 | - |  | - | - |
 | [Starvin Martian](games/1/1255e14898d542979c0257aa9763649c.md) | 2099-01-01 | - |  | - | - |
+| [STEAM TRIGGER](games/6/64ca61f1781f4da1a77163e6eefb8cd9.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Dig](games/a/a204bb2c58bf4cc495fbbc802a5ee782.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Dig 2](games/2/265225bd4d5c45faa16faf2c17a27206.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Quest](games/9/9cbb1921589842ff989f8ff9b6b18b36.md) | 2099-01-01 | - |  | - | - |
