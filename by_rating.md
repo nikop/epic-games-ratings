@@ -564,7 +564,7 @@
 | 561 | [Aztez](games/a/aztez.md) | 4.54 | 21 | 589 |
 | 561 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 602 |
 | 561 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,746 | 137 |
-| 561 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,678 | 39 |
+| 561 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,698 | 39 |
 | 561 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 502 |
 | 561 | [Horace](games/h/horace.md) | 4.54 | 0 | 602 |
 | 561 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 191 | 317 |
