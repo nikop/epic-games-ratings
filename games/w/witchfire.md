@@ -4,8 +4,8 @@
 Rating: 4.60 (Ranked 439)  
 ## Awards
 Max (Challenging Combat): 77  (Ranked 421)  
-Sum: 445 (Ranked 363)  
-Diff (max vs sum): 58  
+Sum: 445 (Ranked 364)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 77 |
