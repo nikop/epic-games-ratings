@@ -1,7 +1,7 @@
 # Hello Neighbor: Hide and Seek
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-hide-and-seek)  
 [View Rawdata](../../db/h/hello_neighbor__hide_and_seek.json)  
-Rating: 4.38 (Ranked 815)  
+Rating: 4.39 (Ranked 804)  
 Number of Ratings: 81  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -102,3 +102,4 @@ Number of Ratings: 81  (23.09.2022)
 | 2024-02-07 | 4.41 | - | 0 | 0 |
 | 2024-02-13 | 4.40 | - | 0 | 0 |
 | 2024-02-15 | 4.38 | - | 0 | 0 |
+| 2024-02-21 | 4.39 | - | 0 | 0 |
