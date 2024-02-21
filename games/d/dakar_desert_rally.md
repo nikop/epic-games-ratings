@@ -3,8 +3,8 @@
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
 Rating: 3.95 (Ranked 1,091)  
 ## Awards
-Max (Relaxing): 23  (Ranked 575)  
-Sum: 65 (Ranked 512)  
+Max (Relaxing): 23  (Ranked 576)  
+Sum: 65 (Ranked 513)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |

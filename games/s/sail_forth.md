@@ -1,7 +1,7 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.41 (Ranked 774)  
+Rating: 4.41 (Ranked 773)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -77,8 +77,8 @@ Completed: 3 (0.00%) (Ranked 414)
 | 2024-01-26 | 347,982 | 3 |
 | 2024-01-27 | 349,665 | 3 |
 ## Awards
-Max (Quickly Understood Controls): 21  (Ranked 589)  
-Sum: 61 (Ranked 516)  
+Max (Quickly Understood Controls): 21  (Ranked 590)  
+Sum: 61 (Ranked 517)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |

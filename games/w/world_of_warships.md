@@ -1,7 +1,7 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 774)  
+Rating: 4.41 (Ranked 773)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-27 | 98,703 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,859  (Ranked 131)  
-Sum: 16,972 (Ranked 74)  
+Sum: 16,976 (Ranked 74)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): 57
 | This game has Competitive Players | 1,787 |
 | This game has Realistic Visuals | 1,644 |
 | This game has Amazing Storytelling | 1,540 |
-| This game has a Competitive Community | 1,476 |
+| This game has a Competitive Community | 1,480 |
 | This game has Amazing Characters | 1,385 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -643,4 +643,4 @@ Diff (max vs sum): 57
 | 2024-02-18 | 4.41 | - | 1,845 | 16,886 |
 | 2024-02-19 | 4.41 | - | 1,848 | 16,913 |
 | 2024-02-20 | 4.41 | - | 1,851 | 16,949 |
-| 2024-02-21 | 4.41 | - | 1,859 | 16,972 |
+| 2024-02-21 | 4.41 | - | 1,859 | 16,976 |

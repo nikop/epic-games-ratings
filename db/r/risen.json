@@ -3,8 +3,8 @@
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
   "Ranking_Rating": 407,
-  "Ranking_Popularity": 603,
-  "Ranking_PopularitySum": 603,
+  "Ranking_Popularity": 604,
+  "Ranking_PopularitySum": 604,
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 311,
@@ -1596,6 +1596,6 @@
   "LastChanged": "2024-02-20T17:57:39.6826782+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:42.5353714+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:31.1981879+00:00",
-  "LastUpdate_Ratings": "2024-02-21T16:57:36.9019303+00:00",
+  "LastUpdate_Ratings": "2024-02-21T17:59:37.6188779+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:42.535401+00:00"
 }
