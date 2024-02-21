@@ -4,7 +4,7 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 897,
   "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1829,10 +1829,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 434,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-02-21T21:59:57.3937315+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 435,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 434,
+  "NumberOfAwards": 435,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1888,7 +1894,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has a Creative Community",
@@ -1909,8 +1915,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-02-21T15:57:37.3974059+00:00",
+  "LastChanged": "2024-02-21T21:59:57.3937314+00:00",
   "LastUpdate_AppInfo": "2024-02-18T05:57:10.2703549+00:00",
-  "LastUpdate_Ratings": "2024-02-21T20:59:59.0838387+00:00",
+  "LastUpdate_Ratings": "2024-02-21T21:59:57.393732+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:30.8555731+00:00"
 }

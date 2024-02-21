@@ -4,7 +4,7 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 21,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -1852,10 +1852,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 998,
       "NumberOfAwardsMax": 639
+    },
+    {
+      "Time": "2024-02-21T21:57:25.7581318+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1000,
+      "NumberOfAwardsMax": 639
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 998,
+  "NumberOfAwards": 1000,
   "NumberOfAwardsMax": 639,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1893,7 +1899,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1943,8 +1949,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-02-20T04:57:51.0707485+00:00",
+  "LastChanged": "2024-02-21T21:57:25.7581316+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:44.1013251+00:00",
-  "LastUpdate_Ratings": "2024-02-21T20:00:00.3054337+00:00",
+  "LastUpdate_Ratings": "2024-02-21T21:57:25.7581321+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:15.9832903+00:00"
 }
