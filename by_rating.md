@@ -133,7 +133,7 @@
 | 126 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,553 | 111 |
 | 126 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.77 | 0 | 602 |
 | 126 | [Outlast](games/o/outlast.md) | 4.77 | 26 | 560 |
-| 126 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 556 | 221 |
+| 126 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 566 | 220 |
 | 126 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 61 | 449 |
 | 126 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 602 |
 | 126 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 163 | 336 |
@@ -432,7 +432,7 @@
 | 407 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 602 |
 | 407 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.61 | 85 | 410 |
 | 407 | [Supraland](games/s/supraland.md) | 4.61 | 7,801 | 57 |
-| 407 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 559 | 220 |
+| 407 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 559 | 221 |
 | 407 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 76 | 422 |
 | 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 364 | 255 |
 | 407 | [Transistor](games/t/transistor.md) | 4.61 | 0 | 602 |
@@ -1118,7 +1118,7 @@
 | 1,116 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.81 | 0 | 602 |
 | 1,116 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 0 | 602 |
 | 1,118 | [Blood of Steel](games/b/blood_of_steel.md) | 3.80 | 0 | 602 |
-| 1,118 | [Spelldrifter](games/s/spelldrifter.md) | 3.80 | 0 | 602 |
+| 1,119 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 602 |
 | 1,120 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.75 | 0 | 602 |
 | 1,120 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 602 |
 | 1,122 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.74 | 0 | 602 |
