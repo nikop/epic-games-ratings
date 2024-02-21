@@ -3,8 +3,8 @@
   "Name": "Dakar Desert Rally",
   "ProductSlug": "dakar-desert-rally",
   "Ranking_Rating": 1091,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -633,18 +633,30 @@
       "Rating": 3.95,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-02-21T01:41:00.5180524+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -659,8 +671,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-02-20T23:58:41.8724789+00:00",
+  "LastChanged": "2024-02-21T01:41:00.5180522+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:03.2275355+00:00",
-  "LastUpdate_Ratings": "2024-02-20T23:58:41.8724795+00:00",
+  "LastUpdate_Ratings": "2024-02-21T01:41:00.5180526+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:42.0209606+00:00"
 }
