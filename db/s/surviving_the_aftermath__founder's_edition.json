@@ -3,7 +3,7 @@
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 804,
-  "Ranking_Popularity": 267,
+  "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 388,
@@ -3664,11 +3664,17 @@
       "Rating": 4.39,
       "NumberOfAwards": 1605,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2024-02-21T13:57:11.8625104+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1609,
+      "NumberOfAwardsMax": 309
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1605,
-  "NumberOfAwardsMax": 305,
+  "NumberOfAwards": 1609,
+  "NumberOfAwardsMax": 309,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3717,7 +3723,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 305
+      "Count": 309
     },
     {
       "Text": "This game has Diverse Characters",
@@ -28735,9 +28741,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2024-02-21T06:57:42.5306448+00:00",
+  "LastChanged": "2024-02-21T13:57:11.8625103+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:56.7704469+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:56:58.3520751+00:00",
-  "LastUpdate_Ratings": "2024-02-21T11:59:23.3059467+00:00",
+  "LastUpdate_Ratings": "2024-02-21T13:57:11.8625108+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:56.7705686+00:00"
 }

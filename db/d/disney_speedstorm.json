@@ -2,9 +2,9 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 773,
+  "Ranking_Rating": 763,
   "Ranking_Popularity": 291,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 26,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-09-30T08:59:17.2887829+00:00",
@@ -3619,10 +3619,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 1494,
       "NumberOfAwardsMax": 237
+    },
+    {
+      "Time": "2024-02-21T13:58:45.6226669+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1423,
+      "NumberOfAwardsMax": 237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1494,
+  "NumberOfAwards": 1423,
   "NumberOfAwardsMax": 237,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -23538,9 +23544,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-02-21T00:00:18.3414284+00:00",
+  "LastChanged": "2024-02-21T13:58:45.6226667+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:13.5273629+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:27.4765355+00:00",
-  "LastUpdate_Ratings": "2024-02-21T12:00:39.4373169+00:00",
+  "LastUpdate_Ratings": "2024-02-21T13:58:45.6226672+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:13.5274398+00:00"
 }
