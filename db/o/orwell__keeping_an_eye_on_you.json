@@ -2,7 +2,7 @@
   "ID": "750dfadbde8445f980601e84434359c5",
   "Name": "Orwell: Keeping an Eye on You",
   "ProductSlug": "orwell-keeping-an-eye-on-you",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 750,
   "Ranking_Popularity": 602,
   "Ranking_PopularitySum": 602,
   "Ranking_EOS_Progress": 856,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:33.0220476+00:00",
@@ -265,6 +265,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-21T03:59:25.1303814+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -283,8 +289,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.201573+00:00",
   "FirstSeenRating": "2023-03-31T05:57:33.0220472+00:00",
-  "LastChanged": "2024-02-13T04:00:25.9257954+00:00",
+  "LastChanged": "2024-02-21T03:59:25.1303812+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:10.2487699+00:00",
-  "LastUpdate_Ratings": "2024-02-21T02:57:45.0996631+00:00",
+  "LastUpdate_Ratings": "2024-02-21T03:59:25.1303818+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:54.6048331+00:00"
 }
