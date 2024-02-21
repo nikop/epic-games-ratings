@@ -3,7 +3,7 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 70,
-  "Ranking_Popularity": 144,
+  "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -12051,11 +12051,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 11104,
       "NumberOfAwardsMax": 1454
+    },
+    {
+      "Time": "2024-02-21T09:57:31.7219514+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11126,
+      "NumberOfAwardsMax": 1464
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11104,
-  "NumberOfAwardsMax": 1454,
+  "NumberOfAwards": 11126,
+  "NumberOfAwardsMax": 1464,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12080,7 +12086,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1454
+      "Count": 1464
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12110,7 +12116,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1426
+      "Count": 1432
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12122,7 +12128,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1346
+      "Count": 1352
     },
     {
       "Text": "This game has a Creative Community",
@@ -12142,8 +12148,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-02-21T02:12:28.6431591+00:00",
+  "LastChanged": "2024-02-21T09:57:31.7219513+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:48.7234268+00:00",
-  "LastUpdate_Ratings": "2024-02-21T07:59:35.3844561+00:00",
+  "LastUpdate_Ratings": "2024-02-21T09:57:31.7219518+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:21.9558321+00:00"
 }

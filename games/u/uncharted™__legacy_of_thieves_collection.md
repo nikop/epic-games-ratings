@@ -3,12 +3,12 @@
 [View Rawdata](../../db/u/uncharted™__legacy_of_thieves_collection.json)  
 Rating: 4.74 (Ranked 170)  
 ## Awards
-Max (Great Boss Battles): 1,064  (Ranked 163)  
-Sum: 1,562 (Ranked 251)  
-Diff (max vs sum): -88  
+Max (Great Boss Battles): 1,067  (Ranked 162)  
+Sum: 1,565 (Ranked 251)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,064 |
+| This game has Great Boss Battles | 1,067 |
 | This game has Amazing Characters | 69 |
 | This game is Relaxing | 68 |
 | This game is Highly Recommended | 65 |
@@ -251,4 +251,4 @@ Diff (max vs sum): -88
 | 2024-02-18 | 4.74 | 1,061 | 1,552 |
 | 2024-02-19 | 4.74 | 1,064 | 1,558 |
 | 2024-02-20 | 4.74 | 1,064 | 1,561 |
-| 2024-02-21 | 4.74 | 1,064 | 1,562 |
+| 2024-02-21 | 4.74 | 1,067 | 1,565 |
