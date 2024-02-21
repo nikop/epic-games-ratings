@@ -19,7 +19,7 @@
 | 17 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 34,237 | 4.73 | 185 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,773 | 4.64 | 354 |
 | 19 | [Dauntless](games/d/dauntless.md) | 26,982 | 4.53 | 579 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 24,802 | 4.89 | 12 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 24,860 | 4.89 | 12 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 22,768 | 4.57 | 506 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,590 | 4.26 | 941 |
 | 23 | [Warframe](games/w/warframe.md) | 21,558 | 4.61 | 407 |
@@ -51,7 +51,7 @@
 | 49 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,897 | 4.56 | 526 |
 | 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 8,557 | 4.74 | 170 |
 | 51 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,393 | 4.84 | 47 |
-| 52 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,286 | 4.69 | 245 |
+| 52 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,296 | 4.69 | 245 |
 | 53 | [Remnant 2](games/r/remnant_2.md) | 8,254 | 4.71 | 205 |
 | 54 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,190 | 4.69 | 245 |
 | 55 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,898 | 4.71 | 205 |
@@ -76,7 +76,7 @@
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,055 | 4.64 | 354 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 5,998 | 4.29 | 906 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,928 | 4.85 | 38 |
-| 77 | [Prey](games/p/prey.md) | 5,922 | 4.63 | 370 |
+| 77 | [Prey](games/p/prey.md) | 5,924 | 4.63 | 370 |
 | 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,865 | 4.07 | 1,062 |
 | 79 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,612 | 4.56 | 526 |
 | 80 | [League of Legends](games/l/league_of_legends.md) | 5,602 | 4.20 | 991 |
@@ -151,7 +151,7 @@
 | 149 | [DOOM 64](games/d/doom_64.md) | 1,315 | 4.66 | 307 |
 | 150 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,263 | 4.69 | 245 |
 | 151 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,233 | 4.76 | 141 |
-| 152 | [EVE Online](games/e/eve_online.md) | 1,198 | 4.24 | 954 |
+| 152 | [EVE Online](games/e/eve_online.md) | 1,199 | 4.24 | 954 |
 | 153 | [Saints Row](games/s/saints_row.md) | 1,185 | 3.89 | 1,103 |
 | 154 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,165 | 4.65 | 331 |
 | 155 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,117 | 4.69 | 245 |
@@ -175,7 +175,7 @@
 | 173 | [Sonic Mania](games/s/sonic_mania.md) | 998 | 4.78 | 112 |
 | 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 987 | 4.75 | 152 |
 | 175 | [Riders Republic](games/r/riders_republic.md) | 954 | 4.75 | 152 |
-| 176 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 949 | 4.65 | 331 |
+| 176 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 952 | 4.65 | 331 |
 | 177 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 919 | 4.45 | 707 |
 | 178 | [The Long Dark](games/t/the_long_dark.md) | 916 | 4.74 | 170 |
 | 179 | [Auto Chess](games/a/auto_chess.md) | 910 | 4.50 | 630 |

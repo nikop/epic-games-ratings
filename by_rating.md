@@ -14,7 +14,7 @@
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 9,742 | 44 |
 | 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 602 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 493 | 229 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 24,802 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 24,860 | 20 |
 | 16 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 23 | 575 |
 | 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,055 | 164 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 602 |
@@ -250,7 +250,7 @@
 | 245 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 602 |
 | 245 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 362 |
 | 245 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,190 | 54 |
-| 245 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,286 | 52 |
+| 245 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,296 | 52 |
 | 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 7,881 | 56 |
 | 245 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,947 | 48 |
 | 245 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 602 |
@@ -348,7 +348,7 @@
 | 331 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 69 | 437 |
 | 331 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 602 |
 | 331 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 0 | 602 |
-| 331 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 949 | 176 |
+| 331 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 952 | 176 |
 | 331 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 350 | 257 |
 | 331 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,549 | 89 |
 | 331 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.65 | 0 | 602 |
@@ -383,7 +383,7 @@
 | 370 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 602 |
 | 370 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,107 | 107 |
 | 370 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 602 |
-| 370 | [Prey](games/p/prey.md) | 4.63 | 5,922 | 77 |
+| 370 | [Prey](games/p/prey.md) | 4.63 | 5,924 | 77 |
 | 370 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 196 | 313 |
 | 370 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 267 |
 | 370 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 36 | 514 |
@@ -958,7 +958,7 @@
 | 954 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.24 | 45 | 488 |
 | 954 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 581 |
 | 954 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 602 |
-| 954 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,198 | 152 |
+| 954 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,199 | 152 |
 | 954 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.24 | 0 | 602 |
 | 954 | [Hellpoint](games/h/hellpoint.md) | 4.24 | 0 | 602 |
 | 954 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.24 | 72 | 431 |
