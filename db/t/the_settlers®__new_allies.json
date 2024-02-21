@@ -1753,11 +1753,17 @@
       "Rating": 3.84,
       "NumberOfAwards": 356,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-02-21T12:59:46.3630792+00:00",
+      "Rating": 3.84,
+      "NumberOfAwards": 357,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 356,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 357,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1776,7 +1782,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 121
+      "Count": 122
     }
   ],
   "EOS_Progressed": 0,
@@ -1791,8 +1797,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2024-02-20T17:58:08.9419284+00:00",
+  "LastChanged": "2024-02-21T12:59:46.363079+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:39.1901611+00:00",
-  "LastUpdate_Ratings": "2024-02-21T11:00:15.3230492+00:00",
+  "LastUpdate_Ratings": "2024-02-21T12:59:46.3630794+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:08.5065325+00:00"
 }
