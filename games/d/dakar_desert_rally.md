@@ -4,12 +4,13 @@
 Rating: 3.95 (Ranked 1,091)  
 ## Awards
 Max (Relaxing): 23  (Ranked 575)  
-Sum: 45 (Ranked 536)  
-Diff (max vs sum): 39  
+Sum: 65 (Ranked 512)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 23 |
 | This game is Highly Recommended | 22 |
+| This game has Competitive Players | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -97,4 +98,4 @@ Diff (max vs sum): 39
 | 2024-02-18 | 4.06 | 0 | 0 |
 | 2024-02-19 | 4.02 | 20 | 20 |
 | 2024-02-20 | 4.00 | 22 | 22 |
-| 2024-02-21 | 3.95 | 23 | 45 |
+| 2024-02-21 | 3.95 | 23 | 65 |
