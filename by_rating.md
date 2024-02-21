@@ -20,7 +20,7 @@
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 604 |
 | 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 282,432 | 5 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 604 |
-| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,628 | 139 |
+| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,630 | 139 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 783 | 195 |
 | 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,273 | 82 |
 | 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 15,832 | 26 |
@@ -147,7 +147,7 @@
 | 141 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,457 | 70 |
 | 141 | [Journey](games/j/journey.md) | 4.76 | 0 | 604 |
 | 141 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 20 | 598 |
-| 141 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,309 | 117 |
+| 141 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,312 | 117 |
 | 141 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,805 | 134 |
 | 141 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 27 | 554 |
 | 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 208 | 309 |
@@ -564,7 +564,7 @@
 | 562 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 604 |
 | 562 | [Aztez](games/a/aztez.md) | 4.54 | 21 | 590 |
 | 562 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 604 |
-| 562 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,746 | 137 |
+| 562 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,750 | 137 |
 | 562 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 11,698 | 39 |
 | 562 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 503 |
 | 562 | [Horace](games/h/horace.md) | 4.54 | 0 | 604 |
@@ -921,7 +921,6 @@
 | 919 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.28 | 0 | 604 |
 | 919 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 60 | 452 |
 | 919 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.28 | 0 | 604 |
-| 919 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 604 |
 | 919 | [Flatout](games/f/flatout.md) | 4.28 | 0 | 604 |
 | 919 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 99 | 391 |
 | 919 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 604 |
@@ -934,14 +933,15 @@
 | 919 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.28 | 0 | 604 |
 | 919 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.28 | 0 | 604 |
 | 919 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.28 | 0 | 604 |
-| 935 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 40 | 498 |
-| 935 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 604 |
-| 935 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 22 | 582 |
-| 935 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 21 | 590 |
-| 935 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,991 | 108 |
-| 935 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 604 |
+| 934 | [ELEX II](games/e/elex_ii.md) | 4.27 | 0 | 604 |
+| 934 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 40 | 498 |
+| 934 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 604 |
+| 934 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 22 | 582 |
+| 934 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 21 | 590 |
+| 934 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,991 | 108 |
+| 934 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 604 |
 | 941 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 604 |
-| 941 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,590 | 22 |
+| 941 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,598 | 22 |
 | 941 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,028 | 96 |
 | 941 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 22 | 582 |
 | 941 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 604 |
@@ -1124,7 +1124,7 @@
 | 1,122 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.74 | 0 | 604 |
 | 1,123 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 0 | 604 |
 | 1,124 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 604 |
-| 1,125 | [Redfall](games/r/redfall.md) | 3.65 | 37 | 511 |
+| 1,125 | [Redfall](games/r/redfall.md) | 3.64 | 37 | 511 |
 | 1,126 | [Adios](games/a/adios.md) | 3.56 | 0 | 604 |
 | 1,127 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.55 | 0 | 604 |
 | 1,128 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.53 | 0 | 604 |
