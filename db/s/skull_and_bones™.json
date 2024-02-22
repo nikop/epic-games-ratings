@@ -4,7 +4,7 @@
   "ProductSlug": "skull-and-bones",
   "Ranking_Rating": 999,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 350,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -157,10 +157,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 508,
       "NumberOfAwardsMax": 486
+    },
+    {
+      "Time": "2024-02-22T05:00:58.6144523+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 533,
+      "NumberOfAwardsMax": 486
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 508,
+  "NumberOfAwards": 533,
   "NumberOfAwardsMax": 486,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -175,6 +181,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -189,8 +201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-16T05:01:19.7778357+00:00",
   "FirstSeenRating": "2024-02-16T20:00:02.6134347+00:00",
-  "LastChanged": "2024-02-22T03:59:45.1397624+00:00",
+  "LastChanged": "2024-02-22T05:00:58.6144521+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:24.6104849+00:00",
-  "LastUpdate_Ratings": "2024-02-22T03:59:45.139763+00:00",
+  "LastUpdate_Ratings": "2024-02-22T05:00:58.6144525+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:14.387702+00:00"
 }

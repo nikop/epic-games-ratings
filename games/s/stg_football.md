@@ -1,10 +1,10 @@
 # STG Football
 [Store](https://store.epicgames.com/en-US/p/superteam-football-6ce66c)  
 [View Rawdata](../../db/s/stg_football.json)  
-Rating: 4.43 (Ranked 749)  
+Rating: 4.43 (Ranked 748)  
 ## Awards
 Max (Great for Beginners): 53  (Ranked 464)  
-Sum: 392 (Ranked 375)  
+Sum: 393 (Ranked 375)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 89
 | This game is Great for Quick Sessions | 44 |
 | This game is Extremely Fun | 38 |
 | This game has Diverse Characters | 37 |
-| This game is Highly Recommended | 35 |
+| This game is Highly Recommended | 36 |
 | This game has Quickly Understood Controls | 34 |
 | This game has a Competitive Community | 34 |
 | This game has Amazing Characters | 31 |
@@ -149,3 +149,4 @@ Diff (max vs sum): 89
 | 2024-02-06 | 4.43 | 53 | 389 |
 | 2024-02-08 | 4.43 | 53 | 390 |
 | 2024-02-09 | 4.43 | 53 | 392 |
+| 2024-02-22 | 4.43 | 53 | 393 |

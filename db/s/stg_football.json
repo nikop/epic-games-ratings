@@ -2,7 +2,7 @@
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
   "ProductSlug": "superteam-football-6ce66c",
-  "Ranking_Rating": 749,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 856,
@@ -868,10 +868,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 392,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-02-22T04:59:34.0207735+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 393,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392,
+  "NumberOfAwards": 393,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -897,7 +903,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Diverse Characters",
@@ -960,8 +966,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2024-02-09T14:57:52.3309889+00:00",
+  "LastChanged": "2024-02-22T04:59:34.0207734+00:00",
   "LastUpdate_AppInfo": "2024-02-18T05:57:09.1601972+00:00",
-  "LastUpdate_Ratings": "2024-02-22T03:58:19.7056001+00:00",
+  "LastUpdate_Ratings": "2024-02-22T04:59:34.0207739+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:53.3448552+00:00"
 }
