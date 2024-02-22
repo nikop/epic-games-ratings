@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 21,
   "Ranking_Popularity": 195,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 119,
@@ -1710,10 +1710,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1193,
       "NumberOfAwardsMax": 783
+    },
+    {
+      "Time": "2024-02-22T02:57:38.6591133+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1194,
+      "NumberOfAwardsMax": 783
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1193,
+  "NumberOfAwards": 1194,
   "NumberOfAwardsMax": 783,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1727,7 +1733,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Extremely Fun",
@@ -30427,9 +30433,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-02-20T16:58:05.1258514+00:00",
+  "LastChanged": "2024-02-22T02:57:38.6591131+00:00",
   "LastChanged_Achievements": "2024-01-27T13:10:27.6029974+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:53.2294958+00:00",
-  "LastUpdate_Ratings": "2024-02-22T01:39:25.5931234+00:00",
+  "LastUpdate_Ratings": "2024-02-22T02:57:38.6591136+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:27.6031775+00:00"
 }
