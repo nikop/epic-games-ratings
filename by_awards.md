@@ -32,7 +32,7 @@
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,607 | 4.44 | 726 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,590 | 4.84 | 48 |
 | 32 | [Maneater](games/m/maneater.md) | 14,013 | 4.49 | 651 |
-| 33 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 13,632 | 4.58 | 477 |
+| 33 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 13,656 | 4.58 | 477 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,429 | 4.45 | 707 |
 | 35 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,854 | 4.36 | 838 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,981 | 4.69 | 245 |
@@ -74,7 +74,7 @@
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,331 | 4.78 | 112 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,146 | 4.66 | 307 |
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,055 | 4.64 | 353 |
-| 75 | [Rogue Company](games/r/rogue_company.md) | 5,998 | 4.29 | 907 |
+| 75 | [Rogue Company](games/r/rogue_company.md) | 6,002 | 4.29 | 907 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,928 | 4.85 | 38 |
 | 77 | [Prey](games/p/prey.md) | 5,924 | 4.63 | 369 |
 | 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,866 | 4.07 | 1,062 |
@@ -103,8 +103,8 @@
 | 101 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,505 | 4.76 | 141 |
 | 102 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,504 | 4.57 | 506 |
 | 103 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,486 | 4.49 | 651 |
-| 104 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,360 | 4.57 | 506 |
-| 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,359 | 4.19 | 999 |
+| 104 | [Gotham Knights](games/g/gotham_knights.md) | 3,364 | 4.19 | 999 |
+| 105 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,360 | 4.57 | 506 |
 | 106 | [Among Us](games/a/among_us.md) | 3,157 | 4.56 | 526 |
 | 107 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 3,123 | 4.63 | 369 |
 | 108 | [RAGE 2](games/r/rage_2.md) | 2,991 | 4.27 | 934 |
@@ -187,7 +187,7 @@
 | 185 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 892 | 4.69 | 245 |
 | 186 | [Frostpunk](games/f/frostpunk.md) | 887 | 4.74 | 168 |
 | 187 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 831 | 4.74 | 168 |
-| 188 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 820 | 4.66 | 307 |
+| 188 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 821 | 4.66 | 307 |
 | 189 | [Brawlhalla](games/b/brawlhalla.md) | 814 | 4.59 | 460 |
 | 190 | [Subnautica](games/s/subnautica.md) | 813 | 4.85 | 38 |
 | 191 | [Neverwinter](games/n/neverwinter.md) | 811 | 4.29 | 907 |
@@ -201,7 +201,7 @@
 | 199 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 727 | 4.59 | 460 |
 | 199 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 727 | 4.59 | 460 |
 | 201 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 705 | 4.62 | 389 |
-| 202 | [Prison Architect](games/p/prison_architect.md) | 699 | 4.61 | 407 |
+| 202 | [Prison Architect](games/p/prison_architect.md) | 704 | 4.61 | 407 |
 | 203 | [Blazing Sails](games/b/blazing_sails.md) | 684 | 3.96 | 1,086 |
 | 204 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 683 | 4.50 | 630 |
 | 205 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 664 | 4.69 | 245 |
@@ -304,7 +304,7 @@
 | 302 | [Unrailed!](games/u/unrailed!.md) | 220 | 4.64 | 353 |
 | 303 | [Pinball FX](games/p/pinball_fx.md) | 219 | 4.07 | 1,062 |
 | 304 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 218 | 4.70 | 224 |
-| 305 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 216 | 4.58 | 477 |
+| 305 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 217 | 4.58 | 477 |
 | 306 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 214 | 4.85 | 38 |
 | 307 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 210 | 4.52 | 593 |
 | 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 209 | 4.35 | 852 |

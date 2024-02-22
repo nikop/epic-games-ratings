@@ -323,7 +323,7 @@
 | 307 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,969 | 127 |
 | 307 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 604 | 213 |
 | 307 | [SOMA](games/s/soma.md) | 4.66 | 0 | 605 |
-| 307 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 820 | 188 |
+| 307 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 821 | 188 |
 | 307 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.66 | 80 | 414 |
 | 307 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,146 | 73 |
 | 307 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 239 |
@@ -423,7 +423,7 @@
 | 407 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 448 |
 | 407 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 438 | 241 |
 | 407 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.61 | 0 | 605 |
-| 407 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 699 | 202 |
+| 407 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 704 | 202 |
 | 407 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,049 | 40 |
 | 407 | [Risen](games/r/risen.md) | 4.61 | 0 | 605 |
 | 407 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,116 | 156 |
@@ -479,10 +479,10 @@
 | 477 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 491 |
 | 477 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 66,974 | 12 |
 | 477 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.58 | 0 | 605 |
-| 477 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 216 | 305 |
+| 477 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 217 | 305 |
 | 477 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 555 |
 | 477 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 605 |
-| 477 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 13,632 | 33 |
+| 477 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 13,656 | 33 |
 | 477 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 276 | 282 |
 | 477 | [GRIT](games/g/grit.md) | 4.58 | 0 | 605 |
 | 477 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 64 | 447 |
@@ -515,7 +515,7 @@
 | 506 | [Hue](games/h/hue.md) | 4.57 | 0 | 605 |
 | 506 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 240 | 290 |
 | 506 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 4.57 | 26 | 562 |
-| 506 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,360 | 104 |
+| 506 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,360 | 105 |
 | 506 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 605 |
 | 506 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,504 | 102 |
 | 506 | [Returnal™](games/r/returnal™.md) | 4.57 | 190 | 319 |
@@ -914,7 +914,7 @@
 | 907 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.29 | 0 | 605 |
 | 907 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 811 | 191 |
 | 907 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 172 | 332 |
-| 907 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 5,998 | 75 |
+| 907 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 6,002 | 75 |
 | 907 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 130 | 363 |
 | 907 | [Steelrising](games/s/steelrising.md) | 4.29 | 40 | 499 |
 | 907 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 0 | 605 |
@@ -999,7 +999,7 @@
 | 991 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,610 | 80 |
 | 991 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.20 | 184 | 321 |
 | 999 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 477 |
-| 999 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,359 | 105 |
+| 999 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,364 | 104 |
 | 999 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 414 |
 | 999 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 605 |
 | 999 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.19 | 486 | 232 |
