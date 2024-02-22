@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | - |  | - | - |
-| [Vacation Adventures Park Ranger 12 Collectors Edition](games/b/b1ed6088386f4865a733ce52b3bc3e5c.md) | 2024-02-22 | - |  | - | - |
 | [Inkulinati](games/3/3017522a6faa4fd4a8f16d5e2899fe69.md) | 2024-02-22 | - |  | - | - |
 | [1001 Jigsaw. World Tour: Australian Puzzles](games/a/aa3cf4b6b9d8471fb8474f19ce118ac2.md) | 2024-02-22 | - |  | - | - |
 | [Alpha League](games/e/e7d3d2bfe6a44e2cab8b2348f1572591.md) | 2024-02-23 | - |  | - | - |

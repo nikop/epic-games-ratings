@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Pacific Drive: Deluxe Edition](games/p/pacific_drive.md) | 2024-02-22 | - |  | - | - |
+| [Vacation Adventures Park Ranger 12 Collectors Edition](games/b/b1ed6088386f4865a733ce52b3bc3e5c.md) | 2024-02-22 | - |  | - | - |
 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2024-02-21 | - |  | - | 0 |
 | [DURATION](games/e/ef7f37c5751047a9bcc79a379bc79156.md) | 2024-02-21 | - |  | - | - |
 | [Deadly Broadcast](games/2/26f95abaabab4e63b390242ba69111c3.md) | 2024-02-21 | - |  | - | - |
@@ -98,4 +100,3 @@
 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | - |  | - | 0 |
 | [John Mambo](games/f/fa0a56fac4a44c1d9288fa257d4a9681.md) | 2024-01-23 | - |  | - | 0 |
 | [Lil' Guardsman](games/3/33fcce6151b249118a2b7d79c1dfe6b1.md) | 2024-01-23 | 48 (1,000 XP) | 13 | - | 0 |
-| [Howl](games/h/howl.md) | 2024-01-23 | 16 (1,000 XP) | 3 | - | 0 |
