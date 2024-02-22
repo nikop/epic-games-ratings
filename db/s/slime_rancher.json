@@ -4,7 +4,7 @@
   "ProductSlug": "slime-rancher",
   "Ranking_Rating": 70,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -4637,10 +4637,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3499,
       "NumberOfAwardsMax": 477
+    },
+    {
+      "Time": "2024-02-22T19:01:14.5968859+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3500,
+      "NumberOfAwardsMax": 477
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3499,
+  "NumberOfAwards": 3500,
   "NumberOfAwardsMax": 477,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4654,7 +4660,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 388
+      "Count": 389
     },
     {
       "Text": "This game is Relaxing",
@@ -4728,8 +4734,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2024-02-21T17:58:09.1141451+00:00",
+  "LastChanged": "2024-02-22T19:01:14.5968857+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:57:04.2883101+00:00",
-  "LastUpdate_Ratings": "2024-02-22T17:59:00.9570342+00:00",
+  "LastUpdate_Ratings": "2024-02-22T19:01:14.5968862+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:55.2753238+00:00"
 }

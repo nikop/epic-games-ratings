@@ -4,7 +4,7 @@
   "ProductSlug": "saints-row-the-third-remastered",
   "Ranking_Rating": 776,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -2735,10 +2735,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 3199,
       "NumberOfAwardsMax": 2272
+    },
+    {
+      "Time": "2024-02-22T19:00:50.7938662+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3200,
+      "NumberOfAwardsMax": 2272
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3199,
+  "NumberOfAwards": 3200,
   "NumberOfAwardsMax": 2272,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2794,7 +2800,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2826,8 +2832,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2024-02-21T21:57:39.4269309+00:00",
+  "LastChanged": "2024-02-22T19:00:50.7938661+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:10.5252382+00:00",
-  "LastUpdate_Ratings": "2024-02-22T17:58:44.6641302+00:00",
+  "LastUpdate_Ratings": "2024-02-22T19:00:50.7938667+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:44.2316974+00:00"
 }

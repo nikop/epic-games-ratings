@@ -2,8 +2,8 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 828,
-  "Ranking_Popularity": 339,
+  "Ranking_Rating": 837,
+  "Ranking_Popularity": 338,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-09-28T19:59:46.8251256+00:00",
@@ -1867,18 +1867,24 @@
       "Rating": 4.37,
       "NumberOfAwards": 651,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2024-02-22T18:57:52.7542314+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 654,
+      "NumberOfAwardsMax": 161
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 651,
-  "NumberOfAwardsMax": 159,
+  "NumberOfAwards": 654,
+  "NumberOfAwardsMax": 161,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 159
+      "Count": 161
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1914,7 +1920,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
@@ -1955,9 +1961,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-02-22T16:59:21.2664409+00:00",
+  "LastChanged": "2024-02-22T18:57:52.7542312+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:24.8391144+00:00",
   "LastUpdate_AppInfo": "2024-02-21T09:57:16.3598667+00:00",
-  "LastUpdate_Ratings": "2024-02-22T16:59:21.2664414+00:00",
+  "LastUpdate_Ratings": "2024-02-22T18:57:52.7542317+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:24.8391161+00:00"
 }
