@@ -1,5 +1,5 @@
 {
-  "CatalogLastModifiedDate": "2024-02-22T13:29:54.74+00:00",
+  "CatalogLastModifiedDate": "2024-02-22T14:55:24.551+00:00",
   "KnownCustomAttributes": {
     "isManuallySetViewableDate": {
       "KnownValues": {
@@ -96,7 +96,8 @@
     },
     "isPromotionalContentUsed": {
       "KnownValues": {
-        "null": "a2a68ba87f494656b676de3a268dcf2a"
+        "null": "a2a68ba87f494656b676de3a268dcf2a",
+        "false": "4ccef3d9b96a4839ab46a6e83ddc6e61"
       }
     }
   }

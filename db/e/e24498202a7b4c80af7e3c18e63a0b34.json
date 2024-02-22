@@ -2,7 +2,7 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 204,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 195,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2023-09-26T18:04:36.0445809+00:00",
@@ -257,6 +257,12 @@
     {
       "Time": "2024-02-18T20:59:15.006043+00:00",
       "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-22T14:58:34.1134953+00:00",
+      "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -10822,9 +10828,9 @@
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged": "2024-02-18T20:59:15.0060428+00:00",
+  "LastChanged": "2024-02-22T14:58:34.1134951+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:17.3662452+00:00",
   "LastUpdate_AppInfo": "2024-02-16T03:56:52.5681151+00:00",
-  "LastUpdate_Ratings": "2024-02-22T13:57:28.3762142+00:00",
+  "LastUpdate_Ratings": "2024-02-22T14:58:34.1134956+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:17.3663019+00:00"
 }
