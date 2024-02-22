@@ -4,7 +4,7 @@
   "ProductSlug": "spiritfarer",
   "Ranking_Rating": 21,
   "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 481,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -478,6 +478,6 @@
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
   "LastChanged": "2024-01-21T15:57:24.4560327+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:57:12.8348877+00:00",
-  "LastUpdate_Ratings": "2024-02-22T16:58:25.4826143+00:00",
+  "LastUpdate_Ratings": "2024-02-22T18:00:18.4878749+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:38.9990669+00:00"
 }

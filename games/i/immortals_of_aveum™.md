@@ -176,8 +176,8 @@ Completed: 6 (0.17%) (Ranked 298)
 | 2024-01-26 | 3,618 | 6 |
 | 2024-01-27 | 3,623 | 6 |
 ## Awards
-Max (Quickly Understood Controls): 28  (Ranked 552)  
-Sum: 95 (Ranked 489)  
+Max (Quickly Understood Controls): 28  (Ranked 553)  
+Sum: 95 (Ranked 490)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
