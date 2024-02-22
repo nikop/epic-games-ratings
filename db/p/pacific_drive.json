@@ -1,6 +1,6 @@
 {
   "ID": "d6d8a7241f6841a8823f5a533a1564da",
-  "Name": "Pacific Drive",
+  "Name": "Pacific Drive: Deluxe Edition",
   "ProductSlug": "pacific-drive",
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
@@ -13,9 +13,7 @@
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {
-      "isPrepurchase": "true"
-    }
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -31,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-17T22:57:06.047599+00:00",
-  "LastUpdate_Ratings": "2024-02-22T07:58:41.1590115+00:00",
+  "LastUpdate_Ratings": "2024-02-22T09:00:38.5020836+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:15.2531497+00:00"
 }
