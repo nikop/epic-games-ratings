@@ -3,7 +3,7 @@
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
   "Ranking_Rating": 677,
-  "Ranking_Popularity": 100,
+  "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 388,
@@ -3153,18 +3153,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 8544,
       "NumberOfAwardsMax": 3640
+    },
+    {
+      "Time": "2024-02-21T23:57:08.2046363+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8546,
+      "NumberOfAwardsMax": 3642
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8544,
-  "NumberOfAwardsMax": 3640,
+  "NumberOfAwards": 8546,
+  "NumberOfAwardsMax": 3642,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3640
+      "Count": 3642
     },
     {
       "Text": "This game has Diverse Characters",
@@ -19279,9 +19285,9 @@
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2024-02-20T04:59:52.2773451+00:00",
+  "LastChanged": "2024-02-21T23:57:08.2046358+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:21.2813402+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:15.1465771+00:00",
-  "LastUpdate_Ratings": "2024-02-21T21:59:23.9848157+00:00",
+  "LastUpdate_Ratings": "2024-02-21T23:57:08.2046365+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:21.2814289+00:00"
 }
