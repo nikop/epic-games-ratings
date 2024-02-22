@@ -98,5 +98,3 @@
 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2024-01-23 | 27 (1,000 XP) | 2 | - | - |
 | [Troma Presents Poultrygeist](games/9/956f0252b6b941c5a724faa53ff8ea73.md) | 2024-01-23 | - |  | - | - |
 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | - |  | - | 0 |
-| [John Mambo](games/f/fa0a56fac4a44c1d9288fa257d4a9681.md) | 2024-01-23 | - |  | - | 0 |
-| [Lil' Guardsman](games/3/33fcce6151b249118a2b7d79c1dfe6b1.md) | 2024-01-23 | 48 (1,000 XP) | 13 | - | 0 |

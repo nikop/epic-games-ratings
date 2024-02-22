@@ -62,6 +62,7 @@
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-03-31 | - |  | - | - |
 | [Project Apidom](games/5/551b8ecaa91c4369b87dc68c131cd7ae.md) | 2024-03-31 | - |  | - | - |
 | [Repression](games/0/0bcd77c68cff407a9628730bb61f639d.md) | 2024-03-31 | - |  | - | - |
+| [Revival: Recolonization](games/4/4ccef3d9b96a4839ab46a6e83ddc6e61.md) | 2024-03-31 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-03-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-03-31 | - |  | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-03-31 | - |  | - | - |
