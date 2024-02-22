@@ -2,7 +2,7 @@
   "ID": "e4af596d707e4cea8269a78a201a39eb",
   "Name": "SHRAPNEL",
   "ProductSlug": "shrapnel-e59542",
-  "Ranking_Rating": 1130,
+  "Ranking_Rating": 1131,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 856,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.42,
+  "Rating": 3.4,
   "RatingHistory": [
     {
       "Time": "2024-02-09T02:59:46.6661194+00:00",
@@ -119,6 +119,12 @@
       "Rating": 3.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-22T19:58:57.4154917+00:00",
+      "Rating": 3.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -137,8 +143,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-07T21:57:27.054712+00:00",
   "FirstSeenRating": "2024-02-09T02:59:46.6661192+00:00",
-  "LastChanged": "2024-02-22T18:58:13.9584064+00:00",
+  "LastChanged": "2024-02-22T19:58:57.4154916+00:00",
   "LastUpdate_AppInfo": "2024-02-16T07:57:14.6853977+00:00",
-  "LastUpdate_Ratings": "2024-02-22T18:58:13.9584072+00:00",
+  "LastUpdate_Ratings": "2024-02-22T19:58:57.4154926+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:10:14.9330981+00:00"
 }
