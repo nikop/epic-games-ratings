@@ -390,7 +390,7 @@
 | 388 | [Art of Rally](games/a/art_of_rally_1.md) | 0.01% |
 | 388 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 0.01% |
 | 388 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 388 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 388 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 388 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
 | 388 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
 | 388 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |

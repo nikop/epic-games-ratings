@@ -20,7 +20,7 @@
 | 18 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 921,340 | 18 |
 | 19 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 897,259 | 255 |
 | 20 | [Saints Row](games/s/saints_row.md) | 876,272 | 121 |
-| 21 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 829,753 | 70 |
+| 21 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 829,753 | 70 |
 | 22 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 819,386 | 54 |
 | 23 | [Dead Island 2](games/d/dead_island_2.md) | 810,233 | 2,646 |
 | 24 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 784,162 | 143 |

@@ -9,7 +9,7 @@
 | 7 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 20,937 | 921,340 |
 | 8 | [Destiny 2](games/d/destiny_2.md) | 16,105 | 1,396,094 |
 | 9 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 15,771 | 318,907 |
-| 10 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 15,372 | 829,753 |
+| 10 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 15,372 | 829,753 |
 | 11 | [DEATH STRANDING](games/d/death_stranding.md) | 14,409 | 4,024,561 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 12,026 | 4,186,097 |
 | 13 | [Dead by Daylight](games/d/dead_by_daylight.md) | 11,097 | 1,197,359 |
