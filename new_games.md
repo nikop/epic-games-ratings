@@ -96,5 +96,3 @@
 | [Fairytale Solitaire: Red Riding Hood](games/4/4f08134bd1c74665a7372714be114f6a.md) | 2024-01-23 | - |  | - | 0 |
 | [In The Gym](games/0/03aba521977a4c4d9c550a15ffcb35cc.md) | 2024-01-23 | - |  | - | - |
 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2024-01-23 | 27 (1,000 XP) | 2 | - | - |
-| [Troma Presents Poultrygeist](games/9/956f0252b6b941c5a724faa53ff8ea73.md) | 2024-01-23 | - |  | - | - |
-| [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | - |  | - | 0 |
