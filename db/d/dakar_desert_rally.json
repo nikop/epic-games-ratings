@@ -2,9 +2,9 @@
   "ID": "ac98aa34584648f2b71152e509191c1c",
   "Name": "Dakar Desert Rally",
   "ProductSlug": "dakar-desert-rally",
-  "Ranking_Rating": 1095,
+  "Ranking_Rating": 1091,
   "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 514,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 856,
   "Ranking_EOS_Completed": 414,
   "Ranking_EOS_NewPlayers": 530,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.94,
+  "Rating": 3.95,
   "RatingHistory": [
     {
       "Time": "2023-01-07T16:56:50.8716043+00:00",
@@ -651,18 +651,24 @@
       "Rating": 3.94,
       "NumberOfAwards": 65,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-02-22T09:57:51.3533916+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65,
+  "NumberOfAwards": 87,
   "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Relaxing",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
@@ -675,6 +681,12 @@
       "Prefix": "This game has",
       "Type": "Competitive Players",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -689,8 +701,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-02-22T02:59:01.4243773+00:00",
+  "LastChanged": "2024-02-22T09:57:51.3533914+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:03.2275355+00:00",
-  "LastUpdate_Ratings": "2024-02-22T08:00:37.6534876+00:00",
+  "LastUpdate_Ratings": "2024-02-22T09:57:51.3533918+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:42.0209606+00:00"
 }

@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.92 (Ranked 1,098)  
+Rating: 3.92 (Ranked 1,097)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -253,8 +253,8 @@ Completed: 12 (0.60%) (Ranked 218)
 | 2024-01-27 | 1,984 | 12 |
 ## Awards
 Max (Character Customization): 75  (Ranked 425)  
-Sum: 75 (Ranked 504)  
-Diff (max vs sum): -79  
+Sum: 75 (Ranked 505)  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 75 |
