@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 301,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.6968938+00:00",
@@ -65,6 +65,12 @@
     {
       "Time": "2024-02-21T15:59:29.942096+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-22T16:00:42.0536011+00:00",
+      "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4890,9 +4896,9 @@
   "FirstSeen": "2023-02-23T19:57:35.9957332+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
-  "LastChanged": "2024-02-21T15:59:29.9420958+00:00",
+  "LastChanged": "2024-02-22T16:00:42.053601+00:00",
   "LastChanged_Achievements": "2024-01-27T13:11:33.0558589+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:56:56.0453945+00:00",
-  "LastUpdate_Ratings": "2024-02-22T14:59:40.6002167+00:00",
+  "LastUpdate_Ratings": "2024-02-22T16:00:42.053602+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:11:33.0558938+00:00"
 }
