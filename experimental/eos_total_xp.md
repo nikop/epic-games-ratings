@@ -1,11 +1,11 @@
 | Game | Total Achievements | Total XP |
 | ---- | ------------------ | -------- |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 |
-| [Dead by Daylight](../games/d/dead_by_daylight.md) | 232 | 5,585 |
+| [Dead by Daylight](../games/d/dead_by_daylight.md) | 235 | 5,665 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 363 | 5,330 |
 | [Old World](../games/o/old_world.md) | 358 | 3,440 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 546 | 2,730 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 558 | 2,790 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](../games/s/star_wars™_battlefront™_ultimate_edition.md) | 63 | 2,000 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
@@ -15,6 +15,7 @@
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 |
+| [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 65 | 1,500 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
@@ -25,6 +26,7 @@
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](../games/5/5aab0660c2db4caa8a535d267a84633c.md) | 269 | 1,345 |
 | [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 43 | 1,300 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |
 | [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |
@@ -37,14 +39,15 @@
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 36 | 1,230 |
+| [GRIME](../games/g/grime.md) | 46 | 1,210 |
+| [Terraforming Mars](../games/t/terraforming_mars.md) | 35 | 1,210 |
 | [Dying Light 2 Stay Human - Reloaded Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
-| [GRIME](../games/g/grime.md) | 45 | 1,200 |
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 |
+| [Pinball FX](../games/p/pinball_fx.md) | 40 | 1,200 |
 | [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
-| [Pinball FX](../games/p/pinball_fx.md) | 39 | 1,180 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
@@ -54,11 +57,11 @@
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 34 | 1,100 |
+| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 49 | 1,080 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Mega City Force](../games/m/mega_city_police.md) | 27 | 1,050 |
-| [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 46 | 1,045 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](../games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 43 | 1,045 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
 | ['n Verlore Verstand](../games/'/'n_verlore_verstand.md) | 48 | 1,000 |
@@ -485,7 +488,6 @@
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
 | [LOVE](../games/6/6a04125b9d884151868aa2c56e84dc11.md) | 18 | 1,000 |
 | [LOVE 3](../games/l/love_3.md) | 22 | 1,000 |
-| [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 42 | 1,000 |
 | [Love Money Rock-n-Roll](../games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 18 | 1,000 |
 | [Love n Life: Lucky Teacher](../games/2/2b5dd29acc2c44a7a958484753530068.md) | 18 | 1,000 |
 | [Love n War: Hero by Chance II Ultimate Edition](../games/c/cec0399345494e7cbd993bc660d95980.md) | 23 | 1,000 |
@@ -612,6 +614,7 @@
 | [Puzzle Compound](../games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 11 | 1,000 |
 | [Q.U.B.E. 10th Anniversary](../games/q/q.u.b.e._10th_anniversary.md) | 24 | 1,000 |
 | [Q.U.B.E. 2](../games/q/q.u.b.e._2.md) | 29 | 1,000 |
+| [qomp2](../games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 12 | 1,000 |
 | [Quake II](../games/a/a5434b28a3ac403e966478e86a839f5b.md) | 13 | 1,000 |
 | [Quantum Recharged](../games/9/9161d1b30f4e4a0cbec5ee398d6e5cd6.md) | 13 | 1,000 |
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
@@ -722,6 +725,7 @@
 | [STAR WARS Jedi: Fallen Order Standard Edition](../games/s/star_wars_jedi__fallen_order_standard_edition.md) | 39 | 1,000 |
 | [STAR WARS Jedi: Survivor™](../games/s/star_wars_jedi__survivor™.md) | 53 | 1,000 |
 | [STAR WARS™: Squadrons](../games/s/star_wars™__squadrons.md) | 47 | 1,000 |
+| [Stargate: Timekeepers](../games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 30 | 1,000 |
 | [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
 | [STASIS : BONE TOTEM](../games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 20 | 1,000 |
 | [SteamWorld Build](../games/s/steamworld_build.md) | 28 | 1,000 |
@@ -768,7 +772,6 @@
 | [Ten Dates](../games/t/ten_dates.md) | 19 | 1,000 |
 | [Tenement](../games/7/78d14ec62d2a41d095ac4facc9278617.md) | 60 | 1,000 |
 | [Terminal Velocity™: Boosted Edition](../games/t/terminal_velocity™__boosted_edition.md) | 32 | 1,000 |
-| [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |
 | [Testament: The Order Of High-Human](../games/3/3c69660cdc2d41aeac310fe3f864eb26.md) | 41 | 1,000 |
