@@ -402,7 +402,7 @@
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 151 | - | 0 |
 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 15,977 | 4.17 | 0 |
 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 2023-06-16 | 45 (1,000 XP) | 817 | - | 0 |
-| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 18,772 | 4.65 | 97 |
+| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 18,772 | 4.65 | 98 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-15 | 5 (1,000 XP) | 180 | - | 0 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 347 | - | 0 |
 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 722 | - | 0 |
@@ -496,7 +496,7 @@
 | [Remains](games/r/remains.md) | 2023-05-03 | 7 (1,000 XP) | 63 | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 54 (1,300 XP) | 3 | - | 0 |
 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 60 (1,400 XP) | 7,306 | 4.63 | 53 |
-| [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,422 | 3.64 | 37 |
+| [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,422 | 3.64 | 38 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 4 | - | - |
 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 2023-05-01 | 60 (1,000 XP) | 5 | - | 0 |
 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 2023-04-30 | 50 (1,000 XP) | 162 | - | 0 |
@@ -611,7 +611,7 @@
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 2023-01-25 | 71 (1,250 XP) | 17,759 | 4.85 | 48 |
 | [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 47,813 | 4.16 | 56 |
 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 2023-01-24 | 19 (1,000 XP) | 175 | - | 0 |
-| [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 2023-01-19 | 26 (1,000 XP) | 17,556 | 3.81 | 0 |
+| [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 2023-01-19 | 26 (1,000 XP) | 17,556 | 3.82 | 0 |
 | [Colossal Cave](games/c/colossal_cave.md) | 2023-01-19 | 24 (1,000 XP) | 108 | - | 0 |
 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 2023-01-18 | 41 (1,000 XP) | 19 | - | 0 |
 | [Model Builder](games/m/model_builder.md) | 2023-01-16 | 70 (1,000 XP) | 1 | 4.13 | 0 |
@@ -689,7 +689,7 @@
 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 2022-09-29 | 24 (1,000 XP) | 30,718 | 4.44 | 28 |
 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 2022-09-26 | 40 (1,000 XP) | 84 | - | 0 |
 | [Potion Permit](games/p/potion_permit.md) | 2022-09-22 | 38 (1,000 XP) | 1,984 | 3.92 | 75 |
-| [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 36,058 | 4.47 | 3,640 |
+| [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 36,058 | 4.47 | 3,642 |
 | [Serial Cleaners](games/s/serial_cleaners.md) | 2022-09-22 | 24 (1,300 XP) | 309 | - | 0 |
 | [ANNO Mutationem](games/a/anno_mutationem.md) | 2022-09-22 | 36 (1,000 XP) | 859 | 4.56 | 0 |
 | [The Outbound Ghost](games/t/the_outbound_ghost.md) | 2022-09-20 | 31 (1,000 XP) | 0 | - | 0 |
