@@ -94,7 +94,7 @@
 | 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 535 |
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 605 |
 | 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 904 | 181 |
-| 94 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,510 | 68 |
+| 94 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,513 | 68 |
 | 94 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.80 | 902 | 182 |
 | 94 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.80 | 0 | 605 |
 | 94 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.80 | 0 | 605 |
@@ -116,7 +116,7 @@
 | 112 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 897 | 183 |
 | 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 267 | 285 |
 | 112 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.78 | 72 | 432 |
-| 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,331 | 72 |
+| 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,332 | 72 |
 | 112 | [Quake](games/q/quake.md) | 4.78 | 53 | 464 |
 | 112 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.78 | 0 | 605 |
 | 112 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 998 | 173 |
@@ -239,7 +239,7 @@
 | 224 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 605 |
 | 224 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 605 |
 | 224 | [The Witness](games/t/the_witness.md) | 4.70 | 189 | 320 |
-| 224 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,900 | 86 |
+| 224 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,902 | 86 |
 | 224 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 605 |
 | 224 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 218 | 304 |
 | 224 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 605 |
@@ -550,7 +550,7 @@
 | 548 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 282 | 280 |
 | 548 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 51 | 474 |
 | 548 | [Duskers](games/d/duskers.md) | 4.55 | 0 | 605 |
-| 548 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,004 | 126 |
+| 548 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,010 | 126 |
 | 548 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 605 |
 | 548 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 36 | 517 |
 | 548 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 38 | 507 |
@@ -733,7 +733,7 @@
 | 726 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 62 | 450 |
 | 726 | [Escape Academy](games/e/escape_academy.md) | 4.44 | 0 | 605 |
 | 726 | [Faeria](games/f/faeria.md) | 4.44 | 118 | 371 |
-| 726 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 302 | 271 |
+| 726 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 304 | 269 |
 | 726 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 605 |
 | 726 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 116 | 374 |
 | 726 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,607 | 30 |
@@ -791,7 +791,7 @@
 | 775 | [Sheltered](games/s/sheltered.md) | 4.41 | 283 | 278 |
 | 775 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 205 | 311 |
 | 775 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 605 |
-| 775 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,859 | 131 |
+| 775 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,864 | 131 |
 | 793 | [Beyond Blue](games/b/beyond_blue.md) | 4.40 | 0 | 605 |
 | 793 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.40 | 0 | 605 |
 | 793 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 605 |
