@@ -5,10 +5,10 @@
   "Ranking_Rating": 307,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 158,
-  "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Progress": 79,
+  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2824,10 +2824,10 @@
       "Count": 263
     }
   ],
-  "EOS_Progressed": 228615,
-  "EOS_Completed": 110,
-  "EOS_NewPlayers": 1500,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 233087,
+  "EOS_Completed": 113,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -35349,6 +35349,11 @@
       "Time": "2024-01-27T13:09:42.5733981+00:00",
       "NumProgressed": 228615,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-02-22T21:03:54.1141805+00:00",
+      "NumProgressed": 233087,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 44,
@@ -35360,7 +35365,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 25148
+      "UsersEstimate": 25640
     },
     {
       "ID": "AtheistOx",
@@ -35368,7 +35373,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4662
     },
     {
       "ID": "ChickenDinner",
@@ -35376,15 +35381,15 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 233
     },
     {
       "ID": "Chunin",
       "SetID": "ak6bfk8",
       "Name": "Chunin",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13717
+      "UsersEstimate": 16316
     },
     {
       "ID": "CompleteMastery",
@@ -35392,15 +35397,15 @@
       "Name": "Complete Mastery",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 466
     },
     {
       "ID": "Disguised",
       "SetID": "ak6bfk8",
       "Name": "Disguised",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20575
+      "UsersEstimate": 23309
     },
     {
       "ID": "FiveShadows",
@@ -35408,15 +35413,15 @@
       "Name": "Five Shadows",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 932
     },
     {
       "ID": "FlyingRocks",
       "SetID": "ak6bfk8",
       "Name": "Flying Rocks",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13717
+      "UsersEstimate": 16316
     },
     {
       "ID": "GearUp",
@@ -35424,7 +35429,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9145
+      "UsersEstimate": 9323
     },
     {
       "ID": "Genin",
@@ -35432,7 +35437,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27434
+      "UsersEstimate": 27970
     },
     {
       "ID": "HappyLittleAccidents",
@@ -35440,15 +35445,15 @@
       "Name": "Happy little accidents",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11431
+      "UsersEstimate": 11654
     },
     {
       "ID": "HappyPlanning",
       "SetID": "ak6bfk8",
       "Name": "Happy Planning",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16003
+      "UsersEstimate": 18647
     },
     {
       "ID": "HighFiveTheMoon",
@@ -35456,7 +35461,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2098
     },
     {
       "ID": "IceIceYuki",
@@ -35464,7 +35469,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18289
+      "UsersEstimate": 18647
     },
     {
       "ID": "ItsRainingMen",
@@ -35472,7 +35477,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6993
     },
     {
       "ID": "Jonin",
@@ -35480,7 +35485,7 @@
       "Name": "Jonin",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18289
+      "UsersEstimate": 18647
     },
     {
       "ID": "Mercyful",
@@ -35488,7 +35493,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1165
     },
     {
       "ID": "Meticulous",
@@ -35496,7 +35501,7 @@
       "Name": "Meticulous",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2331
     },
     {
       "ID": "Mimimi",
@@ -35504,7 +35509,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 233
     },
     {
       "ID": "MugenUnchained",
@@ -35512,7 +35517,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 16003
+      "UsersEstimate": 16316
     },
     {
       "ID": "NoGimmicks",
@@ -35520,7 +35525,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4662
     },
     {
       "ID": "Noboru",
@@ -35528,15 +35533,15 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9145
+      "UsersEstimate": 9323
     },
     {
       "ID": "Okkoto",
       "SetID": "ak6bfk8",
       "Name": "Okkoto",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 11431
+      "UsersEstimate": 13985
     },
     {
       "ID": "OldMan",
@@ -35544,7 +35549,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4662
     },
     {
       "ID": "PraiseTheShogun",
@@ -35552,7 +35557,7 @@
       "Name": "Praise the Shogun",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 466
     },
     {
       "ID": "Prisoners",
@@ -35560,7 +35565,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11431
+      "UsersEstimate": 11654
     },
     {
       "ID": "ReleaseTheKraken",
@@ -35568,7 +35573,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 233
     },
     {
       "ID": "RescueTakuma",
@@ -35576,15 +35581,15 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20575
+      "UsersEstimate": 20978
     },
     {
       "ID": "Rollin",
       "SetID": "ak6bfk8",
       "Name": "Rollin\u0027",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20575
+      "UsersEstimate": 23309
     },
     {
       "ID": "StillRollin",
@@ -35592,7 +35597,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9145
+      "UsersEstimate": 9323
     },
     {
       "ID": "Stoned",
@@ -35600,15 +35605,15 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9145
+      "UsersEstimate": 9323
     },
     {
       "ID": "StonedOx",
       "SetID": "ak6bfk8",
       "Name": "Stoned Ox",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18289
+      "UsersEstimate": 20978
     },
     {
       "ID": "TanukiTime",
@@ -35616,7 +35621,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20575
+      "UsersEstimate": 20978
     },
     {
       "ID": "TheCave",
@@ -35624,7 +35629,7 @@
       "Name": "The Cave",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2098
     },
     {
       "ID": "TheEnd",
@@ -35632,7 +35637,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4662
     },
     {
       "ID": "TheOldWay",
@@ -35640,7 +35645,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6993
     },
     {
       "ID": "Thorough",
@@ -35648,7 +35653,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25148
+      "UsersEstimate": 25640
     },
     {
       "ID": "TimeParadox",
@@ -35656,7 +35661,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1399
     },
     {
       "ID": "UndeservedHonor",
@@ -35664,15 +35669,15 @@
       "Name": "Undeserved Honor",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2331
     },
     {
       "ID": "WarriorBarrel",
       "SetID": "ak6bfk8",
       "Name": "Too Early",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11431
+      "UsersEstimate": 13985
     },
     {
       "ID": "Warzone",
@@ -35680,7 +35685,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13717
+      "UsersEstimate": 13985
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -35688,7 +35693,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2331
     },
     {
       "ID": "WinnerWinner",
@@ -35696,7 +35701,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4662
     },
     {
       "ID": "Yabu",
@@ -35704,22 +35709,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18289
+      "UsersEstimate": 18647
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 228615,
-      "Completed": 110
+      "Progressed": 233087,
+      "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-02-20T17:00:59.9370456+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:09:42.5733978+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:03:54.1141793+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:57:08.9463357+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:52.8036067+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:42.5735994+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:18.2269306+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:03:54.1143341+00:00"
 }

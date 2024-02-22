@@ -2,10 +2,10 @@
   "ID": "4107042361cf49c582f6f307cdc2c88e",
   "Name": "Airhead",
   "ProductSlug": "airhead-945e54",
-  "Ranking_EOS_Progress": 784,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 697,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-02-12T14:00:00+00:00",
     "PcReleaseDate": "2024-02-12T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-01-25T20:09:07.754921+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:04:19.8369268+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -44,7 +49,7 @@
       "ID": "1",
       "SetID": "6i8k05g",
       "Name": "Don\u0027t Waste Air",
-      "Percentage": 300,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -52,7 +57,7 @@
       "ID": "10",
       "SetID": "6i8k05g",
       "Name": "The Complete Set",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -60,7 +65,7 @@
       "ID": "11",
       "SetID": "6i8k05g",
       "Name": "Air Activated",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -68,7 +73,7 @@
       "ID": "12",
       "SetID": "6i8k05g",
       "Name": "Light as Air",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "13",
       "SetID": "6i8k05g",
       "Name": "Air Boost",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -84,7 +89,7 @@
       "ID": "14",
       "SetID": "6i8k05g",
       "Name": "Subnautic-Air",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -92,7 +97,7 @@
       "ID": "15",
       "SetID": "6i8k05g",
       "Name": "Assuming Direct Control",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "16",
       "SetID": "6i8k05g",
       "Name": "Shattering",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "18",
       "SetID": "6i8k05g",
       "Name": "Symbiosis",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "22",
       "SetID": "6i8k05g",
       "Name": "New Head",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -164,7 +169,7 @@
       "ID": "23",
       "SetID": "6i8k05g",
       "Name": "Water Damage",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -172,7 +177,7 @@
       "ID": "24",
       "SetID": "6i8k05g",
       "Name": "So Close",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "25",
       "SetID": "6i8k05g",
       "Name": "A New Friend",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "26",
       "SetID": "6i8k05g",
       "Name": "Airheart",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -196,7 +201,7 @@
       "ID": "27",
       "SetID": "6i8k05g",
       "Name": "Rebirth",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -204,7 +209,7 @@
       "ID": "28",
       "SetID": "6i8k05g",
       "Name": "Leave it All Behind",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "4",
       "SetID": "6i8k05g",
       "Name": "Humble Beginnings",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "6",
       "SetID": "6i8k05g",
       "Name": "All Knowing",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -252,7 +257,7 @@
       "ID": "7",
       "SetID": "6i8k05g",
       "Name": "All Eyes",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "8",
       "SetID": "6i8k05g",
       "Name": "All Ears",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "9",
       "SetID": "6i8k05g",
       "Name": "A Mysterious Object",
-      "Percentage": 100,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -277,14 +282,14 @@
     {
       "ID": "6i8k05g",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-14T20:58:34.0562957+00:00",
   "FirstSeenAchievements": "2024-01-10T20:08:47.5308925+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:10:09.5748562+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:04:19.8369266+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:56:58.7527133+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:00:51.3445967+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:10:09.5748687+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:57:37.053581+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:19.8369424+00:00"
 }

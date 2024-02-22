@@ -1,71 +1,71 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.46 (Ranked 689)  
+Rating: 4.46 (Ranked 688)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~375,533 |
-| Now You're Talking | 62.00% | ~332,615 |
-| Steel Yourself | 62.00% | ~332,615 |
-| Window Dressing | 50.00% | ~268,238 |
-| Trigger Happy | 46.00% | ~246,779 |
-| Riverborn | 45.00% | ~241,414 |
-| Starry Eyed | 34.00% | ~182,402 |
-| Poking Around | 34.00% | ~182,402 |
-| Talk of the Town | 24.00% | ~128,754 |
-| AAARR! | 23.00% | ~123,389 |
-| Hello Darkness | 23.00% | ~123,389 |
-| Wind At Our Backs | 22.00% | ~118,025 |
-| To the Beat | 20.00% | ~107,295 |
-| Sunny Shores | 17.00% | ~91,201 |
-| Sunday Best | 16.00% | ~85,836 |
-| To Victory! | 15.00% | ~80,471 |
-| Two of a Kind | 14.00% | ~75,107 |
-| Keep On Trucking | 13.00% | ~69,742 |
-| Going on an Adventure | 12.00% | ~64,377 |
-| Make Peace, Not War | 11.00% | ~59,012 |
-| Walking The Line | 10.00% | ~53,648 |
-| Not So Cute Anymore | 10.00% | ~53,648 |
-| Road Less Travelled | 9.00% | ~48,283 |
-| Lost and Found | 9.00% | ~48,283 |
-| Under the Radar | 8.00% | ~42,918 |
-| Partner in Crime | 7.00% | ~37,553 |
-| Hard to Hear | 7.00% | ~37,553 |
-| Moving On Up | 6.00% | ~32,189 |
-| Owl Knows Best | 6.00% | ~32,189 |
-| Mind the Moose | 6.00% | ~32,189 |
-| Oh, Romeo! | 6.00% | ~32,189 |
-| Dressed to Kill | 6.00% | ~32,189 |
-| Beast Mode | 6.00% | ~32,189 |
-| Slime Slayer | 6.00% | ~32,189 |
-| Noble Intentions | 5.00% | ~26,824 |
-| Rising Star | 5.00% | ~26,824 |
-| Privacy, Please! | 4.00% | ~21,459 |
-| Silky Smooth | 4.00% | ~21,459 |
-| Hash It Over | 4.00% | ~21,459 |
-| Biting Tongue | 4.00% | ~21,459 |
-| What a Catch! | 4.00% | ~21,459 |
-| Hit the Spot | 4.00% | ~21,459 |
-| Talk the Talk | 3.00% | ~16,094 |
-| Skin in the Game | 3.00% | ~16,094 |
-| Caving In | 3.00% | ~16,094 |
-| Page Turner | 3.00% | ~16,094 |
-| Spinal Adjustment | 3.00% | ~16,094 |
-| The Knowledge | 3.00% | ~16,094 |
-| Seek the Rainbow | 2.00% | ~10,730 |
-| Words of Truth | 2.00% | ~10,730 |
-| Star Power | 2.00% | ~10,730 |
-| Don’t Get Crabby | 2.00% | ~10,730 |
-| Justice Served | 2.00% | ~10,730 |
-| Written in the Stars | 1.00% | ~5,365 |
-| Don't Care | 1.00% | ~5,365 |
-| Boss of All Bosses | 0.30% | ~1,609 |
-| Point Taken | 0.20% | ~1,073 |
+| First Step | 70.00% | ~376,698 |
+| Now You're Talking | 62.00% | ~333,647 |
+| Steel Yourself | 62.00% | ~333,647 |
+| Window Dressing | 50.00% | ~269,070 |
+| Trigger Happy | 46.00% | ~247,544 |
+| Riverborn | 45.00% | ~242,163 |
+| Starry Eyed | 34.00% | ~182,968 |
+| Poking Around | 34.00% | ~182,968 |
+| Talk of the Town | 24.00% | ~129,154 |
+| AAARR! | 23.00% | ~123,772 |
+| Hello Darkness | 23.00% | ~123,772 |
+| Wind At Our Backs | 22.00% | ~118,391 |
+| To the Beat | 21.00% | ~113,009 |
+| Sunny Shores | 17.00% | ~91,484 |
+| Sunday Best | 16.00% | ~86,102 |
+| To Victory! | 15.00% | ~80,721 |
+| Two of a Kind | 14.00% | ~75,340 |
+| Keep On Trucking | 13.00% | ~69,958 |
+| Going on an Adventure | 12.00% | ~64,577 |
+| Make Peace, Not War | 11.00% | ~59,195 |
+| Walking The Line | 10.00% | ~53,814 |
+| Not So Cute Anymore | 10.00% | ~53,814 |
+| Road Less Travelled | 9.00% | ~48,433 |
+| Lost and Found | 9.00% | ~48,433 |
+| Under the Radar | 8.00% | ~43,051 |
+| Partner in Crime | 7.00% | ~37,670 |
+| Hard to Hear | 7.00% | ~37,670 |
+| Moving On Up | 6.00% | ~32,288 |
+| Owl Knows Best | 6.00% | ~32,288 |
+| Mind the Moose | 6.00% | ~32,288 |
+| Oh, Romeo! | 6.00% | ~32,288 |
+| Dressed to Kill | 6.00% | ~32,288 |
+| Beast Mode | 6.00% | ~32,288 |
+| Slime Slayer | 6.00% | ~32,288 |
+| Noble Intentions | 5.00% | ~26,907 |
+| Rising Star | 5.00% | ~26,907 |
+| Privacy, Please! | 4.00% | ~21,526 |
+| Silky Smooth | 4.00% | ~21,526 |
+| Hash It Over | 4.00% | ~21,526 |
+| Biting Tongue | 4.00% | ~21,526 |
+| What a Catch! | 4.00% | ~21,526 |
+| Hit the Spot | 4.00% | ~21,526 |
+| Talk the Talk | 3.00% | ~16,144 |
+| Skin in the Game | 3.00% | ~16,144 |
+| Caving In | 3.00% | ~16,144 |
+| Page Turner | 3.00% | ~16,144 |
+| Spinal Adjustment | 3.00% | ~16,144 |
+| The Knowledge | 3.00% | ~16,144 |
+| Seek the Rainbow | 2.00% | ~10,763 |
+| Words of Truth | 2.00% | ~10,763 |
+| Star Power | 2.00% | ~10,763 |
+| Don’t Get Crabby | 2.00% | ~10,763 |
+| Justice Served | 2.00% | ~10,763 |
+| Written in the Stars | 1.00% | ~5,381 |
+| Don't Care | 1.00% | ~5,381 |
+| Boss of All Bosses | 0.30% | ~1,614 |
+| Point Taken | 0.20% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,476 (Ranked 38)  
-Completed: 530 (0.10%) (Ranked 325)  
+Progressed: 538,140 (Ranked 38)  
+Completed: 544 (0.10%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -347,6 +347,7 @@ Completed: 530 (0.10%) (Ranked 325)
 | 2024-01-25 | 536,389 | 530 |
 | 2024-01-26 | 536,444 | 530 |
 | 2024-01-27 | 536,476 | 530 |
+| 2024-02-22 | 538,140 | 544 |
 ## Awards
 Max (Relaxing): 22  (Ranked 583)  
 Sum: 22 (Ranked 590)  

@@ -11,6 +11,8 @@ Number of Ratings: 82  (23.09.2022)
 | Well Off | 0.40% | ~39 |
 | Agent | 0.30% | ~29 |
 | A Real Landlord | 0.30% | ~29 |
+| Cleaning Service | 0.30% | ~29 |
+| Filthy Rich | 0.30% | ~29 |
 | Gotta Start Somewhere | 0.30% | ~29 |
 | Home, Sweet Home | 0.30% | ~29 |
 | Loaded | 0.30% | ~29 |
@@ -18,10 +20,9 @@ Number of Ratings: 82  (23.09.2022)
 | Renovator | 0.30% | ~29 |
 | Master Renovator | 0.30% | ~29 |
 | Treasure Hunter | 0.30% | ~29 |
+| Expert Agent | 0.20% | ~20 |
 | Master Agent | 0.20% | ~20 |
 | Babysitter | 0.20% | ~20 |
-| Cleaning Service | 0.20% | ~20 |
-| Filthy Rich | 0.20% | ~20 |
 | Kill It With Gas | 0.20% | ~20 |
 | Landlord’s Dream | 0.20% | ~20 |
 | Millionaire | 0.20% | ~20 |
@@ -31,7 +32,7 @@ Number of Ratings: 82  (23.09.2022)
 | Run, Forrest, Run! | 0.20% | ~20 |
 | TGIF | 0.20% | ~20 |
 | The Aftershock | 0.20% | ~20 |
-| Expert Agent | 0.10% | ~10 |
+| What’s That Smell? | 0.20% | ~20 |
 | Another One | 0.10% | ~10 |
 | Expert Babysitter | 0.10% | ~10 |
 | Master Babysitter | 0.10% | ~10 |
@@ -44,6 +45,7 @@ Number of Ratings: 82  (23.09.2022)
 | Gardener | 0.10% | ~10 |
 | I’m On A Boat | 0.10% | ~10 |
 | I’ve Had Enough | 0.10% | ~10 |
+| I Am The One Who Knocks | 0.10% | ~10 |
 | Kitchen Hell | 0.10% | ~10 |
 | Matchmaker | 0.10% | ~10 |
 | Passive Income | 0.10% | ~10 |
@@ -55,7 +57,6 @@ Number of Ratings: 82  (23.09.2022)
 | The More The Merrier | 0.10% | ~10 |
 | The Suburban Dream | 0.10% | ~10 |
 | Well, Scratch That | 0.10% | ~10 |
-| What’s That Smell? | 0.10% | ~10 |
 | 5G | 0.00% | ~0 |
 | Achievement Hunter | 0.00% | ~0 |
 | Banksy | 0.00% | ~0 |
@@ -73,7 +74,6 @@ Number of Ratings: 82  (23.09.2022)
 | Go Team! | 0.00% | ~0 |
 | Hold That Brush | 0.00% | ~0 |
 | How Sweet | 0.00% | ~0 |
-| I Am The One Who Knocks | 0.00% | ~0 |
 | Karakan Twins Avid Fan | 0.00% | ~0 |
 | Kids Next Door | 0.00% | ~0 |
 | No Retirement For You | 0.00% | ~0 |
@@ -93,8 +93,8 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,801 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 9,807 (Ranked 190)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,6 +210,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-17 | 9,799 | 0 |
 | 2024-01-19 | 9,800 | 0 |
 | 2024-01-25 | 9,801 | 0 |
+| 2024-02-22 | 9,807 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

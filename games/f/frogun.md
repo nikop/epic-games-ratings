@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 93.00% | ~224 |
-| Treasure hunter | 90.00% | ~217 |
-| Survivalist | 84.00% | ~202 |
-| Challenge seeker | 80.00% | ~193 |
-| Coin collector | 73.00% | ~176 |
-| Floater | 59.00% | ~142 |
-| Speedrunner | 44.00% | ~106 |
-| On foot racer | 41.00% | ~99 |
-| Prickly situation handler | 34.00% | ~82 |
-| Hat lover | 32.00% | ~77 |
-| Perfectionist | 31.00% | ~75 |
-| Protected | 29.00% | ~70 |
-| Pragmatic | 22.00% | ~53 |
-| Calory burner | 18.00% | ~43 |
-| Snow digger | 15.00% | ~36 |
+| Historian | 93.00% | ~229 |
+| Treasure hunter | 90.00% | ~221 |
+| Survivalist | 84.00% | ~207 |
+| Challenge seeker | 80.00% | ~197 |
+| Coin collector | 73.00% | ~180 |
+| Floater | 58.00% | ~143 |
+| Speedrunner | 43.00% | ~106 |
+| On foot racer | 41.00% | ~101 |
+| Prickly situation handler | 34.00% | ~84 |
+| Hat lover | 33.00% | ~81 |
+| Perfectionist | 30.00% | ~74 |
+| Protected | 29.00% | ~71 |
+| Pragmatic | 22.00% | ~54 |
+| Calory burner | 18.00% | ~44 |
+| Snow digger | 15.00% | ~37 |
 | Pacifist | 14.00% | ~34 |
 | Model | 14.00% | ~34 |
-| Fire extinguisher | 10.00% | ~24 |
-| Hubworld fan | 10.00% | ~24 |
+| Fire extinguisher | 10.00% | ~25 |
+| Hubworld fan | 10.00% | ~25 |
 | Occult cataloger | 7.00% | ~17 |
 | Photographer | 5.00% | ~12 |
 | Great rescuer | 4.00% | ~10 |
@@ -36,8 +36,8 @@
 | Art lover | 1.00% | ~2 |
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241 (Ranked 430)  
-Completed: 4 (1.66%) (Ranked 152)  
+Progressed: 246 (Ranked 433)  
+Completed: 4 (1.63%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,6 +84,7 @@ Completed: 4 (1.66%) (Ranked 152)
 | 2024-01-12 | 239 | 4 |
 | 2024-01-17 | 240 | 4 |
 | 2024-01-19 | 241 | 4 |
+| 2024-02-22 | 246 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

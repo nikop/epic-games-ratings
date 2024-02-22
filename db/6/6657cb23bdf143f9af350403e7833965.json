@@ -2,10 +2,10 @@
   "ID": "6657cb23bdf143f9af350403e7833965",
   "Name": "A Christmas Carol VR",
   "ProductSlug": "a-christmas-carol-vr-00de5c",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-12-12T00:32:47.48+00:00",
     "PcReleaseDate": "2023-12-01T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-17T16:57:12.136237+00:00",
   "LastUpdate_AppInfo": "2024-02-18T23:56:52.2181107+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:45.6558054+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:59:01.3450259+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:44.5241742+00:00"
 }

@@ -35,8 +35,8 @@ Rating: 4.29 (Ranked 907)
 | Heart Of Steel | 0.10% | ~45 |
 | Death or Glory | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,911 (Ranked 134)  
-Completed: 30 (0.07%) (Ranked 341)  
+Progressed: 44,911 (Ranked 135)  
+Completed: 30 (0.07%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

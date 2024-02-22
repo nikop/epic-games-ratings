@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blunga 1 | 99.00% | ~294 |
-| Mjam-Mjam | 97.00% | ~288 |
-| Onk Boga I | 95.00% | ~282 |
-| Sniarb! | 89.00% | ~264 |
-| Blunga 5 | 68.00% | ~202 |
-| Onk Boga II | 66.00% | ~196 |
-| Bzzzzzz | 61.00% | ~181 |
-| Onk Boga III | 53.00% | ~157 |
-| Danka, Lagga, Wonwon | 46.00% | ~137 |
-| Onk Boga IV | 46.00% | ~137 |
-| Blunga 10 | 44.00% | ~131 |
-| BumBum | 44.00% | ~131 |
-| Onk Boga V | 41.00% | ~122 |
-| 1978 | 38.00% | ~113 |
-| Onk Boga VI | 38.00% | ~113 |
-| Onk Boga VII | 38.00% | ~113 |
-| IQ62 | 38.00% | ~113 |
-| Onk Boga VIII | 36.00% | ~107 |
-| Blubb | 36.00% | ~107 |
-| ParaPara! | 34.00% | ~101 |
-| Onk Boga IX | 34.00% | ~101 |
-| AKRE! | 34.00% | ~101 |
-| Kokakoka | 33.00% | ~98 |
-| Blunga 15 | 32.00% | ~95 |
+| Blunga 1 | 99.00% | ~300 |
+| Mjam-Mjam | 97.00% | ~294 |
+| Onk Boga I | 95.00% | ~288 |
+| Sniarb! | 88.00% | ~267 |
+| Blunga 5 | 68.00% | ~206 |
+| Onk Boga II | 66.00% | ~200 |
+| Bzzzzzz | 61.00% | ~185 |
+| Onk Boga III | 53.00% | ~161 |
+| Danka, Lagga, Wonwon | 46.00% | ~139 |
+| Onk Boga IV | 46.00% | ~139 |
+| BumBum | 45.00% | ~136 |
+| Blunga 10 | 44.00% | ~133 |
+| Onk Boga V | 41.00% | ~124 |
+| 1978 | 38.00% | ~115 |
+| Onk Boga VI | 38.00% | ~115 |
+| IQ62 | 38.00% | ~115 |
+| Onk Boga VII | 37.00% | ~112 |
+| Onk Boga VIII | 36.00% | ~109 |
+| Blubb | 36.00% | ~109 |
+| ParaPara! | 34.00% | ~103 |
+| Onk Boga IX | 34.00% | ~103 |
+| AKRE! | 34.00% | ~103 |
+| Kokakoka | 33.00% | ~100 |
+| Blunga 15 | 32.00% | ~97 |
 | Blunga 20 | 11.00% | ~33 |
 | Blunga 25 | 6.00% | ~18 |
 | Blunga 30 | 6.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 413)  
-Completed: 17 (5.72%) (Ranked 73)  
+Progressed: 303 (Ranked 412)  
+Completed: 17 (5.61%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 17 (5.72%) (Ranked 73)
 | 2024-01-12 | 295 | 17 |
 | 2024-01-22 | 296 | 17 |
 | 2024-01-26 | 297 | 17 |
+| 2024-02-22 | 303 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "5b26dab0cfb9499c8fb5887250f9c295",
   "Name": "Mahjong Magic Journey 2",
   "ProductSlug": "mahjong-magic-journey-2-28de53",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-30T21:00:00+00:00",
     "PcReleaseDate": "2014-12-06T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-29T01:35:36.2452271+00:00",
   "LastUpdate_AppInfo": "2024-02-16T12:58:33.1421051+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:23.4555279+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:57:58.7917321+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:34.9410981+00:00"
 }

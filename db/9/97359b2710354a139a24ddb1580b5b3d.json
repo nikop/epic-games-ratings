@@ -2,10 +2,10 @@
   "ID": "97359b2710354a139a24ddb1580b5b3d",
   "Name": "I Did Not Buy This Ticket",
   "ProductSlug": "i-did-not-buy-this-ticket-086fe2",
-  "Ranking_EOS_Progress": 636,
-  "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 643,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-29T04:00:00+00:00",
     "PcReleaseDate": "2023-04-13T03:00:00+00:00",
@@ -383,6 +383,6 @@
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
   "LastChanged_Achievements": "2024-01-27T13:04:41.937478+00:00",
   "LastUpdate_AppInfo": "2024-02-20T07:57:11.8984967+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:37.0324784+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:52.5773635+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:41.9375169+00:00"
 }

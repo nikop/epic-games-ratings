@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of Despair | 88.00% | ~194 |
-| Morgengrauen | 87.00% | ~192 |
-| Not alone | 62.00% | ~137 |
-| Hunger | 52.00% | ~115 |
-| Awaken | 44.00% | ~97 |
-| Path of Corruption | 36.00% | ~80 |
-| Hope | 33.00% | ~73 |
-| Rage | 32.00% | ~71 |
-| Path of Pain | 25.00% | ~55 |
-| Mayhem | 21.00% | ~46 |
-| Reflections | 21.00% | ~46 |
-| The shining | 21.00% | ~46 |
-| Clarity | 18.00% | ~40 |
-| Health | 17.00% | ~38 |
-| Awaiting orders | 15.00% | ~33 |
-| Art critic | 12.00% | ~27 |
-| Jigsaw | 12.00% | ~27 |
-| Peace | 12.00% | ~27 |
-| Lost | 9.00% | ~20 |
-| An act of courage | 7.00% | ~15 |
-| All knowing | 7.00% | ~15 |
-| Corruption | 6.00% | ~13 |
-| An act of mercy | 4.00% | ~9 |
+| Path of Despair | 88.00% | ~213 |
+| Morgengrauen | 86.00% | ~208 |
+| Not alone | 62.00% | ~150 |
+| Hunger | 52.00% | ~126 |
+| Awaken | 44.00% | ~106 |
+| Path of Corruption | 35.00% | ~85 |
+| Hope | 31.00% | ~75 |
+| Rage | 31.00% | ~75 |
+| Path of Pain | 25.00% | ~60 |
+| Mayhem | 21.00% | ~51 |
+| Reflections | 21.00% | ~51 |
+| The shining | 21.00% | ~51 |
+| Clarity | 18.00% | ~44 |
+| Health | 17.00% | ~41 |
+| Awaiting orders | 16.00% | ~39 |
+| Art critic | 13.00% | ~31 |
+| Jigsaw | 12.00% | ~29 |
+| Peace | 12.00% | ~29 |
+| Lost | 9.00% | ~22 |
+| All knowing | 8.00% | ~19 |
+| An act of courage | 7.00% | ~17 |
+| Corruption | 5.00% | ~12 |
+| An act of mercy | 4.00% | ~10 |
 | An act of compassion | 3.00% | ~7 |
-| Ad Infinitum | 0.90% | ~2 |
-| Pain | 0.90% | ~2 |
-| Despair | 0.50% | ~1 |
+| Ad Infinitum | 0.80% | ~2 |
+| Pain | 0.80% | ~2 |
+| Despair | 0.40% | ~1 |
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 433)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 242 (Ranked 434)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,3 +120,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-22 | 219 | 0 |
 | 2024-01-23 | 220 | 0 |
 | 2024-01-24 | 221 | 0 |
+| 2024-02-22 | 242 | 0 |

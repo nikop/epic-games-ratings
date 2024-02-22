@@ -6,65 +6,65 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 28.00% | ~3,743 |
-| A Spark | 20.00% | ~2,674 |
-| Burning City | 19.00% | ~2,540 |
-| Defender's Heart | 17.00% | ~2,273 |
-| Mythic Choices | 16.00% | ~2,139 |
-| Banner over the Citadel | 14.00% | ~1,872 |
-| Queen's Gratitude | 13.00% | ~1,738 |
-| Fifth Crusade | 9.00% | ~1,203 |
-| Embrace of the Abyss | 7.00% | ~936 |
-| Path of the Angel | 7.00% | ~936 |
-| Demonic and Divine | 7.00% | ~936 |
-| Transformation | 6.00% | ~802 |
-| Great Upstart | 6.00% | ~802 |
-| Voice from Your Dreams | 6.00% | ~802 |
-| All Paths Open | 6.00% | ~802 |
-| Path of the Azata | 5.00% | ~668 |
-| The Legacy | 5.00% | ~668 |
-| Divide and Rule | 5.00% | ~668 |
-| A Flame | 5.00% | ~668 |
-| Next-Door Play | 5.00% | ~668 |
-| Get the Toad | 5.00% | ~668 |
-| Heart of the Fallen Land | 4.00% | ~535 |
-| Mythic Reinforcements | 4.00% | ~535 |
-| Hey, I Know You! | 4.00% | ~535 |
-| Path of the Trickster | 3.00% | ~401 |
-| Path of the Lich | 3.00% | ~401 |
-| Heroic Victory | 3.00% | ~401 |
-| Capitulation Is Now Moot | 3.00% | ~401 |
-| Core of the Riddle | 3.00% | ~401 |
-| Stay Underground | 3.00% | ~365 |
-| Hanged Man's Notes | 3.00% | ~365 |
-| Sarkoris Will Be Green | 3.00% | ~365 |
-| The Lady of the Forest | 3.00% | ~365 |
-| Beware Still Water | 3.00% | ~365 |
-| Path of the Demon | 2.00% | ~267 |
-| Path of the Aeon | 2.00% | ~267 |
-| Your First Big Enemy | 2.00% | ~267 |
-| Truly Important Deed | 2.00% | ~267 |
-| This Wall Won't Fall | 2.00% | ~243 |
-| The Final Threshold | 1.00% | ~134 |
-| Path of the Dragon | 1.00% | ~134 |
-| Path of the Legend | 1.00% | ~134 |
-| Strategic Victory | 1.00% | ~134 |
-| Abyssal Conspiracy | 1.00% | ~134 |
-| Truly Profane Gift | 1.00% | ~134 |
-| Not the Last Sarkorian | 1.00% | ~122 |
-| End of Eternal Guard | 0.90% | ~120 |
-| Playful Mood | 0.80% | ~107 |
-| Masterful Charge | 0.70% | ~94 |
-| Dreadful Dragon | 0.70% | ~94 |
-| Prelate's Nemesis | 0.50% | ~67 |
-| Just Pathetic | 0.40% | ~53 |
-| Ashes to Ashes | 0.40% | ~53 |
-| Masterful Dispel | 0.30% | ~40 |
-| Path of the Swarm | 0.20% | ~27 |
+| Devoured by Darkness | 28.00% | ~3,797 |
+| Burning City | 20.00% | ~2,712 |
+| A Spark | 20.00% | ~2,712 |
+| Defender's Heart | 17.00% | ~2,305 |
+| Mythic Choices | 16.00% | ~2,169 |
+| Banner over the Citadel | 15.00% | ~2,034 |
+| Queen's Gratitude | 13.00% | ~1,763 |
+| Fifth Crusade | 9.00% | ~1,220 |
+| Embrace of the Abyss | 7.00% | ~949 |
+| Path of the Angel | 7.00% | ~949 |
+| Demonic and Divine | 7.00% | ~949 |
+| Transformation | 6.00% | ~814 |
+| Great Upstart | 6.00% | ~814 |
+| Voice from Your Dreams | 6.00% | ~814 |
+| All Paths Open | 6.00% | ~814 |
+| Path of the Azata | 5.00% | ~678 |
+| The Legacy | 5.00% | ~678 |
+| Divide and Rule | 5.00% | ~678 |
+| A Flame | 5.00% | ~678 |
+| Next-Door Play | 5.00% | ~678 |
+| Get the Toad | 5.00% | ~678 |
+| Heart of the Fallen Land | 4.00% | ~542 |
+| Mythic Reinforcements | 4.00% | ~542 |
+| Hey, I Know You! | 4.00% | ~542 |
+| Beware Still Water | 4.00% | ~494 |
+| Path of the Trickster | 3.00% | ~407 |
+| Path of the Lich | 3.00% | ~407 |
+| Heroic Victory | 3.00% | ~407 |
+| Capitulation Is Now Moot | 3.00% | ~407 |
+| Core of the Riddle | 3.00% | ~407 |
+| Stay Underground | 3.00% | ~370 |
+| Hanged Man's Notes | 3.00% | ~370 |
+| Sarkoris Will Be Green | 3.00% | ~370 |
+| The Lady of the Forest | 3.00% | ~370 |
+| Path of the Demon | 2.00% | ~271 |
+| Path of the Aeon | 2.00% | ~271 |
+| Your First Big Enemy | 2.00% | ~271 |
+| Truly Important Deed | 2.00% | ~271 |
+| This Wall Won't Fall | 2.00% | ~247 |
+| Not the Last Sarkorian | 2.00% | ~247 |
+| The Final Threshold | 1.00% | ~136 |
+| Path of the Dragon | 1.00% | ~136 |
+| Path of the Legend | 1.00% | ~136 |
+| Strategic Victory | 1.00% | ~136 |
+| Abyssal Conspiracy | 1.00% | ~136 |
+| End of Eternal Guard | 1.00% | ~136 |
+| Truly Profane Gift | 1.00% | ~136 |
+| Masterful Charge | 0.80% | ~108 |
+| Playful Mood | 0.80% | ~108 |
+| Dreadful Dragon | 0.70% | ~95 |
+| Prelate's Nemesis | 0.60% | ~81 |
+| Just Pathetic | 0.40% | ~54 |
+| Ashes to Ashes | 0.40% | ~54 |
+| Path of the Swarm | 0.30% | ~41 |
+| Masterful Dispel | 0.30% | ~41 |
 | Spirit of Adventure | 0.20% | ~27 |
-| Equal to Aroden | 0.10% | ~13 |
-| Test of the Starstone | 0.10% | ~13 |
-| Masterful Craftsmanship | 0.10% | ~13 |
+| Equal to Aroden | 0.10% | ~14 |
+| Test of the Starstone | 0.10% | ~14 |
+| Masterful Craftsmanship | 0.10% | ~14 |
 | Blight of Drezen | 0.00% | ~0 |
 | Memories Frozen in Time | 0.00% | ~0 |
 | Death by Column | 0.00% | ~0 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,369 (Ranked 180)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 13,559 (Ranked 181)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -406,6 +406,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-25 | 13,358 | 0 |
 | 2024-01-26 | 13,365 | 0 |
 | 2024-01-27 | 13,369 | 0 |
+| 2024-02-22 | 13,559 | 0 |
 ## Awards
 Max (Character Customization): 1,805  (Ranked 134)  
 Sum: 7,313 (Ranked 132)  

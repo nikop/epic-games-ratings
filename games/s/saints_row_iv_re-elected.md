@@ -78,8 +78,8 @@ Rating: 4.40 (Ranked 792)
 | Super Power Team Up! | 0.10% | ~352 |
 | Ultimate Hot Potato | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,130 (Ranked 59)  
-Completed: 17 (0.00%) (Ranked 414)  
+Progressed: 352,130 (Ranked 62)  
+Completed: 17 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

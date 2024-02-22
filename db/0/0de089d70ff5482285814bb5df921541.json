@@ -2,10 +2,10 @@
   "ID": "0de089d70ff5482285814bb5df921541",
   "Name": "Not Another Weekend",
   "ProductSlug": "not-another-weekend-580d95",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-01-23T00:00:00+00:00",
     "PcReleaseDate": "2021-05-19T21:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2024-01-22T16:03:42.5263557+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:06.4884365+00:00",
   "LastUpdate_AppInfo": "2024-02-19T17:57:03.1299257+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:53.217469+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:18.4696827+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:06.4884385+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d12ae11a83c746c290e006a73438840f",
   "Name": "Rhythm Sprout: Sick Beats \u0026 Bad Sweets",
   "ProductSlug": "rhythm-sprout",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-01T17:00:00+00:00",
     "PcReleaseDate": "2023-02-01T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.2636723+00:00",
   "LastChanged": "2023-03-31T05:58:18.2636724+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:50.6742584+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:59:03.9930628+00:00",
+  "LastUpdate_Ratings": "2024-02-22T21:00:22.3493959+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:18.3434558+00:00"
 }

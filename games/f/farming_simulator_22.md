@@ -6,52 +6,52 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~45,419 |
-| I read Shakespeare and stuff | 59.00% | ~37,742 |
-| Just a sprinkle | 58.00% | ~37,103 |
-| I'm stumped | 56.00% | ~35,823 |
-| Plant get enough | 56.00% | ~35,823 |
-| This is just my weekend vehicle | 54.00% | ~34,544 |
-| It's just the beginning | 54.00% | ~34,544 |
-| Hard work pays off | 49.00% | ~31,345 |
-| It's never too late to farm | 45.00% | ~28,786 |
-| All out of Land | 41.00% | ~26,228 |
-| Field Trip | 40.00% | ~25,588 |
-| I like to switch it up | 37.00% | ~23,669 |
-| Help me to help you | 35.00% | ~22,390 |
-| Ultimutt Pawesomeness | 25.00% | ~15,992 |
-| Van Gogh | 23.00% | ~14,713 |
-| You wood not believe it | 20.00% | ~12,794 |
-| Vehicle fleet | 20.00% | ~12,794 |
-| Well-Oiled Machine | 15.00% | ~9,596 |
-| Clucky Streak | 14.00% | ~8,956 |
-| The plot thickens | 14.00% | ~8,956 |
-| Large-scale supplier | 14.00% | ~8,956 |
-| Long haul | 14.00% | ~8,956 |
-| That's a wrap | 13.00% | ~8,316 |
-| Fix me up | 11.00% | ~7,037 |
-| Highly cultivated | 10.00% | ~6,397 |
-| It's sow easy | 10.00% | ~6,397 |
-| Rock on | 10.00% | ~6,397 |
-| Giddy-up! | 9.00% | ~5,757 |
-| Cowherd | 6.00% | ~3,838 |
-| Fluffyness | 6.00% | ~3,838 |
-| Road Trip | 5.00% | ~3,198 |
-| Helper A does not stop … ever | 5.00% | ~3,198 |
-| Bringing in the Honey | 5.00% | ~3,198 |
-| Three little piggies… | 4.00% | ~2,559 |
-| Game on | 3.00% | ~1,919 |
-| Pretty colourful | 0.70% | ~448 |
-| Original grain | 0.70% | ~448 |
-| Gone but not for cotton | 0.50% | ~320 |
-| Thoroughbred! | 0.50% | ~320 |
-| Cheese it | 0.40% | ~256 |
-| Olea europaea | 0.40% | ~256 |
-| You are not a kangaroo | 0.40% | ~256 |
-| Raisin the stakes | 0.30% | ~192 |
+| Own use | 71.00% | ~47,064 |
+| I read Shakespeare and stuff | 59.00% | ~39,109 |
+| Just a sprinkle | 58.00% | ~38,446 |
+| I'm stumped | 56.00% | ~37,121 |
+| Plant get enough | 55.00% | ~36,458 |
+| This is just my weekend vehicle | 54.00% | ~35,795 |
+| It's just the beginning | 54.00% | ~35,795 |
+| Hard work pays off | 49.00% | ~32,481 |
+| It's never too late to farm | 44.00% | ~29,166 |
+| All out of Land | 41.00% | ~27,178 |
+| Field Trip | 40.00% | ~26,515 |
+| I like to switch it up | 37.00% | ~24,526 |
+| Help me to help you | 35.00% | ~23,200 |
+| Ultimutt Pawesomeness | 25.00% | ~16,572 |
+| Van Gogh | 23.00% | ~15,246 |
+| You wood not believe it | 20.00% | ~13,257 |
+| Vehicle fleet | 20.00% | ~13,257 |
+| Well-Oiled Machine | 15.00% | ~9,943 |
+| Clucky Streak | 14.00% | ~9,280 |
+| The plot thickens | 14.00% | ~9,280 |
+| Large-scale supplier | 14.00% | ~9,280 |
+| Long haul | 14.00% | ~9,280 |
+| That's a wrap | 13.00% | ~8,617 |
+| Fix me up | 11.00% | ~7,292 |
+| It's sow easy | 10.00% | ~6,629 |
+| Rock on | 10.00% | ~6,629 |
+| Highly cultivated | 9.00% | ~5,966 |
+| Giddy-up! | 9.00% | ~5,966 |
+| Cowherd | 6.00% | ~3,977 |
+| Fluffyness | 6.00% | ~3,977 |
+| Road Trip | 5.00% | ~3,314 |
+| Helper A does not stop … ever | 5.00% | ~3,314 |
+| Bringing in the Honey | 5.00% | ~3,314 |
+| Three little piggies… | 4.00% | ~2,651 |
+| Game on | 3.00% | ~1,989 |
+| Pretty colourful | 0.70% | ~464 |
+| Original grain | 0.70% | ~464 |
+| Gone but not for cotton | 0.50% | ~331 |
+| Thoroughbred! | 0.50% | ~331 |
+| Cheese it | 0.40% | ~265 |
+| Olea europaea | 0.40% | ~265 |
+| You are not a kangaroo | 0.40% | ~265 |
+| Raisin the stakes | 0.30% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,970 (Ranked 120)  
-Completed: 7 (0.01%) (Ranked 388)  
+Progressed: 66,287 (Ranked 120)  
+Completed: 9 (0.01%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,9 +333,10 @@ Completed: 7 (0.01%) (Ranked 388)
 | 2024-01-25 | 63,825 | 7 |
 | 2024-01-26 | 63,917 | 7 |
 | 2024-01-27 | 63,970 | 7 |
+| 2024-02-22 | 66,287 | 9 |
 ## Awards
 Max (Great for Beginners): 6,502  (Ranked 69)  
-Sum: 47,512 (Ranked 33)  
+Sum: 47,516 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +344,7 @@ Diff (max vs sum): 36
 | This game has Diverse Characters | 5,207 |
 | This game is Highly Recommended | 4,740 |
 | This game is Educational | 4,705 |
-| This game is Relaxing | 4,559 |
+| This game is Relaxing | 4,563 |
 | This game has Quickly Understood Controls | 4,546 |
 | This game is Extremely Fun | 4,527 |
 | This game has Amazing Storytelling | 4,425 |
@@ -755,4 +756,4 @@ Diff (max vs sum): 36
 | 2024-02-19 | 4.67 | - | 6,479 | 47,417 |
 | 2024-02-20 | 4.67 | - | 6,479 | 47,434 |
 | 2024-02-21 | 4.67 | - | 6,490 | 47,472 |
-| 2024-02-22 | 4.67 | - | 6,502 | 47,512 |
+| 2024-02-22 | 4.67 | - | 6,502 | 47,516 |

@@ -4,59 +4,59 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 59.00% | ~199 |
-| Inventory ✔ | 55.00% | ~186 |
-| Chest ✔ | 54.00% | ~183 |
-| Police officers ✔ | 28.00% | ~95 |
-| Mutation ✔ | 25.00% | ~84 |
-| Doberman ✔ | 15.00% | ~51 |
-| Weapon ✔ | 12.00% | ~41 |
-| Chess ✔ | 10.00% | ~34 |
-| Survival ✔ | 9.00% | ~30 |
-| Master of Unlocking ✔ | 9.00% | ~30 |
-| Thirst ✔ | 8.00% | ~27 |
-| City ✔ | 7.00% | ~24 |
-| Hospital ✔ | 7.00% | ~24 |
-| Fraternal help ✔ | 7.00% | ~24 |
-| Alice ✔ | 6.00% | ~20 |
-| Antivirus ✔ | 6.00% | ~20 |
-| Betty ✔ | 6.00% | ~20 |
-| Brain ✔ | 6.00% | ~20 |
-| Cheats ✔ | 6.00% | ~20 |
-| Food ✔ | 6.00% | ~20 |
-| King of survival ✔ | 6.00% | ~20 |
-| All secrets revealed ✔ | 6.00% | ~20 |
-| Boss 1 ✔ | 5.00% | ~17 |
-| Eva ✔ | 5.00% | ~17 |
-| Secret ✔ | 4.00% | ~14 |
-| Group Alpha ✔ | 4.00% | ~14 |
-| Mutant fight ✔ | 4.00% | ~14 |
-| Mutant run ✔ | 4.00% | ~14 |
-| Sheriff ✔ | 4.00% | ~14 |
-| City on fire ✔ | 4.00% | ~14 |
-| Infected ✔ | 4.00% | ~14 |
-| Priest ✔ | 4.00% | ~14 |
-| Broadcasting ✔ | 4.00% | ~14 |
-| Car ✔ | 3.00% | ~10 |
-| Crocodile Attack ✔ | 3.00% | ~10 |
-| Boss 2 ✔ | 3.00% | ~10 |
-| Osipov's video message ✔ | 3.00% | ~10 |
-| Rank B+ ✔ | 3.00% | ~10 |
-| Rank A ✔ | 3.00% | ~10 |
-| Boss 3 ✔ | 3.00% | ~10 |
-| Seeker One ✔ | 2.00% | ~7 |
-| Seeker Three ✔ | 2.00% | ~7 |
-| The escape ✔ | 2.00% | ~7 |
-| Crocodile Escape ✔ | 1.00% | ~3 |
-| Exterminate pests ✔ | 1.00% | ~3 |
-| VIP ✔ | 1.00% | ~3 |
-| Speedrun ✔ | 0.90% | ~3 |
-| Hardcore ✔ | 0.60% | ~2 |
-| Seeker Two ✔ | 0.30% | ~1 |
-| Rank A+ ✔ | 0.30% | ~1 |
+| Fright ✔ | 61.00% | ~291 |
+| Chest ✔ | 55.00% | ~262 |
+| Inventory ✔ | 54.00% | ~258 |
+| Police officers ✔ | 28.00% | ~134 |
+| Mutation ✔ | 24.00% | ~114 |
+| Doberman ✔ | 14.00% | ~67 |
+| Weapon ✔ | 11.00% | ~52 |
+| Chess ✔ | 9.00% | ~43 |
+| Survival ✔ | 8.00% | ~38 |
+| Master of Unlocking ✔ | 8.00% | ~38 |
+| Thirst ✔ | 8.00% | ~38 |
+| City ✔ | 7.00% | ~33 |
+| Hospital ✔ | 7.00% | ~33 |
+| Fraternal help ✔ | 6.00% | ~29 |
+| Alice ✔ | 5.00% | ~24 |
+| Antivirus ✔ | 5.00% | ~24 |
+| Betty ✔ | 5.00% | ~24 |
+| Brain ✔ | 5.00% | ~24 |
+| Cheats ✔ | 5.00% | ~24 |
+| Food ✔ | 5.00% | ~24 |
+| King of survival ✔ | 5.00% | ~24 |
+| All secrets revealed ✔ | 5.00% | ~24 |
+| Boss 1 ✔ | 4.00% | ~19 |
+| Eva ✔ | 4.00% | ~19 |
+| Group Alpha ✔ | 4.00% | ~19 |
+| Infected ✔ | 4.00% | ~19 |
+| Broadcasting ✔ | 4.00% | ~19 |
+| Crocodile Attack ✔ | 3.00% | ~14 |
+| Secret ✔ | 3.00% | ~14 |
+| Mutant fight ✔ | 3.00% | ~14 |
+| Mutant run ✔ | 3.00% | ~14 |
+| Sheriff ✔ | 3.00% | ~14 |
+| Osipov's video message ✔ | 3.00% | ~14 |
+| City on fire ✔ | 3.00% | ~14 |
+| Priest ✔ | 3.00% | ~14 |
+| Rank B+ ✔ | 3.00% | ~14 |
+| Rank A ✔ | 3.00% | ~14 |
+| Car ✔ | 2.00% | ~10 |
+| Seeker One ✔ | 2.00% | ~10 |
+| Boss 2 ✔ | 2.00% | ~10 |
+| The escape ✔ | 2.00% | ~10 |
+| Boss 3 ✔ | 2.00% | ~10 |
+| Seeker Three ✔ | 1.00% | ~5 |
+| Crocodile Escape ✔ | 1.00% | ~5 |
+| Exterminate pests ✔ | 1.00% | ~5 |
+| VIP ✔ | 1.00% | ~5 |
+| Speedrun ✔ | 0.60% | ~3 |
+| Hardcore ✔ | 0.40% | ~2 |
+| Seeker Two ✔ | 0.20% | ~1 |
+| Rank A+ ✔ | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338 (Ranked 395)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 477 (Ranked 367)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-17 | 336 | 0 |
 | 2024-01-21 | 337 | 0 |
 | 2024-01-26 | 338 | 0 |
+| 2024-02-22 | 477 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~290 |
-| Brute force | 82.00% | ~270 |
-| Nimble fingers | 78.00% | ~257 |
-| Room 104 | 78.00% | ~257 |
-| Face to face | 77.00% | ~253 |
-| Let's play a game… | 74.00% | ~243 |
-| Now or never | 74.00% | ~243 |
-| Soundtrack | 63.00% | ~207 |
-| First aid | 57.00% | ~188 |
-| Antidote | 51.00% | ~168 |
-| Pick the right door | 24.00% | ~79 |
-| The third floor | 18.00% | ~59 |
-| On the right path | 16.00% | ~53 |
-| One-way | 16.00% | ~53 |
-| It can't be true | 15.00% | ~49 |
-| I'm close now | 12.00% | ~39 |
-| Failed attempt | 12.00% | ~39 |
-| The real escape | 12.00% | ~39 |
-| Good choice | 12.00% | ~39 |
-| Take the long way round | 12.00% | ~39 |
-| He who seeks, finds! | 12.00% | ~39 |
-| Nightmare in the kitchen | 10.00% | ~33 |
-| Born again | 7.00% | ~23 |
-| 373 | 6.00% | ~20 |
-| The experiment | 6.00% | ~20 |
-| Matthew's revenge | 5.00% | ~16 |
-| Eva's diary | 3.00% | ~10 |
-| Horror book | 2.00% | ~7 |
-| A dark past | 2.00% | ~7 |
-| Matthew's mistakes | 0.60% | ~2 |
-| Sly as a fox | 0.60% | ~2 |
+| What's going on here? | 88.00% | ~417 |
+| Brute force | 80.00% | ~379 |
+| Nimble fingers | 77.00% | ~365 |
+| Room 104 | 77.00% | ~365 |
+| Face to face | 76.00% | ~360 |
+| Let's play a game… | 73.00% | ~346 |
+| Now or never | 73.00% | ~346 |
+| Soundtrack | 62.00% | ~294 |
+| First aid | 57.00% | ~270 |
+| Antidote | 48.00% | ~228 |
+| Pick the right door | 21.00% | ~100 |
+| The third floor | 16.00% | ~76 |
+| On the right path | 14.00% | ~66 |
+| One-way | 14.00% | ~66 |
+| It can't be true | 13.00% | ~62 |
+| He who seeks, finds! | 12.00% | ~57 |
+| I'm close now | 11.00% | ~52 |
+| Failed attempt | 11.00% | ~52 |
+| The real escape | 11.00% | ~52 |
+| Good choice | 11.00% | ~52 |
+| Take the long way round | 11.00% | ~52 |
+| Nightmare in the kitchen | 9.00% | ~43 |
+| Born again | 6.00% | ~28 |
+| The experiment | 5.00% | ~24 |
+| 373 | 4.00% | ~19 |
+| Matthew's revenge | 4.00% | ~19 |
+| Eva's diary | 2.00% | ~9 |
+| Horror book | 2.00% | ~9 |
+| A dark past | 1.00% | ~5 |
+| Matthew's mistakes | 0.40% | ~2 |
+| Sly as a fox | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 398)  
-Completed: 2 (0.61%) (Ranked 217)  
+Progressed: 474 (Ranked 368)  
+Completed: 2 (0.42%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,3 +166,4 @@ Completed: 2 (0.61%) (Ranked 217)
 | 2024-01-13 | 327 | 2 |
 | 2024-01-14 | 328 | 2 |
 | 2024-01-21 | 329 | 2 |
+| 2024-02-22 | 474 | 2 |

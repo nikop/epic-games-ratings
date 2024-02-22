@@ -2,10 +2,10 @@
   "ID": "5bfb9a04712d43cbb9e8e66fd112638f",
   "Name": "Songs for a Hero - Definitive Edition",
   "ProductSlug": "songs-for-a-hero-definitive-edition-cd4dce",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-07-08T03:00:00+00:00",
     "PcReleaseDate": "2021-07-08T03:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.0641252+00:00",
   "LastChanged": "2023-03-31T05:58:35.0641253+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:07.9432617+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:00:37.1480501+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:10:06.9192659+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:57:27.632946+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:17.421193+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 1083,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
-  "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 980,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4262,6 +4262,11 @@
       "Time": "2024-01-27T11:06:01.548085+00:00",
       "NumProgressed": 980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:03:37.4098395+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4279,9 +4284,9 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "COMPLETE_ALL_HISTORIC BATTLES_HIGHEST_MEDAL",
@@ -4297,7 +4302,7 @@
       "Name": "From the Pages of History",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -4321,7 +4326,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -4337,15 +4342,15 @@
       "Name": "Earth Shattering",
       "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 431
+      "UsersEstimate": 451
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 144
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -4353,7 +4358,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 144
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4368,7 +4373,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 980,
+      "Progressed": 1025,
       "Completed": 0
     }
   ],
@@ -4376,8 +4381,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-01-12T11:00:14.7563806+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:09:25.2405227+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:03:37.4098389+00:00",
   "LastUpdate_AppInfo": "2024-02-18T05:57:11.0954289+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:47.5986206+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:25.2405495+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:05.1932997+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:03:37.409876+00:00"
 }

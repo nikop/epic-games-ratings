@@ -5,10 +5,10 @@
   "Ranking_Rating": 57,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
-  "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 437,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5250,
+  "EOS_Progressed": 5257,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1234,6 +1234,11 @@
       "Time": "2024-01-22T17:06:20.90772+00:00",
       "NumProgressed": 5250,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-02-22T21:03:52.1130217+00:00",
+      "NumProgressed": 5257,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 49,
@@ -1245,7 +1250,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1945
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1253,7 +1258,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -1261,7 +1266,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1945
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1269,7 +1274,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1277,7 +1282,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -1285,7 +1290,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1472
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1293,7 +1298,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -1301,7 +1306,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2261
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1309,7 +1314,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -1317,7 +1322,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1333,7 +1338,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -1341,7 +1346,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -1349,15 +1354,15 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3207
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
       "SetID": "b8l3p0g",
       "Name": "Yummy!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 840
+      "UsersEstimate": 894
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -1373,7 +1378,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5152
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1381,7 +1386,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3312
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1389,7 +1394,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1682
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1397,7 +1402,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1421,7 +1426,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2576
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1429,7 +1434,7 @@
       "Name": "Don\u0027t Get Too Greedy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
@@ -1437,7 +1442,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -1445,7 +1450,7 @@
       "Name": "The Poison You Just Drank",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_1000",
@@ -1453,7 +1458,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4100
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1461,7 +1466,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1469,7 +1474,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2839
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1477,7 +1482,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -1485,7 +1490,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1493,7 +1498,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1509,7 +1514,7 @@
       "Name": "Survived The Slaughter",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVE_LVL_15_COMPLETE",
@@ -1517,7 +1522,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3102
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1533,7 +1538,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5152
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1541,7 +1546,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1682
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1549,7 +1554,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1557,7 +1562,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -1573,7 +1578,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -1589,7 +1594,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2839
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1605,7 +1610,7 @@
       "Name": "That Was Quick",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1613,7 +1618,7 @@
       "Name": "Are We Good Guys Or Bad Guys?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVE_SPARE_SLOB",
@@ -1621,7 +1626,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1735
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1629,22 +1634,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3732
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5250,
+      "Progressed": 5257,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:09:40.8190241+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:03:52.1130211+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:07.8050735+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:00:33.2726334+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:40.8191141+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:57:25.0894713+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:03:52.1130534+00:00"
 }

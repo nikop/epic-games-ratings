@@ -2,10 +2,10 @@
   "ID": "c2876cf882574b94b9df57cdf2e2025b",
   "Name": "Gori Cuddly Carnage",
   "ProductSlug": "gori-cuddly-carnage-8d3ed9",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,8 +30,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "cd9o9nf",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-02-22T21:03:54.1849774+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:03:54.1849764+00:00",
   "LastUpdate_AppInfo": "2024-02-19T13:57:18.366277+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:12.2410784+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:42.7249948+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:27.6875184+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:03:54.1849785+00:00"
 }

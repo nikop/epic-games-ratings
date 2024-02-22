@@ -5,10 +5,10 @@
   "Ranking_Rating": 475,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
-  "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 157,
+  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -453,9 +453,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21390,
+  "EOS_Progressed": 21538,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10853,6 +10853,11 @@
       "Time": "2024-01-27T03:10:25.5768267+00:00",
       "NumProgressed": 21390,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-02-22T21:05:36.8681847+00:00",
+      "NumProgressed": 21538,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -10864,7 +10869,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 428
+      "UsersEstimate": 431
     },
     {
       "ID": "FirstGlide",
@@ -10872,7 +10877,7 @@
       "Name": "Hang time",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "FirstSleep",
@@ -10880,7 +10885,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 646
     },
     {
       "ID": "FirstTame",
@@ -10888,7 +10893,7 @@
       "Name": "Forming bonds",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "MeetElder",
@@ -10896,7 +10901,7 @@
       "Name": "One VERY small step",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 856
+      "UsersEstimate": 862
     },
     {
       "ID": "MeetNok",
@@ -10904,7 +10909,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "MeetWitch",
@@ -10920,15 +10925,15 @@
       "Name": "Vertebrate hunter",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "PickupChitin",
       "SetID": "3c9im16",
       "Name": "Insect hunter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 642
+      "UsersEstimate": 431
     },
     {
       "ID": "PickupKey",
@@ -10944,7 +10949,7 @@
       "Name": "Metal Age",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "PickupSilk",
@@ -10952,7 +10957,7 @@
       "Name": "Smooth as silk",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "PickupStone",
@@ -10960,14 +10965,14 @@
       "Name": "Stone Age",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 428
+      "UsersEstimate": 431
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 21390,
+      "Progressed": 21538,
       "Completed": 18
     }
   ],
@@ -10975,8 +10980,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2024-02-18T08:59:58.0504359+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:28.8511028+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:36.8681845+00:00",
   "LastUpdate_AppInfo": "2024-02-17T21:57:19.3280967+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:49.7794728+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:28.8511597+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:16.2188158+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:05:36.8682469+00:00"
 }

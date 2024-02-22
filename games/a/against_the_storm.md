@@ -6,68 +6,68 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 10.00% | ~2,104 |
-| Abandoned Settlement | 10.00% | ~2,104 |
-| Overgrown Library | 10.00% | ~2,104 |
-| First Real Expedition | 9.00% | ~1,894 |
-| No Deaths | 9.00% | ~1,894 |
-| Petrified Necropolis | 9.00% | ~1,894 |
-| Overcoming Difficulty | 8.00% | ~1,683 |
-| Coral Forest | 8.00% | ~1,683 |
-| The Marshlands | 8.00% | ~1,683 |
-| The Scarlet Orchard | 7.00% | ~1,473 |
-| Frosts | 7.00% | ~1,473 |
-| Ominous Presence | 7.00% | ~1,473 |
-| Gathering Storm | 7.00% | ~1,473 |
-| Land of Greed | 6.00% | ~1,262 |
-| Homesick | 5.00% | ~1,052 |
-| Fertile Meadows | 5.00% | ~1,052 |
-| Monastery of the Holy Flame | 5.00% | ~1,052 |
-| Royal Outpost | 5.00% | ~1,052 |
-| Watchtower | 5.00% | ~1,052 |
-| A Real Challenge | 5.00% | ~1,052 |
-| Trade Baron | 5.00% | ~1,052 |
-| Ruined Armory | 4.00% | ~842 |
-| Bandit Camp | 4.00% | ~842 |
-| Ancient Battleground | 4.00% | ~842 |
-| Levitating Monument | 4.00% | ~842 |
-| Lost Colonies | 4.00% | ~842 |
-| Statue of the Forefathers | 4.00% | ~842 |
-| Corrosive Torrent | 4.00% | ~842 |
-| Cursed Lands | 4.00% | ~842 |
-| Untamed Wilds | 4.00% | ~842 |
-| Against All Odds | 3.00% | ~631 |
-| Barren Lands | 3.00% | ~631 |
-| Sparkdew Crystals | 3.00% | ~631 |
-| Haunted Forest | 3.00% | ~631 |
-| Flooded Mines | 3.00% | ~631 |
-| Defying the Crown | 3.00% | ~631 |
-| Serving Ale | 2.00% | ~421 |
-| Efficient Explorer | 2.00% | ~421 |
-| Refinery | 2.00% | ~421 |
-| Dangerous Lands | 2.00% | ~421 |
-| Fishmen Ritual Site | 2.00% | ~421 |
-| Forbidden Lands | 2.00% | ~421 |
-| Forsaken Gods Temple | 2.00% | ~421 |
-| Victory Through Prosperity | 2.00% | ~421 |
-| Into the Forest | 2.00% | ~421 |
-| Feeding The People | 1.00% | ~210 |
-| Like a Machine | 1.00% | ~210 |
-| Blood Flower Farmer | 0.70% | ~147 |
-| Prestigious Expedition | 0.60% | ~126 |
-| Fox Utopia | 0.60% | ~126 |
-| Human Utopia | 0.40% | ~84 |
-| Lizard Utopia | 0.40% | ~84 |
-| Beaver Utopia | 0.30% | ~63 |
-| Higher Needs | 0.20% | ~42 |
-| Harpy Utopia | 0.20% | ~42 |
-| The Queen's Chosen | 0.20% | ~42 |
-| Ruins | 0.20% | ~42 |
+| Overgrown Library | 12.00% | ~2,567 |
+| Abandoned Settlement | 11.00% | ~2,353 |
+| Petrified Necropolis | 11.00% | ~2,353 |
+| First Real Expedition | 10.00% | ~2,140 |
+| Taking Action | 10.00% | ~2,140 |
+| No Deaths | 10.00% | ~2,140 |
+| Overcoming Difficulty | 9.00% | ~1,926 |
+| The Marshlands | 9.00% | ~1,926 |
+| Gathering Storm | 9.00% | ~1,926 |
+| Coral Forest | 8.00% | ~1,712 |
+| The Scarlet Orchard | 8.00% | ~1,712 |
+| Frosts | 8.00% | ~1,712 |
+| Ominous Presence | 8.00% | ~1,712 |
+| Land of Greed | 7.00% | ~1,498 |
+| Royal Outpost | 6.00% | ~1,284 |
+| Watchtower | 6.00% | ~1,284 |
+| A Real Challenge | 6.00% | ~1,284 |
+| Homesick | 5.00% | ~1,070 |
+| Ruined Armory | 5.00% | ~1,070 |
+| Fertile Meadows | 5.00% | ~1,070 |
+| Levitating Monument | 5.00% | ~1,070 |
+| Monastery of the Holy Flame | 5.00% | ~1,070 |
+| Statue of the Forefathers | 5.00% | ~1,070 |
+| Corrosive Torrent | 5.00% | ~1,070 |
+| Trade Baron | 5.00% | ~1,070 |
+| Untamed Wilds | 5.00% | ~1,070 |
+| Against All Odds | 4.00% | ~856 |
+| Bandit Camp | 4.00% | ~856 |
+| Barren Lands | 4.00% | ~856 |
+| Ancient Battleground | 4.00% | ~856 |
+| Sparkdew Crystals | 4.00% | ~856 |
+| Haunted Forest | 4.00% | ~856 |
+| Flooded Mines | 4.00% | ~856 |
+| Lost Colonies | 4.00% | ~856 |
+| Cursed Lands | 4.00% | ~856 |
+| Serving Ale | 3.00% | ~642 |
+| Refinery | 3.00% | ~642 |
+| Fishmen Ritual Site | 3.00% | ~642 |
+| Victory Through Prosperity | 3.00% | ~642 |
+| Defying the Crown | 3.00% | ~642 |
+| Into the Forest | 3.00% | ~642 |
+| Feeding The People | 2.00% | ~428 |
+| Efficient Explorer | 2.00% | ~428 |
+| Dangerous Lands | 2.00% | ~428 |
+| Forbidden Lands | 2.00% | ~428 |
+| Forsaken Gods Temple | 2.00% | ~428 |
+| Like a Machine | 2.00% | ~428 |
+| Prestigious Expedition | 0.90% | ~193 |
+| Blood Flower Farmer | 0.80% | ~171 |
+| Fox Utopia | 0.60% | ~128 |
+| Human Utopia | 0.50% | ~107 |
+| Lizard Utopia | 0.50% | ~107 |
+| Beaver Utopia | 0.40% | ~86 |
+| Higher Needs | 0.30% | ~64 |
+| Harpy Utopia | 0.30% | ~64 |
+| The Queen's Chosen | 0.30% | ~64 |
+| Ruins | 0.30% | ~64 |
+| Treasure | 0.20% | ~43 |
 | Paradise | 0.10% | ~21 |
-| Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,041 (Ranked 157)  
-Completed: 37 (0.18%) (Ranked 297)  
+Progressed: 21,395 (Ranked 158)  
+Completed: 38 (0.18%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,6 +349,7 @@ Completed: 37 (0.18%) (Ranked 297)
 | 2024-01-25 | 21,012 | 36 |
 | 2024-01-26 | 21,026 | 36 |
 | 2024-01-27 | 21,041 | 37 |
+| 2024-02-22 | 21,395 | 38 |
 ## Awards
 Max (Great for Beginners): 466  (Ranked 237)  
 Sum: 3,466 (Ranked 180)  

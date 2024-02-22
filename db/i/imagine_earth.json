@@ -5,10 +5,10 @@
   "Ranking_Rating": 885,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
-  "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 458,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -533,6 +533,11 @@
       "Time": "2024-01-20T13:11:32.3420913+00:00",
       "NumProgressed": 451,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:03:38.2026396+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -542,9 +547,9 @@
       "ID": "Builder",
       "SetID": "c2k469b",
       "Name": "Builder",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "CampaignStars1",
@@ -552,7 +557,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "CampaignStars2",
@@ -560,7 +565,7 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CampaignStars3",
@@ -568,7 +573,7 @@
       "Name": "Campaign Gold",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CampaignStars4",
@@ -608,7 +613,7 @@
       "Name": "Environmentalist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Forester",
@@ -624,7 +629,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "Multitalent",
@@ -640,7 +645,7 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "PlanetEdora",
@@ -648,7 +653,7 @@
       "Name": "Edora",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PlanetIqunox",
@@ -664,7 +669,7 @@
       "Name": "Joma",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 192
     },
     {
       "ID": "PlanetLorian",
@@ -672,7 +677,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "PlanetMagni",
@@ -680,7 +685,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PlanetRounos",
@@ -688,7 +693,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "PlanetThera",
@@ -704,15 +709,15 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 270
     },
     {
       "ID": "PlanetUdionTorix",
       "SetID": "c2k469b",
       "Name": "Udion Torix",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "Scientist",
@@ -720,7 +725,7 @@
       "Name": "Scientist",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "WorldCreator",
@@ -735,7 +740,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 458,
       "Completed": 0
     }
   ],
@@ -743,8 +748,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:09:26.1736212+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:03:38.2026391+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:58.6748377+00:00",
   "LastUpdate_Ratings": "2024-02-22T19:59:34.349119+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:26.1736418+00:00"
+  "LastUpdate_Achievements": "2024-02-22T21:03:38.2026528+00:00"
 }

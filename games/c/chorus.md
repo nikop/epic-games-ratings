@@ -6,52 +6,52 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,213 |
-| Space Traveler | 77.00% | ~1,112 |
-| Voices from the Past | 76.00% | ~1,097 |
-| Demigod | 74.00% | ~1,069 |
-| The Great Destroyer | 72.00% | ~1,040 |
-| Shields Down | 69.00% | ~996 |
-| Helping Hand | 65.00% | ~939 |
-| Safe Home | 64.00% | ~924 |
-| Paragon | 60.00% | ~866 |
-| Old Days Born Anew | 59.00% | ~852 |
-| Full Arsenal | 54.00% | ~780 |
-| Controlled Demolition | 53.00% | ~765 |
-| Payback | 51.00% | ~736 |
-| Huntress | 51.00% | ~736 |
-| Born to Drift | 49.00% | ~708 |
-| Relentless | 47.00% | ~679 |
-| The Path Forward | 43.00% | ~621 |
-| Disruption | 42.00% | ~606 |
-| Phoenix | 42.00% | ~606 |
-| Cult Slayer | 39.00% | ~563 |
-| Origin | 38.00% | ~549 |
-| It Was An Accident | 38.00% | ~549 |
-| Set in Motion | 36.00% | ~520 |
-| In the Eye of the Storm | 36.00% | ~520 |
-| The Crimson Void | 33.00% | ~477 |
-| The Nameless Dread | 33.00% | ~477 |
-| Time to Spear | 30.00% | ~433 |
-| Mastery of Weapons | 29.00% | ~419 |
-| Disciple | 29.00% | ~419 |
-| Ghosts | 25.00% | ~361 |
-| Two Birds | 25.00% | ~361 |
-| Uneasy Alliance | 24.00% | ~347 |
-| Mastery of Combat | 23.00% | ~332 |
-| Retaliate | 22.00% | ~318 |
-| Mastery of Rites | 21.00% | ~303 |
-| Power Chord | 21.00% | ~303 |
-| Crash Test | 21.00% | ~303 |
-| Ascension | 20.00% | ~289 |
-| Rise as One | 19.00% | ~274 |
-| Showoff | 14.00% | ~202 |
-| Overcharged | 10.00% | ~144 |
-| Radiation Area | 10.00% | ~144 |
-| At Least You Tried | 2.00% | ~29 |
+| Another Life | 84.00% | ~1,253 |
+| Space Traveler | 77.00% | ~1,149 |
+| Voices from the Past | 76.00% | ~1,134 |
+| Demigod | 73.00% | ~1,089 |
+| The Great Destroyer | 72.00% | ~1,074 |
+| Shields Down | 69.00% | ~1,029 |
+| Helping Hand | 64.00% | ~955 |
+| Safe Home | 64.00% | ~955 |
+| Paragon | 60.00% | ~895 |
+| Old Days Born Anew | 58.00% | ~865 |
+| Controlled Demolition | 53.00% | ~791 |
+| Full Arsenal | 53.00% | ~791 |
+| Payback | 50.00% | ~746 |
+| Huntress | 50.00% | ~746 |
+| Born to Drift | 49.00% | ~731 |
+| Relentless | 47.00% | ~701 |
+| The Path Forward | 43.00% | ~642 |
+| Phoenix | 42.00% | ~627 |
+| Disruption | 41.00% | ~612 |
+| Cult Slayer | 39.00% | ~582 |
+| Origin | 38.00% | ~567 |
+| It Was An Accident | 38.00% | ~567 |
+| Set in Motion | 36.00% | ~537 |
+| In the Eye of the Storm | 36.00% | ~537 |
+| The Crimson Void | 33.00% | ~492 |
+| The Nameless Dread | 33.00% | ~492 |
+| Time to Spear | 30.00% | ~448 |
+| Mastery of Weapons | 29.00% | ~433 |
+| Disciple | 29.00% | ~433 |
+| Ghosts | 25.00% | ~373 |
+| Two Birds | 25.00% | ~373 |
+| Uneasy Alliance | 24.00% | ~358 |
+| Mastery of Combat | 23.00% | ~343 |
+| Retaliate | 22.00% | ~328 |
+| Mastery of Rites | 21.00% | ~313 |
+| Power Chord | 21.00% | ~313 |
+| Crash Test | 21.00% | ~313 |
+| Ascension | 20.00% | ~298 |
+| Rise as One | 19.00% | ~283 |
+| Showoff | 14.00% | ~209 |
+| Overcharged | 10.00% | ~149 |
+| Radiation Area | 10.00% | ~149 |
+| At Least You Tried | 2.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,444 (Ranked 278)  
-Completed: 21 (1.45%) (Ranked 157)  
+Progressed: 1,492 (Ranked 283)  
+Completed: 23 (1.54%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,6 +283,7 @@ Completed: 21 (1.45%) (Ranked 157)
 | 2024-01-25 | 1,443 | 20 |
 | 2024-01-26 | 1,444 | 20 |
 | 2024-01-27 | 1,444 | 21 |
+| 2024-02-22 | 1,492 | 23 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 520)  
 Sum: 35 (Ranked 555)  

@@ -44,8 +44,8 @@
 | Superbike Superfan | 0.70% | ~2 |
 | Playing Favourites | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276 (Ranked 420)  
-Completed: 2 (0.72%) (Ranked 208)  
+Progressed: 276 (Ranked 423)  
+Completed: 2 (0.72%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

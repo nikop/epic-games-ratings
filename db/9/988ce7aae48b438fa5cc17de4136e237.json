@@ -2,10 +2,10 @@
   "ID": "988ce7aae48b438fa5cc17de4136e237",
   "Name": "Anime vs Evil: Apocalypse",
   "ProductSlug": "anime-vs-evil-apocalypse-4c8f91",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-11T07:00:00+00:00",
     "PcReleaseDate": "2023-02-16T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-14T00:03:00.2837058+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:14.2891118+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:12.6879747+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:21.34288+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:59:29.6929297+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:03:33.7006063+00:00"
 }

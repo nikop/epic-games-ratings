@@ -2,10 +2,10 @@
   "ID": "ee536353cc504f92bc392af91aea0ddb",
   "Name": "Super Arcade Boy in Defender of Planet Earth",
   "ProductSlug": "super-arcade-boy-in-defender-of-planet-earth-e57b80",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-05T23:00:00+00:00",
     "PcReleaseDate": "2017-02-21T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-18T03:57:19.5615056+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:47.0053596+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:14.4622575+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:03.1240563+00:00"
 }

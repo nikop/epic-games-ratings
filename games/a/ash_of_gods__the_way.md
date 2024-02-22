@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 89.00% | ~73 |
-| Suicide squad | 50.00% | ~41 |
-| Train hard, fight easy | 34.00% | ~28 |
-| Under cover | 34.00% | ~28 |
-| First blood | 34.00% | ~28 |
-| Royal blessing | 29.00% | ~24 |
-| Blood and sand | 24.00% | ~20 |
-| A hidden snake | 23.00% | ~19 |
-| Surpass the teacher | 21.00% | ~17 |
-| Power of Inquisition | 18.00% | ~15 |
-| All for one! | 18.00% | ~15 |
-| Help of the Gell | 18.00% | ~15 |
-| Crimson rivers | 17.00% | ~14 |
-| She-Wolf | 17.00% | ~14 |
-| Vene, vidi, vici | 16.00% | ~13 |
-| Rage | 16.00% | ~13 |
-| Trial by cold | 15.00% | ~12 |
-| Berkanan Borgia | 13.00% | ~11 |
-| For the greater good | 11.00% | ~9 |
-| The champion of the arena | 9.00% | ~7 |
-| Stronger than Gellian steel | 9.00% | ~7 |
-| Punish the Punisher | 9.00% | ~7 |
-| The End | 9.00% | ~7 |
+| First success | 89.00% | ~81 |
+| Suicide squad | 51.00% | ~46 |
+| Train hard, fight easy | 34.00% | ~31 |
+| Under cover | 34.00% | ~31 |
+| First blood | 34.00% | ~31 |
+| Royal blessing | 27.00% | ~25 |
+| Blood and sand | 24.00% | ~22 |
+| A hidden snake | 23.00% | ~21 |
+| Power of Inquisition | 19.00% | ~17 |
+| Surpass the teacher | 19.00% | ~17 |
+| Help of the Gell | 19.00% | ~17 |
+| Crimson rivers | 18.00% | ~16 |
+| All for one! | 18.00% | ~16 |
+| Vene, vidi, vici | 16.00% | ~15 |
+| She-Wolf | 16.00% | ~15 |
+| Rage | 15.00% | ~14 |
+| Trial by cold | 14.00% | ~13 |
+| Berkanan Borgia | 13.00% | ~12 |
+| For the greater good | 11.00% | ~10 |
+| The End | 9.00% | ~8 |
+| The champion of the arena | 8.00% | ~7 |
+| Stronger than Gellian steel | 8.00% | ~7 |
+| Punish the Punisher | 8.00% | ~7 |
+| Cunning plan | 8.00% | ~7 |
 | Collector | 7.00% | ~6 |
 | Overplay the rogue | 7.00% | ~6 |
-| First among Frisians | 6.00% | ~5 |
-| Defeat the bear | 6.00% | ~5 |
-| Protect the Healer! | 6.00% | ~5 |
-| Cunning plan | 6.00% | ~5 |
-| Nothing is settled | 6.00% | ~5 |
-| The best apprentice | 5.00% | ~4 |
-| By own strength | 5.00% | ~4 |
-| Supplier | 4.00% | ~3 |
-| Deadly strike | 4.00% | ~3 |
-| Do it yourself | 4.00% | ~3 |
-| There can be only one | 4.00% | ~3 |
-| All's fair in love and war | 4.00% | ~3 |
+| Defeat the bear | 7.00% | ~6 |
+| Protect the Healer! | 7.00% | ~6 |
+| First among Frisians | 5.00% | ~5 |
+| Nothing is settled | 5.00% | ~5 |
+| The best apprentice | 4.00% | ~4 |
+| By own strength | 4.00% | ~4 |
+| Do it yourself | 4.00% | ~4 |
+| There can be only one | 4.00% | ~4 |
+| All's fair in love and war | 4.00% | ~4 |
+| Supplier | 3.00% | ~3 |
+| Deadly strike | 3.00% | ~3 |
+| Happily ever after | 3.00% | ~3 |
 | The power of persuasion | 2.00% | ~2 |
 | A solo player | 2.00% | ~2 |
 | By someone else's hands | 2.00% | ~2 |
-| Happily ever after | 2.00% | ~2 |
 | Master of the Way | 1.00% | ~1 |
 | Blood and honour | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |
@@ -54,8 +54,8 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 530)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 91 (Ranked 522)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-12 | 79 | 0 |
 | 2024-01-13 | 80 | 0 |
 | 2024-01-24 | 82 | 0 |
+| 2024-02-22 | 91 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

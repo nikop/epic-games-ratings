@@ -2,10 +2,10 @@
   "ID": "2702c221dbdb49a68e76b2914d58a1ed",
   "Name": "Victorian Admirals Marianas Incident 1887",
   "ProductSlug": "victorian-admirals-marianas-incident-1887-7d4e70",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-07T16:57:19.0718258+00:00",
   "LastUpdate_AppInfo": "2024-02-16T14:57:16.740892+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:47.0808976+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:59:02.7758804+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:58.8339667+00:00"
 }

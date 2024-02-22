@@ -2,10 +2,10 @@
   "ID": "e0d29e191fa2496988847887a8d31e74",
   "Name": "JUSTICE SUCKS: Tactical Vacuum Action",
   "ProductSlug": "justice-sucks-bbf069",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-08T16:00:00+00:00",
     "PcReleaseDate": "2022-09-08T16:00:00+00:00",
@@ -53,6 +53,6 @@
   "LastChanged": "2023-03-31T05:58:26.9360281+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:55.9487311+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:12.5793591+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:40.1838294+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:55.7429309+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:55.948733+00:00"
 }

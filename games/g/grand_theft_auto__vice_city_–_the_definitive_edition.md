@@ -5,43 +5,43 @@ Rating: 4.53 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,860 |
-| Greasy Palms | 43.00% | ~7,191 |
-| South American Connection | 27.00% | ~4,515 |
-| Life of the Party | 22.00% | ~3,679 |
-| Big Heat from Little Havana | 16.00% | ~2,676 |
-| Chauffeur | 16.00% | ~2,676 |
-| Tommy Two-Wheels | 16.00% | ~2,676 |
-| Salutations My Little Friend | 12.00% | ~2,007 |
-| Iron-y | 10.00% | ~1,672 |
-| Gun for Hire | 10.00% | ~1,672 |
-| Mischief Managed | 9.00% | ~1,505 |
-| Vice City Mogul | 7.00% | ~1,171 |
-| Catch Me if You Can | 7.00% | ~1,171 |
-| Bloodstained Hands | 7.00% | ~1,171 |
-| Grand Theft Auto | 6.00% | ~1,003 |
-| Not my First Time | 5.00% | ~836 |
-| High Quality H2O | 4.00% | ~669 |
-| Pie Guy | 4.00% | ~669 |
-| Running Rampant | 3.00% | ~502 |
-| Point A to Point B | 3.00% | ~502 |
-| Bull in a China Shop | 3.00% | ~502 |
-| Somebody Call the Wambulance? | 3.00% | ~502 |
-| Just Like the Real Thing | 3.00% | ~502 |
-| Don't Need Roads | 3.00% | ~502 |
-| Take the Cannoli | 3.00% | ~502 |
-| City Sleuth | 3.00% | ~502 |
-| One is Better Than Two | 2.00% | ~334 |
-| Chopper’d Up | 2.00% | ~334 |
-| Born in the 80’s | 1.00% | ~167 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~167 |
-| I'm Famous! | 1.00% | ~167 |
-| Daredevil | 1.00% | ~167 |
-| Done it All | 1.00% | ~167 |
-| Kingpin | 0.70% | ~117 |
+| Legal Counsel | 48.00% | ~8,231 |
+| Greasy Palms | 43.00% | ~7,374 |
+| South American Connection | 28.00% | ~4,801 |
+| Life of the Party | 22.00% | ~3,773 |
+| Tommy Two-Wheels | 17.00% | ~2,915 |
+| Big Heat from Little Havana | 16.00% | ~2,744 |
+| Chauffeur | 16.00% | ~2,744 |
+| Salutations My Little Friend | 12.00% | ~2,058 |
+| Iron-y | 11.00% | ~1,886 |
+| Gun for Hire | 10.00% | ~1,715 |
+| Mischief Managed | 10.00% | ~1,715 |
+| Vice City Mogul | 7.00% | ~1,200 |
+| Catch Me if You Can | 7.00% | ~1,200 |
+| Bloodstained Hands | 7.00% | ~1,200 |
+| Grand Theft Auto | 6.00% | ~1,029 |
+| Not my First Time | 5.00% | ~857 |
+| Pie Guy | 5.00% | ~857 |
+| Point A to Point B | 4.00% | ~686 |
+| High Quality H2O | 4.00% | ~686 |
+| Don't Need Roads | 4.00% | ~686 |
+| Running Rampant | 3.00% | ~514 |
+| Bull in a China Shop | 3.00% | ~514 |
+| Somebody Call the Wambulance? | 3.00% | ~514 |
+| Just Like the Real Thing | 3.00% | ~514 |
+| Take the Cannoli | 3.00% | ~514 |
+| City Sleuth | 3.00% | ~514 |
+| One is Better Than Two | 2.00% | ~343 |
+| Chopper’d Up | 2.00% | ~343 |
+| Born in the 80’s | 1.00% | ~171 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~171 |
+| I'm Famous! | 1.00% | ~171 |
+| Daredevil | 1.00% | ~171 |
+| Done it All | 1.00% | ~171 |
+| Kingpin | 0.70% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,724 (Ranked 172)  
-Completed: 110 (0.66%) (Ranked 213)  
+Progressed: 17,148 (Ranked 173)  
+Completed: 124 (0.72%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,6 +323,7 @@ Completed: 110 (0.66%) (Ranked 213)
 | 2024-01-25 | 16,701 | 109 |
 | 2024-01-26 | 16,716 | 110 |
 | 2024-01-27 | 16,724 | 110 |
+| 2024-02-22 | 17,148 | 124 |
 ## Awards
 Max (Highly Recommended): 21  (Ranked 591)  
 Sum: 42 (Ranked 542)  

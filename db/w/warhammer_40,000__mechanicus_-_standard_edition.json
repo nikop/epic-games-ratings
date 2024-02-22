@@ -6,9 +6,9 @@
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1206,9 +1206,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 233191,
+  "EOS_Progressed": 234947,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32221,6 +32221,11 @@
       "Time": "2024-01-27T13:11:35.6204666+00:00",
       "NumProgressed": 233191,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-02-22T21:05:43.4843709+00:00",
+      "NumProgressed": 234947,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -32232,7 +32237,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46638
+      "UsersEstimate": 46989
     },
     {
       "ID": "ACH_BASE_10",
@@ -32240,15 +32245,15 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60630
+      "UsersEstimate": 61086
     },
     {
       "ID": "ACH_BASE_11",
       "SetID": "880fehc",
       "Name": "False God",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 700
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_BASE_12",
@@ -32256,7 +32261,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9398
     },
     {
       "ID": "ACH_BASE_13",
@@ -32264,7 +32269,7 @@
       "Name": "Cohortus Maximus",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1880
     },
     {
       "ID": "ACH_BASE_15",
@@ -32272,7 +32277,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23319
+      "UsersEstimate": 23495
     },
     {
       "ID": "ACH_BASE_16",
@@ -32280,15 +32285,15 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23319
+      "UsersEstimate": 23495
     },
     {
       "ID": "ACH_BASE_17",
       "SetID": "880fehc",
       "Name": "Taser Goad",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 20987
+      "UsersEstimate": 23495
     },
     {
       "ID": "ACH_BASE_18",
@@ -32296,7 +32301,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23319
+      "UsersEstimate": 23495
     },
     {
       "ID": "ACH_BASE_19",
@@ -32304,7 +32309,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACH_BASE_2",
@@ -32312,7 +32317,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13991
+      "UsersEstimate": 14097
     },
     {
       "ID": "ACH_BASE_20",
@@ -32320,7 +32325,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6996
+      "UsersEstimate": 7048
     },
     {
       "ID": "ACH_BASE_21",
@@ -32328,7 +32333,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACH_BASE_22",
@@ -32336,7 +32341,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACH_BASE_23",
@@ -32344,7 +32349,7 @@
       "Name": "Sterile Perfection",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_24",
@@ -32352,7 +32357,7 @@
       "Name": "Mother of Xenarites",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 933
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_BASE_25",
@@ -32360,7 +32365,7 @@
       "Name": "Hard",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_BASE_26",
@@ -32368,7 +32373,7 @@
       "Name": "Impossible",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_27",
@@ -32376,7 +32381,7 @@
       "Name": "Sensory overload",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_BASE_28",
@@ -32384,7 +32389,7 @@
       "Name": "Transonic Blur",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_BASE_29",
@@ -32392,7 +32397,7 @@
       "Name": "Melee Machine",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_3",
@@ -32400,7 +32405,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9398
     },
     {
       "ID": "ACH_BASE_30",
@@ -32408,7 +32413,7 @@
       "Name": "AoE-phobia",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_31",
@@ -32416,7 +32421,7 @@
       "Name": "Zero to Hero",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_32",
@@ -32424,7 +32429,7 @@
       "Name": "No Omnissian Guidance",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_33",
@@ -32432,7 +32437,7 @@
       "Name": "Not the Men-of-Iron",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 466
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_BASE_34",
@@ -32440,7 +32445,7 @@
       "Name": "Perma-live",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_35",
@@ -32448,7 +32453,7 @@
       "Name": "Purge the Heretek",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_4",
@@ -32456,7 +32461,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6996
+      "UsersEstimate": 7048
     },
     {
       "ID": "ACH_BASE_5",
@@ -32464,7 +32469,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACH_BASE_6",
@@ -32472,7 +32477,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACH_BASE_7",
@@ -32480,7 +32485,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30315
+      "UsersEstimate": 30543
     },
     {
       "ID": "ACH_BASE_8",
@@ -32488,7 +32493,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9398
     },
     {
       "ID": "ACH_BASE_9",
@@ -32496,14 +32501,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20987
+      "UsersEstimate": 21145
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 233191,
+      "Progressed": 234947,
       "Completed": 5
     }
   ],
@@ -32511,8 +32516,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-02-20T22:58:16.0890596+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:35.6204664+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:43.4843707+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:57:03.4406476+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:11.0699695+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:35.6205887+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:57:50.5644809+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:05:43.4845675+00:00"
 }

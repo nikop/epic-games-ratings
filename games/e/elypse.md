@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 97.00% | ~139 |
-| A bottomless pit | 80.00% | ~114 |
-| Pigeon | 77.00% | ~110 |
-| Baited | 66.00% | ~94 |
-| "Swoosh" | 59.00% | ~84 |
-| The light at the end of the tunnel | 59.00% | ~84 |
-| Masochistic | 54.00% | ~77 |
-| Soft skin | 50.00% | ~72 |
-| Splash! | 48.00% | ~69 |
-| Squid game | 42.00% | ~60 |
-| Rock Solid | 34.00% | ~49 |
-| Sensitive soul | 34.00% | ~49 |
-| The beast within | 32.00% | ~46 |
-| It's getting dark | 32.00% | ~46 |
-| Rooftop | 29.00% | ~41 |
-| Homeless | 29.00% | ~41 |
-| Hard Rock | 29.00% | ~41 |
-| Big badaboom! | 28.00% | ~40 |
-| Payback | 25.00% | ~36 |
-| Nokron tower | 24.00% | ~34 |
-| Bookworm | 24.00% | ~34 |
-| Full power | 23.00% | ~33 |
-| "Ah sh*t... Here we go again!" | 23.00% | ~33 |
-| Compulsive hoarder | 22.00% | ~31 |
-| Magnitude 5 | 22.00% | ~31 |
-| GG EZ | 17.00% | ~24 |
-| Comeback | 17.00% | ~24 |
-| MayDay! MayDay! | 10.00% | ~14 |
-| Gooooooaaaaal!!! | 8.00% | ~11 |
+| A path of no return | 96.00% | ~141 |
+| A bottomless pit | 79.00% | ~116 |
+| Pigeon | 76.00% | ~112 |
+| Baited | 66.00% | ~97 |
+| "Swoosh" | 59.00% | ~87 |
+| The light at the end of the tunnel | 59.00% | ~87 |
+| Masochistic | 54.00% | ~79 |
+| Soft skin | 51.00% | ~75 |
+| Splash! | 48.00% | ~71 |
+| Squid game | 43.00% | ~63 |
+| Rock Solid | 35.00% | ~51 |
+| Sensitive soul | 34.00% | ~50 |
+| The beast within | 33.00% | ~49 |
+| It's getting dark | 33.00% | ~49 |
+| Hard Rock | 31.00% | ~46 |
+| Rooftop | 30.00% | ~44 |
+| Homeless | 29.00% | ~43 |
+| Big badaboom! | 29.00% | ~43 |
+| Payback | 26.00% | ~38 |
+| Nokron tower | 25.00% | ~37 |
+| Full power | 24.00% | ~35 |
+| "Ah sh*t... Here we go again!" | 24.00% | ~35 |
+| Bookworm | 24.00% | ~35 |
+| Compulsive hoarder | 22.00% | ~32 |
+| Magnitude 5 | 21.00% | ~31 |
+| GG EZ | 17.00% | ~25 |
+| Comeback | 17.00% | ~25 |
+| MayDay! MayDay! | 10.00% | ~15 |
+| Gooooooaaaaal!!! | 7.00% | ~10 |
 | Sadistic | 1.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143 (Ranked 482)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 147 (Ranked 481)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,3 +122,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-20 | 141 | 0 |
 | 2024-01-22 | 142 | 0 |
 | 2024-01-25 | 143 | 0 |
+| 2024-02-22 | 147 | 0 |

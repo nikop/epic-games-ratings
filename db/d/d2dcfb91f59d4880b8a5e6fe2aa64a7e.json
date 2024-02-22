@@ -2,10 +2,10 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 565,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -283,9 +283,9 @@
       "ID": "BABY_STEPS",
       "SetID": "63n2m0e",
       "Name": "Baby Steps",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "COINS",
@@ -347,9 +347,9 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EVADER",
@@ -458,8 +458,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:14.4290618+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:22.7885021+00:00",
   "LastUpdate_AppInfo": "2024-02-21T17:57:19.6090149+00:00",
   "LastUpdate_Ratings": "2024-02-22T19:59:52.0630014+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:14.4290732+00:00"
+  "LastUpdate_Achievements": "2024-02-22T21:05:22.7885155+00:00"
 }

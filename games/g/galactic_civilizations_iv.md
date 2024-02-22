@@ -6,64 +6,65 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,850 |
-| Worker Specialization | 76.00% | ~5,774 |
-| First Contact | 72.00% | ~5,471 |
-| Win a Battle | 65.00% | ~4,939 |
-| Anomaly Researcher | 60.00% | ~4,559 |
-| Unleash My Power | 60.00% | ~4,559 |
-| Own 30 Planets | 32.00% | ~2,431 |
-| Xenocide | 31.00% | ~2,355 |
-| Design a Civilization | 31.00% | ~2,355 |
-| Commodity Trader | 29.00% | ~2,203 |
-| Design a Ship | 27.00% | ~2,051 |
-| Commodity Seller | 24.00% | ~1,824 |
-| Prestige Victory! | 13.00% | ~988 |
-| Galactic War | 10.00% | ~760 |
-| Trading Partner | 9.00% | ~684 |
-| Fleet Victory | 8.00% | ~608 |
-| Win as Terrans | 7.00% | ~532 |
-| Gain an Ally | 6.00% | ~456 |
-| Win with a Custom Faction | 6.00% | ~456 |
-| War with the Unknown | 5.00% | ~380 |
-| Conquest Victory! | 4.00% | ~304 |
-| Win Quickly | 4.00% | ~304 |
-| Pirate Cleansing | 3.00% | ~228 |
-| Recruit a Leader | 3.00% | ~228 |
-| Win an Immense Game | 3.00% | ~228 |
-| Ask Not What Your Empire Can Do For You | 2.00% | ~152 |
-| Hyperspace! | 2.00% | ~152 |
-| Veteran Crew | 2.00% | ~152 |
-| Artifact Mastery | 2.00% | ~152 |
-| Win as Altarians | 2.00% | ~152 |
-| Win as the Yor | 2.00% | ~152 |
-| Influence Victory! | 2.00% | ~152 |
-| Win as the Baratak | 1.00% | ~76 |
-| Win as the Mimot | 1.00% | ~76 |
-| Recruit a Dozen Leaders | 0.90% | ~68 |
-| Win as Arceans | 0.90% | ~68 |
-| Win as Festron | 0.90% | ~68 |
-| Win as the Navigators | 0.90% | ~68 |
-| Commodity Seller, Level 2 | 0.80% | ~61 |
+| Colonize a Planet | 77.00% | ~5,914 |
+| Worker Specialization | 76.00% | ~5,838 |
+| First Contact | 72.00% | ~5,530 |
+| Win a Battle | 65.00% | ~4,993 |
+| Anomaly Researcher | 60.00% | ~4,609 |
+| Unleash My Power | 60.00% | ~4,609 |
+| Own 30 Planets | 32.00% | ~2,458 |
+| Xenocide | 31.00% | ~2,381 |
+| Design a Civilization | 31.00% | ~2,381 |
+| Commodity Trader | 30.00% | ~2,304 |
+| Design a Ship | 27.00% | ~2,074 |
+| Commodity Seller | 25.00% | ~1,920 |
+| Prestige Victory! | 13.00% | ~999 |
+| Galactic War | 10.00% | ~768 |
+| Trading Partner | 9.00% | ~691 |
+| Fleet Victory | 8.00% | ~614 |
+| Win as Terrans | 7.00% | ~538 |
+| Gain an Ally | 6.00% | ~461 |
+| Recruit a Leader | 6.00% | ~461 |
+| War with the Unknown | 6.00% | ~461 |
+| Win with a Custom Faction | 6.00% | ~461 |
+| Ask Not What Your Empire Can Do For You | 4.00% | ~307 |
+| Veteran Crew | 4.00% | ~307 |
+| Conquest Victory! | 4.00% | ~307 |
+| Win Quickly | 4.00% | ~307 |
+| Pirate Cleansing | 3.00% | ~230 |
+| Hyperspace! | 3.00% | ~230 |
+| Artifact Mastery | 3.00% | ~230 |
+| Win an Immense Game | 3.00% | ~230 |
+| Commodity Trader - Level 2 | 2.00% | ~154 |
+| Recruit a Dozen Leaders | 2.00% | ~154 |
+| Commodity Seller, Level 2 | 2.00% | ~154 |
+| Win as Altarians | 2.00% | ~154 |
+| Win as the Yor | 2.00% | ~154 |
+| Influence Victory! | 2.00% | ~154 |
+| Solid Economy | 1.00% | ~77 |
+| Commodity Guru | 1.00% | ~77 |
+| Commodity Selling Guru | 1.00% | ~77 |
+| Win as the Baratak | 1.00% | ~77 |
+| Win as the Mimot | 1.00% | ~77 |
+| Win as Arceans | 0.90% | ~69 |
+| Win as Festron | 0.90% | ~69 |
+| Win as the Navigators | 0.90% | ~69 |
 | Win as the Krynn | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
-| Win as the Drengin | 0.70% | ~53 |
-| Win as Xeloxi | 0.70% | ~53 |
-| Commodity Trader - Level 2 | 0.60% | ~46 |
-| Commodity Selling Guru | 0.60% | ~46 |
+| Win as the Drengin | 0.70% | ~54 |
+| Win as Xeloxi | 0.70% | ~54 |
 | Win as the Drath | 0.60% | ~46 |
 | Win as the Iridium | 0.60% | ~46 |
 | Win as the Manti | 0.60% | ~46 |
 | Win as the Onyx | 0.60% | ~46 |
 | Diplomatic Victory! | 0.60% | ~46 |
-| Solid Economy | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
-| Commodity Guru | 0.40% | ~30 |
-| Iconia Reclaimed! | 0.30% | ~23 |
+| The Plague | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
+| Iconia Reclaimed! | 0.20% | ~15 |
 | Yor Dead Iconians | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
-| The Plague | 0.10% | ~8 |
+| Shard of the Mithrilar | 0.10% | ~8 |
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
@@ -74,13 +75,12 @@ Number of Ratings: 429  (23.09.2022)
 | Against the Tide | 0.00% | ~0 |
 | Breeding Season | 0.00% | ~0 |
 | The Orb of Draginol | 0.00% | ~0 |
-| Shard of the Mithrilar | 0.00% | ~0 |
 | The Everwar | 0.00% | ~0 |
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,598 (Ranked 200)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 7,681 (Ranked 201)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -361,6 +361,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-25 | 7,588 | 0 |
 | 2024-01-26 | 7,593 | 0 |
 | 2024-01-27 | 7,598 | 0 |
+| 2024-02-22 | 7,681 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 392)  
 Sum: 702 (Ranked 319)  

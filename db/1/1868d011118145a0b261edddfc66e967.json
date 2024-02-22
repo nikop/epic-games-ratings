@@ -2,10 +2,10 @@
   "ID": "1868d011118145a0b261edddfc66e967",
   "Name": null,
   "ProductSlug": "mxr-9f57f7",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,5 +29,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-20T23:57:15.0848776+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:44.907688+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:02.5063155+00:00"
 }

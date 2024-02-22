@@ -5,32 +5,32 @@ Rating: 4.58 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,241 |
-| Household | 7.00% | ~100 |
-| An Old Friend | 6.00% | ~86 |
-| Lot 49 | 5.00% | ~71 |
-| Viva La Revolution | 5.00% | ~71 |
-| Atomic Soda | 4.00% | ~57 |
-| Shadow over Trudograd | 4.00% | ~57 |
-| Walking Fortress | 4.00% | ~57 |
-| Freelance Police | 3.00% | ~43 |
-| Mysterious Knife | 3.00% | ~43 |
-| The Great and Powerful | 3.00% | ~43 |
+| Fresh Prince of Trudograd | 87.00% | ~1,280 |
+| Household | 7.00% | ~103 |
+| An Old Friend | 6.00% | ~88 |
+| Lot 49 | 5.00% | ~74 |
+| Viva La Revolution | 5.00% | ~74 |
+| Atomic Soda | 4.00% | ~59 |
+| Mysterious Knife | 4.00% | ~59 |
+| Shadow over Trudograd | 4.00% | ~59 |
+| Walking Fortress | 4.00% | ~59 |
+| Freelance Police | 3.00% | ~44 |
+| The Great and Powerful | 3.00% | ~44 |
 | Albino Bloodsucker | 2.00% | ~29 |
 | Fight Club | 2.00% | ~29 |
 | Human Antidote | 2.00% | ~29 |
-| Death of the Author | 1.00% | ~14 |
-| Memoirs of a Nibbler | 0.90% | ~13 |
-| Rising Star | 0.80% | ~11 |
-| KGB Bunker | 0.70% | ~10 |
-| Baby Eater | 0.60% | ~9 |
+| Death of the Author | 1.00% | ~15 |
+| Memoirs of a Nibbler | 1.00% | ~15 |
+| Rising Star | 0.90% | ~13 |
+| KGB Bunker | 0.80% | ~12 |
 | Sixth Sense | 0.60% | ~9 |
-| Admiral | 0.40% | ~6 |
+| Baby Eater | 0.50% | ~7 |
 | Incompetence | 0.40% | ~6 |
-| Goose Sacrifice | 0.40% | ~6 |
+| Admiral | 0.30% | ~4 |
 | Bronzovka | 0.30% | ~4 |
 | Commando | 0.30% | ~4 |
 | Holy Mountain | 0.30% | ~4 |
+| Goose Sacrifice | 0.30% | ~4 |
 | Second Thought | 0.30% | ~4 |
 | Sick Freak | 0.30% | ~4 |
 | Goodbye ATOM | 0.20% | ~3 |
@@ -38,8 +38,8 @@ Rating: 4.58 (Ranked 475)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,426 (Ranked 279)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 1,471 (Ranked 286)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,6 +238,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 1,424 | 0 |
 | 2024-01-26 | 1,425 | 0 |
 | 2024-01-27 | 1,426 | 0 |
+| 2024-02-22 | 1,471 | 0 |
 ## Awards
 Max (Character Customization): 27  (Ranked 556)  
 Sum: 27 (Ranked 577)  

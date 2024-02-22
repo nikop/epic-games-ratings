@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 90.00% | ~76 |
-| A thing of beauty | 85.00% | ~71 |
-| Escape the Maze | 56.00% | ~47 |
-| Brace the cold | 39.00% | ~33 |
-| A Long Walk | 38.00% | ~32 |
-| Dont mind the heat | 17.00% | ~14 |
-| City of Puzzles | 10.00% | ~8 |
-| This field of danger | 10.00% | ~8 |
-| Labyrinths of the Mind | 10.00% | ~8 |
-| A Terrifying Blizzard | 7.00% | ~6 |
-| A Dangerous Road | 6.00% | ~5 |
-| Scorched Ruins | 5.00% | ~4 |
-| City of Illusion | 5.00% | ~4 |
-| Kill the Flames | 4.00% | ~3 |
-| Find the Light | 4.00% | ~3 |
-| Fight and Overcome | 4.00% | ~3 |
-| A Walk to the End | 4.00% | ~3 |
-| The Final Test | 4.00% | ~3 |
-| A Journey's End | 4.00% | ~3 |
+| Start of a Journey | 91.00% | ~81 |
+| A thing of beauty | 85.00% | ~76 |
+| Escape the Maze | 57.00% | ~51 |
+| Brace the cold | 40.00% | ~36 |
+| A Long Walk | 39.00% | ~35 |
+| Dont mind the heat | 19.00% | ~17 |
+| City of Puzzles | 12.00% | ~11 |
+| This field of danger | 12.00% | ~11 |
+| Labyrinths of the Mind | 12.00% | ~11 |
+| A Terrifying Blizzard | 8.00% | ~7 |
+| A Dangerous Road | 7.00% | ~6 |
+| Scorched Ruins | 4.00% | ~4 |
+| City of Illusion | 4.00% | ~4 |
+| Kill the Flames | 3.00% | ~3 |
+| Find the Light | 3.00% | ~3 |
+| Fight and Overcome | 3.00% | ~3 |
+| A Walk to the End | 3.00% | ~3 |
+| The Final Test | 3.00% | ~3 |
+| A Journey's End | 3.00% | ~3 |
 | A Stone Left Unturned | 1.00% | ~1 |
 | Celibacy/Delicacy | 1.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
@@ -53,8 +53,8 @@
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 527)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 89 (Ranked 527)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,3 +118,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-19 | 82 | 0 |
 | 2024-01-20 | 83 | 0 |
 | 2024-01-24 | 84 | 0 |
+| 2024-02-22 | 89 | 0 |

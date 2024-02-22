@@ -2,13 +2,13 @@
   "ID": "f4be56a88fff45fb8ffb1f05f1c76467",
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
-  "Ranking_Rating": 1067,
+  "Ranking_Rating": 1066,
   "Ranking_Popularity": 562,
   "Ranking_PopularitySum": 533,
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-11T15:00:00+00:00",
     "PcReleaseDate": "2023-10-11T15:00:00+00:00",
@@ -663,6 +663,6 @@
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
   "LastChanged": "2024-02-15T13:00:24.7761622+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:37.9033579+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:01.3766451+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:59:17.7516793+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:13.0871946+00:00"
 }

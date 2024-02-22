@@ -5,10 +5,10 @@
   "Ranking_Rating": 307,
   "Ranking_Popularity": 127,
   "Ranking_PopularitySum": 159,
-  "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -4295,9 +4295,9 @@
       "ID": "achievement_11",
       "SetID": "70p237j",
       "Name": "Super Murderer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_12",
@@ -4311,9 +4311,9 @@
       "ID": "achievement_13",
       "SetID": "70p237j",
       "Name": "All Upgrades in Stronghold",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_14",
@@ -4343,9 +4343,9 @@
       "ID": "achievement_17",
       "SetID": "70p237j",
       "Name": "Disposition",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_18",
@@ -4607,8 +4607,8 @@
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-02-16T23:57:32.4364956+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:09:41.6986831+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:03:53.0960723+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:27.1247584+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:26.2726421+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:41.698742+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:41.5320823+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:03:53.0961387+00:00"
 }

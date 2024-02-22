@@ -45,8 +45,8 @@
 | I Just Like Holding It | 0.00% | ~0 |
 | Oooh, Shiny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 719)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 5 (Ranked 724)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

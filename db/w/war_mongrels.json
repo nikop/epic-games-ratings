@@ -5,10 +5,10 @@
   "Ranking_Rating": 837,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
-  "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 258,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 2106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2930,6 +2930,11 @@
       "Time": "2024-01-26T21:10:23.7328978+00:00",
       "NumProgressed": 793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:05:53.6244016+00:00",
+      "NumProgressed": 2106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2939,9 +2944,9 @@
       "ID": "ACH_CHALL_1",
       "SetID": "1j25agn",
       "Name": "Warm Up",
-      "Percentage": 0.4,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_CHALL_CH01",
@@ -2949,7 +2954,7 @@
       "Name": "Challenges of Chapter I",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH02",
@@ -2957,7 +2962,7 @@
       "Name": "Challenges of Chapter II",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH03",
@@ -2965,7 +2970,7 @@
       "Name": "Challenges of Chapter III",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH04",
@@ -2973,7 +2978,7 @@
       "Name": "Challenges of Chapter IV",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH05",
@@ -2981,7 +2986,7 @@
       "Name": "Challenges of Chapter V",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH06",
@@ -2989,7 +2994,7 @@
       "Name": "Challenges of Chapter VI",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH07",
@@ -2997,7 +3002,7 @@
       "Name": "Challenges of Chapter VII",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH08",
@@ -3005,7 +3010,7 @@
       "Name": "Challenges of Chapter VIII",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH09",
@@ -3013,7 +3018,7 @@
       "Name": "Challenges of Chapter IX",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH10",
@@ -3021,7 +3026,7 @@
       "Name": "Challenges of Chapter X",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH11",
@@ -3029,7 +3034,7 @@
       "Name": "Challenges of Chapter XI",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH12",
@@ -3037,239 +3042,239 @@
       "Name": "Challenges of Chapter XII",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 68,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 1327
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 38,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_COLL_ALL",
       "SetID": "1j25agn",
       "Name": "Treasure Hunter",
-      "Percentage": 35,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_COLL_CH01",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter I",
-      "Percentage": 32,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_COLL_CH02",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter II",
-      "Percentage": 22,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_COLL_CH03",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter III",
-      "Percentage": 14,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_COLL_CH04",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter IV",
-      "Percentage": 13,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_COLL_CH05",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter V",
-      "Percentage": 10,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_COLL_CH06",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VI",
-      "Percentage": 2,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_COLL_CH07",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VII",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_COLL_CH08",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VIII",
-      "Percentage": 4,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_COLL_CH09",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter IX",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_COLL_CH10",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter X",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_COLL_CH11",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XI",
-      "Percentage": 4,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_COLL_CH12",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XII",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 61,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 1200
     },
     {
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 43,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 36,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 34,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 31,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_FIN_CH06",
       "SetID": "1j25agn",
       "Name": "Opportunities",
-      "Percentage": 30,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 28,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 26,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_FIN_CH09",
       "SetID": "1j25agn",
       "Name": "Vengeance",
-      "Percentage": 24,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 21,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 19,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_FIN_CH12",
       "SetID": "1j25agn",
       "Name": "Atonement",
-      "Percentage": 17,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_HARD_1",
       "SetID": "1j25agn",
       "Name": "Such is War!",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_HARD_ALL",
       "SetID": "1j25agn",
       "Name": "Piece of Cake",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 48
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_HEAL",
@@ -3277,119 +3282,119 @@
       "Name": "Helping Hand",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_HIDE_BODIES",
       "SetID": "1j25agn",
       "Name": "Missing in Action",
-      "Percentage": 32,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
       "SetID": "1j25agn",
       "Name": "The Good Samaritan",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 14,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 39,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_KILL_DOOR",
       "SetID": "1j25agn",
       "Name": "Hold a Door",
-      "Percentage": 1,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 44,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_KILL_ENV",
       "SetID": "1j25agn",
       "Name": "It\u0027s Just an Accident",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_KILL_FRAG",
       "SetID": "1j25agn",
       "Name": "It Will Rain",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 42,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
       "SetID": "1j25agn",
       "Name": "Food Massacre",
-      "Percentage": 16,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_KILL_SNIPER",
       "SetID": "1j25agn",
       "Name": "Sniper Wolf",
-      "Percentage": 37,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 30,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_NEST1",
       "SetID": "1j25agn",
       "Name": "Bullseye!",
-      "Percentage": 21,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_NEST2",
       "SetID": "1j25agn",
       "Name": "Daddy Would Be Proud",
-      "Percentage": 2,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_NODETECT",
@@ -3397,30 +3402,30 @@
       "Name": "Tiptoe Around",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_NOMOON",
       "SetID": "1j25agn",
       "Name": "Not Spill a Drop",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 2106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2024-02-20T11:00:20.014955+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:45.9201262+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:53.6244013+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:51.975194+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:59:10.378628+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:45.9201827+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:28.7430123+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:05:53.6244598+00:00"
 }

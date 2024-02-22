@@ -6,49 +6,49 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 21.00% | ~1,774 |
-| More Fish in the Sea | 18.00% | ~1,520 |
-| Hey Good Hookin | 17.00% | ~1,436 |
-| Can you smell what the Rod is Hooking | 16.00% | ~1,352 |
-| Scaling up | 16.00% | ~1,352 |
-| I'm on a Boat! | 14.00% | ~1,183 |
-| Ready to Rod and Roll | 12.00% | ~1,014 |
-| Fish Out of Water | 8.00% | ~676 |
-| Things that go Splash in the Night | 8.00% | ~676 |
-| Goldfish? | 6.00% | ~507 |
-| Going for Gold | 6.00% | ~507 |
-| License to Gill | 5.00% | ~422 |
-| School's Out for Summer | 5.00% | ~422 |
-| I'm Hooked! | 4.00% | ~338 |
-| Marathon | 2.00% | ~169 |
-| Diamond in the Rough | 2.00% | ~169 |
-| More than a Tourist | 1.00% | ~84 |
-| I'm the Captain Now | 1.00% | ~84 |
-| Hook, Line and Sinker | 1.00% | ~84 |
-| Gonna Need a Bigger Boat | 0.90% | ~76 |
-| No Fin left to give | 0.60% | ~51 |
-| The Beetles | 0.50% | ~42 |
-| Live by the Rod, Diez by the Rod! | 0.50% | ~39 |
-| Aguas Claras Conquistador | 0.50% | ~39 |
-| Taylor Made | 0.40% | ~34 |
-| Rod and Troll | 0.40% | ~31 |
-| All Good Kings Must Come to an End | 0.40% | ~31 |
-| Lake Me up Before You Go Go | 0.30% | ~25 |
-| Golden Ridge Ranger | 0.30% | ~25 |
-| Three Square Meals | 0.30% | ~23 |
+| Fish Just Got Reel | 23.00% | ~2,004 |
+| More Fish in the Sea | 20.00% | ~1,742 |
+| Hey Good Hookin | 19.00% | ~1,655 |
+| Can you smell what the Rod is Hooking | 18.00% | ~1,568 |
+| Scaling up | 17.00% | ~1,481 |
+| I'm on a Boat! | 16.00% | ~1,394 |
+| Ready to Rod and Roll | 13.00% | ~1,132 |
+| Fish Out of Water | 9.00% | ~784 |
+| Things that go Splash in the Night | 9.00% | ~784 |
+| Goldfish? | 7.00% | ~610 |
+| Going for Gold | 7.00% | ~610 |
+| School's Out for Summer | 6.00% | ~523 |
+| License to Gill | 5.00% | ~436 |
+| I'm Hooked! | 4.00% | ~348 |
+| Marathon | 2.00% | ~174 |
+| Diamond in the Rough | 2.00% | ~174 |
+| More than a Tourist | 1.00% | ~87 |
+| I'm the Captain Now | 1.00% | ~87 |
+| Hook, Line and Sinker | 1.00% | ~87 |
+| Gonna Need a Bigger Boat | 1.00% | ~87 |
+| No Fin left to give | 0.70% | ~61 |
+| The Beetles | 0.60% | ~52 |
+| Rod and Troll | 0.60% | ~48 |
+| Live by the Rod, Diez by the Rod! | 0.60% | ~48 |
+| Aguas Claras Conquistador | 0.60% | ~48 |
+| Taylor Made | 0.50% | ~44 |
+| All Good Kings Must Come to an End | 0.50% | ~40 |
+| Lake Me up Before You Go Go | 0.40% | ~35 |
+| Golden Ridge Ranger | 0.40% | ~35 |
+| Three Square Meals | 0.40% | ~32 |
+| Big Fish Small Pond | 0.30% | ~26 |
 | Head for Heights | 0.20% | ~17 |
-| Big Fish Small Pond | 0.20% | ~17 |
-| Lost and Flounder | 0.10% | ~8 |
-| Buckaroo | 0.10% | ~8 |
-| Trollsporet Tale Teller | 0.10% | ~8 |
-| Fish upon a Star | 0.10% | ~8 |
+| Buckaroo | 0.20% | ~17 |
+| Trollsporet Tale Teller | 0.20% | ~16 |
+| Fish upon a Star | 0.20% | ~16 |
+| Lost and Flounder | 0.10% | ~9 |
 | Cache and Carry | 0.10% | ~8 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,447 (Ranked 196)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 8,711 (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,6 +330,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-25 | 8,435 | 0 |
 | 2024-01-26 | 8,446 | 0 |
 | 2024-01-27 | 8,447 | 0 |
+| 2024-02-22 | 8,711 | 0 |
 ## Awards
 Max (Great for Beginners): 45  (Ranked 491)  
 Sum: 228 (Ranked 422)  

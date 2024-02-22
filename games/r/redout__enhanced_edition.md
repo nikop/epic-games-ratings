@@ -6,43 +6,43 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 42.00% | ~100,522 |
-| NATURAL BORN WINNER | 33.00% | ~78,982 |
-| CALLING HOUSTON | 28.00% | ~67,015 |
-| SNEAKY SNEAKY | 22.00% | ~52,655 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,655 |
-| GT9STRADALE | 20.00% | ~47,868 |
-| CHALLENGER | 11.00% | ~26,327 |
-| ON A ROLL | 10.00% | ~23,934 |
-| CENTAUR | 8.00% | ~19,147 |
-| FASTER THAN EVER | 8.00% | ~19,147 |
-| CHALLENGE THE WORLD | 7.00% | ~16,754 |
-| PHOTOFINISH | 7.00% | ~16,754 |
-| QAREEN | 5.00% | ~11,967 |
-| TAKATORA | 5.00% | ~11,967 |
-| SHOWOFF | 4.00% | ~9,574 |
-| GILA | 3.00% | ~7,180 |
-| PRO | 2.00% | ~4,787 |
-| RESPWND | 2.00% | ~4,787 |
-| SHINY SHINY GOLD | 2.00% | ~4,787 |
-| HARDCORE | 1.00% | ~2,393 |
-| ACE | 0.80% | ~1,915 |
-| TACTICIAN | 0.70% | ~1,675 |
-| GTX COMPETIZIONE | 0.50% | ~1,197 |
-| HIDDEN POWER | 0.50% | ~1,197 |
-| TUNING MANIAC | 0.50% | ~1,197 |
+| VANGUARD | 42.00% | ~100,465 |
+| NATURAL BORN WINNER | 33.00% | ~78,937 |
+| CALLING HOUSTON | 28.00% | ~66,977 |
+| TRICK UP YOUR SLEEVE | 23.00% | ~55,016 |
+| SNEAKY SNEAKY | 22.00% | ~52,624 |
+| GT9STRADALE | 20.00% | ~47,840 |
+| CHALLENGER | 11.00% | ~26,312 |
+| ON A ROLL | 10.00% | ~23,920 |
+| CENTAUR | 8.00% | ~19,136 |
+| FASTER THAN EVER | 8.00% | ~19,136 |
+| CHALLENGE THE WORLD | 7.00% | ~16,744 |
+| PHOTOFINISH | 7.00% | ~16,744 |
+| QAREEN | 5.00% | ~11,960 |
+| TAKATORA | 5.00% | ~11,960 |
+| SHOWOFF | 4.00% | ~9,568 |
+| GILA | 3.00% | ~7,176 |
+| PRO | 2.00% | ~4,784 |
+| RESPWND | 2.00% | ~4,784 |
+| SHINY SHINY GOLD | 2.00% | ~4,784 |
+| HARDCORE | 1.00% | ~2,392 |
+| ACE | 0.80% | ~1,914 |
+| TACTICIAN | 0.70% | ~1,674 |
+| TUNING MANIAC | 0.60% | ~1,435 |
+| GTX COMPETIZIONE | 0.50% | ~1,196 |
+| HIDDEN POWER | 0.50% | ~1,196 |
 | DRAGOON | 0.40% | ~957 |
 | FLAWLESS | 0.40% | ~957 |
 | MARID | 0.30% | ~718 |
-| BETTER THAN EVER | 0.20% | ~479 |
-| IINI | 0.20% | ~479 |
-| NOBUNAGA | 0.20% | ~479 |
-| ODIN | 0.20% | ~479 |
-| PILE UP TROPHIES | 0.20% | ~479 |
+| BETTER THAN EVER | 0.20% | ~478 |
+| IINI | 0.20% | ~478 |
+| NOBUNAGA | 0.20% | ~478 |
+| ODIN | 0.20% | ~478 |
+| PILE UP TROPHIES | 0.20% | ~478 |
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,339 (Ranked 76)  
-Completed: 43 (0.02%) (Ranked 378)  
+Progressed: 239,202 (Ranked 76)  
+Completed: 38 (0.02%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,6 +324,7 @@ Completed: 43 (0.02%) (Ranked 378)
 | 2024-01-25 | 239,354 | 43 |
 | 2024-01-26 | 239,352 | 43 |
 | 2024-01-27 | 239,346 | 43 |
+| 2024-02-22 | 239,202 | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

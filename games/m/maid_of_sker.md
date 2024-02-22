@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 43.00% | ~138 |
-| Animal Lover | 31.00% | ~99 |
-| Don't Breathe | 30.00% | ~96 |
-| Smooth Operator | 16.00% | ~51 |
-| Easy Listening | 15.00% | ~48 |
-| Perfect Harmony! | 13.00% | ~42 |
-| Rapturous Applause! | 13.00% | ~42 |
-| Wales Interactive | 9.00% | ~29 |
-| Bull in a China Shop | 8.00% | ~26 |
-| Chief Butler | 8.00% | ~26 |
-| Sker Explorer | 4.00% | ~13 |
-| Phonic Boom | 2.00% | ~6 |
-| The Long Night | 2.00% | ~6 |
-| Ending on a High Note | 1.00% | ~3 |
-| Luddite | 0.60% | ~2 |
-| Maids of Sker | 0.60% | ~2 |
+| Choking Hazard | 43.00% | ~154 |
+| Animal Lover | 32.00% | ~115 |
+| Don't Breathe | 30.00% | ~108 |
+| Smooth Operator | 15.00% | ~54 |
+| Easy Listening | 14.00% | ~50 |
+| Perfect Harmony! | 12.00% | ~43 |
+| Rapturous Applause! | 12.00% | ~43 |
+| Bull in a China Shop | 9.00% | ~32 |
+| Wales Interactive | 9.00% | ~32 |
+| Chief Butler | 8.00% | ~29 |
+| Sker Explorer | 4.00% | ~14 |
+| Phonic Boom | 2.00% | ~7 |
+| The Long Night | 2.00% | ~7 |
+| Ending on a High Note | 1.00% | ~4 |
+| Luddite | 0.80% | ~3 |
+| Maids of Sker | 0.80% | ~3 |
+| Scholar | 0.80% | ~3 |
+| In Darkness | 0.60% | ~2 |
 | Axe of Kindness | 0.30% | ~1 |
-| In Darkness | 0.30% | ~1 |
-| Scholar | 0.30% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
 | Hard Times | 0.00% | ~0 |
@@ -35,8 +35,8 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 359 (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,6 +149,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 315 | 0 |
 | 2024-01-24 | 318 | 0 |
 | 2024-01-26 | 320 | 0 |
+| 2024-02-22 | 359 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

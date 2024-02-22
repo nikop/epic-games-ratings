@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Leaver | 79.00% | ~1,735 |
-| Journal Beautifier | 79.00% | ~1,735 |
-| Outside World Seer | 60.00% | ~1,318 |
-| Stranger Encounterer | 35.00% | ~769 |
-| Grey Hands Praxis 101 | 27.00% | ~593 |
-| Deep Listener | 25.00% | ~549 |
-| Music for Cows | 18.00% | ~395 |
-| Emotional Baggage Handler | 17.00% | ~373 |
-| Dream Listener | 15.00% | ~329 |
-| Artist Assistant | 14.00% | ~307 |
-| Tour de Tieng | 13.00% | ~285 |
-| Shrine Arriver | 12.00% | ~264 |
-| Goodbye Tieng Valley | 11.00% | ~242 |
-| The End | 11.00% | ~242 |
-| Graffiti Artist | 9.00% | ~198 |
-| Love Uncoverer | 9.00% | ~198 |
+| Home Leaver | 79.00% | ~1,782 |
+| Journal Beautifier | 79.00% | ~1,782 |
+| Outside World Seer | 60.00% | ~1,354 |
+| Stranger Encounterer | 36.00% | ~812 |
+| Grey Hands Praxis 101 | 27.00% | ~609 |
+| Deep Listener | 25.00% | ~564 |
+| Music for Cows | 18.00% | ~406 |
+| Emotional Baggage Handler | 17.00% | ~384 |
+| Dream Listener | 15.00% | ~338 |
+| Artist Assistant | 14.00% | ~316 |
+| Tour de Tieng | 14.00% | ~316 |
+| Goodbye Tieng Valley | 12.00% | ~271 |
+| Shrine Arriver | 12.00% | ~271 |
+| The End | 11.00% | ~248 |
+| Love Uncoverer | 10.00% | ~226 |
+| Graffiti Artist | 9.00% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,196 (Ranked 253)  
-Completed: 84 (3.83%) (Ranked 97)  
+Progressed: 2,256 (Ranked 254)  
+Completed: 91 (4.03%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,6 +251,7 @@ Completed: 84 (3.83%) (Ranked 97)
 | 2024-01-25 | 2,189 | 84 |
 | 2024-01-26 | 2,194 | 84 |
 | 2024-01-27 | 2,196 | 84 |
+| 2024-02-22 | 2,256 | 91 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

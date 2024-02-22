@@ -5,10 +5,10 @@
   "Ranking_Rating": 630,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
-  "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 512,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -788,6 +788,11 @@
       "Time": "2024-01-21T04:10:03.9855191+00:00",
       "NumProgressed": 504,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-02-22T21:04:14.2312392+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -799,23 +804,23 @@
       "Name": "Strength and Sorcery",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "assemble-team2",
       "SetID": "799afm0",
       "Name": "Brain and Brawn",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "assemble-team3",
       "SetID": "799afm0",
       "Name": "Omae Wa Mou Shindeiru",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "collect-combos",
@@ -823,15 +828,15 @@
       "Name": "Experimentalist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "collect-discounted-items1",
       "SetID": "799afm0",
       "Name": "Frugal",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "collect-discounted-items2",
@@ -847,15 +852,15 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 220
     },
     {
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 261
     },
     {
       "ID": "different-items2",
@@ -869,9 +874,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 189
     },
     {
       "ID": "finished-quest-cube",
@@ -879,15 +884,15 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "finished-quest-flight",
       "SetID": "799afm0",
       "Name": "Great Flight",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "finished-quest-monster",
@@ -895,15 +900,15 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 108
     },
     {
       "ID": "finished-quest-pit",
@@ -911,15 +916,15 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 210
     },
     {
       "ID": "finished-quest-reaper",
@@ -927,7 +932,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "finished-quest-sci",
@@ -935,7 +940,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 225
     },
     {
       "ID": "finished-quest-secret",
@@ -943,7 +948,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "finished-quest-sword",
@@ -951,7 +956,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "get-all",
@@ -965,9 +970,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 148
     },
     {
       "ID": "last-hero",
@@ -975,7 +980,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "save-zombie",
@@ -991,7 +996,7 @@
       "Name": "Wide Selection",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "unlock-mutations",
@@ -1005,9 +1010,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 148
     },
     {
       "ID": "win-first-biom",
@@ -1015,7 +1020,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 404
     },
     {
       "ID": "win-first-level",
@@ -1023,15 +1028,15 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 451
     },
     {
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 143
     },
     {
       "ID": "win-koth-fights2",
@@ -1039,7 +1044,7 @@
       "Name": "Soldier",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "win-koth-fights3",
@@ -1053,9 +1058,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 230
     },
     {
       "ID": "win-with-3-cultists",
@@ -1063,22 +1068,22 @@
       "Name": "Honorary Cultist",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "win-with-mrakus",
       "SetID": "799afm0",
       "Name": "Android Power",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 512,
       "Completed": 1
     }
   ],
@@ -1086,8 +1091,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:10:03.6336111+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:04:14.2312389+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:13.1252168+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:08.6564392+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:10:03.6336394+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:59:25.438011+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:14.2312582+00:00"
 }

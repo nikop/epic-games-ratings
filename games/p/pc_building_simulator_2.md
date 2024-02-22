@@ -65,8 +65,8 @@ Rating: 4.60 (Ranked 438)
 | Keep 'Em Coming | 0.30% | ~1,035 |
 | Export Expert | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,000 (Ranked 62)  
-Completed: 165 (0.05%) (Ranked 351)  
+Progressed: 345,000 (Ranked 63)  
+Completed: 165 (0.05%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

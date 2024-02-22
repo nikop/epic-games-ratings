@@ -3,9 +3,9 @@
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1945,6 +1945,11 @@
       "Time": "2024-01-26T21:10:22.8916186+00:00",
       "NumProgressed": 531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:05:53.0419929+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1978,17 +1983,17 @@
       "ID": "ARCHIPIELAGO_1",
       "SetID": "44dlcg0",
       "Name": "Archipelago builder",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ARCHIPIELAGO_2",
       "SetID": "44dlcg0",
       "Name": "Archipelago urban planner",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ARCHIPIELAGO_3",
@@ -2050,9 +2055,9 @@
       "ID": "COMIDA_2",
       "SetID": "44dlcg0",
       "Name": "Food provider master",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CONTAMINACION_1",
@@ -2082,9 +2087,9 @@
       "ID": "CRISIS_1",
       "SetID": "44dlcg0",
       "Name": "City crisis",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "CRISIS_2",
@@ -2098,9 +2103,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "CULTURE_2",
@@ -2108,13 +2113,13 @@
       "Name": "I love books!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CULTURE_3",
       "SetID": "44dlcg0",
       "Name": "Read! Everyone should read!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -2130,17 +2135,17 @@
       "ID": "DESIERTO_1",
       "SetID": "44dlcg0",
       "Name": "Desert builder",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DESIERTO_2",
       "SetID": "44dlcg0",
       "Name": "Desert urban planner",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DESIERTO_3",
@@ -2170,9 +2175,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "FAITH_2",
@@ -2226,9 +2231,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "FELIZ_2",
@@ -2236,31 +2241,31 @@
       "Name": "I am very happy!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FELIZ_3",
       "SetID": "44dlcg0",
       "Name": "Oh, life is too awesome! Thank you!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FELIZ_4",
       "SetID": "44dlcg0",
       "Name": "\u00A1Muy feliz!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "GRANJA_1",
@@ -2282,9 +2287,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 124
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2292,13 +2297,13 @@
       "Name": "I love parks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GREEN_AREAS_3",
       "SetID": "44dlcg0",
       "Name": "Oh, I love parks, listening to birds!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -2306,9 +2311,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "MILLS",
@@ -2316,7 +2321,7 @@
       "Name": "Clean energy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "MURICA_1",
@@ -2338,9 +2343,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 62
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2362,17 +2367,17 @@
       "ID": "POINTS_10K",
       "SetID": "44dlcg0",
       "Name": "Little Mayor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "POINTS_20K",
       "SetID": "44dlcg0",
       "Name": "Town planner",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "POINTS_30K",
@@ -2386,9 +2391,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 140
     },
     {
       "ID": "POPULATION_2",
@@ -2396,7 +2401,7 @@
       "Name": "Metropolurbek",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "POPULATION_3",
@@ -2410,9 +2415,9 @@
       "ID": "REBELDES_1",
       "SetID": "44dlcg0",
       "Name": "Rebel city",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "REBELDES_2",
@@ -2474,9 +2479,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "SPORTS_2",
@@ -2506,17 +2511,17 @@
       "ID": "TEMPERADO_1",
       "SetID": "44dlcg0",
       "Name": "Temperate builder",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TEMPERADO_2",
       "SetID": "44dlcg0",
       "Name": "Temperate urban planner",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TEMPERADO_3",
@@ -2538,17 +2543,17 @@
       "ID": "VALDIVIA_1",
       "SetID": "44dlcg0",
       "Name": "Rainforest builder",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VALDIVIA_2",
       "SetID": "44dlcg0",
       "Name": "Rainforest urban planner",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VALDIVIA_3",
@@ -2564,15 +2569,15 @@
       "Name": "Bucolic city",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "WELFARE_2",
@@ -2587,7 +2592,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 562,
       "Completed": 0
     }
   ],
@@ -2595,8 +2600,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:45.1455648+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:53.0419927+00:00",
   "LastUpdate_AppInfo": "2024-02-18T05:57:20.6097344+00:00",
   "LastUpdate_Ratings": "2024-02-22T19:59:31.8813573+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:45.1456446+00:00"
+  "LastUpdate_Achievements": "2024-02-22T21:05:53.0420612+00:00"
 }

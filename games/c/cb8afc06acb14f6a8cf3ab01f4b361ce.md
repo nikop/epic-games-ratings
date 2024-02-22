@@ -5,49 +5,49 @@ Rating: 4.22 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 6.00% | ~21,022 |
-| May the Torchbearer light our way | 5.00% | ~17,518 |
-| A powerful aura was here | 4.00% | ~14,015 |
-| Let's raise the stakes!! | 2.00% | ~7,007 |
-| Rumors are true | 1.00% | ~3,504 |
-| We'll be careful | 1.00% | ~3,504 |
-| Pride is a sin, young Knight | 1.00% | ~3,504 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,504 |
-| Back to your senses | 0.90% | ~3,153 |
-| Bring it on! | 0.90% | ~3,153 |
-| They tricked me | 0.80% | ~2,803 |
-| We need to talk | 0.80% | ~2,803 |
-| They won't last long | 0.80% | ~2,803 |
-| I feel drawn to it | 0.70% | ~2,453 |
-| Here to stay | 0.60% | ~2,102 |
-| Counting on you | 0.60% | ~2,102 |
-| This is the end | 0.60% | ~2,102 |
-| We can choose to fight | 0.60% | ~2,102 |
-| I took a risk | 0.50% | ~1,752 |
-| Their fate is sealed | 0.40% | ~1,401 |
-| Not even from this world | 0.40% | ~1,401 |
-| No damsels in distress | 0.20% | ~701 |
-| Chaos be damned! | 0.20% | ~701 |
-| The immortal is bound to reborn | 0.10% | ~350 |
-| A legend among Chimeras | 0.10% | ~350 |
-| It's only pain | 0.10% | ~350 |
-| I know how to handle it | 0.10% | ~350 |
-| Settle this once and for all | 0.10% | ~350 |
-| The Ashen Knight | 0.10% | ~350 |
-| The Shade | 0.10% | ~350 |
-| Through the Veil | 0.10% | ~350 |
-| Call this the Judge's mercy | 0.10% | ~350 |
-| There's too many of them! | 0.10% | ~350 |
-| I've been waiting for this! | 0.10% | ~350 |
-| You want more? I've got more! | 0.10% | ~350 |
-| I'm just warming up | 0.10% | ~350 |
-| We learned it the hard way | 0.10% | ~350 |
-| They wanted yet another monster… | 0.10% | ~350 |
-| Something... unnatural | 0.10% | ~350 |
-| We strike as one | 0.10% | ~350 |
+| The touch of Chaos | 7.00% | ~25,128 |
+| May the Torchbearer light our way | 6.00% | ~21,538 |
+| A powerful aura was here | 4.00% | ~14,359 |
+| Rumors are true | 2.00% | ~7,179 |
+| Your wounds… They are healing so fast! | 2.00% | ~7,179 |
+| Let's raise the stakes!! | 2.00% | ~7,179 |
+| We'll be careful | 1.00% | ~3,590 |
+| Back to your senses | 1.00% | ~3,590 |
+| They won't last long | 1.00% | ~3,590 |
+| Pride is a sin, young Knight | 1.00% | ~3,590 |
+| Bring it on! | 1.00% | ~3,590 |
+| They tricked me | 0.90% | ~3,231 |
+| We need to talk | 0.90% | ~3,231 |
+| I feel drawn to it | 0.80% | ~2,872 |
+| Here to stay | 0.70% | ~2,513 |
+| Counting on you | 0.70% | ~2,513 |
+| This is the end | 0.70% | ~2,513 |
+| We can choose to fight | 0.70% | ~2,513 |
+| I took a risk | 0.60% | ~2,154 |
+| Their fate is sealed | 0.50% | ~1,795 |
+| Not even from this world | 0.40% | ~1,436 |
+| No damsels in distress | 0.20% | ~718 |
+| You want more? I've got more! | 0.20% | ~718 |
+| Chaos be damned! | 0.20% | ~718 |
+| The immortal is bound to reborn | 0.10% | ~359 |
+| A legend among Chimeras | 0.10% | ~359 |
+| It's only pain | 0.10% | ~359 |
+| I know how to handle it | 0.10% | ~359 |
+| Settle this once and for all | 0.10% | ~359 |
+| The Ashen Knight | 0.10% | ~359 |
+| The Shade | 0.10% | ~359 |
+| Through the Veil | 0.10% | ~359 |
+| Call this the Judge's mercy | 0.10% | ~359 |
+| There's too many of them! | 0.10% | ~359 |
+| I've been waiting for this! | 0.10% | ~359 |
+| I'm just warming up | 0.10% | ~359 |
+| We learned it the hard way | 0.10% | ~359 |
+| They wanted yet another monster… | 0.10% | ~359 |
+| Something... unnatural | 0.10% | ~359 |
+| We strike as one | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350,363 (Ranked 60)  
-Completed: 7 (0.00%) (Ranked 414)  
+Progressed: 358,966 (Ranked 61)  
+Completed: 10 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,6 +173,7 @@ Completed: 7 (0.00%) (Ranked 414)
 | 2024-01-25 | 349,819 | 7 |
 | 2024-01-26 | 350,157 | 7 |
 | 2024-01-27 | 350,363 | 7 |
+| 2024-02-22 | 358,966 | 10 |
 ## Awards
 Max (Great Boss Battles): 89  (Ranked 408)  
 Sum: 89 (Ranked 494)  

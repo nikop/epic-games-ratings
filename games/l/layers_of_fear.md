@@ -4,61 +4,61 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 87.00% | ~302 |
-| A piece of the story | 67.00% | ~232 |
-| It's covered up for a reason | 61.00% | ~212 |
-| Wanderer | 56.00% | ~194 |
-| Scraps of love | 53.00% | ~184 |
-| The artist’s impression | 52.00% | ~180 |
-| Do what you have to | 46.00% | ~160 |
-| Sign of weakness | 44.00% | ~153 |
-| Refuse to look | 39.00% | ~135 |
-| Face your fears | 34.00% | ~118 |
-| Finished it | 28.00% | ~97 |
-| Whispers long forgotten | 20.00% | ~69 |
-| Sound Bite | 16.00% | ~56 |
-| Debut | 15.00% | ~52 |
-| The art of movement | 15.00% | ~52 |
-| Another perspective | 14.00% | ~49 |
-| A Slice of Life | 14.00% | ~49 |
-| Lights! Camera! Action! | 14.00% | ~49 |
-| First steps | 12.00% | ~42 |
-| Playtime | 12.00% | ~42 |
-| Tough conversation | 12.00% | ~42 |
-| A new way | 11.00% | ~38 |
-| Breaking free | 11.00% | ~38 |
-| The tragedy unfolds | 11.00% | ~38 |
-| Heavy Burden | 9.00% | ~31 |
-| True Reflection | 9.00% | ~31 |
-| Casting Finished | 8.00% | ~28 |
-| Instinct of self-preservation | 8.00% | ~28 |
-| Fisherman | 8.00% | ~28 |
-| Something to think about | 6.00% | ~21 |
-| I remember It Like Was Yesterday | 6.00% | ~21 |
-| We Are Not Alone | 5.00% | ~17 |
-| Dark correspondence | 5.00% | ~17 |
-| Full Scoop | 4.00% | ~14 |
-| The Perfect Storm | 4.00% | ~14 |
-| Se7en Seas | 4.00% | ~14 |
-| Immortalized in my heart | 3.00% | ~10 |
-| Preferred Parent | 3.00% | ~10 |
-| A Mosaic of Misery | 3.00% | ~10 |
-| Body of Work | 2.00% | ~7 |
-| It was worth a try | 2.00% | ~7 |
-| In One Take | 2.00% | ~7 |
-| Rocket Science | 2.00% | ~7 |
-| The Big Picture | 1.00% | ~3 |
-| Sword of the Serpent | 0.90% | ~3 |
-| Letting go | 0.60% | ~2 |
-| Once Upon a Time | 0.60% | ~2 |
+| Something important | 87.00% | ~339 |
+| A piece of the story | 68.00% | ~265 |
+| It's covered up for a reason | 63.00% | ~246 |
+| Scraps of love | 56.00% | ~218 |
+| Wanderer | 55.00% | ~215 |
+| The artist’s impression | 54.00% | ~211 |
+| Do what you have to | 48.00% | ~187 |
+| Sign of weakness | 45.00% | ~176 |
+| Refuse to look | 41.00% | ~160 |
+| Face your fears | 34.00% | ~133 |
+| Finished it | 27.00% | ~105 |
+| Whispers long forgotten | 20.00% | ~78 |
+| Sound Bite | 16.00% | ~62 |
+| Lights! Camera! Action! | 15.00% | ~58 |
+| The art of movement | 15.00% | ~58 |
+| Another perspective | 14.00% | ~55 |
+| A Slice of Life | 14.00% | ~55 |
+| Debut | 14.00% | ~55 |
+| First steps | 12.00% | ~47 |
+| Playtime | 12.00% | ~47 |
+| Tough conversation | 12.00% | ~47 |
+| A new way | 11.00% | ~43 |
+| Breaking free | 11.00% | ~43 |
+| The tragedy unfolds | 11.00% | ~43 |
+| True Reflection | 10.00% | ~39 |
+| Casting Finished | 9.00% | ~35 |
+| Heavy Burden | 9.00% | ~35 |
+| Fisherman | 8.00% | ~31 |
+| Something to think about | 7.00% | ~27 |
+| Instinct of self-preservation | 7.00% | ~27 |
+| I remember It Like Was Yesterday | 6.00% | ~23 |
+| We Are Not Alone | 5.00% | ~20 |
+| Dark correspondence | 5.00% | ~20 |
+| Full Scoop | 5.00% | ~20 |
+| Immortalized in my heart | 4.00% | ~16 |
+| The Perfect Storm | 4.00% | ~16 |
+| Preferred Parent | 4.00% | ~16 |
+| Se7en Seas | 4.00% | ~16 |
+| A Mosaic of Misery | 4.00% | ~16 |
+| Body of Work | 3.00% | ~12 |
+| It was worth a try | 2.00% | ~8 |
+| In One Take | 2.00% | ~8 |
+| Rocket Science | 2.00% | ~8 |
+| The Big Picture | 1.00% | ~4 |
+| Once Upon a Time | 0.80% | ~3 |
+| Sword of the Serpent | 0.80% | ~3 |
+| You might have a problem | 0.50% | ~2 |
+| Letting go | 0.50% | ~2 |
 | You Can’t Handle the Truth | 0.30% | ~1 |
-| You might have a problem | 0.30% | ~1 |
 | The Tree and the Apple | 0.30% | ~1 |
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 390 (Ranked 386)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,3 +150,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 344 | 0 |
 | 2024-01-24 | 346 | 0 |
 | 2024-01-27 | 347 | 0 |
+| 2024-02-22 | 390 | 0 |

@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 172,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -571,6 +571,11 @@
       "Time": "2024-01-21T11:10:36.146428+00:00",
       "NumProgressed": 166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-02-22T21:05:44.5003867+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -582,15 +587,15 @@
       "Name": "Freedom",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement11",
@@ -598,7 +603,7 @@
       "Name": "Your Training Continues",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "Achievement12",
@@ -628,17 +633,17 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "Achievement17",
@@ -646,7 +651,7 @@
       "Name": "Declawing",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "Achievement18",
@@ -654,7 +659,7 @@
       "Name": "Over the Moon",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement19",
@@ -662,7 +667,7 @@
       "Name": "Corwid Hill",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement2",
@@ -670,15 +675,15 @@
       "Name": "Winner",
       "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement21",
@@ -686,7 +691,7 @@
       "Name": "Stilt House",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement3",
@@ -694,15 +699,15 @@
       "Name": "Enemies of Fate",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement5",
@@ -734,7 +739,7 @@
       "Name": "Armored",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "Achievement9",
@@ -749,7 +754,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 172,
       "Completed": 1
     }
   ],
@@ -757,8 +762,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:36.6512471+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:44.5003864+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:35.0935177+00:00",
   "LastUpdate_Ratings": "2024-02-22T19:59:54.5301104+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:36.6512577+00:00"
+  "LastUpdate_Achievements": "2024-02-22T21:05:44.5004021+00:00"
 }

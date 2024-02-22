@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BUSINESS OWNER | 96.00% | ~1,259 |
-| CLEANER | 91.00% | ~1,193 |
-| OH NO, HE'S LEAVING! | 74.00% | ~970 |
-| FIREFIGHTER | 54.00% | ~708 |
-| ADVANCED | 40.00% | ~524 |
-| INTRODUCTION | 23.00% | ~302 |
-| CHIEF | 21.00% | ~275 |
-| SECOND_FLOOR | 13.00% | ~170 |
-| DEBTOR | 9.00% | ~118 |
-| SUCCESSFUL | 5.00% | ~66 |
-| THINGS ARE GOING WELL | 5.00% | ~66 |
-| YETTI | 3.00% | ~39 |
-| FIRST $100K | 2.00% | ~26 |
-| 500K$. | 1.00% | ~13 |
+| BUSINESS OWNER | 96.00% | ~1,371 |
+| CLEANER | 90.00% | ~1,285 |
+| OH NO, HE'S LEAVING! | 73.00% | ~1,042 |
+| FIREFIGHTER | 53.00% | ~757 |
+| ADVANCED | 39.00% | ~557 |
+| INTRODUCTION | 24.00% | ~343 |
+| CHIEF | 20.00% | ~286 |
+| SECOND_FLOOR | 12.00% | ~171 |
+| DEBTOR | 9.00% | ~129 |
+| SUCCESSFUL | 5.00% | ~71 |
+| THINGS ARE GOING WELL | 5.00% | ~71 |
+| FIRST $100K | 2.00% | ~29 |
+| YETTI | 2.00% | ~29 |
+| 500K$. | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 288)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 1,428 (Ranked 288)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,6 +188,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 1,294 | 0 |
 | 2024-01-25 | 1,305 | 0 |
 | 2024-01-26 | 1,311 | 0 |
+| 2024-02-22 | 1,428 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

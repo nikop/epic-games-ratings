@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lonely Bunny | 97.00% | ~306 |
-| Debris Finder | 84.00% | ~265 |
-| Debris Gatherer | 60.00% | ~189 |
-| Beginner Decorator | 50.00% | ~158 |
-| Helpful Bot-terfly | 46.00% | ~145 |
-| Cozy Autumn | 38.00% | ~120 |
-| Bunny Party | 36.00% | ~113 |
-| Stylish Decorator | 32.00% | ~101 |
-| Ace Decorator | 23.00% | ~72 |
-| Debris Collector | 19.00% | ~60 |
-| Bunny Cuddles | 15.00% | ~47 |
-| Winter Wonderland | 14.00% | ~44 |
+| Lonely Bunny | 97.00% | ~310 |
+| Debris Finder | 84.00% | ~269 |
+| Debris Gatherer | 60.00% | ~192 |
+| Beginner Decorator | 50.00% | ~160 |
+| Helpful Bot-terfly | 47.00% | ~150 |
+| Cozy Autumn | 38.00% | ~122 |
+| Bunny Party | 36.00% | ~115 |
+| Stylish Decorator | 32.00% | ~102 |
+| Ace Decorator | 23.00% | ~74 |
+| Debris Collector | 19.00% | ~61 |
+| Bunny Cuddles | 15.00% | ~48 |
+| Winter Wonderland | 14.00% | ~45 |
 | Park Manager | 12.00% | ~38 |
-| Spring Blossom | 8.00% | ~25 |
-| Pom Pom | 8.00% | ~25 |
+| Spring Blossom | 8.00% | ~26 |
+| Pom Pom | 8.00% | ~26 |
 | Bunny Fluffle | 7.00% | ~22 |
 | Tropical Summer | 6.00% | ~19 |
 | Quack quack | 5.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 404)  
-Completed: 10 (3.17%) (Ranked 110)  
+Progressed: 320 (Ranked 406)  
+Completed: 10 (3.12%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 10 (3.17%) (Ranked 110)
 | 2024-01-10 | 313 | 10 |
 | 2024-01-12 | 314 | 10 |
 | 2024-01-23 | 315 | 10 |
+| 2024-02-22 | 320 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

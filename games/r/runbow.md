@@ -1,59 +1,59 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 689)  
+Rating: 4.46 (Ranked 688)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,561 |
-| My First Runbow | 50.00% | ~126,944 |
-| It's The Fall | 26.00% | ~66,011 |
-| The Stunner | 23.00% | ~58,394 |
-| Be Aggressive | 21.00% | ~53,317 |
-| Curator | 20.00% | ~50,778 |
-| Crowning Around | 18.00% | ~45,700 |
-| Can You Dig It? | 17.00% | ~43,161 |
-| You Juan-A-Go? | 16.00% | ~40,622 |
-| Chan-tastic | 15.00% | ~38,083 |
-| Muddy Waters | 14.00% | ~35,544 |
-| Toasty! | 13.00% | ~33,006 |
-| Lazy Laser | 8.00% | ~20,311 |
-| Ready? Fight! | 8.00% | ~20,311 |
-| Just A Phaze | 7.00% | ~17,772 |
-| Into The Drift | 7.00% | ~17,772 |
-| Butt Butt | 6.00% | ~15,233 |
-| He Who Laughs Last | 3.00% | ~7,617 |
-| Shoo, Cat! | 3.00% | ~7,617 |
-| And You're Okay | 2.00% | ~5,078 |
-| Blotbuster | 2.00% | ~5,078 |
-| Thunderstruck | 2.00% | ~5,078 |
-| Just A Bit | 1.00% | ~2,539 |
-| Tubular, Dude | 1.00% | ~2,539 |
-| What A Trip | 1.00% | ~2,539 |
-| Please The King | 0.90% | ~2,285 |
-| Here We Go! | 0.80% | ~2,031 |
-| Clear-Cut | 0.50% | ~1,269 |
-| Breaking Out | 0.40% | ~1,016 |
-| Disposable | 0.40% | ~1,016 |
-| A Winner Is You | 0.20% | ~508 |
-| Final Nightmare | 0.20% | ~508 |
-| I'm Here All Night | 0.20% | ~508 |
-| Ride The Wave | 0.20% | ~508 |
-| Tree Medalist | 0.20% | ~508 |
-| Can't Be Kept Down | 0.10% | ~254 |
-| Completionist | 0.10% | ~254 |
-| Did Your Time | 0.10% | ~254 |
-| Hanging 10 | 0.10% | ~254 |
-| Hard To Stomach | 0.10% | ~254 |
-| Indegestible | 0.10% | ~254 |
-| Lockup Lockdown | 0.10% | ~254 |
-| Not Scared | 0.10% | ~254 |
-| Perfect Darkness | 0.10% | ~254 |
-| Talent Scout | 0.10% | ~254 |
-| True Completionist | 0.10% | ~254 |
+| In The Zone | 53.00% | ~134,978 |
+| My First Runbow | 50.00% | ~127,338 |
+| It's The Fall | 26.00% | ~66,216 |
+| The Stunner | 23.00% | ~58,575 |
+| Be Aggressive | 21.00% | ~53,482 |
+| Curator | 20.00% | ~50,935 |
+| Crowning Around | 18.00% | ~45,842 |
+| Can You Dig It? | 17.00% | ~43,295 |
+| You Juan-A-Go? | 16.00% | ~40,748 |
+| Chan-tastic | 15.00% | ~38,201 |
+| Muddy Waters | 14.00% | ~35,655 |
+| Toasty! | 13.00% | ~33,108 |
+| Lazy Laser | 8.00% | ~20,374 |
+| Ready? Fight! | 8.00% | ~20,374 |
+| Just A Phaze | 7.00% | ~17,827 |
+| Into The Drift | 7.00% | ~17,827 |
+| Butt Butt | 6.00% | ~15,281 |
+| He Who Laughs Last | 3.00% | ~7,640 |
+| Shoo, Cat! | 3.00% | ~7,640 |
+| And You're Okay | 2.00% | ~5,094 |
+| Blotbuster | 2.00% | ~5,094 |
+| Just A Bit | 2.00% | ~5,094 |
+| Thunderstruck | 2.00% | ~5,094 |
+| Tubular, Dude | 1.00% | ~2,547 |
+| What A Trip | 1.00% | ~2,547 |
+| Please The King | 0.90% | ~2,292 |
+| Here We Go! | 0.80% | ~2,037 |
+| Clear-Cut | 0.50% | ~1,273 |
+| Breaking Out | 0.40% | ~1,019 |
+| Disposable | 0.40% | ~1,019 |
+| A Winner Is You | 0.20% | ~509 |
+| Final Nightmare | 0.20% | ~509 |
+| I'm Here All Night | 0.20% | ~509 |
+| Ride The Wave | 0.20% | ~509 |
+| Tree Medalist | 0.20% | ~509 |
+| Can't Be Kept Down | 0.10% | ~255 |
+| Completionist | 0.10% | ~255 |
+| Did Your Time | 0.10% | ~255 |
+| Hanging 10 | 0.10% | ~255 |
+| Hard To Stomach | 0.10% | ~255 |
+| Indegestible | 0.10% | ~255 |
+| Lockup Lockdown | 0.10% | ~255 |
+| Not Scared | 0.10% | ~255 |
+| Perfect Darkness | 0.10% | ~255 |
+| Talent Scout | 0.10% | ~255 |
+| True Completionist | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,889 (Ranked 72)  
-Completed: 6 (0.00%) (Ranked 414)  
+Progressed: 254,676 (Ranked 72)  
+Completed: 6 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,6 +335,7 @@ Completed: 6 (0.00%) (Ranked 414)
 | 2024-01-25 | 253,833 | 6 |
 | 2024-01-26 | 253,872 | 6 |
 | 2024-01-27 | 253,889 | 6 |
+| 2024-02-22 | 254,676 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,25 +6,25 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 24.00% | ~53,250 |
-| Get Busy Living | 15.00% | ~33,281 |
-| Samuel Norton | 9.00% | ~19,969 |
-| Spare The Rod | 4.00% | ~8,875 |
-| Don't Put Me In The Dark | 3.00% | ~6,656 |
-| Wait and Hope | 3.00% | ~6,656 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,656 |
-| Throw The Book At Them | 2.00% | ~4,438 |
-| Iron Bars | 2.00% | ~4,438 |
-| D.B. Cooper | 1.00% | ~2,219 |
-| Reformation | 0.60% | ~1,331 |
-| Crowd Control | 0.50% | ~1,109 |
-| Freedom | 0.40% | ~888 |
-| Confined | 0.30% | ~666 |
-| It's Not What You Know... | 0.10% | ~222 |
-| ... It's What You Can Prove | 0.10% | ~222 |
+| Stone Walls | 24.00% | ~55,272 |
+| Get Busy Living | 15.00% | ~34,545 |
+| Samuel Norton | 9.00% | ~20,727 |
+| Spare The Rod | 4.00% | ~9,212 |
+| Don't Put Me In The Dark | 3.00% | ~6,909 |
+| Wait and Hope | 3.00% | ~6,909 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,909 |
+| Throw The Book At Them | 2.00% | ~4,606 |
+| Iron Bars | 2.00% | ~4,606 |
+| D.B. Cooper | 1.00% | ~2,303 |
+| Reformation | 0.60% | ~1,382 |
+| Crowd Control | 0.50% | ~1,152 |
+| Freedom | 0.40% | ~921 |
+| Confined | 0.30% | ~691 |
+| It's Not What You Know... | 0.10% | ~230 |
+| ... It's What You Can Prove | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,876 (Ranked 81)  
-Completed: 13 (0.01%) (Ranked 388)  
+Progressed: 230,302 (Ranked 81)  
+Completed: 13 (0.01%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,6 +306,7 @@ Completed: 13 (0.01%) (Ranked 388)
 | 2024-01-25 | 221,352 | 13 |
 | 2024-01-26 | 221,697 | 13 |
 | 2024-01-27 | 221,876 | 13 |
+| 2024-02-22 | 230,302 | 13 |
 ## Awards
 Max (Great for Beginners): 704  (Ranked 202)  
 Sum: 5,321 (Ranked 156)  

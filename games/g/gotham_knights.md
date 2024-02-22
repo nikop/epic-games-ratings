@@ -67,8 +67,8 @@ Rating: 4.19 (Ranked 999)
 | Element of Surprise | 0.30% | ~161 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,330 (Ranked 111)  
-Completed: 135 (0.16%) (Ranked 301)  
+Progressed: 83,330 (Ranked 112)  
+Completed: 135 (0.16%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,31 +1,32 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.46 (Ranked 689)  
+Rating: 4.46 (Ranked 688)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 61.00% | ~640 |
-| You're the Expert! | 28.00% | ~294 |
-| Home Cook | 25.00% | ~262 |
-| S is for Scrumptious | 16.00% | ~168 |
-| French Flair | 15.00% | ~157 |
-| So Clean You Can Eat Off the Floor | 15.00% | ~157 |
-| Next Level Cuisine | 8.00% | ~84 |
-| Haute Cuisine | 7.00% | ~73 |
-| Italian Style | 6.00% | ~63 |
-| Well-Stocked Kitchen | 5.00% | ~52 |
-| Sous-Chef | 4.00% | ~42 |
-| Rolling in Dough | 4.00% | ~42 |
-| Culinary Arts | 3.00% | ~31 |
-| Perfectionist | 3.00% | ~31 |
-| Leaning Tower of Pizza | 2.00% | ~21 |
-| Eco Warrior | 0.50% | ~5 |
-| The Bigger the Better | 0.50% | ~5 |
+| The Big Day | 61.00% | ~687 |
+| You're the Expert! | 27.00% | ~304 |
+| Home Cook | 24.00% | ~270 |
+| So Clean You Can Eat Off the Floor | 16.00% | ~180 |
+| S is for Scrumptious | 16.00% | ~180 |
+| French Flair | 14.00% | ~158 |
+| Next Level Cuisine | 8.00% | ~90 |
+| Haute Cuisine | 7.00% | ~79 |
+| Italian Style | 6.00% | ~68 |
+| Well-Stocked Kitchen | 5.00% | ~56 |
+| Sous-Chef | 4.00% | ~45 |
+| Rolling in Dough | 4.00% | ~45 |
+| Culinary Arts | 3.00% | ~34 |
+| Perfectionist | 3.00% | ~34 |
+| Leaning Tower of Pizza | 2.00% | ~23 |
+| Eco Warrior | 0.40% | ~5 |
+| The Bigger the Better | 0.40% | ~5 |
 | Chef, Yes Chef! | 0.30% | ~3 |
+| Kitchen Model | 0.20% | ~2 |
 | Codename: Arrabbiata | 0.20% | ~2 |
 | Teamwork | 0.10% | ~1 |
-| Kitchen Model | 0.10% | ~1 |
+| Satisfaction Guaranteed | 0.10% | ~1 |
 | Dream Team | 0.10% | ~1 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
@@ -36,7 +37,6 @@ Rating: 4.46 (Ranked 689)
 | Rise to the Challenge | 0.00% | ~0 |
 | Master Chef | 0.00% | ~0 |
 | Culinary Legend | 0.00% | ~0 |
-| Satisfaction Guaranteed | 0.00% | ~0 |
 | Experienced in the Kitchen | 0.00% | ~0 |
 | Seasoned Chef | 0.00% | ~0 |
 | The More the Merrier | 0.00% | ~0 |
@@ -46,8 +46,8 @@ Rating: 4.46 (Ranked 689)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049 (Ranked 301)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 1,127 (Ranked 300)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,6 +281,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 1,046 | 0 |
 | 2024-01-25 | 1,047 | 0 |
 | 2024-01-27 | 1,049 | 0 |
+| 2024-02-22 | 1,127 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

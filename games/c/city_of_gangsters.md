@@ -86,8 +86,8 @@ Rating: 4.28 (Ranked 920)
 | High Pillow | 0.10% | ~364 |
 | Station Master | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,840 (Ranked 58)  
-Completed: 7 (0.00%) (Ranked 414)  
+Progressed: 363,840 (Ranked 60)  
+Completed: 7 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

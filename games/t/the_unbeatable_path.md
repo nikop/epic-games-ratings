@@ -28,8 +28,8 @@
 | First Try | 0.00% | ~0 |
 | Angel of Death | -6.70% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 655)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 15 (Ranked 662)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

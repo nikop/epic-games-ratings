@@ -5,8 +5,8 @@ Rating: 4.39 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strikeout! | 0.10% | ~4 |
-| Zip This Up | 0.10% | ~4 |
+| Strikeout! | 0.10% | ~5 |
+| Zip This Up | 0.10% | ~5 |
 | I'd Buy That For a Dollar! | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
 | Uphold the Law | 0.00% | ~0 |
@@ -33,8 +33,8 @@ Rating: 4.39 (Ranked 803)
 | "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,003 (Ranked 223)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 4,626 (Ranked 217)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-25 | 3,961 | 0 |
 | 2024-01-26 | 3,983 | 0 |
 | 2024-01-27 | 4,003 | 0 |
+| 2024-02-22 | 4,626 | 0 |
 ## Awards
 Max (Great Boss Battles): 222  (Ranked 300)  
 Sum: 222 (Ranked 424)  

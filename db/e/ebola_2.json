@@ -2,10 +2,10 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2024-01-27T11:09:24.0092923+00:00",
       "NumProgressed": 335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:05:39.0536883+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1383,65 +1388,65 @@
       "ID": "achBossOne",
       "SetID": "1al1mjg",
       "Name": "Voodoo \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "achBossThree",
       "SetID": "1al1mjg",
       "Name": "Light will show the truth \u2714",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achBossTwo",
       "SetID": "1al1mjg",
       "Name": "Mask \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "achCoin",
       "SetID": "1al1mjg",
       "Name": "Seeker \u2714",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achCrow",
       "SetID": "1al1mjg",
       "Name": "Exterminate pests \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "achExplosion",
       "SetID": "1al1mjg",
       "Name": "Survival \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 17
     },
     {
       "ID": "achEye",
       "SetID": "1al1mjg",
       "Name": "Doctor \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "achGameEasy",
       "SetID": "1al1mjg",
       "Name": "Recruit \u2714",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achGameHard",
@@ -1455,17 +1460,17 @@
       "ID": "achGameMediym",
       "SetID": "1al1mjg",
       "Name": "Angel \u2714",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achHelp",
       "SetID": "1al1mjg",
       "Name": "Guardian angel \u2714",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 13
     },
     {
       "ID": "achIce",
@@ -1473,7 +1478,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 151
     },
     {
       "ID": "achMeat",
@@ -1481,7 +1486,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 95
     },
     {
       "ID": "achSaveses",
@@ -1495,47 +1500,47 @@
       "ID": "achSeif",
       "SetID": "1al1mjg",
       "Name": "Master of Unlocking \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 285
     },
     {
       "ID": "achVirus",
       "SetID": "1al1mjg",
       "Name": "Saved the planet \u2714",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:31.0724461+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:39.053688+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:41.091216+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:16.1666297+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:31.0724615+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:59:33.2292409+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:05:39.0537048+00:00"
 }

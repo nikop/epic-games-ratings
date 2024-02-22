@@ -51,8 +51,8 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~99 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,703 (Ranked 104)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 98,703 (Ranked 105)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

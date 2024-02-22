@@ -2,10 +2,10 @@
   "ID": "e3ea6ce18c3143ec8b4dbd15bb16a73c",
   "Name": "Pillazon - MMO Drug Lord Tycoon",
   "ProductSlug": "pillazon-mmo-drug-lord-tycoon-6441ec",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-01-13T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-16T07:57:13.5647832+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:08.775652+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:59:25.5786117+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:23.3786236+00:00"
 }

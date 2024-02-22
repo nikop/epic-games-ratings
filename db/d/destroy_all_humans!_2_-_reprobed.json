@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 362,
-  "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -324,11 +324,11 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 537,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.42,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -2194,6 +2194,11 @@
       "Time": "2024-01-27T03:10:08.3575134+00:00",
       "NumProgressed": 478,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-02-22T21:05:18.8081782+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2206,29 +2211,29 @@
       "Name": "Mash Machine",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
       "SetID": "4n84pon",
       "Name": "Ultimate Smoothie",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
       "SetID": "4n84pon",
       "Name": "PK Slam Dunk",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2238,7 +2243,7 @@
       "Name": "Furon Fashion",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2252,17 +2257,17 @@
       "ID": "ACH_COLLECT_DIEGETIC_ART",
       "SetID": "4n84pon",
       "Name": "Gotta Catch All the Pop Art",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_COLLECT_SOUNDTRACKS",
       "SetID": "4n84pon",
       "Name": "This Is Earth Radio",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_COMPLETE_ALL_OJ",
@@ -2270,23 +2275,23 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -2294,7 +2299,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_DESTROY_HIVES",
@@ -2308,9 +2313,9 @@
       "ID": "ACH_DESTROY_LANDMARKS",
       "SetID": "4n84pon",
       "Name": "Toilet Break",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DISLOCATOR_BOWLING",
@@ -2318,31 +2323,31 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
       "SetID": "4n84pon",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 402
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2350,47 +2355,47 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_KILL_MILENKOV",
       "SetID": "4n84pon",
       "Name": "Lobster Blisque",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -2398,7 +2403,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2406,15 +2411,15 @@
       "Name": "Die Nasty",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
       "SetID": "4n84pon",
       "Name": "Ouch of Body Experience",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_KILL_SHAMA",
@@ -2422,23 +2427,23 @@
       "Name": "Deincarnated",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_KILL_YETI",
       "SetID": "4n84pon",
       "Name": "Yettisoned",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2446,7 +2451,7 @@
       "Name": "The Optional Mandate",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_OPEN_FLUFF_MENU",
@@ -2454,15 +2459,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2476,25 +2481,25 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "4n84pon",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_SKATE_ALBION",
       "SetID": "4n84pon",
       "Name": "To Russia With Love",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2508,33 +2513,33 @@
       "ID": "ACH_SKATE_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Steezy Down the Spine",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SKATE_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "Path of the Furon",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_SKATE_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "Trans-Siberian Express",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2542,7 +2547,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2550,14 +2555,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 537,
       "Completed": 2
     }
   ],
@@ -2565,8 +2570,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-02-18T06:58:08.1287953+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:09.9869497+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:18.8081778+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:34.2148224+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:47.9236946+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:09.9869785+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:59:03.5226029+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:05:18.8082193+00:00"
 }

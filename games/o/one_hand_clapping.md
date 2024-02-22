@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent City | 28.00% | ~281 |
-| Duet Desert | 5.00% | ~50 |
-| Fermata | 4.00% | ~40 |
-| Cadenza | 3.00% | ~30 |
-| Maestro Mountain | 3.00% | ~30 |
+| Silent City | 29.00% | ~296 |
+| Duet Desert | 5.00% | ~51 |
+| Fermata | 4.00% | ~41 |
+| Cadenza | 3.00% | ~31 |
+| Maestro Mountain | 3.00% | ~31 |
 | Tempo | 2.00% | ~20 |
 | Staccato | 2.00% | ~20 |
 | Fugue Forest | 2.00% | ~20 |
-| Cadence | 1.00% | ~10 |
-| Silent City: Reprise | 0.80% | ~8 |
-| Maestro Mountain Glyph | 0.70% | ~7 |
-| Coda Cave | 0.70% | ~7 |
+| Cadence | 2.00% | ~20 |
+| Silent City: Reprise | 0.90% | ~9 |
+| Maestro Mountain Glyph | 0.80% | ~8 |
+| Coda Cave | 0.80% | ~8 |
 | Solo Sea | 0.70% | ~7 |
+| Silent City Glyph | 0.60% | ~6 |
+| Coda Cave Glyph | 0.60% | ~6 |
 | Antiphony | 0.50% | ~5 |
-| Silent City Glyph | 0.50% | ~5 |
-| Coda Cave Glyph | 0.50% | ~5 |
 | Symphony | 0.30% | ~3 |
 | Musica Universalis | 0.30% | ~3 |
-| Fugue Forest Glyph | 0.20% | ~2 |
+| Fugue Forest Glyph | 0.30% | ~3 |
+| Duet Desert Glyph | 0.20% | ~2 |
+| Solo Sea Glyph | 0.20% | ~2 |
+| Silent City: Reprise Glyph | 0.20% | ~2 |
 | Consonance | 0.10% | ~1 |
 | Dissonance | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
 | Tritone | 0.10% | ~1 |
-| Duet Desert Glyph | 0.10% | ~1 |
-| Solo Sea Glyph | 0.10% | ~1 |
-| Silent City: Reprise Glyph | 0.10% | ~1 |
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,003 (Ranked 305)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 1,020 (Ranked 309)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,6 +132,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 1,001 | 0 |
 | 2024-01-26 | 1,002 | 0 |
 | 2024-01-27 | 1,003 | 0 |
+| 2024-02-22 | 1,020 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

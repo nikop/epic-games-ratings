@@ -6,36 +6,36 @@ Number of Ratings: 190  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In Need of New Shoes | 0.10% | ~3 |
-| Sportsman stage | 0.10% | ~3 |
-| Ahoooooooooy! | 0.00% | ~0 |
-| Arctic Edge | 0.00% | ~0 |
-| Aurora Gazer | 0.00% | ~0 |
-| Been there, rode there | 0.00% | ~0 |
-| Bow Down Mister | 0.00% | ~0 |
-| Don Cupi | 0.00% | ~0 |
-| Every Nook and Cranny | 0.00% | ~0 |
-| To filter or not, that’s the question | 0.00% | ~0 |
-| Flower Girl | 0.00% | ~0 |
-| Go Big or Go Home | 0.00% | ~0 |
-| Hours of Work | 0.00% | ~0 |
-| Like Father, Like Son | 0.00% | ~0 |
-| Like the Back of My Hand | 0.00% | ~0 |
-| Nice to Meet You | 0.00% | ~0 |
-| Not Great, Not Terrible | 0.00% | ~0 |
-| Number One Dad | 0.00% | ~0 |
-| Plain Assessment | 0.00% | ~0 |
-| Springbok Namibia | 0.00% | ~0 |
-| Surefire Assessment | 0.00% | ~0 |
-| Swinging Duck | 0.00% | ~0 |
-| Task Force Aurora | 0.00% | ~0 |
-| Task Force Tikamoon | 0.00% | ~0 |
-| Top of the Pyramid | 0.00% | ~0 |
-| Welcome to the land of vamp… chamois! | 0.00% | ~0 |
-| Worth the View | 0.00% | ~0 |
+| In Need of New Shoes | 26.00% | ~851 |
+| Not Great, Not Terrible | 24.00% | ~785 |
+| Been there, rode there | 19.00% | ~622 |
+| Like Father, Like Son | 19.00% | ~622 |
+| Go Big or Go Home | 17.00% | ~556 |
+| Top of the Pyramid | 15.00% | ~491 |
+| Nice to Meet You | 7.00% | ~229 |
+| Aurora Gazer | 3.00% | ~98 |
+| Welcome to the land of vamp… chamois! | 3.00% | ~98 |
+| Worth the View | 3.00% | ~98 |
+| Ahoooooooooy! | 2.00% | ~65 |
+| Number One Dad | 2.00% | ~65 |
+| To filter or not, that’s the question | 1.00% | ~33 |
+| Like the Back of My Hand | 1.00% | ~33 |
+| Plain Assessment | 0.80% | ~26 |
+| Arctic Edge | 0.70% | ~23 |
+| Springbok Namibia | 0.70% | ~23 |
+| Surefire Assessment | 0.70% | ~23 |
+| Every Nook and Cranny | 0.60% | ~20 |
+| Flower Girl | 0.60% | ~20 |
+| Swinging Duck | 0.60% | ~20 |
+| Hours of Work | 0.20% | ~7 |
+| Sportsman stage | 0.20% | ~7 |
+| Bow Down Mister | 0.10% | ~3 |
+| Don Cupi | 0.10% | ~3 |
+| Task Force Aurora | 0.10% | ~3 |
+| Task Force Tikamoon | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,781 (Ranked 239)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 3,272 (Ranked 237)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-25 | 2,750 | 0 |
 | 2024-01-26 | 2,770 | 0 |
 | 2024-01-27 | 2,781 | 0 |
+| 2024-02-22 | 3,272 | 0 |
 ## Awards
 Max (Great for Beginners): 79  (Ranked 418)  
 Sum: 526 (Ranked 347)  

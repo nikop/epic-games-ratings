@@ -2,10 +2,10 @@
   "ID": "c4ee979d2c7e4fa19afa24782c2277d8",
   "Name": "Light of Alariya",
   "ProductSlug": "light-of-alariya-4cc723",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-15T17:00:00+00:00",
     "PcReleaseDate": "2023-03-01T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-15T22:56:59.2249212+00:00",
   "LastUpdate_AppInfo": "2024-02-17T21:57:18.119172+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:04.666376+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:10:39.4426102+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:57:46.1331732+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:49.0565718+00:00"
 }

@@ -25,8 +25,8 @@
 | Tournamasters | 0.00% | ~0 |
 | Fully Stocked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 439)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 198 (Ranked 446)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

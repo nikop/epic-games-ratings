@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 82.00% | ~289 |
-| Found the Healer | 35.00% | ~124 |
-| Second Shard | 10.00% | ~35 |
-| Champion of Kalevala | 7.00% | ~25 |
-| Keyu Exterminator | 7.00% | ~25 |
-| Death is Merely a Setback | 7.00% | ~25 |
-| Ring of Fire! | 7.00% | ~25 |
-| Third Shard | 7.00% | ~25 |
-| Berry Nice | 6.00% | ~21 |
-| Big Fish | 5.00% | ~18 |
-| Tastes Like Chicken | 5.00% | ~18 |
-| Fourth Shard | 5.00% | ~18 |
-| Fifth Shard | 4.00% | ~14 |
+| First Shard | 82.00% | ~312 |
+| Found the Healer | 34.00% | ~130 |
+| Second Shard | 9.00% | ~34 |
+| Champion of Kalevala | 7.00% | ~27 |
+| Death is Merely a Setback | 7.00% | ~27 |
+| Third Shard | 7.00% | ~27 |
+| Berry Nice | 6.00% | ~23 |
+| Keyu Exterminator | 6.00% | ~23 |
+| Ring of Fire! | 6.00% | ~23 |
+| Fourth Shard | 5.00% | ~19 |
+| Big Fish | 4.00% | ~15 |
+| Tastes Like Chicken | 4.00% | ~15 |
+| Fifth Shard | 4.00% | ~15 |
 | Green Thumb | 3.00% | ~11 |
 | Bird Butcherer | 3.00% | ~11 |
 | Finished Iron Danger | 3.00% | ~11 |
-| Mushroom Forager | 2.00% | ~7 |
-| Good Stew | 2.00% | ~7 |
-| Avian Veterinarian | 2.00% | ~7 |
-| Natural Selection | 2.00% | ~7 |
+| Mushroom Forager | 2.00% | ~8 |
+| Good Stew | 2.00% | ~8 |
+| Avian Veterinarian | 2.00% | ~8 |
+| Natural Selection | 2.00% | ~8 |
 | Knock, Knock! | 1.00% | ~4 |
 | Trolled | 1.00% | ~4 |
 | Troll Hunter | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353 (Ranked 387)  
-Completed: 4 (1.13%) (Ranked 171)  
+Progressed: 381 (Ranked 388)  
+Completed: 4 (1.05%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,6 +158,7 @@ Completed: 4 (1.13%) (Ranked 171)
 | 2024-01-16 | 351 | 4 |
 | 2024-01-20 | 352 | 4 |
 | 2024-01-23 | 353 | 4 |
+| 2024-02-22 | 381 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

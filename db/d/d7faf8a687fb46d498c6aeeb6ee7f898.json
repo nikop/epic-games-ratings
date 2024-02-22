@@ -2,10 +2,10 @@
   "ID": "d7faf8a687fb46d498c6aeeb6ee7f898",
   "Name": "Barotrauma",
   "ProductSlug": "barotrauma-ceddeb",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-03-13T18:00:00+00:00",
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-20T22:57:19.6911056+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:59:00.6067877+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:18.7877324+00:00"
 }

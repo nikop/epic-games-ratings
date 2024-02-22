@@ -5,47 +5,47 @@ Rating: 4.22 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,376 |
-| The Outer Way | 28.00% | ~6,376 |
-| Desperate Times | 27.00% | ~6,148 |
-| Paper Jams | 25.00% | ~5,693 |
-| Get a Grip | 24.00% | ~5,465 |
-| Chew 'Em Up | 22.00% | ~5,010 |
-| Reforged | 21.00% | ~4,782 |
-| Float Like A Butterfly | 20.00% | ~4,554 |
-| If the SHU Fits... | 19.00% | ~4,326 |
-| Workplace Hazard | 18.00% | ~4,099 |
-| Without A Paddle | 16.00% | ~3,643 |
-| In the Pipe, Five by Five | 15.00% | ~3,416 |
-| Crash Site | 15.00% | ~3,416 |
-| Two Heads Are Better Than One | 14.00% | ~3,188 |
-| Power Up | 13.00% | ~2,960 |
-| Giving Back | 12.00% | ~2,733 |
-| Terminated | 12.00% | ~2,733 |
-| What Lies Beneath | 12.00% | ~2,733 |
-| Full Circle | 12.00% | ~2,733 |
-| You Need a Gun | 10.00% | ~2,277 |
-| I Do Belong Here | 9.00% | ~2,049 |
-| Keep Fighting | 8.00% | ~856 |
-| In Striking Distance | 6.00% | ~1,366 |
-| The Commonality | 6.00% | ~1,366 |
-| It's Time | 6.00% | ~642 |
-| One Last Job | 3.00% | ~321 |
-| Armed to the Teeth | 2.00% | ~214 |
-| Mugshot | 2.00% | ~455 |
-| Big Spender | 2.00% | ~214 |
-| This Isn't About Escape | 2.00% | ~214 |
-| Grim Reaper | 1.00% | ~228 |
-| Instigator | 1.00% | ~107 |
-| Information Overload | 1.00% | ~107 |
-| Parole Denied | 0.90% | ~96 |
-| Quick Pick | 0.90% | ~96 |
-| Subject Alpha | 0.70% | ~75 |
-| The Protocol is About Life | 0.40% | ~91 |
-| Hoard Mode | 0.40% | ~43 |
-| Don't Let It Mellow | 0.40% | ~43 |
-| Recidivist | 0.30% | ~32 |
-| Bear Trap | 0.20% | ~21 |
+| Flesh Wound | 30.00% | ~6,985 |
+| The Outer Way | 30.00% | ~6,985 |
+| Desperate Times | 28.00% | ~6,519 |
+| Paper Jams | 27.00% | ~6,286 |
+| Get a Grip | 26.00% | ~6,053 |
+| Chew 'Em Up | 24.00% | ~5,588 |
+| Reforged | 23.00% | ~5,355 |
+| Float Like A Butterfly | 21.00% | ~4,889 |
+| Workplace Hazard | 20.00% | ~4,656 |
+| If the SHU Fits... | 20.00% | ~4,656 |
+| Without A Paddle | 18.00% | ~4,191 |
+| In the Pipe, Five by Five | 16.00% | ~3,725 |
+| Crash Site | 16.00% | ~3,725 |
+| Two Heads Are Better Than One | 15.00% | ~3,492 |
+| Power Up | 15.00% | ~3,492 |
+| What Lies Beneath | 14.00% | ~3,259 |
+| Full Circle | 14.00% | ~3,259 |
+| Giving Back | 13.00% | ~3,027 |
+| Terminated | 13.00% | ~3,027 |
+| You Need a Gun | 11.00% | ~2,561 |
+| I Do Belong Here | 10.00% | ~2,328 |
+| Keep Fighting | 9.00% | ~1,009 |
+| The Commonality | 7.00% | ~1,630 |
+| It's Time | 7.00% | ~785 |
+| In Striking Distance | 6.00% | ~1,397 |
+| One Last Job | 4.00% | ~448 |
+| Armed to the Teeth | 2.00% | ~224 |
+| Mugshot | 2.00% | ~466 |
+| Big Spender | 2.00% | ~224 |
+| This Isn't About Escape | 2.00% | ~224 |
+| Grim Reaper | 1.00% | ~233 |
+| Parole Denied | 1.00% | ~112 |
+| Instigator | 1.00% | ~112 |
+| Information Overload | 1.00% | ~112 |
+| Quick Pick | 1.00% | ~112 |
+| Subject Alpha | 0.80% | ~90 |
+| The Protocol is About Life | 0.50% | ~116 |
+| Don't Let It Mellow | 0.50% | ~56 |
+| Recidivist | 0.40% | ~45 |
+| Hoard Mode | 0.40% | ~45 |
+| Bear Trap | 0.30% | ~34 |
 | It's over, Jacob! | 0.10% | ~23 |
 | Glutton for Punishment | 0.10% | ~11 |
 | You Belong Here | 0.10% | ~11 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 974)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,771 (Ranked 153)  
-Completed: 82 (0.36%) (Ranked 257)  
+Progressed: 23,282 (Ranked 155)  
+Completed: 84 (0.36%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,17 +328,18 @@ Completed: 82 (0.36%) (Ranked 257)
 | 2024-01-25 | 22,746 | 82 |
 | 2024-01-26 | 22,758 | 82 |
 | 2024-01-27 | 22,771 | 82 |
+| 2024-02-22 | 23,282 | 84 |
 ## Awards
 Max (Amazing Characters): 156  (Ranked 343)  
-Sum: 759 (Ranked 309)  
+Sum: 760 (Ranked 309)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 156 |
 | This game is Extremely Fun | 141 |
 | This game has Amazing Storytelling | 136 |
+| This game has Quickly Understood Controls | 133 |
 | This game is Highly Recommended | 132 |
-| This game has Quickly Understood Controls | 132 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 62 |
 ## Ratings History
@@ -580,4 +581,4 @@ Diff (max vs sum): 34
 | 2024-02-17 | 4.22 | 156 | 754 |
 | 2024-02-18 | 4.22 | 156 | 756 |
 | 2024-02-20 | 4.22 | 156 | 758 |
-| 2024-02-22 | 4.22 | 156 | 759 |
+| 2024-02-22 | 4.22 | 156 | 760 |

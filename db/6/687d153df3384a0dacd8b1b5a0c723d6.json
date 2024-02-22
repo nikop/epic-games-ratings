@@ -2,10 +2,10 @@
   "ID": "687d153df3384a0dacd8b1b5a0c723d6",
   "Name": "Top Web Search 23",
   "ProductSlug": "top-web-search-23-a34613",
-  "Ranking_EOS_Progress": 583,
-  "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
     "PcReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -357,6 +357,6 @@
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:11.9340102+00:00",
   "LastUpdate_AppInfo": "2024-02-19T22:56:55.5720622+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:11.6945515+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:57:50.9569312+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:11.9340168+00:00"
 }

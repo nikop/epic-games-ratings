@@ -4,73 +4,74 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~184 |
-| Press-ganged | 44.00% | ~139 |
-| The Package | 28.00% | ~89 |
-| Randomized | 19.00% | ~60 |
-| Conquered | 19.00% | ~60 |
-| Scribe | 11.00% | ~35 |
-| Breached | 11.00% | ~35 |
-| Conciliator | 10.00% | ~32 |
-| Tactician | 10.00% | ~32 |
-| Fight Another Day | 9.00% | ~29 |
-| Taskmaster | 9.00% | ~29 |
-| Acquaintance | 8.00% | ~25 |
-| Scholar | 7.00% | ~22 |
-| The More the Merrier | 7.00% | ~22 |
-| Harbinger | 7.00% | ~22 |
-| Tail-wind | 7.00% | ~22 |
-| Deputized | 6.00% | ~19 |
-| Courier | 6.00% | ~19 |
-| Pilgrimage's End | 6.00% | ~19 |
-| Merchant | 6.00% | ~19 |
+| A Second Chance | 58.00% | ~191 |
+| Press-ganged | 43.00% | ~142 |
+| The Package | 28.00% | ~92 |
+| Conquered | 20.00% | ~66 |
+| Randomized | 19.00% | ~63 |
+| Scribe | 12.00% | ~40 |
+| Breached | 12.00% | ~40 |
+| Conciliator | 11.00% | ~36 |
+| Tactician | 11.00% | ~36 |
+| Fight Another Day | 10.00% | ~33 |
+| Taskmaster | 10.00% | ~33 |
+| Acquaintance | 8.00% | ~26 |
+| Scholar | 7.00% | ~23 |
+| The More the Merrier | 7.00% | ~23 |
+| Deputized | 7.00% | ~23 |
+| Harbinger | 7.00% | ~23 |
+| Tail-wind | 7.00% | ~23 |
+| Pilgrimage's End | 7.00% | ~23 |
+| Merchant | 7.00% | ~23 |
+| Courier | 6.00% | ~20 |
 | Quartermaster | 5.00% | ~16 |
 | Strategist | 5.00% | ~16 |
+| Been There | 5.00% | ~16 |
+| Spiritual Journey | 5.00% | ~16 |
+| Trouble at Fort Larius | 5.00% | ~16 |
+| Potential Unlocked | 4.00% | ~13 |
 | Despised | 4.00% | ~13 |
-| Been There | 4.00% | ~13 |
-| Spiritual Journey | 4.00% | ~13 |
-| Trouble at Fort Larius | 4.00% | ~13 |
+| A Terrible Will | 4.00% | ~13 |
+| Inquisitions of Discord | 4.00% | ~13 |
+| Unseen Patterns | 4.00% | ~13 |
 | Supercargo | 3.00% | ~10 |
-| Potential Unlocked | 3.00% | ~10 |
+| Huntress Unbound | 3.00% | ~10 |
 | Xevarian Gambit | 3.00% | ~10 |
 | The Voice of Hereafter | 3.00% | ~10 |
-| A Terrible Will | 3.00% | ~10 |
-| Delayed | 3.00% | ~10 |
+| A Real Battle | 3.00% | ~10 |
 | Life... Finds a Way | 3.00% | ~10 |
-| Inquisitions of Discord | 3.00% | ~10 |
-| Unseen Patterns | 3.00% | ~10 |
-| Bounty Hunter | 2.00% | ~6 |
-| Watcher | 2.00% | ~6 |
-| Huntress Unbound | 2.00% | ~6 |
-| Business As Usual | 2.00% | ~6 |
-| Legacy of a Mercenary | 2.00% | ~6 |
-| Moving At Odd Angles | 2.00% | ~6 |
-| A Real Battle | 2.00% | ~6 |
-| Merchant Lord | 2.00% | ~6 |
-| Glorious leader | 2.00% | ~6 |
-| Insectoid Propagator | 2.00% | ~6 |
-| Loremaster | 1.00% | ~3 |
-| Talent Nurtured | 1.00% | ~3 |
-| Trailblazer | 1.00% | ~3 |
-| The Darkness Within | 1.00% | ~3 |
-| Making Contact | 0.90% | ~3 |
+| Merchant Lord | 3.00% | ~10 |
+| Insectoid Propagator | 3.00% | ~10 |
+| Bounty Hunter | 2.00% | ~7 |
+| Watcher | 2.00% | ~7 |
+| Loremaster | 2.00% | ~7 |
+| Talent Nurtured | 2.00% | ~7 |
+| Business As Usual | 2.00% | ~7 |
+| Legacy of a Mercenary | 2.00% | ~7 |
+| Trailblazer | 2.00% | ~7 |
+| Moving At Odd Angles | 2.00% | ~7 |
+| Delayed | 2.00% | ~7 |
+| The Darkness Within | 2.00% | ~7 |
+| Theory to Practice | 2.00% | ~7 |
+| Wyrmslayer | 2.00% | ~7 |
+| Glorious leader | 2.00% | ~7 |
+| Making Contact | 1.00% | ~3 |
+| Ever After | 1.00% | ~3 |
+| Loader | 1.00% | ~3 |
 | Executor | 0.90% | ~3 |
 | Adept | 0.90% | ~3 |
 | Embellished | 0.90% | ~3 |
-| Ever After | 0.90% | ~3 |
-| Loader | 0.90% | ~3 |
+| Manticore | 0.90% | ~3 |
 | What Lies Below | 0.90% | ~3 |
-| Wyrmslayer | 0.90% | ~3 |
+| The Last Voyage | 0.90% | ~3 |
 | Voracity Confronted | 0.90% | ~3 |
-| Manticore | 0.60% | ~2 |
+| Forged in Battle | 0.60% | ~2 |
 | Huntsmaster | 0.60% | ~2 |
 | Mercenary | 0.60% | ~2 |
 | Escort | 0.60% | ~2 |
 | Despoiler | 0.60% | ~2 |
 | Ruiner | 0.60% | ~2 |
 | Arcanite | 0.60% | ~2 |
-| The Last Voyage | 0.60% | ~2 |
-| Theory to Practice | 0.60% | ~2 |
 | And the Sky Full of Stars | 0.30% | ~1 |
 | Carpenter | 0.30% | ~1 |
 | General | 0.30% | ~1 |
@@ -79,7 +80,6 @@
 | Factotum | 0.30% | ~1 |
 | Conqueror | 0.30% | ~1 |
 | Forager | 0.30% | ~1 |
-| Forged in Battle | 0.30% | ~1 |
 | Captain | 0.30% | ~1 |
 | Chromatic Collector | 0.30% | ~1 |
 | Celebrity | 0.30% | ~1 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317 (Ranked 403)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 330 (Ranked 404)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,6 +226,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-22 | 313 | 0 |
 | 2024-01-25 | 315 | 0 |
 | 2024-01-27 | 317 | 0 |
+| 2024-02-22 | 330 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

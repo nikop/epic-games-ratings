@@ -2,10 +2,10 @@
   "ID": "33b49c223bc548b99c30266a8aae1eb9",
   "Name": "Japanese Drift Master",
   "ProductSlug": "japanese-drift-master-b4fd48",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-17T22:57:06.7146482+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:59:07.8916071+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:10:49.4548691+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:26.1557302+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:58.8144845+00:00"
 }

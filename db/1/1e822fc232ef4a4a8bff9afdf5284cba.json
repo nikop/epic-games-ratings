@@ -2,10 +2,10 @@
   "ID": "1e822fc232ef4a4a8bff9afdf5284cba",
   "Name": "Retro Commander",
   "ProductSlug": "retro-commander-7814fc",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-02-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-25T00:00:00+00:00",
@@ -36,5 +36,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-02T13:00:34.1537204+00:00",
   "LastUpdate_AppInfo": "2024-02-18T17:57:07.4955194+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:00:55.1732223+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:57:39.6906308+00:00"
 }

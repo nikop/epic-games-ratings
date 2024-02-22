@@ -6,39 +6,39 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 46.00% | ~908 |
-| Grenadier | 45.00% | ~889 |
-| War Never Changes | 45.00% | ~889 |
-| Heroes Never Die | 41.00% | ~810 |
-| Mosquito bite | 38.00% | ~750 |
-| Spice It Up | 34.00% | ~672 |
-| Agent 47 | 28.00% | ~553 |
-| Bomberman | 28.00% | ~553 |
-| You're Gonna Go Far, Kid | 27.00% | ~533 |
-| Death to the Oppressor! | 20.00% | ~395 |
-| The Gang's All Here | 17.00% | ~336 |
-| Your Answer | 16.00% | ~316 |
-| One by One | 15.00% | ~296 |
-| The Big Bertha | 13.00% | ~257 |
-| Game Over | 12.00% | ~237 |
-| Lock, Stock | 8.00% | ~158 |
-| Payback Time | 8.00% | ~158 |
-| No Witness | 6.00% | ~118 |
-| Strategist | 5.00% | ~99 |
-| Do a Barrel Roll! | 2.00% | ~40 |
-| Unbreakable Wall | 2.00% | ~40 |
-| Experienced Strategist | 2.00% | ~40 |
-| How?! | 1.00% | ~20 |
-| Tough as Nails | 0.50% | ~10 |
-| Commandos | 0.40% | ~8 |
-| A Little Culture | 0.20% | ~4 |
+| E1M1 | 46.00% | ~978 |
+| Grenadier | 44.00% | ~936 |
+| War Never Changes | 44.00% | ~936 |
+| Heroes Never Die | 41.00% | ~872 |
+| Mosquito bite | 37.00% | ~787 |
+| Spice It Up | 33.00% | ~702 |
+| Agent 47 | 27.00% | ~574 |
+| You're Gonna Go Far, Kid | 27.00% | ~574 |
+| Bomberman | 27.00% | ~574 |
+| Death to the Oppressor! | 19.00% | ~404 |
+| The Gang's All Here | 17.00% | ~362 |
+| Your Answer | 16.00% | ~340 |
+| One by One | 15.00% | ~319 |
+| The Big Bertha | 13.00% | ~277 |
+| Game Over | 12.00% | ~255 |
+| Lock, Stock | 8.00% | ~170 |
+| Payback Time | 8.00% | ~170 |
+| No Witness | 5.00% | ~106 |
+| Strategist | 5.00% | ~106 |
+| Do a Barrel Roll! | 2.00% | ~43 |
+| Unbreakable Wall | 2.00% | ~43 |
+| Experienced Strategist | 2.00% | ~43 |
+| How?! | 1.00% | ~21 |
+| Tough as Nails | 0.50% | ~11 |
+| Commandos | 0.40% | ~9 |
+| Inspector General | 0.20% | ~4 |
+| Scout | 0.20% | ~4 |
 | We Weren't There | 0.20% | ~4 |
-| Inspector General | 0.10% | ~2 |
 | Defense of Steel | 0.10% | ~2 |
-| Scout | 0.10% | ~2 |
+| A Little Culture | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,975 (Ranked 258)  
-Completed: 2 (0.10%) (Ranked 325)  
+Progressed: 2,127 (Ranked 257)  
+Completed: 2 (0.09%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -296,6 +296,7 @@ Completed: 2 (0.10%) (Ranked 325)
 | 2024-01-25 | 1,973 | 2 |
 | 2024-01-26 | 1,974 | 2 |
 | 2024-01-27 | 1,975 | 2 |
+| 2024-02-22 | 2,127 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

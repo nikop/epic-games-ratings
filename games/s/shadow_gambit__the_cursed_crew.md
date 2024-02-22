@@ -32,8 +32,8 @@ Rating: 4.84 (Ranked 48)
 | Marauder | 3.00% | ~47 |
 | Welcome Back Jester | 3.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,574 (Ranked 273)  
-Completed: 39 (2.48%) (Ranked 131)  
+Progressed: 1,574 (Ranked 278)  
+Completed: 39 (2.48%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -46,8 +46,8 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~56 |
 | Windswept | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,377 (Ranked 124)  
-Completed: 5 (0.01%) (Ranked 388)  
+Progressed: 56,377 (Ranked 125)  
+Completed: 5 (0.01%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,9 +330,9 @@ Completed: 5 (0.01%) (Ranked 388)
 | 2024-01-26 | 56,316 | 5 |
 | 2024-01-27 | 56,377 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 53  (Ranked 464)  
+Max (Great for Quick Sessions): 53  (Ranked 465)  
 Sum: 442 (Ranked 365)  
-Diff (max vs sum): 99  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 53 |

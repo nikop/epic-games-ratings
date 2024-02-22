@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 114.00% | ~122 |
-| Break no Sweat | 109.00% | ~117 |
-| Every little bit counts | 103.00% | ~110 |
-| Growth | 86.00% | ~92 |
-| Targeting the Enemy | 71.00% | ~76 |
-| Unavoidable | 67.00% | ~72 |
+| Black Cat's Warning | 117.00% | ~125 |
+| Break no Sweat | 111.00% | ~119 |
+| Every little bit counts | 105.00% | ~112 |
+| Growth | 87.00% | ~93 |
+| Targeting the Enemy | 72.00% | ~77 |
+| Unavoidable | 68.00% | ~73 |
 | Revenge | 64.00% | ~68 |
 | Reunion | 41.00% | ~44 |
 | Fluke | 36.00% | ~39 |
@@ -62,8 +62,8 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 498)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 107 (Ranked 505)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

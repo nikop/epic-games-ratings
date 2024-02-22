@@ -2,10 +2,10 @@
   "ID": "0c8b0fae094f4e36a63e38482674c642",
   "Name": "Koropokkur in Love ~A Little Fairy\u2019s Tale~",
   "ProductSlug": "koropokkur-in-love-b3611c",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-04-21T04:00:00+00:00",
     "PcReleaseDate": "2018-09-27T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-18T03:57:41.2242975+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:16.6737795+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:59:33.7822379+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:15.1574888+00:00"
 }

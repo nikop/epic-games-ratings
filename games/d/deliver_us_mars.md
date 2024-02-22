@@ -39,8 +39,8 @@ Rating: 4.15 (Ranked 1,027)
 | Shai-Hulud? | 0.20% | ~24 |
 | Their batteries were low and it got dark | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,100 (Ranked 183)  
-Completed: 13 (0.11%) (Ranked 318)  
+Progressed: 12,100 (Ranked 185)  
+Completed: 13 (0.11%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

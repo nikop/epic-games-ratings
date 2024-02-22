@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dangerous path | 2.00% | ~1 |
+| Dangerous path | 1.00% | ~1 |
 | Easy breezy? | 0.00% | ~0 |
 | Some challenge | 0.00% | ~0 |
 | How hard can it be? | 0.00% | ~0 |
@@ -30,8 +30,8 @@
 | The Slayer! | 0.00% | ~0 |
 | Back for more | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 554)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 69 (Ranked 547)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2023-12-16 | 60 | 0 |
 | 2023-12-21 | 61 | 0 |
 | 2024-01-27 | 62 | 0 |
+| 2024-02-22 | 69 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

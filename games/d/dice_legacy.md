@@ -5,34 +5,34 @@ Rating: 4.29 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 43.00% | ~580 |
-| Manipulating Fate | 11.00% | ~148 |
-| The City | 11.00% | ~148 |
-| Full house | 7.00% | ~95 |
-| Burn and Pillage | 7.00% | ~95 |
-| Hear me out | 7.00% | ~95 |
-| Listening to the crowd | 7.00% | ~95 |
-| Ascended | 5.00% | ~68 |
-| The Penitent Ones | 5.00% | ~68 |
-| Greedy | 5.00% | ~68 |
-| Hidden Secrets | 5.00% | ~68 |
-| The Stranded King | 5.00% | ~68 |
-| Accepting the Prophecy | 5.00% | ~68 |
-| Incredible Strength | 4.00% | ~54 |
-| Prophecy Fulfilled | 4.00% | ~54 |
-| Just Chilling | 3.00% | ~40 |
-| The Greedy Ones | 3.00% | ~40 |
-| The First King | 2.00% | ~27 |
-| The great fire | 2.00% | ~27 |
-| The Unruly Ones | 2.00% | ~27 |
+| We made it | 44.00% | ~613 |
+| Manipulating Fate | 11.00% | ~153 |
+| The City | 11.00% | ~153 |
+| Hear me out | 8.00% | ~111 |
+| Full house | 7.00% | ~98 |
+| Burn and Pillage | 7.00% | ~98 |
+| Listening to the crowd | 6.00% | ~84 |
+| The Penitent Ones | 5.00% | ~70 |
+| Greedy | 5.00% | ~70 |
+| Hidden Secrets | 5.00% | ~70 |
+| The Stranded King | 5.00% | ~70 |
+| Accepting the Prophecy | 5.00% | ~70 |
+| Ascended | 4.00% | ~56 |
+| Incredible Strength | 4.00% | ~56 |
+| Prophecy Fulfilled | 4.00% | ~56 |
+| Just Chilling | 3.00% | ~42 |
+| The Greedy Ones | 3.00% | ~42 |
+| The First King | 2.00% | ~28 |
+| The great fire | 2.00% | ~28 |
+| The Unruly Ones | 2.00% | ~28 |
 | The Council | 1.00% | ~14 |
 | The Mad | 1.00% | ~14 |
 | Like the dream | 1.00% | ~14 |
 | Metropolis | 0.80% | ~11 |
-| Red Tape | 0.70% | ~9 |
-| Charismatic Leader | 0.70% | ~9 |
-| Knowledge is Power | 0.70% | ~9 |
+| Charismatic Leader | 0.70% | ~10 |
 | Six Faces | 0.60% | ~8 |
+| Red Tape | 0.60% | ~8 |
+| Knowledge is Power | 0.60% | ~8 |
 | The Great Winter | 0.50% | ~7 |
 | Ice and Fire | 0.30% | ~4 |
 | It's spreading | 0.30% | ~4 |
@@ -51,8 +51,8 @@ Rating: 4.29 (Ranked 907)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,350 (Ranked 284)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 1,393 (Ranked 291)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,6 +281,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-23 | 1,348 | 0 |
 | 2024-01-25 | 1,349 | 0 |
 | 2024-01-26 | 1,350 | 0 |
+| 2024-02-22 | 1,393 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

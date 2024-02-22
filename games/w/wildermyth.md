@@ -6,65 +6,65 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 10.00% | ~162 |
-| Me and My Familiar | 9.00% | ~146 |
-| Passing Shadow | 7.00% | ~114 |
-| This Too Shall Pass | 7.00% | ~114 |
-| How Romantic! | 7.00% | ~114 |
-| Cutthroat Competitors | 7.00% | ~114 |
-| Daybreak | 7.00% | ~114 |
-| Gotta Ca... Must Collect All of Them | 6.00% | ~98 |
-| Completing the Look | 4.00% | ~65 |
-| War Endured | 4.00% | ~65 |
-| Core Failure | 4.00% | ~65 |
-| A Mythic Menagerie | 3.00% | ~49 |
-| Who's Counting? | 3.00% | ~49 |
-| Pyrrhic Victory | 3.00% | ~49 |
-| Let Me Get My Chisel | 2.00% | ~32 |
-| Thematic Divergence | 2.00% | ~32 |
-| Chain Reaction | 2.00% | ~32 |
-| Echoes Die | 2.00% | ~32 |
-| A Story of Heroes | 2.00% | ~32 |
-| Turncoat | 2.00% | ~32 |
-| Legends Never Die | 1.00% | ~16 |
-| In Soil, In Smoke | 1.00% | ~16 |
-| Everfading | 1.00% | ~16 |
-| Another Tale to Tell | 1.00% | ~16 |
-| All My Birds, Safely Home | 1.00% | ~16 |
-| Some Say I'm Too Flashy | 1.00% | ~16 |
-| No Time for Clawmonsters | 1.00% | ~16 |
-| Plague Doctor | 0.90% | ~15 |
-| Bears are Scary | 0.90% | ~15 |
-| Grillmaster | 0.90% | ~15 |
-| Tempest | 0.90% | ~15 |
-| Storied Past | 0.80% | ~13 |
-| Worldwalker | 0.80% | ~13 |
-| Fight Like a Bird | 0.80% | ~13 |
-| Bonebreakers | 0.70% | ~11 |
-| A Hunger, Sated | 0.70% | ~11 |
-| Wingknight's Prowess | 0.70% | ~11 |
-| Into Mulch | 0.70% | ~11 |
-| Astrology | 0.70% | ~11 |
-| Lochias's Hunger | 0.70% | ~11 |
-| We Emerge Changed | 0.60% | ~10 |
-| Empty the Caves | 0.60% | ~10 |
-| No More Nightmares | 0.60% | ~10 |
-| The Power of Friendship | 0.40% | ~6 |
-| Drauvenslayers | 0.40% | ~6 |
-| Back into the Sea | 0.40% | ~6 |
-| I'm Not Smiling | 0.40% | ~6 |
-| War-Ender | 0.30% | ~5 |
+| Me and My Familiar | 11.00% | ~183 |
+| The Cost of Heroism | 11.00% | ~183 |
+| This Too Shall Pass | 9.00% | ~149 |
+| Passing Shadow | 8.00% | ~133 |
+| How Romantic! | 8.00% | ~133 |
+| Cutthroat Competitors | 8.00% | ~133 |
+| Daybreak | 8.00% | ~133 |
+| Gotta Ca... Must Collect All of Them | 7.00% | ~116 |
+| Completing the Look | 5.00% | ~83 |
+| War Endured | 5.00% | ~83 |
+| Core Failure | 5.00% | ~83 |
+| A Mythic Menagerie | 4.00% | ~66 |
+| Who's Counting? | 4.00% | ~66 |
+| Thematic Divergence | 3.00% | ~50 |
+| Pyrrhic Victory | 3.00% | ~50 |
+| Echoes Die | 3.00% | ~50 |
+| Let Me Get My Chisel | 2.00% | ~33 |
+| Chain Reaction | 2.00% | ~33 |
+| Everfading | 2.00% | ~33 |
+| Another Tale to Tell | 2.00% | ~33 |
+| A Story of Heroes | 2.00% | ~33 |
+| Turncoat | 2.00% | ~33 |
+| Worldwalker | 1.00% | ~17 |
+| Plague Doctor | 1.00% | ~17 |
+| Legends Never Die | 1.00% | ~17 |
+| In Soil, In Smoke | 1.00% | ~17 |
+| All My Birds, Safely Home | 1.00% | ~17 |
+| Bears are Scary | 1.00% | ~17 |
+| Grillmaster | 1.00% | ~17 |
+| Some Say I'm Too Flashy | 1.00% | ~17 |
+| Tempest | 1.00% | ~17 |
+| No Time for Clawmonsters | 1.00% | ~17 |
+| Storied Past | 0.90% | ~15 |
+| Empty the Caves | 0.90% | ~15 |
+| Wingknight's Prowess | 0.90% | ~15 |
+| Fight Like a Bird | 0.90% | ~15 |
+| Astrology | 0.90% | ~15 |
+| A Hunger, Sated | 0.80% | ~13 |
+| Lochias's Hunger | 0.80% | ~13 |
+| We Emerge Changed | 0.70% | ~12 |
+| Bonebreakers | 0.70% | ~12 |
+| No More Nightmares | 0.70% | ~12 |
+| Into Mulch | 0.70% | ~12 |
+| Drauvenslayers | 0.60% | ~10 |
+| War-Ender | 0.50% | ~8 |
+| I'm Not Smiling | 0.50% | ~8 |
+| Overwhelming Monstrosity | 0.40% | ~7 |
+| The Power of Friendship | 0.40% | ~7 |
+| Back into the Sea | 0.40% | ~7 |
+| Solid as the Hills | 0.40% | ~7 |
 | Symbiosis | 0.30% | ~5 |
 | Thwack! | 0.30% | ~5 |
-| Overwhelming Monstrosity | 0.20% | ~3 |
-| Solid as the Hills | 0.20% | ~3 |
-| A Lowly Crust of Beef | 0.10% | ~2 |
+| A Lowly Crust of Beef | 0.20% | ~3 |
 | We Call That Mortificient! | 0.10% | ~2 |
 | A Temperamental Shrub | 0.10% | ~2 |
 | Peacemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,625 (Ranked 271)  
-Completed: 7 (0.43%) (Ranked 244)  
+Progressed: 1,661 (Ranked 274)  
+Completed: 7 (0.42%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,6 +286,7 @@ Completed: 7 (0.43%) (Ranked 244)
 | 2024-01-25 | 1,619 | 7 |
 | 2024-01-26 | 1,622 | 7 |
 | 2024-01-27 | 1,625 | 7 |
+| 2024-02-22 | 1,661 | 7 |
 ## Awards
 Max (Character Customization): 30  (Ranked 543)  
 Sum: 30 (Ranked 569)  

@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 89.00% | ~75 |
-| Lightbulb Seeker | 86.00% | ~72 |
-| Grilled Mouse | 85.00% | ~71 |
-| Lightbulbs Collector | 77.00% | ~65 |
-| Energy Collector | 75.00% | ~63 |
-| East Street Energy | 51.00% | ~43 |
-| Energy Expert | 46.00% | ~39 |
-| Lightbulbs Expert | 46.00% | ~39 |
-| That's one way to travel | 42.00% | ~35 |
-| The Old Man and the Café | 40.00% | ~34 |
-| South Town Energy | 32.00% | ~27 |
-| North Town Energy | 31.00% | ~26 |
-| OK, I heard you!! | 30.00% | ~25 |
-| Photogenic | 29.00% | ~24 |
-| The Girl and the Homework | 27.00% | ~23 |
-| Unlimited Power!! | 25.00% | ~21 |
-| Lightbulb Detective | 25.00% | ~21 |
+| Energy Seeker | 89.00% | ~77 |
+| Lightbulb Seeker | 85.00% | ~74 |
+| Grilled Mouse | 84.00% | ~73 |
+| Lightbulbs Collector | 77.00% | ~67 |
+| Energy Collector | 75.00% | ~65 |
+| East Street Energy | 51.00% | ~44 |
+| Energy Expert | 48.00% | ~42 |
+| Lightbulbs Expert | 47.00% | ~41 |
+| The Old Man and the Café | 41.00% | ~36 |
+| That's one way to travel | 40.00% | ~35 |
+| South Town Energy | 33.00% | ~29 |
+| North Town Energy | 32.00% | ~28 |
+| OK, I heard you!! | 29.00% | ~25 |
+| Photogenic | 28.00% | ~24 |
+| The Girl and the Homework | 26.00% | ~23 |
+| Unlimited Power!! | 25.00% | ~22 |
+| Lightbulb Detective | 24.00% | ~21 |
+| The Ghost and the Lamps | 21.00% | ~18 |
 | The Quiche and the Hair Dryer | 21.00% | ~18 |
 | Cartographer | 21.00% | ~18 |
-| South Square Lightbulbs | 19.00% | ~16 |
-| The Ghost and the Lamps | 19.00% | ~16 |
-| The Woman and the Pizzeria | 19.00% | ~16 |
-| West Residence Energy | 17.00% | ~14 |
-| The Painter and the Lights | 17.00% | ~14 |
+| The Woman and the Pizzeria | 20.00% | ~17 |
+| South Square Lightbulbs | 18.00% | ~16 |
+| The Painter and the Lights | 17.00% | ~15 |
+| West Residence Energy | 16.00% | ~14 |
+| At your service | 14.00% | ~12 |
 | West Residence Lightbulbs | 14.00% | ~12 |
-| At your service | 13.00% | ~11 |
 | Riddle Master | 13.00% | ~11 |
-| East Street Lightbulbs | 12.00% | ~10 |
-| Out of service | 10.00% | ~8 |
-| The Garland and the Lightbulbs | 10.00% | ~8 |
+| East Street Lightbulbs | 11.00% | ~10 |
+| Out of service | 9.00% | ~8 |
+| The Garland and the Lightbulbs | 9.00% | ~8 |
 | Lightbulb Master | 8.00% | ~7 |
 | North Town Lightbulbs | 8.00% | ~7 |
 | Deep Lore | 8.00% | ~7 |
@@ -45,8 +45,8 @@
 | Warm Bed | 2.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 527)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 87 (Ranked 530)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-03 | 82 | 0 |
 | 2024-01-09 | 83 | 0 |
 | 2024-01-19 | 84 | 0 |
+| 2024-02-22 | 87 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 152,
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 63,
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14814,18 +14814,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 21040,
       "NumberOfAwardsMax": 7714
+    },
+    {
+      "Time": "2024-02-22T20:58:01.466827+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 21054,
+      "NumberOfAwardsMax": 7724
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21040,
-  "NumberOfAwardsMax": 7714,
+  "NumberOfAwards": 21054,
+  "NumberOfAwardsMax": 7724,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7714
+      "Count": 7724
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14861,7 +14867,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 841
+      "Count": 845
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -14917,8 +14923,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-02-22T19:01:27.4848865+00:00",
+  "LastChanged": "2024-02-22T20:58:01.4668269+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:45.9249399+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:27.484887+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:01.4668274+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:23.9805022+00:00"
 }

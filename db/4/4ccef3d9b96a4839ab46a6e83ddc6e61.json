@@ -2,10 +2,10 @@
   "ID": "4ccef3d9b96a4839ab46a6e83ddc6e61",
   "Name": "Revival: Recolonization",
   "ProductSlug": "revival-recolonization-8f1705",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-22T14:57:11.9533717+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:25.1050567+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:59:42.6248833+00:00"
 }

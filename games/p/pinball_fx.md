@@ -6,35 +6,34 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 5.00% | ~14,954 |
-| I Found it! | 2.00% | ~5,982 |
-| Ready Steady Score | 0.70% | ~2,094 |
-| First but not Last | 0.40% | ~1,196 |
-| Full Loot Madness | 0.30% | ~897 |
-| Contender | 0.10% | ~299 |
-| My Table, my Rules | 0.10% | ~299 |
-| Collect Them All | 0.10% | ~299 |
-| Shiny Memento | 0.10% | ~299 |
-| Table Mastered, part 10 | 0.10% | ~299 |
-| Medal Hunter | 0.10% | ~299 |
-| Medal Wizard | 0.10% | ~299 |
-| Pinball Hoarder | 0.10% | ~299 |
-| Virtual Pinball Museum | 0.10% | ~299 |
-| Nine Zeroes | 0.10% | ~299 |
-| Challenge Accepted! | 0.10% | ~299 |
-| Relic Hunter | 0.10% | ~299 |
-| Interior Designer | 0.10% | ~299 |
-| Show Them | 0.10% | ~299 |
-| Totally Furnished | 0.10% | ~299 |
-| Dress Code | 0.10% | ~299 |
-| Customizer | 0.10% | ~299 |
-| I know the Rules | 0.10% | ~299 |
-| Catomic Bomb | 0.10% | ~17 |
-| Terraformer | 0.10% | ~17 |
-| The Captain | 0.10% | ~17 |
-| Battle of Cardassia | 0.10% | ~17 |
-| Did It for the Dowry | 0.10% | ~17 |
-| End of Gloom | 0.10% | ~17 |
+| Ball Launched | 0.50% | ~1,525 |
+| I Found it! | 0.20% | ~610 |
+| Contender | 0.10% | ~305 |
+| My Table, my Rules | 0.10% | ~305 |
+| Collect Them All | 0.10% | ~305 |
+| Shiny Memento | 0.10% | ~305 |
+| First but not Last | 0.10% | ~305 |
+| Table Mastered, part 10 | 0.10% | ~305 |
+| Medal Hunter | 0.10% | ~305 |
+| Medal Wizard | 0.10% | ~305 |
+| Ready Steady Score | 0.10% | ~305 |
+| Pinball Hoarder | 0.10% | ~305 |
+| Virtual Pinball Museum | 0.10% | ~305 |
+| Nine Zeroes | 0.10% | ~305 |
+| Challenge Accepted! | 0.10% | ~305 |
+| Full Loot Madness | 0.10% | ~305 |
+| Relic Hunter | 0.10% | ~305 |
+| Interior Designer | 0.10% | ~305 |
+| Show Them | 0.10% | ~305 |
+| Totally Furnished | 0.10% | ~305 |
+| Dress Code | 0.10% | ~305 |
+| Customizer | 0.10% | ~305 |
+| I know the Rules | 0.10% | ~305 |
+| Catomic Bomb | 0.10% | ~23 |
+| The Captain | 0.10% | ~23 |
+| Battle of Cardassia | 0.10% | ~23 |
+| Did It for the Dowry | 0.10% | ~23 |
+| End of Gloom | 0.10% | ~23 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -42,12 +41,14 @@ Number of Ratings: 756  (23.09.2022)
 | Royale Family | 0.00% | ~0 |
 | Mythic Toy | 0.00% | ~0 |
 | Fully Involved | 0.00% | ~0 |
+| Terraformer | 0.00% | ~0 |
 | To boldly go… | 0.00% | ~0 |
 | Glorious victory | 0.00% | ~0 |
 | The most beautiful Christmas | 0.00% | ~0 |
+| Evil AI unplugged | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,089 (Ranked 66)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 304,959 (Ranked 66)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,15 +330,16 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-25 | 298,551 | 0 |
 | 2024-01-26 | 298,918 | 0 |
 | 2024-01-27 | 299,089 | 0 |
+| 2024-02-22 | 304,959 | 0 |
 ## Awards
 Max (Great for Beginners): 219  (Ranked 303)  
-Sum: 1,678 (Ranked 241)  
+Sum: 1,679 (Ranked 241)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 219 |
 | This game is Great for Quick Sessions | 201 |
-| This game has Quickly Understood Controls | 172 |
+| This game has Quickly Understood Controls | 173 |
 | This game is Relaxing | 171 |
 | This game is Highly Recommended | 166 |
 | This game is Extremely Fun | 163 |
@@ -586,3 +588,4 @@ Diff (max vs sum): 62
 | 2024-02-17 | 4.07 | - | 218 | 1,675 |
 | 2024-02-18 | 4.07 | - | 218 | 1,677 |
 | 2024-02-20 | 4.07 | - | 219 | 1,678 |
+| 2024-02-22 | 4.07 | - | 219 | 1,679 |

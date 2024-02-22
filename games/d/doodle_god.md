@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 95.00% | ~266 |
-| Practice Makes Perfect | 84.00% | ~235 |
-| Creator of Life | 83.00% | ~232 |
-| Creator of Diversity | 73.00% | ~204 |
-| Similar to Similar | 71.00% | ~199 |
-| Creator of Humanity | 66.00% | ~185 |
-| Creator of Civilization | 40.00% | ~112 |
-| Creator of Technology | 25.00% | ~70 |
-| Honorable Santa | 23.00% | ~64 |
-| God of Fun | 19.00% | ~53 |
-| Creator of Modernity | 18.00% | ~50 |
-| Doodle Bar | 18.00% | ~50 |
-| Half the Kingdom | 17.00% | ~48 |
-| Deity of Darkness | 16.00% | ~45 |
-| Creator of Magic | 15.00% | ~42 |
-| Salvation! | 10.00% | ~28 |
-| Heavenly Virtues | 10.00% | ~28 |
-| Brilliant Inventor | 8.00% | ~22 |
+| Good Start | 95.00% | ~272 |
+| Practice Makes Perfect | 84.00% | ~240 |
+| Creator of Life | 83.00% | ~237 |
+| Creator of Diversity | 72.00% | ~206 |
+| Similar to Similar | 71.00% | ~203 |
+| Creator of Humanity | 66.00% | ~189 |
+| Creator of Civilization | 40.00% | ~114 |
+| Creator of Technology | 26.00% | ~74 |
+| Honorable Santa | 23.00% | ~66 |
+| God of Fun | 19.00% | ~54 |
+| Creator of Modernity | 17.00% | ~49 |
+| Doodle Bar | 17.00% | ~49 |
+| Half the Kingdom | 17.00% | ~49 |
+| Deity of Darkness | 16.00% | ~46 |
+| Creator of Magic | 15.00% | ~43 |
+| Salvation! | 10.00% | ~29 |
+| Heavenly Virtues | 10.00% | ~29 |
+| Brilliant Inventor | 8.00% | ~23 |
 | Greatest inventor | 7.00% | ~20 |
 | Master of Alchemy | 6.00% | ~17 |
 | Master of the Worlds | 6.00% | ~17 |
-| God of Patience | 4.00% | ~11 |
+| God of Patience | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 418)  
-Completed: 10 (3.57%) (Ranked 101)  
+Progressed: 286 (Ranked 418)  
+Completed: 10 (3.50%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,6 +106,7 @@ Completed: 10 (3.57%) (Ranked 101)
 | 2024-01-15 | 278 | 10 |
 | 2024-01-21 | 279 | 10 |
 | 2024-01-23 | 280 | 10 |
+| 2024-02-22 | 286 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

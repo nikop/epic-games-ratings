@@ -5,10 +5,10 @@
   "Ranking_Rating": 803,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 424,
-  "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -713,9 +713,9 @@
       "Count": 222
     }
   ],
-  "EOS_Progressed": 4003,
+  "EOS_Progressed": 4626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4663,6 +4663,11 @@
       "Time": "2024-01-27T13:10:19.9665953+00:00",
       "NumProgressed": 4003,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:04:30.1302384+00:00",
+      "NumProgressed": 4626,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -4731,7 +4736,7 @@
       "Name": "Strikeout!",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "L15Efficiency",
@@ -4851,7 +4856,7 @@
       "Name": "Zip This Up",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ShootingRangeBronze",
@@ -4890,7 +4895,7 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 4003,
+      "Progressed": 4626,
       "Completed": 0
     }
   ],
@@ -4898,8 +4903,8 @@
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
   "LastChanged": "2024-02-20T21:59:03.2085239+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:10:19.9665951+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:04:30.1302382+00:00",
   "LastUpdate_AppInfo": "2024-02-17T22:57:05.8242416+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:50.4103727+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:10:19.9666199+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:08.4550431+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:30.1302645+00:00"
 }

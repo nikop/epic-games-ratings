@@ -5,30 +5,30 @@ Rating: 4.30 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 56.00% | ~2,564 |
-| MVP | 53.00% | ~2,426 |
-| Big Spender | 52.00% | ~2,381 |
-| Stud Finder | 40.00% | ~1,831 |
-| Dealmaker | 38.00% | ~1,740 |
-| ROTY | 32.00% | ~1,465 |
-| Roster Reshuffle | 31.00% | ~1,419 |
-| Future of the Franchise | 19.00% | ~870 |
-| Throwin’ Dots | 18.00% | ~824 |
-| Already in Progress | 17.00% | ~778 |
-| Primetime | 16.00% | ~732 |
-| Change of Scenery | 16.00% | ~732 |
-| Pro Bowler | 16.00% | ~732 |
-| Unblockable | 9.00% | ~412 |
-| Pocket Ace | 5.00% | ~229 |
-| Lockdown Corner | 5.00% | ~229 |
-| Head-to-Head | 5.00% | ~229 |
-| Gain Train | 0.90% | ~41 |
-| Ol' Reliable | 0.70% | ~32 |
-| Lockdown Leader | 0.50% | ~23 |
-| The Fortress | 0.30% | ~14 |
+| Bragging Rights | 56.00% | ~2,690 |
+| MVP | 54.00% | ~2,594 |
+| Big Spender | 52.00% | ~2,498 |
+| Stud Finder | 40.00% | ~1,922 |
+| Dealmaker | 38.00% | ~1,826 |
+| ROTY | 32.00% | ~1,537 |
+| Roster Reshuffle | 31.00% | ~1,489 |
+| Future of the Franchise | 19.00% | ~913 |
+| Throwin’ Dots | 18.00% | ~865 |
+| Already in Progress | 17.00% | ~817 |
+| Change of Scenery | 16.00% | ~769 |
+| Pro Bowler | 16.00% | ~769 |
+| Primetime | 15.00% | ~721 |
+| Unblockable | 9.00% | ~432 |
+| Pocket Ace | 5.00% | ~240 |
+| Lockdown Corner | 5.00% | ~240 |
+| Head-to-Head | 5.00% | ~240 |
+| Gain Train | 0.90% | ~43 |
+| Ol' Reliable | 0.70% | ~34 |
+| Lockdown Leader | 0.50% | ~24 |
+| The Fortress | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,578 (Ranked 215)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 4,804 (Ranked 214)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,6 +162,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-25 | 4,568 | 0 |
 | 2024-01-26 | 4,573 | 0 |
 | 2024-01-27 | 4,578 | 0 |
+| 2024-02-22 | 4,804 | 0 |
 ## Awards
 Max (Diverse Characters): 52  (Ranked 470)  
 Sum: 202 (Ranked 433)  

@@ -2,10 +2,10 @@
   "ID": "ea0bddd31e544e3383885acfed97cb7c",
   "Name": "ABRISS - build to destroy",
   "ProductSlug": "abriss-build-to-destroy-a12a7a",
-  "Ranking_EOS_Progress": 758,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2023-09-05T07:00:00+00:00",
@@ -426,6 +426,6 @@
   "FirstSeenAchievements": "2024-01-23T15:04:17.091574+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:44.8250831+00:00",
   "LastUpdate_AppInfo": "2024-02-20T16:57:10.8646478+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:10.8790354+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:57:50.4812715+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:44.8251201+00:00"
 }

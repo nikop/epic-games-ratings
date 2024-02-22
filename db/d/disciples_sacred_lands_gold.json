@@ -2,10 +2,10 @@
   "ID": "7c2d0f6324ee4c6fa6a7601052f50a47",
   "Name": "Disciples Sacred Lands Gold",
   "ProductSlug": "disciples-sacred-lands-gold-6bf43b",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-14T04:00:00+00:00",
     "PcReleaseDate": "1999-10-04T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.9786014+00:00",
   "LastChanged": "2023-03-31T05:58:24.9786015+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:11.3018643+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:15.3682745+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:30.6303916+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:16.7779823+00:00"
 }

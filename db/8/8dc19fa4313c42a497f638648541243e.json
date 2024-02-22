@@ -2,10 +2,10 @@
   "ID": "8dc19fa4313c42a497f638648541243e",
   "Name": "Take The Throne",
   "ProductSlug": "take-the-throne-917f96",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-01-20T02:00:00+00:00",
     "PcReleaseDate": "2024-01-20T02:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-20T19:59:40.2314951+00:00",
   "LastUpdate_AppInfo": "2024-02-19T22:56:56.0274603+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:10.5852182+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:26.0230534+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:10.2149604+00:00"
 }

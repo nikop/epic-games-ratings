@@ -2,10 +2,10 @@
   "ID": "e837c025b8dc4bb18095c49d073f647c",
   "Name": "Mosaics Galore. Challenging journey",
   "ProductSlug": "mosaics-galore-challenging-journey-3ee83b",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-12-15T21:00:00+00:00",
     "PcReleaseDate": "2018-11-25T21:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2023-12-18T18:59:10.9486719+00:00",
   "LastUpdate_AppInfo": "2024-02-22T12:58:32.5456619+00:00",
   "LastUpdate_Ratings": "2024-02-22T20:00:04.7049116+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:47.6809692+00:00"
+  "LastUpdate_Achievements": "2024-02-22T21:03:59.055219+00:00"
 }

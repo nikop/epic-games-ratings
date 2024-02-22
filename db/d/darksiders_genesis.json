@@ -5,10 +5,10 @@
   "Ranking_Rating": 651,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 1036,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2800,6 +2800,11 @@
       "Time": "2024-01-27T07:10:43.8078554+00:00",
       "NumProgressed": 779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:05:43.8918402+00:00",
+      "NumProgressed": 1036,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2812,7 +2817,7 @@
       "Name": "A Bullet for All Seasons",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "AreYouNotEntertained",
@@ -2820,7 +2825,7 @@
       "Name": "Are You Not Entertained?",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Astarte",
@@ -2828,7 +2833,7 @@
       "Name": "Astarte",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "Belial",
@@ -2852,13 +2857,13 @@
       "Name": "Close the Rift",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "Collector",
       "SetID": "329ak73",
       "Name": "Collector",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -2876,13 +2881,13 @@
       "Name": "Demolition Derby",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "FullofHell",
       "SetID": "329ak73",
       "Name": "Full of Hell",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -2890,7 +2895,7 @@
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -2900,7 +2905,7 @@
       "Name": "Good Deeds",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "HellsForge",
@@ -2908,7 +2913,7 @@
       "Name": "Hell\u0027s Forge",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Infested",
@@ -2916,7 +2921,7 @@
       "Name": "Infested",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Mammon",
@@ -2924,7 +2929,7 @@
       "Name": "Mammon",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "MasterofStrife",
@@ -2932,7 +2937,7 @@
       "Name": "Master of Strife",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "MasterofWar",
@@ -2940,7 +2945,7 @@
       "Name": "Master of War",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "MintI",
@@ -2948,7 +2953,7 @@
       "Name": "Mint I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "MintII",
@@ -2956,7 +2961,7 @@
       "Name": "Mint II",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "MintIII",
@@ -2964,7 +2969,7 @@
       "Name": "Mint III",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Moloch",
@@ -2978,17 +2983,17 @@
       "ID": "ReadytoBlow",
       "SetID": "329ak73",
       "Name": "Ready to Blow",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "RespectforAnimals",
       "SetID": "329ak73",
       "Name": "Respect For Animals",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "SoulCache",
@@ -2996,7 +3001,7 @@
       "Name": "Soul Cache",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "TheDeadCourt",
@@ -3004,15 +3009,15 @@
       "Name": "The Dead Court",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "TheGardenofForkingPaths",
       "SetID": "329ak73",
       "Name": "Garden of Forking Paths",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ThePromisedEnd",
@@ -3020,7 +3025,7 @@
       "Name": "The Promised End",
       "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WalkingArmory",
@@ -3028,7 +3033,7 @@
       "Name": "Walking Armory",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "WhydItHavetoBeSnakes",
@@ -3036,13 +3041,13 @@
       "Name": "Why\u0027d It Have to Be Snakes?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "WickedKillington",
       "SetID": "329ak73",
       "Name": "Wicked Killington",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 4
     }
@@ -3051,15 +3056,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 1036,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:36.0541196+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:43.89184+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:47.2097367+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:50.1691555+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:36.054147+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:08.0947665+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:05:43.8918706+00:00"
 }

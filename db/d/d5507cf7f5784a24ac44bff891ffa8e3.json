@@ -2,10 +2,10 @@
   "ID": "d5507cf7f5784a24ac44bff891ffa8e3",
   "Name": "Pirate Mosaic Puzzle. Caribbean Treasures",
   "ProductSlug": "pirate-mosaic-puzzle-caribbean-treasures-86cb74",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-02-13T21:00:00+00:00",
     "PcReleaseDate": "2018-08-02T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-21T10:57:38.9123305+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:59.0240964+00:00",
+  "LastUpdate_Ratings": "2024-02-22T21:00:17.2343784+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:40.6700986+00:00"
 }

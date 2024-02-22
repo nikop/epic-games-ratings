@@ -5,60 +5,60 @@ Rating: 4.44 (Ranked 728)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,592 |
-| Ranidaphobia | 77.00% | ~1,332 |
-| Aspiring Editor | 74.00% | ~1,280 |
-| Gun for Hire | 69.00% | ~1,194 |
-| I am the law! | 63.00% | ~1,090 |
-| Lumberjack | 53.00% | ~917 |
-| Croaked | 49.00% | ~848 |
-| Limp Richard | 49.00% | ~848 |
-| Editor Adept | 48.00% | ~830 |
-| Exorcist | 48.00% | ~830 |
-| From Darkness to Light | 48.00% | ~830 |
-| Giant Killer | 46.00% | ~796 |
-| Sensei | 44.00% | ~761 |
-| Firestarter | 42.00% | ~727 |
-| The meaning of Kain | 42.00% | ~727 |
-| Recycler | 41.00% | ~709 |
-| Technophobe | 41.00% | ~709 |
-| Are you not entertained? | 36.00% | ~623 |
-| Ganglord | 36.00% | ~623 |
-| Jarhead | 36.00% | ~623 |
-| Infiltrator | 36.00% | ~623 |
-| Pushing Daisy | 34.00% | ~588 |
-| Experienced | 33.00% | ~571 |
-| Hold The Line | 33.00% | ~571 |
-| Endgame | 29.00% | ~502 |
-| Savior | 28.00% | ~484 |
-| Silent but Violent | 28.00% | ~484 |
-| There Can Be Only One! | 27.00% | ~467 |
-| Chain Killer | 22.00% | ~381 |
-| The Watchers | 22.00% | ~381 |
-| Commando | 17.00% | ~294 |
-| Chaos Theory | 16.00% | ~277 |
-| Dr Jones | 16.00% | ~277 |
-| Newtonian Knockout | 16.00% | ~277 |
-| Ruthless | 14.00% | ~242 |
-| Side Order | 11.00% | ~190 |
-| Bot Whisperer | 9.00% | ~156 |
-| Chain Reaction | 9.00% | ~156 |
-| Curveball | 8.00% | ~138 |
-| Wipe Out | 8.00% | ~138 |
-| Dressed To Kill | 7.00% | ~121 |
-| Master Editor | 7.00% | ~121 |
-| Attenborough | 6.00% | ~104 |
-| Bookworm | 3.00% | ~52 |
-| Cruelty | 3.00% | ~52 |
-| Five Finger Deathcount | 1.00% | ~17 |
-| Shadow Boxin' | 1.00% | ~17 |
-| Fratricide | 0.90% | ~16 |
+| First Blood | 92.00% | ~1,639 |
+| Ranidaphobia | 77.00% | ~1,372 |
+| Aspiring Editor | 74.00% | ~1,319 |
+| Gun for Hire | 70.00% | ~1,247 |
+| I am the law! | 64.00% | ~1,140 |
+| Lumberjack | 53.00% | ~944 |
+| Croaked | 49.00% | ~873 |
+| Limp Richard | 49.00% | ~873 |
+| Exorcist | 49.00% | ~873 |
+| Editor Adept | 48.00% | ~855 |
+| From Darkness to Light | 48.00% | ~855 |
+| Giant Killer | 46.00% | ~820 |
+| Sensei | 44.00% | ~784 |
+| The meaning of Kain | 43.00% | ~766 |
+| Firestarter | 42.00% | ~748 |
+| Recycler | 41.00% | ~731 |
+| Technophobe | 41.00% | ~731 |
+| Are you not entertained? | 37.00% | ~659 |
+| Jarhead | 37.00% | ~659 |
+| Ganglord | 36.00% | ~642 |
+| Infiltrator | 36.00% | ~642 |
+| Experienced | 34.00% | ~606 |
+| Hold The Line | 34.00% | ~606 |
+| Pushing Daisy | 34.00% | ~606 |
+| Silent but Violent | 30.00% | ~535 |
+| Endgame | 29.00% | ~517 |
+| Savior | 29.00% | ~517 |
+| There Can Be Only One! | 27.00% | ~481 |
+| Chain Killer | 22.00% | ~392 |
+| The Watchers | 22.00% | ~392 |
+| Commando | 17.00% | ~303 |
+| Dr Jones | 17.00% | ~303 |
+| Chaos Theory | 16.00% | ~285 |
+| Newtonian Knockout | 16.00% | ~285 |
+| Ruthless | 13.00% | ~232 |
+| Side Order | 11.00% | ~196 |
+| Bot Whisperer | 9.00% | ~160 |
+| Chain Reaction | 9.00% | ~160 |
+| Curveball | 8.00% | ~143 |
+| Wipe Out | 8.00% | ~143 |
+| Dressed To Kill | 7.00% | ~125 |
+| Master Editor | 7.00% | ~125 |
+| Attenborough | 6.00% | ~107 |
+| Bookworm | 4.00% | ~71 |
+| Cruelty | 3.00% | ~53 |
+| Shadow Boxin' | 2.00% | ~36 |
+| Five Finger Deathcount | 1.00% | ~18 |
 | Goaaaaal! | 0.90% | ~16 |
 | Alpha Editor | 0.80% | ~14 |
-| QA Has Suffered! (Redux) | 0.80% | ~14 |
+| Fratricide | 0.80% | ~14 |
+| QA Has Suffered! (Redux) | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,730 (Ranked 265)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 1,782 (Ranked 269)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,6 +241,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-21 | 1,728 | 0 |
 | 2024-01-25 | 1,729 | 0 |
 | 2024-01-27 | 1,730 | 0 |
+| 2024-02-22 | 1,782 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

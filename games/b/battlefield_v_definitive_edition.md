@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~93,828 |
-| Enemy Attrition | 67.00% | ~69,082 |
-| Grim Reaper | 66.00% | ~68,051 |
-| Heads Down | 64.00% | ~65,989 |
-| Not On My Watch | 60.00% | ~61,865 |
-| Combat Engineer | 41.00% | ~42,274 |
-| Eager Beaver | 32.00% | ~32,995 |
-| Call ’em in! | 30.00% | ~30,932 |
-| Lovely | 28.00% | ~28,870 |
-| Store fuglar fanga ingi flugor | 17.00% | ~17,528 |
-| Ou La Mort | 15.00% | ~15,466 |
-| Elite | 14.00% | ~14,435 |
-| Fender Bender | 8.00% | ~8,249 |
-| Globetrotter | 7.00% | ~7,218 |
-| Storyteller | 5.00% | ~5,155 |
-| Jack of All Trades | 5.00% | ~5,155 |
-| Off-hand | 3.00% | ~3,093 |
-| Death from Above | 2.00% | ~2,062 |
-| Veteran | 0.90% | ~928 |
-| Hoist the Flag | 0.30% | ~309 |
-| Sins of the Fathers | 0.20% | ~206 |
+| Last Man Standing | 91.00% | ~101,682 |
+| Enemy Attrition | 67.00% | ~74,865 |
+| Grim Reaper | 66.00% | ~73,748 |
+| Heads Down | 64.00% | ~71,513 |
+| Not On My Watch | 61.00% | ~68,161 |
+| Combat Engineer | 41.00% | ~45,813 |
+| Eager Beaver | 33.00% | ~36,874 |
+| Call ’em in! | 30.00% | ~33,522 |
+| Lovely | 29.00% | ~32,404 |
+| Store fuglar fanga ingi flugor | 18.00% | ~20,113 |
+| Ou La Mort | 16.00% | ~17,878 |
+| Elite | 15.00% | ~16,761 |
+| Fender Bender | 9.00% | ~10,057 |
+| Globetrotter | 7.00% | ~7,822 |
+| Jack of All Trades | 6.00% | ~6,704 |
+| Storyteller | 5.00% | ~5,587 |
+| Off-hand | 3.00% | ~3,352 |
+| Death from Above | 2.00% | ~2,235 |
+| Veteran | 1.00% | ~1,117 |
+| Hoist the Flag | 0.30% | ~335 |
+| Sins of the Fathers | 0.20% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103,108 (Ranked 102)  
-Completed: 1 (0.00%) (Ranked 414)  
+Progressed: 111,739 (Ranked 100)  
+Completed: 1 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,3 +160,4 @@ Completed: 1 (0.00%) (Ranked 414)
 | 2024-01-25 | 102,552 | 1 |
 | 2024-01-26 | 102,916 | 1 |
 | 2024-01-27 | 103,108 | 1 |
+| 2024-02-22 | 111,739 | 1 |

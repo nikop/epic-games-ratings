@@ -2,10 +2,10 @@
   "ID": "9152028cd068491f901bcf20f69a510b",
   "Name": "Forgive Me Father 2",
   "ProductSlug": "forgive-me-father-2-ea03a5",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-19T17:00:00+00:00",
     "PcReleaseDate": "2023-10-19T17:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenAchievements": "2023-10-18T11:04:08.0904554+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:00.2616051+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:48.4570995+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:40.7832187+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:10.2664046+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:00.2616182+00:00"
 }

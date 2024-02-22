@@ -4,49 +4,49 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 87.00% | ~111 |
-| Air Fighter | 71.00% | ~91 |
-| Oo-De-Lally | 71.00% | ~91 |
-| Treasure Hunter | 65.00% | ~83 |
-| The Altruist | 63.00% | ~81 |
-| Watch your Step! | 53.00% | ~68 |
-| MAX LEVEL | 52.00% | ~67 |
-| Tap Dancing | 50.00% | ~64 |
-| Right between the eyes | 40.00% | ~51 |
-| Starry Night | 38.00% | ~49 |
-| Spring Board | 37.00% | ~47 |
-| Locksley's Tears | 35.00% | ~45 |
-| Rebel Unleashed | 33.00% | ~42 |
-| Merry Co-operation | 31.00% | ~40 |
-| Assault on the Ram | 23.00% | ~29 |
-| Finish Him! | 22.00% | ~28 |
-| Ultra Rebel Instinct | 20.00% | ~26 |
-| First Aid | 20.00% | ~26 |
-| Merry Go Round | 19.00% | ~24 |
-| Savior | 16.00% | ~20 |
-| Hidden Experiment | 16.00% | ~20 |
-| Take Action! | 16.00% | ~20 |
-| Ultra Combo | 15.00% | ~19 |
-| Ascending Will | 13.00% | ~17 |
-| Into the Lion's Den | 12.00% | ~15 |
+| Act of Kindness | 85.00% | ~117 |
+| Air Fighter | 70.00% | ~97 |
+| Oo-De-Lally | 70.00% | ~97 |
+| Treasure Hunter | 64.00% | ~88 |
+| The Altruist | 62.00% | ~86 |
+| Watch your Step! | 53.00% | ~73 |
+| MAX LEVEL | 51.00% | ~70 |
+| Tap Dancing | 49.00% | ~68 |
+| Right between the eyes | 40.00% | ~55 |
+| Starry Night | 38.00% | ~52 |
+| Spring Board | 38.00% | ~52 |
+| Locksley's Tears | 35.00% | ~48 |
+| Rebel Unleashed | 33.00% | ~46 |
+| Merry Co-operation | 30.00% | ~41 |
+| Assault on the Ram | 25.00% | ~34 |
+| Finish Him! | 22.00% | ~30 |
+| Ultra Rebel Instinct | 22.00% | ~30 |
+| First Aid | 20.00% | ~28 |
+| Merry Go Round | 20.00% | ~28 |
+| Hidden Experiment | 18.00% | ~25 |
+| Savior | 17.00% | ~23 |
+| Take Action! | 17.00% | ~23 |
+| Ultra Combo | 16.00% | ~22 |
+| Ascending Will | 14.00% | ~19 |
+| Into the Lion's Den | 12.00% | ~17 |
+| The Gang prevails | 9.00% | ~12 |
 | Sky High Fighter | 9.00% | ~12 |
 | Haute Couture | 9.00% | ~12 |
-| The Gang prevails | 8.00% | ~10 |
-| Brilliant Executioner | 5.00% | ~6 |
-| Power of Friendship! | 5.00% | ~6 |
-| Bold and Bossy | 4.00% | ~5 |
-| Out of the ring | 4.00% | ~5 |
+| Power of Friendship! | 7.00% | ~10 |
+| Brilliant Executioner | 4.00% | ~6 |
+| Bold and Bossy | 4.00% | ~6 |
+| Out of the ring | 4.00% | ~6 |
+| King of the Iron Fist | 3.00% | ~4 |
 | No Mercy | 3.00% | ~4 |
-| King of the Iron Fist | 2.00% | ~3 |
-| Five of Friends | 2.00% | ~3 |
-| A Gest of Robyn Hode | 2.00% | ~3 |
 | Only Child | 2.00% | ~3 |
-| The Arsenal | 2.00% | ~3 |
-| Master of One | 2.00% | ~3 |
-| Sherwood Moment 37 | 0.80% | ~1 |
-| The Crowkiller | 0.80% | ~1 |
-| Money can not buy happiness | 0.80% | ~1 |
-| Fashionista | 0.80% | ~1 |
+| Sherwood Moment 37 | 1.00% | ~1 |
+| Five of Friends | 1.00% | ~1 |
+| A Gest of Robyn Hode | 1.00% | ~1 |
+| The Arsenal | 1.00% | ~1 |
+| Master of One | 1.00% | ~1 |
+| The Crowkiller | 0.70% | ~1 |
+| Money can not buy happiness | 0.70% | ~1 |
+| Fashionista | 0.70% | ~1 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
 | Lore-ified | 0.00% | ~0 |
@@ -58,8 +58,8 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 490)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 138 (Ranked 488)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,3 +109,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-16 | 125 | 0 |
 | 2024-01-23 | 126 | 0 |
 | 2024-01-27 | 128 | 0 |
+| 2024-02-22 | 138 | 0 |

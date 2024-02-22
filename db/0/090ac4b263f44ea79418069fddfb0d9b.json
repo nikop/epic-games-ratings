@@ -2,10 +2,10 @@
   "ID": "090ac4b263f44ea79418069fddfb0d9b",
   "Name": "Devil\u0027s Island",
   "ProductSlug": "devils-island-03e902",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-02-25T14:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2023-12-04T17:03:44.6686137+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:01.4004308+00:00",
   "LastUpdate_AppInfo": "2024-02-19T22:56:55.7368199+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:33.6452642+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:58:05.6218316+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:01.4004328+00:00"
 }

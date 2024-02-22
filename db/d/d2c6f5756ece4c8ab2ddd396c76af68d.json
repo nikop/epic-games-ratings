@@ -2,10 +2,10 @@
   "ID": "d2c6f5756ece4c8ab2ddd396c76af68d",
   "Name": "The Outforce",
   "ProductSlug": "the-outforce-acfbb8",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-01-09T13:28:21.916+00:00",
     "PcReleaseDate": "2001-01-08T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-11T03:59:12.0401048+00:00",
   "LastUpdate_AppInfo": "2024-02-17T16:57:15.4490531+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:51.5316387+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:59:07.293712+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:12.0057704+00:00"
 }

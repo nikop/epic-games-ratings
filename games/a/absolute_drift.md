@@ -1,7 +1,7 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.46 (Ranked 689)  
+Rating: 4.46 (Ranked 688)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,7 +28,7 @@ Number of Ratings: 216  (23.09.2022)
 | The Completionist | 0.10% | ~1,566 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,566,003 (Ranked 8)  
-Completed: 777 (0.05%) (Ranked 351)  
+Completed: 777 (0.05%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

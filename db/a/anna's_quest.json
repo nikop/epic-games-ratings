@@ -2,10 +2,10 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 508,
-  "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 102,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -421,6 +421,11 @@
       "Time": "2024-01-20T00:08:14.8240578+00:00",
       "NumProgressed": 96,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-02-22T21:04:00.6129111+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -432,7 +437,7 @@
       "Name": "Escape artist",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "aq_achievement_10",
@@ -440,7 +445,7 @@
       "Name": "Mystery solved",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "aq_achievement_11",
@@ -448,7 +453,7 @@
       "Name": "Close the deal",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_12",
@@ -456,15 +461,15 @@
       "Name": "Game Over!",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "aq_achievement_13",
       "SetID": "7jh86ne",
       "Name": "Honey, honey, honey\u2026",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "aq_achievement_14",
@@ -472,7 +477,7 @@
       "Name": "Show me your true self",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_15",
@@ -480,7 +485,7 @@
       "Name": "A very special drink",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "aq_achievement_16",
@@ -488,7 +493,7 @@
       "Name": "Shattered",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "aq_achievement_17",
@@ -496,23 +501,23 @@
       "Name": "GG",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_2",
@@ -520,21 +525,21 @@
       "Name": "Through the woods",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "aq_achievement_20",
       "SetID": "7jh86ne",
       "Name": "Beekeeper",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_21",
       "SetID": "7jh86ne",
       "Name": "Turn the last page",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 55,
       "UsersEstimate": 22
     },
@@ -542,25 +547,25 @@
       "ID": "aq_achievement_22",
       "SetID": "7jh86ne",
       "Name": "Makeover",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "aq_achievement_23",
       "SetID": "7jh86ne",
       "Name": "Fussy eater",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "aq_achievement_25",
@@ -568,23 +573,23 @@
       "Name": "Singstar",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_26",
       "SetID": "7jh86ne",
       "Name": "Far away from home",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_27",
       "SetID": "7jh86ne",
       "Name": "Ring-a-ding-ding",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_28",
@@ -592,15 +597,15 @@
       "Name": "Cameodalic",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "aq_achievement_3",
@@ -608,7 +613,7 @@
       "Name": "My lost nightingale",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "aq_achievement_30",
@@ -616,15 +621,15 @@
       "Name": "Mischief maker",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_31",
       "SetID": "7jh86ne",
       "Name": "Bahahahaha...",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "aq_achievement_32",
@@ -638,15 +643,15 @@
       "ID": "aq_achievement_33",
       "SetID": "7jh86ne",
       "Name": "No posters allowed",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "aq_achievement_34",
       "SetID": "7jh86ne",
       "Name": "Clever reference #451",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 35,
       "UsersEstimate": 13
     },
@@ -654,9 +659,9 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "aq_achievement_36",
@@ -670,7 +675,7 @@
       "ID": "aq_achievement_37",
       "SetID": "7jh86ne",
       "Name": "Guilty conscience",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -678,7 +683,7 @@
       "ID": "aq_achievement_38",
       "SetID": "7jh86ne",
       "Name": "Little genius",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -686,7 +691,7 @@
       "ID": "aq_achievement_39",
       "SetID": "7jh86ne",
       "Name": "Kill it! KILL IT!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 19
     },
@@ -696,13 +701,13 @@
       "Name": "Back to the anvil",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 30,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -712,7 +717,7 @@
       "Name": "Kekekeke...",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "aq_achievement_7",
@@ -720,30 +725,30 @@
       "Name": "NOW GO AWAY!",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 102,
       "Completed": 6
     }
   ],
@@ -751,8 +756,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:09:49.260565+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:04:00.6129109+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:13.3824994+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:09.6832148+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:49.2605897+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:59:26.4815439+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:00.6129317+00:00"
 }

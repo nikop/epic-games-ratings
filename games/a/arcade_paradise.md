@@ -5,23 +5,23 @@ Rating: 4.59 (Ranked 459)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~742 |
-| Fetch Quest Complete | 90.00% | ~688 |
-| I can't wait! | 82.00% | ~627 |
-| Swish | 56.00% | ~428 |
-| Clean up on Aisle 9 | 39.00% | ~298 |
-| Machine Maxed | 28.00% | ~214 |
-| Existential dread | 26.00% | ~199 |
-| Bug Fixer | 24.00% | ~184 |
-| Gerald of Riviera | 24.00% | ~184 |
-| Goal | 21.00% | ~161 |
-| I ran the numbers | 15.00% | ~115 |
-| Taking the plunge | 13.00% | ~99 |
-| Hidden Packages | 11.00% | ~84 |
+| Pushing a pull door | 97.00% | ~747 |
+| Fetch Quest Complete | 90.00% | ~693 |
+| I can't wait! | 83.00% | ~639 |
+| Swish | 56.00% | ~431 |
+| Clean up on Aisle 9 | 39.00% | ~300 |
+| Machine Maxed | 29.00% | ~223 |
+| Existential dread | 26.00% | ~200 |
+| Bug Fixer | 25.00% | ~192 |
+| Gerald of Riviera | 25.00% | ~192 |
+| Goal | 21.00% | ~162 |
+| I ran the numbers | 15.00% | ~116 |
+| Taking the plunge | 13.00% | ~100 |
+| Hidden Packages | 11.00% | ~85 |
 | GOOOAAAL | 9.00% | ~69 |
 | Ahoy Hoy | 7.00% | ~54 |
-| New Kid on the Block | 7.00% | ~54 |
 | Rhythm is a dancer | 6.00% | ~46 |
+| New Kid on the Block | 6.00% | ~46 |
 | Jimmy Goldman Would be Proud | 6.00% | ~46 |
 | You Spin Me Round | 6.00% | ~46 |
 | Bombscare | 5.00% | ~38 |
@@ -31,26 +31,26 @@ Rating: 4.59 (Ranked 459)
 | Nose to the Grindstone | 4.00% | ~31 |
 | Waking nightmare | 4.00% | ~31 |
 | To do. Done! | 3.00% | ~23 |
+| We come in peace | 3.00% | ~23 |
 | Hammer time | 3.00% | ~23 |
 | 1CC | 2.00% | ~15 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~15 |
-| We come in peace | 2.00% | ~15 |
 | Modern Gorefare | 2.00% | ~15 |
 | GTA: Crime City | 2.00% | ~15 |
 | Slacker | 2.00% | ~15 |
+| 1337 HAXXOR | 1.00% | ~8 |
 | Fresh Prince of Grindstone | 1.00% | ~8 |
 | Drop the ball | 1.00% | ~8 |
 | Fat Princess | 1.00% | ~8 |
 | Hexadecimal | 1.00% | ~8 |
 | IMANOK CODE | 1.00% | ~8 |
 | Intergalactic, planetary, planetary... | 1.00% | ~8 |
-| 1337 HAXXOR | 0.90% | ~7 |
 | True Capitalist | 0.90% | ~7 |
 | Smells like teen spirit | 0.90% | ~7 |
 | Once upon a slime | 0.80% | ~6 |
 | It's a horror game | 0.80% | ~6 |
 | Got 9999 problem but a Zombie ain't one | 0.80% | ~6 |
-| Friends Reunited | 0.70% | ~5 |
+| Friends Reunited | 0.60% | ~5 |
 | Arcadeception | 0.50% | ~4 |
 | Corporate Restructrure | 0.40% | ~3 |
 | Sonically Youthful | 0.40% | ~3 |
@@ -60,8 +60,8 @@ Rating: 4.59 (Ranked 459)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 765 (Ranked 327)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 770 (Ranked 331)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,6 +170,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-20 | 762 | 0 |
 | 2024-01-21 | 764 | 0 |
 | 2024-01-22 | 765 | 0 |
+| 2024-02-22 | 770 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

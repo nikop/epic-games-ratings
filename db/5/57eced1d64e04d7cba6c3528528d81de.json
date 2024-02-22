@@ -2,10 +2,10 @@
   "ID": "57eced1d64e04d7cba6c3528528d81de",
   "Name": "Thanksgiving Day Mosaic",
   "ProductSlug": "thanksgiving-day-mosaic-dc698a",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-12-03T21:00:00+00:00",
     "PcReleaseDate": "2018-10-24T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-04T01:47:37.5787382+00:00",
   "LastUpdate_AppInfo": "2024-02-22T12:58:31.5593772+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:42.5134784+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:59.2056348+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:58.1554039+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:09.9296862+00:00"
 }

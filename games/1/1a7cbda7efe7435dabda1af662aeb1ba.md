@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 39.00% | ~19 |
-| Overcoming Weakness | 35.00% | ~17 |
-| Boulder Breaker | 29.00% | ~14 |
-| Fence-Sitter | 14.00% | ~7 |
-| Setting Off | 14.00% | ~7 |
-| Crystal Hunter | 12.00% | ~6 |
-| Green Thumb | 12.00% | ~6 |
+| Breaking Free | 38.00% | ~20 |
+| Overcoming Weakness | 34.00% | ~18 |
+| Boulder Breaker | 26.00% | ~14 |
+| Fence-Sitter | 15.00% | ~8 |
+| Crystal Hunter | 13.00% | ~7 |
+| Green Thumb | 13.00% | ~7 |
+| Setting Off | 13.00% | ~7 |
+| Equivalent Exchange | 9.00% | ~5 |
 | Bye-Bye, Butcher | 8.00% | ~4 |
 | Rejected Parasite | 8.00% | ~4 |
-| Equivalent Exchange | 8.00% | ~4 |
 | Danger | 6.00% | ~3 |
+| A Twist of Fate | 6.00% | ~3 |
 | Column Crusher | 4.00% | ~2 |
 | Rebellious Servant | 4.00% | ~2 |
-| A Twist of Fate | 4.00% | ~2 |
 | Strength | 4.00% | ~2 |
 | Eviction | 4.00% | ~2 |
 | Rabbit Hunter | 4.00% | ~2 |
+| Breach of Contract | 4.00% | ~2 |
+| My Turn | 2.00% | ~1 |
 | Armor Annihilator | 2.00% | ~1 |
+| Hermit | 2.00% | ~1 |
+| Tower | 2.00% | ~1 |
+| No Mercy | 2.00% | ~1 |
 | Elite Warrior | 2.00% | ~1 |
+| Criminal Investigator | 2.00% | ~1 |
 | For Justice | 2.00% | ~1 |
 | Astral Envoy | 2.00% | ~1 |
-| Breach of Contract | 2.00% | ~1 |
-| My Turn | 0.00% | ~0 |
-| Hermit | 0.00% | ~0 |
-| Tower | 0.00% | ~0 |
-| No Mercy | 0.00% | ~0 |
-| Criminal Investigator | 0.00% | ~0 |
 | Elite Scholar | 0.00% | ~0 |
 | Conqueror of the Devil Blade | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 573)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 53 (Ranked 567)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,3 +76,4 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-05 | 46 | 0 |
 | 2024-01-09 | 47 | 0 |
 | 2024-01-10 | 49 | 0 |
+| 2024-02-22 | 53 | 0 |

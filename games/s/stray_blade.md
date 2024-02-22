@@ -4,35 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 26.00% | ~44 |
-| Tinkerer | 20.00% | ~34 |
-| Welcome to the Club | 12.00% | ~20 |
-| A new World ahead | 12.00% | ~20 |
-| Don't Cry Wolf | 11.00% | ~19 |
-| Apprentice | 7.00% | ~12 |
-| Craftsmen | 5.00% | ~8 |
-| Freezing Cold | 5.00% | ~8 |
-| Locked and Loaded | 5.00% | ~8 |
-| Can't touch this | 5.00% | ~8 |
-| Defeat Tezuth | 4.00% | ~7 |
+| Self-Defence | 30.00% | ~54 |
+| Tinkerer | 23.00% | ~41 |
+| Welcome to the Club | 15.00% | ~27 |
+| A new World ahead | 13.00% | ~23 |
+| Don't Cry Wolf | 12.00% | ~21 |
+| Apprentice | 9.00% | ~16 |
+| Freezing Cold | 6.00% | ~11 |
+| Can't touch this | 6.00% | ~11 |
+| Craftsmen | 5.00% | ~9 |
+| Locked and Loaded | 5.00% | ~9 |
 | Expert | 4.00% | ~7 |
 | The Golden Flash | 4.00% | ~7 |
+| The Power of the Mountains | 4.00% | ~7 |
+| Defeat Ingla | 3.00% | ~5 |
+| Defeat Tezuth | 3.00% | ~5 |
 | Searing Heat | 3.00% | ~5 |
+| Through Dangers Untold | 3.00% | ~5 |
 | Witch | 3.00% | ~5 |
 | Nothing but the Truth | 3.00% | ~5 |
 | The A-Team | 3.00% | ~5 |
-| The Power of the Mountains | 3.00% | ~5 |
-| Defeat Ingla | 2.00% | ~3 |
-| Through Dangers Untold | 2.00% | ~3 |
-| The End | 2.00% | ~3 |
-| But what of the Acreans? | 2.00% | ~3 |
-| Changing the World | 2.00% | ~3 |
+| But what of the Acreans? | 3.00% | ~5 |
+| Changing the World | 3.00% | ~5 |
+| Defeat Uskol | 2.00% | ~4 |
+| Finally! | 2.00% | ~4 |
+| The End | 2.00% | ~4 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Sponsor | 1.00% | ~2 |
-| Defeat Uskol | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
-| Finally! | 1.00% | ~2 |
+| Pathfinder | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
+| Unveiling the Truth | 1.00% | ~2 |
 | Style over Stats | 0.60% | ~1 |
 | Collector | 0.60% | ~1 |
 | Explorer by Heart | 0.60% | ~1 |
@@ -45,9 +47,7 @@
 | Wizard | 0.60% | ~1 |
 | Bookworm | 0.60% | ~1 |
 | Wayseeker | 0.60% | ~1 |
-| Pathfinder | 0.60% | ~1 |
 | Globetrotter | 0.60% | ~1 |
-| Unveiling the Truth | 0.60% | ~1 |
 | Small Setback | 0.60% | ~1 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
@@ -57,8 +57,8 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 457)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 179 (Ranked 458)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,6 +173,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-17 | 168 | 0 |
 | 2024-01-21 | 169 | 0 |
 | 2024-01-22 | 170 | 0 |
+| 2024-02-22 | 179 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -40,8 +40,8 @@ Rating: 4.41 (Ranked 776)
 | Soundcheck | 2.00% | ~2,831 |
 | Meta-reference | 1.00% | ~1,415 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,534 (Ranked 90)  
-Completed: 1,284 (0.91%) (Ranked 193)  
+Progressed: 141,534 (Ranked 92)  
+Completed: 1,284 (0.91%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,56 +5,56 @@ Rating: 4.41 (Ranked 776)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~230,779 |
-| Wind Master | 53.00% | ~185,322 |
-| Davy Jones | 18.00% | ~62,940 |
-| Hook, Line and Stinker | 15.00% | ~52,450 |
-| Gateway Slug | 6.00% | ~20,980 |
-| Baby's First Thingamabob | 5.00% | ~17,483 |
-| Race In Yo Face | 5.00% | ~17,483 |
-| Nice Shootin' Duds | 5.00% | ~17,483 |
-| Boarding Party | 5.00% | ~17,483 |
-| By The Power Of Underskull | 4.00% | ~13,987 |
-| Great Balls Of Fire | 4.00% | ~13,987 |
-| Light Up the Night | 3.00% | ~10,490 |
-| This Is Fine | 3.00% | ~10,490 |
-| I Don't Like The Slugs | 3.00% | ~10,490 |
-| Pengy Fun | 3.00% | ~10,490 |
-| Polar Pontification | 2.00% | ~6,993 |
-| But The Slugs Like Me | 2.00% | ~6,993 |
-| Aggro Kreb | 1.00% | ~3,497 |
-| No More Splosions | 1.00% | ~3,497 |
-| Snapping Turtle | 1.00% | ~3,497 |
-| Crovert Ops | 1.00% | ~3,497 |
-| Fish Kabob | 1.00% | ~3,497 |
-| Enter The Croakers | 1.00% | ~3,497 |
-| Tekk Savvy | 0.70% | ~2,448 |
-| Blowfish Me Down | 0.50% | ~1,748 |
-| Getting Hooked | 0.40% | ~1,399 |
-| Fish And Tips | 0.40% | ~1,399 |
-| This Magik Moment | 0.40% | ~1,399 |
-| Sweeter Than Honey | 0.30% | ~1,049 |
-| Total Eclipse of the Eel | 0.20% | ~699 |
-| Over The Moon | 0.20% | ~699 |
-| Fish On | 0.20% | ~699 |
-| 1.21 Ribbitwatts | 0.20% | ~699 |
-| Guiding Light | 0.20% | ~699 |
-| What's Krakalackin? | 0.10% | ~350 |
-| All Good Things... | 0.10% | ~350 |
-| Lights Out | 0.10% | ~350 |
-| Built For Speed | 0.10% | ~350 |
-| Crackshot | 0.10% | ~350 |
-| Whosits And Whatsits Galore | 0.10% | ~350 |
-| Croaker Command's Most Wanted | 0.10% | ~350 |
-| In Service Of Glory And Valor | 0.10% | ~350 |
-| Sail Forth! | 0.10% | ~350 |
-| Shooting Star | 0.10% | ~350 |
-| Crushed Ice | 0.10% | ~350 |
-| For Whom The Bells Toll | 0.10% | ~350 |
-| Don't I Know You? | 0.10% | ~350 |
+| Tootorial | 66.00% | ~256,423 |
+| Wind Master | 53.00% | ~205,916 |
+| Davy Jones | 18.00% | ~69,934 |
+| Hook, Line and Stinker | 13.00% | ~50,508 |
+| Gateway Slug | 7.00% | ~27,196 |
+| Nice Shootin' Duds | 6.00% | ~23,311 |
+| Baby's First Thingamabob | 5.00% | ~19,426 |
+| Race In Yo Face | 5.00% | ~19,426 |
+| Boarding Party | 5.00% | ~19,426 |
+| By The Power Of Underskull | 4.00% | ~15,541 |
+| Great Balls Of Fire | 4.00% | ~15,541 |
+| Light Up the Night | 4.00% | ~15,541 |
+| I Don't Like The Slugs | 4.00% | ~15,541 |
+| This Is Fine | 3.00% | ~11,656 |
+| Pengy Fun | 3.00% | ~11,656 |
+| Polar Pontification | 2.00% | ~7,770 |
+| Aggro Kreb | 2.00% | ~7,770 |
+| No More Splosions | 2.00% | ~7,770 |
+| Fish Kabob | 2.00% | ~7,770 |
+| Enter The Croakers | 2.00% | ~7,770 |
+| But The Slugs Like Me | 2.00% | ~7,770 |
+| Snapping Turtle | 1.00% | ~3,885 |
+| Crovert Ops | 1.00% | ~3,885 |
+| Tekk Savvy | 0.90% | ~3,497 |
+| Blowfish Me Down | 0.60% | ~2,331 |
+| Fish And Tips | 0.60% | ~2,331 |
+| Getting Hooked | 0.50% | ~1,943 |
+| This Magik Moment | 0.50% | ~1,943 |
+| Total Eclipse of the Eel | 0.40% | ~1,554 |
+| Sweeter Than Honey | 0.40% | ~1,554 |
+| Over The Moon | 0.30% | ~1,166 |
+| Fish On | 0.30% | ~1,166 |
+| 1.21 Ribbitwatts | 0.30% | ~1,166 |
+| Guiding Light | 0.30% | ~1,166 |
+| All Good Things... | 0.20% | ~777 |
+| Sail Forth! | 0.20% | ~777 |
+| For Whom The Bells Toll | 0.20% | ~777 |
+| Don't I Know You? | 0.20% | ~777 |
+| What's Krakalackin? | 0.10% | ~389 |
+| Lights Out | 0.10% | ~389 |
+| Built For Speed | 0.10% | ~389 |
+| Crackshot | 0.10% | ~389 |
+| Whosits And Whatsits Galore | 0.10% | ~389 |
+| Croaker Command's Most Wanted | 0.10% | ~389 |
+| In Service Of Glory And Valor | 0.10% | ~389 |
+| Shooting Star | 0.10% | ~389 |
+| Crushed Ice | 0.10% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,665 (Ranked 61)  
-Completed: 3 (0.00%) (Ranked 414)  
+Progressed: 388,520 (Ranked 57)  
+Completed: 6 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,6 +76,7 @@ Completed: 3 (0.00%) (Ranked 414)
 | 2024-01-25 | 344,669 | 3 |
 | 2024-01-26 | 347,982 | 3 |
 | 2024-01-27 | 349,665 | 3 |
+| 2024-02-22 | 388,520 | 6 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 591)  
 Sum: 61 (Ranked 519)  

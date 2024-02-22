@@ -53,8 +53,8 @@ Rating: 4.72 (Ranked 198)
 | One Gun | 1.00% | ~192 |
 | Reunion | 1.00% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,211 (Ranked 162)  
-Completed: 56 (0.29%) (Ranked 269)  
+Progressed: 19,211 (Ranked 164)  
+Completed: 56 (0.29%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,14 +191,14 @@ Completed: 56 (0.29%) (Ranked 269)
 | 2024-01-27 | 19,211 | 56 |
 ## Awards
 Max (Great Boss Battles): 372  (Ranked 251)  
-Sum: 458 (Ranked 362)  
-Diff (max vs sum): -111  
+Sum: 459 (Ranked 361)  
+Diff (max vs sum): -110  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 372 |
 | This game has Diverse Characters | 23 |
+| This game has Amazing Storytelling | 22 |
 | This game has Quickly Understood Controls | 21 |
-| This game has Amazing Storytelling | 21 |
 | This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -376,4 +376,4 @@ Diff (max vs sum): -111
 | 2024-02-17 | 4.72 | 363 | 427 |
 | 2024-02-18 | 4.71 | 366 | 450 |
 | 2024-02-20 | 4.72 | 371 | 456 |
-| 2024-02-22 | 4.72 | 372 | 458 |
+| 2024-02-22 | 4.72 | 372 | 459 |

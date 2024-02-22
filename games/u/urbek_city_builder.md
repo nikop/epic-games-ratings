@@ -4,39 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 22.00% | ~117 |
-| I like parks | 19.00% | ~101 |
-| The spiritual world... | 10.00% | ~53 |
-| It is nice to share with friends in the city | 9.00% | ~48 |
-| The woodcutter | 8.00% | ~42 |
-| Sport is good for you | 8.00% | ~42 |
-| I like books | 7.00% | ~37 |
-| I like my life | 7.00% | ~37 |
-| Clean energy | 6.00% | ~32 |
-| Bucolic city | 6.00% | ~32 |
-| Soviet town | 6.00% | ~32 |
-| I love books! | 3.00% | ~16 |
-| I love parks | 3.00% | ~16 |
+| Small town | 25.00% | ~140 |
+| I like parks | 22.00% | ~124 |
+| The spiritual world... | 12.00% | ~67 |
+| It is nice to share with friends in the city | 11.00% | ~62 |
+| The woodcutter | 10.00% | ~56 |
+| Sport is good for you | 10.00% | ~56 |
+| I like books | 8.00% | ~45 |
+| I like my life | 8.00% | ~45 |
+| Soviet town | 7.00% | ~39 |
+| Clean energy | 6.00% | ~34 |
+| Bucolic city | 6.00% | ~34 |
+| I love books! | 3.00% | ~17 |
+| King of fish | 3.00% | ~17 |
+| I love parks | 3.00% | ~17 |
+| Rebel city | 3.00% | ~17 |
 | Food producer | 2.00% | ~11 |
-| King of fish | 2.00% | ~11 |
+| City crisis | 2.00% | ~11 |
 | What would we do if we can't go out with friends? | 2.00% | ~11 |
-| Rebel city | 2.00% | ~11 |
-| I am very happy! | 1.00% | ~5 |
-| Metropolurbek | 1.00% | ~5 |
+| I am very happy! | 1.00% | ~6 |
+| Metropolurbek | 1.00% | ~6 |
 | Banking city | 0.90% | ~5 |
-| City crisis | 0.90% | ~5 |
-| Read! Everyone should read! | 0.60% | ~3 |
-| Oh, I love parks, listening to birds! | 0.60% | ~3 |
-| Food provider master | 0.40% | ~2 |
-| Oh, life is too awesome! Thank you! | 0.40% | ~2 |
-| ¡Muy feliz! | 0.40% | ~2 |
-| Little Mayor | 0.40% | ~2 |
+| Food provider master | 0.50% | ~3 |
+| Read! Everyone should read! | 0.50% | ~3 |
+| Oh, life is too awesome! Thank you! | 0.50% | ~3 |
+| ¡Muy feliz! | 0.50% | ~3 |
+| Oh, I love parks, listening to birds! | 0.50% | ~3 |
+| Little Mayor | 0.50% | ~3 |
+| Temperate builder | 0.50% | ~3 |
+| Desert builder | 0.40% | ~2 |
+| Desert urban planner | 0.40% | ~2 |
+| Town planner | 0.40% | ~2 |
 | Anarchist Utopia | 0.20% | ~1 |
 | Anarchist paradise | 0.20% | ~1 |
+| Archipelago builder | 0.20% | ~1 |
+| Archipelago urban planner | 0.20% | ~1 |
 | Banking empire | 0.20% | ~1 |
 | Urban style | 0.20% | ~1 |
-| Desert builder | 0.20% | ~1 |
-| Desert urban planner | 0.20% | ~1 |
 | What is there after death? | 0.20% | ~1 |
 | Fear God, you sinners! | 0.20% | ~1 |
 | Perfect city | 0.20% | ~1 |
@@ -44,17 +48,16 @@
 | Farming Frenzy | 0.20% | ~1 |
 | Farming Frenzy Plus | 0.20% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.20% | ~1 |
-| Town planner | 0.20% | ~1 |
 | Metropolurbek Plus | 0.20% | ~1 |
 | Restorer | 0.20% | ~1 |
 | Restorer Plus | 0.20% | ~1 |
 | Sport is the best thing | 0.20% | ~1 |
 | Everyone should always do sport! | 0.20% | ~1 |
-| Temperate builder | 0.20% | ~1 |
+| Temperate urban planner | 0.20% | ~1 |
+| Rainforest builder | 0.20% | ~1 |
+| Rainforest urban planner | 0.20% | ~1 |
 | Welfare state | 0.20% | ~1 |
 | Full archipelago | 0.00% | ~0 |
-| Archipelago builder | 0.00% | ~0 |
-| Archipelago urban planner | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
 | Pumpkin farmer | 0.00% | ~0 |
 | Ready to make sopaipillas | 0.00% | ~0 |
@@ -77,15 +80,12 @@
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |
 | Full temperate | 0.00% | ~0 |
-| Temperate urban planner | 0.00% | ~0 |
 | Temperate master | 0.00% | ~0 |
 | Full rainforest | 0.00% | ~0 |
-| Rainforest builder | 0.00% | ~0 |
-| Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531 (Ranked 358)  
-Completed: 0 (0.00%) (Ranked 414)  
+Progressed: 562 (Ranked 358)  
+Completed: 0 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,6 +272,7 @@ Completed: 0 (0.00%) (Ranked 414)
 | 2024-01-24 | 529 | 0 |
 | 2024-01-25 | 530 | 0 |
 | 2024-01-26 | 531 | 0 |
+| 2024-02-22 | 562 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

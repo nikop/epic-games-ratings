@@ -53,8 +53,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,480 |
 | A Tale of Origins and Endings | 2.00% | ~1,653 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,659 (Ranked 112)  
-Completed: 2,243 (2.71%) (Ranked 122)  
+Progressed: 82,659 (Ranked 113)  
+Completed: 2,243 (2.71%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,9 +336,9 @@ Completed: 2,243 (2.71%) (Ranked 122)
 | 2024-01-26 | 82,652 | 2,242 |
 | 2024-01-27 | 82,659 | 2,243 |
 ## Awards
-Max (Character Customization): 1,067  (Ranked 162)  
+Max (Character Customization): 1,067  (Ranked 163)  
 Sum: 2,701 (Ranked 198)  
-Diff (max vs sum): -36  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,067 |

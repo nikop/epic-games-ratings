@@ -5,35 +5,35 @@ Rating: 4.50 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~444 |
-| Vanquisher of Robots | 79.00% | ~398 |
-| Party | 50.00% | ~252 |
-| Impossible Cube | 45.00% | ~227 |
-| Knowledge is Power | 44.00% | ~222 |
-| Through the Darkness | 44.00% | ~222 |
-| No Mercy | 43.00% | ~217 |
-| The Return of a Rat | 40.00% | ~202 |
-| Fat of the Earth | 36.00% | ~181 |
-| Last Man Standing | 32.00% | ~161 |
-| He's Seen It All | 28.00% | ~141 |
-| Great Hero | 28.00% | ~141 |
-| Campaigning | 27.00% | ~136 |
-| Catch Jonathan_tostar | 27.00% | ~136 |
-| Rookie | 27.00% | ~136 |
-| Assemble a Meganewbie | 24.00% | ~121 |
-| Frugal | 21.00% | ~106 |
-| Feed a God | 20.00% | ~101 |
-| To the Moon and Back | 20.00% | ~101 |
-| Great Flight | 19.00% | ~96 |
-| Holy Vengeance | 17.00% | ~86 |
-| Honorary Cultist | 13.00% | ~66 |
-| Strength and Sorcery | 11.00% | ~55 |
-| Brain and Brawn | 11.00% | ~55 |
-| Omae Wa Mou Shindeiru | 8.00% | ~40 |
-| Experimentalist | 7.00% | ~35 |
-| Soldier | 7.00% | ~35 |
-| Wide Selection | 6.00% | ~30 |
-| Android Power | 5.00% | ~25 |
+| Good start! | 88.00% | ~451 |
+| Vanquisher of Robots | 79.00% | ~404 |
+| Party | 51.00% | ~261 |
+| Impossible Cube | 45.00% | ~230 |
+| Through the Darkness | 45.00% | ~230 |
+| Knowledge is Power | 44.00% | ~225 |
+| No Mercy | 43.00% | ~220 |
+| The Return of a Rat | 41.00% | ~210 |
+| Fat of the Earth | 37.00% | ~189 |
+| Last Man Standing | 32.00% | ~164 |
+| He's Seen It All | 29.00% | ~148 |
+| Great Hero | 29.00% | ~148 |
+| Rookie | 28.00% | ~143 |
+| Campaigning | 27.00% | ~138 |
+| Catch Jonathan_tostar | 27.00% | ~138 |
+| Assemble a Meganewbie | 24.00% | ~123 |
+| Frugal | 22.00% | ~113 |
+| Feed a God | 21.00% | ~108 |
+| Great Flight | 20.00% | ~102 |
+| To the Moon and Back | 20.00% | ~102 |
+| Holy Vengeance | 17.00% | ~87 |
+| Honorary Cultist | 13.00% | ~67 |
+| Brain and Brawn | 12.00% | ~61 |
+| Strength and Sorcery | 11.00% | ~56 |
+| Omae Wa Mou Shindeiru | 9.00% | ~46 |
+| Experimentalist | 7.00% | ~36 |
+| Soldier | 7.00% | ~36 |
+| Wide Selection | 6.00% | ~31 |
+| Android Power | 6.00% | ~31 |
 | Zombie Lover | 3.00% | ~15 |
 | Shopaholic | 2.00% | ~10 |
 | Munchkin | 2.00% | ~10 |
@@ -41,8 +41,8 @@ Rating: 4.50 (Ranked 630)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 361)  
-Completed: 1 (0.20%) (Ranked 289)  
+Progressed: 512 (Ranked 365)  
+Completed: 1 (0.20%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,6 +136,7 @@ Completed: 1 (0.20%) (Ranked 289)
 | 2024-01-16 | 502 | 1 |
 | 2024-01-18 | 503 | 1 |
 | 2024-01-21 | 504 | 1 |
+| 2024-02-22 | 512 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

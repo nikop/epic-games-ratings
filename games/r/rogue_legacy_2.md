@@ -6,37 +6,37 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 7.00% | ~1,998 |
-| Captain and Crew | 5.00% | ~1,427 |
-| No Harm in Looking | 5.00% | ~1,427 |
-| Harvest and Home | 4.00% | ~1,142 |
-| Poise and Poisons | 3.00% | ~856 |
-| Hands and Hammers | 2.00% | ~571 |
-| King and Kin | 2.00% | ~571 |
-| Progenitor and Protégé | 2.00% | ~571 |
-| Suns and Soldiers | 2.00% | ~571 |
-| Prequel to the Sequel | 2.00% | ~571 |
-| For Glory | 1.00% | ~285 |
-| Truly Blessed | 0.80% | ~228 |
-| Pillow Investments | 0.80% | ~228 |
-| Looks Familiar | 0.80% | ~228 |
-| For Justice | 0.70% | ~200 |
-| Good Boy! | 0.70% | ~200 |
-| For Survival | 0.50% | ~143 |
-| For Wrath | 0.40% | ~114 |
-| For Love | 0.40% | ~114 |
-| K.O. | 0.40% | ~114 |
-| Just the Beginning | 0.40% | ~114 |
-| Wasted Betrayal | 0.40% | ~114 |
-| Jack of all Trades | 0.40% | ~114 |
-| Color Coordination | 0.40% | ~114 |
-| For Penance | 0.30% | ~86 |
-| For Pride | 0.30% | ~86 |
-| Maybe Wax Doesn't Melt | 0.30% | ~86 |
-| Black-shoppe | 0.20% | ~57 |
-| For Greed | 0.20% | ~57 |
-| Good Practice | 0.20% | ~57 |
-| A Glimpse of the Future | 0.20% | ~57 |
+| Spells and Swords | 7.00% | ~2,026 |
+| Captain and Crew | 6.00% | ~1,737 |
+| No Harm in Looking | 5.00% | ~1,447 |
+| Harvest and Home | 4.00% | ~1,158 |
+| Poise and Poisons | 3.00% | ~868 |
+| Suns and Soldiers | 3.00% | ~868 |
+| Hands and Hammers | 2.00% | ~579 |
+| King and Kin | 2.00% | ~579 |
+| Progenitor and Protégé | 2.00% | ~579 |
+| Prequel to the Sequel | 2.00% | ~579 |
+| For Glory | 1.00% | ~289 |
+| Truly Blessed | 0.90% | ~261 |
+| Pillow Investments | 0.90% | ~261 |
+| Looks Familiar | 0.90% | ~261 |
+| Good Boy! | 0.80% | ~232 |
+| For Justice | 0.70% | ~203 |
+| For Survival | 0.60% | ~174 |
+| Jack of all Trades | 0.50% | ~145 |
+| For Wrath | 0.40% | ~116 |
+| For Love | 0.40% | ~116 |
+| For Pride | 0.40% | ~116 |
+| K.O. | 0.40% | ~116 |
+| Just the Beginning | 0.40% | ~116 |
+| Wasted Betrayal | 0.40% | ~116 |
+| Color Coordination | 0.40% | ~116 |
+| For Greed | 0.30% | ~87 |
+| For Penance | 0.30% | ~87 |
+| Good Practice | 0.30% | ~87 |
+| Maybe Wax Doesn't Melt | 0.30% | ~87 |
+| Black-shoppe | 0.20% | ~58 |
+| A Glimpse of the Future | 0.20% | ~58 |
 | Full House | 0.10% | ~29 |
 | Erebus Purified | 0.10% | ~29 |
 | It Was Just an Estimate | 0.10% | ~29 |
@@ -46,8 +46,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,545 (Ranked 147)  
-Completed: 35 (0.12%) (Ranked 315)  
+Progressed: 28,949 (Ranked 147)  
+Completed: 35 (0.12%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,9 +327,10 @@ Completed: 35 (0.12%) (Ranked 315)
 | 2024-01-25 | 28,520 | 35 |
 | 2024-01-26 | 28,531 | 35 |
 | 2024-01-27 | 28,545 | 35 |
+| 2024-02-22 | 28,949 | 35 |
 ## Awards
 Max (Extremely Fun): 229  (Ranked 296)  
-Sum: 1,586 (Ranked 249)  
+Sum: 1,587 (Ranked 249)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +341,7 @@ Diff (max vs sum): 47
 | This game is Highly Recommended | 201 |
 | This game is Relaxing | 193 |
 | This game has Amazing Characters | 171 |
-| This game has Amazing Storytelling | 169 |
+| This game has Amazing Storytelling | 170 |
 | This game has Playful Visuals | 159 |
 | This game has Obsessive Gameplay | 123 |
 ## Ratings History
@@ -504,4 +505,4 @@ Diff (max vs sum): 47
 | 2024-02-11 | 4.85 | - | 229 | 1,582 |
 | 2024-02-17 | 4.85 | - | 229 | 1,583 |
 | 2024-02-20 | 4.85 | - | 229 | 1,585 |
-| 2024-02-22 | 4.85 | - | 229 | 1,586 |
+| 2024-02-22 | 4.85 | - | 229 | 1,587 |

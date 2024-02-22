@@ -6,78 +6,78 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 7.00% | ~518 |
-| Smooth Operator: Madison | 6.00% | ~444 |
-| The Brahdyssey | 3.00% | ~222 |
-| Caught in the Act | 3.00% | ~222 |
-| Katherine | 3.00% | ~222 |
-| Life Found a Way | 3.00% | ~133 |
-| Relentless | 3.00% | ~222 |
-| If at First You Don't Succeed... | 3.00% | ~222 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~148 |
-| Amy | 1.00% | ~74 |
-| Drunk and Disorderly: Ashley | 1.00% | ~74 |
-| IRL Let's Player | 1.00% | ~74 |
-| Inspector | 1.00% | ~74 |
-| Newcomer: Vickie | 1.00% | ~74 |
-| Social Butterfly | 1.00% | ~74 |
-| The Muse: Madison | 1.00% | ~74 |
-| Smooth Operator: Ashley | 0.90% | ~67 |
-| The Crush | 0.90% | ~67 |
-| Casanova | 0.80% | ~59 |
-| Deck the Balls | 0.80% | ~36 |
-| It Smells Like Roses | 0.80% | ~36 |
-| Stephanie | 0.80% | ~59 |
-| The Magic Number | 0.80% | ~59 |
-| Vickie | 0.80% | ~59 |
-| Te Amo Lety | 0.80% | ~59 |
-| Amy: Scavenger Hunt | 0.70% | ~52 |
-| Now It's a Party! | 0.70% | ~52 |
-| Ashley | 0.60% | ~44 |
-| Benedict Brahrnold | 0.60% | ~44 |
-| I'll Be Back | 0.60% | ~44 |
-| Love Conquers All | 0.60% | ~44 |
+| A Friend in Need... | 7.00% | ~532 |
+| Smooth Operator: Madison | 6.00% | ~456 |
+| Caught in the Act | 4.00% | ~304 |
+| The Brahdyssey | 3.00% | ~228 |
+| Katherine | 3.00% | ~228 |
+| Life Found a Way | 3.00% | ~139 |
+| Relentless | 3.00% | ~228 |
+| If at First You Don't Succeed... | 3.00% | ~228 |
+| Drunk and Disorderly: Stephanie | 2.00% | ~152 |
+| Amy | 1.00% | ~76 |
+| Drunk and Disorderly: Ashley | 1.00% | ~76 |
+| IRL Let's Player | 1.00% | ~76 |
+| Inspector | 1.00% | ~76 |
+| Newcomer: Vickie | 1.00% | ~76 |
+| Social Butterfly | 1.00% | ~76 |
+| The Muse: Madison | 1.00% | ~76 |
+| The Crush | 1.00% | ~76 |
+| Casanova | 0.90% | ~68 |
+| Deck the Balls | 0.90% | ~42 |
+| Smooth Operator: Ashley | 0.90% | ~68 |
+| The Magic Number | 0.90% | ~68 |
+| Vickie | 0.90% | ~68 |
+| Amy: Scavenger Hunt | 0.80% | ~61 |
+| It Smells Like Roses | 0.80% | ~37 |
+| Now It's a Party! | 0.80% | ~61 |
+| Stephanie | 0.80% | ~61 |
+| Te Amo Lety | 0.80% | ~61 |
+| Benedict Brahrnold | 0.70% | ~53 |
+| Love Conquers All | 0.70% | ~53 |
+| Ashley | 0.60% | ~46 |
+| I'll Be Back | 0.60% | ~46 |
+| Rule 34 | 0.50% | ~38 |
 | The Bride | 0.40% | ~30 |
-| Rule 34 | 0.40% | ~30 |
+| Do Not Burn | 0.40% | ~30 |
+| First Impressions | 0.40% | ~30 |
 | Rachael | 0.40% | ~30 |
 | The Muse: Derek | 0.40% | ~30 |
 | The Elder Brahs | 0.40% | ~30 |
 | Good Ol' Days | 0.40% | ~30 |
-| Beyond the Call of Dude-y | 0.30% | ~22 |
-| Drunk and Disorderly: Madison | 0.30% | ~22 |
-| Do Not Burn | 0.30% | ~22 |
-| First Impressions | 0.30% | ~22 |
-| The Harder They Fall...Dood | 0.30% | ~22 |
-| Do You Smell Blood? | 0.30% | ~22 |
-| A Striking Resemblance | 0.30% | ~22 |
-| Howz It Goin Dood | 0.30% | ~22 |
-| Derezzed | 0.30% | ~22 |
+| Beyond the Call of Dude-y | 0.30% | ~23 |
+| Drunk and Disorderly: Madison | 0.30% | ~23 |
+| The Harder They Fall...Dood | 0.30% | ~23 |
+| Ronin | 0.30% | ~23 |
+| Do You Smell Blood? | 0.30% | ~23 |
+| A Striking Resemblance | 0.30% | ~23 |
+| Howz It Goin Dood | 0.30% | ~23 |
+| Derezzed | 0.30% | ~23 |
+| Snapped | 0.30% | ~23 |
+| Against All Odds | 0.20% | ~15 |
 | Congrats, A Celebrity Hates You | 0.20% | ~9 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~9 |
 | Duck n' Weave | 0.20% | ~15 |
 | I Know Grump-Fu | 0.20% | ~15 |
-| Ronin | 0.20% | ~15 |
+| Ice Bath | 0.20% | ~15 |
 | The Crush(es) | 0.20% | ~15 |
-| Snapped | 0.20% | ~15 |
-| Against All Odds | 0.10% | ~7 |
-| Casabrova | 0.10% | ~7 |
-| D-Club Certified | 0.10% | ~7 |
-| Good Riddance! | 0.10% | ~7 |
-| Hijinks Averted | 0.10% | ~7 |
-| Host Hijinks | 0.10% | ~7 |
-| Hungry Hungry Hot Tubs | 0.10% | ~4 |
-| Ice Bath | 0.10% | ~7 |
-| Money Shot | 0.10% | ~7 |
-| Notice Me, Sensei | 0.10% | ~7 |
-| Party Pooper | 0.10% | ~7 |
-| Sucker Punch | 0.10% | ~7 |
-| That's a Nice Bush! | 0.10% | ~4 |
-| The Most Wonderful Time of the Year | 0.10% | ~4 |
-| La Coochadora | 0.10% | ~7 |
-| Simple Geometry | 0.10% | ~7 |
+| Casabrova | 0.10% | ~8 |
+| D-Club Certified | 0.10% | ~8 |
+| Good Riddance! | 0.10% | ~8 |
+| Hijinks Averted | 0.10% | ~8 |
+| Host Hijinks | 0.10% | ~8 |
+| Hungry Hungry Hot Tubs | 0.10% | ~5 |
+| Money Shot | 0.10% | ~8 |
+| Notice Me, Sensei | 0.10% | ~8 |
+| Party Pooper | 0.10% | ~8 |
+| Sucker Punch | 0.10% | ~8 |
+| That's a Nice Bush! | 0.10% | ~5 |
+| The Most Wonderful Time of the Year | 0.10% | ~5 |
+| La Coochadora | 0.10% | ~8 |
+| Simple Geometry | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,403 (Ranked 201)  
-Completed: 3 (0.04%) (Ranked 363)  
+Progressed: 7,597 (Ranked 202)  
+Completed: 3 (0.04%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,6 +349,7 @@ Completed: 3 (0.04%) (Ranked 363)
 | 2024-01-24 | 7,395 | 3 |
 | 2024-01-25 | 7,401 | 3 |
 | 2024-01-27 | 7,403 | 3 |
+| 2024-02-22 | 7,597 | 3 |
 ## Awards
 Max (Character Customization): 68  (Ranked 440)  
 Sum: 68 (Ranked 514)  

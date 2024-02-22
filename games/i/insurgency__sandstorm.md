@@ -43,7 +43,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Road Hazard | 0.10% | ~532 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 531,804 (Ranked 40)  
-Completed: 2 (0.00%) (Ranked 414)  
+Completed: 2 (0.00%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

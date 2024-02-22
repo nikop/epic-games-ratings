@@ -5,10 +5,10 @@
   "Ranking_Rating": 307,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-01-20T18:00:00+00:00",
     "PcReleaseDate": "2022-01-20T18:00:00+00:00",
@@ -374,10 +374,19 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bfpjn25",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
+  "FirstSeenAchievements": "2024-02-22T21:04:54.2215837+00:00",
   "LastChanged": "2024-01-31T19:59:05.4432996+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:04:54.2215829+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:19.2823122+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:45.4007596+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:10:44.770405+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:13.3764249+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:04:54.221587+00:00"
 }

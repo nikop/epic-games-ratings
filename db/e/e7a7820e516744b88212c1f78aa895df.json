@@ -2,10 +2,10 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 375,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2024-01-27T06:11:34.0260221+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-02-22T21:05:40.6062695+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1722,7 +1727,7 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "achMaxCage",
@@ -1730,7 +1735,7 @@
       "Name": "Fortress on Wheels",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achMaxCageAll",
@@ -1746,7 +1751,7 @@
       "Name": "Firing on All Cylinders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achMaxEngineAll",
@@ -1762,7 +1767,7 @@
       "Name": "Moving Up a Gear",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achMaxTransmissionAll",
@@ -1776,7 +1781,7 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -1786,31 +1791,31 @@
       "Name": "Employee of the Month",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achSkillsAll",
       "SetID": "7ji07dj",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "achSponsor10",
       "SetID": "7ji07dj",
       "Name": "Schmoozer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "achSponsor20",
@@ -1818,15 +1823,15 @@
       "Name": "Corporate Cooperator",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "achSponsorMain1",
@@ -1834,15 +1839,15 @@
       "Name": "Executive Approval",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achUnlockAddon",
       "SetID": "7ji07dj",
       "Name": "Bits and Bobs",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achUnlockSuspensions",
@@ -1872,7 +1877,7 @@
       "ID": "achWinDiv1",
       "SetID": "7ji07dj",
       "Name": "Road to Glory",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1880,9 +1885,9 @@
       "ID": "achWinDiv2",
       "SetID": "7ji07dj",
       "Name": "Moving Up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 5
     },
     {
       "ID": "achWinEvent",
@@ -1896,15 +1901,15 @@
       "ID": "achWinRaceAll",
       "SetID": "7ji07dj",
       "Name": "Globetrotter",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achWinRaceBd",
       "SetID": "7ji07dj",
       "Name": "Baja Buddy",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1912,23 +1917,23 @@
       "ID": "achWinRaceEc",
       "SetID": "7ji07dj",
       "Name": "Forest Frolicker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achWinRaceJv",
       "SetID": "7ji07dj",
       "Name": "Salt Surfer",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achWinRaceUd",
       "SetID": "7ji07dj",
       "Name": "Dry Driver",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1936,7 +1941,7 @@
       "ID": "achWinRaceWe",
       "SetID": "7ji07dj",
       "Name": "Polyglot Racer",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 2
     }
@@ -1945,14 +1950,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:11:32.6242596+00:00",
-  "LastUpdate_AppInfo": "2024-02-15T19:57:33.6171936+00:00",
+  "LastChanged_Achievements": "2024-02-22T21:05:40.6062693+00:00",
+  "LastUpdate_AppInfo": "2024-02-22T20:57:15.2522821+00:00",
   "LastUpdate_Ratings": "2024-02-22T19:59:45.4486812+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:32.6242822+00:00"
+  "LastUpdate_Achievements": "2024-02-22T21:05:40.6062881+00:00"
 }

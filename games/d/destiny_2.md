@@ -31,7 +31,7 @@ Number of Ratings: 32,207  (23.09.2022)
 | Wishing for the Best | 5.00% | ~69,805 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,396,094 (Ranked 10)  
-Completed: 34,725 (2.49%) (Ranked 130)  
+Completed: 34,725 (2.49%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,12 +315,12 @@ Completed: 34,725 (2.49%) (Ranked 130)
 | 2024-01-27 | 1,396,094 | 34,725 |
 ## Awards
 Max (Great Boss Battles): 67,304  (Ranked 11)  
-Sum: 139,337 (Ranked 15)  
+Sum: 139,419 (Ranked 15)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 67,304 |
-| This game has Diverse Characters | 14,348 |
+| This game has Diverse Characters | 14,430 |
 | This game is Highly Recommended | 12,137 |
 | This game is Extremely Fun | 11,533 |
 | This game has Amazing Storytelling | 11,384 |
@@ -712,4 +712,4 @@ Diff (max vs sum): -4
 | 2024-02-19 | 4.45 | - | 66,985 | 138,492 |
 | 2024-02-20 | 4.45 | - | 67,100 | 138,824 |
 | 2024-02-21 | 4.45 | - | 67,215 | 139,145 |
-| 2024-02-22 | 4.45 | - | 67,304 | 139,337 |
+| 2024-02-22 | 4.45 | - | 67,304 | 139,419 |

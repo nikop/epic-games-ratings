@@ -2,10 +2,10 @@
   "ID": "f23600737cfe43d0a3c807c938c5e94b",
   "Name": "Reyna Darkness",
   "ProductSlug": "reyna-darkness-0e1bb8",
-  "Ranking_EOS_Progress": 744,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 753,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-07-16T16:00:00+00:00",
     "PcReleaseDate": "2023-07-16T07:00:00+00:00",
@@ -166,6 +166,6 @@
   "FirstSeenAchievements": "2023-06-18T07:00:32.9688598+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:38.5009926+00:00",
   "LastUpdate_AppInfo": "2024-02-19T03:56:58.1399447+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:58:36.7404313+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:59:54.1738738+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:38.5010058+00:00"
 }

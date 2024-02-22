@@ -6,39 +6,39 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,340 |
-| Gone Home | 93.00% | ~27,171 |
-| Wonderfalls | 87.00% | ~25,418 |
-| Got to Catch a Few | 77.00% | ~22,496 |
-| Double Trapper | 75.00% | ~21,912 |
-| I'm Stuffed | 69.00% | ~20,159 |
-| Got to Catch a Lot | 66.00% | ~19,283 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,822 |
-| In the Arms of the Gramble | 59.00% | ~17,237 |
-| Know Thy Neighbor | 59.00% | ~17,237 |
-| Perf Dirt | 57.00% | ~16,653 |
-| Launch Party | 56.00% | ~16,361 |
-| Vacation's End | 53.00% | ~15,484 |
-| Bossy Bugs | 46.00% | ~13,439 |
-| Survivor | 45.00% | ~13,147 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,563 |
-| Sidetracked | 40.00% | ~11,686 |
-| Film Buff | 38.00% | ~11,102 |
-| Combo Meal | 38.00% | ~11,102 |
-| Midnight Snak | 36.00% | ~10,518 |
-| Candid Cryptid | 35.00% | ~10,226 |
-| Got to Catch Them All | 33.00% | ~9,641 |
-| Deep Impact | 23.00% | ~6,720 |
-| Grab Bag | 23.00% | ~6,720 |
-| Feeding Frenzy | 19.00% | ~5,551 |
-| Clothesline | 17.00% | ~4,967 |
-| Say Cheese! | 16.00% | ~4,675 |
-| Sundae Best | 14.00% | ~4,090 |
-| Live Laugh Hut | 9.00% | ~2,629 |
-| Dapper Capper | 7.00% | ~2,045 |
+| Everybody Gets One | 97.00% | ~28,453 |
+| Gone Home | 93.00% | ~27,280 |
+| Wonderfalls | 87.00% | ~25,520 |
+| Got to Catch a Few | 77.00% | ~22,586 |
+| Double Trapper | 75.00% | ~22,000 |
+| I'm Stuffed | 69.00% | ~20,240 |
+| Got to Catch a Lot | 66.00% | ~19,360 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,893 |
+| In the Arms of the Gramble | 59.00% | ~17,306 |
+| Know Thy Neighbor | 59.00% | ~17,306 |
+| Perf Dirt | 57.00% | ~16,720 |
+| Launch Party | 56.00% | ~16,426 |
+| Vacation's End | 53.00% | ~15,546 |
+| Bossy Bugs | 46.00% | ~13,493 |
+| Survivor | 45.00% | ~13,200 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,613 |
+| Sidetracked | 40.00% | ~11,733 |
+| Film Buff | 38.00% | ~11,147 |
+| Combo Meal | 38.00% | ~11,147 |
+| Midnight Snak | 36.00% | ~10,560 |
+| Candid Cryptid | 35.00% | ~10,267 |
+| Got to Catch Them All | 33.00% | ~9,680 |
+| Deep Impact | 24.00% | ~7,040 |
+| Grab Bag | 23.00% | ~6,747 |
+| Feeding Frenzy | 19.00% | ~5,573 |
+| Clothesline | 17.00% | ~4,987 |
+| Say Cheese! | 16.00% | ~4,693 |
+| Sundae Best | 14.00% | ~4,107 |
+| Live Laugh Hut | 9.00% | ~2,640 |
+| Dapper Capper | 7.00% | ~2,053 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,216 (Ranked 146)  
-Completed: 1,437 (4.92%) (Ranked 80)  
+Progressed: 29,333 (Ranked 146)  
+Completed: 1,457 (4.97%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,6 +319,7 @@ Completed: 1,437 (4.92%) (Ranked 80)
 | 2024-01-25 | 29,208 | 1,436 |
 | 2024-01-26 | 29,213 | 1,437 |
 | 2024-01-27 | 29,216 | 1,437 |
+| 2024-02-22 | 29,333 | 1,457 |
 ## Awards
 Max (Amazing Storytelling): 47  (Ranked 486)  
 Sum: 403 (Ranked 373)  

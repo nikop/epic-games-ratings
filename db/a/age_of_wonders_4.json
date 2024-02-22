@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 369,
-  "Ranking_Popularity": 464,
-  "Ranking_PopularitySum": 395,
-  "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_Rating": 353,
+  "Ranking_Popularity": 463,
+  "Ranking_PopularitySum": 393,
+  "Ranking_EOS_Progress": 203,
+  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -931,24 +931,30 @@
       "Rating": 4.63,
       "NumberOfAwards": 303,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-02-22T20:57:26.4862147+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 305,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 303,
-  "NumberOfAwardsMax": 53,
+  "NumberOfAwards": 305,
+  "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12227,9 +12233,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-02-22T06:59:12.2107883+00:00",
+  "LastChanged": "2024-02-22T20:57:26.4862145+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:25.9740504+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:56:55.1231016+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:00:35.3845918+00:00",
+  "LastUpdate_Ratings": "2024-02-22T20:57:26.4862151+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:25.9741416+00:00"
 }

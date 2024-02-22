@@ -2,10 +2,10 @@
   "ID": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
   "Name": "Gigantic: Rampage Edition",
   "ProductSlug": "gigantic-rampage-edition-03f532",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-04-09T13:00:00+00:00",
     "PcReleaseDate": "2024-04-09T13:00:00+00:00",
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-20T17:57:28.2209692+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:57:28.1296717+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:43.2956066+00:00"
 }

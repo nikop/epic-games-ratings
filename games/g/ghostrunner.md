@@ -52,8 +52,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,239 |
 | Up Close And Personal | 0.10% | ~1,239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,238,669 (Ranked 13)  
-Completed: 265 (0.02%) (Ranked 378)  
+Progressed: 1,238,669 (Ranked 14)  
+Completed: 265 (0.02%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

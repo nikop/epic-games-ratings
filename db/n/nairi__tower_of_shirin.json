@@ -2,10 +2,10 @@
   "ID": "70b3d7364ae84b559fe3d216860ec5ab",
   "Name": "NAIRI: Tower of Shirin",
   "ProductSlug": "nairi-tower-of-shirin-0e47fe",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-02-27T00:00:00+00:00",
     "PcReleaseDate": "2018-11-29T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.4265454+00:00",
   "LastChanged": "2023-03-31T05:58:11.4265455+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:50.8752244+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:01:54.9624198+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:11:26.0533751+00:00"
+  "LastUpdate_Ratings": "2024-02-22T20:58:19.6743645+00:00",
+  "LastUpdate_Achievements": "2024-02-22T21:05:34.1163046+00:00"
 }

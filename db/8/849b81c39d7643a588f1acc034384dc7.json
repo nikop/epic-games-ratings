@@ -2,10 +2,10 @@
   "ID": "849b81c39d7643a588f1acc034384dc7",
   "Name": "Geneforge 2 - Infestation",
   "ProductSlug": "geneforge-2-infestation-2b5e0d",
-  "Ranking_EOS_Progress": 856,
-  "Ranking_EOS_Completed": 414,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 166,
+  "Ranking_EOS_Progress": 859,
+  "Ranking_EOS_Completed": 418,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-27T11:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-21T22:57:03.3441087+00:00",
-  "LastUpdate_Ratings": "2024-02-22T19:59:10.5900318+00:00"
+  "LastUpdate_Ratings": "2024-02-22T21:00:28.9833771+00:00"
 }
