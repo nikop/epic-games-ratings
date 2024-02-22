@@ -22,7 +22,7 @@
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 605 |
 | 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,630 | 139 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 783 | 195 |
-| 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,273 | 82 |
+| 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,277 | 82 |
 | 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 15,856 | 26 |
 | 21 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 23 | 577 |
 | 21 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 174 | 328 |
@@ -124,7 +124,7 @@
 | 112 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.78 | 52 | 470 |
 | 112 | [WarmSnow](games/w/warmsnow.md) | 4.78 | 87 | 410 |
 | 112 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 543 |
-| 125 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,618 | 42 |
+| 125 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,636 | 42 |
 | 125 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.77 | 0 | 605 |
 | 125 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,854 | 37 |
 | 125 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 605 |
@@ -132,7 +132,7 @@
 | 125 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,553 | 111 |
 | 125 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.77 | 0 | 605 |
 | 125 | [Outlast](games/o/outlast.md) | 4.77 | 26 | 562 |
-| 125 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 566 | 220 |
+| 125 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 569 | 220 |
 | 125 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 62 | 450 |
 | 125 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 605 |
 | 125 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 163 | 337 |
@@ -221,7 +221,7 @@
 | 204 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 605 |
 | 204 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.71 | 0 | 605 |
 | 204 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 605 |
-| 204 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,396 | 114 |
+| 204 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,398 | 114 |
 | 204 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 605 |
 | 224 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,666 | 88 |
 | 224 | [Coromon](games/c/coromon.md) | 4.70 | 48 | 482 |
@@ -958,7 +958,7 @@
 | 954 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.24 | 45 | 491 |
 | 954 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 583 |
 | 954 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 605 |
-| 954 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,199 | 152 |
+| 954 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,201 | 152 |
 | 954 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.24 | 0 | 605 |
 | 954 | [Hellpoint](games/h/hellpoint.md) | 4.24 | 0 | 605 |
 | 954 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.24 | 73 | 431 |
@@ -1002,16 +1002,16 @@
 | 999 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,364 | 104 |
 | 999 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 414 |
 | 999 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 605 |
+| 999 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.19 | 486 | 232 |
 | 999 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.19 | 0 | 605 |
 | 999 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 605 |
 | 999 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 605 |
-| 1,006 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 605 |
-| 1,006 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 605 |
-| 1,006 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 605 |
-| 1,006 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 222,024 | 6 |
-| 1,006 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 401 |
-| 1,006 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.18 | 486 | 232 |
-| 1,006 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 0 | 605 |
+| 1,007 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 605 |
+| 1,007 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 605 |
+| 1,007 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 605 |
+| 1,007 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 222,024 | 6 |
+| 1,007 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 401 |
+| 1,007 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.18 | 0 | 605 |
 | 1,013 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 99 | 392 |
 | 1,013 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 605 |
 | 1,013 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.17 | 0 | 605 |
