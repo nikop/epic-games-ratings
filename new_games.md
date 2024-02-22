@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [1001 Jigsaw. World Tour: Australian Puzzles](games/a/aa3cf4b6b9d8471fb8474f19ce118ac2.md) | 2024-02-22 | - |  | - | - |
 | [Inkulinati](games/3/3017522a6faa4fd4a8f16d5e2899fe69.md) | 2024-02-22 | - |  | - | - |
 | [Pacific Drive: Deluxe Edition](games/p/pacific_drive.md) | 2024-02-22 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 12 Collectors Edition](games/b/b1ed6088386f4865a733ce52b3bc3e5c.md) | 2024-02-22 | - |  | - | - |
@@ -8,7 +9,7 @@
 | [Deadly Broadcast](games/2/26f95abaabab4e63b390242ba69111c3.md) | 2024-02-21 | - |  | - | - |
 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 2024-02-21 | - |  | - | 0 |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | - |
-| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.06 | 0 |
+| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.09 | 0 |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | 0 |
 | [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | - |
@@ -16,7 +17,7 @@
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 2024-02-16 | - |  | - | 0 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
-| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.19 | 486 |
+| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.18 | 587 |
 | [Street Fighting Simulator](games/e/e1094f6a687543c9ab4543dcba655554.md) | 2024-02-15 | - |  | - | 0 |
 | [DotLine](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | - |  | - | - |
 | [Pinbot](games/2/2fb0f7c2c29041ea94464a263acfbeb7.md) | 2024-02-15 | - |  | - | - |
@@ -94,4 +95,3 @@
 | [Toribash Next](games/2/2bee239ee96643fbb2afab3013004136.md) | 2024-01-24 | - |  | - | 0 |
 | [BC Kings](games/c/cb30564bfc1d47b593805e5c0acfc135.md) | 2024-01-24 | - |  | - | - |
 | [Victorian Admirals Samoan Crisis 1889](games/5/553ca63b8abf4b708198cae44504fa92.md) | 2024-01-24 | - |  | - | - |
-| [Fairytale Solitaire: Red Riding Hood](games/4/4f08134bd1c74665a7372714be114f6a.md) | 2024-01-23 | - |  | - | 0 |

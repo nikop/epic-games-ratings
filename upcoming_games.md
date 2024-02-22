@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [1001 Jigsaw. World Tour: Australian Puzzles](games/a/aa3cf4b6b9d8471fb8474f19ce118ac2.md) | 2024-02-22 | - |  | - | - |
 | [Alpha League](games/e/e7d3d2bfe6a44e2cab8b2348f1572591.md) | 2024-02-23 | - |  | - | - |
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-23 | 10 (1,000 XP) | 0 | - | - |
 | [Devil's Island](games/0/090ac4b263f44ea79418069fddfb0d9b.md) | 2024-02-25 | - |  | - | - |
