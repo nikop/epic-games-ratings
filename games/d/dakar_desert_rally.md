@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
 Rating: 3.96 (Ranked 1,087)  
 ## Awards
-Max (Amazing Storytelling): 27  (Ranked 557)  
+Max (Amazing Storytelling): 27  (Ranked 558)  
 Sum: 141 (Ranked 464)  
-Diff (max vs sum): 93  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 27 |

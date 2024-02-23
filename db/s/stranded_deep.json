@@ -2,7 +2,7 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 972,
   "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 3300,
   "RatingHistory": [
     {
@@ -3205,6 +3205,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 1246,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2024-02-23T12:59:31.1359954+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1246,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
@@ -3284,8 +3290,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-02-22T09:58:06.1501026+00:00",
+  "LastChanged": "2024-02-23T12:59:31.1359952+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:43.1525552+00:00",
-  "LastUpdate_Ratings": "2024-02-23T11:00:10.8305406+00:00",
+  "LastUpdate_Ratings": "2024-02-23T12:59:31.1359956+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.445532+00:00"
 }

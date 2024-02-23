@@ -213,12 +213,12 @@ Completed: 79 (0.11%) (Ranked 326)
 | 2024-01-26 | 69,075 | 79 |
 | 2024-01-27 | 69,167 | 79 |
 ## Awards
-Max (Extremely Fun): 21  (Ranked 591)  
-Sum: 21 (Ranked 596)  
-Diff (max vs sum): -5  
+Max (Character Customization): 114  (Ranked 376)  
+Sum: 135 (Ranked 466)  
+Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 106 |
+| This game has Inclusive Character Customization | 114 |
 | This game is Extremely Fun | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -333,3 +333,4 @@ Diff (max vs sum): -5
 | 2024-02-02 | 4.65 | - | 20 | 20 |
 | 2024-02-11 | 4.65 | - | 21 | 21 |
 | 2024-02-21 | 4.64 | - | 21 | 21 |
+| 2024-02-23 | 4.64 | - | 114 | 135 |
