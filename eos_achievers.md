@@ -64,7 +64,7 @@
 | 62 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 352,130 | 17 |
 | 63 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 345,000 | 165 |
 | 64 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 344,766 | 0 |
-| 65 | [Remnant 2](games/r/remnant_2.md) | 310,445 | 1,464 |
+| 65 | [Remnant II®](games/r/remnant_2.md) | 310,445 | 1,464 |
 | 66 | [Pinball FX](games/p/pinball_fx.md) | 304,959 | 0 |
 | 67 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 282,547 | 610 |
 | 68 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 280,454 | 996 |

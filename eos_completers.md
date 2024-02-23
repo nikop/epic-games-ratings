@@ -242,7 +242,7 @@
 | 240 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
 | 240 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.47% |
 | 240 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
-| 240 | [Remnant 2](games/r/remnant_2.md) | 0.47% |
+| 240 | [Remnant II®](games/r/remnant_2.md) | 0.47% |
 | 240 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.47% |
 | 245 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 245 | [Garden In](games/g/garden_in.md) | 0.46% |
