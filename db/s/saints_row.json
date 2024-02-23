@@ -5839,10 +5839,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 10517,
       "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2024-02-23T17:59:06.8652703+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 10518,
+      "NumberOfAwardsMax": 1187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10517,
+  "NumberOfAwards": 10518,
   "NumberOfAwardsMax": 1187,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -5862,7 +5868,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 909
+      "Count": 910
     },
     {
       "Text": "This game is Relaxing",
@@ -38664,9 +38670,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-02-23T16:57:37.0539251+00:00",
+  "LastChanged": "2024-02-23T17:59:06.8652701+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.3588189+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:20.8312886+00:00",
-  "LastUpdate_Ratings": "2024-02-23T16:57:37.0539256+00:00",
+  "LastUpdate_Ratings": "2024-02-23T17:59:06.8652708+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.3589739+00:00"
 }
