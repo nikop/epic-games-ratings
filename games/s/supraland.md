@@ -390,12 +390,12 @@ Completed: 800 (0.11%) (Ranked 326)
 | 2024-01-27 | 741,724 | 785 |
 | 2024-02-22 | 744,479 | 800 |
 ## Awards
-Max (Challenging Puzzles): 7,803  (Ranked 57)  
-Sum: 10,205 (Ranked 100)  
+Max (Challenging Puzzles): 7,806  (Ranked 57)  
+Sum: 10,208 (Ranked 100)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,803 |
+| This game features Challenging Puzzles | 7,806 |
 | This game is Educational | 289 |
 | This game has Amazing Characters | 285 |
 | This game has Amazing Storytelling | 284 |
@@ -659,3 +659,4 @@ Diff (max vs sum): -43
 | 2024-02-20 | 4.61 | - | 7,801 | 10,201 |
 | 2024-02-21 | 4.61 | - | 7,803 | 10,203 |
 | 2024-02-22 | 4.61 | - | 7,803 | 10,205 |
+| 2024-02-23 | 4.61 | - | 7,806 | 10,208 |
