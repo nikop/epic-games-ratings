@@ -4,8 +4,8 @@
 Rating: 3.96 (Ranked 1,087)  
 ## Awards
 Max (Amazing Storytelling): 27  (Ranked 558)  
-Sum: 168 (Ranked 452)  
-Diff (max vs sum): 106  
+Sum: 188 (Ranked 440)  
+Diff (max vs sum): 118  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 27 |
@@ -15,6 +15,7 @@ Diff (max vs sum): 106
 | This game has Competitive Players | 24 |
 | This game has a Competitive Community | 21 |
 | This game has Quickly Understood Controls | 20 |
+| This game has Realistic Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -104,4 +105,4 @@ Diff (max vs sum): 106
 | 2024-02-20 | 4.00 | 22 | 22 |
 | 2024-02-21 | 3.95 | 23 | 65 |
 | 2024-02-22 | 3.96 | 25 | 115 |
-| 2024-02-23 | 3.96 | 27 | 168 |
+| 2024-02-23 | 3.96 | 27 | 188 |
