@@ -4,7 +4,7 @@
   "ProductSlug": "saints-row",
   "Ranking_Rating": 1104,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 109,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 234,
@@ -5827,10 +5827,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 9437,
       "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2024-02-23T01:39:37.890434+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 10516,
+      "NumberOfAwardsMax": 1187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9437,
+  "NumberOfAwards": 10516,
   "NumberOfAwardsMax": 1187,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -5874,7 +5880,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1063
+      "Count": 1079
     },
     {
       "Text": "This game has Amazing Characters",
@@ -38652,9 +38658,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-02-22T18:58:35.883043+00:00",
+  "LastChanged": "2024-02-23T01:39:37.8904338+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.3588189+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:20.8312886+00:00",
-  "LastUpdate_Ratings": "2024-02-22T23:59:49.4171822+00:00",
+  "LastUpdate_Ratings": "2024-02-23T01:39:37.8904347+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.3589739+00:00"
 }

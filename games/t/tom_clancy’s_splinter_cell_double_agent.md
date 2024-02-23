@@ -1,7 +1,7 @@
 # Tom Clancy’s Splinter Cell Double Agent
 [Store](https://store.epicgames.com/en-US/p/splinter-cell-double-agent)  
 [View Rawdata](../../db/t/tom_clancy’s_splinter_cell_double_agent.json)  
-Rating: 4.28 (Ranked 920)  
+Rating: 4.21 (Ranked 981)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -18,3 +18,4 @@ Rating: 4.28 (Ranked 920)
 | 2024-02-03 | 4.23 | 0 | 0 |
 | 2024-02-06 | 4.26 | 0 | 0 |
 | 2024-02-18 | 4.28 | 0 | 0 |
+| 2024-02-23 | 4.21 | 0 | 0 |
