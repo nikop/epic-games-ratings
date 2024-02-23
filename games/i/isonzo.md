@@ -332,7 +332,7 @@ Completed: 5 (0.05%) (Ranked 352)
 | 2024-02-22 | 9,716 | 5 |
 ## Awards
 Max (Diverse Characters): 46  (Ranked 489)  
-Sum: 350 (Ranked 380)  
+Sum: 351 (Ranked 380)  
 Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): 109
 | This game is Educational | 33 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Competitive Players | 30 |
-| This game has Amazing Storytelling | 25 |
+| This game has Amazing Storytelling | 26 |
 | This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -505,3 +505,4 @@ Diff (max vs sum): 109
 | 2024-02-15 | 4.58 | - | 46 | 348 |
 | 2024-02-16 | 4.58 | - | 46 | 349 |
 | 2024-02-21 | 4.58 | - | 46 | 350 |
+| 2024-02-23 | 4.58 | - | 46 | 351 |
