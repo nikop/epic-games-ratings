@@ -1,7 +1,7 @@
 # Ghost Recon Future Soldier: Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/ghost-recon-future-soldier)  
 [View Rawdata](../../db/g/ghost_recon_future_soldier__ultimate_edition.json)  
-Rating: 4.56 (Ranked 525)  
+Rating: 4.56 (Ranked 524)  
 Number of Ratings: 23  (23.09.2022)  
 ## Awards
 | Award | Count |
