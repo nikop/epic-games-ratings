@@ -3025,18 +3025,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 3764,
       "NumberOfAwardsMax": 1832
+    },
+    {
+      "Time": "2024-02-23T05:57:30.8705235+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3765,
+      "NumberOfAwardsMax": 1833
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3764,
-  "NumberOfAwardsMax": 1832,
+  "NumberOfAwards": 3765,
+  "NumberOfAwardsMax": 1833,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1832
+      "Count": 1833
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3116,8 +3122,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2024-02-22T18:58:55.3273403+00:00",
+  "LastChanged": "2024-02-23T05:57:30.8705234+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:55.7130592+00:00",
-  "LastUpdate_Ratings": "2024-02-23T03:59:32.2481186+00:00",
+  "LastUpdate_Ratings": "2024-02-23T05:57:30.8705238+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:29.5475696+00:00"
 }
