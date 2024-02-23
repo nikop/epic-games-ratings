@@ -1,7 +1,7 @@
 # Gone Home
 [Store](https://store.epicgames.com/en-US/p/gone-home)  
 [View Rawdata](../../db/g/gone_home.json)  
-Rating: 4.18 (Ranked 1,007)  
+Rating: 4.19 (Ranked 1,000)  
 Number of Ratings: 55  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -62,3 +62,4 @@ Number of Ratings: 55  (23.09.2022)
 | 2023-12-02 | 4.19 | - | 0 | 0 |
 | 2023-12-10 | 4.20 | - | 0 | 0 |
 | 2024-01-14 | 4.18 | - | 0 | 0 |
+| 2024-02-23 | 4.19 | - | 0 | 0 |
