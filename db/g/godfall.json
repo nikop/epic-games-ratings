@@ -3,7 +3,7 @@
   "Name": "Godfall Ultimate Edition",
   "ProductSlug": "godfall",
   "Ranking_Rating": 1066,
-  "Ranking_Popularity": 214,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -1618,18 +1618,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 956,
       "NumberOfAwardsMax": 603
+    },
+    {
+      "Time": "2024-02-23T02:12:44.3328879+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 958,
+      "NumberOfAwardsMax": 605
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 956,
-  "NumberOfAwardsMax": 603,
+  "NumberOfAwards": 958,
+  "NumberOfAwardsMax": 605,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 603
+      "Count": 605
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1697,8 +1703,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2024-02-20T07:00:13.361658+00:00",
+  "LastChanged": "2024-02-23T02:12:44.3328878+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:09.0504325+00:00",
-  "LastUpdate_Ratings": "2024-02-23T00:00:56.4145371+00:00",
+  "LastUpdate_Ratings": "2024-02-23T02:12:44.3328882+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:57.2226304+00:00"
 }

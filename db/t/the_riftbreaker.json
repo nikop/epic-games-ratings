@@ -4,7 +4,7 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 141,
   "Ranking_Popularity": 309,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -1319,6 +1319,6 @@
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
   "LastChanged": "2024-02-21T19:57:25.4944032+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:40.2359052+00:00",
-  "LastUpdate_Ratings": "2024-02-23T01:38:41.9364504+00:00",
+  "LastUpdate_Ratings": "2024-02-23T02:16:22.9290225+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:19.8183052+00:00"
 }
