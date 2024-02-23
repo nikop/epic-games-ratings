@@ -165,7 +165,7 @@
 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 786 | 4.28 | 0 |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | 0 |
 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,476 | 4.86 | 146 |
-| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 4,626 | 4.39 | 223 |
+| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 4,626 | 4.40 | 223 |
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-11-02 | 36 (1,000 XP) | 2 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
 | [Dude, Where Is My Beer?](games/7/7c6b6697df584024be9c60a1da59096b.md) | 2023-11-01 | 22 (1,000 XP) | 92 | - | 0 |
@@ -355,7 +355,7 @@
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 35 (1,200 XP) | 19,318 | 4.54 | 0 |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 310,445 | 4.71 | 8,294 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 310,445 | 4.71 | 8,320 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | 12 (1,000 XP) | 8 | - | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
@@ -534,7 +534,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 49 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 89 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 32 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,596,050 | 4.38 | 1,402 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,596,050 | 4.38 | 1,407 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,428 | - | 0 |
@@ -798,7 +798,7 @@
 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 2022-03-02 | 73 (1,000 XP) | 220 | 4.29 | 0 |
 | [HordeCore](games/h/hordecore.md) | 2022-03-02 | 28 (1,000 XP) | 368 | - | 0 |
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 296 | 4.27 | 0 |
-| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,221,766 | 4.61 | 56,168 |
+| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,221,766 | 4.61 | 56,239 |
 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 2022-02-28 | 46 (1,000 XP) | 523 | 4.40 | 0 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 2022-02-25 | 101 (1,000 XP) | 4,475 | 4.29 | 0 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 2022-02-17 | 34 (1,000 XP) | 141,534 | 4.41 | 0 |
@@ -870,7 +870,7 @@
 | [Grindstone](games/g/grindstone.md) | 2021-05-20 | 49 (1,000 XP) | 5,257 | 4.83 | 0 |
 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 2021-05-13 | 31 (1,000 XP) | 25,102 | 4.35 | 209 |
 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2021-04-29 | 32 (1,000 XP) | 678 | 3.75 | 0 |
-| [Hand of Fate 2](games/h/hand_of_fate_2.md) | 2021-04-22 | 48 (1,000 XP) | 669,005 | 4.55 | 36 |
+| [Hand of Fate 2](games/h/hand_of_fate_2.md) | 2021-04-22 | 48 (1,000 XP) | 669,005 | 4.55 | 37 |
 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 2021-04-15 | 41 (1,000 XP) | 18,133 | 4.52 | 160 |
 | [The First Tree](games/t/the_first_tree.md) | 2021-04-15 | 14 (1,000 XP) | 41,999 | 3.99 | 0 |
 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 2021-04-13 | 12 (1,000 XP) | 963 | - | 0 |

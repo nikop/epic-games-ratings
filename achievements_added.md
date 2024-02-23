@@ -214,7 +214,7 @@
 | [Haunted House](games/8/81970ccb964d4720adccf2e2244fe754.md) | 2023-10-12 | 25 (1,000 XP) | 1 | - | 0 |
 | [Ash of Gods: Redemption](games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 2023-10-11 | 50 (1,000 XP) | 174 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
-| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 4,626 | 4.39 | 223 |
+| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 4,626 | 4.40 | 223 |
 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2023-11-28 | 12 (1,000 XP) | 41 | - | 0 |
 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2099-01-01 | 23 (1,000 XP) | 3 | - | - |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 52 | - | - |
@@ -391,7 +391,7 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 1 | - | - |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 310,445 | 4.71 | 8,294 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 310,445 | 4.71 | 8,320 |
 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 77 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 34 (1,100 XP) | 1 | - | - |
