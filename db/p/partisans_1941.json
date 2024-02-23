@@ -2,7 +2,7 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 257,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 98,
   "RatingHistory": [
     {
@@ -296,6 +296,12 @@
     {
       "Time": "2023-10-17T21:59:15.1343016+00:00",
       "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-23T09:57:39.6775907+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5235,9 +5241,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
-  "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
+  "LastChanged": "2024-02-23T09:57:39.6775905+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:38.15087+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:18.6652231+00:00",
-  "LastUpdate_Ratings": "2024-02-23T07:59:07.7697212+00:00",
+  "LastUpdate_Ratings": "2024-02-23T09:57:39.677591+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:38.1509158+00:00"
 }
