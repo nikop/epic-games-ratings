@@ -44,7 +44,7 @@
 | 38 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 605 |
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 229 | 296 |
 | 38 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 214 | 306 |
-| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 815 | 189 |
+| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 815 | 190 |
 | 38 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 0 | 605 |
 | 38 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 605 |
 | 48 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 37 | 513 |
@@ -93,7 +93,7 @@
 | 80 | [The Messenger](games/t/the_messenger.md) | 4.81 | 356 | 257 |
 | 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 535 |
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 605 |
-| 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 904 | 181 |
+| 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 906 | 181 |
 | 94 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,513 | 69 |
 | 94 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.80 | 902 | 182 |
 | 94 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.80 | 0 | 605 |
@@ -107,7 +107,7 @@
 | 102 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 174 | 328 |
 | 102 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.79 | 31 | 535 |
 | 102 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 605 |
-| 102 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,441 | 145 |
+| 102 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,446 | 145 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,801 | 110 |
 | 102 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 426 | 242 |
 | 102 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 605 |
@@ -381,14 +381,14 @@
 | 370 | [HITMAN](games/h/hitman.md) | 4.63 | 221 | 301 |
 | 370 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 605 |
 | 370 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 605 |
-| 370 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 7,741 | 58 |
+| 370 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 7,788 | 58 |
 | 370 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,147 | 107 |
 | 370 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 605 |
 | 370 | [Prey](games/p/prey.md) | 4.63 | 5,924 | 77 |
 | 370 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 196 | 314 |
 | 370 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 268 |
 | 370 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 36 | 517 |
-| 370 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,832 | 133 |
+| 370 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,833 | 133 |
 | 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,052 | 165 |
 | 390 | [Darkwood](games/d/darkwood.md) | 4.62 | 332 | 262 |
 | 390 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 0 | 605 |
@@ -461,7 +461,7 @@
 | 459 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 731 | 199 |
 | 459 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 605 |
 | 459 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 605 |
-| 459 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 814 | 190 |
+| 459 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 819 | 189 |
 | 459 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,387 | 81 |
 | 459 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 15,240 | 28 |
 | 459 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.59 | 0 | 605 |
@@ -470,7 +470,7 @@
 | 459 | [NORCO](games/n/norco.md) | 4.59 | 0 | 605 |
 | 459 | [Sonic Origins](games/s/sonic_origins.md) | 4.59 | 132 | 359 |
 | 459 | [The Invincible](games/t/the_invincible.md) | 4.59 | 0 | 605 |
-| 459 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,102 | 160 |
+| 459 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,103 | 160 |
 | 459 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 90 | 406 |
 | 459 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 727 | 200 |
 | 459 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 88 | 408 |
@@ -630,7 +630,7 @@
 | 611 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.51 | 0 | 605 |
 | 611 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 143 | 352 |
 | 630 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.50 | 0 | 605 |
-| 630 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,960 | 128 |
+| 630 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,961 | 128 |
 | 630 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 4.50 | 0 | 605 |
 | 630 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 910 | 179 |
 | 630 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 473 | 236 |
@@ -715,7 +715,7 @@
 | 709 | [ELEX](games/e/elex.md) | 4.45 | 26 | 563 |
 | 709 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 605 |
 | 709 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 605 |
-| 709 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,429 | 34 |
+| 709 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,441 | 34 |
 | 709 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 605 |
 | 709 | [Metalstorm](games/m/metalstorm.md) | 4.45 | 0 | 605 |
 | 709 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 47 | 486 |
