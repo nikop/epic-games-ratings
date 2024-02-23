@@ -3,6 +3,13 @@
 [View Rawdata](../../db/g/griftlands.json)  
 Rating: 4.79 (Ranked 102)  
 Number of Ratings: 151  (23.09.2022)  
+## Awards
+Max (Quickly Understood Controls): 20  (Ranked 601)  
+Sum: 20 (Ranked 603)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -55,3 +62,4 @@ Number of Ratings: 151  (23.09.2022)
 | 2023-09-14 | 4.79 | - | 0 | 0 |
 | 2023-09-22 | 4.80 | - | 0 | 0 |
 | 2023-10-01 | 4.79 | - | 0 | 0 |
+| 2024-02-23 | 4.79 | - | 20 | 20 |

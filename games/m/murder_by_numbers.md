@@ -4,13 +4,14 @@
 Rating: 4.27 (Ranked 933)  
 ## Awards
 Max (Extremely Fun): 21  (Ranked 594)  
-Sum: 62 (Ranked 518)  
-Diff (max vs sum): 76  
+Sum: 82 (Ranked 504)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 21 |
 | This game has Diverse Characters | 21 |
 | This game has Playful Visuals | 20 |
+| This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -66,3 +67,4 @@ Diff (max vs sum): 76
 | 2024-01-23 | 4.27 | 21 | 41 |
 | 2024-01-27 | 4.27 | 21 | 42 |
 | 2024-02-09 | 4.27 | 21 | 62 |
+| 2024-02-23 | 4.27 | 21 | 82 |
