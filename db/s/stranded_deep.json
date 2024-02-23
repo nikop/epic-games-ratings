@@ -3211,11 +3211,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 1246,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2024-02-23T15:57:36.6354265+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1248,
+      "NumberOfAwardsMax": 248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1246,
-  "NumberOfAwardsMax": 247,
+  "NumberOfAwards": 1248,
+  "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -3246,7 +3252,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 247
+      "Count": 248
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3270,7 +3276,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3290,8 +3296,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-02-23T12:59:31.1359952+00:00",
+  "LastChanged": "2024-02-23T15:57:36.6354263+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:43.1525552+00:00",
-  "LastUpdate_Ratings": "2024-02-23T13:59:39.5290315+00:00",
+  "LastUpdate_Ratings": "2024-02-23T15:57:36.6354267+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.445532+00:00"
 }
