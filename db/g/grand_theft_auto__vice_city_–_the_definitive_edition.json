@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 581,
-  "Ranking_Popularity": 593,
-  "Ranking_PopularitySum": 542,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 234,
@@ -1103,12 +1103,18 @@
       "Rating": 4.53,
       "NumberOfAwards": 42,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-02-24T15:59:26.5902052+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42,
-  "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 43,
+  "NumberOfAwardsMax": 22,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1126,7 +1132,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 17148,
@@ -19453,9 +19459,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-02-20T10:57:22.1233498+00:00",
+  "LastChanged": "2024-02-24T15:59:26.5902051+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:40.402543+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:50.1743556+00:00",
-  "LastUpdate_Ratings": "2024-02-24T14:57:53.1719535+00:00",
+  "LastUpdate_Ratings": "2024-02-24T15:59:26.5902055+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:40.4026408+00:00"
 }
