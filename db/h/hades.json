@@ -7070,18 +7070,24 @@
       "Rating": 4.92,
       "NumberOfAwards": 8903,
       "NumberOfAwardsMax": 3643
+    },
+    {
+      "Time": "2024-02-24T07:57:45.6287328+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 8908,
+      "NumberOfAwardsMax": 3644
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8903,
-  "NumberOfAwardsMax": 3643,
+  "NumberOfAwards": 8908,
+  "NumberOfAwardsMax": 3644,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3643
+      "Count": 3644
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7093,7 +7099,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 297
+      "Count": 299
     },
     {
       "Text": "This game is Relaxing",
@@ -7129,7 +7135,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 285
+      "Count": 286
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7159,7 +7165,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game is Educational",
@@ -38651,9 +38657,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-02-24T03:58:26.4572188+00:00",
+  "LastChanged": "2024-02-24T07:57:45.6287326+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.1123551+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:45.7910733+00:00",
-  "LastUpdate_Ratings": "2024-02-24T05:00:31.38962+00:00",
+  "LastUpdate_Ratings": "2024-02-24T07:57:45.6287332+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.1125218+00:00"
 }

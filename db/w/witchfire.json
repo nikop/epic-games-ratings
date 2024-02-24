@@ -4,7 +4,7 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 437,
   "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 363,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -1619,10 +1619,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 446,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-02-24T07:58:54.8327457+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 379,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 446,
+  "NumberOfAwards": 379,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -1699,8 +1705,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-02-22T16:58:21.2768476+00:00",
+  "LastChanged": "2024-02-24T07:58:54.8327456+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:33.4907889+00:00",
-  "LastUpdate_Ratings": "2024-02-24T06:57:29.5709751+00:00",
+  "LastUpdate_Ratings": "2024-02-24T07:58:54.8327461+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:39.8784956+00:00"
 }

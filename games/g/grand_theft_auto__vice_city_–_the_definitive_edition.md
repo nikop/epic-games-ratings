@@ -325,8 +325,8 @@ Completed: 124 (0.72%) (Ranked 209)
 | 2024-01-27 | 16,724 | 110 |
 | 2024-02-22 | 17,148 | 124 |
 ## Awards
-Max (Highly Recommended): 21  (Ranked 594)  
-Sum: 42 (Ranked 543)  
+Max (Highly Recommended): 21  (Ranked 593)  
+Sum: 42 (Ranked 542)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |

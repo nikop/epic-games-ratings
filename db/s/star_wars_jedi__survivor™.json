@@ -9055,10 +9055,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 18276,
       "NumberOfAwardsMax": 10483
+    },
+    {
+      "Time": "2024-02-24T07:57:42.13208+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 18298,
+      "NumberOfAwardsMax": 10483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18276,
+  "NumberOfAwards": 18298,
   "NumberOfAwardsMax": 10483,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9072,7 +9078,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 927
+      "Count": 934
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9084,7 +9090,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 894
+      "Count": 897
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9102,7 +9108,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 909
+      "Count": 914
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9114,7 +9120,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 916
+      "Count": 923
     },
     {
       "Text": "This game has a Creative Community",
@@ -23990,9 +23996,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2024-02-23T22:57:28.9252159+00:00",
+  "LastChanged": "2024-02-24T07:57:42.1320798+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.5796804+00:00",
   "LastUpdate_AppInfo": "2024-02-17T21:57:18.6698455+00:00",
-  "LastUpdate_Ratings": "2024-02-24T05:00:27.496594+00:00",
+  "LastUpdate_Ratings": "2024-02-24T07:57:42.1320805+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.5797674+00:00"
 }

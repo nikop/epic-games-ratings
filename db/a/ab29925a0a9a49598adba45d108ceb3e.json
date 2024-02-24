@@ -3,8 +3,8 @@
   "Name": "Lost Castle",
   "ProductSlug": "lost-castle-abb2e2",
   "Ranking_Rating": 982,
-  "Ranking_Popularity": 606,
-  "Ranking_PopularitySum": 606,
+  "Ranking_Popularity": 605,
+  "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -200,5 +200,5 @@
   "FirstSeenRating": "2024-02-09T18:59:41.1383273+00:00",
   "LastChanged": "2024-02-24T05:00:54.8878603+00:00",
   "LastUpdate_AppInfo": "2024-02-22T17:57:29.6936303+00:00",
-  "LastUpdate_Ratings": "2024-02-24T05:00:54.8878609+00:00"
+  "LastUpdate_Ratings": "2024-02-24T07:58:05.2355481+00:00"
 }
