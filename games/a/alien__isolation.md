@@ -1,12 +1,12 @@
 # Alien: Isolation
 [Store](https://store.epicgames.com/en-US/p/alien-isolation)  
 [View Rawdata](../../db/a/alien__isolation.json)  
-Rating: 4.61 (Ranked 406)  
+Rating: 4.61 (Ranked 405)  
 Number of Ratings: 5,222  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 142  (Ranked 353)  
+Max (Highly Recommended): 142  (Ranked 352)  
 Sum: 1,034 (Ranked 277)  
-Diff (max vs sum): 76  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 142 |

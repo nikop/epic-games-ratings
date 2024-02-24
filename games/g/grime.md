@@ -316,8 +316,8 @@ Completed: 500 (0.29%) (Ranked 272)
 | 2024-01-27 | 169,970 | 476 |
 | 2024-02-22 | 171,724 | 500 |
 ## Awards
-Max (Challenging Combat): 72  (Ranked 434)  
-Sum: 520 (Ranked 347)  
+Max (Challenging Combat): 72  (Ranked 433)  
+Sum: 520 (Ranked 346)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
