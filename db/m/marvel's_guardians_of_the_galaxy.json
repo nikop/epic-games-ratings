@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 369,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 100,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -3656,10 +3656,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 10322,
       "NumberOfAwardsMax": 7852
+    },
+    {
+      "Time": "2024-02-24T16:58:17.1599632+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 10326,
+      "NumberOfAwardsMax": 7852
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10322,
+  "NumberOfAwards": 10326,
   "NumberOfAwardsMax": 7852,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3715,7 +3721,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 290
+      "Count": 294
     },
     {
       "Text": "This game has a Creative Community",
@@ -3735,8 +3741,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-02-24T06:59:31.0493957+00:00",
+  "LastChanged": "2024-02-24T16:58:17.159963+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:31.8954232+00:00",
-  "LastUpdate_Ratings": "2024-02-24T15:57:18.6148368+00:00",
+  "LastUpdate_Ratings": "2024-02-24T16:58:17.1599634+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.8487883+00:00"
 }

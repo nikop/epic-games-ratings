@@ -4,8 +4,8 @@
 Rating: 3.96 (Ranked 1,087)  
 ## Awards
 Max (Competitive Players): 29  (Ranked 549)  
-Sum: 202 (Ranked 433)  
-Diff (max vs sum): 116  
+Sum: 202 (Ranked 434)  
+Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 29 |
