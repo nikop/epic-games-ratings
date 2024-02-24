@@ -9,7 +9,7 @@
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
-    "isBlockchainUsed": true,
+    "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-23T13:57:25.0228276+00:00",
-  "LastUpdate_Ratings": "2024-02-23T23:58:58.0012713+00:00",
+  "LastUpdate_Ratings": "2024-02-24T01:36:06.1274164+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:08.0960563+00:00"
 }
