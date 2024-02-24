@@ -4,7 +4,7 @@
   "ProductSlug": "tyranny",
   "Ranking_Rating": 458,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 257,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -1703,10 +1703,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1437,
       "NumberOfAwardsMax": 728
+    },
+    {
+      "Time": "2024-02-24T22:59:49.138177+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1438,
+      "NumberOfAwardsMax": 728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1437,
+  "NumberOfAwards": 1438,
   "NumberOfAwardsMax": 728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1720,7 +1726,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 367
+      "Count": 368
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1788,8 +1794,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2024-02-23T06:57:47.1137777+00:00",
+  "LastChanged": "2024-02-24T22:59:49.1381769+00:00",
   "LastUpdate_AppInfo": "2024-02-18T09:57:17.5234745+00:00",
-  "LastUpdate_Ratings": "2024-02-24T21:59:11.90024+00:00",
+  "LastUpdate_Ratings": "2024-02-24T22:59:49.1381773+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:39.1433784+00:00"
 }
