@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 476,
   "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 318,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -3217,10 +3217,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 727,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-02-24T11:01:15.7528252+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 727,
+  "NumberOfAwards": 728,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3258,7 +3264,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 110
+      "Count": 111
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3308,8 +3314,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2024-02-24T01:34:36.9044833+00:00",
+  "LastChanged": "2024-02-24T11:01:15.7528251+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:23.5829207+00:00",
-  "LastUpdate_Ratings": "2024-02-24T09:59:00.9525943+00:00",
+  "LastUpdate_Ratings": "2024-02-24T11:01:15.7528255+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:09.622854+00:00"
 }
