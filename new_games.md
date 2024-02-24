@@ -16,7 +16,7 @@
 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 2024-02-21 | - |  | - | 0 |
 | [MXR](games/1/1868d011118145a0b261edddfc66e967.md) | 2024-02-20 | - |  | - | - |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | - |
-| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.10 | 0 |
+| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.12 | 0 |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | 0 |
 | [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | - |
@@ -93,4 +93,3 @@
 | [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
 | [FarWest Colony](games/2/264f2f0e8bae4df79696899fb257a574.md) | 2024-01-27 | - |  | - | 0 |
 | [Alice's Jigsaw. Wonderland Chronicles 2](games/6/6445bb085c274bb58007a3febb1df67e.md) | 2024-01-26 | - |  | - | - |
-| [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
