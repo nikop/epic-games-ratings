@@ -1,7 +1,7 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.56 (Ranked 522)  
+Rating: 4.57 (Ranked 507)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -596,4 +596,4 @@ Diff (max vs sum): -76
 | 2024-02-21 | 4.57 | - | 2,127 | 2,679 |
 | 2024-02-22 | 4.57 | - | 2,133 | 2,687 |
 | 2024-02-23 | 4.57 | - | 2,133 | 2,692 |
-| 2024-02-24 | 4.56 | - | 2,144 | 2,704 |
+| 2024-02-24 | 4.57 | - | 2,144 | 2,704 |
