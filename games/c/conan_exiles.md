@@ -1,15 +1,15 @@
 # Conan Exiles
 [Store](https://store.epicgames.com/en-US/p/conan-exiles)  
 [View Rawdata](../../db/c/conan_exiles.json)  
-Rating: 4.54 (Ranked 563)  
+Rating: 4.54 (Ranked 562)  
 Number of Ratings: 1,374  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 1,751  (Ranked 137)  
-Sum: 11,893 (Ranked 92)  
+Max (Diverse Characters): 1,753  (Ranked 137)  
+Sum: 11,895 (Ranked 92)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 1,751 |
+| This game has Diverse Characters | 1,753 |
 | This game is Highly Recommended | 1,591 |
 | This game is Relaxing | 1,553 |
 | This game is Extremely Fun | 1,516 |
@@ -440,3 +440,4 @@ Diff (max vs sum): 45
 | 2024-02-21 | 4.54 | - | 1,750 | 11,881 |
 | 2024-02-22 | 4.54 | - | 1,750 | 11,884 |
 | 2024-02-23 | 4.54 | - | 1,751 | 11,893 |
+| 2024-02-24 | 4.54 | - | 1,753 | 11,895 |
