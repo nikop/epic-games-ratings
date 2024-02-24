@@ -7,7 +7,7 @@
 | [BoltBreak 2 Prologue](games/d/d230b0be606f4d97b2c2ade836a6ecac.md) | 2024-02-23 | - |  | - | - |
 | [Alpha League](games/e/e7d3d2bfe6a44e2cab8b2348f1572591.md) | 2024-02-23 | - |  | - | - |
 | [1001 Jigsaw. World Tour: Australian Puzzles](games/a/aa3cf4b6b9d8471fb8474f19ce118ac2.md) | 2024-02-22 | - |  | - | - |
-| [Inkulinati](games/3/3017522a6faa4fd4a8f16d5e2899fe69.md) | 2024-02-22 | - |  | - | - |
+| [Inkulinati](games/3/3017522a6faa4fd4a8f16d5e2899fe69.md) | 2024-02-22 | - |  | - | 0 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 12 Collectors Edition](games/b/b1ed6088386f4865a733ce52b3bc3e5c.md) | 2024-02-22 | - |  | - | - |
 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2024-02-21 | - |  | - | 0 |
@@ -24,7 +24,7 @@
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 2024-02-16 | - |  | - | 0 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
-| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.18 | 719 |
+| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.17 | 719 |
 | [Street Fighting Simulator](games/e/e1094f6a687543c9ab4543dcba655554.md) | 2024-02-15 | - |  | - | 0 |
 | [DotLine](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | - |  | - | - |
 | [Pinbot](games/2/2fb0f7c2c29041ea94464a263acfbeb7.md) | 2024-02-15 | - |  | - | - |
