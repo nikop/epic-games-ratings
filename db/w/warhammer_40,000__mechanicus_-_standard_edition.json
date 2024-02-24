@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 750,
-  "Ranking_Popularity": 275,
+  "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 418,
@@ -1150,11 +1150,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 2249,
       "NumberOfAwardsMax": 295
+    },
+    {
+      "Time": "2024-02-24T21:01:22.5787367+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2250,
+      "NumberOfAwardsMax": 296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2249,
-  "NumberOfAwardsMax": 295,
+  "NumberOfAwards": 2250,
+  "NumberOfAwardsMax": 296,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1179,7 +1185,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 295
+      "Count": 296
     },
     {
       "Text": "This game has Amazing Characters",
@@ -32527,9 +32533,9 @@
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2024-02-24T05:00:17.0828166+00:00",
+  "LastChanged": "2024-02-24T21:01:22.5787366+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:43.4843707+00:00",
   "LastUpdate_AppInfo": "2024-02-18T08:57:03.4406476+00:00",
-  "LastUpdate_Ratings": "2024-02-24T19:58:23.0884897+00:00",
+  "LastUpdate_Ratings": "2024-02-24T21:01:22.578737+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:43.4845675+00:00"
 }

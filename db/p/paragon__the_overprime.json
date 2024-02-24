@@ -3,7 +3,7 @@
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 947,
-  "Ranking_Popularity": 169,
+  "Ranking_Popularity": 170,
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -9853,10 +9853,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 7355,
       "NumberOfAwardsMax": 1026
+    },
+    {
+      "Time": "2024-02-24T20:59:29.3863961+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 7359,
+      "NumberOfAwardsMax": 1026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7355,
+  "NumberOfAwards": 7359,
   "NumberOfAwardsMax": 1026,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9930,7 +9936,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 781
+      "Count": 785
     },
     {
       "Text": "This game has Unique Visuals",
@@ -9951,8 +9957,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-02-24T19:57:11.9408758+00:00",
+  "LastChanged": "2024-02-24T20:59:29.3863959+00:00",
   "LastUpdate_AppInfo": "2024-02-18T07:57:24.5066492+00:00",
-  "LastUpdate_Ratings": "2024-02-24T19:57:11.9408764+00:00",
+  "LastUpdate_Ratings": "2024-02-24T20:59:29.3863966+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:56.4023494+00:00"
 }
