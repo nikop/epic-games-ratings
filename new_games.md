@@ -96,4 +96,3 @@
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 4 | - | 0 |
 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 2024-01-25 | - |  | 4.56 | 155 |
-| [Red Glare](games/f/fb88fc36cd3b4e0da545c51c4a908474.md) | 2024-01-25 | - |  | - | 0 |
