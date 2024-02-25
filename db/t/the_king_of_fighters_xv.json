@@ -3,7 +3,7 @@
   "Name": "THE KING OF FIGHTERS XV",
   "ProductSlug": "the-king-of-fighters-xv",
   "Ranking_Rating": 307,
-  "Ranking_Popularity": 415,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -540,11 +540,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 586,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-02-24T23:57:08.1791075+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 587,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 586,
-  "NumberOfAwardsMax": 80,
+  "NumberOfAwards": 587,
+  "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -581,7 +587,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -625,8 +631,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2024-02-24T19:00:36.9344507+00:00",
+  "LastChanged": "2024-02-24T23:57:08.1791074+00:00",
   "LastUpdate_AppInfo": "2024-02-18T03:57:53.0830595+00:00",
-  "LastUpdate_Ratings": "2024-02-24T22:00:20.8285298+00:00",
+  "LastUpdate_Ratings": "2024-02-24T23:57:08.1791078+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:20.0958151+00:00"
 }
