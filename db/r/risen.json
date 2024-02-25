@@ -2,7 +2,7 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 430,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:38.3860804+00:00",
@@ -117,6 +117,12 @@
     {
       "Time": "2024-02-20T17:57:39.6826783+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-25T19:01:11.719586+00:00",
+      "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1598,9 +1604,9 @@
   "FirstSeen": "2023-02-17T13:13:36.4148926+00:00",
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
-  "LastChanged": "2024-02-20T17:57:39.6826782+00:00",
+  "LastChanged": "2024-02-25T19:01:11.7195858+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:50.4390481+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:57.8687615+00:00",
-  "LastUpdate_Ratings": "2024-02-25T17:58:40.9426048+00:00",
+  "LastUpdate_Ratings": "2024-02-25T19:01:11.7195871+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:50.4390909+00:00"
 }
