@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
 Rating: 3.94 (Ranked 1,095)  
 ## Awards
-Max (Highly Recommended): 33  (Ranked 527)  
+Max (Highly Recommended): 33  (Ranked 528)  
 Sum: 177 (Ranked 448)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 33 |
