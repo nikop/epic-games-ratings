@@ -2,7 +2,7 @@
   "ID": "puma",
   "Name": "Genesis Alpha One Deluxe Edition",
   "ProductSlug": "genesis-alpha-one",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 859,
@@ -331,6 +331,6 @@
   "FirstSeen": "2022-07-22T20:19:52.5192552+00:00",
   "LastChanged": "2023-12-29T17:00:51.8567277+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:57:54.0102054+00:00",
-  "LastUpdate_Ratings": "2024-02-25T12:59:21.6119245+00:00",
+  "LastUpdate_Ratings": "2024-02-25T14:01:22.7737934+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:42.7031661+00:00"
 }
