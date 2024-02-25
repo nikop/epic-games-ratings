@@ -655,9 +655,9 @@ Completed: 2 (0.00%) (Ranked 418)
 | 2024-01-27 | 506,408 | 2 |
 | 2024-02-22 | 520,312 | 2 |
 ## Awards
-Max (Educational): 8,350  (Ranked 52)  
+Max (Educational): 8,350  (Ranked 53)  
 Sum: 68,986 (Ranked 26)  
-Diff (max vs sum): 26  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 8,350 |
