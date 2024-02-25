@@ -5,8 +5,8 @@ Rating: 4.68 (Ranked 273)
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 132  (Ranked 358)  
-Sum: 132 (Ranked 469)  
-Diff (max vs sum): -111  
+Sum: 132 (Ranked 470)  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 181 |
