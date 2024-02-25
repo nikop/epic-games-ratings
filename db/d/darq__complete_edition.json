@@ -3,8 +3,8 @@
   "Name": "DARQ: Complete Edition",
   "ProductSlug": "darq-complete-edition",
   "Ranking_Rating": 729,
-  "Ranking_Popularity": 605,
-  "Ranking_PopularitySum": 605,
+  "Ranking_Popularity": 604,
+  "Ranking_PopularitySum": 604,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -437,6 +437,6 @@
   "FirstSeen": "2022-07-22T20:18:45.2388208+00:00",
   "LastChanged": "2023-06-01T22:00:27.9618196+00:00",
   "LastUpdate_AppInfo": "2024-02-25T07:57:26.5542811+00:00",
-  "LastUpdate_Ratings": "2024-02-25T18:00:32.6122944+00:00",
+  "LastUpdate_Ratings": "2024-02-25T19:58:00.8904086+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:13.6015388+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 709,
-  "Ranking_Popularity": 605,
-  "Ranking_PopularitySum": 605,
+  "Ranking_Popularity": 604,
+  "Ranking_PopularitySum": 604,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -623,6 +623,6 @@
   "LastChanged": "2024-02-18T19:58:53.6843106+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:38.3679471+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:00.2797563+00:00",
-  "LastUpdate_Ratings": "2024-02-25T18:58:15.1378912+00:00",
+  "LastUpdate_Ratings": "2024-02-25T19:58:40.1119119+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:38.3679493+00:00"
 }

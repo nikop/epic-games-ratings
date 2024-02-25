@@ -3,13 +3,13 @@
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
 Rating: 3.94 (Ranked 1,095)  
 ## Awards
-Max (Competitive Players): 33  (Ranked 528)  
-Sum: 189 (Ranked 440)  
+Max (Highly Recommended): 33  (Ranked 527)  
+Sum: 192 (Ranked 439)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 33 |
 | This game has Competitive Players | 33 |
-| This game is Highly Recommended | 30 |
 | This game has Amazing Storytelling | 29 |
 | This game is Relaxing | 28 |
 | This game has Amazing Characters | 28 |
