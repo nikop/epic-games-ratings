@@ -2,7 +2,7 @@
   "ID": "fa234e40c4d44dfa84fbcb302fef0233",
   "Name": "City of Brass",
   "ProductSlug": "city-of-brass",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 859,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "NumberOfRatings": 227,
   "RatingHistory": [
     {
@@ -456,6 +456,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-25T16:59:20.2084015+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -473,8 +479,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:59.0353728+00:00",
-  "LastChanged": "2024-02-06T14:57:38.1823203+00:00",
+  "LastChanged": "2024-02-25T16:59:20.2084012+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:57:26.5949025+00:00",
-  "LastUpdate_Ratings": "2024-02-25T15:01:12.6631073+00:00",
+  "LastUpdate_Ratings": "2024-02-25T16:59:20.2084018+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:18.2376185+00:00"
 }
