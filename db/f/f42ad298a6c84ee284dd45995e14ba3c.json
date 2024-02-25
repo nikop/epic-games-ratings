@@ -3,8 +3,8 @@
   "Name": "Raid Shadow Legends",
   "ProductSlug": "raid-shadow-legends-b70e14",
   "Ranking_Rating": 953,
-  "Ranking_Popularity": 431,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 428,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -659,18 +659,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 95,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-02-25T08:00:22.2363234+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95,
-  "NumberOfAwardsMax": 73,
+  "NumberOfAwards": 96,
+  "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Great for Beginners",
@@ -697,8 +703,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T13:57:09.0545259+00:00",
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
-  "LastChanged": "2024-02-23T15:59:02.2390064+00:00",
+  "LastChanged": "2024-02-25T08:00:22.2363232+00:00",
   "LastUpdate_AppInfo": "2024-02-23T02:12:00.1235784+00:00",
-  "LastUpdate_Ratings": "2024-02-25T06:59:31.3688635+00:00",
+  "LastUpdate_Ratings": "2024-02-25T08:00:22.2363239+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:16.2726453+00:00"
 }
