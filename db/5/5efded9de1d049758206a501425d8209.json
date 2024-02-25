@@ -4,7 +4,7 @@
   "ProductSlug": "raini-the-lords-of-light-eaeed0",
   "Ranking_Rating": 71,
   "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -167,10 +167,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 129,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-02-25T10:00:01.589071+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 129,
+  "NumberOfAwards": 130,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -208,7 +214,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -223,8 +229,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-24T03:57:18.8590918+00:00",
   "FirstSeenRating": "2023-08-17T14:58:23.8866793+00:00",
-  "LastChanged": "2024-02-24T16:57:46.1300891+00:00",
+  "LastChanged": "2024-02-25T10:00:01.5890708+00:00",
   "LastUpdate_AppInfo": "2024-02-24T20:57:18.1777731+00:00",
-  "LastUpdate_Ratings": "2024-02-25T08:58:44.2665575+00:00",
+  "LastUpdate_Ratings": "2024-02-25T10:00:01.5890714+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:30.4604893+00:00"
 }
