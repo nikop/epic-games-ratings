@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 973,
+  "Ranking_Rating": 981,
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 61,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-09-29T19:00:17.3026687+00:00",
@@ -523,6 +523,12 @@
     {
       "Time": "2024-02-24T02:57:46.4775035+00:00",
       "Rating": 4.22,
+      "NumberOfAwards": 92,
+      "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-02-25T02:58:59.8003675+00:00",
+      "Rating": 4.21,
       "NumberOfAwards": 92,
       "NumberOfAwardsMax": 92
     }
@@ -15293,9 +15299,9 @@
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2024-02-24T02:57:46.4775033+00:00",
+  "LastChanged": "2024-02-25T02:58:59.8003673+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:47.1708385+00:00",
   "LastUpdate_AppInfo": "2024-02-23T03:57:26.1644047+00:00",
-  "LastUpdate_Ratings": "2024-02-25T02:15:33.2359024+00:00",
+  "LastUpdate_Ratings": "2024-02-25T02:58:59.8003679+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:47.1709121+00:00"
 }
