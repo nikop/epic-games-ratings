@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 152,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -2202,10 +2202,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 488,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-02-25T20:57:14.3522441+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 535,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 488,
+  "NumberOfAwards": 535,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -2237,7 +2243,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2249,7 +2255,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 59
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2261,7 +2267,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 41
+      "Count": 44
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2287,8 +2293,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-02-25T17:57:52.3527758+00:00",
+  "LastChanged": "2024-02-25T20:57:14.352244+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:13.9616974+00:00",
-  "LastUpdate_Ratings": "2024-02-25T19:00:07.7088619+00:00",
+  "LastUpdate_Ratings": "2024-02-25T20:57:14.3522445+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:47.4773258+00:00"
 }

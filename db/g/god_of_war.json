@@ -4,7 +4,7 @@
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 21,
   "Ranking_Popularity": 82,
-  "Ranking_PopularitySum": 103,
+  "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -5973,10 +5973,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 10119,
       "NumberOfAwardsMax": 5288
+    },
+    {
+      "Time": "2024-02-25T20:59:16.7373732+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 10320,
+      "NumberOfAwardsMax": 5288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10119,
+  "NumberOfAwards": 10320,
   "NumberOfAwardsMax": 5288,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6038,7 +6044,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 193
+      "Count": 201
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6082,8 +6088,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-02-25T09:59:26.6641372+00:00",
+  "LastChanged": "2024-02-25T20:59:16.737373+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:31.1688797+00:00",
-  "LastUpdate_Ratings": "2024-02-25T19:57:07.7288048+00:00",
+  "LastUpdate_Ratings": "2024-02-25T20:59:16.7373736+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:19.7065313+00:00"
 }
