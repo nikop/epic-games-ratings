@@ -2,9 +2,9 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 393,
+  "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 102,
@@ -937,10 +937,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 305,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-02-25T14:58:38.0360411+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 328,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 305,
+  "NumberOfAwards": 328,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -966,7 +972,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -978,7 +984,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1003,6 +1009,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 7306,
@@ -12233,9 +12245,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-02-22T20:57:26.4862145+00:00",
+  "LastChanged": "2024-02-25T14:58:38.0360409+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:25.9740504+00:00",
   "LastUpdate_AppInfo": "2024-02-25T08:57:09.8947911+00:00",
-  "LastUpdate_Ratings": "2024-02-25T13:00:47.792932+00:00",
+  "LastUpdate_Ratings": "2024-02-25T14:58:38.0360413+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:25.9741416+00:00"
 }
