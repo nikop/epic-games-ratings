@@ -4,7 +4,7 @@
   "ProductSlug": "lego-batman",
   "Ranking_Rating": 592,
   "Ranking_Popularity": 307,
-  "Ranking_PopularitySum": 428,
+  "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -790,6 +790,6 @@
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
   "LastChanged": "2024-02-04T04:59:46.3524903+00:00",
   "LastUpdate_AppInfo": "2024-02-24T22:57:19.420952+00:00",
-  "LastUpdate_Ratings": "2024-02-26T08:59:45.6614341+00:00",
+  "LastUpdate_Ratings": "2024-02-26T10:58:20.7304168+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:16.9017485+00:00"
 }
