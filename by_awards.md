@@ -19,7 +19,7 @@
 | 17 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 34,870 | 4.73 | 183 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,796 | 4.64 | 351 |
 | 19 | [Dauntless](games/d/dauntless.md) | 27,137 | 4.53 | 580 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 25,031 | 4.89 | 12 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 25,069 | 4.89 | 12 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 22,831 | 4.57 | 507 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,617 | 4.26 | 941 |
 | 23 | [Warframe](games/w/warframe.md) | 21,750 | 4.61 | 405 |
@@ -38,8 +38,8 @@
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,990 | 4.69 | 245 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 11,893 | 4.77 | 125 |
 | 38 | [NBA 2K21](games/n/nba_2k21.md) | 11,838 | 4.39 | 803 |
-| 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,802 | 4.54 | 562 |
-| 40 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,062 | 4.61 | 405 |
+| 39 | [Dead Island 2](games/d/dead_island_2.md) | 11,823 | 4.54 | 562 |
+| 40 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,067 | 4.61 | 405 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 11,056 | 4.58 | 477 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 10,741 | 4.77 | 125 |
 | 43 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 10,577 | 4.50 | 629 |
@@ -161,7 +161,7 @@
 | 159 | [Train Valley 2](games/t/train_valley_2.md) | 1,114 | 4.46 | 692 |
 | 160 | [Torchlight II](games/t/torchlight_ii.md) | 1,103 | 4.59 | 459 |
 | 161 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,085 | 4.40 | 790 |
-| 162 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,075 | 4.74 | 169 |
+| 162 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,077 | 4.74 | 169 |
 | 163 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,067 | 4.51 | 609 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,058 | 4.62 | 389 |
 | 165 | [Ooblets](games/o/ooblets.md) | 1,055 | 4.88 | 16 |
@@ -280,7 +280,7 @@
 | 278 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 286 | 4.83 | 57 |
 | 279 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 283 | 4.83 | 57 |
 | 279 | [Sheltered](games/s/sheltered.md) | 283 | 4.41 | 774 |
-| 281 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 281 | 4.48 | 666 |
+| 281 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 281 | 4.48 | 667 |
 | 282 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 279 | 4.78 | 112 |
 | 283 | [Roller Champions™](games/r/roller_champions™.md) | 277 | 4.34 | 864 |
 | 284 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 276 | 4.58 | 477 |
@@ -443,7 +443,7 @@
 | 440 | [Symphony of War](games/s/symphony_of_war.md) | 69 | 4.65 | 329 |
 | 442 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 68 | 4.21 | 982 |
 | 443 | [Art of Rally](games/a/art_of_rally_1.md) | 67 | 4.63 | 368 |
-| 444 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.48 | 666 |
+| 444 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.48 | 667 |
 | 445 | [Heavy Rain](games/h/heavy_rain.md) | 64 | 4.58 | 477 |
 | 445 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 64 | 4.82 | 71 |
 | 447 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 63 | 4.44 | 728 |
@@ -459,7 +459,7 @@
 | 455 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.43 | 749 |
 | 458 | [Hell is Others](games/h/hell_is_others.md) | 58 | 4.39 | 803 |
 | 458 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 58 | 4.65 | 329 |
-| 460 | [Forspoken](games/f/forspoken.md) | 56 | 4.17 | 1,015 |
+| 460 | [Forspoken](games/f/forspoken.md) | 57 | 4.17 | 1,015 |
 | 461 | [The Escapists 2](games/t/the_escapists_2.md) | 55 | 4.58 | 477 |
 | 462 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 54 | 4.64 | 351 |
 | 462 | [ATOM RPG](games/a/atom_rpg.md) | 54 | 4.51 | 609 |
@@ -515,11 +515,11 @@
 | 512 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 37 | 4.55 | 545 |
 | 512 | [MythForce](games/m/mythforce.md) | 37 | 4.47 | 680 |
 | 512 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 37 | 3.96 | 1,087 |
-| 512 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 37 | 4.48 | 666 |
+| 512 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 37 | 4.48 | 667 |
 | 517 | [Outward Definitive Edition](games/o/outward.md) | 36 | 4.55 | 545 |
 | 517 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 36 | 4.63 | 368 |
 | 519 | [Chimeraland](games/c/chimeraland.md) | 35 | 3.90 | 1,103 |
-| 519 | [Chorus](games/c/chorus.md) | 35 | 4.48 | 666 |
+| 519 | [Chorus](games/c/chorus.md) | 35 | 4.48 | 667 |
 | 519 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 35 | 4.63 | 368 |
 | 519 | [DOOM (1993)](games/d/doom_(1993).md) | 35 | 4.83 | 57 |
 | 519 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 204 |
@@ -596,7 +596,7 @@
 | 586 | [Sail Forth](games/s/sail_forth.md) | 22 | 4.41 | 774 |
 | 595 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 368 |
 | 595 | [Aztez](games/a/aztez.md) | 21 | 4.54 | 562 |
-| 595 | [Figment](games/f/figment.md) | 21 | 4.48 | 666 |
+| 595 | [Figment](games/f/figment.md) | 21 | 4.48 | 667 |
 | 595 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.65 | 329 |
 | 599 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 20 | 4.30 | 899 |
 | 599 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 20 | 4.66 | 307 |
