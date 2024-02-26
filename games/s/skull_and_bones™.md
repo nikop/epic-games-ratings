@@ -1,7 +1,7 @@
 # SKULL AND BONES™
 [Store](https://store.epicgames.com/en-US/p/skull-and-bones)  
 [View Rawdata](../../db/s/skull_and_bones™.json)  
-Rating: 4.17 (Ranked 1,014)  
+Rating: 4.17 (Ranked 1,015)  
 ## Awards
 Max (Great Boss Battles): 982  (Ranked 175)  
 Sum: 1,277 (Ranked 265)  
