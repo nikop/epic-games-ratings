@@ -5,8 +5,8 @@ Rating: 4.79 (Ranked 103)
 Number of Ratings: 1,209  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 174  (Ranked 327)  
-Sum: 1,376 (Ranked 262)  
-Diff (max vs sum): 65  
+Sum: 1,376 (Ranked 263)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 174 |

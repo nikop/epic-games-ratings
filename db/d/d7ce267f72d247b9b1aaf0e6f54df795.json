@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 112,
   "Ranking_Popularity": 427,
-  "Ranking_PopularitySum": 442,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -449,10 +449,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 188,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2024-02-26T22:00:45.265166+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 188,
+  "NumberOfAwards": 208,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -491,6 +497,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -505,8 +517,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-02-25T17:57:45.3349511+00:00",
+  "LastChanged": "2024-02-26T22:00:45.265166+00:00",
   "LastUpdate_AppInfo": "2024-02-21T15:57:00.6773174+00:00",
-  "LastUpdate_Ratings": "2024-02-26T20:59:25.8866581+00:00",
+  "LastUpdate_Ratings": "2024-02-26T22:00:45.2651663+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:47.7060693+00:00"
 }
