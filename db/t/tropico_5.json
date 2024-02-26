@@ -2,7 +2,7 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "ProductSlug": "tropico-5",
-  "Ranking_Rating": 709,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 859,
@@ -2292,10 +2292,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1003,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2024-02-26T02:59:31.5108674+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1004,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1003,
+  "NumberOfAwards": 1004,
   "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2303,7 +2309,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2377,8 +2383,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2024-02-24T21:00:06.9010522+00:00",
+  "LastChanged": "2024-02-26T02:59:31.5108672+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:12.0097556+00:00",
-  "LastUpdate_Ratings": "2024-02-26T02:15:24.508403+00:00",
+  "LastUpdate_Ratings": "2024-02-26T02:59:31.5108676+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:07.7493472+00:00"
 }
