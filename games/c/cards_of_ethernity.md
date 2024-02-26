@@ -1,5 +1,5 @@
 # Aether TCG
-[Store](https://store.epicgames.com/en-US/p/cards-of-ethernity-420f51)  
+[Store](https://store.epicgames.com/en-US/p/aether-trading-card-game-420f51)  
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
 Rating: 4.62 (Ranked 389)  
 ## Ratings History
