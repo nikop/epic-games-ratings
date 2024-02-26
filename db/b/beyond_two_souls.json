@@ -2,7 +2,7 @@
   "ID": "lavender",
   "Name": "Beyond Two Souls",
   "ProductSlug": "beyond-two-souls",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 348,
   "RatingHistory": [
     {
@@ -559,6 +559,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 73,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-02-26T22:58:15.7269483+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
@@ -584,8 +590,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2024-02-17T22:58:11.3497129+00:00",
+  "LastChanged": "2024-02-26T22:58:15.7269481+00:00",
   "LastUpdate_AppInfo": "2024-02-25T09:57:11.795028+00:00",
-  "LastUpdate_Ratings": "2024-02-26T21:00:33.8919226+00:00",
+  "LastUpdate_Ratings": "2024-02-26T22:58:15.7269487+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:03.9480306+00:00"
 }
