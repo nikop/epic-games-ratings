@@ -2,7 +2,7 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 39,
+  "Ranking_Rating": 29,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 169,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.85,
+  "Rating": 4.86,
   "RatingHistory": [
     {
       "Time": "2023-02-17T04:58:03.9003744+00:00",
@@ -335,6 +335,12 @@
     {
       "Time": "2024-02-20T11:57:38.0855406+00:00",
       "Rating": 4.85,
+      "NumberOfAwards": 48,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-02-26T12:59:16.9437295+00:00",
+      "Rating": 4.86,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 48
     }
@@ -14062,9 +14068,9 @@
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
-  "LastChanged": "2024-02-20T11:57:38.0855405+00:00",
+  "LastChanged": "2024-02-26T12:59:16.9437293+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:26.2750274+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:09.3824579+00:00",
-  "LastUpdate_Ratings": "2024-02-26T11:01:00.7943145+00:00",
+  "LastUpdate_Ratings": "2024-02-26T12:59:16.9437301+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:26.2751573+00:00"
 }
