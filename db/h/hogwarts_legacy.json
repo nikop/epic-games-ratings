@@ -3,7 +3,7 @@
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
   "Ranking_Rating": 152,
-  "Ranking_Popularity": 17,
+  "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 305,
@@ -15625,18 +15625,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 74497,
       "NumberOfAwardsMax": 34848
+    },
+    {
+      "Time": "2024-02-26T02:17:51.7829363+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 74586,
+      "NumberOfAwardsMax": 34937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 74497,
-  "NumberOfAwardsMax": 34848,
+  "NumberOfAwards": 74586,
+  "NumberOfAwardsMax": 34937,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 34848
+      "Count": 34937
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -46807,9 +46813,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-02-25T23:57:20.0072369+00:00",
+  "LastChanged": "2024-02-26T02:17:51.7829351+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:02.6800467+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:57:25.1987472+00:00",
-  "LastUpdate_Ratings": "2024-02-26T01:40:28.628498+00:00",
+  "LastUpdate_Ratings": "2024-02-26T02:17:51.7829368+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:02.6802065+00:00"
 }
