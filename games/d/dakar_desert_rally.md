@@ -1,19 +1,19 @@
 # Dakar Desert Rally
 [Store](https://store.epicgames.com/en-US/p/dakar-desert-rally)  
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
-Rating: 3.94 (Ranked 1,095)  
+Rating: 3.95 (Ranked 1,092)  
 ## Awards
 Max (Competitive Players): 34  (Ranked 524)  
-Sum: 183 (Ranked 443)  
-Diff (max vs sum): 81  
+Sum: 188 (Ranked 441)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 34 |
 | This game is Highly Recommended | 33 |
+| This game is Relaxing | 33 |
 | This game has Quickly Understood Controls | 32 |
 | This game has Amazing Characters | 30 |
 | This game has Amazing Storytelling | 29 |
-| This game is Relaxing | 28 |
 | This game is Extremely Fun | 26 |
 | This game has Realistic Visuals | 24 |
 | This game has a Competitive Community | 21 |
@@ -109,4 +109,4 @@ Diff (max vs sum): 81
 | 2024-02-23 | 3.96 | 27 | 188 |
 | 2024-02-24 | 3.97 | 30 | 213 |
 | 2024-02-25 | 3.96 | 33 | 218 |
-| 2024-02-26 | 3.94 | 34 | 183 |
+| 2024-02-26 | 3.95 | 34 | 188 |

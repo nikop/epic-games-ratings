@@ -1,7 +1,7 @@
 # Sonic Colors: Ultimate
 [Store](https://store.epicgames.com/en-US/p/sonic-colors-ultimate)  
 [View Rawdata](../../db/s/sonic_colors__ultimate.json)  
-Rating: 4.38 (Ranked 818)  
+Rating: 4.37 (Ranked 827)  
 Number of Ratings: 179  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 74  (Ranked 427)  
@@ -84,3 +84,4 @@ Diff (max vs sum): -81
 | 2024-01-12 | 4.40 | - | 74 | 74 |
 | 2024-02-01 | 4.39 | - | 74 | 74 |
 | 2024-02-13 | 4.38 | - | 74 | 74 |
+| 2024-02-26 | 4.37 | - | 74 | 74 |
