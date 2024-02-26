@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-5",
   "Ranking_Rating": 708,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -2298,10 +2298,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1004,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2024-02-26T17:58:31.0276604+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1005,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1004,
+  "NumberOfAwards": 1005,
   "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2327,7 +2333,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2383,8 +2389,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2024-02-26T02:59:31.5108672+00:00",
+  "LastChanged": "2024-02-26T17:58:31.0276602+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:12.0097556+00:00",
-  "LastUpdate_Ratings": "2024-02-26T16:57:27.4691572+00:00",
+  "LastUpdate_Ratings": "2024-02-26T17:58:31.027661+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:07.7493472+00:00"
 }
