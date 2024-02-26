@@ -3,7 +3,7 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 71,
-  "Ranking_Popularity": 143,
+  "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -12225,11 +12225,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 11331,
       "NumberOfAwardsMax": 1484
+    },
+    {
+      "Time": "2024-02-26T20:59:32.5093114+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11338,
+      "NumberOfAwardsMax": 1491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11331,
-  "NumberOfAwardsMax": 1484,
+  "NumberOfAwards": 11338,
+  "NumberOfAwardsMax": 1491,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12254,7 +12260,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1484
+      "Count": 1491
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12316,8 +12322,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-02-26T17:59:41.9102388+00:00",
+  "LastChanged": "2024-02-26T20:59:32.5093113+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:14.0451337+00:00",
-  "LastUpdate_Ratings": "2024-02-26T19:57:25.8913123+00:00",
+  "LastUpdate_Ratings": "2024-02-26T20:59:32.5093119+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:21.9558321+00:00"
 }
