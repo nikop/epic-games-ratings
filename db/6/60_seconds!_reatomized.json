@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 604,
   "Ranking_PopularitySum": 604,
   "Ranking_EOS_Progress": 184,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2023-03-12T08:56:56.6667632+00:00",
@@ -373,6 +373,12 @@
     {
       "Time": "2024-02-17T19:57:06.1985689+00:00",
       "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-27T19:59:02.6597951+00:00",
+      "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -11558,9 +11564,9 @@
   "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
-  "LastChanged": "2024-02-17T19:57:06.1985687+00:00",
+  "LastChanged": "2024-02-27T19:59:02.6597949+00:00",
   "LastChanged_Achievements": "2024-02-22T21:03:57.7383153+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:01.7327184+00:00",
-  "LastUpdate_Ratings": "2024-02-27T18:57:22.8877501+00:00",
+  "LastUpdate_Ratings": "2024-02-27T19:59:02.6597954+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:57.7384018+00:00"
 }
