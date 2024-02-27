@@ -112,7 +112,7 @@
 | 103 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 426 | 242 |
 | 103 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 604 |
 | 112 | [Aground](games/a/aground.md) | 4.78 | 0 | 604 |
-| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,770 | 45 |
+| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,781 | 45 |
 | 112 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 906 | 183 |
 | 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 284 | 279 |
 | 112 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.78 | 74 | 427 |
@@ -158,7 +158,7 @@
 | 152 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.75 | 0 | 604 |
 | 152 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 997 | 175 |
 | 152 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,488 | 143 |
-| 152 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.75 | 34,937 | 17 |
+| 152 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.75 | 34,982 | 17 |
 | 152 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 604 |
 | 152 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 604 |
 | 152 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 964 | 177 |
@@ -462,7 +462,7 @@
 | 459 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 604 |
 | 459 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 604 |
 | 459 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 838 | 188 |
-| 459 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,401 | 81 |
+| 459 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,406 | 81 |
 | 459 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 15,292 | 28 |
 | 459 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.59 | 0 | 604 |
 | 459 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 42 | 495 |
@@ -699,7 +699,7 @@
 | 692 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 604 |
 | 692 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,127 | 155 |
 | 692 | [Metalstorm](games/m/metalstorm.md) | 4.46 | 0 | 604 |
-| 692 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 736,812 | 2 |
+| 692 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 737,949 | 2 |
 | 692 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 604 |
 | 692 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 604 |
 | 692 | [Scorn](games/s/scorn.md) | 4.46 | 0 | 604 |
@@ -862,7 +862,7 @@
 | 851 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 604 |
 | 851 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 52 | 472 |
 | 851 | [Torchlight](games/t/torchlight.md) | 4.35 | 25 | 573 |
-| 851 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 493 | 231 |
+| 851 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 496 | 229 |
 | 864 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 604 |
 | 864 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 559 |
 | 864 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 604 |
@@ -1107,7 +1107,7 @@
 | 1,104 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.89 | 0 | 604 |
 | 1,104 | [Saints Row](games/s/saints_row.md) | 3.89 | 1,190 | 153 |
 | 1,104 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.89 | 0 | 604 |
-| 1,104 | [Warface: Clutch](games/w/warface.md) | 3.89 | 495 | 230 |
+| 1,104 | [Warface: Clutch](games/w/warface.md) | 3.89 | 495 | 231 |
 | 1,109 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 0 | 604 |
 | 1,110 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 604 |
 | 1,110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.86 | 0 | 604 |
