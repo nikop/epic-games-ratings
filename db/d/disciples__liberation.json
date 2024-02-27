@@ -2,7 +2,7 @@
   "ID": "ff17044fb2804a4aa8066dde0626514d",
   "Name": "Disciples: Liberation",
   "ProductSlug": "disciples-liberation",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 828,
   "Ranking_Popularity": 604,
   "Ranking_PopularitySum": 604,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "NumberOfRatings": 145,
   "RatingHistory": [
     {
@@ -363,6 +363,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-27T14:58:43.9275831+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -387,8 +393,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:00.1531714+00:00",
-  "LastChanged": "2024-01-15T21:57:16.836125+00:00",
+  "LastChanged": "2024-02-27T14:58:43.9275829+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:43.9600725+00:00",
-  "LastUpdate_Ratings": "2024-02-27T13:57:13.9358537+00:00",
+  "LastUpdate_Ratings": "2024-02-27T14:58:43.9275837+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:10.2494941+00:00"
 }

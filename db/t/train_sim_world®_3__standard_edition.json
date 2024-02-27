@@ -2,9 +2,9 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 561,
   "Ranking_Popularity": 249,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -3580,10 +3580,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2701,
       "NumberOfAwardsMax": 399
+    },
+    {
+      "Time": "2024-02-27T15:00:12.3885618+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2702,
+      "NumberOfAwardsMax": 399
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2701,
+  "NumberOfAwards": 2702,
   "NumberOfAwardsMax": 399,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3615,7 +3621,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 243
+      "Count": 244
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3672,8 +3678,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2024-02-27T02:12:04.153553+00:00",
+  "LastChanged": "2024-02-27T15:00:12.3885617+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:39.7400658+00:00",
-  "LastUpdate_Ratings": "2024-02-27T13:59:16.013993+00:00",
+  "LastUpdate_Ratings": "2024-02-27T15:00:12.3885624+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:15.5758688+00:00"
 }
