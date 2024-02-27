@@ -3,7 +3,7 @@
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
   "Ranking_Rating": 790,
-  "Ranking_Popularity": 310,
+  "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -3521,11 +3521,17 @@
       "Rating": 4.4,
       "NumberOfAwards": 1632,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2024-02-27T18:58:07.6877456+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1633,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1632,
-  "NumberOfAwardsMax": 205,
+  "NumberOfAwards": 1633,
+  "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3556,7 +3562,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3612,8 +3618,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2024-02-27T16:59:48.5874387+00:00",
+  "LastChanged": "2024-02-27T18:58:07.6877455+00:00",
   "LastUpdate_AppInfo": "2024-02-25T08:57:11.5962434+00:00",
-  "LastUpdate_Ratings": "2024-02-27T16:59:48.5874392+00:00",
+  "LastUpdate_Ratings": "2024-02-27T18:58:07.687746+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:50.5881134+00:00"
 }
