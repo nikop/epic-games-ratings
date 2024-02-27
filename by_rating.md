@@ -135,7 +135,7 @@
 | 125 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 63 | 447 |
 | 125 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 604 |
 | 125 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 999 | 174 |
-| 125 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 164 | 336 |
+| 125 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 165 | 336 |
 | 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 54 | 462 |
 | 125 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 604 |
 | 125 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 604 |
@@ -203,7 +203,7 @@
 | 198 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 604 |
 | 198 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 604 |
 | 198 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 371 | 252 |
-| 198 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 95 | 401 |
+| 198 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 96 | 399 |
 | 205 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.71 | 0 | 604 |
 | 205 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 604 |
 | 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 589 | 221 |
@@ -754,7 +754,6 @@
 | 748 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.43 | 101 | 389 |
 | 748 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 604 |
 | 748 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 604 |
-| 748 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.43 | 0 | 604 |
 | 748 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,480 | 144 |
 | 748 | [SMITE](games/s/smite.md) | 4.43 | 5,254 | 83 |
 | 748 | [STG Football](games/s/stg_football.md) | 4.43 | 53 | 465 |
@@ -763,16 +762,17 @@
 | 748 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 296 | 274 |
 | 748 | [Warpips](games/w/warpips.md) | 4.43 | 42 | 495 |
 | 748 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 455 |
-| 764 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.42 | 0 | 604 |
-| 764 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.42 | 0 | 604 |
-| 764 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 39 | 505 |
-| 764 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 604 |
-| 764 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 68 |
-| 764 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 604 |
-| 764 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,125 | 156 |
-| 764 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.42 | 0 | 604 |
-| 764 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 154 | 347 |
-| 764 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 79 | 417 |
+| 763 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.42 | 0 | 604 |
+| 763 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.42 | 0 | 604 |
+| 763 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.42 | 0 | 604 |
+| 763 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 39 | 505 |
+| 763 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 604 |
+| 763 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 68 |
+| 763 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 604 |
+| 763 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,125 | 156 |
+| 763 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.42 | 0 | 604 |
+| 763 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 154 | 347 |
+| 763 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 79 | 417 |
 | 774 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.41 | 161 | 339 |
 | 774 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 71 | 435 |
 | 774 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 245 | 289 |
@@ -1010,7 +1010,7 @@
 | 1,008 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 604 |
 | 1,008 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 604 |
 | 1,008 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,376 | 105 |
-| 1,008 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 222,379 | 6 |
+| 1,008 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 222,464 | 6 |
 | 1,008 | [Nightingale](games/n/nightingale.md) | 4.18 | 0 | 604 |
 | 1,008 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 399 |
 | 1,008 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.18 | 0 | 604 |
