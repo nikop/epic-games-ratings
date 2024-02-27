@@ -11,7 +11,7 @@
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 20 | 600 |
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,041 | 124 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 604 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 9,794 | 44 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 9,808 | 44 |
 | 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 604 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 496 | 229 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 25,069 | 20 |
@@ -93,7 +93,7 @@
 | 80 | [The Messenger](games/t/the_messenger.md) | 4.81 | 357 | 257 |
 | 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 537 |
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 604 |
-| 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 917 | 180 |
+| 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 917 | 181 |
 | 94 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,513 | 70 |
 | 94 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.80 | 31 | 537 |
 | 94 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.80 | 903 | 184 |
@@ -249,7 +249,7 @@
 | 245 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 604 |
 | 245 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 604 |
 | 245 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 361 |
-| 245 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,210 | 54 |
+| 245 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,212 | 54 |
 | 245 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,363 | 53 |
 | 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,010 | 55 |
 | 245 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,988 | 48 |
@@ -278,7 +278,7 @@
 | 273 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.68 | 0 | 604 |
 | 273 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 153,319 | 8 |
 | 273 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,410 | 92 |
-| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 917 | 180 |
+| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 918 | 180 |
 | 273 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 331,032 | 3 |
 | 273 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.68 | 0 | 604 |
 | 273 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 604 |
@@ -710,7 +710,7 @@
 | 708 | [9Lives Arena](games/9/9lives_arena.md) | 4.45 | 29 | 550 |
 | 708 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 0 | 604 |
 | 708 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 270 | 285 |
-| 708 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 67,863 | 11 |
+| 708 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 67,959 | 11 |
 | 708 | [ELEX](games/e/elex.md) | 4.45 | 26 | 564 |
 | 708 | [Escape Academy](games/e/escape_academy.md) | 4.45 | 0 | 604 |
 | 708 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 604 |
@@ -718,7 +718,7 @@
 | 708 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,479 | 34 |
 | 708 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 604 |
 | 708 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 47 | 485 |
-| 708 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.45 | 92 | 406 |
+| 708 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.45 | 93 | 405 |
 | 708 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 604 |
 | 708 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 919 | 179 |
 | 708 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 604 |
@@ -1002,18 +1002,18 @@
 | 991 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.20 | 0 | 604 |
 | 1,001 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 477 |
 | 1,001 | [Gone Home](games/g/gone_home.md) | 4.19 | 0 | 604 |
+| 1,001 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,376 | 105 |
 | 1,001 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 416 |
 | 1,001 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 604 |
 | 1,001 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 604 |
 | 1,001 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 604 |
 | 1,001 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 604 |
-| 1,008 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 604 |
-| 1,008 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 604 |
-| 1,008 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,376 | 105 |
-| 1,008 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 222,464 | 6 |
-| 1,008 | [Nightingale](games/n/nightingale.md) | 4.18 | 0 | 604 |
-| 1,008 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 399 |
-| 1,008 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.18 | 0 | 604 |
+| 1,009 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 604 |
+| 1,009 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 604 |
+| 1,009 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 222,464 | 6 |
+| 1,009 | [Nightingale](games/n/nightingale.md) | 4.18 | 0 | 604 |
+| 1,009 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 399 |
+| 1,009 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.18 | 0 | 604 |
 | 1,015 | [Forspoken](games/f/forspoken.md) | 4.17 | 57 | 460 |
 | 1,015 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 99 | 392 |
 | 1,015 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 604 |
