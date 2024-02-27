@@ -4,7 +4,7 @@
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 305,
   "Ranking_Popularity": 190,
-  "Ranking_PopularitySum": 150,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -9454,10 +9454,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 5621,
       "NumberOfAwardsMax": 824
+    },
+    {
+      "Time": "2024-02-27T17:57:56.0864937+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 5624,
+      "NumberOfAwardsMax": 824
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5621,
+  "NumberOfAwards": 5624,
   "NumberOfAwardsMax": 824,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9477,13 +9483,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 711
+      "Count": 713
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 746
+      "Count": 747
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9533,8 +9539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2024-02-27T14:58:58.3688766+00:00",
+  "LastChanged": "2024-02-27T17:57:56.0864936+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:53.731647+00:00",
-  "LastUpdate_Ratings": "2024-02-27T16:00:53.9404753+00:00",
+  "LastUpdate_Ratings": "2024-02-27T17:57:56.0864941+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:12.2450148+00:00"
 }

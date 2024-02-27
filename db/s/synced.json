@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 1051,
   "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 25,
@@ -2137,10 +2137,16 @@
       "Rating": 4.11,
       "NumberOfAwards": 613,
       "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2024-02-27T17:57:55.1910267+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 617,
+      "NumberOfAwardsMax": 160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 613,
+  "NumberOfAwards": 617,
   "NumberOfAwardsMax": 160,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2160,7 +2166,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2178,7 +2184,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 62
+      "Count": 64
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2202,7 +2208,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 75
+      "Count": 76
     }
   ],
   "EOS_Progressed": 90705,
@@ -18801,9 +18807,9 @@
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-02-27T16:00:52.8597213+00:00",
+  "LastChanged": "2024-02-27T17:57:55.1910265+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:26.6316904+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:50.5807817+00:00",
-  "LastUpdate_Ratings": "2024-02-27T16:00:52.8597219+00:00",
+  "LastUpdate_Ratings": "2024-02-27T17:57:55.1910271+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:26.6317544+00:00"
 }
