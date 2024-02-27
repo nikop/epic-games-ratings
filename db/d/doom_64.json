@@ -2,9 +2,9 @@
   "ID": "0ea70edafcc54b3191e262bbb6971981",
   "Name": "DOOM 64",
   "ProductSlug": "doom-64",
-  "Ranking_Rating": 305,
+  "Ranking_Rating": 306,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -1317,6 +1317,6 @@
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
   "LastChanged": "2024-02-20T14:58:33.9755889+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:57:23.3931236+00:00",
-  "LastUpdate_Ratings": "2024-02-27T20:57:18.3198791+00:00",
+  "LastUpdate_Ratings": "2024-02-27T21:59:00.0153905+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:12.5479727+00:00"
 }
