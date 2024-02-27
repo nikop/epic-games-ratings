@@ -2,7 +2,7 @@
   "ID": "0c05e0889c3e42a4be1d81077d6e653a",
   "Name": "SKULL AND BONES\u2122",
   "ProductSlug": "skull-and-bones",
-  "Ranking_Rating": 1019,
+  "Ranking_Rating": 1020,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 859,
@@ -419,6 +419,6 @@
   "FirstSeenRating": "2024-02-16T20:00:02.6134347+00:00",
   "LastChanged": "2024-02-26T21:58:43.7256273+00:00",
   "LastUpdate_AppInfo": "2024-02-25T08:57:06.4732761+00:00",
-  "LastUpdate_Ratings": "2024-02-27T04:58:13.4767329+00:00",
+  "LastUpdate_Ratings": "2024-02-27T05:59:10.1209224+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:14.387702+00:00"
 }
