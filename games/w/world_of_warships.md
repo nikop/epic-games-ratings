@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 418)
 | 2024-01-27 | 98,703 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,877  (Ranked 131)  
-Sum: 15,756 (Ranked 77)  
+Sum: 15,762 (Ranked 77)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -232,8 +232,8 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 1,818 |
 | This game has Competitive Players | 1,812 |
 | This game has Realistic Visuals | 1,662 |
-| This game has Amazing Storytelling | 1,552 |
-| This game has a Competitive Community | 1,491 |
+| This game has Amazing Storytelling | 1,555 |
+| This game has a Competitive Community | 1,494 |
 | This game has Amazing Characters | 1,399 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
