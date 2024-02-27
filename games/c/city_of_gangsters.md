@@ -371,12 +371,12 @@ Completed: 7 (0.00%) (Ranked 418)
 | 2024-01-27 | 363,840 | 7 |
 ## Awards
 Max (Great for Beginners): 61  (Ranked 452)  
-Sum: 291 (Ranked 402)  
+Sum: 292 (Ranked 402)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 61 |
-| This game has Diverse Characters | 41 |
+| This game has Diverse Characters | 42 |
 | This game is Highly Recommended | 40 |
 | This game is Extremely Fun | 36 |
 | This game is Relaxing | 35 |
@@ -541,3 +541,4 @@ Diff (max vs sum): 50
 | 2024-02-23 | 4.29 | 60 | 289 |
 | 2024-02-24 | 4.29 | 61 | 290 |
 | 2024-02-25 | 4.29 | 61 | 291 |
+| 2024-02-27 | 4.29 | 61 | 292 |

@@ -266,7 +266,7 @@ Completed: 37 (0.01%) (Ranked 394)
 | 2024-02-22 | 464,868 | 37 |
 ## Awards
 Max (Highly Recommended): 67  (Ranked 443)  
-Sum: 452 (Ranked 363)  
+Sum: 453 (Ranked 363)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): 80
 | This game is Relaxing | 55 |
 | This game is Extremely Fun | 54 |
 | This game has Amazing Storytelling | 49 |
-| This game has Competitive Players | 36 |
+| This game has Competitive Players | 37 |
 | This game has a Competitive Community | 36 |
 | This game has Amazing Characters | 35 |
 | This game is Great for Beginners | 28 |
@@ -384,3 +384,4 @@ Diff (max vs sum): 80
 | 2024-02-24 | 4.63 | - | 67 | 449 |
 | 2024-02-25 | 4.63 | - | 67 | 450 |
 | 2024-02-26 | 4.63 | - | 67 | 452 |
+| 2024-02-27 | 4.63 | - | 67 | 453 |

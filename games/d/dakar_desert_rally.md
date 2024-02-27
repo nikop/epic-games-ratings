@@ -1,11 +1,11 @@
 # Dakar Desert Rally
 [Store](https://store.epicgames.com/en-US/p/dakar-desert-rally)  
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
-Rating: 3.96 (Ranked 1,087)  
+Rating: 3.95 (Ranked 1,092)  
 ## Awards
 Max (Competitive Players): 34  (Ranked 524)  
-Sum: 220 (Ranked 426)  
-Diff (max vs sum): 98  
+Sum: 190 (Ranked 441)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 34 |
@@ -110,3 +110,4 @@ Diff (max vs sum): 98
 | 2024-02-24 | 3.97 | 30 | 213 |
 | 2024-02-25 | 3.96 | 33 | 218 |
 | 2024-02-26 | 3.96 | 34 | 220 |
+| 2024-02-27 | 3.95 | 34 | 190 |
