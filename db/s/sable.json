@@ -4,7 +4,7 @@
   "ProductSlug": "sable",
   "Ranking_Rating": 561,
   "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 444,
+  "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 234,
@@ -33679,6 +33679,6 @@
   "LastChanged": "2024-02-26T15:58:54.2589136+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.8705545+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:24.1392852+00:00",
-  "LastUpdate_Ratings": "2024-02-27T19:00:28.9298523+00:00",
+  "LastUpdate_Ratings": "2024-02-27T20:57:28.8607285+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.8707038+00:00"
 }

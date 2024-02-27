@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 329,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 86,
@@ -1699,10 +1699,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 800,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-02-27T20:58:43.9635055+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 801,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 800,
+  "NumberOfAwards": 801,
   "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1722,7 +1728,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game is Highly Recommended",
@@ -17829,9 +17835,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-02-20T20:57:59.0970542+00:00",
+  "LastChanged": "2024-02-27T20:58:43.9635054+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:22.1515862+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:43.5554062+00:00",
-  "LastUpdate_Ratings": "2024-02-27T19:58:17.0844692+00:00",
+  "LastUpdate_Ratings": "2024-02-27T20:58:43.9635059+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:22.1516771+00:00"
 }
