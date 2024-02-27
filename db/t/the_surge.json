@@ -3,8 +3,8 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 748,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 532,
+  "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 101,
@@ -410,18 +410,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-02-27T11:59:15.4146587+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 31
+      "Count": 32
     }
   ],
   "EOS_Progressed": 5503,
@@ -6191,9 +6197,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
-  "LastChanged": "2024-02-18T17:58:10.6151805+00:00",
+  "LastChanged": "2024-02-27T11:59:15.4146585+00:00",
   "LastChanged_Achievements": "2024-01-27T13:04:41.4040089+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:49.6117759+00:00",
-  "LastUpdate_Ratings": "2024-02-27T10:58:07.9373451+00:00",
+  "LastUpdate_Ratings": "2024-02-27T11:59:15.414659+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:41.4041054+00:00"
 }
