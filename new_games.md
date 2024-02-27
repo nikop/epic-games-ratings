@@ -21,7 +21,7 @@
 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 2024-02-21 | - |  | - | 0 |
 | [MXR](games/1/1868d011118145a0b261edddfc66e967.md) | 2024-02-20 | - |  | - | - |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | - |
-| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.18 | 0 |
+| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.19 | 0 |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | 0 |
 | [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | - |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | 0 |
@@ -36,7 +36,7 @@
 | [Delivery Boy](games/8/84860d15749f404e8a24fd58e6b01448.md) | 2024-02-15 | - |  | - | 0 |
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-02-15 | 45 (1,000 XP) | 1 | - | 0 |
 | [Seven Bullets Horror 7発の弾丸ホラー](games/8/80620b348cbe4e38b9f55bb9029c57d3.md) | 2024-02-14 | - |  | - | - |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 16 | 4.78 | 0 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 16 | 4.79 | 0 |
 | [Julai](games/a/a2a68ba87f494656b676de3a268dcf2a.md) | 2024-02-14 | - |  | - | - |
 | [Nuclear Fission Simulator](games/b/b1e049db852143a29a80e770371f6399.md) | 2024-02-14 | - |  | - | 0 |
 | [Amber](games/e/e0ee1d8777e441d3ae01f796ed427261.md) | 2024-02-14 | - |  | - | - |
