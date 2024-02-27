@@ -107,7 +107,7 @@
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,379 | 4.19 | 1,001 |
 | 106 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 3,232 | 4.62 | 388 |
 | 107 | [Among Us](games/a/among_us.md) | 3,171 | 4.56 | 523 |
-| 108 | [RAGE 2](games/r/rage_2.md) | 3,006 | 4.27 | 936 |
+| 108 | [RAGE 2](games/r/rage_2.md) | 3,006 | 4.27 | 937 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,881 | 4.62 | 388 |
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,819 | 4.79 | 103 |
 | 111 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,555 | 4.77 | 124 |
@@ -494,12 +494,12 @@
 | 491 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,093 |
 | 491 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 45 | 4.23 | 967 |
 | 494 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 44 | 4.57 | 507 |
-| 495 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 42 | 4.27 | 936 |
+| 495 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 42 | 4.34 | 864 |
+| 495 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 42 | 4.28 | 922 |
 | 495 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 42 | 4.59 | 459 |
 | 495 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 42 | 4.58 | 477 |
 | 495 | [Northgard](games/n/northgard.md) | 42 | 4.66 | 306 |
 | 495 | [Warpips](games/w/warpips.md) | 42 | 4.43 | 748 |
-| 500 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 41 | 4.34 | 864 |
 | 501 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 40 | 4.64 | 351 |
 | 501 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 40 | 4.71 | 205 |
 | 501 | [Steelrising](games/s/steelrising.md) | 40 | 4.29 | 908 |
@@ -581,7 +581,7 @@
 | 578 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 23 | 4.88 | 16 |
 | 578 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 23 | 4.32 | 882 |
 | 578 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 23 | 4.43 | 748 |
-| 578 | [Murder by Numbers](games/m/murder_by_numbers.md) | 23 | 4.27 | 936 |
+| 578 | [Murder by Numbers](games/m/murder_by_numbers.md) | 23 | 4.27 | 937 |
 | 578 | [Rise of Industry](games/r/rise_of_industry.md) | 23 | 4.26 | 942 |
 | 578 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 21 |
 | 578 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 23 | 4.57 | 507 |
@@ -590,7 +590,7 @@
 | 586 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 22 | 4.31 | 892 |
 | 586 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 22 | 4.53 | 581 |
 | 586 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 990 |
-| 586 | [Mortal Shell](games/m/mortal_shell.md) | 22 | 4.27 | 936 |
+| 586 | [Mortal Shell](games/m/mortal_shell.md) | 22 | 4.27 | 937 |
 | 586 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 477 |
 | 586 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 678 |
 | 586 | [Sail Forth](games/s/sail_forth.md) | 22 | 4.41 | 775 |

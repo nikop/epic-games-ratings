@@ -867,7 +867,7 @@
 | 864 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 559 |
 | 864 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 604 |
 | 864 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 125 | 365 |
-| 864 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 41 | 500 |
+| 864 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 42 | 495 |
 | 864 | [Encased](games/e/encased.md) | 4.34 | 171 | 332 |
 | 864 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.34 | 104 | 384 |
 | 864 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 277 | 283 |
@@ -924,6 +924,7 @@
 | 922 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.28 | 0 | 604 |
 | 922 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.28 | 0 | 604 |
 | 922 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 604 |
+| 922 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.28 | 42 | 495 |
 | 922 | [Flatout](games/f/flatout.md) | 4.28 | 0 | 604 |
 | 922 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 99 | 392 |
 | 922 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 604 |
@@ -935,12 +936,11 @@
 | 922 | [The Surge 2](games/t/the_surge_2.md) | 4.28 | 0 | 604 |
 | 922 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.28 | 0 | 604 |
 | 922 | [Wreckfest](games/w/wreckfest.md) | 4.28 | 0 | 604 |
-| 936 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 42 | 495 |
-| 936 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 604 |
-| 936 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 22 | 586 |
-| 936 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 23 | 578 |
-| 936 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 604 |
-| 936 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,006 | 108 |
+| 937 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 604 |
+| 937 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 22 | 586 |
+| 937 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 23 | 578 |
+| 937 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 604 |
+| 937 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,006 | 108 |
 | 942 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 604 |
 | 942 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,632 | 22 |
 | 942 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,034 | 96 |
