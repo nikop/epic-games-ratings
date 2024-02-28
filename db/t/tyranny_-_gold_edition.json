@@ -2,7 +2,7 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 459,
+  "Ranking_Rating": 458,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 859,
@@ -1721,10 +1721,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1441,
       "NumberOfAwardsMax": 730
+    },
+    {
+      "Time": "2024-02-28T15:58:45.8741682+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1442,
+      "NumberOfAwardsMax": 730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1441,
+  "NumberOfAwards": 1442,
   "NumberOfAwardsMax": 730,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1738,7 +1744,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 368
+      "Count": 369
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1806,8 +1812,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2024-02-28T01:39:15.2226844+00:00",
+  "LastChanged": "2024-02-28T15:58:45.8741681+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:30.9418622+00:00",
-  "LastUpdate_Ratings": "2024-02-28T14:57:27.973505+00:00",
+  "LastUpdate_Ratings": "2024-02-28T15:58:45.8741686+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:39.1433784+00:00"
 }
