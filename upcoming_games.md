@@ -41,6 +41,7 @@
 | [Age of Rust](games/a/age_of_rust.md) | 2024-03-31 | - |  | - | - |
 | [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-03-31 | - |  | - | - |
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-03-31 | - |  | - | - |
+| [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2024-03-31 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-03-31 | - |  | - | - |
 | [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-03-31 | - |  | - | - |
@@ -246,7 +247,6 @@
 | [Archery RED](games/e/e17cbf6cf17b4e8dbe4119c99f668cb0.md) | 2099-01-01 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2099-01-01 | - |  | - | - |
 | [Ascendant Infinity](games/f/f482bdb61ec6483c89b21c3af00a9833.md) | 2099-01-01 | - |  | - | - |
-| [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |
 | [Astrometica](games/d/d5edf91e135b4742b668c25dea1e2e52.md) | 2099-01-01 | - |  | - | - |
 | [BADMAD ROBOTS](games/8/8c9aba45f7364ae483dcd05cf7d61cc4.md) | 2099-01-01 | - |  | - | - |
