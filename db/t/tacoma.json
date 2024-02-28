@@ -2,9 +2,9 @@
   "ID": "675f47ac5d5847f59badceea5b0950cf",
   "Name": "Tacoma",
   "ProductSlug": "tacoma",
-  "Ranking_Rating": 839,
-  "Ranking_Popularity": 605,
-  "Ranking_PopularitySum": 605,
+  "Ranking_Rating": 828,
+  "Ranking_Popularity": 606,
+  "Ranking_PopularitySum": 606,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "NumberOfRatings": 60,
   "RatingHistory": [
     {
@@ -292,6 +292,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-28T18:57:33.5495042+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -309,8 +315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
-  "LastChanged": "2023-12-27T16:03:59.0645065+00:00",
+  "LastChanged": "2024-02-28T18:57:33.549504+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:36.8888476+00:00",
-  "LastUpdate_Ratings": "2024-02-28T17:00:03.5405682+00:00",
+  "LastUpdate_Ratings": "2024-02-28T18:57:33.5495046+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:11.6185636+00:00"
 }

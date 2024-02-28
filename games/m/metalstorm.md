@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
 Rating: 4.45 (Ranked 707)  
+## Awards
+Max (Great for Beginners): 20  (Ranked 601)  
+Sum: 20 (Ranked 603)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -74,3 +81,4 @@ Rating: 4.45 (Ranked 707)
 | 2024-02-18 | 4.45 | 0 | 0 |
 | 2024-02-26 | 4.46 | 0 | 0 |
 | 2024-02-27 | 4.45 | 0 | 0 |
+| 2024-02-28 | 4.45 | 20 | 20 |
