@@ -522,7 +522,7 @@
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,226 | - | 0 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 4,843 | 4.12 | 52 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 67 | - | 0 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 51 (1,150 XP) | 825,437 | 4.54 | 11,849 |
+| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 51 (1,150 XP) | 825,437 | 4.54 | 11,872 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 8 | - | - |
 | [Biped](games/b/biped.md) | 2023-04-20 | 15 (1,000 XP) | 10,782 | - | 0 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 179 | - | 0 |
@@ -692,7 +692,7 @@
 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 2022-09-29 | 24 (1,000 XP) | 32,839 | 4.44 | 29 |
 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 2022-09-26 | 40 (1,000 XP) | 87 | - | 0 |
 | [Potion Permit](games/p/potion_permit.md) | 2022-09-22 | 38 (1,000 XP) | 1,984 | 3.92 | 75 |
-| [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 40,756 | 4.47 | 3,643 |
+| [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 40,756 | 4.47 | 3,644 |
 | [Serial Cleaners](games/s/serial_cleaners.md) | 2022-09-22 | 24 (1,300 XP) | 309 | - | 0 |
 | [ANNO Mutationem](games/a/anno_mutationem.md) | 2022-09-22 | 36 (1,000 XP) | 859 | 4.56 | 0 |
 | [The Outbound Ghost](games/t/the_outbound_ghost.md) | 2022-09-20 | 31 (1,000 XP) | 0 | - | 0 |
