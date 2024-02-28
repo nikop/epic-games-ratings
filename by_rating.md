@@ -5,7 +5,7 @@
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 604 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,650 | 99 |
 | 4 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.92 | 0 | 604 |
-| 6 | [Celeste](games/c/celeste.md) | 4.91 | 1,893 | 129 |
+| 6 | [Celeste](games/c/celeste.md) | 4.91 | 1,895 | 129 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 604 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 604 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 20 | 600 |
@@ -109,7 +109,7 @@
 | 103 | [Griftlands](games/g/griftlands.md) | 4.79 | 21 | 595 |
 | 103 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,463 | 145 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,819 | 110 |
-| 103 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 426 | 242 |
+| 103 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 427 | 242 |
 | 103 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 604 |
 | 103 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.79 | 0 | 604 |
 | 113 | [Aground](games/a/aground.md) | 4.78 | 0 | 604 |
@@ -182,7 +182,7 @@
 | 169 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.74 | 0 | 604 |
 | 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,080 | 163 |
 | 169 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 604 |
-| 183 | [Diabotical](games/d/diabotical.md) | 4.73 | 306 | 267 |
+| 183 | [Diabotical](games/d/diabotical.md) | 4.73 | 306 | 268 |
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 53 | 465 |
 | 183 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 604 |
 | 183 | [Haven](games/h/haven.md) | 4.73 | 0 | 604 |
@@ -355,7 +355,7 @@
 | 351 | [APE OUT](games/a/ape_out.md) | 4.64 | 0 | 604 |
 | 351 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.64 | 0 | 604 |
 | 351 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 604 |
-| 351 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,058 | 74 |
+| 351 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,059 | 74 |
 | 351 | [Black Book](games/b/black_book.md) | 4.64 | 115 | 374 |
 | 351 | [Black Skylands](games/b/black_skylands.md) | 4.64 | 0 | 604 |
 | 351 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.64 | 0 | 604 |
@@ -384,7 +384,7 @@
 | 368 | [Prey](games/p/prey.md) | 4.63 | 5,930 | 77 |
 | 368 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 196 | 313 |
 | 368 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 4.63 | 31 | 538 |
-| 368 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 268 |
+| 368 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 269 |
 | 368 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 36 | 517 |
 | 368 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,833 | 133 |
 | 388 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.62 | 0 | 604 |
@@ -505,7 +505,7 @@
 | 477 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,812 | 66 |
 | 477 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 243 | 290 |
 | 477 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 118 | 370 |
-| 477 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,764 | 29 |
+| 477 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,765 | 29 |
 | 507 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 604 |
 | 507 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 604 |
 | 507 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 53 | 465 |
@@ -644,7 +644,7 @@
 | 632 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 32 | 532 |
 | 632 | [Solitairica](games/s/solitairica.md) | 4.50 | 94 | 403 |
 | 632 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 604 |
-| 632 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 10,609 | 43 |
+| 632 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 10,638 | 43 |
 | 632 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,465 | 46 |
 | 632 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 7,514 | 61 |
 | 632 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 51 | 474 |
@@ -732,7 +732,7 @@
 | 727 | [DEATHLOOP](games/d/deathloop.md) | 4.44 | 77 | 421 |
 | 727 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 63 | 447 |
 | 727 | [Faeria](games/f/faeria.md) | 4.44 | 118 | 370 |
-| 727 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 305 | 268 |
+| 727 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 308 | 267 |
 | 727 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 604 |
 | 727 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 373 |
 | 727 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,654 | 30 |
