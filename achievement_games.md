@@ -703,7 +703,7 @@
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 48 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 516 | 4.16 | 0 |
-| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 14,897 | 4.76 | 1,241 |
+| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 14,897 | 4.76 | 1,242 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 40 (1,400 XP) | 8,711 | 4.23 | 45 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 537 | 4.54 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
@@ -806,7 +806,7 @@
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 531,804 | 4.61 | 442 |
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 8,312 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 168 | - | 0 |
-| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 765,727 | 4.82 | 7,441 |
+| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 765,727 | 4.82 | 7,447 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 829,753 | 4.58 | 14,142 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,407,935 | 4.77 | 11,911 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 381 | - | 0 |
@@ -856,7 +856,7 @@
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 69,167 | 4.64 | 115 |
 | [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 22,256 | 4.69 | 340 |
 | [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 171,724 | 4.60 | 73 |
-| [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 149,385 | 4.39 | 340 |
+| [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 149,385 | 4.39 | 341 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 70,578 | 4.53 | 107 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 2021-07-16 | 30 (1,000 XP) | 1,036 | 4.47 | 46 |
 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 2021-07-13 | 29 (1,000 XP) | 689 | 3.86 | 0 |
