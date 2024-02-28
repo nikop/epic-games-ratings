@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 3,199,298 | 4.29 | 908 |
+| 1 | [Fortnite](games/f/fortnite.md) | 3,204,292 | 4.29 | 908 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 737,949 | 4.46 | 691 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 331,472 | 4.68 | 273 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 331,109 | 4.67 | 293 |
@@ -27,7 +27,7 @@
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 16,873 | 4.76 | 141 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 15,978 | 4.87 | 21 |
 | 27 | [SnowRunner](games/s/snowrunner.md) | 15,480 | 4.75 | 152 |
-| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,292 | 4.59 | 459 |
+| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,299 | 4.59 | 459 |
 | 29 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,764 | 4.58 | 477 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,654 | 4.44 | 727 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,636 | 4.84 | 50 |
@@ -54,8 +54,8 @@
 | 52 | [Remnant II®](games/r/remnant_2.md) | 8,397 | 4.71 | 205 |
 | 53 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,375 | 4.69 | 245 |
 | 54 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,212 | 4.69 | 245 |
-| 55 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 8,016 | 4.63 | 368 |
-| 56 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,010 | 4.69 | 245 |
+| 55 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,023 | 4.69 | 245 |
+| 56 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 8,016 | 4.63 | 368 |
 | 57 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,920 | 4.71 | 205 |
 | 58 | [Supraland](games/s/supraland.md) | 7,812 | 4.61 | 405 |
 | 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,755 | 4.75 | 152 |
@@ -223,9 +223,9 @@
 | 220 | [Filament](games/f/filament.md) | 593 | 4.33 | 875 |
 | 222 | [Surviving Mars](games/s/surviving_mars.md) | 565 | 4.61 | 405 |
 | 223 | [Terraforming Mars](games/t/terraforming_mars.md) | 550 | 4.53 | 581 |
-| 224 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 548 | 4.40 | 790 |
-| 224 | [Severed Steel](games/s/severed_steel.md) | 548 | 4.69 | 245 |
-| 226 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 536 | 4.59 | 459 |
+| 224 | [Severed Steel](games/s/severed_steel.md) | 549 | 4.69 | 245 |
+| 225 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 548 | 4.40 | 790 |
+| 226 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 541 | 4.59 | 459 |
 | 227 | [Loop Hero](games/l/loop_hero.md) | 510 | 4.67 | 293 |
 | 228 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 498 | 4.60 | 439 |
 | 229 | [RimWorld](games/r/rimworld.md) | 496 | 4.89 | 12 |
@@ -264,7 +264,7 @@
 | 262 | [Darkwood](games/d/darkwood.md) | 332 | 4.62 | 388 |
 | 263 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 321 | 4.44 | 727 |
 | 264 | [MudRunner](games/m/mudrunner.md) | 319 | 4.61 | 405 |
-| 265 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 316 | 4.39 | 803 |
+| 265 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 317 | 4.39 | 803 |
 | 266 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 312 | 4.82 | 70 |
 | 267 | [Diabotical](games/d/diabotical.md) | 306 | 4.73 | 183 |
 | 268 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 305 | 4.44 | 727 |
@@ -292,8 +292,8 @@
 | 290 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 243 | 4.58 | 477 |
 | 291 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 240 | 4.57 | 507 |
 | 292 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 237 | 4.83 | 57 |
-| 293 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 234 | 4.61 | 405 |
-| 293 | [Old World](games/o/old_world.md) | 234 | 4.65 | 329 |
+| 293 | [Old World](games/o/old_world.md) | 235 | 4.65 | 329 |
+| 294 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 234 | 4.61 | 405 |
 | 295 | [Crying Suns](games/c/crying_suns.md) | 231 | 4.51 | 610 |
 | 296 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 229 | 4.85 | 39 |
 | 297 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 227 | 4.51 | 610 |
