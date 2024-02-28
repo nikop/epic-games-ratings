@@ -14797,10 +14797,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 15800,
       "NumberOfAwardsMax": 1883
+    },
+    {
+      "Time": "2024-02-28T21:58:47.0701+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 15806,
+      "NumberOfAwardsMax": 1883
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15800,
+  "NumberOfAwards": 15806,
   "NumberOfAwardsMax": 1883,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -14832,7 +14838,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1667
+      "Count": 1673
     },
     {
       "Text": "This game is Extremely Fun",
@@ -34559,9 +34565,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-02-28T17:58:58.8319603+00:00",
+  "LastChanged": "2024-02-28T21:58:47.0700998+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:45.7098664+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:19.5038841+00:00",
-  "LastUpdate_Ratings": "2024-02-28T20:01:49.2416615+00:00",
+  "LastUpdate_Ratings": "2024-02-28T21:58:47.0701004+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:45.7099618+00:00"
 }
