@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [My Corp Cargo Simulator](games/b/b8389b9b44074b9ba64a882ac166bb18.md) | 2099-01-01 | - |  | - | - |
 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 2023-12-07 | 5 (1,000 XP) | 65 | - | 0 |
 | [Getting There](games/d/dfceea48e2974b4aafb5e5e76e7ed1c6.md) | 2099-01-01 | - |  | - | - |
 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2099-01-01 | - |  | - | - |
