@@ -1,11 +1,11 @@
 # State of Decay 2: Juggernaut Edition
 [Store](https://store.epicgames.com/en-US/p/state-of-decay-2-juggernaut-edition)  
 [View Rawdata](../../db/s/state_of_decay_2__juggernaut_edition.json)  
-Rating: 4.72 (Ranked 197)  
+Rating: 4.72 (Ranked 196)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 371  (Ranked 252)  
-Sum: 2,718 (Ranked 198)  
+Sum: 2,719 (Ranked 198)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 54
 | This game is Extremely Fun | 337 |
 | This game has Quickly Understood Controls | 307 |
 | This game is Relaxing | 297 |
-| This game is Highly Recommended | 286 |
+| This game is Highly Recommended | 287 |
 | This game has Amazing Storytelling | 281 |
 | This game has Amazing Characters | 276 |
 | This game has a Creative Community | 213 |
@@ -317,3 +317,4 @@ Diff (max vs sum): 54
 | 2024-02-22 | 4.72 | - | 370 | 2,714 |
 | 2024-02-23 | 4.72 | - | 371 | 2,715 |
 | 2024-02-25 | 4.72 | - | 371 | 2,718 |
+| 2024-02-28 | 4.72 | - | 371 | 2,719 |
