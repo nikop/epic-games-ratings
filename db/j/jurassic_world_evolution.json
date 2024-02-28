@@ -2,7 +2,7 @@
   "ID": "047392e91d5e4cfdb19e2767440ab206",
   "Name": "Jurassic World Evolution",
   "ProductSlug": "jurassic-world-evolution",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 859,
@@ -6077,10 +6077,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 5533,
       "NumberOfAwardsMax": 648
+    },
+    {
+      "Time": "2024-02-28T20:58:40.7364908+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5534,
+      "NumberOfAwardsMax": 648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5533,
+  "NumberOfAwards": 5534,
   "NumberOfAwardsMax": 648,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6148,7 +6154,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 427
+      "Count": 428
     }
   ],
   "EOS_Progressed": 0,
@@ -6162,8 +6168,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2024-02-28T13:00:37.6096886+00:00",
+  "LastChanged": "2024-02-28T20:58:40.7364906+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:59:02.9585902+00:00",
-  "LastUpdate_Ratings": "2024-02-28T19:58:14.3789595+00:00",
+  "LastUpdate_Ratings": "2024-02-28T20:58:40.7364912+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:37.7829646+00:00"
 }
