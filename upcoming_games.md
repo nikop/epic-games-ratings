@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Roads of Time 2: Odyssey Collector's Edition](games/3/3ed7af6401204c9aa6b2adf9e9ea23b8.md) | 2024-02-28 | - |  | - | - |
 | [Almost My Floor](games/0/01965f68ad134c028c8900062fe5ab5c.md) | 2024-02-29 | - |  | - | - |
 | [Earth Fire And Wind](games/9/926045895bbf4c198aa1173f0877d246.md) | 2024-02-29 | - |  | - | - |
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-02-29 | - |  | - | - |

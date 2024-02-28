@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Roads of Time 2: Odyssey Collector's Edition](games/3/3ed7af6401204c9aa6b2adf9e9ea23b8.md) | 2024-02-28 | - |  | - | - |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | - |  | - | 0 |
 | [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-02-28 | - |  | - | - |
 | [Spiderbro 2](games/2/250201ee43c848db8a634a87a827d370.md) | 2024-02-27 | - |  | - | - |
@@ -31,7 +32,7 @@
 | [Argonauts Agency: Glove of Midas](games/3/3713adaa73dc47f39d2c38fa5f3b8f75.md) | 2024-02-16 | - |  | - | - |
 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 2024-02-16 | - |  | - | 0 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
-| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.15 | 1,224 |
+| [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2024-02-16 | - |  | 4.15 | 1,330 |
 | [Street Fighting Simulator](games/e/e1094f6a687543c9ab4543dcba655554.md) | 2024-02-15 | - |  | - | 0 |
 | [DotLine](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | - |  | - | - |
 | [Pinbot](games/2/2fb0f7c2c29041ea94464a263acfbeb7.md) | 2024-02-15 | - |  | - | - |
@@ -51,7 +52,7 @@
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | - |  | - | 0 |
 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.54 | 0 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | - |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | 4.59 | 48 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | 4.60 | 48 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 8 | - | 0 |
 | [RPG Survivors](games/a/acf4beaa800f4dbcb007623d83634582.md) | 2024-02-11 | - |  | - | 0 |
 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 2024-02-11 | - |  | - | 0 |
@@ -97,4 +98,3 @@
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 1 | - | - |
 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 0 | 4.46 | 0 |
 | [Arena 9th](games/b/b2915d5851bc4ddf91d7c90adf03f72b.md) | 2024-01-30 | - |  | - | - |
-| [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
