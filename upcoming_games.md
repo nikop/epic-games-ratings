@@ -5,7 +5,6 @@
 | [Almost My Floor](games/0/01965f68ad134c028c8900062fe5ab5c.md) | 2024-02-29 | - |  | - | - |
 | [Earth Fire And Wind](games/9/926045895bbf4c198aa1173f0877d246.md) | 2024-02-29 | - |  | - | - |
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-02-29 | - |  | - | - |
-| [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-02-29 | - |  | - | - |
 | [LakeSide](games/6/6c09dd49cbb348d5ae4d4c9c308890b8.md) | 2024-02-29 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [The Glitch Fairy](games/4/4a95daf12c22499a874ac9d2f2b45e02.md) | 2024-02-29 | - |  | - | - |

@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-02-28 | - |  | - | - |
 | [Spiderbro 2](games/2/250201ee43c848db8a634a87a827d370.md) | 2024-02-27 | - |  | - | - |
 | [Camp Canyonwood](games/7/760df178070b4dcbbfbe498b07b5d1a8.md) | 2024-02-26 | - |  | - | 0 |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-02-26 | - |  | - | - |
