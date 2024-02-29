@@ -2,7 +2,7 @@
   "ID": "c9e311e119034b25a02ed1ebfdffc0d1",
   "Name": "Anno 2070",
   "ProductSlug": "anno-2070",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 607,
   "Ranking_PopularitySum": 607,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 32,
   "RatingHistory": [
     {
@@ -259,6 +259,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-29T16:57:16.1963923+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -277,8 +283,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:09.4589428+00:00",
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
-  "LastChanged": "2024-02-13T21:59:11.7423993+00:00",
+  "LastChanged": "2024-02-29T16:57:16.196392+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:57:41.8973591+00:00",
-  "LastUpdate_Ratings": "2024-02-29T15:00:05.6053617+00:00",
+  "LastUpdate_Ratings": "2024-02-29T16:57:16.1963926+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:39.2842028+00:00"
 }

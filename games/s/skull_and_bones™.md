@@ -4,12 +4,12 @@
 Rating: 4.15 (Ranked 1,027)  
 ## Awards
 Max (Great Boss Battles): 1,330  (Ranked 149)  
-Sum: 1,948 (Ranked 230)  
+Sum: 1,969 (Ranked 230)  
 Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,330 |
-| This game is Extremely Fun | 137 |
+| This game is Extremely Fun | 158 |
 | This game has Quickly Understood Controls | 129 |
 | This game is Great for Beginners | 127 |
 | This game is Relaxing | 117 |
@@ -32,4 +32,4 @@ Diff (max vs sum): -81
 | 2024-02-26 | 4.17 | 1,061 | 1,444 |
 | 2024-02-27 | 4.15 | 1,224 | 1,731 |
 | 2024-02-28 | 4.15 | 1,330 | 1,928 |
-| 2024-02-29 | 4.15 | 1,330 | 1,948 |
+| 2024-02-29 | 4.15 | 1,330 | 1,969 |
