@@ -42,7 +42,7 @@
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 11,090 | 4.58 | 478 |
 | 41 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,073 | 4.61 | 404 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 10,793 | 4.77 | 123 |
-| 43 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 10,638 | 4.50 | 634 |
+| 43 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 10,671 | 4.50 | 634 |
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,811 | 4.89 | 12 |
 | 45 | [DEATH STRANDING](games/d/death_stranding.md) | 9,794 | 4.78 | 112 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,475 | 4.50 | 634 |
@@ -102,12 +102,12 @@
 | 100 | [Gloomhaven](games/g/gloomhaven.md) | 3,644 | 4.47 | 680 |
 | 101 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,525 | 4.49 | 651 |
 | 102 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,516 | 4.57 | 508 |
-| 103 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,512 | 4.76 | 139 |
-| 104 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,413 | 4.57 | 508 |
+| 103 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,514 | 4.76 | 139 |
+| 104 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,431 | 4.57 | 508 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,382 | 4.18 | 1,010 |
 | 106 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 3,246 | 4.62 | 388 |
 | 107 | [Among Us](games/a/among_us.md) | 3,171 | 4.56 | 523 |
-| 108 | [RAGE 2](games/r/rage_2.md) | 3,006 | 4.27 | 937 |
+| 108 | [RAGE 2](games/r/rage_2.md) | 3,008 | 4.27 | 937 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,881 | 4.62 | 388 |
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,820 | 4.79 | 103 |
 | 111 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,555 | 4.77 | 123 |
@@ -155,7 +155,7 @@
 | 153 | [EVE Online](games/e/eve_online.md) | 1,205 | 4.24 | 955 |
 | 154 | [Saints Row](games/s/saints_row.md) | 1,190 | 3.89 | 1,107 |
 | 155 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,167 | 4.65 | 329 |
-| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,130 | 4.46 | 692 |
+| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,132 | 4.46 | 692 |
 | 157 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,128 | 4.42 | 765 |
 | 158 | [Train Valley 2](games/t/train_valley_2.md) | 1,120 | 4.46 | 692 |
 | 159 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,119 | 4.69 | 245 |
@@ -198,7 +198,7 @@
 | 196 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 786 | 4.87 | 21 |
 | 197 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 760 | 4.68 | 273 |
 | 198 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 755 | 4.59 | 459 |
-| 199 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 748 | 4.61 | 404 |
+| 199 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 750 | 4.61 | 404 |
 | 200 | [Neon Abyss](games/n/neon_abyss.md) | 743 | 4.68 | 273 |
 | 201 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 730 | 4.59 | 459 |
 | 202 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 710 | 4.62 | 388 |

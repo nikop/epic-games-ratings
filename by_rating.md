@@ -140,7 +140,7 @@
 | 123 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 607 |
 | 139 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 23 | 581 |
 | 139 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,885 | 24 |
-| 139 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,512 | 103 |
+| 139 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,514 | 103 |
 | 139 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,242 | 152 |
 | 139 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,533 | 70 |
 | 139 | [Journey](games/j/journey.md) | 4.76 | 0 | 607 |
@@ -438,7 +438,7 @@
 | 404 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.61 | 0 | 607 |
 | 404 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 607 |
 | 404 | [Warframe](games/w/warframe.md) | 4.61 | 21,793 | 23 |
-| 404 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 748 | 199 |
+| 404 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 750 | 199 |
 | 440 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 119 | 369 |
 | 440 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,885 | 24 |
 | 440 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.60 | 48 | 483 |
@@ -515,7 +515,7 @@
 | 508 | [Hob](games/h/hob.md) | 4.57 | 0 | 607 |
 | 508 | [Hue](games/h/hue.md) | 4.57 | 0 | 607 |
 | 508 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 240 | 291 |
-| 508 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,413 | 104 |
+| 508 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,431 | 104 |
 | 508 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,516 | 102 |
 | 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 607 |
 | 508 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.57 | 46 | 489 |
@@ -646,7 +646,7 @@
 | 634 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 32 | 533 |
 | 634 | [Solitairica](games/s/solitairica.md) | 4.50 | 94 | 403 |
 | 634 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 607 |
-| 634 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 10,638 | 43 |
+| 634 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 10,671 | 43 |
 | 634 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,475 | 46 |
 | 634 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 7,550 | 61 |
 | 634 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 51 | 474 |
@@ -698,7 +698,7 @@
 | 692 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 607 |
 | 692 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 607 |
 | 692 | [Death Coming](games/d/death_coming.md) | 4.46 | 0 | 607 |
-| 692 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,130 | 156 |
+| 692 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,132 | 156 |
 | 692 | [Rocket League®](games/r/rocket_league®.md) | 4.46 | 740,174 | 2 |
 | 692 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 607 |
 | 692 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 607 |
@@ -940,7 +940,7 @@
 | 937 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 22 | 587 |
 | 937 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 23 | 581 |
 | 937 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 607 |
-| 937 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,006 | 108 |
+| 937 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,008 | 108 |
 | 942 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 607 |
 | 942 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,639 | 22 |
 | 942 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,034 | 96 |

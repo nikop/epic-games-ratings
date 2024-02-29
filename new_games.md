@@ -7,7 +7,7 @@
 | [LakeSide](games/6/6c09dd49cbb348d5ae4d4c9c308890b8.md) | 2024-02-29 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [The Glitch Fairy](games/4/4a95daf12c22499a874ac9d2f2b45e02.md) | 2024-02-29 | - |  | - | - |
-| [Roads of Time 2: Odyssey Collector's Edition](games/3/3ed7af6401204c9aa6b2adf9e9ea23b8.md) | 2024-02-28 | - |  | - | - |
+| [Roads of Time 2: Odyssey Collector's Edition](games/3/3ed7af6401204c9aa6b2adf9e9ea23b8.md) | 2024-02-28 | - |  | - | 0 |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | - |  | - | 0 |
 | [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-02-28 | - |  | - | - |
 | [Spiderbro 2](games/2/250201ee43c848db8a634a87a827d370.md) | 2024-02-27 | - |  | - | - |
