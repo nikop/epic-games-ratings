@@ -3,7 +3,7 @@
   "Name": "Remnant II\u00AE",
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 206,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 240,
@@ -9043,18 +9043,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 20212,
       "NumberOfAwardsMax": 8412
+    },
+    {
+      "Time": "2024-02-29T20:57:29.8647396+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 20231,
+      "NumberOfAwardsMax": 8431
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20212,
-  "NumberOfAwardsMax": 8412,
+  "NumberOfAwards": 20231,
+  "NumberOfAwardsMax": 8431,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8412
+      "Count": 8431
     },
     {
       "Text": "This game is Highly Recommended",
@@ -32211,9 +32217,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-02-29T18:59:45.6852473+00:00",
+  "LastChanged": "2024-02-29T20:57:29.8647394+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:35.1086866+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:39.4253994+00:00",
-  "LastUpdate_Ratings": "2024-02-29T18:59:45.6852489+00:00",
+  "LastUpdate_Ratings": "2024-02-29T20:57:29.86474+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:35.1088256+00:00"
 }

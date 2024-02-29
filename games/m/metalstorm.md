@@ -3,8 +3,8 @@
 [View Rawdata](../../db/m/metalstorm.json)  
 Rating: 4.44 (Ranked 728)  
 ## Awards
-Max (Great for Beginners): 20  (Ranked 601)  
-Sum: 20 (Ranked 603)  
+Max (Great for Beginners): 20  (Ranked 600)  
+Sum: 20 (Ranked 602)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

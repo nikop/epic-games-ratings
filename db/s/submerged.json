@@ -3,8 +3,8 @@
   "Name": "Submerged",
   "ProductSlug": "submerged-041523",
   "Ranking_Rating": 1056,
-  "Ranking_Popularity": 607,
-  "Ranking_PopularitySum": 607,
+  "Ranking_Popularity": 606,
+  "Ranking_PopularitySum": 606,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -93,6 +93,6 @@
   "FirstSeenRating": "2022-09-05T04:31:47.8805067+00:00",
   "LastChanged": "2023-03-31T05:58:10.9721588+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:29.569359+00:00",
-  "LastUpdate_Ratings": "2024-02-29T19:59:03.1462403+00:00",
+  "LastUpdate_Ratings": "2024-02-29T20:59:42.1633372+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:14.8487621+00:00"
 }
