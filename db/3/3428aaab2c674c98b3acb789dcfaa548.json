@@ -12357,10 +12357,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 24397,
       "NumberOfAwardsMax": 8036
+    },
+    {
+      "Time": "2024-02-29T18:58:12.3851052+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 24421,
+      "NumberOfAwardsMax": 8036
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24397,
+  "NumberOfAwards": 24421,
   "NumberOfAwardsMax": 8036,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12386,19 +12392,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1190
+      "Count": 1191
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1216
+      "Count": 1219
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1019
+      "Count": 1022
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12428,13 +12434,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1193
+      "Count": 1197
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1945
+      "Count": 1958
     }
   ],
   "EOS_Progressed": 911336,
@@ -42190,9 +42196,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-02-29T10:57:28.3422771+00:00",
+  "LastChanged": "2024-02-29T18:58:12.385105+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:24.5582407+00:00",
   "LastUpdate_AppInfo": "2024-02-23T17:57:20.1383852+00:00",
-  "LastUpdate_Ratings": "2024-02-29T16:59:58.9773335+00:00",
+  "LastUpdate_Ratings": "2024-02-29T18:58:12.3851057+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:24.5583993+00:00"
 }
