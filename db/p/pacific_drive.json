@@ -2,7 +2,7 @@
   "ID": "d6d8a7241f6841a8823f5a533a1564da",
   "Name": "Pacific Drive",
   "ProductSlug": "pacific-drive",
-  "Ranking_Rating": 351,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 607,
   "Ranking_PopularitySum": 607,
   "Ranking_EOS_Progress": 859,
@@ -18,11 +18,17 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2024-02-28T20:59:46.1423803+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-29T13:58:27.4762332+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -43,8 +49,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-22T11:59:08.3857414+00:00",
   "FirstSeenRating": "2024-02-28T20:59:46.14238+00:00",
-  "LastChanged": "2024-02-28T20:59:46.1423801+00:00",
+  "LastChanged": "2024-02-29T13:58:27.476233+00:00",
   "LastUpdate_AppInfo": "2024-02-24T22:57:20.3506459+00:00",
-  "LastUpdate_Ratings": "2024-02-29T12:00:10.4602516+00:00",
+  "LastUpdate_Ratings": "2024-02-29T13:58:27.4762335+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:15.2531497+00:00"
 }
