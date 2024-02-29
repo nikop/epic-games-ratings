@@ -1067,11 +1067,17 @@
       "Rating": 4.15,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2024-02-29T06:59:45.5889286+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 199,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
-  "NumberOfAwardsMax": 82,
+  "NumberOfAwards": 199,
+  "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1084,7 +1090,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 82
+      "Count": 84
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1117,8 +1123,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2024-02-27T06:59:54.042771+00:00",
+  "LastChanged": "2024-02-29T06:59:45.5889285+00:00",
   "LastUpdate_AppInfo": "2024-02-29T02:57:09.201558+00:00",
-  "LastUpdate_Ratings": "2024-02-29T05:57:58.8030986+00:00",
+  "LastUpdate_Ratings": "2024-02-29T06:59:45.5889289+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:45.2868799+00:00"
 }
