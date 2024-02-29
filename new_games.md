@@ -1,5 +1,11 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Almost My Floor](games/0/01965f68ad134c028c8900062fe5ab5c.md) | 2024-02-29 | - |  | - | - |
+| [Earth Fire And Wind](games/9/926045895bbf4c198aa1173f0877d246.md) | 2024-02-29 | - |  | - | - |
+| [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-02-29 | - |  | - | - |
+| [LakeSide](games/6/6c09dd49cbb348d5ae4d4c9c308890b8.md) | 2024-02-29 | - |  | - | - |
+| [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
+| [The Glitch Fairy](games/4/4a95daf12c22499a874ac9d2f2b45e02.md) | 2024-02-29 | - |  | - | - |
 | [Roads of Time 2: Odyssey Collector's Edition](games/3/3ed7af6401204c9aa6b2adf9e9ea23b8.md) | 2024-02-28 | - |  | - | - |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | - |  | - | 0 |
 | [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-02-28 | - |  | - | - |
@@ -96,4 +102,3 @@
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 1 | - | - |
 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 0 | 4.46 | 0 |
-| [Arena 9th](games/b/b2915d5851bc4ddf91d7c90adf03f72b.md) | 2024-01-30 | - |  | - | - |
