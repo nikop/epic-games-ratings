@@ -3,7 +3,7 @@
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 111,
-  "Ranking_Popularity": 278,
+  "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 418,
@@ -3649,11 +3649,17 @@
       "Rating": 4.78,
       "NumberOfAwards": 2521,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2024-02-29T17:57:32.4973132+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2530,
+      "NumberOfAwardsMax": 292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2521,
-  "NumberOfAwardsMax": 289,
+  "NumberOfAwards": 2530,
+  "NumberOfAwardsMax": 292,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3666,7 +3672,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 289
+      "Count": 292
     },
     {
       "Text": "This game is Relaxing",
@@ -3690,7 +3696,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 228
+      "Count": 231
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3714,7 +3720,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 201
+      "Count": 204
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14291,9 +14297,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-02-29T14:58:27.3266467+00:00",
+  "LastChanged": "2024-02-29T17:57:32.497313+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:54.5703643+00:00",
   "LastUpdate_AppInfo": "2024-02-28T03:57:25.3793803+00:00",
-  "LastUpdate_Ratings": "2024-02-29T15:59:20.6579489+00:00",
+  "LastUpdate_Ratings": "2024-02-29T17:57:32.4973135+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:54.5704867+00:00"
 }
