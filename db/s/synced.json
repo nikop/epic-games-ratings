@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 1052,
+  "Ranking_Rating": 1053,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 110,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.11,
+  "Rating": 4.1,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -2159,6 +2159,12 @@
     {
       "Time": "2024-02-29T01:37:39.2149481+00:00",
       "Rating": 4.11,
+      "NumberOfAwards": 620,
+      "NumberOfAwardsMax": 161
+    },
+    {
+      "Time": "2024-02-29T09:00:33.6687511+00:00",
+      "Rating": 4.1,
       "NumberOfAwards": 620,
       "NumberOfAwardsMax": 161
     }
@@ -18825,9 +18831,9 @@
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-02-29T01:37:39.214948+00:00",
+  "LastChanged": "2024-02-29T09:00:33.6687509+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:26.6316904+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:50.5807817+00:00",
-  "LastUpdate_Ratings": "2024-02-29T07:58:09.486953+00:00",
+  "LastUpdate_Ratings": "2024-02-29T09:00:33.6687514+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:26.6317544+00:00"
 }
