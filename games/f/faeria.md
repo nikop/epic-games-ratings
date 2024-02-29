@@ -1,11 +1,11 @@
 # Faeria
 [Store](https://store.epicgames.com/en-US/p/faeria)  
 [View Rawdata](../../db/f/faeria.json)  
-Rating: 4.44 (Ranked 728)  
+Rating: 4.45 (Ranked 708)  
 Number of Ratings: 194  (23.09.2022)  
 ## Awards
 Max (Character Customization): 118  (Ranked 370)  
-Sum: 450 (Ranked 364)  
+Sum: 451 (Ranked 364)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 6
 | This game is Relaxing | 38 |
 | This game has Quickly Understood Controls | 37 |
 | This game has Amazing Characters | 34 |
-| This game has Challenging Combat | 31 |
+| This game has Challenging Combat | 32 |
 | This game has a Competitive Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -164,3 +164,4 @@ Diff (max vs sum): 6
 | 2024-02-22 | 4.44 | - | 118 | 448 |
 | 2024-02-25 | 4.44 | - | 118 | 449 |
 | 2024-02-28 | 4.44 | - | 118 | 450 |
+| 2024-02-29 | 4.45 | - | 118 | 451 |

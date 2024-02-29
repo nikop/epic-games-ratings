@@ -2,7 +2,7 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "ProductSlug": "faeria",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 194,
   "RatingHistory": [
     {
@@ -891,10 +891,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 450,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-02-29T21:59:09.4475578+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 451,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 450,
+  "NumberOfAwards": 451,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -950,7 +956,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has a Competitive Community",
@@ -970,8 +976,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2024-02-28T15:58:43.7305469+00:00",
+  "LastChanged": "2024-02-29T21:59:09.4475576+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:29.8262678+00:00",
-  "LastUpdate_Ratings": "2024-02-29T20:57:11.3512063+00:00",
+  "LastUpdate_Ratings": "2024-02-29T21:59:09.4475582+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:19.7144446+00:00"
 }
