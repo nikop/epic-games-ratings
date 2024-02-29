@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Geometric Sniper - Blood in Paris](games/1/1a8cba3402d84f0bad7f7f3ece71d486.md) | 2024-02-29 | - |  | - | - |
+| [Tamarak Trail](games/9/985a7dfa6292483fab6d3451a7914a1f.md) | 2024-02-29 | - |  | - | - |
 | [fell in love with coser](games/e/e4088fe230d843c18e1d45c4109d2713.md) | 2024-02-29 | - |  | - | - |
 | [Road Maintenance Simulator](games/9/98c157cecc744a6393d86f60ccd43b53.md) | 2024-02-29 | - |  | - | - |
 | [Vacation Adventures Cruise Director 7 Collectors Edition](games/6/6932e3526cc04cb4a22c6f5c0a71c46e.md) | 2024-02-29 | - |  | - | - |
@@ -35,7 +37,7 @@
 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 2024-02-21 | - |  | - | 0 |
 | [MXR](games/1/1868d011118145a0b261edddfc66e967.md) | 2024-02-20 | - |  | - | - |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | - |
-| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.23 | 0 |
+| [Nightingale](games/n/nightingale.md) | 2024-02-20 | - |  | 4.22 | 0 |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | 0 |
 | [Detective Solitaire. Butler Story](games/a/a7722186eef74d2291599308b18a89c2.md) | 2024-02-19 | - |  | - | 0 |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | - |  | - | 0 |
