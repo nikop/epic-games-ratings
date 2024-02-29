@@ -10,7 +10,7 @@
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2024-03-04 | - |  | - | - |
 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 2024-03-04 | - |  | - | - |
 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2024-03-05 | 36 (1,000 XP) | 0 | - | - |
-| [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
+| [Expeditions: A MudRunner Game - The Great Don 71](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-05 | - |  | - | - |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | - |  | - | - |
 | [Metal Mind](games/9/973ea9bd62374be5bb84ef2c8d096c56.md) | 2024-03-07 | - |  | - | - |
@@ -224,6 +224,7 @@
 | [Acceptance](games/a/acceptance.md) | 2099-01-01 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2099-01-01 | - |  | - | - |
 | [Aegir Tactics](games/6/639ab123836a4433ba6e5c342eeb9544.md) | 2099-01-01 | - |  | - | - |
+| [Aerial_Knight's We Never Yield](games/6/60d72468c4794f428a3276cc10e8610b.md) | 2099-01-01 | - |  | - | - |
 | [AEVITAS](games/e/e551d0f379ad42629494c89540c1c853.md) | 2099-01-01 | - |  | - | - |
 | [Age of History 3](games/d/dfb48dfb84a04354a912913708e01d24.md) | 2099-01-01 | - |  | - | - |
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | - |  | - | - |
