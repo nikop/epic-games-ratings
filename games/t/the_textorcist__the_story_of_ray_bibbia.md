@@ -3,6 +3,13 @@
 [View Rawdata](../../db/t/the_textorcist__the_story_of_ray_bibbia.json)  
 Rating: 4.68 (Ranked 273)  
 Number of Ratings: 78  (23.09.2022)  
+## Awards
+Max (Great Boss Battles): 20  (Ranked 601)  
+Sum: 20 (Ranked 603)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -64,3 +71,4 @@ Number of Ratings: 78  (23.09.2022)
 | 2023-06-01 | 4.66 | - | 0 | 0 |
 | 2023-09-09 | 4.67 | - | 0 | 0 |
 | 2023-12-18 | 4.68 | - | 0 | 0 |
+| 2024-02-29 | 4.68 | - | 20 | 20 |

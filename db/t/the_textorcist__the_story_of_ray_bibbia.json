@@ -3,8 +3,8 @@
   "Name": "The Textorcist: The Story of Ray Bibbia",
   "ProductSlug": "the-textorcist",
   "Ranking_Rating": 273,
-  "Ranking_Popularity": 606,
-  "Ranking_PopularitySum": 606,
+  "Ranking_Popularity": 601,
+  "Ranking_PopularitySum": 603,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -300,12 +300,26 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-02-29T03:57:44.3566182+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -317,8 +331,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:57.7786659+00:00",
-  "LastChanged": "2023-12-18T13:04:22.9913981+00:00",
+  "LastChanged": "2024-02-29T03:57:44.356618+00:00",
   "LastUpdate_AppInfo": "2024-02-25T09:57:06.9603645+00:00",
-  "LastUpdate_Ratings": "2024-02-29T02:13:34.1057212+00:00",
+  "LastUpdate_Ratings": "2024-02-29T03:57:44.3566186+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:47.3183941+00:00"
 }
