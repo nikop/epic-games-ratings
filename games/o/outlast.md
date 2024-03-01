@@ -3,8 +3,8 @@
 [View Rawdata](../../db/o/outlast.json)  
 Rating: 4.76 (Ranked 138)  
 ## Awards
-Max (Highly Recommended): 26  (Ranked 566)  
-Sum: 47 (Ranked 539)  
+Max (Highly Recommended): 26  (Ranked 567)  
+Sum: 47 (Ranked 540)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |

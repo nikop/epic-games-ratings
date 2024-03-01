@@ -321,21 +321,21 @@ Completed: 1,457 (4.97%) (Ranked 84)
 | 2024-01-27 | 29,216 | 1,437 |
 | 2024-02-22 | 29,333 | 1,457 |
 ## Awards
-Max (Amazing Storytelling): 47  (Ranked 487)  
-Sum: 404 (Ranked 371)  
-Diff (max vs sum): 116  
+Max (Amazing Storytelling): 47  (Ranked 488)  
+Sum: 406 (Ranked 370)  
+Diff (max vs sum): 118  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 47 |
 | This game is Great for Beginners | 42 |
 | This game has Quickly Understood Controls | 40 |
-| This game has Amazing Characters | 38 |
+| This game has Amazing Characters | 39 |
 | This game has Diverse Characters | 37 |
 | This game is Highly Recommended | 36 |
 | This game is Great for Quick Sessions | 36 |
 | This game is Extremely Fun | 34 |
+| This game has Easy Combat | 33 |
 | This game has a Creative Community | 32 |
-| This game has Easy Combat | 32 |
 | This game is Relaxing | 30 |
 | This game has Obsessive Gameplay | 22 |
 ## Ratings History
@@ -492,3 +492,4 @@ Diff (max vs sum): 116
 | 2024-02-19 | 4.86 | - | 47 | 401 |
 | 2024-02-22 | 4.86 | - | 47 | 403 |
 | 2024-02-28 | 4.86 | - | 47 | 404 |
+| 2024-03-01 | 4.86 | - | 47 | 406 |
