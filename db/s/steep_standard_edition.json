@@ -4,7 +4,7 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 221,
   "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 441,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -735,10 +735,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 195,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-03-01T12:59:21.0340989+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 196,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 195,
+  "NumberOfAwards": 196,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -764,7 +770,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -802,8 +808,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-03-01T02:17:07.2926204+00:00",
+  "LastChanged": "2024-03-01T12:59:21.0340987+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:12.8371684+00:00",
-  "LastUpdate_Ratings": "2024-03-01T10:59:39.7922503+00:00",
+  "LastUpdate_Ratings": "2024-03-01T12:59:21.0340992+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.5991533+00:00"
 }
