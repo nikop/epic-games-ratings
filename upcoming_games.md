@@ -18,6 +18,7 @@
 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 9 | - | - |
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | - |  | - | - |
 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 2024-03-12 | - |  | - | - |
+| [CUSTOM ORDER MAID 3D2 It's a Night Magic](games/3/309fb463378346999da2271c311cf2c2.md) | 2024-03-14 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
 | [Cat Slide Tiles](games/3/344d0216bb1f4f5ca084a7a613478efa.md) | 2024-03-15 | - |  | - | - |
 | [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-19 | - |  | - | - |
@@ -285,7 +286,6 @@
 | [Crowncity](games/8/8a9e2e0b21af45119ff2ada4a39be1a1.md) | 2099-01-01 | - |  | - | - |
 | [Cryptmaster](games/c/cryptmaster.md) | 2099-01-01 | - |  | - | - |
 | [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2099-01-01 | - |  | - | - |
-| [CUSTOM ORDER MAID 3D2 It's a Night Magic](games/3/309fb463378346999da2271c311cf2c2.md) | 2099-01-01 | - |  | - | - |
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2099-01-01 | - |  | - | - |
 | [CyberCorp](games/2/2c0b31e23e2c4d0396802d4561940177.md) | 2099-01-01 | - |  | - | - |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | - |  | - | - |
