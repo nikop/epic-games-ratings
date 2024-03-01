@@ -4,7 +4,7 @@
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 865,
   "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 12,
@@ -5731,6 +5731,6 @@
   "LastChanged": "2024-02-29T23:00:51.0617413+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:14.5094283+00:00",
   "LastUpdate_AppInfo": "2024-02-27T17:57:12.2178243+00:00",
-  "LastUpdate_Ratings": "2024-03-01T20:59:47.1797528+00:00",
+  "LastUpdate_Ratings": "2024-03-01T22:57:47.8814192+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:14.5094888+00:00"
 }
