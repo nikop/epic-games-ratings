@@ -351,7 +351,7 @@ Completed: 4 (0.01%) (Ranked 394)
 | 2024-01-27 | 70,578 | 4 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 384)  
-Sum: 855 (Ranked 295)  
+Sum: 856 (Ranked 295)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): 89
 | This game has Competitive Players | 78 |
 | This game has a Competitive Community | 77 |
 | This game is Educational | 76 |
-| This game has Amazing Storytelling | 62 |
+| This game has Amazing Storytelling | 63 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
@@ -551,3 +551,4 @@ Diff (max vs sum): 89
 | 2024-02-23 | 4.53 | - | 107 | 852 |
 | 2024-02-24 | 4.53 | - | 107 | 854 |
 | 2024-02-26 | 4.53 | - | 107 | 855 |
+| 2024-03-01 | 4.53 | - | 107 | 856 |

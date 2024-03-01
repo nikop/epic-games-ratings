@@ -5,14 +5,14 @@ Rating: 4.51 (Ranked 614)
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 74  (Ranked 429)  
-Sum: 539 (Ranked 345)  
+Sum: 540 (Ranked 345)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 74 |
 | This game is Great for Quick Sessions | 67 |
 | This game is Educational | 66 |
-| This game is Relaxing | 59 |
+| This game is Relaxing | 60 |
 | This game is Highly Recommended | 55 |
 | This game has Quickly Understood Controls | 54 |
 | This game has a Competitive Community | 50 |
@@ -147,3 +147,4 @@ Diff (max vs sum): 84
 | 2024-02-21 | 4.51 | - | 74 | 572 |
 | 2024-02-24 | 4.51 | - | 74 | 573 |
 | 2024-02-29 | 4.51 | - | 74 | 539 |
+| 2024-03-01 | 4.51 | - | 74 | 540 |
