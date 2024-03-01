@@ -3,7 +3,7 @@
   "Name": "Alien: Isolation",
   "ProductSlug": "alien-isolation",
   "Ranking_Rating": 402,
-  "Ranking_Popularity": 352,
+  "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -2504,11 +2504,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 1038,
       "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2024-03-01T18:57:59.2433623+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1039,
+      "NumberOfAwardsMax": 143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1038,
-  "NumberOfAwardsMax": 142,
+  "NumberOfAwards": 1039,
+  "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -2533,7 +2539,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 142
+      "Count": 143
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2577,8 +2583,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2024-03-01T13:01:41.0375085+00:00",
+  "LastChanged": "2024-03-01T18:57:59.2433621+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:40.637014+00:00",
-  "LastUpdate_Ratings": "2024-03-01T17:00:03.6107071+00:00",
+  "LastUpdate_Ratings": "2024-03-01T18:57:59.2433627+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:48.1301052+00:00"
 }
