@@ -4,12 +4,12 @@
 Rating: 4.70 (Ranked 222)  
 Number of Ratings: 414  (23.09.2022)  
 ## Awards
-Max (Realistic Visuals): 31  (Ranked 539)  
-Sum: 194 (Ranked 441)  
-Diff (max vs sum): 98  
+Max (Realistic Visuals): 32  (Ranked 533)  
+Sum: 195 (Ranked 441)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
-| This game has Realistic Visuals | 31 |
+| This game has Realistic Visuals | 32 |
 | This game is Great for Quick Sessions | 29 |
 | This game has Quickly Understood Controls | 24 |
 | This game has Diverse Characters | 24 |
@@ -132,3 +132,4 @@ Diff (max vs sum): 98
 | 2024-02-23 | 4.70 | - | 31 | 172 |
 | 2024-02-24 | 4.70 | - | 31 | 174 |
 | 2024-02-29 | 4.70 | - | 31 | 194 |
+| 2024-03-01 | 4.70 | - | 32 | 195 |
