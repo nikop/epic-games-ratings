@@ -2,7 +2,7 @@
   "ID": "f575ebe4cc43491c95e5e01e5741a031",
   "Name": "Stranded: Alien Dawn",
   "ProductSlug": "stranded-alien-dawn",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 859,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-04-25T13:05:45.0799844+00:00",
@@ -547,6 +547,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-03-01T17:57:50.9135383+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -573,8 +579,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-25T13:05:45.0799807+00:00",
   "FirstSeenRating": "2023-04-25T13:05:45.0799839+00:00",
-  "LastChanged": "2024-02-18T20:59:05.5182742+00:00",
+  "LastChanged": "2024-03-01T17:57:50.9135382+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:57:58.5809423+00:00",
-  "LastUpdate_Ratings": "2024-03-01T16:01:41.0093159+00:00",
+  "LastUpdate_Ratings": "2024-03-01T17:57:50.9135385+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:07.5361252+00:00"
 }
