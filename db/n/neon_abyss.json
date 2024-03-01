@@ -2,7 +2,7 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 292,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 8340,
   "RatingHistory": [
     {
@@ -4887,10 +4887,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 5711,
       "NumberOfAwardsMax": 744
+    },
+    {
+      "Time": "2024-03-01T02:58:42.9318591+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5712,
+      "NumberOfAwardsMax": 744
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5711,
+  "NumberOfAwards": 5712,
   "NumberOfAwardsMax": 744,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4916,7 +4922,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 610
+      "Count": 611
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4966,8 +4972,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2024-02-29T15:58:24.660486+00:00",
+  "LastChanged": "2024-03-01T02:58:42.931859+00:00",
   "LastUpdate_AppInfo": "2024-02-24T22:57:15.896222+00:00",
-  "LastUpdate_Ratings": "2024-03-01T02:16:59.2690598+00:00",
+  "LastUpdate_Ratings": "2024-03-01T02:58:42.9318594+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:38.3701317+00:00"
 }
