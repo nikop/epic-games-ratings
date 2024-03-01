@@ -1,18 +1,18 @@
 # Ghostwire: Tokyo
 [Store](https://store.epicgames.com/en-US/p/ghostwire-tokyo)  
 [View Rawdata](../../db/g/ghostwire__tokyo.json)  
-Rating: 4.49 (Ranked 652)  
+Rating: 4.49 (Ranked 653)  
 Number of Ratings: 1,100  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 7,253  (Ranked 63)  
-Sum: 9,763 (Ranked 106)  
+Sum: 9,767 (Ranked 106)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,253 |
 | This game has Diverse Characters | 339 |
-| This game has Amazing Storytelling | 312 |
-| This game is Great for Beginners | 302 |
+| This game has Amazing Storytelling | 315 |
+| This game is Great for Beginners | 303 |
 | This game has Amazing Characters | 294 |
 | This game is Highly Recommended | 287 |
 | This game has Quickly Understood Controls | 282 |
@@ -287,4 +287,4 @@ Diff (max vs sum): -43
 | 2024-02-27 | 4.49 | - | 7,195 | 9,677 |
 | 2024-02-28 | 4.49 | - | 7,217 | 9,711 |
 | 2024-02-29 | 4.49 | - | 7,234 | 9,740 |
-| 2024-03-01 | 4.49 | - | 7,253 | 9,763 |
+| 2024-03-01 | 4.49 | - | 7,253 | 9,767 |
