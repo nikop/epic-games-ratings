@@ -3,7 +3,7 @@
   "Name": "DEATH STRANDING",
   "ProductSlug": "death-stranding",
   "Ranking_Rating": 111,
-  "Ranking_Popularity": 45,
+  "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 4,
   "Ranking_EOS_Completed": 346,
@@ -9093,18 +9093,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 14026,
       "NumberOfAwardsMax": 9816
+    },
+    {
+      "Time": "2024-03-01T11:57:56.1192431+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 14038,
+      "NumberOfAwardsMax": 9828
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14026,
-  "NumberOfAwardsMax": 9816,
+  "NumberOfAwards": 14038,
+  "NumberOfAwardsMax": 9828,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9816
+      "Count": 9828
     },
     {
       "Text": "This game has Amazing Characters",
@@ -42293,9 +42299,9 @@
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
-  "LastChanged": "2024-03-01T06:00:38.9613974+00:00",
+  "LastChanged": "2024-03-01T11:57:56.1192429+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:37.6085608+00:00",
   "LastUpdate_AppInfo": "2024-02-24T22:57:19.7639744+00:00",
-  "LastUpdate_Ratings": "2024-03-01T10:01:11.4573284+00:00",
+  "LastUpdate_Ratings": "2024-03-01T11:57:56.1192434+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:37.6087397+00:00"
 }

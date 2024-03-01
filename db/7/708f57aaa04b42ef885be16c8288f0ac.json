@@ -2,9 +2,9 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 167,
-  "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 521,
+  "Ranking_Rating": 180,
+  "Ranking_Popularity": 450,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 234,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -525,18 +525,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-03-01T11:58:59.2755516+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
-  "NumberOfAwardsMax": 62,
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 62
+      "Count": 63
     }
   ],
   "EOS_Progressed": 16144,
@@ -11979,9 +11985,9 @@
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-02-28T06:57:35.5680765+00:00",
+  "LastChanged": "2024-03-01T11:58:59.2755514+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:45.8216692+00:00",
   "LastUpdate_AppInfo": "2024-02-29T21:57:17.0421859+00:00",
-  "LastUpdate_Ratings": "2024-03-01T10:58:00.7631834+00:00",
+  "LastUpdate_Ratings": "2024-03-01T11:58:59.2755519+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:45.8217295+00:00"
 }
