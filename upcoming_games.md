@@ -1,11 +1,11 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Arena Survivors](games/e/eb28b370b2f1435a94303a70bd2142b7.md) | 2024-03-01 | - |  | - | - |
 | [Mazemerizzz](games/5/540938ff9d7648ca9cf93e3c9a01d726.md) | 2024-03-01 | - |  | - | - |
 | [Unwording](games/d/dfcaca0f28ed435ebaf4e12d87a39ad2.md) | 2024-03-01 | - |  | - | - |
 | [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2024-03-02 | 29 (1,000 XP) | 2 | - | - |
 | [Lost Islands](games/3/3b0aa55999714473a49215e89289f883.md) | 2024-03-02 | - |  | - | - |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2024-03-04 | - |  | - | - |
+| [With in the Obscurity](games/4/49613a9a949f41cb99d3583a42d3fe88.md) | 2024-03-04 | - |  | - | - |
 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 2024-03-04 | - |  | - | - |
 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2024-03-05 | 36 (1,000 XP) | 0 | - | - |
 | [Expeditions: A MudRunner Game - The Great Don 71](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
@@ -61,7 +61,6 @@
 | [Universe Has No Favorites](games/f/fbce8614801c4fb7bf5900270c5b47d8.md) | 2024-03-31 | - |  | - | - |
 | [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-03-31 | - |  | - | - |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | - |  | - | - |
-| [With in the Obscurity](games/4/49613a9a949f41cb99d3583a42d3fe88.md) | 2024-03-31 | - |  | - | - |
 | [Withering Rooms](games/a/a9d3d11848a14f46a47ced564b521d37.md) | 2024-04-02 | - |  | - | - |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | - |  | - | - |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | - |  | - | - |
