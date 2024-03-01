@@ -2,7 +2,7 @@
   "ID": "742f165671424189aecdfdadf5ea9755",
   "Name": "Nuclear Throne",
   "ProductSlug": "nuclear-throne",
-  "Ranking_Rating": 102,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 859,
@@ -2227,10 +2227,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1434,
       "NumberOfAwardsMax": 427
+    },
+    {
+      "Time": "2024-03-01T19:57:37.4441941+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1435,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1434,
+  "NumberOfAwards": 1435,
   "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2268,7 +2274,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2324,8 +2330,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2024-02-28T02:13:04.9419081+00:00",
+  "LastChanged": "2024-03-01T19:57:37.444194+00:00",
   "LastUpdate_AppInfo": "2024-02-25T09:57:06.6634886+00:00",
-  "LastUpdate_Ratings": "2024-03-01T18:00:17.4146126+00:00",
+  "LastUpdate_Ratings": "2024-03-01T19:57:37.4441945+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:57.2162366+00:00"
 }
