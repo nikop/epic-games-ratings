@@ -312,12 +312,12 @@ Completed: 2,082 (0.48%) (Ranked 237)
 | 2024-02-22 | 429,813 | 2,082 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 288)  
-Sum: 1,563 (Ranked 253)  
+Sum: 1,565 (Ranked 253)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 254 |
-| This game is Great for Quick Sessions | 220 |
+| This game is Great for Quick Sessions | 222 |
 | This game has Diverse Characters | 179 |
 | This game has a Competitive Community | 129 |
 | This game has Playful Visuals | 127 |
@@ -483,4 +483,4 @@ Diff (max vs sum): 35
 | 2024-02-27 | 4.41 | 249 | 1,548 |
 | 2024-02-28 | 4.41 | 252 | 1,554 |
 | 2024-02-29 | 4.41 | 254 | 1,561 |
-| 2024-03-01 | 4.41 | 254 | 1,563 |
+| 2024-03-01 | 4.41 | 254 | 1,565 |
