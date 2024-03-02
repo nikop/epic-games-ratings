@@ -266,8 +266,8 @@ Completed: 7 (0.34%) (Ranked 263)
 | 2024-01-24 | 2,070 | 7 |
 | 2024-01-26 | 2,071 | 7 |
 ## Awards
-Max (Impact the Story): 31  (Ranked 543)  
-Sum: 31 (Ranked 569)  
+Max (Impact the Story): 31  (Ranked 544)  
+Sum: 31 (Ranked 570)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |

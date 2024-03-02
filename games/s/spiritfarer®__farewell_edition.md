@@ -4,8 +4,8 @@
 Rating: 4.87 (Ranked 21)  
 Number of Ratings: 178  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 23  (Ranked 583)  
-Sum: 106 (Ranked 488)  
+Max (Diverse Characters): 23  (Ranked 584)  
+Sum: 106 (Ranked 489)  
 Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |

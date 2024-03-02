@@ -1,7 +1,7 @@
 # Trine 5: A Clockwork Conspiracy
 [Store](https://store.epicgames.com/en-US/p/trine-5)  
 [View Rawdata](../../db/t/trine_5__a_clockwork_conspiracy.json)  
-Rating: 4.66 (Ranked 309)  
+Rating: 4.67 (Ranked 292)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -19,3 +19,4 @@ Rating: 4.66 (Ranked 309)
 | 2024-02-12 | 4.64 | 0 | 0 |
 | 2024-02-17 | 4.65 | 0 | 0 |
 | 2024-03-01 | 4.66 | 0 | 0 |
+| 2024-03-02 | 4.67 | 0 | 0 |

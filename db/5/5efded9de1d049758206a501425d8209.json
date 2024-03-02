@@ -3,8 +3,8 @@
   "Name": "Raini: The Lords of Light",
   "ProductSlug": "raini-the-lords-of-light-eaeed0",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 445,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -239,10 +239,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 184,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-03-02T17:59:36.9820838+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 184,
+  "NumberOfAwards": 206,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -292,6 +298,12 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 21
     }
   ],
@@ -307,8 +319,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-24T03:57:18.8590918+00:00",
   "FirstSeenRating": "2023-08-17T14:58:23.8866793+00:00",
-  "LastChanged": "2024-03-01T22:58:18.0429735+00:00",
+  "LastChanged": "2024-03-02T17:59:36.9820836+00:00",
   "LastUpdate_AppInfo": "2024-02-24T20:57:18.1777731+00:00",
-  "LastUpdate_Ratings": "2024-03-02T16:57:51.2950562+00:00",
+  "LastUpdate_Ratings": "2024-03-02T17:59:36.982084+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:30.4604893+00:00"
 }
