@@ -102,4 +102,3 @@
 | [Island of Fear](games/c/cd9345b512a544e38b7ff0165111e35c.md) | 2024-02-01 | - |  | - | 0 |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 278 | - | 0 |
 | [BUNKERZONE](games/a/afdf048047cd452482ad7c19b2e39733.md) | 2024-02-01 | - |  | - | 0 |
-| [Carnage Chase](games/f/fbe32f5aded6419aa99ef9ed8c719426.md) | 2024-02-01 | - |  | - | - |
