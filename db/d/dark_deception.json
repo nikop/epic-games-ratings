@@ -3,8 +3,8 @@
   "Name": "Dark Deception",
   "ProductSlug": "dark-deception",
   "Ranking_Rating": 653,
-  "Ranking_Popularity": 607,
-  "Ranking_PopularitySum": 607,
+  "Ranking_Popularity": 608,
+  "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -402,6 +402,6 @@
   "FirstSeen": "2022-07-22T20:17:45.5721818+00:00",
   "LastChanged": "2024-02-20T15:59:29.7428382+00:00",
   "LastUpdate_AppInfo": "2024-02-25T09:57:11.4526035+00:00",
-  "LastUpdate_Ratings": "2024-03-01T22:57:16.1161605+00:00",
+  "LastUpdate_Ratings": "2024-03-01T23:58:34.3637432+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:30.2792981+00:00"
 }
