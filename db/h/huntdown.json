@@ -2,7 +2,7 @@
   "ID": "78de1f402ddf486ebcbf9ba3009d6198",
   "Name": "Huntdown",
   "ProductSlug": "huntdown",
-  "Ranking_Rating": 80,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "RatingHistory": [
     {
       "Time": "2022-11-04T14:31:43.7194039+00:00",
@@ -75,6 +75,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-02T18:59:16.2407167+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -93,8 +99,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:30.407463+00:00",
   "FirstSeenRating": "2022-11-04T14:31:43.7194036+00:00",
-  "LastChanged": "2023-12-30T16:00:12.4247996+00:00",
+  "LastChanged": "2024-03-02T18:59:16.2407165+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:27.1434703+00:00",
-  "LastUpdate_Ratings": "2024-03-02T17:58:26.8614462+00:00",
+  "LastUpdate_Ratings": "2024-03-02T18:59:16.2407171+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:47.1303314+00:00"
 }
