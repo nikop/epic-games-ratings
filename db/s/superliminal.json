@@ -2,7 +2,7 @@
   "ID": "6cec00f8934146508b884b0f139d55d0",
   "Name": "Superliminal",
   "ProductSlug": "superliminal",
-  "Ranking_Rating": 93,
+  "Ranking_Rating": 80,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 859,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -218,6 +218,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-02T04:59:13.6813398+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -235,8 +241,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:46.1254178+00:00",
-  "LastChanged": "2024-01-17T00:02:33.4792816+00:00",
+  "LastChanged": "2024-03-02T04:59:13.6813396+00:00",
   "LastUpdate_AppInfo": "2024-02-25T09:57:04.1328839+00:00",
-  "LastUpdate_Ratings": "2024-03-02T03:57:54.2324999+00:00",
+  "LastUpdate_Ratings": "2024-03-02T04:59:13.6813403+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:17.586422+00:00"
 }

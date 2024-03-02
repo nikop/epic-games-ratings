@@ -3,8 +3,8 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 331,
-  "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 320,
+  "Ranking_Popularity": 379,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 52,
@@ -2293,11 +2293,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 726,
       "NumberOfAwardsMax": 109
+    },
+    {
+      "Time": "2024-03-02T04:58:41.5493553+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 726,
-  "NumberOfAwardsMax": 109,
+  "NumberOfAwards": 728,
+  "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2322,7 +2328,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2334,7 +2340,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14088,9 +14094,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-03-01T13:58:10.5952267+00:00",
+  "LastChanged": "2024-03-02T04:58:41.5493552+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:16.4624604+00:00",
   "LastUpdate_AppInfo": "2024-02-25T04:58:25.1759813+00:00",
-  "LastUpdate_Ratings": "2024-03-02T03:00:09.5133038+00:00",
+  "LastUpdate_Ratings": "2024-03-02T04:58:41.5493556+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:16.4625347+00:00"
 }

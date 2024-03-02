@@ -1,7 +1,7 @@
 # Alan Wake 2
 [Store](https://store.epicgames.com/en-US/p/alan-wake-2)  
 [View Rawdata](../../db/a/alan_wake_2.json)  
-Rating: 4.80 (Ranked 93)  
+Rating: 4.80 (Ranked 94)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -182,7 +182,7 @@ Completed: 8,512 (2.09%) (Ranked 138)
 | 2024-02-22 | 407,490 | 8,512 |
 ## Awards
 Max (Diverse Characters): 922  (Ranked 178)  
-Sum: 5,595 (Ranked 151)  
+Sum: 5,596 (Ranked 151)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): 27
 | This game has Amazing Storytelling | 845 |
 | This game has Amazing Characters | 804 |
 | This game is Extremely Fun | 790 |
-| This game has a Creative Community | 503 |
+| This game has a Creative Community | 504 |
 | This game is Educational | 34 |
 | This game is Great for Beginners | 29 |
 ## Ratings History
@@ -326,3 +326,4 @@ Diff (max vs sum): 27
 | 2024-02-28 | 4.80 | 917 | 5,567 |
 | 2024-02-29 | 4.80 | 922 | 5,580 |
 | 2024-03-01 | 4.80 | 922 | 5,595 |
+| 2024-03-02 | 4.80 | 922 | 5,596 |
