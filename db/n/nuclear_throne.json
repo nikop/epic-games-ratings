@@ -4,7 +4,7 @@
   "ProductSlug": "nuclear-throne",
   "Ranking_Rating": 102,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -2239,10 +2239,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1436,
       "NumberOfAwardsMax": 427
+    },
+    {
+      "Time": "2024-03-02T06:57:24.6504705+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1438,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1436,
+  "NumberOfAwards": 1438,
   "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2262,7 +2268,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 77
+      "Count": 79
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2336,8 +2342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2024-03-01T23:57:48.602142+00:00",
+  "LastChanged": "2024-03-02T06:57:24.6504703+00:00",
   "LastUpdate_AppInfo": "2024-02-25T09:57:06.6634886+00:00",
-  "LastUpdate_Ratings": "2024-03-02T04:59:35.3935207+00:00",
+  "LastUpdate_Ratings": "2024-03-02T06:57:24.6504708+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:57.2162366+00:00"
 }
