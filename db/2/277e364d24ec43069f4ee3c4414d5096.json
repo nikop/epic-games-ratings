@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 96,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-06-18T22:56:59.3875767+00:00",
@@ -405,6 +405,12 @@
     {
       "Time": "2024-02-24T08:59:46.7184797+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-02T10:57:46.770716+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -26752,9 +26758,9 @@
   "FirstSeen": "2023-06-15T18:57:15.2360624+00:00",
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
-  "LastChanged": "2024-02-24T08:59:46.7184796+00:00",
+  "LastChanged": "2024-03-02T10:57:46.7707158+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.4859211+00:00",
   "LastUpdate_AppInfo": "2024-03-01T14:56:59.5555127+00:00",
-  "LastUpdate_Ratings": "2024-03-02T09:00:14.1094986+00:00",
+  "LastUpdate_Ratings": "2024-03-02T10:57:46.7707172+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.4860485+00:00"
 }
