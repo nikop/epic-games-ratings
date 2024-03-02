@@ -4,7 +4,7 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 138,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 234,
@@ -6697,10 +6697,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8655,
       "NumberOfAwardsMax": 1242
+    },
+    {
+      "Time": "2024-03-02T21:58:13.1990369+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8657,
+      "NumberOfAwardsMax": 1242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8655,
+  "NumberOfAwards": 8657,
   "NumberOfAwardsMax": 1242,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6768,7 +6774,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 574
+      "Count": 576
     }
   ],
   "EOS_Progressed": 14897,
@@ -27058,9 +27064,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-03-02T15:59:59.3144267+00:00",
+  "LastChanged": "2024-03-02T21:58:13.1990367+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:54.7089244+00:00",
   "LastUpdate_AppInfo": "2024-02-25T07:57:36.9331023+00:00",
-  "LastUpdate_Ratings": "2024-03-02T20:01:07.495879+00:00",
+  "LastUpdate_Ratings": "2024-03-02T21:58:13.1990374+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:54.7090548+00:00"
 }
