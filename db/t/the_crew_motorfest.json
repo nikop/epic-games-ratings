@@ -2,7 +2,7 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 331,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 859,
@@ -5967,10 +5967,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 7225,
       "NumberOfAwardsMax": 992
+    },
+    {
+      "Time": "2024-03-02T16:57:15.4599018+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 7229,
+      "NumberOfAwardsMax": 992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7225,
+  "NumberOfAwards": 7229,
   "NumberOfAwardsMax": 992,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6038,7 +6044,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 944
+      "Count": 948
     }
   ],
   "EOS_Progressed": 0,
@@ -6053,8 +6059,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2024-03-02T14:59:04.9961471+00:00",
+  "LastChanged": "2024-03-02T16:57:15.4599016+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:35.0474004+00:00",
-  "LastUpdate_Ratings": "2024-03-02T14:59:04.9961477+00:00",
+  "LastUpdate_Ratings": "2024-03-02T16:57:15.4599022+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:01.05792+00:00"
 }

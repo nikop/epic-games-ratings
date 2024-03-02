@@ -4,7 +4,7 @@
   "ProductSlug": "geneforge-1-mutagen",
   "Ranking_Rating": 994,
   "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -652,10 +652,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 168,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-03-02T16:59:08.1305629+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168,
+  "NumberOfAwards": 169,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -681,7 +687,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -707,8 +713,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:43.0453732+00:00",
-  "LastChanged": "2024-02-28T21:57:48.6374516+00:00",
+  "LastChanged": "2024-03-02T16:59:08.1305627+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:56:58.3806437+00:00",
-  "LastUpdate_Ratings": "2024-03-02T15:57:22.2612338+00:00",
+  "LastUpdate_Ratings": "2024-03-02T16:59:08.1305631+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:34.3148811+00:00"
 }
