@@ -3,11 +3,12 @@
 [View Rawdata](../../db/m/metalstorm.json)  
 Rating: 4.44 (Ranked 728)  
 ## Awards
-Max (Great for Beginners): 21  (Ranked 597)  
-Sum: 21 (Ranked 599)  
-Diff (max vs sum): -2  
+Max (Great for Quick Sessions): 22  (Ranked 590)  
+Sum: 43 (Ranked 545)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 22 |
 | This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -83,4 +84,4 @@ Diff (max vs sum): -2
 | 2024-02-27 | 4.45 | 0 | 0 |
 | 2024-02-28 | 4.45 | 20 | 20 |
 | 2024-02-29 | 4.44 | 20 | 20 |
-| 2024-03-02 | 4.44 | 21 | 21 |
+| 2024-03-02 | 4.44 | 22 | 43 |

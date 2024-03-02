@@ -2,9 +2,9 @@
   "ID": "a646020cb93b4ea995cda70647bbe001",
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
-  "Ranking_Rating": 220,
+  "Ranking_Rating": 219,
   "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 440,
+  "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -747,10 +747,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-03-02T19:59:36.5589336+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 218,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
+  "NumberOfAwards": 218,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -801,6 +807,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 20
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -814,8 +826,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-03-02T17:01:12.5448595+00:00",
+  "LastChanged": "2024-03-02T19:59:36.5589334+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:12.8371684+00:00",
-  "LastUpdate_Ratings": "2024-03-02T18:57:55.7121509+00:00",
+  "LastUpdate_Ratings": "2024-03-02T19:59:36.5589338+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.5991533+00:00"
 }

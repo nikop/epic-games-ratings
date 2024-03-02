@@ -4,7 +4,7 @@
   "ProductSlug": "we-were-here-forever",
   "Ranking_Rating": 310,
   "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 581,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -419,6 +419,6 @@
   "FirstSeen": "2022-07-22T20:17:15.5524229+00:00",
   "LastChanged": "2024-03-02T15:57:57.391319+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:07.7851021+00:00",
-  "LastUpdate_Ratings": "2024-03-02T18:01:46.5176406+00:00",
+  "LastUpdate_Ratings": "2024-03-02T19:58:25.1211222+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:03.5841058+00:00"
 }

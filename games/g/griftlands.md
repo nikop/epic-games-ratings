@@ -1,11 +1,11 @@
 # Griftlands
 [Store](https://store.epicgames.com/en-US/p/griftlands)  
 [View Rawdata](../../db/g/griftlands.json)  
-Rating: 4.79 (Ranked 101)  
+Rating: 4.79 (Ranked 100)  
 Number of Ratings: 151  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 21  (Ranked 597)  
-Sum: 21 (Ranked 599)  
+Max (Quickly Understood Controls): 21  (Ranked 598)  
+Sum: 21 (Ranked 600)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
