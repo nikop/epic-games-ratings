@@ -2,7 +2,7 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 107,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 859,
@@ -13065,10 +13065,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 24470,
       "NumberOfAwardsMax": 3181
+    },
+    {
+      "Time": "2024-03-02T01:38:14.6366524+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 24476,
+      "NumberOfAwardsMax": 3181
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24470,
+  "NumberOfAwards": 24476,
   "NumberOfAwardsMax": 3181,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13094,13 +13100,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2354
+      "Count": 2355
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2195
+      "Count": 2196
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13112,7 +13118,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2275
+      "Count": 2277
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13124,7 +13130,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2290
+      "Count": 2292
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13156,8 +13162,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2024-03-01T22:57:25.1286558+00:00",
+  "LastChanged": "2024-03-02T01:38:14.6366523+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:25.7500494+00:00",
-  "LastUpdate_Ratings": "2024-03-01T23:58:42.6041468+00:00",
+  "LastUpdate_Ratings": "2024-03-02T01:38:14.6366528+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.6257012+00:00"
 }

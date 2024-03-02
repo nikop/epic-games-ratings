@@ -1,11 +1,11 @@
 # Aven Colony
 [Store](https://store.epicgames.com/en-US/p/aven-colony)  
 [View Rawdata](../../db/a/aven_colony.json)  
-Rating: 4.20 (Ranked 995)  
+Rating: 4.20 (Ranked 994)  
 Number of Ratings: 2,200  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 131  (Ranked 360)  
-Sum: 764 (Ranked 312)  
+Sum: 765 (Ranked 312)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 48
 | This game is Relaxing | 127 |
 | This game is Great for Beginners | 125 |
 | This game has Quickly Understood Controls | 120 |
-| This game is Highly Recommended | 107 |
+| This game is Highly Recommended | 108 |
 | This game is Extremely Fun | 102 |
 | This game has Easy Combat | 84 |
 | This game has Amazing Characters | 67 |
@@ -148,3 +148,4 @@ Diff (max vs sum): 48
 | 2024-02-04 | 4.20 | - | 131 | 762 |
 | 2024-02-19 | 4.20 | - | 131 | 763 |
 | 2024-02-26 | 4.20 | - | 131 | 764 |
+| 2024-03-02 | 4.20 | - | 131 | 765 |
