@@ -155,7 +155,7 @@
 | 151 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 608 |
 | 151 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.75 | 0 | 608 |
 | 151 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,001 | 174 |
-| 151 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,492 | 144 |
+| 151 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,497 | 144 |
 | 151 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.75 | 35,158 | 17 |
 | 151 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 608 |
 | 151 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 608 |
@@ -282,7 +282,7 @@
 | 272 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.68 | 0 | 608 |
 | 272 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 608 |
 | 272 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 608 |
-| 272 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.68 | 133 | 358 |
+| 272 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.68 | 134 | 356 |
 | 272 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.68 | 53 | 466 |
 | 272 | [Road 96](games/r/road_96.md) | 4.68 | 0 | 608 |
 | 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 70 | 440 |
@@ -422,7 +422,7 @@
 | 402 | [MudRunner](games/m/mudrunner.md) | 4.61 | 320 | 264 |
 | 402 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.61 | 0 | 608 |
 | 402 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 714 | 202 |
-| 402 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,078 | 41 |
+| 402 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,083 | 41 |
 | 402 | [RIDE 5](games/r/ride_5.md) | 4.61 | 0 | 608 |
 | 402 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,116 | 160 |
 | 402 | [Rogue Lords](games/r/rogue_lords.md) | 4.61 | 0 | 608 |
@@ -695,7 +695,7 @@
 | 693 | [Absolute Drift](games/a/absolute_drift.md) | 4.46 | 0 | 608 |
 | 693 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 608 |
 | 693 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 608 |
-| 693 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,269 | 93 |
+| 693 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,270 | 93 |
 | 693 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 608 |
 | 693 | [Death Coming](games/d/death_coming.md) | 4.46 | 0 | 608 |
 | 693 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,135 | 156 |
@@ -723,7 +723,7 @@
 | 708 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 608 |
 | 708 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 919 | 181 |
 | 708 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 608 |
-| 708 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 133 | 358 |
+| 708 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 133 | 359 |
 | 708 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 608 |
 | 708 | [Tunche](games/t/tunche.md) | 4.45 | 32 | 533 |
 | 708 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.45 | 0 | 608 |
@@ -914,7 +914,7 @@
 | 908 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.29 | 0 | 608 |
 | 908 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,219,857 | 1 |
 | 908 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 608 |
-| 908 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 812 | 193 |
+| 908 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 813 | 193 |
 | 908 | [Predecessor](games/p/predecessor.md) | 4.29 | 406 | 245 |
 | 908 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 172 | 334 |
 | 908 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 6,030 | 75 |
@@ -939,16 +939,16 @@
 | 937 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 608 |
 | 937 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 22 | 589 |
 | 937 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 23 | 582 |
+| 937 | [Nightingale](games/n/nightingale.md) | 4.27 | 0 | 608 |
 | 937 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 608 |
-| 941 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.26 | 0 | 608 |
-| 941 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 608 |
-| 941 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,653 | 22 |
-| 941 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,036 | 96 |
-| 941 | [Nightingale](games/n/nightingale.md) | 4.26 | 0 | 608 |
-| 941 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,009 | 108 |
-| 941 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 23 | 582 |
-| 941 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 608 |
-| 941 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 275 |
+| 942 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.26 | 0 | 608 |
+| 942 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 608 |
+| 942 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,653 | 22 |
+| 942 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,036 | 96 |
+| 942 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,009 | 108 |
+| 942 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 23 | 582 |
+| 942 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 608 |
+| 942 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 275 |
 | 950 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 589 |
 | 950 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.25 | 0 | 608 |
 | 950 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 1,033 | 170 |
