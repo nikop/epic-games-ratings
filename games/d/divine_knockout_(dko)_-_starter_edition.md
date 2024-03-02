@@ -4,9 +4,9 @@
 Rating: 4.30 (Ranked 900)  
 Number of Ratings: 60  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 74  (Ranked 431)  
+Max (Diverse Characters): 74  (Ranked 432)  
 Sum: 549 (Ranked 344)  
-Diff (max vs sum): 87  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 74 |
