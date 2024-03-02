@@ -1,7 +1,7 @@
 # The Crew 2 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-crew-2)  
 [View Rawdata](../../db/t/the_crew_2_standard_edition.json)  
-Rating: 4.66 (Ranked 307)  
+Rating: 4.67 (Ranked 292)  
 Number of Ratings: 2,083  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 828  (Ranked 190)  
@@ -442,3 +442,4 @@ Diff (max vs sum): 41
 | 2024-02-28 | 4.66 | - | 824 | 5,627 |
 | 2024-02-29 | 4.66 | - | 826 | 5,631 |
 | 2024-03-01 | 4.66 | - | 828 | 5,639 |
+| 2024-03-02 | 4.67 | - | 828 | 5,639 |
