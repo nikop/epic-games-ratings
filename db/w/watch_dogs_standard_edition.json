@@ -3,7 +3,7 @@
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 477,
-  "Ranking_Popularity": 373,
+  "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -3253,18 +3253,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 733,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-03-02T08:58:06.0295803+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 734,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 733,
-  "NumberOfAwardsMax": 118,
+  "NumberOfAwards": 734,
+  "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 118
+      "Count": 119
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3344,8 +3350,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2024-02-29T17:59:25.049292+00:00",
+  "LastChanged": "2024-03-02T08:58:06.0295801+00:00",
   "LastUpdate_AppInfo": "2024-02-25T08:57:05.4948454+00:00",
-  "LastUpdate_Ratings": "2024-03-02T07:00:13.8700233+00:00",
+  "LastUpdate_Ratings": "2024-03-02T08:58:06.0295811+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:09.622854+00:00"
 }
