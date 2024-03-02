@@ -2,7 +2,7 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "ProductSlug": "fall-guys",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 5,
   "Ranking_EOS_Progress": 1,
@@ -19570,18 +19570,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 1415517,
       "NumberOfAwardsMax": 156969
+    },
+    {
+      "Time": "2024-03-02T20:57:20.3357993+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1415622,
+      "NumberOfAwardsMax": 157017
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1415517,
-  "NumberOfAwardsMax": 156969,
+  "NumberOfAwards": 1415622,
+  "NumberOfAwardsMax": 157017,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 156969
+      "Count": 157017
     },
     {
       "Text": "This game is Relaxing",
@@ -19605,7 +19611,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 138320
+      "Count": 138355
     },
     {
       "Text": "This game has Diverse Characters",
@@ -19641,7 +19647,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 106445
+      "Count": 106467
     }
   ],
   "EOS_Progressed": 37867330,
@@ -52537,9 +52543,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2024-03-02T18:59:21.5655819+00:00",
+  "LastChanged": "2024-03-02T20:57:20.3357991+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:53.7012842+00:00",
   "LastUpdate_AppInfo": "2024-02-25T07:57:38.8482533+00:00",
-  "LastUpdate_Ratings": "2024-03-02T18:59:21.5655826+00:00",
+  "LastUpdate_Ratings": "2024-03-02T20:57:20.3357999+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:53.7014152+00:00"
 }

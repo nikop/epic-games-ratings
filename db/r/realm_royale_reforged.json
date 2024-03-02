@@ -3,7 +3,7 @@
   "Name": "Realm Royale Reforged",
   "ProductSlug": "realm-royale-reforged",
   "Ranking_Rating": 908,
-  "Ranking_Popularity": 335,
+  "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -2768,10 +2768,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 1458,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-03-02T20:59:00.3290726+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1459,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1458,
+  "NumberOfAwards": 1459,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2791,7 +2797,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 136
+      "Count": 137
     },
     {
       "Text": "This game is Relaxing",
@@ -2860,8 +2866,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2024-03-02T08:57:52.901842+00:00",
+  "LastChanged": "2024-03-02T20:59:00.3290724+00:00",
   "LastUpdate_AppInfo": "2024-02-25T10:57:44.4189731+00:00",
-  "LastUpdate_Ratings": "2024-03-02T19:00:29.6755683+00:00",
+  "LastUpdate_Ratings": "2024-03-02T20:59:00.3290729+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:09:20.3371619+00:00"
 }
