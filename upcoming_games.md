@@ -119,6 +119,7 @@
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-07-29 | 33 (1,000 XP) | 0 | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
+| [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-31 | - |  | - | - |
 | [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-08-31 | - |  | - | - |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-31 | - |  | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-08-31 | - |  | - | - |
@@ -210,6 +211,7 @@
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | 2024-12-31 | - |  | - | - |
 | [VED](games/v/ved.md) | 2024-12-31 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
+| [Skystead Ranch](games/5/5df8e058035b4f1ab1522b584a0142f3.md) | 2025-01-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [Crystal Ball Critters](games/9/9f72ba7c750948d0ba91b26f9c989b3f.md) | 2025-06-30 | - |  | - | - |
 | [Big Walk](games/2/271473d449b34fa5825cd0c6af7ca728.md) | 2025-12-31 | - |  | - | - |
