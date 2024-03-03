@@ -2,7 +2,7 @@
   "ID": "695337c5e45f4fe69d68f5593197a41e",
   "Name": "King of Retail",
   "ProductSlug": "king-of-retail-c3ad3e",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 244,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 859,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2022-11-20T11:58:32.397862+00:00",
@@ -90,6 +90,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-03T20:01:07.9273493+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -108,8 +114,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T05:32:17.2030911+00:00",
   "FirstSeenRating": "2022-11-20T11:58:32.3978616+00:00",
-  "LastChanged": "2024-01-28T12:59:03.1924232+00:00",
+  "LastChanged": "2024-03-03T20:01:07.9273491+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:24.1711722+00:00",
-  "LastUpdate_Ratings": "2024-03-03T18:59:40.7450778+00:00",
+  "LastUpdate_Ratings": "2024-03-03T20:01:07.9273496+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:08.4140159+00:00"
 }

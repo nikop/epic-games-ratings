@@ -1,11 +1,11 @@
 # Grand Theft Auto V: Premium Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-v)  
 [View Rawdata](../../db/g/grand_theft_auto_v__premium_edition.json)  
-Rating: 4.68 (Ranked 272)  
+Rating: 4.68 (Ranked 273)  
 Number of Ratings: 573,831  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 333,812  (Ranked 3)  
-Sum: 2,248,546 (Ranked 3)  
+Sum: 2,249,396 (Ranked 3)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): 0
 | This game has Quickly Understood Controls | 274,012 |
 | This game is Highly Recommended | 265,952 |
 | This game is Extremely Fun | 265,405 |
-| This game has Amazing Storytelling | 263,300 |
-| This game has Amazing Characters | 256,920 |
+| This game has Amazing Storytelling | 263,734 |
+| This game has Amazing Characters | 257,336 |
 | This game has Competitive Players | 206,846 |
 | This game has Obsessive Gameplay | 78,155 |
 ## Ratings History
@@ -426,4 +426,4 @@ Diff (max vs sum): 0
 | 2024-02-29 | 4.68 | - | 332,281 | 2,239,174 |
 | 2024-03-01 | 4.68 | - | 332,697 | 2,241,887 |
 | 2024-03-02 | 4.68 | - | 333,270 | 2,245,610 |
-| 2024-03-03 | 4.68 | - | 333,812 | 2,248,546 |
+| 2024-03-03 | 4.68 | - | 333,812 | 2,249,396 |
