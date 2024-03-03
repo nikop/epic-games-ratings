@@ -1,10 +1,10 @@
 # Tower of Fantasy
 [Store](https://store.epicgames.com/en-US/p/tower-of-fantasy)  
 [View Rawdata](../../db/t/tower_of_fantasy.json)  
-Rating: 4.35 (Ranked 852)  
+Rating: 4.35 (Ranked 853)  
 ## Awards
 Max (Character Customization): 501  (Ranked 228)  
-Sum: 1,262 (Ranked 266)  
+Sum: 1,263 (Ranked 266)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): -38
 | This game has Diverse Characters | 108 |
 | This game is Highly Recommended | 90 |
 | This game has Beautiful Visuals | 82 |
-| This game has Amazing Characters | 79 |
+| This game has Amazing Characters | 80 |
 | This game has Amazing Storytelling | 79 |
 | This game is Extremely Fun | 75 |
 | This game has Quickly Understood Controls | 67 |
@@ -292,3 +292,4 @@ Diff (max vs sum): -38
 | 2024-02-29 | 4.35 | 499 | 1,258 |
 | 2024-03-01 | 4.35 | 501 | 1,260 |
 | 2024-03-02 | 4.35 | 501 | 1,262 |
+| 2024-03-03 | 4.35 | 501 | 1,263 |

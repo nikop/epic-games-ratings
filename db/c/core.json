@@ -2,7 +2,7 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 853,
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 859,
@@ -2862,10 +2862,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 2235,
       "NumberOfAwardsMax": 798
+    },
+    {
+      "Time": "2024-03-03T11:58:09.2736905+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2236,
+      "NumberOfAwardsMax": 798
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2235,
+  "NumberOfAwards": 2236,
   "NumberOfAwardsMax": 798,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2897,7 +2903,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game is Relaxing",
@@ -2959,8 +2965,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2024-03-02T17:58:02.1383219+00:00",
+  "LastChanged": "2024-03-03T11:58:09.2736902+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:19.1636183+00:00",
-  "LastUpdate_Ratings": "2024-03-03T10:00:22.3074406+00:00",
+  "LastUpdate_Ratings": "2024-03-03T11:58:09.2736909+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:36.0049659+00:00"
 }
