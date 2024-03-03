@@ -2,9 +2,9 @@
   "ID": "7dee3ddeac7d427eb35def472be64d9c",
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
-  "Ranking_Rating": 708,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -2035,10 +2035,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 525,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-03-03T16:59:27.3597425+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 528,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525,
+  "NumberOfAwards": 528,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2064,7 +2070,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 65
+      "Count": 67
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2094,7 +2100,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 39
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -2108,8 +2114,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2024-03-01T02:18:00.8553475+00:00",
+  "LastChanged": "2024-03-03T16:59:27.3597423+00:00",
   "LastUpdate_AppInfo": "2024-03-02T21:57:06.2911846+00:00",
-  "LastUpdate_Ratings": "2024-03-03T15:57:47.7368971+00:00",
+  "LastUpdate_Ratings": "2024-03-03T16:59:27.3597428+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:46.6994806+00:00"
 }
