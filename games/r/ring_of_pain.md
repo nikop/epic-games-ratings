@@ -430,9 +430,9 @@ Completed: 316 (0.13%) (Ranked 313)
 | 2024-01-27 | 243,584 | 309 |
 | 2024-02-22 | 244,702 | 316 |
 ## Awards
-Max (Quickly Understood Controls): 1,519  (Ranked 140)  
+Max (Quickly Understood Controls): 1,519  (Ranked 141)  
 Sum: 11,843 (Ranked 93)  
-Diff (max vs sum): 47  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
