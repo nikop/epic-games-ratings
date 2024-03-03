@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-new-vegas",
   "Ranking_Rating": 244,
   "Ranking_Popularity": 56,
-  "Ranking_PopularitySum": 59,
+  "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 234,
@@ -12465,24 +12465,30 @@
       "Rating": 4.69,
       "NumberOfAwards": 24570,
       "NumberOfAwardsMax": 8082
+    },
+    {
+      "Time": "2024-03-03T12:58:31.742618+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 24615,
+      "NumberOfAwardsMax": 8101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24570,
-  "NumberOfAwardsMax": 8082,
+  "NumberOfAwards": 24615,
+  "NumberOfAwardsMax": 8101,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8082
+      "Count": 8101
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4731
+      "Count": 4750
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12536,7 +12542,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1202
+      "Count": 1209
     },
     {
       "Text": "This game is Great for Beginners",
@@ -42298,9 +42304,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-03-03T05:59:27.6413519+00:00",
+  "LastChanged": "2024-03-03T12:58:31.7426178+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:24.5582407+00:00",
   "LastUpdate_AppInfo": "2024-03-01T17:57:26.919885+00:00",
-  "LastUpdate_Ratings": "2024-03-03T11:02:41.4440115+00:00",
+  "LastUpdate_Ratings": "2024-03-03T12:58:31.7426185+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:24.5583993+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 562,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 418,
+  "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 100,
@@ -527,10 +527,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 249,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-03-03T13:00:01.6153473+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 251,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 249,
+  "NumberOfAwards": 251,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -592,13 +598,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 4861,
@@ -9123,9 +9129,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
-  "LastChanged": "2024-03-02T17:58:49.0444702+00:00",
+  "LastChanged": "2024-03-03T13:00:01.6153471+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:03.6360091+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:10.5226698+00:00",
-  "LastUpdate_Ratings": "2024-03-03T11:58:45.9075741+00:00",
+  "LastUpdate_Ratings": "2024-03-03T13:00:01.6153477+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:03.6360776+00:00"
 }
