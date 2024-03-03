@@ -2,9 +2,9 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "ProductSlug": "tannenberg",
-  "Ranking_Rating": 806,
+  "Ranking_Rating": 807,
   "Ranking_Popularity": 260,
-  "Ranking_PopularitySum": 184,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 234,
@@ -3813,10 +3813,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3326,
       "NumberOfAwardsMax": 341
+    },
+    {
+      "Time": "2024-03-03T07:00:24.6668951+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2994,
+      "NumberOfAwardsMax": 341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3326,
+  "NumberOfAwards": 2994,
   "NumberOfAwardsMax": 341,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -36296,9 +36302,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
-  "LastChanged": "2024-03-01T19:58:35.84135+00:00",
+  "LastChanged": "2024-03-03T07:00:24.6668949+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:34.5582799+00:00",
   "LastUpdate_AppInfo": "2024-02-25T09:57:11.0542619+00:00",
-  "LastUpdate_Ratings": "2024-03-03T06:00:13.7712652+00:00",
+  "LastUpdate_Ratings": "2024-03-03T07:00:24.6668954+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:34.5584691+00:00"
 }
