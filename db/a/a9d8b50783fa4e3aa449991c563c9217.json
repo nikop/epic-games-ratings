@@ -1,6 +1,7 @@
 {
   "ID": "a9d8b50783fa4e3aa449991c563c9217",
   "Name": "Project Tower",
+  "ProductSlug": "project-tower-010f57",
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -32,5 +33,6 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_Ratings": "2024-03-03T14:58:44.9362275+00:00"
+  "LastUpdate_AppInfo": "2024-03-03T15:57:11.648517+00:00",
+  "LastUpdate_Ratings": "2024-03-03T15:58:23.6531632+00:00"
 }

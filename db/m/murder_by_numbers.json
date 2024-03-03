@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 937,
   "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 505,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -429,10 +429,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-03-03T15:59:10.8320857+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
+  "NumberOfAwards": 85,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -458,7 +464,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -473,8 +479,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-02-26T01:41:43.9536077+00:00",
+  "LastChanged": "2024-03-03T15:59:10.8320856+00:00",
   "LastUpdate_AppInfo": "2024-03-03T06:57:17.3739754+00:00",
-  "LastUpdate_Ratings": "2024-03-03T14:59:47.2487098+00:00",
+  "LastUpdate_Ratings": "2024-03-03T15:59:10.8320862+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:19.5477394+00:00"
 }
