@@ -2,7 +2,7 @@
   "ID": "c981760ff69f4586aedb60a6db191705",
   "Name": "Roboquest",
   "ProductSlug": "roboquest-9ad17a",
-  "Ranking_Rating": 94,
+  "Ranking_Rating": 82,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 130,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2023-12-12T22:56:57.7167841+00:00",
@@ -165,6 +165,12 @@
     {
       "Time": "2024-02-13T09:58:02.6017125+00:00",
       "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-03T20:57:51.6141466+00:00",
+      "Rating": 4.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -10464,9 +10470,9 @@
   "FirstSeen": "2023-11-08T13:02:45.7128844+00:00",
   "FirstSeenRating": "2023-12-12T22:56:57.7167838+00:00",
   "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
-  "LastChanged": "2024-02-13T09:58:02.6017123+00:00",
+  "LastChanged": "2024-03-03T20:57:51.6141464+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:51.3054034+00:00",
   "LastUpdate_AppInfo": "2024-02-27T03:57:06.2960287+00:00",
-  "LastUpdate_Ratings": "2024-03-03T19:00:06.4500059+00:00",
+  "LastUpdate_Ratings": "2024-03-03T20:57:51.6141469+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:51.3055036+00:00"
 }
