@@ -2,7 +2,7 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 460,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 859,
@@ -3785,10 +3785,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1419,
       "NumberOfAwardsMax": 500
+    },
+    {
+      "Time": "2024-03-03T17:59:42.9988709+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1420,
+      "NumberOfAwardsMax": 500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1419,
+  "NumberOfAwards": 1420,
   "NumberOfAwardsMax": 500,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3832,7 +3838,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3888,8 +3894,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-03-02T04:59:35.0402532+00:00",
+  "LastChanged": "2024-03-03T17:59:42.9988708+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:58.537224+00:00",
-  "LastUpdate_Ratings": "2024-03-03T16:58:40.9290439+00:00",
+  "LastUpdate_Ratings": "2024-03-03T17:59:42.9988713+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:20.3863661+00:00"
 }

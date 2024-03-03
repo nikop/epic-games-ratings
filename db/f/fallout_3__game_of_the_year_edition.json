@@ -2,7 +2,7 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 441,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -8813,6 +8813,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 31608,
       "NumberOfAwardsMax": 15319
+    },
+    {
+      "Time": "2024-03-03T17:57:49.4571736+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 31608,
+      "NumberOfAwardsMax": 15319
     }
   ],
   "ReviewsDisabled": false,
@@ -8905,8 +8911,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-03-03T13:57:31.3720498+00:00",
+  "LastChanged": "2024-03-03T17:57:49.4571735+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:29.3291867+00:00",
-  "LastUpdate_Ratings": "2024-03-03T15:59:45.9806833+00:00",
+  "LastUpdate_Ratings": "2024-03-03T17:57:49.457174+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:00.531201+00:00"
 }
