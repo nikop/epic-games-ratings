@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-of-us-part-1",
   "Ranking_Rating": 460,
   "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 304,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -1947,10 +1947,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 808,
       "NumberOfAwardsMax": 552
+    },
+    {
+      "Time": "2024-03-03T13:57:27.4179187+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 809,
+      "NumberOfAwardsMax": 552
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 808,
+  "NumberOfAwards": 809,
   "NumberOfAwardsMax": 552,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1970,7 +1976,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Relaxing",
@@ -2027,8 +2033,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-03-03T08:01:29.4539379+00:00",
+  "LastChanged": "2024-03-03T13:57:27.4179185+00:00",
   "LastUpdate_AppInfo": "2024-03-03T08:57:15.7449907+00:00",
-  "LastUpdate_Ratings": "2024-03-03T12:00:11.6548986+00:00",
+  "LastUpdate_Ratings": "2024-03-03T13:57:27.417919+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:58.9320544+00:00"
 }

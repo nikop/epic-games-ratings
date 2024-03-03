@@ -2,7 +2,7 @@
   "ID": "bloodroot",
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one",
-  "Ranking_Rating": 81,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 70,
   "RatingHistory": [
     {
@@ -314,6 +314,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-03-03T13:57:41.6302442+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
@@ -339,8 +345,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2024-02-21T14:57:46.8998464+00:00",
+  "LastChanged": "2024-03-03T13:57:41.630244+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:18.5364917+00:00",
-  "LastUpdate_Ratings": "2024-03-03T12:00:27.6872953+00:00",
+  "LastUpdate_Ratings": "2024-03-03T13:57:41.6302446+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:46.7296641+00:00"
 }
