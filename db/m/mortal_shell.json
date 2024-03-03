@@ -3,7 +3,7 @@
   "Name": "Mortal Shell",
   "ProductSlug": "mortal-shell",
   "Ranking_Rating": 937,
-  "Ranking_Popularity": 590,
+  "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -727,12 +727,18 @@
       "Rating": 4.27,
       "NumberOfAwards": 106,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-03-03T03:57:15.8996122+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 107,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 106,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 107,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -756,7 +762,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Extremely Fun",
@@ -782,8 +788,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2024-03-01T04:59:20.4804098+00:00",
+  "LastChanged": "2024-03-03T03:57:15.899612+00:00",
   "LastUpdate_AppInfo": "2024-02-25T07:57:24.0044797+00:00",
-  "LastUpdate_Ratings": "2024-03-03T02:16:26.8126793+00:00",
+  "LastUpdate_Ratings": "2024-03-03T03:57:15.8996125+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:42.3870451+00:00"
 }
