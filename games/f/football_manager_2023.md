@@ -392,12 +392,12 @@ Completed: 31 (0.01%) (Ranked 394)
 | 2024-02-22 | 377,242 | 31 |
 ## Awards
 Max (Diverse Characters): 1,497  (Ranked 144)  
-Sum: 10,064 (Ranked 105)  
+Sum: 10,065 (Ranked 105)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,497 |
-| This game is Highly Recommended | 1,232 |
+| This game is Highly Recommended | 1,233 |
 | This game is Extremely Fun | 1,208 |
 | This game is Educational | 1,164 |
 | This game is Relaxing | 1,136 |
@@ -780,4 +780,4 @@ Diff (max vs sum): 39
 | 2024-02-29 | 4.75 | 1,490 | 10,036 |
 | 2024-03-01 | 4.75 | 1,492 | 10,042 |
 | 2024-03-02 | 4.75 | 1,497 | 10,063 |
-| 2024-03-03 | 4.75 | 1,497 | 10,064 |
+| 2024-03-03 | 4.75 | 1,497 | 10,065 |

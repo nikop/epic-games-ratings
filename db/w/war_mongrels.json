@@ -2,7 +2,7 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 829,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 258,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -353,6 +353,12 @@
     {
       "Time": "2024-02-24T11:00:44.2640375+00:00",
       "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-03T08:59:53.1224596+00:00",
+      "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3429,9 +3435,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
-  "LastChanged": "2024-02-24T11:00:44.2640373+00:00",
+  "LastChanged": "2024-03-03T08:59:53.1224594+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:53.6244013+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:10.6792633+00:00",
-  "LastUpdate_Ratings": "2024-03-03T08:00:56.1605534+00:00",
+  "LastUpdate_Ratings": "2024-03-03T08:59:53.12246+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:53.6244598+00:00"
 }
