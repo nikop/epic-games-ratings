@@ -4,8 +4,8 @@
 Rating: 3.93 (Ranked 1,097)  
 ## Awards
 Max (Relaxing): 47  (Ranked 488)  
-Sum: 252 (Ranked 415)  
-Diff (max vs sum): 73  
+Sum: 286 (Ranked 405)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 61 |
@@ -16,7 +16,7 @@ Diff (max vs sum): 73
 | This game has Amazing Characters | 42 |
 | This game has Quickly Understood Controls | 41 |
 | This game is Extremely Fun | 36 |
-| This game has Realistic Visuals | 24 |
+| This game has Realistic Visuals | 34 |
 | This game has a Competitive Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -116,4 +116,4 @@ Diff (max vs sum): 73
 | 2024-02-29 | 3.94 | 61 | 326 |
 | 2024-03-01 | 3.94 | 61 | 346 |
 | 2024-03-02 | 3.93 | 46 | 293 |
-| 2024-03-03 | 3.93 | 47 | 252 |
+| 2024-03-03 | 3.93 | 47 | 286 |
