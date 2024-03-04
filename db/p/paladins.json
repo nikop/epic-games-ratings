@@ -3,7 +3,7 @@
   "Name": "Paladins",
   "ProductSlug": "paladins",
   "Ranking_Rating": 884,
-  "Ranking_Popularity": 95,
+  "Ranking_Popularity": 94,
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -12039,11 +12039,17 @@
       "Rating": 4.32,
       "NumberOfAwards": 26819,
       "NumberOfAwardsMax": 4186
+    },
+    {
+      "Time": "2024-03-04T04:34:22.5685555+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 26826,
+      "NumberOfAwardsMax": 4193
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 26819,
-  "NumberOfAwardsMax": 4186,
+  "NumberOfAwards": 26826,
+  "NumberOfAwardsMax": 4193,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -12056,7 +12062,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4186
+      "Count": 4193
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12118,8 +12124,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2024-03-04T02:55:30.3070766+00:00",
+  "LastChanged": "2024-03-04T04:34:22.5685553+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:04.6374929+00:00",
-  "LastUpdate_Ratings": "2024-03-04T02:55:30.3070774+00:00",
+  "LastUpdate_Ratings": "2024-03-04T04:34:22.568556+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:45.9283145+00:00"
 }
