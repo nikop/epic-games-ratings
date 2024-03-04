@@ -355,7 +355,7 @@
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 35 (1,200 XP) | 19,318 | 4.53 | 0 |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 310,445 | 4.71 | 8,471 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 310,445 | 4.71 | 8,505 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | 12 (1,000 XP) | 8 | - | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
@@ -798,7 +798,7 @@
 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 2022-03-02 | 73 (1,000 XP) | 220 | 4.29 | 0 |
 | [HordeCore](games/h/hordecore.md) | 2022-03-02 | 28 (1,000 XP) | 368 | - | 0 |
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 296 | 4.28 | 0 |
-| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,221,766 | 4.61 | 56,775 |
+| [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 2022-02-28 | 78 (1,000 XP) | 4,221,766 | 4.61 | 56,869 |
 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 2022-02-28 | 46 (1,000 XP) | 523 | 4.40 | 0 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 2022-02-25 | 101 (1,000 XP) | 4,475 | 4.29 | 0 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 2022-02-17 | 34 (1,000 XP) | 141,534 | 4.40 | 0 |
@@ -920,7 +920,7 @@
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,015 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
-| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 480,876 | 4.80 | 6,513 |
+| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 480,876 | 4.80 | 6,515 |
 | [greensheen Production](games/g/greensheen_production.md) | - | 35 (1,000 XP) | 25 | - | - |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 16 | - | - |
 | [MultiVersus](games/m/multiversus.md) | - | 28 (1,000 XP) | 1,081,100 | 4.56 | 4,754 |
