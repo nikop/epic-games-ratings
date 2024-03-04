@@ -4,7 +4,7 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 224,
   "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -753,10 +753,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 218,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-03-04T14:57:52.2659903+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 219,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 218,
+  "NumberOfAwards": 219,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -800,7 +806,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Relaxing",
@@ -826,8 +832,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-03-02T19:59:36.5589334+00:00",
+  "LastChanged": "2024-03-04T14:57:52.26599+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:51.6656048+00:00",
-  "LastUpdate_Ratings": "2024-03-04T13:02:53.1780432+00:00",
+  "LastUpdate_Ratings": "2024-03-04T14:57:52.2659916+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.5991533+00:00"
 }
