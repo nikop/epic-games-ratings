@@ -1,7 +1,7 @@
 # Smalland: Survive the Wilds
 [Store](https://store.epicgames.com/en-US/p/smalland)  
 [View Rawdata](../../db/s/smalland__survive_the_wilds.json)  
-Rating: 4.58 (Ranked 478)  
+Rating: 4.57 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -372,3 +372,4 @@ Completed: 18 (0.08%) (Ranked 341)
 | 2024-01-27 | 4.59 | 0 | 0 |
 | 2024-02-17 | 4.60 | 0 | 0 |
 | 2024-02-18 | 4.58 | 0 | 0 |
+| 2024-03-04 | 4.57 | 0 | 0 |
