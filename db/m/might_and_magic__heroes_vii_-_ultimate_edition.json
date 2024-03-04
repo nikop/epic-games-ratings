@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-7",
   "Ranking_Rating": 726,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 406,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -1204,10 +1204,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-03-04T16:57:34.4108976+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 290,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1215,7 +1221,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1239,13 +1245,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
@@ -1257,7 +1263,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -1271,8 +1277,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2024-03-03T10:58:56.0900896+00:00",
+  "LastChanged": "2024-03-04T16:57:34.4108975+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:23.6952154+00:00",
-  "LastUpdate_Ratings": "2024-03-04T15:01:10.9688364+00:00",
+  "LastUpdate_Ratings": "2024-03-04T16:57:34.4108982+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:41.2178442+00:00"
 }
