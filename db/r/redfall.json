@@ -4,7 +4,7 @@
   "ProductSlug": "redfall",
   "Ranking_Rating": 1128,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 553,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 129,
@@ -5371,6 +5371,6 @@
   "LastChanged": "2024-02-25T17:57:07.5079372+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:46.0417632+00:00",
   "LastUpdate_AppInfo": "2024-03-03T08:57:21.277437+00:00",
-  "LastUpdate_Ratings": "2024-03-04T16:59:07.5989352+00:00",
+  "LastUpdate_Ratings": "2024-03-04T18:57:30.8534999+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:46.041825+00:00"
 }
