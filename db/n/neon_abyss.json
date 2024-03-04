@@ -2,7 +2,7 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 8340,
   "RatingHistory": [
     {
@@ -4923,6 +4923,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 5717,
       "NumberOfAwardsMax": 745
+    },
+    {
+      "Time": "2024-03-04T05:39:15.5559346+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5717,
+      "NumberOfAwardsMax": 745
     }
   ],
   "ReviewsDisabled": false,
@@ -5002,8 +5008,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2024-03-03T05:59:00.5822126+00:00",
+  "LastChanged": "2024-03-04T05:39:15.5559344+00:00",
   "LastUpdate_AppInfo": "2024-03-02T23:57:00.9215408+00:00",
-  "LastUpdate_Ratings": "2024-03-04T02:57:05.3205415+00:00",
+  "LastUpdate_Ratings": "2024-03-04T05:39:15.5559351+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:38.3701317+00:00"
 }
