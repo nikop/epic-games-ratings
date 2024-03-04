@@ -2,7 +2,7 @@
   "ID": "28d06644e2f84b398c1b7fb96a2b6bd5",
   "Name": "Gods Will Fall",
   "ProductSlug": "gods-will-fall",
-  "Ranking_Rating": 1087,
+  "Ranking_Rating": 1084,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.97,
+  "Rating": 3.98,
   "NumberOfRatings": 228,
   "RatingHistory": [
     {
@@ -444,6 +444,12 @@
       "Rating": 3.97,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-04T17:57:35.5030414+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -461,8 +467,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:39.1659104+00:00",
-  "LastChanged": "2023-11-11T14:57:19.4594534+00:00",
+  "LastChanged": "2024-03-04T17:57:35.5030412+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:47.1884168+00:00",
-  "LastUpdate_Ratings": "2024-03-04T16:00:12.495286+00:00",
+  "LastUpdate_Ratings": "2024-03-04T17:57:35.5030416+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:19.1667694+00:00"
 }
