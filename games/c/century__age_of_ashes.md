@@ -4,12 +4,12 @@
 Rating: 4.40 (Ranked 788)  
 Number of Ratings: 1,747  (23.09.2022)  
 ## Awards
-Max (Amazing Characters): 71  (Ranked 440)  
-Sum: 642 (Ranked 330)  
-Diff (max vs sum): 110  
+Max (Great for Quick Sessions): 72  (Ranked 439)  
+Sum: 643 (Ranked 330)  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 71 |
+| This game is Great for Quick Sessions | 72 |
 | This game has Amazing Characters | 71 |
 | This game has Competitive Players | 70 |
 | This game has Diverse Characters | 69 |
@@ -197,3 +197,4 @@ Diff (max vs sum): 110
 | 2024-02-19 | 4.41 | - | 71 | 641 |
 | 2024-03-01 | 4.40 | - | 71 | 641 |
 | 2024-03-02 | 4.40 | - | 71 | 642 |
+| 2024-03-04 | 4.40 | - | 72 | 643 |
