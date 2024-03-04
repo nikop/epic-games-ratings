@@ -4,7 +4,7 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 135,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 234,
@@ -6751,11 +6751,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 8675,
       "NumberOfAwardsMax": 1248
+    },
+    {
+      "Time": "2024-03-04T20:01:40.6926761+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8677,
+      "NumberOfAwardsMax": 1250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8675,
-  "NumberOfAwardsMax": 1248,
+  "NumberOfAwards": 8677,
+  "NumberOfAwardsMax": 1250,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6768,7 +6774,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1248
+      "Count": 1250
     },
     {
       "Text": "This game is Extremely Fun",
@@ -27112,9 +27118,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-03-04T18:59:09.7432109+00:00",
+  "LastChanged": "2024-03-04T20:01:40.6926759+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:54.7089244+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:19.6421951+00:00",
-  "LastUpdate_Ratings": "2024-03-04T18:59:09.7432114+00:00",
+  "LastUpdate_Ratings": "2024-03-04T20:01:40.6926765+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:54.7090548+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "grandchase-c03eb2",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 529,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -327,6 +327,6 @@
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
   "LastChanged": "2024-03-04T18:58:14.234588+00:00",
   "LastUpdate_AppInfo": "2024-02-28T06:57:10.3240346+00:00",
-  "LastUpdate_Ratings": "2024-03-04T18:58:14.2345884+00:00",
+  "LastUpdate_Ratings": "2024-03-04T20:00:20.6397042+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:37.1734818+00:00"
 }
