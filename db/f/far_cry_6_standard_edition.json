@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 692,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -11255,10 +11255,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 8676,
       "NumberOfAwardsMax": 1139
+    },
+    {
+      "Time": "2024-03-04T21:01:30.7142775+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8677,
+      "NumberOfAwardsMax": 1139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8676,
+  "NumberOfAwards": 8677,
   "NumberOfAwardsMax": 1139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11308,7 +11314,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1082
+      "Count": 1083
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11328,8 +11334,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2024-03-04T11:58:23.6696714+00:00",
+  "LastChanged": "2024-03-04T21:01:30.7142773+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:23.7169887+00:00",
-  "LastUpdate_Ratings": "2024-03-04T19:59:55.220119+00:00",
+  "LastUpdate_Ratings": "2024-03-04T21:01:30.714278+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:04:58.331527+00:00"
 }
