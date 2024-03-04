@@ -1,36 +1,36 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Youtubers Life](games/a/aa743bad41d24af0a14b3d1e979e1f85.md) | 2024-03-05 | - |  | - | - |
-| [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | - |  | - | - |
-| [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | - |  | - | - |
+| [Youtubers Life](games/a/aa743bad41d24af0a14b3d1e979e1f85.md) | 2024-03-05 | 63 (1,000 XP) | 2 | - | - |
+| [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | 20 (1,000 XP) | 0 | - | - |
+| [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | - |
 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2024-03-05 | 36 (1,000 XP) | 0 | - | - |
 | [Expeditions: A MudRunner Game - The Great Don 71](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
 | [Hailot - Random Card Defense](games/a/a702c4e086e143e39a95456fa7832719.md) | 2024-03-05 | - |  | - | - |
 | [Never Synth](games/3/371b823a2db44deea5ad6467a114abe0.md) | 2024-03-05 | - |  | - | - |
-| [REVEIL](games/c/c95731cf37314e239f348c0559df8c56.md) | 2024-03-06 | - |  | - | - |
+| [REVEIL](games/c/c95731cf37314e239f348c0559df8c56.md) | 2024-03-06 | 26 (1,000 XP) | 3 | - | - |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | - |  | - | - |
 | [Metal Mind](games/9/973ea9bd62374be5bb84ef2c8d096c56.md) | 2024-03-07 | - |  | - | - |
 | [Vacation Adventures Cruise Director 6 Collectors Edition](games/1/1a68308781074dee8aed749f500b33f0.md) | 2024-03-07 | - |  | - | - |
-| [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | - |  | - | - |
+| [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | 50 (1,000 XP) | 0 | - | - |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | - |  | - | - |
-| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 9 | - | - |
-| [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | - |  | - | - |
-| [Far Horizon](games/d/d41f47180bb94a70b3d05a31ebe89b7d.md) | 2024-03-11 | - |  | - | - |
+| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 10 | - | - |
+| [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 3 | - | - |
+| [Far Horizon](games/d/d41f47180bb94a70b3d05a31ebe89b7d.md) | 2024-03-11 | 55 (1,000 XP) | 0 | - | - |
 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 2024-03-12 | - |  | - | - |
 | [CUSTOM ORDER MAID 3D2 It's a Night Magic](games/3/309fb463378346999da2271c311cf2c2.md) | 2024-03-14 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
 | [The Warden's Paradise](games/8/829e4fae2a754b94b71476ad9cebba84.md) | 2024-03-15 | - |  | - | - |
-| [Cat Slide Tiles](games/3/344d0216bb1f4f5ca084a7a613478efa.md) | 2024-03-15 | - |  | - | - |
-| [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-19 | - |  | - | - |
+| [Cat Slide Tiles](games/3/344d0216bb1f4f5ca084a7a613478efa.md) | 2024-03-15 | 6 (1,000 XP) | 4 | - | - |
+| [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-19 | 14 (1,000 XP) | 1 | - | - |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | - |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | - |  | - | - |
 | [Breachway](games/b/breachway.md) | 2024-03-22 | - |  | - | - |
-| [Unlock The Cat](games/0/06eff52201bd4e7d9db3e56a11ac4536.md) | 2024-03-22 | - |  | - | - |
+| [Unlock The Cat](games/0/06eff52201bd4e7d9db3e56a11ac4536.md) | 2024-03-22 | 7 (1,000 XP) | 2 | - | - |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 0 | - | - |
 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-26 | - |  | - | - |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | - |  | - | - |
-| [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-03-27 | - |  | - | - |
-| [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-03-28 | - |  | - | - |
+| [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-03-27 | 38 (1,000 XP) | 1 | - | - |
+| [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-03-28 | 38 (1,000 XP) | 1 | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-31 | 47 (1,000 XP) | 2 | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-03-31 | - |  | - | - |
@@ -59,7 +59,7 @@
 | [Stories from the Outbreak](games/5/54b2781b490444debc7739e562b05291.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-31 | - |  | - | - |
-| [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-31 | - |  | - | - |
+| [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-31 | 23 (1,000 XP) | 7 | - | - |
 | [TRIBES 3: Rivals](games/4/41f54b0e3988413c921e4a21cdb15172.md) | 2024-03-31 | - |  | - | - |
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | - |  | - | - |
 | [Universe Has No Favorites](games/f/fbce8614801c4fb7bf5900270c5b47d8.md) | 2024-03-31 | - |  | - | - |
@@ -76,7 +76,7 @@
 | [AC Sailing](games/5/509ce98dda624bf193c297eadee9385c.md) | 2024-04-30 | - |  | - | - |
 | [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-04-30 | - |  | - | - |
-| [Die Again](games/a/a3d688525a954efa8afc49bfe5464c80.md) | 2024-04-30 | - |  | - | - |
+| [Die Again](games/a/a3d688525a954efa8afc49bfe5464c80.md) | 2024-04-30 | 19 (1,000 XP) | 0 | - | - |
 | [Dungeon Renovation Simulator](games/2/27dde2bf49304fc19badc32544a9105f.md) | 2024-04-30 | - |  | - | - |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-04-30 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-04-30 | - |  | - | - |
@@ -107,7 +107,7 @@
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-06-30 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,309 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,450 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [Ninja Chowdown: Glaze of Glory](games/9/9d14aa079d6247ea83dcbc8879b90380.md) | 2024-06-30 | - |  | - | - |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-06-30 | - |  | - | - |
@@ -144,7 +144,7 @@
 | [Arena Tails](games/4/484b67c9648047c9a26f8c34a65b6624.md) | 2024-12-31 | - |  | - | - |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
-| [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-12-31 | - |  | - | - |
+| [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-12-31 | 69 (1,000 XP) | 21 | - | - |
 | [Beyond These Stars](games/b/beyond_these_stars.md) | 2024-12-31 | - |  | - | - |
 | [Blacksmith Master](games/b/blacksmith_master.md) | 2024-12-31 | - |  | - | - |
 | [Capital Command](games/c/capital_command.md) | 2024-12-31 | - |  | - | - |
@@ -164,7 +164,7 @@
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Everstorm](games/2/2247c107d7f74b8bb72445b10b6c1eae.md) | 2024-12-31 | - |  | - | - |
 | [Fata Deum](games/f/fata_deum.md) | 2024-12-31 | - |  | - | - |
-| [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-12-31 | - |  | - | - |
+| [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-12-31 | 34 (1,000 XP) | 2 | - | - |
 | [Fragile Existence](games/f/fragile_existence.md) | 2024-12-31 | - |  | - | - |
 | [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | 2024-12-31 | - |  | - | - |
 | [Grand Emprise: Time Travel Survival](games/f/f5e2b23815ac4da58630dc30656cd5ea.md) | 2024-12-31 | - |  | - | - |
@@ -198,7 +198,7 @@
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
 | [Star Vortex](games/f/f752f0d1dba941d1934cfdb69c8e944d.md) | 2024-12-31 | - |  | - | - |
 | [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-12-31 | - |  | - | - |
-| [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-12-31 | - |  | - | - |
+| [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-12-31 | 32 (1,000 XP) | 0 | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
@@ -277,7 +277,7 @@
 | [Can't Be Touched](games/7/73df555f0b5145ee89ee3b370e7eebb7.md) | 2099-01-01 | - |  | - | - |
 | [Candy Disaster](games/5/5462a132ecc745009cc413aa845adce9.md) | 2099-01-01 | - |  | - | - |
 | [Capes](games/c/capes.md) | 2099-01-01 | - |  | - | - |
-| [Cat Billiards](games/a/af1bc981716d44a4a2e6e6bec2fef194.md) | 2099-01-01 | - |  | - | - |
+| [Cat Billiards](games/a/af1bc981716d44a4a2e6e6bec2fef194.md) | 2099-01-01 | 100 (1,000 XP) | 1 | - | - |
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | - |  | - | - |
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | 2099-01-01 | - |  | - | - |
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
