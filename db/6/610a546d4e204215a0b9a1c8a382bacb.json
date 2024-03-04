@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 99,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 205,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 234,
@@ -3793,10 +3793,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 2652,
       "NumberOfAwardsMax": 306
+    },
+    {
+      "Time": "2024-03-03T23:59:03.9566284+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2656,
+      "NumberOfAwardsMax": 306
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2652,
+  "NumberOfAwards": 2656,
   "NumberOfAwardsMax": 306,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3852,7 +3858,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 239
+      "Count": 243
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14435,9 +14441,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-03-03T19:58:05.2105283+00:00",
+  "LastChanged": "2024-03-03T23:59:03.9566283+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:54.5703643+00:00",
   "LastUpdate_AppInfo": "2024-02-28T03:57:25.3793803+00:00",
-  "LastUpdate_Ratings": "2024-03-03T22:00:37.7355132+00:00",
+  "LastUpdate_Ratings": "2024-03-03T23:59:03.9566292+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:54.5704867+00:00"
 }

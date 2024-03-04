@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 121,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 859,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -515,6 +515,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 218,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-03-03T23:57:44.0176332+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 218,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
@@ -577,8 +583,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-03-03T06:59:17.9952751+00:00",
+  "LastChanged": "2024-03-03T23:57:44.0176331+00:00",
   "LastUpdate_AppInfo": "2024-02-28T15:57:25.0972963+00:00",
-  "LastUpdate_Ratings": "2024-03-03T21:59:38.4792993+00:00",
+  "LastUpdate_Ratings": "2024-03-03T23:57:44.0176336+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:47.7060693+00:00"
 }
