@@ -2,7 +2,7 @@
   "ID": "54399b3ef40d4c568e5904607470ffe9",
   "Name": "Yoku\u0027s Island Express",
   "ProductSlug": "yokus-island-express",
-  "Ranking_Rating": 222,
+  "Ranking_Rating": 203,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 859,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 354,
   "RatingHistory": [
     {
@@ -446,6 +446,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-04T10:31:48.0165509+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -463,8 +469,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
-  "LastChanged": "2023-09-19T21:01:14.8944269+00:00",
+  "LastChanged": "2024-03-04T10:31:48.0165506+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:58:10.4969062+00:00",
-  "LastUpdate_Ratings": "2024-03-04T06:49:45.6649756+00:00",
+  "LastUpdate_Ratings": "2024-03-04T10:31:48.0165514+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:58.451137+00:00"
 }

@@ -8225,10 +8225,16 @@
       "Rating": 4,
       "NumberOfAwards": 25754,
       "NumberOfAwardsMax": 7818
+    },
+    {
+      "Time": "2024-03-04T10:33:28.0226237+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 25775,
+      "NumberOfAwardsMax": 7818
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25754,
+  "NumberOfAwards": 25775,
   "NumberOfAwardsMax": 7818,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -8272,7 +8278,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 4618
+      "Count": 4639
     },
     {
       "Text": "This game is Relaxing",
@@ -41105,9 +41111,9 @@
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2024-03-04T07:52:48.9235609+00:00",
+  "LastChanged": "2024-03-04T10:33:28.0226235+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:28.6825114+00:00",
   "LastUpdate_AppInfo": "2024-03-03T08:57:16.6596773+00:00",
-  "LastUpdate_Ratings": "2024-03-04T07:52:48.9235615+00:00",
+  "LastUpdate_Ratings": "2024-03-04T10:33:28.0226242+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:28.682644+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2b09519576cb4276bfd8df52f5288e4a",
   "Name": "Bus Simulator 21 Next Stop",
   "ProductSlug": "bus-simulator-21",
-  "Ranking_Rating": 1054,
+  "Ranking_Rating": 1048,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 859,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.1,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2023-11-18T21:03:33.9906293+00:00",
@@ -133,6 +133,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-04T10:33:38.4501259+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -151,8 +157,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-17T13:59:43.1546181+00:00",
   "FirstSeenRating": "2023-11-18T21:03:33.9906291+00:00",
-  "LastChanged": "2024-02-25T22:57:51.9938157+00:00",
+  "LastChanged": "2024-03-04T10:33:38.4501257+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:30.2844821+00:00",
-  "LastUpdate_Ratings": "2024-03-04T07:53:00.8940464+00:00",
+  "LastUpdate_Ratings": "2024-03-04T10:33:38.4501266+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:18.2722242+00:00"
 }
