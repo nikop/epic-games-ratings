@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 1003,
+  "Ranking_Rating": 1010,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 112,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -6219,10 +6219,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5882,
       "NumberOfAwardsMax": 3391
+    },
+    {
+      "Time": "2024-03-04T06:46:53.6406698+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5883,
+      "NumberOfAwardsMax": 3391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5882,
+  "NumberOfAwards": 5883,
   "NumberOfAwardsMax": 3391,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6242,7 +6248,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 308
+      "Count": 309
     },
     {
       "Text": "This game is Great for Beginners",
@@ -32933,9 +32939,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-03-03T08:02:02.6581807+00:00",
+  "LastChanged": "2024-03-04T06:46:53.6406696+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:43.1920979+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:20.7914267+00:00",
-  "LastUpdate_Ratings": "2024-03-04T04:34:57.213724+00:00",
+  "LastUpdate_Ratings": "2024-03-04T06:46:53.64067+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:43.1922289+00:00"
 }
