@@ -5,50 +5,50 @@ Rating: 3.96 (Ranked 1,090)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 4.00% | ~3,745 |
-| First One’s Free | 4.00% | ~3,745 |
-| Downed but Not Outed | 4.00% | ~3,745 |
-| Too Old for This | 3.00% | ~2,809 |
-| Fancy Pants | 3.00% | ~2,809 |
-| Underworld Initiate | 2.00% | ~1,873 |
-| Roid Ranger | 2.00% | ~1,873 |
-| Case Closed | 2.00% | ~1,873 |
-| King of the Hill | 2.00% | ~1,873 |
-| Off the Rocks | 2.00% | ~1,873 |
-| Raider’s Ruin | 2.00% | ~1,873 |
-| Dragonslayer | 2.00% | ~1,873 |
-| Rockay Rex | 2.00% | ~1,873 |
-| Hidden Sonata | 1.00% | ~936 |
-| Track Star | 1.00% | ~936 |
-| Headhunter | 1.00% | ~936 |
-| True Player | 1.00% | ~936 |
-| I Like Trains | 0.90% | ~843 |
-| Freebooter | 0.90% | ~843 |
-| Foo Finder | 0.70% | ~655 |
-| Moneybags | 0.70% | ~655 |
-| Legend Looter | 0.60% | ~562 |
-| Imports and Exports | 0.60% | ~562 |
-| Savvy Seeker | 0.60% | ~562 |
-| Olympus Ascended | 0.60% | ~562 |
-| Ding Dong | 0.60% | ~562 |
-| Cracked the Jack | 0.50% | ~468 |
-| All that Glitters | 0.50% | ~110 |
-| Rockay Raider | 0.40% | ~375 |
-| Groundhog Days | 0.40% | ~375 |
-| Classy Joint | 0.40% | ~375 |
-| Rockay Knight | 0.30% | ~281 |
-| Privateer | 0.30% | ~281 |
-| Red Star | 0.30% | ~281 |
-| Impossible Dreamer | 0.30% | ~281 |
-| All for One | 0.30% | ~66 |
-| One for All | 0.30% | ~66 |
-| Now You See Me | 0.30% | ~66 |
-| Talent Scout | 0.20% | ~187 |
+| Neophyte Ninja | 0.10% | ~94 |
+| Underworld Initiate | 0.10% | ~94 |
+| Roid Ranger | 0.10% | ~94 |
+| Hidden Sonata | 0.10% | ~94 |
+| Track Star | 0.10% | ~94 |
+| Legend Looter | 0.10% | ~94 |
+| Imports and Exports | 0.10% | ~94 |
+| Rockay Raider | 0.10% | ~94 |
+| Rockay Knight | 0.10% | ~94 |
+| Savvy Seeker | 0.10% | ~94 |
+| I Like Trains | 0.10% | ~94 |
+| Foo Finder | 0.10% | ~94 |
+| Freebooter | 0.10% | ~94 |
+| Privateer | 0.10% | ~94 |
+| Headhunter | 0.10% | ~94 |
+| Talent Scout | 0.10% | ~94 |
 | Full House | 0.10% | ~94 |
+| Moneybags | 0.10% | ~94 |
+| First One’s Free | 0.10% | ~94 |
+| Downed but Not Outed | 0.10% | ~94 |
+| Groundhog Days | 0.10% | ~94 |
+| Too Old for This | 0.10% | ~94 |
+| Olympus Ascended | 0.10% | ~94 |
+| Cracked the Jack | 0.10% | ~94 |
+| Ding Dong | 0.10% | ~94 |
+| Red Star | 0.10% | ~94 |
 | Geek Out | 0.10% | ~94 |
+| Case Closed | 0.10% | ~94 |
+| King of the Hill | 0.10% | ~94 |
+| Fancy Pants | 0.10% | ~94 |
+| Classy Joint | 0.10% | ~94 |
+| True Player | 0.10% | ~94 |
+| Off the Rocks | 0.10% | ~94 |
+| Raider’s Ruin | 0.10% | ~94 |
+| Dragonslayer | 0.10% | ~94 |
+| Impossible Dreamer | 0.10% | ~94 |
+| Rockay Rex | 0.10% | ~94 |
+| All that Glitters | 0.10% | ~23 |
+| All for One | 0.10% | ~23 |
+| One for All | 0.10% | ~23 |
+| Now You See Me | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,634 (Ranked 109)  
-Completed: 60 (0.06%) (Ranked 346)  
+Progressed: 94,168 (Ranked 111)  
+Completed: 61 (0.06%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,9 +330,10 @@ Completed: 60 (0.06%) (Ranked 346)
 | 2024-01-25 | 93,622 | 60 |
 | 2024-01-26 | 93,632 | 60 |
 | 2024-01-27 | 93,634 | 60 |
+| 2024-03-04 | 94,168 | 61 |
 ## Awards
 Max (Diverse Characters): 633  (Ranked 211)  
-Sum: 3,014 (Ranked 189)  
+Sum: 3,015 (Ranked 189)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +342,7 @@ Diff (max vs sum): 22
 | This game has Amazing Storytelling | 608 |
 | This game has Amazing Characters | 594 |
 | This game has Quickly Understood Controls | 588 |
-| This game is Extremely Fun | 586 |
+| This game is Extremely Fun | 587 |
 | This game has Challenging Combat | 514 |
 | This game is Great for Quick Sessions | 70 |
 | This game has a Silly Community | 33 |
@@ -680,4 +681,4 @@ Diff (max vs sum): 22
 | 2024-02-29 | 3.96 | 632 | 3,005 |
 | 2024-03-02 | 3.96 | 632 | 3,008 |
 | 2024-03-03 | 3.96 | 633 | 3,012 |
-| 2024-03-04 | 3.96 | 633 | 3,014 |
+| 2024-03-04 | 3.96 | 633 | 3,015 |

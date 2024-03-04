@@ -34,8 +34,8 @@
 | This should have never happened! | 0.00% | ~0 |
 | You're a good neighbor! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 788)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 1 (Ranked 821)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Well Socialised! | 23.00% | ~25,303 |
-| Variety Player - Bronze | 13.00% | ~14,302 |
-| Express Yourself - Bronze | 7.00% | ~7,701 |
-| Getting Friendly | 5.00% | ~5,501 |
-| Challenge Apprentice | 5.00% | ~5,501 |
-| Building Block - Bronze | 4.00% | ~4,401 |
-| Variety Player - Silver | 4.00% | ~4,401 |
-| Building Block - Silver | 2.00% | ~2,200 |
-| Challenge Veteran | 2.00% | ~2,200 |
-| Express Yourself - Silver | 2.00% | ~2,200 |
-| Building Block - Gold | 1.00% | ~1,100 |
-| Grouping Up - Bronze | 1.00% | ~1,100 |
-| Community Creativity | 1.00% | ~1,100 |
-| Shared! | 1.00% | ~1,100 |
-| These Are a Few of My Favorite Things - Bronze | 0.70% | ~770 |
+| Well Socialised! | 23.00% | ~25,318 |
+| Variety Player - Bronze | 13.00% | ~14,310 |
+| Express Yourself - Bronze | 7.00% | ~7,706 |
+| Getting Friendly | 5.00% | ~5,504 |
+| Challenge Apprentice | 5.00% | ~5,504 |
+| Building Block - Bronze | 4.00% | ~4,403 |
+| Variety Player - Silver | 4.00% | ~4,403 |
+| Building Block - Silver | 2.00% | ~2,202 |
+| Challenge Veteran | 2.00% | ~2,202 |
+| Express Yourself - Silver | 2.00% | ~2,202 |
+| Building Block - Gold | 1.00% | ~1,101 |
+| Grouping Up - Bronze | 1.00% | ~1,101 |
+| Community Creativity | 1.00% | ~1,101 |
+| Shared! | 1.00% | ~1,101 |
+| These Are a Few of My Favorite Things - Bronze | 0.70% | ~771 |
 | Standing on the Shoulders of Giants - Bronze | 0.60% | ~660 |
 | Going Public! | 0.60% | ~660 |
 | Variety Player - Gold | 0.50% | ~550 |
@@ -41,8 +41,8 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,015 (Ranked 101)  
-Completed: 5 (0.00%) (Ranked 418)  
+Progressed: 110,080 (Ranked 102)  
+Completed: 5 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,6 +310,7 @@ Completed: 5 (0.00%) (Ranked 418)
 | 2024-01-25 | 110,011 | 5 |
 | 2024-01-26 | 110,014 | 5 |
 | 2024-01-27 | 110,015 | 5 |
+| 2024-03-04 | 110,080 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 479)  
 Sum: 370 (Ranked 378)  

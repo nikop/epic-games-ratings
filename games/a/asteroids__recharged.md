@@ -21,8 +21,8 @@
 | Killer Queen | 0.30% | ~31 |
 | Good Company | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,499 (Ranked 189)  
-Completed: 13 (0.12%) (Ranked 320)  
+Progressed: 10,499 (Ranked 190)  
+Completed: 13 (0.12%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

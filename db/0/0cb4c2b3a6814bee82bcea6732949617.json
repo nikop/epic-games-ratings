@@ -2,10 +2,10 @@
   "ID": "0cb4c2b3a6814bee82bcea6732949617",
   "Name": "Farmer\u0027s Father - Save the Innocence",
   "ProductSlug": "farmers-father-save-the-innocence-abf9c9",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-09-01T15:00:00+00:00",
     "PcReleaseDate": "2023-03-29T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-19T21:58:35.9446198+00:00",
   "LastUpdate_AppInfo": "2024-03-02T06:57:19.6471853+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:45.0978585+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:53.1650704+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:58:32.6953491+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:45.1808659+00:00"
 }

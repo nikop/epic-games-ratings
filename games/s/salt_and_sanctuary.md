@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,909 |
 | Fading Fast | 1.00% | ~5,455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545,453 (Ranked 36)  
-Completed: 1,698 (0.31%) (Ranked 268)  
+Progressed: 545,453 (Ranked 38)  
+Completed: 1,698 (0.31%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

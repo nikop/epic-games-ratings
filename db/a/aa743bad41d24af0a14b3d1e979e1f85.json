@@ -2,10 +2,10 @@
   "ID": "aa743bad41d24af0a14b3d1e979e1f85",
   "Name": "Youtubers Life",
   "ProductSlug": "youtubers-life-062b82",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 789,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-05T00:00:00+00:00",
     "PcReleaseDate": "2016-05-17T22:00:00+00:00",
@@ -22,16 +22,538 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:16.2347041+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:16.2347074+00:00",
+  "TotalAchievements": 63,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_100K_VIEWS",
+      "SetID": "ah280ll",
+      "Name": "Everybody\u0027s watching me",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_10_PAN",
+      "SetID": "ah280ll",
+      "Name": "Bread eater",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_15M",
+      "SetID": "ah280ll",
+      "Name": "Subscribers growth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GASTRONOMIES",
+      "SetID": "ah280ll",
+      "Name": "Master Gastronomer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AMOR",
+      "SetID": "ah280ll",
+      "Name": "Love is in the air",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ARROW",
+      "SetID": "ah280ll",
+      "Name": "You\u0027ve let the Community down",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AUTUMN",
+      "SetID": "ah280ll",
+      "Name": "A turkey for thanksgiving",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BODA",
+      "SetID": "ah280ll",
+      "Name": "My big Youtuber wedding",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHEFDESK",
+      "SetID": "ah280ll",
+      "Name": "Chef\u0027s best table",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHISPITAS",
+      "SetID": "ah280ll",
+      "Name": "Sparks fly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CINE",
+      "SetID": "ah280ll",
+      "Name": "Cinema tonite?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COLAB",
+      "SetID": "ah280ll",
+      "Name": "Hand in hand",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPOSE",
+      "SetID": "ah280ll",
+      "Name": "Best composer award",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CONCERT1",
+      "SetID": "ah280ll",
+      "Name": "Your first gig",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CONCERT2",
+      "SetID": "ah280ll",
+      "Name": "Galactic show",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CONSOLES_FULL",
+      "SetID": "ah280ll",
+      "Name": "Console collector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CRHISTMAS",
+      "SetID": "ah280ll",
+      "Name": "The three wise Youtubers",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CURSO",
+      "SetID": "ah280ll",
+      "Name": "Crash course",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DESPEDIDO",
+      "SetID": "ah280ll",
+      "Name": "Too expensive",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DISCO",
+      "SetID": "ah280ll",
+      "Name": "Nightlife",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EASTER",
+      "SetID": "ah280ll",
+      "Name": "The Easter garden",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXAM_0",
+      "SetID": "ah280ll",
+      "Name": "Fail",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXAM_10",
+      "SetID": "ah280ll",
+      "Name": "Bookworm",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXPERT_MUSICIAN",
+      "SetID": "ah280ll",
+      "Name": "The Lord of Instruments",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FASHION_CHANNEL",
+      "SetID": "ah280ll",
+      "Name": "Best fashion designer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FASHION_DESIGNER",
+      "SetID": "ah280ll",
+      "Name": "Combine with style",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FASHION_SHOW",
+      "SetID": "ah280ll",
+      "Name": "Shining in Fashion Imperio",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FASHION_WORKSHOP",
+      "SetID": "ah280ll",
+      "Name": "Creative workshop",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FERIA1",
+      "SetID": "ah280ll",
+      "Name": "I\u0027m attending Game World",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FERIA2",
+      "SetID": "ah280ll",
+      "Name": "This fair is cool",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FERIA3",
+      "SetID": "ah280ll",
+      "Name": "The best fair worldwide",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FULL_CARDS",
+      "SetID": "ah280ll",
+      "Name": "Card collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FULL_DECO",
+      "SetID": "ah280ll",
+      "Name": "Furniture collector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FULL_INSTRUMENTOS",
+      "SetID": "ah280ll",
+      "Name": "Instrument collector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FULL_ROPA",
+      "SetID": "ah280ll",
+      "Name": "Clothes collector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FULL_UNTENSILIOS",
+      "SetID": "ah280ll",
+      "Name": "Utensil collector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HALLOWEEN",
+      "SetID": "ah280ll",
+      "Name": "Trick or Tuber!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HATER",
+      "SetID": "ah280ll",
+      "Name": "Too many haters around",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HOUSE2",
+      "SetID": "ah280ll",
+      "Name": "Bye Bye Mom",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HOUSE3",
+      "SetID": "ah280ll",
+      "Name": "An awesome apartment",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HOUSE4",
+      "SetID": "ah280ll",
+      "Name": "I\u0027m living in the penthouse",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HOUSE5",
+      "SetID": "ah280ll",
+      "Name": "What a mansion!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HOUSE6",
+      "SetID": "ah280ll",
+      "Name": "The last boundary",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LUNAR",
+      "SetID": "ah280ll",
+      "Name": "The Lunar festival",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MOROSO",
+      "SetID": "ah280ll",
+      "Name": "Pay your debts",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PC_FULL",
+      "SetID": "ah280ll",
+      "Name": "This computer rocks",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PC_MAMA",
+      "SetID": "ah280ll",
+      "Name": "My computer!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PLAYSTUDIOS",
+      "SetID": "ah280ll",
+      "Name": "I\u0027ve got a Playstudios!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RECIPE",
+      "SetID": "ah280ll",
+      "Name": "A starred recipe",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RESTAURANT1",
+      "SetID": "ah280ll",
+      "Name": "Kitchen stress!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RESTAURANT2",
+      "SetID": "ah280ll",
+      "Name": "New Mister Chef",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RETRO",
+      "SetID": "ah280ll",
+      "Name": "Retro fan",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SMARTPHONE",
+      "SetID": "ah280ll",
+      "Name": "My first smartphone",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPRING",
+      "SetID": "ah280ll",
+      "Name": "Spring fever",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_SUMMER",
+      "SetID": "ah280ll",
+      "Name": "Summer heat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SUPERHEROE",
+      "SetID": "ah280ll",
+      "Name": "I\u0027m a super hero",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_VIDEO",
+      "SetID": "ah280ll",
+      "Name": "First step to fame",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_VIOLIN",
+      "SetID": "ah280ll",
+      "Name": "Mrs. Stirling is that you?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WELCOME",
+      "SetID": "ah280ll",
+      "Name": "Welcome Youtuber",
+      "Percentage": 150,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_YOU_COMPLETE",
+      "SetID": "ah280ll",
+      "Name": "Best gamer ever",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_YOU_COMPLETE_COOK",
+      "SetID": "ah280ll",
+      "Name": "Best Chef ever",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_YOU_COMPLETE_MUSIC",
+      "SetID": "ah280ll",
+      "Name": "There ain\u0027t no better musician",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_YO_FUTURO",
+      "SetID": "ah280ll",
+      "Name": "I am me of the future",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "ah280ll",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:16.2347073+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:16.2347036+00:00",
   "LastUpdate_AppInfo": "2024-03-04T12:59:58.1861235+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:32.1644704+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:00.345803+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:16.2354014+00:00"
 }

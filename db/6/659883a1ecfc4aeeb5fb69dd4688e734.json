@@ -2,10 +2,10 @@
   "ID": "659883a1ecfc4aeeb5fb69dd4688e734",
   "Name": "Taxi Life: A City Driving Simulator",
   "ProductSlug": "taxi-life-a-city-driving-simulator",
-  "Ranking_EOS_Progress": 691,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -18,16 +18,21 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 10,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2024-01-25T17:03:43.2268101+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-04T23:05:35.1700267+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-01-25T17:03:43.2280421+00:00",
@@ -38,127 +43,127 @@
       "ID": "ACH_ART_LOVER",
       "SetID": "8ijl4c5",
       "Name": "Art Lover",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BEGINNERS_LUCK",
       "SetID": "8ijl4c5",
       "Name": "Beginner\u0027s Luck",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BIG_BOSS",
       "SetID": "8ijl4c5",
       "Name": "Big Boss",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CITY_CRUISER",
       "SetID": "8ijl4c5",
       "Name": "City Cruiser",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_CLEAN_AND_TIDY",
       "SetID": "8ijl4c5",
       "Name": "Clean and Tidy",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ECO_FRIENDLY",
       "SetID": "8ijl4c5",
       "Name": "Eco-friendly",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EXPERIENCED_DRIVER",
       "SetID": "8ijl4c5",
       "Name": "Experienced Driver",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST_STEPS",
       "SetID": "8ijl4c5",
       "Name": "First Steps",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIRST_UPGRADE",
       "SetID": "8ijl4c5",
       "Name": "First Upgrade",
-      "Percentage": 11,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FLEET_COMMANDER",
       "SetID": "8ijl4c5",
       "Name": "Fleet Commander",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_GAS_HOPPER",
       "SetID": "8ijl4c5",
       "Name": "Gas Hopper",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_INTERMEDIATE",
       "SetID": "8ijl4c5",
       "Name": "Intermediate",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_I_LIKE_THIS_JOB",
       "SetID": "8ijl4c5",
       "Name": "I Like This Job",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_JOURNEYMAN_DRIVER",
       "SetID": "8ijl4c5",
       "Name": "Journeyman Driver",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_JOURNEY_OF_A_LIFETIME",
       "SetID": "8ijl4c5",
       "Name": "Journey of a Lifetime",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_JUNIOR",
       "SetID": "8ijl4c5",
       "Name": "Junior",
-      "Percentage": 67,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -166,126 +171,126 @@
       "ID": "ACH_KING_OF_THE_ROAD",
       "SetID": "8ijl4c5",
       "Name": "King of the Road",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MASTER_OF_PEOPLE_TRANSPORTATION",
       "SetID": "8ijl4c5",
       "Name": "Master of People Transportation",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MID_LEVEL",
       "SetID": "8ijl4c5",
       "Name": "Mid-level",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_NEW_RIDE",
       "SetID": "8ijl4c5",
       "Name": "New Ride",
-      "Percentage": 22,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_NOVICE",
       "SetID": "8ijl4c5",
       "Name": "Novice",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PROFESSIONAL_DRIVERS_LICENSE",
       "SetID": "8ijl4c5",
       "Name": "Professional Driver\u0027s License",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SENIOR",
       "SetID": "8ijl4c5",
       "Name": "Senior",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SMALL_TRAVELER",
       "SetID": "8ijl4c5",
       "Name": "Small Traveler",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SPECIALIST",
       "SetID": "8ijl4c5",
       "Name": "Specialist",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_TAXI_DRIVER",
       "SetID": "8ijl4c5",
       "Name": "Taxi Driver",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_TOUR_GUIDE",
       "SetID": "8ijl4c5",
       "Name": "Tour Guide",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_TRUE_PROFESSIONAL",
       "SetID": "8ijl4c5",
       "Name": "True Professional",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_VOYAGER",
       "SetID": "8ijl4c5",
       "Name": "Voyager",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_YOUNG_DRIVER",
       "SetID": "8ijl4c5",
       "Name": "Young Driver",
-      "Percentage": 11,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ijl4c5",
       "IsBase": true,
-      "Progressed": 9,
-      "Completed": 0
+      "Progressed": 10,
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2024-01-25T17:03:43.2280421+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:32.6947715+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:05:35.1700264+00:00",
   "LastUpdate_AppInfo": "2024-02-29T19:57:13.9163638+00:00",
-  "LastUpdate_Ratings": "2024-03-04T22:00:08.9569608+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:32.694792+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:53.4518637+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:35.1700482+00:00"
 }

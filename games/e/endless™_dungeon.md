@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 68.00% | ~1,110 |
-| Getting the Hang of It | 42.00% | ~685 |
-| Hoarder | 33.00% | ~539 |
-| Pest Control | 29.00% | ~473 |
-| Blobmeister | 27.00% | ~441 |
-| Exhaustive Explorer | 27.00% | ~441 |
-| How Low Can We Go? | 24.00% | ~392 |
-| Team Builder | 20.00% | ~326 |
-| Long Live Rock | 17.00% | ~277 |
-| Aggressive Antivirus | 15.00% | ~245 |
-| Effective Efficiency | 13.00% | ~212 |
-| Unblurred Lines | 12.00% | ~196 |
-| Obsessively Thorough | 12.00% | ~196 |
-| Endlessly Effective | 11.00% | ~180 |
-| What's Behind Every Door? | 6.00% | ~98 |
-| No Stone Unturned | 5.00% | ~82 |
-| Turret Syndrome | 2.00% | ~33 |
-| Endless Biographer | 1.00% | ~16 |
-| All Your Secrets Are Belong to Us | 1.00% | ~16 |
-| Grab 'Em All | 0.30% | ~5 |
+| Leap Before You Look | 68.00% | ~1,157 |
+| Getting the Hang of It | 42.00% | ~715 |
+| Hoarder | 33.00% | ~562 |
+| Pest Control | 29.00% | ~494 |
+| Blobmeister | 27.00% | ~460 |
+| Exhaustive Explorer | 27.00% | ~460 |
+| How Low Can We Go? | 25.00% | ~426 |
+| Team Builder | 20.00% | ~340 |
+| Long Live Rock | 17.00% | ~289 |
+| Aggressive Antivirus | 16.00% | ~272 |
+| Unblurred Lines | 13.00% | ~221 |
+| Effective Efficiency | 13.00% | ~221 |
+| Obsessively Thorough | 12.00% | ~204 |
+| Endlessly Effective | 11.00% | ~187 |
+| What's Behind Every Door? | 6.00% | ~102 |
+| No Stone Unturned | 5.00% | ~85 |
+| Turret Syndrome | 2.00% | ~34 |
+| Endless Biographer | 2.00% | ~34 |
+| All Your Secrets Are Belong to Us | 1.00% | ~17 |
+| Grab 'Em All | 0.50% | ~9 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |
 | Finishing an Endless Story | 0.00% | ~0 |
@@ -35,8 +35,8 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,632 (Ranked 277)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 1,702 (Ranked 276)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,3 +140,4 @@ Completed: 0 (0.00%) (Ranked 418)
 | 2024-01-25 | 1,627 | 0 |
 | 2024-01-26 | 1,628 | 0 |
 | 2024-01-27 | 1,632 | 0 |
+| 2024-03-04 | 1,702 | 0 |

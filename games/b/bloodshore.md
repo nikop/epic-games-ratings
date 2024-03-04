@@ -22,8 +22,8 @@
 | Deathlooper | 3.00% | ~9 |
 | We tried to warn you! | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 415)  
-Completed: 6 (2.01%) (Ranked 140)  
+Progressed: 298 (Ranked 420)  
+Completed: 6 (2.01%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "74ef4349fd684c438077d9e5287c7b2e",
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-23T19:00:00+00:00",
     "PcReleaseDate": "2020-06-01T16:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "LastUpdate_AppInfo": "2024-02-29T23:57:11.1661448+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:48.8403729+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:00:25.8340905+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:18.9420874+00:00"
 }

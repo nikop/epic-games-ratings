@@ -2,10 +2,10 @@
   "ID": "c93d8cd77b5a45c8b6aee3e68ff4e0c7",
   "Name": "Age of Conquest IV",
   "ProductSlug": "age-of-conquest-iv-c29987",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-31T00:00:00+00:00",
     "PcReleaseDate": "2016-04-05T23:00:00+00:00",
@@ -24,18 +24,203 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 2018,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0.05,
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:05:03.9201018+00:00",
+      "NumProgressed": 2018,
+      "NumCompleted": 1
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:05:03.9201043+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_ai_hater",
+      "SetID": "4dmadod",
+      "Name": "AI\u0027s Least Popular",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 40
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_ai_lover",
+      "SetID": "4dmadod",
+      "Name": "AI Lover",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_ballot_make",
+      "SetID": "4dmadod",
+      "Name": "Challenger",
+      "Percentage": 12,
+      "XP": 25,
+      "UsersEstimate": 242
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_ballot_vote",
+      "SetID": "4dmadod",
+      "Name": "Responder",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 161
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_explorer",
+      "SetID": "4dmadod",
+      "Name": "Explorer",
+      "Percentage": 4,
+      "XP": 100,
+      "UsersEstimate": 81
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_fertility",
+      "SetID": "4dmadod",
+      "Name": "Procreation",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 646
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_kill_10",
+      "SetID": "4dmadod",
+      "Name": "10 Kills",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 646
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_kill_100",
+      "SetID": "4dmadod",
+      "Name": "100 Kills",
+      "Percentage": 11,
+      "XP": 50,
+      "UsersEstimate": 222
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_kill_1000",
+      "SetID": "4dmadod",
+      "Name": "1000 Kills",
+      "Percentage": 0.3,
+      "XP": 130,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_sparta",
+      "SetID": "4dmadod",
+      "Name": "This is SPART",
+      "Percentage": 0.7,
+      "XP": 100,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_territory",
+      "SetID": "4dmadod",
+      "Name": "Territorial Ruler",
+      "Percentage": 16,
+      "XP": 100,
+      "UsersEstimate": 323
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_tough_guy",
+      "SetID": "4dmadod",
+      "Name": "Little Tough Guy",
+      "Percentage": 9,
+      "XP": 50,
+      "UsersEstimate": 182
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_tutorial",
+      "SetID": "4dmadod",
+      "Name": "Tutorial Completed",
+      "Percentage": 42,
+      "XP": 5,
+      "UsersEstimate": 848
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_victories_01",
+      "SetID": "4dmadod",
+      "Name": "First Game Won",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 424
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_victories_10",
+      "SetID": "4dmadod",
+      "Name": "10 Games Won",
+      "Percentage": 1,
+      "XP": 100,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_watch_tower",
+      "SetID": "4dmadod",
+      "Name": "Watch Tower",
+      "Percentage": 41,
+      "XP": 10,
+      "UsersEstimate": 827
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_local_win_inhuman",
+      "SetID": "4dmadod",
+      "Name": "Inhuman Victory",
+      "Percentage": 2,
+      "XP": 100,
+      "UsersEstimate": 40
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_multi_played",
+      "SetID": "4dmadod",
+      "Name": "Multiplayer Play",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 182
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_multi_victories_01",
+      "SetID": "4dmadod",
+      "Name": "Multiplayer Victory",
+      "Percentage": 0.8,
+      "XP": 100,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_total_played_01h",
+      "SetID": "4dmadod",
+      "Name": "Played for 1h",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 504
+    },
+    {
+      "ID": "com_ageofconquest_app_user_aoc_award_total_played_24h",
+      "SetID": "4dmadod",
+      "Name": "Played for 24h",
+      "Percentage": 0.5,
+      "XP": 50,
+      "UsersEstimate": 10
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4dmadod",
+      "IsBase": true,
+      "Progressed": 2018,
+      "Completed": 1
+    }
+  ],
   "FirstSeen": "2024-01-31T20:57:59.1936831+00:00",
+  "FirstSeenAchievements": "2024-03-04T23:05:03.9201041+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:05:03.9201014+00:00",
   "LastUpdate_AppInfo": "2024-03-01T10:57:07.9669043+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:42.9178766+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:08.3446047+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:15.8357258+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:03.9207286+00:00"
 }

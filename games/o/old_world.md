@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,828 (Ranked 168)  
-Completed: 5 (0.03%) (Ranked 373)  
+Progressed: 17,828 (Ranked 170)  
+Completed: 5 (0.03%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

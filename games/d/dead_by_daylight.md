@@ -243,7 +243,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Alan | 0.10% | ~1,242 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,242,272 (Ranked 13)  
-Completed: 76 (0.01%) (Ranked 394)  
+Completed: 76 (0.01%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -528,7 +528,7 @@ Completed: 76 (0.01%) (Ranked 394)
 | 2024-02-22 | 1,242,272 | 76 |
 ## Awards
 Max (Diverse Characters): 42,137  (Ranked 15)  
-Sum: 314,282 (Ranked 12)  
+Sum: 314,309 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -540,7 +540,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 34,649 |
 | This game has Quickly Understood Controls | 33,548 |
 | This game has Amazing Storytelling | 31,883 |
-| This game has a Competitive Community | 30,983 |
+| This game has a Competitive Community | 31,010 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -951,4 +951,4 @@ Diff (max vs sum): 3
 | 2024-03-01 | 4.51 | - | 42,036 | 313,412 |
 | 2024-03-02 | 4.51 | - | 42,036 | 313,685 |
 | 2024-03-03 | 4.51 | - | 42,085 | 314,012 |
-| 2024-03-04 | 4.51 | - | 42,137 | 314,282 |
+| 2024-03-04 | 4.51 | - | 42,137 | 314,309 |

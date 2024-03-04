@@ -2,10 +2,10 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1632,
+  "EOS_Progressed": 1702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3825,6 +3825,11 @@
       "Time": "2024-01-27T13:05:08.0302458+00:00",
       "NumProgressed": 1632,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-04T23:05:03.4864775+00:00",
+      "NumProgressed": 1702,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3835,9 +3840,9 @@
       "ID": "ACHIEVEMENT_100K_KILLED_MONSTERS",
       "SetID": "9991201",
       "Name": "Grab \u0027Em All",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_10K_OPEN_DOORS",
@@ -3853,15 +3858,15 @@
       "Name": "Turret Syndrome",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_BIOGRAPHER",
       "SetID": "9991201",
       "Name": "Endless Biographer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
@@ -3869,23 +3874,23 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
       "SetID": "9991201",
       "Name": "Aggressive Antivirus",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -3893,7 +3898,7 @@
       "Name": "Pest Control",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3901,7 +3906,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3909,7 +3914,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -3917,7 +3922,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3925,7 +3930,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3933,7 +3938,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 715
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3941,15 +3946,15 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3957,7 +3962,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -3981,7 +3986,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 562
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -4013,7 +4018,7 @@
       "Name": "Long Live Rock",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -4037,7 +4042,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -4045,7 +4050,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -4053,7 +4058,7 @@
       "Name": "All Your Secrets Are Belong to Us",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_TIME_LIMIT1WIN",
@@ -4076,14 +4081,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1632,
+      "Progressed": 1702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:08.0302456+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:05:03.4864773+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:28.8096846+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:43.5507784+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:08.0302861+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:00:17.7614577+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:03.4865098+00:00"
 }

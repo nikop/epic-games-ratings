@@ -2,10 +2,10 @@
   "ID": "3eab9be22dbd475ab1ef7e3824b81121",
   "Name": "I\u0027m in Love With Your Dead Grandmother",
   "ProductSlug": "im-in-love-with-your-dead-grandmother-15e7d4",
-  "Ranking_EOS_Progress": 788,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-03T17:00:00+00:00",
     "PcReleaseDate": "2024-02-03T17:00:00+00:00",
@@ -146,6 +146,6 @@
   "FirstSeenAchievements": "2023-12-22T01:48:10.9093926+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:06.8278309+00:00",
   "LastUpdate_AppInfo": "2024-03-01T04:57:30.9786201+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:42.0213934+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:00:15.3942232+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:06.8278369+00:00"
 }

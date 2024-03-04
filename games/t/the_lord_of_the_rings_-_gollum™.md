@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 62.00% | ~431 |
-| Welcome to Mordor! | 52.00% | ~361 |
-| Collectibles Part 1 | 50.00% | ~348 |
-| Wait! Wait! Not yet! | 38.00% | ~264 |
-| Like Flying... | 33.00% | ~229 |
-| The Maggot | 28.00% | ~195 |
-| Memories | 26.00% | ~181 |
-| The Breeder | 23.00% | ~160 |
-| The Veteran | 19.00% | ~132 |
-| The Traitor | 15.00% | ~104 |
-| The Spider | 14.00% | ~97 |
-| Good as Fish | 12.00% | ~83 |
-| Her Eyes | 12.00% | ~83 |
-| Gollum/Sméagol | 10.00% | ~70 |
-| Murderer | 10.00% | ~70 |
-| Trigger-Happy | 10.00% | ~70 |
-| The Friend | 9.00% | ~63 |
-| He's so Annoying | 8.00% | ~56 |
-| Master of the Old Game | 6.00% | ~42 |
-| Made a Song | 5.00% | ~35 |
-| Sweet Darkness | 4.00% | ~28 |
-| So Tasty! | 4.00% | ~28 |
-| Break a Leg! | 3.00% | ~21 |
-| So Silly! | 3.00% | ~21 |
-| And now we wish... | 2.00% | ~14 |
-| Ss ss ss... | 2.00% | ~14 |
+| The Wraith | 63.00% | ~472 |
+| Welcome to Mordor! | 53.00% | ~397 |
+| Collectibles Part 1 | 51.00% | ~382 |
+| Wait! Wait! Not yet! | 39.00% | ~292 |
+| Like Flying... | 33.00% | ~247 |
+| The Maggot | 28.00% | ~210 |
+| Memories | 26.00% | ~195 |
+| The Breeder | 23.00% | ~172 |
+| The Veteran | 19.00% | ~142 |
+| The Traitor | 15.00% | ~112 |
+| The Spider | 14.00% | ~105 |
+| Good as Fish | 12.00% | ~90 |
+| Her Eyes | 12.00% | ~90 |
+| Gollum/Sméagol | 10.00% | ~75 |
+| Trigger-Happy | 10.00% | ~75 |
+| The Friend | 9.00% | ~67 |
+| Murderer | 9.00% | ~67 |
+| He's so Annoying | 8.00% | ~60 |
+| Master of the Old Game | 6.00% | ~45 |
+| Made a Song | 5.00% | ~37 |
+| Sweet Darkness | 4.00% | ~30 |
+| So Tasty! | 4.00% | ~30 |
+| Break a Leg! | 3.00% | ~22 |
+| So Silly! | 3.00% | ~22 |
+| And now we wish... | 2.00% | ~15 |
+| Ss ss ss... | 2.00% | ~15 |
 | Collectibles Part 2 | 1.00% | ~7 |
-| Elf-Friend | 0.70% | ~5 |
+| Elf-Friend | 0.80% | ~6 |
 | We wants it! We needs it | 0.70% | ~5 |
 | Nervous Hands | 0.70% | ~5 |
 | Scout | 0.70% | ~5 |
-| We Hates Them! | 0.40% | ~3 |
+| We Hates Them! | 0.50% | ~4 |
 | Good Sméagol! | 0.40% | ~3 |
 | Rule them all! | 0.10% | ~1 |
 | How Did You Do That? | 0.10% | ~1 |
 | River Hobbit | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695 (Ranked 340)  
-Completed: 1 (0.14%) (Ranked 311)  
+Progressed: 749 (Ranked 335)  
+Completed: 1 (0.13%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,3 +192,4 @@ Completed: 1 (0.14%) (Ranked 311)
 | 2024-01-20 | 692 | 1 |
 | 2024-01-23 | 694 | 1 |
 | 2024-01-26 | 695 | 1 |
+| 2024-03-04 | 749 | 1 |

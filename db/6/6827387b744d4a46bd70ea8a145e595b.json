@@ -2,10 +2,10 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-04T11:57:42.7910266+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:01.5568004+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:25.3838205+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:00:44.530206+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:25.5079082+00:00"
 }

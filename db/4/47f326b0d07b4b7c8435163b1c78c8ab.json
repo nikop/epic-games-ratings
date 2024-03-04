@@ -2,10 +2,10 @@
   "ID": "47f326b0d07b4b7c8435163b1c78c8ab",
   "Name": "Rise of Industry 2",
   "ProductSlug": "rise-of-industry-2-456a5c",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,5 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-27T11:57:05.480275+00:00",
-  "LastUpdate_Ratings": "2024-03-04T22:00:01.6772706+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:42.1754465+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:08.5013007+00:00"
 }

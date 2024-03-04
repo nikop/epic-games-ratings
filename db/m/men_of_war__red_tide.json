@@ -2,10 +2,10 @@
   "ID": "3280034a0ad34ff29ffb1511b2953c6b",
   "Name": "Men of War: Red Tide",
   "ProductSlug": "men-of-war-red-tide-984ee6",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
     "PcReleaseDate": "2009-11-02T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2984114+00:00",
   "LastChanged": "2023-03-31T05:58:07.2984115+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:12.3167293+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:31.026269+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:59:58.9802644+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:34.7092716+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "8912b079197744f58b41915923cc8da1",
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
-  "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -8757,6 +8757,6 @@
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:55.9450912+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:14.5851754+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:51.7864598+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:00:30.2322028+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:55.9451466+00:00"
 }

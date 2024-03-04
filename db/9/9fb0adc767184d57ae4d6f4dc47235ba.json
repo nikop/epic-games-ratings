@@ -2,10 +2,10 @@
   "ID": "9fb0adc767184d57ae4d6f4dc47235ba",
   "Name": "Unholy Village",
   "ProductSlug": "unholy-village-bf7edb",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-04T06:46:20.0630515+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:36.7573292+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:07.269503+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:06.8052187+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.45 (Ranked 707)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bronze Angler Trophy | 0.40% | ~19 |
+| Bronze Angler Trophy | 0.60% | ~34 |
+| Silver Angler Trophy | 0.10% | ~6 |
 | Gold Angler Trophy | 0.00% | ~0 |
 | Legendary Angler Trophy | 0.00% | ~0 |
 | Epic Angler Trophy | 0.00% | ~0 |
-| Silver Angler Trophy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,636 (Ranked 216)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 5,682 (Ranked 210)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 418)
 | 2024-01-25 | 4,580 | 0 |
 | 2024-01-26 | 4,615 | 0 |
 | 2024-01-27 | 4,636 | 0 |
+| 2024-03-04 | 5,682 | 0 |
 ## Awards
 Max (Character Customization): 29  (Ranked 554)  
 Sum: 29 (Ranked 577)  

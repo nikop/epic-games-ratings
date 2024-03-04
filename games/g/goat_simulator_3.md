@@ -45,8 +45,8 @@ Rating: 4.83 (Ranked 56)
 | Move! That! Bus! | 0.60% | ~1,683 |
 | G.O.A.T | 0.40% | ~1,122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280,454 (Ranked 68)  
-Completed: 996 (0.36%) (Ranked 258)  
+Progressed: 280,454 (Ranked 69)  
+Completed: 996 (0.36%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

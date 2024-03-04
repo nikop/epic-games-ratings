@@ -2,10 +2,10 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1825,6 +1825,11 @@
       "Time": "2024-01-24T18:05:38.3399115+00:00",
       "NumProgressed": 542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-04T23:04:26.7065978+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1834,25 +1839,25 @@
       "ID": "ach_100days",
       "SetID": "b8gh1fi",
       "Name": "First 100 Days",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_ada",
       "SetID": "b8gh1fi",
       "Name": "Meet ADA/360",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_apartments_2",
@@ -1860,21 +1865,21 @@
       "Name": "Penthouse in the Sky",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 204
     },
     {
       "ID": "ach_area_1",
       "SetID": "b8gh1fi",
       "Name": "Under One Roof",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 76
     },
@@ -1882,17 +1887,17 @@
       "ID": "ach_art",
       "SetID": "b8gh1fi",
       "Name": "Artfully Done",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_art_large",
       "SetID": "b8gh1fi",
       "Name": "Artistic Largesse",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_art_medium",
@@ -1900,7 +1905,7 @@
       "Name": "Curated Class",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_art_outside",
@@ -1916,15 +1921,15 @@
       "Name": "Decorator\u0027s Touch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_campaigns_1",
@@ -1932,7 +1937,7 @@
       "Name": "Apartment Awareness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_campaigns_2",
@@ -1962,25 +1967,25 @@
       "ID": "ach_cash",
       "SetID": "b8gh1fi",
       "Name": "Baron of Business",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_consultants_a",
@@ -1988,23 +1993,23 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_consultants_b",
       "SetID": "b8gh1fi",
       "Name": "I\u0027m Busy Ruling",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_consultants_c",
       "SetID": "b8gh1fi",
       "Name": "Smooth Operator",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_contracts_1",
@@ -2012,7 +2017,7 @@
       "Name": "Office Bigwigs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_contracts_2",
@@ -2020,7 +2025,7 @@
       "Name": "Loft Life",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_contracts_3",
@@ -2028,7 +2033,7 @@
       "Name": "Glut of Gastronomy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_contracts_4",
@@ -2036,15 +2041,15 @@
       "Name": "Luxury Boutiques",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_drones",
@@ -2052,15 +2057,15 @@
       "Name": "Plebs Are Needed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_ep1_casino",
       "SetID": "b8gh1fi",
       "Name": "High Hand",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_ep1_checkin_1",
@@ -2068,7 +2073,7 @@
       "Name": "Full House",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_ep1_checkin_2",
@@ -2076,7 +2081,7 @@
       "Name": "Royal Flush",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_ep1_event_1",
@@ -2090,7 +2095,7 @@
       "ID": "ach_ep1_event_2",
       "SetID": "b8gh1fi",
       "Name": "Poker Face",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -2100,7 +2105,7 @@
       "Name": "The King of Cool",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_ep1_reviews_1",
@@ -2108,7 +2113,7 @@
       "Name": "Three of a Kind",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_ep1_reviews_2",
@@ -2116,15 +2121,15 @@
       "Name": "Four of a Kind",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_ep1_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Sandbagger",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_ep1_revs_2",
@@ -2132,23 +2137,23 @@
       "Name": "In the Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 274
     },
     {
       "ID": "ach_floors_1",
       "SetID": "b8gh1fi",
       "Name": "Careful Constructor",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_floors_2",
@@ -2156,23 +2161,23 @@
       "Name": "Such Great Heights",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_fountains",
       "SetID": "b8gh1fi",
       "Name": "Water Features",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_grime_1",
@@ -2180,7 +2185,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_grime_2",
@@ -2188,23 +2193,23 @@
       "Name": "Rehab Expert",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_mod_1",
@@ -2226,25 +2231,25 @@
       "ID": "ach_nomoveout",
       "SetID": "b8gh1fi",
       "Name": "28 Days Later",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 187
     },
     {
       "ID": "ach_office_2",
       "SetID": "b8gh1fi",
       "Name": "Meet Me at HQ",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_plaza",
@@ -2252,31 +2257,31 @@
       "Name": "Plaza Plan",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_pop_1",
       "SetID": "b8gh1fi",
       "Name": "People Mover",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_prestige_2",
@@ -2284,23 +2289,23 @@
       "Name": "Established Fame",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_prestige_3",
       "SetID": "b8gh1fi",
       "Name": "Sky High Stature",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 309
     },
     {
       "ID": "ach_profit_1",
@@ -2308,23 +2313,23 @@
       "Name": "Swimming in Surplus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_profit_2",
       "SetID": "b8gh1fi",
       "Name": "Profound Proceeds",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_recycling_1",
       "SetID": "b8gh1fi",
       "Name": "Maximum Reuse",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_renters",
@@ -2332,45 +2337,45 @@
       "Name": "Lofty Landlord",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_restaurants_1",
       "SetID": "b8gh1fi",
       "Name": "Refined Palates",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 70
     },
@@ -2380,37 +2385,37 @@
       "Name": "Retail Revenue",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_retail_2",
       "SetID": "b8gh1fi",
       "Name": "Emporium Empire",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_retail_4",
       "SetID": "b8gh1fi",
       "Name": "Boutique Benefits",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 76
     },
@@ -2420,7 +2425,7 @@
       "Name": "Revenue Royalty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_revs_3",
@@ -2428,7 +2433,7 @@
       "Name": "It is Payday",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_scenarios_1",
@@ -2436,7 +2441,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_scenarios_2",
@@ -2444,7 +2449,7 @@
       "Name": "Scenario Success",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_scenarios_3",
@@ -2458,9 +2463,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_trash_1",
@@ -2468,15 +2473,15 @@
       "Name": "Terrifically Trashed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_util_cable",
@@ -2484,7 +2489,7 @@
       "Name": "Tuned In",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_util_gas",
@@ -2492,7 +2497,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_util_phone",
@@ -2500,31 +2505,31 @@
       "Name": "Phoning It In",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_util_water",
       "SetID": "b8gh1fi",
       "Name": "Pipe Up",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_visitors_1",
@@ -2532,14 +2537,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 583,
       "Completed": 0
     }
   ],
@@ -2547,8 +2552,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:04:38.5657114+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:26.7065973+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:37.7553271+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:18.1905263+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:38.5658372+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:59:41.277611+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:26.7067062+00:00"
 }

@@ -52,8 +52,8 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~51 |
 | Ultimate Weapon | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,334 (Ranked 126)  
-Completed: 4 (0.01%) (Ranked 394)  
+Progressed: 51,334 (Ranked 127)  
+Completed: 4 (0.01%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

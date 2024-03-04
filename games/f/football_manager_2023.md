@@ -106,8 +106,8 @@ Rating: 4.75 (Ranked 149)
 | 200 Club | 0.10% | ~377 |
 | Draft Value | 0.10% | ~377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,242 (Ranked 58)  
-Completed: 31 (0.01%) (Ranked 394)  
+Progressed: 377,242 (Ranked 59)  
+Completed: 31 (0.01%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

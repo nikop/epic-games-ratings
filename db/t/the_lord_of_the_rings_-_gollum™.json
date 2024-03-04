@@ -2,10 +2,10 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Completed": 317,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,11 +23,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 749,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.14,
+  "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
       "Time": "2023-05-22T17:05:01.1687024+00:00",
@@ -2063,6 +2063,11 @@
       "Time": "2024-01-26T18:06:42.0879829+00:00",
       "NumProgressed": 695,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-04T23:04:24.6285853+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2074,7 +2079,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "BreakLegs",
@@ -2082,7 +2087,7 @@
       "Name": "Break a Leg!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CatchAFish",
@@ -2090,15 +2095,15 @@
       "Name": "And now we wish...",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 472
     },
     {
       "ID": "Chapter10",
@@ -2106,7 +2111,7 @@
       "Name": "The Friend",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "Chapter2",
@@ -2114,7 +2119,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 210
     },
     {
       "ID": "Chapter3",
@@ -2122,7 +2127,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 172
     },
     {
       "ID": "Chapter4",
@@ -2130,7 +2135,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 142
     },
     {
       "ID": "Chapter5",
@@ -2138,7 +2143,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 112
     },
     {
       "ID": "Chapter6",
@@ -2146,7 +2151,7 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 105
     },
     {
       "ID": "Chapter7",
@@ -2154,7 +2159,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 90
     },
     {
       "ID": "Chapter8",
@@ -2162,7 +2167,7 @@
       "Name": "Her Eyes",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 90
     },
     {
       "ID": "Chapter9",
@@ -2170,15 +2175,15 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 382
     },
     {
       "ID": "Collectibles2",
@@ -2202,23 +2207,23 @@
       "Name": "Sweet Darkness",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ElfFriend",
       "SetID": "70l3651",
       "Name": "Elf-Friend",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ElfHater",
       "SetID": "70l3651",
       "Name": "We Hates Them!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Flying",
@@ -2226,7 +2231,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 247
     },
     {
       "ID": "GollumChoices",
@@ -2240,9 +2245,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 292
     },
     {
       "ID": "Memories",
@@ -2250,15 +2255,15 @@
       "Name": "Memories",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 195
     },
     {
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 67
     },
     {
       "ID": "NoDamage",
@@ -2282,7 +2287,7 @@
       "Name": "Master of the Old Game",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "RiverHobbit",
@@ -2298,7 +2303,7 @@
       "Name": "So Silly!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Scout",
@@ -2322,7 +2327,7 @@
       "Name": "Made a Song",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "StealFood",
@@ -2330,7 +2335,7 @@
       "Name": "Ss ss ss...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Tasty",
@@ -2338,7 +2343,7 @@
       "Name": "So Tasty!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "TriggerHappy",
@@ -2346,29 +2351,29 @@
       "Name": "Trigger-Happy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 397
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 749,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:04:36.9019527+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:24.6285848+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:07.3839521+00:00",
-  "LastUpdate_Ratings": "2024-03-04T20:59:50.1775149+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:36.9020443+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:57:32.6333267+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:24.6286194+00:00"
 }

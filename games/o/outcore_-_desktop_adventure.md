@@ -31,8 +31,8 @@
 | Love Master | 0.00% | ~0 |
 | No time to waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 560)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 61 (Ranked 568)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

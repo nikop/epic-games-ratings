@@ -47,8 +47,8 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | Evil AI unplugged | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,959 (Ranked 66)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 304,959 (Ranked 68)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "d0188c3e62b342afbb71fd62e59b1d5c",
   "Name": "Sniper Hunter Shooter",
   "ProductSlug": "sniper-hunter-shooter-5cda66",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-09-01T17:00:00+00:00",
     "PcReleaseDate": "2023-09-20T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-23T13:05:09.7358491+00:00",
   "LastUpdate_AppInfo": "2024-03-02T07:57:18.4798298+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:41.7620877+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:03:14.0933497+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:14.68414+00:00"
 }

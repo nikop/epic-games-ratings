@@ -2,10 +2,10 @@
   "ID": "61bf61eac17e4387b779eac91395aa79",
   "Name": "The Death Into Trouble",
   "ProductSlug": "the-death-into-trouble-271916",
-  "Ranking_EOS_Progress": 788,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 789,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-19T17:00:00+00:00",
     "PcReleaseDate": "2021-10-22T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2023-12-10T21:04:01.1270759+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-04T23:05:21.0770504+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -44,7 +49,7 @@
       "ID": "01_ACHIEVEMENT_Shining_Glasses",
       "SetID": "22lnfdl",
       "Name": "Look at my shining glasses",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -52,7 +57,7 @@
       "ID": "02_ACHIEVEMENT_Expensive_Gold",
       "SetID": "22lnfdl",
       "Name": "Expensive like gold",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -68,7 +73,7 @@
       "ID": "04_ACHIEVEMENT_Im_Bob",
       "SetID": "22lnfdl",
       "Name": "Hi i\u0027m Bob!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "05_ACHIEVEMENT_WhereIs_Janitor",
       "SetID": "22lnfdl",
       "Name": "Where\u0027s the janitor?",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -84,7 +89,7 @@
       "ID": "06_ACHIEVEMENT_Treasure_Hunter",
       "SetID": "22lnfdl",
       "Name": "Treasure Hunter",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -92,7 +97,7 @@
       "ID": "07_ACHIEVEMENT_Just_Chilling",
       "SetID": "22lnfdl",
       "Name": "WHAT? Sorry, I\u0027m just Chilling",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -100,17 +105,17 @@
       "ID": "08_ACHIEVEMENT_Warning_Sign",
       "SetID": "22lnfdl",
       "Name": "Shouldn\u0027t have a warning sign here?",
-      "Percentage": 200,
+      "Percentage": 150,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "09_ACHIEVEMENT_Cant_Die",
       "SetID": "22lnfdl",
       "Name": "I can\u0027t really die!",
-      "Percentage": 200,
+      "Percentage": 150,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "10_ACHIEVEMENT_Own_Master",
@@ -124,7 +129,7 @@
       "ID": "11_ACHIEVEMENT_Hide_Seek",
       "SetID": "22lnfdl",
       "Name": "Hide and seek",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "14_ACHIEVEMENT_Surveillance_Camera",
       "SetID": "22lnfdl",
       "Name": "A surveillance camera?",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -213,14 +218,14 @@
     {
       "ID": "22lnfdl",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-21T06:00:35.1961942+00:00",
   "FirstSeenAchievements": "2023-11-26T14:04:51.2664734+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:21.8071541+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:05:21.0770501+00:00",
   "LastUpdate_AppInfo": "2024-03-01T09:57:14.2082275+00:00",
-  "LastUpdate_Ratings": "2024-03-04T20:59:58.1069793+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:21.8071639+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:57:41.2863868+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:21.0770617+00:00"
 }

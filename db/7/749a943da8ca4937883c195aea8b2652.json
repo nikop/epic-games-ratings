@@ -3,12 +3,12 @@
   "Name": "Gods Unchained",
   "ProductSlug": "gods-unchained-9b2cb5",
   "Ranking_Rating": 883,
-  "Ranking_Popularity": 591,
+  "Ranking_Popularity": 592,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-06-22T00:00:00+00:00",
     "PcReleaseDate": "2023-06-22T00:00:00+00:00",
@@ -351,6 +351,6 @@
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
   "LastChanged": "2024-03-03T11:59:52.4822827+00:00",
   "LastUpdate_AppInfo": "2024-02-29T21:57:16.7828974+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:43.1547802+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:03:16.2077835+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.8310351+00:00"
 }

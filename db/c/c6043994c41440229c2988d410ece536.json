@@ -2,10 +2,10 @@
   "ID": "c6043994c41440229c2988d410ece536",
   "Name": "Elemental Exiles",
   "ProductSlug": "elemental-exiles-8e3386",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -33,5 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-03T18:57:10.3705039+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:29.6127977+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:01:27.3230288+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:05.2310663+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "69b34ef4e8ce44738fccd2b2cfb22a60",
   "Name": "The Thaumaturge",
   "ProductSlug": "the-thaumaturge-3d7b2c",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-04T00:00:00+00:00",
     "PcReleaseDate": "2024-03-04T18:00:00+00:00",
@@ -24,18 +24,33 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:27.9053697+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "54iim7i",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-03-04T13:58:30.7471923+00:00",
+  "FirstSeenAchievements": "2024-03-04T23:04:27.9053733+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:27.9053692+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:01.8454103+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:35.0805615+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:39.5551406+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:04.6510322+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:27.9053746+00:00"
 }

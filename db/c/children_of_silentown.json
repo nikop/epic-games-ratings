@@ -2,10 +2,10 @@
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
-  "Ranking_EOS_Progress": 435,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -526,6 +526,11 @@
       "Time": "2024-01-18T18:05:24.3145373+00:00",
       "NumProgressed": 241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-04T23:04:26.9799131+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -537,7 +542,7 @@
       "Name": "Blue\u0027s drawing",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 133
     },
     {
       "ID": "Cat",
@@ -545,7 +550,7 @@
       "Name": "Cat",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "Cellar",
@@ -553,7 +558,7 @@
       "Name": "Glass shards",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 113
     },
     {
       "ID": "DogHair",
@@ -561,15 +566,15 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 148
     },
     {
       "ID": "Doll",
       "SetID": "9kk0gal",
       "Name": "Doll",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 93
     },
     {
       "ID": "Ending1",
@@ -577,23 +582,23 @@
       "Name": "Children",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "Ending2",
       "SetID": "9kk0gal",
       "Name": "Back Home",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "Ending3",
       "SetID": "9kk0gal",
       "Name": "Forest Howl",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "Ending4",
@@ -601,7 +606,7 @@
       "Name": "Hope",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Footprint",
@@ -609,15 +614,15 @@
       "Name": "Mysterious footprints",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "Friend",
       "SetID": "9kk0gal",
       "Name": "Friend",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "FriendDoor",
@@ -625,7 +630,7 @@
       "Name": "Complicated padlock",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "Furball",
@@ -641,7 +646,7 @@
       "Name": "Mysterious paintings",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "HugeSnail",
@@ -649,7 +654,7 @@
       "Name": "Huge Snail",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "Mirror",
@@ -657,15 +662,15 @@
       "Name": "Egghead Lucy",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 191
     },
     {
       "ID": "Offroad",
       "SetID": "9kk0gal",
       "Name": "Flower of hope",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "Puppy",
@@ -673,7 +678,7 @@
       "Name": "Puppy",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 161
     },
     {
       "ID": "SchoolRuler",
@@ -681,23 +686,23 @@
       "Name": "Big metal ruler",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "Secret",
       "SetID": "9kk0gal",
       "Name": "Old kettle",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "Toy",
@@ -705,7 +710,7 @@
       "Name": "Broken toy",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 196
     },
     {
       "ID": "Trinket",
@@ -713,21 +718,21 @@
       "Name": "Lucky charm",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 226
     },
     {
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 221
     },
     {
       "ID": "Well",
       "SetID": "9kk0gal",
       "Name": "Depths of the well",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 63
     },
@@ -735,16 +740,16 @@
       "ID": "Windmill",
       "SetID": "9kk0gal",
       "Name": "Windmill",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
@@ -752,8 +757,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:04:38.8386703+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:26.9799126+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:26.6378117+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:24.3849227+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:38.8386937+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:59:49.8556005+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:26.9799353+00:00"
 }

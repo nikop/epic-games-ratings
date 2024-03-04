@@ -50,8 +50,8 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~465 |
 | you're here for a good time, not a long time | 0.10% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,868 (Ranked 46)  
-Completed: 37 (0.01%) (Ranked 394)  
+Progressed: 464,868 (Ranked 47)  
+Completed: 37 (0.01%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

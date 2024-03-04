@@ -42,8 +42,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | Consultant | 0.10% | ~2 |
 | Birth of Venus | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,672 (Ranked 107)  
-Completed: 191 (0.20%) (Ranked 292)  
+Progressed: 94,672 (Ranked 109)  
+Completed: 191 (0.20%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,52 +5,52 @@ Rating: 4.53 (Ranked 584)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~332 |
-| Increasing your Power Level | 27.00% | ~332 |
-| Enter the Speed Gauntlet | 25.00% | ~307 |
-| I just can't choose | 25.00% | ~307 |
-| A Cheese Grater to the Face | 19.00% | ~234 |
-| Put it on a shelf | 18.00% | ~221 |
-| It's like an haircut | 17.00% | ~209 |
-| Ride in the rising sun | 16.00% | ~197 |
-| Suit up | 16.00% | ~197 |
-| Walked like an Egyptian | 15.00% | ~184 |
-| Running at the speed of sound | 13.00% | ~160 |
-| Rookie No-No More | 12.00% | ~147 |
-| Martian explorer | 11.00% | ~135 |
-| To the core | 8.00% | ~98 |
-| Blurred photofinish | 8.00% | ~98 |
-| EZ game EZ life | 7.00% | ~86 |
-| First step into a larger world | 7.00% | ~86 |
-| Over the clouds | 6.00% | ~74 |
-| Under the sea, under the sea | 6.00% | ~74 |
-| Even Faster! | 6.00% | ~74 |
-| Longshot | 6.00% | ~74 |
-| B-asic! | 5.00% | ~61 |
-| Under the neon lights | 4.00% | ~49 |
-| All Power to Engines! | 4.00% | ~49 |
-| Almost broke the game | 4.00% | ~49 |
-| Better luck next time | 4.00% | ~49 |
-| Dev, this! | 4.00% | ~49 |
-| He who laughs last... | 4.00% | ~49 |
-| Try them all | 3.00% | ~37 |
-| A-mazing! | 3.00% | ~37 |
-| To infinity and gravity! | 3.00% | ~37 |
-| One giant drive for mankind | 3.00% | ~37 |
-| Had to sweat a bit | 3.00% | ~37 |
-| It's like a party! | 3.00% | ~37 |
-| Healthy competition | 3.00% | ~37 |
+| Rookie No More | 27.00% | ~339 |
+| Increasing your Power Level | 27.00% | ~339 |
+| Enter the Speed Gauntlet | 25.00% | ~314 |
+| I just can't choose | 25.00% | ~314 |
+| A Cheese Grater to the Face | 19.00% | ~239 |
+| Put it on a shelf | 18.00% | ~226 |
+| It's like an haircut | 17.00% | ~214 |
+| Ride in the rising sun | 16.00% | ~201 |
+| Suit up | 16.00% | ~201 |
+| Walked like an Egyptian | 15.00% | ~188 |
+| Running at the speed of sound | 14.00% | ~176 |
+| Rookie No-No More | 12.00% | ~151 |
+| Martian explorer | 11.00% | ~138 |
+| To the core | 8.00% | ~100 |
+| Blurred photofinish | 8.00% | ~100 |
+| First step into a larger world | 7.00% | ~88 |
+| Over the clouds | 6.00% | ~75 |
+| Even Faster! | 6.00% | ~75 |
+| EZ game EZ life | 6.00% | ~75 |
+| B-asic! | 5.00% | ~63 |
+| Under the sea, under the sea | 5.00% | ~63 |
+| Longshot | 5.00% | ~63 |
+| Under the neon lights | 4.00% | ~50 |
+| All Power to Engines! | 4.00% | ~50 |
+| Almost broke the game | 4.00% | ~50 |
+| Better luck next time | 4.00% | ~50 |
+| Dev, this! | 4.00% | ~50 |
+| He who laughs last... | 4.00% | ~50 |
+| Try them all | 3.00% | ~38 |
+| A-mazing! | 3.00% | ~38 |
+| To infinity and gravity! | 3.00% | ~38 |
+| One giant drive for mankind | 3.00% | ~38 |
+| Had to sweat a bit | 3.00% | ~38 |
+| It's like a party! | 3.00% | ~38 |
 | This is to go, even Further Beyond! | 2.00% | ~25 |
 | Gitting Gud | 2.00% | ~25 |
 | [Sweats profusely] | 2.00% | ~25 |
 | Redout Champion | 2.00% | ~25 |
+| Healthy competition | 2.00% | ~25 |
 | Great Start | 2.00% | ~25 |
-| S-uper! | 1.00% | ~12 |
-| Put a sign on it | 1.00% | ~12 |
-| Everything is better with friends | 1.00% | ~12 |
-| Eat dust my friend | 1.00% | ~12 |
-| Better than half the studio... | 1.00% | ~12 |
-| Grandslam | 1.00% | ~12 |
+| S-uper! | 1.00% | ~13 |
+| Put a sign on it | 1.00% | ~13 |
+| Everything is better with friends | 1.00% | ~13 |
+| Eat dust my friend | 1.00% | ~13 |
+| Better than half the studio... | 1.00% | ~13 |
+| Grandslam | 1.00% | ~13 |
 | Fashion Racer | 0.90% | ~11 |
 | Familiar Face | 0.90% | ~11 |
 | Beat you to it! | 0.90% | ~11 |
@@ -58,8 +58,8 @@ Rating: 4.53 (Ranked 584)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,229 (Ranked 297)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 1,256 (Ranked 297)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,6 +224,7 @@ Completed: 0 (0.00%) (Ranked 418)
 | 2024-01-24 | 1,224 | 0 |
 | 2024-01-25 | 1,227 | 0 |
 | 2024-01-26 | 1,229 | 0 |
+| 2024-03-04 | 1,256 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -39,8 +39,8 @@
 | Pack Rat | 0.30% | ~381 |
 | Escape Artist | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,074 (Ranked 95)  
-Completed: 7 (0.01%) (Ranked 394)  
+Progressed: 127,074 (Ranked 96)  
+Completed: 7 (0.01%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

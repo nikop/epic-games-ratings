@@ -25,8 +25,8 @@
 | Faraway Frequencies | 3.00% | ~4,594 |
 | Minigame Megalomania | 2.00% | ~3,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,120 (Ranked 89)  
-Completed: 445 (0.29%) (Ranked 272)  
+Progressed: 153,120 (Ranked 90)  
+Completed: 445 (0.29%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -371,7 +371,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Zoro-Austrians | 0.10% | ~520 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 520,312 (Ranked 42)  
-Completed: 2 (0.00%) (Ranked 418)  
+Completed: 2 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -656,13 +656,13 @@ Completed: 2 (0.00%) (Ranked 418)
 | 2024-02-22 | 520,312 | 2 |
 ## Awards
 Max (Educational): 8,453  (Ranked 52)  
-Sum: 69,813 (Ranked 26)  
+Sum: 69,828 (Ranked 26)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 8,453 |
 | This game has Diverse Characters | 8,357 |
-| This game is Highly Recommended | 8,136 |
+| This game is Highly Recommended | 8,151 |
 | This game has Challenging Combat | 8,050 |
 | This game is Extremely Fun | 7,912 |
 | This game is Relaxing | 7,726 |
@@ -1085,4 +1085,4 @@ Diff (max vs sum): 26
 | 2024-03-01 | 4.69 | - | 8,407 | 69,508 |
 | 2024-03-02 | 4.69 | - | 8,425 | 69,635 |
 | 2024-03-03 | 4.69 | - | 8,442 | 69,741 |
-| 2024-03-04 | 4.69 | - | 8,453 | 69,813 |
+| 2024-03-04 | 4.69 | - | 8,453 | 69,828 |

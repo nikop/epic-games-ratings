@@ -53,8 +53,8 @@ Rating: 4.40 (Ranked 788)
 | Shooting Star | 0.10% | ~389 |
 | Crushed Ice | 0.10% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,520 (Ranked 57)  
-Completed: 6 (0.00%) (Ranked 418)  
+Progressed: 388,520 (Ranked 58)  
+Completed: 6 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

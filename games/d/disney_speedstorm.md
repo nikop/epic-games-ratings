@@ -30,8 +30,8 @@ Rating: 4.41 (Ranked 773)
 | ACE TRICKSTER | 0.80% | ~3,439 |
 | PERFECTLY POISED | 0.70% | ~3,009 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,813 (Ranked 51)  
-Completed: 2,082 (0.48%) (Ranked 237)  
+Progressed: 429,813 (Ranked 52)  
+Completed: 2,082 (0.48%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,12 +311,12 @@ Completed: 2,082 (0.48%) (Ranked 237)
 | 2024-01-27 | 408,747 | 1,776 |
 | 2024-02-22 | 429,813 | 2,082 |
 ## Awards
-Max (Great for Beginners): 259  (Ranked 288)  
-Sum: 1,601 (Ranked 252)  
-Diff (max vs sum): 36  
+Max (Great for Beginners): 262  (Ranked 287)  
+Sum: 1,604 (Ranked 252)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 259 |
+| This game is Great for Beginners | 262 |
 | This game is Great for Quick Sessions | 231 |
 | This game has Diverse Characters | 182 |
 | This game has a Competitive Community | 132 |
@@ -486,4 +486,4 @@ Diff (max vs sum): 36
 | 2024-03-01 | 4.41 | 254 | 1,565 |
 | 2024-03-02 | 4.41 | 257 | 1,579 |
 | 2024-03-03 | 4.41 | 259 | 1,595 |
-| 2024-03-04 | 4.41 | 259 | 1,601 |
+| 2024-03-04 | 4.41 | 262 | 1,604 |

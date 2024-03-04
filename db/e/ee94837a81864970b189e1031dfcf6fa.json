@@ -2,10 +2,10 @@
   "ID": "ee94837a81864970b189e1031dfcf6fa",
   "Name": "Expeditions: A MudRunner Game - The Great Don 71",
   "ProductSlug": "expeditions-a-mudrunner-game-e6bda2",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2024-03-05T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-29T21:57:13.1510136+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:32.6481473+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:00:01.6458996+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:18.6461788+00:00"
 }

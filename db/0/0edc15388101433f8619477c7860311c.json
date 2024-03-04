@@ -2,10 +2,10 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 488,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -869,6 +869,6 @@
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:32.5032571+00:00",
   "LastUpdate_AppInfo": "2024-03-04T21:57:05.805645+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:59.3106107+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:00:41.5609843+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:32.5032721+00:00"
 }

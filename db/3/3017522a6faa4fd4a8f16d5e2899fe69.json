@@ -2,10 +2,10 @@
   "ID": "3017522a6faa4fd4a8f16d5e2899fe69",
   "Name": "Inkulinati",
   "ProductSlug": "inkulinati-b60b1c",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-22T18:00:00+00:00",
     "PcReleaseDate": "2024-02-22T18:00:00+00:00",
@@ -24,17 +24,243 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:09.9783482+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:09.9783552+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ABSOLUTE_EFFICIENCY",
+      "SetID": "5p39703",
+      "Name": "Absolute Efficiency",
+      "Percentage": 53,
+      "XP": 25,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "AFTERLIFE",
+      "SetID": "5p39703",
+      "Name": "Afterlife",
+      "Percentage": 17,
+      "XP": 75,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "AFTERLIFE_II",
+      "SetID": "5p39703",
+      "Name": "Afterlife II",
+      "Percentage": 7,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "AMBITION",
+      "SetID": "5p39703",
+      "Name": "Ambition",
+      "Percentage": 33,
+      "XP": 20,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "Afterlife_III",
+      "SetID": "5p39703",
+      "Name": "Afterlife III",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELITE_LEAGUE_MEMBER",
+      "SetID": "5p39703",
+      "Name": "Inkulinati Secret League Member",
+      "Percentage": 7,
+      "XP": 40,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "FATAL_BLOW",
+      "SetID": "5p39703",
+      "Name": "Fatal Blow",
+      "Percentage": 53,
+      "XP": 25,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "FIRST_STEP",
+      "SetID": "5p39703",
+      "Name": "First Step",
+      "Percentage": 47,
+      "XP": 10,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "GOD_MODE",
+      "SetID": "5p39703",
+      "Name": "God Mode",
+      "Percentage": 33,
+      "XP": 30,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "GRADUATION",
+      "SetID": "5p39703",
+      "Name": "Graduation",
+      "Percentage": 57,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "HERESY",
+      "SetID": "5p39703",
+      "Name": "Heresy",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "NON_OMNIS_MORIAR",
+      "SetID": "5p39703",
+      "Name": "Non Omnis Moriar",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "NOT_EVEN_THE_SAME_PARISH",
+      "SetID": "5p39703",
+      "Name": "Not Even the Same Parish",
+      "Percentage": 33,
+      "XP": 25,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "ONE_TINY_BAND",
+      "SetID": "5p39703",
+      "Name": "One-Tiny Band",
+      "Percentage": 17,
+      "XP": 30,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "PURGATORY_TIME",
+      "SetID": "5p39703",
+      "Name": "Purgatory Time",
+      "Percentage": 20,
+      "XP": 50,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "PYRRHIC_VICTORY",
+      "SetID": "5p39703",
+      "Name": "Pyrrhic Victory",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "REVENGE",
+      "SetID": "5p39703",
+      "Name": "Revenge",
+      "Percentage": 67,
+      "XP": 10,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "SO_CLEVER_HE_WAS",
+      "SetID": "5p39703",
+      "Name": "So Clever He Was...",
+      "Percentage": 10,
+      "XP": 75,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "SO_HOLY_SHE_WAS",
+      "SetID": "5p39703",
+      "Name": "So Holy She Was...",
+      "Percentage": 20,
+      "XP": 50,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "SO_MUCH_LOVE_FOR_ANIMAL_HE_HAD",
+      "SetID": "5p39703",
+      "Name": "Such an Animal Lover He Was...",
+      "Percentage": 20,
+      "XP": 30,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "SO_SCHOLAR_HE_WAS",
+      "SetID": "5p39703",
+      "Name": "So Scholarly He Was...",
+      "Percentage": 13,
+      "XP": 30,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "SO_STRONG_HE_WAS",
+      "SetID": "5p39703",
+      "Name": "So Strong He Was...",
+      "Percentage": 27,
+      "XP": 50,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "SO_WISE_HE_WAS",
+      "SetID": "5p39703",
+      "Name": "So Wise He Was...",
+      "Percentage": 37,
+      "XP": 50,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "STUDENT_AMBITION",
+      "SetID": "5p39703",
+      "Name": "Student Ambition",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "SWAN_SONG",
+      "SetID": "5p39703",
+      "Name": "Swan Song",
+      "Percentage": 47,
+      "XP": 30,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "TOP_OF_THE_CLASS",
+      "SetID": "5p39703",
+      "Name": "Top of the Class",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 2
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5p39703",
+      "IsBase": true,
+      "Progressed": 30,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-02-24T19:56:58.3100746+00:00",
+  "FirstSeenAchievements": "2024-03-04T23:04:09.9783551+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:09.9783476+00:00",
   "LastUpdate_AppInfo": "2024-03-04T14:57:38.3907054+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:47.096034+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:22.2791444+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:09.9792294+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "edffc5fcc62140a7afd239d9e65df463",
   "Name": "F1\u00AE 24 Standard Edition",
   "ProductSlug": "f1-24",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-05-31T15:00:00+00:00",
     "PcReleaseDate": "2024-05-31T15:00:00+00:00",
@@ -29,5 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-27T16:57:04.0510426+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:10.7208725+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:00:58.2959273+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:18.9160165+00:00"
 }

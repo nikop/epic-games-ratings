@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 71.00% | ~65 |
-| Jalopy Poppy | 67.00% | ~62 |
-| Green-Bodied Monster | 59.00% | ~54 |
-| Chopper Stopper | 49.00% | ~45 |
-| Aerosolized | 45.00% | ~41 |
-| Monstrosity Atrocity | 39.00% | ~36 |
-| Test of Faith | 35.00% | ~32 |
-| Reign of Terror | 33.00% | ~30 |
-| Crushing All Cars | 24.00% | ~22 |
-| Brain Chopper | 21.00% | ~19 |
-| Night Bird | 17.00% | ~16 |
-| Horror Show | 17.00% | ~16 |
-| Demolition Ambition | 12.00% | ~11 |
+| Terror Rising | 80.00% | ~70 |
+| Jalopy Poppy | 76.00% | ~67 |
+| Green-Bodied Monster | 66.00% | ~58 |
+| Chopper Stopper | 55.00% | ~48 |
+| Aerosolized | 51.00% | ~45 |
+| Monstrosity Atrocity | 44.00% | ~39 |
+| Test of Faith | 40.00% | ~35 |
+| Reign of Terror | 39.00% | ~34 |
+| Crushing All Cars | 25.00% | ~22 |
+| Brain Chopper | 22.00% | ~19 |
+| Night Bird | 18.00% | ~16 |
+| Horror Show | 18.00% | ~16 |
+| Demolition Ambition | 13.00% | ~11 |
 | Hindenburgerer | 9.00% | ~8 |
 | Punchy Wagon | 8.00% | ~7 |
-| Holy Terror | 5.00% | ~5 |
-| Trash the Planet. | 5.00% | ~5 |
-| Kill All Humans! | 5.00% | ~5 |
-| Midair Affair | 4.00% | ~4 |
-| Demolition Tactician | 4.00% | ~4 |
-| Plight of the Valkyrie | 4.00% | ~4 |
+| Holy Terror | 6.00% | ~5 |
+| Trash the Planet. | 6.00% | ~5 |
+| Kill All Humans! | 6.00% | ~5 |
+| Midair Affair | 5.00% | ~4 |
+| Demolition Tactician | 5.00% | ~4 |
+| Plight of the Valkyrie | 5.00% | ~4 |
 | Demolition Exhibition | 3.00% | ~3 |
 | Rocket Science | 3.00% | ~3 |
 | Meat Catcher | 3.00% | ~3 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~3 |
 | Simulation 8e7d28c1 | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 520)  
-Completed: 3 (3.26%) (Ranked 111)  
+Progressed: 88 (Ranked 533)  
+Completed: 2 (2.27%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 3 (3.26%) (Ranked 111)
 | 2024-01-04 | 90 | 3 |
 | 2024-01-14 | 91 | 3 |
 | 2024-01-19 | 92 | 3 |
+| 2024-03-04 | 88 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

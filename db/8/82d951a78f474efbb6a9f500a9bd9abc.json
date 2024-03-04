@@ -2,10 +2,10 @@
   "ID": "82d951a78f474efbb6a9f500a9bd9abc",
   "Name": "Ninja Resurrection - A tale of Kuro",
   "ProductSlug": "ninja-resurrection-a-tale-of-kuro-f1d19f",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-11-29T22:00:00+00:00",
     "PcReleaseDate": "2023-11-15T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T13:58:00.8843222+00:00",
   "LastUpdate_AppInfo": "2024-02-29T13:57:13.939156+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:04.4437816+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:00:48.9055569+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:46.7764298+00:00"
 }

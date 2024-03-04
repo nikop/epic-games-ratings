@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~12 |
 | Against All Odds | 2.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 582 (Ranked 353)  
-Completed: 6 (1.03%) (Ranked 184)  
+Progressed: 582 (Ranked 358)  
+Completed: 6 (1.03%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

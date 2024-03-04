@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453 (Ranked 375)  
-Completed: 1 (0.22%) (Ranked 286)  
+Progressed: 453 (Ranked 378)  
+Completed: 1 (0.22%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

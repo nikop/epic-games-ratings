@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.44 (Ranked 726)  
+Rating: 4.44 (Ranked 725)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~502 |
 | Expert Collector | 1.00% | ~502 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,238 (Ranked 129)  
-Completed: 277 (0.55%) (Ranked 226)  
+Progressed: 50,238 (Ranked 130)  
+Completed: 277 (0.55%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

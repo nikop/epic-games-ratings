@@ -2,10 +2,10 @@
   "ID": "98c157cecc744a6393d86f60ccd43b53",
   "Name": "Road Maintenance Simulator",
   "ProductSlug": "road-maintenance-simulator-e6d9ff",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-29T13:00:00+00:00",
     "PcReleaseDate": "2022-04-07T10:00:00+00:00",
@@ -22,16 +22,434 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:16.4933924+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:16.4933953+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "001ach_AS_LS",
+      "SetID": "5iln8o3",
+      "Name": "Traffic Beacon",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "002ach_AS_BS",
+      "SetID": "5iln8o3",
+      "Name": "Traffic Beacon with light",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "003ach_AS_AB",
+      "SetID": "5iln8o3",
+      "Name": "Barrier",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "004ach_SA_LS",
+      "SetID": "5iln8o3",
+      "Name": "County Road",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "005ach_SA_BS",
+      "SetID": "5iln8o3",
+      "Name": "Federal Road",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "006ach_SA_AB",
+      "SetID": "5iln8o3",
+      "Name": "Highway",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "007ach_LR_LS",
+      "SetID": "5iln8o3",
+      "Name": "Turn right",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "008ach_LR_BS",
+      "SetID": "5iln8o3",
+      "Name": "Turn left",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "009ach_LS_AB",
+      "SetID": "5iln8o3",
+      "Name": "Straight ahead",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "010ach_SR",
+      "SetID": "5iln8o3",
+      "Name": "Stop",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "011ach_LS_LS",
+      "SetID": "5iln8o3",
+      "Name": "Delineator right",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "012ach_LS_BS",
+      "SetID": "5iln8o3",
+      "Name": "Delineator left",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "013ach_pushcart",
+      "SetID": "5iln8o3",
+      "Name": "Wheelbarrow",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "014ach_SS",
+      "SetID": "5iln8o3",
+      "Name": "Right of way",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "015ach_SW_LS",
+      "SetID": "5iln8o3",
+      "Name": "Screw",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "016ach_SW_BS",
+      "SetID": "5iln8o3",
+      "Name": "Screwdriver",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "017ach_SW_AB",
+      "SetID": "5iln8o3",
+      "Name": "Guardrail",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "018ach_SS_LS",
+      "SetID": "5iln8o3",
+      "Name": "Hand broom",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "019ach_SS_BS",
+      "SetID": "5iln8o3",
+      "Name": "Trash Picker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "020ach_SS_AB",
+      "SetID": "5iln8o3",
+      "Name": "Broom",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "021ach_SR_LS",
+      "SetID": "5iln8o3",
+      "Name": "Drop of water",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "022ach_SR_BS",
+      "SetID": "5iln8o3",
+      "Name": "Foam",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "023ach_SR_AB",
+      "SetID": "5iln8o3",
+      "Name": "Jet of water",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "024ach_AA_LS",
+      "SetID": "5iln8o3",
+      "Name": "Hole",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "025ach_AA_BS",
+      "SetID": "5iln8o3",
+      "Name": "Bucket",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "026ach_BS_LS",
+      "SetID": "5iln8o3",
+      "Name": "Scissors",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "027ach_BS_BS",
+      "SetID": "5iln8o3",
+      "Name": "Saw",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "028ach_FM_LS",
+      "SetID": "5iln8o3",
+      "Name": "Brush",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "029ach_FM_BS",
+      "SetID": "5iln8o3",
+      "Name": "Spray can",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "030ach_SA",
+      "SetID": "5iln8o3",
+      "Name": "Tar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "031ach_allQuests",
+      "SetID": "5iln8o3",
+      "Name": "Thumbs up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "032ach_10Mission",
+      "SetID": "5iln8o3",
+      "Name": "10",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "033ach_25Mission",
+      "SetID": "5iln8o3",
+      "Name": "25",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "034ach_50Mission",
+      "SetID": "5iln8o3",
+      "Name": "50",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "035ach_100Mission",
+      "SetID": "5iln8o3",
+      "Name": "100",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "036ach_crash",
+      "SetID": "5iln8o3",
+      "Name": "Battering Ram",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "037ach_100Beacon",
+      "SetID": "5iln8o3",
+      "Name": "Boot print",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "038ach_100BeaconRemoved",
+      "SetID": "5iln8o3",
+      "Name": "Boot prints",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "039ach_50Delinators",
+      "SetID": "5iln8o3",
+      "Name": "Hand",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "040ach_100DelinatorsPlaced",
+      "SetID": "5iln8o3",
+      "Name": "Reflector",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "041ach_100SignsMended",
+      "SetID": "5iln8o3",
+      "Name": "Attention",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "042ach_20Rails",
+      "SetID": "5iln8o3",
+      "Name": "Dumpster",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "043ach_100TrashBags",
+      "SetID": "5iln8o3",
+      "Name": "Trash bag",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "044ach_50RailsCleaned",
+      "SetID": "5iln8o3",
+      "Name": "Washing machine",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "045ach_15AsphaltMended",
+      "SetID": "5iln8o3",
+      "Name": "Jackhammer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "046ach_50Trees",
+      "SetID": "5iln8o3",
+      "Name": "Sun",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "047ach_100Lines",
+      "SetID": "5iln8o3",
+      "Name": "Straight line",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "048ach_15Streets",
+      "SetID": "5iln8o3",
+      "Name": "Bin",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "049ach_100SignsPlaced",
+      "SetID": "5iln8o3",
+      "Name": "Intersection",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "050ach_AllCars",
+      "SetID": "5iln8o3",
+      "Name": "Vehicle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5iln8o3",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:16.4933952+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:16.4933919+00:00",
   "LastUpdate_AppInfo": "2024-03-01T09:57:11.8945506+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:20.5391445+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:01:13.4251856+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:16.494048+00:00"
 }

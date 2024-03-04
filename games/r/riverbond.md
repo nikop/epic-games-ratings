@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,614 |
 | Point Taken | 0.20% | ~1,076 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,140 (Ranked 38)  
-Completed: 544 (0.10%) (Ranked 331)  
+Progressed: 538,140 (Ranked 40)  
+Completed: 544 (0.10%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,9 +349,9 @@ Completed: 544 (0.10%) (Ranked 331)
 | 2024-01-27 | 536,476 | 530 |
 | 2024-02-22 | 538,140 | 544 |
 ## Awards
-Max (Relaxing): 22  (Ranked 591)  
+Max (Relaxing): 22  (Ranked 592)  
 Sum: 22 (Ranked 595)  
-Diff (max vs sum): -4  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 22 |

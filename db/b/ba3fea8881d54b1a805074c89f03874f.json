@@ -2,10 +2,10 @@
   "ID": "ba3fea8881d54b1a805074c89f03874f",
   "Name": "Gambit Shifter",
   "ProductSlug": "gambit-shifter-93870e",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 773,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-19T09:00:00+00:00",
     "PcReleaseDate": "2024-02-19T09:00:00+00:00",
@@ -24,17 +24,243 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:20.0832047+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:20.0832074+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_CROWNS_TOUCHED",
+      "SetID": "o6pgpi",
+      "Name": "Keep them shiny",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BISHOPS_CAPTURED",
+      "SetID": "o6pgpi",
+      "Name": "Bishops Destroyer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BREAKABLE_USED",
+      "SetID": "o6pgpi",
+      "Name": "Minefield",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUTTON_USED",
+      "SetID": "o6pgpi",
+      "Name": "If there\u0027s a button, I press it!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_CROWNS_ALL",
+      "SetID": "o6pgpi",
+      "Name": "The King of all kings",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_CROWNS_LOW",
+      "SetID": "o6pgpi",
+      "Name": "Serial Achiever",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_CROWNS_MID",
+      "SetID": "o6pgpi",
+      "Name": "Halfway there",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENEMIES_CAPTURED",
+      "SetID": "o6pgpi",
+      "Name": "Unstoppable",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GAME_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Grandmaster!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KNIGHTS_CAPTURED",
+      "SetID": "o6pgpi",
+      "Name": "Knightmare",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PAWNS_CAPTURED",
+      "SetID": "o6pgpi",
+      "Name": "Pawns Eater",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAYER_DEATHS",
+      "SetID": "o6pgpi",
+      "Name": "Positive failure",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROOKS_CAPTURED",
+      "SetID": "o6pgpi",
+      "Name": "Rooks Conqueror",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SET01_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Realm 1 completed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SET02_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Realm 2 completed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SET03_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Realm 3 completed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SET04_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Realm 4 completed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SET05_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Realm 5 completed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SET06_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Realm 6 completed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SET07_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "Realm 7 completed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHIFT_USED",
+      "SetID": "o6pgpi",
+      "Name": "Shapeshifter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOFT_LOCKS",
+      "SetID": "o6pgpi",
+      "Name": "End of the ride",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STICKY_USED",
+      "SetID": "o6pgpi",
+      "Name": "Gotcha!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TELEPORT_USED",
+      "SetID": "o6pgpi",
+      "Name": "Been there, done that",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TILES_MOVED",
+      "SetID": "o6pgpi",
+      "Name": "On the move",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TUTORIAL_COMPLETED",
+      "SetID": "o6pgpi",
+      "Name": "The beginning",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "o6pgpi",
+      "IsBase": true,
+      "Progressed": 3,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-02-25T02:57:44.1720587+00:00",
+  "FirstSeenAchievements": "2024-03-04T23:04:20.0832074+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:20.0832041+00:00",
   "LastUpdate_AppInfo": "2024-03-02T13:57:16.289835+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:16.6157861+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:58:01.7452913+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:20.083828+00:00"
 }

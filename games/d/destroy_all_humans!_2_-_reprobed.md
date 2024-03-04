@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Ouch of Body Experience | 0.70% | ~4 |
 | Steezy Down the Spine | 0.70% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 362)  
-Completed: 2 (0.37%) (Ranked 256)  
+Progressed: 537 (Ranked 365)  
+Completed: 2 (0.37%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

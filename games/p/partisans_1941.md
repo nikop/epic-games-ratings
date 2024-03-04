@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.10% | ~2 |
 | A Little Culture | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,127 (Ranked 257)  
-Completed: 2 (0.09%) (Ranked 333)  
+Progressed: 2,127 (Ranked 258)  
+Completed: 2 (0.09%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

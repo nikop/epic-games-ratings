@@ -54,8 +54,8 @@ Number of Ratings: 46  (23.09.2022)
 | Intensify | 0.10% | ~171 |
 | Discarded Memento | 0.10% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,724 (Ranked 85)  
-Completed: 500 (0.29%) (Ranked 272)  
+Progressed: 171,724 (Ranked 86)  
+Completed: 500 (0.29%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -71,8 +71,8 @@ Rating: 4.67 (Ranked 291)
 | I Aced It Without Even Trying! | 0.20% | ~1 |
 | Tall; Grande; Venti | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,885 (Ranked 160)  
-Completed: 378 (1.90%) (Ranked 146)  
+Progressed: 19,885 (Ranked 164)  
+Completed: 378 (1.90%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

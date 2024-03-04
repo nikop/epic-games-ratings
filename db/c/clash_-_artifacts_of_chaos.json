@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 465,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -764,6 +764,6 @@
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:44.5003864+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:31.9014379+00:00",
-  "LastUpdate_Ratings": "2024-03-04T20:59:58.3928315+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:57:41.6597181+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:44.5004021+00:00"
 }

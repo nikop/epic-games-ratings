@@ -43,8 +43,8 @@ Rating: 4.00 (Ranked 1,080)
 | Nade King Master | 0.10% | ~921 |
 | Shoot the Knee | 0.10% | ~921 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,340 (Ranked 19)  
-Completed: 18 (0.00%) (Ranked 418)  
+Progressed: 921,340 (Ranked 20)  
+Completed: 18 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

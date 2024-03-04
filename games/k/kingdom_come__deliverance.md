@@ -90,7 +90,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Wingman | 0.10% | ~824 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 824,115 (Ranked 23)  
-Completed: 56 (0.01%) (Ranked 394)  
+Completed: 56 (0.01%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -374,12 +374,12 @@ Completed: 56 (0.01%) (Ranked 394)
 | 2024-01-27 | 819,386 | 54 |
 | 2024-02-22 | 824,115 | 56 |
 ## Awards
-Max (Character Customization): 7,932  (Ranked 57)  
-Sum: 29,370 (Ranked 51)  
+Max (Character Customization): 7,936  (Ranked 57)  
+Sum: 29,374 (Ranked 51)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,932 |
+| This game has Inclusive Character Customization | 7,936 |
 | This game has Great Boss Battles | 5,766 |
 | This game has Challenging Combat | 1,850 |
 | This game has Diverse Characters | 1,823 |
@@ -796,4 +796,4 @@ Diff (max vs sum): 6
 | 2024-03-01 | 4.71 | - | 7,925 | 29,334 |
 | 2024-03-02 | 4.71 | - | 7,930 | 29,344 |
 | 2024-03-03 | 4.71 | - | 7,932 | 29,359 |
-| 2024-03-04 | 4.71 | - | 7,932 | 29,370 |
+| 2024-03-04 | 4.71 | - | 7,936 | 29,374 |

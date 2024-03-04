@@ -72,8 +72,8 @@ Rating: 4.80 (Ranked 95)
 | Coffee-Themed Fun | 8.00% | ~32,599 |
 | Rustic Charm | 8.00% | ~32,599 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,490 (Ranked 52)  
-Completed: 8,512 (2.09%) (Ranked 138)  
+Progressed: 407,490 (Ranked 53)  
+Completed: 8,512 (2.09%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,14 +182,14 @@ Completed: 8,512 (2.09%) (Ranked 138)
 | 2024-02-22 | 407,490 | 8,512 |
 ## Awards
 Max (Diverse Characters): 930  (Ranked 178)  
-Sum: 5,634 (Ranked 151)  
+Sum: 5,636 (Ranked 151)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 930 |
 | This game has Quickly Understood Controls | 875 |
 | This game is Highly Recommended | 863 |
-| This game has Amazing Storytelling | 850 |
+| This game has Amazing Storytelling | 852 |
 | This game has Amazing Characters | 810 |
 | This game is Extremely Fun | 797 |
 | This game has a Creative Community | 509 |
@@ -328,4 +328,4 @@ Diff (max vs sum): 27
 | 2024-03-01 | 4.80 | 922 | 5,595 |
 | 2024-03-02 | 4.80 | 923 | 5,604 |
 | 2024-03-03 | 4.80 | 926 | 5,619 |
-| 2024-03-04 | 4.80 | 930 | 5,634 |
+| 2024-03-04 | 4.80 | 930 | 5,636 |

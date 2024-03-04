@@ -16,8 +16,8 @@
 | Where’s Mr. Dinosaur? | 22.00% | ~22 |
 | Always Remember To Eat Your Five! | 10.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 513)  
-Completed: 4 (4.08%) (Ranked 96)  
+Progressed: 98 (Ranked 518)  
+Completed: 4 (4.08%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "cd7de0977e0f4f7f8468653789569766",
   "Name": "URBO",
   "ProductSlug": "urbo-37789e",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-09-12T20:00:00+00:00",
@@ -31,7 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "54hd2ka",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:11.9921619+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:11.9921582+00:00",
   "LastUpdate_AppInfo": "2024-02-28T18:57:18.3463865+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:29.3085472+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:59:56.1479556+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:11.9921628+00:00"
 }

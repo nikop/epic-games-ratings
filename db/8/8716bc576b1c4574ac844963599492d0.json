@@ -2,10 +2,10 @@
   "ID": "8716bc576b1c4574ac844963599492d0",
   "Name": "Offroad Jeep 4x4 Car Driving Simulator",
   "ProductSlug": "offroad-jeep-4x4-car-driving-simulator-2a3e3d",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-09-06T18:30:00+00:00",
     "PcReleaseDate": "2023-02-22T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-03T19:03:18.373462+00:00",
   "LastUpdate_AppInfo": "2024-02-29T09:57:27.8958445+00:00",
-  "LastUpdate_Ratings": "2024-03-04T22:00:15.1039351+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:04:02.9367641+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:07.5907111+00:00"
 }

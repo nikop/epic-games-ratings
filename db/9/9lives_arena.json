@@ -5,10 +5,10 @@
   "Ranking_Rating": 707,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 216,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-12-27T15:00:00+00:00",
     "PcReleaseDate": "2023-12-27T15:00:00+00:00",
@@ -211,9 +211,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4636,
+  "EOS_Progressed": 5682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3806,6 +3806,11 @@
       "Time": "2024-01-27T13:05:32.8754771+00:00",
       "NumProgressed": 4636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-04T23:05:35.3839384+00:00",
+      "NumProgressed": 5682,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -3816,9 +3821,9 @@
       "ID": "FishingSmallBronze",
       "SetID": "13dm16l",
       "Name": "Bronze Angler Trophy",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 200,
-      "UsersEstimate": 19
+      "UsersEstimate": 34
     },
     {
       "ID": "FishingSmallGold",
@@ -3848,16 +3853,16 @@
       "ID": "FishingSmallSilver",
       "SetID": "13dm16l",
       "Name": "Silver Angler Trophy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 4636,
+      "Progressed": 5682,
       "Completed": 0
     }
   ],
@@ -3865,8 +3870,8 @@
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
   "LastChanged": "2024-02-21T06:58:39.1693056+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:32.8754768+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:05:35.3839381+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:28.5192277+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:40.9133605+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:32.8755037+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:00:14.253817+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:35.3839648+00:00"
 }

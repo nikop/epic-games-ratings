@@ -2,10 +2,10 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -1045,6 +1045,6 @@
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:25.5026935+00:00",
   "LastUpdate_AppInfo": "2024-03-01T20:57:09.4521261+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:00.1213091+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:57:43.4136253+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:25.5027096+00:00"
 }

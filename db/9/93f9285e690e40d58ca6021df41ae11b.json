@@ -2,10 +2,10 @@
   "ID": "93f9285e690e40d58ca6021df41ae11b",
   "Name": "I Need Spirit Drink and Drive Simulator",
   "ProductSlug": "need-for-spirit-drink-and-drive-simulator-db9660",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-07-09T07:00:00+00:00",
     "PcReleaseDate": "2018-12-04T23:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-10T21:57:00.4471618+00:00",
   "LastUpdate_AppInfo": "2024-02-28T15:57:23.8992308+00:00",
-  "LastUpdate_Ratings": "2024-03-04T20:59:50.371872+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:26.7774314+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:57:32.8181576+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:27.2290333+00:00"
 }

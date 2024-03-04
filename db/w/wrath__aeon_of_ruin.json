@@ -2,10 +2,10 @@
   "ID": "c532b0ba77e64c64b44bcd2d5e8d1546",
   "Name": "Wrath: Aeon of Ruin",
   "ProductSlug": "wrath-aeon-of-ruin",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-02-18T18:00:00+00:00",
     "PcReleaseDate": "2021-02-18T18:00:00+00:00",
@@ -29,20 +29,437 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:49.7973818+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:49.7973842+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AL_FEAT_ROCKETJUMP",
+      "SetID": "4hch943",
+      "Name": "Cannoneer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AL_TIME_DROWN",
+      "SetID": "4hch943",
+      "Name": "Iron Lungs",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AL_TIME_LAVA",
+      "SetID": "4hch943",
+      "Name": "Firewalking",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_1HP",
+      "SetID": "4hch943",
+      "Name": "Naked And Savage",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "SP_FEAT_BOSS1",
+      "SetID": "4hch943",
+      "Name": "Untouched",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_BOSS2",
+      "SetID": "4hch943",
+      "Name": "Time Dilation",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_BOSS3",
+      "SetID": "4hch943",
+      "Name": "Close And Personal",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_COFFER_26",
+      "SetID": "4hch943",
+      "Name": "Treasure Hunter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_COFFER_ALL",
+      "SetID": "4hch943",
+      "Name": "Treasure Hoarder",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_CRYSTALSPREAD",
+      "SetID": "4hch943",
+      "Name": "Buzz Kill",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_CYST_PLANT",
+      "SetID": "4hch943",
+      "Name": "Minelayer",
+      "Percentage": 36,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "SP_FEAT_EASY",
+      "SetID": "4hch943",
+      "Name": "Act Of Wrath",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_OUTLANDER",
+      "SetID": "4hch943",
+      "Name": "Outlander",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_SCATTER",
+      "SetID": "4hch943",
+      "Name": "Scattershot",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "SP_FEAT_SECRETS_ALL",
+      "SetID": "4hch943",
+      "Name": "The Gamut",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_SECRETS_E1",
+      "SetID": "4hch943",
+      "Name": "Secrets Of The Vale",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_SECRETS_E2",
+      "SetID": "4hch943",
+      "Name": "Secrets Of The Wastes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_SECRETS_E3",
+      "SetID": "4hch943",
+      "Name": "Secrets Of The Domain",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_FEAT_SECRETS_LEVEL",
+      "SetID": "4hch943",
+      "Name": "No Stone Unturned",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "SP_GRIND_ANIMUS",
+      "SetID": "4hch943",
+      "Name": "Bone Idol",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_GRIND_ATTAR",
+      "SetID": "4hch943",
+      "Name": "Purple Haze",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "SP_GRIND_BLADE",
+      "SetID": "4hch943",
+      "Name": "Slash And Dash",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "SP_GRIND_DEFLECTION",
+      "SetID": "4hch943",
+      "Name": "Bounceback",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "SP_GRIND_FLASK",
+      "SetID": "4hch943",
+      "Name": "Rampage",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_GRIND_KICK",
+      "SetID": "4hch943",
+      "Name": "Kickstatter",
+      "Percentage": 34,
+      "XP": 10,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "SP_GRIND_KILLS_5000",
+      "SetID": "4hch943",
+      "Name": "Total Massacre",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_GRIND_LORE_ALL",
+      "SetID": "4hch943",
+      "Name": "The Scribe",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_GRIND_MACE",
+      "SetID": "4hch943",
+      "Name": "Harvester",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_GRIND_SHOCKWAVE",
+      "SetID": "4hch943",
+      "Name": "Shock Tactics",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_GRIND_SIPHON",
+      "SetID": "4hch943",
+      "Name": "Heart Attack",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "SP_GRIND_SOULTETHER",
+      "SetID": "4hch943",
+      "Name": "Lifesaver",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "SP_GRIND_VOID",
+      "SetID": "4hch943",
+      "Name": "Grounded",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_JOKE_E2M3",
+      "SetID": "4hch943",
+      "Name": "Desecration",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_JOKE_E3M2",
+      "SetID": "4hch943",
+      "Name": "Stop Staring",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_JOKE_WRETCH",
+      "SetID": "4hch943",
+      "Name": "Friendly Fire",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "SP_SECRET_E1M2",
+      "SetID": "4hch943",
+      "Name": "Thick As Thieves",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "SP_SECRET_E2M1",
+      "SetID": "4hch943",
+      "Name": "Crystal Cave",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_SECRET_E3M3",
+      "SetID": "4hch943",
+      "Name": "Steam",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_SECRET_E3M4",
+      "SetID": "4hch943",
+      "Name": "Kell\u2019s Cage",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_SECRET_INTRO",
+      "SetID": "4hch943",
+      "Name": "Passing Of The Torch",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "SP_SECRET_LIFT",
+      "SetID": "4hch943",
+      "Name": "The One And Only",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_STORY_BOSS1",
+      "SetID": "4hch943",
+      "Name": "Ascension",
+      "Percentage": 6,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "SP_STORY_BOSS2",
+      "SetID": "4hch943",
+      "Name": "Transcendence",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_STORY_BOSS3",
+      "SetID": "4hch943",
+      "Name": "Victory",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_STORY_CHAIN",
+      "SetID": "4hch943",
+      "Name": "Chain Reaction",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_STORY_HUB1",
+      "SetID": "4hch943",
+      "Name": "In Snow And Moonlight",
+      "Percentage": 68,
+      "XP": 15,
+      "UsersEstimate": 32
+    },
+    {
+      "ID": "SP_STORY_HUB2",
+      "SetID": "4hch943",
+      "Name": "In Sand And Starlight",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "SP_STORY_HUB3",
+      "SetID": "4hch943",
+      "Name": "In The Mouth Of Madness",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SP_STORY_INTRO",
+      "SetID": "4hch943",
+      "Name": "With A Single Step",
+      "Percentage": 91,
+      "XP": 15,
+      "UsersEstimate": 43
+    },
+    {
+      "ID": "SP_STORY_ORRERY",
+      "SetID": "4hch943",
+      "Name": "Worlds Within Whirls",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4hch943",
+      "IsBase": true,
+      "Progressed": 47,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:20:59.5756617+00:00",
   "FirstSeenRating": "2023-03-31T05:57:23.3987798+00:00",
+  "FirstSeenAchievements": "2024-03-04T23:04:49.7973841+00:00",
   "LastChanged": "2023-03-31T05:57:23.3987799+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:49.7973812+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:09.5438966+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:44.0360362+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:56.7848721+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:01:50.3048623+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:49.7981658+00:00"
 }

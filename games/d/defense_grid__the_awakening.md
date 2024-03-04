@@ -1,7 +1,7 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.44 (Ranked 726)  
+Rating: 4.44 (Ranked 725)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -95,7 +95,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | You Monster | 0.10% | ~497 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 496,586 (Ranked 43)  
-Completed: 5 (0.00%) (Ranked 418)  
+Completed: 5 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -379,12 +379,12 @@ Completed: 5 (0.00%) (Ranked 418)
 | 2024-01-27 | 494,913 | 5 |
 | 2024-02-22 | 496,586 | 5 |
 ## Awards
-Max (Great for Beginners): 270  (Ranked 285)  
-Sum: 1,791 (Ranked 236)  
+Max (Great for Beginners): 271  (Ranked 285)  
+Sum: 1,792 (Ranked 236)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 270 |
+| This game is Great for Beginners | 271 |
 | This game has Quickly Understood Controls | 233 |
 | This game is Relaxing | 228 |
 | This game is Extremely Fun | 219 |
@@ -586,4 +586,4 @@ Diff (max vs sum): 49
 | 2024-02-29 | 4.45 | - | 270 | 1,787 |
 | 2024-03-02 | 4.45 | - | 270 | 1,788 |
 | 2024-03-03 | 4.44 | - | 270 | 1,789 |
-| 2024-03-04 | 4.44 | - | 270 | 1,791 |
+| 2024-03-04 | 4.44 | - | 271 | 1,792 |

@@ -55,7 +55,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | The Creative Assassin | 0.70% | ~9,856 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,407,935 (Ranked 9)  
-Completed: 2,260 (0.16%) (Ranked 305)  
+Completed: 2,260 (0.16%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

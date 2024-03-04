@@ -3,12 +3,12 @@
   "Name": "Solar Ash",
   "ProductSlug": "solar-ash",
   "Ranking_Rating": 330,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 588,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-12-02T17:00:00+00:00",
     "PcReleaseDate": "2021-12-02T17:00:00+00:00",
@@ -268,18 +268,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-03-04T22:58:55.4262631+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -293,8 +299,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:55.4392125+00:00",
-  "LastChanged": "2023-08-09T10:01:10.4620379+00:00",
+  "LastChanged": "2024-03-04T22:58:55.4262629+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:15.3903195+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:01:05.924611+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:58:55.4262633+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:57.7703658+00:00"
 }

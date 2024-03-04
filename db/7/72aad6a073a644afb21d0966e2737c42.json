@@ -2,10 +2,10 @@
   "ID": "72aad6a073a644afb21d0966e2737c42",
   "Name": "SCP Horror Series 2",
   "ProductSlug": "scp-horror-series-b7ca49",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-03T22:57:09.2253015+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:57:53.4153117+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:00:32.7197208+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:23.7094506+00:00"
 }

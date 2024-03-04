@@ -2,10 +2,10 @@
   "ID": "e582a1469e18401e8729827444ea2c8e",
   "Name": "DotLine",
   "ProductSlug": "dot-line-e45fbd",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-15T18:00:00+00:00",
     "PcReleaseDate": "2018-09-22T00:00:00+00:00",
@@ -23,16 +23,370 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:19.8070518+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:19.807056+00:00",
+  "TotalAchievements": 42,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_1",
+      "SetID": "7be47b7",
+      "Name": "Campaign",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_10",
+      "SetID": "7be47b7",
+      "Name": "7 days",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_11",
+      "SetID": "7be47b7",
+      "Name": "777",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_12",
+      "SetID": "7be47b7",
+      "Name": "Super User",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_13",
+      "SetID": "7be47b7",
+      "Name": "Act A",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_14",
+      "SetID": "7be47b7",
+      "Name": "Act B",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_15",
+      "SetID": "7be47b7",
+      "Name": "Act C",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_16",
+      "SetID": "7be47b7",
+      "Name": "Act D",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_17",
+      "SetID": "7be47b7",
+      "Name": "Act E",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_18",
+      "SetID": "7be47b7",
+      "Name": "Act F",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_19",
+      "SetID": "7be47b7",
+      "Name": "Act G",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_2",
+      "SetID": "7be47b7",
+      "Name": "Champion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_20",
+      "SetID": "7be47b7",
+      "Name": "Act H",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_21",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act A",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_22",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act B",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_23",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act C",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_24",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act D",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_25",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act E",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_26",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act F",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_27",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act G",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_28",
+      "SetID": "7be47b7",
+      "Name": "Champion - Act H",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_29",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act A",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_3",
+      "SetID": "7be47b7",
+      "Name": "Super Champion",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_30",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act B",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_31",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act C",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_32",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act D",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_33",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act E",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_34",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act F",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_35",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act G",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_36",
+      "SetID": "7be47b7",
+      "Name": "Super champion - Act H",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_37",
+      "SetID": "7be47b7",
+      "Name": "Trophy",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_38",
+      "SetID": "7be47b7",
+      "Name": "Super trophy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_39",
+      "SetID": "7be47b7",
+      "Name": "Dot Line Super Star",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_4",
+      "SetID": "7be47b7",
+      "Name": "Bonus",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_40",
+      "SetID": "7be47b7",
+      "Name": "Speed",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_41",
+      "SetID": "7be47b7",
+      "Name": "2 000 000",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_42",
+      "SetID": "7be47b7",
+      "Name": "Victory",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_5",
+      "SetID": "7be47b7",
+      "Name": "Bonus trophies",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_6",
+      "SetID": "7be47b7",
+      "Name": "Super trophies Bonus",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_7",
+      "SetID": "7be47b7",
+      "Name": "Challenges",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_8",
+      "SetID": "7be47b7",
+      "Name": "Challenger",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_9",
+      "SetID": "7be47b7",
+      "Name": "Super Challenger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "7be47b7",
+      "IsBase": true,
+      "Progressed": 20,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:19.8070559+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:19.8070512+00:00",
   "LastUpdate_AppInfo": "2024-03-03T17:57:15.5500882+00:00",
-  "LastUpdate_Ratings": "2024-03-04T22:00:12.3127161+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:58.5825066+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:19.8078501+00:00"
 }

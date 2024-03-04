@@ -565,8 +565,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | 15 minutes to Doomsday | 0.10% | ~225 |
 | Evil to the Core | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,641 (Ranked 71)  
-Completed: 2,713 (1.05%) (Ranked 179)  
+Progressed: 258,641 (Ranked 72)  
+Completed: 2,713 (1.05%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

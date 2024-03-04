@@ -2,10 +2,10 @@
   "ID": "bff2e203fab54008b0dfc3b56f91ba54",
   "Name": "As Dusk Falls",
   "ProductSlug": "as-dusk-falls-308b83",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-07T14:00:00+00:00",
     "PcReleaseDate": "2022-07-19T03:00:00+00:00",
@@ -28,10 +28,422 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-03-04T23:04:15.3038476+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "S1B1Complete",
+      "SetID": "dbllnom",
+      "Name": "From Dusk \u0027til Dawn",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1B2Complete",
+      "SetID": "dbllnom",
+      "Name": "End of the Road?",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1ACopOut",
+      "SetID": "dbllnom",
+      "Name": "Cop Out",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1AMessageReceived",
+      "SetID": "dbllnom",
+      "Name": "Message Received",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1APointBlank",
+      "SetID": "dbllnom",
+      "Name": "Point Blank",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1ATablesTurned",
+      "SetID": "dbllnom",
+      "Name": "Tables Turned",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1BBungled",
+      "SetID": "dbllnom",
+      "Name": "Bungled",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1BCodeBreaker",
+      "SetID": "dbllnom",
+      "Name": "Code Breaker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1BSmoothCriminal",
+      "SetID": "dbllnom",
+      "Name": "Smooth Criminal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E1EpisodeComplete",
+      "SetID": "dbllnom",
+      "Name": "And So It Begins\u2026",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2ADodgedABullet",
+      "SetID": "dbllnom",
+      "Name": "Dodged A Bullet",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2ALifesaver",
+      "SetID": "dbllnom",
+      "Name": "Lifesaver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2APagingDrWalker",
+      "SetID": "dbllnom",
+      "Name": "Paging Dr Walker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2AWhatsYourEmergency",
+      "SetID": "dbllnom",
+      "Name": "What\u0027s Your Emergency?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2BKeepingTheFaith",
+      "SetID": "dbllnom",
+      "Name": "Keeping The Faith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2BUnforgiveable",
+      "SetID": "dbllnom",
+      "Name": "Unforgiveable",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2BWhatsDoneIsDone",
+      "SetID": "dbllnom",
+      "Name": "What\u0027s Done is Done",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E2EpisodeComplete",
+      "SetID": "dbllnom",
+      "Name": "Caught in a Trap",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3ABetterTheDevilYouKnow",
+      "SetID": "dbllnom",
+      "Name": "Better the Devil You Know",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3ALongArmOfTheLaw",
+      "SetID": "dbllnom",
+      "Name": "Long Arm of the Law",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3ASecondChance",
+      "SetID": "dbllnom",
+      "Name": "Second Chance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3AShesComingWithUs",
+      "SetID": "dbllnom",
+      "Name": "She\u0027s Coming with Us",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3ATakeMeInstead",
+      "SetID": "dbllnom",
+      "Name": "Take Me Instead",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3BBuriedAlive",
+      "SetID": "dbllnom",
+      "Name": "Buried Alive",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3BResurrection",
+      "SetID": "dbllnom",
+      "Name": "Resurrection",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E3EpisodeComplete",
+      "SetID": "dbllnom",
+      "Name": "New Dawn",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4ABrothersInArms",
+      "SetID": "dbllnom",
+      "Name": "Brothers in Arms",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4AHandsInTheAir",
+      "SetID": "dbllnom",
+      "Name": "Hands in the Air",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4AInvincible",
+      "SetID": "dbllnom",
+      "Name": "Invincible",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4ANoGoingBack",
+      "SetID": "dbllnom",
+      "Name": "No Going Back",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4AOnceAHolt",
+      "SetID": "dbllnom",
+      "Name": "Once a Holt",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4BCabinWhatCabin",
+      "SetID": "dbllnom",
+      "Name": "Cabin? What Cabin?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4BTrailOfBreadcrumbs",
+      "SetID": "dbllnom",
+      "Name": "Trail of Breadcrumbs",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E4EpisodeComplete",
+      "SetID": "dbllnom",
+      "Name": "Into The Woods",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5ABonnieAndClyde",
+      "SetID": "dbllnom",
+      "Name": "Bonnie and Clyde",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5ABullseye",
+      "SetID": "dbllnom",
+      "Name": "Bullseye",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5AHeartToHeart",
+      "SetID": "dbllnom",
+      "Name": "Heart to Heart",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5APleadThe5th",
+      "SetID": "dbllnom",
+      "Name": "Plead the 5th",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5AYoureOnYourOwn",
+      "SetID": "dbllnom",
+      "Name": "You\u0027re On Your Own",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5BCubaLibre",
+      "SetID": "dbllnom",
+      "Name": "Cuba Libre",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5BJailbird",
+      "SetID": "dbllnom",
+      "Name": "Jailbird",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E5EpisodeComplete",
+      "SetID": "dbllnom",
+      "Name": "Runaways",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6ABreakingBread",
+      "SetID": "dbllnom",
+      "Name": "Breaking Bread",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6AEnoughIsEnough",
+      "SetID": "dbllnom",
+      "Name": "Enough is Enough",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6AIntoTheWild",
+      "SetID": "dbllnom",
+      "Name": "Into the Wild",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6AMostWanted",
+      "SetID": "dbllnom",
+      "Name": "Most Wanted",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6AStayOfExecution",
+      "SetID": "dbllnom",
+      "Name": "Stay of Execution",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6BAlmostMadeIt",
+      "SetID": "dbllnom",
+      "Name": "Almost Made It",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6BFreeBirds",
+      "SetID": "dbllnom",
+      "Name": "Free Bird",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "S1E6EpisodeComplete",
+      "SetID": "dbllnom",
+      "Name": "Past, Tense",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "dbllnom",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:15.3038476+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:15.3038387+00:00",
   "LastUpdate_AppInfo": "2024-03-04T11:57:43.0121957+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:08.4369106+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:02:24.2360393+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:15.3044225+00:00"
 }

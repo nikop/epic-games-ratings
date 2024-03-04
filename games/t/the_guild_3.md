@@ -3,6 +3,42 @@
 [View Rawdata](../../db/t/the_guild_3.json)  
 Rating: 4.17 (Ranked 1,016)  
 Number of Ratings: 76  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| My first attempt | 66.00% | ~21 |
+| This is the end | 59.00% | ~19 |
+| Pirates of the European Seas | 41.00% | ~13 |
+| Office bearer | 41.00% | ~13 |
+| The golden spoon | 34.00% | ~11 |
+| Out-Of-Sync | 16.00% | ~5 |
+| The cart is creaking... | 6.00% | ~2 |
+| Yes, Master! | 6.00% | ~2 |
+| Executed | 3.00% | ~1 |
+| Competitor | 3.00% | ~1 |
+| Filthy Rich | 3.00% | ~1 |
+| Serious Foe | 3.00% | ~1 |
+| Who is this Luther? | 0.00% | ~0 |
+| Witchmaster | 0.00% | ~0 |
+| I am the Master! | 0.00% | ~0 |
+| Magnate | 0.00% | ~0 |
+| The Ruler am I! | 0.00% | ~0 |
+| What is this Prussia? | 0.00% | ~0 |
+| You want war? You get war! | 0.00% | ~0 |
+| Further than most others | 0.00% | ~0 |
+| Better than Heracles | 0.00% | ~0 |
+| Make it your way! | 0.00% | ~0 |
+| Casanova | 0.00% | ~0 |
+| Sandwich maker | 0.00% | ~0 |
+| Proud as a rooster | 0.00% | ~0 |
+| Courageous | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 32 (Ranked 626)  
+Completed: 0 (0.00%) (Ranked 423)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-04 | 32 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

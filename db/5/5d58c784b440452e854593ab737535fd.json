@@ -2,10 +2,10 @@
   "ID": "5d58c784b440452e854593ab737535fd",
   "Name": "Those who Came:Healing Solarus - Definitive Edition",
   "ProductSlug": "those-who-came-healing-solarus-1c04d2",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 773,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-31T18:00:00+00:00",
     "PcReleaseDate": "2024-01-25T15:00:00+00:00",
@@ -22,16 +22,146 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:12.0036873+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:12.0036907+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_CREATE_PARTIES",
+      "SetID": "1m8ml9k",
+      "Name": "Together",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENTER_CAVES",
+      "SetID": "1m8ml9k",
+      "Name": "Inside the planet",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GET_REVIVED",
+      "SetID": "1m8ml9k",
+      "Name": "Second chance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_50_AIRY",
+      "SetID": "1m8ml9k",
+      "Name": "Path of the Airy",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_50_ETHER",
+      "SetID": "1m8ml9k",
+      "Name": "Path of the Ether",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_50_FIREI",
+      "SetID": "1m8ml9k",
+      "Name": "Path of the Firei",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_50_JOINTER",
+      "SetID": "1m8ml9k",
+      "Name": "Path of the Jointer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OBTAIN_10_MODS",
+      "SetID": "1m8ml9k",
+      "Name": "Well Prepared",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OBTAIN_5_MODS",
+      "SetID": "1m8ml9k",
+      "Name": "Modder",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_REACH_SURFACE",
+      "SetID": "1m8ml9k",
+      "Name": "A new World",
+      "Percentage": 33,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_REACH_THE_VAULT",
+      "SetID": "1m8ml9k",
+      "Name": "The Seeker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_REVIVE_100_PLAYERS",
+      "SetID": "1m8ml9k",
+      "Name": "Did someone ask for a medic?",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_START_GAME",
+      "SetID": "1m8ml9k",
+      "Name": "Welcome to TWC",
+      "Percentage": 67,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_STOP_BINEOK",
+      "SetID": "1m8ml9k",
+      "Name": "New Beginning",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1m8ml9k",
+      "IsBase": true,
+      "Progressed": 3,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:12.0036907+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:12.0036869+00:00",
   "LastUpdate_AppInfo": "2024-02-27T18:57:18.2078306+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:08.8082026+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:02:24.7960814+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:12.004285+00:00"
 }

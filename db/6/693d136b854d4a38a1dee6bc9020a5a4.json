@@ -2,10 +2,10 @@
   "ID": "693d136b854d4a38a1dee6bc9020a5a4",
   "Name": "Iragon",
   "ProductSlug": "iragon-a62cad",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 789,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-14T00:00:00+00:00",
     "PcReleaseDate": "2024-02-29T07:00:00+00:00",
@@ -24,27 +24,315 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:21.9971353+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-04T23:04:21.9971373+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BARRELS_ARE_MY_ENEMY",
+      "SetID": "3cbe42k",
+      "Name": "Barrels are My Enemy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BECOME_THE_BANK",
+      "SetID": "3cbe42k",
+      "Name": "Become the Bank",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHANNELER",
+      "SetID": "3cbe42k",
+      "Name": "Channeler",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETIONIST",
+      "SetID": "3cbe42k",
+      "Name": "Completionist",
+      "Percentage": 0,
+      "XP": 135,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CRYOMANCER_ADEPT",
+      "SetID": "3cbe42k",
+      "Name": "Cryomancer Adept",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CRYSTAL_CONQUEROR",
+      "SetID": "3cbe42k",
+      "Name": "Crystal Conqueror",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DAVID_AND_GOLIATH",
+      "SetID": "3cbe42k",
+      "Name": "David and Goliath",
+      "Percentage": 50,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DECIMATOR",
+      "SetID": "3cbe42k",
+      "Name": "Decimator",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ELVEN_NEGOTIATIONS",
+      "SetID": "3cbe42k",
+      "Name": "Elven Negotiations",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ESME_HELPER",
+      "SetID": "3cbe42k",
+      "Name": "Esme Helper",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_FELLHANDED",
+      "SetID": "3cbe42k",
+      "Name": "Fellhanded",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FULLY_CHARGED",
+      "SetID": "3cbe42k",
+      "Name": "Fully Charged",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HAMMER_TIME",
+      "SetID": "3cbe42k",
+      "Name": "Hammer Time",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HURT_ME_PLENTY",
+      "SetID": "3cbe42k",
+      "Name": "Hurt Me Plenty",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_I_SEE_NOW",
+      "SetID": "3cbe42k",
+      "Name": "I See Now",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEAVE_NONE_UNBROKEN",
+      "SetID": "3cbe42k",
+      "Name": "Leave None Unbroken",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LIGHTNING_ADEPT",
+      "SetID": "3cbe42k",
+      "Name": "Lightning Adept",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MENAGERIE_CURATOR",
+      "SetID": "3cbe42k",
+      "Name": "Menagerie Curator",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MINDEE_HELPER",
+      "SetID": "3cbe42k",
+      "Name": "Mindee Helper",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_MONEY_WELL_SPENT",
+      "SetID": "3cbe42k",
+      "Name": "Money Well Spent",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NOT_SO_GOOD_TIME",
+      "SetID": "3cbe42k",
+      "Name": "A Not So Good Time",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ON_THE_WARPATH",
+      "SetID": "3cbe42k",
+      "Name": "On the Warpath",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PATH_OF_FLAME",
+      "SetID": "3cbe42k",
+      "Name": "Path of Flame",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PATH_OF_ICE",
+      "SetID": "3cbe42k",
+      "Name": "Path of Ice",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PATH_OF_LIGHTNING",
+      "SetID": "3cbe42k",
+      "Name": "Path of Lightning",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PEST_CONTROL",
+      "SetID": "3cbe42k",
+      "Name": "Pest Control",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PRECISION_CASTER",
+      "SetID": "3cbe42k",
+      "Name": "Precision Caster",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PYROMANCER_ADEPT",
+      "SetID": "3cbe42k",
+      "Name": "Pyromancer Adept",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ROB_THE_BANK",
+      "SetID": "3cbe42k",
+      "Name": "Rob the Bank",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCALES_FOR_SALES",
+      "SetID": "3cbe42k",
+      "Name": "Scales for Sale",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SETTLING_DOWN",
+      "SetID": "3cbe42k",
+      "Name": "Settling Down",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPEAK_UP",
+      "SetID": "3cbe42k",
+      "Name": "Speak Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TOUGH_COOKIE",
+      "SetID": "3cbe42k",
+      "Name": "Tough Cookie",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TREASURE_HUNTER",
+      "SetID": "3cbe42k",
+      "Name": "Treasure Hunter",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIZARD_FIRST_INCANTATION",
+      "SetID": "3cbe42k",
+      "Name": "Wizards First Incantation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3cbe42k",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-02T01:38:34.6112028+00:00",
   "FirstSeenAchievements": "2023-11-09T09:05:14.8223124+00:00",
-  "LastChanged_Achievements": "2024-01-27T12:08:31.7970052+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:21.9971348+00:00",
   "LastUpdate_AppInfo": "2024-02-29T09:57:24.332364+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:43.5360061+00:00",
-  "LastUpdate_Achievements": "2024-01-27T12:08:31.7970079+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:01:49.2144275+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:21.9978394+00:00"
 }

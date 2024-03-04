@@ -2,10 +2,10 @@
   "ID": "41f54b0e3988413c921e4a21cdb15172",
   "Name": "TRIBES 3: Rivals",
   "ProductSlug": "tribes-3-rivals-80026b",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-02T03:57:12.6132779+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:34.1438264+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:50.9168019+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:03.3366811+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:42.2196972+00:00"
 }

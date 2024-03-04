@@ -2,10 +2,10 @@
   "ID": "b156c3365a5b4cb9a01a5e1108b4e3f4",
   "Name": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
   "ProductSlug": "star-wars-battlefront-2",
-  "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 381,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 60,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -15565,6 +15565,6 @@
   "LastChanged": "2023-03-31T05:57:07.9002611+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:25.8476925+00:00",
   "LastUpdate_AppInfo": "2024-03-03T08:57:21.6487656+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:51.6394536+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:58:40.1898539+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:25.8478173+00:00"
 }

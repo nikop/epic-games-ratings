@@ -2,10 +2,10 @@
   "ID": "2bee239ee96643fbb2afab3013004136",
   "Name": "Toribash Next",
   "ProductSlug": "toribash-next-930df6",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-24T18:00:00+00:00",
     "PcReleaseDate": "2024-01-24T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-25T04:59:17.1370362+00:00",
   "LastUpdate_AppInfo": "2024-02-29T22:57:01.4666538+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:27.8114235+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:02:53.6443468+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:02.5498946+00:00"
 }

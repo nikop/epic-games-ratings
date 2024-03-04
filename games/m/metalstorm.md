@@ -1,14 +1,14 @@
 # Metalstorm
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
-Rating: 4.44 (Ranked 726)  
+Rating: 4.44 (Ranked 725)  
 ## Awards
-Max (Great for Quick Sessions): 22  (Ranked 591)  
-Sum: 43 (Ranked 547)  
-Diff (max vs sum): 44  
+Max (Great for Quick Sessions): 23  (Ranked 586)  
+Sum: 44 (Ranked 546)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 22 |
+| This game is Great for Quick Sessions | 23 |
 | This game is Great for Beginners | 21 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -87,4 +87,4 @@ Diff (max vs sum): 44
 | 2024-02-29 | 4.44 | 20 | 20 |
 | 2024-03-02 | 4.44 | 22 | 43 |
 | 2024-03-03 | 4.44 | 22 | 63 |
-| 2024-03-04 | 4.44 | 22 | 43 |
+| 2024-03-04 | 4.44 | 23 | 44 |

@@ -2,10 +2,10 @@
   "ID": "1e88d9727b3c46339da2d81de81590c2",
   "Name": "Turbo Sloths",
   "ProductSlug": "turbo-sloths-912a73",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-28T21:57:22.3629284+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:47.0396568+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:58:35.0647366+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:19.4081777+00:00"
 }

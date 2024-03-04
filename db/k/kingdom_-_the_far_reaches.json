@@ -2,10 +2,10 @@
   "ID": "1ac625112dc34ca290328915e0933b7a",
   "Name": "Kingdom - The Far Reaches",
   "ProductSlug": "kingdom-the-far-reaches-26d90e",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-08-05T16:00:00+00:00",
     "PcReleaseDate": "2022-08-05T16:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-03T11:57:13.3689202+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:49.5227259+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:27.789932+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:01:58.2742791+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:29.2827743+00:00"
 }

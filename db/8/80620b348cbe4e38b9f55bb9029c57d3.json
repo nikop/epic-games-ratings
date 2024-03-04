@@ -2,10 +2,10 @@
   "ID": "80620b348cbe4e38b9f55bb9029c57d3",
   "Name": "Seven Bullets Horror 7\u767A\u306E\u5F3E\u4E38\u30DB\u30E9\u30FC",
   "ProductSlug": "aa-bb5edd",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-14T22:00:00+00:00",
     "PcReleaseDate": "2024-02-14T22:00:00+00:00",
@@ -33,5 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-01T02:57:27.6783517+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:28.2224227+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:01:25.1282159+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:04.6212868+00:00"
 }

@@ -5,89 +5,89 @@ Rating: 4.29 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,366 |
-| Copacetic Coordination | 16.00% | ~58,214 |
-| Fronting the Money | 15.00% | ~54,576 |
-| The Dawn of Automation | 14.00% | ~50,938 |
-| Extraordinary Logistics | 14.00% | ~50,938 |
-| Dirty Money | 13.00% | ~47,299 |
-| Family First | 13.00% | ~47,299 |
-| Cleaning House | 12.00% | ~43,661 |
-| Room in the Back | 12.00% | ~43,661 |
-| Beating the Heat | 11.00% | ~40,022 |
-| Booze Baron | 11.00% | ~40,022 |
-| Friends on the Force | 10.00% | ~36,384 |
-| Neighborhood Watch | 10.00% | ~36,384 |
-| Core Corps | 8.00% | ~29,107 |
-| Sizeable Stash | 8.00% | ~29,107 |
-| Street Fighter | 7.00% | ~25,469 |
-| Friendly Gestures | 7.00% | ~25,469 |
-| People Person | 7.00% | ~25,469 |
-| Liquor Lord | 6.00% | ~21,830 |
-| Safety in Numbers | 6.00% | ~21,830 |
-| Moving Experiences | 6.00% | ~21,830 |
-| Wise Head | 6.00% | ~21,830 |
-| Show ‘em the Sugar | 6.00% | ~21,830 |
-| Killing Them Softly | 6.00% | ~21,830 |
-| Street Knowledge | 5.00% | ~18,192 |
-| Oh Captain | 5.00% | ~18,192 |
-| Branching Out | 5.00% | ~18,192 |
-| Improvement Missions | 5.00% | ~18,192 |
-| Opportunity Knocked | 5.00% | ~18,192 |
-| City of Big Shoulders | 5.00% | ~18,192 |
-| Mission Mastery | 5.00% | ~18,192 |
-| Considerable Clams | 4.00% | ~14,554 |
-| Gin Joint | 4.00% | ~14,554 |
-| An Affront to the Enemy | 4.00% | ~14,554 |
-| Friends from Back Home | 4.00% | ~14,554 |
-| Bees Knees Bootlegger | 4.00% | ~14,554 |
-| Half Century Mark | 4.00% | ~14,554 |
-| Corner Opportunities | 3.00% | ~10,915 |
-| 2122 North Clark Street | 3.00% | ~10,915 |
-| Copious Cabbage | 3.00% | ~10,915 |
-| Sockdolager | 3.00% | ~10,915 |
-| Still Stalwart | 3.00% | ~10,915 |
-| Tighten the Screws | 3.00% | ~10,915 |
-| Keeping Your Word | 3.00% | ~10,915 |
-| One of Us | 2.00% | ~7,277 |
-| Baker’s Dozen | 2.00% | ~7,277 |
-| Dropping the Dime | 2.00% | ~7,277 |
-| Spiffy Speakeasies | 2.00% | ~7,277 |
-| Boxing Them In | 1.00% | ~3,638 |
-| Backroom Empire | 1.00% | ~3,638 |
-| Corner Control | 1.00% | ~3,638 |
-| Full House | 1.00% | ~3,638 |
-| The Rubber Meets the Road | 1.00% | ~3,638 |
-| Cat’s Meow Clubs | 1.00% | ~3,638 |
-| Determined Deliveries | 1.00% | ~3,638 |
-| Stepping It Up | 1.00% | ~3,638 |
-| Crossing Over | 0.90% | ~3,275 |
-| Boots in the Ground | 0.80% | ~2,911 |
-| Getting Fancy | 0.80% | ~2,911 |
-| Still Dreaming | 0.50% | ~1,819 |
-| Working on the Railroad | 0.50% | ~1,819 |
-| Social Butterfly | 0.50% | ~1,819 |
-| Homemade Hooch | 0.40% | ~1,455 |
-| High End Booze | 0.40% | ~1,455 |
-| In-House Maintenance | 0.40% | ~1,455 |
-| Dirty Work | 0.30% | ~1,092 |
-| Bottled Up | 0.30% | ~1,092 |
-| Streetwise | 0.30% | ~1,092 |
-| Balkan Firewater | 0.20% | ~728 |
-| Windy City Win | 0.10% | ~364 |
-| Steeling Victory | 0.10% | ~364 |
-| Queen of the City | 0.10% | ~364 |
-| Vehicles to Victory | 0.10% | ~364 |
-| Putting on the Ritz | 0.10% | ~364 |
-| Bourbon Barrels | 0.10% | ~364 |
-| Tied Houses | 0.10% | ~364 |
-| Laying Low | 0.10% | ~364 |
-| No Applesauce | 0.10% | ~364 |
-| High Pillow | 0.10% | ~364 |
-| Station Master | 0.10% | ~364 |
+| Corner Clout | 47.00% | ~173,070 |
+| Copacetic Coordination | 16.00% | ~58,917 |
+| Fronting the Money | 15.00% | ~55,235 |
+| Family First | 14.00% | ~51,553 |
+| The Dawn of Automation | 14.00% | ~51,553 |
+| Extraordinary Logistics | 14.00% | ~51,553 |
+| Dirty Money | 13.00% | ~47,870 |
+| Cleaning House | 12.00% | ~44,188 |
+| Room in the Back | 12.00% | ~44,188 |
+| Beating the Heat | 11.00% | ~40,506 |
+| Booze Baron | 11.00% | ~40,506 |
+| Friends on the Force | 10.00% | ~36,823 |
+| Neighborhood Watch | 10.00% | ~36,823 |
+| Core Corps | 8.00% | ~29,459 |
+| Sizeable Stash | 8.00% | ~29,459 |
+| Street Fighter | 7.00% | ~25,776 |
+| Friendly Gestures | 7.00% | ~25,776 |
+| People Person | 7.00% | ~25,776 |
+| Oh Captain | 6.00% | ~22,094 |
+| Liquor Lord | 6.00% | ~22,094 |
+| Safety in Numbers | 6.00% | ~22,094 |
+| Moving Experiences | 6.00% | ~22,094 |
+| Wise Head | 6.00% | ~22,094 |
+| Show ‘em the Sugar | 6.00% | ~22,094 |
+| Killing Them Softly | 6.00% | ~22,094 |
+| Street Knowledge | 5.00% | ~18,412 |
+| Branching Out | 5.00% | ~18,412 |
+| Considerable Clams | 5.00% | ~18,412 |
+| Improvement Missions | 5.00% | ~18,412 |
+| Opportunity Knocked | 5.00% | ~18,412 |
+| City of Big Shoulders | 5.00% | ~18,412 |
+| Mission Mastery | 5.00% | ~18,412 |
+| Gin Joint | 4.00% | ~14,729 |
+| An Affront to the Enemy | 4.00% | ~14,729 |
+| Friends from Back Home | 4.00% | ~14,729 |
+| Bees Knees Bootlegger | 4.00% | ~14,729 |
+| Half Century Mark | 4.00% | ~14,729 |
+| Corner Opportunities | 3.00% | ~11,047 |
+| 2122 North Clark Street | 3.00% | ~11,047 |
+| Copious Cabbage | 3.00% | ~11,047 |
+| Sockdolager | 3.00% | ~11,047 |
+| Still Stalwart | 3.00% | ~11,047 |
+| Tighten the Screws | 3.00% | ~11,047 |
+| Keeping Your Word | 3.00% | ~11,047 |
+| One of Us | 2.00% | ~7,365 |
+| Baker’s Dozen | 2.00% | ~7,365 |
+| Dropping the Dime | 2.00% | ~7,365 |
+| Spiffy Speakeasies | 2.00% | ~7,365 |
+| Boxing Them In | 1.00% | ~3,682 |
+| Backroom Empire | 1.00% | ~3,682 |
+| Corner Control | 1.00% | ~3,682 |
+| Full House | 1.00% | ~3,682 |
+| The Rubber Meets the Road | 1.00% | ~3,682 |
+| Cat’s Meow Clubs | 1.00% | ~3,682 |
+| Determined Deliveries | 1.00% | ~3,682 |
+| Stepping It Up | 1.00% | ~3,682 |
+| Crossing Over | 0.90% | ~3,314 |
+| Boots in the Ground | 0.80% | ~2,946 |
+| Getting Fancy | 0.80% | ~2,946 |
+| Still Dreaming | 0.50% | ~1,841 |
+| High End Booze | 0.50% | ~1,841 |
+| Working on the Railroad | 0.50% | ~1,841 |
+| Social Butterfly | 0.50% | ~1,841 |
+| Homemade Hooch | 0.40% | ~1,473 |
+| In-House Maintenance | 0.40% | ~1,473 |
+| Dirty Work | 0.30% | ~1,105 |
+| Bottled Up | 0.30% | ~1,105 |
+| Streetwise | 0.30% | ~1,105 |
+| Balkan Firewater | 0.20% | ~736 |
+| Station Master | 0.20% | ~736 |
+| Windy City Win | 0.10% | ~368 |
+| Steeling Victory | 0.10% | ~368 |
+| Queen of the City | 0.10% | ~368 |
+| Vehicles to Victory | 0.10% | ~368 |
+| Putting on the Ritz | 0.10% | ~368 |
+| Bourbon Barrels | 0.10% | ~368 |
+| Tied Houses | 0.10% | ~368 |
+| Laying Low | 0.10% | ~368 |
+| No Applesauce | 0.10% | ~368 |
+| High Pillow | 0.10% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,840 (Ranked 60)  
-Completed: 7 (0.00%) (Ranked 418)  
+Progressed: 368,233 (Ranked 61)  
+Completed: 7 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -369,6 +369,7 @@ Completed: 7 (0.00%) (Ranked 418)
 | 2024-01-25 | 363,653 | 7 |
 | 2024-01-26 | 363,784 | 7 |
 | 2024-01-27 | 363,840 | 7 |
+| 2024-03-04 | 368,233 | 7 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 500)  
 Sum: 235 (Ranked 420)  

@@ -2,10 +2,10 @@
   "ID": "a3d688525a954efa8afc49bfe5464c80",
   "Name": "Die Again",
   "ProductSlug": "die-again-9d5045",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -28,10 +28,174 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-03-04T23:04:10.9322702+00:00",
+  "TotalAchievements": 19,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ANSWERS",
+      "SetID": "6343i7i",
+      "Name": "Ending: Answers",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BLUE",
+      "SetID": "6343i7i",
+      "Name": "Ending: Blue Blood",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CAT",
+      "SetID": "6343i7i",
+      "Name": "Pet the Cat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COWARD",
+      "SetID": "6343i7i",
+      "Name": "Ending: Coward",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DELTA",
+      "SetID": "6343i7i",
+      "Name": "Target Down",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DIEAGAIN",
+      "SetID": "6343i7i",
+      "Name": "Die Again",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DOG",
+      "SetID": "6343i7i",
+      "Name": "Pet the Dog",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DS",
+      "SetID": "6343i7i",
+      "Name": "Dead Death Squad",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORTS",
+      "SetID": "6343i7i",
+      "Name": "Horts",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_K12",
+      "SetID": "6343i7i",
+      "Name": "K12",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NUCLEAR",
+      "SetID": "6343i7i",
+      "Name": "I\u0027m Nuclear",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PLATINUM",
+      "SetID": "6343i7i",
+      "Name": "Undying",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_POWERUP",
+      "SetID": "6343i7i",
+      "Name": "Unlimited Power",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RED",
+      "SetID": "6343i7i",
+      "Name": "Ending: Red Blood",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RESCUE",
+      "SetID": "6343i7i",
+      "Name": "At the very beginning",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RIFLE",
+      "SetID": "6343i7i",
+      "Name": "Apocalypse",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SHALD",
+      "SetID": "6343i7i",
+      "Name": "Wish",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SHOTGUN",
+      "SetID": "6343i7i",
+      "Name": "Release",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TOTHEEND",
+      "SetID": "6343i7i",
+      "Name": "To the End",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6343i7i",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:10.9322701+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:10.9322679+00:00",
   "LastUpdate_AppInfo": "2024-02-27T18:57:18.4892508+00:00",
-  "LastUpdate_Ratings": "2024-03-04T20:59:58.5385378+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:57:41.6788016+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:10.9327987+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "38931bb693204b7289689de85a8e4b44",
   "Name": "Quiplash 2 InterLASHional",
   "ProductSlug": "quiplash-2-interlashional-3c3888",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 678,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-11T00:00:00+00:00",
     "PcReleaseDate": "2020-04-08T07:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-04T23:04:23.3746474+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-24T17:05:28.3857837+00:00",
   "TotalAchievements": 10,
   "TotalAchievementsXP": 1000,
@@ -36,94 +42,94 @@
       "ID": "QUIPLASH2I_ALL_FINAL_LASH_TYPES",
       "SetID": "8606bem",
       "Name": "Those Who Lash Last",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "QUIPLASH2I_ENTER_SAME_THING",
       "SetID": "8606bem",
       "Name": "Hi, Jinx!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "QUIPLASH2I_GET_QUIPLASH",
       "SetID": "8606bem",
       "Name": "The Titular Win",
-      "Percentage": 0,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "QUIPLASH2I_GET_SUPER_QUIPLASH",
       "SetID": "8606bem",
       "Name": "Quip It Good",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "QUIPLASH2I_PLAY_WITH_8_PLAYERS",
       "SetID": "8606bem",
       "Name": "Eighters Gonna Eight",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "QUIPLASH2I_WIN_2_GAMES",
       "SetID": "8606bem",
       "Name": "Quip Royale",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "QUIPLASH2I_WIN_ALL_R1_AND_R2",
       "SetID": "8606bem",
       "Name": "Quipee-ki-yay!",
-      "Percentage": 0,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "QUIPLASH2I_WIN_ALL_R1_LOSE_ALL_R2",
       "SetID": "8606bem",
       "Name": "Quipwreck",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "QUIPLASH2I_WIN_WITH_SAFETY_QUIP",
       "SetID": "8606bem",
       "Name": "Safety Dance",
-      "Percentage": 0,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "QUIPLASH2I_WRITE_KEYWORD_QUIP",
       "SetID": "8606bem",
       "Name": "Quip Pro Quo",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "8606bem",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-10T18:03:22.1751436+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:04:35.8542586+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:23.3746467+00:00",
   "LastUpdate_AppInfo": "2024-02-28T21:57:22.1012704+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:36.5915779+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:04:35.8542853+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:58:23.9189325+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:23.3746731+00:00"
 }

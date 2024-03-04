@@ -2,10 +2,10 @@
   "ID": "c133f14b69d44436b62d6bb4ab1fcac2",
   "Name": "Christmas Mahjong 2",
   "ProductSlug": "christmas-mahjong-2-27e98b",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-12-12T21:00:00+00:00",
     "PcReleaseDate": "2015-12-09T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-29T13:57:12.3080969+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:31.3778272+00:00",
+  "LastUpdate_Ratings": "2024-03-04T23:02:59.0284536+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:48.7744826+00:00"
 }

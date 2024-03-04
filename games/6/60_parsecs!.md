@@ -49,8 +49,8 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,777 (Ranked 270)  
-Completed: 1 (0.06%) (Ranked 346)  
+Progressed: 1,777 (Ranked 273)  
+Completed: 1 (0.06%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

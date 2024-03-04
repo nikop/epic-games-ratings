@@ -2,10 +2,10 @@
   "ID": "d41f47180bb94a70b3d05a31ebe89b7d",
   "Name": "Far Horizon",
   "ProductSlug": "far-horizon-dd7069",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-03-11T11:00:00+00:00",
     "PcReleaseDate": "2024-03-11T11:00:00+00:00",
@@ -29,10 +29,462 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-03-04T23:04:15.9872167+00:00",
+  "TotalAchievements": 55,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "FH_ACH_AcquisitionMission1",
+      "SetID": "2k9l9k2",
+      "Name": "Prospector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_AcquisitionMission2",
+      "SetID": "2k9l9k2",
+      "Name": "Quartermaster",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CombatMission1",
+      "SetID": "2k9l9k2",
+      "Name": "Private",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CombatMission2",
+      "SetID": "2k9l9k2",
+      "Name": "Sergeant",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CraftArmor",
+      "SetID": "2k9l9k2",
+      "Name": "Armorer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CraftCyberImplant",
+      "SetID": "2k9l9k2",
+      "Name": "Interior Design",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CraftMedKit",
+      "SetID": "2k9l9k2",
+      "Name": "Medic",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CraftShieldGen",
+      "SetID": "2k9l9k2",
+      "Name": "Better Safe Than Sorry",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CraftTurret",
+      "SetID": "2k9l9k2",
+      "Name": "Engineer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_CraftWeapon",
+      "SetID": "2k9l9k2",
+      "Name": "Weaponsmith",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyAndroids1",
+      "SetID": "2k9l9k2",
+      "Name": "Legion Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyAndroids2",
+      "SetID": "2k9l9k2",
+      "Name": "Legion Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyAndroids3",
+      "SetID": "2k9l9k2",
+      "Name": "Legion Dispatcher",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesAuroral1",
+      "SetID": "2k9l9k2",
+      "Name": "Auroral Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesAuroral2",
+      "SetID": "2k9l9k2",
+      "Name": "Auroral Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesErupting1",
+      "SetID": "2k9l9k2",
+      "Name": "Erupting Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesErupting2",
+      "SetID": "2k9l9k2",
+      "Name": "Erupting Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesForest1",
+      "SetID": "2k9l9k2",
+      "Name": "Forest Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesForest2",
+      "SetID": "2k9l9k2",
+      "Name": "Forest Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesFrozen1",
+      "SetID": "2k9l9k2",
+      "Name": "Frozen Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesFrozen2",
+      "SetID": "2k9l9k2",
+      "Name": "Frozen Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesRocky1",
+      "SetID": "2k9l9k2",
+      "Name": "Rocky Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesRocky2",
+      "SetID": "2k9l9k2",
+      "Name": "Rocky Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesVolcanic1",
+      "SetID": "2k9l9k2",
+      "Name": "Volcanic Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_DestroyCreaturesVolcanic2",
+      "SetID": "2k9l9k2",
+      "Name": "Volcanic Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_LootEquipmentEpic",
+      "SetID": "2k9l9k2",
+      "Name": "Epic Equipment",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_LootEquipmentLegendary",
+      "SetID": "2k9l9k2",
+      "Name": "Legendary Loot",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_LootEquipmentRare",
+      "SetID": "2k9l9k2",
+      "Name": "Rare Rewards",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_LootEquipmentUncommon",
+      "SetID": "2k9l9k2",
+      "Name": "Uncommonly Good",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PaintArmor",
+      "SetID": "2k9l9k2",
+      "Name": "New Drip",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleCipherCube1",
+      "SetID": "2k9l9k2",
+      "Name": "Cipher Cube Novice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleCipherCube2",
+      "SetID": "2k9l9k2",
+      "Name": "Cipher Cube Apprentice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleLeverLock1",
+      "SetID": "2k9l9k2",
+      "Name": "Lever Lock Novice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleLeverLock2",
+      "SetID": "2k9l9k2",
+      "Name": "Lever Lock Apprentice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleMosaicSeal1",
+      "SetID": "2k9l9k2",
+      "Name": "Mosaic Seal Novice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleMosaicSeal2",
+      "SetID": "2k9l9k2",
+      "Name": "Mosaic Seal Apprentice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzlePlatformProtection1",
+      "SetID": "2k9l9k2",
+      "Name": "Platform Protection Novice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzlePlatformProtection2",
+      "SetID": "2k9l9k2",
+      "Name": "Platform Protection Apprentice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleTimedTarget1",
+      "SetID": "2k9l9k2",
+      "Name": "Timed Target Novice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleTimedTarget2",
+      "SetID": "2k9l9k2",
+      "Name": "Timed Target Apprentice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleVaultMaze1",
+      "SetID": "2k9l9k2",
+      "Name": "Vault Maze Novice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_PuzzleVaultMaze2",
+      "SetID": "2k9l9k2",
+      "Name": "Vault Maze Apprentice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_ScientificMission1",
+      "SetID": "2k9l9k2",
+      "Name": "Research Associate",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_ScientificMission2",
+      "SetID": "2k9l9k2",
+      "Name": "Scientist",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_StoryBuildRobot",
+      "SetID": "2k9l9k2",
+      "Name": "Magnum Opus",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_StoryDefeatCaretaker",
+      "SetID": "2k9l9k2",
+      "Name": "Taken Care Of",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_StoryDefeatEvershield",
+      "SetID": "2k9l9k2",
+      "Name": "Shattered Shield",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_StoryDefeatPuppetmaster",
+      "SetID": "2k9l9k2",
+      "Name": "Metalmind",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_StoryFireShipCannon",
+      "SetID": "2k9l9k2",
+      "Name": "Kaboom",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_StoryHugeTree",
+      "SetID": "2k9l9k2",
+      "Name": "Yggdrasil",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_UnlockBioticLab",
+      "SetID": "2k9l9k2",
+      "Name": "Biotic Laboratory",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_UnlockResearchDevRoom",
+      "SetID": "2k9l9k2",
+      "Name": "Research and Development",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_UnlockRoboticsFactory",
+      "SetID": "2k9l9k2",
+      "Name": "Robotics Factory",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_UnlockShipCannon",
+      "SetID": "2k9l9k2",
+      "Name": "Gun Deck",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FH_ACH_ZeusCrates",
+      "SetID": "2k9l9k2",
+      "Name": "Mess Maker",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "2k9l9k2",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:15.9872166+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:15.9872153+00:00",
   "LastUpdate_AppInfo": "2024-03-04T12:59:58.1768929+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:59:32.2341652+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:03:00.4409473+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:15.988177+00:00"
 }

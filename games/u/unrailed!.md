@@ -60,7 +60,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | 20 Miles under the Sea | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 689,988 (Ranked 30)  
-Completed: 15 (0.00%) (Ranked 418)  
+Completed: 15 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

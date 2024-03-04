@@ -2,10 +2,10 @@
   "ID": "f7dd9963616b4c1d9b89d5582a07766c",
   "Name": "Death From Above - Complete Edition",
   "ProductSlug": "death-from-above-eaf65d",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-23T15:22:24.678+00:00",
     "PcReleaseDate": "2023-05-25T10:30:00+00:00",
@@ -28,10 +28,190 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-03-04T23:04:12.8895281+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BULLSEYE",
+      "SetID": "cf32jh4",
+      "Name": "Bullseye",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CLEANJUSTICE",
+      "SetID": "cf32jh4",
+      "Name": "Clean Justice",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CONVOY_1",
+      "SetID": "cf32jh4",
+      "Name": "Convoy destroyer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DESTROYTANKS_10",
+      "SetID": "cf32jh4",
+      "Name": "Tank destroyer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DOUBLEDMG",
+      "SetID": "cf32jh4",
+      "Name": "Double Damage",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DRONEDESTROYED",
+      "SetID": "cf32jh4",
+      "Name": "Drone was destroyed",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FPVSTUNT_1",
+      "SetID": "cf32jh4",
+      "Name": "Skilled pilot",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HARDCORE",
+      "SetID": "cf32jh4",
+      "Name": "Hardcore mode finished",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLEDBYPRISONER",
+      "SetID": "cf32jh4",
+      "Name": "Killed by a prisoner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLEDBYTANK",
+      "SetID": "cf32jh4",
+      "Name": "Tanks for playing",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLSOLDIERS_10",
+      "SetID": "cf32jh4",
+      "Name": "Smooth Operator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLSOLDIERS_25",
+      "SetID": "cf32jh4",
+      "Name": "Smooth operator 2",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLSOLDIERS_50",
+      "SetID": "cf32jh4",
+      "Name": "Smooth operator 3",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MINEFIELD",
+      "SetID": "cf32jh4",
+      "Name": "Minefields",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MISSILERUSH",
+      "SetID": "cf32jh4",
+      "Name": "Launch aborted",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NAFO_1",
+      "SetID": "cf32jh4",
+      "Name": "North Atlantic Fella Organization",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PIGEON",
+      "SetID": "cf32jh4",
+      "Name": "Combat Pigeon",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_QUADKILL",
+      "SetID": "cf32jh4",
+      "Name": "Combo",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RAISETHEFLAGS",
+      "SetID": "cf32jh4",
+      "Name": "Slava Ukraini!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TUTORIAL",
+      "SetID": "cf32jh4",
+      "Name": "License to kill",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WARSHIP",
+      "SetID": "cf32jh4",
+      "Name": "Warship sinked",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "cf32jh4",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-04T23:04:12.8895281+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:04:12.8895226+00:00",
   "LastUpdate_AppInfo": "2024-03-01T15:58:42.8438482+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:14.519115+00:00"
+  "LastUpdate_Ratings": "2024-03-04T22:57:59.8452227+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:12.890182+00:00"
 }

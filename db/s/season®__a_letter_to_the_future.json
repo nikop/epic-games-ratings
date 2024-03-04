@@ -2,10 +2,10 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
-  "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -5532,6 +5532,6 @@
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:37.2864968+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:39.8726494+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:22.758765+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:58:08.9089949+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:37.286534+00:00"
 }

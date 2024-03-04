@@ -68,8 +68,8 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~41 |
 | Hard-travelling Heroes | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,756 (Ranked 141)  
-Completed: 2 (0.00%) (Ranked 418)  
+Progressed: 40,756 (Ranked 143)  
+Completed: 2 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

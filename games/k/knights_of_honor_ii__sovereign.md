@@ -106,8 +106,8 @@ Rating: 4.30 (Ranked 899)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260 (Ranked 427)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 260 (Ranked 431)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

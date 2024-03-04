@@ -77,8 +77,8 @@ Rating: 4.48 (Ranked 669)
 | Master-at-arms | 0.60% | ~27 |
 | Stroll in the Woods | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,448 (Ranked 219)  
-Completed: 11 (0.25%) (Ranked 281)  
+Progressed: 4,448 (Ranked 221)  
+Completed: 11 (0.25%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

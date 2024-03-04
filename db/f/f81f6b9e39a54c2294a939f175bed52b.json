@@ -2,10 +2,10 @@
   "ID": "f81f6b9e39a54c2294a939f175bed52b",
   "Name": "Castaway Station",
   "ProductSlug": "castaway-station-e8dd5f",
-  "Ranking_EOS_Progress": 788,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-30T14:00:00+00:00",
     "PcReleaseDate": "2023-07-01T06:00:00+00:00",
@@ -266,6 +266,6 @@
   "FirstSeenAchievements": "2024-01-24T15:03:07.7168783+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:10.6134782+00:00",
   "LastUpdate_AppInfo": "2024-02-28T17:57:48.5027281+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:00:33.6569317+00:00",
+  "LastUpdate_Ratings": "2024-03-04T22:58:20.8100817+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:10.6135006+00:00"
 }

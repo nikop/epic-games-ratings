@@ -2,10 +2,10 @@
   "ID": "b1ed6088386f4865a733ce52b3bc3e5c",
   "Name": "Vacation Adventures Park Ranger 12 Collectors Edition",
   "ProductSlug": "vacation-adventures-park-ranger-12-collectors-edition-c47f42",
-  "Ranking_EOS_Progress": 859,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-02-22T08:00:00+00:00",
     "PcReleaseDate": "2021-08-19T07:00:00+00:00",
@@ -33,5 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-02-29T09:57:27.5311855+00:00",
-  "LastUpdate_Ratings": "2024-03-04T22:00:15.3527477+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:04:03.3143171+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:04:09.3649418+00:00"
 }

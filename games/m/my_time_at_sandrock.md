@@ -67,8 +67,8 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 10.00% | ~99 |
 | Sandrock's Hottest Club | 7.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 990 (Ranked 314)  
-Completed: 0 (0.00%) (Ranked 418)  
+Progressed: 990 (Ranked 316)  
+Completed: 0 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

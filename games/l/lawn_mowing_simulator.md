@@ -62,7 +62,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Mo mowers, mo problems | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 706,083 (Ranked 29)  
-Completed: 19 (0.00%) (Ranked 418)  
+Completed: 19 (0.00%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

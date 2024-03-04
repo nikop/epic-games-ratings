@@ -5,30 +5,30 @@ Rating: 4.69 (Ranked 244)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Saver | 2.00% | ~180 |
-| In a Pinch | 2.00% | ~180 |
-| The Journey Onwards | 1.00% | ~90 |
-| Body and Soul | 0.90% | ~81 |
-| Globe Trotter | 0.90% | ~81 |
-| Soul-Canon | 0.80% | ~72 |
-| Ahem Ahem | 0.70% | ~63 |
-| Audiophile | 0.70% | ~63 |
-| Clay Pigeon | 0.50% | ~45 |
-| Shredder | 0.50% | ~45 |
-| Historian | 0.40% | ~36 |
-| Iconoclast | 0.40% | ~36 |
-| Happy Camper | 0.30% | ~27 |
-| Liberator | 0.30% | ~27 |
-| Fashion Faux-Pas | 0.20% | ~18 |
-| Live Wire | 0.20% | ~18 |
+| Energy Saver | 2.00% | ~185 |
+| In a Pinch | 2.00% | ~185 |
+| The Journey Onwards | 2.00% | ~185 |
+| Ahem Ahem | 1.00% | ~93 |
+| Body and Soul | 1.00% | ~93 |
+| Globe Trotter | 1.00% | ~93 |
+| Audiophile | 0.90% | ~83 |
+| Soul-Canon | 0.90% | ~83 |
+| Clay Pigeon | 0.70% | ~65 |
+| Historian | 0.60% | ~56 |
+| Iconoclast | 0.60% | ~56 |
+| Shredder | 0.60% | ~56 |
+| Happy Camper | 0.50% | ~46 |
+| Liberator | 0.50% | ~46 |
+| Live Wire | 0.40% | ~37 |
+| Fashion Faux-Pas | 0.30% | ~28 |
+| Fashion Victim | 0.30% | ~28 |
+| Ça de Wizz! | 0.20% | ~19 |
+| Snip Snip | 0.20% | ~19 |
 | Arrr! | 0.10% | ~9 |
-| Ça de Wizz! | 0.10% | ~9 |
-| Fashion Victim | 0.10% | ~9 |
-| Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,016 (Ranked 193)  
-Completed: 36 (0.40%) (Ranked 253)  
+Progressed: 9,256 (Ranked 195)  
+Completed: 39 (0.42%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,6 +308,7 @@ Completed: 36 (0.40%) (Ranked 253)
 | 2024-01-25 | 9,008 | 36 |
 | 2024-01-26 | 9,013 | 36 |
 | 2024-01-27 | 9,016 | 36 |
+| 2024-03-04 | 9,256 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

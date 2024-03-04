@@ -45,7 +45,7 @@ Rating: 4.37 (Ranked 828)
 | Stairway to Hell | 0.10% | ~1,596 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,596,050 (Ranked 7)  
-Completed: 82 (0.01%) (Ranked 394)  
+Completed: 82 (0.01%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

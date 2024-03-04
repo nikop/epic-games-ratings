@@ -51,8 +51,8 @@
 | The Denouement | 15.00% | ~20 |
 | Perkins | 10.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 493)  
-Completed: 7 (5.34%) (Ranked 78)  
+Progressed: 131 (Ranked 497)  
+Completed: 7 (5.34%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -35,8 +35,8 @@ Rating: 4.60 (Ranked 440)
 | Convoy list | 1.00% | ~20 |
 | No more mistakes | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,974 (Ranked 263)  
-Completed: 3 (0.15%) (Ranked 309)  
+Progressed: 1,974 (Ranked 265)  
+Completed: 3 (0.15%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

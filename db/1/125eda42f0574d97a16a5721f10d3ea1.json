@@ -2,10 +2,10 @@
   "ID": "125eda42f0574d97a16a5721f10d3ea1",
   "Name": "Definitely Sneaky But Not Sneaky",
   "ProductSlug": "my-product-b51a19",
-  "Ranking_EOS_Progress": 684,
-  "Ranking_EOS_Completed": 418,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
     "PcReleaseDate": "2019-02-06T06:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -82,6 +82,11 @@
       "Time": "2024-01-26T03:06:26.7128665+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-04T23:05:05.474402+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-05T05:04:36.9118895+00:00",
@@ -92,7 +97,7 @@
       "ID": "BAT_DEFLECT",
       "SetID": "5770k2f",
       "Name": "Home Run",
-      "Percentage": 9,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -100,17 +105,17 @@
       "ID": "BULLET_DESTROY",
       "SetID": "5770k2f",
       "Name": "Mine\u0027s Bigger",
-      "Percentage": 27,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "DEMO_LEVEL_0",
       "SetID": "5770k2f",
       "Name": "Demolitionist - Level 1",
-      "Percentage": 18,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DEMO_LEVEL_1",
@@ -132,15 +137,15 @@
       "ID": "DIE",
       "SetID": "5770k2f",
       "Name": "Die",
-      "Percentage": 73,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 25
     },
     {
       "ID": "DIFFICULTY_1",
       "SetID": "5770k2f",
       "Name": "Sneaky",
-      "Percentage": 9,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -156,9 +161,9 @@
       "ID": "EXPLODE",
       "SetID": "5770k2f",
       "Name": "Boom",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "EXTRA_SUPERH",
@@ -204,41 +209,41 @@
       "ID": "GRAPPLE_KILL",
       "SetID": "5770k2f",
       "Name": "Clown Teammate",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GRAPPLE_NECK",
       "SetID": "5770k2f",
       "Name": "Sleepy Time",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL",
       "SetID": "5770k2f",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_0_COMPLETED",
       "SetID": "5770k2f",
       "Name": "On Your Way",
-      "Percentage": 91,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 29
     },
     {
       "ID": "SURVIVAL_BUY_ITEM",
       "SetID": "5770k2f",
       "Name": "Successful Purchase",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SURVIVAL_BUY_MOD",
@@ -284,17 +289,17 @@
       "ID": "TABLE_FLIP",
       "SetID": "5770k2f",
       "Name": "Tactical Table",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TEAM_KILL",
       "SetID": "5770k2f",
       "Name": "Teamwork",
-      "Percentage": 9,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TIME_BEAT_ALL",
@@ -317,13 +322,13 @@
     {
       "ID": "5770k2f",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:09.751365+00:00",
+  "LastChanged_Achievements": "2024-03-04T23:05:05.4744015+00:00",
   "LastUpdate_AppInfo": "2024-02-27T02:11:24.0040967+00:00",
-  "LastUpdate_Ratings": "2024-03-04T21:58:07.1396046+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:09.7513859+00:00"
+  "LastUpdate_Ratings": "2024-03-04T23:00:53.0277073+00:00",
+  "LastUpdate_Achievements": "2024-03-04T23:05:05.4744354+00:00"
 }
