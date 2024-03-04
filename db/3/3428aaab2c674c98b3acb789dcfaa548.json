@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 244,
+  "Ranking_Rating": 245,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 20,
@@ -12495,10 +12495,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 24644,
       "NumberOfAwardsMax": 8101
+    },
+    {
+      "Time": "2024-03-04T02:57:30.0708543+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 24650,
+      "NumberOfAwardsMax": 8101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24644,
+  "NumberOfAwards": 24650,
   "NumberOfAwardsMax": 8101,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12554,7 +12560,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 945
+      "Count": 951
     },
     {
       "Text": "This game is Relaxing",
@@ -42328,9 +42334,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-03-04T01:46:56.027165+00:00",
+  "LastChanged": "2024-03-04T02:57:30.0708542+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:24.5582407+00:00",
   "LastUpdate_AppInfo": "2024-03-01T17:57:26.919885+00:00",
-  "LastUpdate_Ratings": "2024-03-04T01:46:56.0271658+00:00",
+  "LastUpdate_Ratings": "2024-03-04T02:57:30.0708547+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:24.5583993+00:00"
 }

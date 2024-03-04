@@ -2,8 +2,8 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 761,
-  "Ranking_Popularity": 326,
+  "Ranking_Rating": 773,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 859,
   "Ranking_EOS_Completed": 418,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -1727,18 +1727,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 607,
       "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2024-03-04T02:56:55.7214435+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 612,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 607,
-  "NumberOfAwardsMax": 181,
+  "NumberOfAwards": 612,
+  "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 181
+      "Count": 185
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1750,7 +1756,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1813,8 +1819,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-03-03T09:58:48.4457554+00:00",
+  "LastChanged": "2024-03-04T02:56:55.7214431+00:00",
   "LastUpdate_AppInfo": "2024-03-01T10:57:08.7973355+00:00",
-  "LastUpdate_Ratings": "2024-03-04T01:46:02.7200935+00:00",
+  "LastUpdate_Ratings": "2024-03-04T02:56:55.7214438+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:07.0530453+00:00"
 }
