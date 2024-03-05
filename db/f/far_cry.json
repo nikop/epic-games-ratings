@@ -2,7 +2,7 @@
   "ID": "71f938f91f0a4ccfaba0be708a930e8a",
   "Name": "Far Cry",
   "ProductSlug": "far-cry",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 596,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -451,6 +451,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-05T08:00:16.044267+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -475,8 +481,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:40.9407197+00:00",
-  "LastChanged": "2024-02-22T19:57:34.6586996+00:00",
+  "LastChanged": "2024-03-05T08:00:16.0442668+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:47.4356639+00:00",
-  "LastUpdate_Ratings": "2024-03-05T06:59:21.8148048+00:00",
+  "LastUpdate_Ratings": "2024-03-05T08:00:16.0442672+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:33.6460206+00:00"
 }
