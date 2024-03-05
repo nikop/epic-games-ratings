@@ -1,7 +1,7 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 751)  
+Rating: 4.44 (Ranked 725)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -483,3 +483,4 @@ Diff (max vs sum): 55
 | 2024-02-29 | 4.43 | 296 | 2,251 |
 | 2024-03-02 | 4.44 | 296 | 2,253 |
 | 2024-03-03 | 4.44 | 296 | 2,255 |
+| 2024-03-05 | 4.44 | 296 | 2,255 |
