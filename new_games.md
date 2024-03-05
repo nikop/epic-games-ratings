@@ -102,4 +102,3 @@
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | - |  | - | 0 |
 | [Awaken](games/8/879a4b6564b4491e9f523c634d181756.md) | 2024-02-05 | - |  | - | 0 |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | 5 (1,000 XP) | 0 | - | - |
-| [1001 Jigsaw. World Tour: Great America](games/1/12d6ced529194cd583ec2690325036bc.md) | 2024-02-04 | - |  | - | - |
