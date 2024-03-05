@@ -4,7 +4,7 @@
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 369,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 364,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 165,
@@ -1295,10 +1295,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 460,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-03-05T17:59:04.7473874+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 500,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 460,
+  "NumberOfAwards": 500,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1361,6 +1367,12 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 36
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 40
     }
   ],
   "EOS_Progressed": 464868,
@@ -7928,9 +7940,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-03-04T14:58:49.946604+00:00",
+  "LastChanged": "2024-03-05T17:59:04.7473872+00:00",
   "LastChanged_Achievements": "2024-02-22T21:03:34.0407585+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:45.8135935+00:00",
-  "LastUpdate_Ratings": "2024-03-05T16:58:12.7751515+00:00",
+  "LastUpdate_Ratings": "2024-03-05T17:59:04.7473876+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:34.0413075+00:00"
 }
