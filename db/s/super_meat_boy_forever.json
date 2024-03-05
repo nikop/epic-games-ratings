@@ -2,7 +2,7 @@
   "ID": "moose",
   "Name": "Super Meat Boy Forever",
   "ProductSlug": "super-meat-boy-forever",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 896,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.57,
   "NumberOfRatings": 24,
   "RatingHistory": [
     {
@@ -245,6 +245,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 32,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-03-05T02:12:41.811538+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
@@ -271,8 +277,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
-  "LastChanged": "2024-03-04T01:48:58.6918197+00:00",
+  "LastChanged": "2024-03-05T02:12:41.8115378+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:58.9734511+00:00",
-  "LastUpdate_Ratings": "2024-03-05T00:01:37.3873436+00:00",
+  "LastUpdate_Ratings": "2024-03-05T02:12:41.8115382+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:19.8898159+00:00"
 }
