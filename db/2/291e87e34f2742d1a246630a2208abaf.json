@@ -3,8 +3,8 @@
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
   "Ranking_Rating": 987,
-  "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 387,
+  "Ranking_Popularity": 441,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1475,24 +1475,30 @@
       "Rating": 4.21,
       "NumberOfAwards": 341,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-03-05T05:57:19.4236799+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 341,
-  "NumberOfAwardsMax": 70,
+  "NumberOfAwards": 344,
+  "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1516,7 +1522,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1543,8 +1549,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-03-05T03:59:15.5472661+00:00",
+  "LastChanged": "2024-03-05T05:57:19.4236797+00:00",
   "LastUpdate_AppInfo": "2024-03-04T15:57:08.4355204+00:00",
-  "LastUpdate_Ratings": "2024-03-05T03:59:15.5472666+00:00",
+  "LastUpdate_Ratings": "2024-03-05T05:57:19.4236803+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:00.7721882+00:00"
 }
