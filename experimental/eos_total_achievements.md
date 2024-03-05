@@ -349,8 +349,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
