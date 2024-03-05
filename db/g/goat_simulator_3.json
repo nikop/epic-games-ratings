@@ -3,7 +3,7 @@
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 56,
-  "Ranking_Popularity": 216,
+  "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 261,
@@ -7775,11 +7775,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 4855,
       "NumberOfAwardsMax": 607
+    },
+    {
+      "Time": "2024-03-05T18:59:23.3196594+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4859,
+      "NumberOfAwardsMax": 610
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4855,
-  "NumberOfAwardsMax": 607,
+  "NumberOfAwards": 4859,
+  "NumberOfAwardsMax": 610,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7810,13 +7816,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 607
+      "Count": 610
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 504
+      "Count": 505
     },
     {
       "Text": "This game is Educational",
@@ -39268,9 +39274,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-03-05T17:58:20.0371941+00:00",
+  "LastChanged": "2024-03-05T18:59:23.3196592+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:46.8523911+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:26.0671934+00:00",
-  "LastUpdate_Ratings": "2024-03-05T17:58:20.0371947+00:00",
+  "LastUpdate_Ratings": "2024-03-05T18:59:23.3196597+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:46.852586+00:00"
 }
