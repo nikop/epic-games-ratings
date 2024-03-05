@@ -45,7 +45,7 @@
 | 38 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 608 |
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 230 | 299 |
 | 38 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 217 | 307 |
-| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 820 | 192 |
+| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 821 | 192 |
 | 38 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 0 | 608 |
 | 48 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 38 | 514 |
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 49 | 482 |
@@ -201,7 +201,7 @@
 | 196 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 608 |
 | 196 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 40 | 504 |
 | 196 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 608 |
-| 196 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 371 | 252 |
+| 196 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 371 | 253 |
 | 196 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 98 | 399 |
 | 196 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 608 |
 | 205 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 608 |
@@ -320,7 +320,7 @@
 | 311 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,315 | 150 |
 | 311 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 52 | 475 |
 | 311 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.66 | 158 | 345 |
-| 311 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 226 | 301 |
+| 311 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 226 | 302 |
 | 311 | [Overcooked](games/o/overcooked.md) | 4.66 | 134 | 358 |
 | 311 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,976 | 127 |
 | 311 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 606 | 218 |
@@ -432,7 +432,7 @@
 | 405 | [Supraland](games/s/supraland.md) | 4.61 | 7,815 | 60 |
 | 405 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 565 | 222 |
 | 405 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 77 | 426 |
-| 405 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 370 | 253 |
+| 405 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 373 | 252 |
 | 405 | [Transistor](games/t/transistor.md) | 4.61 | 0 | 608 |
 | 405 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.61 | 0 | 608 |
 | 405 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 608 |
@@ -496,7 +496,7 @@
 | 478 | [Returnal™](games/r/returnal™.md) | 4.58 | 198 | 315 |
 | 478 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,519 | 142 |
 | 478 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.58 | 0 | 608 |
-| 478 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 226 | 301 |
+| 478 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 227 | 301 |
 | 478 | [Tails of Iron](games/t/tails_of_iron.md) | 4.58 | 0 | 608 |
 | 478 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 294 | 278 |
 | 478 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 55 | 464 |

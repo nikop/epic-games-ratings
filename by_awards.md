@@ -191,7 +191,7 @@
 | 189 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 846 | 4.74 | 166 |
 | 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 831 | 4.67 | 292 |
 | 191 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 828 | 4.21 | 987 |
-| 192 | [Subnautica](games/s/subnautica.md) | 820 | 4.85 | 38 |
+| 192 | [Subnautica](games/s/subnautica.md) | 821 | 4.85 | 38 |
 | 193 | [Neverwinter](games/n/neverwinter.md) | 813 | 4.29 | 908 |
 | 194 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 810 | 4.60 | 439 |
 | 195 | [Core](games/c/core.md) | 798 | 4.35 | 853 |
@@ -251,8 +251,8 @@
 | 249 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 401 | 4.54 | 562 |
 | 250 | [Dead Space](games/d/dead_space.md) | 386 | 4.72 | 196 |
 | 251 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 383 | 3.99 | 1,083 |
-| 252 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 371 | 4.72 | 196 |
-| 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 370 | 4.61 | 405 |
+| 252 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 373 | 4.61 | 405 |
+| 253 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 371 | 4.72 | 196 |
 | 254 | [Railway Empire](games/r/railway_empire.md) | 369 | 4.51 | 613 |
 | 255 | [The Outlast Trials](games/t/the_outlast_trials.md) | 366 | 4.65 | 330 |
 | 256 | [Inscryption](games/i/inscryption.md) | 365 | 4.86 | 29 |
@@ -300,8 +300,8 @@
 | 297 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 231 | 4.70 | 224 |
 | 299 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 230 | 4.85 | 38 |
 | 300 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 229 | 4.52 | 596 |
-| 301 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 226 | 4.66 | 311 |
-| 301 | [Sunless Sea](games/s/sunless_sea.md) | 226 | 4.58 | 478 |
+| 301 | [Sunless Sea](games/s/sunless_sea.md) | 227 | 4.58 | 478 |
+| 302 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 226 | 4.66 | 311 |
 | 303 | [HITMAN](games/h/hitman.md) | 223 | 4.63 | 369 |
 | 303 | [Pinball FX](games/p/pinball_fx.md) | 223 | 4.07 | 1,066 |
 | 305 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 220 | 4.58 | 478 |
