@@ -33,7 +33,7 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,672 | 4.84 | 48 |
 | 32 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 14,532 | 4.58 | 478 |
 | 33 | [Maneater](games/m/maneater.md) | 14,035 | 4.49 | 651 |
-| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,534 | 4.45 | 707 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,546 | 4.45 | 707 |
 | 35 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,862 | 4.36 | 840 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,011 | 4.69 | 244 |
 | 37 | [Dead Island 2](games/d/dead_island_2.md) | 12,002 | 4.54 | 562 |
@@ -63,13 +63,13 @@
 | 61 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 7,749 | 4.50 | 633 |
 | 62 | [Sifu](games/s/sifu.md) | 7,477 | 4.82 | 69 |
 | 63 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 7,377 | 4.23 | 971 |
-| 64 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 7,331 | 4.49 | 651 |
+| 64 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 7,347 | 4.49 | 651 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,109 | 4.66 | 311 |
 | 66 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,831 | 4.58 | 478 |
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,817 | 4.82 | 69 |
 | 68 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 761 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,596 | 4.67 | 292 |
-| 70 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,558 | 4.76 | 135 |
+| 70 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,565 | 4.76 | 135 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,515 | 4.80 | 95 |
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,350 | 4.78 | 113 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,165 | 4.66 | 311 |
@@ -196,7 +196,7 @@
 | 194 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 810 | 4.60 | 440 |
 | 195 | [Core](games/c/core.md) | 798 | 4.35 | 853 |
 | 196 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 786 | 4.87 | 21 |
-| 197 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 770 | 4.59 | 460 |
+| 197 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 774 | 4.59 | 460 |
 | 198 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 764 | 4.68 | 273 |
 | 199 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 756 | 4.61 | 405 |
 | 200 | [Neon Abyss](games/n/neon_abyss.md) | 745 | 4.68 | 273 |
@@ -441,9 +441,9 @@
 | 439 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 72 | 4.40 | 788 |
 | 439 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 72 | 4.41 | 773 |
 | 441 | [DOOM 3](games/d/doom_3.md) | 71 | 4.60 | 440 |
+| 441 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 71 | 4.21 | 987 |
 | 441 | [Human Resource Machine](games/h/human_resource_machine.md) | 71 | 4.62 | 388 |
-| 443 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 70 | 4.21 | 987 |
-| 443 | [Session: Skate Sim](games/s/session__skate_sim.md) | 70 | 4.68 | 273 |
+| 444 | [Session: Skate Sim](games/s/session__skate_sim.md) | 70 | 4.68 | 273 |
 | 445 | [Symphony of War](games/s/symphony_of_war.md) | 69 | 4.65 | 330 |
 | 446 | [Art of Rally](games/a/art_of_rally_1.md) | 68 | 4.63 | 369 |
 | 447 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 66 | 4.34 | 863 |

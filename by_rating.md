@@ -138,7 +138,7 @@
 | 135 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,955 | 25 |
 | 135 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,517 | 103 |
 | 135 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,250 | 152 |
-| 135 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,558 | 70 |
+| 135 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,565 | 70 |
 | 135 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.76 | 79 | 421 |
 | 135 | [Journey](games/j/journey.md) | 4.76 | 0 | 608 |
 | 135 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 608 |
@@ -285,7 +285,7 @@
 | 273 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.68 | 134 | 358 |
 | 273 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 745 | 200 |
 | 273 | [Road 96](games/r/road_96.md) | 4.68 | 0 | 608 |
-| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 70 | 443 |
+| 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 70 | 444 |
 | 273 | [The Machines Arena](games/t/the_machines_arena.md) | 4.68 | 0 | 608 |
 | 273 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.68 | 20 | 604 |
 | 273 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 0 | 608 |
@@ -459,7 +459,7 @@
 | 440 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.60 | 0 | 608 |
 | 440 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 26 | 570 |
 | 440 | [Witchfire](games/w/witchfire.md) | 4.60 | 77 | 426 |
-| 460 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 770 | 197 |
+| 460 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 774 | 197 |
 | 460 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 608 |
 | 460 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 608 |
 | 460 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 862 | 188 |
@@ -655,7 +655,7 @@
 | 651 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 608 |
 | 651 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 103 | 390 |
 | 651 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 608 |
-| 651 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,331 | 64 |
+| 651 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,347 | 64 |
 | 651 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 3,595 | 101 |
 | 651 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 608 |
 | 651 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.49 | 0 | 608 |
@@ -716,7 +716,7 @@
 | 707 | [Faeria](games/f/faeria.md) | 4.45 | 119 | 374 |
 | 707 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 608 |
 | 707 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 608 |
-| 707 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,534 | 34 |
+| 707 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,546 | 34 |
 | 707 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 608 |
 | 707 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 608 |
 | 707 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 919 | 181 |
@@ -988,7 +988,7 @@
 | 979 | [The Fall](games/t/the_fall.md) | 4.22 | 0 | 608 |
 | 987 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 367 |
 | 987 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 538 |
-| 987 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.21 | 70 | 443 |
+| 987 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.21 | 71 | 441 |
 | 987 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.21 | 0 | 608 |
 | 987 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 608 |
 | 987 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 828 | 191 |
