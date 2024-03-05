@@ -93,7 +93,7 @@
 | 91 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,486 | 4.68 | 274 |
 | 92 | [Days Gone](games/d/days_gone.md) | 4,429 | 4.68 | 274 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,279 | 4.46 | 691 |
-| 94 | [Paladins](games/p/paladins.md) | 4,193 | 4.32 | 883 |
+| 94 | [Paladins](games/p/paladins.md) | 4,193 | 4.32 | 884 |
 | 95 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,189 | 4.51 | 613 |
 | 96 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4,043 | 4.26 | 944 |
 | 97 | [The Sims™ 4](games/t/the_sims™_4.md) | 4,040 | 4.62 | 388 |
@@ -172,9 +172,9 @@
 | 170 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,035 | 4.25 | 951 |
 | 171 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,033 | 4.49 | 651 |
 | 172 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 971 |
-| 173 | [Sonic Mania](games/s/sonic_mania.md) | 1,007 | 4.77 | 121 |
-| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,005 | 4.75 | 149 |
-| 174 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,005 | 4.31 | 894 |
+| 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,008 | 4.75 | 149 |
+| 174 | [Sonic Mania](games/s/sonic_mania.md) | 1,007 | 4.77 | 121 |
+| 175 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,005 | 4.31 | 894 |
 | 176 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 999 | 4.65 | 330 |
 | 177 | [Riders Republic](games/r/riders_republic.md) | 971 | 4.75 | 149 |
 | 178 | [Alan Wake 2](games/a/alan_wake_2.md) | 930 | 4.80 | 95 |
@@ -219,7 +219,7 @@
 | 216 | [Godfall Ultimate Edition](games/g/godfall.md) | 607 | 4.06 | 1,069 |
 | 218 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 606 | 4.66 | 311 |
 | 219 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 600 | 4.70 | 224 |
-| 220 | [Vampyr](games/v/vampyr.md) | 598 | 4.32 | 883 |
+| 220 | [Vampyr](games/v/vampyr.md) | 598 | 4.32 | 884 |
 | 221 | [Filament](games/f/filament.md) | 593 | 4.33 | 877 |
 | 222 | [Surviving Mars](games/s/surviving_mars.md) | 565 | 4.61 | 405 |
 | 223 | [Severed Steel](games/s/severed_steel.md) | 553 | 4.69 | 244 |
@@ -385,7 +385,7 @@
 | 383 | [Armored Warfare](games/a/armored_warfare.md) | 110 | 4.07 | 1,066 |
 | 383 | [Just Die Already](games/j/just_die_already.md) | 110 | 4.52 | 596 |
 | 383 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 110 | 4.74 | 166 |
-| 386 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 109 | 4.32 | 883 |
+| 386 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 109 | 4.32 | 884 |
 | 387 | [Verdun](games/v/verdun.md) | 107 | 4.53 | 584 |
 | 388 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 105 | 4.38 | 819 |
 | 388 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 105 | 4.34 | 863 |
@@ -530,7 +530,7 @@
 | 528 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 958 |
 | 528 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 34 | 4.20 | 995 |
 | 528 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 34 | 4.53 | 584 |
-| 528 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 34 | 4.32 | 883 |
+| 528 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 34 | 4.32 | 884 |
 | 528 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.53 | 584 |
 | 528 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 34 | 4.60 | 439 |
 | 534 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 33 | 4.75 | 149 |
@@ -593,7 +593,7 @@
 | 586 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 21 |
 | 592 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 951 |
 | 592 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.12 | 1,048 |
-| 592 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 22 | 4.32 | 883 |
+| 592 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 22 | 4.33 | 877 |
 | 592 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,003 |
 | 592 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 478 |
 | 592 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 679 |

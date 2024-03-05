@@ -129,7 +129,7 @@
 | 121 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.77 | 0 | 608 |
 | 121 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 63 | 453 |
 | 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 608 |
-| 121 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,007 | 173 |
+| 121 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,007 | 174 |
 | 121 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 165 | 341 |
 | 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 54 | 467 |
 | 121 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 608 |
@@ -152,7 +152,7 @@
 | 149 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 7,822 | 59 |
 | 149 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 608 |
 | 149 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.75 | 0 | 608 |
-| 149 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,005 | 174 |
+| 149 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,008 | 173 |
 | 149 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,497 | 144 |
 | 149 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.75 | 33 | 534 |
 | 149 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.75 | 35,293 | 17 |
@@ -879,23 +879,23 @@
 | 877 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 608 |
 | 877 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 608 |
 | 877 | [Filament](games/f/filament.md) | 4.33 | 593 | 221 |
+| 877 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.33 | 22 | 592 |
 | 877 | [House Party](games/h/house_party.md) | 4.33 | 0 | 608 |
 | 877 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 554 |
 | 877 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 608 |
-| 883 | [Ashen](games/a/ashen.md) | 4.32 | 0 | 608 |
-| 883 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.32 | 109 | 386 |
-| 883 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.32 | 0 | 608 |
-| 883 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.32 | 22 | 592 |
-| 883 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.32 | 0 | 608 |
-| 883 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 608 |
-| 883 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.32 | 0 | 608 |
-| 883 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.32 | 34 | 528 |
-| 883 | [Paladins](games/p/paladins.md) | 4.32 | 4,193 | 94 |
-| 883 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.32 | 0 | 608 |
-| 883 | [Vampyr](games/v/vampyr.md) | 4.32 | 598 | 220 |
+| 884 | [Ashen](games/a/ashen.md) | 4.32 | 0 | 608 |
+| 884 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.32 | 109 | 386 |
+| 884 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.32 | 0 | 608 |
+| 884 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.32 | 0 | 608 |
+| 884 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 608 |
+| 884 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.32 | 0 | 608 |
+| 884 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.32 | 34 | 528 |
+| 884 | [Paladins](games/p/paladins.md) | 4.32 | 4,193 | 94 |
+| 884 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.32 | 0 | 608 |
+| 884 | [Vampyr](games/v/vampyr.md) | 4.32 | 598 | 220 |
 | 894 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 406 | 247 |
 | 894 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 608 |
-| 894 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,005 | 174 |
+| 894 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,005 | 175 |
 | 894 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 608 |
 | 894 | [Startup Panic](games/s/startup_panic.md) | 4.31 | 0 | 608 |
 | 899 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.30 | 21 | 598 |
