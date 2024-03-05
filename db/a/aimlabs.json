@@ -3,7 +3,7 @@
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 439,
-  "Ranking_Popularity": 371,
+  "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -3133,18 +3133,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 888,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-03-05T12:59:27.0824303+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 893,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 888,
-  "NumberOfAwardsMax": 123,
+  "NumberOfAwards": 893,
+  "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 123
+      "Count": 125
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3162,13 +3168,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 83
+      "Count": 85
     },
     {
       "Text": "This game is Educational",
@@ -3225,8 +3231,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-03-04T20:57:31.6805372+00:00",
+  "LastChanged": "2024-03-05T12:59:27.0824301+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:58:54.3346405+00:00",
-  "LastUpdate_Ratings": "2024-03-05T11:00:41.1367585+00:00",
+  "LastUpdate_Ratings": "2024-03-05T12:59:27.0824307+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:48.2782158+00:00"
 }

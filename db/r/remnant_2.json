@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant II\u00AE",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 205,
+  "Ranking_Rating": 206,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 66,
@@ -9241,10 +9241,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 20567,
       "NumberOfAwardsMax": 8518
+    },
+    {
+      "Time": "2024-03-05T12:59:55.0775221+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 20581,
+      "NumberOfAwardsMax": 8518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20567,
+  "NumberOfAwards": 20581,
   "NumberOfAwardsMax": 8518,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9276,13 +9282,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1343
+      "Count": 1348
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1246
+      "Count": 1251
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9300,7 +9306,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1180
+      "Count": 1184
     },
     {
       "Text": "This game has Unique Visuals",
@@ -32409,9 +32415,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-03-05T08:57:58.5877549+00:00",
+  "LastChanged": "2024-03-05T12:59:55.0775219+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:35.1086866+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:21.4447187+00:00",
-  "LastUpdate_Ratings": "2024-03-05T11:01:20.4383841+00:00",
+  "LastUpdate_Ratings": "2024-03-05T12:59:55.0775226+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:35.1088256+00:00"
 }
