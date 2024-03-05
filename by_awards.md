@@ -13,7 +13,7 @@
 | 11 | [Destiny 2](games/d/destiny_2.md) | 68,442 | 4.45 | 707 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,306 | 4.58 | 478 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 56,921 | 4.61 | 405 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 49,399 | 4.74 | 166 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 49,437 | 4.74 | 166 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 42,182 | 4.51 | 613 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 36,009 | 4.72 | 196 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 35,293 | 4.75 | 149 |
@@ -31,7 +31,7 @@
 | 29 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,772 | 4.58 | 478 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,696 | 4.44 | 725 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,672 | 4.84 | 48 |
-| 32 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 14,532 | 4.58 | 478 |
+| 32 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 14,594 | 4.58 | 478 |
 | 33 | [Maneater](games/m/maneater.md) | 14,035 | 4.49 | 651 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,546 | 4.45 | 707 |
 | 35 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,862 | 4.36 | 840 |
@@ -494,7 +494,7 @@
 | 491 | [Isonzo](games/i/isonzo.md) | 46 | 4.58 | 478 |
 | 491 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 958 |
 | 494 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.58 | 478 |
-| 494 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,094 |
+| 494 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,095 |
 | 494 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 45 | 4.24 | 958 |
 | 494 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 45 | 4.27 | 938 |
 | 498 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 44 | 4.34 | 863 |
@@ -515,7 +515,7 @@
 | 508 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 39 | 4.48 | 669 |
 | 514 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 38 | 4.84 | 48 |
 | 514 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.49 | 651 |
-| 514 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 38 | 3.95 | 1,094 |
+| 514 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 38 | 3.96 | 1,090 |
 | 514 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 38 | 4.49 | 651 |
 | 518 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 37 | 4.54 | 562 |
 | 518 | [MythForce](games/m/mythforce.md) | 37 | 4.47 | 679 |
@@ -544,7 +544,7 @@
 | 538 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 32 | 4.57 | 507 |
 | 538 | [The Surge](games/t/the_surge.md) | 32 | 4.43 | 751 |
 | 538 | [Tunche](games/t/tunche.md) | 32 | 4.46 | 691 |
-| 545 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 31 | 3.95 | 1,094 |
+| 545 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 31 | 3.95 | 1,095 |
 | 545 | [Sable](games/s/sable.md) | 31 | 4.54 | 562 |
 | 545 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 31 | 4.36 | 840 |
 | 545 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 31 | 4.82 | 69 |

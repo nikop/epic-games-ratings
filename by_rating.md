@@ -171,7 +171,7 @@
 | 166 | [GNOG](games/g/gnog.md) | 4.74 | 0 | 608 |
 | 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 846 | 189 |
 | 166 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,689 | 50 |
-| 166 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 49,399 | 14 |
+| 166 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 49,437 | 14 |
 | 166 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 174 | 330 |
 | 166 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 110 | 383 |
 | 166 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 923 | 180 |
@@ -483,7 +483,7 @@
 | 478 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 220 | 305 |
 | 478 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 564 |
 | 478 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 608 |
-| 478 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 14,532 | 32 |
+| 478 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 14,594 | 32 |
 | 478 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 276 | 284 |
 | 478 | [GRIT](games/g/grit.md) | 4.58 | 0 | 608 |
 | 478 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 64 | 452 |
@@ -1092,11 +1092,11 @@
 | 1,090 | [Blazing Sails](games/b/blazing_sails.md) | 3.96 | 699 | 204 |
 | 1,090 | [Conarium](games/c/conarium.md) | 3.96 | 0 | 608 |
 | 1,090 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.96 | 634 | 211 |
+| 1,090 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.96 | 38 | 514 |
 | 1,090 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 3.96 | 0 | 608 |
-| 1,094 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 494 |
-| 1,094 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.95 | 31 | 545 |
-| 1,094 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.95 | 0 | 608 |
-| 1,094 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.95 | 38 | 514 |
+| 1,095 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 494 |
+| 1,095 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.95 | 31 | 545 |
+| 1,095 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.95 | 0 | 608 |
 | 1,098 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.94 | 0 | 608 |
 | 1,099 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.93 | 51 | 477 |
 | 1,099 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 608 |
