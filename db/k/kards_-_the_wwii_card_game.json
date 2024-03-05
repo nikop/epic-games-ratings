@@ -2,7 +2,7 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
-  "Ranking_Rating": 787,
+  "Ranking_Rating": 808,
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 896,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "NumberOfRatings": 1466,
   "RatingHistory": [
     {
@@ -3501,6 +3501,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 4014,
       "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2024-03-05T13:57:21.6592361+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 4014,
+      "NumberOfAwardsMax": 646
     }
   ],
   "ReviewsDisabled": false,
@@ -3580,8 +3586,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2024-03-04T13:02:37.5574627+00:00",
+  "LastChanged": "2024-03-05T13:57:21.6592359+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:22.3149551+00:00",
-  "LastUpdate_Ratings": "2024-03-05T11:59:19.791892+00:00",
+  "LastUpdate_Ratings": "2024-03-05T13:57:21.6592363+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:19.163183+00:00"
 }

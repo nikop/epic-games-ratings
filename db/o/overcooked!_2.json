@@ -2,7 +2,7 @@
   "ID": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
-  "Ranking_Rating": 206,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 5157,
   "RatingHistory": [
     {
@@ -4452,6 +4452,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 2564,
       "NumberOfAwardsMax": 306
+    },
+    {
+      "Time": "2024-03-05T13:58:02.4111855+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2564,
+      "NumberOfAwardsMax": 306
     }
   ],
   "ReviewsDisabled": false,
@@ -4549,8 +4555,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-03-04T13:03:33.5686571+00:00",
+  "LastChanged": "2024-03-05T13:58:02.4111854+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:58:00.3458812+00:00",
-  "LastUpdate_Ratings": "2024-03-05T11:59:58.1544121+00:00",
+  "LastUpdate_Ratings": "2024-03-05T13:58:02.411186+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:23.0631192+00:00"
 }
