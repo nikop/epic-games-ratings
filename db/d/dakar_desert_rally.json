@@ -4,7 +4,7 @@
   "ProductSlug": "dakar-desert-rally",
   "Ranking_Rating": 1099,
   "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1065,10 +1065,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 320,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-03-05T21:00:26.1857154+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 320,
+  "NumberOfAwards": 282,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1145,8 +1151,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-03-05T19:59:05.1701379+00:00",
+  "LastChanged": "2024-03-05T21:00:26.1857152+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:22.8379563+00:00",
-  "LastUpdate_Ratings": "2024-03-05T19:59:05.1701384+00:00",
+  "LastUpdate_Ratings": "2024-03-05T21:00:26.1857158+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:30.8558319+00:00"
 }
