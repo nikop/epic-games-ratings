@@ -74,7 +74,7 @@
 | 70 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,817 | 67 |
 | 70 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 154 | 349 |
 | 70 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 608 |
-| 70 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,523 | 141 |
+| 70 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,527 | 141 |
 | 70 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 315 | 266 |
 | 70 | [Sifu](games/s/sifu.md) | 4.82 | 7,480 | 62 |
 | 70 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 488 | 234 |
@@ -244,7 +244,7 @@
 | 223 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 231 | 297 |
 | 223 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 608 |
 | 244 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 608 |
-| 244 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 128,879 | 9 |
+| 244 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 128,943 | 9 |
 | 244 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 608 |
 | 244 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 608 |
 | 244 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 365 |
@@ -437,7 +437,7 @@
 | 405 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.61 | 0 | 608 |
 | 405 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 608 |
 | 405 | [Warframe](games/w/warframe.md) | 4.61 | 21,969 | 23 |
-| 405 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 756 | 199 |
+| 405 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 759 | 199 |
 | 439 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 125 | 369 |
 | 439 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 16,981 | 24 |
 | 439 | [DOOM 3](games/d/doom_3.md) | 4.60 | 71 | 441 |
