@@ -4,7 +4,7 @@
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
   "Ranking_Rating": 895,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -3074,10 +3074,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 2994,
       "NumberOfAwardsMax": 406
+    },
+    {
+      "Time": "2024-03-06T14:57:37.3556066+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2998,
+      "NumberOfAwardsMax": 406
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2994,
+  "NumberOfAwards": 2998,
   "NumberOfAwardsMax": 406,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3085,7 +3091,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 309
+      "Count": 310
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3139,7 +3145,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 258
+      "Count": 261
     }
   ],
   "EOS_Progressed": 0,
@@ -3153,8 +3159,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-03-05T22:59:07.1911548+00:00",
+  "LastChanged": "2024-03-06T14:57:37.3556064+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:40.8098107+00:00",
-  "LastUpdate_Ratings": "2024-03-06T13:01:27.1989128+00:00",
+  "LastUpdate_Ratings": "2024-03-06T14:57:37.3556069+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:20.6926434+00:00"
 }
