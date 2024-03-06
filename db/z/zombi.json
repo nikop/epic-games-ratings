@@ -2,7 +2,7 @@
   "ID": "143474ab55ec49e8b9b9d79931cb2512",
   "Name": "ZOMBI",
   "ProductSlug": "zombi",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2022-11-04T06:02:50.9751041+00:00",
@@ -125,6 +125,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-06T06:59:43.1656387+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -143,8 +149,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:13.2699332+00:00",
   "FirstSeenRating": "2022-11-04T06:02:50.9751039+00:00",
-  "LastChanged": "2024-03-03T06:58:58.7791255+00:00",
+  "LastChanged": "2024-03-06T06:59:43.1656386+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:17.5385407+00:00",
-  "LastUpdate_Ratings": "2024-03-06T05:58:23.9860071+00:00",
+  "LastUpdate_Ratings": "2024-03-06T06:59:43.165639+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:14.9261322+00:00"
 }
