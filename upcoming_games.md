@@ -73,6 +73,7 @@
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Tales of Kenzera™: ZAU Standard Edition](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-04-24 | - |  | - | - |
+| [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 0 | - | - |
 | [AC Sailing](games/5/509ce98dda624bf193c297eadee9385c.md) | 2024-04-30 | - |  | - | - |
 | [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-04-30 | - |  | - | - |
@@ -201,7 +202,6 @@
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
 | [Star Vortex](games/f/f752f0d1dba941d1934cfdb69c8e944d.md) | 2024-12-31 | - |  | - | - |
 | [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-12-31 | - |  | - | - |
-| [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-12-31 | 32 (1,000 XP) | 0 | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
