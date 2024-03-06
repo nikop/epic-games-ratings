@@ -501,6 +501,7 @@
 | [SunnySide](games/s/sunnyside.md) | 2099-01-01 | - |  | - | - |
 | [Super BUFF HD](games/7/74b34f2f86db48579e9f785686886111.md) | 2099-01-01 | - |  | - | - |
 | [Supergalactix](games/s/supergalactix.md) | 2099-01-01 | - |  | - | - |
+| [Surfing Legends](games/2/2f041426f4ce4d65a6c1b100b4b3bf4a.md) | 2099-01-01 | - |  | - | - |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2099-01-01 | - |  | - | - |
 | [Survival Bunker](games/2/2169f3808bad448fbc29f18ada527f28.md) | 2099-01-01 | - |  | - | - |
 | [Survive The Unknown](games/s/survive_the_unknown.md) | 2099-01-01 | - |  | - | - |

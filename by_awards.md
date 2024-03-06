@@ -13,7 +13,7 @@
 | 11 | [Destiny 2](games/d/destiny_2.md) | 68,721 | 4.45 | 705 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,322 | 4.58 | 477 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 56,972 | 4.61 | 405 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 49,437 | 4.74 | 165 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 49,498 | 4.74 | 165 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 42,223 | 4.51 | 613 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 36,114 | 4.72 | 197 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 35,337 | 4.75 | 149 |
@@ -71,7 +71,7 @@
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,599 | 4.67 | 293 |
 | 70 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,574 | 4.76 | 135 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,515 | 4.80 | 95 |
-| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,350 | 4.78 | 113 |
+| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,353 | 4.78 | 113 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,166 | 4.66 | 312 |
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,065 | 4.64 | 351 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 6,048 | 4.29 | 909 |
@@ -264,10 +264,10 @@
 | 262 | [Darkwood](games/d/darkwood.md) | 333 | 4.62 | 389 |
 | 263 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 330 | 4.44 | 725 |
 | 264 | [MudRunner](games/m/mudrunner.md) | 322 | 4.61 | 405 |
-| 265 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 320 | 4.39 | 808 |
-| 266 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 315 | 4.82 | 70 |
-| 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 314 | 4.44 | 725 |
-| 268 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 310 | 4.79 | 99 |
+| 265 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 321 | 4.79 | 99 |
+| 266 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 320 | 4.39 | 808 |
+| 267 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 315 | 4.82 | 70 |
+| 268 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 314 | 4.44 | 725 |
 | 269 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 306 | 4.55 | 549 |
 | 269 | [Diabotical](games/d/diabotical.md) | 306 | 4.73 | 178 |
 | 269 | [Overcooked! 2](games/o/overcooked!_2.md) | 306 | 4.70 | 223 |
@@ -281,7 +281,7 @@
 | 279 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 290 | 4.83 | 56 |
 | 280 | [Sheltered](games/s/sheltered.md) | 286 | 4.41 | 771 |
 | 281 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 283 | 4.83 | 56 |
-| 282 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 281 | 4.48 | 669 |
+| 282 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 281 | 4.48 | 670 |
 | 283 | [Roller Champions™](games/r/roller_champions™.md) | 279 | 4.34 | 863 |
 | 284 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 276 | 4.58 | 477 |
 | 285 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 271 | 4.44 | 725 |
@@ -448,7 +448,7 @@
 | 446 | [Art of Rally](games/a/art_of_rally_1.md) | 68 | 4.63 | 369 |
 | 447 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 66 | 4.34 | 863 |
 | 447 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 66 | 4.82 | 70 |
-| 449 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.48 | 669 |
+| 449 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.48 | 670 |
 | 449 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 65 | 4.44 | 725 |
 | 449 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 65 | 4.73 | 178 |
 | 452 | [Heavy Rain](games/h/heavy_rain.md) | 64 | 4.58 | 477 |
@@ -512,7 +512,7 @@
 | 508 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 39 | 4.56 | 523 |
 | 508 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 39 | 4.42 | 760 |
 | 508 | [Redfall](games/r/redfall.md) | 39 | 3.65 | 1,128 |
-| 508 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 39 | 4.48 | 669 |
+| 508 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 39 | 4.48 | 670 |
 | 514 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 38 | 4.84 | 47 |
 | 514 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.49 | 650 |
 | 514 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 38 | 3.96 | 1,089 |
@@ -522,7 +522,7 @@
 | 520 | [Outward Definitive Edition](games/o/outward.md) | 36 | 4.54 | 561 |
 | 520 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 36 | 4.63 | 369 |
 | 522 | [Chimeraland](games/c/chimeraland.md) | 35 | 3.90 | 1,107 |
-| 522 | [Chorus](games/c/chorus.md) | 35 | 4.48 | 669 |
+| 522 | [Chorus](games/c/chorus.md) | 35 | 4.48 | 670 |
 | 522 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 35 | 4.63 | 369 |
 | 522 | [DOOM (1993)](games/d/doom_(1993).md) | 35 | 4.83 | 56 |
 | 522 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 206 |
@@ -601,7 +601,7 @@
 | 599 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 21 | 4.30 | 900 |
 | 599 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 369 |
 | 599 | [Aztez](games/a/aztez.md) | 21 | 4.54 | 561 |
-| 599 | [Figment](games/f/figment.md) | 21 | 4.48 | 669 |
+| 599 | [Figment](games/f/figment.md) | 21 | 4.48 | 670 |
 | 599 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.65 | 330 |
 | 604 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 20 | 4.67 | 293 |
 | 604 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 20 | 4.37 | 828 |
