@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [REVEIL](games/c/c95731cf37314e239f348c0559df8c56.md) | 2024-03-06 | 26 (1,000 XP) | 3 | - | - |
 | [Winter Survival](games/0/041ae72fbe004d19a36ee417318e7b94.md) | 2024-03-06 | - |  | - | - |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | - |  | - | - |
 | [Metal Mind](games/9/973ea9bd62374be5bb84ef2c8d096c56.md) | 2024-03-07 | - |  | - | - |
@@ -86,6 +85,7 @@
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-05-01 | 19 (1,000 XP) | 491 | - | 0 |
 | [Parkour Legends](games/p/parkour_legends.md) | 2024-05-08 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | - | - |
+| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-05-23 | - |  | - | - |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-05-27 | 33 (1,000 XP) | 0 | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-05-29 | - |  | - | - |

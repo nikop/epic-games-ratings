@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [REVEIL](games/c/c95731cf37314e239f348c0559df8c56.md) | 2024-03-06 | 26 (1,000 XP) | 3 | - | - |
 | [3D City: Megapolis](games/d/d4cb8e3f85a44788b2ac4e17012bc7c4.md) | 2024-03-06 | - |  | - | - |
 | [Never Synth](games/3/371b823a2db44deea5ad6467a114abe0.md) | 2024-03-05 | - |  | - | - |
 | [Classified: France '44](games/1/1d2ae09227b6435a9c6e763574b95575.md) | 2024-03-05 | - |  | - | - |

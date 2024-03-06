@@ -473,7 +473,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 306 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 172 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 911,336 | 4.69 | 8,141 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 911,336 | 4.69 | 8,155 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,302,948 | 4.34 | 105 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 569 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 15 | - | 0 |
