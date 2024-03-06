@@ -122,7 +122,7 @@
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 550 |
 | 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,941 | 42 |
 | 121 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.77 | 0 | 608 |
-| 121 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,972 | 38 |
+| 121 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,979 | 38 |
 | 121 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 608 |
 | 121 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 608 |
 | 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,564 | 111 |
@@ -165,7 +165,7 @@
 | 149 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 481 | 235 |
 | 149 | [Townscaper](games/t/townscaper.md) | 4.75 | 0 | 608 |
 | 165 | [Fez](games/f/fez.md) | 4.74 | 26 | 570 |
-| 165 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 892 | 187 |
+| 165 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 893 | 187 |
 | 165 | [GNOG](games/g/gnog.md) | 4.74 | 0 | 608 |
 | 165 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 846 | 189 |
 | 165 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,693 | 50 |
@@ -554,7 +554,7 @@
 | 549 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 608 |
 | 549 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.55 | 0 | 608 |
 | 549 | [Little Inferno](games/l/little_inferno.md) | 4.55 | 0 | 608 |
-| 549 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,268 | 120 |
+| 549 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,272 | 120 |
 | 549 | [Observation](games/o/observation.md) | 4.55 | 0 | 608 |
 | 549 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 94 | 407 |
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 101 | 394 |
@@ -714,7 +714,7 @@
 | 705 | [Faeria](games/f/faeria.md) | 4.45 | 119 | 374 |
 | 705 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 608 |
 | 705 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 608 |
-| 705 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,546 | 34 |
+| 705 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,560 | 34 |
 | 705 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 608 |
 | 705 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 608 |
 | 705 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 919 | 181 |
@@ -1012,7 +1012,7 @@
 | 1,010 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 608 |
 | 1,010 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 608 |
 | 1,010 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,397 | 105 |
-| 1,010 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 223,098 | 6 |
+| 1,010 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 223,169 | 6 |
 | 1,010 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 404 |
 | 1,010 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.18 | 0 | 608 |
 | 1,016 | [Banished](games/b/banished.md) | 4.17 | 0 | 608 |
