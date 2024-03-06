@@ -2,7 +2,7 @@
   "ID": "1260f09c5ab842b9a645e14f085ed5af",
   "Name": "Infinifactory",
   "ProductSlug": "infinifactory-ec9686",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 561,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 896,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2024-01-26T22:58:02.5444125+00:00",
@@ -455,6 +455,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 216,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2024-03-06T01:40:12.4804524+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 216,
+      "NumberOfAwardsMax": 170
     }
   ],
   "ReviewsDisabled": false,
@@ -501,9 +507,9 @@
   "FirstSeen": "2024-01-25T18:57:35.0792201+00:00",
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
-  "LastChanged": "2024-03-05T01:38:47.0235815+00:00",
+  "LastChanged": "2024-03-06T01:40:12.4804522+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:43.6015496+00:00",
   "LastUpdate_AppInfo": "2024-02-29T19:57:14.3973614+00:00",
-  "LastUpdate_Ratings": "2024-03-05T23:58:55.7698397+00:00",
+  "LastUpdate_Ratings": "2024-03-06T01:40:12.4804526+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.6015515+00:00"
 }
