@@ -4,7 +4,7 @@
   "ProductSlug": "saints-row",
   "Ranking_Rating": 1108,
   "Ranking_Popularity": 154,
-  "Ranking_PopularitySum": 101,
+  "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 165,
@@ -6121,10 +6121,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 10623,
       "NumberOfAwardsMax": 1196
+    },
+    {
+      "Time": "2024-03-06T02:57:20.9607954+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 9534,
+      "NumberOfAwardsMax": 1196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10623,
+  "NumberOfAwards": 9534,
   "NumberOfAwardsMax": 1196,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -38946,9 +38952,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-03-05T23:57:59.9859288+00:00",
+  "LastChanged": "2024-03-06T02:57:20.9607952+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.3588189+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:02.1665071+00:00",
-  "LastUpdate_Ratings": "2024-03-06T01:39:24.1579868+00:00",
+  "LastUpdate_Ratings": "2024-03-06T02:57:20.9607956+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.3589739+00:00"
 }
