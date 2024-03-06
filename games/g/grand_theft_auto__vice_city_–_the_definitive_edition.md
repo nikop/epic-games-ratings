@@ -325,8 +325,8 @@ Completed: 124 (0.72%) (Ranked 213)
 | 2024-01-27 | 16,724 | 110 |
 | 2024-02-22 | 17,148 | 124 |
 ## Awards
-Max (Amazing Storytelling): 24  (Ranked 582)  
-Sum: 45 (Ranked 545)  
+Max (Amazing Storytelling): 24  (Ranked 583)  
+Sum: 45 (Ranked 546)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
