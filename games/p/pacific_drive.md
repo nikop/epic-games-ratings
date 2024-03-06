@@ -1,7 +1,7 @@
 # Pacific Drive
 [Store](https://store.epicgames.com/en-US/p/pacific-drive)  
 [View Rawdata](../../db/p/pacific_drive.json)  
-Rating: 4.73 (Ranked 179)  
+Rating: 4.71 (Ranked 205)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -11,3 +11,4 @@ Rating: 4.73 (Ranked 179)
 | 2024-03-02 | 4.69 | 0 | 0 |
 | 2024-03-04 | 4.71 | 0 | 0 |
 | 2024-03-05 | 4.73 | 0 | 0 |
+| 2024-03-06 | 4.71 | 0 | 0 |

@@ -1,7 +1,7 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 583)  
+Rating: 4.53 (Ranked 584)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -351,8 +351,8 @@ Completed: 4 (0.01%) (Ranked 399)
 | 2024-01-27 | 70,578 | 4 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 387)  
-Sum: 858 (Ranked 296)  
-Diff (max vs sum): 91  
+Sum: 858 (Ranked 295)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 107 |
