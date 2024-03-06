@@ -4,7 +4,7 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 477,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 33,
@@ -842,10 +842,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 345,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-03-06T20:57:24.6149788+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345,
+  "NumberOfAwards": 365,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -883,6 +889,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 20
     }
   ],
@@ -30264,9 +30276,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2024-03-05T08:58:09.2702476+00:00",
+  "LastChanged": "2024-03-06T20:57:24.6149786+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:18.5020211+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:04.1266785+00:00",
-  "LastUpdate_Ratings": "2024-03-06T18:59:50.1641452+00:00",
+  "LastUpdate_Ratings": "2024-03-06T20:57:24.6149794+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:18.5021599+00:00"
 }

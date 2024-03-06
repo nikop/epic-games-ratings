@@ -1,26 +1,26 @@
 # WRC 10 FIA World Rally Championship
 [Store](https://store.epicgames.com/en-US/p/wrc-10)  
 [View Rawdata](../../db/w/wrc_10_fia_world_rally_championship.json)  
-Rating: 4.49 (Ranked 651)  
+Rating: 4.48 (Ranked 669)  
 Number of Ratings: 248  (23.09.2022)  
 ## Awards
-Max (Realistic Visuals): 38  (Ranked 513)  
-Sum: 294 (Ranked 402)  
-Diff (max vs sum): 111  
+Max (Realistic Visuals): 41  (Ranked 503)  
+Sum: 313 (Ranked 397)  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
-| This game has Realistic Visuals | 38 |
-| This game is Extremely Fun | 34 |
-| This game has Quickly Understood Controls | 32 |
-| This game is Relaxing | 30 |
-| This game is Highly Recommended | 30 |
-| This game has Challenging Combat | 29 |
-| This game is Great for Quick Sessions | 29 |
-| This game has Amazing Storytelling | 27 |
-| This game has Competitive Players | 25 |
+| This game has Realistic Visuals | 41 |
+| This game is Extremely Fun | 36 |
+| This game has Quickly Understood Controls | 33 |
+| This game is Relaxing | 32 |
+| This game is Highly Recommended | 32 |
+| This game has Challenging Combat | 31 |
+| This game has Amazing Storytelling | 30 |
+| This game is Great for Quick Sessions | 30 |
+| This game has Competitive Players | 26 |
 | This game is Educational | 24 |
+| This game has a Competitive Community | 22 |
 | This game has Obsessive Gameplay | 21 |
-| This game has a Competitive Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -118,3 +118,4 @@ Diff (max vs sum): 111
 | 2023-09-06 | 4.49 | - | 37 | 292 |
 | 2023-09-22 | 4.49 | - | 38 | 293 |
 | 2023-09-23 | 4.49 | - | 38 | 294 |
+| 2024-03-06 | 4.48 | - | 41 | 313 |

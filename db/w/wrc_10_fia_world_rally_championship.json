@@ -2,9 +2,9 @@
   "ID": "d4d0270b8219470ebfc720c18767aef9",
   "Name": "WRC 10 FIA World Rally Championship",
   "ProductSlug": "wrc-10",
-  "Ranking_Rating": 651,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 402,
+  "Ranking_Rating": 669,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "NumberOfRatings": 248,
   "RatingHistory": [
     {
@@ -575,30 +575,36 @@
       "Rating": 4.49,
       "NumberOfAwards": 294,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-03-06T20:58:35.4623479+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 313,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 294,
-  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 313,
+  "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 38
+      "Count": 41
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game is Educational",
@@ -616,43 +622,43 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 27
+      "Count": 30
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -666,8 +672,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2023-09-23T03:59:39.8136367+00:00",
+  "LastChanged": "2024-03-06T20:58:35.4623477+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:09.2900622+00:00",
-  "LastUpdate_Ratings": "2024-03-06T19:57:26.3676597+00:00",
+  "LastUpdate_Ratings": "2024-03-06T20:58:35.4623482+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:00.9227849+00:00"
 }
