@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/witchfire.json)  
 Rating: 4.60 (Ranked 441)  
 ## Awards
-Max (Challenging Combat): 77  (Ranked 426)  
+Max (Challenging Combat): 77  (Ranked 427)  
 Sum: 384 (Ranked 376)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 77 |
