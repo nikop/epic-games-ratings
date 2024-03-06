@@ -4,7 +4,7 @@
   "ProductSlug": "nuclear-throne",
   "Ranking_Rating": 99,
   "Ranking_Popularity": 243,
-  "Ranking_PopularitySum": 258,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -2263,10 +2263,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1442,
       "NumberOfAwardsMax": 428
+    },
+    {
+      "Time": "2024-03-06T05:59:12.1286452+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1444,
+      "NumberOfAwardsMax": 428
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1442,
+  "NumberOfAwards": 1444,
   "NumberOfAwardsMax": 428,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2292,13 +2298,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2360,8 +2366,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2024-03-04T01:47:01.8848411+00:00",
+  "LastChanged": "2024-03-06T05:59:12.128645+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:27.7284051+00:00",
-  "LastUpdate_Ratings": "2024-03-06T04:57:39.4422533+00:00",
+  "LastUpdate_Ratings": "2024-03-06T05:59:12.1286455+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:57.2162366+00:00"
 }
