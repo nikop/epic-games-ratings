@@ -3,8 +3,8 @@
   "Name": "Griftlands",
   "ProductSlug": "griftlands",
   "Ranking_Rating": 99,
-  "Ranking_Popularity": 598,
-  "Ranking_PopularitySum": 600,
+  "Ranking_Popularity": 592,
+  "Ranking_PopularitySum": 595,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -313,18 +313,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-03-06T03:58:11.2788017+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -338,8 +344,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
-  "LastChanged": "2024-02-27T00:00:01.2029345+00:00",
+  "LastChanged": "2024-03-06T03:58:11.2788015+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:00.1345935+00:00",
-  "LastUpdate_Ratings": "2024-03-06T02:14:39.6339835+00:00",
+  "LastUpdate_Ratings": "2024-03-06T03:58:11.278802+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:46.8256713+00:00"
 }
