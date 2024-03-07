@@ -1,16 +1,16 @@
 # WRC 9 FIA World Rally Championship
 [Store](https://store.epicgames.com/en-US/p/wrc-9)  
 [View Rawdata](../../db/w/wrc_9_fia_world_rally_championship.json)  
-Rating: 4.51 (Ranked 612)  
+Rating: 4.52 (Ranked 596)  
 Number of Ratings: 233  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 33  (Ranked 536)  
-Sum: 253 (Ranked 417)  
+Sum: 254 (Ranked 417)  
 Diff (max vs sum): 119  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 33 |
-| This game is Highly Recommended | 30 |
+| This game is Highly Recommended | 31 |
 | This game has Competitive Players | 30 |
 | This game has Amazing Characters | 30 |
 | This game is Great for Beginners | 29 |
@@ -141,3 +141,4 @@ Diff (max vs sum): 119
 | 2024-02-22 | 4.52 | - | 33 | 252 |
 | 2024-03-03 | 4.51 | - | 33 | 252 |
 | 2024-03-06 | 4.51 | - | 33 | 253 |
+| 2024-03-07 | 4.52 | - | 33 | 254 |
