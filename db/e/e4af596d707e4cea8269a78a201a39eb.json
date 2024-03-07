@@ -4,7 +4,7 @@
   "ProductSlug": "shrapnel-e59542",
   "Ranking_Rating": 1134,
   "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 498,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -197,10 +197,16 @@
       "Rating": 3.41,
       "NumberOfAwards": 94,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-03-07T18:57:41.1448962+00:00",
+      "Rating": 3.41,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94,
+  "NumberOfAwards": 72,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -235,8 +241,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-07T21:57:27.054712+00:00",
   "FirstSeenRating": "2024-02-09T02:59:46.6661192+00:00",
-  "LastChanged": "2024-03-07T17:01:08.2329522+00:00",
+  "LastChanged": "2024-03-07T18:57:41.144896+00:00",
   "LastUpdate_AppInfo": "2024-03-01T09:57:12.6884503+00:00",
-  "LastUpdate_Ratings": "2024-03-07T17:01:08.232953+00:00",
+  "LastUpdate_Ratings": "2024-03-07T18:57:41.1448966+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:24.8610254+00:00"
 }
