@@ -5,7 +5,7 @@ Rating: 4.79 (Ranked 98)
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 119  (Ranked 374)  
-Sum: 974 (Ranked 286)  
+Sum: 975 (Ranked 286)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 88
 | This game has Quickly Understood Controls | 106 |
 | This game is Extremely Fun | 97 |
 | This game is Relaxing | 96 |
-| This game is Highly Recommended | 94 |
+| This game is Highly Recommended | 95 |
 | This game has Easy Combat | 93 |
 | This game has Amazing Characters | 90 |
 | This game has Diverse Characters | 86 |
@@ -165,3 +165,4 @@ Diff (max vs sum): 88
 | 2024-03-04 | 4.79 | - | 119 | 971 |
 | 2024-03-05 | 4.79 | - | 119 | 972 |
 | 2024-03-06 | 4.79 | - | 119 | 974 |
+| 2024-03-07 | 4.79 | - | 119 | 975 |

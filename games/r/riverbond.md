@@ -349,8 +349,8 @@ Completed: 544 (0.10%) (Ranked 336)
 | 2024-01-27 | 536,476 | 530 |
 | 2024-02-22 | 538,140 | 544 |
 ## Awards
-Max (Relaxing): 22  (Ranked 592)  
-Sum: 22 (Ranked 595)  
+Max (Relaxing): 22  (Ranked 593)  
+Sum: 22 (Ranked 596)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
