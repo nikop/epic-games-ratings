@@ -4,7 +4,7 @@
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 951,
   "Ranking_Popularity": 170,
-  "Ranking_PopularitySum": 131,
+  "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -10063,10 +10063,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 7424,
       "NumberOfAwardsMax": 1037
+    },
+    {
+      "Time": "2024-03-07T05:59:50.7527841+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 7427,
+      "NumberOfAwardsMax": 1037
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7424,
+  "NumberOfAwards": 7427,
   "NumberOfAwardsMax": 1037,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10080,7 +10086,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 829
+      "Count": 832
     },
     {
       "Text": "This game has Competitive Players",
@@ -10161,8 +10167,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-03-07T01:24:39.9250584+00:00",
+  "LastChanged": "2024-03-07T05:59:50.7527839+00:00",
   "LastUpdate_AppInfo": "2024-03-03T08:57:16.2502597+00:00",
-  "LastUpdate_Ratings": "2024-03-07T04:58:40.5111943+00:00",
+  "LastUpdate_Ratings": "2024-03-07T05:59:50.7527845+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:56.4023494+00:00"
 }

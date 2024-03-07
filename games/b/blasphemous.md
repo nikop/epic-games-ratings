@@ -1,7 +1,7 @@
 # Blasphemous
 [Store](https://store.epicgames.com/en-US/p/blasphemous)  
 [View Rawdata](../../db/b/blasphemous.json)  
-Rating: 4.83 (Ranked 56)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 205  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 183  (Ranked 323)  
@@ -140,3 +140,4 @@ Diff (max vs sum): -125
 | 2024-02-27 | 4.83 | - | 181 | 181 |
 | 2024-02-28 | 4.83 | - | 182 | 182 |
 | 2024-03-02 | 4.83 | - | 183 | 183 |
+| 2024-03-07 | 4.82 | - | 183 | 183 |
