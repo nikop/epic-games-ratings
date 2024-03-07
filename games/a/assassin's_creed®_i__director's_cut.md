@@ -3,6 +3,13 @@
 [View Rawdata](../../db/a/assassin's_creed®_i__director's_cut.json)  
 Rating: 4.42 (Ranked 760)  
 Number of Ratings: 142  (23.09.2022)  
+## Awards
+Max (Relaxing): 20  (Ranked 604)  
+Sum: 20 (Ranked 605)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -126,3 +133,4 @@ Number of Ratings: 142  (23.09.2022)
 | 2024-01-19 | 4.42 | - | 0 | 0 |
 | 2024-01-22 | 4.43 | - | 0 | 0 |
 | 2024-02-29 | 4.42 | - | 0 | 0 |
+| 2024-03-07 | 4.42 | - | 20 | 20 |

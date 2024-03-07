@@ -3,8 +3,8 @@
   "Name": null,
   "ProductSlug": "3dmark",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 608,
-  "Ranking_PopularitySum": 608,
+  "Ranking_Popularity": 609,
+  "Ranking_PopularitySum": 609,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -213,6 +213,6 @@
   "FirstSeenRating": "2023-10-31T00:01:13.5106703+00:00",
   "LastChanged": "2024-02-27T15:57:16.6137396+00:00",
   "LastUpdate_AppInfo": "2024-03-06T10:57:12.9481329+00:00",
-  "LastUpdate_Ratings": "2024-03-07T14:57:46.5864158+00:00",
+  "LastUpdate_Ratings": "2024-03-07T15:59:32.9905269+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:22.0066293+00:00"
 }

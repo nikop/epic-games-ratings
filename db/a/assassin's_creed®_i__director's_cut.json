@@ -3,8 +3,8 @@
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
   "ProductSlug": "assassins-creed-1",
   "Ranking_Rating": 760,
-  "Ranking_Popularity": 608,
-  "Ranking_PopularitySum": 608,
+  "Ranking_Popularity": 604,
+  "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -655,12 +655,26 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-07T15:59:55.6575799+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Relaxing",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -672,8 +686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
-  "LastChanged": "2024-02-29T16:57:50.5284455+00:00",
+  "LastChanged": "2024-03-07T15:59:55.6575795+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:12.4427967+00:00",
-  "LastUpdate_Ratings": "2024-03-07T14:58:01.735297+00:00",
+  "LastUpdate_Ratings": "2024-03-07T15:59:55.6575801+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:28.3417208+00:00"
 }
