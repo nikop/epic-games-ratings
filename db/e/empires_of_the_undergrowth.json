@@ -4,7 +4,7 @@
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 179,
   "Ranking_Popularity": 466,
-  "Ranking_PopularitySum": 364,
+  "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1088,10 +1088,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 463,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-03-06T23:57:46.6209596+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 463,
+  "NumberOfAwards": 465,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1117,7 +1123,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1159,7 +1165,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1185,8 +1191,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2024-03-05T13:01:11.2577844+00:00",
+  "LastChanged": "2024-03-06T23:57:46.6209594+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:19.9315026+00:00",
-  "LastUpdate_Ratings": "2024-03-06T22:01:07.8769139+00:00",
+  "LastUpdate_Ratings": "2024-03-06T23:57:46.6209599+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:39.0585899+00:00"
 }
