@@ -2,7 +2,7 @@
   "ID": "ef233d1e2619445a887f0380266aa4b5",
   "Name": "My Pet Hooligan",
   "ProductSlug": "my-pet-hooligan-453949",
-  "Ranking_Rating": 772,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 610,
   "Ranking_PopularitySum": 610,
   "Ranking_EOS_Progress": 896,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-10-13T04:00:02.8847944+00:00",
@@ -263,6 +263,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-07T19:57:36.9908562+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -281,8 +287,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T18:57:37.0162399+00:00",
   "FirstSeenRating": "2023-10-13T04:00:02.8847941+00:00",
-  "LastChanged": "2024-02-26T14:01:05.7912903+00:00",
+  "LastChanged": "2024-03-07T19:57:36.9908561+00:00",
   "LastUpdate_AppInfo": "2024-03-06T18:57:11.3299517+00:00",
-  "LastUpdate_Ratings": "2024-03-07T17:59:51.2739148+00:00",
+  "LastUpdate_Ratings": "2024-03-07T19:57:36.9908566+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:10.8023417+00:00"
 }
