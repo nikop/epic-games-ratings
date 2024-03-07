@@ -1,7 +1,7 @@
 # Model Builder
 [Store](https://store.epicgames.com/en-US/p/model-builder-f9b456)  
 [View Rawdata](../../db/m/model_builder.json)  
-Rating: 4.14 (Ranked 1,039)  
+Rating: 4.15 (Ranked 1,030)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -127,3 +127,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-02-09 | 4.14 | 0 | 0 |
 | 2024-02-16 | 4.13 | 0 | 0 |
 | 2024-03-03 | 4.14 | 0 | 0 |
+| 2024-03-07 | 4.15 | 0 | 0 |

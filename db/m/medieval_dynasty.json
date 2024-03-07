@@ -4,7 +4,7 @@
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 310,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 369,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1398,10 +1398,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 424,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2024-03-07T13:57:29.2203562+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 425,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 424,
+  "NumberOfAwards": 425,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1439,7 +1445,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1495,8 +1501,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2024-03-07T06:00:11.6553649+00:00",
+  "LastChanged": "2024-03-07T13:57:29.220356+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:20.4137274+00:00",
-  "LastUpdate_Ratings": "2024-03-07T11:59:21.4899373+00:00",
+  "LastUpdate_Ratings": "2024-03-07T13:57:29.2203566+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:09.617243+00:00"
 }
