@@ -372,8 +372,8 @@ Completed: 7 (0.00%) (Ranked 423)
 | 2024-03-04 | 368,233 | 7 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 500)  
-Sum: 235 (Ranked 422)  
-Diff (max vs sum): 78  
+Sum: 236 (Ranked 421)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 61 |
@@ -383,7 +383,7 @@ Diff (max vs sum): 78
 | This game is Relaxing | 36 |
 | This game has Quickly Understood Controls | 33 |
 | This game has Easy Combat | 25 |
-| This game has Unique Visuals | 23 |
+| This game has Unique Visuals | 24 |
 | This game has Amazing Storytelling | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -544,3 +544,4 @@ Diff (max vs sum): 78
 | 2024-02-25 | 4.29 | 61 | 291 |
 | 2024-02-27 | 4.29 | 61 | 293 |
 | 2024-02-29 | 4.29 | 43 | 235 |
+| 2024-03-07 | 4.29 | 43 | 236 |
