@@ -53,7 +53,7 @@
 | 51 | [Remnant II®](games/r/remnant_2.md) | 8,553 | 4.71 | 206 |
 | 52 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,472 | 4.69 | 246 |
 | 53 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,439 | 4.84 | 47 |
-| 54 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 8,401 | 4.63 | 371 |
+| 53 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 8,439 | 4.63 | 371 |
 | 55 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,245 | 4.69 | 246 |
 | 56 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,155 | 4.69 | 246 |
 | 57 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,941 | 4.71 | 206 |
@@ -120,7 +120,7 @@
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,309 | 4.81 | 80 |
 | 119 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,274 | 4.41 | 772 |
 | 120 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,272 | 4.55 | 548 |
-| 121 | [Ghostrunner](games/g/ghostrunner.md) | 2,217 | 4.56 | 522 |
+| 121 | [Ghostrunner](games/g/ghostrunner.md) | 2,221 | 4.56 | 522 |
 | 122 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,172 | 4.37 | 828 |
 | 123 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,058 | 4.49 | 651 |
 | 124 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,051 | 4.55 | 548 |
@@ -154,7 +154,7 @@
 | 152 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,255 | 4.76 | 135 |
 | 153 | [EVE Online](games/e/eve_online.md) | 1,209 | 4.24 | 958 |
 | 154 | [Saints Row](games/s/saints_row.md) | 1,196 | 3.89 | 1,109 |
-| 155 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,171 | 4.65 | 331 |
+| 155 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,172 | 4.65 | 331 |
 | 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,145 | 4.46 | 691 |
 | 157 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,141 | 4.42 | 760 |
 | 158 | [Train Valley 2](games/t/train_valley_2.md) | 1,133 | 4.46 | 691 |
@@ -220,7 +220,7 @@
 | 218 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 606 | 4.66 | 310 |
 | 219 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 603 | 4.70 | 223 |
 | 220 | [Vampyr](games/v/vampyr.md) | 599 | 4.32 | 886 |
-| 221 | [Filament](games/f/filament.md) | 593 | 4.33 | 878 |
+| 221 | [Filament](games/f/filament.md) | 593 | 4.33 | 879 |
 | 222 | [Surviving Mars](games/s/surviving_mars.md) | 565 | 4.61 | 406 |
 | 223 | [Severed Steel](games/s/severed_steel.md) | 555 | 4.69 | 246 |
 | 224 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 554 | 4.40 | 787 |
@@ -286,7 +286,7 @@
 | 284 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 276 | 4.58 | 477 |
 | 285 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 271 | 4.44 | 728 |
 | 286 | [Crysis Remastered](games/c/crysis_remastered.md) | 269 | 4.43 | 751 |
-| 287 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 264 | 4.41 | 772 |
+| 287 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 265 | 4.41 | 772 |
 | 288 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 263 | 4.65 | 331 |
 | 289 | [Stranded Deep](games/s/stranded_deep.md) | 250 | 4.23 | 970 |
 | 290 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 243 | 4.58 | 477 |
@@ -420,10 +420,10 @@
 | 418 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 82 | 4.42 | 760 |
 | 419 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 81 | 4.76 | 135 |
 | 419 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 81 | 4.66 | 310 |
+| 421 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 80 | 4.54 | 562 |
 | 421 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 80 | 4.19 | 1,002 |
-| 422 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 79 | 4.56 | 522 |
-| 422 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 79 | 4.54 | 562 |
-| 422 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 79 | 4.21 | 988 |
+| 423 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 79 | 4.56 | 522 |
+| 423 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 79 | 4.21 | 988 |
 | 425 | [DEATHLOOP](games/d/deathloop.md) | 78 | 4.45 | 707 |
 | 425 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 78 | 4.31 | 894 |
 | 427 | [GigaBash](games/g/gigabash.md) | 77 | 4.51 | 612 |
@@ -525,7 +525,7 @@
 | 521 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 35 | 4.63 | 371 |
 | 521 | [DOOM (1993)](games/d/doom_(1993).md) | 35 | 4.83 | 56 |
 | 521 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 206 |
-| 521 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 35 | 4.33 | 878 |
+| 521 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 35 | 4.33 | 879 |
 | 521 | [Star Atlas](games/s/star_atlas.md) | 35 | 4.80 | 94 |
 | 528 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 958 |
 | 528 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 34 | 4.20 | 994 |
@@ -593,7 +593,7 @@
 | 588 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 21 |
 | 592 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 951 |
 | 592 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.12 | 1,047 |
-| 592 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 22 | 4.33 | 878 |
+| 592 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 22 | 4.33 | 879 |
 | 592 | [Griftlands](games/g/griftlands.md) | 22 | 4.79 | 98 |
 | 592 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,002 |
 | 592 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 477 |
