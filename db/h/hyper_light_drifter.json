@@ -2,7 +2,7 @@
   "ID": "62d6f15b1bb345f6a42585b4c8c847a0",
   "Name": "Hyper Light Drifter",
   "ProductSlug": "hyper-light-drifter",
-  "Ranking_Rating": 245,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 896,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 364,
   "RatingHistory": [
     {
@@ -509,6 +509,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-07T04:57:41.4638002+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -533,8 +539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
-  "LastChanged": "2024-02-07T20:00:52.075862+00:00",
+  "LastChanged": "2024-03-07T04:57:41.4638001+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:00.9670584+00:00",
-  "LastUpdate_Ratings": "2024-03-07T02:59:41.6102325+00:00",
+  "LastUpdate_Ratings": "2024-03-07T04:57:41.4638005+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:43.4886298+00:00"
 }

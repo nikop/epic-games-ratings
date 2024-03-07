@@ -4,7 +4,7 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 223,
   "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -759,10 +759,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 219,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-03-07T05:00:11.3181676+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 221,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 219,
+  "NumberOfAwards": 221,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -776,7 +782,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -832,8 +838,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-03-04T14:57:52.26599+00:00",
+  "LastChanged": "2024-03-07T05:00:11.3181674+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:51.6656048+00:00",
-  "LastUpdate_Ratings": "2024-03-07T03:59:47.9749927+00:00",
+  "LastUpdate_Ratings": "2024-03-07T05:00:11.3181678+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.5991533+00:00"
 }
