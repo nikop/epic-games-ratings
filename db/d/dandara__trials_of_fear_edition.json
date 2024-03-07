@@ -2,7 +2,7 @@
   "ID": "73b62f4875a248d8acc95966ce94c80f",
   "Name": "Dandara: Trials of Fear Edition",
   "ProductSlug": "dandara",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 164,
   "RatingHistory": [
     {
@@ -408,6 +408,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 53,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-03-07T02:58:12.7944132+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 53,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
@@ -433,8 +439,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
-  "LastChanged": "2024-02-11T23:59:03.1110071+00:00",
+  "LastChanged": "2024-03-07T02:58:12.7944129+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:40.6723063+00:00",
-  "LastUpdate_Ratings": "2024-03-07T01:26:28.3958423+00:00",
+  "LastUpdate_Ratings": "2024-03-07T02:58:12.7944134+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:58.4978995+00:00"
 }
