@@ -55,7 +55,7 @@
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 15 | - | - |
 | [Escape from Blackwood](games/b/b38098b4cbc9429ab4f1eac7a23cf152.md) | 2024-01-13 | 5 (1,000 XP) | 0 | - | - |
 | [Howl](games/h/howl.md) | 2024-01-23 | 16 (1,000 XP) | 4 | - | 0 |
-| [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-31 | 47 (1,000 XP) | 2 | - | - |
+| [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 2 | - | - |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 260 | 4.30 | 0 |
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 0 | 4.45 | 0 |

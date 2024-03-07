@@ -30,7 +30,6 @@
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-05-01 | 19 (1,000 XP) | 491 | - | 0 |
 | [Die Again](games/a/a3d688525a954efa8afc49bfe5464c80.md) | 2024-04-30 | 19 (1,000 XP) | 0 | - | - |
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 0 | - | - |
-| [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-31 | 47 (1,000 XP) | 2 | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-03-28 | 38 (1,000 XP) | 1 | - | - |
 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-03-27 | 38 (1,000 XP) | 1 | - | - |
@@ -45,6 +44,7 @@
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 3 | - | - |
 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 10 | - | - |
 | [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | 50 (1,000 XP) | 0 | - | - |
+| [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 2 | - | - |
 | [REVEIL](games/c/c95731cf37314e239f348c0559df8c56.md) | 2024-03-06 | 26 (1,000 XP) | 3 | - | - |
 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2024-03-05 | 36 (1,000 XP) | 0 | - | 0 |
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
@@ -749,7 +749,7 @@
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 244,702 | 4.58 | 1,519 |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 2022-08-23 | 19 (1,000 XP) | 385 | - | 0 |
-| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,396,094 | 4.45 | 68,721 |
+| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,396,094 | 4.45 | 68,991 |
 | [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 942,187 | 3.89 | 1,196 |
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 2,786 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 3,272 | 4.42 | 82 |
@@ -830,7 +830,7 @@
 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 2022-04-01 | 30 (1,000 XP) | 94 | - | 0 |
 | [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 40 (1,200 XP) | 304,959 | 4.07 | 223 |
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 2,071 | 4.44 | 31 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 575,394 | 4.89 | 9,863 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 575,394 | 4.89 | 9,870 |
 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 2022-03-18 | 31 (1,000 XP) | 0 | 4.67 | 0 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2022-03-18 | 46 (1,000 XP) | 82,659 | 4.51 | 1,068 |
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 2022-03-16 | 49 (1,000 XP) | 0 | 4.37 | 0 |
@@ -848,7 +848,7 @@
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 8,312 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 168 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 765,727 | 4.82 | 7,486 |
-| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 985,328 | 4.58 | 14,647 |
+| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 985,328 | 4.58 | 14,708 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,407,935 | 4.77 | 11,985 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 381 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 279 | - | 0 |
@@ -881,7 +881,7 @@
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 5,873 | 4.45 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,613,835 | 4.65 | 1,171 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 153,913 | 4.48 | 0 |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 520,312 | 4.69 | 8,461 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 520,312 | 4.69 | 8,472 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 25,691 | 4.31 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 5,708 | 4.43 | 32 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 116,026 | 4.54 | 31 |
@@ -923,7 +923,7 @@
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 45,012 | 4.58 | 227 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 47 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,572,170 | 4.46 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 558 (2,790 XP) | 258,641 | 4.07 | 5,898 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 558 (2,790 XP) | 258,641 | 4.07 | 5,901 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,068 | 4.73 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 369,167 | - | 0 |
@@ -953,7 +953,7 @@
 | [Old World](games/o/old_world.md) | 2020-05-05 | 358 (3,440 XP) | 17,828 | 4.65 | 237 |
 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 100,719 | 4.74 | 8,701 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 44,891 | 4.69 | 902 |
-| [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 728,751 | 4.92 | 3,669 |
+| [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 728,751 | 4.92 | 3,670 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 42,495 | 4.66 | 0 |
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 233,087 | 4.66 | 606 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 927 | 4.49 | 103 |

@@ -9,6 +9,7 @@
 | [Far Horizon](games/d/d41f47180bb94a70b3d05a31ebe89b7d.md) | 2024-03-11 | 55 (1,000 XP) | 0 | - | - |
 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 2024-03-12 | - |  | - | - |
 | [CUSTOM ORDER MAID 3D2 It's a Night Magic](games/3/309fb463378346999da2271c311cf2c2.md) | 2024-03-14 | - |  | - | - |
+| [Vacation Adventures Park Ranger 11 Collectors Edition](games/2/239440e79c1e4cbeafce12f546807def.md) | 2024-03-14 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
 | [The Warden's Paradise](games/8/829e4fae2a754b94b71476ad9cebba84.md) | 2024-03-15 | - |  | - | - |
 | [Exit: Left or Right](games/a/a4c3c3f2087744a8b43ba268837bd6f2.md) | 2024-03-15 | - |  | - | - |
@@ -25,7 +26,6 @@
 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-03-27 | 38 (1,000 XP) | 1 | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-03-28 | 38 (1,000 XP) | 1 | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
-| [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-31 | 47 (1,000 XP) | 2 | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-03-31 | - |  | - | - |
 | [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-03-31 | - |  | - | - |
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-03-31 | - |  | - | - |
@@ -62,6 +62,7 @@
 | [Withering Rooms](games/a/a9d3d11848a14f46a47ced564b521d37.md) | 2024-04-02 | - |  | - | - |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | - |  | - | - |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | - |  | - | - |
+| [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-04-05 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-04-09 | - |  | - | - |
 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 2024-04-09 | - |  | - | - |
 | [Jack Holmes: Master of Puppets](games/4/46d8d9b49fa24b2c81f648d2c30f45d1.md) | 2024-04-12 | - |  | - | - |
@@ -194,7 +195,6 @@
 | [Robobeat](games/r/robobeat.md) | 2024-12-31 | - |  | - | - |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2024-12-31 | - |  | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2024-12-31 | - |  | - | - |
-| [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-12-31 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
 | [Star Vortex](games/f/f752f0d1dba941d1934cfdb69c8e944d.md) | 2024-12-31 | - |  | - | - |
 | [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-12-31 | - |  | - | - |

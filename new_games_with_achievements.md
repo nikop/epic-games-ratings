@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 2 | - | - |
 | [REVEIL](games/c/c95731cf37314e239f348c0559df8c56.md) | 2024-03-06 | 26 (1,000 XP) | 3 | - | - |
 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2024-03-05 | 36 (1,000 XP) | 0 | - | 0 |
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
