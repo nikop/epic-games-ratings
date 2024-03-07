@@ -4,7 +4,7 @@
   "ProductSlug": "rayman-legends",
   "Ranking_Rating": 80,
   "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1558,10 +1558,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 532,
       "NumberOfAwardsMax": 411
+    },
+    {
+      "Time": "2024-03-07T12:59:33.3923317+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 552,
+      "NumberOfAwardsMax": 411
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 532,
+  "NumberOfAwards": 552,
   "NumberOfAwardsMax": 411,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1606,6 +1612,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 20
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1619,8 +1631,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2024-03-06T16:00:03.8987354+00:00",
+  "LastChanged": "2024-03-07T12:59:33.3923315+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:50.8640867+00:00",
-  "LastUpdate_Ratings": "2024-03-07T11:01:52.9115432+00:00",
+  "LastUpdate_Ratings": "2024-03-07T12:59:33.3923321+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:37.4239269+00:00"
 }
