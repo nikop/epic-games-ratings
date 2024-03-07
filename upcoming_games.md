@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | - |  | - | - |
 | [Getting There](games/d/dfceea48e2974b4aafb5e5e76e7ed1c6.md) | 2024-03-09 | - |  | - | - |
 | [Far Horizon](games/d/d41f47180bb94a70b3d05a31ebe89b7d.md) | 2024-03-11 | 55 (1,000 XP) | 0 | - | - |
 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 2024-03-12 | - |  | - | - |
@@ -50,6 +49,7 @@
 | [Stories from the Outbreak](games/5/54b2781b490444debc7739e562b05291.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-31 | - |  | - | - |
+| [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-03-31 | - |  | - | - |
 | [TRIBES 3: Rivals](games/4/41f54b0e3988413c921e4a21cdb15172.md) | 2024-03-31 | - |  | - | - |
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | - |  | - | - |
 | [Universe Has No Favorites](games/f/fbce8614801c4fb7bf5900270c5b47d8.md) | 2024-03-31 | - |  | - | - |
