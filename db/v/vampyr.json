@@ -4,7 +4,7 @@
   "ProductSlug": "vampyr",
   "Ranking_Rating": 887,
   "Ranking_Popularity": 220,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1607,10 +1607,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 827,
       "NumberOfAwardsMax": 599
+    },
+    {
+      "Time": "2024-03-07T01:24:27.9950863+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 828,
+      "NumberOfAwardsMax": 599
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 827,
+  "NumberOfAwards": 828,
   "NumberOfAwardsMax": 599,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1636,7 +1642,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1680,8 +1686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2024-03-06T19:00:36.3744078+00:00",
+  "LastChanged": "2024-03-07T01:24:27.9950862+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:28.2892066+00:00",
-  "LastUpdate_Ratings": "2024-03-06T23:57:18.2370577+00:00",
+  "LastUpdate_Ratings": "2024-03-07T01:24:27.9950867+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:54.9740693+00:00"
 }
