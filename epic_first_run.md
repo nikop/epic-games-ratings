@@ -5,7 +5,6 @@
 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-31 | - |  | - | - |
 | [My Corp Cargo Simulator](games/b/b8389b9b44074b9ba64a882ac166bb18.md) | 2099-01-01 | - |  | - | - |
 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 2023-12-07 | 5 (1,000 XP) | 65 | - | 0 |
-| [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2099-01-01 | - |  | - | - |
 | [DEPRISION](games/8/847d4e731fb146a590720e393f524df7.md) | 2025-12-31 | - |  | - | - |
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2099-01-01 | - |  | - | - |
