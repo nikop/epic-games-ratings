@@ -3,8 +3,8 @@
   "Name": "Gods Unchained",
   "ProductSlug": "gods-unchained-9b2cb5",
   "Ranking_Rating": 878,
-  "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -323,11 +323,17 @@
       "Rating": 4.33,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-03-08T15:00:02.9680346+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -340,7 +346,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -355,8 +361,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-03-05T11:57:43.3434476+00:00",
+  "LastChanged": "2024-03-08T15:00:02.9680346+00:00",
   "LastUpdate_AppInfo": "2024-03-07T22:57:11.5079823+00:00",
-  "LastUpdate_Ratings": "2024-03-08T13:59:00.6464394+00:00",
+  "LastUpdate_Ratings": "2024-03-08T15:00:02.9680349+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.8310351+00:00"
 }

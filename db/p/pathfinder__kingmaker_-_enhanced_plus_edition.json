@@ -7950,10 +7950,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 9616,
       "NumberOfAwardsMax": 3528
+    },
+    {
+      "Time": "2024-03-08T14:58:30.0713351+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 9618,
+      "NumberOfAwardsMax": 3528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9616,
+  "NumberOfAwards": 9618,
   "NumberOfAwardsMax": 3528,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8009,7 +8015,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 419
+      "Count": 420
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8021,7 +8027,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 237
+      "Count": 238
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8047,8 +8053,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2024-03-07T23:58:16.2912913+00:00",
+  "LastChanged": "2024-03-08T14:58:30.0713349+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:18.5425236+00:00",
-  "LastUpdate_Ratings": "2024-03-08T13:01:43.0569535+00:00",
+  "LastUpdate_Ratings": "2024-03-08T14:58:30.0713356+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:27.2018405+00:00"
 }

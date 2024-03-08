@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 205)  
 ## Awards
-Max (Great for Beginners): 29  (Ranked 555)  
+Max (Great for Beginners): 29  (Ranked 554)  
 Sum: 118 (Ranked 483)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |

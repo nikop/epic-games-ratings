@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 370,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 188,
+  "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -5587,10 +5587,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 3123,
       "NumberOfAwardsMax": 1912
+    },
+    {
+      "Time": "2024-03-08T15:00:35.8694369+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3130,
+      "NumberOfAwardsMax": 1912
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3123,
+  "NumberOfAwards": 3130,
   "NumberOfAwardsMax": 1912,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5628,7 +5634,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 137
+      "Count": 140
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5646,7 +5652,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 135
+      "Count": 138
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5664,7 +5670,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 104
+      "Count": 105
     }
   ],
   "EOS_Progressed": 0,
@@ -5678,8 +5684,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-03-07T22:59:44.9816706+00:00",
+  "LastChanged": "2024-03-08T15:00:35.8694367+00:00",
   "LastUpdate_AppInfo": "2024-03-03T08:57:17.4628599+00:00",
-  "LastUpdate_Ratings": "2024-03-08T13:59:38.2726328+00:00",
+  "LastUpdate_Ratings": "2024-03-08T15:00:35.8694374+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:05.9377563+00:00"
 }

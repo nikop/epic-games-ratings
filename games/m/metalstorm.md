@@ -3,9 +3,9 @@
 [View Rawdata](../../db/m/metalstorm.json)  
 Rating: 4.42 (Ranked 759)  
 ## Awards
-Max (Great for Quick Sessions): 28  (Ranked 558)  
-Sum: 51 (Ranked 538)  
-Diff (max vs sum): 20  
+Max (Great for Quick Sessions): 28  (Ranked 559)  
+Sum: 51 (Ranked 537)  
+Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 28 |
