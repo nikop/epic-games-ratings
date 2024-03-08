@@ -4,7 +4,7 @@
 Rating: 4.60 (Ranked 440)  
 ## Awards
 Max (Great for Quick Sessions): 126  (Ranked 369)  
-Sum: 829 (Ranked 299)  
+Sum: 831 (Ranked 299)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 70
 | This game is Educational | 107 |
 | This game has Competitive Players | 91 |
 | This game is Highly Recommended | 86 |
-| This game has Quickly Understood Controls | 81 |
+| This game has Quickly Understood Controls | 83 |
 | This game has a Competitive Community | 78 |
 | This game has Challenging Combat | 76 |
 | This game has Amazing Storytelling | 72 |
