@@ -7,7 +7,7 @@
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 289,181 | 4.88 | 16 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 223,257 | 4.18 | 1,010 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 157,202 | 4.51 | 613 |
-| 8 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 154,929 | 4.68 | 274 |
+| 8 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 155,068 | 4.68 | 274 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 129,029 | 4.69 | 245 |
 | 10 | [VALORANT](games/v/valorant.md) | 103,289 | 4.51 | 613 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 68,991 | 4.45 | 708 |
@@ -81,14 +81,14 @@
 | 79 | [League of Legends](games/l/league_of_legends.md) | 5,714 | 4.20 | 994 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,693 | 4.56 | 522 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,446 | 4.59 | 461 |
-| 82 | [God of War](games/g/god_of_war.md) | 5,327 | 4.87 | 21 |
+| 82 | [God of War](games/g/god_of_war.md) | 5,333 | 4.87 | 21 |
 | 83 | [SMITE](games/s/smite.md) | 5,305 | 4.42 | 760 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,270 | 4.57 | 508 |
-| 85 | [Shop Titans](games/s/shop_titans.md) | 5,055 | 4.00 | 1,080 |
+| 85 | [Shop Titans](games/s/shop_titans.md) | 5,057 | 4.00 | 1,080 |
 | 86 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,921 | 4.70 | 222 |
 | 87 | [MultiVersus](games/m/multiversus.md) | 4,754 | 4.56 | 522 |
 | 88 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,680 | 4.70 | 222 |
-| 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,624 | 4.65 | 331 |
+| 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,626 | 4.65 | 331 |
 | 90 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,567 | 4.36 | 841 |
 | 91 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,490 | 4.68 | 274 |
 | 92 | [Days Gone](games/d/days_gone.md) | 4,435 | 4.68 | 274 |
@@ -190,8 +190,8 @@
 | 188 | [Brawlhalla](games/b/brawlhalla.md) | 870 | 4.59 | 461 |
 | 189 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 846 | 4.74 | 166 |
 | 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 837 | 4.67 | 292 |
-| 191 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 835 | 4.21 | 988 |
-| 192 | [Subnautica](games/s/subnautica.md) | 821 | 4.85 | 39 |
+| 191 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 836 | 4.21 | 988 |
+| 192 | [Subnautica](games/s/subnautica.md) | 822 | 4.85 | 39 |
 | 193 | [Neverwinter](games/n/neverwinter.md) | 813 | 4.29 | 908 |
 | 193 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 813 | 4.60 | 440 |
 | 195 | [Core](games/c/core.md) | 799 | 4.35 | 853 |
@@ -373,10 +373,10 @@
 | 371 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 124 | 3.85 | 1,115 |
 | 372 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 121 | 4.43 | 750 |
 | 373 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 120 | 4.50 | 634 |
+| 374 | [F1® 23](games/f/f1®_23_standard_edition.md) | 119 | 4.65 | 331 |
 | 374 | [Faeria](games/f/faeria.md) | 119 | 4.45 | 708 |
 | 374 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 119 | 4.79 | 98 |
 | 374 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 119 | 4.58 | 478 |
-| 377 | [F1® 23](games/f/f1®_23_standard_edition.md) | 118 | 4.65 | 331 |
 | 378 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 117 | 4.44 | 728 |
 | 379 | [Black Book](games/b/black_book.md) | 116 | 4.64 | 351 |
 | 380 | [Barony](games/b/barony.md) | 113 | 4.73 | 179 |
