@@ -4,7 +4,7 @@
   "ProductSlug": "void-bastards",
   "Ranking_Rating": 440,
   "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 463,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -767,10 +767,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 161,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-03-07T23:58:04.2351644+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 162,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 161,
+  "NumberOfAwards": 162,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -814,7 +820,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -828,8 +834,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2024-02-19T07:01:22.2866154+00:00",
+  "LastChanged": "2024-03-07T23:58:04.2351643+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:48.9474728+00:00",
-  "LastUpdate_Ratings": "2024-03-07T22:01:19.1725842+00:00",
+  "LastUpdate_Ratings": "2024-03-07T23:58:04.2351649+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:52.5075224+00:00"
 }

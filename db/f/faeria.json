@@ -2,7 +2,7 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "ProductSlug": "faeria",
-  "Ranking_Rating": 707,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 896,
@@ -909,10 +909,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 453,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2024-03-07T23:58:46.4836616+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 453,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -968,7 +974,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has a Competitive Community",
@@ -988,8 +994,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2024-03-04T13:57:41.1286312+00:00",
+  "LastChanged": "2024-03-07T23:58:46.4836615+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:09.7385466+00:00",
-  "LastUpdate_Ratings": "2024-03-07T22:57:41.6482931+00:00",
+  "LastUpdate_Ratings": "2024-03-07T23:58:46.483662+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:19.7144446+00:00"
 }
