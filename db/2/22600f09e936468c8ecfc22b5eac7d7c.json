@@ -3,7 +3,7 @@
   "Name": "Prince of Persia The Lost Crown",
   "ProductSlug": "prince-of-persia-the-lost-crown",
   "Ranking_Rating": 135,
-  "Ranking_Popularity": 212,
+  "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -811,18 +811,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 848,
       "NumberOfAwardsMax": 626
+    },
+    {
+      "Time": "2024-03-08T19:58:01.0695752+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 856,
+      "NumberOfAwardsMax": 634
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 848,
-  "NumberOfAwardsMax": 626,
+  "NumberOfAwards": 856,
+  "NumberOfAwardsMax": 634,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 626
+      "Count": 634
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -879,8 +885,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-18T05:58:12.1267938+00:00",
   "FirstSeenRating": "2024-01-19T10:59:44.5935852+00:00",
-  "LastChanged": "2024-03-08T14:00:47.2339107+00:00",
+  "LastChanged": "2024-03-08T19:58:01.069575+00:00",
   "LastUpdate_AppInfo": "2024-03-05T12:58:52.9581641+00:00",
-  "LastUpdate_Ratings": "2024-03-08T18:00:33.0179789+00:00",
+  "LastUpdate_Ratings": "2024-03-08T19:58:01.0695754+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:20.2687691+00:00"
 }
