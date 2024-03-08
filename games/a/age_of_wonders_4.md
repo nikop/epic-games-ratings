@@ -318,8 +318,8 @@ Completed: 9 (0.12%) (Ranked 325)
 | 2024-01-27 | 7,306 | 9 |
 ## Awards
 Max (Diverse Characters): 56  (Ranked 463)  
-Sum: 347 (Ranked 385)  
-Diff (max vs sum): 78  
+Sum: 348 (Ranked 384)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 56 |
@@ -332,7 +332,7 @@ Diff (max vs sum): 78
 | This game has Amazing Storytelling | 25 |
 | This game is Relaxing | 23 |
 | This game has Amazing Characters | 22 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -459,3 +459,4 @@ Diff (max vs sum): 78
 | 2024-03-01 | 4.64 | 56 | 343 |
 | 2024-03-02 | 4.64 | 56 | 346 |
 | 2024-03-07 | 4.64 | 56 | 347 |
+| 2024-03-08 | 4.64 | 56 | 348 |
