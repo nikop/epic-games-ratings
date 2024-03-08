@@ -1,7 +1,7 @@
 # Nightingale
 [Store](https://store.epicgames.com/en-US/p/nightingale)  
 [View Rawdata](../../db/n/nightingale.json)  
-Rating: 4.25 (Ranked 950)  
+Rating: 4.26 (Ranked 943)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -18,3 +18,4 @@ Rating: 4.25 (Ranked 950)
 | 2024-03-03 | 4.28 | 0 | 0 |
 | 2024-03-05 | 4.27 | 0 | 0 |
 | 2024-03-07 | 4.27 | 0 | 0 |
+| 2024-03-08 | 4.26 | 0 | 0 |

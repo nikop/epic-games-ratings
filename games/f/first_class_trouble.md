@@ -3,8 +3,8 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.47 (Ranked 679)  
 ## Awards
-Max (Great for Quick Sessions): 156  (Ranked 348)  
-Sum: 847 (Ranked 296)  
+Max (Great for Quick Sessions): 156  (Ranked 349)  
+Sum: 847 (Ranked 297)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |

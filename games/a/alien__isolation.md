@@ -4,8 +4,8 @@
 Rating: 4.61 (Ranked 405)  
 Number of Ratings: 5,222  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 143  (Ranked 353)  
-Sum: 1,041 (Ranked 279)  
+Max (Highly Recommended): 143  (Ranked 354)  
+Sum: 1,041 (Ranked 280)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |

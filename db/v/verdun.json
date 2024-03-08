@@ -4,7 +4,7 @@
   "ProductSlug": "verdun",
   "Ranking_Rating": 583,
   "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 295,
+  "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 28,
@@ -33746,6 +33746,6 @@
   "LastChanged": "2024-03-07T10:58:45.729426+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:49.031542+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:21.3073971+00:00",
-  "LastUpdate_Ratings": "2024-03-08T02:59:34.2832239+00:00",
+  "LastUpdate_Ratings": "2024-03-08T04:57:32.2309194+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:49.031692+00:00"
 }
