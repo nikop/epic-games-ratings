@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 1054,
+  "Ranking_Rating": 1053,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 108,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.1,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -2239,10 +2239,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 638,
       "NumberOfAwardsMax": 163
+    },
+    {
+      "Time": "2024-03-08T21:57:21.6765869+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 638,
+  "NumberOfAwards": 640,
   "NumberOfAwardsMax": 163,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2262,7 +2268,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 82
+      "Count": 84
     },
     {
       "Text": "This game has Unique Visuals",
@@ -18908,9 +18914,9 @@
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-03-08T03:57:54.6149+00:00",
+  "LastChanged": "2024-03-08T21:57:21.6765868+00:00",
   "LastChanged_Achievements": "2024-03-04T23:05:27.0184052+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:45.0426089+00:00",
-  "LastUpdate_Ratings": "2024-03-08T19:59:19.5064625+00:00",
+  "LastUpdate_Ratings": "2024-03-08T21:57:21.6765872+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:05:27.018512+00:00"
 }
