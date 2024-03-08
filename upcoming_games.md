@@ -113,6 +113,7 @@
 | [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-06-30 | - |  | - | - |
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
+| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-07-25 | - |  | - | - |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-07-29 | 33 (1,000 XP) | 0 | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
@@ -207,6 +208,7 @@
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2024-12-31 | - |  | - | - |
 | [Train Valley World](games/f/f68e8934386448ed8b280c3eb0f8c5a4.md) | 2024-12-31 | - |  | - | - |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | 2024-12-31 | - |  | - | - |
+| [Unmasked: An Inner Journey](games/7/733ca16d97244408b857bdcc9e4b6e3b.md) | 2024-12-31 | - |  | - | - |
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | 2024-12-31 | - |  | - | - |
 | [VED](games/v/ved.md) | 2024-12-31 | - |  | - | - |
 | [Wanderer's Sigil: Dice-Fueled Adventure](games/7/74d48dd68be249aab319a2f9bca2dc0e.md) | 2024-12-31 | - |  | - | - |
@@ -566,7 +568,6 @@
 | [Escape The Loop](games/e/escape_the_loop.md) | 2099-01-02 | - |  | - | - |
 | [Esse Proxy](games/e/esse_proxy.md) | 2099-01-02 | - |  | - | - |
 | [Exotic Cars VI](games/e/exotic_cars_vi.md) | 2099-01-02 | - |  | - | - |
-| [Frostpunk 2](games/f/frostpunk_2.md) | 2099-01-02 | - |  | - | - |
 | [GALAHAD 3093](games/g/galahad_3093.md) | 2099-01-02 | - |  | - | - |
 | [Read Only Memories: NEURODIVER](games/r/read_only_memories__neurodiver.md) | 2099-01-02 | - |  | - | - |
 | [REPLACED](games/r/replaced.md) | 2099-01-02 | - |  | - | - |
