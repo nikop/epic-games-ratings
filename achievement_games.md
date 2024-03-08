@@ -560,7 +560,7 @@
 | [Island Cities](games/i/island_cities.md) | 2023-04-27 | 22 (1,000 XP) | 926 | - | 0 |
 | [EBOLA 3](games/e/ebola_3.md) | 2023-04-26 | 50 (1,000 XP) | 477 | - | 0 |
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,226 | - | 0 |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 5,552 | 4.12 | 53 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 5,552 | 4.13 | 53 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 67 | - | 0 |
 | [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 51 (1,150 XP) | 825,437 | 4.54 | 12,066 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
@@ -638,7 +638,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 17,148 | 4.53 | 24 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 4,972 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 642 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 393,133 | 4.75 | 35,428 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 393,133 | 4.75 | 35,468 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 186 | - | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 43,660 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 4,064 | - | 0 |
@@ -937,7 +937,7 @@
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,069,855 | 4.68 | 155,068 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,333 | 4.86 | 47 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 48,023 | 4.65 | 416 |
-| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,238,669 | 4.56 | 2,221 |
+| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,238,669 | 4.56 | 2,228 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 51,334 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,252 | 4.03 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 464,868 | 4.63 | 68 |
