@@ -2,7 +2,7 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 668,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 896,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -12467,24 +12467,30 @@
       "Rating": 4.48,
       "NumberOfAwards": 13771,
       "NumberOfAwardsMax": 3616
+    },
+    {
+      "Time": "2024-03-08T12:59:38.3498908+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 13797,
+      "NumberOfAwardsMax": 3629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13771,
-  "NumberOfAwardsMax": 3616,
+  "NumberOfAwards": 13797,
+  "NumberOfAwardsMax": 3629,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3616
+      "Count": 3629
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2711
+      "Count": 2719
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12556,7 +12562,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 911
+      "Count": 916
     }
   ],
   "EOS_Progressed": 0,
@@ -12571,8 +12577,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2024-03-08T08:57:58.871793+00:00",
+  "LastChanged": "2024-03-08T12:59:38.3498902+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:43.9467783+00:00",
-  "LastUpdate_Ratings": "2024-03-08T11:00:23.2396747+00:00",
+  "LastUpdate_Ratings": "2024-03-08T12:59:38.3498915+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:32.2881192+00:00"
 }
