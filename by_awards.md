@@ -65,7 +65,7 @@
 | 63 | [Sifu](games/s/sifu.md) | 7,486 | 4.82 | 69 |
 | 64 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 7,391 | 4.49 | 652 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,143 | 4.66 | 310 |
-| 66 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,837 | 4.58 | 478 |
+| 66 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,840 | 4.58 | 478 |
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,826 | 4.82 | 69 |
 | 68 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 760 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,609 | 4.67 | 292 |
@@ -188,7 +188,7 @@
 | 186 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 902 | 4.69 | 245 |
 | 187 | [Frostpunk](games/f/frostpunk.md) | 893 | 4.74 | 166 |
 | 188 | [Brawlhalla](games/b/brawlhalla.md) | 870 | 4.59 | 461 |
-| 189 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 846 | 4.74 | 166 |
+| 189 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 847 | 4.74 | 166 |
 | 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 837 | 4.67 | 292 |
 | 191 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 836 | 4.21 | 988 |
 | 192 | [Subnautica](games/s/subnautica.md) | 822 | 4.85 | 39 |
@@ -579,33 +579,34 @@
 | 571 | [Void Bastards](games/v/void_bastards.md) | 26 | 4.60 | 440 |
 | 578 | [DEMON'S TILT](games/d/demon's_tilt.md) | 25 | 4.53 | 583 |
 | 578 | [Metalstorm](games/m/metalstorm.md) | 25 | 4.43 | 750 |
+| 578 | [Nightingale](games/n/nightingale.md) | 25 | 4.26 | 943 |
 | 578 | [Solar Ash](games/s/solar_ash.md) | 25 | 4.65 | 331 |
 | 578 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 25 | 4.55 | 548 |
 | 578 | [Torchlight](games/t/torchlight.md) | 25 | 4.35 | 853 |
 | 578 | [Yooka-Laylee](games/y/yooka-laylee.md) | 25 | 4.25 | 951 |
-| 584 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 24 | 4.76 | 135 |
-| 584 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 24 | 4.88 | 16 |
-| 584 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 24 | 4.53 | 583 |
-| 584 | [Rise of Industry](games/r/rise_of_industry.md) | 24 | 4.26 | 943 |
-| 584 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 508 |
-| 589 | [Mortal Shell](games/m/mortal_shell.md) | 23 | 4.27 | 938 |
-| 589 | [Murder by Numbers](games/m/murder_by_numbers.md) | 23 | 4.28 | 924 |
-| 589 | [Sail Forth](games/s/sail_forth.md) | 23 | 4.40 | 787 |
-| 589 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 21 |
-| 593 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 951 |
-| 593 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.12 | 1,047 |
-| 593 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 22 | 4.33 | 878 |
-| 593 | [Griftlands](games/g/griftlands.md) | 22 | 4.79 | 98 |
-| 593 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,002 |
-| 593 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 478 |
-| 593 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 679 |
-| 600 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 21 | 4.30 | 901 |
-| 600 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 370 |
-| 600 | [Aztez](games/a/aztez.md) | 21 | 4.54 | 563 |
-| 600 | [Figment](games/f/figment.md) | 21 | 4.48 | 668 |
-| 600 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.65 | 331 |
-| 605 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 20 | 4.42 | 760 |
-| 605 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 20 | 4.67 | 292 |
-| 605 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 20 | 4.37 | 827 |
-| 605 | [Outer Wilds](games/o/outer_wilds.md) | 20 | 4.90 | 7 |
-| 605 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 20 | 4.68 | 274 |
+| 585 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 24 | 4.76 | 135 |
+| 585 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 24 | 4.88 | 16 |
+| 585 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 24 | 4.53 | 583 |
+| 585 | [Rise of Industry](games/r/rise_of_industry.md) | 24 | 4.26 | 943 |
+| 585 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 508 |
+| 590 | [Mortal Shell](games/m/mortal_shell.md) | 23 | 4.27 | 938 |
+| 590 | [Murder by Numbers](games/m/murder_by_numbers.md) | 23 | 4.28 | 924 |
+| 590 | [Sail Forth](games/s/sail_forth.md) | 23 | 4.40 | 787 |
+| 590 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 21 |
+| 594 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 951 |
+| 594 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.12 | 1,047 |
+| 594 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 22 | 4.33 | 878 |
+| 594 | [Griftlands](games/g/griftlands.md) | 22 | 4.79 | 98 |
+| 594 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,002 |
+| 594 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 478 |
+| 594 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 679 |
+| 601 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 21 | 4.30 | 901 |
+| 601 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 370 |
+| 601 | [Aztez](games/a/aztez.md) | 21 | 4.54 | 563 |
+| 601 | [Figment](games/f/figment.md) | 21 | 4.48 | 668 |
+| 601 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.65 | 331 |
+| 606 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 20 | 4.42 | 760 |
+| 606 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 20 | 4.67 | 292 |
+| 606 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 20 | 4.37 | 827 |
+| 606 | [Outer Wilds](games/o/outer_wilds.md) | 20 | 4.90 | 7 |
+| 606 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 20 | 4.68 | 274 |

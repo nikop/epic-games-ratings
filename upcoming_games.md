@@ -529,6 +529,7 @@
 | [Tokyo Waning Moon](games/0/098b24c8da10404abc327b0e1604ee96.md) | 2099-01-01 | - |  | - | - |
 | [Tormented Souls 2](games/9/98a33c69dd4c462a877089ca59716a52.md) | 2099-01-01 | - |  | - | - |
 | [Tracks of Thought](games/t/tracks_of_thought.md) | 2099-01-01 | - |  | - | - |
+| [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2099-01-01 | - |  | - | - |
 | [Truck World Australia](games/t/truck_world_australia.md) | 2099-01-01 | - |  | - | - |
 | [Twinsen's Little Big Adventure 2 Classic](games/7/7dbe89fd531443d58408a4e2952ffa6b.md) | 2099-01-01 | - |  | - | - |
 | [Twinsen's Little Big Adventure 2 Remastered](games/t/twinsen's_little_big_adventure_2_remastered.md) | 2099-01-01 | - |  | - | - |
