@@ -3,8 +3,8 @@
   "Name": "SHRAPNEL",
   "ProductSlug": "shrapnel-e59542",
   "Ranking_Rating": 1135,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 466,
+  "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.41,
+  "Rating": 3.43,
   "RatingHistory": [
     {
       "Time": "2024-02-09T02:59:46.6661194+00:00",
@@ -203,18 +203,24 @@
       "Rating": 3.41,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-03-08T19:00:55.168574+00:00",
+      "Rating": 3.43,
+      "NumberOfAwards": 146,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 72,
-  "NumberOfAwardsMax": 44,
-  "MaxAwardTitle": "Challenging Combat",
+  "NumberOfAwards": 146,
+  "NumberOfAwardsMax": 55,
+  "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 44
+      "Count": 53
     },
     {
       "Text": "This game has Unique Visuals",
@@ -226,7 +232,13 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 28
+      "Count": 38
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 55
     }
   ],
   "EOS_Progressed": 0,
@@ -241,8 +253,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-07T21:57:27.054712+00:00",
   "FirstSeenRating": "2024-02-09T02:59:46.6661192+00:00",
-  "LastChanged": "2024-03-07T18:57:41.144896+00:00",
+  "LastChanged": "2024-03-08T19:00:55.1685738+00:00",
   "LastUpdate_AppInfo": "2024-03-08T09:57:13.6800772+00:00",
-  "LastUpdate_Ratings": "2024-03-08T17:58:59.1539708+00:00",
+  "LastUpdate_Ratings": "2024-03-08T19:00:55.1685743+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:24.8610254+00:00"
 }

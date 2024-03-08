@@ -4,7 +4,7 @@
   "ProductSlug": "overcooked",
   "Ranking_Rating": 312,
   "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 473,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -696,6 +696,6 @@
   "FirstSeen": "2022-07-22T20:32:20.7350058+00:00",
   "LastChanged": "2024-02-20T01:37:10.6142267+00:00",
   "LastUpdate_AppInfo": "2024-03-03T09:57:19.0384861+00:00",
-  "LastUpdate_Ratings": "2024-03-08T17:00:40.6671591+00:00",
+  "LastUpdate_Ratings": "2024-03-08T18:57:55.1915171+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:15.9080223+00:00"
 }
