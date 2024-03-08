@@ -355,7 +355,7 @@
 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 69 | - | 0 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 4 | - | - |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 69,167 | 4.64 | 116 |
-| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 95,544 | 4.10 | 163 |
+| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 95,544 | 4.11 | 163 |
 | [Sword and Fairy Inn 2](games/5/511787884bc344e080cf5ae502e8092d.md) | 2023-09-06 | 50 (1,000 XP) | 1 | - | 0 |
 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 2023-09-05 | 17 (1,000 XP) | 4 | - | 0 |
 | [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 2099-01-01 | 14 (1,000 XP) | 4 | - | - |

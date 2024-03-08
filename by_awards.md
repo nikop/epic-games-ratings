@@ -76,7 +76,7 @@
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,067 | 4.64 | 351 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 6,054 | 4.29 | 910 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,970 | 4.85 | 39 |
-| 77 | [Prey](games/p/prey.md) | 5,942 | 4.63 | 370 |
+| 77 | [Prey](games/p/prey.md) | 5,944 | 4.63 | 370 |
 | 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,905 | 4.07 | 1,066 |
 | 79 | [League of Legends](games/l/league_of_legends.md) | 5,723 | 4.20 | 995 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,698 | 4.56 | 524 |
@@ -112,10 +112,10 @@
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,838 | 4.79 | 98 |
 | 111 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 2,588 | 4.53 | 584 |
 | 112 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,564 | 4.77 | 121 |
-| 113 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,054 |
+| 113 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,055 |
 | 114 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,436 | 4.71 | 206 |
 | 115 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,397 | 4.63 | 370 |
-| 116 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,357 | 4.67 | 292 |
+| 116 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,358 | 4.67 | 292 |
 | 117 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,347 | 4.76 | 135 |
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,313 | 4.81 | 80 |
 | 119 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,274 | 4.41 | 774 |
@@ -137,9 +137,9 @@
 | 135 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,822 | 4.86 | 29 |
 | 136 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,807 | 4.76 | 135 |
 | 137 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,802 | 4.56 | 524 |
-| 138 | [Conan Exiles](games/c/conan_exiles.md) | 1,766 | 4.54 | 563 |
+| 138 | [Conan Exiles](games/c/conan_exiles.md) | 1,770 | 4.54 | 563 |
 | 139 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,730 | 4.79 | 98 |
-| 140 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,649 | 4.87 | 21 |
+| 140 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,653 | 4.87 | 21 |
 | 141 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 1,532 | 4.82 | 69 |
 | 142 | [Ring of Pain](games/r/ring_of_pain.md) | 1,519 | 4.58 | 479 |
 | 143 | [XCOM® 2](games/x/xcom®_2.md) | 1,516 | 4.55 | 548 |
@@ -167,7 +167,7 @@
 | 165 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,068 | 4.51 | 614 |
 | 166 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,064 | 4.54 | 563 |
 | 167 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,059 | 4.54 | 563 |
-| 168 | [Ooblets](games/o/ooblets.md) | 1,055 | 4.88 | 16 |
+| 168 | [Ooblets](games/o/ooblets.md) | 1,056 | 4.88 | 16 |
 | 169 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,043 | 4.56 | 524 |
 | 170 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,038 | 4.25 | 952 |
 | 171 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,036 | 4.49 | 652 |
@@ -249,8 +249,8 @@
 | 247 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 408 | 4.30 | 901 |
 | 248 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 404 | 4.61 | 405 |
 | 249 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 401 | 4.54 | 563 |
-| 250 | [Dead Space](games/d/dead_space.md) | 393 | 4.72 | 195 |
-| 251 | [The Outlast Trials](games/t/the_outlast_trials.md) | 389 | 4.65 | 332 |
+| 250 | [The Outlast Trials](games/t/the_outlast_trials.md) | 395 | 4.65 | 332 |
+| 251 | [Dead Space](games/d/dead_space.md) | 393 | 4.72 | 195 |
 | 252 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 383 | 3.99 | 1,084 |
 | 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 374 | 4.61 | 405 |
 | 254 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 371 | 4.72 | 195 |
@@ -341,7 +341,7 @@
 | 339 | [Encased](games/e/encased.md) | 171 | 4.34 | 864 |
 | 340 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 169 | 4.38 | 820 |
 | 341 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 166 | 4.77 | 121 |
-| 342 | [SYNCED](games/s/synced.md) | 163 | 4.10 | 1,054 |
+| 342 | [SYNCED](games/s/synced.md) | 163 | 4.11 | 1,053 |
 | 343 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 162 | 4.51 | 614 |
 | 344 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 161 | 4.52 | 597 |
 | 345 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 160 | 4.82 | 69 |
@@ -349,7 +349,7 @@
 | 346 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 158 | 4.22 | 979 |
 | 346 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 158 | 4.36 | 840 |
 | 349 | [First Class Trouble](games/f/first_class_trouble.md) | 156 | 4.47 | 680 |
-| 350 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 154 | 4.42 | 760 |
+| 349 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 156 | 4.42 | 760 |
 | 351 | [Night in the Woods](games/n/night_in_the_woods.md) | 153 | 4.73 | 178 |
 | 352 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 152 | 4.86 | 29 |
 | 353 | [Atomicrops](games/a/atomicrops.md) | 149 | 4.86 | 29 |

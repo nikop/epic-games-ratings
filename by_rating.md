@@ -16,11 +16,11 @@
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 498 | 230 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 25,447 | 20 |
 | 16 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 24 | 584 |
-| 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,055 | 168 |
+| 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,056 | 168 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 611 |
 | 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 289,650 | 5 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 611 |
-| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,649 | 140 |
+| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,653 | 140 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 787 | 196 |
 | 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,333 | 82 |
 | 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 16,156 | 26 |
@@ -195,7 +195,7 @@
 | 178 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.73 | 0 | 611 |
 | 178 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 0 | 611 |
 | 195 | [Barony](games/b/barony.md) | 4.72 | 114 | 380 |
-| 195 | [Dead Space](games/d/dead_space.md) | 4.72 | 393 | 250 |
+| 195 | [Dead Space](games/d/dead_space.md) | 4.72 | 393 | 251 |
 | 195 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 36,338 | 16 |
 | 195 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 611 |
 | 195 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 40 | 507 |
@@ -301,7 +301,7 @@
 | 292 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 611 |
 | 292 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 512 | 227 |
 | 292 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.67 | 53 | 472 |
-| 292 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,357 | 116 |
+| 292 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,358 | 116 |
 | 292 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 746 | 200 |
 | 292 | [Northgard](games/n/northgard.md) | 4.67 | 44 | 500 |
 | 292 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 611 |
@@ -347,7 +347,7 @@
 | 332 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 611 |
 | 332 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 0 | 611 |
 | 332 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 1,009 | 173 |
-| 332 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 389 | 251 |
+| 332 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 395 | 250 |
 | 332 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,626 | 89 |
 | 332 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 111 | 382 |
 | 351 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.64 | 0 | 611 |
@@ -383,7 +383,7 @@
 | 370 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 8,468 | 53 |
 | 370 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 611 |
 | 370 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 611 |
-| 370 | [Prey](games/p/prey.md) | 4.63 | 5,942 | 77 |
+| 370 | [Prey](games/p/prey.md) | 4.63 | 5,944 | 77 |
 | 370 | [RIDE 5](games/r/ride_5.md) | 4.63 | 0 | 611 |
 | 370 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 197 | 318 |
 | 370 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.63 | 0 | 611 |
@@ -566,7 +566,7 @@
 | 563 | [Anno 2070](games/a/anno_2070.md) | 4.54 | 0 | 611 |
 | 563 | [Aztez](games/a/aztez.md) | 4.54 | 22 | 595 |
 | 563 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 611 |
-| 563 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,766 | 138 |
+| 563 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,770 | 138 |
 | 563 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 12,085 | 36 |
 | 563 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 510 |
 | 563 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.54 | 37 | 520 |
@@ -770,7 +770,7 @@
 | 760 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 611 |
 | 760 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,142 | 157 |
 | 760 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.42 | 0 | 611 |
-| 760 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 154 | 350 |
+| 760 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 156 | 349 |
 | 760 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 82 | 418 |
 | 760 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 611 |
 | 774 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 267 | 288 |
@@ -1053,9 +1053,9 @@
 | 1,050 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 22 | 595 |
 | 1,050 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.12 | 0 | 611 |
 | 1,053 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 611 |
-| 1,054 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 0 | 611 |
-| 1,054 | [SYNCED](games/s/synced.md) | 4.10 | 163 | 342 |
-| 1,054 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 113 |
+| 1,053 | [SYNCED](games/s/synced.md) | 4.11 | 163 | 342 |
+| 1,055 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 0 | 611 |
+| 1,055 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 113 |
 | 1,057 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 611 |
 | 1,057 | [Obduction](games/o/obduction.md) | 4.09 | 59 | 457 |
 | 1,057 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.09 | 0 | 611 |

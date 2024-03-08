@@ -44,7 +44,7 @@
 | [The Glitch Fairy](games/4/4a95daf12c22499a874ac9d2f2b45e02.md) | 2024-02-29 | - |  | - | - |
 | [Roads of Time 2: Odyssey Collector's Edition](games/3/3ed7af6401204c9aa6b2adf9e9ea23b8.md) | 2024-02-28 | - |  | - | 0 |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | - |  | - | 0 |
-| [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-02-28 | - |  | - | - |
+| [Island Paradise](games/a/a05f85d8403843319c4b943de4106eb3.md) | 2024-02-28 | - |  | - | 0 |
 | [Spiderbro 2](games/2/250201ee43c848db8a634a87a827d370.md) | 2024-02-27 | - |  | - | - |
 | [Camp Canyonwood](games/7/760df178070b4dcbbfbe498b07b5d1a8.md) | 2024-02-26 | 44 (1,000 XP) | 25 | - | 0 |
 | [Spooky Mahjong](games/5/52c79a87370744d0aec8b50bf5d9502d.md) | 2024-02-25 | - |  | - | - |
@@ -107,5 +107,3 @@
 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 470,990 | 4.24 | 0 |
 | [Arkbound-アークバウンド-](games/9/9fd854316dca49c6bdd72da6c287e81b.md) | 2024-02-08 | - |  | - | 0 |
 | [My Island](games/8/8b87d2245d254bfc83415d4001b42a92.md) | 2024-02-08 | - |  | - | 0 |
-| [Mahjong Valentine's Day](games/f/f6228e2659d24439b49d918618787b44.md) | 2024-02-07 | - |  | - | - |
-| [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | 3.42 | 55 |
