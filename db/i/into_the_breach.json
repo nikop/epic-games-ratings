@@ -4,7 +4,7 @@
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 47,
   "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 168,
+  "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4504,10 +4504,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4226,
       "NumberOfAwardsMax": 466
+    },
+    {
+      "Time": "2024-03-08T02:57:54.9743992+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4227,
+      "NumberOfAwardsMax": 466
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4226,
+  "NumberOfAwards": 4227,
   "NumberOfAwardsMax": 466,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4521,7 +4527,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4601,8 +4607,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-03-06T13:57:28.3552391+00:00",
+  "LastChanged": "2024-03-08T02:57:54.974399+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:10.7305049+00:00",
-  "LastUpdate_Ratings": "2024-03-08T01:40:46.6417259+00:00",
+  "LastUpdate_Ratings": "2024-03-08T02:57:54.9743995+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:43.9910735+00:00"
 }
