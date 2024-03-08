@@ -3,8 +3,8 @@
   "Name": "Hypnospace Outlaw",
   "ProductSlug": "hypnospace-outlaw",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 610,
-  "Ranking_PopularitySum": 610,
+  "Ranking_Popularity": 611,
+  "Ranking_PopularitySum": 611,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -53,6 +53,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.4762469+00:00",
   "LastChanged": "2023-07-31T23:00:50.3271392+00:00",
   "LastUpdate_AppInfo": "2024-03-03T11:57:19.0740663+00:00",
-  "LastUpdate_Ratings": "2024-03-08T05:00:28.7578023+00:00",
+  "LastUpdate_Ratings": "2024-03-08T06:58:12.5020371+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:40.3175142+00:00"
 }
