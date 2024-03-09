@@ -4,7 +4,7 @@
   "ProductSlug": "torchlight-2",
   "Ranking_Rating": 461,
   "Ranking_Popularity": 161,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -2854,10 +2854,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2197,
       "NumberOfAwardsMax": 1105
+    },
+    {
+      "Time": "2024-03-09T14:58:17.5410767+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2198,
+      "NumberOfAwardsMax": 1105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2197,
+  "NumberOfAwards": 2198,
   "NumberOfAwardsMax": 1105,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2895,7 +2901,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2939,8 +2945,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2024-03-08T16:57:57.3130505+00:00",
+  "LastChanged": "2024-03-09T14:58:17.5410766+00:00",
   "LastUpdate_AppInfo": "2024-03-03T06:57:18.5339763+00:00",
-  "LastUpdate_Ratings": "2024-03-09T13:00:41.76051+00:00",
+  "LastUpdate_Ratings": "2024-03-09T14:58:17.5410771+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:35.0755631+00:00"
 }

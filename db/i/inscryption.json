@@ -4,7 +4,7 @@
   "ProductSlug": "inscryption-6b29ab",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -854,10 +854,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 435,
       "NumberOfAwardsMax": 365
+    },
+    {
+      "Time": "2024-03-09T14:58:38.3008985+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 365
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 435,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 365,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -890,6 +896,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -903,8 +915,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-02-16T21:57:08.1050749+00:00",
+  "LastChanged": "2024-03-09T14:58:38.3008983+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:15.3511082+00:00",
-  "LastUpdate_Ratings": "2024-03-09T13:01:09.8467962+00:00",
+  "LastUpdate_Ratings": "2024-03-09T14:58:38.300899+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:28.9287983+00:00"
 }

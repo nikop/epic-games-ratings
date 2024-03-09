@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
@@ -21102,10 +21102,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 579848,
       "NumberOfAwardsMax": 155243
+    },
+    {
+      "Time": "2024-03-09T14:57:36.6835965+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 580226,
+      "NumberOfAwardsMax": 155243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 579848,
+  "NumberOfAwards": 580226,
   "NumberOfAwardsMax": 155243,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21125,13 +21131,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37525
+      "Count": 37613
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 33407
+      "Count": 33511
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -21167,13 +21173,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34573
+      "Count": 34664
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34833
+      "Count": 34928
     },
     {
       "Text": "This game has a Creative Community",
@@ -54096,9 +54102,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-03-09T10:00:38.3387151+00:00",
+  "LastChanged": "2024-03-09T14:57:36.683596+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:44.2925394+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:59.7370743+00:00",
-  "LastUpdate_Ratings": "2024-03-09T12:59:46.6977615+00:00",
+  "LastUpdate_Ratings": "2024-03-09T14:57:36.6835971+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:44.2927684+00:00"
 }

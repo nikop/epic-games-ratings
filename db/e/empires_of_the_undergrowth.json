@@ -4,7 +4,7 @@
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 178,
   "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 363,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1193,6 +1193,6 @@
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
   "LastChanged": "2024-03-06T23:57:46.6209594+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:19.9315026+00:00",
-  "LastUpdate_Ratings": "2024-03-09T13:57:32.4922646+00:00",
+  "LastUpdate_Ratings": "2024-03-09T14:59:03.8486215+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:39.0585899+00:00"
 }
