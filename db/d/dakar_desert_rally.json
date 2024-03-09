@@ -4,7 +4,7 @@
   "ProductSlug": "dakar-desert-rally",
   "Ranking_Rating": 1100,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 380,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1161,10 +1161,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 367,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-03-09T17:57:56.6677804+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 367,
+  "NumberOfAwards": 372,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1214,7 +1220,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 43
+      "Count": 48
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1241,8 +1247,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-03-09T14:59:19.3963852+00:00",
+  "LastChanged": "2024-03-09T17:57:56.6677802+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:22.8379563+00:00",
-  "LastUpdate_Ratings": "2024-03-09T16:00:12.779138+00:00",
+  "LastUpdate_Ratings": "2024-03-09T17:57:56.6677809+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:30.8558319+00:00"
 }
