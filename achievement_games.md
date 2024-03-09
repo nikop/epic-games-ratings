@@ -539,7 +539,7 @@
 | [Remains](games/r/remains.md) | 2023-05-03 | 7 (1,000 XP) | 65 | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 54 (1,300 XP) | 3 | - | 0 |
 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 60 (1,400 XP) | 7,306 | 4.64 | 57 |
-| [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,422 | 3.65 | 39 |
+| [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,422 | 3.65 | 40 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 4 | - | - |
 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 2023-05-01 | 60 (1,000 XP) | 6 | - | 0 |
 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 2023-04-30 | 50 (1,000 XP) | 168 | - | 0 |
@@ -547,7 +547,7 @@
 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 2023-04-29 | 35 (1,000 XP) | 41 | - | 0 |
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 33 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 19 | - | - |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 50,602 | 4.50 | 10,926 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 50,602 | 4.50 | 10,961 |
 | [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 553,980 | 3.84 | 50 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 2,937 | 4.47 | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,003 | - | 0 |
@@ -743,7 +743,7 @@
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 48 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 519 | 4.16 | 0 |
-| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 14,897 | 4.76 | 1,256 |
+| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 14,897 | 4.76 | 1,260 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 40 (1,400 XP) | 8,711 | 4.24 | 45 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 537 | 4.54 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
