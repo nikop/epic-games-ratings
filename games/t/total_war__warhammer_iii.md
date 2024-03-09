@@ -1,11 +1,11 @@
 # Total War: WARHAMMER III
 [Store](https://store.epicgames.com/en-US/p/total-war-warhammer-3)  
 [View Rawdata](../../db/t/total_war__warhammer_iii.json)  
-Rating: 4.71 (Ranked 207)  
+Rating: 4.71 (Ranked 208)  
 Number of Ratings: 882  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 2,436  (Ranked 114)  
-Sum: 9,359 (Ranked 111)  
+Sum: 9,361 (Ranked 111)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): 3
 | This game has Quickly Understood Controls | 571 |
 | This game is Relaxing | 563 |
 | This game has Competitive Players | 544 |
-| This game has a Creative Community | 527 |
+| This game has a Creative Community | 529 |
 | This game has Obsessive Gameplay | 179 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -456,4 +456,4 @@ Diff (max vs sum): 3
 | 2024-03-06 | 4.71 | - | 2,432 | 9,326 |
 | 2024-03-07 | 4.71 | - | 2,434 | 9,332 |
 | 2024-03-08 | 4.71 | - | 2,436 | 9,348 |
-| 2024-03-09 | 4.71 | - | 2,436 | 9,359 |
+| 2024-03-09 | 4.71 | - | 2,436 | 9,361 |

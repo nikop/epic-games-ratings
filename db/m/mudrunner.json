@@ -4,7 +4,7 @@
   "ProductSlug": "mudrunner",
   "Ranking_Rating": 406,
   "Ranking_Popularity": 266,
-  "Ranking_PopularitySum": 227,
+  "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4187,10 +4187,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2110,
       "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2024-03-09T15:57:59.9784708+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2112,
+      "NumberOfAwardsMax": 323
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2110,
+  "NumberOfAwards": 2112,
   "NumberOfAwardsMax": 323,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4228,7 +4234,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 232
+      "Count": 233
     },
     {
       "Text": "This game is Educational",
@@ -4240,7 +4246,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 248
+      "Count": 249
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -4272,8 +4278,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-03-08T08:59:57.523263+00:00",
+  "LastChanged": "2024-03-09T15:57:59.9784706+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:58:07.3516935+00:00",
-  "LastUpdate_Ratings": "2024-03-09T14:01:12.7806569+00:00",
+  "LastUpdate_Ratings": "2024-03-09T15:57:59.9784715+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:51.8203068+00:00"
 }
