@@ -5,8 +5,8 @@ Rating: 4.90 (Ranked 8)
 Number of Ratings: 726  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 20  (Ranked 607)  
-Sum: 40 (Ranked 553)  
-Diff (max vs sum): 54  
+Sum: 40 (Ranked 554)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 20 |

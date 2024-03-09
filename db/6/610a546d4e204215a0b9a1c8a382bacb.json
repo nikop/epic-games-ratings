@@ -2,8 +2,8 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 98,
-  "Ranking_Popularity": 264,
+  "Ranking_Rating": 112,
+  "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 423,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-11-08T07:59:36.9365658+00:00",
@@ -3967,24 +3967,30 @@
       "Rating": 4.79,
       "NumberOfAwards": 2778,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2024-03-09T19:57:40.7434246+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2790,
+      "NumberOfAwardsMax": 333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2778,
-  "NumberOfAwardsMax": 326,
+  "NumberOfAwards": 2790,
+  "NumberOfAwardsMax": 333,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 282
+      "Count": 285
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 326
+      "Count": 333
     },
     {
       "Text": "This game is Relaxing",
@@ -4008,7 +4014,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 242
+      "Count": 244
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14609,9 +14615,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-03-09T02:08:06.8419796+00:00",
+  "LastChanged": "2024-03-09T19:57:40.7434244+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:54.5703643+00:00",
   "LastUpdate_AppInfo": "2024-03-06T03:57:34.6057675+00:00",
-  "LastUpdate_Ratings": "2024-03-09T17:59:45.5485703+00:00",
+  "LastUpdate_Ratings": "2024-03-09T19:57:40.743425+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:54.5704867+00:00"
 }
