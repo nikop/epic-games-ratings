@@ -4,7 +4,7 @@
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 112,
   "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 579,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 165,
@@ -3055,6 +3055,6 @@
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:52.7803205+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:57:30.6259649+00:00",
-  "LastUpdate_Ratings": "2024-03-09T21:59:29.6512154+00:00",
+  "LastUpdate_Ratings": "2024-03-09T23:01:02.4061574+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:52.7803748+00:00"
 }
