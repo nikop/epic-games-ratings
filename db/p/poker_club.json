@@ -3,7 +3,7 @@
   "Name": "Poker Club",
   "ProductSlug": "poker-club-6e18ee",
   "Ranking_Rating": 1120,
-  "Ranking_Popularity": 484,
+  "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 423,
@@ -1271,11 +1271,17 @@
       "Rating": 3.84,
       "NumberOfAwards": 162,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-03-09T06:57:28.4183054+00:00",
+      "Rating": 3.84,
+      "NumberOfAwards": 163,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 162,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 163,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1288,7 +1294,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has Competitive Players",
@@ -33976,9 +33982,9 @@
   "FirstSeen": "2023-04-27T17:00:42.1303107+00:00",
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
-  "LastChanged": "2024-03-08T08:57:23.908546+00:00",
+  "LastChanged": "2024-03-09T06:57:28.4183051+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:21.3047996+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:06.2761016+00:00",
-  "LastUpdate_Ratings": "2024-03-09T05:00:46.382454+00:00",
+  "LastUpdate_Ratings": "2024-03-09T06:57:28.4183057+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:21.3049375+00:00"
 }
