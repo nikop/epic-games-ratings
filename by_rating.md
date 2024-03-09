@@ -93,7 +93,7 @@
 | 80 | [The Messenger](games/t/the_messenger.md) | 4.81 | 358 | 257 |
 | 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 545 |
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 612 |
-| 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 938 | 178 |
+| 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 942 | 178 |
 | 94 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,515 | 71 |
 | 94 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.80 | 0 | 612 |
 | 94 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 35 | 524 |
@@ -120,7 +120,7 @@
 | 113 | [Quake](games/q/quake.md) | 4.78 | 53 | 472 |
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 612 |
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 549 |
-| 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 10,977 | 42 |
+| 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,053 | 42 |
 | 121 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.77 | 0 | 612 |
 | 121 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 11,989 | 38 |
 | 121 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.77 | 81 | 419 |
@@ -169,7 +169,7 @@
 | 164 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.74 | 35 | 524 |
 | 164 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 35,468 | 17 |
 | 164 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 847 | 189 |
-| 164 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,712 | 50 |
+| 164 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,727 | 50 |
 | 164 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 49,607 | 14 |
 | 164 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 175 | 332 |
 | 164 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 110 | 383 |
@@ -202,28 +202,28 @@
 | 195 | [Pacific Drive](games/p/pacific_drive.md) | 4.72 | 0 | 612 |
 | 195 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 612 |
 | 195 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 371 | 254 |
+| 195 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.72 | 0 | 612 |
 | 195 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 612 |
 | 195 | [The Machines Arena](games/t/the_machines_arena.md) | 4.72 | 0 | 612 |
 | 195 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 612 |
-| 206 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 612 |
-| 206 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 524 |
-| 206 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.71 | 0 | 612 |
-| 206 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.71 | 0 | 612 |
-| 206 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,945 | 57 |
-| 206 | [Remnant II®](games/r/remnant_2.md) | 4.71 | 8,574 | 51 |
-| 206 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 96 | 404 |
-| 206 | [shapez](games/s/shapez.md) | 4.71 | 29 | 554 |
-| 206 | [Slipways](games/s/slipways.md) | 4.71 | 0 | 612 |
-| 206 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 0 | 612 |
-| 206 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 612 |
-| 206 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 612 |
-| 206 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.71 | 0 | 612 |
-| 206 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,436 | 114 |
-| 206 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 0 | 612 |
-| 206 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 612 |
-| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.71 | 0 | 612 |
+| 207 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 612 |
+| 207 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 524 |
+| 207 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.71 | 0 | 612 |
+| 207 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.71 | 0 | 612 |
+| 207 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,945 | 57 |
+| 207 | [Remnant II®](games/r/remnant_2.md) | 4.71 | 8,574 | 51 |
+| 207 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 96 | 404 |
+| 207 | [shapez](games/s/shapez.md) | 4.71 | 29 | 554 |
+| 207 | [Slipways](games/s/slipways.md) | 4.71 | 0 | 612 |
+| 207 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 612 |
+| 207 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 612 |
+| 207 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.71 | 0 | 612 |
+| 207 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,436 | 114 |
+| 207 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 0 | 612 |
+| 207 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 612 |
+| 207 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.71 | 0 | 612 |
 | 223 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.70 | 0 | 612 |
-| 223 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,680 | 88 |
+| 223 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,681 | 88 |
 | 223 | [Coromon](games/c/coromon.md) | 4.70 | 49 | 484 |
 | 223 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.70 | 0 | 612 |
 | 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 609 | 216 |
@@ -244,7 +244,7 @@
 | 223 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 232 | 297 |
 | 223 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 612 |
 | 244 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 612 |
-| 244 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 129,094 | 9 |
+| 244 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 129,180 | 9 |
 | 244 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 612 |
 | 244 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 612 |
 | 244 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 365 |
@@ -1081,7 +1081,7 @@
 | 1,079 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 612 |
 | 1,080 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 612 |
 | 1,080 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 7,925 | 58 |
-| 1,080 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,057 | 85 |
+| 1,080 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,060 | 85 |
 | 1,080 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 4.00 | 0 | 612 |
 | 1,080 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 612 |
 | 1,085 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 383 | 252 |
