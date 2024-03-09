@@ -5,21 +5,21 @@ Rating: 4.45 (Ranked 708)
 Number of Ratings: 14,652  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 13,602  (Ranked 34)  
-Sum: 105,070 (Ranked 19)  
+Sum: 105,105 (Ranked 19)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 13,602 |
-| This game has Competitive Players | 11,099 |
+| This game has Competitive Players | 11,108 |
 | This game is Relaxing | 11,099 |
 | This game has Diverse Characters | 10,615 |
 | This game has Quickly Understood Controls | 10,304 |
 | This game is Extremely Fun | 9,714 |
-| This game is Highly Recommended | 9,343 |
-| This game has Challenging Combat | 8,140 |
+| This game is Highly Recommended | 9,355 |
+| This game has Challenging Combat | 8,144 |
 | This game has Amazing Characters | 7,433 |
 | This game has Amazing Storytelling | 6,892 |
-| This game has a Competitive Community | 6,829 |
+| This game has a Competitive Community | 6,839 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -435,4 +435,4 @@ Diff (max vs sum): 15
 | 2024-03-06 | 4.45 | - | 13,560 | 104,852 |
 | 2024-03-07 | 4.45 | - | 13,574 | 104,932 |
 | 2024-03-08 | 4.45 | - | 13,587 | 105,021 |
-| 2024-03-09 | 4.45 | - | 13,602 | 105,070 |
+| 2024-03-09 | 4.45 | - | 13,602 | 105,105 |
