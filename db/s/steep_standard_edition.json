@@ -2,7 +2,7 @@
   "ID": "a646020cb93b4ea995cda70647bbe001",
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
-  "Ranking_Rating": 223,
+  "Ranking_Rating": 208,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 414,
   "RatingHistory": [
     {
@@ -795,6 +795,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 212,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-03-09T22:00:08.3511886+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 212,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -874,8 +880,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-03-09T20:58:34.009593+00:00",
+  "LastChanged": "2024-03-09T22:00:08.3511884+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:57:51.6656048+00:00",
-  "LastUpdate_Ratings": "2024-03-09T20:58:34.0095934+00:00",
+  "LastUpdate_Ratings": "2024-03-09T22:00:08.3511889+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.5991533+00:00"
 }
