@@ -3,7 +3,7 @@
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
   "Ranking_Rating": 548,
-  "Ranking_Popularity": 143,
+  "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -11473,11 +11473,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 12352,
       "NumberOfAwardsMax": 1516
+    },
+    {
+      "Time": "2024-03-08T23:58:44.8796007+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 12355,
+      "NumberOfAwardsMax": 1519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12352,
-  "NumberOfAwardsMax": 1516,
+  "NumberOfAwards": 12355,
+  "NumberOfAwardsMax": 1519,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -11508,7 +11514,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1516
+      "Count": 1519
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11552,8 +11558,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2024-03-08T19:58:06.760081+00:00",
+  "LastChanged": "2024-03-08T23:58:44.8796003+00:00",
   "LastUpdate_AppInfo": "2024-03-03T08:57:21.3616291+00:00",
-  "LastUpdate_Ratings": "2024-03-08T22:57:15.9510313+00:00",
+  "LastUpdate_Ratings": "2024-03-08T23:58:44.8796011+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:14.1996405+00:00"
 }
