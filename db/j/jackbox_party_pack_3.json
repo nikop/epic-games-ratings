@@ -3,8 +3,8 @@
   "Name": "Jackbox Party Pack 3",
   "ProductSlug": "jackbox-party-pack-3",
   "Ranking_Rating": 2,
-  "Ranking_Popularity": 611,
-  "Ranking_PopularitySum": 611,
+  "Ranking_Popularity": 612,
+  "Ranking_PopularitySum": 612,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -73,6 +73,6 @@
   "FirstSeenRating": "2022-10-04T19:03:12.7540662+00:00",
   "LastChanged": "2024-01-09T14:58:51.2868136+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:12.535229+00:00",
-  "LastUpdate_Ratings": "2024-03-09T01:35:14.797645+00:00",
+  "LastUpdate_Ratings": "2024-03-09T02:10:29.3734665+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:21.9446351+00:00"
 }
