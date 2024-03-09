@@ -548,7 +548,7 @@
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 33 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 19 | - | - |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 50,602 | 4.50 | 10,926 |
-| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 553,980 | 3.84 | 49 |
+| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 553,980 | 3.84 | 50 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 2,937 | 4.47 | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,003 | - | 0 |
 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 2023-04-27 | 40 (1,000 XP) | 157 | - | 0 |
@@ -675,7 +675,7 @@
 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 2022-12-12 | 124 (1,000 XP) | 78 | - | 0 |
 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 2022-12-08 | 72 (1,000 XP) | 352,130 | 4.40 | 555 |
 | [IXION](games/i/ixion.md) | 2022-12-07 | 57 (1,050 XP) | 4,388 | 4.60 | 0 |
-| [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 4,195 | 4.40 | 0 |
+| [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 4,195 | 4.38 | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 260 | 4.30 | 0 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 921,340 | 4.00 | 7,925 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 23,282 | 4.22 | 158 |
