@@ -22763,10 +22763,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 781973,
       "NumberOfAwardsMax": 289650
+    },
+    {
+      "Time": "2024-03-09T03:57:42.0716443+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 782088,
+      "NumberOfAwardsMax": 289650
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 781973,
+  "NumberOfAwards": 782088,
   "NumberOfAwardsMax": 289650,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -22798,7 +22804,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 33280
+      "Count": 33395
     },
     {
       "Text": "This game is Educational",
@@ -22866,8 +22872,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-03-08T23:57:16.5755049+00:00",
+  "LastChanged": "2024-03-09T03:57:42.0716441+00:00",
   "LastUpdate_AppInfo": "2024-03-03T06:57:18.8556799+00:00",
-  "LastUpdate_Ratings": "2024-03-09T02:10:18.1317436+00:00",
+  "LastUpdate_Ratings": "2024-03-09T03:57:42.0716449+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:04.5007869+00:00"
 }

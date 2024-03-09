@@ -9403,10 +9403,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 89771,
       "NumberOfAwardsMax": 11845
+    },
+    {
+      "Time": "2024-03-09T03:57:13.9458168+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 89772,
+      "NumberOfAwardsMax": 11845
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89771,
+  "NumberOfAwards": 89772,
   "NumberOfAwardsMax": 11845,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -9462,7 +9468,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 6840
+      "Count": 6841
     }
   ],
   "EOS_Progressed": 0,
@@ -9476,8 +9482,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2024-03-08T17:58:43.7447625+00:00",
+  "LastChanged": "2024-03-09T03:57:13.9458166+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:58:57.2154774+00:00",
-  "LastUpdate_Ratings": "2024-03-09T02:09:38.9054896+00:00",
+  "LastUpdate_Ratings": "2024-03-09T03:57:13.9458173+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:09.9241012+00:00"
 }
