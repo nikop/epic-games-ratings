@@ -136,7 +136,7 @@
 | 121 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 0 | 613 |
 | 121 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 613 |
 | 136 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 24 | 585 |
-| 136 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,986 | 25 |
+| 136 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,999 | 25 |
 | 136 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,519 | 104 |
 | 136 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,256 | 152 |
 | 136 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,587 | 70 |
@@ -524,7 +524,7 @@
 | 509 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,017 | 21 |
 | 509 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 24 | 585 |
 | 524 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.56 | 79 | 424 |
-| 524 | [Among Us](games/a/among_us.md) | 4.56 | 3,196 | 107 |
+| 524 | [Among Us](games/a/among_us.md) | 4.56 | 3,202 | 107 |
 | 524 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 51 | 481 |
 | 524 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.56 | 67 | 448 |
 | 524 | [Costume Quest](games/c/costume_quest.md) | 4.56 | 0 | 613 |
@@ -734,7 +734,7 @@
 | 728 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 271 | 286 |
 | 728 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 66 | 450 |
 | 728 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.44 | 127 | 370 |
-| 728 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 316 | 268 |
+| 728 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 317 | 267 |
 | 728 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 613 |
 | 728 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 379 |
 | 728 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,715 | 31 |
@@ -845,6 +845,7 @@
 | 840 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.36 | 0 | 613 |
 | 840 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 0 | 613 |
 | 840 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.36 | 106 | 389 |
+| 840 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.36 | 68 | 446 |
 | 840 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 613 |
 | 840 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 567 |
 | 840 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 32 | 541 |
@@ -853,16 +854,15 @@
 | 840 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 613 |
 | 840 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 0 | 613 |
 | 840 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 158 | 347 |
-| 854 | [Core](games/c/core.md) | 4.35 | 799 | 195 |
-| 854 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.35 | 0 | 613 |
-| 854 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.35 | 0 | 613 |
-| 854 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 613 |
-| 854 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.35 | 0 | 613 |
-| 854 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 209 | 311 |
-| 854 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 613 |
-| 854 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 613 |
-| 854 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.35 | 68 | 446 |
-| 854 | [Torchlight](games/t/torchlight.md) | 4.35 | 25 | 579 |
+| 855 | [Core](games/c/core.md) | 4.35 | 799 | 195 |
+| 855 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.35 | 0 | 613 |
+| 855 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.35 | 0 | 613 |
+| 855 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 613 |
+| 855 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.35 | 0 | 613 |
+| 855 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 209 | 311 |
+| 855 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 613 |
+| 855 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 613 |
+| 855 | [Torchlight](games/t/torchlight.md) | 4.35 | 25 | 579 |
 | 864 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 613 |
 | 864 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 567 |
 | 864 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 613 |

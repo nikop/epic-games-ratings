@@ -24,7 +24,7 @@
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,702 | 4.26 | 944 |
 | 23 | [Warframe](games/w/warframe.md) | 22,060 | 4.61 | 406 |
 | 24 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,022 | 4.60 | 440 |
-| 25 | [Borderlands 2](games/b/borderlands_2.md) | 16,986 | 4.76 | 136 |
+| 25 | [Borderlands 2](games/b/borderlands_2.md) | 16,999 | 4.76 | 136 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 16,178 | 4.87 | 21 |
 | 27 | [SnowRunner](games/s/snowrunner.md) | 15,763 | 4.75 | 149 |
 | 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,363 | 4.60 | 440 |
@@ -106,7 +106,7 @@
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,519 | 4.76 | 136 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,406 | 4.18 | 1,011 |
 | 106 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 3,405 | 4.62 | 391 |
-| 107 | [Among Us](games/a/among_us.md) | 3,196 | 4.56 | 524 |
+| 107 | [Among Us](games/a/among_us.md) | 3,202 | 4.56 | 524 |
 | 108 | [RAGE 2](games/r/rage_2.md) | 3,016 | 4.27 | 938 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,888 | 4.62 | 391 |
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,838 | 4.79 | 98 |
@@ -194,7 +194,7 @@
 | 192 | [Subnautica](games/s/subnautica.md) | 822 | 4.85 | 39 |
 | 193 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 815 | 4.60 | 440 |
 | 194 | [Neverwinter](games/n/neverwinter.md) | 813 | 4.29 | 910 |
-| 195 | [Core](games/c/core.md) | 799 | 4.35 | 854 |
+| 195 | [Core](games/c/core.md) | 799 | 4.35 | 855 |
 | 196 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 787 | 4.87 | 21 |
 | 197 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 783 | 4.59 | 461 |
 | 198 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 765 | 4.68 | 273 |
@@ -266,8 +266,8 @@
 | 264 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 326 | 4.79 | 98 |
 | 265 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 325 | 4.39 | 807 |
 | 266 | [MudRunner](games/m/mudrunner.md) | 323 | 4.61 | 406 |
+| 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 317 | 4.44 | 728 |
 | 267 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 317 | 4.82 | 70 |
-| 268 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 316 | 4.44 | 728 |
 | 269 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 313 | 4.55 | 548 |
 | 270 | [Overcooked! 2](games/o/overcooked!_2.md) | 308 | 4.70 | 223 |
 | 271 | [Diabotical](games/d/diabotical.md) | 306 | 4.73 | 178 |
@@ -310,7 +310,7 @@
 | 308 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 214 | 4.58 | 479 |
 | 309 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 212 | 4.52 | 596 |
 | 309 | [The Riftbreaker](games/t/the_riftbreaker.md) | 212 | 4.76 | 136 |
-| 311 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 209 | 4.35 | 854 |
+| 311 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 209 | 4.35 | 855 |
 | 311 | [Star Stable Online](games/s/star_stable_online.md) | 209 | 4.40 | 790 |
 | 313 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 207 | 4.25 | 952 |
 | 314 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 206 | 4.22 | 979 |
@@ -446,7 +446,7 @@
 | 442 | [Session: Skate Sim](games/s/session__skate_sim.md) | 71 | 4.68 | 273 |
 | 445 | [Symphony of War](games/s/symphony_of_war.md) | 69 | 4.65 | 332 |
 | 446 | [Art of Rally](games/a/art_of_rally_1.md) | 68 | 4.63 | 370 |
-| 446 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 68 | 4.35 | 854 |
+| 446 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 68 | 4.36 | 840 |
 | 448 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 67 | 4.56 | 524 |
 | 448 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 67 | 4.82 | 70 |
 | 450 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 66 | 4.44 | 728 |
@@ -582,7 +582,7 @@
 | 579 | [Nightingale](games/n/nightingale.md) | 25 | 4.26 | 944 |
 | 579 | [Solar Ash](games/s/solar_ash.md) | 25 | 4.65 | 332 |
 | 579 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 25 | 4.55 | 548 |
-| 579 | [Torchlight](games/t/torchlight.md) | 25 | 4.35 | 854 |
+| 579 | [Torchlight](games/t/torchlight.md) | 25 | 4.35 | 855 |
 | 579 | [Yooka-Laylee](games/y/yooka-laylee.md) | 25 | 4.25 | 952 |
 | 585 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 24 | 4.76 | 136 |
 | 585 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 24 | 4.88 | 16 |
