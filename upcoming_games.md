@@ -87,6 +87,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-05-31 | - |  | - | - |
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-05-31 | - |  | - | - |
+| [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-31 | - |  | - | - |
 | [F1® 24 Standard Edition](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2024-06-04 | - |  | - | - |
 | [A Game´s Tale](games/1/1001579a7cb24f058683043aca87f987.md) | 2024-06-07 | - |  | - | - |
@@ -295,7 +296,6 @@
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2099-01-01 | - |  | - | - |
 | [CyberCorp](games/2/2c0b31e23e2c4d0396802d4561940177.md) | 2099-01-01 | - |  | - | - |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | - |  | - | - |
-| [Dark Journey:The Fate of the Demon King](games/b/b66a599ae2d043bca00413e67f1cc841.md) | 2099-01-01 | - |  | - | - |
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [DeadPoly](games/7/70de45f56cbe43b3ae198624dd9f032f.md) | 2099-01-01 | - |  | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2099-01-01 | - |  | - | - |
