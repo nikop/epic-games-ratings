@@ -381,7 +381,7 @@
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 132 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 807,749 | 4.54 | 1,070 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 542,728 | 4.58 | 214 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 542,728 | 4.58 | 215 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 43 | - | 0 |
 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 417 | - | 0 |
@@ -574,7 +574,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 49 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 89 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 32 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,596,050 | 4.37 | 1,451 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,596,050 | 4.37 | 1,456 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,428 | - | 0 |
@@ -785,7 +785,7 @@
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 36,241 | 4.21 | 129 |
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 729 | 4.58 | 132 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 263 | 4.44 | 0 |
-| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 37,867,330 | 4.51 | 157,316 |
+| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 37,867,330 | 4.51 | 157,391 |
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 1,256 | 4.53 | 0 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 5,281 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,481 | 4.74 | 110 |
@@ -923,7 +923,7 @@
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 45,012 | 4.58 | 227 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 47 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,572,170 | 4.46 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 558 (2,790 XP) | 258,641 | 4.07 | 5,905 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 558 (2,790 XP) | 258,641 | 4.07 | 5,907 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,068 | 4.73 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 369,167 | - | 0 |

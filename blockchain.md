@@ -51,7 +51,7 @@
 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.51 | 0 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | - |
 | [Arkbound-アークバウンド-](games/9/9fd854316dca49c6bdd72da6c287e81b.md) | 2024-02-08 | - |  | - | 0 |
-| [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | 3.43 | 55 |
+| [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | 3.43 | 69 |
 | [Awaken](games/8/879a4b6564b4491e9f523c634d181756.md) | 2024-02-05 | - |  | - | 0 |
 | [Bladerite](games/7/7e5f7d87c17c4e68b5e200306aa46344.md) | 2024-02-01 | - |  | - | 0 |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | 0 |
@@ -102,7 +102,7 @@
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 2023-06-27 | - |  | 4.50 | 0 |
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.33 | 23 |
-| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.77 | 0 |
+| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.78 | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.58 | 0 |
 | [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.61 | 0 |
