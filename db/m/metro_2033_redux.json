@@ -2,7 +2,7 @@
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
   "ProductSlug": "metro-2033-redux",
-  "Ranking_Rating": 245,
+  "Ranking_Rating": 244,
   "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 896,
@@ -1475,10 +1475,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 1441,
       "NumberOfAwardsMax": 1271
+    },
+    {
+      "Time": "2024-03-09T03:01:15.6978452+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1442,
+      "NumberOfAwardsMax": 1271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1441,
+  "NumberOfAwards": 1442,
   "NumberOfAwardsMax": 1271,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1504,7 +1510,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1542,8 +1548,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2024-03-07T18:57:05.5056498+00:00",
+  "LastChanged": "2024-03-09T03:01:15.6978451+00:00",
   "LastUpdate_AppInfo": "2024-03-02T23:57:04.8095883+00:00",
-  "LastUpdate_Ratings": "2024-03-09T02:09:08.09144+00:00",
+  "LastUpdate_Ratings": "2024-03-09T03:01:15.6978455+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:11.3179547+00:00"
 }
