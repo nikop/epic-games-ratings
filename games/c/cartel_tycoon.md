@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.35 (Ranked 853)  
+Rating: 4.36 (Ranked 840)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -323,3 +323,4 @@ Completed: 3 (0.28%) (Ranked 280)
 | 2024-01-05 | 4.37 | - | 0 | 0 |
 | 2024-01-17 | 4.38 | - | 0 | 0 |
 | 2024-01-21 | 4.35 | - | 0 | 0 |
+| 2024-03-09 | 4.36 | - | 0 | 0 |
