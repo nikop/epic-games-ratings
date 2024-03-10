@@ -2,9 +2,9 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 450,
+  "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 165,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 43,
   "RatingHistory": [
     {
@@ -675,10 +675,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 182,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-03-10T10:58:37.764918+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 183,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 182,
+  "NumberOfAwards": 183,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -722,7 +728,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 116026,
@@ -33694,9 +33700,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-03-08T13:57:04.0539703+00:00",
+  "LastChanged": "2024-03-10T10:58:37.7649178+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.8705545+00:00",
   "LastUpdate_AppInfo": "2024-03-03T10:58:08.1725344+00:00",
-  "LastUpdate_Ratings": "2024-03-10T09:00:58.3006624+00:00",
+  "LastUpdate_Ratings": "2024-03-10T10:58:37.7649183+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.8707038+00:00"
 }

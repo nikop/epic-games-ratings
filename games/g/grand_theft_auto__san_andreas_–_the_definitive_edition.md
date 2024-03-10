@@ -326,13 +326,13 @@ Completed: 96 (0.47%) (Ranked 243)
 | 2024-01-27 | 19,880 | 84 |
 | 2024-02-22 | 20,425 | 96 |
 ## Awards
-Max (Highly Recommended): 94  (Ranked 407)  
-Sum: 633 (Ranked 335)  
-Diff (max vs sum): 72  
+Max (Highly Recommended): 95  (Ranked 406)  
+Sum: 634 (Ranked 335)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 768 |
-| This game is Highly Recommended | 94 |
+| This game is Highly Recommended | 95 |
 | This game is Great for Beginners | 84 |
 | This game has Amazing Storytelling | 82 |
 | This game is Relaxing | 81 |
@@ -630,3 +630,4 @@ Diff (max vs sum): 72
 | 2024-03-07 | 4.56 | 93 | 628 |
 | 2024-03-08 | 4.56 | 94 | 631 |
 | 2024-03-09 | 4.56 | 94 | 633 |
+| 2024-03-10 | 4.56 | 95 | 634 |
