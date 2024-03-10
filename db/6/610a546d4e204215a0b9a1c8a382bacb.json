@@ -2,7 +2,7 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 112,
+  "Ranking_Rating": 98,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 122,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-11-08T07:59:36.9365658+00:00",
@@ -4007,6 +4007,12 @@
     {
       "Time": "2024-03-10T17:57:30.4410754+00:00",
       "Rating": 4.78,
+      "NumberOfAwards": 2825,
+      "NumberOfAwardsMax": 333
+    },
+    {
+      "Time": "2024-03-10T22:59:21.9091129+00:00",
+      "Rating": 4.79,
       "NumberOfAwards": 2825,
       "NumberOfAwardsMax": 333
     }
@@ -14651,9 +14657,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-03-10T17:57:30.4410752+00:00",
+  "LastChanged": "2024-03-10T22:59:21.9091127+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:54.5703643+00:00",
   "LastUpdate_AppInfo": "2024-03-06T03:57:34.6057675+00:00",
-  "LastUpdate_Ratings": "2024-03-10T21:58:04.0767791+00:00",
+  "LastUpdate_Ratings": "2024-03-10T22:59:21.9091133+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:54.5704867+00:00"
 }

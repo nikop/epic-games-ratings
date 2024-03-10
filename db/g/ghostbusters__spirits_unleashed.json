@@ -3,7 +3,7 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 615,
-  "Ranking_Popularity": 261,
+  "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 294,
@@ -4465,18 +4465,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 3074,
       "NumberOfAwardsMax": 340
+    },
+    {
+      "Time": "2024-03-10T22:58:06.3997462+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 3075,
+      "NumberOfAwardsMax": 341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3074,
-  "NumberOfAwardsMax": 340,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 3075,
+  "NumberOfAwardsMax": 341,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 340
+      "Count": 341
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -27370,9 +27376,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-03-10T17:00:57.4092352+00:00",
+  "LastChanged": "2024-03-10T22:58:06.3997461+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:57.0803681+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:58:04.6351919+00:00",
-  "LastUpdate_Ratings": "2024-03-10T21:01:53.2457293+00:00",
+  "LastUpdate_Ratings": "2024-03-10T22:58:06.3997467+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:57.0804898+00:00"
 }
