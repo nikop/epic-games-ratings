@@ -320,12 +320,12 @@ Completed: 595 (0.28%) (Ranked 280)
 | 2024-01-27 | 209,862 | 571 |
 | 2024-03-04 | 211,697 | 595 |
 ## Awards
-Max (Challenging Puzzles): 593  (Ranked 221)  
-Sum: 739 (Ranked 319)  
+Max (Challenging Puzzles): 594  (Ranked 221)  
+Sum: 740 (Ranked 319)  
 Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 593 |
+| This game features Challenging Puzzles | 594 |
 | This game is Highly Recommended | 28 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Amazing Characters | 26 |
@@ -401,3 +401,4 @@ Diff (max vs sum): -98
 | 2024-02-08 | 4.33 | 591 | 737 |
 | 2024-02-18 | 4.33 | 592 | 738 |
 | 2024-02-20 | 4.33 | 593 | 739 |
+| 2024-03-10 | 4.33 | 594 | 740 |

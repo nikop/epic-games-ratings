@@ -3,6 +3,13 @@
 [View Rawdata](../../db/a/anno_2205_-_standard_edition.json)  
 Rating: 4.49 (Ranked 652)  
 Number of Ratings: 76  (23.09.2022)  
+## Awards
+Max (Great for Beginners): 24  (Ranked 585)  
+Sum: 24 (Ranked 596)  
+Diff (max vs sum): -11  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -95,3 +102,4 @@ Number of Ratings: 76  (23.09.2022)
 | 2024-02-19 | 4.49 | - | 0 | 0 |
 | 2024-03-06 | 4.50 | - | 0 | 0 |
 | 2024-03-08 | 4.49 | - | 0 | 0 |
+| 2024-03-10 | 4.49 | - | 24 | 24 |

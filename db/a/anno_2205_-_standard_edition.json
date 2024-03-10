@@ -3,8 +3,8 @@
   "Name": "Anno 2205 - Standard Edition",
   "ProductSlug": "anno-2205",
   "Ranking_Rating": 652,
-  "Ranking_Popularity": 613,
-  "Ranking_PopularitySum": 613,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 596,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -503,12 +503,26 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-10T06:58:21.5276267+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 24
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -520,8 +534,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:07.0175172+00:00",
-  "LastChanged": "2024-03-08T19:59:19.6711513+00:00",
+  "LastChanged": "2024-03-10T06:58:21.5276265+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:14.2530028+00:00",
-  "LastUpdate_Ratings": "2024-03-10T04:59:11.0774429+00:00",
+  "LastUpdate_Ratings": "2024-03-10T06:58:21.5276269+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:42.1458337+00:00"
 }
