@@ -81,7 +81,7 @@
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 1 | - | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 5 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 27,615 | 4.32 | 0 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 27,615 | 4.33 | 0 |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 278 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2099-01-01 | 25 (1,000 XP) | 0 | - | - |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2099-01-01 | 52 (1,000 XP) | 1 | - | - |
@@ -295,7 +295,7 @@
 | [The Crackpet Show: Happy Tree Friends Edition](games/a/ab4adb59faed46819e63d82b57197b2b.md) | 2023-09-27 | 82 (1,000 XP) | 26 | - | 0 |
 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 2023-09-21 | 80 (1,000 XP) | 416 | 4.50 | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 369,167 | - | 0 |
-| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 11,552 | 4.22 | 213 |
+| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 11,552 | 4.21 | 213 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 3,582 | - | 0 |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 50,602 | 4.50 | 10,961 |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 437,074 | 4.23 | 7,981 |
@@ -331,7 +331,7 @@
 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 2023-10-04 | 47 (1,000 XP) | 101 | - | 0 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-28 | 32 (1,000 XP) | 38 | - | 0 |
 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 2023-09-21 | 9 (1,000 XP) | 108,599 | 4.13 | 0 |
-| [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 2023-09-14 | 38 (1,000 XP) | 9,077 | 4.71 | 0 |
+| [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 2023-09-14 | 38 (1,000 XP) | 9,077 | 4.70 | 0 |
 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2023-09-14 | 12 (1,000 XP) | 119,917 | 4.51 | 0 |
 | [Sweet Dreams Alex](games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 2023-10-16 | 32 (1,000 XP) | 1 | - | 0 |
 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 2023-09-14 | 52 (1,000 XP) | 36 | - | 0 |
