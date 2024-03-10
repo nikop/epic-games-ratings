@@ -4,7 +4,7 @@
   "ProductSlug": "godfall",
   "Ranking_Rating": 1071,
   "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1729,6 +1729,6 @@
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
   "LastChanged": "2024-03-09T02:57:20.2225044+00:00",
   "LastUpdate_AppInfo": "2024-03-03T07:59:09.9266716+00:00",
-  "LastUpdate_Ratings": "2024-03-10T00:02:14.5861559+00:00",
+  "LastUpdate_Ratings": "2024-03-10T02:18:29.7924645+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:57.2226304+00:00"
 }
